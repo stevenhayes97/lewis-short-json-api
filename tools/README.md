@@ -167,6 +167,57 @@ So: keep both if you serve whole entries and also want to query them, which is
 the normal case for an API. Use `--no-raw` if entries are only ever a query
 result, never a response body.
 
+## Reading entries back out: `lookup.py`
+
+`lookup.py` turns rows back into the JSON shape, so your API layer does not
+have to re-derive the sense-tree logic. It speaks plain DB-API 2.0 and detects
+the parameter style, so the same code works on SQLite, PostgreSQL and MySQL
+connections.
+
+```python
+import sqlite3, json
+from lookup import get_entry, get_entries
+
+con = sqlite3.connect("lewis_short.db")
+json.dumps(get_entry(con, "abacus"), ensure_ascii=False)
+```
+
+Keep `ensure_ascii=False` — the text is dense with macrons and Greek, and
+escaping it roughly doubles the payload.
+
+`get_entry(con, key)` returns one entry as a dict, or `None`. It costs three
+queries. Checked against all 51,596 source entries: every one reproduces the
+original JSON exactly, except the 25 that omitted `senses` altogether, which
+come back with an empty list so every response has the same shape.
+
+`get_entries(con, keys)` returns `{key: entry}` for many headwords in three
+queries per 500-key chunk. Missing keys are absent from the result, so the
+caller sets the order:
+
+```python
+found = get_entries(con, hits)
+[found[k] for k in hits if k in found]
+```
+
+How much the batch version buys you depends entirely on round-trip latency:
+
+| | loop of `get_entry` | `get_entries` | |
+| --- | --- | --- | --- |
+| SQLite, 1,200 entries | 49.7 ms | 36.3 ms | 1.4x |
+| PostgreSQL, 50 entries | 21.0 ms | 17.4 ms | 1.2x |
+| PostgreSQL, 1,200 entries | 668.7 ms | 126.0 ms | 5.3x |
+
+SQLite runs in-process, so round trips are nearly free and the batch barely
+matters. The gain shows up with a real connection and grows with the result
+count; against a database on another host, where a round trip costs a
+millisecond rather than a microsecond, a 50-row page is the difference between
+150 round trips and 3. Reach for `get_entries` on any list endpoint, but do not
+expect it to transform a small local query.
+
+If you loaded *with* `raw_json`, whole-entry fetches need none of this:
+`SELECT raw_json FROM entries WHERE entry_key = ?` returns the response body
+already serialized.
+
 ## Getting the JSON back
 
 `raw_json` holds each entry exactly as it appeared, so the files can be
