@@ -246,6 +246,11 @@ def create_schema(db, with_raw):
     indexes = [
         ("idx_entries_type", "entries (entry_type)"),
         ("idx_entries_pos", "entries (part_of_speech)"),
+        # Declension and gender are the obvious morphological filters, and
+        # without these a lookup like "third-declension feminines" degrades to
+        # a full scan of a table made large by raw_json.
+        ("idx_entries_decl_gender", "entries (declension, gender)"),
+        ("idx_entries_gender", "entries (gender)"),
         ("idx_forms_entry", "entry_forms (entry_key)"),
         ("idx_forms_text", "entry_forms (form_text)"),
         ("idx_extra_entry", "entry_extra (entry_key)"),
