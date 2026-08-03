@@ -66,6 +66,8 @@ Four tables. `entry_key` is the original JSON `key`, and it is unique across all
 | `main_notes` | the entry's leading prose |
 | `raw_json` | the original JSON object, verbatim |
 
+Indexed on `entry_type`, `part_of_speech`, `gender`, and `(declension, gender)`.
+
 **`senses`** — 101,654 rows, the nested sense outline flattened.
 
 `parent_sense_id` is NULL at the top level; `ordinal` gives the order among
@@ -116,6 +118,55 @@ JOIN entries e ON e.entry_key = f.entry_key
 WHERE f.form_text = 'ăbax';
 ```
 
+## Performance: should this have been a JSON column?
+
+Short answer: it already is one, alongside the tables. `raw_json` holds each
+entry as JSON, so if your API serves whole entries you can return that string
+directly and skip reassembly entirely. You do not have to choose.
+
+Measured on this data — 51,596 entries, best of several warm runs.
+
+**Fetching one whole entry.** On SQLite, reading `raw_json` and returning it
+is 5.8x faster than rebuilding the entry from the tables, because there is no
+round trip to hide the work behind:
+
+| | ms/entry |
+| --- | --- |
+| `raw_json`, returned as-is | 0.006 |
+| `raw_json`, parsed into a dict | 0.012 |
+| rebuilt from the normalized tables | 0.038 |
+
+On PostgreSQL the same three land at 0.092 / 0.108 / 0.118 ms. The gap nearly
+vanishes: the client round trip dominates, so the storage format barely
+matters. Note the middle column — a `jsonb` column measured *slower* than
+`text` for plain fetching (0.108 vs 0.092), because Postgres re-serializes
+`jsonb` on output. `jsonb` earns its keep only when you query inside it.
+
+**Filtering.** With the right index, typed columns and `jsonb` tie:
+
+| | ms/query |
+| --- | --- |
+| typed columns, `(declension, gender)` index | 3.15 |
+| `jsonb` with a matching expression index | 3.14 |
+| `jsonb` with a GIN index | 6.21 |
+| `jsonb`, no index | 48.0 |
+
+The tie holds only if you build an expression index per field you filter on.
+Miss one and you are at the bottom row.
+
+**Searching sense text** is where the normalized tables clearly win —
+substring search over `senses` is 51 ms against 239 ms for scanning whole JSON
+documents as text, because the sense rows are far smaller than the documents
+containing them.
+
+**What `raw_json` costs.** It inflates the `entries` heap from 5 MB to 24 MB on
+PostgreSQL, which makes any sequential scan of that table roughly 50% slower.
+If you never fetch whole entries, `--no-raw` is the better trade.
+
+So: keep both if you serve whole entries and also want to query them, which is
+the normal case for an API. Use `--no-raw` if entries are only ever a query
+result, never a response body.
+
 ## Getting the JSON back
 
 `raw_json` holds each entry exactly as it appeared, so the files can be
@@ -158,5 +209,6 @@ separately, if at all.
 
 The load, verify, export and wipe paths were each run end to end against SQLite
 and PostgreSQL 16, on all 51,596 entries, with the export confirmed identical to
-the source files. The MySQL path is written to the same interface but was not
+the source files. The benchmark numbers above come from the same two engines on
+the same data. The MySQL path is written to the same interface but was not
 exercised against a live server.
