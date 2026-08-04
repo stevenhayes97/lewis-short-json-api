@@ -1,0 +1,54 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/responses/english_sentence.json",
+  "title": "EnglishSentenceTranslationResponse",
+  "description": "Latin → English sentence response. Placeholder until the agent path is defined. results is always an array.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["translation_type", "latin_sentence", "results"],
+  "properties": {
+    "translation_type": {
+      "const": "english_sentence"
+    },
+    "latin_sentence": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Echo of the requested Latin sentence."
+    },
+    "results": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/english_sentence_result"
+      }
+    }
+  },
+  "$defs": {
+    "english_sentence_result": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["english_sentence", "summary"],
+      "properties": {
+        "english_sentence": {
+          "type": "string",
+          "minLength": 1
+        },
+        "summary": {
+          "type": "string",
+          "description": "Optional learning blurb. Empty string until filled (often by an agent later)."
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "translation_type": "english_sentence",
+      "latin_sentence": "Canis currit.",
+      "results": [
+        {
+          "english_sentence": "The dog runs.",
+          "summary": ""
+        }
+      ]
+    }
+  ]
+}
