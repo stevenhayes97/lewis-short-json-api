@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/requests/latin_word.json",
+  "title": "LatinWordTranslationRequest",
+  "description": "English word → Latin word lookup.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["translation_type", "english_word"],
+  "properties": {
+    "translation_type": {
+      "const": "latin_word"
+    },
+    "english_word": {
+      "type": "string",
+      "minLength": 1,
+      "description": "English lemma or surface form to translate."
+    }
+  },
+  "examples": [
+    {
+      "translation_type": "latin_word",
+      "english_word": "dog"
+    }
+  ]
+}

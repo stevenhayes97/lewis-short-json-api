@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/requests/english_sentence.json",
+  "title": "EnglishSentenceTranslationRequest",
+  "description": "Latin sentence → English sentence (agent-assisted later).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["translation_type", "latin_sentence"],
+  "properties": {
+    "translation_type": {
+      "const": "english_sentence"
+    },
+    "latin_sentence": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Latin sentence to translate."
+    }
+  },
+  "examples": [
+    {
+      "translation_type": "english_sentence",
+      "latin_sentence": "Canis currit."
+    }
+  ]
+}

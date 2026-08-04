@@ -13,6 +13,9 @@ Python + FastAPI. No HTTP routes yet — just config, a database session helper,
 and a `translate()` service that looks up Latin or English words and returns
 matching entries.
 
+Request/response contracts live under [`json-schemas/`](json-schemas/README.md)
+(`requests/` and `responses/` for each `translation_type`).
+
 ```
 python -m venv .venv
 source .venv/bin/activate          # Windows: .venv\Scripts\activate
