@@ -1,0 +1,125 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/responses/latin_word.json",
+  "title": "LatinWordTranslationResponse",
+  "description": "English → Latin word response. results is always an array (empty if no matches).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["translation_type", "english_word", "results"],
+  "properties": {
+    "translation_type": {
+      "const": "latin_word"
+    },
+    "english_word": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Echo of the requested English word."
+    },
+    "results": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/latin_noun_result"
+      }
+    }
+  },
+  "$defs": {
+    "case_forms": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "nominative",
+        "genitive",
+        "dative",
+        "accusative",
+        "ablative",
+        "vocative"
+      ],
+      "properties": {
+        "nominative": { "type": "string", "minLength": 1 },
+        "genitive": { "type": "string", "minLength": 1 },
+        "dative": { "type": "string", "minLength": 1 },
+        "accusative": { "type": "string", "minLength": 1 },
+        "ablative": { "type": "string", "minLength": 1 },
+        "vocative": { "type": "string", "minLength": 1 }
+      }
+    },
+    "latin_noun_result": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "latin_word",
+        "part_of_speech",
+        "gender",
+        "declension",
+        "word_stem",
+        "cases_singular",
+        "cases_plural",
+        "summary"
+      ],
+      "properties": {
+        "latin_word": {
+          "type": "string",
+          "minLength": 1
+        },
+        "part_of_speech": {
+          "const": "noun",
+          "description": "Noun result shape. Other parts of speech will use sibling schemas later."
+        },
+        "gender": {
+          "type": "string",
+          "enum": ["masculine", "feminine", "neuter", "common"]
+        },
+        "declension": {
+          "type": "string",
+          "enum": ["1st", "2nd", "3rd", "4th", "5th"]
+        },
+        "word_stem": {
+          "type": "string",
+          "minLength": 1
+        },
+        "cases_singular": {
+          "$ref": "#/$defs/case_forms"
+        },
+        "cases_plural": {
+          "$ref": "#/$defs/case_forms"
+        },
+        "summary": {
+          "type": "string",
+          "description": "Optional learning blurb. Empty string until filled (often by an agent later)."
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "translation_type": "latin_word",
+      "english_word": "dog",
+      "results": [
+        {
+          "latin_word": "Canis",
+          "part_of_speech": "noun",
+          "gender": "common",
+          "declension": "3rd",
+          "word_stem": "Can",
+          "cases_singular": {
+            "nominative": "Canis",
+            "genitive": "Canis",
+            "dative": "Cani",
+            "accusative": "Canem",
+            "ablative": "Cane",
+            "vocative": "Canis"
+          },
+          "cases_plural": {
+            "nominative": "Canes",
+            "genitive": "Canium",
+            "dative": "Canibus",
+            "accusative": "Canes",
+            "ablative": "Canibus",
+            "vocative": "Canes"
+          },
+          "summary": ""
+        }
+      ]
+    }
+  ]
+}

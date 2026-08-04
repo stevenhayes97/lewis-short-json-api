@@ -1,0 +1,60 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/responses/english_word.json",
+  "title": "EnglishWordTranslationResponse",
+  "description": "Latin → English word response. results is always an array (empty if no matches).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["translation_type", "latin_word", "results"],
+  "properties": {
+    "translation_type": {
+      "const": "english_word"
+    },
+    "latin_word": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Echo of the requested Latin word."
+    },
+    "results": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/english_word_result"
+      }
+    }
+  },
+  "$defs": {
+    "english_word_result": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["english_word", "part_of_speech", "summary"],
+      "properties": {
+        "english_word": {
+          "type": "string",
+          "minLength": 1
+        },
+        "part_of_speech": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Lowercase part of speech label, e.g. noun, verb, adjective."
+        },
+        "summary": {
+          "type": "string",
+          "description": "Optional learning blurb. Empty string until filled (often by an agent later)."
+        }
+      }
+    }
+  },
+  "examples": [
+    {
+      "translation_type": "english_word",
+      "latin_word": "canis",
+      "results": [
+        {
+          "english_word": "dog",
+          "part_of_speech": "noun",
+          "summary": ""
+        }
+      ]
+    }
+  ]
+}

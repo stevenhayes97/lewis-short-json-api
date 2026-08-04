@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/requests/translation.json",
+  "title": "TranslationRequest",
+  "description": "Generic inbound translation request. Discriminated by translation_type.",
+  "oneOf": [
+    { "$ref": "latin_word.json" },
+    { "$ref": "english_word.json" },
+    { "$ref": "latin_sentence.json" },
+    { "$ref": "english_sentence.json" }
+  ]
+}
