@@ -14,12 +14,20 @@
       "type": "string",
       "minLength": 1,
       "description": "Latin lemma or surface form to translate."
+    },
+    "definition_mode": {
+      "$ref": "../common/definition_mode.json#/$defs/definition_mode"
     }
   },
   "examples": [
     {
       "translation_type": "english_word",
       "latin_word": "canis"
+    },
+    {
+      "translation_type": "english_word",
+      "latin_word": "amo",
+      "definition_mode": "simplified"
     }
   ]
 }

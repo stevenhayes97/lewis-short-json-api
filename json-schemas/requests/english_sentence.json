@@ -14,6 +14,10 @@
       "type": "string",
       "minLength": 1,
       "description": "Latin sentence to translate."
+    },
+    "definition_mode": {
+      "$ref": "../common/definition_mode.json#/$defs/definition_mode",
+      "description": "When word-level dictionary material is included alongside the sentence translation, controls how many sense glosses are attached per headword."
     }
   },
   "examples": [
