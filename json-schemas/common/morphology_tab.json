@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/common/morphology_tab.json",
+  "title": "MorphologyTab",
+  "description": "Lemma metadata from Lewis & Short plus optional generated declension/conjugation tables (morphology.paradigm).",
+  "$defs": {
+    "morphology_tab": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "headword": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Dictionary entry key (lemma)."
+        },
+        "title_orthography": {
+          "type": "string",
+          "description": "Display orthography when it differs from headword."
+        },
+        "title_genitive": {
+          "type": "string",
+          "description": "Genitive ending or full genitive form from the dictionary headword line."
+        },
+        "gender": {
+          "type": "string",
+          "description": "Gender code from Lewis & Short (e.g. M, F, N)."
+        },
+        "declension": {
+          "type": ["integer", "null"],
+          "description": "Declension/conjugation class number when given."
+        },
+        "alternative_orthography": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 }
+        },
+        "alternative_genative": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "description": "Spelling matches the source JSON field name (alternative_genative)."
+        },
+        "lemma_line": {
+          "type": "string",
+          "description": "Dictionary lemma line (main_notes header: principal parts, etc.)."
+        },
+        "paradigm": {
+          "$ref": "../paradigm_tables.json#/$defs/paradigm",
+          "description": "Full declension or conjugation grids when generated. Safe for clients to hide behind a collapsed section."
+        }
+      }
+    }
+  }
+}

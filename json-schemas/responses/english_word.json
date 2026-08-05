@@ -2,10 +2,10 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/responses/english_word.json",
   "title": "EnglishWordTranslationResponse",
-  "description": "Latin → English word response. results is always an array (empty if no matches).",
+  "description": "Latin → English word response. Default layout: brief_glosses (most common senses first), then definitions (full list), then morphology (optional paradigm tables) and connections.",
   "type": "object",
   "additionalProperties": false,
-  "required": ["translation_type", "latin_word", "definition_mode", "results"],
+  "required": ["translation_type", "latin_word", "definition_mode", "include_paradigms", "results"],
   "properties": {
     "translation_type": {
       "const": "english_word"
@@ -17,7 +17,11 @@
     },
     "definition_mode": {
       "$ref": "../common/definition_mode.json#/$defs/definition_mode",
-      "description": "Effective mode used to build results (defaults to full when omitted on the request)."
+      "description": "Effective mode used to build results (defaults to both when omitted on the request)."
+    },
+    "include_paradigms": {
+      "$ref": "../common/include_paradigms.json#/$defs/include_paradigms",
+      "description": "Whether paradigm tables were requested (defaults to true when omitted)."
     },
     "results": {
       "type": "array",
@@ -30,28 +34,50 @@
     "english_word_result": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["english_word", "part_of_speech", "summary", "definitions"],
+      "required": [
+        "english_word",
+        "part_of_speech",
+        "summary",
+        "brief_glosses",
+        "definitions",
+        "morphology",
+        "connections"
+      ],
       "properties": {
         "english_word": {
           "type": "string",
           "minLength": 1,
-          "description": "Primary English gloss (often the first sense)."
+          "description": "Primary English gloss (typically the first brief gloss)."
         },
         "part_of_speech": {
           "type": "string",
           "minLength": 1,
-          "description": "Lowercase part of speech label, e.g. noun, verb, adjective."
+          "description": "Part of speech label from Lewis & Short."
         },
         "summary": {
           "type": "string",
           "description": "Optional learning blurb. Empty string until filled (often by an agent later)."
         },
+        "brief_glosses": {
+          "type": "array",
+          "description": "Most common translation hits first (from the opening Lewis & Short senses). Empty when definition_mode is full.",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
         "definitions": {
           "type": "array",
-          "description": "Lewis & Short sense material for this headword. Length is capped in simplified mode.",
+          "description": "Complete sense list below brief_glosses when definition_mode is both. Empty when definition_mode is brief.",
           "items": {
             "$ref": "#/$defs/sense_node"
           }
+        },
+        "morphology": {
+          "$ref": "../common/morphology_tab.json#/$defs/morphology_tab"
+        },
+        "connections": {
+          "$ref": "../common/connections_tab.json#/$defs/connections_tab"
         }
       }
     },
@@ -70,30 +96,70 @@
     {
       "translation_type": "english_word",
       "latin_word": "canis",
-      "definition_mode": "full",
+      "definition_mode": "both",
+      "include_paradigms": true,
       "results": [
         {
           "english_word": "dog",
           "part_of_speech": "noun",
           "summary": "",
-          "definitions": ["A dog; a hound."]
+          "brief_glosses": ["dog", "hound"],
+          "definitions": ["A dog; a hound."],
+          "morphology": {
+            "headword": "canis",
+            "title_genitive": "is",
+            "gender": "M.",
+            "declension": 3,
+            "paradigm": {
+              "paradigm_type": "noun",
+              "noun": {
+                "word_stem": "Can",
+                "cases_singular": {
+                  "nominative": "Canis",
+                  "genitive": "Canis",
+                  "dative": "Cani",
+                  "accusative": "Canem",
+                  "ablative": "Cane",
+                  "vocative": "Canis"
+                },
+                "cases_plural": {
+                  "nominative": "Canes",
+                  "genitive": "Canium",
+                  "dative": "Canibus",
+                  "accusative": "Canes",
+                  "ablative": "Canibus",
+                  "vocative": "Canes"
+                }
+              }
+            }
+          },
+          "connections": {
+            "entry_type": "main",
+            "notes": "…"
+          }
         }
       ]
     },
     {
       "translation_type": "english_word",
       "latin_word": "amo",
-      "definition_mode": "simplified",
+      "definition_mode": "full",
+      "include_paradigms": true,
       "results": [
         {
           "english_word": "love",
-          "part_of_speech": "verb",
+          "part_of_speech": "v. a.",
           "summary": "",
-          "definitions": [
-            "to like, to love …",
-            "In gen.: …",
-            "Esp."
-          ]
+          "brief_glosses": [],
+          "definitions": ["to like, to love …"],
+          "morphology": {
+            "headword": "amo",
+            "lemma_line": "ămo, āvi, ātum, 1, v. a. …"
+          },
+          "connections": {
+            "entry_type": "main",
+            "notes": "…"
+          }
         }
       ]
     }
