@@ -7,6 +7,7 @@ snake_case; controlled-vocabulary values are lowercase.
 json-schemas/
   requests/     inbound bodies
   responses/    outbound bodies (always a `results` array)
+  common/       shared enums and tab shapes
 ```
 
 | `translation_type` | Direction | Unit |
@@ -21,16 +22,25 @@ case tables). Other parts of speech will get their own result shapes later.
 Sentence result items are minimal placeholders until the agent path is defined.
 `summary` is reserved for later (often agent-written) and may be `""`.
 
-## Definition detail (Latin → English)
+## Latin → English word UX (Logeion + Scriba)
 
-Clients may set optional `definition_mode` on `english_word` and
-`english_sentence` requests (`json-schemas/common/definition_mode.json`):
+`english_word` results are shaped so a client can mirror two familiar apps:
+
+| App | What the API supports |
+| --- | --- |
+| **Logeion** | `brief_glosses` (short hit list) and `definitions` (full Lewis & Short tree) together when `definition_mode` is `both` (default). |
+| **Scriba** | `definitions` as the main reading tab; `morphology` and `connections` as a second tab (lemma line, forms, gender/declension, Greek links, notes). |
+
+Optional `definition_mode` on `english_word` and `english_sentence` requests
+(`json-schemas/common/definition_mode.json`):
 
 | Value | Behavior |
 | --- | --- |
-| `full` (default) | Every top-level sense from each matched headword; nested sub-senses stay intact. |
-| `simplified` | At most the first **three** top-level senses per headword (sub-senses under those are still included). |
+| `both` (default) | `brief_glosses` and `definitions` populated; tabs always filled when source data exists. |
+| `brief` | `brief_glosses` only (empty `definitions`); tabs still returned. |
+| `full` | Long `definitions` only (empty `brief_glosses`); tabs still returned. |
 
-Responses echo the effective `definition_mode`. Word results include a
-`definitions` array shaped like the dictionary `senses` tree (strings and
-nested arrays).
+Responses echo the effective `definition_mode`. Tab schemas live under
+`json-schemas/common/morphology_tab.json` and `connections_tab.json`.
+Generated full case paradigms (future) may extend `morphology` or reuse
+`latin_word`-style tables when principal parts can be inferred.

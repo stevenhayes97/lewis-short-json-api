@@ -1,0 +1,26 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/common/connections_tab.json",
+  "title": "ConnectionsTab",
+  "description": "Scriba-style connections tab: etymology, Greek equivalents, and cross-reference material from Lewis & Short.",
+  "$defs": {
+    "connections_tab": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "entry_type": {
+          "type": "string",
+          "description": "Lewis & Short entry type (e.g. main, greek)."
+        },
+        "greek_equivalent": {
+          "type": "string",
+          "description": "Greek headword when the entry links to Greek."
+        },
+        "notes": {
+          "type": "string",
+          "description": "Full main_notes text (etymology, see also, usage)."
+        }
+      }
+    }
+  }
+}

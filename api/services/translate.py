@@ -4,6 +4,10 @@ This is the core of the translation API: take an English or Latin word, ask
 the database for hits, and return full entries (via tools.lookup). HTTP
 routing is not wired yet; call these functions directly or from a future
 endpoint layer.
+
+For Logeion / Scriba-shaped JSON, pass full entries to
+``api.services.english_word.format_english_word_response`` with
+``definition_mode`` (default ``both``).
 """
 
 from __future__ import annotations
@@ -12,13 +16,6 @@ from typing import Any, Iterable, List, Literal, Sequence
 
 from tools.lookup import get_entries
 from tools.ls_db import Database
-
-from api.services.definition_mode import (
-    DEFAULT_DEFINITION_MODE,
-    DefinitionMode,
-    apply_definition_mode_to_entries,
-    normalize_definition_mode,
-)
 
 Lang = Literal["la", "en"]
 
@@ -32,7 +29,6 @@ def translate(
     *,
     lang: Lang,
     limit: int = DEFAULT_LIMIT,
-    definition_mode: DefinitionMode | str | None = DEFAULT_DEFINITION_MODE,
 ) -> List[dict[str, Any]]:
     """Return matching Lewis & Short entries for `word`.
 
@@ -40,14 +36,11 @@ def translate(
       - ``"la"``: Latin headword / alternative form (exact, case-insensitive)
       - ``"en"``: English gloss text inside senses (substring, case-insensitive)
 
-    ``definition_mode`` controls sense depth in each returned entry (Latin →
-    English clients usually want ``"simplified"`` or ``"full"``; English → Latin
-    lookups ignore it today but may use it later):
-      - ``"full"``: entire ``senses`` tree (default)
-      - ``"simplified"``: at most three top-level senses per entry
-
     Results are full entry dicts in the original JSON shape, ordered by how
     the search ranked them. Empty string / whitespace yields no matches.
+
+    Use ``format_english_word_response`` to apply ``definition_mode`` without
+    mutating lookup results.
     """
     needle = (word or "").strip()
     if not needle:
@@ -60,9 +53,7 @@ def translate(
     else:
         raise ValueError("lang must be 'la' or 'en', got %r" % (lang,))
 
-    entries = _entries_in_order(db, keys)
-    mode = normalize_definition_mode(definition_mode)
-    return apply_definition_mode_to_entries(entries, mode)
+    return _entries_in_order(db, keys)
 
 
 def _latin_keys(db: Database, word: str, *, limit: int) -> List[str]:
