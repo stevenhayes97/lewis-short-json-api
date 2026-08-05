@@ -2,13 +2,13 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/common/definition_mode.json",
   "title": "DefinitionMode",
-  "description": "How much Lewis & Short sense material to return for Latin → English lookups.",
+  "description": "How much Lewis & Short sense material to return for Latin → English lookups. Morphology and connections tabs are always included when present in the source entry.",
   "$defs": {
     "definition_mode": {
       "type": "string",
-      "enum": ["full", "simplified"],
-      "default": "full",
-      "description": "full: include every top-level sense (nested sub-senses preserved under each). simplified: at most the first three top-level senses per matched headword; sub-senses under those are still included."
+      "enum": ["both", "brief", "full"],
+      "default": "both",
+      "description": "both (default, Logeion-style): include brief_glosses and the full definitions tree. brief: only brief_glosses (plus tabs). full: only the long definitions tree (Scriba-style main reading tab)."
     }
   }
 }
