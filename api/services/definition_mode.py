@@ -6,6 +6,8 @@ import copy
 import re
 from typing import Any, Literal, TypeAlias
 
+from api.services.paradigm import paradigm_from_entry
+
 DefinitionMode: TypeAlias = Literal["both", "brief", "full"]
 
 DEFAULT_DEFINITION_MODE: DefinitionMode = "both"
@@ -77,7 +79,17 @@ def primary_english_gloss(brief: list[str]) -> str:
     return first.split(".", 1)[0].strip() or first
 
 
-def morphology_tab_from_entry(entry: dict[str, Any]) -> dict[str, Any]:
+def normalize_include_paradigms(value: bool | None) -> bool:
+    if value is None:
+        return True
+    return bool(value)
+
+
+def morphology_tab_from_entry(
+    entry: dict[str, Any],
+    *,
+    include_paradigms: bool = True,
+) -> dict[str, Any]:
     tab: dict[str, Any] = {}
     key = entry.get("key")
     if isinstance(key, str) and key:
@@ -97,6 +109,10 @@ def morphology_tab_from_entry(entry: dict[str, Any]) -> dict[str, Any]:
     notes = entry.get("main_notes")
     if isinstance(notes, str) and notes.strip():
         tab["lemma_line"] = notes.strip()
+    if include_paradigms:
+        paradigm = paradigm_from_entry(entry)
+        if paradigm:
+            tab["paradigm"] = paradigm
     return tab
 
 
@@ -127,8 +143,14 @@ def definitions_for_mode(entry: dict[str, Any], mode: DefinitionMode) -> SenseTr
 def format_english_word_result(
     entry: dict[str, Any],
     mode: DefinitionMode,
+    *,
+    include_paradigms: bool = True,
 ) -> dict[str, Any]:
-    """Map one Lewis & Short entry dict to ``english_word_result`` schema shape."""
+    """Map one Lewis & Short entry dict to ``english_word_result`` schema shape.
+
+    Field order matches the intended UI stack: brief_glosses, definitions,
+    then morphology (optional paradigm) and connections.
+    """
     brief = brief_glosses_from_entry(entry)
     if mode == "full":
         brief = []
@@ -153,7 +175,10 @@ def format_english_word_result(
         "summary": "",
         "brief_glosses": brief,
         "definitions": definitions_for_mode(entry, mode),
-        "morphology": morphology_tab_from_entry(entry),
+        "morphology": morphology_tab_from_entry(
+            entry,
+            include_paradigms=include_paradigms,
+        ),
         "connections": connections_tab_from_entry(entry),
     }
 
@@ -162,13 +187,24 @@ def format_english_word_response(
     latin_word: str,
     entries: list[dict[str, Any]],
     mode: DefinitionMode | str | None = None,
+    *,
+    include_paradigms: bool | None = None,
 ) -> dict[str, Any]:
     effective = normalize_definition_mode(mode if isinstance(mode, str) else None)
+    paradigms = normalize_include_paradigms(include_paradigms)
     return {
         "translation_type": "english_word",
         "latin_word": latin_word,
         "definition_mode": effective,
-        "results": [format_english_word_result(entry, effective) for entry in entries],
+        "include_paradigms": paradigms,
+        "results": [
+            format_english_word_result(
+                entry,
+                effective,
+                include_paradigms=paradigms,
+            )
+            for entry in entries
+        ],
     }
 
 

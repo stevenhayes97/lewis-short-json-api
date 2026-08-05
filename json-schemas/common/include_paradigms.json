@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/common/include_paradigms.json",
+  "title": "IncludeParadigms",
+  "description": "Whether to attach declension/conjugation tables under morphology.paradigm.",
+  "$defs": {
+    "include_paradigms": {
+      "type": "boolean",
+      "default": true,
+      "description": "When true (default), include morphology.paradigm when the server can supply it. When false, omit paradigm tables entirely (lighter payload; UI collapse is a separate client concern)."
+    }
+  }
+}

@@ -2,10 +2,10 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/responses/english_word.json",
   "title": "EnglishWordTranslationResponse",
-  "description": "Latin → English word response. Combines a Logeion-style brief gloss list with optional full Lewis & Short senses, plus Scriba-style morphology and connections tabs per hit.",
+  "description": "Latin → English word response. Default layout: brief_glosses (most common senses first), then definitions (full list), then morphology (optional paradigm tables) and connections.",
   "type": "object",
   "additionalProperties": false,
-  "required": ["translation_type", "latin_word", "definition_mode", "results"],
+  "required": ["translation_type", "latin_word", "definition_mode", "include_paradigms", "results"],
   "properties": {
     "translation_type": {
       "const": "english_word"
@@ -18,6 +18,10 @@
     "definition_mode": {
       "$ref": "../common/definition_mode.json#/$defs/definition_mode",
       "description": "Effective mode used to build results (defaults to both when omitted on the request)."
+    },
+    "include_paradigms": {
+      "$ref": "../common/include_paradigms.json#/$defs/include_paradigms",
+      "description": "Whether paradigm tables were requested (defaults to true when omitted)."
     },
     "results": {
       "type": "array",
@@ -56,7 +60,7 @@
         },
         "brief_glosses": {
           "type": "array",
-          "description": "Short translation hits (Logeion-style). Empty when definition_mode is full.",
+          "description": "Most common translation hits first (from the opening Lewis & Short senses). Empty when definition_mode is full.",
           "items": {
             "type": "string",
             "minLength": 1
@@ -64,7 +68,7 @@
         },
         "definitions": {
           "type": "array",
-          "description": "Full Lewis & Short sense tree. Empty when definition_mode is brief.",
+          "description": "Complete sense list below brief_glosses when definition_mode is both. Empty when definition_mode is brief.",
           "items": {
             "$ref": "#/$defs/sense_node"
           }
@@ -93,6 +97,7 @@
       "translation_type": "english_word",
       "latin_word": "canis",
       "definition_mode": "both",
+      "include_paradigms": true,
       "results": [
         {
           "english_word": "dog",
@@ -104,7 +109,29 @@
             "headword": "canis",
             "title_genitive": "is",
             "gender": "M.",
-            "declension": 3
+            "declension": 3,
+            "paradigm": {
+              "paradigm_type": "noun",
+              "noun": {
+                "word_stem": "Can",
+                "cases_singular": {
+                  "nominative": "Canis",
+                  "genitive": "Canis",
+                  "dative": "Cani",
+                  "accusative": "Canem",
+                  "ablative": "Cane",
+                  "vocative": "Canis"
+                },
+                "cases_plural": {
+                  "nominative": "Canes",
+                  "genitive": "Canium",
+                  "dative": "Canibus",
+                  "accusative": "Canes",
+                  "ablative": "Canibus",
+                  "vocative": "Canes"
+                }
+              }
+            }
           },
           "connections": {
             "entry_type": "main",
@@ -117,6 +144,7 @@
       "translation_type": "english_word",
       "latin_word": "amo",
       "definition_mode": "full",
+      "include_paradigms": true,
       "results": [
         {
           "english_word": "love",

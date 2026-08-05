@@ -17,6 +17,9 @@
     },
     "definition_mode": {
       "$ref": "../common/definition_mode.json#/$defs/definition_mode"
+    },
+    "include_paradigms": {
+      "$ref": "../common/include_paradigms.json#/$defs/include_paradigms"
     }
   },
   "examples": [
