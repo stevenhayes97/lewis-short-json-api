@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/common/definition_mode.json",
+  "title": "DefinitionMode",
+  "description": "How much Lewis & Short sense material to return for Latin → English lookups.",
+  "$defs": {
+    "definition_mode": {
+      "type": "string",
+      "enum": ["full", "simplified"],
+      "default": "full",
+      "description": "full: include every top-level sense (nested sub-senses preserved under each). simplified: at most the first three top-level senses per matched headword; sub-senses under those are still included."
+    }
+  }
+}
