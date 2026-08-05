@@ -2,7 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/common/morphology_tab.json",
   "title": "MorphologyTab",
-  "description": "Scriba-style morphology tab: lemma metadata and alternative forms from Lewis & Short (not generated paradigms).",
+  "description": "Lemma metadata from Lewis & Short plus optional generated declension/conjugation tables (morphology.paradigm).",
   "$defs": {
     "morphology_tab": {
       "type": "object",
@@ -41,6 +41,10 @@
         "lemma_line": {
           "type": "string",
           "description": "Dictionary lemma line (main_notes header: principal parts, etc.)."
+        },
+        "paradigm": {
+          "$ref": "../paradigm_tables.json#/$defs/paradigm",
+          "description": "Full declension or conjugation grids when generated. Safe for clients to hide behind a collapsed section."
         }
       }
     }

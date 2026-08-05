@@ -18,9 +18,10 @@ is a case-insensitive substring over `senses.sense_text`, capped by `limit`
 (default 25).
 
 Latin → English clients typically call `translate(..., lang="la")`, then
-`format_english_word_response(latin_word, entries, definition_mode="both")`.
-That default returns **brief glosses and full definitions** (Logeion-style)
-plus **morphology** and **connections** tabs (Scriba-style). Use `brief` or
-`full` to omit one side of the definition payload when saving bandwidth.
+`format_english_word_response(latin_word, entries)` (defaults:
+`definition_mode="both"`, `include_paradigms=True`). That returns **brief glosses
+first**, the **full definition list** below, then **morphology** (with optional
+`paradigm` tables) and **connections**. Set `include_paradigms=False` to omit
+generated declension/conjugation grids from the payload.
 
 Load a database before calling the service — see [tools/README.md](../tools/README.md).

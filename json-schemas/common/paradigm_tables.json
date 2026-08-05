@@ -1,0 +1,98 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/common/paradigm_tables.json",
+  "title": "ParadigmTables",
+  "description": "Declension and conjugation tables for morphology. Clients often treat this block as collapsed by default; the API still returns it when generated and include_paradigms is true.",
+  "$defs": {
+    "case_forms": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "nominative",
+        "genitive",
+        "dative",
+        "accusative",
+        "ablative",
+        "vocative"
+      ],
+      "properties": {
+        "nominative": { "type": "string", "minLength": 1 },
+        "genitive": { "type": "string", "minLength": 1 },
+        "dative": { "type": "string", "minLength": 1 },
+        "accusative": { "type": "string", "minLength": 1 },
+        "ablative": { "type": "string", "minLength": 1 },
+        "vocative": { "type": "string", "minLength": 1 }
+      }
+    },
+    "noun_paradigm": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["cases_singular", "cases_plural"],
+      "properties": {
+        "word_stem": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Stem used to build or label the table."
+        },
+        "cases_singular": { "$ref": "#/$defs/case_forms" },
+        "cases_plural": { "$ref": "#/$defs/case_forms" }
+      }
+    },
+    "verb_person_forms": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "first_singular",
+        "second_singular",
+        "third_singular",
+        "first_plural",
+        "second_plural",
+        "third_plural"
+      ],
+      "properties": {
+        "first_singular": { "type": "string", "minLength": 1 },
+        "second_singular": { "type": "string", "minLength": 1 },
+        "third_singular": { "type": "string", "minLength": 1 },
+        "first_plural": { "type": "string", "minLength": 1 },
+        "second_plural": { "type": "string", "minLength": 1 },
+        "third_plural": { "type": "string", "minLength": 1 }
+      }
+    },
+    "verb_paradigm": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "principal_parts": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "type": "string", "minLength": 1 },
+          "description": "Parsed from the lemma line when available."
+        },
+        "conjugation": {
+          "type": "integer",
+          "description": "Conjugation class when known."
+        },
+        "tables": {
+          "type": "object",
+          "description": "Named tense/mood/voice grids (e.g. present_active_indicative). Omitted until generated.",
+          "additionalProperties": {
+            "$ref": "#/$defs/verb_person_forms"
+          }
+        }
+      }
+    },
+    "paradigm": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["paradigm_type"],
+      "properties": {
+        "paradigm_type": {
+          "type": "string",
+          "enum": ["noun", "verb", "adjective", "pronoun", "participle", "unknown"]
+        },
+        "noun": { "$ref": "#/$defs/noun_paradigm" },
+        "verb": { "$ref": "#/$defs/verb_paradigm" }
+      }
+    }
+  }
+}

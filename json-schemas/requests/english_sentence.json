@@ -18,6 +18,9 @@
     "definition_mode": {
       "$ref": "../common/definition_mode.json#/$defs/definition_mode",
       "description": "When word-level dictionary material is included alongside the sentence translation, controls how many sense glosses are attached per headword."
+    },
+    "include_paradigms": {
+      "$ref": "../common/include_paradigms.json#/$defs/include_paradigms"
     }
   },
   "examples": [

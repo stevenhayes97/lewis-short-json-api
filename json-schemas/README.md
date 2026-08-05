@@ -36,11 +36,16 @@ Optional `definition_mode` on `english_word` and `english_sentence` requests
 
 | Value | Behavior |
 | --- | --- |
-| `both` (default) | `brief_glosses` and `definitions` populated; tabs always filled when source data exists. |
+| `both` (default) | `brief_glosses` first (most common senses), then full `definitions`; morphology and connections follow. |
 | `brief` | `brief_glosses` only (empty `definitions`); tabs still returned. |
 | `full` | Long `definitions` only (empty `brief_glosses`); tabs still returned. |
 
-Responses echo the effective `definition_mode`. Tab schemas live under
-`json-schemas/common/morphology_tab.json` and `connections_tab.json`.
-Generated full case paradigms (future) may extend `morphology` or reuse
-`latin_word`-style tables when principal parts can be inferred.
+Optional `include_paradigms` (default **true**) on `english_word` requests: when
+true, attach `morphology.paradigm` (declension / conjugation tables) whenever
+the server can generate them; when false, omit that block for a lighter payload.
+Clients may still collapse paradigms in the UI when they are present.
+
+Responses echo `definition_mode` and `include_paradigms`. Tab schemas:
+`json-schemas/common/morphology_tab.json`, `connections_tab.json`, and
+`paradigm_tables.json`. Generated full case paradigms may extend `morphology`
+or reuse `latin_word`-style tables when principal parts can be inferred.
