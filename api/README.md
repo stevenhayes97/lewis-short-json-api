@@ -3,6 +3,9 @@
 Lightweight FastAPI app that will expose Lewis & Short lookups over HTTP.
 This first step wires the non-HTTP pieces only.
 
+L&S entries are the base; response shaping (gloss order, morphology, paradigms,
+`summary`, etc.) is the enhancement layer — see the root [README](../README.md).
+
 | Module | Role |
 | --- | --- |
 | `main.py` | FastAPI app object — **no routes yet** |
