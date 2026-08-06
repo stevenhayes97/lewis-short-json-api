@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://stevenhayes97.github.io/lewis-short-json-api/json-schemas/common/summary_field.json",
+  "title": "SummaryField",
+  "description": "Learner-facing blurb on word and sentence results (distinct from connections.notes, which carries Lewis & Short main_notes).",
+  "$defs": {
+    "summary": {
+      "type": "string",
+      "description": "Optional learning and quick-reference note. Empty string until filled (often by an agent). Primary use: prepositions with the noun case(s) they govern, and verbs with the case(s) their objects or complements take. Not a substitute for connections.notes (etymology, see also, dictionary prose)."
+    }
+  }
+}

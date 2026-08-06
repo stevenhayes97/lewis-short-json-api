@@ -20,7 +20,27 @@ json-schemas/
 `latin_word` response items currently describe **nouns** (gender, declension,
 case tables). Other parts of speech will get their own result shapes later.
 Sentence result items are minimal placeholders until the agent path is defined.
-`summary` is reserved for later (often agent-written) and may be `""`.
+### `summary` (learning / quick reference)
+
+Each word or sentence result includes a `summary` string (may be `""` until filled,
+often by an agent). Clients can surface it as an extra column, callout, or sidebar
+blurb alongside glosses and morphology.
+
+**Intended content** — case governance for fast lookup while reading or composing:
+
+| Entry kind | What to put in `summary` |
+| --- | --- |
+| **Prepositions** | Which noun case the preposition takes (and brief sense splits when case differs, e.g. in / on / against). |
+| **Verbs** | Which case(s) objects or complements use (accusative, dative, genitive, ablative, double objects, etc.). |
+
+Other concise learner notes are fine when case is not the main story, but preposition
+and verb case patterns are the default high-value use.
+
+**Not the same as `connections.notes`** — that field is the full Lewis & Short
+`main_notes` text (etymology, cross-references). Keep dictionary prose there; keep
+case cheat-sheets in `summary`.
+
+Schema: `json-schemas/common/summary_field.json`.
 
 ## Latin → English word UX (Logeion + Scriba)
 
