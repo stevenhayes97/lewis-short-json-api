@@ -84,8 +84,7 @@
           "$ref": "#/$defs/case_forms"
         },
         "summary": {
-          "type": "string",
-          "description": "Optional learning blurb. Empty string until filled (often by an agent later)."
+          "$ref": "../common/summary_field.json#/$defs/summary"
         }
       }
     }
