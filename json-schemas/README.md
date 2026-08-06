@@ -3,6 +3,23 @@
 Contract sketches for the four starting translation call types. Keys are
 snake_case; controlled-vocabulary values are lowercase.
 
+## Lewis & Short base vs enhancement layer
+
+Responses always anchor on **Lewis & Short** data: sense trees, lemma metadata,
+and `connections.notes` (full `main_notes`). That material is preserved and
+credited; it is not rewritten for convenience.
+
+Everything else in the contract is the **enhancement layer**—the reason to build
+this API instead of shipping raw dictionary JSON:
+
+- Structured **morphology** and optional **paradigm** generation
+- **brief_glosses** ordering and **definition_mode** (Logeion-style skim vs full read)
+- **summary** — your learner quick-reference (e.g. preposition/verb case governance)
+- Sentence-level results and agent paths (planned)
+
+Enhancements may start empty (`summary: ""`) and fill in over time (rules, curated
+data, or agents). L&S fields stay stable; enhancements evolve independently.
+
 ```
 json-schemas/
   requests/     inbound bodies
@@ -20,6 +37,7 @@ json-schemas/
 `latin_word` response items currently describe **nouns** (gender, declension,
 case tables). Other parts of speech will get their own result shapes later.
 Sentence result items are minimal placeholders until the agent path is defined.
+
 ### `summary` (learning / quick reference)
 
 Each word or sentence result includes a `summary` string (may be `""` until filled,
@@ -66,6 +84,6 @@ the server can generate them; when false, omit that block for a lighter payload.
 Clients may still collapse paradigms in the UI when they are present.
 
 Responses echo `definition_mode` and `include_paradigms`. Tab schemas:
-`json-schemas/common/morphology_tab.json`, `connections_tab.json`, and
-`paradigm_tables.json`. Generated full case paradigms may extend `morphology`
+`json-schemas/common/morphology_tab.json`, `connections_tab.json`,
+`paradigm_tables.json`, and `summary_field.json`. Generated full case paradigms may extend `morphology`
 or reuse `latin_word`-style tables when principal parts can be inferred.

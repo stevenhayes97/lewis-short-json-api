@@ -1,5 +1,23 @@
 # JSON Lewis & Short
+
 A Latin dictionary in JSON format, based off of the Perseus Project's Lewis and Short XML version.
+
+This project is **not** a mirror of Lewis & Short alone. L&S is the authoritative
+base layer (entries, senses, etymology, cross-references). On top of that, the
+Translation API adds an **enhancement layer**: structured morphology, generated
+paradigms, Logeion/Scriba-friendly layouts, and learner-facing fields that L&S
+does not provide out of the box.
+
+Without that layer, repackaging the dictionary adds little; the goal is a tool
+that is yours to extend—quick-reference notes, agent-written summaries, and
+future teaching aids—while keeping dictionary prose and attribution intact.
+
+| Layer | Source | Role |
+| --- | --- | --- |
+| **Dictionary core** | Lewis & Short (via Perseus JSON) | Definitions, `main_notes`, Greek links, lemma lines |
+| **Enhancements** | This API and schemas | Paradigms, brief gloss ordering, tabs, `summary`, sentence translation (planned) |
+
+Enhancement contracts and conventions: [`json-schemas/README.md`](json-schemas/README.md).
 
 ## Loading into a database
 
