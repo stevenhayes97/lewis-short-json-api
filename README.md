@@ -1,23 +1,36 @@
 # JSON Lewis & Short
 
-A Latin dictionary in JSON format, based off of the Perseus Project's Lewis and Short XML version.
+A Latin dictionary API and data pipeline grounded in the Perseus Project's Lewis
+and Short XML, aimed at building a **learner-first dictionary of your own**—not
+a bare mirror of L&S.
 
-This project is **not** a mirror of Lewis & Short alone. L&S is the authoritative
-base layer (entries, senses, etymology, cross-references). On top of that, the
-Translation API adds an **enhancement layer**: structured morphology, generated
-paradigms, Logeion/Scriba-friendly layouts, and learner-facing fields that L&S
-does not provide out of the box.
+Lewis & Short remains the scholarly source of truth (senses, etymology,
+cross-references, attribution). It is dense and citation-heavy, so the product
+vision treats it as a **reference layer**, alongside tools like Logeion, rather
+than as the primary reading experience. Curated, agent-assisted content sits on
+top: clearer summaries, paradigms, and examples you control.
 
-Without that layer, repackaging the dictionary adds little; the goal is a tool
-that is yours to extend—quick-reference notes, agent-written summaries, and
-future teaching aids—while keeping dictionary prose and attribution intact.
+## Entry vision
+
+An entry page should read top-to-bottom like this:
+
+1. **Summarized definition** — short, ordered glosses/senses written for lookup
+   and learners (drafted with L&S, Logeion, and similar sources as references)
+2. **Declension / conjugation tables** — when the lemma calls for them
+3. **Example sentences** — Latin examples (with English) that illustrate real use
+4. **Full Lewis & Short** — the complete L&S material at the bottom for scholarly
+   and academic use, kept in one place when someone wants the original prose
+
+That order keeps teaching and quick reference first; the archival dictionary
+stays available without dominating the page.
 
 | Layer | Source | Role |
 | --- | --- | --- |
-| **Dictionary core** | Lewis & Short (via Perseus JSON) | Definitions, `main_notes`, Greek links, lemma lines |
-| **Enhancements** | This API and schemas | Paradigms, brief gloss ordering, tabs, `summary`, sentence translation (planned) |
+| **Scholarly core** | Lewis & Short (via Perseus JSON) | Full definitions, `main_notes`, Greek links, lemma lines—footer / deep dive |
+| **Curated entry** | This project (rules, agents, editorial review) | Summarized definition, paradigms, example sentences, learner notes (`summary`, etc.) |
 
-Enhancement contracts and conventions: [`json-schemas/README.md`](json-schemas/README.md).
+Contracts and conventions for the API shapes live under
+[`json-schemas/README.md`](json-schemas/README.md).
 
 ## Loading into a database
 

@@ -15,8 +15,8 @@ from pathlib import Path
 sys.stdout.reconfigure(encoding="utf-8")
 
 ROOT = Path(__file__).resolve().parent
-PATH = ROOT / "ls_A.json"
-TARGET = "agricola1"
+PATH = ROOT / "ls_C.json"
+TARGET = "canis1"
 
 
 def find_entry(path: Path, key: str) -> dict | None:
@@ -74,13 +74,3 @@ if __name__ == "__main__":
     
     definition = json.dumps(entry, ensure_ascii=False, indent=2)
     print(definition)
-
-    senses_full = entry["senses"]
-    for sense in senses_full:
-        sense_list = sense.split(";")
-        for sense_item in sense_list:
-            sense_item = sense_item.strip()
-            if sense_item:
-                print(sense_item)
-                print('-------------')
-
