@@ -146,10 +146,11 @@ def format_english_word_result(
     *,
     include_paradigms: bool = True,
 ) -> dict[str, Any]:
-    """Map one Lewis & Short entry dict to ``english_word_result`` schema shape.
+    """Map one Lewis & Short entry dict to the current ``english_word_result`` draft.
 
     Field order matches the intended UI stack: brief_glosses, definitions,
-    then morphology (optional paradigm) and connections.
+    then morphology (optional paradigm) and connections. Schema shape is WIP;
+    keep this formatter in sync when drafts change.
     """
     brief = brief_glosses_from_entry(entry)
     if mode == "full":

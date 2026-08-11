@@ -29,7 +29,7 @@ stays available without dominating the page.
 | **Scholarly core** | Lewis & Short (via Perseus JSON) | Full definitions, `main_notes`, Greek links, lemma lines—footer / deep dive |
 | **Curated entry** | This project (rules, agents, editorial review) | Summarized definition, paradigms, example sentences, learner notes (`summary`, etc.) |
 
-Contracts and conventions for the API shapes live under
+Draft API shapes (WIP, still evolving) live under
 [`json-schemas/README.md`](json-schemas/README.md).
 
 ## Loading into a database
@@ -44,8 +44,9 @@ Python + FastAPI. No HTTP routes yet — just config, a database session helper,
 and a `translate()` service that looks up Latin or English words and returns
 matching entries.
 
-Request/response contracts live under [`json-schemas/`](json-schemas/README.md)
-(`requests/` and `responses/` for each `translation_type`).
+WIP request/response drafts live under [`json-schemas/`](json-schemas/README.md)
+(`requests/` and `responses/` for each `translation_type`). Shapes may change
+freely until an explicit 1.0 freeze — see that README’s status note.
 
 ```
 python -m venv .venv

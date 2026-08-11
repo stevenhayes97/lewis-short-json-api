@@ -1,6 +1,22 @@
 # Translation API JSON Schemas
 
-Contract sketches for the four starting translation call types. Keys are
+**Status: WIP / pre-1.0 — not frozen.**
+
+These files are working drafts while the request/response shapes are still being
+figured out. During development:
+
+- Treat them as **sketches to iterate on**, not as a hard contract or
+  compatibility guarantee.
+- Prefer evolving the schema (and matching formatters) when a better shape
+  appears; do not block product work to preserve an older draft field layout.
+- Closed objects (`additionalProperties: false`), enums, and `$id` URLs are
+  scaffolding for the current draft — not a signal that the surface is locked.
+- Do not add CI or release gates that require exact schema match until an
+  explicit 1.0 freeze.
+- “Stable” below refers to **Lewis & Short scholarly fields**, not to freezing
+  these API schemas.
+
+Draft sketches for the four starting translation call types. Keys are
 snake_case; controlled-vocabulary values are lowercase.
 
 ## Lewis & Short base vs enhancement layer
@@ -9,7 +25,7 @@ Responses always anchor on **Lewis & Short** data: sense trees, lemma metadata,
 and `connections.notes` (full `main_notes`). That material is preserved and
 credited; it is not rewritten for convenience.
 
-Everything else in the contract is the **enhancement layer**—the reason to build
+Everything else in these drafts is the **enhancement layer**—the reason to build
 this API instead of shipping raw dictionary JSON:
 
 - Structured **morphology** and optional **paradigm** generation
@@ -18,7 +34,8 @@ this API instead of shipping raw dictionary JSON:
 - Sentence-level results and agent paths (planned)
 
 Enhancements may start empty (`summary: ""`) and fill in over time (rules, curated
-data, or agents). L&S fields stay stable; enhancements evolve independently.
+data, or agents). L&S scholarly fields stay stable; the enhancement **payload
+shape** in these JSON Schema files remains free to change during WIP.
 
 ```
 json-schemas/
