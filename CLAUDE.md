@@ -150,10 +150,20 @@ rediscovered each chunk. None is a defect in an individual line.
   (`honour`, `colour`, `recognise`). Latin illustrations follow the source's
   `j` convention, matching the keys: `injuria`, `jus`, `adjicere` — not
   `iniuria`, `ius`, `adicere`.
-- **Verify quotations against the entry, not from memory.** `aio` was written
-  with an imperative `aie`, which does not exist; the entry says `imper. ai`.
-  A wrong form teaches a student something false, so any Latin phrase not
-  lifted from the entry needs checking before it goes in.
+- **Verify quotations against the entry, not from memory.** Three of the first
+  238 illustrations were wrong this way: `aio` got an imperative `aie`, which
+  does not exist (the entry says `imper. ai`); `aetas` got `vinum aetatis
+  suae`, unidiomatic, where the entry supplies the real idiom `aetatem ferre`;
+  and `albesco` got `dies albescit, day is breaking`, when that entry's cites
+  are whitening hair and the sea whitening under wind, not dawn. Composing an
+  illustration is allowed, but check the entry first — a wrong phrase teaches a
+  student something false, and prefer the entry's own idiom when it has one.
+- **Rank 2 is the rank most often taken without earning it.** Of the first 150
+  rank 2s, six were plain near-synonyms of rank 1 and were removed:
+  `aeternus` eternal/endless, `adhortor` encourage/urge, `agitatio`
+  movement/agitation, `aerumna` hardship/distress, `aduro` scorch/burn,
+  `adjungo` attach/join. Before writing one, say both glosses aloud: if the
+  second only restates the first in other words, skip to rank 3.
 
 ## Committing
 

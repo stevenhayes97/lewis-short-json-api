@@ -673,7 +673,6 @@ adhinnio | 4 | of a man, to whinny after something in lust, to be in heat for it
 adhortatio | 1 | encouragement
 adhortatio | 3 | an exhortation, a speech urging people on
 adhortor | 1 | encourage
-adhortor | 2 | urge
 adhortor | 3 | to urge someone on to a thing, to exhort or encourage them (with ad or in)
 adhuc | 1 | still
 adhuc | 2 | yet
@@ -744,7 +743,6 @@ adjunctio | 3 | a joining or binding together, a union
 adjunctio | 4 | an addition made to something
 adjunctio | 5 | in rhetoric, a qualifying clause; also the repetition of a word for effect
 adjungo | 1 | attach
-adjungo | 2 | join
 adjungo | 3 | to yoke or harness animals
 adjungo | 4 | to join one person or thing to another (with ad or the dative)
 adjungo | 5 | to win someone over, to attach them to you as an ally or friend
@@ -979,7 +977,6 @@ aduncus | 3 | bent like a hook, curved: nasus aduncus, an aquiline nose
 aduno | 1 | unite
 aduno | 3 | to make things one, to gather them into a single body
 aduro | 1 | scorch
-aduro | 2 | burn
 aduro | 3 | to set something alight, to singe or scorch it
 aduro | 4 | of frost, wind, or locusts, to nip and spoil a crop
 aduro | 5 | in poetry, of love, to burn or inflame someone
@@ -1256,7 +1253,6 @@ aerugo | 4 | the tarnish on gold and silver, and in poetry money itself
 aerugo | 5 | envy and ill-will, which eat at a man as rust eats metal
 aerugo | 6 | greed for money, the avarice that clings to the mind like rust
 aerumna | 1 | hardship
-aerumna | 2 | distress
 aerumna | 3 | trouble, toil, hardship, a burden laid on one from outside
 aerumna | 4 | calamity or tribulation, and in later Latin the defeat of an army
 aerumnosus | 1 | wretched
@@ -1322,7 +1318,7 @@ aetas | 3 | a period of life: aetas puerilis, boyhood; iniens aetas, early youth
 aetas | 4 | one's whole life, a lifetime
 aetas | 5 | an age or generation: aetates heroicae, the age of heroes
 aetas | 6 | the people living at a time, the age standing for its men
-aetas | 7 | of things, their age: vinum aetatis suae, wine with some years on it
+aetas | 7 | of things, their age: aetatem fert, said of wine, it carries its years well
 aetas | 8 | aetatem as an adverb, all one's days, and so for ages, this long while
 aetatula | 1 | childhood
 aetatula | 3 | tender youth, the soft early years, often with a hint of indulgence
@@ -1334,7 +1330,6 @@ aeternitas | 4 | endless duration to come, immortality: aeternitas animorum, the
 aeternitas | 5 | lastingness, the durability of a material
 aeternitas | 6 | under the emperors, a title of address for the ruler, Your Eternity
 aeternus | 1 | eternal
-aeternus | 2 | endless
 aeternus | 3 | without beginning or end, eternal, where sempiternus merely lasts as long as time does
 aeternus | 4 | undying, immortal, everlasting
 aeternus | 5 | of things the ancients thought fixed, such as the stars, everlasting
@@ -1537,7 +1532,6 @@ agilitas | 1 | nimbleness
 agilitas | 3 | ease and quickness of movement, speed, agility
 agilitas | 4 | of the mind, quickness and liveliness
 agitatio | 1 | movement
-agitatio | 2 | agitation
 agitatio | 3 | the state of being in motion: agitatio fluctuum, the heaving of the waves
 agitatio | 4 | activity of mind, the mind's constant working
 agitator | 1 | driver
@@ -1663,7 +1657,7 @@ albatus | 3 | dressed in white, as at a feast or a festival
 albeo | 1 | whiten
 albeo | 3 | to be white, to show white: campi ossibus albent, the plains are white with bones
 albesco | 1 | blanch
-albesco | 3 | to turn white, to grow light: dies albescit, day is breaking
+albesco | 3 | to turn white, to grow white: albescens capillus, hair going grey
 albico | 1 | whiten
 albico | 3 | to be white, to show white: prata pruinis albicant, the meadows are white with frost
 albico | 4 | to make a thing white, to turn it white with foam
