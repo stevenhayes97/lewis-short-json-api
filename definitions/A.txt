@@ -430,3 +430,441 @@ acer2 | 6 | of the mind, acute, penetrating, quick to see
 acer2 | 7 | of a person, in a good sense: eager, energetic, spirited, brave
 acer2 | 8 | in a bad sense: hot-tempered, violent, fierce
 acer2 | 9 | of things, intense and vigorous: acer impetus, a fierce charge
+acerbitas | 1 | bitterness
+acerbitas | 2 | harshness
+acerbitas | 3 | the sour, sharp taste of unripe fruit
+acerbitas | 4 | harshness or severity of character, moroseness, the opposite of comitas
+acerbitas | 5 | the bitterness of grief, the pain of a hard lot
+acerbo | 1 | embitter
+acerbo | 3 | to make something harsh or bitter
+acerbo | 4 | to make a bad thing worse, to aggravate a charge or a crime
+acerbus | 1 | bitter
+acerbus | 2 | harsh
+acerbus | 3 | sour or sharp to the taste, especially of unripe fruit
+acerbus | 4 | of sounds, harsh, hoarse, grating
+acerbus | 5 | of cold or pain, biting, keen
+acerbus | 6 | of a person, rough, morose, severe, hard to deal with
+acerbus | 7 | of events, grievous, painful, sad: acerba funera, untimely deaths
+acerra | 1 | censer
+acerra | 3 | a casket holding the incense used at sacrifices and at funerals
+acervatim | 1 | wholesale
+acervatim | 3 | in heaps, by piling up: acervatim mors accumulabat, death piled them up in heaps
+acervatim | 4 | of speech, summarily, all together, without going into detail
+acervo | 1 | heap
+acervo | 3 | to pile things into a heap, to stack them up
+acervo | 4 | to pile up things not physical: leges acervare, to heap law on law
+acervus | 1 | heap
+acervus | 2 | mass
+acervus | 3 | a heap of things of one kind: acervus frumenti, a heap of grain
+acervus | 4 | a great number of anything: acervus facinorum, a pile of crimes
+acervus | 5 | in logic, the sorites, an argument built by piling one small step on another
+acetabulum | 1 | cup
+acetabulum | 3 | a vinegar cup, and then any cup-shaped vessel; also a measure of about a quarter of a pint
+acetabulum | 4 | in anatomy, the socket of the hip bone
+acetabulum | 5 | the sucker on the arm of an octopus, or the cup of a flower
+acetum | 1 | vinegar
+acetum | 3 | sour wine, wine vinegar
+acetum | 4 | sharpness of wit, a biting humour, much as sal is used of wit
+acidus | 1 | sour
+acidus | 3 | sour, tart, acid to the taste
+acidus | 4 | of sound, harsh or shrill
+acidus | 5 | of speech or temper, sharp, biting, disagreeable
+acies | 1 | edge
+acies | 2 | line
+acies | 3 | the sharp edge or point of a blade
+acies | 4 | an army drawn up for battle, a battle line: aciem instruere, to draw up the line
+acies | 5 | the engagement itself, the battle fought in that formation
+acies | 6 | keenness of sight, the power of vision; and concretely, the pupil of the eye
+acies | 7 | a fixed look, a gaze held on something
+acies | 8 | sharpness of mind, mental penetration
+acies | 9 | brightness or sheen, said of the stars
+acies | 10 | acies ferri, steel, iron given a cutting edge
+acquiesco | 1 | rest
+acquiesco | 2 | acquiesce
+acquiesco | 3 | to come to rest physically, to settle down, to sleep
+acquiesco | 4 | to find peace or comfort in something, to take pleasure in it
+acquiesco | 5 | to be satisfied with something, to assent and let it stand
+acquiro | 1 | acquire
+acquiro | 2 | gain
+acquiro | 3 | to get something in addition, to add it to what one has (with ad or the dative)
+acquiro | 4 | to obtain or secure a thing: famam acquirere, to win a name
+acquiro | 5 | in later Latin, with no object, to make money, to amass wealth
+acrimonia | 1 | pungency
+acrimonia | 2 | energy
+acrimonia | 3 | sharpness of taste or smell, a biting quality that stings and quickens
+acrimonia | 4 | vigour and briskness of character, drive in acting
+acrimonia | 5 | sharpness of speech or manner, acrimony
+acritudo | 1 | sharpness
+acritudo | 3 | the sharpness or bite of a fluid
+acritudo | 4 | liveliness, vigour, force
+acritudo | 5 | harshness of temper
+actio | 1 | action
+actio | 2 | lawsuit
+actio | 3 | a doing or performing, an act
+actio | 4 | an official act, the discharge of a magistrate's duties
+actio | 5 | a lawsuit or legal process: actio furti, an action for theft
+actio | 6 | the indictment itself, the statement of the charge
+actio | 7 | a pleading, the speech made in a case; Cicero's speeches against Verres are actiones
+actio | 8 | an orator's delivery: his bearing, gesture, and voice
+actio | 9 | an actor's performance on the stage
+actio | 10 | the plot of a play, its connected chain of events
+activus | 1 | active
+activus | 3 | practical, concerned with doing, as against contemplativus
+activus | 4 | in grammar, of verbs that take an object, active as against neuter
+actor1 | 1 | doer
+actor1 | 2 | actor
+actor1 | 3 | one who drives something along: pecoris actor, a drover
+actor1 | 4 | one who carries a thing out, a performer of deeds
+actor1 | 5 | the plaintiff or prosecutor in a lawsuit
+actor1 | 6 | an agent, steward, or manager of property
+actor1 | 7 | one who delivers a speech, an orator in the act of speaking
+actor1 | 8 | a stage player: actor primarum partium, a leading man
+actuarius1 | 1 | swift
+actuarius1 | 3 | easily moved, nimble: navis actuaria, a light fast ship worked by oars
+actuarius2 | 1 | clerk
+actuarius2 | 3 | a shorthand writer, one who takes down proceedings
+actuarius2 | 4 | a book-keeper, one who writes out accounts
+actuosus | 1 | energetic
+actuosus | 3 | full of activity and zeal, driven from within, where industrius points rather to the work done
+actus2 | 1 | act
+actus2 | 2 | motion
+actus2 | 3 | the driving or moving of a thing, its impulse
+actus2 | 4 | the right of driving cattle across another's land, and the track used for it
+actus2 | 5 | a cart road running between fields
+actus2 | 6 | a measure of land, a furrow's length of 120 feet
+actus2 | 7 | the doing of a thing, a deed or performance
+actus2 | 8 | public business, especially the administration of justice
+actus2 | 9 | an act of a play, or an actor's rendering of a part
+actutum | 1 | immediately
+actutum | 3 | at once, instantly, on the spot, a favourite word of Plautus
+aculeatus | 1 | prickly
+aculeatus | 3 | armed with a sting or with thorns, of animals and plants
+aculeatus | 4 | of words, stinging, cutting, barbed
+aculeatus | 5 | of arguments, over-subtle, hair-splitting
+aculeus | 1 | sting
+aculeus | 3 | the sting of a bee or a scorpion
+aculeus | 4 | a thorn or prickle on a plant; also the point of an arrow
+aculeus | 5 | the sting of a cutting remark, a barb
+aculeus | 6 | the sting of care or of a thought that will not let one rest
+acumen | 1 | point
+acumen | 2 | shrewdness
+acumen | 3 | the sharp point of a thing, what pricks or stings, where cacumen is merely the tip
+acumen | 4 | sharpness of mind, penetration, acumen
+acumen | 5 | cunning, over-subtlety, trickery
+acuo | 1 | sharpen
+acuo | 2 | rouse
+acuo | 3 | to whet a blade, to bring it to a point
+acuo | 4 | to sharpen the mind or the tongue by practice, to train them
+acuo | 5 | to spur someone on, to stir them to action
+acuo | 6 | to kindle a feeling, to inflame anger or desire
+acuo | 7 | in grammar, to give a syllable the acute accent
+acuo | 8 | acutus as an adjective: made sharp by skill, and so keen, shrill, or clever, where acer is sharp by nature
+acus1 | 1 | needle
+acus1 | 3 | a needle or pin, for sewing or for the hair: acu pingere, to embroider
+acus1 | 4 | acu rem tangere, to touch the thing with a needle, that is, to hit the nail on the head
+acus1 | 5 | the tongue of a buckle
+acus3 | 1 | garfish
+acus3 | 3 | a sea fish with a long pointed snout, the garfish or hornpike
+ad | 1 | to
+ad | 2 | at
+ad | 3 | towards, in the direction of, of motion to a place: ad urbem ire, to go to the city
+ad | 4 | at, by, near, of position without motion: ad portas, at the gates; ad me, at my house
+ad | 5 | of time, towards or about: ad vesperum, towards evening; and up to, until: ad hanc diem, to this day
+ad | 6 | of number, about, nearly: ad ducentos, some two hundred
+ad | 7 | with regard to, as far as concerns: ad hanc rem, in this respect
+ad | 8 | for the purpose of, in order to: ad bellum parare, to make ready for war
+ad | 9 | according to, on the pattern of: ad exemplum, on the model; ad verbum, word for word
+ad | 10 | in compounds, to or at: accurro, advenio; and sometimes simply intensifying: adamo, aduro
+adaeque | 1 | equally
+adaeque | 3 | in like manner, just as much, mostly early and late Latin and usually with a negative
+adaequo | 1 | equal
+adaequo | 2 | level
+adaequo | 3 | to make one thing equal to another, to level it with something (with cum or the dative)
+adaequo | 4 | to compare one thing with another
+adaequo | 5 | to come up to something, to match or rival it
+adaequo | 6 | with no object, to be equal, to come out even
+adamo | 1 | love
+adamo | 3 | to fall deeply in love with someone, to come to love them
+adamo | 4 | to take a strong liking to a thing, to grow fond of it
+adaperio | 1 | open
+adaperio | 3 | to open something fully, to throw it wide
+adaperio | 4 | to uncover or bare a thing: caput adaperire, to bare the head
+adaugeo | 1 | increase
+adaugeo | 3 | to make something greater by adding to it, to augment it
+adaugeo | 4 | in sacrifice, to devote or offer something up
+adbibo | 1 | drink
+adbibo | 3 | to drink up, to take a drink
+adbibo | 4 | to drink in what is said, to take words in eagerly
+addecet | 1 | befits
+addecet | 3 | impersonal: it is fitting, it becomes one to do something, found only in early Latin
+addico | 1 | award
+addico | 2 | consign
+addico | 3 | of birds and omens, to be favourable, to give approval
+addico | 4 | at an auction, to knock a lot down to the highest bidder
+addico | 5 | as a judge, to make something over to someone, to adjudge it to them
+addico | 6 | to hand a debtor over to his creditor as a bondsman
+addico | 7 | to devote or dedicate oneself to a cause
+addico | 8 | to give someone up, to sacrifice or abandon them
+addico | 9 | addictus as an adjective: bound over, pledged, enslaved to a person or a doctrine
+addisco | 1 | learn
+addisco | 3 | to learn something further, to go on learning
+addisco | 4 | to be told something, to hear or find it out
+addo | 1 | add
+addo | 3 | to put or place one thing beside another
+addo | 4 | to add to a thing so as to increase it (with the dative or ad)
+addo | 5 | to impart a quality: animum addere, to give courage
+addo | 6 | adde, or adde huc, add to this, used to bring in a further point
+addo | 7 | to set someone over another as a watcher or a tormentor
+addubito | 1 | doubt
+addubito | 3 | to begin to doubt, to waver about something (with de or in)
+addubito | 4 | to call a thing into question, to be unsure of it
+adduco | 1 | lead
+adduco | 2 | persuade
+adduco | 3 | to lead or bring someone to a place, usually in one's own company
+adduco | 4 | to draw something tight, to pull it towards oneself: adducere tormenta, to wind the artillery taut
+adduco | 5 | of skin, to draw up, to wrinkle or shrivel
+adduco | 6 | to bring someone into a state: in periculum adducere, to bring into danger
+adduco | 7 | to induce or persuade someone to do or believe something (with ut and the subjunctive)
+adduco | 8 | adductus as an adjective: taut and tight; of character, strict and severe
+adedo | 1 | gnaw
+adedo | 3 | to bite at something, to nibble or gnaw it
+adedo | 4 | to eat away or consume, of fire, of rust, and of a squandered fortune
+adeo1 | 1 | approach
+adeo1 | 2 | undertake
+adeo1 | 3 | to go up to a place or a person (with ad, in, or the accusative)
+adeo1 | 4 | to approach someone to ask, consult, or petition: adire praetorem, to apply to the praetor
+adeo1 | 5 | to visit a place in order to see or inspect it
+adeo1 | 6 | to come at someone in a hostile way, to attack them
+adeo1 | 7 | to enter upon something, to take it on: adire periculum, to face a danger; hereditatem adire, to enter on an inheritance
+adeo2 | 1 | so
+adeo2 | 2 | indeed
+adeo2 | 3 | to that degree, so far, so much: adeo ut, to such a degree that
+adeo2 | 4 | of space or time, so far, so long, often strengthened by usque
+adeo2 | 5 | placed after a word for emphasis, even, just, precisely: id adeo, that very thing
+adeo2 | 6 | in the comic poets, moreover, besides, what is more
+adeo2 | 7 | bringing in a reason, and indeed, for in fact
+adeo2 | 8 | nay rather, correcting or strengthening what was just said
+adeps | 1 | fat
+adeps | 3 | the soft fat of an animal, lard or grease
+adeps | 4 | of a person, corpulence, flabbiness
+adeps | 5 | the soft sappy wood beneath the bark, or rich marly soil
+adequito | 1 | ride
+adequito | 3 | to ride up to a place, to gallop up (with ad or the dative)
+adequito | 4 | to ride alongside someone or past them
+adhaereo | 1 | cling
+adhaereo | 3 | to stick fast to something, to be attached to it
+adhaereo | 4 | to keep close to a person, to hang about them
+adhaereo | 5 | to be next to a thing, to border on it
+adhaereo | 6 | to trail along at the end, to bring up the rear
+adhaeresco | 1 | stick
+adhaeresco | 3 | to stick fast to something, to catch and hold
+adhaeresco | 4 | to fit or suit a thing, to accord with it
+adhibeo | 1 | apply
+adhibeo | 2 | summon
+adhibeo | 3 | to hold or bring one thing to another: aures adhibere, to lend an ear
+adhibeo | 4 | to call someone in, to bring them in and use them: adhibere medicum, to call in a doctor
+adhibeo | 5 | adhibere ad consilium, to call someone in for advice, to consult them
+adhibeo | 6 | to invite someone to dinner, to entertain them
+adhibeo | 7 | to bring a thing to bear, to make use of it: vim adhibere, to use force
+adhibeo | 8 | to show or exercise a quality: diligentiam adhibere, to take pains
+adhinnio | 1 | neigh
+adhinnio | 3 | to neigh at or after another horse
+adhinnio | 4 | of a man, to whinny after something in lust, to be in heat for it
+adhortatio | 1 | encouragement
+adhortatio | 3 | an exhortation, a speech urging people on
+adhortor | 1 | encourage
+adhortor | 2 | urge
+adhortor | 3 | to urge someone on to a thing, to exhort or encourage them (with ad or in)
+adhuc | 1 | still
+adhuc | 2 | yet
+adhuc | 3 | up to now, so far, hitherto
+adhuc | 4 | with a negative, not yet: nihil adhuc, nothing so far
+adhuc | 5 | still, of something going on: stertis adhuc, are you still snoring
+adhuc | 6 | of a thing that has only got so far, only now, just now
+adhuc | 7 | in later Latin, besides, moreover, in addition
+adhuc | 8 | in later Latin with a comparative, still: adhuc difficilior, harder still
+adigo | 1 | drive
+adigo | 2 | compel
+adigo | 3 | to drive cattle or people to a place
+adigo | 4 | to drive a weapon home, to force it in
+adigo | 5 | to force someone into a state or an act against their will
+adigo | 6 | adigere aliquem ad ius iurandum or sacramento, to put someone on oath, to swear troops in
+adimo | 1 | remove
+adimo | 2 | deprive
+adimo | 3 | to take something away from someone, with the dative of the person
+adimo | 4 | to take away a feeling or a state: metum adimere, to remove fear
+adimo | 5 | of death, to carry someone off, to snatch them away
+adimpleo | 1 | fill
+adimpleo | 2 | fulfil
+adimpleo | 3 | to fill something right up, to fill it full
+adimpleo | 4 | to fulfil a promise or a prophecy, to carry out a duty
+adipatus | 1 | greasy
+adipatus | 3 | full of fat, greasy; as a noun, pastry made with fat
+adipatus | 4 | of style, coarse and over-rich, bloated
+adipiscor | 1 | obtain
+adipiscor | 2 | reach
+adipiscor | 3 | to catch up with someone, to overtake them
+adipiscor | 4 | to attain something by effort, to win or gain it: gloriam adipisci, to win glory
+adipiscor | 5 | adeptus is sometimes passive in sense, having been obtained
+aditio | 1 | approach
+aditio | 3 | a going up to something, an approach
+aditio | 4 | aditio hereditatis, the formal entering upon an inheritance
+adito | 1 | visit
+adito | 3 | to go to a place again and again, to keep approaching, an early Latin word
+aditus2 | 1 | approach
+aditus2 | 2 | entrance
+aditus2 | 3 | a going to a thing, an approach
+aditus2 | 4 | leave to approach someone, admittance: aditus faciles, easy of access
+aditus2 | 5 | the way in, the entrance or avenue, the opposite of abitus
+aditus2 | 6 | an opening or opportunity for something
+adjaceo | 1 | adjoin
+adjaceo | 3 | to lie next to something, to border on it, with the dative or accusative, usually of places
+adjectio | 1 | addition
+adjectio | 3 | an adding on, an increase
+adjectio | 4 | in architecture, the projecting moulding of a pedestal
+adjectio | 5 | in rhetoric, the repeating of a word for effect
+adjectio | 6 | at an auction, a raised bid
+adjicio | 1 | add
+adjicio | 2 | throw
+adjicio | 3 | to throw or set one thing near another
+adjicio | 4 | to add something to what is there, to increase it
+adjicio | 5 | to turn the mind or the eye to a thing: oculos adicere, to cast an eye on
+adjicio | 6 | of a speaker, to add a further remark
+adjicio | 7 | at an auction, to raise a bid, to outbid
+adjudico | 1 | adjudge
+adjudico | 3 | as a judge, to award something to someone, the opposite of abiudico
+adjudico | 4 | to assign or credit a thing to someone
+adjugo | 1 | yoke
+adjugo | 3 | in gardening, to tie a vine shoot to its support
+adjugo | 4 | to join or add one thing to another
+adjumentum | 1 | help
+adjumentum | 3 | a means of help, an aid or support
+adjunctio | 1 | joining
+adjunctio | 3 | a joining or binding together, a union
+adjunctio | 4 | an addition made to something
+adjunctio | 5 | in rhetoric, a qualifying clause; also the repetition of a word for effect
+adjungo | 1 | attach
+adjungo | 2 | join
+adjungo | 3 | to yoke or harness animals
+adjungo | 4 | to join one person or thing to another (with ad or the dative)
+adjungo | 5 | to win someone over, to attach them to you as an ally or friend
+adjungo | 6 | to apply the mind to something: animum adiungere ad studium
+adjungo | 7 | to add something as an accompaniment, to subjoin it
+adjungo | 8 | adiuncta as a noun, the attendant circumstances of a case
+adjuro1 | 1 | swear
+adjuro1 | 3 | to swear to something, to confirm it on oath
+adjuro1 | 4 | to swear by a person or a god: per omnes deos adiuro
+adjuro1 | 5 | to add a further oath to one already sworn
+adjuro1 | 6 | in later Latin, to entreat someone earnestly, and in the Church Fathers, to adjure a demon
+adjuto | 1 | help
+adjuto | 3 | to help or be of service to someone, common in Plautus and Terence
+adjutor2 | 1 | helper
+adjutor2 | 3 | one who helps, a supporter or backer
+adjutor2 | 4 | an official assistant: an adjutant, deputy, or secretary
+adjutrix | 1 | helper
+adjutrix | 3 | a woman or a thing that helps, a female assistant
+adjutrix | 4 | legiones adiutrices, legions raised to reinforce the regular army
+adjuvo | 1 | help
+adjuvo | 3 | to help or assist someone, taking a plain accusative where most such verbs take the dative
+adjuvo | 4 | to feed or sustain a state of mind: adiuvare insaniam, to encourage someone's madness
+adjuvo | 5 | with no object, to be of use, to do some good: adiuvat, it helps
+adminiculo | 1 | prop
+adminiculo | 3 | to prop a vine up, to stake it
+adminiculo | 4 | to support or help someone
+adminiculum | 1 | prop
+adminiculum | 3 | the stake or pole a vine is tied to
+adminiculum | 4 | any prop or stay, a physical support
+adminiculum | 5 | help, backing, an aid or an assistant
+administer | 1 | assistant
+administer | 3 | one at hand to help, a servant or attendant
+administer | 4 | an agent or instrument in an affair, often in a bad sense: an accomplice
+administratio | 1 | administration
+administratio | 2 | help
+administratio | 3 | help or service given, a lending of hands
+administratio | 4 | the management or direction of a thing: administratio rei publicae, the running of the state
+administro | 1 | manage
+administro | 2 | serve
+administro | 3 | to be at hand to help, to wait on someone
+administro | 4 | to manage, direct, or carry on a thing: bellum administrare, to conduct a war
+administro | 5 | to carry something out, to get it done
+admirabilis | 1 | admirable
+admirabilis | 2 | astonishing
+admirabilis | 3 | worthy of admiration, fine, remarkable
+admirabilis | 4 | causing surprise, strange, paradoxical: Cicero renders the Greek paradoxa by admirabilia
+admirabilitas | 1 | wonderfulness
+admirabilitas | 3 | the quality in a thing that stirs admiration or wonder
+admiratio | 1 | admiration
+admiratio | 2 | astonishment
+admiratio | 3 | admiration, a high regard for someone or something
+admiratio | 4 | wonder or surprise: admirationem movere, to cause astonishment
+admiror | 1 | admire
+admiror | 2 | wonder
+admiror | 3 | to regard something with admiration, to think highly of it
+admiror | 4 | to be astonished at something, to wonder at it
+admiror | 5 | to gaze at a thing longingly, to covet it
+admisceo | 1 | mix
+admisceo | 3 | to mix one thing in with another, with the ablative of what it is mixed into
+admisceo | 4 | to add people to a body of others: milites admiscere, to mix troops in
+admisceo | 5 | se admiscere, to meddle in something, to get oneself mixed up in it
+admissarius | 1 | stallion
+admissarius | 3 | a male animal kept for breeding, a stallion or a jackass
+admissarius | 4 | of a lecherous man, a stud
+admissio | 1 | admission
+admissio | 3 | an audience with a prince, leave to come in
+admissio | 4 | in breeding, the putting of the male to the female
+admissio | 5 | the entering upon an inheritance
+admitto | 1 | admit
+admitto | 2 | commit
+admitto | 3 | to let someone in, to grant them access or an audience
+admitto | 4 | to allow something to happen, to permit it
+admitto | 5 | to commit a crime, to be guilty of it: facinus admittere, to do a wicked deed
+admitto | 6 | of a horse, to give it its head, to let it go at a gallop
+admitto | 7 | of words and prayers, to let them in, to give them a hearing
+admodum | 1 | very
+admodum | 2 | quite
+admodum | 3 | to a great degree, very, exceedingly, with adjectives, verbs, and adverbs
+admodum | 4 | fully, completely, of numbers and time: turres admodum centum viginti, a full hundred and twenty towers
+admodum | 5 | with a negative, at all: nullus admodum, none whatever
+admodum | 6 | in an answer, just so, quite right, certainly
+admolior | 1 | apply
+admolior | 3 | to bring or move one thing up to another: manus admoliri, to lay hands on something
+admolior | 4 | to struggle or push one's way towards a place
+admoneo | 1 | remind
+admoneo | 2 | warn
+admoneo | 3 | to put someone in mind of something, in a friendly way, with the genitive or de
+admoneo | 4 | to advise or caution someone, to warn them off
+admoneo | 5 | to call a thing back to memory, to bring it to mind again
+admoneo | 6 | of a creditor, to remind a debtor of the debt, to dun them
+admoneo | 7 | in poetry, to urge on with a goad or a weapon, to spur
+admonitio | 1 | reminder
+admonitio | 2 | warning
+admonitio | 3 | a recalling of something to mind, a suggestion
+admonitio | 4 | a mild rebuke, what Cicero calls a gentler sort of scolding
+admonitio | 5 | in later Latin, a correction or a beating
+admonitor | 1 | monitor
+admonitor | 3 | one who reminds another of something
+admonitor | 4 | one who urges another on to act
+admonitus2 | 1 | reminder
+admonitus2 | 3 | a reminding, a prompting or suggestion
+admonitus2 | 4 | advice or a request acted on: admonitu tuo, at your suggestion
+admonitus2 | 5 | a reproof
+admordeo | 1 | bite
+admordeo | 3 | to bite into something, to gnaw at it
+admordeo | 4 | to take a bite out of someone's money, to fleece them
+admotio | 1 | application
+admotio | 3 | the bringing of one thing to another: digitorum admotio, the placing of the fingers on an instrument
+admoveo | 1 | apply
+admoveo | 2 | move
+admoveo | 3 | to bring or move something up to a place, with ad or the dative
+admoveo | 4 | in war, to bring up troops or siege works: turres admovere, to move the towers up
+admoveo | 5 | to put one thing to another for a purpose: manum admovere, to set a hand to something
+admoveo | 6 | in the passive of places, to lie near, to be situated close by
+admoveo | 7 | to apply something to the mind, to bring a spur or a motive to bear
+admurmuratio | 1 | murmuring
+admurmuratio | 3 | a murmur running through a crowd in disapproval
+admurmuratio | 4 | a murmur of approval
+admutilo | 1 | fleece
+admutilo | 3 | to clip or shave someone close
+admutilo | 4 | to fleece someone of their money, a joke of Plautus
+adnepos | 1 | descendant
+adnepos | 3 | the son of an abnepos, that is, a great-great-great-grandson
