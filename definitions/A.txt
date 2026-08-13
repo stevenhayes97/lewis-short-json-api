@@ -1,0 +1,432 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_A.json (Lewis & Short via Perseus), simplified for learners.
+ab | 1 | from
+ab | 2 | by
+ab | 3 | away from, out of, marking the point motion starts at: ab urbe proficisci, to set out from the city
+ab | 4 | with a person after a passive verb, marking the agent: interfectus ab hostibus, killed by the enemy
+ab | 5 | of time, from, since, after: ab hora tertia, from the third hour on; ab initio, from the start
+ab | 6 | of distance, away from: castra aberant ab urbe milia passuum tria, the camp was three miles from the city
+ab | 7 | of position, on the side of, in the direction of: a tergo, from behind; a sinistra, on the left
+ab | 8 | of origin or descent, coming from, of: Turnus ab Aricia, Turnus of Aricia
+ab | 9 | after verbs of freeing, defending or guarding: liberare a metu, to free from fear
+ab | 10 | in compounds, away or off: abducere, to lead away; abicere, to throw down; abuti, to use up
+abalieno | 1 | alienate
+abalieno | 2 | transfer
+abalieno | 3 | to make over property to someone else by legal transfer, to convey or sell it
+abalieno | 4 | to estrange someone, to turn them against you and lose their goodwill
+abalieno | 5 | to separate or remove one thing from another
+abalieno | 6 | of limbs or the senses, to deaden, to make numb or unconscious
+abdicatio | 1 | disowning
+abdicatio | 2 | abdication
+abdicatio | 3 | the disowning or disinheriting of a child, as a legal act
+abdicatio | 4 | the giving up of a public office before its term has run
+abdico1 | 1 | disown
+abdico1 | 2 | resign
+abdico1 | 3 | to refuse to acknowledge something, to deny or reject it
+abdico1 | 4 | to disinherit a son, to cast him off in law
+abdico1 | 5 | se abdicare magistratu, to lay down an office, to abdicate
+abdo | 1 | hide
+abdo | 2 | remove
+abdo | 3 | to put something away out of sight, to conceal it
+abdo | 4 | se abdere, to take oneself off, to withdraw somewhere out of the way
+abdo | 5 | to bury a weapon in something, to drive it home
+abdo | 6 | abditus as an adjective: hidden, secret, remote
+abdomen | 1 | belly
+abdomen | 3 | the fat lower part of the belly, the paunch, in people and animals
+abdomen | 4 | greed or gluttony, the belly standing for the appetite it serves
+abduco | 1 | remove
+abduco | 2 | abduct
+abduco | 3 | to lead or take someone away from a place or a person
+abduco | 4 | to carry off by force, to kidnap or to steal cattle
+abduco | 5 | to draw troops away from their commander, to seduce them from their allegiance
+abduco | 6 | to divert someone from a duty or a pursuit, to distract them from it
+abduco | 7 | to take someone aside, or to carry them off home to dinner
+abeo | 1 | depart
+abeo | 2 | vanish
+abeo | 3 | to go away, to leave a place: abi in malam rem, go and be hanged
+abeo | 4 | of time, to pass, to go by, to elapse
+abeo | 5 | of a person, to pass away, to die
+abeo | 6 | to be changed into something else, to turn into it (with in and the accusative)
+abeo | 7 | to retire from an office, with the ablative: consulatu abire, to lay down the consulship
+abeo | 8 | of an affair, to turn out or end a certain way: non posse ista sic abire, that cannot be allowed to pass
+abeo | 9 | abi as an exclamation: off with you, get away, as often teasing as angry
+aberro | 1 | stray
+aberro | 3 | to wander off the road, to lose one's way, to go astray
+aberro | 4 | to deviate from a subject, a rule, or a purpose
+aberro | 5 | to take one's mind off a trouble, to find distraction from it
+abhinc | 1 | ago
+abhinc | 3 | of past time, ago, back, with the accusative or ablative: abhinc annos sedecim, sixteen years ago
+abhinc | 4 | in early Latin, of future time, from now on, hereafter
+abhorreo | 1 | shudder
+abhorreo | 2 | differ
+abhorreo | 3 | to shrink back from something in horror, to abhor it (usually with ab)
+abhorreo | 4 | to be disinclined to something, to want no part in it
+abhorreo | 5 | to be inconsistent with something, to be out of keeping with it, not to fit
+abhorreo | 6 | to be free or clear of something, such as a suspicion
+abicio | 1 | discard
+abicio | 2 | abandon
+abicio | 3 | to throw something away or throw it down: scutum abicere, to throw away one's shield
+abicio | 4 | to give up or let go a hope, a plan, or a claim
+abicio | 5 | to bring someone low, to degrade them or lower their standing
+abicio | 6 | se abicere, to throw oneself away, to lose all self-respect
+abicio | 7 | abiectus as an adjective: downcast and dispirited; or low, mean, contemptible
+abiegnus | 1 | fir
+abiegnus | 3 | made of fir wood or deal
+abiegnus | 4 | in poetry of a ship or of the Trojan horse, both being built of fir
+abies | 1 | fir
+abies | 3 | the silver fir, both the tree and its timber
+abies | 4 | in poetry, anything made of fir: a ship, a spear shaft, a writing tablet
+abigo | 1 | expel
+abigo | 3 | to drive someone or something away, to send it packing
+abigo | 4 | to drive off cattle, to rustle livestock
+abigo | 5 | to get rid of a trouble, an illness, or a mood
+abigo | 6 | to bring on an abortion, to force a birth with drugs
+abitus | 1 | departure
+abitus | 3 | a going away, a departure
+abitus | 4 | the way out, the exit, the place one leaves by
+abjudico | 1 | disallow
+abjudico | 3 | to take something from someone by a court's decision, to rule that it is not theirs (the opposite of adiudico)
+abjuro | 1 | disavow
+abjuro | 3 | to deny on oath that you hold something, especially money left in your keeping
+ablego | 1 | dismiss
+ablego | 3 | to send someone away, to get them out of the way
+ablego | 4 | to pack someone off on an errand or a posting so they will not be present
+abligurrio | 1 | squander
+abligurrio | 3 | to lick or eat something up
+abligurrio | 4 | to squander a fortune on fine living
+abluo | 1 | wash
+abluo | 3 | to wash something off or away, to rinse it clean
+abluo | 4 | to wash away guilt or to calm a passion, in a figure drawn from ritual washing
+abnego | 1 | refuse
+abnego | 2 | deny
+abnego | 3 | to refuse someone something, to turn down their request
+abnuo | 1 | refuse
+abnuo | 2 | deny
+abnuo | 3 | to say no by a gesture, to refuse with a shake of the head
+abnuo | 4 | to decline to do something, to reject a demand
+abnuo | 5 | of circumstances, to be unfavourable, to give no opening: quod spes abnuit, what hope denies
+abnuto | 1 | refuse
+abnuto | 3 | to keep shaking the head at someone, to go on refusing
+aboleo | 1 | abolish
+aboleo | 2 | destroy
+aboleo | 3 | to do away with something, to wipe it out or efface it
+aboleo | 4 | to repeal a law or cancel an office
+aboleo | 5 | to blot out a memory or a disgrace
+abolesco | 1 | fade
+abolesco | 3 | to decay little by little, to die out, to fall out of use
+abolitio | 1 | abolition
+abolitio | 2 | amnesty
+abolitio | 3 | the annulling or repeal of a law, a tax, or a sentence
+abolitio | 4 | an amnesty, or the dropping of a prosecution already begun
+abolla | 1 | cloak
+abolla | 3 | a thick woollen cloak, worn by soldiers and, as a badge of the trade, by philosophers
+abominor | 1 | abhor
+abominor | 3 | to pray away a bad omen, to avert an ill-omened word
+abominor | 4 | to loathe or detest something, to want nothing to do with it
+abominor | 5 | abominandus as an adjective: abominable, detestable
+aborior | 1 | set
+aborior | 3 | of the sun or stars, to set, to disappear, to pass away (the opposite of orior)
+aborior | 4 | to miscarry, to be born before term
+abortivus | 1 | premature
+abortivus | 3 | born prematurely, born before term
+abortivus | 4 | of herbs and drugs, causing miscarriage
+abortivus | 5 | as a noun, abortivum, a drug that brings on a miscarriage
+abortus | 1 | miscarriage
+abortus | 3 | a miscarriage or premature birth
+abortus | 4 | of a piece of writing, an unfinished thing, a work born dead
+abrado | 1 | scrape
+abrado | 2 | shave
+abrado | 3 | to scrape or rub something off; of a beard, to shave it away
+abrado | 4 | to squeeze money out of someone, to extort or wring it from them
+abripio | 1 | snatch
+abripio | 2 | drag
+abripio | 3 | to drag or tear someone away by force, a stronger word than abduco or abstraho
+abripio | 4 | to carry someone off as plunder, to kidnap them
+abripio | 5 | of a storm or a current, to sweep something away
+abripio | 6 | to run through property, to squander it
+abrogo | 1 | repeal
+abrogo | 3 | to repeal a law outright and entire, where derogo repeals only part of one
+abrogo | 4 | to strip someone of an office, to recall their command
+abrogo | 5 | to take something away from a person: fidem abrogare, to destroy someone's credit
+abrumpo | 1 | sever
+abrumpo | 3 | to break or tear something off by force, to snap it
+abrumpo | 4 | to break something off short: vitam abrumpere, to end one's life; sermonem, to cut a conversation dead
+abrumpo | 5 | abruptus of ground: sheer, steep, precipitous
+abrumpo | 6 | abruptus of speech or temper: abrupt, disjointed, brusque
+abscedo | 1 | withdraw
+abscedo | 3 | to go away, to depart from a place or a person
+abscedo | 4 | of soldiers, to march off, to raise a siege and retire
+abscedo | 5 | to disappear, to pass out of sight
+abscedo | 6 | of landscape, to recede, to fall away into the distance
+abscedo | 7 | to give up an attempt, to desist from something
+abscido | 1 | sever
+abscido | 3 | to cut something off with a blade, where abscindo tears it off by hand
+abscido | 4 | to cut someone off from something, to deprive them of hope or of a hearing
+abscido | 5 | abscisus of ground: sheer and steep; of speech: abrupt and curt
+abscindo | 1 | tear
+abscindo | 3 | to tear or rend something away with the hands
+abscindo | 4 | to cut one thing off from another: abscindere reditus, to cut off any way back
+abscondo | 1 | conceal
+abscondo | 3 | to put something carefully out of sight, to hide it away
+abscondo | 4 | to keep something secret, to cover up a flight or a fear
+abscondo | 5 | in sailing, to lose sight of a coast as it sinks below the horizon
+abscondo | 6 | absconditus as an adjective: hidden, secret, and so abstruse
+absisto | 1 | desist
+absisto | 3 | to move away from a place, to stand off from it
+absisto | 4 | to leave off doing something, to give it up (with the ablative or an infinitive)
+absolutio | 1 | acquittal
+absolutio | 2 | completeness
+absolutio | 3 | an acquittal in court, a verdict of not guilty
+absolutio | 4 | completeness, perfection, the finished state of a thing
+absolvo | 1 | acquit
+absolvo | 2 | finish
+absolvo | 3 | to acquit someone of a charge, to find them innocent (with the genitive or ablative of the charge)
+absolvo | 4 | to bring a task to completion, to get it finished
+absolvo | 5 | to loose or release something from its bonds, to untie it
+absolvo | 6 | to pay someone off, to settle with them
+absolvo | 7 | to get through a story quickly, to be done with it briefly
+absolvo | 8 | absolutus as an adjective: complete in itself, unqualified, absolute
+absonus | 1 | discordant
+absonus | 3 | out of tune, harsh-sounding, grating on the ear
+absonus | 4 | out of keeping with something, inconsistent or incongruous (with ab or the dative)
+absorbeo | 1 | swallow
+absorbeo | 3 | to swallow something down, to gulp or drink it up
+absorbeo | 4 | of the sea or a chasm, to engulf, to swallow whole
+absorbeo | 5 | to take up someone's attention entirely, to consume them
+absque1 | 1 | without
+absque1 | 3 | in early Latin, in conditional clauses, were it not for: absque te esset, if it were not for you
+absque1 | 4 | in later Latin, simply without, standing in for sine
+absque1 | 5 | except, apart from
+abstemius | 1 | abstemious
+abstemius | 3 | abstaining from wine, temperate in drink
+abstemius | 4 | moderate and sparing in general, self-denying
+abstemius | 5 | in late Latin, still fasting, not yet having eaten
+abstergeo | 1 | wipe
+abstergeo | 3 | to wipe something off, to clean or dry it: sudorem abstergere, to wipe away the sweat
+abstergeo | 4 | to drive away something unwelcome, to banish a care or a grief
+absterreo | 1 | deter
+absterreo | 3 | to frighten someone away, to scare them off
+absterreo | 4 | to deter someone from doing something, to put them off it
+absterreo | 5 | to take something away or withhold it
+abstinentia | 1 | restraint
+abstinentia | 2 | integrity
+abstinentia | 3 | self-restraint, the holding back from what one ought not to do
+abstinentia | 4 | integrity in money matters, keeping one's hands off what is not yours
+abstinentia | 5 | in later Latin, going without food, fasting or starvation
+abstineo | 1 | abstain
+abstineo | 2 | withhold
+abstineo | 3 | to hold something or someone back, to keep them away from a thing
+abstineo | 4 | to abstain from something, with the ablative or ab: iniuria abstinere, to do no wrong
+abstineo | 5 | se abstinere, to restrain oneself, to keep clear of something
+abstineo | 6 | to keep off food, to go without eating
+abstraho | 1 | detach
+abstraho | 2 | drag
+abstraho | 3 | to drag or pull someone away from a place or a person
+abstraho | 4 | to draw troops away from a commander, to detach a force
+abstraho | 5 | to divert someone's mind from something, to draw them off it
+abstrudo | 1 | hide
+abstrudo | 3 | to thrust something out of the way and so conceal it
+abstrudo | 4 | to bury a feeling, to push down grief or fear
+abstrudo | 5 | abstrusus as an adjective: hidden away; of a subject, abstruse and hard to get at
+absum | 1 | absent
+absum | 2 | lack
+absum | 3 | to be away from a place or person, not to be there
+absum | 4 | to be a given distance off: castra aberant bidui, the camp was two days away
+absum | 5 | to be missing or wanting: unum a praetura tua abest, one thing is lacking to your praetorship
+absum | 6 | to be free from something unpleasant, to have no part in it
+absum | 7 | to be far from a thing in character, to be quite unlike it or unsuited to it
+absum | 8 | tantum abest ut ... ut ..., so far from the first being true, the second is
+absum | 9 | absens as an adjective: absent, away; of a candidate, not present in person to canvass
+absumo | 1 | consume
+absumo | 2 | destroy
+absumo | 3 | to use something up entirely, to spend or exhaust it
+absumo | 4 | to make an end of someone, to destroy or kill them
+absumo | 5 | of time, to spend it or waste it
+absurdus | 1 | absurd
+absurdus | 2 | harsh
+absurdus | 3 | out of tune, harsh and grating to the ear
+absurdus | 4 | senseless, irrational, ridiculous
+absurdus | 5 | of a person, unfit for something, no good at it
+abundantia | 1 | abundance
+abundantia | 2 | wealth
+abundantia | 3 | plenty, a full supply of something, often with the genitive
+abundantia | 4 | riches, more money than one needs
+abundantia | 5 | in style, excess, overloading, too much of a good thing
+abunde | 1 | abundantly
+abunde | 3 | in plenty, amply, more than enough
+abunde | 4 | with an adjective or adverb, exceedingly, thoroughly: abunde magna, amply great
+abunde | 5 | with the genitive, enough of: terrorum abunde est, there is terror enough
+abundo | 1 | abound
+abundo | 2 | overflow
+abundo | 3 | of a river, to overflow its banks, to run over
+abundo | 4 | to be there in excess, to be more than is needed
+abundo | 5 | to abound in something, to be well supplied with it, with the ablative: divitiis abundare, to be rich
+abundo | 6 | abundans as an adjective: copious, plentiful, full; of a person, wealthy
+abusque | 1 | from
+abusque | 3 | all the way from, even from, a strengthened ab with the ablative
+abutor | 1 | misuse
+abutor | 2 | exhaust
+abutor | 3 | to use something up, to spend or consume it entirely
+abutor | 4 | to misuse or abuse something, to take advantage of it (with the ablative)
+abutor | 5 | in rhetoric, to use a word improperly, to strain its sense
+accedo | 1 | approach
+accedo | 2 | agree
+accedo | 3 | to come or go up to a place or person, with ad, in, or the dative
+accedo | 4 | to be added to something: ad haec accedit quod, add to this the fact that
+accedo | 5 | to agree with someone, to come round to a view (with ad or the dative)
+accedo | 6 | to approach in a hostile way, to attack
+accedo | 7 | to come near in likeness, to resemble
+accedo | 8 | to enter on something, to undertake a task or face a danger
+accedo | 9 | of a feeling, to come over someone, to befall them
+accelero | 1 | hasten
+accelero | 3 | to hurry something on, to speed it up: gradum accelerare, to quicken one's pace
+accelero | 4 | with no object, to make haste, to hurry
+accendo2 | 1 | kindle
+accendo2 | 2 | inflame
+accendo2 | 3 | to set something alight, to light a fire or a lamp from above
+accendo2 | 4 | to light up, to make bright: luna radiis solis accensa, the moon lit by the sun's rays
+accendo2 | 5 | to rouse someone's feelings, to fire them with anger, hope, or desire
+accendo2 | 6 | to make a thing worse, to inflame a quarrel or a war
+accenseo | 1 | reckon
+accenseo | 3 | to count someone or something in with a group, to add them to a number
+accenseo | 4 | accensus as a noun, an attendant on a magistrate, an orderly
+accenseo | 5 | accensi, reserve troops who followed the army as supernumeraries
+accentus | 1 | accent
+accentus | 3 | in grammar, the accent or tone of a word, what the Greeks call prosody
+accentus | 4 | a blast or signal on a horn (late Latin)
+accentus | 5 | intensity or violence: doloris accentus, a stab of pain
+acceptio | 1 | acceptance
+acceptio | 3 | the taking or receiving of something
+acceptio | 4 | regard shown to a person: personarum acceptio, partiality, respect of persons
+acceptor1 | 1 | receiver
+acceptor1 | 3 | one who takes or receives something, a collector
+acceptor1 | 4 | one who accepts a thing as true, who grants or approves it
+accessio | 1 | increase
+accessio | 2 | approach
+accessio | 3 | a going or coming near, an approach
+accessio | 4 | an addition to something, and also the thing added
+accessio | 5 | in medicine, the onset or fit of a fever
+accessio | 6 | an extra charge added to a tax or a fee
+accessus2 | 1 | approach
+accessus2 | 3 | a coming near, an approach, the opposite of recessus
+accessus2 | 4 | leave to approach someone, admittance to their presence
+accessus2 | 5 | the way in, the passage or entrance by which one comes
+accidens | 1 | accident
+accidens | 3 | a non-essential quality of a thing, as against its substance
+accidens | 4 | chance: per accidens, accidentally
+accidens | 5 | in the plural, misfortunes, things that go wrong
+accido1 | 1 | fell
+accido1 | 3 | to cut into a tree so that it falls, to fell it
+accido1 | 4 | to cripple or weaken something: accisae res, broken fortunes
+accido2 | 1 | happen
+accido2 | 2 | fall
+accido2 | 3 | to fall down at or upon something: ad genua accidere, to fall at someone's knees as a suppliant
+accido2 | 4 | to happen or come about; with the dative, to happen to someone
+accido2 | 5 | of a sound or a report, to reach someone, to strike the ear
+accido2 | 6 | si quid ei acciderit, a polite way of saying if he should die
+accido2 | 7 | to turn out a certain way: si secus acciderit, if it goes otherwise
+accido2 | 8 | usually of something unwelcome, where contingo is used of good fortune
+accingo | 1 | gird
+accingo | 2 | equip
+accingo | 3 | to gird something on, especially a sword at the side
+accingo | 4 | to arm or equip someone, to fit them out
+accingo | 5 | se accingere or accingi, to gird oneself up, to get ready for a task
+accingo | 6 | accinctus as an adjective: ready for action, alert, on duty
+accio | 1 | summon
+accio | 3 | to call someone to you, to send for them or fetch them
+accio | 4 | accire mortem, to bring death on oneself, to take one's own life
+accipio | 1 | receive
+accipio | 2 | accept
+accipio | 3 | to take something offered, to take it into one's hands
+accipio | 4 | to be given something, to get or obtain it
+accipio | 5 | to hear or learn something, to be told it
+accipio | 6 | to take a statement a certain way, to interpret or understand it
+accipio | 7 | to welcome a guest, to receive them into one's house
+accipio | 8 | to suffer something bad: cladem accipere, to suffer a defeat; vulnus, to be wounded
+accipio | 9 | to accept a proposal, to be satisfied with it
+accipio | 10 | to take something on oneself, to undertake it
+accipiter | 1 | hawk
+accipiter | 3 | a hawk, especially the goshawk; also the sparrowhawk used in fowling
+accipiter | 4 | of a grasping man, a bird of prey
+acclamatio | 1 | shout
+acclamatio | 3 | a shout or cry directed at someone
+acclamatio | 4 | under the republic, a shout of disapproval, jeering
+acclamatio | 5 | later, a shout of applause, an ovation
+acclamo | 1 | shout
+acclamo | 3 | to shout at someone, in praise or in protest (with the dative)
+acclamo | 4 | in earlier usage, to shout someone down, to jeer at them
+acclamo | 5 | after Augustus, to cheer, to applaud loudly
+acclamo | 6 | to hail someone as something by shouting it out
+acclinis | 1 | leaning
+acclinis | 3 | leaning on or against something, with the dative
+acclinis | 4 | of ground, sloping
+acclinis | 5 | inclined or disposed towards something: acclinis falsis, prone to falsehood
+acclino | 1 | lean
+acclino | 3 | to lean or rest one thing against another
+acclino | 4 | se acclinare, to incline towards a side or a party
+accola | 1 | neighbour
+accola | 3 | someone living near a place, a neighbour, where incola is one living in it
+accola | 4 | as an adjective, neighbouring, dwelling alongside
+accolo | 1 | adjoin
+accolo | 3 | to live beside or near something, with the accusative: accolere Histrum, to live along the Danube
+accommodatio | 1 | adjustment
+accommodatio | 3 | the fitting of one thing to another, adaptation
+accommodatio | 4 | a readiness to fit in with others, compliance, obligingness
+accommodo | 1 | adapt
+accommodo | 3 | to fit or fasten one thing to another, to put it on: coronam sibi ad caput, to set a wreath on one's head
+accommodo | 4 | to suit something to a purpose or a person, with ad or the dative
+accommodo | 5 | to bring something to bear, to apply it: testes ad crimen accommodare, to fit witnesses to the charge
+accommodo | 6 | se accommodare, to adapt oneself, to fall in with circumstances
+accommodo | 7 | accommodatus as an adjective: suited to, fit for
+accommodus | 1 | suitable
+accommodus | 3 | fit or suitable for something, with the dative, a poetic word favoured by Virgil
+accredo | 1 | believe
+accredo | 3 | to take someone's word without question, to believe them outright (with the dative)
+accresco | 1 | grow
+accresco | 3 | to grow bigger, to increase in size
+accresco | 4 | to be added to something by way of increase, to accrue to it
+accresco | 5 | in law, to fall to someone as an addition to their property: ius accrescendi, the right of survivorship
+accubitio | 1 | reclining
+accubitio | 3 | the reclining at table in the Roman manner
+accubitio | 4 | a dining couch
+accubo | 1 | recline
+accubo | 3 | to lie down beside something or someone
+accubo | 4 | to recline at table, to be at dinner
+accumbo | 1 | recline
+accumbo | 3 | to lay oneself down somewhere
+accumbo | 4 | to take one's place at table, to sit down to dinner in the Roman fashion
+accumulo | 1 | accumulate
+accumulo | 3 | to heap something up, to pile it higher
+accumulo | 4 | to increase something by adding to it, to pile on honour or grief
+accumulo | 5 | in farming, to bank earth up round the roots of a plant
+accuro | 1 | tend
+accuro | 3 | to do something with care, to see to it properly
+accuro | 4 | to look after a guest, to entertain them well
+accuro | 5 | accuratus as an adjective: done with care, painstaking, elaborate
+accurro | 1 | hurry
+accurro | 3 | to run up to a place, to come hurrying
+accurro | 4 | of ideas, to come to mind unbidden, to present themselves at once
+accusatio | 1 | accusation
+accusatio | 3 | a formal accusation or indictment, the bringing of a charge
+accusatio | 4 | the indictment itself, or the speech for the prosecution
+accusativus | 1 | accusative
+accusativus | 3 | in grammar, the accusative case, named as the case of the one accused
+accusator | 1 | accuser
+accusator | 3 | the prosecutor in a public trial, where petitor is the plaintiff in a private suit
+accusator | 4 | under the empire, an informer, a professional denouncer
+accusatorius | 1 | accusatory
+accusatorius | 3 | belonging to an accuser, such as a prosecutor uses: accusatorio iure, by a prosecutor's right
+accuso | 1 | accuse
+accuso | 2 | blame
+accuso | 3 | to blame or reproach someone, to call them to account
+accuso | 4 | to prosecute someone in court, with the genitive of the charge: accusare aliquem ambitus, to prosecute for bribery
+accuso | 5 | to complain of a thing, to find fault with it
+acer2 | 1 | sharp
+acer2 | 2 | keen
+acer2 | 3 | of edges and points, sharp and cutting
+acer2 | 4 | of the senses and what strikes them: piercing, dazzling, pungent, shrill
+acer2 | 5 | of weather or pain, biting, severe, harsh
+acer2 | 6 | of the mind, acute, penetrating, quick to see
+acer2 | 7 | of a person, in a good sense: eager, energetic, spirited, brave
+acer2 | 8 | in a bad sense: hot-tempered, violent, fierce
+acer2 | 9 | of things, intense and vigorous: acer impetus, a fierce charge
