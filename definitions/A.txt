@@ -1259,3 +1259,429 @@ aerumna | 1 | hardship
 aerumna | 2 | distress
 aerumna | 3 | trouble, toil, hardship, a burden laid on one from outside
 aerumna | 4 | calamity or tribulation, and in later Latin the defeat of an army
+aerumnosus | 1 | wretched
+aerumnosus | 3 | full of trouble and misery, sorely tried, hard pressed
+aes | 1 | bronze
+aes | 2 | money
+aes | 3 | copper, and more often bronze, the alloy of copper and tin
+aes | 4 | anything made of bronze: a statue, a trumpet, a bronze tablet of the laws
+aes | 5 | money or coin, since the earliest Roman money was rough copper
+aes | 6 | aes alienum, another's money, that is, debt: aere alieno premi, to be crushed by debt
+aes | 7 | aes grave, the old heavy money reckoned by weight rather than counted
+aes | 8 | a soldier's pay, and pay or wages generally: aera militibus, the troops' pay
+aes | 9 | in aere meo est, he is among my assets, that is, he is a friend of mine
+aes | 10 | in the plural, counters, and so the items of an account
+aestas | 1 | summer
+aestas | 3 | the summer half of the year, from late March to late September
+aestas | 4 | a summer used to count campaigning years: duabus aestatibus, over two seasons
+aestas | 5 | summer heat, and also the clear air of summer
+aestimatio | 1 | valuation
+aestimatio | 2 | esteem
+aestimatio | 3 | the fixing of a thing's money value, an appraisal
+aestimatio | 4 | a judgment of a thing's real worth, where existimatio is the opinion others hold of you
+aestimatio | 5 | the worth or value a thing actually has
+aestimator | 1 | valuer
+aestimator | 3 | one who appraises a thing's money value, an assessor
+aestimator | 4 | one who judges a thing's true worth
+aestimo | 1 | value
+aestimo | 2 | judge
+aestimo | 3 | to set a money value on something, to appraise it, with the genitive or ablative of price
+aestimo | 4 | to weigh a thing's real worth: magni aestimare, to think much of something
+aestimo | 5 | to judge or reckon from something: ex veritate aestimare, to judge by the truth of the matter
+aestimo | 6 | litem aestimare, to assess the damages in a suit
+aestivo | 1 | summer
+aestivo | 3 | to spend the summer somewhere, as hiemo is to spend the winter
+aestivus | 1 | summer
+aestivus | 3 | of or belonging to summer: aestivi dies, summer days
+aestivus | 4 | aestiva as a noun, a summer camp, and so the campaigning season
+aestivus | 5 | summer pastures in the hills, and by extension the cattle grazing them
+aestuarium | 1 | estuary
+aestuarium | 3 | a stretch of coast covered at high tide and left as mudflat at the ebb
+aestuarium | 4 | a tidal creek or inlet reaching inland
+aestuarium | 5 | in mining, an air shaft
+aestuo | 1 | seethe
+aestuo | 2 | waver
+aestuo | 3 | of fire, to blaze and roar
+aestuo | 4 | to be hot, to burn or glow; and of a person, to feel the heat, to swelter
+aestuo | 5 | of the sea, to heave and surge, to run high
+aestuo | 6 | to burn with a passion, to be on fire with love, envy, or desire
+aestuo | 7 | to waver, to be unable to settle on a course, to be at a loss
+aestuosus | 1 | sweltering
+aestuosus | 3 | very hot, burning: via aestuosa, a road baking in the sun
+aestuosus | 4 | of water, seething and tossing, in violent motion
+aestus | 1 | heat
+aestus | 2 | tide
+aestus | 3 | fire and glow, burning heat
+aestus | 4 | the heaving and surging of the sea, the swell
+aestus | 5 | the tide, the regular ebb and flow: aestus maritimi, the tides
+aestus | 6 | the ferment of the mind, the heat of any passion, good or bad
+aestus | 7 | an unsettled state of mind, doubt, anxiety, being at a loss
+aetas | 1 | age
+aetas | 2 | lifetime
+aetas | 3 | a period of life: aetas puerilis, boyhood; iniens aetas, early youth
+aetas | 4 | one's whole life, a lifetime
+aetas | 5 | an age or generation: aetates heroicae, the age of heroes
+aetas | 6 | the people living at a time, the age standing for its men
+aetas | 7 | of things, their age: vinum aetatis suae, wine with some years on it
+aetas | 8 | aetatem as an adverb, all one's days, and so for ages, this long while
+aetatula | 1 | childhood
+aetatula | 3 | tender youth, the soft early years, often with a hint of indulgence
+aeternalis | 1 | everlasting
+aeternalis | 3 | lasting for ever, a late word common in inscriptions: aeternalis somnus, the sleep of death
+aeternitas | 1 | eternity
+aeternitas | 3 | eternity, time without beginning or end
+aeternitas | 4 | endless duration to come, immortality: aeternitas animorum, the immortality of souls
+aeternitas | 5 | lastingness, the durability of a material
+aeternitas | 6 | under the emperors, a title of address for the ruler, Your Eternity
+aeternus | 1 | eternal
+aeternus | 2 | endless
+aeternus | 3 | without beginning or end, eternal, where sempiternus merely lasts as long as time does
+aeternus | 4 | undying, immortal, everlasting
+aeternus | 5 | of things the ancients thought fixed, such as the stars, everlasting
+aeternus | 6 | lasting a very long time, enduring, perpetual
+aeternus | 7 | in aeternum, for ever, for always
+aeternus | 8 | aeternum as an adverb, for ever; and of what keeps recurring, again and again
+aether | 1 | sky
+aether | 3 | the upper, purer air, the ether, as against aer, the lower air we breathe
+aether | 4 | heaven, the dwelling of the gods
+aether | 5 | air in general, and the upper world as against the world below
+aether | 6 | the radiance surrounding a god
+aether | 7 | as a name, Aether, son of Chaos, and in the poets Jupiter himself
+aetherius | 1 | ethereal
+aetherius | 3 | belonging to the ether, of the upper air
+aetherius | 4 | heavenly, of heaven: arces aetheriae, the heights of heaven
+aetherius | 5 | of the air generally: aqua aetheria, rain
+aetherius | 6 | of the upper world: aura aetheria, the air of the living
+aethra1 | 1 | sky
+aethra1 | 3 | the pure upper air, the bright clear sky
+aevitas | 1 | lifetime
+aevitas | 3 | the span through which a person lives or a thing lasts, an older form of aetas
+aevitas | 4 | time without end, immortality
+aevitas | 5 | of the past, the time of long ago
+aevum | 1 | age
+aevum | 2 | eternity
+aevum | 3 | unending time, eternity: per aevum, for ever
+aevum | 4 | a lifetime, one's span of years: aevum agere, to live out one's life
+aevum | 5 | an age or generation of people
+aevum | 6 | the people living at one time
+aevum | 7 | time in general: vitiata dentibus aevi, worn away by the teeth of time
+affaber | 1 | ingenious
+affaber | 3 | made with art and skill, cleverly wrought
+affaber | 4 | of a person, skilled, with a hand for a craft
+affabilis | 1 | affable
+affabilis | 3 | easy to speak to, approachable, courteous and kind
+affatim | 1 | amply
+affatim | 3 | to one's satisfaction, enough and more, as much as anyone could want
+affatim | 4 | in later Latin before an adjective, thoroughly, fully
+affatus2 | 1 | address
+affatus2 | 3 | a speaking to someone, an address, chiefly a word of poetry
+affectatio | 1 | striving
+affectatio | 2 | affectation
+affectatio | 3 | an eager striving after something, in a good sense or a bad one
+affectatio | 4 | in rhetoric, straining after an effect one cannot carry off, affectation
+affectio | 1 | disposition
+affectio | 2 | affection
+affectio | 3 | the state something is put into by an influence, its condition or relation
+affectio | 4 | a passing state of mind, a mood or feeling
+affectio | 5 | a settled frame of mind, a disposition
+affectio | 6 | goodwill or love towards someone
+affectio | 7 | in legal Latin, the will or intention behind an act
+affecto | 1 | pursue
+affecto | 2 | feign
+affecto | 3 | to strive after something, to aim at it and work towards it
+affecto | 4 | in a bad sense, to grasp at a thing: regnum affectare, to aim at kingship
+affecto | 5 | in the historians, to try to win people over: civitates affectare, to work on the towns
+affecto | 6 | to affect a quality one has not got, to put it on
+affectus2 | 1 | feeling
+affectus2 | 2 | passion
+affectus2 | 3 | a state of mind produced by something, a mood or disposition
+affectus2 | 4 | love, fondness, goodwill, sympathy
+affectus2 | 5 | in the plural, one's dear ones, the people one loves
+affectus2 | 6 | a violent or base passion, an impulse that overrides reason
+affectus2 | 7 | in legal Latin, the will or intention behind an act
+affero | 1 | bring
+affero | 2 | report
+affero | 3 | to carry or bring something to a person or a place, of things one can carry
+affero | 4 | to bring news, to report or announce something
+affero | 5 | to cause or bring about a thing, especially a state of mind: dolorem afferre, to cause grief
+affero | 6 | to bring forward a reason or an excuse: causam afferre, to offer a pretext
+affero | 7 | to contribute towards an end, to be of use for it
+affero | 8 | of land, to yield or produce a crop
+affero | 9 | vim afferre alicui, to do violence to someone; manus afferre, to lay hands on
+afficio | 1 | affect
+afficio | 3 | to work on someone's body or mind, to put them into some state
+afficio | 4 | with the ablative, to visit someone with something, good or bad: poena afficere, to punish; honore afficere, to honour
+afficio | 5 | in a bad sense, to afflict or weaken: morbo affectus, stricken with disease
+afficio | 6 | affectus as an adjective: in a certain state, disposed or minded in some way
+afficio | 7 | affectus also worn down, weakened, in a bad way; and of a task, nearly done
+affigo | 1 | fasten
+affigo | 3 | to fix or fasten one thing to another, with ad or the dative
+affigo | 4 | to impress something on the mind: animo affigere, to fix it in the memory
+affigo | 5 | affixus as an adjective: attached to a person, glued to their side
+affingo | 1 | invent
+affingo | 2 | add
+affingo | 3 | of an artist, to model or form one part onto another
+affingo | 4 | to add something to a thing, to attach it
+affingo | 5 | to make up a detail and attach it falsely: multa affingere, to add much that is untrue
+affinis | 1 | neighbouring
+affinis | 2 | related
+affinis | 3 | bordering on something, lying next to it: ager affinis, the adjoining land
+affinis | 4 | related by marriage; as a noun, a connection by marriage such as a son-in-law
+affinis | 5 | mixed up in something, privy to it, with the dative or genitive: affinis culpae, party to the crime
+affinitas | 1 | kinship
+affinitas | 3 | relationship by marriage, the tie between a father and a son-in-law
+affinitas | 4 | any close connection or affinity between things
+affirmatio | 1 | assertion
+affirmatio | 3 | a firm statement, a declaration that a thing is so
+affirmo | 1 | assert
+affirmo | 2 | confirm
+affirmo | 3 | to state something as certain, to maintain or declare it
+affirmo | 4 | to confirm or strengthen a thing: spem affirmare, to make a hope firmer
+afflatus2 | 1 | breath
+afflatus2 | 2 | inspiration
+afflatus2 | 3 | a blowing or breathing on something, a blast of air
+afflatus2 | 4 | divine inspiration: sine afflatu divino, with no breath of the god in him
+afflicto | 1 | batter
+afflicto | 2 | distress
+afflicto | 3 | to knock something about, to damage it: naves afflictare, to batter the ships
+afflicto | 4 | to torment or distress someone, to wear them down
+affligo | 1 | strike
+affligo | 2 | ruin
+affligo | 3 | to dash or throw something down, to smash it against something
+affligo | 4 | to bring someone low, to ruin or crush them
+affligo | 5 | to lower the worth of a thing, to run it down
+affligo | 6 | causam affligere, to let a case one has taken on collapse
+affligo | 7 | afflictus as an adjective: battered and wretched; of character, abject and base
+afflo | 1 | breathe
+afflo | 3 | to blow or breathe on something
+afflo | 4 | to waft something to someone: auram voluntatis afflare, to bring a breath of goodwill
+afflo | 5 | to be favourable to someone, to smile on them
+affluentia | 1 | abundance
+affluentia | 3 | a flowing towards, an inflow
+affluentia | 4 | abundance, plenty, profusion
+affluo | 1 | abound
+affluo | 2 | flow
+affluo | 3 | of water, to flow towards or past a place
+affluo | 4 | of people, to stream in, to come flocking
+affluo | 5 | with the ablative, to overflow with something, to have it in abundance
+affor | 1 | address
+affor | 3 | to speak to someone, to address them, a poetic verb defective in its forms
+affor | 4 | in augury, to mark out the limits of a sacred space in words
+affrico | 1 | rub
+affrico | 3 | to rub one thing against another
+affrico | 4 | to pass something on by contact: rubiginem suam alicui affricare, to rub one's own rust off on someone
+affulgeo | 1 | shine
+affulgeo | 3 | to shine upon something, to cast a light on it
+affulgeo | 4 | of hope or fortune, to dawn, to appear, to break through
+affundo | 1 | pour
+affundo | 3 | to pour or sprinkle something onto or into a thing
+affundo | 4 | to send troops somewhere in haste, to pour them in
+affundo | 5 | affundi, to throw oneself flat on the ground, of a suppliant
+agaso | 1 | groom
+agaso | 3 | a driver, and especially one who looks after horses, a groom
+agaso | 4 | contemptuously, a lackey, a menial
+agellus | 1 | plot
+agellus | 3 | a small piece of land, a little farm
+ager | 1 | field
+ager | 2 | territory
+ager | 3 | the whole territory belonging to a community: ager Romanus, Roman territory
+ager | 4 | a field under cultivation, whether ploughland, pasture, or nursery
+ager | 5 | the country as against the town, the open fields
+ager | 6 | in poetry, low ground, a plain or valley as against the mountains
+ager | 7 | as a measure, the depth of a plot inward, where frons is its frontage
+agger | 1 | rampart
+agger | 2 | mound
+agger | 3 | material carried to a spot to raise it: earth, stones, brushwood, rubble
+agger | 4 | in siege warfare, the mound built up against a town wall to carry the engines
+agger | 5 | the rampart of a camp, thrown up from the earth dug out of the ditch
+agger | 6 | the general's platform of turf in camp, from which he addressed the troops
+agger | 7 | a raised road, a causeway or embanked highway
+aggero1 | 1 | heap
+aggero1 | 3 | to pile something up like a mound, to heap it high
+aggero1 | 4 | to increase something: aggerat iras, he heaps up their anger
+aggero1 | 5 | in gardening, to bank earth up round a tree to protect the roots
+aggero2 | 1 | convey
+aggero2 | 3 | to carry or bring something to a place, a different verb from aggero1
+aggero2 | 4 | to work soft material together, to stick it into a mass
+agglomero | 1 | attach
+agglomero | 3 | to wind or add one thing onto another
+agglomero | 4 | se agglomerare, to attach oneself to a group, to fall in with them
+agglutino | 1 | glue
+agglutino | 3 | to glue, cement, or fasten one thing tight against another
+agglutino | 4 | of troubles, to stick fast to someone, to cling to them
+aggravo | 1 | worsen
+aggravo | 2 | burden
+aggravo | 3 | to make something heavier, to add to its weight
+aggravo | 4 | to make a thing worse or more dangerous, to aggravate it
+aggravo | 5 | to weigh someone down, to oppress or burden them
+aggredio | 1 | approach
+aggredio | 3 | the rare active form of aggredior, to go up to something
+aggredior | 1 | attack
+aggredior | 2 | undertake
+aggredior | 3 | to go up to a person or a place, to approach
+aggredior | 4 | to approach someone to ask or persuade, to work on them
+aggredior | 5 | to attack or assault, of an open attack where adorior suggests a surprise
+aggredior | 6 | to set about a task, to undertake or begin it, with an infinitive or ad
+aggrego | 1 | gather
+aggrego | 3 | to add something to a flock or a group
+aggrego | 4 | se aggregare, to attach oneself to a party or a person, to join them
+aggressio | 1 | attack
+aggressio | 3 | in rhetoric, the opening approach of a speech, a proem
+aggressio | 4 | an attack or an assault
+agilis | 1 | nimble
+agilis | 2 | active
+agilis | 3 | easily moved, light and quick to handle: classis agilis, a handy fleet
+agilis | 4 | quick-moving, swift, agile
+agilis | 5 | busy and prompt in action, energetic
+agilitas | 1 | nimbleness
+agilitas | 3 | ease and quickness of movement, speed, agility
+agilitas | 4 | of the mind, quickness and liveliness
+agitatio | 1 | movement
+agitatio | 2 | agitation
+agitatio | 3 | the state of being in motion: agitatio fluctuum, the heaving of the waves
+agitatio | 4 | activity of mind, the mind's constant working
+agitator | 1 | driver
+agitator | 3 | one who drives animals along, a drover
+agitator | 4 | a charioteer, a competitor in the games of the circus
+agitatus | 1 | movement
+agitatus | 3 | a being in motion, movement
+agitatus | 4 | activity of the mind
+agito | 1 | drive
+agito | 2 | ponder
+agito | 3 | to keep something in motion, to drive or impel it: agitare equum, to put a horse through its paces
+agito | 4 | of wind or water, to toss a thing about, to buffet it
+agito | 5 | to rouse or urge someone on to something
+agito | 6 | to harass or torment someone, to give them no peace
+agito | 7 | to attack with mockery or reproach, to jeer at someone
+agito | 8 | to be busy with a thing, to carry it on: agitare vitam, to spend one's life
+agito | 9 | to turn something over in the mind, to weigh it: agitare in animo, to consider
+agito | 10 | to discuss a matter, to debate it in company
+agmen | 1 | column
+agmen | 2 | army
+agmen | 3 | a body of things or people on the move, a train or a stream
+agmen | 4 | an army on the march, and the march itself: agmine facto, in marching order
+agmen | 5 | primum agmen, the vanguard; novissimum agmen, the rearguard
+agmen | 6 | a band or multitude of anything: agmen aquarum, a rush of water
+agmen | 7 | the movement or onward course of a thing
+agna1 | 1 | lamb
+agna1 | 3 | a ewe lamb, the female of agnus
+agnascor | 1 | accrue
+agnascor | 3 | of a child, to be born after the father has made his will, which breaks the will
+agnascor | 4 | of an adopted child, to come into a family
+agnascor | 5 | of plants, teeth, or limbs, to grow on afterwards
+agnascor | 6 | agnatus as a noun, a relation on the father's side
+agnatio | 1 | kinship
+agnatio | 3 | relationship on the father's side, agnatic descent
+agnatio | 4 | the being born after a father's will was made or after his death
+agnatio | 5 | a growing on to something
+agninus | 1 | lamb
+agninus | 3 | belonging to a lamb: agninus pes, a lamb's trotter
+agninus | 4 | agnina as a noun, lamb as meat
+agnitio | 1 | recognition
+agnitio | 2 | knowledge
+agnitio | 3 | a recognising or acknowledging of a thing, its formal acceptance
+agnitio | 4 | knowledge or grasp of a thing: agnitio animi, understanding of the soul's nature
+agnomen | 1 | nickname
+agnomen | 3 | a name won by an achievement, such as Africanus, as against the inherited cognomen
+agnominatio | 1 | wordplay
+agnominatio | 3 | the figure of setting together words alike in sound but different in sense, paronomasia
+agnosco | 1 | recognize
+agnosco | 2 | acknowledge
+agnosco | 3 | to know something again, to recognise it as met before
+agnosco | 4 | to acknowledge a thing as one's own: filium agnoscere, to own a child as one's son
+agnosco | 5 | to admit or confess something
+agnosco | 6 | to make a thing out from evidence: ex operibus agnoscere, to know from the works
+agnus | 1 | lamb
+agnus | 3 | a lamb, and especially a male lamb
+ago | 1 | do
+ago | 2 | drive
+ago | 3 | to do or act, to be busy: quid agis?, what are you doing, and as a greeting, how are you?
+ago | 4 | to drive animals or people along, and so to drive off as plunder: ferre et agere, to carry off and drive away
+ago | 5 | to carry out or transact a thing: agere negotium, to do business; hoc age, attend to this
+ago | 6 | of time, to spend or pass: aetatem agere, to live out one's life; annum agere quintum, to be in one's fifth year
+ago | 7 | in public affairs, to conduct or manage: agere bellum, to wage a war; agere cum aliquo, to treat with someone
+ago | 8 | in court, to plead or prosecute: causam agere, to plead a case; agere reum, to bring someone to trial
+ago | 9 | res agitur, the matter is at stake; actum est de me, it is all over with me; actum ne agas, do not do what is already done
+ago | 10 | age or agite as an interjection, come on, well then, all right
+agrarius | 1 | agrarian
+agrarius | 3 | to do with land: leges agrariae, the laws for dividing up public land
+agrarius | 4 | agrarii as a noun, the party that pressed for those laws
+agrestis | 1 | rural
+agrestis | 2 | boorish
+agrestis | 3 | belonging to the fields or the country: agrestis Musa, a country muse
+agrestis | 4 | growing wild, uncultivated
+agrestis | 5 | of a person, rustic and unpolished, as against urbanus, rude and clownish
+agrestis | 6 | wild, savage, brutish
+agricola1 | 1 | farmer
+agricola1 | 3 | one who works the land, a farmer or husbandman
+agricola1 | 4 | of the gods who watch over farming, such as Ceres and Faunus
+agricultura | 1 | farming
+agricultura | 3 | the working of the land, agriculture
+ah | 1 | ah
+ah | 3 | an exclamation of pain or grief: ah, nescis quam doleam, ah, you do not know how it hurts
+ah | 4 | of entreaty, warding something off: ah, noli, oh please, do not
+ah | 5 | of indignation or reproach: ah stulte, you fool
+ah | 6 | also of warning, of comfort, or of amusement, according to the tone
+ai1 | 1 | alas
+ai1 | 3 | a cry of grief taken from the Greek, ah, alas
+aio | 1 | say
+aio | 2 | affirm
+aio | 3 | to say yes, to affirm, the opposite of nego: aut aie aut nega, either say yes or say no
+aio | 4 | to say or assert something, where dico is to speak in order to inform
+aio | 5 | in quoting someone: ut ait Cicero, as Cicero puts it
+aio | 6 | aiunt or ut aiunt, they say, as the saying goes, bringing in a proverb
+aio | 7 | of a law or a magistrate, to lay down or prescribe: ait lex, the law says
+aio | 8 | ain? for aisne?, you don't say? really?
+aio | 9 | quid ais?, what do you mean, or as an opener, look here
+ala | 1 | wing
+ala | 2 | armpit
+ala | 3 | the wing of a bird
+ala | 4 | in a person the armpit, in an animal the hollow of the shoulder
+ala | 5 | in a plant, the fork where a branch leaves the stem
+ala | 6 | in a house, the side rooms or wings off the main hall
+ala | 7 | in an army, the wing, made up chiefly of cavalry and allied troops
+alacer | 1 | eager
+alacer | 2 | brisk
+alacer | 3 | lively and quick, full of go, of people and of animals
+alacer | 4 | cheerful, in good spirits, glad
+alacer | 5 | of things, keen or lively: alacris voluptas, a quick pleasure
+alacritas | 1 | eagerness
+alacritas | 2 | cheerfulness
+alacritas | 3 | liveliness, briskness, readiness to act
+alacritas | 4 | gladness, high spirits
+alapa | 1 | slap
+alapa | 3 | a blow on the cheek with the open hand, a box on the ear
+alarius | 1 | auxiliary
+alarius | 3 | belonging to the wing of an army: cohortes alariae, the allied troops on the wings, as against the legionaries
+alauda | 1 | lark
+alauda | 3 | the lark
+alauda | 4 | the name of a legion Caesar raised in Gaul at his own expense
+albarius | 1 | stucco
+albarius | 3 | to do with the whitening of walls: opus albarium, white stucco work
+albatus | 1 | white-robed
+albatus | 3 | dressed in white, as at a feast or a festival
+albeo | 1 | whiten
+albeo | 3 | to be white, to show white: campi ossibus albent, the plains are white with bones
+albesco | 1 | blanch
+albesco | 3 | to turn white, to grow light: dies albescit, day is breaking
+albico | 1 | whiten
+albico | 3 | to be white, to show white: prata pruinis albicant, the meadows are white with frost
+albico | 4 | to make a thing white, to turn it white with foam
+albus | 1 | white
+albus | 2 | pale
+albus | 3 | white in a flat, dull way, where candidus is a shining white and ater a dull black
+albus | 4 | pale from illness, fear, or worry
+albus | 5 | of clothing, white, the colour worn at festivals
+albus | 6 | favourable, lucky, kindly: alba stella, the star that brings fair weather
+albus | 7 | of a wind, clearing the clouds away and so drying
+albus | 8 | album as a noun, the colour white, and also the white of an egg or of the eye
+albus | 9 | album as a noun, a whitened board for public notices: the praetor's edicts, the roll of senators
+albus | 10 | proverbial: albus an ater sit nescio, whether he is white or black I have no idea, that is, I know nothing of the man
+alcedo | 1 | kingfisher
+alcedo | 3 | the kingfisher, the halcyon of the poets
+alcedonia | 1 | calm
+alcedonia | 3 | the fourteen winter days when the kingfisher broods and the sea stays calm, the halcyon days
+alcedonia | 4 | a deep quiet, a spell of stillness
+alcyoneus | 1 | halcyon
+alcyoneus | 3 | belonging to the halcyon: alcyonei dies, the halcyon days
+alcyoneus | 4 | alcyoneum as a noun, sea foam used as a salve for blemishes on the skin
