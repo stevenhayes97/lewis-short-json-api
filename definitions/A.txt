@@ -86,7 +86,7 @@ abitus | 3 | a going away, a departure
 abitus | 4 | the way out, the exit, the place one leaves by
 abjudico | 1 | disallow
 abjudico | 3 | to take something from someone by a court's decision, to rule that it is not theirs (the opposite of adiudico)
-abjuro | 1 | disavow
+abjuro | 1 | deny on oath
 abjuro | 3 | to deny on oath that you hold something, especially money left in your keeping
 ablego | 1 | dismiss
 ablego | 3 | to send someone away, to get them out of the way
@@ -367,7 +367,7 @@ acclino | 4 | se acclinare, to incline towards a side or a party
 accola | 1 | neighbour
 accola | 3 | someone living near a place, a neighbour, where incola is one living in it
 accola | 4 | as an adjective, neighbouring, dwelling alongside
-accolo | 1 | adjoin
+accolo | 1 | dwell near
 accolo | 3 | to live beside or near something, with the accusative: accolere Histrum, to live along the Danube
 accommodatio | 1 | adjustment
 accommodatio | 3 | the fitting of one thing to another, adaptation
@@ -399,11 +399,11 @@ accumulo | 1 | accumulate
 accumulo | 3 | to heap something up, to pile it higher
 accumulo | 4 | to increase something by adding to it, to pile on honour or grief
 accumulo | 5 | in farming, to bank earth up round the roots of a plant
-accuro | 1 | tend
+accuro | 1 | do carefully
 accuro | 3 | to do something with care, to see to it properly
 accuro | 4 | to look after a guest, to entertain them well
 accuro | 5 | accuratus as an adjective: done with care, painstaking, elaborate
-accurro | 1 | hurry
+accurro | 1 | run up
 accurro | 3 | to run up to a place, to come hurrying
 accurro | 4 | of ideas, to come to mind unbidden, to present themselves at once
 accusatio | 1 | accusation
@@ -447,7 +447,7 @@ acerbus | 6 | of a person, rough, morose, severe, hard to deal with
 acerbus | 7 | of events, grievous, painful, sad: acerba funera, untimely deaths
 acerra | 1 | censer
 acerra | 3 | a casket holding the incense used at sacrifices and at funerals
-acervatim | 1 | wholesale
+acervatim | 1 | in heaps
 acervatim | 3 | in heaps, by piling up: acervatim mors accumulabat, death piled them up in heaps
 acervatim | 4 | of speech, summarily, all together, without going into detail
 acervo | 1 | heap
@@ -708,7 +708,7 @@ adipiscor | 5 | adeptus is sometimes passive in sense, having been obtained
 aditio | 1 | approach
 aditio | 3 | a going up to something, an approach
 aditio | 4 | aditio hereditatis, the formal entering upon an inheritance
-adito | 1 | visit
+adito | 1 | visit often
 adito | 3 | to go to a place again and again, to keep approaching, an early Latin word
 aditus2 | 1 | approach
 aditus2 | 2 | entrance
@@ -716,7 +716,7 @@ aditus2 | 3 | a going to a thing, an approach
 aditus2 | 4 | leave to approach someone, admittance: aditus faciles, easy of access
 aditus2 | 5 | the way in, the entrance or avenue, the opposite of abitus
 aditus2 | 6 | an opening or opportunity for something
-adjaceo | 1 | adjoin
+adjaceo | 1 | lie near
 adjaceo | 3 | to lie next to something, to border on it, with the dative or accusative, usually of places
 adjectio | 1 | addition
 adjectio | 3 | an adding on, an increase
@@ -824,7 +824,7 @@ admodum | 3 | to a great degree, very, exceedingly, with adjectives, verbs, and 
 admodum | 4 | fully, completely, of numbers and time: turres admodum centum viginti, a full hundred and twenty towers
 admodum | 5 | with a negative, at all: nullus admodum, none whatever
 admodum | 6 | in an answer, just so, quite right, certainly
-admolior | 1 | apply
+admolior | 1 | lay hands on
 admolior | 3 | to bring or move one thing up to another: manus admoliri, to lay hands on something
 admolior | 4 | to struggle or push one's way towards a place
 admoneo | 1 | remind
@@ -851,8 +851,8 @@ admordeo | 3 | to bite into something, to gnaw at it
 admordeo | 4 | to take a bite out of someone's money, to fleece them
 admotio | 1 | application
 admotio | 3 | the bringing of one thing to another: digitorum admotio, the placing of the fingers on an instrument
-admoveo | 1 | apply
-admoveo | 2 | move
+admoveo | 1 | bring near
+admoveo | 2 | apply
 admoveo | 3 | to bring or move something up to a place, with ad or the dative
 admoveo | 4 | in war, to bring up troops or siege works: turres admovere, to move the towers up
 admoveo | 5 | to put one thing to another for a purpose: manum admovere, to set a hand to something
@@ -864,7 +864,7 @@ admurmuratio | 4 | a murmur of approval
 admutilo | 1 | fleece
 admutilo | 3 | to clip or shave someone close
 admutilo | 4 | to fleece someone of their money, a joke of Plautus
-adnepos | 1 | descendant
+adnepos | 1 | great-great-great-grandson
 adnepos | 3 | the son of an abnepos, that is, a great-great-great-grandson
 adoleo1 | 1 | burn
 adoleo1 | 3 | in sacrifice, to burn an offering on the altar, and so to honour or worship a god
@@ -981,7 +981,7 @@ aduro | 3 | to set something alight, to singe or scorch it
 aduro | 4 | of frost, wind, or locusts, to nip and spoil a crop
 aduro | 5 | in poetry, of love, to burn or inflame someone
 aduro | 6 | adustus as an adjective: sunburnt, browned, swarthy
-adusque | 1 | unto
+adusque | 1 | as far as
 adusque | 3 | as a preposition with the accusative, all the way to, right up to
 adusque | 4 | as an adverb, throughout, wholly, a strengthened usque
 adustio | 1 | burning
@@ -1045,7 +1045,7 @@ advesperascit | 3 | impersonal: evening is coming on, it is getting dark
 advigilo | 1 | watch
 advigilo | 3 | to keep watch over something, to guard it, with ad or the dative
 advigilo | 4 | to give one's care and attention to a thing, to be vigilant for it
-advivo | 1 | survive
+advivo | 1 | live on
 advivo | 3 | to go on living, to live on
 advivo | 4 | to live alongside someone: cum quo advixit, with whom she lived
 advocatio | 1 | counsel
@@ -1096,9 +1096,9 @@ aedilis | 1 | aedile
 aedilis | 3 | a Roman magistrate in charge of public buildings, streets, markets, and the games
 aedilitas | 1 | aedileship
 aedilitas | 3 | the office of aedile, and the term of holding it
-aeditimus | 1 | sacristan
+aeditimus | 1 | temple keeper
 aeditimus | 3 | the keeper and caretaker of a temple, the older form of aedituus
-aedituus | 1 | sacristan
+aedituus | 1 | temple keeper
 aedituus | 3 | the keeper of a temple, its caretaker and guard
 aedituus | 4 | in Christian Latin, a minister or priest of the sanctuary
 aeger | 1 | sick
@@ -1180,7 +1180,7 @@ aequanimitas | 1 | equanimity
 aequanimitas | 2 | goodwill
 aequanimitas | 3 | in early Latin, kindly feeling, goodwill towards someone
 aequanimitas | 4 | in later Latin, calmness under trouble, patience, equanimity
-aequidici | 1 | antithesis
+aequidici | 1 | balanced verses
 aequidici | 3 | verses built out of balanced, matching expressions, what the Greeks call antithetic
 aequinoctium | 1 | equinox
 aequinoctium | 3 | the time when day and night are of equal length, the equinox
@@ -1320,7 +1320,7 @@ aetas | 5 | an age or generation: aetates heroicae, the age of heroes
 aetas | 6 | the people living at a time, the age standing for its men
 aetas | 7 | of things, their age: aetatem fert, said of wine, it carries its years well
 aetas | 8 | aetatem as an adverb, all one's days, and so for ages, this long while
-aetatula | 1 | childhood
+aetatula | 1 | tender youth
 aetatula | 3 | tender youth, the soft early years, often with a hint of indulgence
 aeternalis | 1 | everlasting
 aeternalis | 3 | lasting for ever, a late word common in inscriptions: aeternalis somnus, the sleep of death
@@ -1654,11 +1654,11 @@ albarius | 1 | of stucco
 albarius | 3 | to do with the whitening of walls: opus albarium, white stucco work
 albatus | 1 | white-robed
 albatus | 3 | dressed in white, as at a feast or a festival
-albeo | 1 | whiten
+albeo | 1 | be white
 albeo | 3 | to be white, to show white: campi ossibus albent, the plains are white with bones
-albesco | 1 | blanch
+albesco | 1 | turn white
 albesco | 3 | to turn white, to grow white: albescens capillus, hair going grey
-albico | 1 | whiten
+albico | 1 | be white
 albico | 3 | to be white, to show white: prata pruinis albicant, the meadows are white with frost
 albico | 4 | to make a thing white, to turn it white with foam
 albus | 1 | white

@@ -82,18 +82,32 @@ This is the part that matters most, and the part most easily got wrong.
 
 Ranks 1 and 2 are shown together in their own section on the entry page, with
 no sentence around them to lean on, so each has to read correctly alone.
-**One word is the default; two or three are allowed only where one word
-misreads** — `check` fails at four. The test is part of speech: an adjective
-glossed with a bare noun looks like a noun (`aestivus | 1 | of summer`, not
-`summer`, since `aestas` is the noun and `aestivo` the verb), and a verb needs
-a verb (`aestivo | 1 | spend the summer`, `absum | 1 | be absent`). Verbs still
-drop the "to". Thirteen of the first 410 words needed the extra words; if a
-chunk wants many more than that, the bar is being applied too loosely.
 
-A short gloss may be an uncommon English word if that is the accurate one —
-`aedilicius | 1 | aedilician`, `admirabilitas | 1 | wonderfulness`,
-`adusque | 1 | unto`, `acervatim | 1 | wholesale` are all deliberate. Precision
-beats familiarity here; rank 3 carries the plain-English explanation.
+**Accuracy first, brevity second.** One word is the target, but two or three
+are right whenever one word would only approximate — `check` fails at four.
+Never sacrifice a real definition to keep the count at one: `adnepos` is a
+great-great-great-grandson, not a "descendant"; `acervatim` is `in heaps`, not
+"wholesale"; `adusque` is `as far as`, not "unto". Those three were one-word
+glosses that told a learner something vaguer than the truth.
+
+Two tests catch most cases:
+
+- **Part of speech.** An adjective glossed with a bare noun reads as a noun —
+  `aestivus | 1 | of summer`, not `summer`, since `aestas` is the noun and
+  `aestivo` the verb. A verb needs a verb: `aestivo | 1 | spend the summer`,
+  `absum | 1 | be absent`. Verbs still drop the "to".
+- **Words a shared gloss would blur.** `accolo` (of people) and `adjaceo` (of
+  places) were both "adjoin"; they are now `dwell near` and `lie near`.
+  `albeo`/`albico` are stative and `albesco` inchoative: `be white` against
+  `turn white`.
+
+About 6% of the first 410 words use more than one word. A chunk running far
+above that is padding; far below it is probably forcing single words that do
+not fit.
+
+An uncommon English word is fine when it is the exact one — `aedilicius | 1 |
+aedilician` and `admirabilitas | 1 | wonderfulness` are deliberate. The rule
+is against *vagueness*, not against precision that happens to be unfamiliar.
 
 Rank 2 is the only rank that may be skipped — a `1 → 3` jump is legal, any
 other gap is an error. Cap is 10 ranks per word; most words want 4–8, and a
