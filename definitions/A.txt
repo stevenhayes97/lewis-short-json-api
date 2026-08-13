@@ -868,3 +868,394 @@ admutilo | 3 | to clip or shave someone close
 admutilo | 4 | to fleece someone of their money, a joke of Plautus
 adnepos | 1 | descendant
 adnepos | 3 | the son of an abnepos, that is, a great-great-great-grandson
+adoleo1 | 1 | burn
+adoleo1 | 3 | in sacrifice, to burn an offering on the altar, and so to honour or worship a god
+adoleo1 | 4 | in later Latin, simply to burn something up
+adolesco | 1 | grow
+adolesco | 3 | to grow up towards full size, of people, animals, plants, and seasons
+adolesco | 4 | of feelings and other abstract things, to grow greater, to increase
+adolesco | 5 | in sacrifice, of an altar fire, to blaze up
+adolesco | 6 | adultus as an adjective: grown up, full-grown, mature
+adoperio | 1 | cover
+adoperio | 3 | to cover something over, most often in the perfect participle: capite adoperto, with the head covered
+adoptatio | 1 | adoption
+adoptatio | 3 | the taking of someone as one's own child
+adoptio | 1 | adoption
+adoptio | 3 | the taking of someone into the family in place of a son or a grandson
+adoptio | 4 | of plants, grafting; of bees, admission into a new hive
+adoptivus | 1 | adoptive
+adoptivus | 3 | belonging to or gained by adoption: filius adoptivus, an adopted son
+adoptivus | 4 | of a plant, grafted onto another stock
+adopto | 1 | adopt
+adopto | 2 | choose
+adopto | 3 | to take something to oneself by choice, to pick or select it
+adopto | 4 | to adopt someone as a son or grandson, a formal act at law
+adopto | 5 | in gardening, to graft a shoot onto another tree
+ador | 1 | spelt
+ador | 3 | a kind of grain, spelt, used in the oldest Roman sacrifices
+adoreus1 | 1 | spelt
+adoreus1 | 3 | made of spelt, of spelt: far adoreum, spelt grain
+adoreus1 | 4 | adorea as a noun, a reward for valour and so glory in war, from the grain once given as a prize
+adorior | 1 | attack
+adorior | 2 | undertake
+adorior | 3 | to go up to someone in order to speak, to accost them
+adorior | 4 | to come at someone with hostile intent, to assault them
+adorior | 5 | to set about something hard or dangerous, to attempt it
+adorno | 1 | equip
+adorno | 2 | adorn
+adorno | 3 | to get something ready for a purpose, to fit it out or provide it
+adorno | 4 | to decorate or embellish something, to dress it up
+adoro | 1 | worship
+adoro | 2 | entreat
+adoro | 3 | in the earliest Latin, to speak to someone, to address them or treat with them
+adoro | 4 | to entreat a god, to pray for something
+adoro | 5 | to reverence and worship a god, to adore
+adoro | 6 | to admire or esteem someone highly, with no religious sense
+adoro | 7 | under the emperors, to pay a ruler divine honours in the eastern manner
+adrado | 1 | shave
+adrado | 3 | to scrape or shave something close, to pare it down
+adrado | 4 | of a piece of writing, to trim it back, to prune it
+adsum | 1 | attend
+adsum | 2 | support
+adsum | 3 | to be present, to be there, the opposite of absum
+adsum | 4 | of time, to be at hand, to have come: Vesper adest, evening is here
+adsum | 5 | to stand by someone and help them, to support them, with the dative
+adsum | 6 | to appear before a court, to answer a summons
+adsum | 7 | adesse animo or animis, to pay attention, and also to take heart
+adsum | 8 | to arrive, to turn up, to come on the scene
+adsum | 9 | of the senate, to attend, to be in session
+adulatio | 1 | flattery
+adulatio | 3 | the fawning of a dog, its wagging welcome
+adulatio | 4 | cringing flattery, servile adulation
+adulatio | 5 | the eastern custom of prostrating oneself before a king
+adulator | 1 | flatterer
+adulator | 3 | a cringing flatterer, a sycophant
+adulescens | 1 | youth
+adulescens | 3 | as an adjective, growing up, not yet come to full growth
+adulescens | 4 | a young man or a young woman, roughly between fifteen and thirty
+adulescentia | 1 | youth
+adulescentia | 3 | the time of life between boyhood and full manhood, roughly from fifteen to thirty
+adulescentula | 1 | girl
+adulescentula | 3 | a very young girl, and also a term of endearment for a grown woman
+adulescentulus | 1 | youngster
+adulescentulus | 3 | a very young man; Cicero uses the word of himself at twenty-seven
+adulo | 1 | fawn
+adulo | 3 | of a dog, to fawn, to whine and wag in welcome
+adulor | 1 | flatter
+adulor | 2 | fawn
+adulor | 3 | of an animal, to fawn on someone, to cling to them
+adulor | 4 | to flatter someone cringingly, to play the sycophant
+adulor | 5 | to prostrate oneself before a king in the eastern manner
+adulter1 | 1 | adulterer
+adulter1 | 3 | an adulterer, or in the feminine an adulteress
+adulter1 | 4 | adulter solidorum, a counterfeiter of coin
+adulter1 | 5 | in Christian Latin, a bastard, the child of an unlawful union
+adulter2 | 1 | adulterous
+adulter2 | 3 | adulterous, unchaste: crines adulteri, a lover's carefully curled hair
+adulter2 | 4 | counterfeit, false, not genuine
+adulterinus | 1 | counterfeit
+adulterinus | 2 | adulterous
+adulterinus | 3 | born of adultery; of animals, not full-blooded
+adulterinus | 4 | false or forged: signum adulterinum, a forged seal
+adulterium | 1 | adultery
+adulterium | 3 | adultery, relations with another man's wife
+adulterium | 4 | the adulteration of goods, the faking of honey or of merchandise
+adultero | 1 | adulterate
+adultero | 2 | defile
+adultero | 3 | to commit adultery, to defile a marriage
+adultero | 4 | to falsify or adulterate a thing, to counterfeit it
+adumbratio | 1 | sketch
+adumbratio | 3 | a sketch in shadow, a drawing in perspective
+adumbratio | 4 | a rough outline of a thing, a first draft
+adumbratio | 5 | a mere show, a pretence, the semblance of something
+adumbro | 1 | sketch
+adumbro | 2 | shade
+adumbro | 3 | to cast a shadow over something, to overshadow it
+adumbro | 4 | in painting, to shade, to work in light and shade
+adumbro | 5 | to represent a thing in outline only, and so imperfectly
+adumbro | 6 | adumbratus as an adjective: counterfeit, feigned, apparent only
+aduncus | 1 | hooked
+aduncus | 3 | bent like a hook, curved: nasus aduncus, an aquiline nose
+aduno | 1 | unite
+aduno | 3 | to make things one, to gather them into a single body
+aduro | 1 | scorch
+aduro | 2 | burn
+aduro | 3 | to set something alight, to singe or scorch it
+aduro | 4 | of frost, wind, or locusts, to nip and spoil a crop
+aduro | 5 | in poetry, of love, to burn or inflame someone
+aduro | 6 | adustus as an adjective: sunburnt, browned, swarthy
+adusque | 1 | unto
+adusque | 3 | as a preposition with the accusative, all the way to, right up to
+adusque | 4 | as an adverb, throughout, wholly, a strengthened usque
+adustio | 1 | burning
+adustio | 3 | a burning or scorching, and the burn it leaves
+adustio | 4 | an inflammation, especially the sunstroke in children called siriasis
+adveho | 1 | convey
+adveho | 3 | to carry or bring someone or something to a place, especially by cart or ship
+adveho | 4 | in the passive, to be brought to a place, to arrive by transport
+advena | 1 | newcomer
+advena | 2 | foreigner
+advena | 3 | someone who has come from elsewhere, a stranger or an immigrant
+advena | 4 | of birds, migratory, coming from abroad
+advena | 5 | a stranger to a subject, someone ignorant or unpractised in it
+advenio | 1 | arrive
+advenio | 3 | to come to a place, to reach it or arrive at it
+advenio | 4 | of a time or an event, to come on, to arrive
+advenio | 5 | to come into someone's possession, to fall to them
+advenio | 6 | of a letter, to be delivered, to come in
+adventicius | 1 | foreign
+adventicius | 2 | extra
+adventicius | 3 | coming from outside, foreign, not one's own
+adventicius | 4 | added beyond what is usual, out of the ordinary: fructus adventicius, an unlooked-for yield
+adventicius | 5 | got without one's own effort: pecunia adventicia, money from outside the family estate
+adventicius | 6 | belonging to an arrival: cena adventicia, a welcome-home dinner
+advento | 1 | approach
+advento | 3 | to keep drawing nearer, to be on the way, said of a person or an army
+advento | 4 | of a time or a disaster, to be coming on
+adventor | 1 | visitor
+adventor | 3 | someone who arrives, a guest
+adventor | 4 | a customer at an inn or a shop
+adventus | 1 | arrival
+adventus | 3 | a coming, an approach, an arrival
+adventus | 4 | the state of being there after arriving, one's presence
+adventus | 5 | of troubles or of mental images, their onset, their coming upon one
+adverbialis | 1 | adverbial
+adverbialis | 3 | belonging to an adverb, or used as one
+adversarius | 1 | opponent
+adversarius | 2 | hostile
+adversarius | 3 | standing opposite, set against someone in any kind of contest
+adversarius | 4 | as a noun, an antagonist, opponent, rival, or enemy
+adversarius | 5 | adversaria in the plural, a day book, the rough account book kept before entries were written up
+adversor | 1 | oppose
+adversor | 3 | to set oneself against someone or something, to resist them, with the dative
+adversus3 | 1 | against
+adversus3 | 2 | towards
+adversus3 | 3 | as an adverb, opposite, facing, in the way: ire adversus, to go to meet someone
+adversus3 | 4 | as a preposition, facing or opposite a thing, in front of it
+adversus3 | 5 | of behaviour, towards someone: quo modo me gererem adversus Caesarem, how I should conduct myself towards Caesar
+adversus3 | 6 | in a hostile sense, against: adversus hostem, against the enemy
+adversus3 | 7 | in comparison with, set beside something
+adverto | 1 | turn
+adverto | 2 | notice
+adverto | 3 | to turn a thing towards a place or a person
+adverto | 4 | of ships, to steer or bring in to shore
+adverto | 5 | animum advertere, to turn the mind to something, and so to notice or perceive it
+adverto | 6 | to draw someone else's attention to a thing, to make them look
+adverto | 7 | advertere in aliquem, to deal with someone, that is, to punish them
+adverto | 8 | adversus as an adjective: facing, in front; and hostile, unfavourable: res adversae, misfortune
+advesperascit | 1 | darkens
+advesperascit | 3 | impersonal: evening is coming on, it is getting dark
+advigilo | 1 | watch
+advigilo | 3 | to keep watch over something, to guard it, with ad or the dative
+advigilo | 4 | to give one's care and attention to a thing, to be vigilant for it
+advivo | 1 | survive
+advivo | 3 | to go on living, to live on
+advivo | 4 | to live alongside someone: cum quo advixit, with whom she lived
+advocatio | 1 | counsel
+advocatio | 3 | legal help given to a party in a suit
+advocatio | 4 | the whole body of counsel supporting someone, the bar
+advocatio | 5 | the time allowed for finding legal help, and so an adjournment or delay
+advocatio | 6 | in later Latin, comfort or consolation
+advoco | 1 | summon
+advoco | 2 | consult
+advoco | 3 | to call someone to a place, especially for advice or help
+advoco | 4 | to call someone in as counsel or a witness in a suit
+advoco | 5 | to turn the mind to a thing: animum ad se advocare, to call one's thoughts home
+advoco | 6 | to ask for a delay or an adjournment
+advoco | 7 | advocatus as a noun: a supporter in court, and in later Latin an advocate or barrister
+advolo | 1 | fly
+advolo | 3 | of birds, to fly to a place
+advolo | 4 | of people, to rush up, to come flying: advolare ad urbem, to descend on the city
+advolvo | 1 | roll
+advolvo | 3 | to roll something up to a place: robora focis advolvere, to roll logs to the hearth
+advolvo | 4 | of a suppliant, to throw oneself down before someone: genibus advolvi, to fall at their knees
+aedes | 1 | temple
+aedes | 2 | house
+aedes | 3 | in the singular, a temple, the dwelling of a god, originally a single undivided room
+aedes | 4 | in the plural, a house, a dwelling made up of several rooms
+aedes | 5 | of bees, their cells or hive
+aedes | 6 | aedes aurium, the chambers of the ears, a figure of Plautus
+aedicula | 1 | shrine
+aedicula | 3 | a small chapel or shrine holding a god's statue
+aedicula | 4 | in the plural, a small house, a modest dwelling
+aedificatio | 1 | building
+aedificatio | 3 | the act of building, construction
+aedificatio | 4 | a building itself, a structure
+aedificatio | 5 | in Christian Latin, edification, the building up of the faithful
+aedificator | 1 | builder
+aedificator | 3 | one who builds, a builder
+aedificator | 4 | someone with a passion for building, given to putting things up
+aedificium | 1 | building
+aedificium | 3 | a building of any kind, even one not meant to be lived in, where aedes is a dwelling
+aedifico | 1 | build
+aedifico | 3 | to build a house, to put a building up
+aedifico | 4 | to construct anything at all: navem aedificare, to build a ship
+aedifico | 5 | to build up or establish something abstract: rem publicam aedificare
+aedifico | 6 | in Christian Latin, to build someone up in faith, to edify
+aedilicius | 1 | aedilician
+aedilicius | 3 | belonging to an aedile: munus aedilicium, an aedile's public duty
+aedilicius | 4 | as a noun, a man who has held the aedileship
+aedilis | 1 | aedile
+aedilis | 3 | a Roman magistrate in charge of public buildings, streets, markets, and the games
+aedilitas | 1 | aedileship
+aedilitas | 3 | the office of aedile, and the term of holding it
+aeditimus | 1 | sacristan
+aeditimus | 3 | the keeper and caretaker of a temple, the older form of aedituus
+aedituus | 1 | sacristan
+aedituus | 3 | the keeper of a temple, its caretaker and guard
+aedituus | 4 | in Christian Latin, a minister or priest of the sanctuary
+aeger | 1 | sick
+aeger | 2 | troubled
+aeger | 3 | ill in body, unwell, diseased, of people, animals, and even plants
+aeger | 4 | troubled in mind, anxious, sad: aeger amore, sick with love
+aeger | 5 | of the state, weak and failing, in a bad way
+aeger | 6 | as a noun, a sick person, a patient
+aeger | 7 | the adverb aegre: with difficulty, hardly, scarcely
+aeger | 8 | aegre ferre, to take a thing badly, to be put out by it
+aegis | 1 | aegis
+aegis | 3 | the shield of Jupiter, and the shield of Minerva bearing the Gorgon's head
+aegis | 4 | any shield or defence
+aegis | 5 | in the larch tree, the wood lying nearest the pith
+aegresco | 1 | sicken
+aegresco | 3 | to fall ill, to grow sick
+aegresco | 4 | to grow worse, to become more violent: aegrescit medendo, it grows worse for the treating
+aegresco | 5 | to be troubled or grieved, to pine with care
+aegrimonia | 1 | sorrow
+aegrimonia | 3 | grief or anxiety of mind, a trouble that gnaws at one
+aegritudo | 1 | sickness
+aegritudo | 2 | grief
+aegritudo | 3 | illness of the body, sickness
+aegritudo | 4 | grief, sorrow, distress of mind, one of the four passions in Stoic ethics
+aegrotatio | 1 | illness
+aegrotatio | 3 | sickness or disease of the body, where aegritudo covers the mind as well
+aegroto | 1 | ail
+aegroto | 3 | to be ill, to be sick: graviter aegrotare, to be seriously ill
+aegroto | 4 | of the mind, to be sick, to suffer from a fault
+aegroto | 5 | of things, to languish, to be in a poor way
+aegrotus | 1 | sick
+aegrotus | 3 | ill in body, sick, unwell
+aegrotus | 4 | of the mind, sick, sore, out of sorts
+aemulatio | 1 | rivalry
+aemulatio | 2 | jealousy
+aemulatio | 3 | an effort to equal or outdo another, emulation in a good sense
+aemulatio | 4 | jealousy, envy, ill-natured rivalry
+aemulator | 1 | imitator
+aemulator | 3 | a zealous imitator of someone, an emulator in a good sense
+aemulor | 1 | rival
+aemulor | 2 | envy
+aemulor | 3 | with the accusative, to try to equal or outdo someone, to vie with them
+aemulor | 4 | with the dative, to be jealous of someone, to grudge them what they have
+aemulus | 1 | rival
+aemulus | 3 | striving to equal someone, emulous of them, with the genitive: laudis aemulus, a rival for glory
+aemulus | 4 | in a bad sense, jealous, grudging, envious
+aemulus | 5 | as a noun, a rival, and especially a rival in love
+aeneus | 1 | bronze
+aeneus | 3 | made of copper or bronze: statua aenea, a bronze statue
+aeneus | 4 | bronze-coloured: barba aenea, a red-bronze beard
+aenus3 | 1 | bronze
+aenus3 | 3 | made of bronze, the poetic form of aheneus
+aenus3 | 4 | firm and unyielding, invincible: manus aenae, hands of bronze
+aenus3 | 5 | hard, pitiless, inexorable
+aequabilis | 1 | uniform
+aequabilis | 2 | fair
+aequabilis | 3 | able to be made equal to something, equal or like it
+aequabilis | 4 | even and consistent, unvarying, steady
+aequabilis | 5 | fair and impartial in dealing with others
+aequabilitas | 1 | evenness
+aequabilitas | 3 | uniformity, an even and steady course: aequabilitas motus, regularity of movement
+aequabilitas | 4 | fairness and impartiality in law
+aequabilitas | 5 | in style, an even and level manner of writing
+aequaevus | 1 | coeval
+aequaevus | 3 | of the same age as someone, a word of poetry
+aequalis | 1 | equal
+aequalis | 2 | contemporary
+aequalis | 3 | equal or like something, able to be set on a level with it, with the dative
+aequalis | 4 | of the same age: aequales mei, men of my own years
+aequalis | 5 | living at the same time; as a noun, a contemporary
+aequalis | 6 | of the same size or look, matching
+aequalis | 7 | even and unvarying, uniform
+aequalitas | 1 | equality
+aequalitas | 3 | equality or likeness between things, uniformity
+aequalitas | 4 | equality of political rights
+aequalitas | 5 | equality of age between people
+aequalitas | 6 | the evenness of a surface: aequalitas maris, a calm sea
+aequanimitas | 1 | equanimity
+aequanimitas | 2 | goodwill
+aequanimitas | 3 | in early Latin, kindly feeling, goodwill towards someone
+aequanimitas | 4 | in later Latin, calmness under trouble, patience, equanimity
+aequidici | 1 | antithesis
+aequidici | 3 | verses built out of balanced, matching expressions, what the Greeks call antithetic
+aequinoctium | 1 | equinox
+aequinoctium | 3 | the time when day and night are of equal length, the equinox
+aequiparo | 1 | equal
+aequiparo | 2 | compare
+aequiparo | 3 | to put one thing on a level with another, to compare them, with ad, cum, or the dative
+aequiparo | 4 | to make oneself equal to someone, to match them or come up to them
+aequitas | 1 | fairness
+aequitas | 2 | calmness
+aequitas | 3 | evenness or symmetry, the equal relation of one thing to another
+aequitas | 4 | fair dealing towards others, equity, what is right as against the bare letter of the law
+aequitas | 5 | evenness of temper, composure, calmness under trouble
+aequo | 1 | equal
+aequo | 2 | level
+aequo | 3 | to make one thing equal to another, with cum or the dative
+aequo | 4 | to compare one thing with another
+aequo | 5 | of ground, to make it level or smooth: solo aequare, to raze to the ground
+aequo | 6 | in the army, aequare frontem, to bring the line up even
+aequo | 7 | to become equal to someone, to match or rival them
+aequor | 1 | sea
+aequor | 2 | plain
+aequor | 3 | any even, level surface
+aequor | 4 | the level surface of the sea, and so the sea itself, especially when calm
+aequor | 5 | a level plain of land
+aequus | 1 | level
+aequus | 2 | fair
+aequus | 3 | of ground, flat and even: locus aequus, level ground good to fight on
+aequus | 4 | favourable, convenient, well suited to a purpose
+aequus | 5 | of a person, kindly disposed, friendly, well inclined, with the dative
+aequus | 6 | equal to another, the same in size or amount: aequis portionibus, in equal shares
+aequus | 7 | of a person, fair and impartial towards others, where iustus is just by law
+aequus | 8 | of things, fair, right, reasonable: aequum est, it is only fair
+aequus | 9 | aequum as a noun, what is fair: aequum et bonum, equity and fairness
+aequus | 10 | of the mind, even and calm: aequo animo ferre, to bear a thing patiently
+aer | 1 | air
+aer | 3 | the air, the lower atmosphere, as against the aether above it
+aer | 4 | a cloud or mist wrapped round someone
+aer | 5 | the weather: aer crassus, thick heavy air
+aer | 6 | the airy height of a thing: aer summus arboris, the very top of a tree
+aera | 1 | era
+aera | 3 | a number taken as the basis of a reckoning
+aera | 4 | an item in an account
+aera | 5 | in late Latin, an era, a fixed point from which time is counted
+aerarius | 1 | copper
+aerarius | 2 | financial
+aerarius | 3 | of or made of copper: aerarium metallum, a copper mine
+aerarius | 4 | to do with money or the treasury: tribunus aerarius, a paymaster
+aerarius | 5 | as a noun, a coppersmith
+aerarius | 6 | a citizen of the lowest class, who paid a poll tax and had no vote
+aerarius | 7 | aerarium as a noun, the public treasury, kept in the temple of Saturn
+aerarius | 8 | aeraria as a noun, a mine, a smelting house, or a furnace
+aeratus | 1 | bronzed
+aeratus | 3 | fitted or covered with bronze: aerata navis, a bronze-beaked ship
+aeratus | 4 | made of bronze: catenae aeratae, chains of bronze
+aeratus | 5 | in a joke of Cicero's, well furnished with money, moneyed
+aereus1 | 1 | bronze
+aereus1 | 3 | made of copper or bronze
+aereus1 | 4 | fitted or plated with bronze: clipeus aereus, a bronze-faced shield
+aeripes | 1 | bronze-footed
+aeripes | 3 | with feet of bronze, as the fabled bulls and the Cerynean hind were said to have
+aeripes | 4 | strong of foot, and so swift of foot
+aerius | 1 | airy
+aerius | 3 | belonging to the air, of the air: volucres aeriae, birds of the air
+aerius | 4 | rising high into the air, lofty, especially of mountains
+aerius | 5 | airy in the sense of empty: aeria spes, a hope that flies away
+aerugo | 1 | rust
+aerugo | 2 | envy
+aerugo | 3 | the rust of copper, verdigris
+aerugo | 4 | the tarnish on gold and silver, and in poetry money itself
+aerugo | 5 | envy and ill-will, which eat at a man as rust eats metal
+aerugo | 6 | greed for money, the avarice that clings to the mind like rust
+aerumna | 1 | hardship
+aerumna | 2 | distress
+aerumna | 3 | trouble, toil, hardship, a burden laid on one from outside
+aerumna | 4 | calamity or tribulation, and in later Latin the defeat of an army
