@@ -58,7 +58,7 @@ gloria | 4 | the praise and honour others give you; also the thing you are prais
 gloria | 5 | ambition, the hunger for glory taken as a motive
 gloria | 6 | boasting, vainglory, empty self-display, in a bad sense
 gloria | 7 | in Christian Latin, the glory given to God, divine splendour
-gratia | 1 | favor
+gratia | 1 | favour
 gratia | 2 | thanks
 gratia | 3 | the goodwill you enjoy in other people's eyes: esteem, popularity, influence, standing
 gratia | 4 | a kindness done for someone, a favor granted, a service

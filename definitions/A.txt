@@ -70,7 +70,8 @@ abicio | 4 | to give up or let go a hope, a plan, or a claim
 abicio | 5 | to bring someone low, to degrade them or lower their standing
 abicio | 6 | se abicere, to throw oneself away, to lose all self-respect
 abicio | 7 | abiectus as an adjective: downcast and dispirited; or low, mean, contemptible
-abiegnus | 1 | fir
+# review: abiegnus English has no adjective for 'of fir'; three words kept, confirmed
+abiegnus | 1 | made of fir
 abiegnus | 3 | made of fir wood or deal
 abiegnus | 4 | in poetry of a ship or of the Trojan horse, both being built of fir
 abies | 1 | fir
@@ -86,7 +87,8 @@ abitus | 3 | a going away, a departure
 abitus | 4 | the way out, the exit, the place one leaves by
 abjudico | 1 | disallow
 abjudico | 3 | to take something from someone by a court's decision, to rule that it is not theirs (the opposite of adiudico)
-abjuro | 1 | disavow
+# review: abjuro 'disavow' loses the oath, which is the whole point of the word
+abjuro | 1 | deny on oath
 abjuro | 3 | to deny on oath that you hold something, especially money left in your keeping
 ablego | 1 | dismiss
 ablego | 3 | to send someone away, to get them out of the way
@@ -216,7 +218,7 @@ abstinentia | 5 | in later Latin, going without food, fasting or starvation
 abstineo | 1 | abstain
 abstineo | 2 | withhold
 abstineo | 3 | to hold something or someone back, to keep them away from a thing
-abstineo | 4 | to abstain from something, with the ablative or ab: iniuria abstinere, to do no wrong
+abstineo | 4 | to abstain from something, with the ablative or ab: injuria abstinere, to do no wrong
 abstineo | 5 | se abstinere, to restrain oneself, to keep clear of something
 abstineo | 6 | to keep off food, to go without eating
 abstraho | 1 | detach
@@ -228,7 +230,7 @@ abstrudo | 1 | hide
 abstrudo | 3 | to thrust something out of the way and so conceal it
 abstrudo | 4 | to bury a feeling, to push down grief or fear
 abstrudo | 5 | abstrusus as an adjective: hidden away; of a subject, abstruse and hard to get at
-absum | 1 | absent
+absum | 1 | be absent
 absum | 2 | lack
 absum | 3 | to be away from a place or person, not to be there
 absum | 4 | to be a given distance off: castra aberant bidui, the camp was two days away
@@ -367,7 +369,7 @@ acclino | 4 | se acclinare, to incline towards a side or a party
 accola | 1 | neighbour
 accola | 3 | someone living near a place, a neighbour, where incola is one living in it
 accola | 4 | as an adjective, neighbouring, dwelling alongside
-accolo | 1 | adjoin
+accolo | 1 | dwell near
 accolo | 3 | to live beside or near something, with the accusative: accolere Histrum, to live along the Danube
 accommodatio | 1 | adjustment
 accommodatio | 3 | the fitting of one thing to another, adaptation
@@ -385,7 +387,7 @@ accredo | 3 | to take someone's word without question, to believe them outright 
 accresco | 1 | grow
 accresco | 3 | to grow bigger, to increase in size
 accresco | 4 | to be added to something by way of increase, to accrue to it
-accresco | 5 | in law, to fall to someone as an addition to their property: ius accrescendi, the right of survivorship
+accresco | 5 | in law, to fall to someone as an addition to their property: jus accrescendi, the right of survivorship
 accubitio | 1 | reclining
 accubitio | 3 | the reclining at table in the Roman manner
 accubitio | 4 | a dining couch
@@ -399,11 +401,11 @@ accumulo | 1 | accumulate
 accumulo | 3 | to heap something up, to pile it higher
 accumulo | 4 | to increase something by adding to it, to pile on honour or grief
 accumulo | 5 | in farming, to bank earth up round the roots of a plant
-accuro | 1 | tend
+accuro | 1 | do carefully
 accuro | 3 | to do something with care, to see to it properly
 accuro | 4 | to look after a guest, to entertain them well
 accuro | 5 | accuratus as an adjective: done with care, painstaking, elaborate
-accurro | 1 | hurry
+accurro | 1 | run up
 accurro | 3 | to run up to a place, to come hurrying
 accurro | 4 | of ideas, to come to mind unbidden, to present themselves at once
 accusatio | 1 | accusation
@@ -415,7 +417,7 @@ accusator | 1 | accuser
 accusator | 3 | the prosecutor in a public trial, where petitor is the plaintiff in a private suit
 accusator | 4 | under the empire, an informer, a professional denouncer
 accusatorius | 1 | accusatory
-accusatorius | 3 | belonging to an accuser, such as a prosecutor uses: accusatorio iure, by a prosecutor's right
+accusatorius | 3 | belonging to an accuser, such as a prosecutor uses: accusatorio jure, by a prosecutor's right
 accuso | 1 | accuse
 accuso | 2 | blame
 accuso | 3 | to blame or reproach someone, to call them to account
@@ -447,7 +449,7 @@ acerbus | 6 | of a person, rough, morose, severe, hard to deal with
 acerbus | 7 | of events, grievous, painful, sad: acerba funera, untimely deaths
 acerra | 1 | censer
 acerra | 3 | a casket holding the incense used at sacrifices and at funerals
-acervatim | 1 | wholesale
+acervatim | 1 | in heaps
 acervatim | 3 | in heaps, by piling up: acervatim mors accumulabat, death piled them up in heaps
 acervatim | 4 | of speech, summarily, all together, without going into detail
 acervo | 1 | heap
@@ -673,7 +675,6 @@ adhinnio | 4 | of a man, to whinny after something in lust, to be in heat for it
 adhortatio | 1 | encouragement
 adhortatio | 3 | an exhortation, a speech urging people on
 adhortor | 1 | encourage
-adhortor | 2 | urge
 adhortor | 3 | to urge someone on to a thing, to exhort or encourage them (with ad or in)
 adhuc | 1 | still
 adhuc | 2 | yet
@@ -709,7 +710,7 @@ adipiscor | 5 | adeptus is sometimes passive in sense, having been obtained
 aditio | 1 | approach
 aditio | 3 | a going up to something, an approach
 aditio | 4 | aditio hereditatis, the formal entering upon an inheritance
-adito | 1 | visit
+adito | 1 | visit often
 adito | 3 | to go to a place again and again, to keep approaching, an early Latin word
 aditus2 | 1 | approach
 aditus2 | 2 | entrance
@@ -717,7 +718,7 @@ aditus2 | 3 | a going to a thing, an approach
 aditus2 | 4 | leave to approach someone, admittance: aditus faciles, easy of access
 aditus2 | 5 | the way in, the entrance or avenue, the opposite of abitus
 aditus2 | 6 | an opening or opportunity for something
-adjaceo | 1 | adjoin
+adjaceo | 1 | lie near
 adjaceo | 3 | to lie next to something, to border on it, with the dative or accusative, usually of places
 adjectio | 1 | addition
 adjectio | 3 | an adding on, an increase
@@ -728,7 +729,7 @@ adjicio | 1 | add
 adjicio | 2 | throw
 adjicio | 3 | to throw or set one thing near another
 adjicio | 4 | to add something to what is there, to increase it
-adjicio | 5 | to turn the mind or the eye to a thing: oculos adicere, to cast an eye on
+adjicio | 5 | to turn the mind or the eye to a thing: oculos adjicere, to cast an eye on
 adjicio | 6 | of a speaker, to add a further remark
 adjicio | 7 | at an auction, to raise a bid, to outbid
 adjudico | 1 | adjudge
@@ -744,7 +745,6 @@ adjunctio | 3 | a joining or binding together, a union
 adjunctio | 4 | an addition made to something
 adjunctio | 5 | in rhetoric, a qualifying clause; also the repetition of a word for effect
 adjungo | 1 | attach
-adjungo | 2 | join
 adjungo | 3 | to yoke or harness animals
 adjungo | 4 | to join one person or thing to another (with ad or the dative)
 adjungo | 5 | to win someone over, to attach them to you as an ally or friend
@@ -766,7 +766,7 @@ adjutrix | 3 | a woman or a thing that helps, a female assistant
 adjutrix | 4 | legiones adiutrices, legions raised to reinforce the regular army
 adjuvo | 1 | help
 adjuvo | 3 | to help or assist someone, taking a plain accusative where most such verbs take the dative
-adjuvo | 4 | to feed or sustain a state of mind: adiuvare insaniam, to encourage someone's madness
+adjuvo | 4 | to feed or sustain a state of mind: adjuvare insaniam, to encourage someone's madness
 adjuvo | 5 | with no object, to be of use, to do some good: adiuvat, it helps
 adminiculo | 1 | prop
 adminiculo | 3 | to prop a vine up, to stake it
@@ -826,7 +826,8 @@ admodum | 3 | to a great degree, very, exceedingly, with adjectives, verbs, and 
 admodum | 4 | fully, completely, of numbers and time: turres admodum centum viginti, a full hundred and twenty towers
 admodum | 5 | with a negative, at all: nullus admodum, none whatever
 admodum | 6 | in an answer, just so, quite right, certainly
-admolior | 1 | apply
+# review: admolior general sense is 'bring one thing to another'; the attested use is manus admoliri
+admolior | 1 | lay hands on
 admolior | 3 | to bring or move one thing up to another: manus admoliri, to lay hands on something
 admolior | 4 | to struggle or push one's way towards a place
 admoneo | 1 | remind
@@ -853,8 +854,8 @@ admordeo | 3 | to bite into something, to gnaw at it
 admordeo | 4 | to take a bite out of someone's money, to fleece them
 admotio | 1 | application
 admotio | 3 | the bringing of one thing to another: digitorum admotio, the placing of the fingers on an instrument
-admoveo | 1 | apply
-admoveo | 2 | move
+admoveo | 1 | bring near
+admoveo | 2 | apply
 admoveo | 3 | to bring or move something up to a place, with ad or the dative
 admoveo | 4 | in war, to bring up troops or siege works: turres admovere, to move the towers up
 admoveo | 5 | to put one thing to another for a purpose: manum admovere, to set a hand to something
@@ -866,7 +867,7 @@ admurmuratio | 4 | a murmur of approval
 admutilo | 1 | fleece
 admutilo | 3 | to clip or shave someone close
 admutilo | 4 | to fleece someone of their money, a joke of Plautus
-adnepos | 1 | descendant
+adnepos | 1 | great-great-great-grandson
 adnepos | 3 | the son of an abnepos, that is, a great-great-great-grandson
 adoleo1 | 1 | burn
 adoleo1 | 3 | in sacrifice, to burn an offering on the altar, and so to honour or worship a god
@@ -893,7 +894,7 @@ adopto | 4 | to adopt someone as a son or grandson, a formal act at law
 adopto | 5 | in gardening, to graft a shoot onto another tree
 ador | 1 | spelt
 ador | 3 | a kind of grain, spelt, used in the oldest Roman sacrifices
-adoreus1 | 1 | spelt
+adoreus1 | 1 | of spelt
 adoreus1 | 3 | made of spelt, of spelt: far adoreum, spelt grain
 adoreus1 | 4 | adorea as a noun, a reward for valour and so glory in war, from the grain once given as a prize
 adorior | 1 | attack
@@ -979,12 +980,12 @@ aduncus | 3 | bent like a hook, curved: nasus aduncus, an aquiline nose
 aduno | 1 | unite
 aduno | 3 | to make things one, to gather them into a single body
 aduro | 1 | scorch
-aduro | 2 | burn
 aduro | 3 | to set something alight, to singe or scorch it
 aduro | 4 | of frost, wind, or locusts, to nip and spoil a crop
 aduro | 5 | in poetry, of love, to burn or inflame someone
 aduro | 6 | adustus as an adjective: sunburnt, browned, swarthy
-adusque | 1 | unto
+# review: adusque 'unto' is archaic and vague; is a 3-word preposition gloss acceptable here?
+adusque | 1 | as far as
 adusque | 3 | as a preposition with the accusative, all the way to, right up to
 adusque | 4 | as an adverb, throughout, wholly, a strengthened usque
 adustio | 1 | burning
@@ -1009,7 +1010,7 @@ adventicius | 3 | coming from outside, foreign, not one's own
 adventicius | 4 | added beyond what is usual, out of the ordinary: fructus adventicius, an unlooked-for yield
 adventicius | 5 | got without one's own effort: pecunia adventicia, money from outside the family estate
 adventicius | 6 | belonging to an arrival: cena adventicia, a welcome-home dinner
-advento | 1 | approach
+advento | 1 | draw near
 advento | 3 | to keep drawing nearer, to be on the way, said of a person or an army
 advento | 4 | of a time or a disaster, to be coming on
 adventor | 1 | visitor
@@ -1043,12 +1044,12 @@ adverto | 5 | animum advertere, to turn the mind to something, and so to notice 
 adverto | 6 | to draw someone else's attention to a thing, to make them look
 adverto | 7 | advertere in aliquem, to deal with someone, that is, to punish them
 adverto | 8 | adversus as an adjective: facing, in front; and hostile, unfavourable: res adversae, misfortune
-advesperascit | 1 | darkens
+advesperascit | 1 | grow dark
 advesperascit | 3 | impersonal: evening is coming on, it is getting dark
 advigilo | 1 | watch
 advigilo | 3 | to keep watch over something, to guard it, with ad or the dative
 advigilo | 4 | to give one's care and attention to a thing, to be vigilant for it
-advivo | 1 | survive
+advivo | 1 | live on
 advivo | 3 | to go on living, to live on
 advivo | 4 | to live alongside someone: cum quo advixit, with whom she lived
 advocatio | 1 | counsel
@@ -1099,9 +1100,9 @@ aedilis | 1 | aedile
 aedilis | 3 | a Roman magistrate in charge of public buildings, streets, markets, and the games
 aedilitas | 1 | aedileship
 aedilitas | 3 | the office of aedile, and the term of holding it
-aeditimus | 1 | sacristan
+aeditimus | 1 | temple keeper
 aeditimus | 3 | the keeper and caretaker of a temple, the older form of aedituus
-aedituus | 1 | sacristan
+aedituus | 1 | temple keeper
 aedituus | 3 | the keeper of a temple, its caretaker and guard
 aedituus | 4 | in Christian Latin, a minister or priest of the sanctuary
 aeger | 1 | sick
@@ -1149,10 +1150,10 @@ aemulus | 1 | rival
 aemulus | 3 | striving to equal someone, emulous of them, with the genitive: laudis aemulus, a rival for glory
 aemulus | 4 | in a bad sense, jealous, grudging, envious
 aemulus | 5 | as a noun, a rival, and especially a rival in love
-aeneus | 1 | bronze
+aeneus | 1 | of bronze
 aeneus | 3 | made of copper or bronze: statua aenea, a bronze statue
 aeneus | 4 | bronze-coloured: barba aenea, a red-bronze beard
-aenus3 | 1 | bronze
+aenus3 | 1 | of bronze
 aenus3 | 3 | made of bronze, the poetic form of aheneus
 aenus3 | 4 | firm and unyielding, invincible: manus aenae, hands of bronze
 aenus3 | 5 | hard, pitiless, inexorable
@@ -1183,7 +1184,7 @@ aequanimitas | 1 | equanimity
 aequanimitas | 2 | goodwill
 aequanimitas | 3 | in early Latin, kindly feeling, goodwill towards someone
 aequanimitas | 4 | in later Latin, calmness under trouble, patience, equanimity
-aequidici | 1 | antithesis
+aequidici | 1 | balanced verses
 aequidici | 3 | verses built out of balanced, matching expressions, what the Greeks call antithetic
 aequinoctium | 1 | equinox
 aequinoctium | 3 | the time when day and night are of equal length, the equinox
@@ -1227,7 +1228,7 @@ aera | 1 | era
 aera | 3 | a number taken as the basis of a reckoning
 aera | 4 | an item in an account
 aera | 5 | in late Latin, an era, a fixed point from which time is counted
-aerarius | 1 | copper
+aerarius | 1 | of copper
 aerarius | 2 | financial
 aerarius | 3 | of or made of copper: aerarium metallum, a copper mine
 aerarius | 4 | to do with money or the treasury: tribunus aerarius, a paymaster
@@ -1239,7 +1240,7 @@ aeratus | 1 | bronzed
 aeratus | 3 | fitted or covered with bronze: aerata navis, a bronze-beaked ship
 aeratus | 4 | made of bronze: catenae aeratae, chains of bronze
 aeratus | 5 | in a joke of Cicero's, well furnished with money, moneyed
-aereus1 | 1 | bronze
+aereus1 | 1 | of bronze
 aereus1 | 3 | made of copper or bronze
 aereus1 | 4 | fitted or plated with bronze: clipeus aereus, a bronze-faced shield
 aeripes | 1 | bronze-footed
@@ -1256,7 +1257,6 @@ aerugo | 4 | the tarnish on gold and silver, and in poetry money itself
 aerugo | 5 | envy and ill-will, which eat at a man as rust eats metal
 aerugo | 6 | greed for money, the avarice that clings to the mind like rust
 aerumna | 1 | hardship
-aerumna | 2 | distress
 aerumna | 3 | trouble, toil, hardship, a burden laid on one from outside
 aerumna | 4 | calamity or tribulation, and in later Latin the defeat of an army
 aerumnosus | 1 | wretched
@@ -1289,9 +1289,10 @@ aestimo | 3 | to set a money value on something, to appraise it, with the geniti
 aestimo | 4 | to weigh a thing's real worth: magni aestimare, to think much of something
 aestimo | 5 | to judge or reckon from something: ex veritate aestimare, to judge by the truth of the matter
 aestimo | 6 | litem aestimare, to assess the damages in a suit
-aestivo | 1 | summer
+# review: aestivo English has no one-word verb for it; 'summer' as a verb reads as the noun
+aestivo | 1 | spend the summer
 aestivo | 3 | to spend the summer somewhere, as hiemo is to spend the winter
-aestivus | 1 | summer
+aestivus | 1 | of summer
 aestivus | 3 | of or belonging to summer: aestivi dies, summer days
 aestivus | 4 | aestiva as a noun, a summer camp, and so the campaigning season
 aestivus | 5 | summer pastures in the hills, and by extension the cattle grazing them
@@ -1322,9 +1323,9 @@ aetas | 3 | a period of life: aetas puerilis, boyhood; iniens aetas, early youth
 aetas | 4 | one's whole life, a lifetime
 aetas | 5 | an age or generation: aetates heroicae, the age of heroes
 aetas | 6 | the people living at a time, the age standing for its men
-aetas | 7 | of things, their age: vinum aetatis suae, wine with some years on it
+aetas | 7 | of things, their age: aetatem fert, said of wine, it carries its years well
 aetas | 8 | aetatem as an adverb, all one's days, and so for ages, this long while
-aetatula | 1 | childhood
+aetatula | 1 | tender youth
 aetatula | 3 | tender youth, the soft early years, often with a hint of indulgence
 aeternalis | 1 | everlasting
 aeternalis | 3 | lasting for ever, a late word common in inscriptions: aeternalis somnus, the sleep of death
@@ -1334,7 +1335,6 @@ aeternitas | 4 | endless duration to come, immortality: aeternitas animorum, the
 aeternitas | 5 | lastingness, the durability of a material
 aeternitas | 6 | under the emperors, a title of address for the ruler, Your Eternity
 aeternus | 1 | eternal
-aeternus | 2 | endless
 aeternus | 3 | without beginning or end, eternal, where sempiternus merely lasts as long as time does
 aeternus | 4 | undying, immortal, everlasting
 aeternus | 5 | of things the ancients thought fixed, such as the stars, everlasting
@@ -1537,7 +1537,6 @@ agilitas | 1 | nimbleness
 agilitas | 3 | ease and quickness of movement, speed, agility
 agilitas | 4 | of the mind, quickness and liveliness
 agitatio | 1 | movement
-agitatio | 2 | agitation
 agitatio | 3 | the state of being in motion: agitatio fluctuum, the heaving of the waves
 agitatio | 4 | activity of mind, the mind's constant working
 agitator | 1 | driver
@@ -1574,7 +1573,8 @@ agnatio | 1 | kinship
 agnatio | 3 | relationship on the father's side, agnatic descent
 agnatio | 4 | the being born after a father's will was made or after his death
 agnatio | 5 | a growing on to something
-agninus | 1 | lamb
+# review: agninus 'lamb' would also read fine; three words kept, confirmed
+agninus | 1 | of a lamb
 agninus | 3 | belonging to a lamb: agninus pes, a lamb's trotter
 agninus | 4 | agnina as a noun, lamb as meat
 agnitio | 1 | recognition
@@ -1585,7 +1585,7 @@ agnomen | 1 | nickname
 agnomen | 3 | a name won by an achievement, such as Africanus, as against the inherited cognomen
 agnominatio | 1 | wordplay
 agnominatio | 3 | the figure of setting together words alike in sound but different in sense, paronomasia
-agnosco | 1 | recognize
+agnosco | 1 | recognise
 agnosco | 2 | acknowledge
 agnosco | 3 | to know something again, to recognise it as met before
 agnosco | 4 | to acknowledge a thing as one's own: filium agnoscere, to own a child as one's son
@@ -1626,7 +1626,7 @@ ai1 | 1 | alas
 ai1 | 3 | a cry of grief taken from the Greek, ah, alas
 aio | 1 | say
 aio | 2 | affirm
-aio | 3 | to say yes, to affirm, the opposite of nego: aut aie aut nega, either say yes or say no
+aio | 3 | to say yes, to affirm, the opposite of nego: vel ai vel nega, either say yes or say no
 aio | 4 | to say or assert something, where dico is to speak in order to inform
 aio | 5 | in quoting someone: ut ait Cicero, as Cicero puts it
 aio | 6 | aiunt or ut aiunt, they say, as the saying goes, bringing in a proverb
@@ -1656,15 +1656,15 @@ alarius | 3 | belonging to the wing of an army: cohortes alariae, the allied tro
 alauda | 1 | lark
 alauda | 3 | the lark
 alauda | 4 | the name of a legion Caesar raised in Gaul at his own expense
-albarius | 1 | stucco
+albarius | 1 | of stucco
 albarius | 3 | to do with the whitening of walls: opus albarium, white stucco work
 albatus | 1 | white-robed
 albatus | 3 | dressed in white, as at a feast or a festival
-albeo | 1 | whiten
+albeo | 1 | be white
 albeo | 3 | to be white, to show white: campi ossibus albent, the plains are white with bones
-albesco | 1 | blanch
-albesco | 3 | to turn white, to grow light: dies albescit, day is breaking
-albico | 1 | whiten
+albesco | 1 | turn white
+albesco | 3 | to turn white, to grow white: albescens capillus, hair going grey
+albico | 1 | be white
 albico | 3 | to be white, to show white: prata pruinis albicant, the meadows are white with frost
 albico | 4 | to make a thing white, to turn it white with foam
 albus | 1 | white
@@ -1685,3 +1685,356 @@ alcedonia | 4 | a deep quiet, a spell of stillness
 alcyoneus | 1 | halcyon
 alcyoneus | 3 | belonging to the halcyon: alcyonei dies, the halcyon days
 alcyoneus | 4 | alcyoneum as a noun, sea foam used as a salve for blemishes on the skin
+alea | 1 | dice
+alea | 2 | risk
+alea | 3 | a game of dice, and more widely any game of chance
+alea | 4 | anything uncertain, a hazard or venture: alea belli, the gamble of war
+aleatorius | 1 | gambling
+aleatorius | 3 | belonging to a gambler or to dicing: aleatoria damna, losses at play
+alec | 1 | fish-sauce
+alec | 3 | the dregs left from garum, and more widely a pickle made from small fish
+ales | 1 | winged
+ales | 2 | bird
+ales | 3 | as an adjective, winged, having wings
+ales | 4 | as a noun, a large bird, where volucris takes in flying insects too
+ales | 5 | in augury, a bird giving its omen by flight, where oscines give it by their cry
+ales | 6 | in poetry a winged god, or a poet: Maeonii carminis ales, the singer of a Maeonian song
+alga | 1 | seaweed
+alga | 3 | seaweed of several kinds, one of them used to dye red
+algeo | 1 | be cold
+algeo | 3 | to feel cold oneself, where frigere is to be cold to the touch
+algesco | 1 | catch cold
+algesco | 3 | to take a chill
+algesco | 4 | of plants, to grow cold, to be nipped
+algor | 1 | cold
+algor | 3 | cold as it is felt, chilliness
+algus | 1 | chill
+algus | 3 | the feeling of cold, an early word used mostly in the ablative: perire algu, to die of cold
+alibi | 1 | elsewhere
+alibi | 3 | in another place, somewhere else
+alibi | 4 | alibi ... alibi, in one place ... in another, here ... there
+alibi | 5 | in other respects, in some other thing
+alibi | 6 | in later Latin, otherwise, standing in for alioqui
+alicarius | 1 | of spelt
+alicarius | 3 | belonging to spelt; as a noun, a man who grinds it
+alicubi | 1 | somewhere
+alicubi | 3 | somewhere, at some place or other
+alicubi | 4 | alicubi ... alicubi, in one place ... in another
+alicula | 1 | cape
+alicula | 3 | a light upper garment, a short cloak
+alicunde | 1 | from somewhere
+alicunde | 3 | from some place, person, or thing or other
+alienatio | 1 | transfer
+alienatio | 2 | estrangement
+alienatio | 3 | the making over of property to someone else, a legal transfer
+alienatio | 4 | a falling away from someone, desertion, loss of affection
+alienatio | 5 | alienatio mentis, loss of reason, delirium
+alienigena | 1 | foreign
+alienigena | 3 | born abroad, foreign; as a noun, a foreigner or stranger
+alienigena | 4 | in Lucretius, made of different stuff, heterogeneous
+alienitas | 1 | foreignness
+alienitas | 3 | in the medical writers, matter foreign to the body and so causing disease
+alienitas | 4 | also used for alienatio, derangement of mind
+alieno | 1 | estrange
+alieno | 2 | transfer
+alieno | 3 | to make property over to another, to sell or convey it
+alieno | 4 | to turn someone against you, to lose their goodwill
+alieno | 5 | mentem alienare, to drive someone out of their senses
+alieno | 6 | in the passive, of parts of the body, to die or mortify
+alieno | 7 | alienari ab aliqua re, to shrink from a thing, to want no part in it
+alienus | 1 | another's
+alienus | 2 | unsuitable
+alienus | 3 | belonging to someone else, not one's own: aes alienum, another's money, that is, debt
+alienus | 4 | no relation and no friend, a stranger to one
+alienus | 5 | unsuited to a thing, out of keeping with it, with the genitive, dative, ablative, or ab
+alienus | 6 | hostile, unfriendly, unfavourable: alieno animo esse, to be ill disposed
+alienus | 7 | of the body, dead or paralysed; of the mind, out of its senses
+alienus | 8 | as a noun, a stranger; alienum, another man's property
+aliger | 1 | winged
+aliger | 3 | wing-bearing, a word of poetry: aliger amor, winged Love
+alimentarius | 1 | of food
+alimentarius | 3 | to do with food and its supply: lex alimentaria, a law on doling out food to the poor
+alimentarius | 4 | as a noun, someone left an allowance for keep by will
+alimentum | 1 | food
+alimentum | 3 | nourishment, provisions, what feeds a body
+alimentum | 4 | in the plural, what children owe their parents in return for being reared
+alimonia | 1 | sustenance
+alimonia | 3 | nourishment, food, support
+alimonium | 1 | sustenance
+alimonium | 3 | nourishment, maintenance, keep
+alioqui | 1 | otherwise
+alioqui | 3 | in other respects, apart from the exception just made
+alioqui | 4 | besides, moreover, in addition
+alioqui | 5 | in itself, taken on its own
+alioqui | 6 | otherwise, else, of what would happen without the thing named
+aliorsum | 1 | elsewhere
+aliorsum | 3 | in another direction, to another place
+aliorsum | 4 | in another sense: aliorsum accipere, to take a thing the wrong way
+alipes | 1 | wing-footed
+alipes | 3 | with wings on the feet, an epithet of Mercury
+alipes | 4 | swift of foot, fleet, of horses and deer
+aliquando | 1 | sometime
+aliquando | 2 | sometimes
+aliquando | 3 | at some time or other, once, ever, of a time left vague
+aliquando | 4 | now and then, from time to time, as against never or always
+aliquando | 5 | at length, at last, often with tandem
+aliquando | 6 | in commands, now at last, for once: dicite aliquando, speak up at last
+aliquantisper | 1 | awhile
+aliquantisper | 3 | for a moderate stretch of time, neither long nor short
+aliquantulus | 1 | little
+aliquantulus | 3 | a little, a small amount of a thing
+aliquantulus | 4 | in the neuter as a noun, a small quantity
+aliquantus | 1 | considerable
+aliquantus | 3 | a fair amount, more than a little and less than much
+aliquantus | 4 | aliquantum as a noun, a good deal of something
+aliquantus | 5 | aliquanto with a comparative, considerably: aliquanto lubentius, a good deal more gladly
+aliquatenus | 1 | somewhat
+aliquatenus | 3 | of space, for some distance, some way along
+aliquatenus | 4 | to a certain degree, in some measure
+aliquatenus | 5 | in some respects, partly
+aliqui | 1 | some
+aliqui | 3 | some, of an indefinite person or thing, the adjective where aliquis is the pronoun
+aliqui | 4 | with numerals, some, about: aliquos viginti dies, some twenty days
+aliquis | 1 | someone
+aliquis | 2 | something
+aliquis | 3 | somebody or other, a person not precisely named
+aliquis | 4 | anyone, in clauses after si, nisi, and ne
+aliquis | 5 | esse aliquem or aliquid, to be somebody, to count for something
+aliquis | 6 | dicere aliquid, to say something worth saying
+aliquis | 7 | aliquid as an adverb, somewhat, in some degree
+aliquis | 8 | the related forms: aliquo, to some place; aliqua, in some way; aliquam diu, for a good while
+aliquisquam | 1 | anyone
+aliquisquam | 3 | any one at all, a rare emphatic form
+aliquot | 1 | several
+aliquot | 3 | some, a few, a number of, left undefined and indeclinable
+aliquoties | 1 | several times
+aliquoties | 3 | on a number of occasions, now and then
+aliubi | 1 | elsewhere
+aliubi | 3 | in another place, a rarer form of alibi
+aliubi | 4 | aliubi ... aliubi, now here, now there
+aliunde | 1 | from elsewhere
+aliunde | 3 | from another place, person, or thing
+aliunde | 4 | aliunde ... aliunde, from one source ... from another
+alius2 | 1 | other
+alius2 | 2 | another
+alius2 | 3 | another out of many, where alter is the other of two
+alius2 | 4 | alius ... alius, one ... another; in the plural, some ... others
+alius2 | 5 | alius with its own case repeated: alius alium hortantur, they urge one another on
+alius2 | 6 | with atque, ac, or quam, other than, different from
+alius2 | 7 | of another kind, different: alium facere, to change a thing altogether
+alius2 | 8 | the rest, the remainder, like ceteri
+alius2 | 9 | the adverbs from it: alio, to another place; alias, at another time; aliter, otherwise
+aliuta | 1 | otherwise
+aliuta | 3 | an old form of aliter
+allabor | 1 | glide up
+allabor | 3 | to glide, fly, flow, or slide up to a thing, with the dative or accusative
+allatro | 1 | bark at
+allatro | 3 | to bark at something
+allatro | 4 | to rail at someone, to assail them with abuse
+allectio | 1 | selection
+allectio | 3 | a choosing or levying, especially of troops
+allectio | 4 | promotion to a higher office without having held the lower one
+allegatio | 1 | pleading
+allegatio | 3 | the sending of someone on an errand or as an advocate
+allegatio | 4 | the bringing forward of something as proof or excuse
+allegatio | 5 | in the jurists, an imperial rescript
+allego1 | 1 | depute
+allego1 | 3 | to send someone on a commission, of private business where legare is official
+allego1 | 4 | to put someone up to a fraud, to suborn them
+allego1 | 5 | to bring forward or cite a thing: exemplum allegare, to adduce an instance
+allego2 | 1 | co-opt
+allego2 | 3 | to choose someone into a body, to elect them onto a college
+allego2 | 4 | of senators added from the equestrian order to make up the numbers
+allevio | 1 | lighten
+allevio | 3 | to make a thing lighter, to lighten a load
+allevio | 4 | to relieve or comfort someone
+allevo1 | 1 | lift
+allevo1 | 2 | relieve
+allevo1 | 3 | to lift something up, to raise it on high
+allevo1 | 4 | to lighten a trouble, to ease pain or grief
+allevo1 | 5 | to lessen the weight of a thing, to make little of it
+allevo1 | 6 | to raise someone in standing, to make them distinguished
+allicio | 1 | attract
+allicio | 2 | entice
+allicio | 3 | to draw a thing to oneself, to attract it
+allicio | 4 | to win someone over, to charm or entice them
+allido | 1 | dash
+allido | 3 | to strike or dash one thing against another
+allido | 4 | to bring into danger; in the passive, to come to grief, a figure from shipwreck
+alligo | 1 | bind
+alligo | 3 | to tie a thing to something: ad palum alligare, to bind to a stake
+alligo | 4 | to bind up a wound, to bandage it
+alligo | 5 | to hold someone fast, to hinder or detain them
+alligo | 6 | to put someone under an obligation, to tie them down
+allino | 1 | smear
+allino | 3 | to smear or daub something over
+allino | 4 | to let a taint attach to a thing, to rub a stain off onto it
+allium | 1 | garlic
+allium | 3 | garlic, much eaten by the poor
+allocutio | 1 | address
+allocutio | 3 | a speaking to someone, an address
+allocutio | 4 | words of comfort, consolation
+allocutio | 5 | a general's speech to his troops
+alloquium | 1 | address
+alloquium | 3 | a speaking to someone, and so encouragement or consolation
+alloquor | 1 | address
+alloquor | 3 | to speak to someone, especially in greeting, warning, or consoling
+alloquor | 4 | to address the gods in prayer or thanksgiving
+alloquor | 5 | of a general, to harangue the troops
+alloquor | 6 | to speak comfort to someone
+allubesco | 1 | please
+allubesco | 3 | to be pleasing to someone, with the dative
+allubesco | 4 | to begin to take a liking to a thing
+alluceo | 1 | shine on
+alluceo | 3 | to shine upon something, to give it light
+alluceo | 4 | facem allucere, to hold a torch for a thing, to give an opening for it
+alludo | 1 | play
+alludo | 2 | jest
+alludo | 3 | to play or joke with someone, to do a thing in sport
+alludo | 4 | of waves, to lap against a shore, to play upon it
+alludo | 5 | of wind, to play among the treetops
+alluo | 1 | wash
+alluo | 3 | of sea or river, to wash against a place, to lap its walls
+alluvies | 1 | flood
+alluvies | 3 | a pool left where sea or river has overflowed
+alluvies | 4 | ground built up by such overflow, alluvial land
+alluvio | 1 | flooding
+alluvio | 3 | a washing over, an inundation
+alluvio | 4 | in law, land gradually added to a bank by the working of the water
+almus | 1 | nourishing
+almus | 3 | giving nourishment, kindly, a poetic epithet of Ceres and Venus
+alnus | 1 | alder
+alnus | 3 | the alder, a tree of wet ground
+alnus | 4 | in poetry, anything made of alder wood, and so a boat
+alo | 1 | nourish
+alo | 2 | rear
+alo | 3 | to feed or nourish someone, to keep them fed
+alo | 4 | to bring a child up, to raise it
+alo | 5 | to maintain an army or a household, to keep it going
+alo | 6 | to foster or strengthen a thing: honos alit artes, honour nourishes the arts
+alsius1 | 1 | chilly
+alsius1 | 3 | cold, chilly, a rare word
+altaria | 1 | altar
+altaria | 3 | the top of an altar where the victim burned, and so a high altar grander than the plain ara
+alter | 1 | other
+alter | 2 | second
+alter | 3 | the other of two, where alius is another out of many
+alter | 4 | alter ... alter, the one ... the other
+alter | 5 | the second in a series: altero die, on the next day
+alter | 6 | a second such: alter ego, a second self; alter Orcus, a second Death
+alter | 7 | unus et alter, one or two, a few
+alter | 8 | alterum tantum, as much again
+alter | 9 | one's neighbour, a fellow human being
+alter | 10 | the opposite one: alterius factionis, of the other party
+altercatio | 1 | dispute
+altercatio | 3 | a contest in words, a wrangle, with or without heat
+altercatio | 4 | in the courts, an exchange of question and answer rather than a set speech
+altercor | 1 | wrangle
+altercor | 3 | to dispute with someone, to quarrel in words, with cum
+altercor | 4 | in the courts, to press an opponent with questions
+alternatio | 1 | alternation
+alternatio | 3 | an interchange, a taking of turns
+alternatio | 4 | in the jurists, an alternative, the one thing or the other
+alterno | 1 | alternate
+alterno | 3 | to do first one thing and then another, to take turns
+alternus | 1 | alternate
+alternus | 3 | one after the other, by turns
+alternus | 4 | of jurors, whom each side rejected in turn
+alternus | 5 | alternis as an adverb, by turns
+alteruter | 1 | either
+alteruter | 3 | one of the two, the one or the other, no matter which
+alteruter | 4 | occasionally both
+altilis | 1 | fattened
+altilis | 3 | fattened for the table, of poultry and livestock
+altilis | 4 | fat, full, well grown
+altilis | 5 | in Plautus of a dowry, fat and rich
+altisonus | 1 | high-sounding
+altisonus | 3 | sounding from on high, loud
+altisonus | 4 | of style, lofty, sublime
+altitudo | 1 | height
+altitudo | 2 | depth
+altitudo | 3 | height, how high a thing stands: altitudo montium, the height of the mountains
+altitudo | 4 | depth, how far down it goes: altitudo fluminis, the depth of the river
+altitudo | 5 | loftiness of style or of fortune
+altitudo | 6 | altitudo animi, greatness of soul, nobility of mind
+altor | 1 | nourisher
+altor | 3 | one who feeds and rears another, a foster-father
+altor | 4 | as an adjective, nourishing
+altrinsecus | 1 | opposite
+altrinsecus | 3 | at or on the other side
+altrinsecus | 4 | in later Latin, on both sides
+altrix | 1 | nurse
+altrix | 3 | a woman who rears or feeds, a foster-mother
+altus1 | 1 | high
+altus1 | 2 | deep
+altus1 | 3 | high or tall, seen from below upwards
+altus1 | 4 | deep, seen from above downwards
+altus1 | 5 | lofty in rank or spirit, noble, exalted
+altus1 | 6 | altum as a noun, the open sea, the deep
+altus1 | 7 | altum as a noun, the height of heaven, the sky
+altus1 | 8 | of sleep or silence, deep, profound
+altus1 | 9 | of time, far back: ex alto repetere, to fetch a thing from far back
+altus1 | 10 | the adverb alte, both on high and deeply
+alucinatio | 1 | daydreaming
+alucinatio | 3 | a wandering of the mind, idle reverie
+alucinor | 1 | ramble
+alucinor | 3 | to wander in mind, to talk nonsense, to dream
+alumno | 1 | rear
+alumno | 3 | to nourish and bring up, a late word
+alumnus | 1 | nursling
+alumnus | 2 | pupil
+alumnus | 3 | one reared by another, a foster-son or foster-daughter
+alumnus | 4 | figuratively a child of something: alumnus fortunae, fortune's child
+alumnus | 5 | in late Latin the other way about: one who rears, a nourisher
+aluta | 1 | leather
+aluta | 3 | a soft leather, probably dressed with alum
+aluta | 4 | things made from it: a shoe, a purse, or a beauty patch for the face
+alvearium | 1 | beehive
+alvearium | 3 | a beehive
+alvearium | 4 | an apiary, the place where the hives stand
+alveolus | 1 | tray
+alveolus | 3 | a small hollow: a tray, trough, or basin
+alveolus | 4 | a small board for playing dice on
+alveolus | 5 | the narrow channel of a river; also a weaver's shuttle
+alveus | 1 | hollow
+alveus | 2 | channel
+alveus | 3 | any hollow or cavity
+alveus | 4 | a trough, tub, or basket, and also a bathing tub
+alveus | 5 | the hull of a ship, and so the ship itself
+alveus | 6 | a board hollowed out for dice
+alveus | 7 | a beehive
+alveus | 8 | the bed or channel of a river
+alvus | 1 | belly
+alvus | 2 | bowels
+alvus | 3 | the belly and the bowels: purgatio alvi, a clearing of the bowels
+alvus | 4 | the womb: in alvo gestare, to carry in the womb
+alvus | 5 | the stomach and the digestive organs
+alvus | 6 | a beehive
+amabilis | 1 | lovable
+amabilis | 3 | deserving to be loved, lovely, charming
+amabilitas | 1 | loveliness
+amabilitas | 3 | charm, amiability, a word of early and late Latin
+amando | 1 | send away
+amando | 3 | to send someone off, usually with a hint of getting rid of them
+amaracinus | 1 | of marjoram
+amaracinus | 3 | made of marjoram: unguentum amaracinum, marjoram oil
+amaracinus | 4 | as a noun, marjoram ointment
+amaritudo | 1 | bitterness
+amaritudo | 3 | bitterness of taste
+amaritudo | 4 | bitterness of feeling: sharpness, sorrow, resentment
+amarus | 1 | bitter
+amarus | 3 | bitter to the taste, the opposite of dulcis
+amarus | 4 | of sound harsh and shrill, of smell offensive
+amarus | 5 | painful, unhappy, sad: amara dies, a bitter day
+amarus | 6 | of speech, biting, caustic, sarcastic
+amarus | 7 | of temper, sour, morose, irritable
+amator | 1 | lover
+amator | 3 | a friend or admirer of a thing, in a good sense
+amator | 4 | in a bad sense, a paramour, a gallant
+amatorius | 1 | amorous
+amatorius | 3 | to do with love: voluptas amatoria, the pleasure of love
+ambages | 1 | winding
+ambages | 2 | evasion
+ambages | 3 | a winding, roundabout way: ambages viarum, the twists of the maze
+ambages | 4 | circumlocution, a roundabout way of speaking: ambages mitte, come to the point
+ambages | 5 | obscurity, riddling ambiguity, as of the Sphinx

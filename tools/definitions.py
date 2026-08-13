@@ -4,6 +4,7 @@ Three subcommands, run from the repository root:
 
     python tools/definitions.py next G          which words to write next
     python tools/definitions.py check G         validate the format
+    python tools/definitions.py review          glosses flagged for a human
     python tools/definitions.py status          coverage, per letter
 
 `next` picks words for you so chunks stay deterministic and resumable: the
@@ -46,11 +47,18 @@ MIN_SENSE_CHARS = 250
 
 MAX_RANK = 10
 
-# Ranks 1 and 2 are bare one-word glosses; 3+ are the broadened senses. Rank 2
-# is optional -- it is written only when a second single-word gloss carries a
-# genuinely distinct core meaning -- so a 1 -> 3 jump is legal and nothing else
-# is.
-ONE_WORD_RANKS = (1, 2)
+# Ranks 1 and 2 are the short glosses shown in their own section on the entry
+# page; 3+ are the broadened senses.
+SHORT_RANKS = (1, 2)
+
+# Accuracy beats brevity: a gloss is written as briefly as it can be written
+# accurately. One or two words is the confident zone. Needing three or more
+# means the short form did not fit cleanly, so the line must carry a
+# "# review: <key> <why>" comment and `check` fails until it does.
+FLAG_AT_WORDS = 3
+
+# Rank 2 is optional -- written only when a second gloss carries a genuinely
+# distinct core meaning -- so a 1 -> 3 jump is legal and nothing else is.
 OPTIONAL_RANK = 2
 
 
@@ -89,36 +97,44 @@ def eligible_keys(letter: str) -> list[str]:
     )
 
 
-def parse_definitions(letter: str) -> tuple[list[tuple[int, str, int, str]], set[str]]:
-    """Return ([(line_no, key, rank, definition)], {skipped keys}).
+def parse_definitions(
+    letter: str,
+) -> tuple[list[tuple[int, str, int, str]], set[str], dict[str, str]]:
+    """Return ([(line_no, key, rank, definition)], {skipped}, {flagged: why}).
 
-    Comment lines are ignored except `# skip: <key> <reason>`, which records a
-    word deliberately passed over so `next` stops offering it.
+    Comment lines are ignored except two tags. `# skip: <key> <reason>` records
+    a word deliberately passed over, so `next` stops offering it.
+    `# review: <key> <reason>` marks a short gloss the writer was not confident
+    about, so it can be listed for a human to settle.
     """
     path = definitions_path(letter)
     if not path.exists():
-        return [], set()
+        return [], set(), {}
 
-    rows, skipped = [], set()
+    rows, skipped, review = [], set(), {}
     for line_no, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
         line = line.strip()
         if not line:
             continue
         if line.startswith("#"):
-            if line[1:].lstrip().startswith("skip:"):
-                rest = line.split("skip:", 1)[1].split()
-                if rest:
-                    skipped.add(rest[0])
+            body = line[1:].lstrip()
+            for tag, sink in (("skip:", skipped), ("review:", review)):
+                if body.startswith(tag):
+                    rest = body.split(tag, 1)[1].split(None, 1)
+                    if rest and isinstance(sink, set):
+                        sink.add(rest[0])
+                    elif rest:
+                        sink[rest[0]] = rest[1].strip() if len(rest) > 1 else ""
             continue
         parts = [p.strip() for p in line.split("|")]
         rank = int(parts[1]) if len(parts) == 3 and parts[1].isdigit() else -1
         rows.append((line_no, parts[0], rank, parts[2] if len(parts) == 3 else line))
-    return rows, skipped
+    return rows, skipped, review
 
 
 def cmd_next(args) -> int:
     letter = args.letter.upper()
-    rows, skipped = parse_definitions(letter)
+    rows, skipped, _ = parse_definitions(letter)
     done = {key for _, key, _, _ in rows}
 
     todo = [k for k in eligible_keys(letter) if k not in done and k not in skipped]
@@ -168,7 +184,8 @@ def check_letter(letter: str) -> list[str]:
     ranks: dict[str, list[int]] = {}
     order: list[str] = []
 
-    for line_no, key, rank, definition in parse_definitions(letter)[0]:
+    rows, _skipped, review = parse_definitions(letter)
+    for line_no, key, rank, definition in rows:
         if rank == -1:
             errors.append(f"{where(line_no)}: expected 'key | rank | definition'")
             continue
@@ -176,8 +193,11 @@ def check_letter(letter: str) -> list[str]:
             errors.append(f"{where(line_no)}: key {key!r} is not in ls_{letter}.json")
         if not definition:
             errors.append(f"{where(line_no)}: empty definition")
-        if rank in ONE_WORD_RANKS and " " in definition:
-            errors.append(f"{where(line_no)}: rank {rank} must be one word, got {definition!r}")
+        if rank in SHORT_RANKS and len(definition.split()) >= FLAG_AT_WORDS and key not in review:
+            errors.append(
+                f"{where(line_no)}: rank {rank} needs {len(definition.split())} words"
+                f" ({definition!r}) -- add a '# review: {key} <why>' line so it gets looked at"
+            )
         if key not in ranks:
             ranks[key] = []
             order.append(key)
@@ -203,7 +223,11 @@ def check_letter(letter: str) -> list[str]:
         errors.append(f"keys out of alphabetical order at {order[first]!r} (after {order[first - 1]!r})")
 
     if not errors:
-        print(f"{path.name}: {len(ranks)} words, {sum(len(r) for r in ranks.values())} lines, all checks passed.")
+        note = f", {len(review)} flagged for review" if review else ""
+        print(
+            f"{path.name}: {len(ranks)} words, "
+            f"{sum(len(r) for r in ranks.values())} lines, all checks passed{note}."
+        )
     return errors
 
 
@@ -224,6 +248,26 @@ def cmd_check(args) -> int:
     return 1 if errors else 0
 
 
+def cmd_review(args) -> int:
+    """List every short gloss the writer flagged, so a human can settle them."""
+    letters = [args.letter] if args.letter else _written_letters()
+    total = 0
+    for letter in letters:
+        rows, _skipped, review = parse_definitions(letter)
+        if not review:
+            continue
+        text = {(key, rank): defn for _, key, rank, defn in rows}
+        print(f"{letter}.txt")
+        for key, why in sorted(review.items()):
+            for rank in SHORT_RANKS:
+                if (key, rank) in text:
+                    print(f"   {key:16s} r{rank}  {text[(key, rank)]:24s} -- {why}")
+                    total += 1
+        print()
+    print(f"{total} gloss(es) awaiting review" if total else "nothing flagged for review")
+    return 0
+
+
 def _written_letters() -> list[str]:
     if not DEFINITIONS_DIR.exists():
         return []
@@ -238,7 +282,7 @@ def cmd_status(args) -> int:
         if not source_path(letter).exists():
             continue
         eligible = eligible_keys(letter)
-        rows, skipped = parse_definitions(letter)
+        rows, skipped, _ = parse_definitions(letter)
         done = {key for _, key, _, _ in rows}
         total_done += len(done)
         total_eligible += len(eligible)
@@ -267,6 +311,10 @@ def main() -> int:
     p_check = sub.add_parser("check", help="validate definitions files")
     p_check.add_argument("letter", nargs="?", help="one letter, or omit for every written file")
     p_check.set_defaults(func=cmd_check)
+
+    p_review = sub.add_parser("review", help="list short glosses flagged for a human")
+    p_review.add_argument("letter", nargs="?", help="one letter, or omit for all")
+    p_review.set_defaults(func=cmd_review)
 
     p_status = sub.add_parser("status", help="show coverage per letter")
     p_status.add_argument("--all", action="store_true", help="include letters not yet started")
