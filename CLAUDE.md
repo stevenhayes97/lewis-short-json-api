@@ -128,6 +128,33 @@ Widen or narrow the net by changing `MIN_SENSE_CHARS`, not by picking around it.
 - **Don't reformat existing lines** while adding a chunk. Chunks are reviewed as
   diffs; a re-sorted or rewrapped file buries the ten new words in noise.
 
+## Known limits of the format
+
+Recorded from an audit of the first 400 words of A, so they are not
+rediscovered each chunk. None is a defect in an individual line.
+
+- **Rank 1 collides across parts of speech.** 44 rank-1 glosses in `A.txt` are
+  shared by two or more words: `approach` covers seven (`accedo`, `accessus2`,
+  `adeo1`, `aditio`, `aditus2`, `advento`, `aggredio`), `equal` four, `bronze`
+  four, and `summer` serves a noun, a verb and an adjective alike. With no
+  part-of-speech column there is nothing to separate them, which blunts rank 1
+  for the memorisation job it exists to do. Fixing it means either a new column
+  or letting rank 1 take a qualifying word — both change every file already
+  written, so **do not change the format without asking.**
+- **One-word rank 1 strains on function words.** It fits nouns and adjectives
+  cleanly; adverbs, impersonals and prepositions have no one-word English
+  equivalent. Precedent is to pick the closest single word and carry the real
+  sense at rank 3 — `advesperascit | 1 | darkens`, `adusque | 1 | unto`,
+  `acervatim | 1 | wholesale`.
+- **Spelling and orthography.** The definition text is British English
+  (`honour`, `colour`, `recognise`). Latin illustrations follow the source's
+  `j` convention, matching the keys: `injuria`, `jus`, `adjicere` — not
+  `iniuria`, `ius`, `adicere`.
+- **Verify quotations against the entry, not from memory.** `aio` was written
+  with an imperative `aie`, which does not exist; the entry says `imper. ai`.
+  A wrong form teaches a student something false, so any Latin phrase not
+  lifted from the entry needs checking before it goes in.
+
 ## Committing
 
 Work on the branch you were told to use, one commit per chunk, subject naming

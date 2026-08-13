@@ -216,7 +216,7 @@ abstinentia | 5 | in later Latin, going without food, fasting or starvation
 abstineo | 1 | abstain
 abstineo | 2 | withhold
 abstineo | 3 | to hold something or someone back, to keep them away from a thing
-abstineo | 4 | to abstain from something, with the ablative or ab: iniuria abstinere, to do no wrong
+abstineo | 4 | to abstain from something, with the ablative or ab: injuria abstinere, to do no wrong
 abstineo | 5 | se abstinere, to restrain oneself, to keep clear of something
 abstineo | 6 | to keep off food, to go without eating
 abstraho | 1 | detach
@@ -385,7 +385,7 @@ accredo | 3 | to take someone's word without question, to believe them outright 
 accresco | 1 | grow
 accresco | 3 | to grow bigger, to increase in size
 accresco | 4 | to be added to something by way of increase, to accrue to it
-accresco | 5 | in law, to fall to someone as an addition to their property: ius accrescendi, the right of survivorship
+accresco | 5 | in law, to fall to someone as an addition to their property: jus accrescendi, the right of survivorship
 accubitio | 1 | reclining
 accubitio | 3 | the reclining at table in the Roman manner
 accubitio | 4 | a dining couch
@@ -415,7 +415,7 @@ accusator | 1 | accuser
 accusator | 3 | the prosecutor in a public trial, where petitor is the plaintiff in a private suit
 accusator | 4 | under the empire, an informer, a professional denouncer
 accusatorius | 1 | accusatory
-accusatorius | 3 | belonging to an accuser, such as a prosecutor uses: accusatorio iure, by a prosecutor's right
+accusatorius | 3 | belonging to an accuser, such as a prosecutor uses: accusatorio jure, by a prosecutor's right
 accuso | 1 | accuse
 accuso | 2 | blame
 accuso | 3 | to blame or reproach someone, to call them to account
@@ -728,7 +728,7 @@ adjicio | 1 | add
 adjicio | 2 | throw
 adjicio | 3 | to throw or set one thing near another
 adjicio | 4 | to add something to what is there, to increase it
-adjicio | 5 | to turn the mind or the eye to a thing: oculos adicere, to cast an eye on
+adjicio | 5 | to turn the mind or the eye to a thing: oculos adjicere, to cast an eye on
 adjicio | 6 | of a speaker, to add a further remark
 adjicio | 7 | at an auction, to raise a bid, to outbid
 adjudico | 1 | adjudge
@@ -766,7 +766,7 @@ adjutrix | 3 | a woman or a thing that helps, a female assistant
 adjutrix | 4 | legiones adiutrices, legions raised to reinforce the regular army
 adjuvo | 1 | help
 adjuvo | 3 | to help or assist someone, taking a plain accusative where most such verbs take the dative
-adjuvo | 4 | to feed or sustain a state of mind: adiuvare insaniam, to encourage someone's madness
+adjuvo | 4 | to feed or sustain a state of mind: adjuvare insaniam, to encourage someone's madness
 adjuvo | 5 | with no object, to be of use, to do some good: adiuvat, it helps
 adminiculo | 1 | prop
 adminiculo | 3 | to prop a vine up, to stake it
@@ -1585,7 +1585,7 @@ agnomen | 1 | nickname
 agnomen | 3 | a name won by an achievement, such as Africanus, as against the inherited cognomen
 agnominatio | 1 | wordplay
 agnominatio | 3 | the figure of setting together words alike in sound but different in sense, paronomasia
-agnosco | 1 | recognize
+agnosco | 1 | recognise
 agnosco | 2 | acknowledge
 agnosco | 3 | to know something again, to recognise it as met before
 agnosco | 4 | to acknowledge a thing as one's own: filium agnoscere, to own a child as one's son
@@ -1626,7 +1626,7 @@ ai1 | 1 | alas
 ai1 | 3 | a cry of grief taken from the Greek, ah, alas
 aio | 1 | say
 aio | 2 | affirm
-aio | 3 | to say yes, to affirm, the opposite of nego: aut aie aut nega, either say yes or say no
+aio | 3 | to say yes, to affirm, the opposite of nego: vel ai vel nega, either say yes or say no
 aio | 4 | to say or assert something, where dico is to speak in order to inform
 aio | 5 | in quoting someone: ut ait Cicero, as Cicero puts it
 aio | 6 | aiunt or ut aiunt, they say, as the saying goes, bringing in a proverb
