@@ -46,11 +46,16 @@ MIN_SENSE_CHARS = 250
 
 MAX_RANK = 10
 
-# Ranks 1 and 2 are bare one-word glosses; 3+ are the broadened senses. Rank 2
-# is optional -- it is written only when a second single-word gloss carries a
-# genuinely distinct core meaning -- so a 1 -> 3 jump is legal and nothing else
-# is.
-ONE_WORD_RANKS = (1, 2)
+# Ranks 1 and 2 are the short glosses shown in their own section on the entry
+# page; 3+ are the broadened senses. One word is the default and the strong
+# preference, but two or three are allowed where one word misreads on its own
+# -- an adjective glossed with a bare noun (aestivus "summer") looks like a
+# noun with no sentence around it. Four words is a phrase, and fails.
+SHORT_RANKS = (1, 2)
+MAX_SHORT_WORDS = 3
+
+# Rank 2 is optional -- written only when a second gloss carries a genuinely
+# distinct core meaning -- so a 1 -> 3 jump is legal and nothing else is.
 OPTIONAL_RANK = 2
 
 
@@ -176,8 +181,11 @@ def check_letter(letter: str) -> list[str]:
             errors.append(f"{where(line_no)}: key {key!r} is not in ls_{letter}.json")
         if not definition:
             errors.append(f"{where(line_no)}: empty definition")
-        if rank in ONE_WORD_RANKS and " " in definition:
-            errors.append(f"{where(line_no)}: rank {rank} must be one word, got {definition!r}")
+        if rank in SHORT_RANKS and len(definition.split()) > MAX_SHORT_WORDS:
+            errors.append(
+                f"{where(line_no)}: rank {rank} takes at most {MAX_SHORT_WORDS} words"
+                f" (one preferred), got {definition!r}"
+            )
         if key not in ranks:
             ranks[key] = []
             order.append(key)

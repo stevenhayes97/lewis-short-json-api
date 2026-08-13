@@ -80,6 +80,21 @@ This is the part that matters most, and the part most easily got wrong.
 | **2** | **One word, and only if it earns it** — a second, genuinely *distinct* core meaning, not a near-synonym of rank 1. `gaudeo` earns one ("rejoice", then "delight"); `gladius` does not, since "blade" only restates "sword". |
 | **3+** | **Full phrases.** The broadened senses: transferred and figurative uses, idioms, and construction hints where the construction is the actual difficulty. |
 
+Ranks 1 and 2 are shown together in their own section on the entry page, with
+no sentence around them to lean on, so each has to read correctly alone.
+**One word is the default; two or three are allowed only where one word
+misreads** — `check` fails at four. The test is part of speech: an adjective
+glossed with a bare noun looks like a noun (`aestivus | 1 | of summer`, not
+`summer`, since `aestas` is the noun and `aestivo` the verb), and a verb needs
+a verb (`aestivo | 1 | spend the summer`, `absum | 1 | be absent`). Verbs still
+drop the "to". Thirteen of the first 410 words needed the extra words; if a
+chunk wants many more than that, the bar is being applied too loosely.
+
+A short gloss may be an uncommon English word if that is the accurate one —
+`aedilicius | 1 | aedilician`, `admirabilitas | 1 | wonderfulness`,
+`adusque | 1 | unto`, `acervatim | 1 | wholesale` are all deliberate. Precision
+beats familiarity here; rank 3 carries the plain-English explanation.
+
 Rank 2 is the only rank that may be skipped — a `1 → 3` jump is legal, any
 other gap is an error. Cap is 10 ranks per word; most words want 4–8, and a
 narrow word wanting only 3 should have only 3. Padding out to 10 is worse than

@@ -70,7 +70,7 @@ abicio | 4 | to give up or let go a hope, a plan, or a claim
 abicio | 5 | to bring someone low, to degrade them or lower their standing
 abicio | 6 | se abicere, to throw oneself away, to lose all self-respect
 abicio | 7 | abiectus as an adjective: downcast and dispirited; or low, mean, contemptible
-abiegnus | 1 | fir
+abiegnus | 1 | made of fir
 abiegnus | 3 | made of fir wood or deal
 abiegnus | 4 | in poetry of a ship or of the Trojan horse, both being built of fir
 abies | 1 | fir
@@ -228,7 +228,7 @@ abstrudo | 1 | hide
 abstrudo | 3 | to thrust something out of the way and so conceal it
 abstrudo | 4 | to bury a feeling, to push down grief or fear
 abstrudo | 5 | abstrusus as an adjective: hidden away; of a subject, abstruse and hard to get at
-absum | 1 | absent
+absum | 1 | be absent
 absum | 2 | lack
 absum | 3 | to be away from a place or person, not to be there
 absum | 4 | to be a given distance off: castra aberant bidui, the camp was two days away
@@ -891,7 +891,7 @@ adopto | 4 | to adopt someone as a son or grandson, a formal act at law
 adopto | 5 | in gardening, to graft a shoot onto another tree
 ador | 1 | spelt
 ador | 3 | a kind of grain, spelt, used in the oldest Roman sacrifices
-adoreus1 | 1 | spelt
+adoreus1 | 1 | of spelt
 adoreus1 | 3 | made of spelt, of spelt: far adoreum, spelt grain
 adoreus1 | 4 | adorea as a noun, a reward for valour and so glory in war, from the grain once given as a prize
 adorior | 1 | attack
@@ -1006,7 +1006,7 @@ adventicius | 3 | coming from outside, foreign, not one's own
 adventicius | 4 | added beyond what is usual, out of the ordinary: fructus adventicius, an unlooked-for yield
 adventicius | 5 | got without one's own effort: pecunia adventicia, money from outside the family estate
 adventicius | 6 | belonging to an arrival: cena adventicia, a welcome-home dinner
-advento | 1 | approach
+advento | 1 | draw near
 advento | 3 | to keep drawing nearer, to be on the way, said of a person or an army
 advento | 4 | of a time or a disaster, to be coming on
 adventor | 1 | visitor
@@ -1040,7 +1040,7 @@ adverto | 5 | animum advertere, to turn the mind to something, and so to notice 
 adverto | 6 | to draw someone else's attention to a thing, to make them look
 adverto | 7 | advertere in aliquem, to deal with someone, that is, to punish them
 adverto | 8 | adversus as an adjective: facing, in front; and hostile, unfavourable: res adversae, misfortune
-advesperascit | 1 | darkens
+advesperascit | 1 | grow dark
 advesperascit | 3 | impersonal: evening is coming on, it is getting dark
 advigilo | 1 | watch
 advigilo | 3 | to keep watch over something, to guard it, with ad or the dative
@@ -1146,10 +1146,10 @@ aemulus | 1 | rival
 aemulus | 3 | striving to equal someone, emulous of them, with the genitive: laudis aemulus, a rival for glory
 aemulus | 4 | in a bad sense, jealous, grudging, envious
 aemulus | 5 | as a noun, a rival, and especially a rival in love
-aeneus | 1 | bronze
+aeneus | 1 | of bronze
 aeneus | 3 | made of copper or bronze: statua aenea, a bronze statue
 aeneus | 4 | bronze-coloured: barba aenea, a red-bronze beard
-aenus3 | 1 | bronze
+aenus3 | 1 | of bronze
 aenus3 | 3 | made of bronze, the poetic form of aheneus
 aenus3 | 4 | firm and unyielding, invincible: manus aenae, hands of bronze
 aenus3 | 5 | hard, pitiless, inexorable
@@ -1224,7 +1224,7 @@ aera | 1 | era
 aera | 3 | a number taken as the basis of a reckoning
 aera | 4 | an item in an account
 aera | 5 | in late Latin, an era, a fixed point from which time is counted
-aerarius | 1 | copper
+aerarius | 1 | of copper
 aerarius | 2 | financial
 aerarius | 3 | of or made of copper: aerarium metallum, a copper mine
 aerarius | 4 | to do with money or the treasury: tribunus aerarius, a paymaster
@@ -1236,7 +1236,7 @@ aeratus | 1 | bronzed
 aeratus | 3 | fitted or covered with bronze: aerata navis, a bronze-beaked ship
 aeratus | 4 | made of bronze: catenae aeratae, chains of bronze
 aeratus | 5 | in a joke of Cicero's, well furnished with money, moneyed
-aereus1 | 1 | bronze
+aereus1 | 1 | of bronze
 aereus1 | 3 | made of copper or bronze
 aereus1 | 4 | fitted or plated with bronze: clipeus aereus, a bronze-faced shield
 aeripes | 1 | bronze-footed
@@ -1285,9 +1285,9 @@ aestimo | 3 | to set a money value on something, to appraise it, with the geniti
 aestimo | 4 | to weigh a thing's real worth: magni aestimare, to think much of something
 aestimo | 5 | to judge or reckon from something: ex veritate aestimare, to judge by the truth of the matter
 aestimo | 6 | litem aestimare, to assess the damages in a suit
-aestivo | 1 | summer
+aestivo | 1 | spend the summer
 aestivo | 3 | to spend the summer somewhere, as hiemo is to spend the winter
-aestivus | 1 | summer
+aestivus | 1 | of summer
 aestivus | 3 | of or belonging to summer: aestivi dies, summer days
 aestivus | 4 | aestiva as a noun, a summer camp, and so the campaigning season
 aestivus | 5 | summer pastures in the hills, and by extension the cattle grazing them
@@ -1568,7 +1568,7 @@ agnatio | 1 | kinship
 agnatio | 3 | relationship on the father's side, agnatic descent
 agnatio | 4 | the being born after a father's will was made or after his death
 agnatio | 5 | a growing on to something
-agninus | 1 | lamb
+agninus | 1 | of a lamb
 agninus | 3 | belonging to a lamb: agninus pes, a lamb's trotter
 agninus | 4 | agnina as a noun, lamb as meat
 agnitio | 1 | recognition
@@ -1650,7 +1650,7 @@ alarius | 3 | belonging to the wing of an army: cohortes alariae, the allied tro
 alauda | 1 | lark
 alauda | 3 | the lark
 alauda | 4 | the name of a legion Caesar raised in Gaul at his own expense
-albarius | 1 | stucco
+albarius | 1 | of stucco
 albarius | 3 | to do with the whitening of walls: opus albarium, white stucco work
 albatus | 1 | white-robed
 albatus | 3 | dressed in white, as at a feast or a festival
