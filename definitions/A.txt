@@ -70,7 +70,7 @@ abicio | 4 | to give up or let go a hope, a plan, or a claim
 abicio | 5 | to bring someone low, to degrade them or lower their standing
 abicio | 6 | se abicere, to throw oneself away, to lose all self-respect
 abicio | 7 | abiectus as an adjective: downcast and dispirited; or low, mean, contemptible
-# review: abiegnus no single English adjective for 'of fir'; 'fir' alone reads as the noun
+# review: abiegnus English has no adjective for 'of fir'; three words kept, confirmed
 abiegnus | 1 | made of fir
 abiegnus | 3 | made of fir wood or deal
 abiegnus | 4 | in poetry of a ship or of the Trojan horse, both being built of fir
@@ -1573,7 +1573,7 @@ agnatio | 1 | kinship
 agnatio | 3 | relationship on the father's side, agnatic descent
 agnatio | 4 | the being born after a father's will was made or after his death
 agnatio | 5 | a growing on to something
-# review: agninus adjective; 'lamb' alone reads as the noun beside agnus and agna1
+# review: agninus 'lamb' would also read fine; three words kept, confirmed
 agninus | 1 | of a lamb
 agninus | 3 | belonging to a lamb: agninus pes, a lamb's trotter
 agninus | 4 | agnina as a noun, lamb as meat

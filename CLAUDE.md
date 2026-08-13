@@ -106,14 +106,17 @@ expected outcome whenever English has no short equivalent.
 
 Two tests catch most cases:
 
-- **Part of speech.** An adjective glossed with a bare noun reads as a noun —
-  `aestivus | 1 | of summer`, not `summer`, since `aestas` is the noun and
-  `aestivo` the verb. A verb needs a verb: `aestivo | 1 | spend the summer`,
-  `absum | 1 | be absent`. Verbs still drop the "to".
-- **Words a shared gloss would blur.** `accolo` (of people) and `adjaceo` (of
-  places) were both "adjoin"; they are now `dwell near` and `lie near`.
-  `albeo`/`albico` are stative and `albesco` inchoative: `be white` against
-  `turn white`.
+- **Part of speech.** Give a verb an English verb — `aestivo | 1 | spend the
+  summer`, not "summer"; `absum | 1 | be absent`, not "absent". Printing
+  *(v.)* beside a noun does not turn it into one. Verbs still drop the "to".
+  Adjectives are looser, since English happily uses nouns attributively
+  ("summer day", "lamb chop"), but `of summer` and `of a lamb` are clearer and
+  are what the existing files use.
+- **A gloss that blurs two different meanings.** Repeating a gloss is fine when
+  the words mean the same thing; it is a problem only when they do not.
+  `accolo` (of people) and `adjaceo` (of places) were both "adjoin" and are now
+  `dwell near` and `lie near`. `albeo`/`albico` are stative and `albesco`
+  inchoative: `be white` against `turn white`.
 
 About 6% of the first 410 words use more than one word. A chunk running far
 above that is padding; far below it is probably forcing single words that do
@@ -176,14 +179,15 @@ Widen or narrow the net by changing `MIN_SENSE_CHARS`, not by picking around it.
 Recorded from an audit of the first 400 words of A, so they are not
 rediscovered each chunk. None is a defect in an individual line.
 
-- **Rank 1 collides across parts of speech.** 44 rank-1 glosses in `A.txt` are
-  shared by two or more words: `approach` covers seven (`accedo`, `accessus2`,
-  `adeo1`, `aditio`, `aditus2`, `advento`, `aggredio`), `equal` four, `bronze`
-  four, and `summer` serves a noun, a verb and an adjective alike. With no
-  part-of-speech column there is nothing to separate them, which blunts rank 1
-  for the memorisation job it exists to do. Fixing it means either a new column
-  or letting rank 1 take a qualifying word — both change every file already
-  written, so **do not change the format without asking.**
+- **Rank 1 glosses repeat across words, and that is fine — settled, do not
+  re-open.** 39 rank-1 glosses in `A.txt` are shared by two or more entries:
+  `approach` covers six (`accedo`, `accessus2`, `adeo1`, `aditio`, `aditus2`,
+  `aggredio`), `equal` four, `attack` and `heap` and `help` three each. Fourteen
+  of them span parts of speech. This is not a defect: the entry page shows the
+  headword's part of speech beside the gloss, so a reader can tell the noun
+  `aditus2` from the verb `adeo1`, and English does the same thing anyway —
+  *approach*, *heap*, *sketch* and *shout* are each both noun and verb. Do not
+  expand a gloss, or propose a part-of-speech column, to break up a collision.
 - **One-word rank 1 strains on function words.** It fits nouns and adjectives
   cleanly; adverbs, impersonals and prepositions have no one-word English
   equivalent. Precedent is to pick the closest single word and carry the real
