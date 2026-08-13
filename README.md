@@ -32,6 +32,14 @@ stays available without dominating the page.
 Draft API shapes (WIP, still evolving) live under
 [`json-schemas/README.md`](json-schemas/README.md).
 
+## Curated definitions
+
+`definitions/<LETTER>.txt` holds the summarized definition layer, written by
+hand a chunk of words at a time: `key | rank | plain-English definition`, with
+rank 1 the sense a learner meets first. `tools/definitions.py` picks the next
+words (`next`), validates the format (`check`) and reports coverage
+(`status`); the editorial rules live in [`CLAUDE.md`](CLAUDE.md).
+
 ## Loading into a database
 
 `tools/ls_db.py` loads the `ls_*.json` files into SQLite, PostgreSQL or MySQL,

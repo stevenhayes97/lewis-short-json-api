@@ -1,0 +1,87 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_G.json (Lewis & Short via Perseus), simplified for learners.
+gaudeo | 1 | rejoice
+gaudeo | 2 | delight
+gaudeo | 3 | to be glad, feel joy inwardly, as against laetor, which shows joy openly
+gaudeo | 4 | to take pleasure in something, with the ablative: gaudere victoria, to delight in the victory
+gaudeo | 5 | to be glad that something is so, with an infinitive, an accusative and infinitive, or a quod clause
+gaudeo | 6 | in sinu gaudere, to be quietly pleased with oneself, to enjoy something in secret
+gaudeo | 7 | of plants, places, and things, to thrive on or be at home in something
+gaudeo | 8 | used as a greeting, like the Greek chairein: to send someone one's good wishes
+gens | 1 | clan
+gens | 2 | people
+gens | 3 | a Roman clan: a group of families sharing one name and common religious rites, such as the gens Iulia
+gens | 4 | a nation, people, or tribe, usually a foreign one and larger than a single city
+gens | 5 | descendants, offspring, a stock or line (poetic)
+gens | 6 | the whole race: gens humana, the human race, mankind
+gens | 7 | a breed, herd, or swarm of animals
+gens | 8 | a tribe, crew, or gang, said with contempt (gens Clodiana, that Clodian crew)
+gens | 9 | partitive genitive gentium, used for emphasis in questions: ubi gentium, where in the world
+gens | 10 | in Christian Latin, gentes: the gentiles, the pagan nations
+genus1 | 1 | kind
+genus1 | 2 | birth
+genus1 | 3 | a kind, sort, class, or type of thing (omne genus, of every kind)
+genus1 | 4 | birth, descent, family, origin: nobili genere natus, born of a noble family
+genus1 | 5 | high or noble birth taken on its own, good breeding (mostly poetic)
+genus1 | 6 | a race or stock of living things: genus humanum, the human race
+genus1 | 7 | a descendant, child, or offspring; collectively, posterity (poetic)
+genus1 | 8 | a manner, style, or way of doing something: genus dicendi, a style of speaking
+genus1 | 9 | in logic, a genus: the general class that contains the particular species beneath it
+genus1 | 10 | in grammar, gender
+gero1 | 1 | carry
+gero1 | 2 | wage
+gero1 | 3 | to bear or carry something; to wear clothing, armour, a crown, or a weapon
+gero1 | 4 | to wage or carry on war: bellum gerere cum aliquo, to make war on someone
+gero1 | 5 | to carry on, manage, or administer a task, an office, or public affairs: rem publicam gerere, to run the state
+gero1 | 6 | to hold or harbour a feeling or attitude: to entertain, cherish, keep (hatred, love, courage)
+gero1 | 7 | se gerere with an adverb or phrase: to behave, act, conduct oneself in a certain way
+gero1 | 8 | of soil, plants, or animals: to bear, bring forth, produce
+gero1 | 9 | of time: to pass, spend, live out (aetatem gerere, to spend one's life)
+gero1 | 10 | res gestae, from the perfect participle: things done, deeds, exploits, achievements
+gigno | 1 | beget
+gigno | 2 | produce
+gigno | 3 | to father or give birth to, to bring into the world, said of either parent
+gigno | 4 | of the earth and nature, to bring forth, grow, yield
+gigno | 5 | to cause, occasion, or give rise to something abstract, such as fear, quarrels, or friendship
+gigno | 6 | in the passive, gigni: to be born, to arise, to spring from
+gladius | 1 | sword
+gladius | 3 | the short two-edged thrusting sword of a Roman soldier, worn on the right hip
+gladius | 4 | violence, bloodshed, or murder, with the sword standing for armed force
+gladius | 5 | a gladiatorial fight, or the arena as a sentence: ad gladium damnari, to be condemned to the sword
+gladius | 6 | proverbial: suo sibi gladio iugulare, to cut a man's throat with his own sword, to beat him with his own argument
+gladius | 7 | the blade of a ploughshare
+gladius | 8 | the swordfish
+gloria | 1 | glory
+gloria | 2 | fame
+gloria | 3 | glory, renown, or high reputation won by achievement, especially in war
+gloria | 4 | the praise and honour others give you; also the thing you are praised for, your pride and boast
+gloria | 5 | ambition, the hunger for glory taken as a motive
+gloria | 6 | boasting, vainglory, empty self-display, in a bad sense
+gloria | 7 | in Christian Latin, the glory given to God, divine splendour
+gratia | 1 | favor
+gratia | 2 | thanks
+gratia | 3 | the goodwill you enjoy in other people's eyes: esteem, popularity, influence, standing
+gratia | 4 | a kindness done for someone, a favor granted, a service
+gratia | 5 | thanks, gratitude: gratias agere, to thank in words; gratiam referre, to repay by deed; gratiam habere, to feel grateful
+gratia | 6 | friendly relations, good terms: in gratiam redire cum aliquo, to be reconciled with someone
+gratia | 7 | charm, gracefulness, attractiveness, beauty (poetic and later prose)
+gratia | 8 | after a genitive, gratia means for the sake of, on account of: exempli gratia, for example; mea gratia, for my sake
+gratia | 9 | Gratiae, the three Graces, goddesses of charm and loveliness
+gratia | 10 | ablative gratiis, contracted gratis: for nothing, free of charge, without payment
+gratus | 1 | pleasing
+gratus | 2 | grateful
+gratus | 3 | pleasant, agreeable, welcome, said of things that please
+gratus | 4 | dear to someone, in favour with them, with the dative: gratus dis, dear to the gods
+gratus | 5 | thankful, grateful, mindful of a kindness received
+gratus | 6 | deserving thanks, sure to be appreciated, said of an act that earns gratitude
+gratus | 7 | adverb grate: willingly and with pleasure; also thankfully, gratefully
+gravis | 1 | heavy
+gravis | 2 | serious
+gravis | 3 | weighed down, loaded, laden, often with the ablative: navis gravis, a laden ship
+gravis | 4 | serious, severe, grievous, of illness, wounds, war, or punishment
+gravis | 5 | weighty and important; of a person, respected, dignified, carrying authority (vir gravis)
+gravis | 6 | burdensome, oppressive, hard to bear, troublesome
+gravis | 7 | of sound, deep and low-pitched, the opposite of acutus
+gravis | 8 | of a smell or taste, strong, rank, offensive
+gravis | 9 | of air, food, or the body, unwholesome or unhealthy; of a person, sick and ailing
+gravis | 10 | pregnant, with child (poetic, standing in for gravidus)
