@@ -83,12 +83,26 @@ This is the part that matters most, and the part most easily got wrong.
 Ranks 1 and 2 are shown together in their own section on the entry page, with
 no sentence around them to lean on, so each has to read correctly alone.
 
-**Accuracy first, brevity second.** One word is the target, but two or three
-are right whenever one word would only approximate — `check` fails at four.
-Never sacrifice a real definition to keep the count at one: `adnepos` is a
-great-great-great-grandson, not a "descendant"; `acervatim` is `in heaps`, not
-"wholesale"; `adusque` is `as far as`, not "unto". Those three were one-word
-glosses that told a learner something vaguer than the truth.
+**Accuracy first, brevity second.** Write the gloss as briefly as you can
+write it *accurately*. Never sacrifice a real definition to keep the count at
+one: `adnepos` is a great-great-great-grandson, not a "descendant";
+`acervatim` is `in heaps`, not "wholesale"; `adusque` is `as far as`, not
+"unto". Those three were one-word glosses that told a learner something vaguer
+than the truth.
+
+**One or two words is the confident zone. If it takes three or more, flag it.**
+Needing three means the short form did not fit cleanly, so say so rather than
+quietly shipping a guess — add a comment line directly above the entry:
+
+```
+# review: aestivo English has no one-word verb; "summer" reads as the noun
+aestivo | 1 | spend the summer
+```
+
+`check` fails on any rank 1–2 gloss of three or more words that has no
+`# review:` line, and `definitions.py review` lists every flagged gloss with
+its reason for a human to settle. Flagging is not a failure — it is the
+expected outcome whenever English has no short equivalent.
 
 Two tests catch most cases:
 

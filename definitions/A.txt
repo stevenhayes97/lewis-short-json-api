@@ -70,6 +70,7 @@ abicio | 4 | to give up or let go a hope, a plan, or a claim
 abicio | 5 | to bring someone low, to degrade them or lower their standing
 abicio | 6 | se abicere, to throw oneself away, to lose all self-respect
 abicio | 7 | abiectus as an adjective: downcast and dispirited; or low, mean, contemptible
+# review: abiegnus no single English adjective for 'of fir'; 'fir' alone reads as the noun
 abiegnus | 1 | made of fir
 abiegnus | 3 | made of fir wood or deal
 abiegnus | 4 | in poetry of a ship or of the Trojan horse, both being built of fir
@@ -86,6 +87,7 @@ abitus | 3 | a going away, a departure
 abitus | 4 | the way out, the exit, the place one leaves by
 abjudico | 1 | disallow
 abjudico | 3 | to take something from someone by a court's decision, to rule that it is not theirs (the opposite of adiudico)
+# review: abjuro 'disavow' loses the oath, which is the whole point of the word
 abjuro | 1 | deny on oath
 abjuro | 3 | to deny on oath that you hold something, especially money left in your keeping
 ablego | 1 | dismiss
@@ -824,6 +826,7 @@ admodum | 3 | to a great degree, very, exceedingly, with adjectives, verbs, and 
 admodum | 4 | fully, completely, of numbers and time: turres admodum centum viginti, a full hundred and twenty towers
 admodum | 5 | with a negative, at all: nullus admodum, none whatever
 admodum | 6 | in an answer, just so, quite right, certainly
+# review: admolior general sense is 'bring one thing to another'; the attested use is manus admoliri
 admolior | 1 | lay hands on
 admolior | 3 | to bring or move one thing up to another: manus admoliri, to lay hands on something
 admolior | 4 | to struggle or push one's way towards a place
@@ -981,6 +984,7 @@ aduro | 3 | to set something alight, to singe or scorch it
 aduro | 4 | of frost, wind, or locusts, to nip and spoil a crop
 aduro | 5 | in poetry, of love, to burn or inflame someone
 aduro | 6 | adustus as an adjective: sunburnt, browned, swarthy
+# review: adusque 'unto' is archaic and vague; is a 3-word preposition gloss acceptable here?
 adusque | 1 | as far as
 adusque | 3 | as a preposition with the accusative, all the way to, right up to
 adusque | 4 | as an adverb, throughout, wholly, a strengthened usque
@@ -1285,6 +1289,7 @@ aestimo | 3 | to set a money value on something, to appraise it, with the geniti
 aestimo | 4 | to weigh a thing's real worth: magni aestimare, to think much of something
 aestimo | 5 | to judge or reckon from something: ex veritate aestimare, to judge by the truth of the matter
 aestimo | 6 | litem aestimare, to assess the damages in a suit
+# review: aestivo English has no one-word verb for it; 'summer' as a verb reads as the noun
 aestivo | 1 | spend the summer
 aestivo | 3 | to spend the summer somewhere, as hiemo is to spend the winter
 aestivus | 1 | of summer
@@ -1568,6 +1573,7 @@ agnatio | 1 | kinship
 agnatio | 3 | relationship on the father's side, agnatic descent
 agnatio | 4 | the being born after a father's will was made or after his death
 agnatio | 5 | a growing on to something
+# review: agninus adjective; 'lamb' alone reads as the noun beside agnus and agna1
 agninus | 1 | of a lamb
 agninus | 3 | belonging to a lamb: agninus pes, a lamb's trotter
 agninus | 4 | agnina as a noun, lamb as meat
