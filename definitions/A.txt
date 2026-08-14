@@ -3144,3 +3144,214 @@ argumentor | 1 | argue
 argumentor | 3 | to bring forward proof of something, to prove it
 argumentor | 4 | to adduce something as evidence
 argumentor | 5 | to draw a conclusion: de voluntate alicujus argumentari, to infer what someone intended
+argumentum | 1 | proof
+argumentum | 2 | subject
+argumentum | 3 | evidence brought forward to establish a point, resting on facts where ratio rests on reasoning
+argumentum | 4 | a sign or token by which something is known: animi laeti argumenta, the signs of a happy heart
+argumentum | 5 | the matter a book or a play is built on, its plot: argumentum tragoediae, the plot of the tragedy
+argumentum | 6 | the subject of a work of art, the scene carved or painted on it
+argumentum | 7 | substance or real worth: fabella sine argumento, a little tale with nothing in it
+arguo | 1 | prove
+arguo | 2 | accuse
+arguo | 3 | to make something clear, to show or declare it
+arguo | 4 | to charge someone with a fault (with the genitive of the charge, or with de): aliquem probri arguere, to accuse someone of disgraceful conduct
+arguo | 5 | of a thing, to find fault with it: ea culpa quam arguo, the fault I am complaining of
+arguo | 6 | to denounce something as false, or to refute the person who said it
+arguo | 7 | argutus as an adjective: of sound, clear and piercing; of a person, sharp and witty; in a bad sense, sly
+arguo | 8 | the adverb argute, acutely and with point: argute dicere, to speak pointedly
+argutiae | 1 | wit
+argutiae | 3 | liveliness and expressiveness, said of works of art: argutias vultus dare, to give a face its animation
+argutiae | 4 | brightness and point in speaking or writing
+argutiae | 5 | in a bad sense, subtlety and quibbling
+argutor | 1 | prattle
+argutor | 3 | to chatter or prate: totum diem argutatur, he chatters the whole day
+argutor | 4 | of a fuller at his tub, to make a clatter with the feet
+ariditas | 1 | dryness
+ariditas | 3 | drought, the state of being parched
+ariditas | 4 | dry stuff: dead wood, or dried dung
+aridus | 1 | dry
+aridus | 3 | dried out or withered: ligna arida, dry logs; folia arida, withered leaves
+aridus | 4 | of the body, shrunken and lean: crura arida, wasted legs
+aridus | 5 | of style, bald and unadorned: genus sermonis aridum, a dry way of speaking
+aridus | 6 | in comedy, of a man from whom nothing can be squeezed out, close-fisted
+aries | 1 | ram
+aries | 3 | a ram, and Aries the sign of the zodiac
+aries | 4 | a battering-ram for breaking down walls: murum ariete percutere, to strike the wall with the ram
+aries | 5 | a prop or buttress set to take a strain
+aries | 6 | an unidentified sea-creature dangerous to shipping
+# review: arietinus three words kept, matching agninus; "ram's" alone reads as a possessive rather than a class
+arietinus | 1 | of a ram
+arietinus | 3 | belonging to a ram: cornua arietina, ram's horns
+arietinus | 4 | shaped like a ram's head: cicer arietinum, the chick-pea
+arietinus | 5 | arietinum oraculum, an ambiguous oracle, from the way a ram's horns point two ways
+arieto | 1 | butt
+arieto | 3 | to strike violently, as a ram does: aedes arietare, to batter at the house door
+arieto | 4 | intransitively, to crash into something, and so to stumble and reel
+arieto | 5 | figuratively, to buffet or unsettle someone
+arista | 1 | awn
+arista | 2 | ear
+arista | 3 | the beard or bristle standing out from an ear of grain
+arista | 4 | by extension the ear itself: pinguis arista, a plump ear of corn
+arista | 5 | in the poets, a harvest and so a year or a summer: post aliquot aristas, after several harvests
+arista | 6 | transferred to men's hair and to the bones of a fish
+arma | 1 | arms
+arma | 3 | defensive armour, the shield, mail and helmet, as against tela, the weapons thrown from a distance
+arma | 4 | a shield in particular: super arma ferre, to carry a man on his shield
+arma | 5 | war itself: silent leges inter arma, in war the laws fall silent; arma civilia, civil war
+arma | 6 | the soldiers themselves: Romana arma, the Roman forces
+arma | 7 | figuratively, any means of defence: arma senectutis, the defences of old age
+arma | 8 | in the poets, gear or tools of any kind: Cerealia arma, the implements of Ceres, for milling and baking
+armamenta | 1 | tackle
+armamenta | 3 | gear or implements for any purpose: armamenta vinearum, props for the vines
+armamenta | 4 | especially a ship's tackle, its sails, ropes and cables
+armamentarium | 1 | arsenal
+armamentarium | 3 | a public store of weapons, an armoury
+armarium | 1 | cupboard
+armarium | 3 | a closet or chest for food, clothes or money: armarium promptuarium, a store cupboard
+armatura | 1 | armour
+armatura | 3 | the equipment a soldier carries: levis armatura, light equipment
+armatura | 4 | by extension the troops so equipped, and especially the light-armed skirmishers
+armatura | 5 | a drill or exercise carried out under arms
+armatus2 | 1 | armour
+armatus2 | 3 | found only in the ablative: gravi armatu, in heavy equipment
+armatus2 | 4 | by extension, the armed men themselves
+armentarius | 1 | herdsman
+armentarius | 3 | as an adjective, belonging to a herd of cattle
+armentarius | 4 | as a noun, a herdsman or cattleman: armentarius Afer, the African herdsman
+armentum | 1 | herd
+armentum | 3 | cattle kept for the plough, and collectively a herd of them
+armentum | 4 | with the genitive of the beast: armenta boum, herds of oxen
+armentum | 5 | of horses and other large animals: bellum haec armenta minantur, these herds are threatening war
+armentum | 6 | occasionally of a single beast
+armifer | 1 | armed
+armifer | 3 | weapon-bearing, an epithet of Mars and Minerva: armifera Minerva, Minerva under arms
+armifer | 4 | of the field in Colchis sown with dragon's teeth, from which armed men sprang
+armiger | 1 | armour-bearer
+armiger | 3 | as an adjective, bearing arms, armed
+armiger | 4 | as a noun, a man's armour-bearer, and so his henchman: Sergius armiger Catilinae, Sergius, Catiline's right-hand man
+armiger | 5 | feminine armigera, used of the attendant of Diana
+armilla | 1 | bracelet
+armilla | 3 | a band worn round the arm by men and women alike
+armilla | 4 | an iron hoop, ring or ferrule
+armillum | 1 | wine jar
+armillum | 3 | a kind of pitcher for wine used at sacrifices, said to be named from being carried on the shoulder
+# review: armipotens a compound meaning potent in arms; "warlike" or "valiant" alone drops the force of potens
+armipotens | 1 | mighty in arms
+armipotens | 3 | powerful in war, a poetic epithet of Mars and other gods: armipotens Mavors, Mars mighty in arms
+armo | 1 | arm
+armo | 3 | to furnish someone with weapons (with the ablative of what they are armed with): milites armari jubet, he orders the men to arm
+armo | 4 | to fit out or equip a thing, especially ships and walls: naves armare, to fit out the fleet
+armo | 5 | figuratively, to equip someone with a resource: aliquem ad omnia armare, to arm someone for anything
+armo | 6 | to stir someone up against another: regem adversus Romanos armare, to set a king on against Rome
+armo | 7 | armatus as adjective and noun, armed, and armati, armed men
+aro | 1 | plough
+aro | 3 | to plough or till the land: terram arare, to plough the ground
+aro | 4 | on its own, to farm, to live by husbandry
+aro | 5 | of a ship, to plough the sea: arare aequor, to furrow the water
+aro | 6 | of old age, to furrow the body with wrinkles: rugae quae corpus arent, wrinkles that plough the flesh
+aro | 7 | litus arare, to plough the shore, proverbial for labour thrown away
+aro | 8 | to raise a crop by tillage: decem medimna ex jugero arare, to get ten measures out of an acre
+arquatus | 1 | jaundiced
+arquatus | 3 | morbus arquatus, jaundice, named from the rainbow yellow the skin turns
+arquatus | 4 | as a noun, a sufferer from jaundice
+arrepo | 1 | creep up
+arrepo | 3 | to creep slowly up to something (with ad or the dative): ad columbaria arrepere, to steal up to the dovecotes
+arrepo | 4 | figuratively, to worm one's way in: ad amicitiam arrepere, to insinuate oneself into a friendship
+arrideo | 1 | smile
+arrideo | 2 | please
+arrideo | 3 | to smile at or upon someone, usually in approval (with the dative, sometimes the accusative): arridere omnibus, to smile on everyone
+arrideo | 4 | of fortune or the weather, to be favourable: cum tempestas arridet, when the weather smiles
+arrideo | 5 | of a thing, to be pleasing: quod mihi valde arriserat, the point that had greatly appealed to me
+arrigo | 1 | raise
+arrigo | 2 | rouse
+arrigo | 3 | to set something upright: aures arrigere, to prick up the ears; comas arrigere, to make the mane bristle
+arrigo | 4 | to stir someone up, to fire them: oratione arrigere, to rouse men with a speech
+arrigo | 5 | arrectus as an adjective, of hopes and attention, keyed up and eager
+arripio | 1 | snatch
+arripio | 3 | to seize or lay hold of something quickly: manum arripere, to grab someone's hand
+arripio | 4 | to take possession of a person or place: medium arripere, to catch someone round the middle
+arripio | 5 | to take something up for oneself, to appropriate it: cognomen arripere, to snatch at a surname
+arripio | 6 | in law, to haul someone before a court, often an official just out of office
+arripio | 7 | in Horace, to seize on someone for ridicule, to satirize them
+arrodo | 1 | nibble
+arrodo | 3 | to gnaw at something: clipeos arrodere, of mice nibbling the shields
+arrodo | 4 | figuratively, to nibble away at something: rem publicam arrodere, to gnaw at the state
+arrogantia | 1 | arrogance
+arrogantia | 3 | presumption, the claiming of more than is one's due
+arrogantia | 4 | haughtiness born of real or supposed superiority
+arrogantia | 5 | stubbornness in pressing a demand
+# review: arrogatio a particular Roman form of adoption; English has no word for it
+arrogatio | 1 | formal adoption
+arrogatio | 3 | the adoption as a son of a man who was already legally independent, done before the assembly and the pontiffs
+arrogo | 1 | claim
+arrogo | 3 | to claim for oneself what is not one's due, to arrogate it: sibi nihil arrogare, to lay claim to nothing for oneself
+arrogo | 4 | in the poets, to confer something on another: decus arrogare, to win someone distinction
+arrogo | 5 | in public life, to appoint one officer alongside another: consuli dictatorem arrogare, to set a dictator beside the consul
+arrogo | 6 | in law, to adopt a man who was already legally independent
+arrogo | 7 | arrogans as an adjective, presuming, and so haughty and overbearing
+ars | 1 | skill
+ars | 2 | art
+ars | 3 | skill in making something, a craft or trade: artes liberales, the arts fit for a free man, as against the sordidae
+ars | 4 | a profession or branch of knowledge: ars dicendi, the art of speaking; ars medendi, medicine
+ars | 5 | the theory or system of an art, and as a book title a handbook of rhetoric or grammar
+ars | 6 | the workmanship shown in a thing, and by extension a work of art itself
+ars | 7 | a person's character as shown by conduct, good or bad: bonae artes, good qualities
+ars | 8 | in a bad sense, a trick or artifice
+# skip: arse verse a Tuscan charm against fire, two words of a lost language rather than Latin
+articulatim | 1 | piecemeal
+articulatim | 3 | joint by joint, limb by limb: articulatim concidere, to cut a man up limb by limb
+articulatim | 4 | of speech, point by point and distinctly: articulatim explicare, to set something out clearly
+articulo | 1 | articulate
+articulo | 3 | to utter words distinctly: verba articulare, to shape words clearly
+articulosus | 1 | jointed
+articulosus | 3 | full of joints, and of plants full of knots
+articulosus | 4 | of speech, chopped up into too many small divisions
+articulus | 1 | joint
+articulus | 2 | moment
+articulus | 3 | a joint or knuckle of the body, and by extension a limb or a finger
+articulus | 4 | of speech, a short clause or division
+articulus | 5 | a point of time: in ipso articulo temporis, at the very nick of time
+articulus | 6 | a stretch or division of time: octo articuli lunae, the eight phases of the moon
+articulus | 7 | of anything abstract, a part or a stage: per eosdem articulos, through the same stages
+artifex | 1 | craftsman
+artifex | 2 | skilful
+artifex | 3 | a master of one of the liberal arts, an artist, as against opifex, a workman in the humbler trades
+artifex | 4 | a master at doing anything, for good or ill: artifex comparandarum voluptatum, a past master at contriving pleasures
+artifex | 5 | a maker or author: probus mundi artifex, the good maker of the world
+artifex | 6 | as an adjective, skilled and practised: talis negotii artifices, men who know that sort of business
+artifex | 7 | as an adjective of things, made with art: artifices boves, cattle modelled to the life
+artificialis | 1 | of art
+artificialis | 3 | belonging to art and made by its rules: probationes artificiales, proofs got by the rules of the art
+artificiosus | 1 | skilful
+artificiosus | 2 | artificial
+artificiosus | 3 | accomplished in an art, masterly: rhetores artificiosissimi, the most accomplished of speakers
+artificiosus | 4 | of a thing, made with great art, ingenious
+artificiosus | 5 | worked out by rule rather than given by nature: divinatio artificiosa, divination by system, as against the natural kind
+artificium | 1 | craft
+artificium | 3 | the trade or occupation of a craftsman
+artificium | 4 | skill or ingenuity shown in something: singulari artificio perfectum, finished with rare skill
+artificium | 5 | the theory or system that lies behind an art
+artificium | 6 | in a bad sense, a trick or a piece of cunning
+# review: artio2 attested only through the participle artitus; there is no ordinary English verb for it
+artio2 | 1 | train up
+artio2 | 3 | found only in the participle artitus, schooled in the arts and so accomplished
+arto | 1 | compress
+arto | 3 | to press things close together: libros artare, to pack the books tight
+arto | 4 | figuratively, to limit or cut short: tempus artare, to shrink the time allowed
+arto | 5 | artatus as an adjective, squeezed into a small compass, and of time, short
+artus1 | 1 | narrow
+artus1 | 2 | tight
+artus1 | 3 | close or confined, of space: exire regionibus artis, to come out of cramped quarters
+artus1 | 4 | of laws and terms, strict and severe: artae leges, harsh laws
+artus1 | 5 | the adverb arte, tightly and closely: arte colligare, to bind fast; arte dormire, to sleep soundly
+artus1 | 6 | the adverb also of feeling, deeply: arte diligere aliquem, to be deeply attached to someone
+artus2 | 1 | limb
+artus2 | 2 | joint
+artus2 | 3 | a joint of the body: dolor artuum, pain in the joints, gout
+artus2 | 4 | usually in the plural, the limbs: tremuli artus, trembling limbs
+artus2 | 5 | figuratively, sinew and strength: nervos atque artus sapientiae, the sinews and muscle of wisdom
+arula | 1 | small altar
+arula | 3 | a little altar set before the images of the gods
+arula | 4 | the base of an altar, or turf banked altar-wise round an elm
+arvalis | 1 | of ploughland
+arvalis | 3 | Fratres Arvales, the Arval Brethren, a college of twelve priests who sacrificed each year for the growth of the crops
