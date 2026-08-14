@@ -2698,3 +2698,231 @@ aperio | 7 | to open the way to something: ventus incendio viam aperuit, the win
 aperio | 8 | the participle apertus, uncovered or unclosed: naves apertae, ships without a deck; caelum apertum, a clear sky
 aperio | 9 | apertus also, plain and evident, and of a person frank and open: in aperto esse, to be plain to see, or to be easy to do
 aperio | 10 | the adverb aperte, openly and plainly: aperte mentiri, to lie barefaced
+apertio | 1 | opening
+apertio | 3 | the act of opening something up: apertio floris, the unfolding of a flower
+apertio | 4 | the ceremonial opening of a temple
+apex | 1 | tip
+apex | 3 | the point or summit of a thing: montis apex, the peak of a mountain; also the tip of a flame or of a sickle
+apex | 4 | the pointed rod of wool-wound wood on the flamen's cap, and so the cap itself
+apex | 5 | any cap or helmet, and of a king a crown; of a bird, its crest
+apex | 6 | the crowning honour or highest ornament of something: apex est senectutis auctoritas, the crown of old age is the weight it carries
+apex | 7 | in grammar, the long mark written over a vowel
+apex | 8 | the smallest stroke of a letter, and so the least detail of a thing
+apiarius | 1 | of bees
+apiarius | 3 | as a noun, apiarius, a bee-keeper
+apiarius | 4 | as a noun, apiarium, a bee-house or hive
+apis1 | 1 | bee
+apis1 | 3 | bees taken together as a swarm: examen apium, a swarm of bees
+apis1 | 4 | the bee as the stock figure of industry and thrift: apis sedula, the busy bee
+apiscor | 1 | obtain
+apiscor | 3 | to reach out after something in order to seize it or take hold of it
+apiscor | 4 | to attain or win something by effort: hereditatem apisci, to come into an inheritance
+apiscor | 5 | to pursue something with zeal, an early use
+apiscor | 6 | rarer than its compound adipiscor, and found mostly in early and post-Augustan writers
+apium | 1 | parsley
+apium | 3 | more exactly wild celery, and by extension several related plants of the same family
+apium | 4 | the plant woven into garlands at drinking-parties, and given as the victor's wreath at the Isthmian and Nemean games
+apluda | 1 | chaff
+apluda | 3 | the husks beaten off grain, and so bran
+apluda | 4 | used as a byword for what is worthless: apluda nequior, more good-for-nothing than chaff
+# review: aplustre English has no word for the curved ornamented stern-piece of a ship
+aplustre | 1 | ship's curved stern
+aplustre | 3 | the curved stern of a ship together with its ornaments of ribbons and streamers
+aplustre | 4 | usually in the plural, aplustra, and often as a trophy stripped from a beaten ship
+apo | 1 | fasten
+apo | 3 | an archaic verb, surviving in classical Latin only through its participle aptus
+apo | 4 | aptus, fastened or attached to something: uteri terrae radicibus apti, wombs fastened to the earth by roots
+apo | 5 | aptus with ex, depending on or arising from something: causae aliae ex aliis aptae, causes each hanging on another
+apo | 6 | aptus, bound and held together, of things that make one connected whole
+apo | 7 | aptus as an adjective, fit and suited to something (with ad or the dative): locus ad insidias aptus, a place suited to an ambush
+apo | 8 | of speech, apt and appropriate to its subject
+apo | 9 | the adverb apte, closely and tightly; and figuratively, fitly and properly: apte dicere, to speak to the point
+apparatus2 | 1 | preparation
+apparatus2 | 2 | equipment
+apparatus2 | 3 | the getting of something ready, the making of preparations for it
+apparatus2 | 4 | the gear provided for a purpose: furniture, plate, or military engines
+apparatus2 | 5 | lavish provision, pomp and magnificence: magnifici apparatus, splendid state
+appareo | 1 | appear
+appareo | 3 | to come into sight, to become visible: apparent rari nantes, here and there a swimmer is seen
+appareo | 4 | to be in evidence, to show or be noticed: apparet vetus cicatrix, the old scar still shows
+appareo | 5 | impersonal apparet, it is clear or evident (with the accusative and infinitive, or a question clause)
+appareo | 6 | to attend on a magistrate as a public servant, to serve in office
+apparitor | 1 | attendant
+apparitor | 3 | a public servant attached to a magistrate: a lictor, a scribe, a herald, or a military aide
+apparo | 1 | prepare
+apparo | 3 | to get something ready with care or expense: convivium apparare, to lay on a banquet
+apparo | 4 | to make ready to do something (with the infinitive)
+apparo | 5 | apparatus as an adjective, of a person ready and equipped, of a thing well supplied and so splendid: ludi apparatissimi, games staged with the greatest magnificence
+appellatio | 1 | appeal
+appellatio | 2 | name
+appellatio | 3 | an addressing of someone, an approach made in order to ask something of them
+appellatio | 4 | in law, an appeal to a higher authority: appellatio tribunorum, an appeal to the tribunes
+appellatio | 5 | a calling by name, and so the name or title itself
+appellatio | 6 | in grammar, pronunciation, and also a noun as a part of speech
+appello1 | 1 | land
+appello1 | 2 | drive
+appello1 | 3 | to drive or bring a person or animal to a place (with ad, in, or the dative): armentum ad aquam appellere, to drive the herd to water
+appello1 | 4 | of ships, to bring one in to shore, to put it in: navem ad litus appellere, to bring the ship to land
+appello1 | 5 | intransitively, of a ship, to come to land, to arrive
+appello1 | 6 | to turn or apply the mind to something: animum ad scribendum appellere, to set one's mind to writing
+appello2 | 1 | call
+appello2 | 2 | address
+appello2 | 3 | to speak to someone, to accost or approach them
+appello2 | 4 | to call someone by a name, to name or entitle them: regem appellare aliquem, to give someone the title of king
+appello2 | 5 | to apply to someone with a request, to entreat or invoke them
+appello2 | 6 | in law, to appeal to a magistrate for help: tribunos appellare, to appeal to the tribunes
+appello2 | 7 | to dun someone for money, to press them for payment
+appello2 | 8 | to approach someone with a dishonourable proposal, or to accuse them before a court
+appello2 | 9 | of letters and sounds, to pronounce them
+appendix | 1 | appendage
+appendix | 3 | anything that hangs on to another thing
+appendix | 4 | an addition, supplement, or accession: exigua appendix, a slight makeweight
+appendix | 5 | a thorny shrub, the barberry
+appendo | 1 | weigh
+appendo | 3 | to weigh something out to someone, to pay it by weight: aurum alicui appendere, to weigh out gold to someone
+appendo | 4 | figuratively, to weigh words or arguments rather than count them
+appendo | 5 | to hang one thing upon another, a late use
+appetitio | 1 | desire
+appetitio | 3 | a reaching or grasping after something: appetitio solis, a grasping at the sun
+appetitio | 4 | in philosophy, the impulse that drives us to act, the Greek horme
+appetitio | 5 | desire for food, appetite
+appetitus2 | 1 | desire
+appetitus2 | 3 | an eager longing for something: appetitus voluptatis, the craving for pleasure
+appetitus2 | 4 | the faculty of desire, set against reason as the other half of our nature
+appetitus2 | 5 | in the plural, the passions or appetites: ut appetitus rationi oboediant, that the passions may obey reason
+appetitus2 | 6 | an onset or attack
+appeto1 | 1 | desire
+appeto1 | 2 | attack
+appeto1 | 3 | to reach or grasp after something: solem manibus appetere, to grasp at the sun with one's hands
+appeto1 | 4 | to long for something eagerly, to make it one's aim
+appeto1 | 5 | to make for someone in a hostile way, to assail them: lapidibus appetere, to set on someone with stones
+appeto1 | 6 | intransitively, of time, to draw on or be at hand: cum appetit meridies, when midday comes on
+appeto1 | 7 | appetens as an adjective, eager for something (with the genitive): appetens gloriae, greedy for glory; on its own, grasping after money
+appingo1 | 1 | paint
+appingo1 | 3 | to paint one thing on to another: delphinum silvis appingere, to paint a dolphin among the woods
+appingo1 | 4 | in Cicero's letters, to add something in writing, to dash off a line more
+applaudo | 1 | applaud
+applaudo | 3 | to strike one thing against another, to slap: applauso corpore palmis, beating the body with cupped hands
+applaudo | 4 | to clap the hands in approval, to applaud someone
+applicatio | 1 | attachment
+applicatio | 3 | an inclining of the mind towards someone: applicatio animi, a leaning of the heart towards a friend
+applicatio | 4 | in law, the placing of oneself under a patron's protection, clientship: jus applicationis, the patron's claim on such a client's estate
+applico | 1 | attach
+applico | 3 | to put or lean one thing against another (with ad or the dative): se ad arbores applicare, to lean against the trees
+applico | 4 | to join or add one thing to another
+applico | 5 | se or animum applicare, to attach oneself to a person, or to devote one's mind to a study
+applico | 6 | of ships, to bring one to land, to put it in: navem ad terram applicare, to run the ship ashore
+applico | 7 | applicatus as an adjective, lying close against something: Leucas colli applicata, Leucas set against its hill
+appono | 1 | serve
+appono | 2 | add
+appono | 3 | to place or set one thing beside or near another (with the dative or ad)
+appono | 4 | of food and dishes, to set them before someone, to serve them up: apposita cena, the dinner set on the table
+appono | 5 | to appoint someone to a duty, or set them over another as a watcher: custodem apponere, to put a guard on someone
+appono | 6 | to add on to what is there already: annos apponere, to add years to a life
+appono | 7 | to set something down as something, to count or reckon it so (with a dative of purpose)
+appono | 8 | appositus as an adjective, lying next to or bordering on a place: regio mari apposita, a district on the sea
+appono | 9 | appositus also, fit and well suited to a purpose; and the adverb apposite, aptly
+apporto | 1 | bring
+apporto | 3 | to carry or convey something to a place: divitias domum apportare, to bring riches home
+apporto | 4 | of news and of troubles, to bring them with one: bonum nuntium apportare, to bring good news
+apprehendo | 1 | seize
+apprehendo | 3 | to take hold of a person or thing: apprehendere aliquem pallio, to catch someone by the cloak
+apprehendo | 4 | to arrest, to lay hands on: furem apprehendere, to seize a thief
+apprehendo | 5 | in military use, to take possession of a territory
+apprehendo | 6 | of illness, fear, or grief, to lay hold of someone
+apprehendo | 7 | in speaking, to take up a point or seize on an argument
+apprehendo | 8 | to grasp something with the mind, to understand it
+apprimo | 1 | press
+apprimo | 3 | to press one thing close to another (with the dative): aliquid pectori apprimere, to press something to the breast
+apprimo | 4 | appressus, fitting close against something: scutum pectori appressum, the shield held tight to the chest
+apprimus | 1 | foremost
+apprimus | 3 | as an adjective, the very first, found only once and in early Latin
+apprimus | 4 | the adverb apprime, before all others, exceedingly: apprime nobilis, distinguished above all
+approbatio | 1 | approval
+approbatio | 2 | proof
+approbatio | 3 | an assenting to something, an expression of approval: populari approbatione, by popular acclaim
+approbatio | 4 | the proving of a point, the confirmation of an argument
+approbo | 1 | approve
+approbo | 2 | prove
+approbo | 3 | to assent to something as good, to endorse or favour it
+approbo | 4 | to show something to be true, to demonstrate or establish it: innocentiam approbare, to prove one's innocence
+approbo | 5 | to make something acceptable to someone, to win their approval for it (with the dative)
+appropero | 1 | hurry
+appropero | 3 | transitively, to hurry a piece of work on, to push it through: opus approperatum est, the work was rushed to completion
+appropero | 4 | intransitively, to hasten somewhere, to make haste: adde gradum, appropera, step out, be quick
+appropinquo | 1 | approach
+appropinquo | 3 | to draw near to a place (with ad or the dative): munitionibus appropinquare, to come up close to the fortifications
+appropinquo | 4 | of time, to be at hand, to draw on: hiems appropinquabat, winter was coming on
+appulsus2 | 1 | approach
+appulsus2 | 3 | a driving of animals to a place, especially to water
+appulsus2 | 4 | a putting in to shore, a landing: ab litorum appulsu arcere, to keep someone from landing
+appulsus2 | 5 | the effect one thing has by coming near another: appulsus solis, the sun's warming approach
+apricatio | 1 | sunbathing
+apricatio | 3 | a basking in the sun for warmth, a favourite comfort of the old
+apricus | 1 | sunny
+apricus | 3 | of places, lying open to the sun and so warm: apricus hortus, a sunny garden
+apricus | 4 | of living things, basking in the sun or thriving in it: mergi aprici, gulls sunning themselves
+apricus | 5 | as a noun, apricum, a sunny spot: in apricum proferre, to bring out into the light
+apricus | 6 | of the weather, clear and bright; of wind, coming from the sunny south
+# review: aprugnus three words kept; "boar's" alone loses the wild boar, which is the whole of it
+aprugnus | 1 | of wild boar
+aprugnus | 3 | as a noun, aprugna, the flesh of the wild boar
+apto | 1 | fit
+apto | 3 | to fit one thing to another, to put it on (with the dative): arma corpori aptare, to fit the armour to the body
+apto | 4 | to make ready or prepare: aptare se pugnae, to make oneself ready for battle
+apto | 5 | to furnish or equip something with something (with the ablative): biremes remigio aptare, to fit out the galleys with oars
+apto | 6 | figuratively, to suit one thing to another: bella citharae modis aptare, to set wars to the measures of the lyre
+# review: apud no single English preposition covers it; "with" is nearest, but "at", "among" and "before" are each right in their place
+apud | 1 | with
+apud | 3 | with a person, at their house or in their company: apud me, at my house; apud se esse, to be in one's right mind
+apud | 4 | before a person or body that has the right to decide: apud judices, before the judges; apud populum agere, to plead before the people
+apud | 5 | in the eyes or the judgment of someone: gratia apud aliquem, influence with someone
+apud | 6 | among a people: apud majores, among our forefathers
+apud | 7 | of an author, in the writings of: apud Platonem, in Plato
+apud | 8 | of place, at or near: apud aedem, by the temple
+apud | 9 | of time, in the days of: apud saeclum prius, in an earlier age
+aqua | 1 | water
+aqua | 3 | water of any kind, whether rain, river, spring or sea
+aqua | 4 | in the plural, the waters of a medicinal spring, and so a spa: ad aquas venire, to go to the baths
+aqua | 5 | the sea, or a lake or river: findere remigio aquas, to cleave the water with the oars
+aqua | 6 | rain, and in the plural a flood: aquae magnae, heavy floods
+aqua | 7 | aqua et ignis, fire and water as the bare necessities of life: aqua et igni interdicere alicui, to outlaw someone, to banish them
+aqua | 8 | the water of the clock that timed a speech: aqua haeret, the water sticks, that is, I am at a loss
+aqua | 9 | aqua intercus, the water under a dropsical person's skin, dropsy
+aqua | 10 | in aqua scribere, to write in water, of anything that leaves no trace
+aquaeductus | 1 | aqueduct
+aquaeductus | 3 | a channel or conduit that carries water to a place
+aquaeductus | 4 | in law, the right of conducting water across another's land
+aqualis | 1 | basin
+aqualis | 3 | as a noun, a vessel for washing, a ewer or water-pot
+aqualis | 4 | as an adjective, of or belonging to water: nubes aquales, rain clouds
+aquarius | 1 | of water
+aquarius | 3 | as an adjective, used for water: rota aquaria, a wheel for drawing water
+aquarius | 4 | as a noun, a water-carrier
+aquarius | 5 | an inspector of the conduits and water-pipes
+aquarius | 6 | Aquarius, the Water-bearer, a sign of the zodiac
+aquarius | 7 | as a noun, aquarium, a watering-place for cattle
+aquaticus | 1 | aquatic
+aquaticus | 3 | living or growing in or by the water: aves aquaticae, water birds
+aquaticus | 4 | full of water, wet: Auster aquaticus, the rain-bringing south wind
+aquaticus | 5 | of the colour of water
+aquatilis | 1 | aquatic
+aquatilis | 3 | living or found in or near water: bestiae aquatiles, water creatures; as a noun, aquatilia, water animals
+aquatilis | 4 | watery or insipid in taste
+aquatio | 1 | watering
+aquatio | 3 | the fetching of water: aquationis causa procedere, to go out to get water
+aquatio | 4 | a place where water is fetched, a watering-place
+aquatio | 5 | the water itself, and in the plural the autumn rains
+aquatus | 1 | watery
+aquatus | 3 | mixed or diluted with water: vinum aquatum, watered wine
+aquatus | 4 | thin, of milk and other liquids
+aquifolius | 1 | holly
+aquifolius | 3 | as an adjective, having pointed leaves: aquifolia ilex, the holly-oak
+aquifolius | 4 | as a noun, aquifolium, the holly tree
+aquila1 | 1 | eagle
+aquila1 | 3 | the eagle as the bird of Jupiter and a bird of omen
+aquila1 | 4 | the silver eagle borne as the standard of a Roman legion: aquila argentea, the legion's silver eagle
+aquila1 | 5 | the Eagle, a constellation
+aquila1 | 6 | in architecture, the members of a building that carry the gable
+aquila1 | 7 | a fish of the ray family, the eagle-ray
+aquila1 | 8 | aquilae senectus, an eagle's old age, proverbially a hale and vigorous one
