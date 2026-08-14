@@ -2768,7 +2768,7 @@ appello1 | 6 | to turn or apply the mind to something: animum ad scribendum appe
 appello2 | 1 | call
 appello2 | 2 | address
 appello2 | 3 | to speak to someone, to accost or approach them
-appello2 | 4 | to call someone by a name, to name or entitle them: regem appellare aliquem, to give someone the title of king
+appello2 | 4 | to call someone by a name, to name or entitle them: aliquem patrem appellare, to call someone father; rex ab suis appellatur, he is styled king by his own men
 appello2 | 5 | to apply to someone with a request, to entreat or invoke them
 appello2 | 6 | in law, to appeal to a magistrate for help: tribunos appellare, to appeal to the tribunes
 appello2 | 7 | to dun someone for money, to press them for payment
@@ -2813,8 +2813,8 @@ applico | 4 | to join or add one thing to another
 applico | 5 | se or animum applicare, to attach oneself to a person, or to devote one's mind to a study
 applico | 6 | of ships, to bring one to land, to put it in: navem ad terram applicare, to run the ship ashore
 applico | 7 | applicatus as an adjective, lying close against something: Leucas colli applicata, Leucas set against its hill
-appono | 1 | serve
-appono | 2 | add
+appono | 1 | set beside
+appono | 2 | serve up
 appono | 3 | to place or set one thing beside or near another (with the dative or ad)
 appono | 4 | of food and dishes, to set them before someone, to serve them up: apposita cena, the dinner set on the table
 appono | 5 | to appoint someone to a duty, or set them over another as a watcher: custodem apponere, to put a guard on someone
@@ -3077,7 +3077,7 @@ ardeo | 5 | of colour, to glitter or gleam: Tyrio ardebat murice laena, the cloa
 ardeo | 6 | to be on fire with a feeling (usually with the ablative): amore ardere, to burn with love; ira ardere, to blaze with anger
 ardeo | 7 | of a country, to be ablaze with war: cum arderet Syria bello, when Syria was aflame with war
 ardeo | 8 | ardens as an adjective, burning hot; of wine, fiery; of feeling, eager and impatient
-ardesco | 1 | kindle
+ardesco | 1 | catch fire
 ardesco | 3 | to take fire, to begin to burn
 ardesco | 4 | to flash or gleam: fulmineis ardescunt ignibus undae, the waves flash with lightning fires
 ardesco | 5 | of feelings, to grow hotter and more violent: in iras ardescere, to blaze up into anger
@@ -3108,7 +3108,7 @@ areo | 1 | be dry
 areo | 3 | to be dry or parched: aret ager, the field is parched
 areo | 4 | to be dry with thirst: arentibus siti faucibus, with throats dry from thirst
 areo | 5 | arens as an adjective, dry and withered: arentes harenae, parched sands
-areola | 1 | plot
+areola | 1 | small yard
 areola | 3 | a small open space or courtyard: cenatio areolam aspicit, the dining room looks onto a little yard
 areola | 4 | a small garden bed: areolae aromatum, beds of spices
 aresco | 1 | dry up
