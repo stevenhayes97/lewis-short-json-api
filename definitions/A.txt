@@ -3377,7 +3377,7 @@ as | 1 | unit
 as | 2 | copper coin
 as | 3 | the unit of a whole divided into twelve parts, used alike of coin, weight and measure
 as | 4 | the as, a copper coin, at first a pound of bronze and later much reduced
-as | 5 | in inheritance, the estate as a whole: heres ex asse, sole heir; heres ex semisse, heir to a half
+as | 5 | in inheritance, the estate as a whole: haeres ex asse, sole heir; haeres ex semisse, heir to a half
 as | 6 | as a measure, an acre, a foot or a pound according to what is being measured
 as | 7 | assem habeas, assem valeas, you are worth what you have, a proverb on money and standing
 ascendo | 1 | climb
@@ -3594,7 +3594,7 @@ assiduus1 | 4 | by extension, a man of means
 assiduus1 | 5 | in Gellius, of a writer of the first rank, as against a proletarius scribbler
 assiduus2 | 1 | constant
 assiduus2 | 3 | always on the spot, busy about something: assiduus in praediis, forever down on the estate
-assiduus2 | 4 | of time, unbroken and incessant: assiduus labor, unremitting toil
+assiduus2 | 4 | of time, unbroken and incessant: imbres assidui, unremitting rain; assiduas operas dare, to keep hard at work
 assiduus2 | 5 | the adverbs assidue and assiduo, continually: assidue veniebat, he kept coming
 assignatio | 1 | allotment
 assignatio | 3 | the marking out and granting of land, especially to colonists: agrorum assignatio, the allotment of land
@@ -3956,7 +3956,7 @@ aufero | 8 | to carry off as a result or a gain, to get: aliquid ab aliquo aufer
 aufugio | 1 | run away
 aufugio | 3 | to flee from a place or a person, a rare word even in prose
 augeo | 1 | increase
-augeo | 3 | to make something greater, to enlarge or strengthen it: copias augere, to build up one's forces
+augeo | 3 | to make something greater, to enlarge or strengthen it, of anything already in being
 augeo | 4 | to magnify a thing in words, to exalt or extol it: verbis augere, to talk something up
 augeo | 5 | to load someone with something (with the ablative): aliquem honoribus augere, to heap honours on someone
 augeo | 6 | in religion, to honour a god with offerings
@@ -4043,7 +4043,7 @@ auspex | 4 | a founder, patron or protector of an undertaking: dis auspicibus, w
 auspex | 5 | the witness who saw a marriage contract properly made
 auspex | 6 | in later Latin, as an adjective, favourable and lucky
 auspicium | 1 | auspices
-auspicium | 3 | divination from the flight of birds: auspicia agere, to take the auspices
+auspicium | 3 | divination from the flight of birds: auspicia avium, omens taken from birds
 auspicium | 4 | more widely, any sign or omen: optimis auspiciis, under the best of omens
 auspicium | 5 | the command held by a magistrate who has taken the auspices: ductu auspicioque alicujus, under someone's leadership and authority
 auspicium | 6 | a beginning: auspicia regni, the opening of a reign
@@ -4102,7 +4102,7 @@ avarus | 3 | grasping after money, miserly: avarus et furax homo, a grasping and
 avarus | 4 | in the poets, without reproach, simply eager for something: laudis avarus, hungry for praise
 avarus | 5 | the adverb avare, greedily
 aveho | 1 | carry away
-aveho | 3 | to take something off by cart, ship or horse: praedam avehere, to carry the plunder away
+aveho | 3 | to take something off by cart, ship or horse, or to ride away oneself
 avello | 1 | tear off
 avello | 3 | to wrench something away: avulsum umeris caput, the head torn from the shoulders
 avello | 4 | to take a thing by force: Palladium sacrato templo avellere, to tear the Palladium from its shrine
@@ -4129,7 +4129,7 @@ aversor1 | 3 | to turn away from something in disgust or shame: aversari et rube
 aversor1 | 4 | to reject or repulse a person or thing: filium aversari, to refuse to have one's son near him
 averto | 1 | divert
 averto | 2 | steal
-averto | 3 | to turn something away from a place (with ab or the plain ablative): flumen a fonte avertere, to turn a river from its spring
+averto | 3 | to turn something away from a place (with ab or the plain ablative): flumina avertere, to turn rivers out of their course
 averto | 4 | without an object, to turn away, to withdraw: avertens rosea cervice refulsit, she turned away and her rosy neck shone out
 averto | 5 | to make off with something, to embezzle: pecuniam publicam avertere, to make away with public money
 averto | 6 | to turn someone from a plan or a hope: animos a spe avertere, to turn men's minds away from hope
