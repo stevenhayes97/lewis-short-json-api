@@ -3297,7 +3297,9 @@ ars | 5 | the theory or system of an art, and as a book title a handbook of rhet
 ars | 6 | the workmanship shown in a thing, and by extension a work of art itself
 ars | 7 | a person's character as shown by conduct, good or bad: bonae artes, good qualities
 ars | 8 | in a bad sense, a trick or artifice
-# skip: arse verse a Tuscan charm against fire, two words of a lost language rather than Latin
+# review: arse verse an Etruscan charm rather than Latin; the gloss is the ancient explanation averte ignem
+arse verse | 1 | avert fire
+arse verse | 3 | a Tuscan formula written up as a charm against fire, explained by the ancients as averte ignem, ward off the flame
 articulatim | 1 | piecemeal
 articulatim | 3 | joint by joint, limb by limb: articulatim concidere, to cut a man up limb by limb
 articulatim | 4 | of speech, point by point and distinctly: articulatim explicare, to set something out clearly
@@ -3355,3 +3357,211 @@ arula | 3 | a little altar set before the images of the gods
 arula | 4 | the base of an altar, or turf banked altar-wise round an elm
 arvalis | 1 | of ploughland
 arvalis | 3 | Fratres Arvales, the Arval Brethren, a college of twelve priests who sacrificed each year for the growth of the crops
+arvina | 1 | fat
+arvina | 3 | grease or suet, properly the hard fat lying between the skin and the flesh
+arvina | 4 | the fat of a victim offered in sacrifice
+arvus | 1 | ploughed
+arvus | 3 | of land, ploughed but not yet sown
+arvus | 4 | as a noun, arvum, ploughed land, a cornfield: ferro molirier arva, to work the fields with iron
+arvus | 5 | in the poets, any region or plain: arva Neptunia, the fields of Neptune, that is the sea
+arvus | 6 | dry land or shore as against the water: arva tenere, to make land
+arx | 1 | citadel
+arx | 3 | a stronghold or fortress, and at Rome the Capitol
+arx | 4 | figuratively, a bulwark or a refuge: arx civium perditorum, a stronghold for desperate men
+arx | 5 | arcem facere e cloaca, to make a citadel out of a sewer, that is a mountain out of a molehill
+arx | 6 | a height, peak or summit: Parnasi arce, on the height of Parnassus
+arx | 7 | of the sky, the height of heaven: caeli arcem, the citadel of heaven
+arx | 8 | figuratively, the head or chief point of a thing: caput atque arx belli, the head and stronghold of the war
+# review: as the root sense is the unit of any divided whole, but a reader most often meets the coin
+as | 1 | unit
+as | 2 | copper coin
+as | 3 | the unit of a whole divided into twelve parts, used alike of coin, weight and measure
+as | 4 | the as, a copper coin, at first a pound of bronze and later much reduced
+as | 5 | in inheritance, the estate as a whole: heres ex asse, sole heir; heres ex semisse, heir to a half
+as | 6 | as a measure, an acre, a foot or a pound according to what is being measured
+as | 7 | assem habeas, assem valeas, you are worth what you have, a proverb on money and standing
+ascendo | 1 | climb
+ascendo | 3 | to go up or mount (with in, ad, or the accusative): in navem ascendere, to go on board; montem ascendere, to climb the mountain
+ascendo | 4 | figuratively, to rise to a position: in summum locum civitatis ascendere, to rise to the highest place in the state
+ascendo | 5 | to rise above someone, to outstrip them (with super or supra)
+ascendo | 6 | in the lawyers, ascendentes, the relatives in the ascending line, one's forebears
+ascensio | 1 | ascent
+ascensio | 3 | the act of going up, a climb: ascensionem facere, to make the climb
+ascensio | 4 | figuratively, a rising or soaring: oratorum ascensio, the steady rise of the orators
+ascensio | 5 | a means of getting up, a way of ascent
+ascensor | 1 | rider
+ascensor | 3 | one who goes up, a climber, a late use
+ascensor | 4 | one who mounts a horse or a chariot, a rider or driver: ascensor equi, the horse's rider
+ascensus2 | 1 | ascent
+ascensus2 | 3 | the act of climbing up: prohibere ascensu, to keep men from climbing up
+ascensus2 | 4 | figuratively, the rise to higher office: ascensus ad honoris gradum, the step up to higher rank
+ascensus2 | 5 | the place by which one goes up, an approach: ascensus difficilis atque arduus, a hard and steep climb
+ascia | 1 | axe
+ascia | 3 | a carpenter's axe for hewing wood: rogum ascia ne polito, do not smooth the pyre with an axe, from the Twelve Tables
+ascia | 4 | a mattock or hoe
+ascia | 5 | a mason's trowel, often carved on tombs with the words sub ascia dedicatum
+ascio2 | 1 | admit
+ascio2 | 3 | to receive someone into a body or a household: socios ascire, to take on allies
+ascio2 | 4 | to take someone in by adoption: adsciri per adoptionem, to be received into a family by adoption
+ascisco | 1 | adopt
+ascisco | 3 | to receive something as true, to approve or accept it: quod socii ascivissent, whatever the allies had approved
+ascisco | 4 | to admit someone in some capacity, as citizen, ally or son
+ascisco | 5 | of things, to take a custom or practice over for oneself
+ascisco | 6 | sibi asciscere, to arrogate something to oneself: eloquentiae laudem sibi asciscere, to claim the credit for eloquence
+ascribo | 1 | enrol
+ascribo | 2 | attribute
+ascribo | 3 | to add something to a piece of writing: causam ascribere, to add the reason in writing
+ascribo | 4 | to add greetings at the end of a letter: Terentia salutem tibi ascribit, Terentia sends her regards too
+ascribo | 5 | to put something down to a person or a cause: hoc incommodum Scipioni ascribendum, this setback is to be laid at Scipio's door
+ascribo | 6 | to enter someone on a list, as citizen, soldier or colonist: in civitatem ascribi, to be enrolled as a citizen
+ascribo | 7 | to reckon someone among a class: aliquem ordinibus deorum ascribere, to number someone among the gods
+ascripticius | 1 | enrolled
+ascripticius | 3 | received into a community as citizen or soldier: novi et ascripticii cives, newly enrolled citizens
+ascripticius | 4 | of reserves drafted in to bring the legions up to strength
+ascriptor | 1 | supporter
+ascriptor | 3 | one who puts his name to a thing, and so the backer of a proposal: ascriptores legis agrariae, the backers of the land bill
+asellus | 1 | little ass
+asellus | 3 | a young or undersized ass: asellus tardus, the slow-plodding donkey
+asellus | 4 | Aselli, two small stars in the sign of Cancer
+asellus | 5 | a sea fish the Romans prized, perhaps the cod or haddock
+asina | 1 | she-ass
+asina | 3 | a female ass: asina molendaria, a she-ass kept for the mill
+asinarius | 1 | of asses
+asinarius | 3 | belonging to an ass: mola asinaria, a millstone turned by an ass
+asinarius | 4 | as a noun, an ass-keeper or ass-driver
+asinus | 1 | ass
+asinus | 2 | fool
+asinus | 3 | the ass as a working animal
+asinus | 4 | as an insult, a dolt or blockhead: quid tu huic, asine, auscultas, why listen to him, you ass
+aspecto | 1 | gaze
+aspecto | 3 | to look at something hard, with respect or with longing: quid me aspectas, why do you stare at me
+aspecto | 4 | to give heed to something: jussa principis aspectare, to watch for the emperor's orders
+aspecto | 5 | of places, to face or look towards: mare quod Hiberniam aspectat, the sea that faces Ireland
+aspectus2 | 1 | sight
+aspectus2 | 2 | appearance
+aspectus2 | 3 | the act of looking, a glance: uno aspectu, at a single glance
+aspectus2 | 4 | the sense of sight, and what falls within it: sub aspectum cadere, to come into view
+aspectus2 | 5 | the being seen, someone's presence: carere aspectu civium, to be cut off from the sight of one's fellow citizens
+aspectus2 | 6 | the look a thing has: horribilis aspectus, a dreadful appearance
+aspectus2 | 7 | of shape or colour, the look of a thing: aspectus nigrior, a darker cast
+aspello | 1 | drive off
+aspello | 3 | to drive someone away, a word of early Latin: qui advorsum eunt aspellito, drive off any who come at you
+aspello | 4 | figuratively, to keep something at a distance: longe a leto aspellere, to hold death far off
+asper1 | 1 | rough
+asper1 | 2 | harsh
+asper1 | 3 | rough to the touch, uneven: lingua aspera tactu, a tongue rough to the touch; loca aspera, broken country
+asper1 | 4 | as a noun, asperum, a rough place: per aspera et devia, over rough and trackless ground
+asper1 | 5 | of taste, sharp or sour: asper sapor maris, the brackish taste of the sea
+asper1 | 6 | of sound, harsh and grating; of smell, pungent
+asper1 | 7 | of character, hard and unkind: natura asperi, harsh by nature
+asper1 | 8 | of animals, wild and fierce: bos aspera cornu, a cow dangerous with her horn
+asper1 | 9 | of circumstances, hard and adverse: asperis temporibus, in difficult times
+asper1 | 10 | the adverb aspere, harshly and severely: aspere accusare, to press a charge bitterly
+aspergo1 | 1 | sprinkle
+aspergo1 | 3 | to scatter or sprinkle something onto something else: aquam alicui aspergere, to dash water over someone
+aspergo1 | 4 | to besprinkle a thing with something (with the ablative): aram sanguine aspergere, to spatter the altar with blood
+aspergo1 | 5 | figuratively, to fasten a stain on someone: labeculam alicui aspergere, to leave a smudge on someone's name
+aspergo2 | 1 | spray
+aspergo2 | 3 | a sprinkling: aspergo aquarum, a sprinkling of water
+aspergo2 | 4 | what is sprinkled, the drops or spray themselves: salsa aspergine spumare, to foam with salt spray
+asperitas | 1 | roughness
+asperitas | 3 | unevenness of surface: asperitas viarum, the roughness of the roads
+asperitas | 4 | of taste, sharpness or tartness: asperitas vini, the harshness of the wine
+asperitas | 5 | of sound, harshness of tone: asperitas vocis, a rasping voice
+asperitas | 6 | of character, harshness and severity: asperitas naturae, a harsh disposition
+asperitas | 7 | of circumstances, hardship or difficulty: asperitates rerum, hard times
+aspernor | 1 | reject
+aspernor | 2 | disdain
+aspernor | 3 | to push a thing away from oneself, to refuse it: gustatus id aspernatur, the taste rejects it
+aspernor | 4 | to treat a person with contempt, to disown them: regem aspernari, to want nothing to do with a king
+aspernor | 5 | occasionally used with a passive sense, to be held in contempt
+aspero | 1 | roughen
+aspero | 3 | to make something rough or uneven
+aspero | 4 | to give a thing a sharp or wounding edge: sagittas ossibus asperare, to tip arrows with bone
+aspero | 5 | figuratively, to rouse or exasperate: fratres asperare, to set brothers against each other
+aspersio | 1 | sprinkling
+aspersio | 3 | a sprinkling of liquid: aspersio aquae, a sprinkling of water
+aspersio | 4 | of paint, the laying on of colours: aspersio fortuita, a chance splash of colour
+aspicio | 1 | look at
+aspicio | 3 | to look at or towards a person or thing (with the accusative, or in early Latin with ad): aspice ad me, look at me
+aspicio | 4 | to catch sight of, to spot: perii si me aspexerit, I am done for if he sees me
+aspicio | 5 | to look at something in order to weigh it up, to consider it: aspice ut, see how
+aspicio | 6 | of places, to face or lie towards: tabulatum aspiciat meridiem, let the floor face south
+aspicio | 7 | to look someone in the face, to meet their eye: quos nemo ausus fuit aspicere in acie, whom nobody dared face in the line
+aspicio | 8 | lucem aspicere, to see the light, that is to be alive
+aspiratio | 1 | breathing
+aspiratio | 3 | a blowing or breathing upon something: aspiratio aeris, the movement of the air about us
+aspiratio | 4 | an exhalation or vapour rising from the ground
+aspiratio | 5 | in grammar, the sounding of an h, an aspirate
+aspiro | 1 | aspire
+aspiro | 2 | breathe
+aspiro | 3 | to blow or breathe upon something (with ad or the dative): ne frigus aspiret, so that no chill blows on him
+aspiro | 4 | of a breeze or of fortune, to be favourable to someone: aspirat fortuna labori, fortune smiles on the undertaking
+aspiro | 5 | to aspire to something, to try to come near it (with ad or the dative): ad eam laudem aspirare, to aim at that distinction
+aspiro | 6 | transitively, to breathe something into someone, or to send a wind: ventos aspirare, to send favouring breezes
+aspiro | 7 | in grammar, to pronounce with an h, to aspirate
+asporto | 1 | carry off
+asporto | 3 | to take something away from where it stood: simulacrum asportare, to carry off a statue
+asporto | 4 | of people, to carry them away, especially by ship: aliquem trans mare asportare, to ship someone overseas
+assecla | 1 | hanger-on
+assecla | 3 | a follower or attendant, always said with contempt, unlike assectator: assentatores atque asseclae, flatterers and hangers-on
+assectator | 1 | follower
+assectator | 3 | someone in attendance on another as friend, client or servant, said without reproach
+assectator | 4 | a disciple or student: assectator sapientiae, a follower of philosophy
+assector | 1 | attend
+assector | 3 | to go about with someone in attendance, especially with a candidate for office
+assector | 4 | in law, to follow a woman about, treated as an offence
+assensio | 1 | assent
+assensio | 3 | agreement or approval, mostly in philosophy and rhetoric: populari assensioni accommodatus, pitched to win popular approval
+assensus2 | 1 | assent
+assensus2 | 3 | agreement or approval: omnium assensu, with everyone's agreement
+assensus2 | 4 | in philosophy, the assent the mind gives to what the senses report
+assensus2 | 5 | in the poets, an echo: assensu nemorum, with the answering echo of the woods
+assentatio | 1 | flattery
+assentatio | 3 | agreement given only to please: adulatio, blanditia, assentatio, fawning, coaxing and flattery
+assentatio | 4 | rarely in a good sense, plain approval
+assentator | 1 | flatterer
+assentator | 3 | one who agrees with everything in order to please: assentatoribus aures patefacere, to open one's ears to flatterers
+assentior | 1 | agree
+assentior | 3 | to give one's assent to a person or a proposal (with the dative): alicui assentiri, to agree with someone
+assentior | 4 | the active form assentio had already gone out of use in Varro's day
+assentor | 1 | flatter
+assentor | 3 | to agree with someone in everything, to fall in with whatever they say
+assentor | 4 | sibi assentari, to flatter oneself, to think too well of one's own case
+assequor | 1 | attain
+assequor | 2 | overtake
+assequor | 3 | to follow someone in order to catch them up, to come up with them
+assequor | 4 | to gain or win something by effort: honorum gradus assequi, to climb the steps of office; immortalitatem assequi, to win immortality
+assequor | 5 | to come up to a person or a quality, to match or equal it
+assequor | 6 | to take something in with the mind, to understand it: cogitationem assequi, to grasp what someone means
+asser | 1 | pole
+asser | 3 | a beam, stake or post: asseres cuspidibus praefixi, poles tipped with points
+asser | 4 | one of the poles a litter was carried on
+asser | 5 | a lath or batten
+# review: assero1 the point of the word is setting one plant beside another; "plant" alone loses it
+assero1 | 1 | plant beside
+assero1 | 3 | to sow or plant one thing next to another: vites propter cupressos asserere, to plant vines beside the cypresses
+assero2 | 1 | claim
+assero2 | 2 | assert
+assero2 | 3 | in law, to lay a hand on a slave and declare him free: aliquem in libertatem asserere, to claim someone as a free man
+assero2 | 4 | the reverse, to lay a hand on someone and claim them as a slave: aliquem in servitutem asserere, to claim someone as a slave
+assero2 | 5 | in later Latin, to protect or defend: se ab injuria asserere, to defend oneself against wrong
+assero2 | 6 | to claim something as one's own: nec laudes assere nostras, do not claim my praises for your own
+assero2 | 7 | to maintain or declare something, to assert it
+assertio | 1 | assertion
+assertio | 3 | in law, the formal claim that a person is free or is a slave
+assertio | 4 | in later Latin, a statement or assertion generally
+assertor | 1 | champion
+assertor | 3 | one who formally declares another to be free or to be a slave
+assertor | 4 | a restorer of liberty, and figuratively a defender: senatus assertor, the champion of the senate
+assertor | 5 | on the other side, one who claims a person as a slave
+asservo | 1 | guard
+asservo | 3 | to keep something safe, to look after it
+asservo | 4 | to keep a person under guard, in custody
+assessor | 1 | assessor
+assessor | 3 | one who sits beside another as an aide: regibus augurem assessorem dare, to give the kings an augur to sit with them
+assessor | 4 | in law, the assistant who sat with a judge
+asseveratio | 1 | affirmation
+asseveratio | 3 | a vehement assertion made in earnest: omni asseveratione affirmare, to state something with every possible emphasis
+asseveratio | 4 | in Tacitus, of conduct, a settled earnestness or rigour
+asseveratio | 5 | in the old grammarians, a word of emphasis such as heu
