@@ -4130,7 +4130,7 @@ aversor1 | 4 | to reject or repulse a person or thing: filium aversari, to refus
 averto | 1 | divert
 averto | 2 | steal
 averto | 3 | to turn something away from a place (with ab or the plain ablative): flumen a fonte avertere, to turn a river from its spring
-averto | 4 | without an object, to turn away, to withdraw: avertens roseā cervice refulsit, she turned away and her rosy neck shone out
+averto | 4 | without an object, to turn away, to withdraw: avertens rosea cervice refulsit, she turned away and her rosy neck shone out
 averto | 5 | to make off with something, to embezzle: pecuniam publicam avertere, to make away with public money
 averto | 6 | to turn someone from a plan or a hope: animos a spe avertere, to turn men's minds away from hope
 averto | 7 | to set someone against another, to estrange them
@@ -4153,7 +4153,7 @@ avidus | 6 | in Lucretius, of space, wide and all-swallowing: avido complexu aet
 avidus | 7 | the adverb avide, eagerly: avide adripere, to seize on something greedily
 avis | 1 | bird
 avis | 3 | a bird, and collectively the birds
-avis | 4 | in augury, a bird as the source of an omen, and so the omen itself: mala avi, under a bad sign
+avis | 4 | in augury, a bird as the source of an omen, and so the omen itself: mala avi domum ducere, to bring her home under a bad omen; avi sinistra, with a favourable omen
 avitus1 | 1 | ancestral
 avitus1 | 3 | belonging to or coming from a grandfather: paterna atque avita possessio, an estate held from father and grandfather
 avitus1 | 4 | more widely, very old: merum avitum, wine of great age
