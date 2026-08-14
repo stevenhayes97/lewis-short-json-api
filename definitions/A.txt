@@ -3565,3 +3565,206 @@ asseveratio | 1 | affirmation
 asseveratio | 3 | a vehement assertion made in earnest: omni asseveratione affirmare, to state something with every possible emphasis
 asseveratio | 4 | in Tacitus, of conduct, a settled earnestness or rigour
 asseveratio | 5 | in the old grammarians, a word of emphasis such as heu
+assevero | 1 | affirm
+assevero | 3 | to go about something in earnest, as opposed to in jest
+assevero | 4 | to state something with emphasis, to insist on it
+assevero | 5 | in Tacitus, of manner, to put on a grave air: gravitatem asseverantes, men assuming an air of dignity
+assevero | 6 | the adverb asseveranter, emphatically: loqui asseveranter, to speak with great emphasis
+assibilo | 1 | hiss
+assibilo | 3 | to whisper or murmur at something: aere assibilat ventus, the wind whispers through the air
+assideo | 1 | sit by
+assideo | 3 | to sit beside a person or thing: non assidens et attente audiens, not sitting close and listening hard
+assideo | 4 | to be at someone's side as attendant or supporter (with the dative)
+assideo | 5 | of the sick, to sit with them and nurse them: assidet aegrae, he sits by her sickbed
+assideo | 6 | to stick closely to a task: litteris assidere, to keep at one's books
+assideo | 7 | of an army, to sit down before a town, to blockade or besiege it
+assideo | 8 | in the poets, to come close to something in quality: parcus assidet insano, the miser is next door to the madman
+assido | 1 | sit down
+assido | 3 | to take a seat somewhere: assidamus si videtur, let us sit down if you think fit
+assido | 4 | of a speaker, to sit down when the speech is over
+assiduitas | 1 | attendance
+assiduitas | 2 | persistence
+assiduitas | 3 | constant attendance on someone: medici assiduitas, the doctor's unbroken attendance
+assiduitas | 4 | the daily presence of friends and clients about a candidate
+assiduitas | 5 | of things, unbroken continuance or frequent repetition: assiduitas molestiarum, one trouble after another
+# review: assiduus1 a class in the Servian constitution; "taxpayer" is the nearest single word but drops the property qualification
+assiduus1 | 1 | taxpayer
+assiduus1 | 3 | in the constitution of Servius Tullius, a citizen of the propertied classes who paid tribute, as against the proletarii
+assiduus1 | 4 | by extension, a man of means
+assiduus1 | 5 | in Gellius, of a writer of the first rank, as against a proletarius scribbler
+assiduus2 | 1 | constant
+assiduus2 | 3 | always on the spot, busy about something: assiduus in praediis, forever down on the estate
+assiduus2 | 4 | of time, unbroken and incessant: assiduus labor, unremitting toil
+assiduus2 | 5 | the adverbs assidue and assiduo, continually: assidue veniebat, he kept coming
+assignatio | 1 | allotment
+assignatio | 3 | the marking out and granting of land, especially to colonists: agrorum assignatio, the allotment of land
+assigno | 1 | assign
+assigno | 2 | attribute
+assigno | 3 | to mark out and allot something to someone, especially public land to settlers
+assigno | 4 | to confer something on someone: munus a deo assignatum, a duty laid on us by god
+assigno | 5 | to lay something at someone's door as a fault, or set it down to their credit: tempori assignare, to put it down to the times
+assigno | 6 | to hand something over to someone to look after
+assigno | 7 | to set one's seal on something: assigna tabellas, seal the tablets
+assilio | 1 | leap at
+assilio | 3 | to spring up at or onto something: moenibus assilire, to leap at the walls, of waves breaking
+assilio | 4 | figuratively, to jump straight to something: assilire ad genus orationis, to rush headlong into that style
+assimilis | 1 | similar
+assimilis | 3 | like something (with the genitive or the dative): assimilis sui, like his own self; cadenti assimilis, looking as if it were falling
+assimilis | 4 | the adverb assimiliter, in like manner
+assimulatio | 1 | likeness
+assimulatio | 3 | a resemblance between one thing and another
+assimulatio | 4 | in rhetoric, a speaker's pretence of sharing his hearers' view
+assimulatio | 5 | a comparison of one thing with others
+assimulo | 1 | pretend
+assimulo | 2 | liken
+assimulo | 3 | to make one thing like another, or to set them side by side as similar
+assimulo | 4 | to put on a show of what is not so, to feign it: furere assimulare, to pretend to be mad; assimulare quasi, to make out that
+assimulo | 5 | assimulatus as an adjective, made alike, and so counterfeit: virtus assimulata, sham virtue
+assisto | 1 | stand by
+assisto | 3 | to place oneself somewhere, to take up a position: assiste altrinsecus, stand on the other side
+assisto | 4 | to be standing at or by a place: ut rectus assistat, so that it stands upright
+assisto | 5 | to stand by someone as counsel in court, to support them
+assisto | 6 | to stand before someone for judgment
+assoleo | 1 | be usual
+assoleo | 3 | to be the custom, used only in the third person: ponite quae assolent, set out the usual things
+assuefacio | 1 | accustom
+assuefacio | 3 | to train someone to something (in Cicero with the ablative, later with the dative or ad): puro sermone assuefacere, to school someone in clean speech
+assuefacio | 4 | with the infinitive, to train someone to do something: parere assuefacere, to break someone in to obedience
+assuesco | 1 | grow used
+assuesco | 3 | to accustom oneself to a thing, to get into the way of it (with the ablative, the dative, ad or in)
+assuesco | 4 | with the infinitive, to be in the habit of doing something: assueti muros defendere, men used to defending walls
+assuesco | 5 | transitively, to accustom someone else to something
+assuesco | 6 | assuetus as an adjective, accustomed and usual
+assuetudo | 1 | habit
+assuetudo | 3 | the state of being used to a thing: assuetudo mali, growing used to trouble
+assuetudo | 4 | nil assuetudine majus, nothing is stronger than habit
+assula | 1 | splinter
+assula | 3 | a chip or shaving of wood: foribus assulas facere, to smash the door into splinters
+assula | 4 | a shingle for a roof
+# review: assulatim "piecemeal" is already articulatim's gloss and this word is specifically about splintering
+assulatim | 1 | into splinters
+assulatim | 3 | in shivers or chips: assulatim foribus exitium dare, to smash the doors to matchwood
+assulto | 1 | assault
+assulto | 3 | to leap or jump about: assultare ut Bacchae, to leap about like Bacchants
+assulto | 4 | in warfare, to rush at or attack: castris assultatum est, the camp was rushed
+assumo | 1 | take on
+assumo | 3 | to take something to oneself, to receive or accept it: cibus membris assumitur, food is taken into the body
+assumo | 4 | to take something in addition, to add it: aliam artem sibi assumere, to take up a second skill as well
+assumo | 5 | to take someone on as a partner or a helper
+assumo | 6 | in logic, to add the minor premiss to a syllogism
+assumo | 7 | in grammar, assumpta verba, epithets, and also figurative expressions
+assumptio | 1 | acceptance
+assumptio | 3 | a taking or receiving of something
+assumptio | 4 | the taking up of a thing for its own sake: dignum assumptione, worth adopting for itself
+assumptio | 5 | in logic, the minor premiss of a syllogism
+assumptivus | 1 | assumptive
+assumptivus | 3 | in rhetoric, of a case whose defence is drawn from outside the facts themselves, as against one that stands on its own
+assurgo | 1 | rise
+assurgo | 3 | to stand up, to get to one's feet: ex morbo assurgere, to rise from a sickbed
+assurgo | 4 | to rise in someone's honour (with the dative): venienti in curiam assurgere, to stand up as someone enters the senate house
+assurgo | 5 | of hills and buildings, to rise up: colles assurgunt, the hills rise
+assurgo | 6 | of the sea and of swellings, to swell: assurgens fluctu Orion, Orion rising with the swell
+assurgo | 7 | of feelings, to rise or break out: assurgunt irae, tempers flare
+assurgo | 8 | of style, to rise or soar: raro assurgit Hesiodus, Hesiod seldom rises
+assus | 1 | roast
+assus | 3 | roasted rather than boiled: turdi assi, roast thrushes
+assus | 4 | dry or plain, of a thing with nothing added: assa sudatio, a dry sweating-bath
+assus | 5 | as a noun, assa, a sweating-room in the baths
+astipulatio | 1 | agreement
+astipulatio | 3 | an assent that confirms the same facts: Senecae astipulatio, Seneca's corroboration
+astipulatio | 4 | in Quintilian, the matching of the voice to the sense
+astipulator | 1 | backer
+astipulator | 3 | in law, one who joins another in a formal undertaking
+astipulator | 4 | someone who supports another's case in court, or falls in with their opinion
+astipulor | 1 | concur
+astipulor | 3 | in law, to join with another in a formal undertaking
+astipulor | 4 | to fall in with someone's view: irato consuli astipulari, to back an angry consul
+asto | 1 | stand near
+asto | 3 | to stand at or beside a person or thing
+asto | 4 | to stand at someone's side as helper or counsel
+asto | 5 | of things, to stand upright: squamis astantibus, with the scales standing on end
+asto | 6 | figuratively, of what is in store: certa finis vitae mortalibus astat, a fixed end stands waiting for mortal men
+astrepo | 1 | applaud
+astrepo | 3 | to make a noise at or towards something: scopuli astrepunt, the rocks roar back
+astrepo | 4 | to shout approval at someone (with the dative): astrepebat vulgus, the crowd roared him on
+astringo | 1 | tighten
+astringo | 2 | bind
+astringo | 3 | to draw or tie something tight: ad columnam astringere, to lash a man to a pillar
+astringo | 4 | to bind someone by an obligation, to put them under a duty
+astringo | 5 | of the body, to make costive, or of taste to pucker: gustu astricto, with a sharp taste
+astringo | 6 | astrictus as an adjective, tight-fisted and sparing: astrictus pater, a close-fisted father
+astringo | 7 | of style, compact and terse: astricta verborum comprehensio, a tightly built sentence
+astruo | 1 | build on
+astruo | 3 | to build something on to what stands already: veteri astruitur recens aedificium, a new building goes up against the old
+astruo | 4 | to add something to what someone has: astrue formae, add this to your looks
+astruo | 5 | to fit a thing out with something else
+astupeo | 1 | marvel
+astupeo | 3 | to stand amazed at something: astupet ipse sibi, he stands lost in wonder at himself
+astus2 | 1 | cunning
+astus2 | 3 | adroitness, and in a bad sense a single piece of craft, as against astutia, cunning as a settled habit
+astus2 | 4 | until late Latin found only in the ablative astu, used as an adverb, craftily
+astutia | 1 | craftiness
+astutia | 3 | cunning as a settled quality of character, as against astus, a single crafty act
+astutia | 4 | in early and in later Latin, simply shrewdness or good sense
+astutus | 1 | crafty
+astutus | 3 | shrewd and sharp-witted, in a good sense
+astutus | 4 | more often in a bad sense, sly and designing: malus, callidus, astutus, a rogue, a schemer and a sly one
+at | 1 | but
+at | 3 | but, marking a contrast: Scipio est bellator, at Cato orator, Scipio is a soldier, but Cato a speaker
+at | 4 | introducing a new turn in the narrative, but meanwhile: at regina, but the queen for her part
+at | 5 | introducing an objection someone might raise, but it may be said: at enim, ah but, you will say
+at | 6 | after a negative, but at least: si non, at tamen, if not, then at any rate
+at | 7 | in appeals and curses: at te di perdant, but may the gods destroy you; at vos miserescite, but do you take pity
+at | 8 | the older form ast, kept especially before vowels and in legal language
+at | 9 | after si or quoniam, introducing what follows, then at least
+atavus | 1 | great-great-great-grandfather
+atavus | 3 | the father of an abavus, five generations back, and the counterpart of adnepos
+atavus | 4 | more loosely, an ancestor or forefather: avis atavisque potens, strong in grandfathers and forefathers
+ater1 | 1 | black
+ater1 | 2 | gloomy
+ater1 | 3 | dull or dead black, as against niger, a glossy black: atrum vinum, dark wine
+ater1 | 4 | dark and dismal, of what bodes ill: ater dies, a black day; atra formido, black dread
+ater1 | 5 | of feeling, spiteful and malicious: atro dente petere, to bite with a black tooth
+ater1 | 6 | of what is hard to make out, obscure: latebrae Lycophronis atri, the dark recesses of Lycophron
+atque | 1 | and
+atque | 3 | and, joining both words and clauses; ac stands only before consonants, atque before vowels and consonants alike
+atque | 4 | adding something weightier, and indeed, and what is more: atque adeo, and what is more; atque etiam, and even
+atque | 5 | in comparisons of likeness, as: idem atque, the same as; similis atque, like
+atque | 6 | after words of difference, than or from: alius atque tu, of a different stamp from you
+atque | 7 | in the poets, with comparatives, than: nullus amicior atque is est, no one is friendlier than he
+atque | 8 | of time, with simul, as soon as: simul atque, the moment that
+atque | 9 | in set phrases: unus atque alter, one or two; etiam atque etiam, again and again; huc atque illuc, this way and that
+atqui | 1 | and yet
+atqui | 3 | but anyhow, marking an objection or a qualification
+atqui | 4 | confirming what has gone before, but certainly, by all means
+atqui | 5 | atqui si, but if, or if indeed
+atqui | 6 | in logic, used to add the minor premiss of a syllogism, positive or negative, where atque adds only a positive one
+atramentum | 1 | ink
+atramentum | 3 | any black liquid: atramentum sepiae, the cuttlefish's ink
+atramentum | 4 | writing ink: calamo et atramento, with pen and ink
+atramentum | 5 | a black pigment, or a dark varnish or lacquer
+atramentum | 6 | atramentum sutorium, the blacking cobblers used on leather
+atratus1 | 1 | in mourning
+atratus1 | 3 | dressed in black for a funeral: quis umquam cenavit atratus, who ever dined in mourning clothes
+atratus1 | 4 | also of suppliants, who put on black to move pity
+atriensis | 1 | steward
+atriensis | 3 | the slave in charge of the atrium and so of the whole household, a house-steward
+atrium | 1 | hall
+atrium | 3 | the front hall of a Roman house, the first room past the door
+atrium | 4 | a hall or court in a temple or public building: in atrio Libertatis, in the Hall of Liberty
+atrocitas | 1 | savagery
+atrocitas | 3 | the hideousness of a thing as it looks from outside, as against saevitia, which belongs to the mind: facti atrocitas, the enormity of the deed
+atrocitas | 4 | of temper and conduct, harshness and cruelty
+atrocitas | 5 | vehemence in speaking
+atrox | 1 | savage
+atrox | 2 | dreadful
+atrox | 3 | frightful or hideous to look on: atrox facinus, a hideous crime
+atrox | 4 | of people, fierce and unyielding: atrox animus Catonis, Cato's unbending spirit
+atrox | 5 | of circumstances, harsh and severe: atrox hiems, a cruel winter; atrox pugna, a savage fight
+atrox | 6 | of speech, bitter and violent, and the adverb atrociter, fiercely: atrociter minitari, to threaten savagely
+attamino | 1 | defile
+attamino | 3 | to lay hands on, and in a bad sense to attack or to rob
+attamino | 4 | to dishonour or pollute: virginem attaminare, to violate a girl
+attempero | 1 | adjust
+attempero | 3 | to fit one thing to another: gladium sibi attemperare, to fit the sword to himself
+attempero | 4 | the adverb attemperate, at just the right moment
