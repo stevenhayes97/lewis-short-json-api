@@ -2038,3 +2038,663 @@ ambages | 2 | evasion
 ambages | 3 | a winding, roundabout way: ambages viarum, the twists of the maze
 ambages | 4 | circumlocution, a roundabout way of speaking: ambages mitte, come to the point
 ambages | 5 | obscurity, riddling ambiguity, as of the Sphinx
+ambedo | 1 | gnaw
+ambedo | 3 | to gnaw or eat away at the edges of a thing: vis locustarum ambederat, a plague of locusts had stripped everything
+ambedo | 4 | of fire, to scorch round the outside and so consume: flammis ambesa robora, timbers eaten away by the flames
+ambi | 1 | around
+ambi | 3 | an inseparable prefix meaning round or about, surviving only in compounds such as ambio, amplector and amputo
+ambi | 4 | shortened to amb-, am- and an- before consonants: amburo, amplector, anquiro
+ambi | 5 | as an archaic preposition with the accusative, round: am fines, round the boundaries
+ambifarius | 1 | ambiguous
+ambifarius | 3 | having two sides or two meanings, of words and stories, a late word
+ambifarius | 4 | the adverbs ambifarie and ambifariam, in two ways, on both sides
+ambigo | 1 | doubt
+ambigo | 2 | dispute
+ambigo | 3 | to waver or hesitate, to be undecided: haud ambigere, to have no doubt about it
+ambigo | 4 | impersonally and in the passive, ambigitur, the point is in question: ambigitur de vero, the truth is disputed
+ambigo | 5 | to argue or debate a matter, and especially to go to law over it: ambigunt de finibus, they are in dispute over the boundaries
+ambigo | 6 | rarely and literally, to go about, to wander
+ambiguitas | 1 | ambiguity
+ambiguitas | 3 | double meaning in a word or phrase: ambiguitas nominis, the ambiguity of the name
+ambiguitas | 4 | uncertainty about how a thing stands: in ambiguitatem incidere, to fall into uncertainty
+ambiguus | 1 | doubtful
+ambiguus | 2 | changeable
+ambiguus | 3 | shifting between two forms or two sides: ambiguus Proteus, Proteus of the changing shapes
+ambiguus | 4 | of words and oracles, obscure, open to two readings: verba ambigua, words that can be taken two ways
+ambiguus | 5 | wavering, not to be relied on: ambigua fide, of doubtful loyalty
+ambiguus | 6 | in Tacitus with the genitive, hesitating over something: ambiguus imperandi, unsure whether to take command
+ambiguus | 7 | as a noun, in ambiguo esse, to be in doubt, to be unsettled
+ambio | 1 | encircle
+ambio | 2 | canvass
+ambio | 3 | to go round a thing: jubet urbem ambiri, he orders a circuit of the city to be made
+ambio | 4 | of rivers, walls and coastlines, to surround or enclose: insula quam amnis ambiebat, the island the river ran round
+ambio | 5 | of candidates, to go round soliciting votes: petamus ambiamus, let us stand and canvass
+ambio | 6 | to court someone for a favour, with ut or ne or the infinitive: reginam ambire, to make approaches to the queen
+ambitio | 1 | canvassing
+ambitio | 2 | ambition
+ambitio | 3 | the lawful going round of candidates asking for votes, as against ambitus, which is winning them by bribery
+ambitio | 4 | the courting of favour, flattery, currying favour: ambitione relegata, with flattery set aside
+ambitio | 5 | partiality, favouritism in giving judgement
+ambitio | 6 | a craving for honour, popularity or show: funerum nulla ambitio, no display at funerals
+ambitiosus | 1 | ambitious
+ambitiosus | 2 | ostentatious
+ambitiosus | 3 | out to win goodwill, courting favour, fawning: homo minime ambitiosus, a man with no wish to ingratiate himself
+ambitiosus | 4 | of things, showy, got up for effect: ambitiosa ornamenta, overdone ornament
+ambitiosus | 5 | in the passive sense, much sought after, courted
+ambitiosus | 6 | literally, winding or twining round: hedera ambitiosior, more clinging than ivy
+ambitus2 | 1 | circuit
+ambitus2 | 2 | bribery
+ambitus2 | 3 | a going round, the revolution of a heavenly body: ambitu breviore, in a shorter orbit
+ambitus2 | 4 | the circumference or edge of a round thing, and the strip of open ground left round a house
+ambitus2 | 5 | the crime of canvassing by bribery, tried under the laws de ambitu: accusare aliquem ambitus, to prosecute someone for bribery
+ambitus2 | 6 | showiness, parade, and of style, bombast
+ambitus2 | 7 | in rhetoric, a period, a rounded sentence
+ambo | 1 | both
+ambo | 3 | both of a natural pair: ambas manus, both hands
+ambo | 4 | the two of them taken together, as against uterque, which is each of the two separately: consules ambo, the two consuls acting as one
+ambo | 5 | in poetry, simply two: via se findit in ambas partes, the road divides into two
+ambulacrum | 1 | avenue
+ambulacrum | 3 | a walk planted with trees beside a house, an early word for what classical Latin calls ambulatio
+ambulatio | 1 | walk
+ambulatio | 2 | promenade
+ambulatio | 3 | the act of walking about, a stroll taken for exercise: ambulationem conficere, to take one's walk
+ambulatio | 4 | a place made for walking, covered or open, usually beside a house
+ambulatorius | 1 | movable
+ambulatorius | 3 | of siege engines and the like, able to be wheeled about: turres ambulatoriae, movable towers
+ambulatorius | 4 | suitable for walking in: porticus ambulatoria, a colonnade to walk in
+ambulo | 1 | walk
+ambulo | 3 | to walk for exercise or pleasure, to take a walk: abiit ambulatum, he has gone for a walk
+ambulo | 4 | to go or travel, to cover ground on foot: bene ambula, a good journey to you
+ambulo | 5 | to walk with a swagger, to parade about: superbus ambules pecunia, you may strut about on the strength of your money
+ambulo | 6 | with an object, to travel over: maria ambulare, to walk the seas
+ambulo | 7 | in military language, to march
+ambulo | 8 | in Christian Latin, to walk in the sense of to live: ambulare cum Deo, to walk with God
+# review: amburbium a procession round Rome; "procession" alone loses the rite, and English has no single word
+amburbium | 1 | procession round Rome
+amburbium | 3 | the purificatory procession made round the city with sacrifices, in years of alarm or prodigies
+amburo | 1 | scorch
+amburo | 3 | to burn round the outside, as against exurere, to burn something up entirely
+amburo | 4 | of frost, to nip or numb: ambusti artus vi frigoris, limbs numbed by the force of the cold
+amburo | 5 | figuratively of property, to leave charred: ambustae fortunarum reliquiae, the charred remains of my fortunes
+amburo | 6 | of a man who barely escapes conviction, to come off singed
+amen | 1 | amen
+amen | 3 | at the close of a prayer, so be it, a word of Christian Latin
+amen | 4 | at the head of a sentence in the Gospels, truly: amen dico vobis, truly I say to you
+amen | 5 | as an adjective, true or faithful; as a noun, faithfulness
+amens | 1 | frantic
+amens | 2 | foolish
+amens | 3 | out of one's senses through any strong passion, as against insanus, diseased in mind: arma amens capio, frantic I snatch up arms
+amens | 4 | with an ablative or genitive of the cause: terrore amens, out of his wits with terror
+amens | 5 | of plans and actions, senseless, idiotic: amentissimum consilium, an utterly mad plan
+amentia | 1 | madness
+amentia | 2 | folly
+amentia | 3 | the state of being out of one's mind, loss of reason, which Cicero says is the same thing as dementia
+amentia | 4 | folly or stupidity in conduct: si quem amentia verset, if folly sets a man spinning
+amentia | 5 | in Christian Latin, malice
+# review: amento the sense is to fit a javelin with its throwing-strap; English has no verb for it
+amento | 1 | fit with a thong
+amento | 3 | to fit a javelin with the strap by which it was thrown: hastae amentatae, javelins fitted with their thongs, used by Cicero of arguments ready for use
+amento | 4 | in poetry, to hurl the javelin by its thong, and of the wind driving a thing on
+amentum | 1 | thong
+amentum | 3 | the strap wound round the middle of a javelin, giving it force and spin when thrown
+amentum | 4 | a strap more generally, such as the lace of a sandal
+ames | 1 | pole
+ames | 3 | a forked pole for propping and spreading fowlers' nets: amite levi rara tendit retia, on a light pole he spreads the wide-meshed nets
+ames | 4 | a carrying-pole for a litter
+amicio | 1 | wrap
+amicio | 3 | used of outer garments only, as against induere of clothes put on: pallio amictus, wrapped in a cloak
+amicio | 4 | in the passive or with se, to wrap oneself up, to put a cloak round one
+amicio | 5 | of other coverings, to clothe or veil: nive amicta loca, places mantled in snow
+amicitia | 1 | friendship
+amicitia | 3 | friendship between people, the subject of Cicero's Laelius: amicitiam colere, to keep up a friendship
+amicitia | 4 | between states, a formal bond of friendship, short of a full alliance: in amicitiam populi Romani venire, to enter into friendship with Rome
+amicitia | 5 | in later Latin, one's circle of friends
+amicitia | 6 | of plants, a natural affinity between two species
+amictorius | 1 | for wrapping
+amictorius | 3 | of cloth, meant to be thrown round one
+amictorius | 4 | as a noun, amictorium, a light loose wrap or scarf, chiefly worn by women
+amictus2 | 1 | cloak
+amictus2 | 2 | dress
+amictus2 | 3 | the way one wears one's clothes, style of dress: est aliquid in amictu, there is something in how a man is dressed
+amictus2 | 4 | the garment thrown round one, a mantle or cloak: duplex amictus, a cloak of double thickness
+amictus2 | 5 | of other coverings: caeli amictus, the mantle of air about us
+amiculum | 1 | cloak
+amiculum | 3 | an outer wrap thrown round one: purpureum amiculum, a purple cloak
+amiculum | 4 | the rough double cloak of countrymen and soldiers
+amiculus | 1 | dear friend
+amiculus | 3 | a little friend, used affectionately or with a touch of condescension: Docimus amiculus meus, my dear friend Docimus
+amiculus | 4 | in the feminine, amicula, a woman friend, and sometimes a mistress
+amicus1 | 1 | friendly
+amicus1 | 3 | well disposed towards someone, with the dative: animo amico erga aliquem esse, to feel friendly towards someone
+amicus1 | 4 | of things, favourable, welcome: amica silentia lunae, the friendly silence of the moonlight
+amicus1 | 5 | amicum est mihi with the infinitive, it suits me, it is to my liking
+amicus1 | 6 | the adverb amice, in a friendly way: facis amice, you act like a friend
+amicus2 | 1 | friend
+amicus2 | 3 | a friend in the full sense: amicus est tamquam alter idem, a friend is a second self
+amicus2 | 4 | in politics, a friend of the Roman people, a standing short of ally
+amicus2 | 5 | under the emperors, a counsellor or courtier of a prince
+amicus2 | 6 | a patron or powerful protector: amicus magnus, a great man's favour
+amicus2 | 7 | in the feminine, amica, a woman friend, and often a mistress
+amissio | 1 | loss
+amissio | 3 | the losing of a thing: amissio oppidorum, the loss of the towns
+amissio | 4 | loss of a quality or a standing: dignitatis amissio, loss of position
+amita | 1 | father's sister
+amita | 3 | a paternal aunt, as against matertera, the mother's sister
+amita | 4 | amita magna, a grandfather's sister, a great-aunt, with amita major and amita maxima reaching a generation further back each time
+amitto | 1 | lose
+amitto | 3 | to lose by accident or mistake, as against perdere, to lose through one's own fault: filium amittere, to lose a son
+amitto | 4 | to let an opportunity go: occasionem amittere, to miss one's chance
+amitto | 5 | to let go or let slip: praedam de manibus amittere, to let the prey slip from one's hands
+amitto | 6 | in early Latin, to send away or dismiss
+amitto | 7 | of trees, to drop the blossom or seed
+amnis | 1 | river
+amnis | 3 | a broad, deep or fast-running river, a grander word than flumen and mostly poetic: ruunt de montibus amnes, rivers come rushing down from the mountains
+amnis | 4 | the current itself: secundo amni, downstream; adverso amne, upstream
+amnis | 5 | in poetry, the ocean that encircles the earth: Oceani amnis, the ocean stream
+amnis | 6 | of a writer whose style flows like a river
+amo | 1 | love
+amo | 3 | to love a friend, a parent or a child, warmer than diligere, which is esteem: amare aliquem ex animo, to love someone with all one's heart
+amo | 4 | of passionate or unlawful love, to be in love with
+amo | 5 | to like a thing, to be fond of it: amare litteras, to be fond of letters
+amo | 6 | to be obliged to someone, with de or quod: de raudusculo multum te amo, many thanks over that little debt
+amo | 7 | amabo, or amabo te, please, a coaxing word in comedy and in letters: amabo te, advola, do come at once
+amo | 8 | with the infinitive, to be in the habit of doing something, to be given to it
+amo | 9 | amare se, to be pleased with oneself, to be self-satisfied
+amo | 10 | the participle amans as an adjective, fond or affectionate, and as a noun, a lover
+amodo | 1 | henceforth
+amodo | 3 | from this time on, better written as two words, a modo, and found only in Christian Latin: non me videbitis amodo, you will not see me from now on
+amoebaeus | 1 | alternate
+amoebaeus | 3 | of song, sung by two voices in turn: amoebaeum carmen, a responsive song, as in the singing matches of pastoral poetry
+amoebaeus | 4 | in metre, the amoebaean foot, two longs, two shorts and a long
+amoenitas | 1 | delightfulness
+amoenitas | 3 | the charm of a place, its scenery, gardens or river: amoenitas hortorum, the loveliness of the gardens
+amoenitas | 4 | pleasantness in other things, and in later prose of style and manner
+amoenitas | 5 | as an endearment in comedy: mea amoenitas, my delight
+amoenus | 1 | delightful
+amoenus | 3 | of places, charming to look at, of scenery, gardens and streams: amoena virecta, delightful green places
+amoenus | 4 | as a noun in the plural, amoena, beauty spots: per amoena Asiae, through the beauty spots of Asia
+amoenus | 5 | transferred to life, character and style, agreeable
+amoenus | 6 | in reproach, too pretty, showy: cultus amoenior, dress rather too elegant
+amolior | 1 | clear away
+amolior | 3 | to shift something heavy or awkward out of the way: obstantia silvarum amoliri, to clear away the woods that stood in the way
+amolior | 4 | amoliri se, to take oneself off: hinc vos amolimini, clear off out of here
+amolior | 5 | figuratively, to put away or ward off: invidiam ab aliquo amoliri, to turn ill will away from someone
+amolior | 6 | in argument, to dispose of a point, to refute it
+amor | 1 | love
+amor | 3 | love felt for friends and family, warmer than caritas, which is regard: amore aliquem amplecti, to hold someone in affection
+amor | 4 | passionate or sexual love, often in the plural: amore saucia, wounded by love
+amor | 5 | the beloved person: nostri amores, my darling
+amor | 6 | personified, Amor, the god of love, Cupid: omnia vincit Amor, Love conquers all
+amor | 7 | a strong craving for something, with the genitive: amor auri, greed for gold
+amor | 8 | a love-charm
+amoveo | 1 | remove
+amoveo | 3 | to take a thing or a person away from a place: illum ex istis locis amove, get him away from there
+amoveo | 4 | amovere se, to withdraw, to retire: te hinc amove, off with you
+amoveo | 5 | of feelings and abstractions, to put aside: amoto metu, with fear removed; amoto ludo, jesting aside
+amoveo | 6 | politely, to make off with, to steal: boves per dolum amotae, cattle spirited away by a trick
+amoveo | 7 | in Tacitus, to banish to an island
+amphora | 1 | jar
+amphora | 3 | a tall two-handled clay jar for wine, oil or honey, and by extension the wine in it
+amphora | 4 | as a liquid measure, about six and a half gallons
+amphora | 5 | as a measure of a ship's capacity, what tonnage is to us: navis trecentarum amphorarum, a ship of three hundred amphorae
+amplector | 1 | embrace
+amplector | 3 | to wind round and clasp, of arms, snakes or plants: genua amplecti, to clasp someone's knees in entreaty
+amplector | 4 | of space, to enclose or take in: urbes muro amplecti, to ring cities round with a wall
+amplector | 5 | to grasp with the mind, to take in or understand: animo rei magnitudinem amplecti, to take in the size of the thing
+amplector | 6 | in speaking or writing, to cover a subject, and of a term or a law, to include something under it
+amplector | 7 | to embrace in affection, to cherish or make much of: amplecti plebem, to court the common people
+amplexor | 1 | hug
+amplexor | 3 | to embrace warmly, in love or at meeting and parting: amplexari atque osculari, to hug and kiss
+amplexor | 4 | figuratively, to make much of someone or something, to be devoted to it: otium amplexari, to be wedded to a quiet life
+amplexus2 | 1 | embrace
+amplexus2 | 3 | an encircling or clasping, of coils, arms or the sea: serpentis amplexu, in a snake's coils
+amplexus2 | 4 | a loving embrace, usually in the plural: dare amplexus, to take someone in one's arms
+amplexus2 | 5 | as a euphemism, sexual union
+amplificatio | 1 | enlargement
+amplificatio | 3 | an increase or extension of property, honour or renown: amplificatio rei familiaris, the building up of one's estate
+amplificatio | 4 | in rhetoric, amplification, the heightened treatment of a subject
+amplifico | 1 | enlarge
+amplifico | 3 | to make something greater, of wealth, cities or influence: urbem amplificare, to extend the city
+amplifico | 4 | to raise someone in standing: honore et gloria amplificati, raised in honour and renown
+amplifico | 5 | in rhetoric, to dwell on a subject and heighten it: amplificare rem ornando, to magnify a matter by dressing it up
+amplio | 1 | enlarge
+amplio | 2 | adjourn
+amplio | 3 | to make a thing wider or larger: rem ampliare, to increase one's estate
+amplio | 4 | figuratively, to add to a name or a reputation, to ennoble it
+amplio | 5 | as a legal term, to put off the verdict for further inquiry, the jury answering amplius, the case is not yet clear: bis ampliatus reus tertio absolutus est, twice remanded, the defendant was acquitted at the third hearing
+amplitudo | 1 | size
+amplitudo | 2 | dignity
+amplitudo | 3 | the extent or bulk of a thing: amplitudo urbis, the size of the city
+amplitudo | 4 | greatness of a quality, with the genitive: amplitudo animi, greatness of mind
+amplitudo | 5 | standing and consequence in public life, a broader word than dignitas
+amplitudo | 6 | in rhetoric, fullness and weight of expression
+amplus | 1 | large
+amplus | 2 | distinguished
+amplus | 3 | of space, roomy and spacious: ampla domus, a large house
+amplus | 4 | of quantity, abundant, plentiful: amplae copiae, ample forces
+amplus | 5 | splendid or handsome, of rewards and honours: ampla praemia, generous rewards
+amplus | 6 | held in high regard, and in the superlative amplissimus a title of respect for consuls, senators and their orders: vir amplissimus, a most honourable gentleman
+amplus | 7 | of an orator, speaking richly and with dignity
+amplus | 8 | the comparative amplius serves as an adverb, more, further, any longer: nihil dico amplius, I say no more
+amplus | 9 | amplius with numerals, more than, leaving the case of the numeral unchanged: amplius annos triginta, more than thirty years
+amplus | 10 | in court, amplius, the case is not yet clear, said by jurors putting off the verdict; and in the senate, hoc amplius censeo, my motion goes further than that
+ampulla | 1 | flask
+ampulla | 2 | bombast
+ampulla | 3 | a swelling two-handled bottle for oil or other liquids, sometimes made of leather
+ampulla | 4 | figuratively of inflated language: proicit ampullas et sesquipedalia verba, he throws over the bombast and the foot-and-a-half-long words
+amputo | 1 | prune
+amputo | 3 | to cut round and lop off, chiefly of vines and trees: vitem ferro amputare, to prune the vine with the knife
+amputo | 4 | to cut off a limb or an extremity
+amputo | 5 | figuratively, to cut back or curtail: amputata inanitas, empty talk cut away
+amussis | 1 | straightedge
+amussis | 3 | a carpenter's or mason's rule for testing a flat surface
+amussis | 4 | in classical Latin only in the adverbial phrases ad amussim and examussim, by the rule, that is to say exactly: ad amussim aequiparare, to match to a hair
+an1 | 1 | or
+an1 | 2 | whether
+an1 | 3 | in a double question, introducing the second half, with utrum or -ne in the first: utrum crudum an coctum edim, whether I eat it raw or cooked
+an1 | 4 | where the first half is left to be supplied, or rather, or can it be that: an tu esse me tristem putas, or do you really think me downcast?
+an1 | 5 | an non, written annon, or not: isne est quem quaero an non, is he the man I want or not?
+an1 | 6 | after verbs of doubting and asking, whether: quaesivi an misisset, I asked whether he had sent them
+an1 | 7 | haud scio an and nescio an lean towards the clause after an, so they mean I rather think, very likely: haud scio an ita sit, I am inclined to think it is so
+an1 | 8 | anne is a fuller form of the same word
+anancites | 1 | diamond
+anancites | 3 | a name given to the diamond as a stone that drives away fear and gloom, recorded once by Pliny
+anas1 | 1 | duck
+anas1 | 3 | the duck, wild or kept on the farm: greges anatum, flocks of ducks
+anceps | 1 | doubtful
+anceps | 2 | double
+anceps | 3 | literally two-headed, and of a mountain with two peaks: anceps Janus, two-faced Janus
+anceps | 4 | facing or working two ways at once: anceps proelium, a battle fought on two fronts
+anceps | 5 | undecided, of uncertain outcome: anceps fortuna belli, the doubtful fortune of war
+anceps | 6 | dangerous, critical, a favourite word of Tacitus: anceps periculum, a hazardous risk
+ancile | 1 | sacred shield
+ancile | 3 | the small figure-of-eight shield said to have fallen from heaven in Numa's reign, on which the safety of Rome was held to depend
+ancile | 4 | eleven copies were made so that the true one could not be picked out and stolen; the Salii kept them in the temple of Mars and paraded them each March: ancilia movere, to bring out the shields; ancilia condere, to put them away again
+ancilla | 1 | maidservant
+ancilla | 3 | a female slave, the everyday feminine of servus
+ancilla | 4 | as a term of abuse, of someone slavishly devoted to something
+ancillor | 1 | serve
+ancillor | 3 | to act as a maidservant, and so to dance attendance on someone: uxoribus ancillantur, they wait on their wives hand and foot
+ancillula | 1 | little maidservant
+ancillula | 3 | a young slave girl, a double diminutive of ancilla
+ancillula | 4 | figuratively of one branch of knowledge made the handmaid of another: juris scientiam eloquentiae ancillulam adjungere, to attach legal knowledge to oratory as its handmaid
+anclo | 1 | serve
+anclo | 3 | an old word for ministrare, to wait on or serve out, used of the meat and wine at a libation and found only in Livius Andronicus
+andabata | 1 | blindfolded gladiator
+andabata | 3 | a gladiator whose helmet had no eye-holes, so that he fought blind for the crowd's amusement: more andabatarum, in the manner of the blindfold gladiators
+anfractus1 | 1 | winding
+anfractus1 | 3 | of roads and spaces, bending and curving: spatia anfracta, winding stretches
+anfractus1 | 4 | as a noun, anfractum, a bend or curve, an early form of the classical anfractus
+anfractus2 | 1 | bend
+anfractus2 | 3 | a curve or turning, of a road, a coast or a shape: nihil incisum anfractibus, nothing broken up by curves
+anfractus2 | 4 | the circling course of the sun
+anfractus2 | 5 | of speech, a roundabout way of putting a thing: quid opus est circuitione et anfractu, what need is there to go all round about?
+angario | 1 | compel
+angario | 3 | in law, to exact transport service or forced labour from someone
+angario | 4 | in Christian Latin, to press a man into service: quicumque te angariaverit mille passus, whoever compels you to go a mile
+angina | 1 | quinsy
+angina | 3 | a disease that closes the throat and chokes, quinsy
+angina | 4 | figuratively, angina mentis, a choking of the mind, distress
+angiportus | 1 | alley
+angiportus | 3 | a narrow street or lane between the houses: viae omnes angiportusque, every street and alley
+ango | 1 | distress
+ango | 2 | throttle
+ango | 3 | literally to press together and squeeze the throat, an old use for which prose prefers suffocare; also of plants choking one another
+ango | 4 | of the mind, to torment or vex: cura angit hominem, worry torments a man
+ango | 5 | in the passive, angi, to be distressed, with the ablative or genitive of respect: angor animo, I am sick at heart
+angor | 1 | anguish
+angor | 3 | a choking or tightening of the throat: occupat fauces angor, a choking seizes their throats
+angor | 4 | anguish felt at a given moment, as against anxietas, which is a settled state of mind
+anguilla | 1 | eel
+anguilla | 3 | proverbially of a slippery character: anguilla est, elabitur, he is an eel, he slips through your fingers
+anguilla | 4 | a whip made of eelskin, used on schoolboys
+anguinus | 1 | snaky
+anguinus | 3 | belonging to a snake or made of snakes: anguinus capillus, the snaky hair of the Furies
+anguinus | 4 | of things marked or shaped like a snake: cucumis anguinus, the snake cucumber
+anguis | 1 | snake
+anguis | 3 | a snake or serpent of any kind, and in poetry the snakes of Medusa's head and of Tisiphone's girdle
+anguis | 4 | as a constellation, the Dragon coiled between the Bears, and also the Hydra
+anguis | 5 | proverbially: latet anguis in herba, there is a snake in the grass, of a danger not yet seen
+angularis | 1 | angular
+angularis | 3 | having corners or angles: lapis angularis, a squared stone, and in the Bible the corner-stone
+angulus | 1 | corner
+angulus | 2 | angle
+angulus | 3 | in mathematics, an angle: angulus acutus, an acute angle
+angulus | 4 | the corner of an object or a place: extremus angulus, the far corner
+angulus | 5 | an out-of-the-way spot, a nook: in angulum abire, to retire into a corner
+angulus | 6 | a bay or inlet of the sea
+angustiae | 1 | narrows
+angustiae | 2 | straits
+angustiae | 3 | a narrow place, a mountain pass or a strait of sea: Corinthus posita in angustiis, Corinth set in the narrows of Greece
+angustiae | 4 | of time, shortness: temporis angustiae, want of time
+angustiae | 5 | of money and supplies, scarcity: angustiae aerarii, a shortage in the treasury
+angustiae | 6 | difficulty or distress in one's affairs: in summas angustias adduci, to be driven into the tightest corner
+angustiae | 7 | narrowness of mind or feeling: angustiae pectoris tui, the smallness of your heart
+angustiae | 8 | of argument, hair-splitting over small points
+angusto | 1 | narrow
+angusto | 3 | to make a thing narrow or close it in: puteus ore angustatur, the well narrows at the mouth
+angusto | 4 | of a mass of bodies, to hem in and block a passage
+angustus | 1 | narrow
+angustus | 3 | of places and openings, cramped and close: fauces portus angustissimae, the very narrow mouth of the harbour
+angustus | 4 | in angustum deducere or cogere, to hem something in, and of the passions, to keep them in check
+angustus | 5 | of time, short: angustus dies, a short day
+angustus | 6 | of means, scanty, pinching: res angusta domi, straitened means at home
+angustus | 7 | of circumstances, critical: res est in angusto, matters stand on a knife edge
+angustus | 8 | of character, small-minded and mean: animus angustus, a narrow mind
+angustus | 9 | of style, plain and compressed; and the adverb anguste, briefly, barely
+anhelatio | 1 | panting
+anhelatio | 3 | shortness of breath, and as a disease, asthma
+anhelatio | 4 | of other things, a breathing or play: caelestis arcus anhelatio, the play of the rainbow in a gem
+anhelitus | 1 | panting
+anhelitus | 2 | breath
+anhelitus | 3 | hard breathing after exertion: anhelitum ducere, to gasp for breath
+anhelitus | 4 | the breath itself, and what it smells of: vini anhelitus, breath reeking of wine
+anhelitus | 5 | of the earth, an exhalation or vapour, thought to inspire those who prophesied
+anhelo | 1 | pant
+anhelo | 3 | to draw the breath hard, to gasp for want of air
+anhelo | 4 | of fire, sea and earth, to roar or heave: fornacibus ignis anhelat, the fire roars in the furnaces
+anhelo | 5 | with an object, to breathe out: frigus anhelans, breathing out cold
+anhelus | 1 | panting
+anhelus | 3 | out of breath, gasping, a word of the poets: anheli equi, panting horses
+anhelus | 4 | of things that leave one gasping: anhela febris, a fever that takes the breath away; anhela tussis, a racking cough
+anicula | 1 | old woman
+anicula | 3 | a little old woman, often with a hint of contempt: haec ne aniculae quidem existimant, not even old women believe that
+anilis | 1 | old-womanish
+anilis | 3 | belonging to an old woman: anilis vultus, an old woman's face
+anilis | 4 | contemptuously, like an old woman, credulous and silly: anilis superstitio, an old wives' superstition
+anima | 1 | breath
+anima | 2 | life
+anima | 3 | air on the move, a breeze or the blast of the wind: impellunt animae lintea, the winds drive the sails along
+anima | 4 | the air breathed in and out: animam continere, to hold one's breath
+anima | 5 | the breath of life, the animal principle, as against animus the reasoning mind: animus est quo sapimus, anima qua vivimus, the animus is what we think with, the anima what we live by
+anima | 6 | life itself: animam edere, to breathe one's last
+anima | 7 | a living creature, and in the plural souls, of people counted or of the dead
+anima | 8 | as a word of affection: animae dimidium meae, the half of my own soul
+anima | 9 | in Christian Latin, the soul as the seat of thought and feeling: tristis est anima mea, my soul is sorrowful
+animadversio | 1 | observation
+animadversio | 2 | punishment
+animadversio | 3 | the noticing and considering of a thing: notatio naturae et animadversio, the marking and observing of nature
+animadversio | 4 | censure or reproach
+animadversio | 5 | chastisement, and especially judicial punishment: animadversio in audaces servos, the punishment of insolent slaves
+animadverto | 1 | notice
+animadverto | 2 | punish
+animadverto | 3 | to turn the mind to a thing, to attend to it: animadvertendum est diligenter, careful attention must be paid
+animadverto | 4 | to remark or perceive, the commonest sense, with an accusative, an accusative and infinitive, or an indirect question: animadvertis horum silentium, you notice how silent these men are
+animadverto | 5 | in a fuller sense, to grasp or understand something
+animadverto | 6 | to take note of a wrong and so to punish it, with in and the accusative: animadvertere in aliquem, to punish someone, at times to put him to death
+animal | 1 | animal
+animal | 3 | any living creature, man included, as against what is without life
+animal | 4 | in a narrower sense, a beast as opposed to a man
+animalis | 1 | living
+animalis | 2 | airy
+animalis | 3 | made of air, air being counted one of the four elements
+animalis | 4 | animate, endowed with life: corpora animalia, living bodies
+animalis | 5 | in sacrifice, hostia animalis, a victim of which only the life is offered to the god, the flesh going to the priests
+animo | 1 | animate
+animo | 3 | to fill with breath or air, to blow into: duas tibias uno spiritu animare, to blow two pipes with one breath
+animo | 4 | to quicken, to give life to
+animo | 5 | to put someone into a frame of mind, and in the participle animatus, disposed or minded in some way: bene animatus, well disposed
+animo | 6 | animatus also means full of spirit, courageous
+animo | 7 | in Ovid, to turn a lifeless thing into a living one: guttas animavit in angues, he turned the drops into snakes
+animo | 8 | the participle animans as a noun, a living creature
+animositas | 1 | boldness
+animositas | 2 | wrath
+animositas | 3 | spirit and courage in facing a thing: animositas resistendi, the spirit to hold out
+animositas | 4 | vehemence, impetuosity
+animositas | 5 | in Christian Latin, anger or ill will
+animosus1 | 1 | airy
+animosus1 | 3 | full of air, through which the breath passes: animosa guttura, throats that draw breath
+animosus1 | 4 | of wind, blowing hard: animosus Eurus, the blustering east wind
+animosus1 | 5 | of works of art, full of life: animosa signa, statues that seem to breathe
+animosus2 | 1 | spirited
+animosus2 | 2 | proud
+animosus2 | 3 | full of courage, undaunted: fortes et animosos amamus, we love the brave and the spirited
+animosus2 | 4 | proud of something, with the ablative: animosus spoliis, proud of the spoils
+animosus2 | 5 | of a buyer or a briber, stopping at no expense: emptor animosus, a bidder who spares no cost
+animus | 1 | mind
+animus | 2 | courage
+animus | 3 | the reasoning soul in a man, set against the body on one side and against anima, the mere breath of life, on the other
+animus | 4 | the mind as it thinks, the intellect: cogito cum meo animo, I turn it over in my mind
+animus | 5 | the heart as the seat of feeling: animum offendere, to hurt someone's feelings
+animus | 6 | disposition or character: quo animo in nos sis, how you are disposed towards us
+animus | 7 | spirit and courage: nostris animus additus est, our men took heart; redit animus, courage comes back
+animus | 8 | in a bad sense, pride and arrogance, and in the plural anger or violent passion: animum rege, keep your temper in hand
+animus | 9 | in fixed phrases: aequo animo, with an even mind, patiently; animi causa, for amusement
+animus | 10 | the will or intention: in animo habere, to have it in mind to do something
+annalis | 1 | annual
+annalis | 2 | chronicle
+annalis | 3 | running through or lasting a year: annale tempus, the space of a year
+annalis | 4 | to do with age: lex annalis, the law fixing the age required for each office of state
+annalis | 5 | as a noun in the plural, annales, the year-by-year record of events kept by the pontifex maximus and set up on a tablet at his house
+annalis | 6 | more widely, annals or history: annales priorum temporum, the records of earlier times
+annato | 1 | swim to
+annato | 3 | to swim towards something, also with ad: ad manum hominis adnatare, to swim up to a man's hand
+annato | 4 | to swim along beside: comes lateri adnatat, it swims at his side like a companion
+annato | 5 | better spelt adnato
+annecto | 1 | attach
+annecto | 3 | to tie one thing on to another: scapham adnexam trahere, to tow a boat made fast behind
+annecto | 4 | figuratively, to link one thing to another in thought or in speech: rebus praesentibus futuras adnectere, to tie the future on to the present
+annecto | 5 | better spelt adnecto
+anniculus | 1 | year-old
+anniculus | 3 | a year old, of animals and of anything kept a year: agnus anniculus, a yearling lamb
+anniculus | 4 | as a noun, a yearling
+annitor | 1 | strive
+annitor | 3 | literally, to lean or press against something: stant longis adnixi hastis, they stand propped on their long spears
+annitor | 4 | to take pains over a thing, with ut or ne: omni ope adniti ut, to strain every nerve to
+annitor | 5 | better spelt adnitor
+anniversarius | 1 | annual
+anniversarius | 3 | coming round every year: sacra anniversaria, yearly rites
+anno1 | 1 | swim to
+anno1 | 3 | to swim towards, with the dative, with ad, or with the accusative: terrae adnare, to swim ashore
+anno1 | 4 | to swim alongside: pedites adnantes equis, foot-soldiers swimming beside the horses
+anno1 | 5 | better spelt adno
+annona | 1 | grain supply
+annona | 2 | price
+annona | 3 | the year's produce of anything: annona lactis, the year's yield of milk
+annona | 4 | the corn supply of the city, and its plenty or scarcity: annonae caritas, dearness of corn
+annona | 5 | the price of grain, and so of food in general: annona est gravis, prices are high
+annona | 6 | figuratively, the market in something: vilis amicorum est annona, friendship is cheap in the market
+annona | 7 | in military use, rations, a soldier's allowance of food
+annosus | 1 | aged
+annosus | 3 | full of years, of old men, trees and wine: annosa robora, oaks of many years
+annotatio | 1 | note
+annotatio | 3 | a remark written against a passage, an annotation
+annotatio | 4 | in law, the entering of a person's name among the accused, and an emperor's rescript signed in his own hand
+annotatio | 5 | better spelt adnotatio
+annoto | 1 | note
+annoto | 3 | to write a note against something, to comment on it: adnotare quaedam ut tumida, to mark certain passages as overblown
+annoto | 4 | to observe or take notice of a thing
+annoto | 5 | in law, to enter an absent man among the accused, or mark a condemned man out for punishment
+annoto | 6 | better spelt adnoto
+annumero | 1 | count
+annumero | 2 | include
+annumero | 3 | to count money out to someone, and so to pay it: mihi talentum argenti adnumerat, he counts out a talent of silver to me
+annumero | 4 | to reckon a person or thing in with others, with the dative, in or inter: in grege adnumeror, I am counted one of the crowd
+annumero | 5 | better spelt adnumero
+annuntio | 1 | announce
+annuntio | 3 | to make a thing known, to report it: adnuntiare veritatem, to declare the truth
+annuntio | 4 | in Christian Latin, to preach: adnuntia regnum Dei, preach the kingdom of God
+annuntio | 5 | better spelt adnuntio
+annuo | 1 | nod
+annuo | 2 | grant
+annuo | 3 | to nod, as a signal: simul ac adnuisset, at his first nod
+annuo | 4 | to nod assent, to agree to something, the opposite of abnuo
+annuo | 5 | in poetry, to grant a thing to someone: caeli quibus adnuis arcem, those to whom you grant the heights of heaven
+annuo | 6 | to point a person or thing out by a nod, a wink or a movement of the hand: adnuens manu ut tacerent, motioning with his hand for silence
+annuo | 7 | better spelt adnuo
+annus | 1 | year
+annus | 3 | the year thought of as a circuit of time, from midwinter round to midwinter
+annus | 4 | in adverbial phrases: anno, a year ago, or in each year; annum, for a year together; ad annum, a year hence; in annum, for the coming year; per annos, year by year
+annus | 5 | a season of the year: formosissimus annus, the loveliest time of the year
+annus | 6 | the produce of the year: agricolae annum flevere, the farmers wept for their harvest
+annus | 7 | the years of a life: dum rugis integer annus, while your years are still free of wrinkles
+annus | 8 | in public life, the age at which a man may hold an office: anno meo, in my own year, at the earliest age the law allowed
+annus | 9 | annus magnus, the great year in which the constellations come back to their places
+annuus | 1 | yearly
+annuus | 3 | lasting a year: magistratus annuus, an office held for a year
+annuus | 4 | coming round every year: annuae commutationes, the yearly turn of the seasons
+annuus | 5 | as a noun, annua, a yearly allowance or pension
+anquiro | 1 | investigate
+anquiro | 3 | to look about on all sides for a person or thing
+anquiro | 4 | to inquire into a matter, to weigh it up: anquirunt conducat id necne, they inquire whether it pays or not
+anquiro | 5 | in law, to hold a formal inquiry: de morte alicujus anquirere, to hold an inquest into someone's death
+anquiro | 6 | to bring a charge, with the penalty sought in the ablative or genitive: capite anquirere, to prosecute on a capital charge
+ansa | 1 | handle
+ansa | 2 | opportunity
+ansa | 3 | the handle of a jar or a door, the loop on a sandal, the tiller of a rudder
+ansa | 4 | in building, the cramp-iron that holds stones together
+ansa | 5 | figuratively, a handle given to someone, an opening: ansas sermonis dare, to give people an opening for talk
+ansatus | 1 | with handles
+ansatus | 3 | fitted with a handle: vas ansatum, a jar with handles
+ansatus | 4 | of a javelin, fitted with its throwing-loop
+ansatus | 5 | in comedy, homo ansatus, a man with handles, that is with his arms akimbo
+anser1 | 1 | goose
+anser1 | 3 | the goose, sacred to Juno and held in honour at Rome for having roused the guard when the Gauls climbed the Capitol
+anser1 | 4 | anser Amyclaeus, the swan
+ante | 1 | before
+ante | 3 | as a preposition with the accusative, of place: ante ostium, in front of the door
+ante | 4 | of time: ante lucem, before daylight; ante me, before my day
+ante | 5 | of precedence: ante alios, above the rest
+ante | 6 | ante omnia, first of all, and also above all else
+ante | 7 | as an adverb, in front, or of time previously, always looking back from another past moment: multo ante, long before
+ante | 8 | ante quam, often written antequam, before, with the indicative of plain fact and the subjunctive of what is expected or intended
+ante | 9 | in dates, ante diem with an ordinal counts back to the named day: ante diem quintum Kalendas Apriles, the fifth day before the first of April
+ante | 10 | ante tempus, too early; ante diem, before one's time, of an untimely death
+antea | 1 | previously
+antea | 3 | before some point already fixed, often set against postea: et antea fuerant nec postea defecerunt, they had been there before and did not fail afterwards
+antea | 4 | to be distinguished from antehac, which looks back from the present moment
+antecapio | 1 | take beforehand
+antecapio | 3 | to get hold of something in advance, to secure it first: pontem antecapere, to seize the bridge first
+antecapio | 4 | to take a thing before its time: noctem antecapere, to be beforehand with the night
+antecapio | 5 | in philosophy, anteceptum animo, an idea held in the mind before any teaching, the prolepsis of Epicurus
+antecedo | 1 | precede
+antecedo | 2 | surpass
+antecedo | 3 | to go on ahead, with the dative, the accusative or alone: magnis itineribus antecessit, he went on ahead by forced marches
+antecedo | 4 | of time, to come first: exercitatio cibum antecedere debet, exercise ought to come before food
+antecedo | 5 | to be ahead of someone in worth, with an ablative of respect: scientia ceteros antecedunt, they surpass the rest in knowledge
+antecedo | 6 | the participle antecedens as a noun, in philosophy the antecedent, set against the consequent
+antecedo | 7 | in antecessum dare, to pay in advance
+antecello | 1 | excel
+antecello | 3 | to stand out above others, with the dative or accusative and an ablative of respect: omnibus terris antecellere, to surpass every land
+antecello | 4 | used alone, to be distinguished: humanitate antecellens, outstanding for his kindness
+antecello | 5 | a favourite word of Cicero, with no perfect or supine in use
+antecessio | 1 | antecedent
+antecessio | 3 | a going before, of the forward movement of the planets: conversiones antecessionesque, their turnings and advances
+antecessio | 4 | that which goes before, the antecedent cause as against the final cause
+antecessor | 1 | predecessor
+antecessor | 3 | one who goes before, and in the plural the troops sent ahead: speculatores et antecessores, scouts and advance guard
+antecessor | 4 | a predecessor in an office, the opposite of successor
+antecessor | 5 | in the later law schools, a professor of law
+antecursor | 1 | forerunner
+antecursor | 3 | in the plural, antecursores, the men sent on in front of an army, the advance guard and pioneers
+anteeo | 1 | precede
+anteeo | 3 | to go in front, with the dative, the accusative or alone: praetoribus anteire, to walk before the praetors
+anteeo | 4 | to be ahead of someone, to surpass: aliquem sapientia anteire, to outdo someone in wisdom
+anteeo | 5 | to get in first and so prevent a thing: damnationem anteiit, he forestalled his condemnation
+anteeo | 6 | in Tacitus, to set oneself against: auctoritati parentis anteire, to resist a father's authority
+antefero | 1 | prefer
+antefero | 3 | to carry a thing in front: ut legum latarum tituli anteferrentur, that the titles of the laws passed should be carried in front
+antefero | 4 | to rank one person or thing above another: omnibus unum Demosthenem anteferre, to set Demosthenes alone above them all
+antefero | 5 | to reckon with something in advance: consilio anteferre, to think it out beforehand
+antefixus | 1 | nailed on
+antefixus | 3 | fastened up in front of something: truncis arborum antefixa ora, heads nailed to the trunks of trees
+antefixus | 4 | as a noun in the plural, antefixa, the clay ornaments fixed along the eaves of a roof: antefixa fictilia deorum Romanorum, the terracotta images of the Roman gods
+antehac | 1 | formerly
+antehac | 3 | before this present moment, as against antea, which looks back from some other point: quod antehac imperitabam, what I used to command in the past
+antelucanus | 1 | predawn
+antelucanus | 3 | happening before daylight: antelucana industria, work done before dawn
+antelucanus | 4 | of a dinner that runs on until daybreak: cenae antelucanae, all-night dinners
+antenna | 1 | yardarm
+antenna | 3 | the yard set across a mast to carry the sail: antemnae gemunt, the yards groan
+antenna | 4 | also spelt antemna
+antepono | 1 | prefer
+antepono | 3 | to set one thing in front of another: propugnacula anteposita, defences thrown up in front
+antepono | 4 | in comedy, to set food before someone: prandium pransoribus anteponere, to serve the lunchers their lunch
+antepono | 5 | to give one thing the preference over another, with the accusative and dative: amicitiam omnibus rebus humanis anteponere, to put friendship before everything else in life
+antesignanus | 1 | front-line soldier
+antesignanus | 2 | leader
+antesignanus | 3 | one of the picked men who fought in front of the standards and guarded them
+antesignanus | 4 | figuratively, a leader or ringleader: antesignanus in acie Pharsalica, the front man at the battle of Pharsalus
+antesto | 1 | excel
+antesto | 3 | to stand out above others, with the dative or accusative: brassica omnibus holeribus antistat, cabbage beats every other vegetable
+antesto | 4 | used alone, to be outstanding: quanto antestaret eloquentia innocentiae, how far eloquence stood above honesty
+antesto | 5 | also spelt antisto
+# review: antestor the sense is to call a bystander as witness at the opening of a suit; English has no verb for it
+antestor | 1 | call to witness
+antestor | 3 | a term of legal procedure: before hauling an opponent to court a man asked a bystander licet antestari, may I call you to witness?
+antestor | 4 | the man asked agreed by offering the tip of his ear to be touched: oppono auriculam, I hold out my ear
+antevenio | 1 | forestall
+antevenio | 2 | surpass
+antevenio | 3 | to get there first, to arrive ahead of someone: exercitum antevenire, to get in front of the army
+antevenio | 4 | to thwart a plan by being beforehand: consilia et insidias antevenire, to forestall plots and ambushes
+antevenio | 5 | to go beyond, to outdo: per virtutem nobilitatem antevenire, to outdo noble birth by merit
+anteverto | 1 | forestall
+anteverto | 2 | precede
+anteverto | 3 | to put oneself in front, to go on ahead: stella antevertens, the planet running ahead
+anteverto | 4 | to be beforehand with someone or something: damnationem veneno antevertere, to forestall condemnation by poison
+anteverto | 5 | to give a thing precedence over others: omnibus consiliis antevertendum, this must come before every other plan
+anticipatio | 1 | preconception
+anticipatio | 3 | in Cicero, the notion of a thing formed in the mind before any teaching, the Greek prolepsis: anticipatio deorum, the inborn idea of gods
+anticipatio | 4 | in rhetoric, anticipation, meeting an objection before it is raised
+anticipo | 1 | anticipate
+anticipo | 3 | to take or do a thing before its time: vigilias anticipare, to be awake ahead of the watches
+anticipo | 4 | in the participle, known in advance, inborn: anticipatum mentibus nostris, already fixed in our minds
+anticipo | 5 | rarely, to outdo someone
+antiquarius | 1 | antiquarian
+antiquarius | 3 | fond of old things, and as a noun an antiquary: nec quemquam adeo antiquarium puto, I do not think anyone so devoted to the old
+antiquarius | 4 | in later Latin, a copyist of old manuscripts
+antiquitas | 1 | antiquity
+antiquitas | 3 | the age or oldness of a thing: antiquitas generis, the ancientness of a family
+antiquitas | 4 | ancient times, and the events and history belonging to them: tenenda est omnis antiquitas, the whole of ancient history must be at your fingertips
+antiquitas | 5 | the men of old: errabat multis in rebus antiquitas, the ancients went wrong on many points
+antiquitas | 6 | with a moral colouring, the honesty of the good old days
+antiquo | 1 | reject
+antiquo | 3 | the term of public life for throwing out a proposed law and so leaving matters as they stood: legem antiquare, to vote a bill down
+antiquo | 4 | in Christian Latin, to make a thing old: quod antiquatur prope interitum est, what is made old is near its end
+antiquus | 1 | ancient
+antiquus | 2 | former
+antiquus | 3 | belonging to an earlier time, as against novus, what did not exist before, and vetus, what has lasted long
+antiquus | 4 | as a noun, antiqui, the ancients, and especially the older writers
+antiquus | 5 | in the comparative and superlative, taking first place, of more weight: antiquior, more important
+antiquus | 6 | old-fashioned in the good sense, plain and honest: antiquis moribus, of the old school
+antiquus | 7 | venerable, time-honoured: terra antiqua potens armis, an ancient land strong in arms
+antiquus | 8 | the adverb antiquitus, in old times and from old times; and antique, in the old style
+antistes | 1 | high priest
+antistes | 2 | master
+antistes | 3 | an overseer or president of anything: vindemiatorum antistes, the foreman of the grape-pickers
+antistes | 4 | the overseer of a temple, a chief priest, and in Christian writers a bishop: antistes sacrorum, the priest in charge of the rites
+antistes | 5 | in the feminine, antistes or antistita, a chief priestess: Cybeles antistita, priestess of Cybele
+antistes | 6 | figuratively, a master of an art or a study: artis dicendi antistes, a high priest of the art of speaking
+anularius | 1 | of rings
+anularius | 3 | belonging to a signet-ring: creta anularia, the chalk ring-makers used
+anularius | 4 | as a noun, a ring-maker
+anularius | 5 | Scalae anulariae, the Ring-makers' Stairs, a place in Rome
+anulus1 | 1 | ring
+anulus1 | 3 | a finger-ring, and especially a seal-ring: sigilla anulo imprimere, to stamp the seal with one's ring
+anulus1 | 4 | the gold ring that marked a knight's rank: anulum invenit, he got his ring, that is he was made a knight; jus anulorum, the right to wear it
+anulus1 | 5 | anything ring-shaped: a curtain ring, a link of a chain, a fetter, a ringlet of hair, or the moulding on a Doric capital
+anus3 | 1 | old woman
+anus3 | 3 | an old woman, married or single, and often with a touch of contempt
+anus3 | 4 | used as an adjective, aged: anus matronae, elderly matrons
+anxietas | 1 | anxiety
+anxietas | 3 | anxiety as a settled state of mind, as against angor, which is the anguish of a moment
+anxietas | 4 | anxious carefulness over something: quaerendi judicandi comparandi anxietas, painstaking anxiety in research, judgement and comparison
+anxius | 1 | anxious
+anxius | 3 | troubled and uneasy as a lasting frame of mind, with a genitive, an ablative, de, or ne and an indirect question: anxius ne bellum oriatur, uneasy in case war breaks out
+anxius | 4 | in an active sense, of the things that cause the worry: anxiae curae, harassing cares
+anxius | 5 | of work, done with anxious care: elegantia neque morosa neque anxia, an elegance neither fussy nor laboured
+anxius | 6 | the adverb anxie, anxiously
+aper1 | 1 | boar
+aper1 | 3 | the wild boar, the great quarry of the hunt: aper Erymanthius, the Erymanthian boar
+aper1 | 4 | proverbially: uno saltu duos apros capere, to take two boars at one leap, our two birds with one stone; apros immittere fontibus, to let boars into clear springs, of a senseless act
+aper1 | 5 | the boar as a standard of the legions, and a fish of the same name
+aperio | 1 | open
+aperio | 2 | reveal
+aperio | 3 | to uncover or lay bare: caput aperire, to bare the head
+aperio | 4 | to unclose a door, a letter or a will: fores aperire, to open the doors; epistulam aperire, to break open a letter
+aperio | 5 | to open up a country and make it accessible: novas gentes aperire, to open up new peoples
+aperio | 6 | to disclose what was hidden, to make it plain: conjurationem aperire, to lay bare the plot
+aperio | 7 | to open the way to something: ventus incendio viam aperuit, the wind opened a path for the fire; occasionem aperire, to give an opening
+aperio | 8 | the participle apertus, uncovered or unclosed: naves apertae, ships without a deck; caelum apertum, a clear sky
+aperio | 9 | apertus also, plain and evident, and of a person frank and open: in aperto esse, to be plain to see, or to be easy to do
+aperio | 10 | the adverb aperte, openly and plainly: aperte mentiri, to lie barefaced
