@@ -3965,3 +3965,226 @@ augesco | 1 | grow
 augesco | 3 | to begin to grow, to increase steadily
 augmen | 1 | growth
 augmen | 3 | an increase or enlargement, a word of early and late Latin: corporis augmen, the body's growth
+augmentum | 1 | growth
+augmentum | 3 | an increase or enlargement, mostly a later word: augmentum lunae, the waxing of the moon
+augmentum | 4 | in religion, a kind of sacrificial cake
+augur | 1 | augur
+augur | 3 | at Rome, a member of the priestly college who read the future from lightning and from the flight and cries of birds
+augur | 4 | more widely, any seer or diviner: augur Apollo, Apollo the prophet
+auguralis | 1 | of augurs
+auguralis | 3 | belonging to augury: augurales libri, the books of the augurs
+auguralis | 4 | as a noun, augurale, the place in a Roman camp where the general took the auspices, and so the headquarters tent
+augurium | 1 | augury
+augurium | 3 | the taking and reading of omens: augurium agere, to take the auguries
+augurium | 4 | any kind of divination or prophecy: auguria rerum futurarum, forecasts of what is to come
+augurium | 5 | a sign or token in itself: augurium mellis, a sign of honey to come
+augurium | 6 | the augur's art: Apollo augurium dabat, Apollo bestowed the gift of augury
+auguror | 1 | prophesy
+auguror | 3 | to take the auspices and read them, to act as augur
+auguror | 4 | to foretell or forebode something: mortem alicui augurari, to foretell someone's death
+auguror | 5 | of one's own mind, to guess or surmise: hoc conjectura auguror, this is my guess at it
+augustus1 | 1 | majestic
+augustus1 | 3 | venerable and worthy of honour, often paired with sanctus
+aurarius1 | 1 | of gold
+aurarius1 | 3 | belonging to gold: aurariae metallae, gold mines; fornax auraria, a furnace for smelting gold
+aurarius1 | 4 | as a noun, a goldsmith; and auraria, a gold mine
+aureolus | 1 | golden
+aureolus | 2 | charming
+aureolus | 3 | made of gold, of small things: anellus aureolus, a little gold ring
+aureolus | 4 | gilded, or gold in colour
+aureolus | 5 | figuratively, exquisite and worth treasuring: aureolus libellus, a little gem of a book
+aureus | 1 | golden
+aureus | 3 | made of gold: patera aurea, a gold bowl
+aureus | 4 | fitted or worked with gold, gilded: sella aurea, a gilded chair
+aureus | 5 | of the colour or gleam of gold: barbae color aureus, a golden beard
+aureus | 6 | figuratively, lovely and splendid: aurea Venus, golden Venus; aurea mediocritas, the golden mean
+auricula | 1 | earlobe
+auricula | 3 | the outer ear, as against auris, the ear as the organ of hearing: prendere auriculis, to take someone by the ears
+auricula | 4 | more loosely, the ear itself: avidum auricularum, itching for news
+aurifer | 1 | gold-bearing
+aurifer | 3 | producing or containing gold: amnis aurifer, a river that carries gold down
+auriga | 1 | charioteer
+auriga | 3 | a driver, and especially a racing driver in the circus
+auriga | 4 | Auriga, the Wagoner, a constellation
+auriga | 5 | in the poets, a helmsman; and figuratively, whatever guides or directs
+aurigo | 1 | drive
+aurigo | 3 | to drive a chariot, and especially to race one
+aurigo | 4 | figuratively, to guide or direct something
+auris | 1 | ear
+auris | 3 | the ear as the organ of hearing, as against auricula, the outer ear
+auris | 4 | the ear as the judge of what sounds well: aures teretes et religiosae, ears fine and exacting
+auris | 5 | in the plural, hearers or an audience: plures admovere aures, to draw a bigger audience
+auris | 6 | from its shape, the mould-board of a plough, which turns the furrow over
+auritus | 1 | long-eared
+auritus | 3 | having large ears: lepores auriti, long-eared hares
+auritus | 4 | figuratively, all ears and listening hard: auritus populus, an audience hanging on every word
+auritus | 5 | testis auritus, a witness who has only heard a thing, not seen it
+auro | 1 | gild
+auro | 3 | to overlay a thing with gold
+auro | 4 | auratus as an adjective, gilded or made of gold: aurata tecta, gilded ceilings
+aurugo | 1 | jaundice
+aurugo | 3 | the disease, named from the yellow it turns the skin, and so a sickly pallor
+aurugo | 4 | of plants, mildew or blight
+aurum | 1 | gold
+aurum | 3 | gold as a metal: auri venas invenire, to find veins of gold
+aurum | 4 | anything made of gold: a cup, a chain, a ring, a bit, or a hairband
+aurum | 5 | gold as money, and so wealth: aula onusta auri, a pot crammed with gold
+aurum | 6 | the gleam or colour of gold
+aurum | 7 | the Golden Age: redeant in aurum tempora, let the times go back to gold
+ausculto | 1 | listen
+ausculto | 3 | to listen to a person or thing with attention: ausculto atque animum adverto, I am listening and paying attention
+ausculto | 4 | to listen in secret, to overhear: ab ostio auscultare, to listen at the door
+ausculto | 5 | of a slave, to answer the door
+ausculto | 6 | to listen and do as one is told, to obey: mihi ausculta, take my advice
+auspex | 1 | augur
+auspex | 2 | patron
+auspex | 3 | one who watched the birds and foretold the future from them
+auspex | 4 | a founder, patron or protector of an undertaking: dis auspicibus, with the gods behind it
+auspex | 5 | the witness who saw a marriage contract properly made
+auspex | 6 | in later Latin, as an adjective, favourable and lucky
+auspicium | 1 | auspices
+auspicium | 3 | divination from the flight of birds: auspicia agere, to take the auspices
+auspicium | 4 | more widely, any sign or omen: optimis auspiciis, under the best of omens
+auspicium | 5 | the command held by a magistrate who has taken the auspices: ductu auspicioque alicujus, under someone's leadership and authority
+auspicium | 6 | a beginning: auspicia regni, the opening of a reign
+auspicor | 1 | take auspices
+auspicor | 2 | begin
+auspicor | 3 | to consult the birds before an undertaking
+auspicor | 4 | to make a formal beginning under good omens, and so simply to begin something: militiam auspicari, to enter on one's service
+auspicor | 5 | auspicato as an adverb, after the auspices had been taken: auspicato urbem condere, to found the city with the omens duly taken
+auspicor | 6 | auspicatus as an adjective, consecrated by the auspices, and so fortunate
+auster1 | 1 | south wind
+auster1 | 3 | the south wind, hot and often bringing rain: auster umidus, the rain-bearing south wind
+auster1 | 4 | the south itself as a quarter of the sky
+austeritas | 1 | harshness
+austeritas | 3 | of taste, sourness or sharpness: austeritas vini, the dryness of the wine
+austeritas | 4 | of colour, darkness or dinginess
+austeritas | 5 | of character, severity and sternness: austeritas magistri, a schoolmaster's severity
+australis | 1 | southern
+australis | 3 | lying to the south: australis cingulus, the torrid zone
+austrinus | 1 | southern
+austrinus | 3 | of the south, and of days on which the south wind blows: austrini calores, the heat that comes with the south wind
+aut | 1 | or
+aut | 3 | or, setting one thing against another as a real alternative, where vel leaves the choice to the speaker
+aut | 4 | doubled, aut ... aut, either ... or
+aut | 5 | or else, of what must follow if the first thing does not: redduc uxorem, aut quam ob rem non opus sit cedo, take your wife back, or else tell me why you should not
+aut | 6 | correcting what has just been said, or rather: aut potius, or rather
+aut | 7 | adding a smaller alternative, or at least: aut certe, or at any rate
+aut | 8 | aut vero, introducing something weightier, or indeed
+autem | 1 | however
+autem | 3 | but or on the other hand, a milder contrast than at, and never placed first in its clause
+autem | 4 | marking a simple transition, moreover, and now
+autem | 5 | resuming a train of thought after a parenthesis, or introducing one
+autem | 6 | in a syllogism, adding the minor premiss, now
+autem | 7 | in questions, giving an edge of surprise or rebuke: tuam autem, yours, did you say?
+autumo | 1 | assert
+autumo | 3 | to say yes to something, to affirm it, as against nego, to say no
+autumo | 4 | to name or call something, mostly in early Latin
+autumo | 5 | to think or suppose
+auxiliaris | 1 | helpful
+auxiliaris | 3 | bringing aid: auxiliares undae, waters that come to the rescue
+auxiliaris | 4 | belonging to auxiliary troops: auxiliaria stipendia, service in the auxiliaries
+auxiliarius | 1 | auxiliary
+auxiliarius | 3 | giving help, a rarer word than auxiliaris
+auxiliarius | 4 | in military language, of troops serving alongside the legions: cohortes auxiliariae, auxiliary cohorts
+auxilior | 1 | help
+auxilior | 3 | to come to someone's aid (with the dative): alicui auxiliari, to lend someone a hand
+auxilior | 4 | of a doctor or a drug, to relieve or cure
+auxilium | 1 | help
+auxilium | 3 | aid or support of any kind: auxilium ferre, to bring help
+auxilium | 4 | in the plural, auxiliary troops serving beside the legions
+auxilium | 5 | in medicine, a remedy or antidote
+avaritia | 1 | greed
+avaritia | 3 | a settled craving for money and possessions: avaritia est appetitio alienorum, greed is the coveting of what belongs to others
+avaritia | 4 | eagerness for anything: avaritia gloriae, a hunger for fame
+avarus | 1 | greedy
+avarus | 3 | grasping after money, miserly: avarus et furax homo, a grasping and thieving fellow
+avarus | 4 | in the poets, without reproach, simply eager for something: laudis avarus, hungry for praise
+avarus | 5 | the adverb avare, greedily
+aveho | 1 | carry away
+aveho | 3 | to take something off by cart, ship or horse: praedam avehere, to carry the plunder away
+avello | 1 | tear off
+avello | 3 | to wrench something away: avulsum umeris caput, the head torn from the shoulders
+avello | 4 | to take a thing by force: Palladium sacrato templo avellere, to tear the Palladium from its shrine
+avello | 5 | to part someone from something or someone: de matris complexu avellere, to drag a child from its mother's arms
+avena | 1 | oats
+avena | 3 | the cultivated oat, and also the wild oat as a weed of the fields
+avena | 4 | any stalk or straw of grass or grain
+avena | 5 | in the poets, a shepherd's reed pipe: tenui avena meditari, to practise a tune on a slender reed
+aveo1 | 1 | crave
+aveo1 | 3 | to long for something (with the infinitive or the accusative): te imitari aveo, I long to be like you
+aveo1 | 4 | avens as an adjective, eager, and the adverb aventer, eagerly
+aveo2 | 1 | fare well
+aveo2 | 3 | found almost only in the imperative ave, avete, used as a greeting, hail or good day
+aveo2 | 4 | as a morning greeting, where vale served for the evening
+aveo2 | 5 | as a farewell to the dead: ave atque vale, hail and farewell
+averrunco | 1 | avert
+averrunco | 3 | an old word of religion, to turn something aside: di averruncent, may the gods avert it
+aversio | 1 | turning away
+aversio | 3 | ex aversione, from behind
+aversio | 4 | per aversionem emere, to buy something in the lump without careful reckoning
+aversio | 5 | in rhetoric, turning the hearers' attention away from the matter in hand, apostrophe
+aversor1 | 1 | turn away
+aversor1 | 3 | to turn away from something in disgust or shame: aversari et rubere, to look away and blush
+aversor1 | 4 | to reject or repulse a person or thing: filium aversari, to refuse to have one's son near him
+averto | 1 | divert
+averto | 2 | steal
+averto | 3 | to turn something away from a place (with ab or the plain ablative): flumen a fonte avertere, to turn a river from its spring
+averto | 4 | without an object, to turn away, to withdraw: avertens roseā cervice refulsit, she turned away and her rosy neck shone out
+averto | 5 | to make off with something, to embezzle: pecuniam publicam avertere, to make away with public money
+averto | 6 | to turn someone from a plan or a hope: animos a spe avertere, to turn men's minds away from hope
+averto | 7 | to set someone against another, to estrange them
+averto | 8 | aversus as an adjective, turned away or from behind; also unfavourable and hostile: aversus a Musis, no friend to the Muses
+avia1 | 1 | grandmother
+avia1 | 3 | a grandmother on either the father's or the mother's side
+aviarius | 1 | of birds
+aviarius | 3 | used for birds: rete aviarium, a fowler's net
+aviarius | 4 | as a noun, aviarius, a bird-keeper; and aviarium, an aviary
+aviditas | 1 | eagerness
+aviditas | 3 | a keen longing for anything: aviditas legendi, a passion for reading
+aviditas | 4 | greed for money, covetousness
+aviditas | 5 | keenness for food, appetite: aviditatem incitare, to whet the appetite
+avidus | 1 | eager
+avidus | 2 | greedy
+avidus | 3 | longing for something (with the genitive, or with in and the accusative): avidus laudis, hungry for praise
+avidus | 4 | greedy for money, as avarus is
+avidus | 5 | greedy for food, ravenous: avidi convivae, guests who fall on their food
+avidus | 6 | in Lucretius, of space, wide and all-swallowing: avido complexu aether, the sky in its hungry embrace
+avidus | 7 | the adverb avide, eagerly: avide adripere, to seize on something greedily
+avis | 1 | bird
+avis | 3 | a bird, and collectively the birds
+avis | 4 | in augury, a bird as the source of an omen, and so the omen itself: mala avi, under a bad sign
+avitus1 | 1 | ancestral
+avitus1 | 3 | belonging to or coming from a grandfather: paterna atque avita possessio, an estate held from father and grandfather
+avitus1 | 4 | more widely, very old: merum avitum, wine of great age
+avius | 1 | trackless
+avius | 3 | lying off the road, remote and unfrequented: avia nemora, lonely woods
+avius | 4 | as a noun, avium and in the plural avia, wild country away from any road
+avius | 5 | of people, wandering off the track: avius in montes se abdidit, he went astray into the high hills
+avius | 6 | figuratively, straying from the truth: avius a vera ratione, wandering wide of sound reasoning
+avocamentum | 1 | distraction
+avocamentum | 3 | something that draws the mind off pain or trouble, a relief or diversion
+avoco | 1 | call away
+avoco | 3 | to summon someone away from where they are: partem exercitus ad bellum avocare, to call part of the army off to the war
+avoco | 4 | to draw someone away from a purpose or a pleasure: a voluptate avocare, to wean someone from an indulgence
+avoco | 5 | to distract or interrupt the attention
+avoco | 6 | to take someone's mind off their troubles, to divert or amuse them
+avoco | 7 | in the lawyers, to recall or reclaim something
+avolo | 1 | fly away
+avolo | 3 | of birds, to fly off: pullos avolasse, that the chickens had flown
+avolo | 4 | of people, to hurry off, to be gone in a moment
+avunculus | 1 | uncle
+avunculus | 3 | a mother's brother, where a father's brother is patruus
+avunculus | 4 | avunculus magnus, a grandmother's brother, a great-uncle
+avunculus | 5 | also of the husband of a mother's sister
+avus | 1 | grandfather
+avus | 3 | a grandfather on either side
+avus | 4 | more widely, an ancestor or forefather
+avus | 5 | simply an old man
+axis | 1 | axle
+axis | 2 | pole
+axis | 3 | the axletree a wheel turns on, and by extension a chariot: faginus axis, an axle of beech
+axis | 4 | the axis of the earth, and so the pole, especially the north pole
+axis | 5 | the sky as a whole, or a quarter of it: boreus axis, the northern sky
+axis | 6 | a pin or hook a hinge turns on
+axis | 7 | a board or plank
