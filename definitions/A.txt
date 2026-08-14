@@ -2926,3 +2926,221 @@ aquila1 | 5 | the Eagle, a constellation
 aquila1 | 6 | in architecture, the members of a building that carry the gable
 aquila1 | 7 | a fish of the ray family, the eagle-ray
 aquila1 | 8 | aquilae senectus, an eagle's old age, proverbially a hale and vigorous one
+aquilo | 1 | north wind
+aquilo | 3 | the north wind, cold and stormy, blowing from a little east of north
+aquilo | 4 | the north itself as a quarter of the sky: spelunca conversa ad aquilonem, a cave facing north
+aquilo | 5 | Aquilo as a god, husband of Orithyia and father of Calais and Zetes
+aquilonius | 1 | northern
+aquilonius | 3 | lying towards the north: regio aquilonia, a northerly region
+aquilonius | 4 | belonging to Aquilo the north wind: Aquilonia proles, the sons of the north wind
+aquor | 1 | fetch water
+aquor | 3 | in military use, to go out and get water for the camp: castris aquatum egredi, to leave camp to fetch water
+aquor | 4 | of bees, to take on water; of soil, to drink water in
+aquosus | 1 | wet
+aquosus | 3 | abounding in water, well watered: aquosior ager, land with more water in it
+aquosus | 4 | of weather and winds, rainy: hiems aquosa, a wet winter
+aquula | 1 | trickle
+aquula | 3 | a little water or a small stream: suffundam aquulam, I shall pour on a drop of water
+ara | 1 | altar
+ara | 3 | an altar for sacrifice: aras sanguine spargere, to sprinkle the altars with blood; aram condere, to found an altar
+ara | 4 | arae et foci, altars and hearths, standing together for home and all one holds dear: pro aris et focis pugnare, to fight for hearth and home
+ara | 5 | any monument of stone, and sometimes a tombstone: ara virtutis, a monument to courage
+ara | 6 | Ara, the Altar, a constellation of the southern sky
+ara | 7 | in the plural, Arae, rocks standing out of the sea between Sicily and Africa
+# skip: arabarches an Egyptian customs official, one sneering line of Juvenal, nothing a learner can use
+aranea | 1 | spider
+aranea | 2 | cobweb
+aranea | 3 | a spider's web: antiquas exercet aranea telas, the spider works at her old webs
+aranea | 4 | of any fine thread-like stuff, gossamer
+araneus2 | 1 | of spiders
+araneus2 | 3 | as a noun, araneum, a spider's web
+araneus2 | 4 | a blight that attacks the vine and the olive
+araneus2 | 5 | araneus mus, a small mouse, probably the shrew
+aratio | 1 | ploughing
+aratio | 3 | the working of the land, husbandry in general
+aratio | 4 | ploughed land, a tilled field
+aratio | 5 | in Roman finance, a plot of public land let to a tenant for a share of the crop
+arator | 1 | ploughman
+arator | 3 | in the poets, a farmer or husbandman generally
+arator | 4 | in Roman finance, a tenant of public land who paid a tenth of what he grew
+arator | 5 | the Ploughman, a constellation
+aratrum | 1 | plough
+aratrum | 3 | the plough, made up of pole, handle, share and beam
+arbiter | 1 | witness
+arbiter | 2 | arbitrator
+arbiter | 3 | someone present to see or hear, an onlooker: remotis arbitris, once the witnesses were out of the way
+arbiter | 4 | in law, an arbitrator appointed to settle a case by what is fair, as against a judex who decides by the letter of the law
+arbiter | 5 | more widely, an umpire deciding between two parties
+arbiter | 6 | one who has control of something, its master or ruler: arbiter imperii, the master of the empire
+arbitrarius | 1 | of arbitration
+arbitrarius | 3 | of a legal action, settled by an arbitrator rather than fixed beforehand by law
+arbitrarius | 4 | in early Latin, uncertain, not settled in advance
+arbitrarius | 5 | depending on somebody's will, and so discretionary
+arbitratus2 | 1 | discretion
+arbitratus2 | 3 | someone's free choice or pleasure, nearly always in the ablative: meo arbitratu, as I please; tuo arbitratu, as you like
+arbitratus2 | 4 | direction or guidance: cujus arbitratu sit educatus, under whose direction he was brought up
+arbitrium | 1 | decision
+arbitrium | 2 | authority
+arbitrium | 3 | the award of an arbitrator, which weighs what is fair, as against a judgment fixed by law
+arbitrium | 4 | judgment or opinion more generally: arbitria belli pacisque agere, to decide questions of war and peace
+arbitrium | 5 | mastery over something, control or free choice: ad arbitrium alicujus, at someone's bidding; arbitrio suo, of one's own accord
+arbitrium | 6 | arbitria funeris, the cost of a funeral as fixed by an assessor
+arbitrium | 7 | in later poets, the presence of onlookers: locus ab omni liber arbitrio, a place free of every witness
+arbitror | 1 | think
+arbitror | 3 | to hold an opinion, to consider that something is so (with the accusative and infinitive)
+arbitror | 4 | to suppose, as against knowing for certain: arbitror, certum non scimus, I suppose so, we do not know for sure
+arbitror | 5 | in early Latin, to be a witness of something, to watch or overhear it
+arbitror | 6 | in law, to give judgment as an arbitrator
+arbitror | 7 | occasionally in an active form arbitro, and sometimes passive in sense
+arbor1 | 1 | tree
+arbor1 | 3 | a tree of any kind, often with the species in the genitive: arbor fici, a fig tree
+arbor1 | 4 | of things made of wood, a ship's mast: arbore mali, at the mast
+arbor1 | 5 | an oar, and by extension a ship itself
+arbor1 | 6 | the beam of a press, or the shaft of a javelin
+arbor1 | 7 | arbor infelix, the gallows on which criminals were hanged
+arborarius | 1 | of trees
+arborarius | 3 | used on trees: falx arboraria, a pruning hook
+arborarius | 4 | picus arborarius, the woodpecker
+arboreus | 1 | of trees
+arboreus | 3 | belonging to a tree: frondes arboreae, the leaves of the trees; arborei fetus, the fruit of trees
+arboreus | 4 | branching like a tree: cornua arborea, antlers spreading like boughs
+arboreus | 5 | as big as a tree: telum arboreum, a spear the size of a tree
+arbuscula1 | 1 | shrub
+arbuscula1 | 3 | a small tree or bush
+arbuscula1 | 4 | the tuft of feathers on a peacock's head
+arbuscula1 | 5 | in mechanics, a wheeled frame for shifting military engines
+arbustum | 1 | plantation
+arbustum | 3 | a plot planted with trees for vines to be trained up, as against a vinea where the vine lay on the ground or on poles
+arbustum | 4 | in the poets, usually in the plural, simply trees: florescunt arbusta, the trees come into blossom
+# review: arbustus the sense is land set with trees for vines to climb; "wooded" would suggest natural woodland instead
+arbustus | 1 | planted with trees
+arbustus | 3 | of land, set with trees: ager arbustus, a field planted with trees
+arbustus | 4 | vitis arbusta, a vine trained up a tree
+arbutum | 1 | arbutus berry
+arbutum | 3 | the fruit of the strawberry tree, counted among the foods of mankind's earliest days
+arbutum | 4 | by extension the tree itself, and its shoots as fodder for goats
+arbutus | 1 | strawberry tree
+arbutus | 3 | the wild strawberry tree or arbute, common in Italy
+arca | 1 | chest
+arca | 3 | a box or chest for keeping anything in: arca vestiaria, a clothes chest
+arca | 4 | a money-chest or strongbox, and so, like our purse, the money in it: arcae nostrae confidito, rely on my purse
+arca | 5 | ex arca absolvere aliquem, to pay someone in cash on the spot rather than through the books
+arca | 6 | a coffin
+arca | 7 | Noah's ark, and the Ark of the Covenant
+arca | 8 | a narrow cell for holding prisoners
+arca | 9 | a water-tank or cistern, and the water-box of a pump
+arcanus1 | 1 | secret
+arcanus1 | 3 | hidden or private, kept back from others: arcana consilia, secret plans
+arcanus1 | 4 | of a person, able to keep a secret, trustworthy
+arcanus1 | 5 | of night, silent and keeping counsel: arcana nocte, in the secrecy of night
+arcanus1 | 6 | of religion, sacred and not to be spoken of: arcana sacra, the mysteries
+arcanus1 | 7 | as a noun, arcanum, a secret: arcana regum, the secrets of kings; fatorum arcana, the secrets of fate
+arcarius | 1 | of cash
+arcarius | 3 | relating to ready money: nomina arcaria, a debt of actual coin paid over
+arcarius | 4 | as a noun, a treasurer or cashier, a late use
+arceo | 1 | ward off
+arceo | 2 | enclose
+arceo | 3 | to shut something in, to hold and contain it: alvus arcet et continet quod recipit, the belly holds in what it takes
+arceo | 4 | to keep a person or thing at a distance (with the accusative, with ab, or with the plain ablative): hostem Gallia arcere, to shut the enemy out of Gaul
+arceo | 5 | to keep something off from someone (with the dative): oestrum pecori arcere, to keep the gadfly off the herd
+arceo | 6 | aquam pluviam arcere, to keep off rainwater, a standing phrase of the law on property
+# review: arcera English has no word for the boarded litter-wagon the Twelve Tables allowed the sick
+arcera | 1 | covered wagon
+arcera | 3 | a wagon boarded in like a chest, used to carry the sick and the old
+arcesso | 1 | summon
+arcesso | 3 | to send for someone, to have them fetched: obstetricem arcesse, send for the midwife
+arcesso | 4 | in law, to summon someone before a court, and so to accuse them (with the genitive of the charge): capitis arcessere, to charge with a capital crime
+arcesso | 5 | to fetch or derive something from a source: a capite arcessere, to fetch an argument from first principles
+arcesso | 6 | to bring something on oneself: somnum medicamentis arcessere, to court sleep with drugs
+arcesso | 7 | also spelt accerso, a form Sallust favoured
+architector | 1 | build
+architector | 3 | to construct or lay out a building as an architect does
+architector | 4 | figuratively, to devise or contrive: voluptates architectari, to engineer one's pleasures
+arcula | 1 | casket
+arcula | 3 | a small box for perfumes or jewels: arculae muliebres, women's dressing cases
+arcula | 4 | figuratively of a speaker's box of ornaments: discipulorum arculae, the pupils' little paint-boxes
+arcula | 5 | the wind-chest of an organ
+arcuo | 1 | arch
+arcuo | 3 | to bend something into the shape of a bow: curru arcuato vehi, to ride in an arched and covered carriage
+arcuo | 4 | arcuatus, arched or vaulted, of building work
+arcus | 1 | bow
+arcus | 2 | arch
+arcus | 3 | a bow for shooting: arcum intendere, to draw the bow; arcus adductus, a bow pulled taut
+arcus | 4 | the rainbow: pluvius arcus, the rainbow that brings rain
+arcus | 5 | an arch or vault in building, and a triumphal arch
+arcus | 6 | anything curved like a bow: the sweep of a bay, the coil of a snake, the arch of a breaking wave
+arcus | 7 | in mathematics and astronomy, an arc
+ardeo | 1 | burn
+ardeo | 3 | to be on fire, to blaze: tecta ardentia, houses in flames
+ardeo | 4 | of the eyes, to flash and glow: ardent oculi, his eyes are ablaze
+ardeo | 5 | of colour, to glitter or gleam: Tyrio ardebat murice laena, the cloak glowed with Tyrian purple
+ardeo | 6 | to be on fire with a feeling (usually with the ablative): amore ardere, to burn with love; ira ardere, to blaze with anger
+ardeo | 7 | of a country, to be ablaze with war: cum arderet Syria bello, when Syria was aflame with war
+ardeo | 8 | ardens as an adjective, burning hot; of wine, fiery; of feeling, eager and impatient
+ardesco | 1 | kindle
+ardesco | 3 | to take fire, to begin to burn
+ardesco | 4 | to flash or gleam: fulmineis ardescunt ignibus undae, the waves flash with lightning fires
+ardesco | 5 | of feelings, to grow hotter and more violent: in iras ardescere, to blaze up into anger
+ardor | 1 | heat
+ardor | 2 | passion
+ardor | 3 | a flame or blaze, burning heat: solis ardor, the blazing of the sun
+ardor | 4 | the flash and brilliance of the eyes: ardor oculorum, the fire in his eyes
+ardor | 5 | eagerness or burning desire: cupiditatum ardor, the heat of one's cravings
+arduus | 1 | steep
+arduus | 2 | difficult
+arduus | 3 | high and lofty, rising sheer: arduus aether, the towering sky
+arduus | 4 | hard to reach or to do, laborious: magnum opus et arduum, a great and difficult undertaking
+arduus | 5 | troublesome and unwelcome
+arduus | 6 | of circumstances, adverse: rebus in arduis, in times of hardship
+area | 1 | open space
+area | 3 | a piece of level open ground, especially a vacant plot inside a town
+area | 4 | ground for a house, a building site: ponendae domo quaerenda est area, one must first find a site for the house
+area | 5 | an open court around or within a house
+area | 6 | a threshing floor, an open space beside the farm buildings
+area | 7 | an open ground for games or racing, and so a field for one's efforts: area scelerum, a clear field for wickedness
+area | 8 | figuratively, a stage of life: vitae tribus areis peractis, the three stages of life once run through
+area | 9 | a bed or border in a garden
+area | 10 | the halo round the sun or moon; also a bald patch on the head
+arefacio | 1 | dry
+arefacio | 3 | to make something dry, to dry it out
+arefacio | 4 | figuratively, to wither or break down: gentem superbam arefecit, he withered a proud people
+areo | 1 | be dry
+areo | 3 | to be dry or parched: aret ager, the field is parched
+areo | 4 | to be dry with thirst: arentibus siti faucibus, with throats dry from thirst
+areo | 5 | arens as an adjective, dry and withered: arentes harenae, parched sands
+areola | 1 | plot
+areola | 3 | a small open space or courtyard: cenatio areolam aspicit, the dining room looks onto a little yard
+areola | 4 | a small garden bed: areolae aromatum, beds of spices
+aresco | 1 | dry up
+aresco | 3 | to become dry: fluvius arescat, the river dries up
+aresco | 4 | of plants, to wither: herbas arescere, for the grass to wither away
+aresco | 5 | of people, to waste away in sickness, or to be paralysed with fear
+argentarius1 | 1 | of money
+argentarius1 | 2 | of silver
+argentarius1 | 3 | relating to silver: metalla argentaria, silver mines
+argentarius1 | 4 | relating to money: inopia argentaria, want of cash
+argentarius1 | 5 | as a noun, argentarius, a money-changer or banker; also a silversmith
+argentarius1 | 6 | as a noun, argentaria, a bank or the banking trade, and also a silver mine
+argentarius1 | 7 | as a noun, argentarium, a cupboard for keeping plate in
+argentatus | 1 | silvered
+argentatus | 3 | plated or ornamented with silver: milites argentati, soldiers with silvered shields
+argentatus | 4 | in comedy, backed with money: argentata querimonia, a complaint that comes with cash behind it
+argenteus1 | 1 | silver
+argenteus1 | 3 | made of silver: aquila argentea, the silver eagle; vasa argentea, silver plate
+argenteus1 | 4 | adorned with silver: argentea acies, a battle line with silvered shields
+argenteus1 | 5 | of a silvery white colour: argenteae undae, silvery waters
+argenteus1 | 6 | of the silver age: argentea proles, the race of the silver age
+argenteus1 | 7 | in comedy, made of money: amica argentea, a girlfriend turned into cash
+argentum | 1 | silver
+argentum | 2 | money
+argentum | 3 | silver as a metal: argenti metalla, silver mines
+argentum | 4 | wrought silver, silver plate: ridet argento domus, the house gleams with silver
+argentum | 5 | silver coin, and so money in general
+argentum | 6 | argentum vivum, quicksilver
+argumentatio | 1 | argument
+argumentatio | 3 | the bringing forward of proof, the working out of an argument
+argumentatio | 4 | the proof itself
+argumentor | 1 | argue
+argumentor | 3 | to bring forward proof of something, to prove it
+argumentor | 4 | to adduce something as evidence
+argumentor | 5 | to draw a conclusion: de voluntate alicujus argumentari, to infer what someone intended
