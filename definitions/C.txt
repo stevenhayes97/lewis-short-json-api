@@ -1535,3 +1535,36 @@ circa1 | 4 | as an adverb, round about or in the neighbourhood: gramen erat circ
 circa1 | 5 | circa esse, to be in the parts about, to be at hand: qui circa erant, those who stood by
 circa1 | 6 | as a preposition with the accusative, about or around a place
 circa1 | 7 | of motion, round to a series of places: legatos circa vicinas gentes mittere, to send envoys round to the neighbouring peoples
+circino | 1 | make round
+circino | 3 | to shape a thing into a circle, and probably no older than Augustus: arbores quae ramos circinant, trees that bring their branches round in a ring
+circino | 4 | its participle circinatus, rounded: folia circinatae rotunditatis, leaves perfectly round
+circiter | 1 | about
+circiter | 3 | as an adverb of place, round about
+circiter | 4 | of time, about or near: circiter triennium, about three years
+circiter | 5 | of number, about or getting on for: circiter milia hominum centum triginta, some hundred and thirty thousand men
+circiter | 6 | as a preposition with the accusative, and mostly of time: circiter meridiem, about midday; circiter Kalendas, about the first of the month
+circitor | 1 | watchman
+circitor | 3 | a keeper who goes his rounds, of gardens and buildings, and a late form of circumitor
+circitor | 4 | in the army, in the plural, the men who go the rounds of the sentry posts, patrols
+circitor | 5 | also a pedlar
+circuitio | 1 | circuit
+circuitio | 3 | a going round, and in the army the rounds: circuitio vigiliarum, the visiting of the watches
+circuitio | 4 | figuratively a roundabout way of speaking: nil circuitione usus es, you used no roundabout phrases
+circuitio | 5 | a passage or corridor for walking round something
+circuitio | 6 | a circumference or compass
+circuitus2 | 1 | circuit
+circuitus2 | 3 | a going round or revolving: circuitus solis, the sun's revolution
+circuitus2 | 4 | in medicine, the regular return of a fever
+circuitus2 | 5 | the circuit or compass of a thing, and the way round it
+circuitus2 | 6 | an open space left around a building
+circuitus2 | 7 | in rhetoric a period, which the Greeks call a periodos
+circuitus2 | 8 | in later writers a roundabout way in speech or in action: loqui per circuitus, to speak in circumlocutions
+circulatim | 1 | circularly
+circulatim | 3 | in a circle, a rare word later than Augustus
+circulatim | 4 | figuratively in groups or knots of people: circulatim lamentari, to mourn in little gatherings
+circulo | 1 | make round
+circulo | 3 | to shape into a circle, a late form standing beside circulor
+circulo | 4 | to encircle or ring about
+circulor | 1 | gather round
+circulor | 3 | to form a ring of people about oneself, or to stand about in knots talking: milites circulari, for the soldiers to gather in groups
+circulor | 4 | of mountebanks, to draw a crowd about one
