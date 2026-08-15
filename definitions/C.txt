@@ -914,3 +914,35 @@ castigo | 8 | as an adverb castigate, either briefly or within bounds: castigate
 castimonia | 1 | purity
 castimonia | 3 | purity of conduct, morality
 castimonia | 4 | above all the ritual purity worship demanded, which meant abstaining from sex and from rich food: summa castimonia, the strictest abstinence
+castitas | 1 | chastity
+castitas | 3 | purity of the body, matching pudicitia
+castitas | 4 | more widely purity of life and morals: castitas vitae, an unstained life
+castitas | 5 | purity where money is concerned, freedom from greed, set against avaritia
+# review: castrensis 'of camp' reads oddly without the article; 'military' would be militaris, and English has no adjective tied to the camp itself
+castrensis | 1 | of the camp
+castrensis | 3 | belonging to a camp: castrensis ratio, the way things are done in camp; castrense consilium, a council of war in the camp
+castrensis | 4 | corona castrensis, the crown given to the first man over the enemy's rampart
+castrensis | 5 | as a noun, a soldier in camp, and in the late empire a high officer of the court
+castro | 1 | castrate
+castro | 3 | to geld an animal, male or female: hircum castrare, to geld a he-goat
+castro | 4 | of plants, to prune or trim
+castro | 5 | of wine and grain, to strain or clean: vina saccis castrare, to filter wine through bags
+castro | 6 | more widely to cut short: caudas catulorum castrare, to dock puppies' tails; alvos apum castrare, to take the honey out of the hives
+castro | 7 | figuratively to weaken or unman: castrata res publica, a state robbed of its strength
+castrum | 1 | fort
+castrum | 2 | camp
+castrum | 3 | in the singular any fortified place, though castellum is the commoner word for it
+castrum | 4 | in the plural castra, a military camp, laid out square by the Romans
+castrum | 5 | castra stativa, a standing camp; castra aestiva, a summer camp; castra hiberna, winter quarters
+castrum | 6 | castra ponere or locum castris capere, to pitch camp; castra metari, to mark a camp out
+castrum | 7 | since camp was pitched each evening, a day's march: secundis castris, after two days' marching
+castrum | 8 | military service itself, often set against forum and toga
+castrum | 9 | of bees, their hive: cerea castra, the waxen camp
+castrum | 10 | figuratively of a party or a school of philosophy: Epicuri castra, the camp of Epicurus
+castus1 | 1 | chaste
+castus1 | 3 | morally pure and guiltless in oneself, where candidus is fair dealing towards others
+castus1 | 4 | above all in the poets, pure in sexual conduct: casta Minerva, chaste Minerva
+castus1 | 5 | of style, free of barbarisms: sermonis castissimi, of the purest speech
+castus1 | 6 | in religion holy and observant: casti sacerdotes, pure priests; hac casti maneant in religione nepotes, may our descendants keep this worship undefiled
+castus1 | 7 | as a neuter noun castum, a festival kept with strict continence
+castus1 | 8 | free from greed for what belongs to others: homo castus ac non cupidus, a man clean-handed and not grasping
