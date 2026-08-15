@@ -875,3 +875,42 @@ casa | 3 | any plain or poorly built house, a cottage, cabin or shed
 casa | 4 | casa Romuli, the thatched cottage of Romulus on the Capitol, kept as a relic
 casa | 5 | proverbially: ita fugias ne praeter casam, do not run so far that you pass the safe place, taken from a children's game
 casa | 6 | in late Latin the plural casae for a country estate
+cascus | 1 | old
+cascus | 3 | ancient, a Sabine word which Ennius uses of the earliest Latins: prisci casci populi Latini, the old Latin peoples of long ago
+caseus | 1 | cheese
+caseus | 3 | cheese: caseum facere, to make cheese; caseum premere, to press cheese
+casses | 1 | hunting-net
+casses | 3 | nets or toils for hunting, a poetic word where prose has plaga or retia
+casses | 4 | a spider's web
+casses | 5 | figuratively snares or plots: casses tendere alicui, to spread nets for someone
+cassis1 | 1 | helmet
+cassis1 | 3 | a helmet, usually of metal, where galea was of leather, though the two words are often used loosely for each other
+cassis1 | 4 | by transfer war itself: aetas patiens cassidis, an age fit to bear the helmet
+cassus | 1 | empty
+cassus | 2 | vain
+cassus | 3 | hollow or empty: cassa nux, an empty nut
+cassus | 4 | with an ablative, devoid of a thing: cassus lumine, without light, and so dead; virgo dote cassa, a girl with no dowry
+cassus | 5 | figuratively fruitless or useless: cassa vota, prayers that came to nothing
+cassus | 6 | in cassum, to no purpose, in vain
+castellum | 1 | fort
+castellum | 3 | a fortified post, a castle or stronghold, the diminutive of castrum
+castellum | 4 | in engineering, the reservoir where an aqueduct's water is gathered before being piped away
+castellum | 5 | figuratively a shelter or refuge: castellum forensis latrocinii, a stronghold for robbery in the courts
+castigatio | 1 | reproof
+castigatio | 3 | correction or punishment, whether by words or by blows: castigatio fustium, a beating with rods
+castigatio | 4 | in good prose most often a rebuke in words: castigatio contumelia vacare debet, a reproof should be free of insult
+castigatio | 5 | in gardening, the trimming or pruning of plants
+castigatio | 6 | figuratively the tempering of one's speech
+castigator | 1 | reprover
+castigator | 3 | one who corrects or chastises: castigator censorque minorum, a rebuker and censor of his juniors
+castigator | 4 | castigator lacrimarum, one who checks other people's tears
+castigo | 1 | rebuke
+castigo | 3 | to set right by word or by deed, to correct, chastise or punish; stronger than reprehendere and weaker than culpare
+castigo | 4 | to put an error right: carmen castigare, to correct a poem; vitia sua castigare, to mend one's own faults
+castigo | 5 | to hold in check: equum tenacem castigare, to keep a stubborn horse in hand
+castigo | 6 | of space, to hem in: insula castigatur aquis, the island is closed in by the waters
+castigo | 7 | its participle castigatus, drawn in and trim, used of a fine figure: castigatum pectus, a shapely breast
+castigo | 8 | as an adverb castigate, either briefly or within bounds: castigate vivere, to live within limits
+castimonia | 1 | purity
+castimonia | 3 | purity of conduct, morality
+castimonia | 4 | above all the ritual purity worship demanded, which meant abstaining from sex and from rich food: summa castimonia, the strictest abstinence
