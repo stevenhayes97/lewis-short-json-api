@@ -107,3 +107,64 @@ beatitudo | 5 | in Christian Latin, beatitude, the blessedness of the saved
 bellaria | 1 | dessert
 bellaria | 3 | the last course of a meal, used in the plural only: fruit, nuts, sweets and sweet wine
 bellaria | 4 | so anything served as a delicacy or titbit
+bellator | 1 | warrior
+bellator | 2 | warlike
+bellator | 3 | a fighting man, one able to fight, where miles is a soldier by profession
+bellator | 4 | in apposition it does the work of an adjective: bellator deus, the god of war, Mars
+bellator | 5 | especially of a horse, mettlesome and trained for war: bellator equus, a war horse
+bellator | 6 | of things belonging to battle: bellator campus, the field of fight
+bellatrix | 1 | female warrior
+bellatrix | 2 | warlike
+bellatrix | 3 | a woman who fights: Penthesilea bellatrix, Penthesilea the warrior queen
+bellatrix | 4 | as a feminine adjective in apposition, skilled or useful in war: bellatrix Roma, warlike Rome
+bellatrix | 5 | of things made for war: bellatrices aquilae, the standards carried into battle
+bellatrix | 6 | figuratively of a passion that makes war inside one: bellatrix iracundia, warlike rage
+bellicosus | 1 | warlike
+bellicosus | 3 | of peoples and men, given to war and good at it: bellicosissimae nationes, the most warlike tribes
+bellicosus | 4 | of a province or a year, full of fighting: bellicosior annus, a year of heavier war
+bellicus | 1 | of war
+bellicus | 3 | belonging to war, military: bellica disciplina, military training; bellica laus, glory won in the field
+bellicus | 4 | as a neuter noun bellicum, the trumpet call to battle: bellicum canere, to sound the charge
+bellicus | 5 | so figuratively of speech that rouses people, to sound the alarm
+bellicus | 6 | in the poets the same as bellicosus, warlike: bellica virgo, the warrior maiden Pallas
+belliger | 1 | warlike
+belliger | 3 | waging war, which is what the word literally says: belligerae gentes, warring nations
+belliger | 4 | of things used in war: belliger ensis, the sword of battle
+belliger | 5 | poetic, and commonest in writers after Augustus
+belligero | 1 | wage war
+belligero | 3 | to carry on a war, with cum or adversus and the enemy: belligerare cum Gallis, to make war on the Gauls
+belligero | 4 | figuratively, to struggle against something: cum fortuna belligerare, to fight it out with fortune
+# review: bellipotens English has no one-word adjective for it; 'valiant' drops the war, which is the whole word
+bellipotens | 1 | mighty in war
+bellipotens | 3 | powerful in battle, a rare and poetic word
+bellipotens | 4 | as a noun Bellipotens, the mighty one in war, that is Mars
+bello | 1 | wage war
+bello | 3 | to be at war, to campaign: longe a domo bellare, to make war far from home
+bello | 4 | with cum, adversus or contra and the enemy: bellare cum Poenis, to war against the Carthaginians
+bello | 5 | in the poets with a bare dative of the one fought
+bello | 6 | impersonally in the passive: bellatum est cum Gallis, war was waged with the Gauls
+bello | 7 | more widely, to fight or contend at all, even with words
+bellulus | 1 | pretty
+bellulus | 3 | a diminutive of bellus: sweet, dainty, charming, found in early and late writers
+bellulus | 4 | as an adverb bellule, prettily or neatly
+bellum | 1 | war
+bellum | 3 | war between peoples, both warfare in general and one particular war; the old form is duellum: bellum Punicum, the Punic War
+bellum | 4 | the enemy is named by an adjective, by a genitive, or by cum and the ablative: bellum cum Samnitibus, the war against the Samnites
+bellum | 5 | starting one: bellum movere, to stir up a war; bellum parare, to make ready for one; bellum inferre alicui, to make war on someone
+bellum | 6 | fighting it: bellum gerere cum aliquo, to wage war on someone; bellum trahere, to drag it out
+bellum | 7 | ending it: bellum conficere, to finish it off; bellum componere, to settle it by terms; bellum deponere, to lay it down
+bellum | 8 | of time, the locative belli and the ablative bello: domi bellique, at home and in the field; bello civili, during the civil war
+bellum | 9 | set phrases: justum bellum, a war lawfully declared; jus belli, the law of war; fortuna belli, the chances of war
+bellum | 10 | figuratively, a feud or quarrel with anything at all: bellum indicere philosophiae, to declare war on philosophy
+bellus | 1 | pretty
+bellus | 3 | of people, good-looking or charming, a word of everyday speech: bella puella, a pretty girl
+bellus | 4 | of manner, polite and agreeable: homo bellus, a pleasant fellow
+bellus | 5 | of things and places, nice, fine, first-rate: vinum bellissimum, excellent wine
+bellus | 6 | commonest in Plautus, Catullus and Cicero's letters rather than in formal prose
+bellus | 7 | as an adverb belle, nicely or neatly: belle negare, to refuse politely; belle se habere, to be in good health
+belua | 1 | beast
+belua | 3 | a large or fierce animal, an elephant, lion, boar or whale, against the smaller bestia
+belua | 4 | on its own very often the elephant: belua Inda, the beast of India
+belua | 5 | more loosely any animal, and in the plural the brutes as against man
+belua | 6 | as abuse, brute or monster, of a person: immanis belua, a monstrous brute
+belua | 7 | of things as well: quanta belua esset imperium, what a monster empire was
