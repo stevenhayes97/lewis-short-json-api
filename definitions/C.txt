@@ -2003,3 +2003,65 @@ classis | 4 | figuratively of rank: quintae classis videntur, they look to be of
 classis | 5 | in early usage the whole body of citizens called to arms, an army: classis procincta, the host under arms
 classis | 6 | usually a fleet, taking in the troops aboard: nomina in classem dare, to enlist for the fleet
 classis | 7 | after Augustus, any division or group: pueros in classes distribuere, to sort the boys into forms
+claudeo | 1 | be lame
+claudeo | 3 | to limp or halt, the parent form of the commoner claudico, and used mostly in a figurative sense
+claudeo | 4 | of things, to be defective: consilium claudeat, the plan is unsound
+claudico | 1 | limp
+claudico | 3 | to halt or be lame: graviter claudicare ex vulnere, to limp badly from a wound
+claudico | 4 | in Lucretius of other unsteady motions, of a bird's crippled wing or of a wavering balance
+claudico | 5 | figuratively to be defective or incomplete: tota res vacillat et claudicat, the whole thing totters and limps
+claudo1 | 1 | shut
+claudo1 | 3 | to close what is open, the opposite of aperire: fores claudere, to shut the doors; portus claudere, to close the harbour
+claudo1 | 4 | it also appears as cludo, and always so in the compounds: Janum ter clusit, three times he closed the temple of Janus
+claudo1 | 5 | figuratively to close a thing against someone: domus clausa cupiditati, a house shut against greed
+claudo1 | 6 | to bring to an end: opus claudere, to finish a work; epistulam claudere, to close a letter
+claudo1 | 7 | in the army, agmen claudere, to bring up the rear
+claudo1 | 8 | with an ablative, to shut a thing in or surround it: terra marique claudi, to be hemmed in by land and sea; stabulis armenta claudere, to pen the cattle in their stalls
+claudo1 | 9 | of rhythm, to round a sentence off: numeris sententias claudere, to close one's periods in measure
+claudus | 1 | lame
+claudus | 3 | limping or halting: claudus altero pede, lame in one foot
+claudus | 4 | proverbially: claudus pilam, a lame man with a ball, said of one who cannot make right use of a thing
+claudus | 5 | figuratively crippled or defective: claudae mutilataeque naves, ships crippled and cut about
+claudus | 6 | of verse: clauda carmina alterno versu, halting songs, that is elegiacs, whose second line is the shorter
+claudus | 7 | wavering and not to be relied on: clauda fides, faith that limps
+claustra | 1 | bolt
+claustra | 3 | whatever closes a thing, a lock, bar or bolt: claustra revellere, to tear the bolts away; claustra laxare, to loosen them
+claustra | 4 | figuratively a bar or barrier: claustra naturae effringere, to break open the secrets of nature
+claustra | 5 | a door or gate, a dam, and by transfer the place that is shut in
+claustra | 6 | in the army a barrier or bulwark, and so the key to a position: claustra loci, the key of the ground
+claustra | 7 | figuratively: claustra nobilitatis refringere, to break down the barriers the nobility had set up
+claustra | 8 | it is usually plural, though a singular claustrum is found
+clausula1 | 1 | ending
+clausula1 | 3 | the close or conclusion of anything: bonam clausulam imponere, to put a good ending to it
+clausula1 | 4 | in rhetoric the cadence that closes a period, set against the initium
+clausula1 | 5 | in law the closing words of a formula, and so any clause of a statute
+clava | 1 | club
+clava | 3 | a knotty stick or cudgel: sternentes agmina clava, laying whole ranks low with the club
+clava | 4 | in farming, a graft or scion
+clavicula | 1 | tendril
+clavicula | 3 | the tendril by which a vine clings to its prop, the sense Cicero uses
+clavicula | 4 | literally a small key, the diminutive of clavis
+clavicula | 5 | also a bar or bolt of a door
+clavis | 1 | key
+clavis | 3 | a key
+clavis | 4 | clavis trochi, the key-shaped stick used to whip a top along
+clavis | 5 | clavis torculari, the lever or bar of a press
+clavo | 1 | nail
+clavo | 3 | to fasten with nails, a rare word no older than Augustus and mostly in the participle: clavata concha, a shell set with points
+clavo | 4 | to trim with a purple stripe: clavata auro tunica, a tunic striped with gold
+clavus | 1 | nail
+clavus | 3 | a nail, usually of metal: clavi ferrei, iron nails
+clavus | 4 | as an emblem of what cannot be shifted: clavos trabales gestans, carrying the great spikes, said of Necessity
+clavus | 5 | figuratively: ex hoc die clavum anni movebis, from this day you will reckon the year's beginning
+clavus | 6 | the tiller, and so the helm of a ship: clavum tenere, to hold the helm
+clavus | 7 | figuratively of governing: clavum tanti imperii tenere, to hold the helm of so great an empire
+clavus | 8 | in medicine a wart, or a corn on the foot
+clavus | 9 | the purple stripe on the tunic, broad for senators and narrow for the knights: latus clavus, the broad stripe
+clavus | 10 | in the poets simply a tunic: clavum mutare, to change one's tunic
+clemens1 | 1 | mild
+clemens1 | 3 | of air, wind or weather, calm and soft: clemens flamen, a gentle breeze
+clemens1 | 4 | of sea and rivers, running quietly: clementior alveus, a gentler channel
+clemens1 | 5 | of ground, sloping gently rather than steeply
+clemens1 | 6 | of a person's temper, quiet and unruffled
+clemens1 | 7 | of animals, tame: clementius genus columbarum, the tamer sort of pigeons
+clemens1 | 8 | above all forbearing towards other people's faults, merciful, the opposite of crudelis
