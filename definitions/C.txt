@@ -1075,3 +1075,53 @@ cautio | 3 | wariness and circumspection, which Cicero defines as avoidance guid
 cautio | 4 | mihi cautio est, I must look out, a phrase of everyday speech
 cautio | 5 | res cautionem habet, the matter calls for care, or else admits of it
 cautio | 6 | in law a security, bond or guarantee, whether written or given by word
+cavea | 1 | cage
+cavea | 3 | any hollowed-out place, a cavity
+cavea | 4 | an enclosure for animals: a stall, den, coop, beehive or birdcage
+cavea | 5 | a fence set round a young tree to keep it from harm
+cavea | 6 | in the body, the roof of the mouth or the sockets of the eyes
+cavea | 7 | the banked seating of a theatre: ima cavea, the lowest rows; summa cavea, the highest
+cavea | 8 | so the theatre itself, and also the audience in it
+caveo | 1 | beware
+caveo | 2 | guarantee
+caveo | 3 | to be on one's guard, with ab and the ablative, or a plain ablative, or an accusative: cavere ab aliquo, to be on guard against someone; cavere malo, to guard against harm
+caveo | 4 | with ne, to take care that something does not happen: cave ne videat, take care he does not see
+caveo | 5 | in the imperative with a bare subjunctive: cave dixeris, mind you do not say it; and with an infinitive, caveto laedere, take care not to hurt
+caveo | 6 | with ut, to see that a thing is done: caveamus ut ea vitemus, let us take care to avoid them
+caveo | 7 | cavere alicui, to look after someone's interests and keep them safe
+caveo | 8 | in law, to provide or lay down in writing, as in a will or a contract
+caveo | 9 | in business, cavere ab aliquo, to get security from someone, and cavere on its own, to give it
+caveo | 10 | its participle cautus, careful and wary, or passively made safe: cautum consilium, a prudent plan
+caverna | 1 | cavern
+caverna | 3 | a hollow, cave or hole: caverna terrae, a cavern in the earth
+caverna | 4 | of rocky vaults: curvae cavernae, the arching caves
+cavillatio | 1 | raillery
+cavillatio | 3 | jesting or scoffing, the humour spread evenly through a whole conversation, against dicacitas, which is sharp and short
+cavillatio | 4 | by transfer, empty quibbling or sophistry: ineptae cavillationes, silly quibbles
+cavillor | 1 | jeer
+cavillor | 3 | to mock or make fun, whether in jest or in earnest: familiariter cavillor ac jocor, I banter and joke with him as a friend
+cavillor | 4 | with an accusative, to make a target of someone: cavillari tribunos plebis, to poke fun at the tribunes
+cavillor | 5 | by transfer, to argue captiously and quibble
+cavo | 1 | hollow
+cavo | 3 | to hollow out or excavate: stillicidi casus lapidem cavat, the drip of water wears the stone away
+cavo | 4 | naves ex arboribus cavare, to hollow boats out of tree trunks
+cavus | 1 | hollow
+cavus | 3 | hollowed out or concave, the opposite of plenus: cava concha, a hollow shell; cava tibia, the hollow pipe
+cavus | 4 | as a neuter noun cavum, a hole or cavity
+cavus | 5 | in late Latin of months with only thirty days, against menses pleni with thirty-one
+cavus | 6 | so also empty or vain: cava gloria, hollow glory
+# review: ce an inseparable demonstrative suffix; 'here' is the nearest English deictic, but it is not a word that stands alone
+ce | 1 | here
+ce | 3 | an inseparable particle tacked on to strengthen a demonstrative, answering to the deictic iota of the Greek houtosi
+ce | 4 | it stands unchanged in hicce, haecce and hocce, and in the genitive hujusce
+ce | 5 | it becomes ci before the question particle ne: hiccine, siccine, nunccine
+ce | 6 | and it often drops its e: hic, haec, hoc, nunc and sic stand for hice, haece, hoce, nunce and sice
+cedo1 | 1 | yield
+cedo1 | 3 | at bottom simply to go or move, though incedo is the usual word for that
+cedo1 | 4 | to go away, withdraw or retire: loco cedere, to give up one's post; ex acie cedere, to fall back out of the line
+cedo1 | 5 | of business, foro cedere, to withdraw from the market, that is to go bankrupt
+cedo1 | 6 | bonis cedere, to make over one's property in someone's favour
+cedo1 | 7 | to pass away or disappear: vita cedere, to depart this life; horae cedunt, the hours slip by
+cedo1 | 8 | to give way to someone as the better man: cedere auctoritati, to bow to authority; nulla re cedere, to be second in nothing
+cedo1 | 9 | with an accusative, to grant or concede something to someone
+cedo1 | 10 | to fall to someone as a possession, or to turn into something: captiva corpora Romanis cessere, the prisoners fell to the Romans; temeritas in gloriam cesserat, rashness had turned into glory
