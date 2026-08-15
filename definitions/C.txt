@@ -93,7 +93,7 @@ caeduus | 4 | so also of a wood's natural yield for cutting
 caelatura | 1 | engraving
 caelatura | 3 | the art of working reliefs in metal, which Quintilian marks off from sculptura, that works in wood, ivory, marble and glass as well
 caelatura | 4 | such work in other materials too, for instance in clay
-caelatura | 5 | the engraved figures themselves, chased work: attritae caelaturae, reliefs rubbed smooth with handling
+caelatura | 5 | the engraved figures themselves, chased work: attritis caelaturis, when the reliefs are rubbed smooth with handling
 caelebs | 1 | unmarried
 caelebs | 3 | single, whether a bachelor or a widower: caelebs senex, an old man with no wife
 caelebs | 4 | of what belongs to that state: caelebs vita, the single life; caelebs lectus, an empty bed
@@ -242,7 +242,7 @@ calculus | 5 | a piece in the game of draughts: calculum promovere, to move a pi
 calculus | 6 | a counter on the reckoning board, and so a reckoning: calculos subducere, to cast up an account
 calculus | 7 | cum aliquo calculum ponere, to settle accounts with someone
 calculus | 8 | in the earliest times a voting pebble, a white one to acquit and a black one to condemn
-calculus | 9 | the Thracians marked lucky days with a white stone and unlucky ones with black: candidissimo calculo notandus dies, a day to mark with the whitest of stones
+calculus | 9 | the Thracians marked lucky days with a white stone and unlucky ones with black: diem notandum candidissimo calculo, a day to mark with the whitest of stones
 calculus | 10 | in late Latin a small weight, reckoned at two chickpeas
 caldarius | 1 | for heating
 caldarius | 3 | belonging to warming or to hot water: cella caldaria, the hot room of a bath
@@ -547,7 +547,7 @@ cantherius | 7 | in vine-growing, a trellis of poles with crosspieces
 cantherius | 8 | among horse-doctors, a frame for slinging a sick horse in
 canticum | 1 | song
 canticum | 3 | in Roman comedy a solo sung by one actor to music and dancing: canticum agere, to perform the song
-canticum | 4 | a song in general: obscena cantica, filthy songs
+canticum | 4 | a song in general: obscenis canticis strepere, to be loud with filthy songs
 canticum | 5 | a sing-song tone in a speaker's delivery
 canticum | 6 | a lampoon or libellous song, and also a magic formula
 canticum | 7 | in Christian Latin, Canticum Canticorum, the Song of Songs
@@ -701,7 +701,7 @@ captio | 5 | in logic a fallacy or sophism: istius generis captiones, quibbles o
 captio | 6 | by transfer harm or loss: mea captio est, the loss is mine
 captiosus | 1 | deceptive
 captiosus | 3 | full of deceit, of a bargain with a trap in it: captiosa societas, a partnership with a catch
-captiosus | 4 | in argument captious or sophistical: captiosae interrogationes, trick questions
+captiosus | 4 | in argument captious or sophistical: captiosis interrogationibus decipi, to be tripped up by trick questions
 captivitas | 1 | captivity
 captivitas | 3 | the state of a prisoner, bondage, said of people and of animals alike
 captivitas | 4 | collectively, the body of captives
@@ -977,8 +977,8 @@ catena | 8 | in building, a brace or tie holding two beams together
 cateno | 1 | chain
 cateno | 3 | to chain or bind together, and commonest in its participle catenatus, fettered
 cateno | 4 | figuratively linked or unbroken: catenati labores, unremitting toil; versus catenati, verses linked one to another
-caterva | 1 | crowd
-caterva | 3 | a crowd, troop or band of people: magna caterva, a good large company; catervae testium, crowds of witnesses
+caterva | 1 | troop
+caterva | 3 | a troop, band or crowd of people: magna caterva, a good large company; catervae testium, crowds of witnesses
 caterva | 4 | in the army a body of troops, and above all the loose formations of barbarian peoples set against the Roman legions
 caterva | 5 | in the theatre the whole company of actors, usually called a grex
 caterva | 6 | figuratively: caterva verborum, a rabble of words
@@ -1447,7 +1447,7 @@ cibarius | 6 | figuratively second-rate: cibarius Aristoxenus, a very ordinary m
 cibatus | 1 | food
 cibatus | 3 | food or nourishment, a word of the early and the late writers, and of Pliny
 cibo | 1 | feed
-cibo | 3 | to give food to animals: pullos cibare, to feed the chicks
+cibo | 3 | to give food to animals: genera avium cibare, to feed birds of various kinds
 cibo | 4 | in the passive, to take food
 cibo | 5 | in late Latin, of feeding people as well
 cibus | 1 | food
@@ -1746,7 +1746,7 @@ circumsedeo | 1 | besiege
 circumsedeo | 3 | to sit round a person or thing: florentes amicorum turba circumsedet, a crowd of friends sits round the prosperous man
 circumsedeo | 4 | above all to encamp round a place in war, to blockade it: qui Mutinam circumsedent, those who are investing Mutina
 circumsedeo | 5 | figuratively to beset: circumsessus muliebribus blanditiis, beset by women's coaxing
-circumsisto | 1 | surround
+circumsisto | 1 | close in
 circumsisto | 3 | to take one's stand round a person or thing: quid me circumsistitis, why do you crowd round me
 circumsisto | 4 | absolutely: sex lictores circumsistunt, six lictors close in about him
 circumsono | 1 | resound around
@@ -1785,7 +1785,7 @@ circumsto | 7 | its perfect forms are the same as those of circumsisto, so that 
 circumstrepo | 1 | din around
 circumstrepo | 3 | to make a noise round about, a word later than Augustus: clamore seditiosorum circumstrepitur, he is shouted down by the din of the mutineers
 circumstrepo | 4 | to shout clamorously round: ceteri circumstrepunt, the rest clamour about him
-circumstrepo | 5 | figuratively: minae humanam vitam circumstrepentes, the threats that clamour round a man's life
+circumstrepo | 5 | figuratively: humanam vitam circumstrepentibus minis, with threats clamouring round a man's life
 circumstruo | 1 | build around
 circumstruo | 3 | to build up round a thing, later than Augustus and mostly in the passive participle: ripis lapide circumstructis, with the banks walled up in stone
 circumstruo | 4 | circumstructo lacu, with a basin built round about
