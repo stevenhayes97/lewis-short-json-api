@@ -1125,3 +1125,41 @@ cedo1 | 7 | to pass away or disappear: vita cedere, to depart this life; horae c
 cedo1 | 8 | to give way to someone as the better man: cedere auctoritati, to bow to authority; nulla re cedere, to be second in nothing
 cedo1 | 9 | with an accusative, to grant or concede something to someone
 cedo1 | 10 | to fall to someone as a possession, or to turn into something: captiva corpora Romanis cessere, the prisoners fell to the Romans; temeritas in gloriam cesserat, rashness had turned into glory
+cedo2 | 1 | give here
+cedo2 | 3 | an old imperative form, with a plural cette, belonging to lively familiar speech: cedo aquam manibus, water for my hands
+cedo2 | 4 | in asking for information, out with it, tell me: cedo istuc tuum consilium, let us hear this plan of yours
+cedo2 | 5 | asking leave to do a thing: cedo ut bibam, let me have a drink
+cedo2 | 6 | calling attention, come now, just look: cedo mihi leges Atinias, produce me the Atinian laws
+celeber | 1 | crowded
+celeber | 2 | famous
+celeber | 3 | of a place, much frequented and full of people, the opposite of desertus: celeber locus, a busy spot
+celeber | 4 | of an occasion, kept by a great gathering, and so solemn and festive: dies celeberrimi, high days of festival
+celeber | 5 | renowned: celeber triumphis, famous for his triumphs; celeber fama, of great repute
+celeber | 6 | rarely often repeated or frequent: verba celeberrima, words for ever on people's lips
+celeber | 7 | its masculine sometimes appears as celebris
+celebratio | 1 | gathering
+celebratio | 3 | a large concourse of people: hominum coetus et celebrationes, the meetings and gatherings of men
+celebratio | 4 | the keeping of a festival in great numbers: celebratio ludorum, the holding of the games
+celebratio | 5 | an honouring or commending: celebrationem habere, to be held in esteem
+celebritas | 1 | crowd
+celebritas | 2 | renown
+celebritas | 3 | a great number or throng, the opposite of solitudo: celebritas judiciorum, the crush of business in the courts
+celebritas | 4 | a solemn celebration: celebritas supremi diei, the great procession of a funeral
+celebritas | 5 | fame or repute: celebritas nominis, the renown of a name; celebritas famae, the spread of one's reputation
+celebro | 1 | celebrate
+celebro | 2 | throng
+celebro | 3 | to go to a place in numbers, to crowd or fill it: viam celebrare, to throng the road; domum alicujus celebrare, to fill someone's house
+celebro | 4 | to do a thing often or in company, to practise or repeat it
+celebro | 5 | to fill one thing with another: ripas carmine celebrare, to fill the banks with song
+celebro | 6 | to keep a festival: festos dies celebrare, to keep holy days
+celebro | 7 | to praise or sing the praises of a person: celebrare carminibus, to celebrate in song
+celebro | 8 | simply to make a thing widely known, to publish it abroad
+celebro | 9 | its participle celebratus, either much frequented, or customary, or famous: loci fama celebrati, places of famous name
+celer1 | 1 | swift
+celer1 | 3 | quick in movement: celeris sagitta, a swift arrow; celeres aves, swift birds
+celer1 | 4 | of the mind and of things: mens qua nihil est celerius, the mind, than which nothing is quicker; oratio celeris et concitata, rapid and excited speech
+celer1 | 5 | in reproach, hasty and rash: celeria consilia, headlong plans; celeris victoria, a victory too quickly won
+celer1 | 6 | its adverb is celeriter, and it also has an old neuter form celere
+celeritas | 1 | speed
+celeritas | 3 | swiftness or quickness, the opposite of tarditas: celeritas equorum, the speed of horses
+celeritas | 4 | Cicero notes that swiftness of body goes by the name celeritas, and that the same quality in the mind counts as a merit
