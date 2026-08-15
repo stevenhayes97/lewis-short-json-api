@@ -2075,6 +2075,9 @@ clepo | 1 | steal
 clepo | 3 | to steal, a rare and mostly early word where furor is the usual one: si quis clepsit, if anyone has stolen it, from an old legal form
 clepo | 4 | figuratively to take secretly: sermonem clepere, to listen in on a conversation
 clepo | 5 | se clepere, to steal away or hide oneself
+clepsydra | 1 | water-clock
+clepsydra | 3 | a clock worked by dripping water, answering to our hourglass
+clepsydra | 4 | speakers used one to time their speeches, so that the word stands for the time allowed
 cliens | 1 | client
 cliens | 3 | a client, retainer or follower, the dependant of a Roman patron
 cliens | 4 | of whole peoples, the allies or vassals of a stronger nation
@@ -2090,6 +2093,8 @@ clima | 1 | climate
 clima | 3 | a clime or region, a word of late Latin taken from the Greek
 clima | 4 | more widely a part or quarter of anything
 clima | 5 | also a land measure of sixty feet square
+clipeo | 1 | shield
+clipeo | 3 | to arm or cover with a shield, a rare word: clamide contorta clupeat bracchium, he shields his arm with his cloak wrapped round it
 clipeus | 1 | shield
 clipeus | 3 | the round bronze shield of the Roman soldier, where the scutum was oval and made of wood covered with hide
 clipeus | 4 | figuratively a shield or protection
@@ -2100,6 +2105,9 @@ clitellae | 1 | pack-saddle
 clitellae | 3 | the saddle put on beasts of burden, and above all on asses
 clitellae | 4 | proverbially: bovi clitellas imponere, to put a pack-saddle on an ox, of work given to the wrong creature
 clitellae | 5 | also a place in Rome named from its shape, and a kind of instrument of torture
+clivosus | 1 | hilly
+clivosus | 3 | full of slopes or steep, a poetic word and one of later prose: clivosum rus, hilly country; clivosus trames, a steep path
+clivosus | 4 | figuratively of what is hard going: clivosus trames vitae, the steep road of life
 clivus | 1 | slope
 clivus | 3 | a gently rising height, a slope or a road that climbs: molli clivo, by a gentle rise
 cloaca | 1 | sewer
@@ -2109,6 +2117,9 @@ cloaca | 5 | proverbially: arcem facere e cloaca, to make a citadel out of a sew
 clueo | 1 | be called
 clueo | 3 | to hear oneself named in some way, and so to be spoken of or reputed, the same as dici
 clueo | 4 | an old word, also found in the form cluo
+clunis | 1 | buttock
+clunis | 3 | the haunch or buttock, of people and of animals, and mostly in the plural
+clunis | 4 | it is found as both masculine and feminine
 coacervo | 1 | heap up
 coacervo | 3 | to pile together or gather in a mass: pecuniae coacervantur, money is piled up
 coacervo | 4 | figuratively: argumenta coacervare, to heap up arguments; luctus coacervare, to pile grief on grief
@@ -2133,3 +2144,18 @@ coaedifico | 4 | loci coaedificati an vasti, ground built on or ground left empt
 coaequo | 1 | level
 coaequo | 3 | to make one thing even with another: aream coaequare, to level a threshing floor; montes coaequare, to level the hills
 coaequo | 4 | figuratively, to put things on the same footing
+coagmento | 1 | join together
+coagmento | 3 | to glue, cement or fit one thing to another: opus quae coagmentavit natura dissolvit, nature unmakes the work she herself put together
+coagmento | 4 | figuratively of words: verba compone et quasi coagmenta, arrange your words and cement them, as it were, in place
+coagmentum | 1 | joint
+coagmentum | 3 | a joining together, and concretely a joint, mostly in the plural
+coagmentum | 4 | figuratively a fitting together: coagmentum syllabarum, the joining of syllables
+coagulum | 1 | rennet
+coagulum | 3 | anything used to curdle milk, and so the curdled milk in a suckling's stomach, or the stomach itself
+coagulum | 4 | figuratively a bond or tie: coagulum animi atque amoris, the bond of heart and affection
+coalesco | 1 | grow together
+coalesco | 3 | to unite or knit into one: saxa sola colescere calce, stones that hold together by lime alone
+coalesco | 4 | of a graft, to take: ne prius exarescat surculus quam colescat, that the shoot may not dry up before it knits
+coalesco | 5 | figuratively of people, to come together and agree: Trojani et Aborigines facile coaluerunt, Trojans and natives easily grew into one people
+coalesco | 6 | to take root and grow strong: grandis ilex coaluerat inter saxa, a great oak had sprung up among the rocks
+coalesco | 7 | figuratively to become established: dum auctoritas nondum coaluisset, while his standing had not yet taken hold
