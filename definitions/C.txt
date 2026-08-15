@@ -1,0 +1,120 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_C.json (Lewis & Short via Perseus), simplified for learners.
+cachinno1 | 1 | guffaw
+cachinno1 | 3 | to laugh out loud, to roar with laughter, often in mockery: cachinnare ipse Apronius, Apronius roaring with laughter himself
+cachinno1 | 4 | with an accusative of what is laughed at: exitum meum cachinnant, they laugh at my downfall
+cachinno1 | 5 | in the poets of the sea, to plash or roar
+cachinnus | 1 | guffaw
+cachinnus | 3 | a loud burst of laughter, and often a jeering one: cachinnum tollere, to set up a roar of laughter
+cachinnus | 4 | cachinnos commovere, to raise a laugh against someone; effusus in cachinnos, bursting into peals of laughter
+cachinnus | 5 | res digna tuo cachinno, a thing worth a laugh from you
+cachinnus | 6 | in the poets of the sea: leni resonant plangore cachinni, the ripples answer with a gentle splash
+caco | 1 | defecate
+caco | 3 | to empty the bowels, a coarse word of the satirists and epigrammatists
+caco | 4 | transitively, to void something, and so to foul with excrement: cacata charta, a befouled sheet, said of a worthless book
+cacula | 1 | soldier's servant
+cacula | 3 | a servant, and above all the one who waited on a soldier: caculam militarem me futurum, that I am to be a soldier's man
+cacula | 4 | an old word, which the later grammarians gloss as servus militis
+cacumen | 1 | tip
+cacumen | 3 | the extreme point of anything, whether it runs up or along, where culmen is a height alone
+cacumen | 4 | most often a treetop: umbrosa cacumina, shady treetops
+cacumen | 5 | the peak of a mountain, or the top of any tall thing
+cacumen | 6 | figuratively the limit or highest pitch: ad summum venire cacumen, to reach the height of perfection
+cacumen | 7 | in the grammarians, the accent mark written over a letter
+cadaver | 1 | corpse
+cadaver | 3 | a dead body, of man or beast; the word comes from cado, what has fallen: taetra cadavera, foul corpses
+cadaver | 4 | especially of those killed in war, and of slaves and criminals left unburied
+cadaver | 5 | as abuse of a worthless man, carcass: ejectum cadaver, that cast-off carcass
+cadaver | 6 | of towns laid waste, their remains: tot oppidum cadavera, so many corpses of towns
+cado | 1 | fall
+cado | 3 | to fall or drop, of anything carried from a higher place to a lower: cadere in plano, to fall on level ground; arbores in te cadent, the trees will come down on you
+cado | 4 | of heavenly bodies, to set: solem cadentem, the setting sun; Arcturus cadens, Arcturus going down
+cado | 5 | to fall off or be shed: dentes cadunt, the teeth drop out; lapsa cadunt folia, the leaves slip and fall
+cado | 6 | of rivers, to empty themselves: flumina in pontum cadent, the rivers will run down into the sea
+cado | 7 | to fall in battle: in acie cadere, to fall in the line; and of victims, cadet hostia, a victim shall fall
+cado | 8 | to come under a thing, or to suit it, with sub or in: sub sensus cadere, to fall within the senses; non cadit in hunc hominem, it does not fit a man like this
+cado | 9 | to turn out or come to pass, often against expectation: quorsum id casurum esset, how it would turn out; in cassum cadere, to come to nothing
+cado | 10 | of wind, strength or fortunes, to drop and die away: cadit Eurus, the east wind falls; cadunt vires, the strength gives out
+caduceator | 1 | herald
+caduceator | 3 | an envoy sent under flag of truce, carrying the caduceus: caduceatori nemo homo nocet, no man does a herald harm
+caduceator | 4 | Livy uses the word of envoys suing for peace
+caduceator | 5 | in late writers also an attendant on a priest
+caduceum | 1 | herald's staff
+caduceum | 3 | the staff carried as the sign of a peaceful embassy, first an olive branch hung with fillets, later worked into serpents: caduceo ornatus, carrying the herald's staff
+caduceum | 4 | also the staff of Mercury as messenger of the gods
+caduceum | 5 | it appears both as a neuter caduceum and a masculine caduceus
+caducus | 1 | falling
+caducus | 2 | perishable
+caducus | 3 | that falls or has fallen: caducae frondes, falling leaves; glans caduca, an acorn that has dropped
+caducus | 4 | ready to fall and needing support: vitis natura caduca, the vine, which of itself sinks to the ground
+caducus | 5 | of men, fallen in war or doomed to die: bello caduci, those who fell in the fighting
+caducus | 6 | in medicine, subject to fits: morbus caducus, the falling sickness, epilepsy
+caducus | 7 | figuratively frail and fleeting: res humanae fragiles caducaeque, human things, brittle and soon gone
+caducus | 8 | in law, of a bequest that lapses because the named heir cannot take it, and as a noun caducum, an estate left without an owner
+caducus | 9 | as an adverb caduciter, headlong
+caecitas | 1 | blindness
+caecitas | 3 | the loss of sight
+caecitas | 4 | figuratively blindness of mind: caecitas mentis, said both of madness and of moral folly
+caeco | 1 | blind
+caeco | 3 | to make blind, to take away sight: sol caecat, the sun dazzles one blind
+caeco | 4 | in gardening, to destroy a bud or eye
+caeco | 5 | figuratively, to darken the judgment: caecare mentes, to blind people's minds; caecati libidinibus, blinded by their appetites
+caecus1 | 1 | blind
+caecus1 | 3 | of a person, unable to see: apparet id etiam caeco, even a blind man can see that
+caecus1 | 4 | figuratively, blind in mind or in morals: pectora caeca, blind hearts; caecus cupidine, blinded by desire
+caecus1 | 5 | of the passions themselves: caeca cupido, blind craving; caecus amor sui, blind self-love
+caecus1 | 6 | so also at random, with nothing to go on: caecus timor, groundless fear
+caecus1 | 7 | passively, that cannot be seen, hidden or secret: caecum vallum, a masked palisade; vada caeca, unseen shoals
+caecus1 | 8 | of what blocks the sight, dark or thick: caeca nox, blind night; caecae tenebrae, thick darkness
+caecus1 | 9 | figuratively uncertain or obscure: caeca exspectatio, waiting with nothing to judge by; caeci morbi, diseases whose cause not even doctors can see
+caecus1 | 10 | of plants without buds, and of the caecum, the blind gut
+caedes | 1 | slaughter
+caedes | 3 | a killing, massacre or carnage, above all in battle or by an assassin: caedem caede accumulantes, piling slaughter on slaughter
+caedes | 4 | the killing of animals, and especially of victims: caedes bidentium, the slaying of sacrificial sheep
+caedes | 5 | the slain themselves: caedis acervi, heaps of the dead; plenae caedibus viae, streets full of corpses
+caedes | 6 | the blood shed in killing: caede madentes, dripping with gore; respersus fraterna caede, splashed with a brother's blood
+caedes | 7 | an attempt at murder: nostrae injuria caedis, the outrage of an attempt on our lives
+caedes | 8 | in its first sense, a cutting or lopping: ligni atque frondium caedes, the cutting of wood and leaves
+caedes | 9 | in later writers, a beating with the fists
+caedo | 1 | cut
+caedo | 2 | kill
+caedo | 3 | to cut, hew or fell: arbores caedere, to fell trees; silvam caedere, to clear a wood
+caedo | 4 | to strike or beat: caedere januam saxis, to batter a door with stones; caedere verberibus, to flog
+caedo | 5 | proverbially: ut vineta egomet caedam mea, to cut down my own vineyard, that is to do myself harm; stimulos pugnis caedere, to punch at the goad, making a danger worse by struggling
+caedo | 6 | to strike dead, to murder: jure caesus videri, to be held lawfully killed
+caedo | 7 | in war, to cut an army to pieces: exercitus caesus fususque, an army cut up and routed
+caedo | 8 | to slaughter animals, above all for sacrifice: caesis victimis, the victims having been slain
+caedo | 9 | caedere sermones, a turn taken from the Greek, to chop words, that is to chat
+caedo | 10 | in law, pignus caedere, to declare a pledge forfeit
+# review: caeduus of wood that may be cut without harming the stand; 'coppiced' names the practice rather than the fitness
+caeduus | 1 | fit for felling
+caeduus | 3 | of timber that may be cut without harm to what is left, a term of the farming writers: silva caedua, coppice wood
+caeduus | 4 | so also of a wood's natural yield for cutting
+caelatura | 1 | engraving
+caelatura | 3 | the art of working reliefs in metal, which Quintilian marks off from sculptura, that works in wood, ivory, marble and glass as well
+caelatura | 4 | such work in other materials too, for instance in clay
+caelatura | 5 | the engraved figures themselves, chased work: attritae caelaturae, reliefs rubbed smooth with handling
+caelebs | 1 | unmarried
+caelebs | 3 | single, whether a bachelor or a widower: caelebs senex, an old man with no wife
+caelebs | 4 | of what belongs to that state: caelebs vita, the single life; caelebs lectus, an empty bed
+caelebs | 5 | of animals: caelebs columba, a dove without its mate
+caelebs | 6 | of a tree with no vine trained on it, since the vine is said to be married to its tree: caelebs platanus, the unwedded plane
+caeles | 1 | heavenly
+caeles | 3 | a poetic form beside caelestis, and never found in the nominative singular: di caelites, the gods of heaven
+caeles | 4 | most often a noun in the plural, caelites, the dwellers in heaven, the gods
+caelestis | 1 | heavenly
+caelestis | 3 | divine, belonging to the gods: caeleste numen, divine power; caelestis ira, the anger of heaven
+caelestis | 4 | as a masculine noun a god, and in the plural caelestes, the gods: in concilio caelestium, in the council of the gods
+caelestis | 5 | as a neuter plural caelestia, the things of heaven set against human affairs: haec caelestia semper spectato, keep your eyes always on these heavenly things
+caelestis | 6 | of anything splendid or outstanding, godlike: caeleste ingenium, a divine talent
+caelestis | 7 | commonest as a compliment paid to great men from the Augustan age on, and used so only once by Cicero
+caelicola | 1 | heaven-dweller
+caelicola | 3 | one who dwells in heaven, a poetic word for a god
+caelicola | 4 | the poets favour its genitive plural caelicolum
+caelicola | 5 | in late Latin, a worshipper of the heavens
+caelo | 1 | engrave
+caelo | 3 | to work a design in relief on metal, above all on silver, or on ivory
+caelo | 4 | also on other materials, on wood, marble or glass: caelatum divini opus Alcimedontis, a carved work of the peerless Alcimedon
+caelo | 5 | of fine weaving or embroidery: velamina caelata multa arte, hangings worked with great skill
+caelo | 6 | of poetry: caelatum novem musis opus, a work chased by the nine Muses
+caelo | 7 | figuratively of the stars: caelatum stellis Delphina, the Dolphin picked out in stars
