@@ -462,3 +462,73 @@ candeo | 6 | rarely of passion, to burn: felle canduerint viscera, when the hear
 candesco | 1 | grow white
 candesco | 3 | to begin to shine or whiten, the inchoative to candeo: aer candescit solis ab ortu, the sky whitens as the sun comes up
 candesco | 4 | to grow red hot: ferrum candescit in igni, the iron glows white in the fire
+candico | 1 | be whitish
+candico | 3 | to have a whitish cast, formed from candeo as albico is from albeo, and first used by the elder Pliny: candicans vadum, a shoal showing white
+candidatus1 | 1 | candidate
+candidatus1 | 3 | as an adjective, dressed in white, where Cicero and Horace use albatus instead
+candidatus1 | 4 | as a noun, a candidate for office, named from the glittering white toga he wore: candidatus praetorius, a candidate for the praetorship
+candidatus1 | 5 | figuratively, one who aims at anything: candidatus immortalitatis, a candidate for immortality
+candidatus1 | 6 | its feminine candidata, a woman seeking an office
+candidus | 1 | white
+candidus | 2 | sincere
+candidus | 3 | a glittering dazzling white, where albus is a white without lustre; its opposite is niger, a glossy black
+candidus | 4 | of bright objects: candida luna, the bright moon; candida sidera, the shining stars
+candidus | 5 | of creatures and things: candidior cygnis, whiter than swans; alta nive candidum Soracte, Soracte white with deep snow
+candidus | 6 | of beauty of person, fair and lovely: candidus et pulcher puer, a fair and handsome boy
+candidus | 7 | of the hair, hoary, and more poetic than canus: candidior barba, a whiter beard
+candidus | 8 | of dress, and so standing for candidatus, robed in white: candida turba, the crowd in white
+candidus | 9 | figuratively of style, clear and unaffected: candidum genus dicendi, a plain flowing manner
+candidus | 10 | of character, open and honest, and of circumstances, happy: candidus judex, a fair-minded judge; candida fata, a kindly destiny
+candor | 1 | whiteness
+candor | 2 | sincerity
+candor | 3 | a dazzling glossy whiteness, radiance or brilliance: candore recenti, with fresh brightness
+candor | 4 | of beauty of person, fairness: candore mixtus rubor, a blush mingled with the fair skin
+candor | 5 | of style, either brilliance or the plainness that is free of affectation: mirae jucunditatis clarissimique candoris, of wonderful charm and the clearest simplicity, said of Livy
+candor | 6 | of character, openness and integrity: candor animi, an honest heart
+candor | 7 | rarely glow or heat: aestivus candor, the blaze of summer
+caneo | 1 | be grey
+caneo | 3 | to be grey or white with age, mostly poetic: canebat sparsa senectus, old age showed grey about the temples
+caneo | 4 | its participle canens, hoary or white: canens senecta, white old age
+canesco | 1 | grow grey
+canesco | 3 | to turn white or hoary, the inchoative to caneo: capilli canescunt, the hair goes grey
+canesco | 4 | of things whitening: canescant aequora remis, the waters whiten under the oars
+canesco | 5 | so to grow old: quercus canescet saeclis innumerabilibus, the oak will grow old through ages past counting
+canesco | 6 | of speech, to grow feeble with age: oratio canesceret, the style was losing its edge
+canicula | 1 | little dog
+canicula | 3 | a small dog or bitch, and as abuse of a snappish woman
+canicula | 4 | the Dog Star, whose rising marked the hottest days: flagrans canicula, the blazing Dog Star; sitiens canicula, the thirsty Dog Star
+canicula | 5 | a kind of dogfish
+canicula | 6 | the worst throw at dice, the dog throw, against the Venus
+caninus | 1 | of dogs
+caninus | 3 | belonging to a dog: caninum lac, dog's milk; caninus rictus, a dog's snarl
+caninus | 4 | caninum far, the coarse bread given to dogs; dentes canini, the eye teeth
+caninus | 5 | as a feminine noun canina, dog's flesh: canis caninam non est, dog does not eat dog
+caninus | 6 | figuratively snarling and abusive: canina facundia, eloquence with a growl in it; littera canina, the dog letter, that is R
+caninus | 7 | caninum prandium, a lunch with no wine at it, and so a mean meal
+canis1 | 1 | dog
+canis1 | 3 | the dog of the house, the farm and the hunt: cave canem, beware of the dog, often written up at a doorway
+canis1 | 4 | as abuse, of a shameless person or a savage one
+canis1 | 5 | the regular word for the hangers-on of a great Roman, his creatures
+canis1 | 6 | in myth of Cerberus: tergeminus canis, the three-headed dog
+canis1 | 7 | proverbially: cane pejus et angui vitare, to shun a thing worse than dog or snake; canis caninam non est, dog does not eat dog
+canis1 | 8 | the constellation, Canis Major with Sirius in it, and Canis Minor, the Little Dog
+canis1 | 9 | the dogfish, canis marinus, and in the poets the dogs of Scylla
+canis1 | 10 | the worst throw at dice, the dog throw: canem mittere, to throw the dog; and also a Cynic philosopher
+canities | 1 | grey hair
+canities | 3 | a grey or greyish-white colour, of a wolf's coat, of leaves, or of marble
+canities | 4 | above all the greyness of the hair, and so the grey hair itself: canitiem pulvere foedare, to foul the grey hairs with dust
+canities | 5 | so old age itself: canitiem sibi promittere, to promise oneself a grey old age
+cano | 1 | sing
+cano | 2 | play
+cano | 3 | to sing or make music, with the voice or on an instrument: voce vel fidibus canere, to sing or to play the lyre
+cano | 4 | of birds and other creatures: merula canit aestate, the blackbird sings in summer
+cano | 5 | of instruments and of places, to sound: canentes tibiae, the pipes sounding
+cano | 6 | with an object, to sing of or celebrate: canere laudes clarorum virorum, to sing the praises of famous men
+cano | 7 | proverbially: carmen intus canere, to sing to oneself, that is to look only to one's own advantage; cantilenam eandem canis, you are harping on the same old tune
+cano | 8 | since oracles came in verse, to prophesy or foretell: fera fata canere, to chant out grim destinies
+cano | 9 | in the army of signals, to sound: signa canere, to give the signal for battle; classicum cani jubere, to order the trumpet sounded
+cano | 10 | receptui canere, to sound the retreat, and figuratively to call someone off a thing
+canor | 1 | melody
+canor | 3 | a tune, song or sound, a rare and poetic word: res est blanda canor, song is a winning thing
+canor | 4 | of birds and living things: cygni canor, the swan's song
+canor | 5 | of instruments, their tone: Martius aeris rauci canor, the martial clang of hoarse bronze
