@@ -1022,3 +1022,56 @@ caulae | 5 | any enclosure
 cauliculus | 1 | little stalk
 cauliculus | 3 | the small stalk or stem of a plant, the diminutive of caulis, also spelt coliculus
 cauliculus | 4 | in architecture, a stalk carved as an ornament on the capital of a column
+caulis | 1 | stalk
+caulis | 3 | the stalk or stem of a plant: caulis brassicae, a cabbage stalk; caulis fabarum, a bean stem
+caulis | 4 | of the vine, its tendrils
+caulis | 5 | of things of like shape: the quill of a feather, the bony core of an ox's tail, and the tube an insect lays its eggs through
+caulis | 6 | it is also spelt colis or coles
+caupo | 1 | innkeeper
+caupo | 3 | a petty tradesman or huckster, and above all the keeper of an inn
+caupo | 4 | it has a shorter form copo
+caupo | 5 | figuratively, a man who sells wisdom and eloquence over a counter
+caupona | 1 | inn
+caupona | 3 | a retail shop, an inn or tavern, matching taberna: cauponam exercere, to keep an inn
+caupona | 4 | also the woman who keeps one, a landlady or hostess
+causa | 1 | cause
+causa | 2 | lawsuit
+causa | 3 | that on account of which a thing comes about, a cause, reason or motive
+causa | 4 | in the ablative after a genitive, for the sake of: mea causa, for my sake; honoris causa, by way of honour
+causa | 5 | a good reason or just ground: cum causa, with good reason; sine causa, for no reason at all
+causa | 6 | an excuse, and often a feigned one, a pretext: fingere falsas causas, to invent excuses
+causa | 7 | in law a case or process: causam agere, to plead a case; causa capitis, a trial for a man's life
+causa | 8 | outside the courts, the side or party a man supports: causam sequi, to follow a cause
+causa | 9 | a tie or connection between people, and more widely a condition or position: in eadem causa esse, to stand in the same case
+causa | 10 | in medicine the cause of a disease, and in late Latin the disease itself; in rhetoric the subject matter of a speech
+causalis | 1 | causal
+causalis | 3 | having to do with a cause, a rare and late word: causalis ratio, a reason drawn from cause
+causalis | 4 | in grammar, of conjunctions that give the reason for what has gone before, such as nam, enim and itaque
+causalis | 5 | as an adverb causaliter, by way of cause
+causarius | 1 | sickly
+causarius | 3 | in medicine, diseased or ailing: corpus causarium, an unhealthy body; dens causarius, a bad tooth
+causarius | 4 | in the army, discharged for ill health: missio causaria, a discharge on grounds of sickness
+causarius | 5 | as a noun, an invalid soldier
+causativus | 1 | causative
+causativus | 3 | having the force of a cause, a late word
+causativus | 4 | belonging to a lawsuit: causativum litis, the point at issue in an action
+causativus | 5 | in grammar, casus causativus, another name for the accusative, the case that lays the charge
+causidicus | 1 | pleader
+causidicus | 3 | an advocate who argues cases, said with some contempt beside the fuller word orator
+causidicus | 4 | causidici causas agere, for the pleaders to argue their cases
+causor | 1 | plead
+causor | 3 | to give something as one's reason, and usually a pretended one: causari aves aut omina dira, to plead birds or ill omens as an excuse
+causor | 4 | absolutely, to make excuses: causando nostros in longum ducis amores, with your excuses you drag our love out
+causor | 5 | in the early writers, to argue a matter out on both sides
+causor | 6 | it is not found in Cicero, and comes into use from the Augustan age on
+cautela | 1 | caution
+cautela | 3 | care or precaution, and mostly a late word: cum cura aut cautela, with care and caution
+cautela | 4 | in the lawyers, the same as cautio, a security or guarantee
+cautes | 1 | crag
+cautes | 3 | a rough pointed rock: saxa et cautes timere, to be afraid of rocks and reefs
+cautes | 4 | in the poets often of rocks at sea: durae cautes, hard crags; praerupta cautes, a sheer rock
+cautio | 1 | caution
+cautio | 3 | wariness and circumspection, which Cicero defines as avoidance guided by reason, where the same thing without reason is mere fear
+cautio | 4 | mihi cautio est, I must look out, a phrase of everyday speech
+cautio | 5 | res cautionem habet, the matter calls for care, or else admits of it
+cautio | 6 | in law a security, bond or guarantee, whether written or given by word
