@@ -1268,3 +1268,44 @@ centesimus | 3 | the ordinal numeral: pars centesima, the hundredth part; centes
 centesimus | 4 | as a feminine noun centesima, a tax of one per cent on goods sold
 centesimus | 5 | also interest at one per cent a month, which comes to twelve per cent a year
 centesimus | 6 | sometimes standing for centuplex, a hundredfold: centesima frux, a hundredfold crop
+cento1 | 1 | patchwork
+cento1 | 3 | a covering made of scraps stitched together, a rag quilt
+cento1 | 4 | a cap worn under the helmet
+cento1 | 5 | proverbially: centones sarcire alicui, to stitch patchwork for someone, that is to fob them off with lies
+cento1 | 6 | a poem pieced together out of another poet's lines, a cento
+centum | 1 | hundred
+centum | 3 | the numeral, and indeclinable: centum dies, a hundred days
+centum | 4 | in the poets for any large number: si linguae centum sint, if I had a hundred tongues; centum clavibus servata, guarded by a hundred keys
+# review: centumviri the name of a Roman civil court; there is no English name for it, and a translation has to spell the number out
+centumviri | 1 | court of a hundred
+centumviri | 3 | a bench of judges chosen each year for civil suits, and above all for cases about inheritance
+centumviri | 4 | it numbered a hundred and five members, and a hundred and eighty under the emperors
+# review: centuplico English has no one-word verb for increasing a thing a hundredfold
+centuplico | 1 | increase a hundredfold
+centuplico | 3 | to multiply a thing by a hundred, a late word
+centuplico | 4 | its participle centuplicatus, increased a hundredfold: fructus centuplicatus, a crop a hundred times over
+centuplus | 1 | hundredfold
+centuplus | 3 | a hundred times as much, a word of Christian Latin: fructus centuplus, a hundredfold yield
+centuplus | 4 | as a noun centuplum, a hundredfold return
+centuria | 1 | century
+centuria | 3 | properly a body of a hundred, though it is used of any division whether it numbers a hundred or not
+centuria | 4 | in farming, a measured block of land
+centuria | 5 | in the army, a company under one centurion
+centuria | 6 | of the Roman people, one of the hundred and ninety-three classes Servius Tullius divided them into by property
+# review: centurialis 'belonging to a centuria' in any of that word's senses; English has no adjective for it
+centurialis | 1 | of a century
+centurialis | 3 | belonging to a centuria in any of its senses
+centurialis | 4 | in farming: lapides centuriales, the boundary stones of a block of land
+centurialis | 5 | of a citizen enrolled in a century, and of the centurion's vine staff
+centuriatim | 1 | by centuries
+centuriatim | 3 | company by company or century by century: centuriatim citare populum, to call the people up by centuries
+centuriatim | 4 | figuratively in crowds, by hundreds
+# review: centurio1 'to divide into centuries'; English has no verb that carries it
+centurio1 | 1 | divide into centuries
+centurio1 | 3 | of land, to lay it out in blocks
+centurio1 | 4 | of the infantry, to draw them up in companies: conscribi centuriarique, to be enrolled and told off into companies
+centurio1 | 5 | of the people, in its participle: comitia centuriata, the assembly in which the Romans voted by centuries and chose the higher magistrates
+centurio2 | 1 | centurion
+centurio2 | 3 | the commander of a century, ranking below the tribune
+centussis | 1 | hundred asses
+centussis | 3 | a sum of a hundred asses, formed from centum and as
