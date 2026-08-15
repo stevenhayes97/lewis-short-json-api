@@ -433,3 +433,65 @@ bipes | 1 | two-footed
 bipes | 3 | going on two feet, of creatures and of things with two legs: bipes mensa, a two-legged table
 bipes | 4 | as a noun, and usually with contempt, of men: omnium bipedum nequissimus, the worst rogue that walks on two legs
 bipes | 5 | bipes asellus, a two-legged ass, said of a simpleton
+biremis | 1 | bireme
+biremis | 2 | two-oared
+biremis | 3 | as an adjective, having two oars: biremis scapha, a skiff with a pair of oars
+biremis | 4 | as a noun, a small boat rowed with two oars
+biremis | 5 | far more often a warship with two banks of oars, a bireme
+bis | 1 | twice
+bis | 3 | twice, on two occasions: non semel sed bis, not once but twice; bis mori, to die twice over
+bis | 4 | bis consul, one who has been consul twice in all, where iterum consul is one holding it for the second time
+bis | 5 | doubly, in two respects: in una civitate bis improbus fuisti, in one city you did wrong on two counts
+bis | 6 | of frequency: bis in die or bis die, twice a day; bis anno, twice a year
+bis | 7 | with distributives to give a total: bis bina, twice two; bis quinos dies, for ten days; bis deni, twenty
+bis | 8 | in the poets with cardinals as well: bis mille sagittae, two thousand arrows
+bis | 9 | bis terve, two or three times; bis terque, over and over again
+bis | 10 | bis tanto or bis tantum, twice as much; and proverbially bis ad eundem, to trip twice over the same stone
+bisextus | 1 | leap day
+bisextus | 3 | the day added every fourth year, so called because the sixth day before the Kalends of March was counted twice
+bisextus | 4 | sometimes written as two words, bis sextus
+bisulcus | 1 | cloven
+bisulcus | 3 | split in two: bisulca lingua, a forked tongue; bisulca ungula, a cloven hoof
+bisulcus | 4 | as a neuter plural noun bisulca, the cloven-footed animals, against the solidipedes with undivided hooves
+bivius | 1 | two-way
+bivius | 3 | having two ways in or out: biviae fauces, a pass open at either end
+bivius | 4 | as a neuter noun bivium, a place where two roads meet: ad bivia consistere, to halt where the roads divide
+bivius | 5 | figuratively a twofold road: bivium ad culturam, two paths to cultivation, practice and imitation
+blandimentum | 1 | blandishment
+blandimentum | 3 | flattering words and coaxing talk, usually in the plural: blandimentis capi, to be won over by flattery
+blandimentum | 4 | concessions made to win people round: blandimenta plebi dare, to offer the commons sweeteners
+blandimentum | 5 | anything that charms the senses, a pleasure or attraction: blandimenta vitae, the things that make life sweet
+blandimentum | 6 | of food, seasoning or relish
+blandimentum | 7 | of soothing treatments in medicine, and of careful tending in gardening
+blandior | 1 | flatter
+blandior | 3 | to fawn on someone and coax them, with a dative: matri blandiri, to make up to one's mother
+blandior | 4 | of animals, to fawn: cessit blandienti Cerberus, Cerberus gave way to his coaxing
+blandior | 5 | with ut and the subjunctive, to wheedle someone into doing something
+blandior | 6 | sibi blandiri, to flatter oneself and believe what one wishes: ne nobis blandiar, not to deceive ourselves
+blandior | 7 | of things, to be inviting or agreeable: voluptas sensibus blanditur, pleasure courts the senses
+blandior | 8 | so of circumstances: blandiebatur coeptis fortuna, fortune smiled on the undertaking
+blandior | 9 | its participle blanditus used as an adjective, charming or delightful
+blanditia | 1 | flattery
+blanditia | 3 | coaxing or caressing speech, mostly plural and usually without the sting of adulatio or assentatio
+blanditia | 4 | of the coaxing of a lover or a child: parentum blanditiae, a parent's caresses
+blanditia | 5 | of courting the people: occursatio et blanditia popularis, going about among them and making up to them
+blanditia | 6 | in a bad sense, flattery used to get something: blanditiis aliquid exprimere, to wheedle something out of someone
+blanditia | 7 | of things, charm or attraction: blanditiae voluptatum, the allurements of pleasure
+blandus | 1 | flattering
+blandus | 2 | charming
+blandus | 3 | of a person, smooth-tongued and ingratiating: blandum amicum a vero secernere, to tell the flatterer from the true friend
+blandus | 4 | of animals, fawning: blandae canes, dogs that fawn on you
+blandus | 5 | of speech, coaxing or winning: blanda vox, a caressing voice; blandae preces, winning entreaties
+blandus | 6 | of things, alluring, and often dangerously so: blanda voluptas, seductive pleasure
+blandus | 7 | in the poets with a genitive or an infinitive: blandus precum, ready with his entreaties
+blandus | 8 | as an adverb blande, coaxingly or gently: blande rogare, to ask winningly; blande excipere aliquem, to receive someone kindly
+blatero1 | 1 | babble
+blatero1 | 3 | to talk foolishly, to prate on, a word of everyday speech: desine blaterare, stop your babbling
+blatero1 | 4 | of noisy ranting: cum magno blateras clamore, you bluster away at the top of your voice
+blatero1 | 5 | also of the noise made by frogs and camels
+blatta1 | 1 | cockroach
+blatta1 | 3 | an insect that shuns the light, used of the cockroach, the chafer and the clothes moth: blatta lucifuga, the light-shunning grub
+blatta1 | 4 | proverbially a worthless creature: cecidi tamquam blatta in pelvim, I dropped like a beetle into a basin
+blatta2 | 1 | purple
+blatta2 | 3 | a clot of blood, which is where the word starts
+blatta2 | 4 | in late Latin the colour purple, named from the colour of blood: blatta serica, purple silk
