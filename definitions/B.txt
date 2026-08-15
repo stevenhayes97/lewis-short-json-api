@@ -495,3 +495,60 @@ blatta1 | 4 | proverbially a worthless creature: cecidi tamquam blatta in pelvim
 blatta2 | 1 | purple
 blatta2 | 3 | a clot of blood, which is where the word starts
 blatta2 | 4 | in late Latin the colour purple, named from the colour of blood: blatta serica, purple silk
+blattarius | 1 | of moths
+blattarius | 3 | belonging to moths: balnea blattaria, dark baths, named from the moth's dislike of light
+blattarius | 4 | as a feminine noun blattaria, the plant moth mullein
+boa | 1 | large snake
+boa | 3 | a big Italian serpent, said to grow large enough to swallow an ox whole
+boa | 4 | the name was also put down to its milking cows, and it is called a water snake
+boa | 5 | a disease that brings out red pustules, perhaps measles
+boa | 6 | in the form bova, a swelling of the legs brought on by hard travelling
+boarius | 1 | of cattle
+boarius | 3 | belonging to oxen or cattle, and also spelt bovarius
+boarius | 4 | forum boarium, the cattle market at Rome, beside the Circus Maximus
+boarius | 5 | its name was put down to the great bronze ox that stood there, or to the herd Hercules pastured there after taking it from Cacus
+boiae | 1 | collar
+boiae | 3 | a collar for the neck, at first of leather, which is where the name comes from, and later of wood or iron
+boiae | 4 | used on prisoners and slaves: attrita boiis colla, necks chafed by the collar
+bombycinus | 1 | silken
+bombycinus | 3 | made of silk: bombycina vestis, a silk dress
+bombycinus | 4 | as a neuter plural noun bombycina, silk clothes
+bonitas | 1 | goodness
+bonitas | 3 | good quality in a thing, its excellence: bonitas agrorum, the richness of the land; bonitas vini, the quality of the wine
+bonitas | 4 | of qualities of mind: bonitas ingenii, natural ability; bonitas causae, the strength of a case
+bonitas | 5 | of character, integrity: eam potestatem bonitate retinebat, he held that power by his honesty
+bonitas | 6 | kindness or good nature: perpetua naturalis bonitas, an unbroken natural kindliness
+bonitas | 7 | especially a parent's tenderness: facit parentes bonitas, non necessitas, it is kindness that makes parents, not necessity
+bonum2 | 1 | good
+bonum2 | 2 | advantage
+bonum2 | 3 | the neuter of bonus standing on its own: a good thing, a benefit
+bonum2 | 4 | predicatively, bonum esse, either to be morally good or to be useful and serviceable
+bonum2 | 5 | impersonally bonum est with an infinitive: bonum est pauxillum amare, a little love is a good thing
+bonum2 | 6 | melius est, it is better, and optimum est, it is best, each with an infinitive or an accusative and infinitive
+bonum2 | 7 | optimum factu est, it is best to do, with the supine
+bonum2 | 8 | with a dative, good for or serviceable to: alicui bono est, it is to someone's advantage
+bonum2 | 9 | cui bono, who stood to gain by it, the standing question in a Roman prosecution
+bonum2 | 10 | di meliora, heaven forbid, literally may the gods grant better than that
+bonus | 1 | good
+bonus | 3 | of a person, morally good and honest: vir bonus, a good man, and in law a man of standing whose judgment settles a matter
+bonus | 4 | of anyone in a role, good at the job: bonus consul, a good consul
+bonus | 5 | of things, sound or of high quality: bona valetudo, good health; bona aetas, the prime of life
+bonus | 6 | favourable or lucky: bona fama, a good name; bonis temporibus, in prosperous times
+bonus | 7 | of amount, considerable, and of birth, noble: bona pars, a large part; bono genere natus, born of good family
+bonus | 8 | its comparative is melior and its superlative optimus, both in constant use
+bonus | 9 | set phrases: bona fide, in good faith; bona venia, by your leave; bona pax, without a quarrel; bonae artes, honourable conduct, and also the liberal studies
+bonus | 10 | as a title of the gods: Juppiter Optimus Maximus; Bona Dea, the Good Goddess, whose rites no man might attend; and di boni, good heavens
+boo | 1 | roar
+boo | 3 | to cry aloud or bellow, chiefly an early and poetic word: boat caelum fremitu, the sky rings with the din
+boo | 4 | it has the older forms bovo and boere beside the usual boare
+boreas | 1 | north wind
+boreas | 3 | the north wind, for which the native Latin word is aquilo: Boreae frigus, the chill of the north wind
+boreas | 4 | by transfer the north itself: Boreae finitimum latus, the side that borders on the north
+boreas | 5 | personified as a god, son of the river Strymon and father of Calais and Zetes
+boreas | 6 | its adjective boreus, northern: sub axe boreo, under the northern sky
+bos | 1 | ox
+bos | 2 | cow
+bos | 3 | the animal of the plough and the herd, bull, ox or cow: bos est enectus arando, the ox is worn out with ploughing
+bos | 4 | in the feminine, a cow: bove eximia capta de grege, a splendid cow taken from the herd
+bos | 5 | its genitive plural is boum and its dative and ablative plural bubus or bobus
+bos | 6 | a kind of flatfish of the turbot family
