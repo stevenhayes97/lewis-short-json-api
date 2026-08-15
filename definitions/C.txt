@@ -532,3 +532,50 @@ canor | 1 | melody
 canor | 3 | a tune, song or sound, a rare and poetic word: res est blanda canor, song is a winning thing
 canor | 4 | of birds and living things: cygni canor, the swan's song
 canor | 5 | of instruments, their tone: Martius aeris rauci canor, the martial clang of hoarse bronze
+canorus | 1 | melodious
+canorus | 3 | of sound, tuneful and pleasant: vox suavis et canora, a sweet ringing voice
+canorus | 4 | of men, singing well or speaking musically: canorus orator, a speaker with a fine voice
+canorus | 5 | of birds and other creatures: canorae aves, songbirds; canorus ales, the swan
+canorus | 6 | of instruments: canorae fides, the ringing lyre; canorum aes, the clang of the trumpet
+canorus | 7 | as a fault of delivery, a sing-song tone
+cantherius | 1 | gelding
+cantherius | 3 | a gelded horse, and so a nag or hack: cantherium in fossam, put the hack in the ditch, said of what has served its turn
+cantherius | 4 | also an ass or a mule
+cantherius | 5 | in jest, of a man past his prime
+cantherius | 6 | in building, a rafter under the roof
+cantherius | 7 | in vine-growing, a trellis of poles with crosspieces
+cantherius | 8 | among horse-doctors, a frame for slinging a sick horse in
+canticum | 1 | song
+canticum | 3 | in Roman comedy a solo sung by one actor to music and dancing: canticum agere, to perform the song
+canticum | 4 | a song in general: obscena cantica, filthy songs
+canticum | 5 | a sing-song tone in a speaker's delivery
+canticum | 6 | a lampoon or libellous song, and also a magic formula
+canticum | 7 | in Christian Latin, Canticum Canticorum, the Song of Songs
+cantilena | 1 | old song
+cantilena | 3 | a song, and in classical use a scornful word for a stale one: cantilenam suam insusurrare, to keep whispering his same old tune
+cantilena | 4 | so of trite chatter and gossip
+cantilena | 5 | in later writers simply a song, with no slight meant by it
+cantio | 1 | song
+cantio | 3 | a singing or a song, a rare word and mostly early
+cantio | 4 | an incantation or spell: veneficiis et cantionibus, by drugs and spells
+cantito | 1 | sing often
+cantito | 3 | the frequentative of canto, to sing or play again and again: ut habeas quicum cantites, so that you have someone to sing with
+cantito | 4 | carmina in epulis cantitata, songs sung over and over at banquets
+canto | 1 | sing
+canto | 3 | frequentative in form but mostly the same in sense as cano: saltare et cantare, to dance and sing
+canto | 4 | of birds: prius quam galli cantent, before the cocks crow
+canto | 5 | of instruments, to sound: pastoris bucina cantat, the shepherd's horn sounds
+canto | 6 | with an object, to sing of or celebrate: cantare absentem amicam, to sing of the girl who is away
+canto | 7 | of an actor, to play a part: cantare Orestem, to act Orestes
+canto | 8 | of a speaker, to drawl in a sing-song: si legis, cantas, if you are reading, you are chanting
+canto | 9 | to harp on a thing and keep warning of it: haec dies noctes canto ut caveas, day and night I keep telling you to look out
+canto | 10 | in religion, to use charms and enchant: cantando rumpitur anguis, the snake is burst by chanting
+cantor | 1 | singer
+cantor | 3 | one who sings or plays, and so also a poet: cantor Apollo, Apollo the singer
+cantor | 4 | in the theatre an actor or performer: donec cantor vos plaudite dicat, until the player calls for your applause
+cantus | 1 | singing
+cantus | 3 | the making of melodious sound, by voice or by instrument, where carmen is the words themselves: cantus vocum, singing with the voice
+cantus | 4 | of instruments, playing: citharae cantus, the music of the lyre
+cantus | 5 | of birds: cantus avium, birdsong
+cantus | 6 | a prophetic or oracular chant: veridici cantus, songs that tell the truth
+cantus | 7 | a spell or magic song: cantus magici, magic chants
