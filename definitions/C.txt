@@ -668,3 +668,83 @@ capra | 3 | the female goat: capra fera, a wild she-goat, that is a roe
 capra | 4 | as a nickname for a man with bristly hair
 capra | 5 | Capra, the star in Auriga, said to be Amalthea set among the stars
 capra | 6 | by transfer, the rank smell of the armpits
+caprarius | 1 | of goats
+caprarius | 3 | belonging to goats: caprarius pastus, goat pasture
+caprarius | 4 | as a masculine noun caprarius, a goatherd
+caprea | 1 | roe
+caprea | 3 | a wild she-goat, the roe or roe deer
+capreolus | 1 | roebuck
+capreolus | 3 | a wild goat, the chamois or roebuck
+capreolus | 4 | named from the shape of its horns, a two-pronged hoe for cutting weeds
+capreolus | 5 | in the plural capreoli, in building, short timbers set slanting to hold something up, props or struts
+capreolus | 6 | of vines, the small tendrils that carry the branches
+caprificus | 1 | wild fig
+caprificus | 3 | the wild fig tree, whose name joins caper and ficus
+caprificus | 4 | also its fruit, a fig that never comes ripe
+caprigenus | 1 | goat-born
+caprigenus | 3 | of the goat kind, a poetic word: caprigenum pecus, a flock of the goat kind
+caprigenus | 4 | as a noun caprigeni, goats
+caprinus | 1 | of goats
+caprinus | 3 | belonging to goats: caprinus grex, a flock of goats; caprina pellis, goatskin
+caprinus | 4 | as a feminine noun caprina, goat's flesh
+capronae | 1 | forelock
+capronae | 3 | the hair hanging over the forehead, of men and of animals, matching antiae
+capronae | 4 | explained from caput and pronus, as the hair that hangs forward from the head
+capronae | 5 | an old and rare word
+captator | 1 | legacy-hunter
+captator | 3 | one who reaches eagerly after a thing: captator aurae popularis, a man who courts the popular breeze
+captator | 4 | above all one who angles for legacies, a stock figure with the satirists
+captio | 1 | deception
+captio | 3 | literally a catching or seizing: captio pignoris, the seizing of a pledge
+captio | 4 | a trick or fraud: si captionis aliquid vererere, if you feared some catch in it
+captio | 5 | in logic a fallacy or sophism: istius generis captiones, quibbles of that kind
+captio | 6 | by transfer harm or loss: mea captio est, the loss is mine
+captiosus | 1 | deceptive
+captiosus | 3 | full of deceit, of a bargain with a trap in it: captiosa societas, a partnership with a catch
+captiosus | 4 | in argument captious or sophistical: captiosae interrogationes, trick questions
+captivitas | 1 | captivity
+captivitas | 3 | the state of a prisoner, bondage, said of people and of animals alike
+captivitas | 4 | collectively, the body of captives
+captivitas | 5 | of places, their capture: captivitas urbium, the taking of cities
+captivitas | 6 | rarely of the eyes, blindness
+captivus | 1 | captive
+captivus | 3 | of people, taken prisoner: captiva corpora, prisoners taken alive
+captivus | 4 | as a noun, a prisoner of war, and in the feminine captiva, a captive woman
+captivus | 5 | in the poets, belonging to captives: captivus sanguis, the blood of prisoners; captivi crines, a captive's hair
+captivus | 6 | of animals, caught: captivi pisces, fish that have been taken
+captivus | 7 | of things, captured or carried off as booty: captivae naves, captured ships; captiva pecunia, plundered money
+captivus | 8 | figuratively: captiva mens, a mind taken prisoner, that is by love
+capto | 1 | catch at
+capto | 3 | the frequentative of capio, to snatch at or chase after eagerly: fugientia flumina captare, to snatch at waters that keep slipping away
+capto | 4 | figuratively to be after a thing and court it: sermonem captare, to listen out for what is being said
+capto | 5 | to lie in wait for someone and try to trap them
+capto | 6 | as a standing phrase, to hunt for legacies: testamenta senum captare, to angle for old men's wills
+capto | 7 | of talk, to open or take up: captato sermone, having got into conversation
+captura | 1 | catching
+captura | 3 | the taking of animals: captura piscium, the catching of fish
+captura | 4 | what is taken, the catch or prey: venatores cum captura, hunters with their bag
+captura | 5 | gain or wages, and usually from some low trade: inhonesti lucri captura, the takings of a shameful calling
+captus2 | 1 | grasp
+captus2 | 3 | a taking, or as much as can be taken at once: trium digitorum captu, a three-finger pinch
+captus2 | 4 | the power of taking a thing in, one's capacity: ut est captus alicujus, according to a person's lights
+captus2 | 5 | rarely of bodily powers: pro corporis captu, in proportion to their size
+# review: capularis said of an old man close to death, literally 'fit for the bier'; English has no adjective for it
+capularis | 1 | ready for burial
+capularis | 3 | belonging to the bier, said of an old man on the edge of the grave: capularis senex, an old man with one foot in the coffin
+capularis | 4 | also of criminals reckoned fit for the bier
+capulus | 1 | handle
+capulus | 2 | bier
+capulus | 3 | that by which a thing is held: capulus aratri, the plough handle; capulus sceptri, the shaft of a sceptre
+capulus | 4 | above all the hilt of a sword
+capulus | 5 | a coffin, bier or tomb, the old writers using it of the sarcophagus
+capulus | 6 | also a halter or noose for catching cattle
+caput | 1 | head
+caput | 2 | life
+caput | 3 | the head of man or beast: caput obnubere, to cover the head, as was done with a condemned man
+caput | 4 | proverbially: supra caput esse, to be over one's head, that is close at hand and threatening
+caput | 5 | standing for the whole person, a man, or a head of cattle: pro capite tuo, for your person
+caput | 6 | a man's civil standing, and so his life: capitis poena, the death penalty; capitis periculum adire, to put one's life at risk
+caput | 7 | the chief person or thing, the leader: caput scelerum, the head of all mischief, an arrant knave
+caput | 8 | the chief place, a capital: caput Italiae, the head city of Italy
+caput | 9 | of things, the top, point or end, and of a river its source: caput allii, a head of garlic; caput aquae, the spring where the water rises
+caput | 10 | in writings, a section or chapter: a primo capite legis, from the first clause of the law
