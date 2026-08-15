@@ -1668,3 +1668,41 @@ circumfundo | 4 | with the accusative of what is surrounded: mortuum cera circum
 circumfundo | 5 | of a crowd, in the middle voice, to press round and swarm about: circumfunduntur hostes, the enemy come crowding round
 circumfundo | 6 | to surround or overwhelm: praesidiorum copiis circumfusus, ringed about by the forces of the guard
 circumfundo | 7 | figuratively: undique circumfusae molestiae, troubles crowding in on every side; circumfusae tenebrae, darkness wrapped about one
+circumgredior | 1 | outflank
+circumgredior | 3 | to go or march round, and usually with hostile intent: terga circumgredi, to work round to the rear
+circumgredior | 4 | a word later than Augustus, used several times by Tacitus and rare elsewhere
+circumicio | 1 | throw around
+circumicio | 3 | to cast or set a thing round another: vallum circumicere, to throw up a rampart round
+circumicio | 4 | with an ablative, to encompass a thing with something: extremitatem caeli rotundo ambitu circumicere, to bound the edge of heaven with a round sweep
+circumicio | 5 | its participle circumjectus, lying round about: planities saltibus circumjecta, a plain hemmed in by wooded hills
+circumjaceo | 1 | lie around
+circumjaceo | 3 | to lie round about or border on: populi circumjacentes, the surrounding peoples
+circumjaceo | 4 | with a dative: Lycaonia et Phrygia circumjacent, Lycaonia and Phrygia lie round about
+circumjaceo | 5 | in rhetoric, as a neuter plural circumjacentia, the context
+circumjectus2 | 1 | encircling
+circumjectus2 | 3 | a casting round or an encompassing: tenero circumjectu amplecti, to hold in a soft embrace
+circumjectus2 | 4 | by transfer what is thrown round one, that is clothing
+circumlatro | 1 | bark around
+circumlatro | 3 | to bark round a person or a thing: leonem circumlatrare, to bay round a lion
+circumlatro | 4 | of the sea in late writers, to roar round: totum hoc circumlatrat aestus, the tide roars all round it
+circumlatro | 5 | figuratively to rail at someone: circumlatrantes haeretici, heretics yapping round about
+circumligo | 1 | bind around
+circumligo | 3 | to bind one thing to another: natam mediae circumligat hastae, he binds his daughter to the middle of the spear
+circumligo | 4 | with an ablative, to bind a thing about with something: stirpem salice circumligare, to tie the stem round with willow; ferrum stuppa circumligare, to wrap the iron with tow
+circumlino | 1 | smear around
+circumlino | 3 | to spread something over a thing: circumlita taedis sulfura, brimstone smeared over the torches
+circumlino | 4 | with an ablative, to daub a thing over: oculum pice circumlinere, to smear the eye with pitch
+circumlino | 5 | figuratively of style, to lay colour on: extrinsecus adductis rebus circumlinere, to set a thing off with borrowed colours
+circumlino | 6 | in the poets simply to cover: circumlita saxa musco, rocks coated over with moss
+circumlitio | 1 | smearing over
+circumlitio | 3 | an anointing or spreading over: circumlitio oris, a smearing of the face
+circumlitio | 4 | in painting, the tint given to marble by rubbing it with oil and wax
+circummunio | 1 | wall around
+circummunio | 3 | to build a wall round a place, to fortify or secure it; an old spelling is circummoenio
+circummunio | 4 | common in the historians, and often confused with circumvenire in the manuscripts
+circumnecto | 1 | bind around
+circumnecto | 3 | to wrap or bind round, a late word: flammis circumnexi, wrapped round in flames
+circumnecto | 4 | of the membrane that encloses the belly
+circumplecto | 1 | clasp around
+circumplecto | 3 | an active form standing beside the deponent circumplector: meum collum circumplecte, throw your arms round my neck
+circumplecto | 4 | circumplectito foramina laminis, cover the holes about with plates
