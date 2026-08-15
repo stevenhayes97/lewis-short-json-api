@@ -382,3 +382,54 @@ bilis | 7 | black bile also stands for madness: atra bili percita est, she is ou
 bimaris | 1 | between two seas
 bimaris | 3 | lying between two seas, and almost always of Corinth on its isthmus: bimaris Corinthi moenia, the walls of Corinth between its two seas
 bimaris | 4 | a favourite word of Ovid
+# review: bimatus a noun for 'the age of two years'; English has no noun that carries it
+bimatus | 1 | age of two
+bimatus | 3 | the age of two years, used of animals and plants: ante bimatum, before its second year
+bimatus | 4 | in Christian Latin also of children
+# review: bimembris literally 'of double members'; in practice always half man and half beast, which no single English word carries
+bimembris | 1 | double-limbed
+bimembris | 3 | of double bodily make, half man and half beast
+bimembris | 4 | most often of the Centaurs, half man and half horse: Centauri bimembres, the double-formed Centaurs
+bimembris | 5 | as a noun in the plural, bimembres, the Centaurs themselves
+bimestris | 1 | two-month
+bimestris | 3 | lasting two months: bimestris consulatus, a consulship of two months; bimestre stipendium, two months' pay
+bimestris | 4 | of two months' growth or age: bimestre triticum, wheat cut two months after sowing; bimestris porcus, a pig two months old
+bimus | 1 | two-year-old
+bimus | 3 | two years old, of animals, plants and wine: bimum merum, wine of two years
+bimus | 4 | lasting two years: altera legio bima, the second legion two years in service
+bimus | 5 | of payment by instalments: annua bima trima die, payable within one, two and three years
+bimus | 6 | in Cicero's letters, bima sententia, the motion to extend a governorship by two years
+bini | 1 | two each
+bini | 3 | the distributive numeral: two apiece, two at a time, two a year: bina talenta capiebat, he drew two talents a year
+bini | 4 | standing in for duo with nouns that have no singular or change their sense in the plural: binae litterae, two letters; bina castra, two camps
+bini | 5 | of things that come in pairs: boves bini, a yoke of oxen; bina hastilia, a pair of spears
+bini | 6 | without a noun: bis bina, twice two; findi in bina, to be split into two
+bini | 7 | bina milia, two thousand
+binominis | 1 | two-named
+binominis | 3 | having two names, used only by Ovid and only in the genitive singular: binominis Histri, of the Ister, which is also the Danube
+binominis | 4 | so too of Ascanius, who was also called Iulus
+bipalium | 1 | double mattock
+bipalium | 3 | a two-pronged spade for deep digging: bipalio vertere terram, to turn the soil with the double spade
+bipalium | 4 | hence also the depth such a tool reaches: ad bipalium defodere, to dig down two spade depths
+bipartio | 1 | halve
+bipartio | 3 | to divide into two parts, rare as a finite verb: ver bipartitur, spring falls into two halves
+bipartio | 4 | commonest in its participle: bipartita divisio, a division into two; genus bipartitum, a class split in two
+bipartio | 5 | its adverb bipartito, in two parts or in two directions: bipartito signa inferre, to attack in two columns
+# review: bipatens of double doors that open both ways; English has no adjective, and 'folding' misses the being thrown open
+bipatens | 1 | opening both ways
+bipatens | 3 | of double doors that swing open on two leaves: portae bipatentes, gates flung wide
+bipatens | 4 | of the halls of the gods: tecta bipatentia, halls open on either side
+bipatens | 5 | an Ennian word, kept alive by two passages of Virgil
+bipedalis | 1 | two-foot
+bipedalis | 3 | two feet long, broad or thick: bipedales trabes, beams two feet thick
+bipedalis | 4 | of a person's height, and so in mockery: adulescentulus bipedali minor, a youngster under two feet high
+bipedalis | 5 | as a neuter noun bipedale, a tile or flagstone two feet across
+bipennis2 | 1 | battle-axe
+bipennis2 | 3 | as an adjective, two-edged: bipennis securis, an axe with an edge each side
+bipennis2 | 4 | far more often a feminine noun, the axe itself: correpta dura bipenni, catching up the heavy axe
+bipennis2 | 5 | used both as a weapon and for felling: duris ut ilex tonsa bipennibus, like a holm oak lopped by hard axes
+bipennis2 | 6 | the name is explained from penna in its old sense of point, one on each side
+bipes | 1 | two-footed
+bipes | 3 | going on two feet, of creatures and of things with two legs: bipes mensa, a two-legged table
+bipes | 4 | as a noun, and usually with contempt, of men: omnium bipedum nequissimus, the worst rogue that walks on two legs
+bipes | 5 | bipes asellus, a two-legged ass, said of a simpleton
