@@ -168,3 +168,68 @@ belua | 4 | on its own very often the elephant: belua Inda, the beast of India
 belua | 5 | more loosely any animal, and in the plural the brutes as against man
 belua | 6 | as abuse, brute or monster, of a person: immanis belua, a monstrous brute
 belua | 7 | of things as well: quanta belua esset imperium, what a monster empire was
+bene | 1 | well
+bene | 2 | very
+bene | 3 | of doing a thing well or rightly, its comparative melius and superlative optime: bene facere, to act well
+bene | 4 | of the mind, thoroughly or accurately: bene nosse, to know well; bene meminisse, to remember clearly
+bene | 5 | in a moral sense, honourably: bene mori, to die a good death
+bene | 6 | bene dicere, to speak eloquently, or to use words of good omen, or with a dative to speak well of someone
+bene | 7 | bene facere alicui, to do someone a kindness, with a dative or with in and the ablative
+bene | 8 | bene est, all is well; bene habet, matters stand well; bene agitur cum aliquo, things go well with someone
+bene | 9 | in wishes and toasts: quod bene vertat, may it turn out well; bene te, your health
+bene | 10 | before another adverb, thoroughly or quite: bene mane, good and early; bene longe, a long way off
+benedico | 1 | bless
+benedico | 3 | in classical Latin written as two words, bene dicere, to speak well of someone
+benedico | 4 | in Christian Latin as one word with an accusative, to bless or praise God
+benedico | 5 | of people and things, to bless, consecrate or hallow: benedictum oleum, consecrated oil
+benedico | 6 | as a noun benedictus, one of the blessed
+benedictio | 1 | blessing
+benedictio | 3 | a word of Christian Latin: the praising or extolling of God
+benedictio | 4 | a blessing pronounced over someone
+benedictio | 5 | by transfer a consecrated object, such as a relic
+beneficentia | 1 | beneficence
+beneficentia | 3 | the quality of a beneficus man, doing good to others in practice
+beneficentia | 4 | Cicero says the same thing may be called benignitas or liberalitas
+beneficentia | 5 | the opposite of maleficentia, the doing of harm
+beneficiarius | 1 | privileged
+beneficiarius | 3 | as an adjective, granted by way of favour, and attested only once
+beneficiarius | 4 | usually a noun in the plural, beneficiarii, soldiers excused the fatigue duties of camp by their commander's favour
+beneficiarius | 5 | such men attended on their commander and were promoted by him
+beneficium | 1 | favour
+beneficium | 3 | a kindness done to someone, a service or good turn: beneficium dare, to do a favour; beneficium accipere, to receive one
+beneficium | 4 | in the ablative, thanks to or by the help of: beneficio tuo, thanks to you; sortium beneficio, by a lucky draw
+beneficium | 5 | in public life a mark of favour: an office, promotion or distinction in the gift of the people or a magistrate
+beneficium | 6 | especially a military promotion granted by a commander
+beneficium | 7 | in the lawyers a privilege or right: beneficium liberorum, release from jury service earned by having children
+beneficus | 1 | beneficent
+beneficus | 3 | ready to do good to others, obliging and open-handed: beneficus in amicum, generous towards a friend
+beneficus | 4 | its comparative and superlative are beneficentior and beneficentissimus
+beneficus | 5 | as an adverb benefice, beneficently
+benevolens | 1 | well-wishing
+benevolens | 3 | kindly disposed towards someone, the early form of benevolus and very common in Plautus
+benevolens | 4 | as a noun, a well-wisher or friend
+benevolens | 5 | it borrows its comparative and superlative from benevolus
+benevolentia | 1 | goodwill
+benevolentia | 3 | kindly feeling towards someone, weaker than amor: benevolentiam alicujus consequi, to win someone's goodwill
+benevolentia | 4 | in oratory, the favourable feeling a speaker sets out to win from his hearers
+benevolentia | 5 | in the lawyers, indulgence or leniency
+benevolentia | 6 | in the plural in later writers, acts of kindness
+benevolus | 1 | well-disposed
+benevolus | 3 | kindly towards someone, with erga and the accusative or a plain dative: benevolus erga aliquem, well disposed towards someone
+benevolus | 4 | in rhetoric, of an audience won over: benevolum auditorem efficere, to bring one's hearer round
+benevolus | 5 | of a slave, devoted and willing in service
+benevolus | 6 | as an adverb benevole, kindly
+benignitas | 1 | kindness
+benignitas | 3 | a kind and courteous bearing towards others: summa cum benignitate audire, to listen with the greatest kindness
+benignitas | 4 | in deeds, generosity or bounty: benignitate benignitas tollitur, generosity uses up the means of being generous
+benignitas | 5 | of nature, its bounty in providing: benignitas naturae, the generosity of nature
+benignitas | 6 | in the lawyers, leniency in applying a law
+benignus | 1 | kind
+benignus | 2 | generous
+benignus | 3 | of people, friendly and good-natured: comes benigni faciles homines, courteous, kindly, easy-going men
+benignus | 4 | of things, favourable or gentle: benigna oratio, a friendly speech; benignior interpretatio, a lenient reading of the law
+benignus | 5 | in the poets, lucky or propitious: benigna nox, a kindly night
+benignus | 6 | of giving, open-handed, and with a genitive free with something: vini somnique benignus, a hard drinker and a lover of sleep
+benignus | 7 | of soil and other things, yielding freely: benigna tellus, generous ground; benigna vena, a rich vein of talent
+benignus | 8 | as an adverb benigne, kindly: benigne respondere, to answer graciously; benigne facere alicui, to do someone a kindness
+benignus | 9 | benigne on its own in conversation, thank you, used both in accepting and in politely refusing
