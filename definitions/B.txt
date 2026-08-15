@@ -233,3 +233,95 @@ benignus | 6 | of giving, open-handed, and with a genitive free with something: 
 benignus | 7 | of soil and other things, yielding freely: benigna tellus, generous ground; benigna vena, a rich vein of talent
 benignus | 8 | as an adverb benigne, kindly: benigne respondere, to answer graciously; benigne facere alicui, to do someone a kindness
 benignus | 9 | benigne on its own in conversation, thank you, used both in accepting and in politely refusing
+beo | 1 | gladden
+beo | 3 | to make someone happy, a rare word and mostly poetic
+beo | 4 | in conversation beas or beasti, that delights me, I am glad to hear it
+beo | 5 | with an ablative, to bless someone with something: caelo Musa beat, the Muse rewards him with heaven
+beo | 6 | its participle beatus is the common word: happy, blessed, fortunate
+beo | 7 | beatus also of outward prosperity, well off or wealthy
+beo | 8 | of things, rich or splendid: beatae gazae, magnificent treasures
+beo | 9 | in later Latin blessed in the sense of dead: beatae memoriae, of blessed memory
+beo | 10 | as an adverb beate, happily: beate vivere, to live a happy life
+bes | 1 | two-thirds
+bes | 3 | two thirds of the as, that is eight of its twelve unciae
+bes | 4 | as a rate of interest, two thirds of one per cent a month, so eight per cent a year
+bes | 5 | two thirds of any whole: a share in a partnership, a sum of money, a piece of land, an inheritance
+bes | 6 | of weight, eight ounces of the pound
+bes | 7 | by transfer, simply the number eight
+bestia1 | 1 | beast
+bestia1 | 3 | any creature without reason as opposed to man; it covers both fera, the fierce beast, and belua, the big one
+bestia1 | 4 | a wild beast kept for the arena, with no need to add fera
+bestia1 | 5 | ad bestias mittere aliquem, to send someone to fight the beasts; bestiis objicere aliquem, to throw someone to them
+bestia1 | 6 | as abuse of a person, brute
+bestia1 | 7 | the name of a constellation, the Wolf
+bestiarius | 1 | beast-fighter
+bestiarius | 3 | as an adjective, to do with the beasts of the arena: ludus bestiarius, a beast fight
+bestiarius | 4 | as a noun, a man who fights wild beasts at the games, either a hired professional with weapons or a condemned criminal without them
+beta1 | 1 | beet
+beta1 | 3 | the garden beet, grown and eaten as a vegetable
+betaceus | 1 | of beet
+betaceus | 3 | made of the beet or belonging to it: pedes betacei, beetroots
+betaceus | 4 | as a masculine noun betaceus, a beetroot
+beto | 1 | go
+beto | 3 | to go, an old word found only before the classical period, also spelt baeto or bito: ad portum ne bitas, do not go to the harbour
+beto | 4 | it survives chiefly in its compounds, abito, ebito, perbito and the rest
+bibo1 | 1 | drink
+bibo1 | 3 | to drink, properly from thirst, where poto is drinking for pleasure or habit: aquam bibere, to drink water
+bibo1 | 4 | with the cup or measure as object: quot cyathos bibimus, how many measures have we drunk
+bibo1 | 5 | at parties, to drink a name, taking one cup for each of its letters
+bibo1 | 6 | in the poets, to drink a river, meaning to live beside it: qui Tiberim bibunt, the people of the Tiber
+bibo1 | 7 | bibere aquas, to be drowned, and of a ship to founder
+bibo1 | 8 | of things that soak liquid up: sat prata biberunt, the meadows have drunk enough
+bibo1 | 9 | figuratively, to drink in: bibere aure, to listen greedily; longum bibere amorem, to drink in a lasting love
+bibo1 | 10 | impersonally in the passive: estur, bibitur, there is eating and drinking going on
+bibulus1 | 1 | absorbent
+bibulus1 | 2 | hard-drinking
+bibulus1 | 3 | of things, soaking up moisture: bibula harena, thirsty sand; bibula charta, blotting paper
+bibulus1 | 4 | of a person, fond of drink, with a genitive of what: bibulus Falerni, a great drinker of Falernian
+bibulus1 | 5 | figuratively of the ears, drinking in what is said: bibulae aures, ears that hang on every word
+biceps | 1 | two-headed
+biceps | 3 | having two heads, of prodigies and of Janus: puella nata biceps, a girl born with two heads
+biceps | 4 | of a mountain with two peaks: biceps Parnasus, twin-peaked Parnassus
+biceps | 5 | of a sword, two-edged
+biceps | 6 | figuratively, split in two: bicipitem civitatem facere, to divide the state into two camps
+bicornis | 1 | two-horned
+bicornis | 3 | having two horns, of animals and of fauns
+bicornis | 4 | of the new moon, showing its two horns
+bicornis | 5 | of a fork with two prongs: bicornes furcae, two-pronged forks
+bicornis | 6 | of a river with two mouths: bicornis Rhenus, the two-mouthed Rhine
+bicornis | 7 | as a noun in the plural, horned beasts for sacrifice
+bicorpor | 1 | two-bodied
+bicorpor | 3 | having two bodies, a rare poetic word: bicorpores Gigantes, the giants of double body
+bicorpor | 4 | Cicero uses it of the Centaurs in a version from Sophocles: bicorpor manus, the two-bodied host
+bidens | 1 | two-toothed
+bidens | 2 | mattock
+bidens | 3 | as an adjective, having two teeth, or two prongs or points: bidens ancora, a two-fluked anchor
+bidens | 4 | as a masculine noun, a heavy hoe with two iron teeth: glaebam frangere bidentibus, to break the clod with mattocks
+bidens | 5 | so by transfer, farming itself: bidentis amans, a lover of the hoe
+bidens | 6 | as a feminine noun, a beast for sacrifice, most often a sheep: mactant lectas de more bidentis, they sacrifice chosen victims in due form
+bidens | 7 | the name is explained from the two rows of full-grown teeth that mark the animal's age
+# review: bidental English has no word for a spot struck by lightning and then consecrated; 'shrine' is close but not exact
+bidental | 1 | lightning shrine
+bidental | 3 | a place struck by lightning, which the haruspices then consecrated and fenced off
+bidental | 4 | named from the bidens, the sheep offered there to appease the stroke
+bidental | 5 | it was an offence to disturb one: triste bidental movere, to meddle with the grim enclosure
+biduus | 1 | two-day
+biduus | 3 | lasting two days, and as an adjective found only once
+biduus | 4 | its neuter noun biduum is the usual form, a space of two days: biduum supererat, two days were left
+biduus | 5 | in the genitive of measure: castra bidui, a camp two days' march away
+biennis | 1 | two-year
+biennis | 3 | lasting two years, a very rare word; where bienni appears it is usually the genitive of biennium instead
+biennium | 1 | two years
+biennium | 3 | a space of two years: biennium provinciam obtinere, to hold a province for two years
+biennium | 4 | in the ablative of time: biennio post, two years later
+bifarius | 1 | twofold
+bifarius | 3 | double, and as an adjective only in late writers
+bifarius | 4 | its adverb bifariam is the classical form: in two parts, on two sides, in two places
+bifarius | 5 | bifariam dividere, to divide in two; bifariam castra facere, to pitch camp in two places
+bifarius | 6 | figuratively, in two senses: bifariam intellegere aliquid, to take something both ways
+bifer | 1 | twice-bearing
+bifer | 3 | bearing fruit twice a year: bifera ficus, a fig that crops twice; biferi rosaria Paesti, the twice-blooming rose beds of Paestum
+bifer | 4 | of twofold shape: biferum Centauri corpus, the Centaur's double body, horse and man
+bifidus | 1 | forked
+bifidus | 3 | split into two, cleft: bifidi pedes, cloven feet; bifida lingua, a forked tongue
+bifidus | 4 | of a road or course that divides: bifidum iter, a way that forks
