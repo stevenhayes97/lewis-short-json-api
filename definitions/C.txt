@@ -748,3 +748,45 @@ caput | 7 | the chief person or thing, the leader: caput scelerum, the head of a
 caput | 8 | the chief place, a capital: caput Italiae, the head city of Italy
 caput | 9 | of things, the top, point or end, and of a river its source: caput allii, a head of garlic; caput aquae, the spring where the water rises
 caput | 10 | in writings, a section or chapter: a primo capite legis, from the first clause of the law
+carbaseus | 1 | of linen
+carbaseus | 3 | made of carbasus, a fine linen: carbasea vela, sails of fine linen; carbaseus sinus, a linen awning
+carbaseus | 4 | as a neuter noun carbasinum, a linen garment
+carbo1 | 1 | coal
+carbo1 | 3 | a coal or charcoal, whether dead or still glowing
+carbo1 | 4 | from its blackness, of marking: carbone notare, to mark with charcoal, that is to set down as bad, against creta for good
+carbo1 | 5 | proverbially of what is worthless: carbonem pro thesauro invenire, to find a coal where you looked for treasure
+carbo1 | 6 | in medicine, a malignant sore
+carbonarius | 1 | of charcoal
+carbonarius | 3 | having to do with charcoal: carbonarium negotium, the charcoal trade
+carbonarius | 4 | as a masculine noun carbonarius, a charcoal burner or collier
+carbonarius | 5 | as a feminine noun carbonaria, a charcoal furnace
+carbunculus | 1 | carbuncle
+carbunculus | 3 | a small coal, the diminutive of carbo
+carbunculus | 4 | figuratively a burning grief that eats a man away
+carbunculus | 5 | a red sandstone or tufa
+carbunculus | 6 | a bright red gem, covering the ruby, the garnet and their like
+carbunculus | 7 | in medicine a tumour or carbuncle, and in plants a blight brought on by frost
+carcer | 1 | prison
+carcer | 2 | starting-gate
+carcer | 3 | a prison or jail: in carcerem conpingere, to clap someone into gaol
+carcer | 4 | above all the Roman state prison by the Forum at the foot of the Capitol
+carcer | 5 | in the poets of the cave the winds are shut in, and of the world below: carcer inferorum, the prison of the dead
+carcer | 6 | figuratively of the body as the soul's prison
+carcer | 7 | for the prisoners themselves, and as abuse, gaolbird
+carcer | 8 | usually plural carceres, the starting stalls of a racecourse, against the meta or calx at the far end
+carcer | 9 | so figuratively the start of anything: ad carceres a calce revocari, to be called back from the finish to the starting gate, that is to begin life over
+cardinalis | 1 | chief
+cardinalis | 3 | belonging to a hinge: scapi cardinales, the hinge posts of a door
+cardinalis | 4 | figuratively, that on which a thing turns, and so principal: venti cardinales, the cardinal winds; virtutes cardinales, the cardinal virtues
+cardinalis | 5 | in grammar, numeri cardinales, the cardinal numbers, from which the ordinals and distributives are formed
+cardinalis | 6 | in the Church, a chief presbyter, and so a cardinal
+cardo | 1 | hinge
+cardo | 3 | the pivot and socket a door swings on: cardines effringere, to break the hinges off the doors
+cardo | 4 | in carpentry, a tenon and its mortise: cardo masculus, the tenon; cardo femina, the socket
+cardo | 5 | in astronomy a pole, the point everything turns about: cardo caeli, the pole of the sky
+cardo | 6 | figuratively the chief point, or the turning point: tanto cardine rerum, at so critical a turn of affairs
+careo | 1 | lack
+careo | 3 | to be without a thing, with the ablative: carere culpa, to be free of blame; carere febri, to be rid of the fever
+careo | 4 | so of going without by choice, to abstain: carere temeto, to keep off strong drink
+careo | 5 | to be deprived of what one wants, and so to miss it, the opposite of frui
+careo | 6 | its present participle has a genitive plural carentum
