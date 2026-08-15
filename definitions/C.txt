@@ -790,3 +790,50 @@ careo | 3 | to be without a thing, with the ablative: carere culpa, to be free o
 careo | 4 | so of going without by choice, to abstain: carere temeto, to keep off strong drink
 careo | 5 | to be deprived of what one wants, and so to miss it, the opposite of frui
 careo | 6 | its present participle has a genitive plural carentum
+caries | 1 | decay
+caries | 3 | a dry rot rather than a wet one, of timber and of walls
+caries | 4 | in mockery of shrivelled old people: nemo illa vivit carie cariosior, nobody alive is more worm-eaten than she is
+carina1 | 1 | keel
+carina1 | 3 | the keel of a ship
+carina1 | 4 | in the poets very often the whole ship, the part standing for the whole
+carina1 | 5 | of things shaped like a keel, the shell of a nut or the body of a dog
+carina1 | 6 | Carinae, the Keels, a well-known quarter of Rome between the Caelian and the Esquiline
+cariosus | 1 | decayed
+cariosus | 3 | rotten with a dry rot: cariosa palmula, a shrivelled date
+cariosus | 4 | of soil, loose and crumbling: terra cariosa, ground gone porous, which Pliny explains as dry, hollow and pumice-like
+cariosus | 5 | figuratively withered with age: cariosa senectus, a shrivelled old age
+caritas | 1 | dearness
+caritas | 2 | love
+caritas | 3 | costliness or a high price, the opposite of vilitas: caritas annonae, the high price of corn
+caritas | 4 | regard and affection, steadier and cooler than amor: caritas patriae, love of one's country
+caritas | 5 | the feeling owed to the gods, to parents and country, and to men outstanding in wisdom or wealth
+caritas | 6 | in late Latin caritates in the plural, the people one loves
+carmen1 | 1 | song
+carmen1 | 2 | poem
+carmen1 | 3 | a tune or strain, of the voice or of an instrument, though prose usually prefers cantus for this
+carmen1 | 4 | a composition in verse of any kind, epic, dramatic or lyric, and so poetry itself: carmina componere, to write verse
+carmen1 | 5 | a book or canto of a long poem: in primo carmine, in the first book
+carmen1 | 6 | a verse inscription: tumulo superaddite carmen, set an inscription over the mound
+carmen1 | 7 | an oracle or prophecy: Cumaeum carmen, the Sibyl's prophecy
+carmen1 | 8 | a magic formula or spell: verba et incantamenta carminum, the words and spells of enchantments
+carmen1 | 9 | since old religious and legal forms were cast in verse, a set formula: diro carmine jurare, to swear by a dread form of words
+carmen1 | 10 | moral maxims put into verse: Carmen de moribus, Cato's book of precepts
+carnalis | 1 | carnal
+carnalis | 3 | of the flesh, against spiritalis, and a word of Christian Latin: carnalia delicta, sins of the flesh
+carnalis | 4 | as a neuter plural carnalia, the things of the flesh
+carnalis | 5 | as an adverb carnaliter, after the flesh
+carnarius | 1 | of meat
+carnarius | 3 | belonging to flesh, and found only as a noun
+carnarius | 4 | as a masculine noun carnarius, a butcher, and in jest a man who likes his women plump
+carnarius | 5 | as a neuter noun carnarium, a rack of hooks for hanging meat over the hearth, and so a larder
+carnifex | 1 | executioner
+carnifex | 3 | the public hangman, who carried out executions and torture
+carnifex | 4 | as abuse, scoundrel or villain
+carnifex | 5 | figuratively a tormentor or destroyer: Fortuna gloriae carnifex, Fortune, the butcher of fame
+carnifex | 6 | in the poets as an adjective, murderous
+carnificina | 1 | torture
+carnificina | 3 | the executioner's trade, and the place where he plied it: carnificinam facere, to play the hangman
+carnificina | 4 | the rack or the torment itself: carnificinam subire, to undergo torture
+carnificina | 5 | figuratively of anguish of mind: carnificina est aegritudo, grief is a torture
+carnosus | 1 | fleshy
+carnosus | 3 | full of flesh, well covered
