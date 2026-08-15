@@ -602,3 +602,117 @@ brevio | 1 | shorten
 brevio | 3 | to cut short or abridge, a word later than the classical period and commonest in Quintilian: breviare quaedam, to abridge some things
 brevio | 4 | of the body, to draw in: breviatur cervix, the neck is shortened
 brevio | 5 | in grammar, to pronounce a syllable short
+brevis | 1 | short
+brevis | 3 | of space, short in extent or narrow: brevis via, a short road; cursus brevissimus, the shortest run
+brevis | 4 | of height, low or small: brevis corpore, short in build
+brevis | 5 | of depth, shallow, and as a neuter plural noun brevia, shoals: in brevia urgere, to drive onto the shallows
+brevis | 6 | of time, short: brevis hora, a short hour; vita brevis, life is short
+brevis | 7 | brevi or brevi tempore, in a short while, shortly; ad breve, for a little
+brevis | 8 | of speech, brief and to the point: brevis narratio, a concise account
+brevis | 9 | of a syllable, short, and as a feminine noun brevis, a short syllable
+brevis | 10 | as an adverb breviter, briefly or in few words: breviter tangere, to touch on something in passing
+brevitas | 1 | shortness
+brevitas | 3 | shortness in space: brevitas angusti freti, the narrowness of the strait; brevitas nostra, our small stature
+brevitas | 4 | shortness in time: brevitas vitae, the shortness of life; diei brevitas, the shortness of the day
+brevitas | 5 | in speech, conciseness, saying no more than is needed: illa Sallustiana brevitas, that famous terseness of Sallust
+brevitas | 6 | of syllables, their shortness: brevitas pedum, the quickness that short feet give
+brevitas | 7 | more generally, smallness or slightness
+bruma | 1 | midwinter
+bruma | 3 | strictly the shortest day of the year, the winter solstice; the name is a worn-down brevissima
+bruma | 4 | more widely the winter season: bruma iners, sluggish winter; bruma intractabilis, winter there is no dealing with
+bruma | 5 | in the poets a year, the season standing for the whole
+brumalis | 1 | wintry
+brumalis | 3 | belonging to the winter solstice: brumalis dies, the shortest day; brumale signum, the sign of Capricorn
+brumalis | 4 | brumalis flexus, the tropic of Capricorn; brumalis oriens, the point of midwinter sunrise
+brumalis | 5 | of winter in general: brumale frigus, the cold of winter; brumales horae, the short hours of a winter day
+brutus1 | 1 | dull
+brutus1 | 2 | heavy
+brutus1 | 3 | literally heavy and hard to shift: bruta tellus, the dead weight of earth; brutum pondus, a lumpish mass
+brutus1 | 4 | of people, stupid and slow: adulescentia bruta atque hebes, a dull and blunted youth
+brutus1 | 5 | of animals, without reason, and in later Latin simply brute or dumb
+brutus1 | 6 | of things, blind or senseless: bruta fulmina, thunderbolts that strike at random
+bubo1 | 1 | owl
+bubo1 | 3 | the horned or eagle owl, whose cry was counted a bad omen: ignavus bubo, the sluggish owl
+bubo1 | 4 | a bird of ill omen in the poets: funereus bubo, the owl of funerals; bubone sinistro, with an owl on the left
+bubo1 | 5 | masculine, except once in Virgil where it is feminine
+bubulcus1 | 1 | ploughman
+bubulcus1 | 3 | strictly one who ploughs with oxen, the same as arator, and distinct from the pastor or armentarius who tends the herd
+bubulcus1 | 4 | in later writers more loosely, a herdsman
+bubulus | 1 | of oxen
+bubulus | 3 | belonging to cattle: bubulum lac, cow's milk; bubulum fimum, cattle dung
+bubulus | 4 | of things made from ox-hide, and so in comedy of the whip cut from it
+bubulus | 5 | as a feminine noun bubula, beef
+bucca | 1 | cheek
+bucca | 3 | the cheek as it puffs out in speaking or eating, where genae is the side of the face and mala the upper cheek: buccas inflare, to puff out the cheeks
+bucca | 4 | of cheeks swollen with rage: iratus ambas buccas inflet, may he blow out both cheeks in a temper
+bucca | 5 | quod in buccam venit dicere, to say whatever comes into one's head
+bucca | 6 | by transfer a ranter, a man who only puffs his cheeks: Curtius et Matho buccae, Curtius and Matho, that pair of windbags
+bucca | 7 | so also of a trumpeter, known about town by his blown-out cheeks
+bucco | 1 | babbler
+bucco | 3 | a chatterer who outdoes everyone in talk but not in sense, and so a fool
+bucco | 4 | it turns up in a comic string of insults: stulti stolidi fatui fungi bardi blenni buccones
+bucco | 5 | named alongside the macci, comic types of the same stamp
+buccula | 1 | little cheek
+buccula | 2 | cheekpiece
+buccula | 3 | a diminutive of bucca, a small cheek or mouth
+buccula | 4 | in the army, the beaver of a helmet, the part covering cheeks and mouth: bucculas tergere, to polish the cheek pieces
+buccula | 5 | in the plural also the two cheeks either side of the groove holding a catapult's bolt
+bucinator | 1 | trumpeter
+bucinator | 3 | the man who blew the bucina in the army
+bucinator | 4 | figuratively one who trumpets a thing abroad: bucinator existimationis meae, the herald of my good name
+bucino | 1 | trumpet
+bucino | 3 | to blow the bucina, to give the signal on it, and mostly used impersonally: cum bucinatum est, when the trumpet had sounded
+bucino | 4 | of the hours it marked off: ter bucinavit, the trumpet sounded three times while he declaimed
+buculus | 1 | bullock
+buculus | 3 | a young bullock or steer
+buculus | 4 | its feminine bucula is commoner and classical, a heifer
+buculus | 5 | Myron's bronze heifer at Athens was the famous example
+bulbus1 | 1 | bulb
+bulbus1 | 2 | onion
+bulbus1 | 3 | a bulbous root, as of the tulip, hyacinth or lily
+bulbus1 | 4 | an onion grown as a vegetable, of several kinds, the Megarian being best known
+bulla | 1 | bubble
+bulla | 2 | stud
+bulla | 3 | anything that swells and so turns round; first a bubble on water: pluvio caelo surgere bulla solet, a bubble rises when the sky is rainy
+bulla | 4 | so proverbially of what is empty and soon gone: homo bulla, man is a bubble
+bulla | 5 | a boss or knob on a door: bullas aureas ex valvis auferre, to strip the gilt studs from the doors
+bulla | 6 | a stud on a belt: fulserunt cingula bullis, the belt shone with its bosses
+bulla | 7 | above all the bulla itself, a round amulet, usually of gold, hung round the neck
+bulla | 8 | worn by boys of good family and laid aside at manhood, when it was dedicated to the Lares
+bulla | 9 | first an ornament of triumph taken over from the Etruscan kings; the children of freedmen wore one of leather
+bullatus | 1 | studded
+bullatus | 3 | fitted with bosses: bullatum cingulum, a studded belt; and of the sky, bullatus aether, the star-studded heaven
+bullatus | 4 | wearing the bulla, and so still a child: bullatus heres, an heir yet in his boyhood
+bullatus | 5 | from the bubble sense, either soon gone or else puffed up: bullatae nugae, trifles that are mere bubbles
+bullo | 1 | bubble
+bullo | 3 | to boil up, with the second form bullio beside it: ubi bullabit vinum, when the wine comes to the boil
+bullo | 4 | of springs: bullientes fontes, springs that bubble up
+bullo | 5 | in the passive participle, boiled or half cooked
+bullo | 6 | figuratively, to seethe with feeling: indignatione bullire, to boil with indignation
+# review: bustuarius the sense is 'of the burning place'; English has no adjective, and 'funeral' is far too wide
+bustuarius | 1 | of the pyre
+bustuarius | 3 | belonging to the place where the dead were burned: bustuarius gladiator, one who fought at the pyre in honour of the dead
+bustuarius | 4 | Cicero throws the word at Clodius for the riot he raised at a funeral
+bustuarius | 5 | bustuaria moecha, a woman who plies her trade among the tombs
+bustum | 1 | tomb
+bustum | 2 | pyre
+bustum | 3 | properly the spot where a body was both burned and buried, a place merely burned on being an ustrina
+bustum | 4 | the pyre itself once the body is burnt: semiusta busta servant, they keep watch over the half-burnt pyre
+bustum | 5 | commonly in the poets a mound or grave: bustum violare, to desecrate a tomb
+bustum | 6 | figuratively of anything that swallows a body up, such as the maw of a man-eater
+bustum | 7 | in abuse, the grave of something: bustum legum omnium, the tomb of every law; bustum rei publicae, the grave of the state
+bustum | 8 | of a battlefield: civilia busta Philippi, the graves of civil war at Philippi
+bustum | 9 | Ad Busta Gallica, a place in Rome named from the Gauls burned and buried there
+bustum | 10 | of a destroyed city its ruins, and sometimes the ashes of the burnt body itself
+buxeus | 1 | of boxwood
+buxeus | 3 | made of boxwood: buxea mola, a boxwood mill
+buxeus | 4 | of the colour of boxwood, that is pale yellow: buxei dentes, teeth the colour of box
+buxeus | 5 | so of a sickly pallor, and of rings pale enough to be taken for counterfeit
+buxum | 1 | boxwood
+buxum | 3 | the wood of the box tree, prized by turners: torno rasile buxum, boxwood smoothed on the lathe
+buxum | 4 | proverbial for paleness: ora buxo pallidiora, a face paler than box
+buxum | 5 | of things made from it, a pipe or flute: inflati murmur buxi, the hum of the pipe when it is blown
+buxum | 6 | a spinning top: buxum torquere flagello, to whip a top along
+buxum | 7 | a comb: crines depectere buxo, to comb out the hair
+buxum | 8 | a writing tablet
+buxum | 9 | and by transfer the box tree itself
