@@ -1944,3 +1944,62 @@ clandestinus | 3 | hidden or done in secret: clandestinae nuptiae, a secret marr
 clandestinus | 4 | of unseen motions in nature: clandestini motus materiai, the secret movements of matter
 clango | 1 | clang
 clango | 3 | to sound or resound, a rare word of the early and the late poets: horrida clangunt signa tubae, the trumpets blare their grim signals
+clangor | 1 | clang
+clangor | 3 | of wind instruments: clangor tubarum, the blare of trumpets
+clangor | 4 | of birds, their cry or the beat of their wings: magno clangore volitare, to fly about with a great clamour
+clangor | 5 | of dogs, their baying
+clareo | 1 | be bright
+clareo | 3 | to shine or be clear, a poetic word: hoc lumen candidum claret mihi, this bright light shines for me
+clareo | 4 | figuratively to be plain or evident: quod in primo carmine claret, which is clear in the first book too
+clareo | 5 | of a person, to be distinguished: gloria claret, his fame shines out
+claresco | 1 | grow bright
+claresco | 3 | the inchoative to clareo, to begin to shine: clarescit dies, the day breaks; tecta luminibus clarescunt, the roofs light up
+claresco | 4 | of sound, to grow audible: clarescunt sonitus armorum, the clash of arms grows louder
+claresco | 5 | figuratively to become plain: alid ex alio clarescet, one thing will be made clear by another
+claresco | 6 | of a person, to grow famous: quoquo facinore clarescere, to make a name by any deed whatever
+# review: clarigatio the fetial ceremony of formally demanding redress before war; English has no name for it
+clarigatio | 1 | demand for redress
+clarigatio | 3 | the solemn demand the fetial priest made on an enemy, war following if satisfaction was not given within thirty-three days
+clarigatio | 4 | more widely a fine or ransom exacted from a man caught beyond a set boundary
+clarigo | 1 | demand redress
+clarigo | 3 | a term of the fetial priests, to declare war on an enemy with the proper religious forms
+claritas1 | 1 | brightness
+claritas1 | 2 | renown
+claritas1 | 3 | brightness or splendour to the eye: sidus tantae claritatis, a star of such brilliance
+claritas1 | 4 | to the ear, clearness of sound: claritas in voce, clearness in the voice
+claritas1 | 5 | of thought or style, plainness: claritas orationis, lucidity of expression
+claritas1 | 6 | of a man's standing, fame and high repute, which is the commonest sense; Cicero uses claritas and never claritudo
+claritudo | 1 | renown
+claritudo | 3 | a form standing beside claritas, and very rare in the literal sense: claritudo lunae, the brightness of the moon
+claritudo | 4 | usually fame or repute: artes quibus summa claritudo paratur, the accomplishments that win the highest fame
+claritudo | 5 | Sallust uses only claritudo and Tacitus favours it, while Cicero, Caesar, Quintilian and Suetonius avoid it
+claro | 1 | make bright
+claro | 3 | to light up or illuminate, a rare poetic word: iter longae clarat limite flammae, it lights the way with a long trail of fire
+claro | 4 | also to make a thing show or stand out
+clarus | 1 | clear
+clarus | 2 | famous
+clarus | 3 | to the eye, bright or shining: clara lux, broad daylight; clarus argento, gleaming with silver
+clarus | 4 | in the poets of the wind, that brings fair weather: clarus aquilo, the clearing north wind
+clarus | 5 | to the ear, loud and distinct: clara voce, in a loud voice
+clarus | 6 | figuratively plain and evident: certa et clara, sure and clear
+clarus | 7 | of a person, distinguished or renowned, with an ablative, or with in, ex or ob: clarus arte medicinae, famous for his skill in medicine
+clarus | 8 | as a title, clarissimus vir, a most distinguished gentleman, used of senators, and clarissima femina of their wives
+clarus | 9 | in a bad sense, notorious
+clarus | 10 | as an adverb clare, brightly, loudly or plainly: clare recitare, to read out aloud
+classiarius | 1 | marine
+classiarius | 3 | belonging to the navy: centurio classiarius, the captain of a ship
+classiarius | 4 | more often a noun in the plural, classiarii, the marines or naval troops
+classicus | 1 | naval
+classicus | 3 | belonging to a class of the Roman people, and so of the highest class: classicus scriptor, an author of the first rank, from which the English classic descends
+classicus | 4 | as a masculine noun, the man who summoned the classes to the assembly
+classicus | 5 | belonging to the fleet: classica bella, wars at sea
+classicus | 6 | as a neuter noun classicum, the trumpet signal in the field: classicum canere, to sound the call
+classicus | 7 | so also the war trumpet itself: inflari classica, for the trumpets to be blown
+classicus | 8 | as a masculine plural noun classici, marines, and also seamen
+classis | 1 | fleet
+classis | 2 | class
+classis | 3 | one of the classes Servius Tullius divided the Roman people into by property: prima classis, the first class
+classis | 4 | figuratively of rank: quintae classis videntur, they look to be of the lowest class
+classis | 5 | in early usage the whole body of citizens called to arms, an army: classis procincta, the host under arms
+classis | 6 | usually a fleet, taking in the troops aboard: nomina in classem dare, to enlist for the fleet
+classis | 7 | after Augustus, any division or group: pueros in classes distribuere, to sort the boys into forms
