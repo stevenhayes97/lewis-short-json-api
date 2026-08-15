@@ -552,3 +552,53 @@ bos | 3 | the animal of the plough and the herd, bull, ox or cow: bos est enectu
 bos | 4 | in the feminine, a cow: bove eximia capta de grege, a splendid cow taken from the herd
 bos | 5 | its genitive plural is boum and its dative and ablative plural bubus or bobus
 bos | 6 | a kind of flatfish of the turbot family
+botulus | 1 | sausage
+botulus | 3 | a sausage, counted a low word beside the proper farcimen
+botulus | 4 | by transfer, a stomach stuffed with good things
+bovarius | 1 | of cattle
+bovarius | 3 | belonging to horned cattle, a spelling beside boarius
+bovarius | 4 | forum bovarium, the cattle market at Rome
+bovinator | 1 | blusterer
+bovinator | 3 | a brawler who makes a noise and rails at people
+bovinator | 4 | also a man who shuffles and looks for a way out, the picture perhaps taken from oxen hanging back in the yoke
+bracatus | 1 | trousered
+bracatus | 3 | wearing trousers, and so a general word for foreign or barbarian: bracatae nationes, the trousered peoples
+bracatus | 4 | Gallia Bracata, the Gaul beyond the Alps, later called Narbonensis, as against Gallia Togata
+bracatus | 5 | used in scorn of a man's descent: bracatae cognationis dedecus, the disgrace of a trousered family
+bracatus | 6 | more widely, wearing loose flowing clothes
+# review: bracchialis 'of arms' would read as weapons, so the article is needed; English has no adjective for it
+bracchialis | 1 | of the arm
+bracchialis | 3 | belonging to the arm: bracchialis crassitudo, the thickness of an arm
+bracchialis | 4 | as a noun bracchiale or bracchialis, an armlet or bracelet, where the classical word is armilla
+bracchium | 1 | arm
+bracchium | 3 | strictly the forearm, from hand to elbow, where lacertus is the upper arm
+bracchium | 4 | far more often the whole arm: collo dare bracchia circum, to throw one's arms round the neck
+bracchium | 5 | of gesture in speaking and of the arms in dancing: bracchia in numerum jactare, to swing the arms in time
+bracchium | 6 | figuratively, levi or molli bracchio agere aliquid, to go about something half-heartedly
+bracchium | 7 | of animals, the claws of a crab or lobster, and so of the signs Cancer and Scorpio
+bracchium | 8 | the branches of a tree or vine: ramos et bracchia tendens, spreading its boughs and branches
+bracchium | 9 | an arm of the sea, a spur of a mountain range, or a ship's yardarms: intendi bracchia velis, to spread the yards for the sails
+bracchium | 10 | in the army, a line of works joining two points, and the moles that shelter a harbour
+bractea | 1 | foil
+bractea | 3 | a thin sheet of metal, above all gold leaf, where thicker plates are laminae: leni crepitabat brattea vento, the gold leaf rustled in the light breeze
+bractea | 4 | also a thin layer of wood, a veneer
+bractea | 5 | figuratively, glitter or outward show: bractea eloquentiae, the tinsel of eloquence
+bracteatus | 1 | gilded
+bracteatus | 3 | plated with gold, a later word for the classical aureus: bracteatae sellae, gilded chairs
+bracteatus | 4 | more widely, gleaming like gold: bracteatus leo, a lion with a golden mane
+bracteatus | 5 | figuratively splendid or golden
+bracteatus | 6 | and so also bright only on the surface, gilded and deceiving: bracteata felicitas, happiness that is merely gilt
+brassica | 1 | cabbage
+brassica | 3 | the cabbage in its several varieties, much prized by the Romans and often used as a medicine
+breviarius | 1 | abridged
+breviarius | 3 | cut short: breviariae rationes, abridged accounts
+breviarius | 4 | more often the neuter noun breviarium, a summary or abstract, which Seneca says had displaced the older summarium
+breviarius | 5 | breviarium imperii, a statistical survey of the empire
+breviculus | 1 | shortish
+breviculus | 3 | a diminutive of brevis, rather short or small: homo breviculus, a smallish man
+breviculus | 4 | of time, brief: breviculum tempus, a short while
+breviculus | 5 | as a masculine noun, a short piece of writing, a summary
+brevio | 1 | shorten
+brevio | 3 | to cut short or abridge, a word later than the classical period and commonest in Quintilian: breviare quaedam, to abridge some things
+brevio | 4 | of the body, to draw in: breviatur cervix, the neck is shortened
+brevio | 5 | in grammar, to pronounce a syllable short
