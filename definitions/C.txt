@@ -235,3 +235,90 @@ calco | 8 | to press close or pack down: oleas in orculam calcato, press the oli
 calculosus | 1 | gravelly
 calculosus | 3 | full of small stones: calculosus ager, gravelly land
 calculosus | 4 | in medicine, suffering from the stone
+calculus | 1 | pebble
+calculus | 3 | a small stone: calculos lingua volvere, to roll pebbles on the tongue, as Demosthenes did to cure his speech
+calculus | 4 | a stone in the bladder or kidneys: calculum eicere, to pass a stone
+calculus | 5 | a piece in the game of draughts: calculum promovere, to move a piece; calculum reducere, to take a move back
+calculus | 6 | a counter on the reckoning board, and so a reckoning: calculos subducere, to cast up an account
+calculus | 7 | cum aliquo calculum ponere, to settle accounts with someone
+calculus | 8 | in the earliest times a voting pebble, a white one to acquit and a black one to condemn
+calculus | 9 | the Thracians marked lucky days with a white stone and unlucky ones with black: candidissimo calculo notandus dies, a day to mark with the whitest of stones
+calculus | 10 | in late Latin a small weight, reckoned at two chickpeas
+caldarius | 1 | for heating
+caldarius | 3 | belonging to warming or to hot water: cella caldaria, the hot room of a bath
+caldarius | 4 | as a neuter noun caldarium, the hot bath, or the room that holds the hot water
+caldarius | 5 | as a feminine noun caldaria, a warm bath, and also a boiling pot
+caldarius | 6 | caldarium aes, bronze got ready by melting
+calefacio | 1 | warm
+calefacio | 3 | to make warm or hot: ad calefaciendum corpus, to warm the body; igne focum calefacere, to heat the hearth with fire
+calefacio | 4 | it has a contracted form calfacio, which by Quintilian's day was the commoner of the two
+calefacio | 5 | in everyday talk, to make things hot for someone: calface hominem, give the fellow a warming
+calefacio | 6 | in the poets of the passions, to fire or rouse: calefacta corda tumultu, hearts fired by the uproar
+calefacio | 7 | to push a thing on hotly: forum aleatorium calfecimus, we kept the gaming table warm
+caleo | 1 | be hot
+caleo | 3 | to be warm or hot, the opposite of frigere: calet aqua, the water is hot; ture calent arae, the altars are warm with incense
+caleo | 4 | figuratively, to glow with feeling: admirando irridendo calebat, he warmed to it, now admiring and now mocking
+caleo | 5 | with an infinitive in the poets, to be eager to do a thing
+caleo | 6 | of business, to be carried on warmly: judicia calent, the courts are busy; calebant nundinae, the market days were brisk
+caleo | 7 | to be still warm, that is fresh and new: dum calet hoc agitur, this is being seen to while it is still hot
+caleo | 8 | of a place, to be much frequented: calens Hister, the well-trodden Danube
+calesco | 1 | grow warm
+calesco | 3 | to become warm or hot, the inchoative to caleo: unda calescit, the water warms up
+calesco | 4 | of the mind, to catch fire, and above all with love: flamma propiore calesco, I burn with a nearer flame
+calesco | 5 | agitante calescimus illo, we glow when the god stirs within us
+calidus | 1 | hot
+calidus | 2 | rash
+calidus | 3 | warm or hot: calidus fons, a hot spring; calida lavacra, hot baths
+calidus | 4 | it has a contracted form caldus, which Quintilian says was the usual one in the Augustan age
+calidus | 5 | as a feminine noun calida, hot water, and as a neuter calidum, a hot drink of wine and boiling water
+calidus | 6 | of living things, fiery and spirited: equus calidus animis, a horse of fiery mettle; calidus juventa, hot with youth
+calidus | 7 | of plans, hasty and ill-considered: calida consilia, rash counsels
+calidus | 8 | sometimes quick and ready instead: calidum consilium, a plan struck out on the spot
+calidus | 9 | Caldus was used as a Roman name, meaning hot-head
+caliendrum | 1 | headdress
+caliendrum | 3 | a tall headdress built up of false hair and worn by Roman women, a very rare word
+caliga | 1 | soldier's boot
+caliga | 3 | a stout leather half-boot, and above all the one the Roman soldiers wore
+caliga | 4 | by transfer military service itself, the boot standing for the trade
+caligatus | 1 | booted
+caligatus | 3 | wearing the soldier's caliga: caligati milites, soldiers in their boots
+caligatus | 4 | as a noun, a common soldier, the same as gregarius
+caligatus | 5 | also of a peasant in his heavy shoes
+caliginosus | 1 | misty
+caliginosus | 3 | full of fog, and so dark and gloomy: caelum umidum et caliginosum, a damp and misty sky
+caliginosus | 4 | of a star, dim rather than clear
+caliginosus | 5 | figuratively dark and uncertain: caliginosa nox, the darkness of a future no one can read
+caligo1 | 1 | fog
+caligo1 | 2 | darkness
+caligo1 | 3 | a thick heavy air, a mist or vapour: densa caligo occaecaverat diem, a thick fog had blotted out the day
+caligo1 | 4 | the gloom such mist brings on: caligo oculis obfusa, a darkness poured over the eyes, that is a fit of dizziness
+caligo1 | 5 | figuratively blindness of mind, dullness of understanding: quasi per caliginem videre, to see as though through a fog
+caligo1 | 6 | of dark and difficult times: caligo temporum illorum, the gloom of those days
+caligo1 | 7 | in medicine, dimness of sight
+caligo2 | 1 | be dark
+caligo2 | 3 | to send up mist or steam: amnes nebulis caligent, the rivers reek with fog
+caligo2 | 4 | to be wrapped in darkness: caligant oculi, the eyes grow dim
+caligo2 | 5 | of great heights, to make the head swim: caligantes fenestrae, dizzy windows
+caligo2 | 6 | figuratively, to grope in the dark and be at a loss: caligare ad pervidendum, to be unable to see a thing through
+caligo2 | 7 | in medicine of the eyes, to be weak, and of a person, to be dim-sighted
+caligula | 1 | little boot
+caligula | 3 | a small soldier's boot, the diminutive of caliga
+caligula | 4 | from it comes the nickname Caligula, given to the emperor because he was brought up in the camp from boyhood
+calleo | 1 | know
+calleo | 3 | to know a thing thoroughly from practice, where scio is simply to know: cuncta perdocte callet, he knows the whole of it expertly
+calleo | 4 | with an infinitive, to know how to do something
+calleo | 5 | literally, to be thick-skinned or callous: plagis costae callent, his ribs are calloused with beatings
+calleo | 6 | figuratively, to be hardened and past feeling
+calleo | 7 | its participle callens, versed in a thing: callens utriusque linguae, at home in both languages
+calliditas | 1 | cunning
+calliditas | 3 | in the bad sense, craft and slyness: scientia remota ab justitia calliditas potius quam sapientia, knowledge parted from justice deserves the name of cunning rather than wisdom
+calliditas | 4 | in the good sense, shrewdness or skill: calliditas ingenii, quickness of wit
+calliditas | 5 | the bad sense is much the commoner and the more classical
+callidus | 1 | shrewd
+callidus | 2 | cunning
+callidus | 3 | made wise by practice, expert and adroit; Cicero explains it from callum, a mind grown hard with use
+callidus | 4 | with a genitive, skilled in something: callidus rei militaris, versed in soldiering
+callidus | 5 | in the Greek manner with an infinitive: callidus condere furto, clever at hiding by theft
+callidus | 6 | of things, well contrived: callidissimo artificio fabricata, made with the most cunning craft
+callidus | 7 | in the bad sense, crafty and sly: callidum consilium, a sly plan; callida juris interpretatio, a crafty reading of the law
+callidus | 8 | as an adverb callide, in both senses alike, cleverly or craftily
