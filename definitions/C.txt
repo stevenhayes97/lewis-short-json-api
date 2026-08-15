@@ -1813,3 +1813,70 @@ circumvenio | 4 | in war, to surround and cut off: nostros latere aperto aggress
 circumvenio | 5 | figuratively to beset or overwhelm: circumventus morbo exilio atque inopia, beset by sickness, exile and want
 circumvenio | 6 | multa senem circumveniunt incommoda, many troubles close in upon an old man
 circumvenio | 7 | to get round someone, to cheat or defraud: circumventum esse innocentem pecunia, that an innocent man was undone by money; fenore circumventa plebs, the commons cheated by usury
+circumverto | 1 | turn round
+circumverto | 3 | to turn a thing about, a rare word not found in Cicero: citius quam rotula circumvortitur, quicker than a little wheel goes round
+circumverto | 4 | rota circumvertitur axem, the wheel turns about its axle
+circumverto | 5 | it is also spelt circumvorto
+circumvestio | 1 | clothe around
+circumvestio | 3 | to cover a thing all over, a very rare word: arborem circumvestire, to wrap a tree about
+circumvestio | 4 | in the poets of a man who hides his meaning: se circumvestire dictis, to muffle oneself up in words
+circumvolito | 1 | flit around
+circumvolito | 3 | to fly round a thing, and mostly a word later than Augustus: lacus circumvolitavit hirundo, the swallow flitted round the pools
+circumvolito | 4 | of men, to hover or hang about a place: limina potentiorum circumvolitare, to haunt the doors of the great
+circumvolo | 1 | fly around
+circumvolo | 3 | to fly round a thing, and not found before Augustus: praedam circumvolat, it wheels about its prey
+circumvolo | 4 | figuratively: mors atris circumvolat alis, death hovers round on black wings
+circumvolo | 5 | more generally to hurry round: ordines exercitus circumvolare, to dash along the ranks of the army
+circumvolvo | 1 | roll around
+circumvolvo | 3 | used only with se or in the middle voice, to roll or wind oneself round: magnum sol circumvolvitur annum, the sun rolls round through the great year
+circumvolvo | 4 | probably no older than Augustus
+circus | 1 | circus
+circus | 3 | a circle, chiefly in astronomy, where circulus is the commoner word: circus lacteus, the Milky Way
+circus | 4 | the Circus Maximus at Rome, built by Tarquinius Priscus between the Palatine and the Aventine, and holding more than a hundred thousand people
+circus | 5 | ludi Circenses, the games held there, also called ludi magni
+circus | 6 | any racecourse
+circus | 7 | by transfer, the crowd watching in the circus
+cirrus | 1 | curl
+cirrus | 3 | a natural lock or ringlet of hair, mostly in the plural, and also the forelock of a horse
+cirrus | 4 | a tuft or crest of feathers on a bird
+cirrus | 5 | the arms of a polyp, and the thread-like tendrils of plants
+cirrus | 6 | a fringe on a tunic
+# review: cis a preposition meaning 'on this side of'; English has no single word for it, and cis- survives only as a prefix
+cis | 1 | on this side
+cis | 3 | a preposition with the accusative, set against uls, ultra and trans, and much rarer than citra: cis Tiberim, on this side of the Tiber
+cis | 4 | Gallia cis Rhenum, the Gaul on this side of the Rhine
+cis | 5 | of time, within: cis dies paucos, within a few days
+citer | 1 | nearer
+citer | 3 | on this side, and commonest in the comparative citerior: citerior provincia, the nearer province, that is Cisalpine Gaul
+citer | 4 | its superlative citimus, nearest: citima terris, nearest to the earth
+citer | 5 | figuratively of what lies nearer to hand: haec citeriora, these matters closer home
+citer | 6 | of time earlier or sooner, and of degree less
+citer | 7 | from it comes citra, on this side, used both as adverb and as preposition: citra Rhenum, this side of the Rhine
+cito2 | 1 | summon
+cito2 | 3 | the frequentative of cieo: to set a thing moving fast, to shake or hurl: citat hastam, he hurls the spear
+cito2 | 4 | of plants, to shoot out: radices citare, to throw out roots
+cito2 | 5 | to call or summon a person: patres in curiam citare, to summon the senators into the house
+cito2 | 6 | in law, to call the parties and see who is present: citat reum, non respondet, he calls the defendant, and there is no answer
+cito2 | 7 | to call someone to witness, and so to cite or quote an authority: testes citare, to call witnesses
+cito2 | 8 | more generally, to name or proclaim
+cito2 | 9 | its participle citatus, at speed: citato equo, at full gallop; citato gradu, at a quick march
+cito2 | 10 | figuratively of style, rapid and vehement: argumenta acria et citata, sharp swift arguments
+citreus | 1 | of citrus
+citreus | 3 | belonging to the citrus tree: mensa citrea, a table of citrus wood, which the Romans prized highly
+citreus | 4 | as a feminine noun citrea, the citrus tree itself
+citreus | 5 | also of the citron tree, and as a neuter noun citreum, the citron
+civicus | 1 | civic
+civicus | 3 | belonging to citizens, rarer than civilis and mostly poetic: civica jura, the rights of citizens; civici motus, civil disturbances
+civicus | 4 | corona civica, the civic crown of oak leaves, given for saving a citizen's life and the highest honour but one
+civicus | 5 | also belonging to a town: intra muros civicos, within the city walls
+civilis1 | 1 | civil
+civilis1 | 3 | belonging to citizens: bellum civile, civil war; sanguis civilis, the blood of fellow citizens
+civilis1 | 4 | jus civile, the law that secures a citizen's standing and property, and so the Civil Law of Rome
+civilis1 | 5 | in a narrower sense, the rules of legal procedure
+civilis1 | 6 | of public and political life: civilis scientia, political science; civilium rerum peritus, versed in affairs of state
+civilis1 | 7 | civil as against military: civilia munera, the duties of peace
+civilis1 | 8 | of a great man who bears himself as one citizen among others, courteous and affable
+civilis1 | 9 | as an adverb civiliter, either as a citizen should, or in law civilly as against criminally
+civilitas | 1 | courtesy
+civilitas | 3 | politeness and affability, a word later than Augustus and rare
+civilitas | 4 | in Quintilian only, the art of government or politics, rendering the Greek politike
