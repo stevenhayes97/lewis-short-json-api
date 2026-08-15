@@ -1473,3 +1473,65 @@ ciconia | 3 | the stork
 ciconia | 4 | a mocking gesture, the fingers bent into the shape of a stork's bill
 ciconia | 5 | a T-shaped tool farmers used to measure the depth of a furrow
 ciconia | 6 | a swing beam on an upright post for drawing water, the same as a tolleno
+cicur | 1 | tame
+cicur | 3 | tame, the opposite of ferus: cicures bestiae, tame beasts
+cicur | 4 | figuratively mild or gentle: cicur ingenium, a gentle nature
+cicur | 5 | it seems not to be used after Cicero
+cicuta1 | 1 | hemlock
+cicuta1 | 3 | hemlock, the poison given to criminals and the draught Socrates drank
+cicuta1 | 4 | by transfer a pipe made from hemlock stalks, a shepherd's pipe
+cieo | 1 | rouse
+cieo | 3 | to set in motion, to stir or shake: calcem ciere, to make a move at draughts
+cieo | 4 | to stir up or disturb: mare venti cient, the winds stir the sea
+cieo | 5 | to call someone to a place: ad arma ciere, to call to arms
+cieo | 6 | to call upon for help, of gods and of spirits: nocturnos manes ciere, to summon the ghosts of the night
+cieo | 7 | to call by name: comites magna voce ciere, to call one's companions in a loud voice
+cieo | 8 | patrem ciere, to name one's father, that is to prove one's free birth
+cieo | 9 | to set a thing going or bring it on: bellum ciere, to stir up a war
+cieo | 10 | its participle citus does duty as an adjective, quick or swift, and its adverb is cito, quickly
+cimex | 1 | bug
+cimex | 3 | the bedbug
+cincinnatus1 | 1 | curly-haired
+cincinnatus1 | 3 | with the hair in ringlets, taken as a mark of soft living: cincinnatus consul, a consul with his hair in curls
+cincinnatus1 | 4 | of comets, with streaming hair
+cinctus2 | 1 | girdle
+cinctus2 | 3 | the act of girding: cottidiani cinctus, the daily girding of one's clothes
+cinctus2 | 4 | cinctus Gabinus, the Gabine gird, in which the toga was tucked up and a corner thrown over the left shoulder
+cinctus2 | 5 | the girdle or belt itself; Varro says cinctus belonged to men and cingulum to women
+cinerarius | 1 | of ashes
+cinerarius | 3 | having to do with ashes, and very rare as an adjective
+cinerarius | 4 | as a masculine noun cinerarius, the slave who heated the curling iron in hot ashes, a hairdresser
+cinerarius | 5 | as a neuter noun cinerarium, the niche in a tomb that held the ashes of the dead
+cinereus | 1 | ash-coloured
+cinereus | 3 | like ashes in colour, grey: cinereus color, an ashen grey; cinerea terra, grey earth
+cinereus | 4 | as a neuter noun cinereum, a kind of salve
+cingo | 1 | surround
+cingo | 3 | to go round in a circle, to encircle or enclose: corpore cingi, to be enclosed in a body
+cingo | 4 | to gird the body, and above all to gird on the sword: zona cinctus, wearing a belt
+cingo | 5 | to crown or wreathe: tempora floribus cingere, to wreathe the brows with flowers; comam lauro cingere, to bind the hair with laurel
+cingo | 6 | of places, to encircle or shut in: oras maris cingens, running round the shores of the sea
+cingo | 7 | in the army, to invest or to fortify: corona militum cincta urbs, a city ringed by a circle of troops; castra vallo cingere, to fence a camp with a rampart
+cingo | 8 | to escort or attend: latus alicujus cingere, to walk at someone's side as an escort
+cingo | 9 | of trees, to strip the bark off all round
+cingulum1 | 1 | belt
+cingulum1 | 3 | the girdle worn about the hips, and mostly a poetic word
+cingulum1 | 4 | chiefly a woman's, where Varro assigns cinctus to men; also a money belt or a sword belt
+cingulum1 | 5 | in the feminine cingula, a girth for an animal
+cingulum1 | 6 | in the masculine cingulus, a zone or belt of the earth
+cinis | 1 | ash
+cinis | 3 | ashes, where favilla is usually the light dust of ash, or ash that still glows
+cinis | 4 | the ashes of a burnt corpse, common in both numbers: cineri atque ossibus, to a man's ashes and bones
+cinis | 5 | the ruins of a city burnt to the ground: cineres patriae, the ashes of one's country
+cinis | 6 | figuratively a token of ruin: in fumum et cinerem vertere, to turn a thing to smoke and ashes, that is to squander it
+cinis | 7 | it is sometimes feminine
+cippus | 1 | post
+cippus | 3 | a stake, pale or pillar
+cippus | 4 | above all a gravestone or tombstone
+cippus | 5 | among the land surveyors, a boundary stone
+cippus | 6 | in the army, in the plural cippi, a barrier of sharpened stakes
+circa1 | 1 | around
+circa1 | 3 | a later form beside circum, not common before the Augustan age and commonest in Livy and Quintilian
+circa1 | 4 | as an adverb, round about or in the neighbourhood: gramen erat circa, there was grass all round
+circa1 | 5 | circa esse, to be in the parts about, to be at hand: qui circa erant, those who stood by
+circa1 | 6 | as a preposition with the accusative, about or around a place
+circa1 | 7 | of motion, round to a series of places: legatos circa vicinas gentes mittere, to send envoys round to the neighbouring peoples
