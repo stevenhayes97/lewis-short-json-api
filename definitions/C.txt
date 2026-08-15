@@ -1163,3 +1163,43 @@ celer1 | 6 | its adverb is celeriter, and it also has an old neuter form celere
 celeritas | 1 | speed
 celeritas | 3 | swiftness or quickness, the opposite of tarditas: celeritas equorum, the speed of horses
 celeritas | 4 | Cicero notes that swiftness of body goes by the name celeritas, and that the same quality in the mind counts as a merit
+celero | 1 | hasten
+celero | 3 | transitively, to quicken or speed a thing up: celerare gradum, to quicken one's pace; celerare fugam, to hurry one's flight
+celero | 4 | intransitively, to make haste
+celero | 5 | mostly poetic, or found in prose later than Augustus
+cella | 1 | storeroom
+cella | 3 | on the farm, a place for storing produce or housing animals: cella olearia, the oil store; cella vinaria, the wine store
+cella | 4 | a small plain living room, and above all a servant's: cella ostiarii, the porter's lodge
+cella | 5 | the inner chamber of a temple, where the god's image stood
+cella | 6 | a room in a bath house
+cella | 7 | a room in a brothel
+cellarius | 1 | of stores
+cellarius | 3 | belonging to a storeroom: cellaria sagina, food out of the store cupboard
+cellarius | 4 | as a masculine noun cellarius, the slave in charge of provisions, a steward or butler
+celo | 1 | hide
+celo | 3 | with two accusatives, to keep something from someone, as the Greek does: aliquem aliquid celare, to keep a person in the dark about a thing
+celo | 4 | with one accusative of the thing, to conceal it: celare sententiam, to keep one's opinion dark; celare iras, to hide one's anger
+celo | 5 | with an accusative of a person, to hide them: se tenebris celare, to hide oneself in the dark
+celo | 6 | Cicero notes that concealing is not merely keeping quiet, but keeping people ignorant of what they have an interest in knowing
+celo | 7 | as a neuter plural noun celata, secrets
+celox | 1 | cutter
+celox | 3 | a swift light ship, a cutter or yacht
+celox | 4 | originally an adjective meaning swift, standing to celer as atrox does to ater
+celsus1 | 1 | lofty
+celsus1 | 3 | raised high, tall and upright: celsus status, an upright bearing
+celsus1 | 4 | figuratively high-minded, above what is common: celsus et erectus, lofty and upright in spirit
+celsus1 | 5 | high in rank: celsissima sedes dignitatis, the highest seat of honour
+celsus1 | 6 | in a bad sense haughty and puffed up: celsi et spe haud dubia feroces, holding their heads high and fierce with confident hope
+celsus1 | 7 | as an adverb celse, loftily
+cena | 1 | dinner
+cena | 3 | the main meal of the Romans, taken about midday in early times and later in the afternoon
+cena | 4 | caput cenae, the chief dish of the meal; cenarum ars, the art of dining
+cena | 5 | with verbs: cenam apparare, to get dinner ready; cenam coquere, to cook it
+cena | 6 | with prepositions: ante cenam, before dinner; inter cenam, at table
+cena | 7 | a course at dinner: prima cena, the first course
+cena | 8 | the company at table: ingens cena sedet, a huge dinner party is seated
+cena | 9 | and also the place where a meal is held
+cenaculum | 1 | upper room
+cenaculum | 3 | properly a dining room, usually upstairs, and so an upper storey, a garret or attic
+cenaculum | 4 | in later times the lodging of poorer people
+cenaculum | 5 | the old writers explain the name: where they slept was a cubiculum, where they dined a cenaculum
