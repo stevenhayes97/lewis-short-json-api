@@ -619,3 +619,52 @@ capillaris | 4 | as a neuter noun capillare, a pomade for the hair
 capillatura | 1 | false hair
 capillatura | 3 | properly the state of being hairy, and then the hair itself, above all false hair
 capillatura | 4 | also the hairlike streaks in precious stones
+capillatus | 1 | long-haired
+capillatus | 3 | having a head of hair: adulescens bene capillatus, a young man with a fine head of hair
+capillatus | 4 | used of the early days, when men wore their hair long
+capillatus | 5 | arbor capillata, the tree on which the Vestals hung their shorn hair
+capillatus | 6 | of plants, made up of slender fibres: radices capillatae, thread-like roots
+capillus | 1 | hair
+capillus | 3 | the hair of the head, where crinis is hair of any kind: capillus passus, hair let down loose
+capillus | 4 | usually collective in the singular, though the plural is common in the poets
+capillus | 5 | the hair of the beard as well: barbam et capillum adurere, to singe beard and hair
+capillus | 6 | the hair or coat of animals: capillus cuniculi, a rabbit's fur
+capillus | 7 | the threads or fibres of plants: capillus Veneris, the plant maidenhair
+capio1 | 1 | take
+capio1 | 3 | to take hold of, grasp or seize: cape hoc flabellum, take this fan; fustem capere, to pick up a cudgel
+capio1 | 4 | of people, to take prisoner, and of animals, to catch: legiones vi pugnando cepimus, we took the legions by force of fighting
+capio1 | 5 | to captivate or charm, and so also to trick and take in: cavere ne capiatur, to take care not to be caught out
+capio1 | 6 | in the passive, to be crippled or disabled, and with mente, to be out of one's wits: captus mente, crazed
+capio1 | 7 | of places, to occupy, storm, or simply reach: castris locum capere, to pick ground for a camp; portum capere, to make harbour
+capio1 | 8 | of money and property, to receive or get, and in a bad sense to take a bribe: pecuniam capere, to take money corruptly; hereditatem capere, to come into an inheritance
+capio1 | 9 | of plans, profits, occasions and feelings, to conceive or take up: conjecturam capere, to draw an inference; fructum capere, to reap the profit; occasionem capere, to seize the chance; laborem capere, to take trouble
+capio1 | 10 | to hold or have room for: aedes nostrae vix capient, our house will barely hold them
+capistrum | 1 | halter
+capistrum | 3 | a halter, or a leather muzzle for animals
+capistrum | 4 | figuratively: maritale capistrum, the halter of matrimony
+capistrum | 5 | a band for tying up vines, and a band for the wine press
+capitalis | 1 | capital
+capitalis | 3 | touching life, so that life is at risk: capitale periculum, peril of one's life
+capitalis | 4 | in law, of crimes punished by death or by loss of citizenship: accusare aliquem rei capitalis, to charge someone with a capital offence
+capitalis | 5 | as a neuter noun capital, a capital offence: capital esse, to be a capital matter
+capitalis | 6 | figuratively deadly or mortal: capitalis hostis, a deadly enemy; capitale odium, a mortal hatred
+capitalis | 7 | chief or outstanding, much as English uses capital: capitale ingenium, first-rate ability
+capitalis | 8 | also a headdress worn by priests, the one trace left of its first sense
+capitatus | 1 | headed
+capitatus | 3 | having a head, a rare word: capitatum porrum, headed leek; capitata caepa, a bulbing onion
+capitatus | 4 | of a nail, having a head
+capitium1 | 1 | head covering
+capitium1 | 3 | a covering for the head, or an undergarment put on over the head
+capitium1 | 4 | in Christian Latin, the opening in a tunic that the head passes through
+capitulum1 | 1 | little head
+capitulum1 | 3 | a small head, of man or beast: operto capitulo bibere, to drink with the head covered
+capitulum1 | 4 | in comedy for a person, and as an endearment: o capitulum lepidissimum, you delightful creature
+capitulum1 | 5 | of plants, a small head or bulb
+capitulum1 | 6 | in architecture, the capital of a column
+capitulum1 | 7 | the crossbeam of a siege engine
+capitulum1 | 8 | in late Latin a chapter or section of a writing, and a clause of a law
+capra | 1 | she-goat
+capra | 3 | the female goat: capra fera, a wild she-goat, that is a roe
+capra | 4 | as a nickname for a man with bristly hair
+capra | 5 | Capra, the star in Auriga, said to be Amalthea set among the stars
+capra | 6 | by transfer, the rank smell of the armpits
