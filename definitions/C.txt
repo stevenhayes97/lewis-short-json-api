@@ -1309,3 +1309,40 @@ centurio2 | 1 | centurion
 centurio2 | 3 | the commander of a century, ranking below the tribune
 centussis | 1 | hundred asses
 centussis | 3 | a sum of a hundred asses, formed from centum and as
+cera | 1 | wax
+cera | 3 | wax, and in the plural the wax cells of a hive
+cera | 4 | a writing tablet coated with wax, which is the commonest use of the word
+cera | 5 | a seal of wax
+cera | 6 | a wax likeness of an ancestor: expressi cera voltus, features moulded in wax
+cera | 7 | the wax used in encaustic painting
+cerarius | 1 | of wax
+cerarius | 3 | having to do with wax, and found only as a noun
+cerarius | 4 | as a masculine noun cerarius, a wax dealer, or a clerk who writes on wax tablets
+cerarius | 5 | as a neuter noun cerarium, a fee for wax, or perhaps for affixing a seal
+cerasus1 | 1 | cherry tree
+cerasus1 | 3 | the cherry tree, which Lucullus brought to Italy from Cerasus in Pontus
+cerasus1 | 4 | also the cherry itself, though prose prefers the neuter cerasum
+cerebrum | 1 | brain
+cerebrum | 3 | the brain
+cerebrum | 4 | by transfer, understanding or sense
+cerebrum | 5 | also anger or hot temper: cerebri felix, blessed with a quick temper
+cerebrum | 6 | of plants, the pith at the top of the stem
+cereus1 | 1 | waxen
+cereus1 | 3 | made of wax: cerea effigies, a wax figure; cerea castra, the waxen camp, that is a honeycomb
+cereus1 | 4 | as a masculine noun cereus, a wax taper, which clients used to bring their patrons as a present
+cereus1 | 5 | wax-coloured: cerea pruna, yellow plums
+cereus1 | 6 | soft and pliant as wax: cerea bracchia, smooth soft arms
+cereus1 | 7 | figuratively easily swayed: cereus in vitium flecti, as easy to bend into vice as wax is to bend
+cerno | 1 | see
+cerno | 2 | sift
+cerno | 3 | literally to separate or sift: farinam cribro cernere, to sift flour through a sieve
+cerno | 4 | to make out by the senses and above all by the eyes, to perceive or discern
+cerno | 5 | cerni aliqua re, to show one's quality in something: amicus certus in re incerta cernitur, a sure friend is seen in an unsure business
+cerno | 6 | of the mind, to grasp or understand: acri ingenio cernere, to see a thing with a keen wit
+cerno | 7 | of what is to come, to foresee: cerno animo, I see it already in my mind
+cerno | 8 | to decide a disputed matter, to decree: quodcumque senatus creverit, whatever the senate shall have decreed
+cerno | 9 | to settle a thing by fighting, an old use that certare displaced: ferro vitam cernere, to settle life with the sword
+cerno | 10 | in law of inheritances, to resolve to enter on one, to declare that resolve, and so to take it up
+cernuus1 | 1 | stooping
+cernuus1 | 3 | bent forward with the face towards the ground, a very rare and poetic word
+cernuus1 | 4 | the old grammarians explain it as one who looks at the earth, from cernere
