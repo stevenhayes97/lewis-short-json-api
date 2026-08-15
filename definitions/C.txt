@@ -1203,3 +1203,68 @@ cenaculum | 1 | upper room
 cenaculum | 3 | properly a dining room, usually upstairs, and so an upper storey, a garret or attic
 cenaculum | 4 | in later times the lodging of poorer people
 cenaculum | 5 | the old writers explain the name: where they slept was a cubiculum, where they dined a cenaculum
+cenaticus | 1 | of dinner
+cenaticus | 3 | belonging to dinner, a very rare word: spes cenatica, the hope of a dinner
+cenaticus | 4 | in late Latin as a noun cenaticum, an allowance of money given in place of food
+cenatio | 1 | dining-room
+cenatio | 3 | a dining room or hall, a word of prose later than the Augustan age
+cenatorius | 1 | of dinner
+cenatorius | 3 | belonging to dinner or to the table, and later than Augustus: cenatoria vestis, dinner dress
+cenatorius | 4 | as a neuter plural cenatoria, the clothes worn at dinner
+cenito | 1 | dine often
+cenito | 3 | the frequentative of ceno, to dine regularly or make a habit of dining: foris cenitare, to dine out as a rule
+cenito | 4 | apud aliquem cenitare, to be a regular guest at someone's table
+ceno | 1 | dine
+ceno | 3 | to take one's meal: bene cenare, to dine well; solus cenare, to dine alone
+ceno | 4 | impersonally in the passive: apud eum cenatum est, dinner was taken at his house
+ceno | 5 | its participle cenatus is active in force, having dined: cenati atque appoti, when they had eaten and drunk their fill
+ceno | 6 | with an accusative, to make a meal of something: aves cenare, to dine on birds
+ceno | 7 | of time, to spend in feasting: cenatae noctes, nights passed at table
+censeo1 | 1 | assess
+censeo1 | 2 | think
+censeo1 | 3 | of the censors, to take the census, rating citizens and their property: censores familias pecuniasque censento, let the censors assess households and estates
+censeo1 | 4 | in the passive, of a citizen rated at a sum: census equestrem summam nummorum, assessed at a knight's fortune
+censeo1 | 5 | of provinces, to be assessed: quinto quoque anno Sicilia censetur, Sicily is assessed every fifth year
+censeo1 | 6 | of the person taxed, to declare one's property: in qua tribu praedia censuisti, in what tribe did you return those estates
+censeo1 | 7 | more generally to value or estimate: quanti censes, at what do you value it
+censeo1 | 8 | censeri aliqua re, to be known or distinguished by some quality
+censeo1 | 9 | to be of an opinion, to judge or think, and above all to say so in the senate
+censeo1 | 10 | so also to vote for a course or move it formally
+censio | 1 | assessment
+censio | 3 | a rating or valuation, and above all the censor's: censio capitis, a rating by head
+censio | 4 | a punishment laid on by the censor, such as a fine on a knight
+censio | 5 | in comedy: censio bubula, a rating with an ox-hide strap, that is a flogging
+censio | 6 | an opinion or judgment, and the giving of one: ne censionem semper facias, so that you need not for ever be saying censeo
+censor | 1 | censor
+censor | 3 | the Roman magistrate, of whom there were two, who held the census and had charge of public morals
+censor | 4 | figuratively a stern judge of conduct, a critic: castigator censorque minorum, a rebuker and censor of his juniors
+censorius | 1 | censorial
+censorius | 3 | belonging to the censor: tabulae censoriae, the censors' lists; lex censoria, a contract let out by the censors
+censorius | 4 | figuratively rigid and severe: censoria gravitas, censorial gravity; censoria virgula, the critic's stroke of the pen
+# review: censualis a late legal adjective tied to the census; English has no adjective, and 'census' alone reads as the noun
+censualis | 1 | of the census
+censualis | 3 | belonging to a census, a word of late and legal Latin: censuales professiones, declarations made for the census
+censualis | 4 | as a noun censuales, the clerks who drew up the censor's lists, and also the lists themselves
+censura | 1 | censorship
+censura | 3 | the office of censor: dat veniam corvis, vexat censura columbas, the censorship pardons the ravens and harries the doves
+censura | 4 | more widely a judgment or opinion: censura vini, a verdict on the wine
+censura | 5 | a stern or harsh judgment, severity
+census2 | 1 | census
+census2 | 3 | the registering and rating of Roman citizens and their property: censum agere, to hold a census; censum habere, to take one
+census2 | 4 | the register itself, the censors' lists
+census2 | 5 | the property a citizen is entered at: census senatorius, a senator's rating; census equester, a knight's
+census2 | 6 | more widely wealth or property: homo sine censu, a man with nothing to his name
+# review: centenarius 'consisting of a hundred'; English has no adjective, and 'hundredfold' answers to centuplex instead
+centenarius | 1 | of a hundred
+centenarius | 3 | made up of a hundred, or having to do with a hundred: centenarius numerus, the number a hundred; centenarius grex, a flock of a hundred
+centenarius | 4 | centenariae ballistae, catapults that throw hundred-pound stones
+centenarius | 5 | as a noun in late Latin, a centurion
+centeni | 1 | hundred each
+centeni | 3 | the distributive numeral, a hundred apiece or simply a hundred: centeni juvenes, a hundred young men to each
+centeni | 4 | it has a shortened genitive plural centenum
+centeni | 5 | as a neuter noun centenum, rye, so called because it yields a hundredfold
+centesimus | 1 | hundredth
+centesimus | 3 | the ordinal numeral: pars centesima, the hundredth part; centesima lux, the hundredth day
+centesimus | 4 | as a feminine noun centesima, a tax of one per cent on goods sold
+centesimus | 5 | also interest at one per cent a month, which comes to twelve per cent a year
+centesimus | 6 | sometimes standing for centuplex, a hundredfold: centesima frux, a hundredfold crop
