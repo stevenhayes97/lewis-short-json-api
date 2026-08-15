@@ -1706,3 +1706,39 @@ circumnecto | 4 | of the membrane that encloses the belly
 circumplecto | 1 | clasp around
 circumplecto | 3 | an active form standing beside the deponent circumplector: meum collum circumplecte, throw your arms round my neck
 circumplecto | 4 | circumplectito foramina laminis, cover the holes about with plates
+circumplector | 1 | clasp around
+circumplector | 3 | to embrace or encompass a thing: draco patrimonium circumplectitur, the serpent coils about the treasure
+circumplector | 4 | of a plant or creature that winds round: arborem circumplecti, to twine about a tree
+circumplector | 5 | figuratively of a picture that takes hold of the mind
+circumplico | 1 | twine around
+circumplico | 3 | to wind, fold or twist round: anguem vectis circumplicavisset, if a snake had coiled about a bar
+circumplico | 4 | belua circumplicata serpentibus, a beast wreathed about with snakes
+circumplico | 5 | also simply to bend round
+circumretio | 1 | ensnare
+circumretio | 3 | to catch in a net: Martem et Venerem circumretitos esse, that Mars and Venus were caught in the net
+circumretio | 4 | figuratively to trap or hem in: circumretitum frequentia populi Romani, caught fast in the press of the Roman people
+circumrodo | 1 | gnaw around
+circumrodo | 3 | to nibble all round a thing: escam circumrodere, to nibble at the bait
+circumrodo | 4 | figuratively to hang back from saying a thing: dudum circumrodo quod devorandum est, I have long been nibbling at what I must swallow whole
+circumrodo | 5 | also to backbite: dente Theonino circumrodi, to be gnawed at by a Theonine tooth
+circumsaepio | 1 | fence around
+circumsaepio | 3 | to hedge or fence a thing about: loca parietibus circumsepta, places walled about
+circumsaepio | 4 | not found before the Augustan age, and also spelt circumsepio
+circumscribo | 1 | limit
+circumscribo | 3 | literally to draw a line round: orbem circumscribere, to draw a circle; virgula stantem circumscribere, to draw a line round a man where he stands
+circumscribo | 4 | to mark out the bounds of a thing, to define it: nullis terminis circumscribere, to hedge a thing within no limits
+circumscribo | 5 | to hem in and restrain, and above all of one magistrate checking another
+circumscribo | 6 | to cut down or abridge: sex epitomis circumscribere, to boil a work down into six summaries
+circumscribo | 7 | to take someone in, to cheat: adulescentulos circumscribere, to swindle young men
+circumscribo | 8 | in law, to defeat the point of a statute or a will by a forced reading
+circumscribo | 9 | to cancel a thing or set it aside as invalid
+circumscribo | 10 | its participle circumscriptus, either rounded into periods or else restricted: circumscripti verborum ambitus, well-rounded periods
+circumscriptio | 1 | boundary
+circumscriptio | 3 | an encircling, and concretely a circle: ex circumscriptione excedere, to step out of the circle
+circumscriptio | 4 | an outline, contour or compass: terrae circumscriptio, the compass of the earth
+circumscriptio | 5 | in rhetoric a period: verborum circumscriptio, a rounded period
+circumscriptio | 6 | also a summing up in brief
+circumscriptio | 7 | a cheating or defrauding, above all in money matters: circumscriptio adulescentium, the swindling of young men
+circumseco | 1 | cut around
+circumseco | 3 | to cut or pare round: radices vitium circumsecare, to pare the roots of the vines; ungulas circumsecare, to trim the hooves
+circumseco | 4 | also to circumcise, of the Jews, though circumcido is the usual word for it
