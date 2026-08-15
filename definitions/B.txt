@@ -325,3 +325,60 @@ bifer | 4 | of twofold shape: biferum Centauri corpus, the Centaur's double body
 bifidus | 1 | forked
 bifidus | 3 | split into two, cleft: bifidi pedes, cloven feet; bifida lingua, a forked tongue
 bifidus | 4 | of a road or course that divides: bifidum iter, a way that forks
+biforis | 1 | two-doored
+biforis | 3 | with double or folding doors: bifores valvae, folding doors; bifores fenestrae, windows with two shutters
+biforis | 4 | more generally, having two openings
+biforis | 5 | in the poets of the pipe, sounding two notes: biforem dat tibia cantum, the pipe gives out its double note
+biformis | 1 | two-shaped
+biformis | 3 | of double nature or shape, said of Janus, the Minotaur, Scylla, the Centaurs and Hermaphroditus: proles biformis, offspring of two forms
+biformis | 4 | of Horace as a poet, part man and part swan: biformis vates, the bard of double shape
+biformis | 5 | of monstrous births: biformes hominum partus, human births of two shapes
+bifurcus | 1 | two-pronged
+bifurcus | 3 | forked, with two prongs or branches: bifurcus ramus, a forked bough; bifurci valli, forked stakes
+bifurcus | 4 | as a neuter noun bifurcum, a fork, the point where two branches part
+bifurcus | 5 | of the body, the cleft where the neck meets the shoulders: sudor per bifurcum volabat, the sweat streamed down his neck
+# review: bigae the pair of horses and the car they draw are one word in Latin; 'chariot' alone loses the pair
+bigae | 1 | two-horse chariot
+bigae | 3 | a pair of horses yoked together, and so also the car they draw
+bigae | 4 | plural in every writer before Augustus, and singular biga only later
+bigae | 5 | of the teams of gods and of night: roseae Aurorae bigae, the rosy pair of Dawn
+bigae | 6 | Hector raptatus bigis, Hector dragged behind a chariot
+bigae | 7 | also of a ploughing team of oxen: bigae cornutae, a horned pair
+bigae | 8 | the figure stamped on the silver coin called a bigatus
+# review: bigatus 'stamped with a two-horse chariot' is the whole word; English has neither the adjective nor a name for the coin
+bigatus | 1 | stamped with a chariot
+bigatus | 3 | of silver, bearing the stamp of a two-horse chariot: argentum bigatum, chariot-stamped silver
+bigatus | 4 | as a noun, the coin itself, matched by the quadrigatus with its four-horse team
+bijugis | 1 | two-yoked
+bijugis | 3 | yoked in a pair, a rare form beside bijugus: bijuges equi, a pair of horses in harness
+bijugis | 4 | more widely, double: bijuges fasces, two consulships falling to one family
+bijugus | 1 | two-yoked
+bijugus | 3 | yoked two together, poetic: bijugi leones, a team of two lions; bijugus currus, a car drawn by a pair
+bijugus | 4 | as a masculine plural noun bijugi, the pair of horses itself: desiluit Turnus bijugis, Turnus leapt down from his chariot
+bijugus | 5 | bijugum certamen, the race of the two-horse chariots
+bilibris | 1 | two-pound
+bilibris | 3 | weighing two pounds: bilibris mullus, a mullet of two pounds
+bilibris | 4 | holding two pounds: bilibre cornu, a horn that takes two pounds
+bilibris | 5 | as a noun, a quantity of two pounds
+bilinguis | 1 | double-tongued
+bilinguis | 2 | bilingual
+bilinguis | 3 | literally having two tongues, used in jest of lovers kissing
+bilinguis | 4 | speaking two languages: bilingues Bruttates, the Bruttians, who used both Oscan and Greek
+bilinguis | 5 | figuratively two-faced and treacherous: Tyrios bilingues timere, to fear the double-dealing Tyrians
+bilinguis | 6 | of a pipe fitted with two stops
+bilinguis | 7 | of stories, carrying a double meaning, allegorical
+biliosus | 1 | bilious
+biliosus | 3 | full of bile, of what the body throws off: biliosum sputum, bilious spittle
+biliosus | 4 | as a noun, a person of bilious constitution
+biliosus | 5 | figuratively gloomy or hypochondriac, put down to the black bile
+bilis | 1 | bile
+bilis | 2 | anger
+bilis | 3 | the fluid the liver secretes, where fel is the gall bladder holding it: bilem pellere, to drive off the bile
+bilis | 4 | bilis suffusa, bile spreading through the body, that is jaundice; bile suffusus, jaundiced
+bilis | 5 | figuratively anger or spleen: bilem alicui commovere, to stir up someone's temper; bilem effundere, to vent one's rage
+bilis | 6 | atra or nigra bilis, black bile, and so melancholy and low spirits
+bilis | 7 | black bile also stands for madness: atra bili percita est, she is out of her mind
+# review: bimaris English has no one-word adjective for 'lying between two seas'
+bimaris | 1 | between two seas
+bimaris | 3 | lying between two seas, and almost always of Corinth on its isthmus: bimaris Corinthi moenia, the walls of Corinth between its two seas
+bimaris | 4 | a favourite word of Ovid
