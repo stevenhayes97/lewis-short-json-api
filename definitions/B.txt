@@ -1,0 +1,109 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_B.json (Lewis & Short via Perseus), simplified for learners.
+baca | 1 | berry
+baca | 3 | a small round fruit of a tree or shrub: bacae lauri, laurel berries
+baca | 4 | especially the olive, and in the poets the olive on its own
+baca | 5 | more widely, any fruit borne by a tree
+baca | 6 | a pearl, named from its shape
+baca | 7 | a link of a chain made in the shape of a berry
+bacchor | 1 | rave
+bacchor | 2 | revel
+bacchor | 3 | to celebrate the rites of Bacchus, to keep his festival
+bacchor | 4 | of any violent excitement, to rant, to be carried away by joy or fury
+bacchor | 5 | to rush about wildly: bacchatur in urbe, she runs frenzied through the city
+bacchor | 6 | of a poet or prophet, to be possessed and utter inspired words
+bacchor | 7 | of winds, rain or rumour, to rage or sweep along: bacchatur fama per urbem, the rumour races through the city
+bacchor | 8 | in the perfect participle, of a place where the rites are held: bacchata jugis Naxos, Naxos revelled over on its ridges
+baculum | 1 | staff
+baculum | 3 | a walking stick, a staff to lean on
+baculum | 4 | the augur's staff, the lituus
+baculum | 5 | a sceptre, including the stage sceptre of a tragic actor
+baculum | 6 | a rod to strike with: baculo decutere, to knock down with a staff
+baculum | 7 | figuratively a prop or support: baculum senectutis, the staff of one's old age
+bajulo | 1 | carry
+bajulo | 3 | to carry something heavy on one's own body, as against loading it on a pack animal
+bajulo | 4 | figuratively, to bear a burden laid on one: crucem suam bajulare, to carry one's own cross
+bajulus | 1 | porter
+bajulus | 3 | a man who carries loads for pay, a day labourer
+bajulus | 4 | a bearer at a funeral
+bajulus | 5 | in later Latin a letter carrier: litterarum bajulus, the bearer of a letter
+balatro1 | 1 | buffoon
+balatro1 | 3 | a jester or clown, seemingly a stock stage character
+balatro1 | 4 | used of low company and hangers-on: mendici mimae balatrones, beggars, actresses and buffoons
+balbus1 | 1 | stammering
+balbus1 | 3 | of a person, unable to speak clearly, with a stutter or a lisp
+balbus1 | 4 | of speech itself, halting or indistinct: balba verba, stammered words
+balbus1 | 5 | of childhood and old age, when the tongue does not obey
+balbus1 | 6 | as an adverb balbe, stammeringly, and so obscurely
+balbutio | 1 | stammer
+balbutio | 3 | to stutter, to speak with a catch and a confusion of the tongue
+balbutio | 4 | of birds, to sing unclearly: merula hieme balbutit, in winter the blackbird's note is indistinct
+balbutio | 5 | figuratively, to speak obscurely, to mumble instead of saying a thing outright
+balbutio | 6 | with an object, to lisp something out, to mouth a name fondly
+balnearius | 1 | of baths
+balnearius | 3 | belonging to a bath or used in one: fur balnearius, a thief who haunts the baths
+balnearius | 4 | as a neuter plural noun balnearia, the bathing rooms of a house, the baths
+balneator | 1 | bath keeper
+balneator | 3 | the man in charge of a bath house
+balo | 1 | bleat
+balo | 3 | of sheep and goats, to bleat
+balo | 4 | its participle used as a noun for sheep: balantum grex, a flock of bleating ewes
+balo | 5 | of people, to talk foolishly, to bleat on
+balteus | 1 | belt
+balteus | 3 | a sword belt, especially the band worn over the shoulder
+balteus | 4 | a woman's girdle, as of the Amazon queen
+balteus | 5 | the belly band of a horse
+balteus | 6 | anything that runs round like a band: a rim, edge or border
+balteus | 7 | the belt of the heavens, the zodiac
+balteus | 8 | the flat walkway dividing the tiers of seats in a theatre
+balteus | 9 | a blow with a belt, a strapping
+barba1 | 1 | beard
+barba1 | 3 | the beard of a man: barbam tondere, to trim the beard; barbam ponere, to have it taken off
+barba1 | 4 | letting the beard grow was a sign of mourning, and the old Romans wore it long before shaving came in
+barba1 | 5 | barbam vellere alicui, to pluck someone's beard, a studied insult
+barba1 | 6 | sapientem pascere barbam, to grow a philosopher's beard, that is to take up Stoicism
+barba1 | 7 | of animals, the beard of a goat or the shag of a wolf
+barba1 | 8 | of plants, the down or wool on a nut or a leaf
+barbaria | 1 | barbarism
+barbaria | 2 | foreign lands
+barbaria | 3 | the world outside Greece and Rome taken together: omnis barbaria, the whole barbarian world
+barbaria | 4 | one particular foreign country, whichever the speaker has in mind: Persia, Phrygia, Gaul or Scythia
+barbaria | 5 | roughness and want of cultivation, in manners or in speech: barbaria forensis, the crudeness of the courts
+barbaria | 6 | savagery, brutal and uncivilised conduct: inveterata barbaria, ingrained savagery
+barbaria | 7 | by transfer, the barbarians themselves as a body
+barbatus | 1 | bearded
+barbatus | 3 | of a man, wearing a full beard, as against imberbis, beardless
+barbatus | 4 | hence grown up, old enough to have a beard
+barbatus | 5 | as a noun barbati, the Romans of the old days, taken as a type of plain honesty
+barbatus | 6 | also a philosopher, named from the long beard they wore
+barbatus | 7 | of animals, bearded, and barbatus on its own, a he-goat
+barbatus | 8 | of plants, downy or woolly
+barbula | 1 | little beard
+barbula | 3 | the small trimmed beard of a young Roman, against the shaggy beard of the ancients
+barbula | 4 | of plants, a small tuft of down
+bardus | 1 | stupid
+bardus | 3 | slow-witted, dull of understanding: stupidum esse Socratem et bardum, that Socrates was slow and stupid
+bardus | 4 | of work rather than of people, lifeless or clumsy: pictor bardior, a duller painter
+bardus | 5 | a separate word bardus, a Gallic poet who sings the praises of brave men, a bard
+baro | 1 | blockhead
+baro | 3 | a dolt or simpleton, too dull to follow what is said: nos barones stupemus, we dunces sit gaping
+basium | 1 | kiss
+basium | 3 | a kiss, mostly poetic and a favourite word of Catullus: da mi basia mille, give me a thousand kisses
+basium | 4 | a kiss blown from the hand: basia jactare, to throw kisses
+batillum | 1 | shovel
+batillum | 3 | a shovel, especially for coals or for dirt
+batillum | 4 | a pan for carrying live coals or burning incense, a chafing dish
+battuo | 1 | beat
+battuo | 3 | to strike or hit, a rare and colloquial word
+battuo | 4 | of preparing food, to bruise in a mortar or pound meat before cooking
+battuo | 5 | of fencing, to fight with weapons: battuere pugnatoriis armis, to fence with real weapons rather than foils
+beatitas | 1 | happiness
+beatitas | 3 | the state of being beatus, a blessed and prosperous life
+beatitas | 4 | one of two words Cicero coined for it beside beatitudo, and he called both of them harsh
+beatitudo | 1 | happiness
+beatitudo | 3 | blessedness, a condition of complete well-being
+beatitudo | 4 | coined by Cicero alongside beatitas, and the commoner of the two in later writers
+beatitudo | 5 | in Christian Latin, beatitude, the blessedness of the saved
+bellaria | 1 | dessert
+bellaria | 3 | the last course of a meal, used in the plural only: fruit, nuts, sweets and sweet wine
+bellaria | 4 | so anything served as a delicacy or titbit
