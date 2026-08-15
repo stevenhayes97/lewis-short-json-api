@@ -946,3 +946,42 @@ castus1 | 5 | of style, free of barbarisms: sermonis castissimi, of the purest s
 castus1 | 6 | in religion holy and observant: casti sacerdotes, pure priests; hac casti maneant in religione nepotes, may our descendants keep this worship undefiled
 castus1 | 7 | as a neuter noun castum, a festival kept with strict continence
 castus1 | 8 | free from greed for what belongs to others: homo castus ac non cupidus, a man clean-handed and not grasping
+casualis | 1 | accidental
+casualis | 3 | happening by chance, a late and very rare word: condicio casualis, a condition that turns on chance
+casualis | 4 | in grammar, having cases or belonging to them
+casualis | 5 | as an adverb casualiter, by accident
+casus1 | 1 | fall
+casus1 | 2 | chance
+casus1 | 3 | a falling down: casus nivis, a fall of snow; casus fulminum, the fall of thunderbolts
+casus1 | 4 | a fall or overthrow: graviore casu decidunt turres, high towers come down with the heavier crash
+casus1 | 5 | of time, the close: extremae sub casum hiemis, at the very end of winter
+casus1 | 6 | a moral or political fall, a slip: sine casu ac prolapsione, without a stumble and a fall
+casus1 | 7 | whatever happens unlooked for, an event or accident: fors, fortuna, casus, chance, fortune and accident
+casus1 | 8 | an opportunity or occasion: mortis durae casus, the chance of a hard death
+casus1 | 9 | above all a misfortune or disaster, and by a softer usage death itself: casum civitatis dolere, to grieve at the calamity of the state
+casus1 | 10 | in grammar, a case in the inflection of a word
+catellus1 | 1 | puppy
+catellus1 | 3 | a little dog, the diminutive of catulus
+catellus1 | 4 | used as a term of endearment: mi catella, my little pet
+catellus2 | 1 | little chain
+catellus2 | 3 | a small chain, the diminutive of catena, and commoner in the feminine catella
+catellus2 | 4 | vaginae catellis crepitant, the scabbards rattle with their chains
+catellus2 | 5 | Plautus plays on its likeness to catellus, a puppy
+catena | 1 | chain
+catena | 3 | a chain, most often plural and used as a fetter: catenis vincire aliquem, to bind someone in chains; in catenas conicere, to throw into irons
+catena | 4 | a chain barring the mouth of a harbour
+catena | 5 | figuratively a bond or restraint: legum catenae, the chains of the laws
+catena | 6 | a chain of gold or silver worn by women as an ornament
+catena | 7 | a series of things linked together: praecepta in catenas ligare, to bind up rules in a chain
+catena | 8 | in building, a brace or tie holding two beams together
+cateno | 1 | chain
+cateno | 3 | to chain or bind together, and commonest in its participle catenatus, fettered
+cateno | 4 | figuratively linked or unbroken: catenati labores, unremitting toil; versus catenati, verses linked one to another
+caterva | 1 | crowd
+caterva | 3 | a crowd, troop or band of people: magna caterva, a good large company; catervae testium, crowds of witnesses
+caterva | 4 | in the army a body of troops, and above all the loose formations of barbarian peoples set against the Roman legions
+caterva | 5 | in the theatre the whole company of actors, usually called a grex
+caterva | 6 | figuratively: caterva verborum, a rabble of words
+catillus1 | 1 | small dish
+catillus1 | 3 | a little bowl, dish or plate, the diminutive of catinus
+catillus1 | 4 | of things shaped like a plate, an ornament on a scabbard, and the upper millstone
