@@ -1404,3 +1404,33 @@ cessim | 3 | turning back or bending in, mostly an early and a late word: cessim
 cessio | 1 | surrender
 cessio | 3 | a giving up or making over, and a word of the lawyers only: in jure cessio, a formal surrender before a magistrate
 cessio | 4 | cessio diei, the falling due of a term
+cesso | 1 | loiter
+cesso | 3 | the frequentative of cedo, to hang back or delay, and always with a hint of blame: cessare pultare ostium, to be slow about knocking at the door
+cesso | 4 | to do nothing, to be idle: nihil agere et cessare, to be doing nothing and idling
+cesso | 5 | of things, to lie unused or still, and of land, to lie fallow: cessata arva, fields left fallow
+cesso | 6 | with a dative, to have leisure for a thing: cessare amori, to give one's time to love
+cesso | 7 | to be wanting or not forthcoming: cessat voluntas, the will is not there
+cesso | 8 | in law, of a person to fail to appear, and of an action to be null and void
+cesso | 9 | in a moral sense, to slip or go wrong: qui multum cessat, a man who often goes astray
+cetarius | 1 | fishmonger
+cetarius | 3 | having to do with fish, and found only as a noun
+cetarius | 4 | as a masculine noun cetarius, a dealer in fish
+cetarius | 5 | as a neuter noun cetarium, a fishpond or tank for the larger fish
+ceteroqui | 1 | otherwise
+ceteroqui | 3 | for the rest or in other respects, also spelt ceteroquin and formed like alioqui and alioquin
+ceteroqui | 4 | a rare word: ceteroquin recte, right enough in other ways
+ceterus | 1 | remaining
+ceterus | 3 | the rest of a thing, what is left over beyond what has been named; its nominative singular masculine is not in use
+ceterus | 4 | in the plural, the rest or the others: ceteri, the others; et cetera, and so on
+ceterus | 5 | its neuter ceterum as an adverb, for the rest or otherwise, and often simply but or still
+ceterus | 6 | the plural cetera as an adverb, in other respects: cetera laetus, happy enough in all else
+ceterus | 7 | Pliny uses cetero in the same way
+ceu | 1 | as
+ceu | 3 | a particle of comparison, contracted from ce and ve as neu is from neve: ceu fumus in auras, like smoke into the air
+ceu | 4 | in poetic comparisons, often answered by haud aliter or by sic
+ceu | 5 | with cum or si: ceu cum, as when
+ceu | 6 | sometimes conditionally, as if or as it were
+ceu | 7 | it belongs to elevated poetry before the Augustan age, and comes into prose later, above all in the elder Pliny
+ceveo | 1 | waggle
+ceveo | 3 | to move the haunches, a coarse word of the satirists
+ceveo | 4 | figuratively, from a dog wagging its tail, to fawn and flatter
