@@ -1,0 +1,2161 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_C.json (Lewis & Short via Perseus), simplified for learners.
+cachinno1 | 1 | guffaw
+cachinno1 | 3 | to laugh out loud, to roar with laughter, often in mockery: cachinnare ipse Apronius, Apronius roaring with laughter himself
+cachinno1 | 4 | with an accusative of what is laughed at: exitum meum cachinnant, they laugh at my downfall
+cachinno1 | 5 | in the poets of the sea, to plash or roar
+cachinnus | 1 | guffaw
+cachinnus | 3 | a loud burst of laughter, and often a jeering one: cachinnum tollere, to set up a roar of laughter
+cachinnus | 4 | cachinnos commovere, to raise a laugh against someone; effusus in cachinnos, bursting into peals of laughter
+cachinnus | 5 | res digna tuo cachinno, a thing worth a laugh from you
+cachinnus | 6 | in the poets of the sea: leni resonant plangore cachinni, the ripples answer with a gentle splash
+caco | 1 | defecate
+caco | 3 | to empty the bowels, a coarse word of the satirists and epigrammatists
+caco | 4 | transitively, to void something, and so to foul with excrement: cacata charta, a befouled sheet, said of a worthless book
+cacula | 1 | soldier's servant
+cacula | 3 | a servant, and above all the one who waited on a soldier: caculam militarem me futurum, that I am to be a soldier's man
+cacula | 4 | an old word, which the later grammarians gloss as servus militis
+cacumen | 1 | tip
+cacumen | 3 | the extreme point of anything, whether it runs up or along, where culmen is a height alone
+cacumen | 4 | most often a treetop: umbrosa cacumina, shady treetops
+cacumen | 5 | the peak of a mountain, or the top of any tall thing
+cacumen | 6 | figuratively the limit or highest pitch: ad summum venire cacumen, to reach the height of perfection
+cacumen | 7 | in the grammarians, the accent mark written over a letter
+cadaver | 1 | corpse
+cadaver | 3 | a dead body, of man or beast; the word comes from cado, what has fallen: taetra cadavera, foul corpses
+cadaver | 4 | especially of those killed in war, and of slaves and criminals left unburied
+cadaver | 5 | as abuse of a worthless man, carcass: ejectum cadaver, that cast-off carcass
+cadaver | 6 | of towns laid waste, their remains: tot oppidum cadavera, so many corpses of towns
+cado | 1 | fall
+cado | 3 | to fall or drop, of anything carried from a higher place to a lower: cadere in plano, to fall on level ground; arbores in te cadent, the trees will come down on you
+cado | 4 | of heavenly bodies, to set: solem cadentem, the setting sun; Arcturus cadens, Arcturus going down
+cado | 5 | to fall off or be shed: dentes cadunt, the teeth drop out; lapsa cadunt folia, the leaves slip and fall
+cado | 6 | of rivers, to empty themselves: flumina in pontum cadent, the rivers will run down into the sea
+cado | 7 | to fall in battle: in acie cadere, to fall in the line; and of victims, cadet hostia, a victim shall fall
+cado | 8 | to come under a thing, or to suit it, with sub or in: sub sensus cadere, to fall within the senses; non cadit in hunc hominem, it does not fit a man like this
+cado | 9 | to turn out or come to pass, often against expectation: quorsum id casurum esset, how it would turn out; in cassum cadere, to come to nothing
+cado | 10 | of wind, strength or fortunes, to drop and die away: cadit Eurus, the east wind falls; cadunt vires, the strength gives out
+caduceator | 1 | herald
+caduceator | 3 | an envoy sent under flag of truce, carrying the caduceus: caduceatori nemo homo nocet, no man does a herald harm
+caduceator | 4 | Livy uses the word of envoys suing for peace
+caduceator | 5 | in late writers also an attendant on a priest
+caduceum | 1 | herald's staff
+caduceum | 3 | the staff carried as the sign of a peaceful embassy, first an olive branch hung with fillets, later worked into serpents: caduceo ornatus, carrying the herald's staff
+caduceum | 4 | also the staff of Mercury as messenger of the gods
+caduceum | 5 | it appears both as a neuter caduceum and a masculine caduceus
+caducus | 1 | falling
+caducus | 2 | perishable
+caducus | 3 | that falls or has fallen: caducae frondes, falling leaves; glans caduca, an acorn that has dropped
+caducus | 4 | ready to fall and needing support: vitis natura caduca, the vine, which of itself sinks to the ground
+caducus | 5 | of men, fallen in war or doomed to die: bello caduci, those who fell in the fighting
+caducus | 6 | in medicine, subject to fits: morbus caducus, the falling sickness, epilepsy
+caducus | 7 | figuratively frail and fleeting: res humanae fragiles caducaeque, human things, brittle and soon gone
+caducus | 8 | in law, of a bequest that lapses because the named heir cannot take it, and as a noun caducum, an estate left without an owner
+caducus | 9 | as an adverb caduciter, headlong
+caecitas | 1 | blindness
+caecitas | 3 | the loss of sight
+caecitas | 4 | figuratively blindness of mind: caecitas mentis, said both of madness and of moral folly
+caeco | 1 | blind
+caeco | 3 | to make blind, to take away sight: sol caecat, the sun dazzles one blind
+caeco | 4 | in gardening, to destroy a bud or eye
+caeco | 5 | figuratively, to darken the judgment: caecare mentes, to blind people's minds; caecati libidinibus, blinded by their appetites
+caecus1 | 1 | blind
+caecus1 | 3 | of a person, unable to see: apparet id etiam caeco, even a blind man can see that
+caecus1 | 4 | figuratively, blind in mind or in morals: pectora caeca, blind hearts; caecus cupidine, blinded by desire
+caecus1 | 5 | of the passions themselves: caeca cupido, blind craving; caecus amor sui, blind self-love
+caecus1 | 6 | so also at random, with nothing to go on: caecus timor, groundless fear
+caecus1 | 7 | passively, that cannot be seen, hidden or secret: caecum vallum, a masked palisade; vada caeca, unseen shoals
+caecus1 | 8 | of what blocks the sight, dark or thick: caeca nox, blind night; caecae tenebrae, thick darkness
+caecus1 | 9 | figuratively uncertain or obscure: caeca exspectatio, waiting with nothing to judge by; caeci morbi, diseases whose cause not even doctors can see
+caecus1 | 10 | of plants without buds, and of the caecum, the blind gut
+caedes | 1 | slaughter
+caedes | 3 | a killing, massacre or carnage, above all in battle or by an assassin: caedem caede accumulantes, piling slaughter on slaughter
+caedes | 4 | the killing of animals, and especially of victims: caedes bidentium, the slaying of sacrificial sheep
+caedes | 5 | the slain themselves: caedis acervi, heaps of the dead; plenae caedibus viae, streets full of corpses
+caedes | 6 | the blood shed in killing: caede madentes, dripping with gore; respersus fraterna caede, splashed with a brother's blood
+caedes | 7 | an attempt at murder: nostrae injuria caedis, the outrage of an attempt on our lives
+caedes | 8 | in its first sense, a cutting or lopping: ligni atque frondium caedes, the cutting of wood and leaves
+caedes | 9 | in later writers, a beating with the fists
+caedo | 1 | cut
+caedo | 2 | kill
+caedo | 3 | to cut, hew or fell: arbores caedere, to fell trees; silvam caedere, to clear a wood
+caedo | 4 | to strike or beat: caedere januam saxis, to batter a door with stones; caedere verberibus, to flog
+caedo | 5 | proverbially: ut vineta egomet caedam mea, to cut down my own vineyard, that is to do myself harm; stimulos pugnis caedere, to punch at the goad, making a danger worse by struggling
+caedo | 6 | to strike dead, to murder: jure caesus videri, to be held lawfully killed
+caedo | 7 | in war, to cut an army to pieces: exercitus caesus fususque, an army cut up and routed
+caedo | 8 | to slaughter animals, above all for sacrifice: caesis victimis, the victims having been slain
+caedo | 9 | caedere sermones, a turn taken from the Greek, to chop words, that is to chat
+caedo | 10 | in law, pignus caedere, to declare a pledge forfeit
+# review: caeduus of wood that may be cut without harming the stand; 'coppiced' names the practice rather than the fitness
+caeduus | 1 | fit for felling
+caeduus | 3 | of timber that may be cut without harm to what is left, a term of the farming writers: silva caedua, coppice wood
+caeduus | 4 | so also of a wood's natural yield for cutting
+caelatura | 1 | engraving
+caelatura | 3 | the art of working reliefs in metal, which Quintilian marks off from sculptura, that works in wood, ivory, marble and glass as well
+caelatura | 4 | such work in other materials too, for instance in clay
+caelatura | 5 | the engraved figures themselves, chased work: attritis caelaturis, when the reliefs are rubbed smooth with handling
+caelebs | 1 | unmarried
+caelebs | 3 | single, whether a bachelor or a widower: caelebs senex, an old man with no wife
+caelebs | 4 | of what belongs to that state: caelebs vita, the single life; caelebs lectus, an empty bed
+caelebs | 5 | of animals: caelebs columba, a dove without its mate
+caelebs | 6 | of a tree with no vine trained on it, since the vine is said to be married to its tree: caelebs platanus, the unwedded plane
+caeles | 1 | heavenly
+caeles | 3 | a poetic form beside caelestis, and never found in the nominative singular: di caelites, the gods of heaven
+caeles | 4 | most often a noun in the plural, caelites, the dwellers in heaven, the gods
+caelestis | 1 | heavenly
+caelestis | 3 | divine, belonging to the gods: caeleste numen, divine power; caelestis ira, the anger of heaven
+caelestis | 4 | as a masculine noun a god, and in the plural caelestes, the gods: in concilio caelestium, in the council of the gods
+caelestis | 5 | as a neuter plural caelestia, the things of heaven set against human affairs: haec caelestia semper spectato, keep your eyes always on these heavenly things
+caelestis | 6 | of anything splendid or outstanding, godlike: caeleste ingenium, a divine talent
+caelestis | 7 | commonest as a compliment paid to great men from the Augustan age on, and used so only once by Cicero
+caelicola | 1 | heaven-dweller
+caelicola | 3 | one who dwells in heaven, a poetic word for a god
+caelicola | 4 | the poets favour its genitive plural caelicolum
+caelicola | 5 | in late Latin, a worshipper of the heavens
+caelo | 1 | engrave
+caelo | 3 | to work a design in relief on metal, above all on silver, or on ivory
+caelo | 4 | also on other materials, on wood, marble or glass: caelatum divini opus Alcimedontis, a carved work of the peerless Alcimedon
+caelo | 5 | of fine weaving or embroidery: velamina caelata multa arte, hangings worked with great skill
+caelo | 6 | of poetry: caelatum novem musis opus, a work chased by the nine Muses
+caelo | 7 | figuratively of the stars: caelatum stellis Delphina, the Dolphin picked out in stars
+caelum1 | 1 | graver
+caelum1 | 3 | the chisel or burin the sculptor and engraver works with, and the word caelatura is named from it
+caelum2 | 1 | sky
+caelum2 | 2 | heaven
+caelum2 | 3 | the heavens as the vault overhead, and personified as Caelus, the father of Saturn
+caelum2 | 4 | in augury: de caelo servare, to watch the sky for signs; de caelo fieri, of such a sign appearing
+caelum2 | 5 | a region or climate lying under one sky: hoc caelum sub quo natus sum, this climate I was born under
+caelum2 | 6 | the air or the weather: pingue et concretum caelum, a heavy clogged air
+caelum2 | 7 | of the time of day: albente caelo, at daybreak; vesperascente caelo, as the evening drew on
+caelum2 | 8 | height, and the upper world set against the lower: mons in caelum attollitur, the mountain rises skyward
+caelum2 | 9 | figuratively the height of fortune or of praise: aliquem in caelum ferre, to praise someone to the skies
+caelum2 | 10 | proverbially: quid si nunc caelum ruat, what if the sky should fall now, of an idle fear; caelo missus, sent from heaven, of unlooked-for luck
+caementum | 1 | quarry stone
+caementum | 3 | a rough unhewn stone straight from the quarry, used for walling, and usually in the plural: materiem calcem caementa convehere, to cart up timber, lime and stone
+caementum | 4 | caementa marmorea, the chips that fly off marble in the working
+caenum | 1 | filth
+caenum | 3 | dirt, mud or mire, always with a note of disgust, unlike limus or lutum: pejus caeno, worse than filth
+caenum | 4 | figuratively moral filth: in tenebris volvi caenoque, to wallow in darkness and dirt
+caenum | 5 | ex caeno plebeio consulatum extrahere, to drag the consulship out of the plebeian mire
+caenum | 6 | as abuse of a person, filthy wretch
+caepa | 1 | onion
+caepa | 3 | the onion, found both as a feminine caepa and a neuter caepe
+caepa | 4 | the Egyptians held it a sacred plant, which the Roman satirists thought absurd
+caerimonia | 1 | ceremony
+caerimonia | 3 | most often in the plural, religious rites and observances: maximis caerimoniis contineri, to be hedged about with the greatest ceremonies
+caerimonia | 4 | the sacredness of a thing: caerimonia legationis, the inviolability of an embassy
+caerimonia | 5 | awe felt towards the gods, the outward reverence, where religio takes in the inward feeling as well
+caerimonia | 6 | where ritus covers everyday usages too, caerimonia belongs to the gods alone
+caeruleus1 | 1 | dark-blue
+caeruleus1 | 3 | the poets' colour for sky and sea: caeli caerula templa, the blue vaults of heaven; caerula aequora, the dark blue seas
+caeruleus1 | 4 | as a neuter plural caerula, the blue expanse of sky or of sea
+caeruleus1 | 5 | of rivers and their gods: caeruleus Thybris, dark-flowing Tiber
+caeruleus1 | 6 | of other dark blue things, such as the woad the Britons stained themselves with, and dyes used on the hair
+caeruleus1 | 7 | more widely dark or gloomy, the poets' word for death, night and rain: caeruleus imber, a black rainstorm
+caeruleus1 | 8 | sometimes dark green: caerulea coma, green tresses; arbor Palladis, the grey-green olive
+caeruleus1 | 9 | it has a shorter form caerulus, just as common in the poets
+caesariatus | 1 | long-haired
+caesariatus | 3 | wearing the hair long: miles usque caesariatus, a soldier with his hair right down his back
+caesariatus | 4 | of a helmet plumed with horsehair
+caesaries | 1 | locks
+caesaries | 3 | a full flowing head of hair, dark and counted handsome, used only in the singular and mostly by the poets: pectere caesariem, to comb one's locks
+caesaries | 4 | of women as well as men: decoram caesariem afflare, to breathe beauty over the hair
+caesaries | 5 | rarely of a dog's coat, or of the hair of the beard
+# review: caesim the military sense is 'with the edge', against punctim 'with the point'; English has no single adverb
+caesim | 1 | with the edge
+caesim | 3 | with a slashing stroke rather than a thrust: punctim magis quam caesim petere hostem, to go at the enemy with the point rather than the edge
+caesim | 4 | of pruning, by striking rather than by drawing the blade
+caesim | 5 | of style, in short clauses: caesim dicere, to speak in clipped phrases
+caesius1 | 1 | grey-blue
+caesius1 | 3 | of the eyes alone, a bluish grey: virgo caesia, a grey-eyed girl
+caesius1 | 4 | the standing epithet of Minerva's eyes, as caerulei is of Neptune's
+caespes | 1 | turf
+caespes | 3 | a sod cut out with the grass still on it, used to build up altars and mounds: non esse arma caespites, that sods are no weapons
+caespes | 4 | an altar raised of turf: caespes vivus, a living turf altar
+caespes | 5 | a hut roofed with sods: fortuitus caespes, a chance shelter of turf
+caespes | 6 | grassy ground, greensward: de caespite se levare, to rise up from the grass
+caespes | 7 | a clump of plants, or any knob of that shape
+caespes | 8 | in late Latin simply the ground
+# review: caestus a leaded hide strap bound round the hands; 'boxing-glove' suggests padding, which is the opposite of it
+caestus | 1 | boxing strap
+caestus | 3 | a strap of bull's hide weighted with lead or iron, wound round a boxer's hands and arms
+caestus | 4 | worn by the pugiles at the games, and far more dangerous than any glove
+caesura | 1 | cutting
+caesura | 3 | the cutting or felling of timber: caesura ligni, the felling of wood
+caesura | 4 | what has been cut off, the cuttings
+caesura | 5 | in metre, a break falling within a foot, the caesura, also called incisio
+calamister | 1 | curling-iron
+calamister | 3 | a hollow iron heated in the ashes for curling the hair: calamistri vestigia, the marks of the curling-iron
+calamister | 4 | figuratively of style, overdone ornament: ne calamistri quidem adhibebuntur, not even the curling-tongs shall be brought out
+calamistratus | 1 | curled
+calamistratus | 3 | with the hair crimped by the iron: calamistrata coma, curled locks
+calamistratus | 4 | said of men as a reproach for effeminacy: calamistratus saltator, a dancer with his hair in curls
+calamitas | 1 | disaster
+calamitas | 3 | in its first sense damage to crops, the farmers using the word of hail and of blight
+calamitas | 4 | loss, misfortune or ruin of any kind: nostri fundi calamitas, the blight of my farm, said of a girl
+calamitas | 5 | in the historians above all, a defeat in war: calamitatem accipere, to suffer a disaster
+calamitas | 6 | its metre shuts it out of hexameter verse, so it belongs to prose and to iambics
+calamitosus | 1 | disastrous
+calamitosus | 2 | unfortunate
+calamitosus | 3 | actively, bringing ruin on others: calamitosissimum bellum, a most ruinous war
+calamitosus | 4 | of weather and places, damaging to the crops: ne regio calamitosa sit, that the district may not be blighted
+calamitosus | 5 | passively, suffering damage or open to it: agri vectigal calamitosum, a land tax on ground liable to loss
+calamitosus | 6 | of people, unlucky and wretched: fortuna magis quam culpa calamitosi, ruined by their luck rather than their fault
+calator | 1 | attendant
+calator | 3 | a servant kept to summon and announce, and so above all the attendant on a priest
+calator | 4 | more widely any servant: comes calator equus agaso armiger, my own companion, attendant, horse, groom and armour-bearer
+calcar | 1 | spur
+calcar | 3 | the spur worn on the heel, named from calx, the heel: incendere equum calcaribus, to put spurs to one's horse
+calcar | 4 | figuratively a spur or incentive: alter frenis eget, alter calcaribus, one man needs the rein and the other the spur
+calcar | 5 | the spur on a cock's leg
+calcarius | 1 | of lime
+calcarius | 3 | belonging to lime: fornax calcaria, a limekiln
+calcarius | 4 | as a feminine noun calcaria, a limekiln or a lime quarry: de calcaria in carbonariam pervenire, to come out of the limekiln into the charcoal pit
+calcarius | 5 | as a masculine noun calcarius, a limeburner
+calceamentum | 1 | shoe
+calceamentum | 3 | a covering for the foot, standing beside the forms calceamen and calceatus: calceamentum induere, to put a shoe on
+calceo | 1 | shoe
+calceo | 3 | to put shoes on, to fit out with footwear: calceati et vestiti, shod and dressed
+calceo | 4 | of animals, whose feet were given coverings to be taken off and put on rather than nailed shoes: mulas calceare, to shoe mules
+calceo | 5 | figuratively: calceati dentes, teeth well shod, that is ready for biting
+calceus | 1 | shoe
+calceus | 3 | a shoe or half-boot covering the whole foot, where soleae are sandals covering the sole alone: calcei muliebres, women's shoes
+calcitro1 | 1 | kick
+calcitro1 | 3 | of animals, to lash out with the heels
+calcitro1 | 4 | figuratively, to be stubborn and kick against a thing: calcitrat, respuit, he kicks and spurns
+calcitro1 | 5 | proverbially: calcitrare contra stimulum, to kick against the pricks
+calcitro1 | 6 | of a dying person, to twitch convulsively with the feet
+calco | 1 | trample
+calco | 3 | to tread on or under foot: calcata vipera, a snake trodden on
+calco | 4 | figuratively, to trample down or crush: libertas calcatur, liberty is trodden underfoot
+calco | 5 | to scorn or spurn: calcatum foedus, a treaty trampled on
+calco | 6 | of places, to tread or pass over: calcanda semel via leti, the road of death that must be trodden once
+calco | 7 | of a cock, to tread the hen
+calco | 8 | to press close or pack down: oleas in orculam calcato, press the olives down into the jar
+calculosus | 1 | gravelly
+calculosus | 3 | full of small stones: calculosus ager, gravelly land
+calculosus | 4 | in medicine, suffering from the stone
+calculus | 1 | pebble
+calculus | 3 | a small stone: calculos lingua volvere, to roll pebbles on the tongue, as Demosthenes did to cure his speech
+calculus | 4 | a stone in the bladder or kidneys: calculum eicere, to pass a stone
+calculus | 5 | a piece in the game of draughts: calculum promovere, to move a piece; calculum reducere, to take a move back
+calculus | 6 | a counter on the reckoning board, and so a reckoning: calculos subducere, to cast up an account
+calculus | 7 | cum aliquo calculum ponere, to settle accounts with someone
+calculus | 8 | in the earliest times a voting pebble, a white one to acquit and a black one to condemn
+calculus | 9 | the Thracians marked lucky days with a white stone and unlucky ones with black: diem notandum candidissimo calculo, a day to mark with the whitest of stones
+calculus | 10 | in late Latin a small weight, reckoned at two chickpeas
+caldarius | 1 | for heating
+caldarius | 3 | belonging to warming or to hot water: cella caldaria, the hot room of a bath
+caldarius | 4 | as a neuter noun caldarium, the hot bath, or the room that holds the hot water
+caldarius | 5 | as a feminine noun caldaria, a warm bath, and also a boiling pot
+caldarius | 6 | caldarium aes, bronze got ready by melting
+calefacio | 1 | warm
+calefacio | 3 | to make warm or hot: ad calefaciendum corpus, to warm the body; igne focum calefacere, to heat the hearth with fire
+calefacio | 4 | it has a contracted form calfacio, which by Quintilian's day was the commoner of the two
+calefacio | 5 | in everyday talk, to make things hot for someone: calface hominem, give the fellow a warming
+calefacio | 6 | in the poets of the passions, to fire or rouse: calefacta corda tumultu, hearts fired by the uproar
+calefacio | 7 | to push a thing on hotly: forum aleatorium calfecimus, we kept the gaming table warm
+caleo | 1 | be hot
+caleo | 3 | to be warm or hot, the opposite of frigere: calet aqua, the water is hot; ture calent arae, the altars are warm with incense
+caleo | 4 | figuratively, to glow with feeling: admirando irridendo calebat, he warmed to it, now admiring and now mocking
+caleo | 5 | with an infinitive in the poets, to be eager to do a thing
+caleo | 6 | of business, to be carried on warmly: judicia calent, the courts are busy; calebant nundinae, the market days were brisk
+caleo | 7 | to be still warm, that is fresh and new: dum calet hoc agitur, this is being seen to while it is still hot
+caleo | 8 | of a place, to be much frequented: calens Hister, the well-trodden Danube
+calesco | 1 | grow warm
+calesco | 3 | to become warm or hot, the inchoative to caleo: unda calescit, the water warms up
+calesco | 4 | of the mind, to catch fire, and above all with love: flamma propiore calesco, I burn with a nearer flame
+calesco | 5 | agitante calescimus illo, we glow when the god stirs within us
+calidus | 1 | hot
+calidus | 2 | rash
+calidus | 3 | warm or hot: calidus fons, a hot spring; calida lavacra, hot baths
+calidus | 4 | it has a contracted form caldus, which Quintilian says was the usual one in the Augustan age
+calidus | 5 | as a feminine noun calida, hot water, and as a neuter calidum, a hot drink of wine and boiling water
+calidus | 6 | of living things, fiery and spirited: equus calidus animis, a horse of fiery mettle; calidus juventa, hot with youth
+calidus | 7 | of plans, hasty and ill-considered: calida consilia, rash counsels
+calidus | 8 | sometimes quick and ready instead: calidum consilium, a plan struck out on the spot
+calidus | 9 | Caldus was used as a Roman name, meaning hot-head
+caliendrum | 1 | headdress
+caliendrum | 3 | a tall headdress built up of false hair and worn by Roman women, a very rare word
+caliga | 1 | soldier's boot
+caliga | 3 | a stout leather half-boot, and above all the one the Roman soldiers wore
+caliga | 4 | by transfer military service itself, the boot standing for the trade
+caligatus | 1 | booted
+caligatus | 3 | wearing the soldier's caliga: caligati milites, soldiers in their boots
+caligatus | 4 | as a noun, a common soldier, the same as gregarius
+caligatus | 5 | also of a peasant in his heavy shoes
+caliginosus | 1 | misty
+caliginosus | 3 | full of fog, and so dark and gloomy: caelum umidum et caliginosum, a damp and misty sky
+caliginosus | 4 | of a star, dim rather than clear
+caliginosus | 5 | figuratively dark and uncertain: caliginosa nox, the darkness of a future no one can read
+caligo1 | 1 | fog
+caligo1 | 2 | darkness
+caligo1 | 3 | a thick heavy air, a mist or vapour: densa caligo occaecaverat diem, a thick fog had blotted out the day
+caligo1 | 4 | the gloom such mist brings on: caligo oculis obfusa, a darkness poured over the eyes, that is a fit of dizziness
+caligo1 | 5 | figuratively blindness of mind, dullness of understanding: quasi per caliginem videre, to see as though through a fog
+caligo1 | 6 | of dark and difficult times: caligo temporum illorum, the gloom of those days
+caligo1 | 7 | in medicine, dimness of sight
+caligo2 | 1 | be dark
+caligo2 | 3 | to send up mist or steam: amnes nebulis caligent, the rivers reek with fog
+caligo2 | 4 | to be wrapped in darkness: caligant oculi, the eyes grow dim
+caligo2 | 5 | of great heights, to make the head swim: caligantes fenestrae, dizzy windows
+caligo2 | 6 | figuratively, to grope in the dark and be at a loss: caligare ad pervidendum, to be unable to see a thing through
+caligo2 | 7 | in medicine of the eyes, to be weak, and of a person, to be dim-sighted
+caligula | 1 | little boot
+caligula | 3 | a small soldier's boot, the diminutive of caliga
+caligula | 4 | from it comes the nickname Caligula, given to the emperor because he was brought up in the camp from boyhood
+calleo | 1 | know
+calleo | 3 | to know a thing thoroughly from practice, where scio is simply to know: cuncta perdocte callet, he knows the whole of it expertly
+calleo | 4 | with an infinitive, to know how to do something
+calleo | 5 | literally, to be thick-skinned or callous: plagis costae callent, his ribs are calloused with beatings
+calleo | 6 | figuratively, to be hardened and past feeling
+calleo | 7 | its participle callens, versed in a thing: callens utriusque linguae, at home in both languages
+calliditas | 1 | cunning
+calliditas | 3 | in the bad sense, craft and slyness: scientia remota ab justitia calliditas potius quam sapientia, knowledge parted from justice deserves the name of cunning rather than wisdom
+calliditas | 4 | in the good sense, shrewdness or skill: calliditas ingenii, quickness of wit
+calliditas | 5 | the bad sense is much the commoner and the more classical
+callidus | 1 | shrewd
+callidus | 2 | cunning
+callidus | 3 | made wise by practice, expert and adroit; Cicero explains it from callum, a mind grown hard with use
+callidus | 4 | with a genitive, skilled in something: callidus rei militaris, versed in soldiering
+callidus | 5 | in the Greek manner with an infinitive: callidus condere furto, clever at hiding by theft
+callidus | 6 | of things, well contrived: callidissimo artificio fabricata, made with the most cunning craft
+callidus | 7 | in the bad sense, crafty and sly: callidum consilium, a sly plan; callida juris interpretatio, a crafty reading of the law
+callidus | 8 | as an adverb callide, in both senses alike, cleverly or craftily
+callis | 1 | track
+callis | 3 | a narrow footpath, above all one through woods or over hills: per calles silvestres, along the forest tracks
+callis | 4 | a mountain pasture, or a pass through the hills: per aestivos saltus deviasque calles, through the summer glades and the byways
+callis | 5 | more widely, any path or road
+callis | 6 | it may be either masculine or feminine
+callosus | 1 | hard-skinned
+callosus | 3 | with a thick or hardened skin: callosior cutis, a thicker and harder hide; callosum ulcus, a callous sore
+callosus | 4 | more widely solid, hard or thick: callosa ova, hard-boiled eggs
+callum | 1 | callus
+callum | 3 | the hardened thick skin on a body: solorum callum, the hard skin of the soles
+callum | 4 | the tough flesh of certain animals: callum aprugnum, boar's brawn
+callum | 5 | the tough skin or flesh of plants and fruits
+callum | 6 | a hard crust on the soil, or the caking of salt
+callum | 7 | figuratively hardness and want of feeling: labor callum obducit dolori, toil lays a callus over pain
+calo2 | 1 | camp servant
+calo2 | 3 | a soldier's servant with the army, said to be named from the wooden staves such men carried
+calo2 | 4 | more widely any menial or drudge
+calo2 | 5 | Isidore says some gave the name to the tragic buskin, as being made of willow
+calor1 | 1 | heat
+calor1 | 3 | warmth or heat, the opposite of frigus: calorem vitare, to keep out of the heat
+calor1 | 4 | the vital heat of a living body: calor vitalis, the warmth of life
+calor1 | 5 | the heat of summer, and so summer itself, set against ver and autumnus
+calor1 | 6 | the blast of a hot wind: calores austrini, the scorching south winds
+calor1 | 7 | the heat of a fever
+calor1 | 8 | figuratively the heat of feeling, fire or zeal: juvenili calore, with the fire of youth
+calor1 | 9 | above all the fire of love: trahere calorem, to catch the flame
+calumnia | 1 | trickery
+calumnia | 3 | artifice and chicanery, a dodge used to obstruct: calumnia paucorum, the obstruction of a handful of men
+calumnia | 4 | a pretext or evasion to take cover behind: in frigida calumnia delitescere, to hide in a threadbare quibble
+calumnia | 5 | in argument, a misrepresentation or cavil: Academicorum calumnia, the cavilling of the Academics
+calumnia | 6 | a false or malicious accusation, answering to the Greek sykophantia
+calumnia | 7 | in law, bringing an action in bad faith, and so the conviction for doing it: calumniam non effugere, not to escape a verdict for malicious prosecution
+calumnia | 8 | contra se calumnia, a mistaken severity towards one's own work
+calumniator | 1 | pettifogger
+calumniator | 3 | one who brings malicious suits or twists the law, chiefly a word of the courts
+calumniator | 4 | figuratively, calumniator sui, a man too hard on his own work, over-scrupulous
+calumnior | 1 | misrepresent
+calumnior | 3 | in law, to bring a false charge: calumniari est falsa crimina intendere, to calumniate is to lay false charges
+calumnior | 4 | to practise chicanery and spin a case out: isto calumniante, while he kept up his obstruction
+calumnior | 5 | more widely, to run down or blame unjustly: calumniari naturam rerum, to find fault with the nature of things
+calumnior | 6 | se calumniari, to be too hard on oneself, never content with one's own work
+calumnior | 7 | of things, to put a bad construction on them: non calumniatur verba nec voltus, he reads no ill meaning into words or looks
+calumniosus | 1 | fraudulent
+calumniosus | 3 | full of trickery, of a man who knowingly puts another in the wrong by fraud
+calumniosus | 4 | of charges, malicious: calumniosa accusatio, a malicious prosecution
+calumniosus | 5 | as a noun, a man convicted of laying false information
+calumniosus | 6 | as an adverb calumniose, by trickery
+calvitium | 1 | baldness
+calvitium | 3 | loss of the hair: quasi calvitio maeror levaretur, as though grief were eased by going bald
+calvitium | 4 | of ground bare of plants, barrenness
+calvor | 1 | deceive
+calvor | 3 | to work by trickery and intrigue against someone, an old word where the classical one is calumnior
+calvor | 4 | it stands in the Twelve Tables: si calvitur pedemve struit, if he shuffles or takes to his heels
+calvor | 5 | more widely to delude or cheat: me calvitur suspitio, suspicion plays me false
+calvus1 | 1 | bald
+calvus1 | 3 | without hair, whether by nature or by shaving: raso capite calvus, shaved bald
+calvus1 | 4 | as a feminine noun calva, the bare scalp
+calvus1 | 5 | Venus Calva had a temple at Rome, said to date from the time when the women cut off their hair for bowstrings
+calvus1 | 6 | of plants, stripped bare: vinea a vite calva, a vineyard bare of vines
+calvus1 | 7 | of nuts, smooth-shelled, and as a noun calva, a smooth nut
+calx1 | 1 | heel
+calx1 | 3 | the heel: calces deterere, to tread on someone's heels
+calx1 | 4 | pugnis calcibus, with fists and heels, that is with everything one has
+calx1 | 5 | proverbially: adversus stimulum calces, to kick against the pricks
+calx1 | 6 | by transfer the foot as a whole: calcem terit jam calce, foot is treading on foot already
+calx1 | 7 | of things shaped like a heel: calx mali, the foot of a mast; and in farming the heel of wood taken off with a scion
+calx2 | 1 | lime
+calx2 | 2 | goal
+calx2 | 3 | limestone or lime, slaked or unslaked: calx viva, quicklime; calcem coquere, to burn lime
+calx2 | 4 | a small stone used as a gaming counter, less common in this sense than the diminutive calculus
+calx2 | 5 | the finishing line of a racecourse, once marked out with lime, against the carceres at the start
+calx2 | 6 | proverbially of speech: extra calcem decurrere, to run off the course, that is to wander from the point
+calx2 | 7 | more widely the end of a page, a book or a letter: in calce epistulae, at the foot of the letter
+cambio | 1 | exchange
+cambio | 3 | to barter one thing for another, a late word from which the Italian cambiare and the English change descend
+camillus1 | 1 | ritual attendant
+camillus1 | 3 | a boy of good family who served at the sacrifices of the Flamen Dialis, and then at religious rites in general
+camillus1 | 4 | its feminine camilla, a girl of unblemished birth who served in the same way
+camillus1 | 5 | Quintilian notes that it was also used to mean simply small
+campester | 1 | flat
+campester | 3 | belonging to level ground, as against montanus and collinus: campester ager, flat country
+campester | 4 | as a neuter plural campestria, a plain or stretch of level ground
+campester | 5 | of the Campus Martius and its exercises: campestris ludus, the games in the Campus; campestria proelia, the contests held there
+campester | 6 | as a neuter noun campestre, the leather apron wrestlers wore about the loins
+campester | 7 | of the elections held in the Campus: campestris gratia, the popularity that wins votes there
+campus1 | 1 | plain
+campus1 | 3 | any open level ground, tilled or not, set against mons, collis and silva
+campus1 | 4 | in the poets of any flat surface, above all the sea: campi natantes, the swimming plains; caerulei campi, the blue levels
+campus1 | 5 | the Campus Martius at Rome, the grassy plain by the Tiber consecrated to Mars
+campus1 | 6 | so of the assemblies held there, and of the elections themselves: fors domina campi, chance, the mistress of the Campus
+campus1 | 7 | the Campus was also the great place for games, exercise and recreation
+campus1 | 8 | figuratively a field of action, room for one's powers: campus aequitatis, the open field of fair dealing
+campus1 | 9 | so of style: feratur eloquentia non semitis sed campis, let eloquence range over open country and not footpaths
+camur | 1 | turned inward
+camur | 3 | curved and bent inwards, a very rare word: camuris sub cornibus, beneath the inturned horns
+camur | 4 | said above all of oxen whose horns curve in towards each other
+canalis | 1 | channel
+canalis | 3 | a pipe, groove or conduit, open or closed, and above all one that carries water
+canalis | 4 | figuratively of sight, the narrow pupil that keeps the gaze straight as a channel does
+canalis | 5 | in architecture, the fluting on an Ionic capital
+canalis | 6 | the groove down which a catapult sends its missile
+canalis | 7 | in surgery, a splint to hold a broken bone
+canalis | 8 | a reed pipe as a musical instrument
+canarius | 1 | of dogs
+canarius | 3 | belonging to dogs: augurium canarium, the rite at which dogs were offered
+canarius | 4 | Canaria insula, one of the Fortunate Isles, named from its great dogs, and the source of the name Canaries
+cancelli | 1 | railings
+cancelli | 3 | a lattice, grating or balustrade fencing a place off, used in the theatre and in the courts
+cancelli | 4 | figuratively bounds or limits: extra hos cancellos egredi, to step outside the bounds I have set myself
+cancelli | 5 | the space shut in by such bars
+cancello | 1 | cancel
+cancello | 3 | in the lawyers, to strike a writing out with crossed lines: testamentum cancellare, to cancel a will
+cancello | 4 | in its first sense, to make lattice-wise: cancellata cutis, hide marked in a lattice pattern
+cancer1 | 1 | crab
+cancer1 | 3 | the crab, of the sea and of rivers alike
+cancer1 | 4 | Cancer, the sign of the zodiac the sun stands in at the summer solstice
+cancer1 | 5 | so in the poets for the south, and for fierce heat
+cancer1 | 6 | in medicine a spreading eating ulcer: malum immedicabile cancer, cancer, the disease past curing
+cancerasco | 1 | turn cancerous
+cancerasco | 3 | to become cancerous or to fester like a cancer, a late word found only in the perfect
+cancerasco | 4 | its participle canceratus, cancerous
+candefacio | 1 | whiten
+candefacio | 3 | to make dazzlingly white: argentum candefacere, to bring silver to a shine
+candefacio | 4 | jestingly of what cannot be done: ebur atramento candefacere, to whiten ivory with ink
+candefacio | 5 | to make red hot: lapides candefacti, stones heated white
+candela | 1 | candle
+candela | 3 | a light of wax or tallow, the poor man's light where the rich burned a lucerna
+candela | 4 | by transfer fire: candelam apponere valvis, to put a light to the doors
+candela | 5 | a cord waxed to keep it from rotting, used to wrap up books
+candelabrum | 1 | candlestick
+candelabrum | 3 | the stand a candela is fixed in, which is where the name comes from
+candeo | 1 | shine
+candeo | 2 | glow
+candeo | 3 | to be brilliant or dazzling white: candet ebur soliis, the ivory gleams on the thrones
+candeo | 4 | its participle candens does the work of candidus, shining or white: candens vacca, a white cow
+candeo | 5 | to be glowing hot: candens ferrum, iron at white heat
+candeo | 6 | rarely of passion, to burn: felle canduerint viscera, when the heart has burned with bile
+candesco | 1 | grow white
+candesco | 3 | to begin to shine or whiten, the inchoative to candeo: aer candescit solis ab ortu, the sky whitens as the sun comes up
+candesco | 4 | to grow red hot: ferrum candescit in igni, the iron glows white in the fire
+candico | 1 | be whitish
+candico | 3 | to have a whitish cast, formed from candeo as albico is from albeo, and first used by the elder Pliny: candicans vadum, a shoal showing white
+candidatus1 | 1 | candidate
+candidatus1 | 3 | as an adjective, dressed in white, where Cicero and Horace use albatus instead
+candidatus1 | 4 | as a noun, a candidate for office, named from the glittering white toga he wore: candidatus praetorius, a candidate for the praetorship
+candidatus1 | 5 | figuratively, one who aims at anything: candidatus immortalitatis, a candidate for immortality
+candidatus1 | 6 | its feminine candidata, a woman seeking an office
+candidus | 1 | white
+candidus | 2 | sincere
+candidus | 3 | a glittering dazzling white, where albus is a white without lustre; its opposite is niger, a glossy black
+candidus | 4 | of bright objects: candida luna, the bright moon; candida sidera, the shining stars
+candidus | 5 | of creatures and things: candidior cygnis, whiter than swans; alta nive candidum Soracte, Soracte white with deep snow
+candidus | 6 | of beauty of person, fair and lovely: candidus et pulcher puer, a fair and handsome boy
+candidus | 7 | of the hair, hoary, and more poetic than canus: candidior barba, a whiter beard
+candidus | 8 | of dress, and so standing for candidatus, robed in white: candida turba, the crowd in white
+candidus | 9 | figuratively of style, clear and unaffected: candidum genus dicendi, a plain flowing manner
+candidus | 10 | of character, open and honest, and of circumstances, happy: candidus judex, a fair-minded judge; candida fata, a kindly destiny
+candor | 1 | whiteness
+candor | 2 | sincerity
+candor | 3 | a dazzling glossy whiteness, radiance or brilliance: candore recenti, with fresh brightness
+candor | 4 | of beauty of person, fairness: candore mixtus rubor, a blush mingled with the fair skin
+candor | 5 | of style, either brilliance or the plainness that is free of affectation: mirae jucunditatis clarissimique candoris, of wonderful charm and the clearest simplicity, said of Livy
+candor | 6 | of character, openness and integrity: candor animi, an honest heart
+candor | 7 | rarely glow or heat: aestivus candor, the blaze of summer
+caneo | 1 | be grey
+caneo | 3 | to be grey or white with age, mostly poetic: canebat sparsa senectus, old age showed grey about the temples
+caneo | 4 | its participle canens, hoary or white: canens senecta, white old age
+canesco | 1 | grow grey
+canesco | 3 | to turn white or hoary, the inchoative to caneo: capilli canescunt, the hair goes grey
+canesco | 4 | of things whitening: canescant aequora remis, the waters whiten under the oars
+canesco | 5 | so to grow old: quercus canescet saeclis innumerabilibus, the oak will grow old through ages past counting
+canesco | 6 | of speech, to grow feeble with age: oratio canesceret, the style was losing its edge
+canicula | 1 | little dog
+canicula | 3 | a small dog or bitch, and as abuse of a snappish woman
+canicula | 4 | the Dog Star, whose rising marked the hottest days: flagrans canicula, the blazing Dog Star; sitiens canicula, the thirsty Dog Star
+canicula | 5 | a kind of dogfish
+canicula | 6 | the worst throw at dice, the dog throw, against the Venus
+caninus | 1 | of dogs
+caninus | 3 | belonging to a dog: caninum lac, dog's milk; caninus rictus, a dog's snarl
+caninus | 4 | caninum far, the coarse bread given to dogs; dentes canini, the eye teeth
+caninus | 5 | as a feminine noun canina, dog's flesh: canis caninam non est, dog does not eat dog
+caninus | 6 | figuratively snarling and abusive: canina facundia, eloquence with a growl in it; littera canina, the dog letter, that is R
+caninus | 7 | caninum prandium, a lunch with no wine at it, and so a mean meal
+canis1 | 1 | dog
+canis1 | 3 | the dog of the house, the farm and the hunt: cave canem, beware of the dog, often written up at a doorway
+canis1 | 4 | as abuse, of a shameless person or a savage one
+canis1 | 5 | the regular word for the hangers-on of a great Roman, his creatures
+canis1 | 6 | in myth of Cerberus: tergeminus canis, the three-headed dog
+canis1 | 7 | proverbially: cane pejus et angui vitare, to shun a thing worse than dog or snake; canis caninam non est, dog does not eat dog
+canis1 | 8 | the constellation, Canis Major with Sirius in it, and Canis Minor, the Little Dog
+canis1 | 9 | the dogfish, canis marinus, and in the poets the dogs of Scylla
+canis1 | 10 | the worst throw at dice, the dog throw: canem mittere, to throw the dog; and also a Cynic philosopher
+canities | 1 | grey hair
+canities | 3 | a grey or greyish-white colour, of a wolf's coat, of leaves, or of marble
+canities | 4 | above all the greyness of the hair, and so the grey hair itself: canitiem pulvere foedare, to foul the grey hairs with dust
+canities | 5 | so old age itself: canitiem sibi promittere, to promise oneself a grey old age
+cano | 1 | sing
+cano | 2 | play
+cano | 3 | to sing or make music, with the voice or on an instrument: voce vel fidibus canere, to sing or to play the lyre
+cano | 4 | of birds and other creatures: merula canit aestate, the blackbird sings in summer
+cano | 5 | of instruments and of places, to sound: canentes tibiae, the pipes sounding
+cano | 6 | with an object, to sing of or celebrate: canere laudes clarorum virorum, to sing the praises of famous men
+cano | 7 | proverbially: carmen intus canere, to sing to oneself, that is to look only to one's own advantage; cantilenam eandem canis, you are harping on the same old tune
+cano | 8 | since oracles came in verse, to prophesy or foretell: fera fata canere, to chant out grim destinies
+cano | 9 | in the army of signals, to sound: signa canere, to give the signal for battle; classicum cani jubere, to order the trumpet sounded
+cano | 10 | receptui canere, to sound the retreat, and figuratively to call someone off a thing
+canor | 1 | melody
+canor | 3 | a tune, song or sound, a rare and poetic word: res est blanda canor, song is a winning thing
+canor | 4 | of birds and living things: cygni canor, the swan's song
+canor | 5 | of instruments, their tone: Martius aeris rauci canor, the martial clang of hoarse bronze
+canorus | 1 | melodious
+canorus | 3 | of sound, tuneful and pleasant: vox suavis et canora, a sweet ringing voice
+canorus | 4 | of men, singing well or speaking musically: canorus orator, a speaker with a fine voice
+canorus | 5 | of birds and other creatures: canorae aves, songbirds; canorus ales, the swan
+canorus | 6 | of instruments: canorae fides, the ringing lyre; canorum aes, the clang of the trumpet
+canorus | 7 | as a fault of delivery, a sing-song tone
+cantherius | 1 | gelding
+cantherius | 3 | a gelded horse, and so a nag or hack: cantherium in fossam, put the hack in the ditch, said of what has served its turn
+cantherius | 4 | also an ass or a mule
+cantherius | 5 | in jest, of a man past his prime
+cantherius | 6 | in building, a rafter under the roof
+cantherius | 7 | in vine-growing, a trellis of poles with crosspieces
+cantherius | 8 | among horse-doctors, a frame for slinging a sick horse in
+canticum | 1 | song
+canticum | 3 | in Roman comedy a solo sung by one actor to music and dancing: canticum agere, to perform the song
+canticum | 4 | a song in general: obscenis canticis strepere, to be loud with filthy songs
+canticum | 5 | a sing-song tone in a speaker's delivery
+canticum | 6 | a lampoon or libellous song, and also a magic formula
+canticum | 7 | in Christian Latin, Canticum Canticorum, the Song of Songs
+cantilena | 1 | old song
+cantilena | 3 | a song, and in classical use a scornful word for a stale one: cantilenam suam insusurrare, to keep whispering his same old tune
+cantilena | 4 | so of trite chatter and gossip
+cantilena | 5 | in later writers simply a song, with no slight meant by it
+cantio | 1 | song
+cantio | 3 | a singing or a song, a rare word and mostly early
+cantio | 4 | an incantation or spell: veneficiis et cantionibus, by drugs and spells
+cantito | 1 | sing often
+cantito | 3 | the frequentative of canto, to sing or play again and again: ut habeas quicum cantites, so that you have someone to sing with
+cantito | 4 | carmina in epulis cantitata, songs sung over and over at banquets
+canto | 1 | sing
+canto | 3 | frequentative in form but mostly the same in sense as cano: saltare et cantare, to dance and sing
+canto | 4 | of birds: prius quam galli cantent, before the cocks crow
+canto | 5 | of instruments, to sound: pastoris bucina cantat, the shepherd's horn sounds
+canto | 6 | with an object, to sing of or celebrate: cantare absentem amicam, to sing of the girl who is away
+canto | 7 | of an actor, to play a part: cantare Orestem, to act Orestes
+canto | 8 | of a speaker, to drawl in a sing-song: si legis, cantas, if you are reading, you are chanting
+canto | 9 | to harp on a thing and keep warning of it: haec dies noctes canto ut caveas, day and night I keep telling you to look out
+canto | 10 | in religion, to use charms and enchant: cantando rumpitur anguis, the snake is burst by chanting
+cantor | 1 | singer
+cantor | 3 | one who sings or plays, and so also a poet: cantor Apollo, Apollo the singer
+cantor | 4 | in the theatre an actor or performer: donec cantor vos plaudite dicat, until the player calls for your applause
+cantus | 1 | singing
+cantus | 3 | the making of melodious sound, by voice or by instrument, where carmen is the words themselves: cantus vocum, singing with the voice
+cantus | 4 | of instruments, playing: citharae cantus, the music of the lyre
+cantus | 5 | of birds: cantus avium, birdsong
+cantus | 6 | a prophetic or oracular chant: veridici cantus, songs that tell the truth
+cantus | 7 | a spell or magic song: cantus magici, magic chants
+canus | 1 | hoary
+canus | 3 | white or greyish white, mostly a poetic word: cani fluctus, the white-capped waves; cana pruina, hoar-frost
+canus | 4 | above all of the grey hair of the old: cano capite, with a white head; cani capilli, grey hairs
+canus | 5 | by transfer old and venerable: cana senectus, hoary old age; cana Fides, ancient Faith
+capacitas | 1 | capacity
+capacitas | 3 | the power of holding much: capacitas uteri, the capacity of the belly
+capacitas | 4 | figuratively of the mind, taken as a vessel that memories are poured into
+capacitas | 5 | in the lawyers, the right to take up an inheritance
+capax | 1 | roomy
+capax | 3 | able to hold much, wide and spacious: capax urna, a large jar; capaciores scyphi, roomier cups
+capax | 4 | figuratively able to take a thing in, fit or apt for it: capax ingenium, a mind of large reach
+capax | 5 | with ad or a genitive, capable of something: animi capaces ad praecepta, minds able to take in teaching
+capax | 6 | in the lawyers, having the right to an inheritance
+capella1 | 1 | she-goat
+capella1 | 3 | a she-goat, a diminutive standing beside capra
+capella1 | 4 | as abuse, a filthy fellow
+capella1 | 5 | Capella, the star on the left shoulder of Auriga, whose rising brought rain: sidus pluviale capellae, the rainy star of the she-goat
+caper | 1 | he-goat
+caper | 3 | a goat, and above all the male; it was sacrificed to Bacchus because it harms the vine
+caper | 4 | by transfer, the rank smell of the armpits
+caper | 5 | also the star Capella in Auriga, and a grunting fish of the Achelous
+capero | 1 | wrinkle
+capero | 3 | to draw into wrinkles, said to be taken from the wrinkled brows of goats: frons caperata, a furrowed forehead
+capero | 4 | intransitively, to be wrinkled
+capesso | 1 | undertake
+capesso | 3 | a desiderative of capio, to snatch at or lay hold of eagerly: cibum capessere, to seize food
+capesso | 4 | of places, to make for or betake oneself to: Italiam capessere, to make for Italy; se domum capessere, to take oneself off home
+capesso | 5 | figuratively to take a thing in hand with zeal: rem publicam capessere, to enter public life; jussa capessere, to carry out orders
+capesso | 6 | so of offices and of choices: magistratus capessere, to take up a magistracy; libertatem capessere, to seize on freedom
+capesso | 7 | of the mind, to grasp or take a thing in
+capillamentum | 1 | wig
+capillamentum | 3 | the hair taken together, and above all false hair, a wig
+capillamentum | 4 | the hairlike fibres of roots and leaves: capillamenta vitis, the tendrils of the vine
+capillamentum | 5 | hairlike streaks in precious stones
+capillaris | 1 | of hair
+capillaris | 3 | belonging to the hair: herba capillaris, the plant also called Venus's hair
+capillaris | 4 | as a neuter noun capillare, a pomade for the hair
+capillatura | 1 | false hair
+capillatura | 3 | properly the state of being hairy, and then the hair itself, above all false hair
+capillatura | 4 | also the hairlike streaks in precious stones
+capillatus | 1 | long-haired
+capillatus | 3 | having a head of hair: adulescens bene capillatus, a young man with a fine head of hair
+capillatus | 4 | used of the early days, when men wore their hair long
+capillatus | 5 | arbor capillata, the tree on which the Vestals hung their shorn hair
+capillatus | 6 | of plants, made up of slender fibres: radices capillatae, thread-like roots
+capillus | 1 | hair
+capillus | 3 | the hair of the head, where crinis is hair of any kind: capillus passus, hair let down loose
+capillus | 4 | usually collective in the singular, though the plural is common in the poets
+capillus | 5 | the hair of the beard as well: barbam et capillum adurere, to singe beard and hair
+capillus | 6 | the hair or coat of animals: capillus cuniculi, a rabbit's fur
+capillus | 7 | the threads or fibres of plants: capillus Veneris, the plant maidenhair
+capio1 | 1 | take
+capio1 | 3 | to take hold of, grasp or seize: cape hoc flabellum, take this fan; fustem capere, to pick up a cudgel
+capio1 | 4 | of people, to take prisoner, and of animals, to catch: legiones vi pugnando cepimus, we took the legions by force of fighting
+capio1 | 5 | to captivate or charm, and so also to trick and take in: cavere ne capiatur, to take care not to be caught out
+capio1 | 6 | in the passive, to be crippled or disabled, and with mente, to be out of one's wits: captus mente, crazed
+capio1 | 7 | of places, to occupy, storm, or simply reach: castris locum capere, to pick ground for a camp; portum capere, to make harbour
+capio1 | 8 | of money and property, to receive or get, and in a bad sense to take a bribe: pecuniam capere, to take money corruptly; hereditatem capere, to come into an inheritance
+capio1 | 9 | of plans, profits, occasions and feelings, to conceive or take up: conjecturam capere, to draw an inference; fructum capere, to reap the profit; occasionem capere, to seize the chance; laborem capere, to take trouble
+capio1 | 10 | to hold or have room for: aedes nostrae vix capient, our house will barely hold them
+capistrum | 1 | halter
+capistrum | 3 | a halter, or a leather muzzle for animals
+capistrum | 4 | figuratively: maritale capistrum, the halter of matrimony
+capistrum | 5 | a band for tying up vines, and a band for the wine press
+capitalis | 1 | capital
+capitalis | 3 | touching life, so that life is at risk: capitale periculum, peril of one's life
+capitalis | 4 | in law, of crimes punished by death or by loss of citizenship: accusare aliquem rei capitalis, to charge someone with a capital offence
+capitalis | 5 | as a neuter noun capital, a capital offence: capital esse, to be a capital matter
+capitalis | 6 | figuratively deadly or mortal: capitalis hostis, a deadly enemy; capitale odium, a mortal hatred
+capitalis | 7 | chief or outstanding, much as English uses capital: capitale ingenium, first-rate ability
+capitalis | 8 | also a headdress worn by priests, the one trace left of its first sense
+capitatus | 1 | headed
+capitatus | 3 | having a head, a rare word: capitatum porrum, headed leek; capitata caepa, a bulbing onion
+capitatus | 4 | of a nail, having a head
+capitium1 | 1 | head covering
+capitium1 | 3 | a covering for the head, or an undergarment put on over the head
+capitium1 | 4 | in Christian Latin, the opening in a tunic that the head passes through
+capitulum1 | 1 | little head
+capitulum1 | 3 | a small head, of man or beast: operto capitulo bibere, to drink with the head covered
+capitulum1 | 4 | in comedy for a person, and as an endearment: o capitulum lepidissimum, you delightful creature
+capitulum1 | 5 | of plants, a small head or bulb
+capitulum1 | 6 | in architecture, the capital of a column
+capitulum1 | 7 | the crossbeam of a siege engine
+capitulum1 | 8 | in late Latin a chapter or section of a writing, and a clause of a law
+capra | 1 | she-goat
+capra | 3 | the female goat: capra fera, a wild she-goat, that is a roe
+capra | 4 | as a nickname for a man with bristly hair
+capra | 5 | Capra, the star in Auriga, said to be Amalthea set among the stars
+capra | 6 | by transfer, the rank smell of the armpits
+caprarius | 1 | of goats
+caprarius | 3 | belonging to goats: caprarius pastus, goat pasture
+caprarius | 4 | as a masculine noun caprarius, a goatherd
+caprea | 1 | roe
+caprea | 3 | a wild she-goat, the roe or roe deer
+capreolus | 1 | roebuck
+capreolus | 3 | a wild goat, the chamois or roebuck
+capreolus | 4 | named from the shape of its horns, a two-pronged hoe for cutting weeds
+capreolus | 5 | in the plural capreoli, in building, short timbers set slanting to hold something up, props or struts
+capreolus | 6 | of vines, the small tendrils that carry the branches
+caprificus | 1 | wild fig
+caprificus | 3 | the wild fig tree, whose name joins caper and ficus
+caprificus | 4 | also its fruit, a fig that never comes ripe
+caprigenus | 1 | goat-born
+caprigenus | 3 | of the goat kind, a poetic word: caprigenum pecus, a flock of the goat kind
+caprigenus | 4 | as a noun caprigeni, goats
+caprinus | 1 | of goats
+caprinus | 3 | belonging to goats: caprinus grex, a flock of goats; caprina pellis, goatskin
+caprinus | 4 | as a feminine noun caprina, goat's flesh
+capronae | 1 | forelock
+capronae | 3 | the hair hanging over the forehead, of men and of animals, matching antiae
+capronae | 4 | explained from caput and pronus, as the hair that hangs forward from the head
+capronae | 5 | an old and rare word
+captator | 1 | legacy-hunter
+captator | 3 | one who reaches eagerly after a thing: captator aurae popularis, a man who courts the popular breeze
+captator | 4 | above all one who angles for legacies, a stock figure with the satirists
+captio | 1 | deception
+captio | 3 | literally a catching or seizing: captio pignoris, the seizing of a pledge
+captio | 4 | a trick or fraud: si captionis aliquid vererere, if you feared some catch in it
+captio | 5 | in logic a fallacy or sophism: istius generis captiones, quibbles of that kind
+captio | 6 | by transfer harm or loss: mea captio est, the loss is mine
+captiosus | 1 | deceptive
+captiosus | 3 | full of deceit, of a bargain with a trap in it: captiosa societas, a partnership with a catch
+captiosus | 4 | in argument captious or sophistical: captiosis interrogationibus decipi, to be tripped up by trick questions
+captivitas | 1 | captivity
+captivitas | 3 | the state of a prisoner, bondage, said of people and of animals alike
+captivitas | 4 | collectively, the body of captives
+captivitas | 5 | of places, their capture: captivitas urbium, the taking of cities
+captivitas | 6 | rarely of the eyes, blindness
+captivus | 1 | captive
+captivus | 3 | of people, taken prisoner: captiva corpora, prisoners taken alive
+captivus | 4 | as a noun, a prisoner of war, and in the feminine captiva, a captive woman
+captivus | 5 | in the poets, belonging to captives: captivus sanguis, the blood of prisoners; captivi crines, a captive's hair
+captivus | 6 | of animals, caught: captivi pisces, fish that have been taken
+captivus | 7 | of things, captured or carried off as booty: captivae naves, captured ships; captiva pecunia, plundered money
+captivus | 8 | figuratively: captiva mens, a mind taken prisoner, that is by love
+capto | 1 | catch at
+capto | 3 | the frequentative of capio, to snatch at or chase after eagerly: fugientia flumina captare, to snatch at waters that keep slipping away
+capto | 4 | figuratively to be after a thing and court it: sermonem captare, to listen out for what is being said
+capto | 5 | to lie in wait for someone and try to trap them
+capto | 6 | as a standing phrase, to hunt for legacies: testamenta senum captare, to angle for old men's wills
+capto | 7 | of talk, to open or take up: captato sermone, having got into conversation
+captura | 1 | catching
+captura | 3 | the taking of animals: captura piscium, the catching of fish
+captura | 4 | what is taken, the catch or prey: venatores cum captura, hunters with their bag
+captura | 5 | gain or wages, and usually from some low trade: inhonesti lucri captura, the takings of a shameful calling
+captus2 | 1 | grasp
+captus2 | 3 | a taking, or as much as can be taken at once: trium digitorum captu, a three-finger pinch
+captus2 | 4 | the power of taking a thing in, one's capacity: ut est captus alicujus, according to a person's lights
+captus2 | 5 | rarely of bodily powers: pro corporis captu, in proportion to their size
+# review: capularis said of an old man close to death, literally 'fit for the bier'; English has no adjective for it
+capularis | 1 | ready for burial
+capularis | 3 | belonging to the bier, said of an old man on the edge of the grave: capularis senex, an old man with one foot in the coffin
+capularis | 4 | also of criminals reckoned fit for the bier
+capulus | 1 | handle
+capulus | 2 | bier
+capulus | 3 | that by which a thing is held: capulus aratri, the plough handle; capulus sceptri, the shaft of a sceptre
+capulus | 4 | above all the hilt of a sword
+capulus | 5 | a coffin, bier or tomb, the old writers using it of the sarcophagus
+capulus | 6 | also a halter or noose for catching cattle
+caput | 1 | head
+caput | 2 | life
+caput | 3 | the head of man or beast: caput obnubere, to cover the head, as was done with a condemned man
+caput | 4 | proverbially: supra caput esse, to be over one's head, that is close at hand and threatening
+caput | 5 | standing for the whole person, a man, or a head of cattle: pro capite tuo, for your person
+caput | 6 | a man's civil standing, and so his life: capitis poena, the death penalty; capitis periculum adire, to put one's life at risk
+caput | 7 | the chief person or thing, the leader: caput scelerum, the head of all mischief, an arrant knave
+caput | 8 | the chief place, a capital: caput Italiae, the head city of Italy
+caput | 9 | of things, the top, point or end, and of a river its source: caput allii, a head of garlic; caput aquae, the spring where the water rises
+caput | 10 | in writings, a section or chapter: a primo capite legis, from the first clause of the law
+carbaseus | 1 | of linen
+carbaseus | 3 | made of carbasus, a fine linen: carbasea vela, sails of fine linen; carbaseus sinus, a linen awning
+carbaseus | 4 | as a neuter noun carbasinum, a linen garment
+carbo1 | 1 | coal
+carbo1 | 3 | a coal or charcoal, whether dead or still glowing
+carbo1 | 4 | from its blackness, of marking: carbone notare, to mark with charcoal, that is to set down as bad, against creta for good
+carbo1 | 5 | proverbially of what is worthless: carbonem pro thesauro invenire, to find a coal where you looked for treasure
+carbo1 | 6 | in medicine, a malignant sore
+carbonarius | 1 | of charcoal
+carbonarius | 3 | having to do with charcoal: carbonarium negotium, the charcoal trade
+carbonarius | 4 | as a masculine noun carbonarius, a charcoal burner or collier
+carbonarius | 5 | as a feminine noun carbonaria, a charcoal furnace
+carbunculus | 1 | carbuncle
+carbunculus | 3 | a small coal, the diminutive of carbo
+carbunculus | 4 | figuratively a burning grief that eats a man away
+carbunculus | 5 | a red sandstone or tufa
+carbunculus | 6 | a bright red gem, covering the ruby, the garnet and their like
+carbunculus | 7 | in medicine a tumour or carbuncle, and in plants a blight brought on by frost
+carcer | 1 | prison
+carcer | 2 | starting-gate
+carcer | 3 | a prison or jail: in carcerem conpingere, to clap someone into gaol
+carcer | 4 | above all the Roman state prison by the Forum at the foot of the Capitol
+carcer | 5 | in the poets of the cave the winds are shut in, and of the world below: carcer inferorum, the prison of the dead
+carcer | 6 | figuratively of the body as the soul's prison
+carcer | 7 | for the prisoners themselves, and as abuse, gaolbird
+carcer | 8 | usually plural carceres, the starting stalls of a racecourse, against the meta or calx at the far end
+carcer | 9 | so figuratively the start of anything: ad carceres a calce revocari, to be called back from the finish to the starting gate, that is to begin life over
+cardinalis | 1 | chief
+cardinalis | 3 | belonging to a hinge: scapi cardinales, the hinge posts of a door
+cardinalis | 4 | figuratively, that on which a thing turns, and so principal: venti cardinales, the cardinal winds; virtutes cardinales, the cardinal virtues
+cardinalis | 5 | in grammar, numeri cardinales, the cardinal numbers, from which the ordinals and distributives are formed
+cardinalis | 6 | in the Church, a chief presbyter, and so a cardinal
+cardo | 1 | hinge
+cardo | 3 | the pivot and socket a door swings on: cardines effringere, to break the hinges off the doors
+cardo | 4 | in carpentry, a tenon and its mortise: cardo masculus, the tenon; cardo femina, the socket
+cardo | 5 | in astronomy a pole, the point everything turns about: cardo caeli, the pole of the sky
+cardo | 6 | figuratively the chief point, or the turning point: tanto cardine rerum, at so critical a turn of affairs
+careo | 1 | lack
+careo | 3 | to be without a thing, with the ablative: carere culpa, to be free of blame; carere febri, to be rid of the fever
+careo | 4 | so of going without by choice, to abstain: carere temeto, to keep off strong drink
+careo | 5 | to be deprived of what one wants, and so to miss it, the opposite of frui
+careo | 6 | its present participle has a genitive plural carentum
+caries | 1 | decay
+caries | 3 | a dry rot rather than a wet one, of timber and of walls
+caries | 4 | in mockery of shrivelled old people: nemo illa vivit carie cariosior, nobody alive is more worm-eaten than she is
+carina1 | 1 | keel
+carina1 | 3 | the keel of a ship
+carina1 | 4 | in the poets very often the whole ship, the part standing for the whole
+carina1 | 5 | of things shaped like a keel, the shell of a nut or the body of a dog
+carina1 | 6 | Carinae, the Keels, a well-known quarter of Rome between the Caelian and the Esquiline
+cariosus | 1 | decayed
+cariosus | 3 | rotten with a dry rot: cariosa palmula, a shrivelled date
+cariosus | 4 | of soil, loose and crumbling: terra cariosa, ground gone porous, which Pliny explains as dry, hollow and pumice-like
+cariosus | 5 | figuratively withered with age: cariosa senectus, a shrivelled old age
+caritas | 1 | dearness
+caritas | 2 | love
+caritas | 3 | costliness or a high price, the opposite of vilitas: caritas annonae, the high price of corn
+caritas | 4 | regard and affection, steadier and cooler than amor: caritas patriae, love of one's country
+caritas | 5 | the feeling owed to the gods, to parents and country, and to men outstanding in wisdom or wealth
+caritas | 6 | in late Latin caritates in the plural, the people one loves
+carmen1 | 1 | song
+carmen1 | 2 | poem
+carmen1 | 3 | a tune or strain, of the voice or of an instrument, though prose usually prefers cantus for this
+carmen1 | 4 | a composition in verse of any kind, epic, dramatic or lyric, and so poetry itself: carmina componere, to write verse
+carmen1 | 5 | a book or canto of a long poem: in primo carmine, in the first book
+carmen1 | 6 | a verse inscription: tumulo superaddite carmen, set an inscription over the mound
+carmen1 | 7 | an oracle or prophecy: Cumaeum carmen, the Sibyl's prophecy
+carmen1 | 8 | a magic formula or spell: verba et incantamenta carminum, the words and spells of enchantments
+carmen1 | 9 | since old religious and legal forms were cast in verse, a set formula: diro carmine jurare, to swear by a dread form of words
+carmen1 | 10 | moral maxims put into verse: Carmen de moribus, Cato's book of precepts
+carnalis | 1 | carnal
+carnalis | 3 | of the flesh, against spiritalis, and a word of Christian Latin: carnalia delicta, sins of the flesh
+carnalis | 4 | as a neuter plural carnalia, the things of the flesh
+carnalis | 5 | as an adverb carnaliter, after the flesh
+carnarius | 1 | of meat
+carnarius | 3 | belonging to flesh, and found only as a noun
+carnarius | 4 | as a masculine noun carnarius, a butcher, and in jest a man who likes his women plump
+carnarius | 5 | as a neuter noun carnarium, a rack of hooks for hanging meat over the hearth, and so a larder
+carnifex | 1 | executioner
+carnifex | 3 | the public hangman, who carried out executions and torture
+carnifex | 4 | as abuse, scoundrel or villain
+carnifex | 5 | figuratively a tormentor or destroyer: Fortuna gloriae carnifex, Fortune, the butcher of fame
+carnifex | 6 | in the poets as an adjective, murderous
+carnificina | 1 | torture
+carnificina | 3 | the executioner's trade, and the place where he plied it: carnificinam facere, to play the hangman
+carnificina | 4 | the rack or the torment itself: carnificinam subire, to undergo torture
+carnificina | 5 | figuratively of anguish of mind: carnificina est aegritudo, grief is a torture
+carnosus | 1 | fleshy
+carnosus | 3 | full of flesh, well covered
+caro2 | 1 | flesh
+caro2 | 3 | the flesh of animals, and so meat: lacte et carne vivere, to live on milk and meat
+caro2 | 4 | the human body set against the spirit, and so the seat of the passions
+caro2 | 5 | in contempt of a person: caro putida, a rotten lump of flesh, said of a dull man
+caro2 | 6 | of gems, the soft part of the stone
+caro2 | 7 | of style, fleshiness: carnis plus habet, minus lacertorum, he has more flesh and less muscle
+carpentarius | 1 | of carriages
+carpentarius | 3 | belonging to a carriage or wagon: carpentarius artifex, a coachbuilder
+carpentarius | 4 | as a masculine noun carpentarius, a coachman
+carpentarius | 5 | as a feminine noun carpentaria, a coachbuilder's workshop
+carpentum | 1 | carriage
+carpentum | 3 | a two-wheeled covered carriage, used in town and above all by women
+carpentum | 4 | in later writers a farm cart: carpentum stercoris, a dung cart
+carpinus | 1 | hornbeam
+carpinus | 3 | the hornbeam, of two kinds, the white and the black
+carpo | 1 | pluck
+carpo | 3 | to pick or gather flowers and fruit: rosam carpere, to pluck a rose; poma carpere, to gather apples
+carpo | 4 | of animals, to crop or browse: gramen carpere, to graze the grass
+carpo | 5 | of wool, to pluck, and so in the poets to spin: pensa carpere, to spin one's allotted wool
+carpo | 6 | figuratively to enjoy or make the most of: carpe diem, seize the day; primos flores carpere, to gather the first flowers of life
+carpo | 7 | in a bad sense, to carp at and slander: maledico dente carpere, to tear at someone with a spiteful tooth
+carpo | 8 | to wear down or use up: vires carpere, to sap the strength
+carpo | 9 | in war, to harass by repeated attacks: agmen carpere, to keep worrying the column
+carpo | 10 | of a road, to travel it: viam carpere, to take one's way; supremum iter carpere, to go the last journey, that is to die
+carptim | 1 | piecemeal
+carptim | 3 | in separate pieces or parts: res gestas carptim perscribere, to write up events in selected parts
+carptim | 4 | at different points or on different sides: carptim pugnare, to fight in scattered actions
+carptim | 5 | at different times, now and then: carptim dimissi, sent away in small parties
+carus1 | 1 | dear
+carus1 | 3 | dear and precious, held in esteem, the opposite of vilis and contemptus
+carus1 | 4 | costly, at a high price: cara omnia, everything dear; agnina cara, lamb fetching a high price
+carus1 | 5 | actively in the poets, loving or affectionate
+carus1 | 6 | as an adverb care, dearly: care venire, to be sold dear; carius aestimare, to value more highly
+casa | 1 | hut
+casa | 3 | any plain or poorly built house, a cottage, cabin or shed
+casa | 4 | casa Romuli, the thatched cottage of Romulus on the Capitol, kept as a relic
+casa | 5 | proverbially: ita fugias ne praeter casam, do not run so far that you pass the safe place, taken from a children's game
+casa | 6 | in late Latin the plural casae for a country estate
+cascus | 1 | old
+cascus | 3 | ancient, a Sabine word which Ennius uses of the earliest Latins: prisci casci populi Latini, the old Latin peoples of long ago
+caseus | 1 | cheese
+caseus | 3 | cheese: caseum facere, to make cheese; caseum premere, to press cheese
+casses | 1 | hunting-net
+casses | 3 | nets or toils for hunting, a poetic word where prose has plaga or retia
+casses | 4 | a spider's web
+casses | 5 | figuratively snares or plots: casses tendere alicui, to spread nets for someone
+cassis1 | 1 | helmet
+cassis1 | 3 | a helmet, usually of metal, where galea was of leather, though the two words are often used loosely for each other
+cassis1 | 4 | by transfer war itself: aetas patiens cassidis, an age fit to bear the helmet
+cassus | 1 | empty
+cassus | 2 | vain
+cassus | 3 | hollow or empty: cassa nux, an empty nut
+cassus | 4 | with an ablative, devoid of a thing: cassus lumine, without light, and so dead; virgo dote cassa, a girl with no dowry
+cassus | 5 | figuratively fruitless or useless: cassa vota, prayers that came to nothing
+cassus | 6 | in cassum, to no purpose, in vain
+castellum | 1 | fort
+castellum | 3 | a fortified post, a castle or stronghold, the diminutive of castrum
+castellum | 4 | in engineering, the reservoir where an aqueduct's water is gathered before being piped away
+castellum | 5 | figuratively a shelter or refuge: castellum forensis latrocinii, a stronghold for robbery in the courts
+castigatio | 1 | reproof
+castigatio | 3 | correction or punishment, whether by words or by blows: castigatio fustium, a beating with rods
+castigatio | 4 | in good prose most often a rebuke in words: castigatio contumelia vacare debet, a reproof should be free of insult
+castigatio | 5 | in gardening, the trimming or pruning of plants
+castigatio | 6 | figuratively the tempering of one's speech
+castigator | 1 | reprover
+castigator | 3 | one who corrects or chastises: castigator censorque minorum, a rebuker and censor of his juniors
+castigator | 4 | castigator lacrimarum, one who checks other people's tears
+castigo | 1 | rebuke
+castigo | 3 | to set right by word or by deed, to correct, chastise or punish; stronger than reprehendere and weaker than culpare
+castigo | 4 | to put an error right: carmen castigare, to correct a poem; vitia sua castigare, to mend one's own faults
+castigo | 5 | to hold in check: equum tenacem castigare, to keep a stubborn horse in hand
+castigo | 6 | of space, to hem in: insula castigatur aquis, the island is closed in by the waters
+castigo | 7 | its participle castigatus, drawn in and trim, used of a fine figure: castigatum pectus, a shapely breast
+castigo | 8 | as an adverb castigate, either briefly or within bounds: castigate vivere, to live within limits
+castimonia | 1 | purity
+castimonia | 3 | purity of conduct, morality
+castimonia | 4 | above all the ritual purity worship demanded, which meant abstaining from sex and from rich food: summa castimonia, the strictest abstinence
+castitas | 1 | chastity
+castitas | 3 | purity of the body, matching pudicitia
+castitas | 4 | more widely purity of life and morals: castitas vitae, an unstained life
+castitas | 5 | purity where money is concerned, freedom from greed, set against avaritia
+# review: castrensis 'of camp' reads oddly without the article; 'military' would be militaris, and English has no adjective tied to the camp itself
+castrensis | 1 | of the camp
+castrensis | 3 | belonging to a camp: castrensis ratio, the way things are done in camp; castrense consilium, a council of war in the camp
+castrensis | 4 | corona castrensis, the crown given to the first man over the enemy's rampart
+castrensis | 5 | as a noun, a soldier in camp, and in the late empire a high officer of the court
+castro | 1 | castrate
+castro | 3 | to geld an animal, male or female: hircum castrare, to geld a he-goat
+castro | 4 | of plants, to prune or trim
+castro | 5 | of wine and grain, to strain or clean: vina saccis castrare, to filter wine through bags
+castro | 6 | more widely to cut short: caudas catulorum castrare, to dock puppies' tails; alvos apum castrare, to take the honey out of the hives
+castro | 7 | figuratively to weaken or unman: castrata res publica, a state robbed of its strength
+castrum | 1 | fort
+castrum | 2 | camp
+castrum | 3 | in the singular any fortified place, though castellum is the commoner word for it
+castrum | 4 | in the plural castra, a military camp, laid out square by the Romans
+castrum | 5 | castra stativa, a standing camp; castra aestiva, a summer camp; castra hiberna, winter quarters
+castrum | 6 | castra ponere or locum castris capere, to pitch camp; castra metari, to mark a camp out
+castrum | 7 | since camp was pitched each evening, a day's march: secundis castris, after two days' marching
+castrum | 8 | military service itself, often set against forum and toga
+castrum | 9 | of bees, their hive: cerea castra, the waxen camp
+castrum | 10 | figuratively of a party or a school of philosophy: Epicuri castra, the camp of Epicurus
+castus1 | 1 | chaste
+castus1 | 3 | morally pure and guiltless in oneself, where candidus is fair dealing towards others
+castus1 | 4 | above all in the poets, pure in sexual conduct: casta Minerva, chaste Minerva
+castus1 | 5 | of style, free of barbarisms: sermonis castissimi, of the purest speech
+castus1 | 6 | in religion holy and observant: casti sacerdotes, pure priests; hac casti maneant in religione nepotes, may our descendants keep this worship undefiled
+castus1 | 7 | as a neuter noun castum, a festival kept with strict continence
+castus1 | 8 | free from greed for what belongs to others: homo castus ac non cupidus, a man clean-handed and not grasping
+casualis | 1 | accidental
+casualis | 3 | happening by chance, a late and very rare word: condicio casualis, a condition that turns on chance
+casualis | 4 | in grammar, having cases or belonging to them
+casualis | 5 | as an adverb casualiter, by accident
+casus1 | 1 | fall
+casus1 | 2 | chance
+casus1 | 3 | a falling down: casus nivis, a fall of snow; casus fulminum, the fall of thunderbolts
+casus1 | 4 | a fall or overthrow: graviore casu decidunt turres, high towers come down with the heavier crash
+casus1 | 5 | of time, the close: extremae sub casum hiemis, at the very end of winter
+casus1 | 6 | a moral or political fall, a slip: sine casu ac prolapsione, without a stumble and a fall
+casus1 | 7 | whatever happens unlooked for, an event or accident: fors, fortuna, casus, chance, fortune and accident
+casus1 | 8 | an opportunity or occasion: mortis durae casus, the chance of a hard death
+casus1 | 9 | above all a misfortune or disaster, and by a softer usage death itself: casum civitatis dolere, to grieve at the calamity of the state
+casus1 | 10 | in grammar, a case in the inflection of a word
+catellus1 | 1 | puppy
+catellus1 | 3 | a little dog, the diminutive of catulus
+catellus1 | 4 | used as a term of endearment: mi catella, my little pet
+catellus2 | 1 | little chain
+catellus2 | 3 | a small chain, the diminutive of catena, and commoner in the feminine catella
+catellus2 | 4 | vaginae catellis crepitant, the scabbards rattle with their chains
+catellus2 | 5 | Plautus plays on its likeness to catellus, a puppy
+catena | 1 | chain
+catena | 3 | a chain, most often plural and used as a fetter: catenis vincire aliquem, to bind someone in chains; in catenas conicere, to throw into irons
+catena | 4 | a chain barring the mouth of a harbour
+catena | 5 | figuratively a bond or restraint: legum catenae, the chains of the laws
+catena | 6 | a chain of gold or silver worn by women as an ornament
+catena | 7 | a series of things linked together: praecepta in catenas ligare, to bind up rules in a chain
+catena | 8 | in building, a brace or tie holding two beams together
+cateno | 1 | chain
+cateno | 3 | to chain or bind together, and commonest in its participle catenatus, fettered
+cateno | 4 | figuratively linked or unbroken: catenati labores, unremitting toil; versus catenati, verses linked one to another
+caterva | 1 | troop
+caterva | 3 | a troop, band or crowd of people: magna caterva, a good large company; catervae testium, crowds of witnesses
+caterva | 4 | in the army a body of troops, and above all the loose formations of barbarian peoples set against the Roman legions
+caterva | 5 | in the theatre the whole company of actors, usually called a grex
+caterva | 6 | figuratively: caterva verborum, a rabble of words
+catillus1 | 1 | small dish
+catillus1 | 3 | a little bowl, dish or plate, the diminutive of catinus
+catillus1 | 4 | of things shaped like a plate, an ornament on a scabbard, and the upper millstone
+catinus | 1 | dish
+catinus | 3 | a deep vessel for serving or cooking, a bowl, dish or pot
+catinus | 4 | also a crucible for melting metals
+catinus | 5 | of things of like shape, the air vessel of a water organ, and a natural hollow in rock
+catulus1 | 1 | whelp
+catulus1 | 3 | the young of any animal: catuli leonis, lion cubs; catuli luporum, wolf cubs
+catulus1 | 4 | above all a puppy, which the ancients took to be the diminutive of canis
+catulus1 | 5 | proverbially: aliter catuli longe olent, aliter sues, puppies smell one way and pigs quite another
+catulus1 | 6 | also a kind of fetter
+catus1 | 1 | shrewd
+catus1 | 3 | literally sharp to the ear, shrill: cata signa, shrill trumpet calls
+catus1 | 4 | of the mind, clear-sighted and wise, the opposite of stultus; a Sabine word that never quite settled into prose
+catus1 | 5 | in a bad sense sly and crafty, the same as callidus: cata est et callida, she is sly and cunning
+catus1 | 6 | as an adverb cate, cleverly
+cauda | 1 | tail
+cauda | 3 | the tail of an animal
+cauda | 4 | proverbially: caudam jactare popello, to wag the tail at the crowd, that is to fawn on it; caudam trahere, to go about with a tail pinned on, to be made a fool of
+cauda | 5 | in a pun, the tail end of a word: coda Verrina, that Verrine tail, of the name Verrucius
+caudex1 | 1 | tree trunk
+caudex1 | 2 | book
+caudex1 | 3 | the trunk or stem of a tree, also spelt codex
+caudex1 | 4 | the block of wood a man was tied to for punishment
+caudex1 | 5 | as abuse, blockhead or dolt
+caudex1 | 6 | wooden tablets fastened together, from which the sense of book comes, its leaves lying flat rather than rolled like a volumen
+caudex1 | 7 | above all an account book or ledger, which had standing in law where the rough adversaria had none
+caudex1 | 8 | in late Latin a code of laws, as the Codex Theodosianus
+# review: caudicarius used almost only of barges built from rough tree trunks; English has no adjective for it
+caudicarius | 1 | of tree trunks
+caudicarius | 3 | made of rough tree trunks: naves caudicariae, barges built of stout logs
+caudicarius | 4 | also spelt codicarius
+caulae | 1 | opening
+caulae | 3 | a hole or passage, a favourite word of Lucretius: caulae corporis, the pores of the body
+caulae | 4 | a sheepfold or pen
+caulae | 5 | any enclosure
+cauliculus | 1 | little stalk
+cauliculus | 3 | the small stalk or stem of a plant, the diminutive of caulis, also spelt coliculus
+cauliculus | 4 | in architecture, a stalk carved as an ornament on the capital of a column
+caulis | 1 | stalk
+caulis | 3 | the stalk or stem of a plant: caulis brassicae, a cabbage stalk; caulis fabarum, a bean stem
+caulis | 4 | of the vine, its tendrils
+caulis | 5 | of things of like shape: the quill of a feather, the bony core of an ox's tail, and the tube an insect lays its eggs through
+caulis | 6 | it is also spelt colis or coles
+caupo | 1 | innkeeper
+caupo | 3 | a petty tradesman or huckster, and above all the keeper of an inn
+caupo | 4 | it has a shorter form copo
+caupo | 5 | figuratively, a man who sells wisdom and eloquence over a counter
+caupona | 1 | inn
+caupona | 3 | a retail shop, an inn or tavern, matching taberna: cauponam exercere, to keep an inn
+caupona | 4 | also the woman who keeps one, a landlady or hostess
+causa | 1 | cause
+causa | 2 | lawsuit
+causa | 3 | that on account of which a thing comes about, a cause, reason or motive
+causa | 4 | in the ablative after a genitive, for the sake of: mea causa, for my sake; honoris causa, by way of honour
+causa | 5 | a good reason or just ground: cum causa, with good reason; sine causa, for no reason at all
+causa | 6 | an excuse, and often a feigned one, a pretext: fingere falsas causas, to invent excuses
+causa | 7 | in law a case or process: causam agere, to plead a case; causa capitis, a trial for a man's life
+causa | 8 | outside the courts, the side or party a man supports: causam sequi, to follow a cause
+causa | 9 | a tie or connection between people, and more widely a condition or position: in eadem causa esse, to stand in the same case
+causa | 10 | in medicine the cause of a disease, and in late Latin the disease itself; in rhetoric the subject matter of a speech
+causalis | 1 | causal
+causalis | 3 | having to do with a cause, a rare and late word: causalis ratio, a reason drawn from cause
+causalis | 4 | in grammar, of conjunctions that give the reason for what has gone before, such as nam, enim and itaque
+causalis | 5 | as an adverb causaliter, by way of cause
+causarius | 1 | sickly
+causarius | 3 | in medicine, diseased or ailing: corpus causarium, an unhealthy body; dens causarius, a bad tooth
+causarius | 4 | in the army, discharged for ill health: missio causaria, a discharge on grounds of sickness
+causarius | 5 | as a noun, an invalid soldier
+causativus | 1 | causative
+causativus | 3 | having the force of a cause, a late word
+causativus | 4 | belonging to a lawsuit: causativum litis, the point at issue in an action
+causativus | 5 | in grammar, casus causativus, another name for the accusative, the case that lays the charge
+causidicus | 1 | pleader
+causidicus | 3 | an advocate who argues cases, said with some contempt beside the fuller word orator
+causidicus | 4 | causidici causas agere, for the pleaders to argue their cases
+causor | 1 | plead
+causor | 3 | to give something as one's reason, and usually a pretended one: causari aves aut omina dira, to plead birds or ill omens as an excuse
+causor | 4 | absolutely, to make excuses: causando nostros in longum ducis amores, with your excuses you drag our love out
+causor | 5 | in the early writers, to argue a matter out on both sides
+causor | 6 | it is not found in Cicero, and comes into use from the Augustan age on
+cautela | 1 | caution
+cautela | 3 | care or precaution, and mostly a late word: cum cura aut cautela, with care and caution
+cautela | 4 | in the lawyers, the same as cautio, a security or guarantee
+cautes | 1 | crag
+cautes | 3 | a rough pointed rock: saxa et cautes timere, to be afraid of rocks and reefs
+cautes | 4 | in the poets often of rocks at sea: durae cautes, hard crags; praerupta cautes, a sheer rock
+cautio | 1 | caution
+cautio | 3 | wariness and circumspection, which Cicero defines as avoidance guided by reason, where the same thing without reason is mere fear
+cautio | 4 | mihi cautio est, I must look out, a phrase of everyday speech
+cautio | 5 | res cautionem habet, the matter calls for care, or else admits of it
+cautio | 6 | in law a security, bond or guarantee, whether written or given by word
+cavea | 1 | cage
+cavea | 3 | any hollowed-out place, a cavity
+cavea | 4 | an enclosure for animals: a stall, den, coop, beehive or birdcage
+cavea | 5 | a fence set round a young tree to keep it from harm
+cavea | 6 | in the body, the roof of the mouth or the sockets of the eyes
+cavea | 7 | the banked seating of a theatre: ima cavea, the lowest rows; summa cavea, the highest
+cavea | 8 | so the theatre itself, and also the audience in it
+caveo | 1 | beware
+caveo | 2 | guarantee
+caveo | 3 | to be on one's guard, with ab and the ablative, or a plain ablative, or an accusative: cavere ab aliquo, to be on guard against someone; cavere malo, to guard against harm
+caveo | 4 | with ne, to take care that something does not happen: cave ne videat, take care he does not see
+caveo | 5 | in the imperative with a bare subjunctive: cave dixeris, mind you do not say it; and with an infinitive, caveto laedere, take care not to hurt
+caveo | 6 | with ut, to see that a thing is done: caveamus ut ea vitemus, let us take care to avoid them
+caveo | 7 | cavere alicui, to look after someone's interests and keep them safe
+caveo | 8 | in law, to provide or lay down in writing, as in a will or a contract
+caveo | 9 | in business, cavere ab aliquo, to get security from someone, and cavere on its own, to give it
+caveo | 10 | its participle cautus, careful and wary, or passively made safe: cautum consilium, a prudent plan
+caverna | 1 | cavern
+caverna | 3 | a hollow, cave or hole: caverna terrae, a cavern in the earth
+caverna | 4 | of rocky vaults: curvae cavernae, the arching caves
+cavillatio | 1 | raillery
+cavillatio | 3 | jesting or scoffing, the humour spread evenly through a whole conversation, against dicacitas, which is sharp and short
+cavillatio | 4 | by transfer, empty quibbling or sophistry: ineptae cavillationes, silly quibbles
+cavillor | 1 | jeer
+cavillor | 3 | to mock or make fun, whether in jest or in earnest: familiariter cavillor ac jocor, I banter and joke with him as a friend
+cavillor | 4 | with an accusative, to make a target of someone: cavillari tribunos plebis, to poke fun at the tribunes
+cavillor | 5 | by transfer, to argue captiously and quibble
+cavo | 1 | hollow
+cavo | 3 | to hollow out or excavate: stillicidi casus lapidem cavat, the drip of water wears the stone away
+cavo | 4 | naves ex arboribus cavare, to hollow boats out of tree trunks
+cavus | 1 | hollow
+cavus | 3 | hollowed out or concave, the opposite of plenus: cava concha, a hollow shell; cava tibia, the hollow pipe
+cavus | 4 | as a neuter noun cavum, a hole or cavity
+cavus | 5 | in late Latin of months with only thirty days, against menses pleni with thirty-one
+cavus | 6 | so also empty or vain: cava gloria, hollow glory
+# review: ce an inseparable demonstrative suffix; 'here' is the nearest English deictic, but it is not a word that stands alone
+ce | 1 | here
+ce | 3 | an inseparable particle tacked on to strengthen a demonstrative, answering to the deictic iota of the Greek houtosi
+ce | 4 | it stands unchanged in hicce, haecce and hocce, and in the genitive hujusce
+ce | 5 | it becomes ci before the question particle ne: hiccine, siccine, nunccine
+ce | 6 | and it often drops its e: hic, haec, hoc, nunc and sic stand for hice, haece, hoce, nunce and sice
+cedo1 | 1 | yield
+cedo1 | 3 | at bottom simply to go or move, though incedo is the usual word for that
+cedo1 | 4 | to go away, withdraw or retire: loco cedere, to give up one's post; ex acie cedere, to fall back out of the line
+cedo1 | 5 | of business, foro cedere, to withdraw from the market, that is to go bankrupt
+cedo1 | 6 | bonis cedere, to make over one's property in someone's favour
+cedo1 | 7 | to pass away or disappear: vita cedere, to depart this life; horae cedunt, the hours slip by
+cedo1 | 8 | to give way to someone as the better man: cedere auctoritati, to bow to authority; nulla re cedere, to be second in nothing
+cedo1 | 9 | with an accusative, to grant or concede something to someone
+cedo1 | 10 | to fall to someone as a possession, or to turn into something: captiva corpora Romanis cessere, the prisoners fell to the Romans; temeritas in gloriam cesserat, rashness had turned into glory
+cedo2 | 1 | give here
+cedo2 | 3 | an old imperative form, with a plural cette, belonging to lively familiar speech: cedo aquam manibus, water for my hands
+cedo2 | 4 | in asking for information, out with it, tell me: cedo istuc tuum consilium, let us hear this plan of yours
+cedo2 | 5 | asking leave to do a thing: cedo ut bibam, let me have a drink
+cedo2 | 6 | calling attention, come now, just look: cedo mihi leges Atinias, produce me the Atinian laws
+celeber | 1 | crowded
+celeber | 2 | famous
+celeber | 3 | of a place, much frequented and full of people, the opposite of desertus: celeber locus, a busy spot
+celeber | 4 | of an occasion, kept by a great gathering, and so solemn and festive: dies celeberrimi, high days of festival
+celeber | 5 | renowned: celeber triumphis, famous for his triumphs; celeber fama, of great repute
+celeber | 6 | rarely often repeated or frequent: verba celeberrima, words for ever on people's lips
+celeber | 7 | its masculine sometimes appears as celebris
+celebratio | 1 | gathering
+celebratio | 3 | a large concourse of people: hominum coetus et celebrationes, the meetings and gatherings of men
+celebratio | 4 | the keeping of a festival in great numbers: celebratio ludorum, the holding of the games
+celebratio | 5 | an honouring or commending: celebrationem habere, to be held in esteem
+celebritas | 1 | crowd
+celebritas | 2 | renown
+celebritas | 3 | a great number or throng, the opposite of solitudo: celebritas judiciorum, the crush of business in the courts
+celebritas | 4 | a solemn celebration: celebritas supremi diei, the great procession of a funeral
+celebritas | 5 | fame or repute: celebritas nominis, the renown of a name; celebritas famae, the spread of one's reputation
+celebro | 1 | celebrate
+celebro | 2 | throng
+celebro | 3 | to go to a place in numbers, to crowd or fill it: viam celebrare, to throng the road; domum alicujus celebrare, to fill someone's house
+celebro | 4 | to do a thing often or in company, to practise or repeat it
+celebro | 5 | to fill one thing with another: ripas carmine celebrare, to fill the banks with song
+celebro | 6 | to keep a festival: festos dies celebrare, to keep holy days
+celebro | 7 | to praise or sing the praises of a person: celebrare carminibus, to celebrate in song
+celebro | 8 | simply to make a thing widely known, to publish it abroad
+celebro | 9 | its participle celebratus, either much frequented, or customary, or famous: loci fama celebrati, places of famous name
+celer1 | 1 | swift
+celer1 | 3 | quick in movement: celeris sagitta, a swift arrow; celeres aves, swift birds
+celer1 | 4 | of the mind and of things: mens qua nihil est celerius, the mind, than which nothing is quicker; oratio celeris et concitata, rapid and excited speech
+celer1 | 5 | in reproach, hasty and rash: celeria consilia, headlong plans; celeris victoria, a victory too quickly won
+celer1 | 6 | its adverb is celeriter, and it also has an old neuter form celere
+celeritas | 1 | speed
+celeritas | 3 | swiftness or quickness, the opposite of tarditas: celeritas equorum, the speed of horses
+celeritas | 4 | Cicero notes that swiftness of body goes by the name celeritas, and that the same quality in the mind counts as a merit
+celero | 1 | hasten
+celero | 3 | transitively, to quicken or speed a thing up: celerare gradum, to quicken one's pace; celerare fugam, to hurry one's flight
+celero | 4 | intransitively, to make haste
+celero | 5 | mostly poetic, or found in prose later than Augustus
+cella | 1 | storeroom
+cella | 3 | on the farm, a place for storing produce or housing animals: cella olearia, the oil store; cella vinaria, the wine store
+cella | 4 | a small plain living room, and above all a servant's: cella ostiarii, the porter's lodge
+cella | 5 | the inner chamber of a temple, where the god's image stood
+cella | 6 | a room in a bath house
+cella | 7 | a room in a brothel
+cellarius | 1 | of stores
+cellarius | 3 | belonging to a storeroom: cellaria sagina, food out of the store cupboard
+cellarius | 4 | as a masculine noun cellarius, the slave in charge of provisions, a steward or butler
+celo | 1 | hide
+celo | 3 | with two accusatives, to keep something from someone, as the Greek does: aliquem aliquid celare, to keep a person in the dark about a thing
+celo | 4 | with one accusative of the thing, to conceal it: celare sententiam, to keep one's opinion dark; celare iras, to hide one's anger
+celo | 5 | with an accusative of a person, to hide them: se tenebris celare, to hide oneself in the dark
+celo | 6 | Cicero notes that concealing is not merely keeping quiet, but keeping people ignorant of what they have an interest in knowing
+celo | 7 | as a neuter plural noun celata, secrets
+celox | 1 | cutter
+celox | 3 | a swift light ship, a cutter or yacht
+celox | 4 | originally an adjective meaning swift, standing to celer as atrox does to ater
+celsus1 | 1 | lofty
+celsus1 | 3 | raised high, tall and upright: celsus status, an upright bearing
+celsus1 | 4 | figuratively high-minded, above what is common: celsus et erectus, lofty and upright in spirit
+celsus1 | 5 | high in rank: celsissima sedes dignitatis, the highest seat of honour
+celsus1 | 6 | in a bad sense haughty and puffed up: celsi et spe haud dubia feroces, holding their heads high and fierce with confident hope
+celsus1 | 7 | as an adverb celse, loftily
+cena | 1 | dinner
+cena | 3 | the main meal of the Romans, taken about midday in early times and later in the afternoon
+cena | 4 | caput cenae, the chief dish of the meal; cenarum ars, the art of dining
+cena | 5 | with verbs: cenam apparare, to get dinner ready; cenam coquere, to cook it
+cena | 6 | with prepositions: ante cenam, before dinner; inter cenam, at table
+cena | 7 | a course at dinner: prima cena, the first course
+cena | 8 | the company at table: ingens cena sedet, a huge dinner party is seated
+cena | 9 | and also the place where a meal is held
+cenaculum | 1 | upper room
+cenaculum | 3 | properly a dining room, usually upstairs, and so an upper storey, a garret or attic
+cenaculum | 4 | in later times the lodging of poorer people
+cenaculum | 5 | the old writers explain the name: where they slept was a cubiculum, where they dined a cenaculum
+cenaticus | 1 | of dinner
+cenaticus | 3 | belonging to dinner, a very rare word: spes cenatica, the hope of a dinner
+cenaticus | 4 | in late Latin as a noun cenaticum, an allowance of money given in place of food
+cenatio | 1 | dining-room
+cenatio | 3 | a dining room or hall, a word of prose later than the Augustan age
+cenatorius | 1 | of dinner
+cenatorius | 3 | belonging to dinner or to the table, and later than Augustus: cenatoria vestis, dinner dress
+cenatorius | 4 | as a neuter plural cenatoria, the clothes worn at dinner
+cenito | 1 | dine often
+cenito | 3 | the frequentative of ceno, to dine regularly or make a habit of dining: foris cenitare, to dine out as a rule
+cenito | 4 | apud aliquem cenitare, to be a regular guest at someone's table
+ceno | 1 | dine
+ceno | 3 | to take one's meal: bene cenare, to dine well; solus cenare, to dine alone
+ceno | 4 | impersonally in the passive: apud eum cenatum est, dinner was taken at his house
+ceno | 5 | its participle cenatus is active in force, having dined: cenati atque appoti, when they had eaten and drunk their fill
+ceno | 6 | with an accusative, to make a meal of something: aves cenare, to dine on birds
+ceno | 7 | of time, to spend in feasting: cenatae noctes, nights passed at table
+censeo1 | 1 | assess
+censeo1 | 2 | think
+censeo1 | 3 | of the censors, to take the census, rating citizens and their property: censores familias pecuniasque censento, let the censors assess households and estates
+censeo1 | 4 | in the passive, of a citizen rated at a sum: census equestrem summam nummorum, assessed at a knight's fortune
+censeo1 | 5 | of provinces, to be assessed: quinto quoque anno Sicilia censetur, Sicily is assessed every fifth year
+censeo1 | 6 | of the person taxed, to declare one's property: in qua tribu praedia censuisti, in what tribe did you return those estates
+censeo1 | 7 | more generally to value or estimate: quanti censes, at what do you value it
+censeo1 | 8 | censeri aliqua re, to be known or distinguished by some quality
+censeo1 | 9 | to be of an opinion, to judge or think, and above all to say so in the senate
+censeo1 | 10 | so also to vote for a course or move it formally
+censio | 1 | assessment
+censio | 3 | a rating or valuation, and above all the censor's: censio capitis, a rating by head
+censio | 4 | a punishment laid on by the censor, such as a fine on a knight
+censio | 5 | in comedy: censio bubula, a rating with an ox-hide strap, that is a flogging
+censio | 6 | an opinion or judgment, and the giving of one: ne censionem semper facias, so that you need not for ever be saying censeo
+censor | 1 | censor
+censor | 3 | the Roman magistrate, of whom there were two, who held the census and had charge of public morals
+censor | 4 | figuratively a stern judge of conduct, a critic: castigator censorque minorum, a rebuker and censor of his juniors
+censorius | 1 | censorial
+censorius | 3 | belonging to the censor: tabulae censoriae, the censors' lists; lex censoria, a contract let out by the censors
+censorius | 4 | figuratively rigid and severe: censoria gravitas, censorial gravity; censoria virgula, the critic's stroke of the pen
+# review: censualis a late legal adjective tied to the census; English has no adjective, and 'census' alone reads as the noun
+censualis | 1 | of the census
+censualis | 3 | belonging to a census, a word of late and legal Latin: censuales professiones, declarations made for the census
+censualis | 4 | as a noun censuales, the clerks who drew up the censor's lists, and also the lists themselves
+censura | 1 | censorship
+censura | 3 | the office of censor: dat veniam corvis, vexat censura columbas, the censorship pardons the ravens and harries the doves
+censura | 4 | more widely a judgment or opinion: censura vini, a verdict on the wine
+censura | 5 | a stern or harsh judgment, severity
+census2 | 1 | census
+census2 | 3 | the registering and rating of Roman citizens and their property: censum agere, to hold a census; censum habere, to take one
+census2 | 4 | the register itself, the censors' lists
+census2 | 5 | the property a citizen is entered at: census senatorius, a senator's rating; census equester, a knight's
+census2 | 6 | more widely wealth or property: homo sine censu, a man with nothing to his name
+# review: centenarius 'consisting of a hundred'; English has no adjective, and 'hundredfold' answers to centuplex instead
+centenarius | 1 | of a hundred
+centenarius | 3 | made up of a hundred, or having to do with a hundred: centenarius numerus, the number a hundred; centenarius grex, a flock of a hundred
+centenarius | 4 | centenariae ballistae, catapults that throw hundred-pound stones
+centenarius | 5 | as a noun in late Latin, a centurion
+centeni | 1 | hundred each
+centeni | 3 | the distributive numeral, a hundred apiece or simply a hundred: centeni juvenes, a hundred young men to each
+centeni | 4 | it has a shortened genitive plural centenum
+centeni | 5 | as a neuter noun centenum, rye, so called because it yields a hundredfold
+centesimus | 1 | hundredth
+centesimus | 3 | the ordinal numeral: pars centesima, the hundredth part; centesima lux, the hundredth day
+centesimus | 4 | as a feminine noun centesima, a tax of one per cent on goods sold
+centesimus | 5 | also interest at one per cent a month, which comes to twelve per cent a year
+centesimus | 6 | sometimes standing for centuplex, a hundredfold: centesima frux, a hundredfold crop
+cento1 | 1 | patchwork
+cento1 | 3 | a covering made of scraps stitched together, a rag quilt
+cento1 | 4 | a cap worn under the helmet
+cento1 | 5 | proverbially: centones sarcire alicui, to stitch patchwork for someone, that is to fob them off with lies
+cento1 | 6 | a poem pieced together out of another poet's lines, a cento
+centum | 1 | hundred
+centum | 3 | the numeral, and indeclinable: centum dies, a hundred days
+centum | 4 | in the poets for any large number: si linguae centum sint, if I had a hundred tongues; centum clavibus servata, guarded by a hundred keys
+# review: centumviri the name of a Roman civil court; there is no English name for it, and a translation has to spell the number out
+centumviri | 1 | court of a hundred
+centumviri | 3 | a bench of judges chosen each year for civil suits, and above all for cases about inheritance
+centumviri | 4 | it numbered a hundred and five members, and a hundred and eighty under the emperors
+# review: centuplico English has no one-word verb for increasing a thing a hundredfold
+centuplico | 1 | increase a hundredfold
+centuplico | 3 | to multiply a thing by a hundred, a late word
+centuplico | 4 | its participle centuplicatus, increased a hundredfold: fructus centuplicatus, a crop a hundred times over
+centuplus | 1 | hundredfold
+centuplus | 3 | a hundred times as much, a word of Christian Latin: fructus centuplus, a hundredfold yield
+centuplus | 4 | as a noun centuplum, a hundredfold return
+centuria | 1 | century
+centuria | 3 | properly a body of a hundred, though it is used of any division whether it numbers a hundred or not
+centuria | 4 | in farming, a measured block of land
+centuria | 5 | in the army, a company under one centurion
+centuria | 6 | of the Roman people, one of the hundred and ninety-three classes Servius Tullius divided them into by property
+# review: centurialis 'belonging to a centuria' in any of that word's senses; English has no adjective for it
+centurialis | 1 | of a century
+centurialis | 3 | belonging to a centuria in any of its senses
+centurialis | 4 | in farming: lapides centuriales, the boundary stones of a block of land
+centurialis | 5 | of a citizen enrolled in a century, and of the centurion's vine staff
+centuriatim | 1 | by centuries
+centuriatim | 3 | company by company or century by century: centuriatim citare populum, to call the people up by centuries
+centuriatim | 4 | figuratively in crowds, by hundreds
+# review: centurio1 'to divide into centuries'; English has no verb that carries it
+centurio1 | 1 | divide into centuries
+centurio1 | 3 | of land, to lay it out in blocks
+centurio1 | 4 | of the infantry, to draw them up in companies: conscribi centuriarique, to be enrolled and told off into companies
+centurio1 | 5 | of the people, in its participle: comitia centuriata, the assembly in which the Romans voted by centuries and chose the higher magistrates
+centurio2 | 1 | centurion
+centurio2 | 3 | the commander of a century, ranking below the tribune
+centussis | 1 | hundred asses
+centussis | 3 | a sum of a hundred asses, formed from centum and as
+cera | 1 | wax
+cera | 3 | wax, and in the plural the wax cells of a hive
+cera | 4 | a writing tablet coated with wax, which is the commonest use of the word
+cera | 5 | a seal of wax
+cera | 6 | a wax likeness of an ancestor: expressi cera voltus, features moulded in wax
+cera | 7 | the wax used in encaustic painting
+cerarius | 1 | of wax
+cerarius | 3 | having to do with wax, and found only as a noun
+cerarius | 4 | as a masculine noun cerarius, a wax dealer, or a clerk who writes on wax tablets
+cerarius | 5 | as a neuter noun cerarium, a fee for wax, or perhaps for affixing a seal
+cerasus1 | 1 | cherry tree
+cerasus1 | 3 | the cherry tree, which Lucullus brought to Italy from Cerasus in Pontus
+cerasus1 | 4 | also the cherry itself, though prose prefers the neuter cerasum
+cerebrum | 1 | brain
+cerebrum | 3 | the brain
+cerebrum | 4 | by transfer, understanding or sense
+cerebrum | 5 | also anger or hot temper: cerebri felix, blessed with a quick temper
+cerebrum | 6 | of plants, the pith at the top of the stem
+cereus1 | 1 | waxen
+cereus1 | 3 | made of wax: cerea effigies, a wax figure; cerea castra, the waxen camp, that is a honeycomb
+cereus1 | 4 | as a masculine noun cereus, a wax taper, which clients used to bring their patrons as a present
+cereus1 | 5 | wax-coloured: cerea pruna, yellow plums
+cereus1 | 6 | soft and pliant as wax: cerea bracchia, smooth soft arms
+cereus1 | 7 | figuratively easily swayed: cereus in vitium flecti, as easy to bend into vice as wax is to bend
+cerno | 1 | see
+cerno | 2 | sift
+cerno | 3 | literally to separate or sift: farinam cribro cernere, to sift flour through a sieve
+cerno | 4 | to make out by the senses and above all by the eyes, to perceive or discern
+cerno | 5 | cerni aliqua re, to show one's quality in something: amicus certus in re incerta cernitur, a sure friend is seen in an unsure business
+cerno | 6 | of the mind, to grasp or understand: acri ingenio cernere, to see a thing with a keen wit
+cerno | 7 | of what is to come, to foresee: cerno animo, I see it already in my mind
+cerno | 8 | to decide a disputed matter, to decree: quodcumque senatus creverit, whatever the senate shall have decreed
+cerno | 9 | to settle a thing by fighting, an old use that certare displaced: ferro vitam cernere, to settle life with the sword
+cerno | 10 | in law of inheritances, to resolve to enter on one, to declare that resolve, and so to take it up
+cernuus1 | 1 | stooping
+cernuus1 | 3 | bent forward with the face towards the ground, a very rare and poetic word
+cernuus1 | 4 | the old grammarians explain it as one who looks at the earth, from cernere
+cero | 1 | wax
+cero | 3 | to smear or coat with wax: dolia cerare, to wax the jars
+cero | 4 | commonest in its participle: cerata tabula, a waxed tablet; ceratae pennae, wings waxed together
+certamen | 1 | contest
+certamen | 3 | a struggle of any kind, friendly or hostile: certamen gymnicum, a contest in the games
+certamen | 4 | the prize contended for: certamina ponere, to set up the prizes
+certamen | 5 | rivalry or emulation: certamen honestum, an honourable rivalry
+certamen | 6 | in war a battle or engagement: vario certamine pugnatum est, the fighting went now one way and now the other
+certamen | 7 | in the later historians, war itself
+certatim | 1 | in rivalry
+certatim | 3 | each striving to outdo the other, and so eagerly: certatim de alicujus salute dicere, to vie with one another in pleading for a man's safety
+certatim | 4 | certatim saxa mittere, to hurl stones one against another for eagerness
+certatio | 1 | contest
+certatio | 3 | a striving or contending: corporum certatio, a contest of bodily strength
+certatio | 4 | rarely of fighting in war
+certatio | 5 | figuratively a struggle between opposing things: virtuti cum voluptate certatio, the contest of virtue with pleasure
+certo2 | 1 | contend
+certo2 | 3 | to fight or struggle, and above all in battle: armis cum hoste certare, to fight the enemy with weapons
+certo2 | 4 | outside war, to vie or compete: certare maledictis, to compete in abuse
+certo2 | 5 | in law, to contend in court: provocatione certare, to fight the case on appeal
+certo2 | 6 | with an infinitive, mostly in the poets, to strive to do a thing: certantes ad summum succedere honorem, striving to climb to the highest office
+certus | 1 | certain
+certus | 2 | fixed
+certus | 3 | resolved or determined: certum est mihi, my mind is made up; certa mori, resolved to die
+certus | 4 | with a genitive of what one is bent on: certus eundi, set on going; certus fugae, resolved on flight
+certus | 5 | settled and definite, of number or kind: certae fruges, particular crops; certo tempore, at a fixed time
+certus | 6 | sometimes indefinite like quidam, a certain: certi homines, certain people
+certus | 7 | of persons and things one can rely on, trusty: amicus certus in re incerta cernitur, a sure friend is seen in an unsure business
+certus | 8 | proved beyond doubt, established: certissimae res, facts past all question
+certus | 9 | of a person made sure of a thing: certiorem facere aliquem, to inform someone; certi sumus, we are satisfied of it
+certus | 10 | its adverbs certo and certe, certainly: certo scio, I know it for a fact; certe often marking a restriction, at any rate
+cerula | 1 | wax crayon
+cerula | 3 | a small piece of wax, the diminutive of cera
+cerula | 4 | cerula miniata, a red wax crayon, which the Romans used to strike out passages they objected to in a book
+cerula | 5 | also a stand for wax tapers
+cerussa | 1 | white lead
+cerussa | 3 | white lead or ceruse, used by painters and by women to whiten the skin
+cerussa | 4 | used in medicine too, and in large doses a poison
+cervinus | 1 | of deer
+cervinus | 3 | belonging to a deer: cervinum cornu, a stag's horn; cervina pellis, a deerskin
+cervinus | 4 | cervina senectus, a deer's old age, that is a very great age
+cervinus | 5 | as a feminine noun cervina, venison
+cervix | 1 | neck
+cervix | 3 | the neck, taking in the nape behind, and used in the singular or the plural alike
+cervix | 4 | figuratively of a burden carried: in cervicibus nostris, on our shoulders; suis cervicibus rem publicam sustinere, to carry the state on one's own neck
+cervix | 5 | of boldness: tantis cervicibus, with such effrontery
+cervix | 6 | of things, a neck: cervix amphorae, the neck of a jar; cervix Peloponnesi, the neck of the Peloponnese, that is the Isthmus
+cervus | 1 | stag
+cervus | 3 | a stag or deer, taken as a type of swiftness and of timidity: fugax cervus, the fleeing stag
+cervus | 4 | in the plural cervi, forked stakes set up as a defence, named from their likeness to antlers
+cessatio | 1 | idleness
+cessatio | 3 | a delaying or hanging back: non datur cessatio, there is no time to dawdle
+cessatio | 4 | doing nothing, inactivity: cessatio libera atque otiosa, a free and easy idleness
+cessim | 1 | backwards
+cessim | 3 | turning back or bending in, mostly an early and a late word: cessim ire, to go backwards
+cessio | 1 | surrender
+cessio | 3 | a giving up or making over, and a word of the lawyers only: in jure cessio, a formal surrender before a magistrate
+cessio | 4 | cessio diei, the falling due of a term
+cesso | 1 | loiter
+cesso | 3 | the frequentative of cedo, to hang back or delay, and always with a hint of blame: cessare pultare ostium, to be slow about knocking at the door
+cesso | 4 | to do nothing, to be idle: nihil agere et cessare, to be doing nothing and idling
+cesso | 5 | of things, to lie unused or still, and of land, to lie fallow: cessata arva, fields left fallow
+cesso | 6 | with a dative, to have leisure for a thing: cessare amori, to give one's time to love
+cesso | 7 | to be wanting or not forthcoming: cessat voluntas, the will is not there
+cesso | 8 | in law, of a person to fail to appear, and of an action to be null and void
+cesso | 9 | in a moral sense, to slip or go wrong: qui multum cessat, a man who often goes astray
+cetarius | 1 | fishmonger
+cetarius | 3 | having to do with fish, and found only as a noun
+cetarius | 4 | as a masculine noun cetarius, a dealer in fish
+cetarius | 5 | as a neuter noun cetarium, a fishpond or tank for the larger fish
+ceteroqui | 1 | otherwise
+ceteroqui | 3 | for the rest or in other respects, also spelt ceteroquin and formed like alioqui and alioquin
+ceteroqui | 4 | a rare word: ceteroquin recte, right enough in other ways
+ceterus | 1 | remaining
+ceterus | 3 | the rest of a thing, what is left over beyond what has been named; its nominative singular masculine is not in use
+ceterus | 4 | in the plural, the rest or the others: ceteri, the others; et cetera, and so on
+ceterus | 5 | its neuter ceterum as an adverb, for the rest or otherwise, and often simply but or still
+ceterus | 6 | the plural cetera as an adverb, in other respects: cetera laetus, happy enough in all else
+ceterus | 7 | Pliny uses cetero in the same way
+ceu | 1 | as
+ceu | 3 | a particle of comparison, contracted from ce and ve as neu is from neve: ceu fumus in auras, like smoke into the air
+ceu | 4 | in poetic comparisons, often answered by haud aliter or by sic
+ceu | 5 | with cum or si: ceu cum, as when
+ceu | 6 | sometimes conditionally, as if or as it were
+ceu | 7 | it belongs to elevated poetry before the Augustan age, and comes into prose later, above all in the elder Pliny
+ceveo | 1 | waggle
+ceveo | 3 | to move the haunches, a coarse word of the satirists
+ceveo | 4 | figuratively, from a dog wagging its tail, to fawn and flatter
+chordus1 | 1 | late-born
+chordus1 | 3 | born late in the season, a very old farming word, also spelt cordus: agni chordi, lambs dropped out of season
+chorea | 1 | dance
+chorea | 3 | a dance in a ring, and commonest in the plural
+chorea | 4 | by transfer, of the circling of the stars: choreae astricae, the dances of the stars
+cibarius | 1 | of food
+cibarius | 3 | belonging to food or fit for it: leges cibariae, sumptuary laws about eating; uva cibaria, a grape good to eat but not for wine
+cibarius | 4 | as a neuter plural cibaria, provisions or rations, and fodder for animals
+cibarius | 5 | from the fare given to slaves, plain and common: panis cibarius, coarse black bread
+cibarius | 6 | figuratively second-rate: cibarius Aristoxenus, a very ordinary musician
+cibatus | 1 | food
+cibatus | 3 | food or nourishment, a word of the early and the late writers, and of Pliny
+cibo | 1 | feed
+cibo | 3 | to give food to animals: genera avium cibare, to feed birds of various kinds
+cibo | 4 | in the passive, to take food
+cibo | 5 | in late Latin, of feeding people as well
+cibus | 1 | food
+cibus | 3 | food for man or beast, set against potio, drink: cibus potusque, food and drink
+cibus | 4 | of plants, their nourishment, the sap that feeds them
+cibus | 5 | figuratively what feeds a thing: cibus furoris, fuel for madness; humanitatis cibus, nourishment for the mind
+cicada | 1 | cicada
+cicada | 3 | the cicada or tree cricket, whose noise marks the heat of the day
+cicada | 4 | the Athenians wore a golden cicada as an ornament in the hair
+cicatricosus | 1 | scarred
+cicatricosus | 3 | covered with scars: cicatricosum tergum, a back covered in weals; cicatricosa facies, a scarred face
+cicatricosus | 4 | of a vine, marked all over with pruning cuts
+cicatricosus | 5 | figuratively of a piece of writing patched and mended throughout
+cicatrix | 1 | scar
+cicatrix | 3 | the scar a wound leaves: cicatrices adversae, scars in front, got facing the enemy
+cicatrix | 4 | of plants the mark left by a cut, and of statues the marks of the tools
+cicatrix | 5 | in jest, the seam of a patched shoe
+cicatrix | 6 | figuratively: obductam cicatricem refricare, to rub open a scar that had healed over
+cicer | 1 | chickpea
+cicer | 3 | the chickpea, used only in the singular according to Varro
+ciconia | 1 | stork
+ciconia | 3 | the stork
+ciconia | 4 | a mocking gesture, the fingers bent into the shape of a stork's bill
+ciconia | 5 | a T-shaped tool farmers used to measure the depth of a furrow
+ciconia | 6 | a swing beam on an upright post for drawing water, the same as a tolleno
+cicur | 1 | tame
+cicur | 3 | tame, the opposite of ferus: cicures bestiae, tame beasts
+cicur | 4 | figuratively mild or gentle: cicur ingenium, a gentle nature
+cicur | 5 | it seems not to be used after Cicero
+cicuta1 | 1 | hemlock
+cicuta1 | 3 | hemlock, the poison given to criminals and the draught Socrates drank
+cicuta1 | 4 | by transfer a pipe made from hemlock stalks, a shepherd's pipe
+cieo | 1 | rouse
+cieo | 3 | to set in motion, to stir or shake: calcem ciere, to make a move at draughts
+cieo | 4 | to stir up or disturb: mare venti cient, the winds stir the sea
+cieo | 5 | to call someone to a place: ad arma ciere, to call to arms
+cieo | 6 | to call upon for help, of gods and of spirits: nocturnos manes ciere, to summon the ghosts of the night
+cieo | 7 | to call by name: comites magna voce ciere, to call one's companions in a loud voice
+cieo | 8 | patrem ciere, to name one's father, that is to prove one's free birth
+cieo | 9 | to set a thing going or bring it on: bellum ciere, to stir up a war
+cieo | 10 | its participle citus does duty as an adjective, quick or swift, and its adverb is cito, quickly
+cimex | 1 | bug
+cimex | 3 | the bedbug
+cincinnatus1 | 1 | curly-haired
+cincinnatus1 | 3 | with the hair in ringlets, taken as a mark of soft living: cincinnatus consul, a consul with his hair in curls
+cincinnatus1 | 4 | of comets, with streaming hair
+cinctus2 | 1 | girdle
+cinctus2 | 3 | the act of girding: cottidiani cinctus, the daily girding of one's clothes
+cinctus2 | 4 | cinctus Gabinus, the Gabine gird, in which the toga was tucked up and a corner thrown over the left shoulder
+cinctus2 | 5 | the girdle or belt itself; Varro says cinctus belonged to men and cingulum to women
+cinerarius | 1 | of ashes
+cinerarius | 3 | having to do with ashes, and very rare as an adjective
+cinerarius | 4 | as a masculine noun cinerarius, the slave who heated the curling iron in hot ashes, a hairdresser
+cinerarius | 5 | as a neuter noun cinerarium, the niche in a tomb that held the ashes of the dead
+cinereus | 1 | ash-coloured
+cinereus | 3 | like ashes in colour, grey: cinereus color, an ashen grey; cinerea terra, grey earth
+cinereus | 4 | as a neuter noun cinereum, a kind of salve
+cingo | 1 | surround
+cingo | 3 | to go round in a circle, to encircle or enclose: corpore cingi, to be enclosed in a body
+cingo | 4 | to gird the body, and above all to gird on the sword: zona cinctus, wearing a belt
+cingo | 5 | to crown or wreathe: tempora floribus cingere, to wreathe the brows with flowers; comam lauro cingere, to bind the hair with laurel
+cingo | 6 | of places, to encircle or shut in: oras maris cingens, running round the shores of the sea
+cingo | 7 | in the army, to invest or to fortify: corona militum cincta urbs, a city ringed by a circle of troops; castra vallo cingere, to fence a camp with a rampart
+cingo | 8 | to escort or attend: latus alicujus cingere, to walk at someone's side as an escort
+cingo | 9 | of trees, to strip the bark off all round
+cingulum1 | 1 | belt
+cingulum1 | 3 | the girdle worn about the hips, and mostly a poetic word
+cingulum1 | 4 | chiefly a woman's, where Varro assigns cinctus to men; also a money belt or a sword belt
+cingulum1 | 5 | in the feminine cingula, a girth for an animal
+cingulum1 | 6 | in the masculine cingulus, a zone or belt of the earth
+cinis | 1 | ash
+cinis | 3 | ashes, where favilla is usually the light dust of ash, or ash that still glows
+cinis | 4 | the ashes of a burnt corpse, common in both numbers: cineri atque ossibus, to a man's ashes and bones
+cinis | 5 | the ruins of a city burnt to the ground: cineres patriae, the ashes of one's country
+cinis | 6 | figuratively a token of ruin: in fumum et cinerem vertere, to turn a thing to smoke and ashes, that is to squander it
+cinis | 7 | it is sometimes feminine
+cippus | 1 | post
+cippus | 3 | a stake, pale or pillar
+cippus | 4 | above all a gravestone or tombstone
+cippus | 5 | among the land surveyors, a boundary stone
+cippus | 6 | in the army, in the plural cippi, a barrier of sharpened stakes
+circa1 | 1 | around
+circa1 | 3 | a later form beside circum, not common before the Augustan age and commonest in Livy and Quintilian
+circa1 | 4 | as an adverb, round about or in the neighbourhood: gramen erat circa, there was grass all round
+circa1 | 5 | circa esse, to be in the parts about, to be at hand: qui circa erant, those who stood by
+circa1 | 6 | as a preposition with the accusative, about or around a place
+circa1 | 7 | of motion, round to a series of places: legatos circa vicinas gentes mittere, to send envoys round to the neighbouring peoples
+circino | 1 | make round
+circino | 3 | to shape a thing into a circle, and probably no older than Augustus: arbores quae ramos circinant, trees that bring their branches round in a ring
+circino | 4 | its participle circinatus, rounded: folia circinatae rotunditatis, leaves perfectly round
+circiter | 1 | about
+circiter | 3 | as an adverb of place, round about
+circiter | 4 | of time, about or near: circiter triennium, about three years
+circiter | 5 | of number, about or getting on for: circiter milia hominum centum triginta, some hundred and thirty thousand men
+circiter | 6 | as a preposition with the accusative, and mostly of time: circiter meridiem, about midday; circiter Kalendas, about the first of the month
+circitor | 1 | watchman
+circitor | 3 | a keeper who goes his rounds, of gardens and buildings, and a late form of circumitor
+circitor | 4 | in the army, in the plural, the men who go the rounds of the sentry posts, patrols
+circitor | 5 | also a pedlar
+circuitio | 1 | circuit
+circuitio | 3 | a going round, and in the army the rounds: circuitio vigiliarum, the visiting of the watches
+circuitio | 4 | figuratively a roundabout way of speaking: nil circuitione usus es, you used no roundabout phrases
+circuitio | 5 | a passage or corridor for walking round something
+circuitio | 6 | a circumference or compass
+circuitus2 | 1 | circuit
+circuitus2 | 3 | a going round or revolving: circuitus solis, the sun's revolution
+circuitus2 | 4 | in medicine, the regular return of a fever
+circuitus2 | 5 | the circuit or compass of a thing, and the way round it
+circuitus2 | 6 | an open space left around a building
+circuitus2 | 7 | in rhetoric a period, which the Greeks call a periodos
+circuitus2 | 8 | in later writers a roundabout way in speech or in action: loqui per circuitus, to speak in circumlocutions
+circulatim | 1 | circularly
+circulatim | 3 | in a circle, a rare word later than Augustus
+circulatim | 4 | figuratively in groups or knots of people: circulatim lamentari, to mourn in little gatherings
+circulo | 1 | make round
+circulo | 3 | to shape into a circle, a late form standing beside circulor
+circulo | 4 | to encircle or ring about
+circulor | 1 | gather round
+circulor | 3 | to form a ring of people about oneself, or to stand about in knots talking: milites circulari, for the soldiers to gather in groups
+circulor | 4 | of mountebanks, to draw a crowd about one
+circulus | 1 | circle
+circulus | 3 | a circular figure: circulus exterior muri, the outer ring of the wall
+circulus | 4 | in astronomy an orbit or a circle of the heavens: circulus lacteus, the Milky Way
+circulus | 5 | in geography a zone of the earth, which the Greeks call a parallel
+circulus | 6 | of time: artiore circulo praecingi, to be bound within a narrower round
+circulus | 7 | any round object, a ring, a necklace or a hoop
+circulus | 8 | a knot of people gathered to talk: in circulis vellicant, in their little groups they pick a man to pieces
+circulus | 9 | it has a contracted form circlus
+circum | 1 | around
+circum | 3 | as an adverb, round about on every side: circum undique, from all sides round
+circum | 4 | as a preposition with the accusative, right round a thing: terra circum axem se convertit, the earth turns round its axis
+circum | 5 | of a partial circuit, about or near: circum caput rejectus, thrown back about the head
+circum | 6 | of motion round to several places, from one to another
+circum | 7 | of nearness, in the neighbourhood of: circum haec loca, hereabouts
+circum | 8 | of the people about one, one's attendants or friends: circum se habere, to keep about oneself
+circum | 9 | in compounds it keeps its m before consonants, and carries now one and now another of these senses
+circumago | 1 | turn round
+circumago | 3 | to drive or turn in a circle: aratro sulcum circumagere, to draw a furrow round with the plough
+circumago | 4 | as a legal term, to free a slave by turning him round, since the master took him by the right hand and turned him about
+circumago | 5 | of time, mostly in the passive, to pass or be spent: circumegit se annus, the year came round
+circumago | 6 | to wheel about: equos frenis circumagere, to wheel the horses with the rein
+circumago | 7 | to sway a man or turn him about: tam facile circumegit et flexit, so easily did he turn them round and bend them
+circumago | 8 | to drive about from place to place: nil opus est te circumagi, there is no need for you to trail about with me
+circumago | 9 | its participle circumactus, bent round or curved
+# review: circumcidaneus used only of must from a second pressing, after the mass left in the press was pared round; the gloss alone conveys nothing
+circumcidaneus | 1 | pared round
+circumcidaneus | 3 | used only of must: mustum circumcidaneum, the wine pressed out after the ordinary pressing, when the husks left in the press had been cut round
+circumcido | 1 | trim
+circumcido | 3 | to cut round or clip, and first a term of gardening: gemmam scalpello circumcidere, to cut round a bud with a knife
+circumcido | 4 | figuratively to cut down, curtail or abridge
+circumcido | 5 | its participle circumcisus, of ground cut off all round and so steep or sheer: saxum circumcisum, a sheer rock
+circumcido | 6 | of speech, cut short and terse: circumcisae orationes, clipped speeches
+circumcirca | 1 | all around
+circumcirca | 3 | a strengthened form of circum or circa, and a very rare word
+circumcludo | 1 | enclose
+circumcludo | 3 | to shut a thing in on every side: duobus exercitibus circumcludi, to be hemmed in between two armies
+circumcludo | 4 | to set a rim about a thing: cornua argento circumcludere, to mount horns with a silver rim
+circumcludo | 5 | figuratively to hem someone in: consiliis meis circumclusus, cut off by my measures
+circumcurso | 1 | run about
+circumcurso | 3 | to run round or about a thing, a word of the early and the late writers
+circumcurso | 4 | with an accusative: aliquam hinc illinc circumcursare, to run about her this way and that
+circumdo | 1 | surround
+circumdo | 3 | to put a thing round another, with the accusative of what is put and the dative of what it goes round: fossam lecto circumdare, to draw a ditch round a bed
+circumdo | 4 | so also without a dative: custodias circumdare, to post guards round about
+circumdo | 5 | the other way about, with the accusative of what is surrounded and the ablative of what surrounds: portum moenibus circumdare, to ring the harbour with walls
+circumdo | 6 | of a hostile investment: oppidum vallo et fossa circumdare, to invest a town with rampart and ditch
+circumdo | 7 | figuratively to lay something about a person: cancelli quos mihi ipse circumdedi, the bounds I have set about myself
+circumdo | 8 | so also to confine or limit: exiguis finibus circumdare, to hedge a thing within narrow limits
+circumduco | 1 | lead around
+circumduco | 3 | to lead or draw round, and commonest in military use: cohortes longiore itinere circumducere, to march the cohorts round by a longer route
+circumduco | 4 | of things: aratrum circumducere, to draw the plough round, as was done in founding a city
+circumduco | 5 | in everyday speech, to take someone in: aliquem argento circumducere, to swindle a man out of his money
+circumduco | 6 | of speech, to draw a sentence out into a long period
+circumduco | 7 | of delivery, to drawl the words out
+circumduco | 8 | in law, to draw lines round a text and so cancel it
+circumductio | 1 | leading around
+circumductio | 3 | a conducting round: circumductio aquarum, the carrying of water round by channels
+circumductio | 4 | a circumference: circumductio sphaerae, the compass of a sphere
+circumductio | 5 | a cheating: circumductio argenti, a swindle over money
+circumductio | 6 | in rhetoric, the drawing out of a thought into a period
+circumeo | 1 | go around
+circumeo | 3 | to go, travel or march round: aras circuire, to walk round the altars
+circumeo | 4 | to surround or encircle, and above all in war: urbem muro circumire, to ring a city with a wall; multitudine circumiri, to be surrounded by numbers
+circumeo | 5 | to go round from one person to another, canvassing or urging
+circumeo | 6 | figuratively to hem in: belli fluctibus circumiri, to be caught round by the waves of war
+circumeo | 7 | to take someone in, to circumvent: aliquem arte dolosa circumire, to get round a man by a crafty trick
+circumeo | 8 | of speech, to express a thing by going round it, to use a circumlocution
+circumeo | 9 | it also appears in the shorter form circueo
+circumfero | 1 | carry around
+circumfero | 3 | to carry a thing round, and above all at table: circumfer mulsum, pass the honey wine round
+circumfero | 4 | figuratively to spread abroad: bellum circumferre, to carry the war round from place to place
+circumfero | 5 | of news and sayings, to publish them or make them widely known
+circumfero | 6 | in religion, to purify someone by carrying hallowed things round them: pro cerrita circumferri, to be purified as one out of her wits
+circumfero | 7 | in rhetoric of a style drawn out into rounded periods: oratio deducta et circumlata, a style spun out and rounded off
+circumflecto | 1 | bend round
+circumflecto | 3 | to turn about, properly of a charioteer in the circus: longos cursus circumflectere, to wheel round on the long courses
+circumflecto | 4 | figuratively of things that come round on themselves: circumflexa saecula, ages that turn back upon themselves
+circumflecto | 5 | in the later grammarians, to mark a syllable with a circumflex: syllaba circumflexa, a syllable with the circumflex on it
+circumfluo | 1 | flow round
+circumfluo | 3 | to flow round a thing: utrumque latus circumfluit unda, the water flows round both sides
+circumfluo | 4 | of a crowd, to press round: circumfluxit nos multitudo, a crowd came flooding round us
+circumfluo | 5 | to be there in plenty, to overflow: circumfluentibus eloquentiae copiis, with the riches of eloquence flowing round on every side
+circumfluo | 6 | with an ablative, to abound in a thing: circumfluens gloria, overflowing with glory
+circumfluus | 1 | flowing round
+circumfluus | 3 | actively, that flows round: circumfluus umor, water flowing round about
+circumfluus | 4 | more often passively, with water flowing round it: insula circumflua, an island ringed by the sea
+circumfluus | 5 | more generally surrounded or encircled: chlamys limbo circumflua, a cloak edged all round with a border
+circumfodio | 1 | dig around
+circumfodio | 3 | to dig about a thing, a term of farming: arbores circumfodere, to dig round trees
+circumfodio | 4 | circumfosso stipite, with the stem dug round about
+circumforaneus | 1 | strolling
+circumforaneus | 3 | belonging to the forum: aes circumforaneum, debts run up at the forum, where the bankers had their booths
+circumforaneus | 4 | more often, going the round of the markets: pharmacopola circumforaneus, a quack who tramps from market to market
+circumforaneus | 5 | more widely, portable or carried about
+circumfundo | 1 | pour around
+circumfundo | 3 | with the accusative of what is poured: amurcam ad oleam circumfundere, to pour lees round the olive tree
+circumfundo | 4 | with the accusative of what is surrounded: mortuum cera circumfundere, to case a dead body in wax; terram aer circumfundit, the air wraps the earth about
+circumfundo | 5 | of a crowd, in the middle voice, to press round and swarm about: circumfunduntur hostes, the enemy come crowding round
+circumfundo | 6 | to surround or overwhelm: praesidiorum copiis circumfusus, ringed about by the forces of the guard
+circumfundo | 7 | figuratively: undique circumfusae molestiae, troubles crowding in on every side; circumfusae tenebrae, darkness wrapped about one
+circumgredior | 1 | outflank
+circumgredior | 3 | to go or march round, and usually with hostile intent: terga circumgredi, to work round to the rear
+circumgredior | 4 | a word later than Augustus, used several times by Tacitus and rare elsewhere
+circumicio | 1 | throw around
+circumicio | 3 | to cast or set a thing round another: vallum circumicere, to throw up a rampart round
+circumicio | 4 | with an ablative, to encompass a thing with something: extremitatem caeli rotundo ambitu circumicere, to bound the edge of heaven with a round sweep
+circumicio | 5 | its participle circumjectus, lying round about: planities saltibus circumjecta, a plain hemmed in by wooded hills
+circumjaceo | 1 | lie around
+circumjaceo | 3 | to lie round about or border on: populi circumjacentes, the surrounding peoples
+circumjaceo | 4 | with a dative: Lycaonia et Phrygia circumjacent, Lycaonia and Phrygia lie round about
+circumjaceo | 5 | in rhetoric, as a neuter plural circumjacentia, the context
+circumjectus2 | 1 | encircling
+circumjectus2 | 3 | a casting round or an encompassing: tenero circumjectu amplecti, to hold in a soft embrace
+circumjectus2 | 4 | by transfer what is thrown round one, that is clothing
+circumlatro | 1 | bark around
+circumlatro | 3 | to bark round a person or a thing: leonem circumlatrare, to bay round a lion
+circumlatro | 4 | of the sea in late writers, to roar round: totum hoc circumlatrat aestus, the tide roars all round it
+circumlatro | 5 | figuratively to rail at someone: circumlatrantes haeretici, heretics yapping round about
+circumligo | 1 | bind around
+circumligo | 3 | to bind one thing to another: natam mediae circumligat hastae, he binds his daughter to the middle of the spear
+circumligo | 4 | with an ablative, to bind a thing about with something: stirpem salice circumligare, to tie the stem round with willow; ferrum stuppa circumligare, to wrap the iron with tow
+circumlino | 1 | smear around
+circumlino | 3 | to spread something over a thing: circumlita taedis sulfura, brimstone smeared over the torches
+circumlino | 4 | with an ablative, to daub a thing over: oculum pice circumlinere, to smear the eye with pitch
+circumlino | 5 | figuratively of style, to lay colour on: extrinsecus adductis rebus circumlinere, to set a thing off with borrowed colours
+circumlino | 6 | in the poets simply to cover: circumlita saxa musco, rocks coated over with moss
+circumlitio | 1 | smearing over
+circumlitio | 3 | an anointing or spreading over: circumlitio oris, a smearing of the face
+circumlitio | 4 | in painting, the tint given to marble by rubbing it with oil and wax
+circummunio | 1 | wall around
+circummunio | 3 | to build a wall round a place, to fortify or secure it; an old spelling is circummoenio
+circummunio | 4 | common in the historians, and often confused with circumvenire in the manuscripts
+circumnecto | 1 | bind around
+circumnecto | 3 | to wrap or bind round, a late word: flammis circumnexi, wrapped round in flames
+circumnecto | 4 | of the membrane that encloses the belly
+circumplecto | 1 | clasp around
+circumplecto | 3 | an active form standing beside the deponent circumplector: meum collum circumplecte, throw your arms round my neck
+circumplecto | 4 | circumplectito foramina laminis, cover the holes about with plates
+circumplector | 1 | clasp around
+circumplector | 3 | to embrace or encompass a thing: draco patrimonium circumplectitur, the serpent coils about the treasure
+circumplector | 4 | of a plant or creature that winds round: arborem circumplecti, to twine about a tree
+circumplector | 5 | figuratively of a picture that takes hold of the mind
+circumplico | 1 | twine around
+circumplico | 3 | to wind, fold or twist round: anguem vectis circumplicavisset, if a snake had coiled about a bar
+circumplico | 4 | belua circumplicata serpentibus, a beast wreathed about with snakes
+circumplico | 5 | also simply to bend round
+circumretio | 1 | ensnare
+circumretio | 3 | to catch in a net: Martem et Venerem circumretitos esse, that Mars and Venus were caught in the net
+circumretio | 4 | figuratively to trap or hem in: circumretitum frequentia populi Romani, caught fast in the press of the Roman people
+circumrodo | 1 | gnaw around
+circumrodo | 3 | to nibble all round a thing: escam circumrodere, to nibble at the bait
+circumrodo | 4 | figuratively to hang back from saying a thing: dudum circumrodo quod devorandum est, I have long been nibbling at what I must swallow whole
+circumrodo | 5 | also to backbite: dente Theonino circumrodi, to be gnawed at by a Theonine tooth
+circumsaepio | 1 | fence around
+circumsaepio | 3 | to hedge or fence a thing about: loca parietibus circumsepta, places walled about
+circumsaepio | 4 | not found before the Augustan age, and also spelt circumsepio
+circumscribo | 1 | limit
+circumscribo | 3 | literally to draw a line round: orbem circumscribere, to draw a circle; virgula stantem circumscribere, to draw a line round a man where he stands
+circumscribo | 4 | to mark out the bounds of a thing, to define it: nullis terminis circumscribere, to hedge a thing within no limits
+circumscribo | 5 | to hem in and restrain, and above all of one magistrate checking another
+circumscribo | 6 | to cut down or abridge: sex epitomis circumscribere, to boil a work down into six summaries
+circumscribo | 7 | to take someone in, to cheat: adulescentulos circumscribere, to swindle young men
+circumscribo | 8 | in law, to defeat the point of a statute or a will by a forced reading
+circumscribo | 9 | to cancel a thing or set it aside as invalid
+circumscribo | 10 | its participle circumscriptus, either rounded into periods or else restricted: circumscripti verborum ambitus, well-rounded periods
+circumscriptio | 1 | boundary
+circumscriptio | 3 | an encircling, and concretely a circle: ex circumscriptione excedere, to step out of the circle
+circumscriptio | 4 | an outline, contour or compass: terrae circumscriptio, the compass of the earth
+circumscriptio | 5 | in rhetoric a period: verborum circumscriptio, a rounded period
+circumscriptio | 6 | also a summing up in brief
+circumscriptio | 7 | a cheating or defrauding, above all in money matters: circumscriptio adulescentium, the swindling of young men
+circumseco | 1 | cut around
+circumseco | 3 | to cut or pare round: radices vitium circumsecare, to pare the roots of the vines; ungulas circumsecare, to trim the hooves
+circumseco | 4 | also to circumcise, of the Jews, though circumcido is the usual word for it
+circumsedeo | 1 | besiege
+circumsedeo | 3 | to sit round a person or thing: florentes amicorum turba circumsedet, a crowd of friends sits round the prosperous man
+circumsedeo | 4 | above all to encamp round a place in war, to blockade it: qui Mutinam circumsedent, those who are investing Mutina
+circumsedeo | 5 | figuratively to beset: circumsessus muliebribus blanditiis, beset by women's coaxing
+circumsisto | 1 | close in
+circumsisto | 3 | to take one's stand round a person or thing: quid me circumsistitis, why do you crowd round me
+circumsisto | 4 | absolutely: sex lictores circumsistunt, six lictors close in about him
+circumsono | 1 | resound around
+circumsono | 3 | intransitively, to ring on every side: locus qui circumsonat ululatibus, a place that echoes with howling
+circumsono | 4 | transitively, to fill a thing with sound: aures vocibus circumsonare, to din a man's ears from every quarter
+circumsono | 5 | in the passive: Geticis circumsonor armis, I am ringed about by the din of Getic arms
+circumspectio | 1 | circumspection
+circumspectio | 3 | literally a looking about on every side
+circumspectio | 4 | figuratively foresight and caution: circumspectio et accurata consideratio, wariness and careful thought
+circumspecto | 1 | look around
+circumspecto | 3 | the frequentative of circumspicio, to keep casting one's eyes about: in pastu circumspectare, to look about while feeding
+circumspecto | 4 | with an accusative, to look round at a thing or search for it: ora principum circumspectare, to scan the faces of the leading men
+circumspecto | 5 | figuratively to be on the watch for: defectionis tempus circumspectare, to be on the look-out for a moment to revolt
+circumspectus2 | 1 | survey
+circumspectus2 | 3 | a careful looking about: cervix flexilis ad circumspectum, a neck that turns easily for looking round
+circumspectus2 | 4 | figuratively consideration: ab circumspectu rerum aliarum distinere, to keep him from taking stock of anything else
+circumspectus2 | 5 | a view round about: facilis est circumspectus, one can see all round easily
+circumspicio | 1 | look around
+circumspicio | 3 | to cast one's eyes about: circumspice numquis est, look round and see whether anyone is there
+circumspicio | 4 | with se, to look about one: circumspice te ne quis adsit arbiter, look about you in case there is a witness
+circumspicio | 5 | figuratively to be wary and take heed: circumspiciendum diligenter est, one must look carefully about one
+circumspicio | 6 | transitively, to survey a thing on all sides: sua quisque circumspiceret, that each man should look over his own belongings
+circumspicio | 7 | to catch sight of by looking round: saxum circumspicit ingens, he spies a huge stone
+circumspicio | 8 | to turn a thing over in the mind: consilia animo circumspicere, to weigh plans in one's mind
+circumspicio | 9 | to look about for something one wants: externa auxilia circumspicere, to cast about for help from outside
+circumspicio | 10 | its participle circumspectus, either well weighed, of things, or wary, of a person: verba non circumspecta, ill-considered words
+circumstantia | 1 | standing round
+circumstantia | 3 | a surrounding, a rare word later than Augustus: circumstantia hostium, the enemy standing round about
+circumstantia | 4 | of air or water pressing round a thing, rendering the Greek antiperistasis
+circumsto | 1 | stand around
+circumsto | 3 | to take one's stand round a person or thing: senatum circumstare, to stand round the senate
+circumsto | 4 | as a noun, circumstantes, the bystanders
+circumsto | 5 | in a hostile sense, to beset or besiege: tribunal praetoris circumstare, to besiege the praetor's tribunal
+circumsto | 6 | figuratively of what hems a man in: omnia nos undique fata circumstent, when all fates hem us in on every side
+circumsto | 7 | its perfect forms are the same as those of circumsisto, so that a form is sometimes hard to assign
+circumstrepo | 1 | din around
+circumstrepo | 3 | to make a noise round about, a word later than Augustus: clamore seditiosorum circumstrepitur, he is shouted down by the din of the mutineers
+circumstrepo | 4 | to shout clamorously round: ceteri circumstrepunt, the rest clamour about him
+circumstrepo | 5 | figuratively: humanam vitam circumstrepentibus minis, with threats clamouring round a man's life
+circumstruo | 1 | build around
+circumstruo | 3 | to build up round a thing, later than Augustus and mostly in the passive participle: ripis lapide circumstructis, with the banks walled up in stone
+circumstruo | 4 | circumstructo lacu, with a basin built round about
+circumtono | 1 | thunder around
+circumtono | 3 | to thunder or clang round about, a poetic word: aulam strepitu circumtonare, to fill the hall with din
+circumtono | 4 | figuratively: hunc circumtonuit Bellona, Bellona thundered about him
+circumvado | 1 | beset
+circumvado | 3 | to attack on every side, and not found before Augustus: naves circumvadere, to fall on the ships from all sides
+circumvado | 4 | of fear falling upon people: novus terror aciem circumvasit, a fresh panic swept round the line
+circumvallo | 1 | blockade
+circumvallo | 3 | to surround with a rampart, and in the army to invest a place: circumvallare loci natura prohibebat, the lie of the ground kept them from investing it
+circumvallo | 4 | more generally to surround: insula profundo circumvallata, an island walled round by the deep
+circumvallo | 5 | figuratively to beset: tot res repente circumvallant, so many things beleaguer me all at once
+circumvecto | 1 | carry around
+circumvecto | 3 | to carry a thing round: Penates circumvectare, to bear the household gods about
+circumvecto | 4 | in the middle voice, to ride or sail round: oram circumvectari, to coast along the shore
+circumvecto | 5 | in the poets of discourse, to go over point by point: singula circumvectamur, we range over one thing after another
+circumvehor | 1 | ride around
+circumvehor | 3 | to travel round by carriage, on horseback or by sea: mare circumvehi, to sail round the sea
+circumvehor | 4 | figuratively of speech, to go all round a thing: frustra circumvehor omnia verbis, in vain I go round it all in words
+circumvenio | 1 | surround
+circumvenio | 2 | cheat
+circumvenio | 3 | to be all round a thing and encircle it: flamma circumventi, ringed about by fire
+circumvenio | 4 | in war, to surround and cut off: nostros latere aperto aggressi circumvenere, they attacked our men on the open flank and surrounded them
+circumvenio | 5 | figuratively to beset or overwhelm: circumventus morbo exilio atque inopia, beset by sickness, exile and want
+circumvenio | 6 | multa senem circumveniunt incommoda, many troubles close in upon an old man
+circumvenio | 7 | to get round someone, to cheat or defraud: circumventum esse innocentem pecunia, that an innocent man was undone by money; fenore circumventa plebs, the commons cheated by usury
+circumverto | 1 | turn round
+circumverto | 3 | to turn a thing about, a rare word not found in Cicero: citius quam rotula circumvortitur, quicker than a little wheel goes round
+circumverto | 4 | rota circumvertitur axem, the wheel turns about its axle
+circumverto | 5 | it is also spelt circumvorto
+circumvestio | 1 | clothe around
+circumvestio | 3 | to cover a thing all over, a very rare word: arborem circumvestire, to wrap a tree about
+circumvestio | 4 | in the poets of a man who hides his meaning: se circumvestire dictis, to muffle oneself up in words
+circumvolito | 1 | flit around
+circumvolito | 3 | to fly round a thing, and mostly a word later than Augustus: lacus circumvolitavit hirundo, the swallow flitted round the pools
+circumvolito | 4 | of men, to hover or hang about a place: limina potentiorum circumvolitare, to haunt the doors of the great
+circumvolo | 1 | fly around
+circumvolo | 3 | to fly round a thing, and not found before Augustus: praedam circumvolat, it wheels about its prey
+circumvolo | 4 | figuratively: mors atris circumvolat alis, death hovers round on black wings
+circumvolo | 5 | more generally to hurry round: ordines exercitus circumvolare, to dash along the ranks of the army
+circumvolvo | 1 | roll around
+circumvolvo | 3 | used only with se or in the middle voice, to roll or wind oneself round: magnum sol circumvolvitur annum, the sun rolls round through the great year
+circumvolvo | 4 | probably no older than Augustus
+circus | 1 | circus
+circus | 3 | a circle, chiefly in astronomy, where circulus is the commoner word: circus lacteus, the Milky Way
+circus | 4 | the Circus Maximus at Rome, built by Tarquinius Priscus between the Palatine and the Aventine, and holding more than a hundred thousand people
+circus | 5 | ludi Circenses, the games held there, also called ludi magni
+circus | 6 | any racecourse
+circus | 7 | by transfer, the crowd watching in the circus
+cirrus | 1 | curl
+cirrus | 3 | a natural lock or ringlet of hair, mostly in the plural, and also the forelock of a horse
+cirrus | 4 | a tuft or crest of feathers on a bird
+cirrus | 5 | the arms of a polyp, and the thread-like tendrils of plants
+cirrus | 6 | a fringe on a tunic
+# review: cis a preposition meaning 'on this side of'; English has no single word for it, and cis- survives only as a prefix
+cis | 1 | on this side
+cis | 3 | a preposition with the accusative, set against uls, ultra and trans, and much rarer than citra: cis Tiberim, on this side of the Tiber
+cis | 4 | Gallia cis Rhenum, the Gaul on this side of the Rhine
+cis | 5 | of time, within: cis dies paucos, within a few days
+citer | 1 | nearer
+citer | 3 | on this side, and commonest in the comparative citerior: citerior provincia, the nearer province, that is Cisalpine Gaul
+citer | 4 | its superlative citimus, nearest: citima terris, nearest to the earth
+citer | 5 | figuratively of what lies nearer to hand: haec citeriora, these matters closer home
+citer | 6 | of time earlier or sooner, and of degree less
+citer | 7 | from it comes citra, on this side, used both as adverb and as preposition: citra Rhenum, this side of the Rhine
+cito2 | 1 | summon
+cito2 | 3 | the frequentative of cieo: to set a thing moving fast, to shake or hurl: citat hastam, he hurls the spear
+cito2 | 4 | of plants, to shoot out: radices citare, to throw out roots
+cito2 | 5 | to call or summon a person: patres in curiam citare, to summon the senators into the house
+cito2 | 6 | in law, to call the parties and see who is present: citat reum, non respondet, he calls the defendant, and there is no answer
+cito2 | 7 | to call someone to witness, and so to cite or quote an authority: testes citare, to call witnesses
+cito2 | 8 | more generally, to name or proclaim
+cito2 | 9 | its participle citatus, at speed: citato equo, at full gallop; citato gradu, at a quick march
+cito2 | 10 | figuratively of style, rapid and vehement: argumenta acria et citata, sharp swift arguments
+citreus | 1 | of citrus
+citreus | 3 | belonging to the citrus tree: mensa citrea, a table of citrus wood, which the Romans prized highly
+citreus | 4 | as a feminine noun citrea, the citrus tree itself
+citreus | 5 | also of the citron tree, and as a neuter noun citreum, the citron
+civicus | 1 | civic
+civicus | 3 | belonging to citizens, rarer than civilis and mostly poetic: civica jura, the rights of citizens; civici motus, civil disturbances
+civicus | 4 | corona civica, the civic crown of oak leaves, given for saving a citizen's life and the highest honour but one
+civicus | 5 | also belonging to a town: intra muros civicos, within the city walls
+civilis1 | 1 | civil
+civilis1 | 3 | belonging to citizens: bellum civile, civil war; sanguis civilis, the blood of fellow citizens
+civilis1 | 4 | jus civile, the law that secures a citizen's standing and property, and so the Civil Law of Rome
+civilis1 | 5 | in a narrower sense, the rules of legal procedure
+civilis1 | 6 | of public and political life: civilis scientia, political science; civilium rerum peritus, versed in affairs of state
+civilis1 | 7 | civil as against military: civilia munera, the duties of peace
+civilis1 | 8 | of a great man who bears himself as one citizen among others, courteous and affable
+civilis1 | 9 | as an adverb civiliter, either as a citizen should, or in law civilly as against criminally
+civilitas | 1 | courtesy
+civilitas | 3 | politeness and affability, a word later than Augustus and rare
+civilitas | 4 | in Quintilian only, the art of government or politics, rendering the Greek politike
+civis | 1 | citizen
+civis | 3 | a citizen of a state, and above all a Roman one: civis Romanus, a Roman citizen
+civis | 4 | in the feminine of a woman: civis femina, a woman of citizen birth; civis virgo, a free-born girl
+civis | 5 | a fellow citizen, and often with a possessive: civis meus, my own countryman
+civis | 6 | a subject: rex civibus suis, a king over his own subjects
+civis | 7 | figuratively: civis totius mundi, a citizen of the whole world
+civitas | 1 | citizenship
+civitas | 2 | state
+civitas | 3 | the standing and privileges of a citizen: civitatem dare, to grant the franchise; civitate donare, to make someone a citizen
+civitas | 4 | figuratively of a word taken into the language: verbum civitate donatum, a word given the freedom of the city, that is naturalised
+civitas | 5 | the citizens taken together as a body, the commonwealth, where urbs is the place they live in
+civitas | 6 | figuratively: universus mundus una civitas deorum atque hominum, the whole world as one commonwealth of gods and men
+civitas | 7 | in later writers simply a city, though not in Cicero or Caesar
+civitas | 8 | in Tacitus, the City, that is Rome and its people
+clabulare | 1 | transport wagon
+clabulare | 3 | a large open wagon, probably with wicker sides, used for carrying soldiers
+clabulare | 4 | its adjectives are clabularis and clabularius
+clades | 1 | disaster
+clades | 3 | at bottom a breaking or shattering, and so any ruin, loss or harm
+clades | 4 | above all a defeat in war: cladem facere, to inflict a slaughter; magna clade castigare, to punish someone with a heavy defeat
+clades | 5 | of a plague: erumpit clades, the pestilence breaks out
+clades | 6 | of the loss of a limb: a clade dextrae manus, from the loss of his right hand, which gave Scaevola his name
+clades | 7 | of a person who brings ruin, a scourge: cladem Libyae, the scourge of Africa, said of the Scipios
+clades | 8 | of moral corruption: hoc fonte derivata clades, the ruin that flowed from this spring
+clam | 1 | secretly
+clam | 3 | as an adverb, in secret, the opposite of palam: clam palamque, in secret and openly
+clam | 4 | in the predicate after esse, hidden or unknown: nil clam est, there is nothing hidden about it
+clam | 5 | as a preposition with the accusative, without the knowledge of: clam patrem, behind his father's back
+clam | 6 | more rarely with the ablative
+clam | 7 | clam me est, it is unknown to me, a turn found in Plautus and Terence
+clam | 8 | clam habere aliquem, to keep a thing from someone
+clamator | 1 | bawler
+clamator | 3 | a noisy declaimer, said in scorn of a speaker: quem clamatorem, quem oratorem fuisse, which of them I count a bawler and which an orator
+clamito | 1 | bawl out
+clamito | 3 | the frequentative of clamo, to keep crying out or shouting: quid clamitas, what are you bawling about
+clamito | 4 | with a direct quotation, with an accusative and infinitive, or with a subjunctive clause
+clamito | 5 | with a person as object, to call out to someone or to call them something: clamitant me ut revortar, they shout to me to come back
+clamito | 6 | figuratively of things, to proclaim or betray: clamitare calliditatem, to shout a man's cunning aloud
+clamo | 1 | shout
+clamo | 3 | to call out or cry aloud, and of people above all: clamare de via, to shout from the street
+clamo | 4 | of animals and of things: anseres clamant, the geese cry out; so of a cricket's chirp and of roaring water
+clamo | 5 | with an accusative of the person called: janitorem clamare, to call the doorkeeper; morientem nomine clamare, to call the dying man by name
+clamo | 6 | with a clause, in direct speech or more often in indirect: clamant omnes indignissime factum esse, they all cry out that it was a shameful thing
+clamo | 7 | with a final clause: clamare coeperunt sibi ut haberet hereditatem, they began to shout that he should keep the inheritance himself
+clamo | 8 | figuratively of things, to proclaim or declare: eum clamat virtus beatiorem fuisse, his own virtue cries out that he was the happier man
+clamor | 1 | shout
+clamor | 3 | a loud cry: clamorem tollere, to raise a shout; clamorem facere, to make an outcry
+clamor | 4 | a friendly shout, applause: clamor secundus, a shout of approval
+clamor | 5 | a hostile shout: clamoribus maximis corripere, to shout someone down
+clamor | 6 | in the poets of the cries of animals: clamor gruum, the clangour of cranes; clamor apum, the hum of bees
+clamor | 7 | of things, a noise or din: scopuli clamorem dedere, the rocks gave back a roar
+clamosus | 1 | noisy
+clamosus | 3 | actively, for ever bawling: clamosus altercator, a shouting wrangler; clamosus magister, a bawling schoolmaster
+clamosus | 4 | passively, full of noise: clamosa urbs, a noisy city; clamosus circus, the roaring circus
+clamosus | 5 | of what is done with noise: clamosa actio, a delivery full of shouting
+clamosus | 6 | mostly a word later than Augustus
+clanculum | 1 | secretly
+clanculum | 3 | a diminutive of clam, on the quiet, and common in the early writers: clanculum abire, to slip away unnoticed
+clanculum | 4 | also a preposition with the accusative: clanculum patres, without the fathers knowing
+clandestinus | 1 | secret
+clandestinus | 3 | hidden or done in secret: clandestinae nuptiae, a secret marriage; clandestino scelere, by a hidden crime
+clandestinus | 4 | of unseen motions in nature: clandestini motus materiai, the secret movements of matter
+clango | 1 | clang
+clango | 3 | to sound or resound, a rare word of the early and the late poets: horrida clangunt signa tubae, the trumpets blare their grim signals
+clangor | 1 | clang
+clangor | 3 | of wind instruments: clangor tubarum, the blare of trumpets
+clangor | 4 | of birds, their cry or the beat of their wings: magno clangore volitare, to fly about with a great clamour
+clangor | 5 | of dogs, their baying
+clareo | 1 | be bright
+clareo | 3 | to shine or be clear, a poetic word: hoc lumen candidum claret mihi, this bright light shines for me
+clareo | 4 | figuratively to be plain or evident: quod in primo carmine claret, which is clear in the first book too
+clareo | 5 | of a person, to be distinguished: gloria claret, his fame shines out
+claresco | 1 | grow bright
+claresco | 3 | the inchoative to clareo, to begin to shine: clarescit dies, the day breaks; tecta luminibus clarescunt, the roofs light up
+claresco | 4 | of sound, to grow audible: clarescunt sonitus armorum, the clash of arms grows louder
+claresco | 5 | figuratively to become plain: alid ex alio clarescet, one thing will be made clear by another
+claresco | 6 | of a person, to grow famous: quoquo facinore clarescere, to make a name by any deed whatever
+# review: clarigatio the fetial ceremony of formally demanding redress before war; English has no name for it
+clarigatio | 1 | demand for redress
+clarigatio | 3 | the solemn demand the fetial priest made on an enemy, war following if satisfaction was not given within thirty-three days
+clarigatio | 4 | more widely a fine or ransom exacted from a man caught beyond a set boundary
+clarigo | 1 | demand redress
+clarigo | 3 | a term of the fetial priests, to declare war on an enemy with the proper religious forms
+claritas1 | 1 | brightness
+claritas1 | 2 | renown
+claritas1 | 3 | brightness or splendour to the eye: sidus tantae claritatis, a star of such brilliance
+claritas1 | 4 | to the ear, clearness of sound: claritas in voce, clearness in the voice
+claritas1 | 5 | of thought or style, plainness: claritas orationis, lucidity of expression
+claritas1 | 6 | of a man's standing, fame and high repute, which is the commonest sense; Cicero uses claritas and never claritudo
+claritudo | 1 | renown
+claritudo | 3 | a form standing beside claritas, and very rare in the literal sense: claritudo lunae, the brightness of the moon
+claritudo | 4 | usually fame or repute: artes quibus summa claritudo paratur, the accomplishments that win the highest fame
+claritudo | 5 | Sallust uses only claritudo and Tacitus favours it, while Cicero, Caesar, Quintilian and Suetonius avoid it
+claro | 1 | make bright
+claro | 3 | to light up or illuminate, a rare poetic word: iter longae clarat limite flammae, it lights the way with a long trail of fire
+claro | 4 | also to make a thing show or stand out
+clarus | 1 | clear
+clarus | 2 | famous
+clarus | 3 | to the eye, bright or shining: clara lux, broad daylight; clarus argento, gleaming with silver
+clarus | 4 | in the poets of the wind, that brings fair weather: clarus aquilo, the clearing north wind
+clarus | 5 | to the ear, loud and distinct: clara voce, in a loud voice
+clarus | 6 | figuratively plain and evident: certa et clara, sure and clear
+clarus | 7 | of a person, distinguished or renowned, with an ablative, or with in, ex or ob: clarus arte medicinae, famous for his skill in medicine
+clarus | 8 | as a title, clarissimus vir, a most distinguished gentleman, used of senators, and clarissima femina of their wives
+clarus | 9 | in a bad sense, notorious
+clarus | 10 | as an adverb clare, brightly, loudly or plainly: clare recitare, to read out aloud
+classiarius | 1 | marine
+classiarius | 3 | belonging to the navy: centurio classiarius, the captain of a ship
+classiarius | 4 | more often a noun in the plural, classiarii, the marines or naval troops
+classicus | 1 | naval
+classicus | 3 | belonging to a class of the Roman people, and so of the highest class: classicus scriptor, an author of the first rank, from which the English classic descends
+classicus | 4 | as a masculine noun, the man who summoned the classes to the assembly
+classicus | 5 | belonging to the fleet: classica bella, wars at sea
+classicus | 6 | as a neuter noun classicum, the trumpet signal in the field: classicum canere, to sound the call
+classicus | 7 | so also the war trumpet itself: inflari classica, for the trumpets to be blown
+classicus | 8 | as a masculine plural noun classici, marines, and also seamen
+classis | 1 | fleet
+classis | 2 | class
+classis | 3 | one of the classes Servius Tullius divided the Roman people into by property: prima classis, the first class
+classis | 4 | figuratively of rank: quintae classis videntur, they look to be of the lowest class
+classis | 5 | in early usage the whole body of citizens called to arms, an army: classis procincta, the host under arms
+classis | 6 | usually a fleet, taking in the troops aboard: nomina in classem dare, to enlist for the fleet
+classis | 7 | after Augustus, any division or group: pueros in classes distribuere, to sort the boys into forms
+claudeo | 1 | be lame
+claudeo | 3 | to limp or halt, the parent form of the commoner claudico, and used mostly in a figurative sense
+claudeo | 4 | of things, to be defective: consilium claudeat, the plan is unsound
+claudico | 1 | limp
+claudico | 3 | to halt or be lame: graviter claudicare ex vulnere, to limp badly from a wound
+claudico | 4 | in Lucretius of other unsteady motions, of a bird's crippled wing or of a wavering balance
+claudico | 5 | figuratively to be defective or incomplete: tota res vacillat et claudicat, the whole thing totters and limps
+claudo1 | 1 | shut
+claudo1 | 3 | to close what is open, the opposite of aperire: fores claudere, to shut the doors; portus claudere, to close the harbour
+claudo1 | 4 | it also appears as cludo, and always so in the compounds: Janum ter clusit, three times he closed the temple of Janus
+claudo1 | 5 | figuratively to close a thing against someone: domus clausa cupiditati, a house shut against greed
+claudo1 | 6 | to bring to an end: opus claudere, to finish a work; epistulam claudere, to close a letter
+claudo1 | 7 | in the army, agmen claudere, to bring up the rear
+claudo1 | 8 | with an ablative, to shut a thing in or surround it: terra marique claudi, to be hemmed in by land and sea; stabulis armenta claudere, to pen the cattle in their stalls
+claudo1 | 9 | of rhythm, to round a sentence off: numeris sententias claudere, to close one's periods in measure
+claudus | 1 | lame
+claudus | 3 | limping or halting: claudus altero pede, lame in one foot
+claudus | 4 | proverbially: claudus pilam, a lame man with a ball, said of one who cannot make right use of a thing
+claudus | 5 | figuratively crippled or defective: claudae mutilataeque naves, ships crippled and cut about
+claudus | 6 | of verse: clauda carmina alterno versu, halting songs, that is elegiacs, whose second line is the shorter
+claudus | 7 | wavering and not to be relied on: clauda fides, faith that limps
+claustra | 1 | bolt
+claustra | 3 | whatever closes a thing, a lock, bar or bolt: claustra revellere, to tear the bolts away; claustra laxare, to loosen them
+claustra | 4 | figuratively a bar or barrier: claustra naturae effringere, to break open the secrets of nature
+claustra | 5 | a door or gate, a dam, and by transfer the place that is shut in
+claustra | 6 | in the army a barrier or bulwark, and so the key to a position: claustra loci, the key of the ground
+claustra | 7 | figuratively: claustra nobilitatis refringere, to break down the barriers the nobility had set up
+claustra | 8 | it is usually plural, though a singular claustrum is found
+clausula1 | 1 | ending
+clausula1 | 3 | the close or conclusion of anything: bonam clausulam imponere, to put a good ending to it
+clausula1 | 4 | in rhetoric the cadence that closes a period, set against the initium
+clausula1 | 5 | in law the closing words of a formula, and so any clause of a statute
+clava | 1 | club
+clava | 3 | a knotty stick or cudgel: sternentes agmina clava, laying whole ranks low with the club
+clava | 4 | in farming, a graft or scion
+clavicula | 1 | tendril
+clavicula | 3 | the tendril by which a vine clings to its prop, the sense Cicero uses
+clavicula | 4 | literally a small key, the diminutive of clavis
+clavicula | 5 | also a bar or bolt of a door
+clavis | 1 | key
+clavis | 3 | a key
+clavis | 4 | clavis trochi, the key-shaped stick used to whip a top along
+clavis | 5 | clavis torculari, the lever or bar of a press
+clavo | 1 | nail
+clavo | 3 | to fasten with nails, a rare word no older than Augustus and mostly in the participle: clavata concha, a shell set with points
+clavo | 4 | to trim with a purple stripe: clavata auro tunica, a tunic striped with gold
+clavus | 1 | nail
+clavus | 3 | a nail, usually of metal: clavi ferrei, iron nails
+clavus | 4 | as an emblem of what cannot be shifted: clavos trabales gestans, carrying the great spikes, said of Necessity
+clavus | 5 | figuratively: ex hoc die clavum anni movebis, from this day you will reckon the year's beginning
+clavus | 6 | the tiller, and so the helm of a ship: clavum tenere, to hold the helm
+clavus | 7 | figuratively of governing: clavum tanti imperii tenere, to hold the helm of so great an empire
+clavus | 8 | in medicine a wart, or a corn on the foot
+clavus | 9 | the purple stripe on the tunic, broad for senators and narrow for the knights: latus clavus, the broad stripe
+clavus | 10 | in the poets simply a tunic: clavum mutare, to change one's tunic
+clemens1 | 1 | mild
+clemens1 | 3 | of air, wind or weather, calm and soft: clemens flamen, a gentle breeze
+clemens1 | 4 | of sea and rivers, running quietly: clementior alveus, a gentler channel
+clemens1 | 5 | of ground, sloping gently rather than steeply
+clemens1 | 6 | of a person's temper, quiet and unruffled
+clemens1 | 7 | of animals, tame: clementius genus columbarum, the tamer sort of pigeons
+clemens1 | 8 | above all forbearing towards other people's faults, merciful, the opposite of crudelis
+clementia | 1 | clemency
+clementia | 3 | calmness of the elements: clementia ventorum, the stillness of the winds
+clementia | 4 | the classical sense, forbearance towards other men's faults, mercy and moderation
+clementia | 5 | kindness or sympathy: violare clementiam, to do violence to compassion
+clementia | 6 | Clementia as a goddess, the personified spirit of mercy
+clementia | 7 | as a title of the emperor: Clementia tua, Your Grace
+clepo | 1 | steal
+clepo | 3 | to steal, a rare and mostly early word where furor is the usual one: si quis clepsit, if anyone has stolen it, from an old legal form
+clepo | 4 | figuratively to take secretly: sermonem clepere, to listen in on a conversation
+clepo | 5 | se clepere, to steal away or hide oneself
+clepsydra | 1 | water-clock
+clepsydra | 3 | a clock worked by dripping water, answering to our hourglass
+clepsydra | 4 | speakers used one to time their speeches, so that the word stands for the time allowed
+cliens | 1 | client
+cliens | 3 | a client, retainer or follower, the dependant of a Roman patron
+cliens | 4 | of whole peoples, the allies or vassals of a stronger nation
+cliens | 5 | a companion or a favourite
+cliens | 6 | figuratively one under a god's protection: cliens Bacchi, a client of Bacchus
+cliens | 7 | its genitive plural is usually clientium, though clientum is found
+clientela | 1 | clientship
+clientela | 3 | the bond between patron and client, with duties running both ways
+clientela | 4 | mostly plural and concrete, a man's clients or dependants: amplissimas clientelas confirmare, to make good the great following one has inherited
+clientela | 5 | more widely alliance or dependence between states
+clientela | 6 | figuratively protection: sub clientela musarum esse, to be under the patronage of the Muses
+clima | 1 | climate
+clima | 3 | a clime or region, a word of late Latin taken from the Greek
+clima | 4 | more widely a part or quarter of anything
+clima | 5 | also a land measure of sixty feet square
+clipeo | 1 | shield
+clipeo | 3 | to arm or cover with a shield, a rare word: clamide contorta clupeat bracchium, he shields his arm with his cloak wrapped round it
+clipeus | 1 | shield
+clipeus | 3 | the round bronze shield of the Roman soldier, where the scutum was oval and made of wood covered with hide
+clipeus | 4 | figuratively a shield or protection
+clipeus | 5 | of round things: the vault of heaven, the disc of the sun, or a round meteor
+clipeus | 6 | a bust of a god or a famous man set on a round shield-shaped ground, often dedicated in temples
+clipeus | 7 | it appears as a masculine clipeus and as a neuter clipeum
+clitellae | 1 | pack-saddle
+clitellae | 3 | the saddle put on beasts of burden, and above all on asses
+clitellae | 4 | proverbially: bovi clitellas imponere, to put a pack-saddle on an ox, of work given to the wrong creature
+clitellae | 5 | also a place in Rome named from its shape, and a kind of instrument of torture
+clivosus | 1 | hilly
+clivosus | 3 | full of slopes or steep, a poetic word and one of later prose: clivosum rus, hilly country; clivosus trames, a steep path
+clivosus | 4 | figuratively of what is hard going: clivosus trames vitae, the steep road of life
+clivus | 1 | slope
+clivus | 3 | a gently rising height, a slope or a road that climbs: molli clivo, by a gentle rise
+cloaca | 1 | sewer
+cloaca | 3 | the great drain at Rome, built by Tarquinius Priscus to carry the filth of the streets into the Tiber, and so any sewer
+cloaca | 4 | in jest, of a drunken woman's stomach
+cloaca | 5 | proverbially: arcem facere e cloaca, to make a citadel out of a sewer, that is much ado about nothing
+clueo | 1 | be called
+clueo | 3 | to hear oneself named in some way, and so to be spoken of or reputed, the same as dici
+clueo | 4 | an old word, also found in the form cluo
+clunis | 1 | buttock
+clunis | 3 | the haunch or buttock, of people and of animals, and mostly in the plural
+clunis | 4 | it is found as both masculine and feminine
+coacervo | 1 | heap up
+coacervo | 3 | to pile together or gather in a mass: pecuniae coacervantur, money is piled up
+coacervo | 4 | figuratively: argumenta coacervare, to heap up arguments; luctus coacervare, to pile grief on grief
+coacesco | 1 | turn sour
+coacesco | 3 | to grow acid: non omne vinum vetustate coacescit, not every wine turns sour with age
+coacesco | 4 | of food in the stomach, to go sour
+coacesco | 5 | figuratively of a people, to grow corrupt: tot transfusionibus coacuisse, to have gone sour through so many minglings
+coactor | 1 | collector
+coactor | 3 | a man who gathers in money, whether from auctions or from revenues
+coactor | 4 | coactores agminis, the troops bringing up the rear
+coactor | 5 | also a fuller
+coactor | 6 | figuratively one who forces a thing on: adjutor et coactor, a helper and, one might say, a driver
+coactus2 | 1 | compulsion
+coactus2 | 3 | a forcing or constraint, found only in the ablative singular: coactu meo, under compulsion from me; coactu civitatis, under pressure from the state
+coaddo | 1 | add also
+coaddo | 3 | to add one thing along with another, a very rare word
+coadunatio | 1 | uniting
+coadunatio | 3 | a bringing together into one, and so a summing up: coadunatio totius calculi, the adding up of the whole account
+coaedifico | 1 | build over
+coaedifico | 3 | to build upon a piece of ground, found only in Cicero: Campum Martium coaedificare, to build over the Campus Martius
+coaedifico | 4 | loci coaedificati an vasti, ground built on or ground left empty
+coaequo | 1 | level
+coaequo | 3 | to make one thing even with another: aream coaequare, to level a threshing floor; montes coaequare, to level the hills
+coaequo | 4 | figuratively, to put things on the same footing
+coagmento | 1 | join together
+coagmento | 3 | to glue, cement or fit one thing to another: opus quae coagmentavit natura dissolvit, nature unmakes the work she herself put together
+coagmento | 4 | figuratively of words: verba compone et quasi coagmenta, arrange your words and cement them, as it were, in place
+coagmentum | 1 | joint
+coagmentum | 3 | a joining together, and concretely a joint, mostly in the plural
+coagmentum | 4 | figuratively a fitting together: coagmentum syllabarum, the joining of syllables
+coagulum | 1 | rennet
+coagulum | 3 | anything used to curdle milk, and so the curdled milk in a suckling's stomach, or the stomach itself
+coagulum | 4 | figuratively a bond or tie: coagulum animi atque amoris, the bond of heart and affection
+coalesco | 1 | grow together
+coalesco | 3 | to unite or knit into one: saxa sola colescere calce, stones that hold together by lime alone
+coalesco | 4 | of a graft, to take: ne prius exarescat surculus quam colescat, that the shoot may not dry up before it knits
+coalesco | 5 | figuratively of people, to come together and agree: Trojani et Aborigines facile coaluerunt, Trojans and natives easily grew into one people
+coalesco | 6 | to take root and grow strong: grandis ilex coaluerat inter saxa, a great oak had sprung up among the rocks
+coalesco | 7 | figuratively to become established: dum auctoritas nondum coaluisset, while his standing had not yet taken hold
