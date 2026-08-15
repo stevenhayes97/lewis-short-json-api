@@ -1776,3 +1776,40 @@ circumspicio | 10 | its participle circumspectus, either well weighed, of things
 circumstantia | 1 | standing round
 circumstantia | 3 | a surrounding, a rare word later than Augustus: circumstantia hostium, the enemy standing round about
 circumstantia | 4 | of air or water pressing round a thing, rendering the Greek antiperistasis
+circumsto | 1 | stand around
+circumsto | 3 | to take one's stand round a person or thing: senatum circumstare, to stand round the senate
+circumsto | 4 | as a noun, circumstantes, the bystanders
+circumsto | 5 | in a hostile sense, to beset or besiege: tribunal praetoris circumstare, to besiege the praetor's tribunal
+circumsto | 6 | figuratively of what hems a man in: omnia nos undique fata circumstent, when all fates hem us in on every side
+circumsto | 7 | its perfect forms are the same as those of circumsisto, so that a form is sometimes hard to assign
+circumstrepo | 1 | din around
+circumstrepo | 3 | to make a noise round about, a word later than Augustus: clamore seditiosorum circumstrepitur, he is shouted down by the din of the mutineers
+circumstrepo | 4 | to shout clamorously round: ceteri circumstrepunt, the rest clamour about him
+circumstrepo | 5 | figuratively: minae humanam vitam circumstrepentes, the threats that clamour round a man's life
+circumstruo | 1 | build around
+circumstruo | 3 | to build up round a thing, later than Augustus and mostly in the passive participle: ripis lapide circumstructis, with the banks walled up in stone
+circumstruo | 4 | circumstructo lacu, with a basin built round about
+circumtono | 1 | thunder around
+circumtono | 3 | to thunder or clang round about, a poetic word: aulam strepitu circumtonare, to fill the hall with din
+circumtono | 4 | figuratively: hunc circumtonuit Bellona, Bellona thundered about him
+circumvado | 1 | beset
+circumvado | 3 | to attack on every side, and not found before Augustus: naves circumvadere, to fall on the ships from all sides
+circumvado | 4 | of fear falling upon people: novus terror aciem circumvasit, a fresh panic swept round the line
+circumvallo | 1 | blockade
+circumvallo | 3 | to surround with a rampart, and in the army to invest a place: circumvallare loci natura prohibebat, the lie of the ground kept them from investing it
+circumvallo | 4 | more generally to surround: insula profundo circumvallata, an island walled round by the deep
+circumvallo | 5 | figuratively to beset: tot res repente circumvallant, so many things beleaguer me all at once
+circumvecto | 1 | carry around
+circumvecto | 3 | to carry a thing round: Penates circumvectare, to bear the household gods about
+circumvecto | 4 | in the middle voice, to ride or sail round: oram circumvectari, to coast along the shore
+circumvecto | 5 | in the poets of discourse, to go over point by point: singula circumvectamur, we range over one thing after another
+circumvehor | 1 | ride around
+circumvehor | 3 | to travel round by carriage, on horseback or by sea: mare circumvehi, to sail round the sea
+circumvehor | 4 | figuratively of speech, to go all round a thing: frustra circumvehor omnia verbis, in vain I go round it all in words
+circumvenio | 1 | surround
+circumvenio | 2 | cheat
+circumvenio | 3 | to be all round a thing and encircle it: flamma circumventi, ringed about by fire
+circumvenio | 4 | in war, to surround and cut off: nostros latere aperto aggressi circumvenere, they attacked our men on the open flank and surrounded them
+circumvenio | 5 | figuratively to beset or overwhelm: circumventus morbo exilio atque inopia, beset by sickness, exile and want
+circumvenio | 6 | multa senem circumveniunt incommoda, many troubles close in upon an old man
+circumvenio | 7 | to get round someone, to cheat or defraud: circumventum esse innocentem pecunia, that an innocent man was undone by money; fenore circumventa plebs, the commons cheated by usury
