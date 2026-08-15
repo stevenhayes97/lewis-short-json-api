@@ -1880,3 +1880,67 @@ civilis1 | 9 | as an adverb civiliter, either as a citizen should, or in law civ
 civilitas | 1 | courtesy
 civilitas | 3 | politeness and affability, a word later than Augustus and rare
 civilitas | 4 | in Quintilian only, the art of government or politics, rendering the Greek politike
+civis | 1 | citizen
+civis | 3 | a citizen of a state, and above all a Roman one: civis Romanus, a Roman citizen
+civis | 4 | in the feminine of a woman: civis femina, a woman of citizen birth; civis virgo, a free-born girl
+civis | 5 | a fellow citizen, and often with a possessive: civis meus, my own countryman
+civis | 6 | a subject: rex civibus suis, a king over his own subjects
+civis | 7 | figuratively: civis totius mundi, a citizen of the whole world
+civitas | 1 | citizenship
+civitas | 2 | state
+civitas | 3 | the standing and privileges of a citizen: civitatem dare, to grant the franchise; civitate donare, to make someone a citizen
+civitas | 4 | figuratively of a word taken into the language: verbum civitate donatum, a word given the freedom of the city, that is naturalised
+civitas | 5 | the citizens taken together as a body, the commonwealth, where urbs is the place they live in
+civitas | 6 | figuratively: universus mundus una civitas deorum atque hominum, the whole world as one commonwealth of gods and men
+civitas | 7 | in later writers simply a city, though not in Cicero or Caesar
+civitas | 8 | in Tacitus, the City, that is Rome and its people
+clabulare | 1 | transport wagon
+clabulare | 3 | a large open wagon, probably with wicker sides, used for carrying soldiers
+clabulare | 4 | its adjectives are clabularis and clabularius
+clades | 1 | disaster
+clades | 3 | at bottom a breaking or shattering, and so any ruin, loss or harm
+clades | 4 | above all a defeat in war: cladem facere, to inflict a slaughter; magna clade castigare, to punish someone with a heavy defeat
+clades | 5 | of a plague: erumpit clades, the pestilence breaks out
+clades | 6 | of the loss of a limb: a clade dextrae manus, from the loss of his right hand, which gave Scaevola his name
+clades | 7 | of a person who brings ruin, a scourge: cladem Libyae, the scourge of Africa, said of the Scipios
+clades | 8 | of moral corruption: hoc fonte derivata clades, the ruin that flowed from this spring
+clam | 1 | secretly
+clam | 3 | as an adverb, in secret, the opposite of palam: clam palamque, in secret and openly
+clam | 4 | in the predicate after esse, hidden or unknown: nil clam est, there is nothing hidden about it
+clam | 5 | as a preposition with the accusative, without the knowledge of: clam patrem, behind his father's back
+clam | 6 | more rarely with the ablative
+clam | 7 | clam me est, it is unknown to me, a turn found in Plautus and Terence
+clam | 8 | clam habere aliquem, to keep a thing from someone
+clamator | 1 | bawler
+clamator | 3 | a noisy declaimer, said in scorn of a speaker: quem clamatorem, quem oratorem fuisse, which of them I count a bawler and which an orator
+clamito | 1 | bawl out
+clamito | 3 | the frequentative of clamo, to keep crying out or shouting: quid clamitas, what are you bawling about
+clamito | 4 | with a direct quotation, with an accusative and infinitive, or with a subjunctive clause
+clamito | 5 | with a person as object, to call out to someone or to call them something: clamitant me ut revortar, they shout to me to come back
+clamito | 6 | figuratively of things, to proclaim or betray: clamitare calliditatem, to shout a man's cunning aloud
+clamo | 1 | shout
+clamo | 3 | to call out or cry aloud, and of people above all: clamare de via, to shout from the street
+clamo | 4 | of animals and of things: anseres clamant, the geese cry out; so of a cricket's chirp and of roaring water
+clamo | 5 | with an accusative of the person called: janitorem clamare, to call the doorkeeper; morientem nomine clamare, to call the dying man by name
+clamo | 6 | with a clause, in direct speech or more often in indirect: clamant omnes indignissime factum esse, they all cry out that it was a shameful thing
+clamo | 7 | with a final clause: clamare coeperunt sibi ut haberet hereditatem, they began to shout that he should keep the inheritance himself
+clamo | 8 | figuratively of things, to proclaim or declare: eum clamat virtus beatiorem fuisse, his own virtue cries out that he was the happier man
+clamor | 1 | shout
+clamor | 3 | a loud cry: clamorem tollere, to raise a shout; clamorem facere, to make an outcry
+clamor | 4 | a friendly shout, applause: clamor secundus, a shout of approval
+clamor | 5 | a hostile shout: clamoribus maximis corripere, to shout someone down
+clamor | 6 | in the poets of the cries of animals: clamor gruum, the clangour of cranes; clamor apum, the hum of bees
+clamor | 7 | of things, a noise or din: scopuli clamorem dedere, the rocks gave back a roar
+clamosus | 1 | noisy
+clamosus | 3 | actively, for ever bawling: clamosus altercator, a shouting wrangler; clamosus magister, a bawling schoolmaster
+clamosus | 4 | passively, full of noise: clamosa urbs, a noisy city; clamosus circus, the roaring circus
+clamosus | 5 | of what is done with noise: clamosa actio, a delivery full of shouting
+clamosus | 6 | mostly a word later than Augustus
+clanculum | 1 | secretly
+clanculum | 3 | a diminutive of clam, on the quiet, and common in the early writers: clanculum abire, to slip away unnoticed
+clanculum | 4 | also a preposition with the accusative: clanculum patres, without the fathers knowing
+clandestinus | 1 | secret
+clandestinus | 3 | hidden or done in secret: clandestinae nuptiae, a secret marriage; clandestinum scelus, a hidden crime
+clandestinus | 4 | of unseen motions in nature: clandestini motus materiai, the secret movements of matter
+clango | 1 | clang
+clango | 3 | to sound or resound, a rare word of the early and the late poets: horrida clangunt signa tubae, the trumpets blare their grim signals
