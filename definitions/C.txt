@@ -1434,3 +1434,42 @@ ceu | 7 | it belongs to elevated poetry before the Augustan age, and comes into 
 ceveo | 1 | waggle
 ceveo | 3 | to move the haunches, a coarse word of the satirists
 ceveo | 4 | figuratively, from a dog wagging its tail, to fawn and flatter
+chordus1 | 1 | late-born
+chordus1 | 3 | born late in the season, a very old farming word, also spelt cordus: agni chordi, lambs dropped out of season
+chorea | 1 | dance
+chorea | 3 | a dance in a ring, and commonest in the plural
+chorea | 4 | by transfer, of the circling of the stars: choreae astricae, the dances of the stars
+cibarius | 1 | of food
+cibarius | 3 | belonging to food or fit for it: leges cibariae, sumptuary laws about eating; uva cibaria, a grape good to eat but not for wine
+cibarius | 4 | as a neuter plural cibaria, provisions or rations, and fodder for animals
+cibarius | 5 | from the fare given to slaves, plain and common: panis cibarius, coarse black bread
+cibarius | 6 | figuratively second-rate: cibarius Aristoxenus, a very ordinary musician
+cibatus | 1 | food
+cibatus | 3 | food or nourishment, a word of the early and the late writers, and of Pliny
+cibo | 1 | feed
+cibo | 3 | to give food to animals: pullos cibare, to feed the chicks
+cibo | 4 | in the passive, to take food
+cibo | 5 | in late Latin, of feeding people as well
+cibus | 1 | food
+cibus | 3 | food for man or beast, set against potio, drink: cibus potusque, food and drink
+cibus | 4 | of plants, their nourishment, the sap that feeds them
+cibus | 5 | figuratively what feeds a thing: cibus furoris, fuel for madness; humanitatis cibus, nourishment for the mind
+cicada | 1 | cicada
+cicada | 3 | the cicada or tree cricket, whose noise marks the heat of the day
+cicada | 4 | the Athenians wore a golden cicada as an ornament in the hair
+cicatricosus | 1 | scarred
+cicatricosus | 3 | covered with scars: cicatricosum tergum, a back covered in weals; cicatricosa facies, a scarred face
+cicatricosus | 4 | of a vine, marked all over with pruning cuts
+cicatricosus | 5 | figuratively of a piece of writing patched and mended throughout
+cicatrix | 1 | scar
+cicatrix | 3 | the scar a wound leaves: cicatrices adversae, scars in front, got facing the enemy
+cicatrix | 4 | of plants the mark left by a cut, and of statues the marks of the tools
+cicatrix | 5 | in jest, the seam of a patched shoe
+cicatrix | 6 | figuratively: obductam cicatricem refricare, to rub open a scar that had healed over
+cicer | 1 | chickpea
+cicer | 3 | the chickpea, used only in the singular according to Varro
+ciconia | 1 | stork
+ciconia | 3 | the stork
+ciconia | 4 | a mocking gesture, the fingers bent into the shape of a stork's bill
+ciconia | 5 | a T-shaped tool farmers used to measure the depth of a furrow
+ciconia | 6 | a swing beam on an upright post for drawing water, the same as a tolleno
