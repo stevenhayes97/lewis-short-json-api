@@ -1568,3 +1568,35 @@ circulo | 4 | to encircle or ring about
 circulor | 1 | gather round
 circulor | 3 | to form a ring of people about oneself, or to stand about in knots talking: milites circulari, for the soldiers to gather in groups
 circulor | 4 | of mountebanks, to draw a crowd about one
+circulus | 1 | circle
+circulus | 3 | a circular figure: circulus exterior muri, the outer ring of the wall
+circulus | 4 | in astronomy an orbit or a circle of the heavens: circulus lacteus, the Milky Way
+circulus | 5 | in geography a zone of the earth, which the Greeks call a parallel
+circulus | 6 | of time: artiore circulo praecingi, to be bound within a narrower round
+circulus | 7 | any round object, a ring, a necklace or a hoop
+circulus | 8 | a knot of people gathered to talk: in circulis vellicant, in their little groups they pick a man to pieces
+circulus | 9 | it has a contracted form circlus
+circum | 1 | around
+circum | 3 | as an adverb, round about on every side: circum undique, from all sides round
+circum | 4 | as a preposition with the accusative, right round a thing: terra circum axem se convertit, the earth turns round its axis
+circum | 5 | of a partial circuit, about or near: circum caput rejectus, thrown back about the head
+circum | 6 | of motion round to several places, from one to another
+circum | 7 | of nearness, in the neighbourhood of: circum haec loca, hereabouts
+circum | 8 | of the people about one, one's attendants or friends: circum se habere, to keep about oneself
+circum | 9 | in compounds it keeps its m before consonants, and carries now one and now another of these senses
+circumago | 1 | turn round
+circumago | 3 | to drive or turn in a circle: aratro sulcum circumagere, to draw a furrow round with the plough
+circumago | 4 | as a legal term, to free a slave by turning him round, since the master took him by the right hand and turned him about
+circumago | 5 | of time, mostly in the passive, to pass or be spent: circumegit se annus, the year came round
+circumago | 6 | to wheel about: equos frenis circumagere, to wheel the horses with the rein
+circumago | 7 | to sway a man or turn him about: tam facile circumegit et flexit, so easily did he turn them round and bend them
+circumago | 8 | to drive about from place to place: nil opus est te circumagi, there is no need for you to trail about with me
+circumago | 9 | its participle circumactus, bent round or curved
+# review: circumcidaneus used only of must from a second pressing, after the mass left in the press was pared round; the gloss alone conveys nothing
+circumcidaneus | 1 | pared round
+circumcidaneus | 3 | used only of must: mustum circumcidaneum, the wine pressed out after the ordinary pressing, when the husks left in the press had been cut round
+circumcido | 1 | trim
+circumcido | 3 | to cut round or clip, and first a term of gardening: gemmam scalpello circumcidere, to cut round a bud with a knife
+circumcido | 4 | figuratively to cut down, curtail or abridge
+circumcido | 5 | its participle circumcisus, of ground cut off all round and so steep or sheer: saxum circumcisum, a sheer rock
+circumcido | 6 | of speech, cut short and terse: circumcisae orationes, clipped speeches
