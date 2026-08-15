@@ -1,0 +1,718 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_B.json (Lewis & Short via Perseus), simplified for learners.
+baca | 1 | berry
+baca | 3 | a small round fruit of a tree or shrub: bacae lauri, laurel berries
+baca | 4 | especially the olive, and in the poets the olive on its own
+baca | 5 | more widely, any fruit borne by a tree
+baca | 6 | a pearl, named from its shape
+baca | 7 | a link of a chain made in the shape of a berry
+bacchor | 1 | rave
+bacchor | 2 | revel
+bacchor | 3 | to celebrate the rites of Bacchus, to keep his festival
+bacchor | 4 | of any violent excitement, to rant, to be carried away by joy or fury
+bacchor | 5 | to rush about wildly: bacchatur in urbe, she runs frenzied through the city
+bacchor | 6 | of a poet or prophet, to be possessed and utter inspired words
+bacchor | 7 | of winds, rain or rumour, to rage or sweep along: bacchatur fama per urbem, the rumour races through the city
+bacchor | 8 | in the perfect participle, of a place where the rites are held: bacchata jugis Naxos, Naxos revelled over on its ridges
+baculum | 1 | staff
+baculum | 3 | a walking stick, a staff to lean on
+baculum | 4 | the augur's staff, the lituus
+baculum | 5 | a sceptre, including the stage sceptre of a tragic actor
+baculum | 6 | a rod to strike with: baculo decutere, to knock down with a staff
+baculum | 7 | figuratively a prop or support: baculum senectutis, the staff of one's old age
+bajulo | 1 | carry
+bajulo | 3 | to carry something heavy on one's own body, as against loading it on a pack animal
+bajulo | 4 | figuratively, to bear a burden laid on one: crucem suam bajulare, to carry one's own cross
+bajulus | 1 | porter
+bajulus | 3 | a man who carries loads for pay, a day labourer
+bajulus | 4 | a bearer at a funeral
+bajulus | 5 | in later Latin a letter carrier: litterarum bajulus, the bearer of a letter
+balatro1 | 1 | buffoon
+balatro1 | 3 | a jester or clown, seemingly a stock stage character
+balatro1 | 4 | used of low company and hangers-on: mendici mimae balatrones, beggars, actresses and buffoons
+balbus1 | 1 | stammering
+balbus1 | 3 | of a person, unable to speak clearly, with a stutter or a lisp
+balbus1 | 4 | of speech itself, halting or indistinct: balba verba, stammered words
+balbus1 | 5 | of childhood and old age, when the tongue does not obey
+balbus1 | 6 | as an adverb balbe, stammeringly, and so obscurely
+balbutio | 1 | stammer
+balbutio | 3 | to stutter, to speak with a catch and a confusion of the tongue
+balbutio | 4 | of birds, to sing unclearly: merula hieme balbutit, in winter the blackbird's note is indistinct
+balbutio | 5 | figuratively, to speak obscurely, to mumble instead of saying a thing outright
+balbutio | 6 | with an object, to lisp something out, to mouth a name fondly
+balnearius | 1 | of baths
+balnearius | 3 | belonging to a bath or used in one: fur balnearius, a thief who haunts the baths
+balnearius | 4 | as a neuter plural noun balnearia, the bathing rooms of a house, the baths
+balneator | 1 | bath keeper
+balneator | 3 | the man in charge of a bath house
+balo | 1 | bleat
+balo | 3 | of sheep and goats, to bleat
+balo | 4 | its participle used as a noun for sheep: balantum grex, a flock of bleating ewes
+balo | 5 | of people, to talk foolishly, to bleat on
+balteus | 1 | belt
+balteus | 3 | a sword belt, especially the band worn over the shoulder
+balteus | 4 | a woman's girdle, as of the Amazon queen
+balteus | 5 | the belly band of a horse
+balteus | 6 | anything that runs round like a band: a rim, edge or border
+balteus | 7 | the belt of the heavens, the zodiac
+balteus | 8 | the flat walkway dividing the tiers of seats in a theatre
+balteus | 9 | a blow with a belt, a strapping
+barba1 | 1 | beard
+barba1 | 3 | the beard of a man: barbam tondere, to trim the beard; barbam ponere, to have it taken off
+barba1 | 4 | letting the beard grow was a sign of mourning, and the old Romans wore it long before shaving came in
+barba1 | 5 | barbam vellere alicui, to pluck someone's beard, a studied insult
+barba1 | 6 | sapientem pascere barbam, to grow a philosopher's beard, that is to take up Stoicism
+barba1 | 7 | of animals, the beard of a goat or the shag of a wolf
+barba1 | 8 | of plants, the down or wool on a nut or a leaf
+barbaria | 1 | barbarism
+barbaria | 2 | foreign lands
+barbaria | 3 | the world outside Greece and Rome taken together: omnis barbaria, the whole barbarian world
+barbaria | 4 | one particular foreign country, whichever the speaker has in mind: Persia, Phrygia, Gaul or Scythia
+barbaria | 5 | roughness and want of cultivation, in manners or in speech: barbaria forensis, the crudeness of the courts
+barbaria | 6 | savagery, brutal and uncivilised conduct: inveterata barbaria, ingrained savagery
+barbaria | 7 | by transfer, the barbarians themselves as a body
+barbatus | 1 | bearded
+barbatus | 3 | of a man, wearing a full beard, as against imberbis, beardless
+barbatus | 4 | hence grown up, old enough to have a beard
+barbatus | 5 | as a noun barbati, the Romans of the old days, taken as a type of plain honesty
+barbatus | 6 | also a philosopher, named from the long beard they wore
+barbatus | 7 | of animals, bearded, and barbatus on its own, a he-goat
+barbatus | 8 | of plants, downy or woolly
+barbula | 1 | little beard
+barbula | 3 | the small trimmed beard of a young Roman, against the shaggy beard of the ancients
+barbula | 4 | of plants, a small tuft of down
+bardus | 1 | stupid
+bardus | 3 | slow-witted, dull of understanding: stupidum esse Socratem et bardum, that Socrates was slow and stupid
+bardus | 4 | of work rather than of people, lifeless or clumsy: pictor bardior, a duller painter
+bardus | 5 | a separate word bardus, a Gallic poet who sings the praises of brave men, a bard
+baro | 1 | blockhead
+baro | 3 | a dolt or simpleton, too dull to follow what is said: nos barones stupemus, we dunces sit gaping
+basium | 1 | kiss
+basium | 3 | a kiss, mostly poetic and a favourite word of Catullus: da mi basia mille, give me a thousand kisses
+basium | 4 | a kiss blown from the hand: basia jactare, to throw kisses
+batillum | 1 | shovel
+batillum | 3 | a shovel, especially for coals or for dirt
+batillum | 4 | a pan for carrying live coals or burning incense, a chafing dish
+battuo | 1 | beat
+battuo | 3 | to strike or hit, a rare and colloquial word
+battuo | 4 | of preparing food, to bruise in a mortar or pound meat before cooking
+battuo | 5 | of fencing, to fight with weapons: battuere pugnatoriis armis, to fence with real weapons rather than foils
+beatitas | 1 | happiness
+beatitas | 3 | the state of being beatus, a blessed and prosperous life
+beatitas | 4 | one of two words Cicero coined for it beside beatitudo, and he called both of them harsh
+beatitudo | 1 | happiness
+beatitudo | 3 | blessedness, a condition of complete well-being
+beatitudo | 4 | coined by Cicero alongside beatitas, and the commoner of the two in later writers
+beatitudo | 5 | in Christian Latin, beatitude, the blessedness of the saved
+bellaria | 1 | dessert
+bellaria | 3 | the last course of a meal, used in the plural only: fruit, nuts, sweets and sweet wine
+bellaria | 4 | so anything served as a delicacy or titbit
+bellator | 1 | warrior
+bellator | 2 | warlike
+bellator | 3 | a fighting man, one able to fight, where miles is a soldier by profession
+bellator | 4 | in apposition it does the work of an adjective: bellator deus, the god of war, Mars
+bellator | 5 | especially of a horse, mettlesome and trained for war: bellator equus, a war horse
+bellator | 6 | of things belonging to battle: bellator campus, the field of fight
+bellatrix | 1 | female warrior
+bellatrix | 2 | warlike
+bellatrix | 3 | a woman who fights: Penthesilea bellatrix, Penthesilea the warrior queen
+bellatrix | 4 | as a feminine adjective in apposition, skilled or useful in war: bellatrix Roma, warlike Rome
+bellatrix | 5 | of things made for war: bellatrices aquilae, the standards carried into battle
+bellatrix | 6 | figuratively of a passion that makes war inside one: bellatrix iracundia, warlike rage
+bellicosus | 1 | warlike
+bellicosus | 3 | of peoples and men, given to war and good at it: bellicosissimae nationes, the most warlike tribes
+bellicosus | 4 | of a province or a year, full of fighting: bellicosior annus, a year of heavier war
+bellicus | 1 | of war
+bellicus | 3 | belonging to war, military: bellica disciplina, military training; bellica laus, glory won in the field
+bellicus | 4 | as a neuter noun bellicum, the trumpet call to battle: bellicum canere, to sound the charge
+bellicus | 5 | so figuratively of speech that rouses people, to sound the alarm
+bellicus | 6 | in the poets the same as bellicosus, warlike: bellica virgo, the warrior maiden Pallas
+belliger | 1 | warlike
+belliger | 3 | waging war, which is what the word literally says: belligerae gentes, warring nations
+belliger | 4 | of things used in war: belliger ensis, the sword of battle
+belliger | 5 | poetic, and commonest in writers after Augustus
+belligero | 1 | wage war
+belligero | 3 | to carry on a war, with cum or adversus and the enemy: belligerare cum Gallis, to make war on the Gauls
+belligero | 4 | figuratively, to struggle against something: cum fortuna belligerare, to fight it out with fortune
+# review: bellipotens English has no one-word adjective for it; 'valiant' drops the war, which is the whole word
+bellipotens | 1 | mighty in war
+bellipotens | 3 | powerful in battle, a rare and poetic word
+bellipotens | 4 | as a noun Bellipotens, the mighty one in war, that is Mars
+bello | 1 | wage war
+bello | 3 | to be at war, to campaign: longe a domo bellare, to make war far from home
+bello | 4 | with cum, adversus or contra and the enemy: bellare cum Poenis, to war against the Carthaginians
+bello | 5 | in the poets with a bare dative of the one fought
+bello | 6 | impersonally in the passive: bellatum est cum Gallis, war was waged with the Gauls
+bello | 7 | more widely, to fight or contend at all, even with words
+bellulus | 1 | pretty
+bellulus | 3 | a diminutive of bellus: sweet, dainty, charming, found in early and late writers
+bellulus | 4 | as an adverb bellule, prettily or neatly
+bellum | 1 | war
+bellum | 3 | war between peoples, both warfare in general and one particular war; the old form is duellum: bellum Punicum, the Punic War
+bellum | 4 | the enemy is named by an adjective, by a genitive, or by cum and the ablative: bellum cum Samnitibus, the war against the Samnites
+bellum | 5 | starting one: bellum movere, to stir up a war; bellum parare, to make ready for one; bellum inferre alicui, to make war on someone
+bellum | 6 | fighting it: bellum gerere cum aliquo, to wage war on someone; bellum trahere, to drag it out
+bellum | 7 | ending it: bellum conficere, to finish it off; bellum componere, to settle it by terms; bellum deponere, to lay it down
+bellum | 8 | of time, the locative belli and the ablative bello: domi bellique, at home and in the field; bello civili, during the civil war
+bellum | 9 | set phrases: justum bellum, a war lawfully declared; jus belli, the law of war; fortuna belli, the chances of war
+bellum | 10 | figuratively, a feud or quarrel with anything at all: bellum indicere philosophiae, to declare war on philosophy
+bellus | 1 | pretty
+bellus | 3 | of people, good-looking or charming, a word of everyday speech: bella puella, a pretty girl
+bellus | 4 | of manner, polite and agreeable: homo bellus, a pleasant fellow
+bellus | 5 | of things and places, nice, fine, first-rate: vinum bellissimum, excellent wine
+bellus | 6 | commonest in Plautus, Catullus and Cicero's letters rather than in formal prose
+bellus | 7 | as an adverb belle, nicely or neatly: belle negare, to refuse politely; belle se habere, to be in good health
+belua | 1 | beast
+belua | 3 | a large or fierce animal, an elephant, lion, boar or whale, against the smaller bestia
+belua | 4 | on its own very often the elephant: belua Inda, the beast of India
+belua | 5 | more loosely any animal, and in the plural the brutes as against man
+belua | 6 | as abuse, brute or monster, of a person: immanis belua, a monstrous brute
+belua | 7 | of things as well: quanta belua esset imperium, what a monster empire was
+bene | 1 | well
+bene | 2 | very
+bene | 3 | of doing a thing well or rightly, its comparative melius and superlative optime: bene facere, to act well
+bene | 4 | of the mind, thoroughly or accurately: bene nosse, to know well; bene meminisse, to remember clearly
+bene | 5 | in a moral sense, honourably: bene mori, to die a good death
+bene | 6 | bene dicere, to speak eloquently, or to use words of good omen, or with a dative to speak well of someone
+bene | 7 | bene facere alicui, to do someone a kindness, with a dative or with in and the ablative
+bene | 8 | bene est, all is well; bene habet, matters stand well; bene agitur cum aliquo, things go well with someone
+bene | 9 | in wishes and toasts: quod bene vertat, may it turn out well; bene te, your health
+bene | 10 | before another adverb, thoroughly or quite: bene mane, good and early; bene longe, a long way off
+benedico | 1 | bless
+benedico | 3 | in classical Latin written as two words, bene dicere, to speak well of someone
+benedico | 4 | in Christian Latin as one word with an accusative, to bless or praise God
+benedico | 5 | of people and things, to bless, consecrate or hallow: benedictum oleum, consecrated oil
+benedico | 6 | as a noun benedictus, one of the blessed
+benedictio | 1 | blessing
+benedictio | 3 | a word of Christian Latin: the praising or extolling of God
+benedictio | 4 | a blessing pronounced over someone
+benedictio | 5 | by transfer a consecrated object, such as a relic
+beneficentia | 1 | beneficence
+beneficentia | 3 | the quality of a beneficus man, doing good to others in practice
+beneficentia | 4 | Cicero says the same thing may be called benignitas or liberalitas
+beneficentia | 5 | the opposite of maleficentia, the doing of harm
+beneficiarius | 1 | privileged
+beneficiarius | 3 | as an adjective, granted by way of favour, and attested only once
+beneficiarius | 4 | usually a noun in the plural, beneficiarii, soldiers excused the fatigue duties of camp by their commander's favour
+beneficiarius | 5 | such men attended on their commander and were promoted by him
+beneficium | 1 | favour
+beneficium | 3 | a kindness done to someone, a service or good turn: beneficium dare, to do a favour; beneficium accipere, to receive one
+beneficium | 4 | in the ablative, thanks to or by the help of: beneficio tuo, thanks to you; sortium beneficio, by a lucky draw
+beneficium | 5 | in public life a mark of favour: an office, promotion or distinction in the gift of the people or a magistrate
+beneficium | 6 | especially a military promotion granted by a commander
+beneficium | 7 | in the lawyers a privilege or right: beneficium liberorum, release from jury service earned by having children
+beneficus | 1 | beneficent
+beneficus | 3 | ready to do good to others, obliging and open-handed: beneficus in amicum, generous towards a friend
+beneficus | 4 | its comparative and superlative are beneficentior and beneficentissimus
+beneficus | 5 | as an adverb benefice, beneficently
+benevolens | 1 | well-wishing
+benevolens | 3 | kindly disposed towards someone, the early form of benevolus and very common in Plautus
+benevolens | 4 | as a noun, a well-wisher or friend
+benevolens | 5 | it borrows its comparative and superlative from benevolus
+benevolentia | 1 | goodwill
+benevolentia | 3 | kindly feeling towards someone, weaker than amor: benevolentiam alicujus consequi, to win someone's goodwill
+benevolentia | 4 | in oratory, the favourable feeling a speaker sets out to win from his hearers
+benevolentia | 5 | in the lawyers, indulgence or leniency
+benevolentia | 6 | in the plural in later writers, acts of kindness
+benevolus | 1 | well-disposed
+benevolus | 3 | kindly towards someone, with erga and the accusative or a plain dative: benevolus erga aliquem, well disposed towards someone
+benevolus | 4 | in rhetoric, of an audience won over: benevolum auditorem efficere, to bring one's hearer round
+benevolus | 5 | of a slave, devoted and willing in service
+benevolus | 6 | as an adverb benevole, kindly
+benignitas | 1 | kindness
+benignitas | 3 | a kind and courteous bearing towards others: summa cum benignitate audire, to listen with the greatest kindness
+benignitas | 4 | in deeds, generosity or bounty: benignitate benignitas tollitur, generosity uses up the means of being generous
+benignitas | 5 | of nature, its bounty in providing: benignitas naturae, the generosity of nature
+benignitas | 6 | in the lawyers, leniency in applying a law
+benignus | 1 | kind
+benignus | 2 | generous
+benignus | 3 | of people, friendly and good-natured: comes benigni faciles homines, courteous, kindly, easy-going men
+benignus | 4 | of things, favourable or gentle: benigna oratio, a friendly speech; benignior interpretatio, a lenient reading of the law
+benignus | 5 | in the poets, lucky or propitious: benigna nox, a kindly night
+benignus | 6 | of giving, open-handed, and with a genitive free with something: vini somnique benignus, a hard drinker and a lover of sleep
+benignus | 7 | of soil and other things, yielding freely: benigna tellus, generous ground; benigna vena, a rich vein of talent
+benignus | 8 | as an adverb benigne, kindly: benigne respondere, to answer graciously; benigne facere alicui, to do someone a kindness
+benignus | 9 | benigne on its own in conversation, thank you, used both in accepting and in politely refusing
+beo | 1 | gladden
+beo | 3 | to make someone happy, a rare word and mostly poetic
+beo | 4 | in conversation beas or beasti, that delights me, I am glad to hear it
+beo | 5 | with an ablative, to bless someone with something: caelo Musa beat, the Muse rewards him with heaven
+beo | 6 | its participle beatus is the common word: happy, blessed, fortunate
+beo | 7 | beatus also of outward prosperity, well off or wealthy
+beo | 8 | of things, rich or splendid: beatae gazae, magnificent treasures
+beo | 9 | in later Latin blessed in the sense of dead: beatae memoriae, of blessed memory
+beo | 10 | as an adverb beate, happily: beate vivere, to live a happy life
+bes | 1 | two-thirds
+bes | 3 | two thirds of the as, that is eight of its twelve unciae
+bes | 4 | as a rate of interest, two thirds of one per cent a month, so eight per cent a year
+bes | 5 | two thirds of any whole: a share in a partnership, a sum of money, a piece of land, an inheritance
+bes | 6 | of weight, eight ounces of the pound
+bes | 7 | by transfer, simply the number eight
+bestia1 | 1 | beast
+bestia1 | 3 | any creature without reason as opposed to man; it covers both fera, the fierce beast, and belua, the big one
+bestia1 | 4 | a wild beast kept for the arena, with no need to add fera
+bestia1 | 5 | ad bestias mittere aliquem, to send someone to fight the beasts; bestiis objicere aliquem, to throw someone to them
+bestia1 | 6 | as abuse of a person, brute
+bestia1 | 7 | the name of a constellation, the Wolf
+bestiarius | 1 | beast-fighter
+bestiarius | 3 | as an adjective, to do with the beasts of the arena: ludus bestiarius, a beast fight
+bestiarius | 4 | as a noun, a man who fights wild beasts at the games, either a hired professional with weapons or a condemned criminal without them
+beta1 | 1 | beet
+beta1 | 3 | the garden beet, grown and eaten as a vegetable
+betaceus | 1 | of beet
+betaceus | 3 | made of the beet or belonging to it: pedes betacei, beetroots
+betaceus | 4 | as a masculine noun betaceus, a beetroot
+beto | 1 | go
+beto | 3 | to go, an old word found only before the classical period, also spelt baeto or bito: ad portum ne bitas, do not go to the harbour
+beto | 4 | it survives chiefly in its compounds, abito, ebito, perbito and the rest
+bibo1 | 1 | drink
+bibo1 | 3 | to drink, properly from thirst, where poto is drinking for pleasure or habit: aquam bibere, to drink water
+bibo1 | 4 | with the cup or measure as object: quot cyathos bibimus, how many measures have we drunk
+bibo1 | 5 | at parties, to drink a name, taking one cup for each of its letters
+bibo1 | 6 | in the poets, to drink a river, meaning to live beside it: qui Tiberim bibunt, the people of the Tiber
+bibo1 | 7 | bibere aquas, to be drowned, and of a ship to founder
+bibo1 | 8 | of things that soak liquid up: sat prata biberunt, the meadows have drunk enough
+bibo1 | 9 | figuratively, to drink in: bibere aure, to listen greedily; longum bibere amorem, to drink in a lasting love
+bibo1 | 10 | impersonally in the passive: estur, bibitur, there is eating and drinking going on
+bibulus1 | 1 | absorbent
+bibulus1 | 2 | hard-drinking
+bibulus1 | 3 | of things, soaking up moisture: bibula harena, thirsty sand; bibula charta, blotting paper
+bibulus1 | 4 | of a person, fond of drink, with a genitive of what: bibulus Falerni, a great drinker of Falernian
+bibulus1 | 5 | figuratively of the ears, drinking in what is said: bibulae aures, ears that hang on every word
+biceps | 1 | two-headed
+biceps | 3 | having two heads, of prodigies and of Janus: puella nata biceps, a girl born with two heads
+biceps | 4 | of a mountain with two peaks: biceps Parnasus, twin-peaked Parnassus
+biceps | 5 | of a sword, two-edged
+biceps | 6 | figuratively, split in two: bicipitem civitatem facere, to divide the state into two camps
+bicornis | 1 | two-horned
+bicornis | 3 | having two horns, of animals and of fauns
+bicornis | 4 | of the new moon, showing its two horns
+bicornis | 5 | of a fork with two prongs: bicornes furcae, two-pronged forks
+bicornis | 6 | of a river with two mouths: bicornis Rhenus, the two-mouthed Rhine
+bicornis | 7 | as a noun in the plural, horned beasts for sacrifice
+bicorpor | 1 | two-bodied
+bicorpor | 3 | having two bodies, a rare poetic word: bicorpores Gigantes, the giants of double body
+bicorpor | 4 | Cicero uses it of the Centaurs in a version from Sophocles: bicorpor manus, the two-bodied host
+bidens | 1 | two-toothed
+bidens | 2 | mattock
+bidens | 3 | as an adjective, having two teeth, or two prongs or points: bidens ancora, a two-fluked anchor
+bidens | 4 | as a masculine noun, a heavy hoe with two iron teeth: glaebam frangere bidentibus, to break the clod with mattocks
+bidens | 5 | so by transfer, farming itself: bidentis amans, a lover of the hoe
+bidens | 6 | as a feminine noun, a beast for sacrifice, most often a sheep: mactant lectas de more bidentis, they sacrifice chosen victims in due form
+bidens | 7 | the name is explained from the two rows of full-grown teeth that mark the animal's age
+# review: bidental English has no word for a spot struck by lightning and then consecrated; 'shrine' is close but not exact
+bidental | 1 | lightning shrine
+bidental | 3 | a place struck by lightning, which the haruspices then consecrated and fenced off
+bidental | 4 | named from the bidens, the sheep offered there to appease the stroke
+bidental | 5 | it was an offence to disturb one: triste bidental movere, to meddle with the grim enclosure
+biduus | 1 | two-day
+biduus | 3 | lasting two days, and as an adjective found only once
+biduus | 4 | its neuter noun biduum is the usual form, a space of two days: biduum supererat, two days were left
+biduus | 5 | in the genitive of measure: castra bidui, a camp two days' march away
+biennis | 1 | two-year
+biennis | 3 | lasting two years, a very rare word; where bienni appears it is usually the genitive of biennium instead
+biennium | 1 | two years
+biennium | 3 | a space of two years: biennium provinciam obtinere, to hold a province for two years
+biennium | 4 | in the ablative of time: biennio post, two years later
+bifarius | 1 | twofold
+bifarius | 3 | double, and as an adjective only in late writers
+bifarius | 4 | its adverb bifariam is the classical form: in two parts, on two sides, in two places
+bifarius | 5 | bifariam dividere, to divide in two; bifariam castra facere, to pitch camp in two places
+bifarius | 6 | figuratively, in two senses: bifariam intellegere aliquid, to take something both ways
+bifer | 1 | twice-bearing
+bifer | 3 | bearing fruit twice a year: bifera ficus, a fig that crops twice; biferi rosaria Paesti, the twice-blooming rose beds of Paestum
+bifer | 4 | of twofold shape: biferum Centauri corpus, the Centaur's double body, horse and man
+bifidus | 1 | forked
+bifidus | 3 | split into two, cleft: bifidi pedes, cloven feet; bifida lingua, a forked tongue
+bifidus | 4 | of a road or course that divides: bifidum iter, a way that forks
+biforis | 1 | two-doored
+biforis | 3 | with double or folding doors: bifores valvae, folding doors; bifores fenestrae, windows with two shutters
+biforis | 4 | more generally, having two openings
+biforis | 5 | in the poets of the pipe, sounding two notes: biforem dat tibia cantum, the pipe gives out its double note
+biformis | 1 | two-shaped
+biformis | 3 | of double nature or shape, said of Janus, the Minotaur, Scylla, the Centaurs and Hermaphroditus: proles biformis, offspring of two forms
+biformis | 4 | of Horace as a poet, part man and part swan: biformis vates, the bard of double shape
+biformis | 5 | of monstrous births: biformes hominum partus, human births of two shapes
+bifurcus | 1 | two-pronged
+bifurcus | 3 | forked, with two prongs or branches: bifurcus ramus, a forked bough; bifurci valli, forked stakes
+bifurcus | 4 | as a neuter noun bifurcum, a fork, the point where two branches part
+bifurcus | 5 | of the body, the cleft where the neck meets the shoulders: sudor per bifurcum volabat, the sweat streamed down his neck
+# review: bigae the pair of horses and the car they draw are one word in Latin; 'chariot' alone loses the pair
+bigae | 1 | two-horse chariot
+bigae | 3 | a pair of horses yoked together, and so also the car they draw
+bigae | 4 | plural in every writer before Augustus, and singular biga only later
+bigae | 5 | of the teams of gods and of night: roseae Aurorae bigae, the rosy pair of Dawn
+bigae | 6 | Hector raptatus bigis, Hector dragged behind a chariot
+bigae | 7 | also of a ploughing team of oxen: bigae cornutae, a horned pair
+bigae | 8 | the figure stamped on the silver coin called a bigatus
+# review: bigatus 'stamped with a two-horse chariot' is the whole word; English has neither the adjective nor a name for the coin
+bigatus | 1 | stamped with a chariot
+bigatus | 3 | of silver, bearing the stamp of a two-horse chariot: argentum bigatum, chariot-stamped silver
+bigatus | 4 | as a noun, the coin itself, matched by the quadrigatus with its four-horse team
+bijugis | 1 | two-yoked
+bijugis | 3 | yoked in a pair, a rare form beside bijugus: bijuges equi, a pair of horses in harness
+bijugis | 4 | more widely, double: bijuges fasces, two consulships falling to one family
+bijugus | 1 | two-yoked
+bijugus | 3 | yoked two together, poetic: bijugi leones, a team of two lions; bijugus currus, a car drawn by a pair
+bijugus | 4 | as a masculine plural noun bijugi, the pair of horses itself: desiluit Turnus bijugis, Turnus leapt down from his chariot
+bijugus | 5 | bijugum certamen, the race of the two-horse chariots
+bilibris | 1 | two-pound
+bilibris | 3 | weighing two pounds: bilibris mullus, a mullet of two pounds
+bilibris | 4 | holding two pounds: bilibre cornu, a horn that takes two pounds
+bilibris | 5 | as a noun, a quantity of two pounds
+bilinguis | 1 | double-tongued
+bilinguis | 2 | bilingual
+bilinguis | 3 | literally having two tongues, used in jest of lovers kissing
+bilinguis | 4 | speaking two languages: bilingues Bruttates, the Bruttians, who used both Oscan and Greek
+bilinguis | 5 | figuratively two-faced and treacherous: Tyrios bilingues timere, to fear the double-dealing Tyrians
+bilinguis | 6 | of a pipe fitted with two stops
+bilinguis | 7 | of stories, carrying a double meaning, allegorical
+biliosus | 1 | bilious
+biliosus | 3 | full of bile, of what the body throws off: biliosum sputum, bilious spittle
+biliosus | 4 | as a noun, a person of bilious constitution
+biliosus | 5 | figuratively gloomy or hypochondriac, put down to the black bile
+bilis | 1 | bile
+bilis | 2 | anger
+bilis | 3 | the fluid the liver secretes, where fel is the gall bladder holding it: bilem pellere, to drive off the bile
+bilis | 4 | bilis suffusa, bile spreading through the body, that is jaundice; bile suffusus, jaundiced
+bilis | 5 | figuratively anger or spleen: bilem alicui commovere, to stir up someone's temper; bilem effundere, to vent one's rage
+bilis | 6 | atra or nigra bilis, black bile, and so melancholy and low spirits
+bilis | 7 | black bile also stands for madness: atra bili percita est, she is out of her mind
+# review: bimaris English has no one-word adjective for 'lying between two seas'
+bimaris | 1 | between two seas
+bimaris | 3 | lying between two seas, and almost always of Corinth on its isthmus: bimaris Corinthi moenia, the walls of Corinth between its two seas
+bimaris | 4 | a favourite word of Ovid
+# review: bimatus a noun for 'the age of two years'; English has no noun that carries it
+bimatus | 1 | age of two
+bimatus | 3 | the age of two years, used of animals and plants: ante bimatum, before its second year
+bimatus | 4 | in Christian Latin also of children
+# review: bimembris literally 'of double members'; in practice always half man and half beast, which no single English word carries
+bimembris | 1 | double-limbed
+bimembris | 3 | of double bodily make, half man and half beast
+bimembris | 4 | most often of the Centaurs, half man and half horse: Centauri bimembres, the double-formed Centaurs
+bimembris | 5 | as a noun in the plural, bimembres, the Centaurs themselves
+bimestris | 1 | two-month
+bimestris | 3 | lasting two months: bimestris consulatus, a consulship of two months; bimestre stipendium, two months' pay
+bimestris | 4 | of two months' growth or age: bimestre triticum, wheat cut two months after sowing; bimestris porcus, a pig two months old
+bimus | 1 | two-year-old
+bimus | 3 | two years old, of animals, plants and wine: bimum merum, wine of two years
+bimus | 4 | lasting two years: altera legio bima, the second legion two years in service
+bimus | 5 | of payment by instalments: annua bima trima die, payable within one, two and three years
+bimus | 6 | in Cicero's letters, bima sententia, the motion to extend a governorship by two years
+bini | 1 | two each
+bini | 3 | the distributive numeral: two apiece, two at a time, two a year: bina talenta capiebat, he drew two talents a year
+bini | 4 | standing in for duo with nouns that have no singular or change their sense in the plural: binae litterae, two letters; bina castra, two camps
+bini | 5 | of things that come in pairs: boves bini, a yoke of oxen; bina hastilia, a pair of spears
+bini | 6 | without a noun: bis bina, twice two; findi in bina, to be split into two
+bini | 7 | bina milia, two thousand
+binominis | 1 | two-named
+binominis | 3 | having two names, used only by Ovid and only in the genitive singular: binominis Istri, of the Ister, which is also the Danube
+binominis | 4 | so too of Ascanius, who was also called Iulus
+bipalium | 1 | double mattock
+bipalium | 3 | a two-pronged spade for deep digging: bipalio vertere terram, to turn the soil with the double spade
+bipalium | 4 | hence also the depth such a tool reaches: ad bipalium defodere, to dig down two spade depths
+bipartio | 1 | halve
+bipartio | 3 | to divide into two parts, rare as a finite verb: ver bipartitur, spring falls into two halves
+bipartio | 4 | commonest in its participle: bipartita divisio, a division into two; genus bipartitum, a class split in two
+bipartio | 5 | its adverb bipartito, in two parts or in two directions: bipartito signa inferre, to attack in two columns
+# review: bipatens of double doors that open both ways; English has no adjective, and 'folding' misses the being thrown open
+bipatens | 1 | opening both ways
+bipatens | 3 | of double doors that swing open on two leaves: portis bipatentibus, at the gates flung wide
+bipatens | 4 | of the halls of the gods: tectis bipatentibus, in halls open on either side
+bipatens | 5 | an Ennian word, kept alive by two passages of Virgil
+bipedalis | 1 | two-foot
+bipedalis | 3 | two feet long, broad or thick: bipedales trabes, beams two feet thick
+bipedalis | 4 | of a person's height, and so in mockery: adulescentulus bipedali minor, a youngster under two feet high
+bipedalis | 5 | as a neuter noun bipedale, a tile or flagstone two feet across
+bipennis2 | 1 | battle-axe
+bipennis2 | 3 | as an adjective, two-edged: bipennis securis, an axe with an edge each side
+bipennis2 | 4 | far more often a feminine noun, the axe itself: correpta dura bipenni, catching up the heavy axe
+bipennis2 | 5 | used both as a weapon and for felling: duris ut ilex tonsa bipennibus, like a holm oak lopped by hard axes
+bipennis2 | 6 | the name is explained from penna in its old sense of point, one on each side
+bipes | 1 | two-footed
+bipes | 3 | going on two feet, of creatures and of things with two legs: bipes mensa, a two-legged table
+bipes | 4 | as a noun, and usually with contempt, of men: omnium bipedum nequissimus, the worst rogue that walks on two legs
+bipes | 5 | bipes asellus, a two-legged ass, said of a simpleton
+biremis | 1 | bireme
+biremis | 2 | two-oared
+biremis | 3 | as an adjective, having two oars: biremis scapha, a skiff with a pair of oars
+biremis | 4 | as a noun, a small boat rowed with two oars
+biremis | 5 | far more often a warship with two banks of oars, a bireme
+bis | 1 | twice
+bis | 3 | twice, on two occasions: non semel sed bis, not once but twice; bis mori, to die twice over
+bis | 4 | bis consul, one who has been consul twice in all, where iterum consul is one holding it for the second time
+bis | 5 | doubly, in two respects: in una civitate bis improbus fuisti, in one city you did wrong on two counts
+bis | 6 | of frequency: bis in die or bis die, twice a day; bis anno, twice a year
+bis | 7 | with distributives to give a total: bis binos, twice two; bis quinos dies, for ten days; bis deni, twenty
+bis | 8 | in the poets with cardinals as well: bis mille sagittae, two thousand arrows
+bis | 9 | bis terve, two or three times; bis terque, over and over again
+bis | 10 | bis tanto or bis tantum, twice as much; and proverbially bis ad eundem, to trip twice over the same stone
+bisextus | 1 | leap day
+bisextus | 3 | the day added every fourth year, so called because the sixth day before the Kalends of March was counted twice
+bisextus | 4 | sometimes written as two words, bis sextus
+bisulcus | 1 | cloven
+bisulcus | 3 | split in two: bisulca lingua, a forked tongue; bisulca ungula, a cloven hoof
+bisulcus | 4 | as a neuter plural noun bisulca, the cloven-footed animals, against the solidipedes with undivided hooves
+bivius | 1 | two-way
+bivius | 3 | having two ways in or out: biviae fauces, a pass open at either end
+bivius | 4 | as a neuter noun bivium, a place where two roads meet: ad bivia consistere, to halt where the roads divide
+bivius | 5 | figuratively a twofold road: bivium ad culturam, two paths to cultivation, practice and imitation
+blandimentum | 1 | blandishment
+blandimentum | 3 | flattering words and coaxing talk, usually in the plural: blandimentis capi, to be won over by flattery
+blandimentum | 4 | concessions made to win people round: blandimenta plebi dare, to offer the commons sweeteners
+blandimentum | 5 | anything that charms the senses, a pleasure or attraction: blandimenta vitae, the things that make life sweet
+blandimentum | 6 | of food, seasoning or relish
+blandimentum | 7 | of soothing treatments in medicine, and of careful tending in gardening
+blandior | 1 | flatter
+blandior | 3 | to fawn on someone and coax them, with a dative: matri blandiri, to make up to one's mother
+blandior | 4 | of animals, to fawn: cessit blandienti Cerberus, Cerberus gave way to his coaxing
+blandior | 5 | with ut and the subjunctive, to wheedle someone into doing something
+blandior | 6 | sibi blandiri, to flatter oneself and believe what one wishes: ne nobis blandiar, not to deceive ourselves
+blandior | 7 | of things, to be inviting or agreeable: voluptas sensibus blanditur, pleasure courts the senses
+blandior | 8 | so of circumstances: blandiebatur coeptis fortuna, fortune smiled on the undertaking
+blandior | 9 | its participle blanditus used as an adjective, charming or delightful
+blanditia | 1 | flattery
+blanditia | 3 | coaxing or caressing speech, mostly plural and usually without the sting of adulatio or assentatio
+blanditia | 4 | of the coaxing of a lover or a child: parentum blanditiae, a parent's caresses
+blanditia | 5 | of courting the people: occursatio et blanditia popularis, going about among them and making up to them
+blanditia | 6 | in a bad sense, flattery used to get something: blanditiis aliquid exprimere, to wheedle something out of someone
+blanditia | 7 | of things, charm or attraction: blanditiae voluptatum, the allurements of pleasure
+blandus | 1 | flattering
+blandus | 2 | charming
+blandus | 3 | of a person, smooth-tongued and ingratiating: blandum amicum a vero secernere, to tell the flatterer from the true friend
+blandus | 4 | of animals, fawning: blandae canes, dogs that fawn on you
+blandus | 5 | of speech, coaxing or winning: blanda vox, a caressing voice; blandae preces, winning entreaties
+blandus | 6 | of things, alluring, and often dangerously so: blanda voluptas, seductive pleasure
+blandus | 7 | in the poets with a genitive or an infinitive: blandus precum, ready with his entreaties
+blandus | 8 | as an adverb blande, coaxingly or gently: blande rogare, to ask winningly; blande excipere aliquem, to receive someone kindly
+blatero1 | 1 | babble
+blatero1 | 3 | to talk foolishly, to prate on, a word of everyday speech: desine blaterare, stop your babbling
+blatero1 | 4 | of noisy ranting: cum magno blateras clamore, you bluster away at the top of your voice
+blatero1 | 5 | also of the noise made by frogs and camels
+blatta1 | 1 | cockroach
+blatta1 | 3 | an insect that shuns the light, used of the cockroach, the chafer and the clothes moth: blatta lucifuga, the light-shunning grub
+blatta1 | 4 | proverbially a worthless creature: cecidi tamquam blatta in pelvim, I dropped like a beetle into a basin
+blatta2 | 1 | purple
+blatta2 | 3 | a clot of blood, which is where the word starts
+blatta2 | 4 | in late Latin the colour purple, named from the colour of blood: blatta serica, purple silk
+blattarius | 1 | of moths
+blattarius | 3 | belonging to moths: balnea blattaria, dark baths, named from the moth's dislike of light
+blattarius | 4 | as a feminine noun blattaria, the plant moth mullein
+boa | 1 | large snake
+boa | 3 | a big Italian serpent, said to grow large enough to swallow an ox whole
+boa | 4 | the name was also put down to its milking cows, and it is called a water snake
+boa | 5 | a disease that brings out red pustules, perhaps measles
+boa | 6 | in the form bova, a swelling of the legs brought on by hard travelling
+boarius | 1 | of cattle
+boarius | 3 | belonging to oxen or cattle, and also spelt bovarius
+boarius | 4 | forum boarium, the cattle market at Rome, beside the Circus Maximus
+boarius | 5 | its name was put down to the great bronze ox that stood there, or to the herd Hercules pastured there after taking it from Cacus
+boiae | 1 | collar
+boiae | 3 | a collar for the neck, at first of leather, which is where the name comes from, and later of wood or iron
+boiae | 4 | used on prisoners and slaves: attrita boiis colla, necks chafed by the collar
+bombycinus | 1 | silken
+bombycinus | 3 | made of silk: bombycina vestis, a silk dress
+bombycinus | 4 | as a neuter plural noun bombycina, silk clothes
+bonitas | 1 | goodness
+bonitas | 3 | good quality in a thing, its excellence: bonitas agrorum, the richness of the land; bonitas vini, the quality of the wine
+bonitas | 4 | of qualities of mind: bonitas ingenii, natural ability; bonitas causae, the strength of a case
+bonitas | 5 | of character, integrity: eam potestatem bonitate retinebat, he held that power by his honesty
+bonitas | 6 | kindness or good nature: perpetua naturalis bonitas, an unbroken natural kindliness
+bonitas | 7 | especially a parent's tenderness: facit parentes bonitas, non necessitas, it is kindness that makes parents, not necessity
+bonum2 | 1 | good
+bonum2 | 2 | advantage
+bonum2 | 3 | the neuter of bonus standing on its own: a good thing, a benefit
+bonum2 | 4 | predicatively, bonum esse, either to be morally good or to be useful and serviceable
+bonum2 | 5 | impersonally bonum est with an infinitive: bonum est pauxillum amare, a little love is a good thing
+bonum2 | 6 | melius est, it is better, and optimum est, it is best, each with an infinitive or an accusative and infinitive
+bonum2 | 7 | optimum factu est, it is best to do, with the supine
+bonum2 | 8 | with a dative, good for or serviceable to: alicui bono est, it is to someone's advantage
+bonum2 | 9 | cui bono, who stood to gain by it, the standing question in a Roman prosecution
+bonum2 | 10 | di meliora, heaven forbid, literally may the gods grant better than that
+bonus | 1 | good
+bonus | 3 | of a person, morally good and honest: vir bonus, a good man, and in law a man of standing whose judgment settles a matter
+bonus | 4 | of anyone in a role, good at the job: bonus consul, a good consul
+bonus | 5 | of things, sound or of high quality: bona valetudo, good health; bona aetas, the prime of life
+bonus | 6 | favourable or lucky: bona fama, a good name; bonis temporibus, in prosperous times
+bonus | 7 | of amount, considerable, and of birth, noble: bona pars, a large part; bono genere natus, born of good family
+bonus | 8 | its comparative is melior and its superlative optimus, both in constant use
+bonus | 9 | set phrases: bona fide, in good faith; bona venia, by your leave; bona pax, without a quarrel; bonae artes, honourable conduct, and also the liberal studies
+bonus | 10 | as a title of the gods: Juppiter Optimus Maximus; Bona Dea, the Good Goddess, whose rites no man might attend; and di boni, good heavens
+boo | 1 | roar
+boo | 3 | to cry aloud or bellow, chiefly an early and poetic word: boat caelum fremitu, the sky rings with the din
+boo | 4 | it has the older forms bovo and boere beside the usual boare
+boreas | 1 | north wind
+boreas | 3 | the north wind, for which the native Latin word is aquilo: Boreae frigus, the chill of the north wind
+boreas | 4 | by transfer the north itself: Boreae finitimum latus, the side that borders on the north
+boreas | 5 | personified as a god, son of the river Strymon and father of Calais and Zetes by Orithyia
+boreas | 6 | its adjective boreus, northern: sub axe boreo, under the northern sky
+bos | 1 | ox
+bos | 2 | cow
+bos | 3 | the animal of the plough and the herd, bull, ox or cow: bos est enectus arando, the ox is worn out with ploughing
+bos | 4 | in the feminine, a cow: bove eximia capta de grege, a splendid cow taken from the herd
+bos | 5 | its genitive plural is boum and its dative and ablative plural bubus or bobus
+bos | 6 | a kind of flatfish of the turbot family
+botulus | 1 | sausage
+botulus | 3 | a sausage, counted a low word beside the proper farcimen
+botulus | 4 | by transfer, a stomach stuffed with good things
+bovarius | 1 | of cattle
+bovarius | 3 | belonging to horned cattle, a spelling beside boarius
+bovarius | 4 | forum bovarium, the cattle market at Rome
+bovinator | 1 | blusterer
+bovinator | 3 | a brawler who makes a noise and rails at people
+bovinator | 4 | also a man who shuffles and looks for a way out, the picture perhaps taken from oxen hanging back in the yoke
+bracatus | 1 | trousered
+bracatus | 3 | wearing trousers, and so a general word for foreign or barbarian: bracatae nationes, the trousered peoples
+bracatus | 4 | Gallia Bracata, the Gaul beyond the Alps, later called Narbonensis, as against Gallia Togata
+bracatus | 5 | used in scorn of a man's descent: bracatae cognationis dedecus, the disgrace of a trousered family
+bracatus | 6 | more widely, wearing loose flowing clothes
+# review: bracchialis 'of arms' would read as weapons, so the article is needed; English has no adjective for it
+bracchialis | 1 | of the arm
+bracchialis | 3 | belonging to the arm: bracchialis crassitudo, the thickness of an arm
+bracchialis | 4 | as a noun bracchiale or bracchialis, an armlet or bracelet, where the classical word is armilla
+bracchium | 1 | arm
+bracchium | 3 | strictly the forearm, from hand to elbow, where lacertus is the upper arm
+bracchium | 4 | far more often the whole arm: collo dare bracchia circum, to throw one's arms round the neck
+bracchium | 5 | of gesture in speaking and of the arms in dancing: bracchia in numerum jactare, to swing the arms in time
+bracchium | 6 | figuratively, levi or molli bracchio agere aliquid, to go about something half-heartedly
+bracchium | 7 | of animals, the claws of a crab or lobster, and so of the signs Cancer and Scorpio
+bracchium | 8 | the branches of a tree or vine: ramos et bracchia tendens, spreading its boughs and branches
+bracchium | 9 | an arm of the sea, a spur of a mountain range, or a ship's yardarms: intendi bracchia velis, to spread the yards for the sails
+bracchium | 10 | in the army, a line of works joining two points, and the moles that shelter a harbour
+bractea | 1 | foil
+bractea | 3 | a thin sheet of metal, above all gold leaf, where thicker plates are laminae: leni crepitabat brattea vento, the gold leaf rustled in the light breeze
+bractea | 4 | also a thin layer of wood, a veneer
+bractea | 5 | figuratively, glitter or outward show: bractea eloquentiae, the tinsel of eloquence
+bracteatus | 1 | gilded
+bracteatus | 3 | plated with gold, a later word for the classical aureus: bracteatae sellae, gilded chairs
+bracteatus | 4 | more widely, gleaming like gold: bracteatus leo, a lion with a golden mane
+bracteatus | 5 | figuratively splendid or golden
+bracteatus | 6 | and so also bright only on the surface, gilded and deceiving: bracteata felicitas, happiness that is merely gilt
+brassica | 1 | cabbage
+brassica | 3 | the cabbage in its several varieties, much prized by the Romans and often used as a medicine
+breviarius | 1 | abridged
+breviarius | 3 | cut short: breviariae rationes, abridged accounts
+breviarius | 4 | more often the neuter noun breviarium, a summary or abstract, which Seneca says had displaced the older summarium
+breviarius | 5 | breviarium imperii, a statistical survey of the empire
+breviculus | 1 | shortish
+breviculus | 3 | a diminutive of brevis, rather short or small: homo breviculus, a smallish man
+breviculus | 4 | of time, brief: breviculum tempus, a short while
+breviculus | 5 | as a masculine noun, a short piece of writing, a summary
+brevio | 1 | shorten
+brevio | 3 | to cut short or abridge, a word later than the classical period and commonest in Quintilian: breviare quaedam, to abridge some things
+brevio | 4 | of the body, to draw in: breviatur cervix, the neck is shortened
+brevio | 5 | in grammar, to pronounce a syllable short
+brevis | 1 | short
+brevis | 3 | of space, short in extent or narrow: brevis via, a short road; cursus brevissimus, the shortest run
+brevis | 4 | of height, low or small: brevis corpore, short in build
+brevis | 5 | of depth, shallow, and as a neuter plural noun brevia, shoals: in brevia urgere, to drive onto the shallows
+brevis | 6 | of time, short: brevis hora, a short hour; vita brevis, life is short
+brevis | 7 | brevi or brevi tempore, in a short while, shortly; ad breve, for a little
+brevis | 8 | of speech, brief and to the point: brevis narratio, a concise account
+brevis | 9 | of a syllable, short, and as a feminine noun brevis, a short syllable
+brevis | 10 | as an adverb breviter, briefly or in few words: breviter tangere, to touch on something in passing
+brevitas | 1 | shortness
+brevitas | 3 | shortness in space: brevitas angusti freti, the narrowness of the strait; brevitas nostra, our small stature
+brevitas | 4 | shortness in time: brevitas vitae, the shortness of life; diei brevitas, the shortness of the day
+brevitas | 5 | in speech, conciseness, saying no more than is needed: illa Sallustiana brevitas, that famous terseness of Sallust
+brevitas | 6 | of syllables, their shortness: brevitas pedum, the quickness that short feet give
+brevitas | 7 | more generally, smallness or slightness
+bruma | 1 | midwinter
+bruma | 3 | strictly the shortest day of the year, the winter solstice; the name is a worn-down brevissima
+bruma | 4 | more widely the winter season: bruma iners, sluggish winter; bruma intractabilis, winter there is no dealing with
+bruma | 5 | in the poets a year, the season standing for the whole
+brumalis | 1 | wintry
+brumalis | 3 | belonging to the winter solstice: brumalis dies, the shortest day; brumale signum, the sign of Capricorn
+brumalis | 4 | brumalis flexus, the tropic of Capricorn; brumalis oriens, the point of midwinter sunrise
+brumalis | 5 | of winter in general: brumale frigus, the cold of winter; brumales horae, the short hours of a winter day
+brutus1 | 1 | dull
+brutus1 | 2 | heavy
+brutus1 | 3 | literally heavy and hard to shift: bruta tellus, the dead weight of earth; brutum pondus, a lumpish mass
+brutus1 | 4 | of people, stupid and slow: adulescentia bruta atque hebes, a dull and blunted youth
+brutus1 | 5 | of animals, without reason, and in later Latin simply brute or dumb
+brutus1 | 6 | of things, blind or senseless: bruta fulmina, thunderbolts that strike at random
+bubo1 | 1 | owl
+bubo1 | 3 | the horned or eagle owl, whose cry was counted a bad omen: ignavus bubo, the sluggish owl
+bubo1 | 4 | a bird of ill omen in the poets: funereus bubo, the owl of funerals; bubone sinistro, with an owl on the left
+bubo1 | 5 | masculine, except once in Virgil where it is feminine
+bubulcus1 | 1 | ploughman
+bubulcus1 | 3 | strictly one who ploughs with oxen, the same as arator, and distinct from the pastor or armentarius who tends the herd
+bubulcus1 | 4 | in later writers more loosely, a herdsman
+bubulus | 1 | of oxen
+bubulus | 3 | belonging to cattle: bubulum lac, cow's milk; bubulum fimum, cattle dung
+bubulus | 4 | of things made from ox-hide, and so in comedy of the whip cut from it
+bubulus | 5 | as a feminine noun bubula, beef
+bucca | 1 | cheek
+bucca | 3 | the cheek as it puffs out in speaking or eating, where genae is the side of the face and mala the upper cheek: buccas inflare, to puff out the cheeks
+bucca | 4 | of cheeks swollen with rage: iratus ambas buccas inflet, may he blow out both cheeks in a temper
+bucca | 5 | quod in buccam venit dicere, to say whatever comes into one's head
+bucca | 6 | by transfer a ranter, a man who only puffs his cheeks: Curtius et Matho buccae, Curtius and Matho, that pair of windbags
+bucca | 7 | so also of a trumpeter, known about town by his blown-out cheeks
+bucco | 1 | babbler
+bucco | 3 | a chatterer who outdoes everyone in talk but not in sense, and so a fool
+bucco | 4 | it turns up in a comic string of insults: stulti stolidi fatui fungi bardi blenni buccones
+bucco | 5 | named alongside the macci, comic types of the same stamp
+buccula | 1 | little cheek
+buccula | 2 | cheekpiece
+buccula | 3 | a diminutive of bucca, a small cheek or mouth
+buccula | 4 | in the army, the beaver of a helmet, the part covering cheeks and mouth: bucculas tergere, to polish the cheek pieces
+buccula | 5 | in the plural also the two cheeks either side of the groove holding a catapult's bolt
+bucinator | 1 | trumpeter
+bucinator | 3 | the man who blew the bucina in the army
+bucinator | 4 | figuratively one who trumpets a thing abroad: bucinator existimationis meae, the herald of my good name
+bucino | 1 | trumpet
+bucino | 3 | to blow the bucina, to give the signal on it, and mostly used impersonally: cum bucinatum est, when the trumpet had sounded
+bucino | 4 | of the hours it marked off: ter bucinavit, the trumpet sounded three times while he declaimed
+buculus | 1 | bullock
+buculus | 3 | a young bullock or steer
+buculus | 4 | its feminine bucula is commoner and classical, a heifer
+buculus | 5 | Myron's bronze heifer at Athens was the famous example
+bulbus1 | 1 | bulb
+bulbus1 | 2 | onion
+bulbus1 | 3 | a bulbous root, as of the tulip, hyacinth or lily
+bulbus1 | 4 | an onion grown as a vegetable, of several kinds, the Megarian being best known
+bulla | 1 | bubble
+bulla | 2 | stud
+bulla | 3 | anything that swells and so turns round; first a bubble on water: pluvio caelo surgere bulla solet, a bubble rises when the sky is rainy
+bulla | 4 | so proverbially of what is empty and soon gone: homo bulla, man is a bubble
+bulla | 5 | a boss or knob on a door: bullas aureas ex valvis auferre, to strip the gilt studs from the doors
+bulla | 6 | a stud on a belt: fulserunt cingula bullis, the belt shone with its bosses
+bulla | 7 | above all the bulla itself, a round amulet, usually of gold, hung round the neck
+bulla | 8 | worn by boys of good family and laid aside at manhood, when it was dedicated to the Lares
+bulla | 9 | first an ornament of triumph taken over from the Etruscan kings; the children of freedmen wore one of leather
+bullatus | 1 | studded
+bullatus | 3 | fitted with bosses: bullatum cingulum, a studded belt; and of the sky, bullatus aether, the star-studded heaven
+bullatus | 4 | wearing the bulla, and so still a child: bullatus heres, an heir yet in his boyhood
+bullatus | 5 | from the bubble sense, either soon gone or else puffed up: bullatae nugae, trifles that are mere bubbles
+bullo | 1 | bubble
+bullo | 3 | to boil up, with the second form bullio beside it: ubi bullabit vinum, when the wine comes to the boil
+bullo | 4 | of springs: bullientes fontes, springs that bubble up
+bullo | 5 | in the passive participle, boiled or half cooked
+bullo | 6 | figuratively, to seethe with feeling: indignatione bullire, to boil with indignation
+# review: bustuarius the sense is 'of the burning place'; English has no adjective, and 'funeral' is far too wide
+bustuarius | 1 | of the pyre
+bustuarius | 3 | belonging to the place where the dead were burned: bustuarius gladiator, one who fought at the pyre in honour of the dead
+bustuarius | 4 | Cicero throws the word at Clodius for the riot he raised at a funeral
+bustuarius | 5 | bustuaria moecha, a woman who plies her trade among the tombs
+bustum | 1 | tomb
+bustum | 2 | pyre
+bustum | 3 | properly the spot where a body was both burned and buried, a place merely burned on being an ustrina
+bustum | 4 | the pyre itself once the body is burnt: semiusta busta servant, they keep watch over the half-burnt pyre
+bustum | 5 | commonly in the poets a mound or grave: bustum violare, to desecrate a tomb
+bustum | 6 | figuratively of anything that swallows a body up, such as the maw of a man-eater
+bustum | 7 | in abuse, the grave of something: bustum legum omnium, the tomb of every law; bustum rei publicae, the grave of the state
+bustum | 8 | of a battlefield: civilia busta Philippi, the graves of civil war at Philippi
+bustum | 9 | Ad Busta Gallica, a place in Rome named from the Gauls burned and buried there
+bustum | 10 | of a destroyed city its ruins, and sometimes the ashes of the burnt body itself
+buxeus | 1 | of boxwood
+buxeus | 3 | made of boxwood: buxea mola, a boxwood mill
+buxeus | 4 | of the colour of boxwood, that is pale yellow: buxei dentes, teeth the colour of box
+buxeus | 5 | so of a sickly pallor, and of rings pale enough to be taken for counterfeit
+buxum | 1 | boxwood
+buxum | 3 | the wood of the box tree, prized by turners: torno rasile buxum, boxwood smoothed on the lathe
+buxum | 4 | proverbial for paleness: ora buxo pallidiora, a face paler than box
+buxum | 5 | of things made from it, a pipe or flute: inflati murmur buxi, the hum of the pipe when it is blown
+buxum | 6 | a spinning top: buxum torquere flagello, to whip a top along
+buxum | 7 | a comb: crines depectere buxo, to comb out the hair
+buxum | 8 | a writing tablet
+buxum | 9 | and by transfer the box tree itself
