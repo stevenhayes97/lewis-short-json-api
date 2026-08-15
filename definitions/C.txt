@@ -118,3 +118,80 @@ caelo | 4 | also on other materials, on wood, marble or glass: caelatum divini o
 caelo | 5 | of fine weaving or embroidery: velamina caelata multa arte, hangings worked with great skill
 caelo | 6 | of poetry: caelatum novem musis opus, a work chased by the nine Muses
 caelo | 7 | figuratively of the stars: caelatum stellis Delphina, the Dolphin picked out in stars
+caelum1 | 1 | graver
+caelum1 | 3 | the chisel or burin the sculptor and engraver works with, and the word caelatura is named from it
+caelum2 | 1 | sky
+caelum2 | 2 | heaven
+caelum2 | 3 | the heavens as the vault overhead, and personified as Caelus, the father of Saturn
+caelum2 | 4 | in augury: de caelo servare, to watch the sky for signs; de caelo fieri, of such a sign appearing
+caelum2 | 5 | a region or climate lying under one sky: hoc caelum sub quo natus sum, this climate I was born under
+caelum2 | 6 | the air or the weather: pingue et concretum caelum, a heavy clogged air
+caelum2 | 7 | of the time of day: albente caelo, at daybreak; vesperascente caelo, as the evening drew on
+caelum2 | 8 | height, and the upper world set against the lower: mons in caelum attollitur, the mountain rises skyward
+caelum2 | 9 | figuratively the height of fortune or of praise: aliquem in caelum ferre, to praise someone to the skies
+caelum2 | 10 | proverbially: quid si nunc caelum ruat, what if the sky should fall now, of an idle fear; caelo missus, sent from heaven, of unlooked-for luck
+caementum | 1 | quarry stone
+caementum | 3 | a rough unhewn stone straight from the quarry, used for walling, and usually in the plural: materiem calcem caementa convehere, to cart up timber, lime and stone
+caementum | 4 | caementa marmorea, the chips that fly off marble in the working
+caenum | 1 | filth
+caenum | 3 | dirt, mud or mire, always with a note of disgust, unlike limus or lutum: pejus caeno, worse than filth
+caenum | 4 | figuratively moral filth: in tenebris volvi caenoque, to wallow in darkness and dirt
+caenum | 5 | ex caeno plebeio consulatum extrahere, to drag the consulship out of the plebeian mire
+caenum | 6 | as abuse of a person, filthy wretch
+caepa | 1 | onion
+caepa | 3 | the onion, found both as a feminine caepa and a neuter caepe
+caepa | 4 | the Egyptians held it a sacred plant, which the Roman satirists thought absurd
+caerimonia | 1 | ceremony
+caerimonia | 3 | most often in the plural, religious rites and observances: maximis caerimoniis contineri, to be hedged about with the greatest ceremonies
+caerimonia | 4 | the sacredness of a thing: caerimonia legationis, the inviolability of an embassy
+caerimonia | 5 | awe felt towards the gods, the outward reverence, where religio takes in the inward feeling as well
+caerimonia | 6 | where ritus covers everyday usages too, caerimonia belongs to the gods alone
+caeruleus1 | 1 | dark-blue
+caeruleus1 | 3 | the poets' colour for sky and sea: caeli caerula templa, the blue vaults of heaven; caerula aequora, the dark blue seas
+caeruleus1 | 4 | as a neuter plural caerula, the blue expanse of sky or of sea
+caeruleus1 | 5 | of rivers and their gods: caeruleus Thybris, dark-flowing Tiber
+caeruleus1 | 6 | of other dark blue things, such as the woad the Britons stained themselves with, and dyes used on the hair
+caeruleus1 | 7 | more widely dark or gloomy, the poets' word for death, night and rain: caeruleus imber, a black rainstorm
+caeruleus1 | 8 | sometimes dark green: caerulea coma, green tresses; arbor Palladis, the grey-green olive
+caeruleus1 | 9 | it has a shorter form caerulus, just as common in the poets
+caesariatus | 1 | long-haired
+caesariatus | 3 | wearing the hair long: miles usque caesariatus, a soldier with his hair right down his back
+caesariatus | 4 | of a helmet plumed with horsehair
+caesaries | 1 | locks
+caesaries | 3 | a full flowing head of hair, dark and counted handsome, used only in the singular and mostly by the poets: pectere caesariem, to comb one's locks
+caesaries | 4 | of women as well as men: decoram caesariem afflare, to breathe beauty over the hair
+caesaries | 5 | rarely of a dog's coat, or of the hair of the beard
+# review: caesim the military sense is 'with the edge', against punctim 'with the point'; English has no single adverb
+caesim | 1 | with the edge
+caesim | 3 | with a slashing stroke rather than a thrust: punctim magis quam caesim petere hostem, to go at the enemy with the point rather than the edge
+caesim | 4 | of pruning, by striking rather than by drawing the blade
+caesim | 5 | of style, in short clauses: caesim dicere, to speak in clipped phrases
+caesius1 | 1 | grey-blue
+caesius1 | 3 | of the eyes alone, a bluish grey: virgo caesia, a grey-eyed girl
+caesius1 | 4 | the standing epithet of Minerva's eyes, as caerulei is of Neptune's
+caespes | 1 | turf
+caespes | 3 | a sod cut out with the grass still on it, used to build up altars and mounds: non esse arma caespites, that sods are no weapons
+caespes | 4 | an altar raised of turf: caespes vivus, a living turf altar
+caespes | 5 | a hut roofed with sods: fortuitus caespes, a chance shelter of turf
+caespes | 6 | grassy ground, greensward: de caespite se levare, to rise up from the grass
+caespes | 7 | a clump of plants, or any knob of that shape
+caespes | 8 | in late Latin simply the ground
+# review: caestus a leaded hide strap bound round the hands; 'boxing-glove' suggests padding, which is the opposite of it
+caestus | 1 | boxing strap
+caestus | 3 | a strap of bull's hide weighted with lead or iron, wound round a boxer's hands and arms
+caestus | 4 | worn by the pugiles at the games, and far more dangerous than any glove
+caesura | 1 | cutting
+caesura | 3 | the cutting or felling of timber: caesura ligni, the felling of wood
+caesura | 4 | what has been cut off, the cuttings
+caesura | 5 | in metre, a break falling within a foot, the caesura, also called incisio
+calamister | 1 | curling-iron
+calamister | 3 | a hollow iron heated in the ashes for curling the hair: calamistri vestigia, the marks of the curling-iron
+calamister | 4 | figuratively of style, overdone ornament: ne calamistri quidem adhibebuntur, not even the curling-tongs shall be brought out
+calamistratus | 1 | curled
+calamistratus | 3 | with the hair crimped by the iron: calamistrata coma, curled locks
+calamistratus | 4 | said of men as a reproach for effeminacy: calamistratus saltator, a dancer with his hair in curls
+calamitas | 1 | disaster
+calamitas | 3 | in its first sense damage to crops, the farmers using the word of hail and of blight
+calamitas | 4 | loss, misfortune or ruin of any kind: nostri fundi calamitas, the blight of my farm, said of a girl
+calamitas | 5 | in the historians above all, a defeat in war: calamitatem accipere, to suffer a disaster
+calamitas | 6 | its metre shuts it out of hexameter verse, so it belongs to prose and to iambics
