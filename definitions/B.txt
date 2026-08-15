@@ -406,7 +406,7 @@ bini | 5 | of things that come in pairs: boves bini, a yoke of oxen; bina hastil
 bini | 6 | without a noun: bis bina, twice two; findi in bina, to be split into two
 bini | 7 | bina milia, two thousand
 binominis | 1 | two-named
-binominis | 3 | having two names, used only by Ovid and only in the genitive singular: binominis Histri, of the Ister, which is also the Danube
+binominis | 3 | having two names, used only by Ovid and only in the genitive singular: binominis Istri, of the Ister, which is also the Danube
 binominis | 4 | so too of Ascanius, who was also called Iulus
 bipalium | 1 | double mattock
 bipalium | 3 | a two-pronged spade for deep digging: bipalio vertere terram, to turn the soil with the double spade
@@ -417,8 +417,8 @@ bipartio | 4 | commonest in its participle: bipartita divisio, a division into t
 bipartio | 5 | its adverb bipartito, in two parts or in two directions: bipartito signa inferre, to attack in two columns
 # review: bipatens of double doors that open both ways; English has no adjective, and 'folding' misses the being thrown open
 bipatens | 1 | opening both ways
-bipatens | 3 | of double doors that swing open on two leaves: portae bipatentes, gates flung wide
-bipatens | 4 | of the halls of the gods: tecta bipatentia, halls open on either side
+bipatens | 3 | of double doors that swing open on two leaves: portis bipatentibus, at the gates flung wide
+bipatens | 4 | of the halls of the gods: tectis bipatentibus, in halls open on either side
 bipatens | 5 | an Ennian word, kept alive by two passages of Virgil
 bipedalis | 1 | two-foot
 bipedalis | 3 | two feet long, broad or thick: bipedales trabes, beams two feet thick
@@ -443,7 +443,7 @@ bis | 3 | twice, on two occasions: non semel sed bis, not once but twice; bis mo
 bis | 4 | bis consul, one who has been consul twice in all, where iterum consul is one holding it for the second time
 bis | 5 | doubly, in two respects: in una civitate bis improbus fuisti, in one city you did wrong on two counts
 bis | 6 | of frequency: bis in die or bis die, twice a day; bis anno, twice a year
-bis | 7 | with distributives to give a total: bis bina, twice two; bis quinos dies, for ten days; bis deni, twenty
+bis | 7 | with distributives to give a total: bis binos, twice two; bis quinos dies, for ten days; bis deni, twenty
 bis | 8 | in the poets with cardinals as well: bis mille sagittae, two thousand arrows
 bis | 9 | bis terve, two or three times; bis terque, over and over again
 bis | 10 | bis tanto or bis tantum, twice as much; and proverbially bis ad eundem, to trip twice over the same stone
@@ -544,7 +544,7 @@ boo | 4 | it has the older forms bovo and boere beside the usual boare
 boreas | 1 | north wind
 boreas | 3 | the north wind, for which the native Latin word is aquilo: Boreae frigus, the chill of the north wind
 boreas | 4 | by transfer the north itself: Boreae finitimum latus, the side that borders on the north
-boreas | 5 | personified as a god, son of the river Strymon and father of Calais and Zetes
+boreas | 5 | personified as a god, son of the river Strymon and father of Calais and Zetes by Orithyia
 boreas | 6 | its adjective boreus, northern: sub axe boreo, under the northern sky
 bos | 1 | ox
 bos | 2 | cow
