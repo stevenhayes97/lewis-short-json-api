@@ -2530,3 +2530,20 @@ commercium | 2 | intercourse
 commercium | 3 | the right to trade as a merchant, a legal trading privilege
 commercium | 4 | euphemistically, illicit intercourse, an affair
 commercor | 1 | buy up
+commereo | 1 | deserve
+commereo | 3 | to commit an offence, be guilty of wrongdoing
+commigro | 1 | migrate
+commilitium | 1 | comradeship
+commilito1 | 1 | fellow-soldier
+commilito1 | 3 | transf., a comrade or companion in general
+comminatio | 1 | threat
+commingo | 1 | befoul
+comminiscor | 1 | invent
+comminiscor | 3 | in general, to devise or contrive, without necessarily implying falsehood
+comminor | 1 | threaten
+comminuo | 1 | crush
+comminuo | 2 | diminish
+comminuo | 3 | trop., to weaken or impair someone's spirit or resolve
+comminus | 1 | hand-to-hand
+comminus | 2 | nearby
+comminus | 3 | transf. of time, immediately
