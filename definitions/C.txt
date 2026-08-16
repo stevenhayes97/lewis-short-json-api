@@ -3184,3 +3184,27 @@ conscendo | 3 | conscendere navem, to go aboard a ship
 conscientia | 1 | conscience
 conscientia | 2 | complicity
 conscientia | 3 | self-awareness, as of one's own strength or weakness
+conscindo | 1 | tear
+conscindo | 3 | trop., to abuse or slander, tear to pieces with words
+conscisco | 1 | decree
+conscisco | 3 | mortem sibi consciscere, to kill oneself
+conscius | 1 | aware
+conscius | 2 | accomplice
+conscius | 3 | conscius sibi, conscious of one's own guilt
+conscribo | 1 | enrol
+conscribo | 2 | compose
+conscribo | 3 | of physicians, to prescribe, as a remedy
+conscriptio | 1 | composition
+conscriptio | 3 | milit., a levy or enlistment of troops
+conseco | 1 | cut up
+conseco | 3 | to lop or prune, as branches
+consecratio | 1 | consecration
+consecratio | 3 | in law, a formal execration or curse
+consecro | 1 | consecrate
+consecro | 2 | deify
+consecro | 3 | trop., to immortalise, as fame or memory
+consector | 1 | pursue
+consector | 2 | persecute
+consector | 3 | trop., to strive after or emulate, as an example
+consecutio | 1 | consequence
+consecutio | 3 | rhet., a sequence or ordering, as of tenses
