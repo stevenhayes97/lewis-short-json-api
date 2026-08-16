@@ -3479,3 +3479,26 @@ contingo1 | 4 | to attain or reach, as a goal
 contingo1 | 5 | to pollute or defile
 contingo2 | 1 | moisten
 contingo2 | 3 | trop., to tinge or touch, as with charm or grace
+continuatio | 1 | succession
+continuatio | 3 | rhet., a rhetorical period, a complex sentence
+continuo2 | 1 | connect
+continuo2 | 2 | continue
+continuor | 1 | join
+continuus | 1 | continuous
+continuus | 3 | as a substantive, a constant attendant
+continuus | 4 | continuo, immediately or forthwith
+contio | 1 | assembly
+contio | 2 | speech
+contio | 3 | in contionem ascendere, to mount the rostrum to speak
+contionabundus | 1 | haranguing
+# review: contionalis "of the assembly" needs the article to be accurate; no shorter English phrasing fits
+contionalis | 1 | of the assembly
+contionor | 1 | harangue
+contionor | 3 | in gen., to declare or make known publicly
+contorqueo | 1 | twist
+contorqueo | 2 | vehement
+contorqueo | 3 | involved or intricate, as an argument
+contra | 1 | against
+contra | 2 | opposite
+contra | 3 | on the contrary, conversely
+contra | 4 | contra atque, otherwise than, differently from what
