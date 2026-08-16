@@ -520,3 +520,25 @@ denique | 1 | finally
 denique | 3 | in enumerations: in short, in a word, in fact
 denique | 4 | postAug: therefore, accordingly, as a result
 denominatio | 1 | metonymy
+denomino | 1 | name
+denoto | 1 | mark
+denoto | 3 | to point out, specify, indicate
+denoto | 4 | trop: to stigmatize, brand with reproach
+dens | 1 | tooth
+dens | 3 | meton: a prong, spike, or point, as of a plough or comb
+dens | 4 | trop: dens invidiae, the tooth of envy, malicious spite
+denso | 1 | condense
+densus | 1 | dense
+densus | 3 | of time: frequent, continuous, following in close succession
+densus | 4 | trop of speech: condensed, concise
+dentale | 1 | share-beam
+dentale | 3 | meton: a ploughshare
+dentatus | 1 | toothed
+dentatus | 3 | of implements: spiked, toothed, like a rake or saw
+dentatus | 4 | of paper (charta): polished smooth with a tooth
+dentio1 | 1 | teethe
+denubo | 1 | marry
+denubo | 3 | to marry beneath one's social rank
+denudo | 1 | denude
+denudo | 3 | trop: to disclose, reveal, betray, expose
+denudo | 4 | to strip, plunder someone of their possessions
