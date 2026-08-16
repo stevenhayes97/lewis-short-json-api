@@ -3428,3 +3428,25 @@ contemplo | 1 | contemplate
 contemplor | 1 | gaze
 contemplor | 2 | contemplate
 contemptim | 1 | contemptuously
+contemptio | 1 | contempt
+contemptor | 1 | despiser
+contemptrix | 1 | despiser
+contemptus2 | 1 | contempt
+contemptus2 | 2 | being despised
+contemptus2 | 3 | contemptui esse, to be an object of scorn
+contendo | 1 | strive
+contendo | 2 | contend
+contendo | 3 | to march or hasten, as an army to a place
+contendo | 4 | to assert or maintain, as an argument
+contendo | 5 | to compare or contrast
+contentio | 1 | effort
+contentio | 2 | dispute
+contentio | 3 | rhet., a comparison or antithesis of one thing with another
+contentiosus | 1 | contentious
+conterminus | 1 | bordering
+conterminus | 3 | as a substantive, a neighbouring region or a neighbour
+contero | 1 | grind
+contero | 2 | wear out
+contero | 3 | to spend or pass, as time
+contero | 4 | trop., to obliterate or erase, as from memory
+conterreo | 1 | terrify
