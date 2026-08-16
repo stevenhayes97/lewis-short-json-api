@@ -1036,3 +1036,25 @@ dignus | 3 | dignus qui + subj., worthy to do something, deserving that
 digredior | 1 | depart
 digredior | 2 | digress
 digredior | 3 | trop: to deviate, depart (from a principle or duty)
+digressio | 1 | departure
+digressio | 3 | trop: a deviation, digression (in speech or writing)
+digressus2 | 1 | departure
+digressus2 | 3 | trop: a digression (in speech)
+dijudico | 1 | adjudicate
+dijudico | 3 | to discern, distinguish (between two things)
+dijudico | 4 | transf: to decide by arms, settle by war
+dilabor | 1 | dissolve
+dilabor | 2 | disperse
+dilabor | 3 | pregn: to crumble, fall into decay (of buildings)
+dilabor | 4 | trop: to go to ruin, be squandered, e.g. male parta male dilabuntur, ill-gotten gains are ill lost
+dilabor | 5 | of time: to glide away, pass
+dilacero | 1 | dismember
+dilacero | 3 | trop: to tear apart, rend, destroy (a state, one's mind, etc.)
+dilanio | 1 | mangle
+dilargior | 1 | lavish
+dilatio | 1 | delay
+dilatio | 3 | the interval, the period of postponement
+dilato | 1 | dilate
+dilato | 3 | trop: to amplify, expand (a speech or argument)
+diligentia | 1 | diligence
+diligentia | 3 | in partic: economy, frugality (in household management)
