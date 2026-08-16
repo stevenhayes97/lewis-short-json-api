@@ -2591,3 +2591,25 @@ commoveo | 1 | move
 commoveo | 2 | excite
 commoveo | 3 | to dislodge or shake something physically
 commoveo | 4 | to stir up trouble or passions
+communicatio | 1 | communication
+communicatio | 3 | rhet., a figure in which the speaker turns to the audience as if sharing the inquiry with them
+communico | 1 | share
+communico | 3 | to partake in or receive a share of something
+communio1 | 1 | fortify
+communio1 | 3 | trop., to strengthen or confirm, as an argument or authority
+communio2 | 1 | fellowship
+communio2 | 3 | eccl., the sacrament of the Lord's Supper
+communis | 1 | common
+communis | 3 | of manners, affable or courteous
+communis | 4 | in commune, for the common good, in general
+communis | 5 | as a substantive commune, a community or state
+communitas | 1 | community
+communitas | 3 | rarely, courtesy or affability
+communitio | 1 | preparation
+communitio | 3 | rhet., the preparing of an approach to one's subject
+communitio | 4 | concr., a fortification
+commurmuro | 1 | murmur
+commutabilis | 1 | changeable
+commutatio | 1 | change
+commutatio | 3 | an exchange, as of prisoners
+commutatio | 4 | rhet., a figure of reciprocal antithesis
