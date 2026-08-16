@@ -2719,3 +2719,28 @@ compositio | 4 | a matching of combatants, as gladiators
 compositor | 1 | composer
 compotio | 1 | grant
 compotio | 3 | pass., to become possessed of or obtain something
+comprecor | 1 | pray
+comprehendo | 1 | seize
+comprehendo | 2 | comprehend
+comprehendo | 3 | to arrest or apprehend, as a criminal
+comprehendo | 4 | to comprise or include, as in writing or space
+comprehensibilis | 1 | graspable
+comprehensibilis | 3 | philos., conceivable or intelligible, translating the Stoic term katalepton
+comprehensio | 1 | seizure
+comprehensio | 2 | comprehension
+comprehensio | 3 | rhet., a period, a complete rounded sentence
+compressio | 1 | compression
+compressio | 3 | an embrace, or euphemistically, copulation
+compressio | 4 | a repression or suppression, as of a rebellion
+compressus2 | 1 | compression
+compressus2 | 3 | an embrace, or euphemistically, copulation
+comprimo | 1 | compress
+comprimo | 2 | restrain
+comprimo | 3 | to suppress or withhold, as information
+comprobo | 1 | approve
+comprobo | 2 | confirm
+compromitto | 1 | compromise
+compromitto | 3 | rarely, to promise at the same time
+compungo | 1 | prick
+compungo | 3 | trop., to needle or sting with words
+compungo | 4 | in later Latin, to feel remorse or compunction
