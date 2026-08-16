@@ -2405,7 +2405,7 @@ colo1 | 2 | worship
 colo1 | 3 | without reference to farming, to dwell or inhabit a place: hanc urbem colere, to dwell in this city
 colo1 | 4 | of the body, to groom or adorn: corpus colere, to take care of one's appearance
 colo1 | 5 | with abstract objects, to practise or devote oneself to: amicitiam colere, to cultivate a friendship; fidem colere, to keep one's word
-colo1 | 6 | of a period of time, to live through, to spend: aetatem colere, to pass one's life
+colo1 | 6 | of a period of time, to live through, to spend: vitam colere, to pass one's life
 colo1 | 7 | colere aliquem, to honour or pay respect to a person, not only a god
 colo2 | 1 | strain
 colo2 | 3 | trop., of dreams, colatiora somniari, to have clearer, more refined dreams
@@ -2430,7 +2430,7 @@ color | 4 | trop., external form, character, or style, especially of diction: co
 color | 5 | pregn., splendour, brilliance, embellishment of style
 coloro | 1 | colour
 coloro | 2 | tan
-coloro | 3 | trop., to imbue or influence thoroughly: sapientia animum coloravit, wisdom shaped his character
+coloro | 3 | trop., to imbue thoroughly, as opposed to a merely superficial stain: sapientia non coloravit sed infecit, wisdom did not truly dye the mind but only tainted it
 coloro | 4 | of style, to gloss over or palliate a fault
 coluber | 1 | snake
 coluber | 3 | esp., of the snaky hair of Medusa, the Furies, or the Hydra
