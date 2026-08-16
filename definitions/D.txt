@@ -1010,3 +1010,29 @@ digero | 2 | digest
 digero | 3 | medic: to dissolve, dissipate (morbid matter)
 digero | 4 | trop: to distribute, apportion
 digero | 5 | as noun (digesta): the Digests, Justinian's compiled code of Roman law
+digestio | 1 | digestion
+digestio | 3 | an orderly distribution, arrangement
+digestio | 4 | rhet t.t.: enumeration, a listing of points in order
+digitulus | 1 | little finger
+digitulus | 3 | transf: a toe, a claw (of a bird or crab)
+digitus1 | 1 | finger
+digitus1 | 2 | inch
+digitus1 | 3 | transf: a toe
+digitus1 | 4 | transf: a small twig, shoot
+digladior | 1 | duel
+digladior | 3 | transf: to dispute vehemently, wrangle (in words)
+dignatio | 1 | esteem
+dignatio | 3 | transf: dignity, reputation, honour
+dignitas | 1 | dignity
+dignitas | 2 | office
+dignitas | 3 | worthiness, merit, desert
+dignitas | 4 | transf: (of things) worth, value, excellence
+digno | 1 | deem worthy
+dignor | 1 | deem worthy
+dignor | 3 | with inf.: to deign to do something, think it fitting
+dignor | 4 | with a negative: to disdain, refuse as beneath oneself
+dignus | 1 | worthy
+dignus | 3 | dignus qui + subj., worthy to do something, deserving that
+digredior | 1 | depart
+digredior | 2 | digress
+digredior | 3 | trop: to deviate, depart (from a principle or duty)
