@@ -260,3 +260,31 @@ deductio | 5 | jurid.: a formal ejection from a disputed property, or the act th
 deductus1 | 1 | drawn-in
 deductus1 | 2 | weak
 deductus1 | 3 | of a voice: weak, subdued (ante-classical usage)
+deerro | 1 | stray
+defaeco | 1 | purify
+defatigo | 1 | exhaust
+defectio | 1 | defection
+defectio | 2 | failure
+defectio | 3 | esp., of the sun or moon: an eclipse
+defectio | 4 | exhaustion, fainting, a swoon (post-Augustan prose)
+defectio | 5 | in grammar: an ellipsis
+defectus2 | 1 | defection
+defectus2 | 2 | failure
+defectus2 | 3 | a swoon, a fainting fit
+defendo | 1 | defend
+defendo | 2 | maintain
+defendo | 3 | with a dative: to ward something off from someone (defendere solstitium pecori, to shield the flock from the summer heat)
+defendo | 4 | of a legal case: to argue, to assert as a defence
+defensio | 1 | defence
+defensio | 3 | concr.: a written or spoken defence, a speech in defence
+defensio | 4 | jurid.: the legal maintenance of a right, or the prosecution of a crime
+defenso | 1 | shield
+defensor | 1 | defender
+defensor | 3 | plural, defensores: the garrison of a besieged place
+defensor | 4 | defensor civitatis, a late-imperial magistrate who protected provincial townspeople from oppression
+defero | 1 | carry
+defero | 2 | report
+defero | 3 | to confer, bestow, or offer something upon someone (deferre imperium ad aliquem, to confer command on someone)
+defero | 4 | legal: to indict, to accuse someone before a court
+defero | 5 | naut: to drive a ship off course, to carry it along
+defero | 6 | pub. law: to report one's property to the censors, for assessment
