@@ -927,3 +927,33 @@ dicaculus | 1 | talkative
 dicaculus | 2 | witty
 dicax | 1 | witty
 dicax | 2 | sarcastic
+dicio | 1 | dominion
+dicio | 3 | esse in dicione alicujus, to be under someone's power or control
+# review: dicis has no independent meaning outside the fixed phrase dicis causa/gratia
+dicis | 1 | for form's sake
+dicis | 3 | dicis causa, for form's sake, as a formality, for appearance's sake
+dico1 | 1 | dedicate
+dico1 | 3 | transf: to give up, set apart, or devote (time, effort) to someone
+dico2 | 1 | say
+dico2 | 2 | call
+dico2 | 3 | to plead, deliver (a speech), esp. in court
+dico2 | 4 | to appoint, name (to an office), e.g. dictatorem dicere, to appoint a dictator
+dico2 | 5 | to predict, foretell
+dico2 | 6 | dictum ac factum, no sooner said than done
+dico2 | 7 | dicto audientem esse alicui, to obey someone, take orders from someone
+dictator | 1 | dictator
+dictator | 3 | transf: (of a foreign or absolute ruler) a supreme commander, autocrat
+dictator | 4 | late: one who dictates (a letter or text)
+dictatura | 1 | dictatorship
+dictatura | 3 | rare, in wordplay: the practice of dictating lessons to pupils
+dictio | 1 | diction
+dictio | 3 | an oracular response, prediction
+dictio | 4 | the art of public speaking, oratory
+dictito | 1 | reiterate
+dictito | 3 | jurid: to plead (cases) habitually, practise as an advocate
+dicto | 1 | dictate
+dicto | 2 | compose
+dicto | 3 | to prescribe, lay down (rules or terms)
+dicto | 4 | of abstract things: to suggest, dictate, e.g. ratio dictat, reason dictates
+dido1 | 1 | distribute
+dido1 | 3 | trop: to spread, disseminate (rumour, fame, or news)
