@@ -312,3 +312,24 @@ deflagro | 3 | of a fire of passion: to abate, to be allayed (deflagrare iras, f
 deflecto | 1 | swerve
 deflecto | 3 | trop: to divert someone from their pursuits or a particular direction (aliquem ab institutis studiis deflectere, to divert someone from their chosen studies)
 deflecto | 4 | grammar, in late Latin: to inflect a word
+defleo | 1 | lament
+defloresco | 1 | wither
+defluo | 1 | flow down
+defluo | 2 | vanish
+defluo | 3 | trop: to come, to originate from a source (hoc totum e sophistarum fontibus defluxit, all this flowed down from the springs of the sophists)
+defluo | 4 | of a person: to desert, to prove unfaithful (unus e tribunis defluxit, one of the tribunes deserted)
+defluus | 1 | descending
+defluus | 3 | esp.: vasculum defluum, a water-clock, a vessel through which water trickles down
+defodio | 1 | bury
+defodio | 3 | to dig deeply, to excavate a hole or trench
+defodio | 4 | transf: to hide, to conceal
+deformis | 1 | ugly
+deformis | 2 | disgraceful
+deformitas | 1 | ugliness
+deformitas | 2 | baseness
+deformitas | 3 | of style: uncouthness, inelegance
+deformo1 | 1 | shape
+deformo1 | 3 | trop: to depict, to describe in words
+deformo2 | 1 | disfigure
+deformo2 | 2 | disgrace
+defraudo | 1 | defraud
