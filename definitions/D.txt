@@ -873,3 +873,30 @@ deverticulum | 1 | byway
 deverticulum | 2 | inn
 deverticulum | 3 | trop: a digression, deviation (in speech or writing)
 deverticulum | 4 | trop: a refuge, retreat, hiding place
+deverto | 1 | turn aside
+deverto | 2 | lodge
+deverto | 3 | trop, rare: to resort to, have recourse to (a method)
+deverto | 4 | trop, rare: to digress
+devexus | 1 | sloping
+devexus | 3 | transf: (of age or time) declining, waning
+devincio | 1 | bind
+devincio | 3 | trop: to bind (someone) by obligation, win over, attach firmly
+devinco | 1 | vanquish
+devinco | 3 | trop: to overcome, prevail over (a plan, argument, or motive)
+devito | 1 | avoid
+devius | 1 | remote
+devius | 3 | transf: (of people) secluded, living in out-of-the-way places
+devius | 4 | trop: wayward, inconsistent, erratic
+devoco | 1 | summon
+devoco | 3 | trop: to allure, entice away (from a course or purpose)
+devolo | 1 | fly down
+devolo | 3 | transf: to hasten down, rush, hurry away
+devolvo | 1 | roll
+devolvo | 3 | pass: to tumble down, fall headlong
+devolvo | 4 | trop, mid: to sink down, fall into (a state), e.g. devolvi ad inertiam, to sink into idleness
+devoro | 1 | devour
+devoro | 2 | squander
+devoro | 3 | transf: to engulf, swallow up (of the earth, sea, etc.)
+devoro | 4 | to repress, suppress, hold back (tears, words, feelings)
+devoro | 5 | trop: to endure patiently, put up with, swallow (an insult or hardship)
+devoro | 6 | to devour eagerly, get through avidly (a book or speech)
