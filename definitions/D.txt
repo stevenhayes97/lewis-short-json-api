@@ -609,3 +609,27 @@ depravatio | 1 | distortion
 depravatio | 3 | trop: moral corruption, depravity
 depravo | 1 | distort
 depravo | 3 | trop: to corrupt, deprave, lead astray
+deprecatio | 1 | entreaty
+deprecatio | 3 | a plea for pardon or forgiveness
+deprecatio | 4 | relig: an imprecation, a curse invoking punishment
+deprecator | 1 | intercessor
+deprecor | 1 | beg off
+deprecor | 3 | to intercede on behalf of someone or something in danger
+deprecor | 4 | relig: to invoke a curse, to imprecate
+deprehendo | 1 | catch
+deprehendo | 2 | detect
+deprehendo | 3 | trop: to perceive, understand, discern
+deprehendo | 4 | to catch someone in the act of wrongdoing (deprehendi in scelere, to be caught red-handed)
+deprehendo | 5 | to hem in, trap, or embarrass
+depretio | 1 | undervalue
+depretio | 3 | trop: to disregard, make light of
+deprimo | 1 | depress
+deprimo | 3 | naut: to sink a ship
+deprimo | 4 | trop: to disparage, belittle in words
+depromo | 1 | fetch
+depromo | 3 | trop: to draw upon, to derive from a source, as arguments from books
+depropero | 1 | hasten
+depropero | 3 | to prepare something in haste
+depso | 1 | knead
+depugno | 1 | fight
+depugno | 3 | to fight to the finish, to stop fighting only once it is settled
