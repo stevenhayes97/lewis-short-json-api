@@ -77,3 +77,34 @@ decanto | 4 | intransitive: to leave off singing or lamenting
 decanus | 1 | dean
 decanus | 3 | a superior set over ten people, such as soldiers or monks (late Latin administrative and religious use)
 decanus | 4 | in astrology: a decan, the ruler of one of the three ten-degree divisions of a zodiac sign
+decedo | 1 | depart
+decedo | 2 | die
+decedo | 3 | of a magistrate: to retire from a province at the end of one's term (de provincia decedere)
+decedo | 4 | to yield or give way, to make room for someone (decedere de via alicui)
+decedo | 5 | to give up a claim or right, to yield (decedere de jure suo, to give up one's right)
+decedo | 6 | of a fever or symptom: to subside, abate
+decem | 1 | ten
+decemviralis | 1 | decemviral
+decemviri | 1 | decemvirs
+decemviri | 3 | decemviri legibus scribundis, the ten-man commission that drafted the Twelve Tables
+decemviri | 4 | decemviri stlitibus judicandis, a standing court for cases of freedom and citizenship
+decemviri | 5 | decemviri sacris faciundis, the priestly college that kept and consulted the Sibylline Books
+decennalis | 1 | decennial
+decennalis | 3 | decennalia, a festival celebrated every ten years, marking an emperor's reign
+decennis | 1 | decennial
+decennis | 3 | of an animal: ten years old
+decerno | 1 | decide
+decerno | 2 | fight
+decerno | 3 | to resolve or determine to do something (with an infinitive)
+decerno | 4 | of a political or judicial body: to decree, to vote for something as an official decision
+decerpo | 1 | pluck
+decerpo | 2 | detract
+decerpo | 3 | to enjoy or savour something (a transferred sense)
+decerpo | 4 | to destroy or take away entirely (rare)
+decerto | 1 | fight
+decerto | 2 | contend
+decerto | 3 | with an ablative: proelio decertare, to fight a decisive battle
+decessio | 1 | departure
+decessio | 2 | decrease
+decessio | 3 | a magistrate's retirement from his province at the end of his term
+decessio | 4 | decease, death (rare)
