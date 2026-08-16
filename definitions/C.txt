@@ -2895,3 +2895,21 @@ concursus | 3 | an uproar or tumult
 concursus | 4 | jurid., an equal or competing claim, as joint heirship
 concussio | 1 | shaking
 concussio | 3 | jurid., extortion by threats
+concutio | 1 | shake
+concutio | 2 | alarm
+concutio | 3 | to shatter or weaken, as the power of a state
+concutio | 4 | jurid., to terrify someone by threats in order to extort money
+condecet | 1 | befit
+condecoro | 1 | adorn
+condemnatio | 1 | condemnation
+condemno | 1 | condemn
+condemno | 3 | transf., to blame or disapprove of, in general
+condenso | 1 | condense
+condensus | 1 | dense
+condicio | 1 | terms
+condicio | 2 | situation
+condicio | 3 | esp., a marriage or match, or the person to be married
+condicionalis | 1 | conditional
+condico | 1 | arrange
+condico | 3 | jurid., to make a formal claim for the return of something
+condico | 4 | condicere ad cenam, to accept an invitation to dinner
