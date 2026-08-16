@@ -477,3 +477,25 @@ demiror | 3 | to be at a loss, to wonder how or why (demiror qui sciat, I wonder
 demissio | 1 | lowering
 demissio | 3 | trop: dejection, low spirits (demissio animi)
 demissio | 4 | medic: abatement, mitigation of a disease
+demitto | 1 | lower
+demitto | 3 | milit: to lead troops down to lower ground
+demitto | 4 | trop: to cast down the eyes or head, to be downcast
+demitto | 5 | of a place: low-lying, sunken
+demitto | 6 | of lineage: descended, derived (demissum genus ab Aenea, a line descended from Aeneas)
+demo | 1 | remove
+demolior | 1 | demolish
+demonstratio | 1 | demonstration
+demonstratio | 3 | rhetor: a vivid or picturesque description
+demonstratio | 4 | legal: a clear declaration of intent, as in a will
+demonstrativus | 1 | demonstrative
+demonstro | 1 | indicate
+demonstro | 3 | trop: to prove, demonstrate, explain
+demonstro | 4 | legal: to point out the boundaries of a property
+demorior | 1 | die
+demorior | 3 | trop: to fall out of use, become obsolete (of words)
+demorior | 4 | with acc: to be dying of love for someone
+demoror | 1 | delay
+demoveo | 1 | remove
+demoveo | 3 | trop: to divert or dislodge someone from a position or opinion
+demulceo | 1 | stroke
+demulceo | 3 | trop: to soothe, charm, win over
