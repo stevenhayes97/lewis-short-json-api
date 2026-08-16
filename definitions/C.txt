@@ -2814,3 +2814,26 @@ concilio | 1 | win over
 concilio | 2 | procure
 concilio | 3 | to bring about or produce, as peace or goodwill
 concilio | 4 | to unite or connect physically, as parts into a whole
+concilium | 1 | assembly
+concilium | 3 | esp., a deliberative council
+concilium | 4 | a close union or connection, as of atoms
+concinnator | 1 | arranger
+concinnitas | 1 | elegance
+concinnitas | 3 | rhet., a graceful, balanced style of arranging words and clauses
+concinno | 1 | arrange
+concinno | 2 | cause
+concinnus | 1 | elegant
+concinnus | 2 | agreeable
+concino | 1 | harmonize
+concino | 3 | act., to celebrate in song, sing of
+concino | 4 | rarely, to prophesy or foretell
+concipio | 1 | conceive
+concipio | 2 | imagine
+concipio | 3 | to harbor or adopt, as a feeling or passion
+concipio | 4 | jurid., to draw up or compose formally, as an oath
+concitatio | 1 | agitation
+concitatio | 3 | concr., a sedition or popular uprising
+concitator | 1 | instigator
+concito | 1 | spur
+concito | 2 | incite
+concito | 3 | to cause or occasion, as war or disturbance
