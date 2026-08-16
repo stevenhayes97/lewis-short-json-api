@@ -138,3 +138,25 @@ decimus1 | 1 | tenth
 decimus1 | 3 | decimum (adv.), for the tenth time
 decimus1 | 4 | decima (noun), a tithe or tenth part, especially as a religious offering or a tax on provincial land
 decimus1 | 5 | meton: immense, huge, of a wave (poetic use)
+decipio | 1 | deceive
+decipio | 3 | to elude, to escape the notice of (custodes decipere, to slip past the guards)
+decipula | 1 | trap
+decisio | 1 | settlement
+decisio | 3 | a diminishing, decrease (rare)
+declamatio | 1 | declamation
+declamatio | 3 | a theme or exercise set for practice speaking
+declamatio | 4 | in a bad sense: ranting, bombastic talk
+declamator | 1 | declaimer
+declamatorius | 1 | declamatory
+declamito | 1 | declaim
+declamito | 3 | in a bad sense: to bluster, rant
+declamo | 1 | declaim
+declamo | 3 | in a bad sense: to rant, bluster
+declaro | 1 | declare
+declaro | 3 | in public life: to proclaim someone elected to office, especially as consul
+declaro | 4 | trop: to demonstrate, prove, make evident to the mind
+declinatio | 1 | deviation
+declinatio | 2 | declension
+declinatio | 3 | trop: an avoidance, a turning away from something (a malis declinatio, avoidance of evils)
+declinatio | 4 | in rhetoric: a short digression from the subject
+declinatio | 5 | geog: a region or climate zone of the earth (translating Greek klima)
