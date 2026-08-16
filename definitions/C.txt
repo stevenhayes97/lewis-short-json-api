@@ -3863,3 +3863,24 @@ crinis | 3 | meton., the tail of a comet
 crispo | 1 | curl
 crispo | 2 | brandish
 crispo | 3 | neutr., to tremble or quiver, as in an earthquake
+crispus1 | 1 | curly
+crispus1 | 2 | wavy
+crispus1 | 3 | trembling or quivering
+crista1 | 1 | crest
+crista1 | 3 | the plume of a helmet
+cristatus | 1 | crested
+croceus | 1 | saffron
+croceus | 3 | transf., golden or yellow in colour
+cruciabilis | 1 | excruciating
+cruciabilis | 3 | capable of being tortured
+cruciarius | 1 | of torture
+cruciarius | 3 | as a substantive, one who is being crucified
+cruciarius | 4 | facete, a gallows-bird, a scoundrel
+cruciatus | 1 | torture
+cruciatus | 2 | anguish
+cruciatus | 3 | transf., instruments of torture
+crucio | 1 | torture
+crucio | 2 | torment
+crucio | 3 | medial, to grieve or be afflicted, to worry oneself
+crudelis | 1 | cruel
+crudelitas | 1 | cruelty
