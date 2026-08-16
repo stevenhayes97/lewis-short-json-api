@@ -542,3 +542,23 @@ denubo | 3 | to marry beneath one's social rank
 denudo | 1 | denude
 denudo | 3 | trop: to disclose, reveal, betray, expose
 denudo | 4 | to strip, plunder someone of their possessions
+denuntiatio | 1 | announcement
+denuntio | 1 | announce
+denuntio | 3 | jurid: to summon a witness or give notice of a lawsuit
+denuntio | 4 | transf: to threaten, warn, menace
+denuo | 1 | again
+deonero | 1 | unload
+deonero | 3 | trop: to relieve someone of a burden or blame
+deorsum | 1 | down
+deorsum | 3 | sursum deorsum: up and down, back and forth
+deosculor | 1 | kiss
+deosculor | 3 | transf: to praise highly, to laud
+depango | 1 | fix
+depango | 3 | trop: firmly set or fixed, as a boundary or limit
+depasco | 1 | graze
+depasco | 3 | of cattle: to eat up, consume
+depasco | 4 | trop: to prune away, trim down excess in style
+depasco | 5 | trop: to consume, waste away, as by disease
+depeciscor | 1 | bargain
+depeciscor | 3 | trop: to resign oneself to something as an acceptable trade-off (depecisci morte, to be content to die)
+depecto | 1 | comb
