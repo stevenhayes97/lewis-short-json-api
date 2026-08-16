@@ -160,3 +160,26 @@ declinatio | 2 | declension
 declinatio | 3 | trop: an avoidance, a turning away from something (a malis declinatio, avoidance of evils)
 declinatio | 4 | in rhetoric: a short digression from the subject
 declinatio | 5 | geog: a region or climate zone of the earth (translating Greek klima)
+declino | 1 | deviate
+declino | 2 | avoid
+declino | 3 | grammar: to inflect or decline a part of speech
+declino | 4 | with an accusative: to turn something aside, to divert (declinare agmen, to divert the marching column)
+declivis | 1 | sloping
+declivis | 3 | trop: declining, in the decline of life (mulier aetate declivis, a woman in the decline of life)
+decoctio | 1 | decoction
+decollo | 1 | behead
+decollo | 3 | to take something off the neck (literal, rare)
+decollo | 4 | trop: to deprive, rob someone of something (rare)
+decolo | 1 | fail
+decolor | 1 | discoloured
+decolor | 3 | poetic, of an age or fame: degenerate, debased
+decoloro | 1 | discolour
+decoloro | 3 | trop: to tarnish, disgrace
+decoquo | 1 | reduce
+decoquo | 2 | go bankrupt
+decoquo | 3 | to boil or cook something (a general culinary sense)
+decoquo | 4 | trop: to consume, waste away, diminish gradually
+decoquo | 5 | decocta (noun), a chilled boiled-water drink invented by Nero
+decoquo | 6 | decoctum (noun), a medicinal potion or infusion
+decor | 1 | grace
+decoris | 1 | elegant
