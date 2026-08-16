@@ -1650,3 +1650,26 @@ duplico | 4 | late: to split in two, tear apart
 duplus | 1 | double
 duplus | 3 | as noun (duplum): the double, twice the amount
 duplus | 4 | as noun (dupla): a double price, twice the payment
+durabilis | 1 | durable
+duracinus | 1 | hard-berried
+duramentum | 1 | hardening
+duramentum | 3 | transf: a means of toughening, a stimulus to endurance
+duramentum | 4 | trop: firmness, fortitude
+duresco | 1 | harden
+duresco | 3 | trop: to become fixed, set in one's ways, through habit
+duritia | 1 | hardness
+duritia | 2 | austerity
+duritia | 3 | trop: harshness, insensibility, callousness
+duritia | 4 | medic: induration, a hardening (of tissue)
+duro | 1 | harden
+duro | 2 | endure
+duro | 3 | trop: to inure, make hardy, through use or labour
+duro | 4 | in gen: to last, continue in existence, remain
+durus | 1 | hard
+durus | 2 | hardy
+durus | 3 | trop: rough, rude, uncultivated (of style or manners)
+durus | 4 | trop: harsh, stern, unfeeling, obstinate
+durus | 5 | of things: severe, toilsome, burdensome, adverse
+dux | 1 | leader
+dux | 2 | general
+dux | 3 | transf: a chief, head (of a herd, flock, or swarm)
