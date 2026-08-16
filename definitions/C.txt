@@ -3601,3 +3601,28 @@ conventus2 | 1 | assembly
 conventus2 | 2 | court
 conventus2 | 3 | a trading company or corporation, in a province
 conventus2 | 4 | union or conjunction, as of atoms or stars
+converro | 1 | sweep
+converro | 3 | meton., to scrape together, as an inheritance greedily
+converro | 4 | facete, to beat someone soundly
+conversatio | 1 | conversation
+conversatio | 3 | frequent residence, dwelling in a place
+conversio | 1 | revolution
+conversio | 2 | change
+conversio | 3 | late Lat., a moral conversion
+conversio | 4 | rhet., the repetition of a word at the end of successive clauses
+converso | 1 | dwell
+converso | 2 | associate
+converso | 3 | to live or pass one's life, in a certain manner
+converto | 1 | turn
+converto | 2 | transform
+converto | 3 | to translate, as a Greek work into Latin
+converto | 4 | milit., to wheel about, as troops changing direction
+converto | 5 | to turn into, to become, as one thing changing into another
+convestio | 1 | clothe
+convestio | 3 | transf., to cover or surround, as ivy covering a wall
+convexitas | 1 | convexity
+convexo | 1 | squeeze
+convexus1 | 1 | convex
+convexus1 | 2 | sloping
+convexus1 | 3 | as a substantive (convexa), the vault or arch, as of the sky
+convicior | 1 | revile
