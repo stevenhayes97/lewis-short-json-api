@@ -1434,3 +1434,33 @@ divexo | 1 | ravage
 divexo | 3 | trop: to vex, trouble
 dividia | 1 | discord
 dividia | 2 | worry
+divido | 1 | divide
+divido | 2 | distribute
+divido | 3 | polit t.t.: sententiam dividere, to divide the question, put parts of a motion to a separate vote
+divido | 4 | pregn: to break up, dissolve, destroy (a harmony or empire)
+divido | 5 | to separate, mark the boundary between (two regions), e.g. flumen ... dividit, the river separates...
+divido | 6 | trop: to distinguish, tell apart
+dividuus | 1 | divisible
+dividuus | 2 | divided
+dividuus | 3 | gram t.t.: dividuum nomen, a distributive noun, e.g. uterque, each of two
+divinatio | 1 | divination
+divinatio | 3 | jurid t.t.: a preliminary hearing to determine which accuser should prosecute
+divinitas | 1 | divinity
+divinitas | 3 | transf: the power of divination, prophetic ability
+divinitas | 4 | transf: excellence, superb quality (of a person's gifts)
+divinitus | 1 | divinely
+divinitus | 3 | transf: by inspiration, prophetically
+divinitus | 4 | transf: admirably, excellently
+divino | 1 | divine
+divinus | 1 | divine
+divinus | 2 | prophetic
+divinus | 3 | transf: godlike, superhuman, admirable, excellent
+divisio | 1 | division
+divisio | 3 | in partic: partition, distribution, allotment
+divisio | 4 | rhet/logic t.t.: a division of a subject into parts
+divisor | 1 | distributor
+divisor | 3 | in partic: an agent hired to bribe voters, by distributing money among them
+divisor | 4 | arithm t.t.: a divisor
+divitiae | 1 | riches
+divitiae | 3 | transf: rich or costly ornaments, splendid furnishings
+divitiae | 4 | trop, rare: richness, copiousness (of style or eloquence)
