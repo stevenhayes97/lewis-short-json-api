@@ -3909,3 +3909,30 @@ crusto | 1 | incrust
 crux | 1 | cross
 crux | 2 | torment
 crux | 3 | facete, a gallows-bird, a rascal
+# review: cubicularius "of a bedroom" needs the article to be accurate; no shorter English phrasing fits
+cubicularius | 1 | of a bedroom
+cubicularius | 3 | as a substantive, a chamber-servant or valet
+cubiculum | 1 | bedroom
+cubiculum | 3 | the emperor's raised seat in a theatre
+cubiculum | 4 | arch., the joint or bed of a stone
+cubile | 1 | bed
+cubile | 2 | den
+cubile | 3 | trop., the lair or hiding place, as of vice
+cubito | 1 | recline habitually
+cubitum | 1 | elbow
+cubitum | 2 | cubit
+cubitum | 3 | meton., a bend or curve, as of a shoreline
+cubo | 1 | recline
+cubo | 2 | sleep
+cubo | 3 | to lie with, to have sexual intercourse
+cubo | 4 | to lie sick, to be ill
+cubo | 5 | of places, to slope or lie at an incline
+cuculus | 1 | cuckoo
+cuculus | 3 | as a term of abuse, a fool or simpleton
+cucumis | 1 | cucumber
+cucurbita | 1 | gourd
+cucurbita | 3 | medic., a cupping-glass
+cucurbita | 4 | facete, a blockhead, a numbskull
+cudo1 | 1 | pound
+cudo1 | 2 | mint
+cudo1 | 3 | trop., to concoct or contrive, as a deception
