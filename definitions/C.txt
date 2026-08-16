@@ -2954,3 +2954,27 @@ conductio | 1 | hiring
 conductio | 3 | medic., a spasm or convulsion
 conductor | 1 | lessee
 conduplico | 1 | double
+conecto | 1 | connect
+conecto | 3 | philos., to draw or subjoin a logical conclusion
+conexio | 1 | union
+conexio | 3 | philos., a logical conclusion or consequence
+confabulor | 1 | converse
+confarreatio | 1 | confarreation
+confarreatio | 3 | the ancient solemn Roman marriage rite involving a shared offering of bread before the Pontifex Maximus
+# review: confarreo denotes marrying specifically via the confarreatio bread-rite; no single English word covers that
+confarreo | 1 | wed by confarreatio
+confectio | 1 | completion
+confectio | 3 | a wearing down or diminishing, as of one's health
+confector | 1 | finisher
+confector | 2 | destroyer
+confercio | 1 | cram
+confercio | 3 | milit., of troops, in close, compact order
+confero | 1 | collect
+confero | 2 | compare
+confero | 3 | conferre se, to betake oneself, to go somewhere
+confero | 4 | to bestow or grant, as a favour
+confero | 5 | to contribute, as money or effort
+confero | 6 | neutr., to be useful or profitable
+confervesco | 1 | heat up
+confervesco | 3 | trop., to boil or seethe with anger
+confervesco | 4 | medic., of broken bones, to knit together, heal
