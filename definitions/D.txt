@@ -900,3 +900,30 @@ devoro | 3 | transf: to engulf, swallow up (of the earth, sea, etc.)
 devoro | 4 | to repress, suppress, hold back (tears, words, feelings)
 devoro | 5 | trop: to endure patiently, put up with, swallow (an insult or hardship)
 devoro | 6 | to devour eagerly, get through avidly (a book or speech)
+devotio | 1 | devotion
+devotio | 2 | curse
+devotio | 3 | sorcery, a magic spell or incantation
+devoto | 1 | devote
+devoto | 2 | bewitch
+devoto | 3 | to curse
+devoveo | 1 | vow
+devoveo | 2 | curse
+devoveo | 3 | transf: to devote, give up, attach (oneself) to, e.g. se alicui devovere, to devote oneself to someone
+devoveo | 4 | to bewitch by spells, enchant
+devoveo | 5 | as adj. (devotus): devoted, attached, faithful
+devoveo | 6 | eccl: pious, devout
+dextans | 1 | ten-twelfths
+dextans | 3 | ten twelfths of an as, a jugerum, an hour, or any other whole divided into twelfths
+dexter | 1 | right
+dexter | 2 | skilful
+dexter | 3 | trop: favourable, propitious, auspicious (of omens)
+dextera | 1 | right hand
+dextera | 2 | pledge
+dextera | 3 | transf: the right side, right-hand direction
+dextera | 4 | poet: the hand (in general)
+dextrorsum | 1 | rightward
+dicacitas | 1 | banter
+dicaculus | 1 | talkative
+dicaculus | 2 | witty
+dicax | 1 | witty
+dicax | 2 | sarcastic
