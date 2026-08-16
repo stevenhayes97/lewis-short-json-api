@@ -3845,3 +3845,21 @@ creta2 | 1 | chalk
 creta2 | 3 | trop., something favourable or lucky, as opposed to ill-omened
 cretatus | 1 | chalked
 cretatus | 3 | transf., clothed in white, as a candidate for office
+cretio | 1 | formal acceptance
+cretio | 3 | meton., an inheritance itself
+cribrum | 1 | sieve
+crimen | 1 | crime
+crimen | 2 | accusation
+crimen | 3 | meton., the cause of a crime, a criminal person
+criminatio | 1 | accusation
+crimino | 1 | accuse
+criminosus | 1 | slanderous
+# review: crinalis "of the hair" needs the article to be accurate; no shorter English phrasing fits
+crinalis | 1 | of the hair
+crinio | 1 | hairy
+crinio | 3 | transf., trailing or maned, as a comet or a crested helmet
+crinis | 1 | hair
+crinis | 3 | meton., the tail of a comet
+crispo | 1 | curl
+crispo | 2 | brandish
+crispo | 3 | neutr., to tremble or quiver, as in an earthquake
