@@ -3380,3 +3380,28 @@ consulo | 2 | care for
 consulo | 3 | to resolve or determine
 consulo | 4 | senatus consultum, a decree of the senate
 consulo | 5 | juris consultus, one learned in the law
+consultatio | 1 | deliberation
+consultatio | 3 | rhet., a case proposed for judgment or advice
+consulto2 | 1 | deliberate
+consulto2 | 2 | consult
+consulto2 | 3 | to care for or look after someone
+consultor1 | 1 | adviser
+consultor1 | 2 | client
+consum | 1 | coexist
+consum | 3 | to be or to happen
+consummatio | 1 | summation
+consummatio | 2 | completion
+consummatio | 3 | rhet., a bringing together of arguments to one conclusion
+consummo | 1 | sum up
+consummo | 2 | complete
+consummo | 3 | trop., to perfect or bring to the highest degree, as skill or character
+consumo | 1 | consume
+consumo | 2 | destroy
+consumo | 3 | to spend or use up, as time or money on something
+consuo | 1 | stitch
+consuo | 3 | consuere dolos, to concoct tricks or schemes
+consuo | 4 | os consuere, to silence someone
+consurgo | 1 | rise
+consurgo | 3 | to rise up for action, as to war or revolt
+consurgo | 4 | of storms or wars, to arise or break out
+contabesco | 1 | waste away
