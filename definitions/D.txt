@@ -1058,3 +1058,28 @@ dilato | 1 | dilate
 dilato | 3 | trop: to amplify, expand (a speech or argument)
 diligentia | 1 | diligence
 diligentia | 3 | in partic: economy, frugality (in household management)
+diligo | 1 | esteem
+diligo | 3 | transf: to value, prize (an inanimate thing, quality, or policy)
+diligo | 4 | as adj. (diligens): careful, attentive, diligent, accurate
+diligo | 5 | as adj. (diligens), of domestic affairs: frugal, thrifty, economical
+dilucesco | 1 | dawn
+dilucesco | 3 | trop: to become clear, come to light
+dilucidus | 1 | lucid
+dilucidus | 3 | lit., rare: bright, luminous (of a gem or light)
+diluo | 1 | dilute
+diluo | 2 | refute
+diluo | 3 | to wash away, rinse off
+diluo | 4 | to solve, explain (a difficulty or question)
+dilutus | 1 | diluted
+dilutus | 3 | transf, colloq: tipsy, mellow (of a drinker)
+dilutus | 4 | trop: clear, distinct, evident
+diluvies | 1 | flood
+diluvies | 3 | trop: a deluge, an overwhelming rush (of destruction or invasion)
+dimensio | 1 | measurement
+dimensio | 3 | transf: dimension, extent
+dimensio | 4 | trop: the metrical measure, quantity (of syllables or verses)
+dimetior | 1 | measure
+dimeto | 1 | demarcate
+dimicatio | 1 | combat
+dimicatio | 3 | transf: a struggle, contest (beyond the military sphere)
+dimicatio | 4 | dimicatio capitis (or vitae), a fight for one's life, a trial on a capital charge
