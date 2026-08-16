@@ -420,3 +420,23 @@ delibo | 3 | trop: to pluck or gather, to enjoy the best part of something
 delibo | 4 | trop: to take away from, diminish, detract
 delibuo | 1 | anoint
 delibuo | 3 | trop: overwhelmed by an emotion (delibutus gaudio, overwhelmed with joy)
+delicatus | 1 | delightful
+delicatus | 2 | spoiled
+delicatus | 3 | of a place or lifestyle: luxurious
+delicatus | 4 | fastidious, overly particular
+deliciae | 1 | delight
+deliciae | 3 | a term of endearment: darling, sweetheart
+delictum | 1 | offence
+deligo1 | 1 | select
+deligo1 | 3 | of fruit: to pick, to gather
+deligo1 | 4 | to pick out and send away, remove (rare)
+deligo2 | 1 | bind
+delinquo | 1 | transgress
+delinquo | 3 | lit: to be lacking, deficient (rare)
+deliquesco | 1 | melt
+deliquesco | 3 | trop: to pine away, vanish, disappear
+deliquo | 1 | strain
+deliquo | 3 | trop: to clear up, explain
+deliratio | 1 | folly
+deliro | 1 | rave
+deliro | 3 | lit: to swerve or deviate from a straight line (rare, of a plough)
