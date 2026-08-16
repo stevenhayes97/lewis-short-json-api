@@ -3734,3 +3734,25 @@ correctio | 1 | correction
 correctio | 3 | rhet., the rhetorical figure of replacing a word with a stronger one
 corrector | 1 | corrector
 corrector | 3 | under the empire, the title of a provincial governor
+correpo | 1 | creep
+corrigo | 1 | correct
+corrigo | 3 | medic., to heal or cure
+corripio | 1 | seize
+corripio | 2 | rebuke
+corripio | 3 | to attack or engulf, as fire or disease
+corripio | 4 | to plunder or carry off
+corripio | 5 | to shorten or abridge
+corrivo | 1 | channel
+corroboro | 1 | strengthen
+corrogo | 1 | muster
+corrotundo | 1 | round off
+corrotundo | 3 | transf., to make up a round sum of money
+corrugo | 1 | wrinkle
+corrugo | 3 | corrugare nares, to wrinkle one's nose in disgust
+corrumpo | 1 | corrupt
+corrumpo | 2 | bribe
+corrumpo | 3 | to destroy or ruin utterly
+corrumpo | 4 | to seduce or mislead, as a person
+corruo | 1 | collapse
+corruo | 3 | trop., to fall or be ruined, as a state's power
+corruo | 4 | act., to overthrow or bring to the ground
