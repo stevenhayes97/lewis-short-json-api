@@ -2613,3 +2613,27 @@ commutabilis | 1 | changeable
 commutatio | 1 | change
 commutatio | 3 | an exchange, as of prisoners
 commutatio | 4 | rhet., a figure of reciprocal antithesis
+commuto | 1 | change
+commuto | 2 | exchange
+commuto | 3 | rhet., to vary one's style or manner of expression
+como1 | 1 | comb
+como1 | 2 | adorn
+como1 | 3 | rhet., of style, to embellish or polish
+como2 | 1 | be hairy
+como2 | 3 | transf., of a comet or plant, to have a trailing, hair-like plume
+compaciscor | 1 | agree
+compages | 1 | framework
+compages | 3 | trop., an embrace, or the confines of the body
+compar | 1 | equal
+compar | 3 | as a substantive, a comrade or companion
+compar | 4 | esp., a spouse or mate
+compar | 5 | rhet., a figure with an equal number of syllables in corresponding clauses
+comparatio1 | 1 | comparison
+comparatio1 | 3 | a contest or trial of skill
+comparatio1 | 4 | gram., the comparative degree
+comparatio2 | 1 | preparation
+comparatio2 | 2 | procurement
+comparatio2 | 3 | in later Latin, a purchase
+comparativus | 1 | comparative
+comparco | 1 | save
+comparco | 3 | trop., to refrain or abstain from something
