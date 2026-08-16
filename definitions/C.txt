@@ -3048,3 +3048,25 @@ confringo | 3 | trop., to destroy or bring to naught, as plans or power
 confugio | 1 | flee
 confugio | 3 | confugere ad aliquem, to seek refuge with someone
 confugio | 4 | trop., to have recourse to, as to help or mercy
+confundo | 1 | mix
+confundo | 2 | confuse
+confundo | 3 | trop., to disconcert or perplex, as the mind
+confusio | 1 | mixture
+confusio | 2 | confusion
+confusio | 3 | oris confusio, a blushing or reddening of the face
+confuto | 1 | refute
+confuto | 2 | suppress
+congelo | 1 | freeze
+congelo | 3 | trop., to become inactive or stagnant
+congemino | 1 | double
+congemo | 1 | groan
+congemo | 2 | lament
+congenero | 1 | beget
+congenero | 3 | to connect by kinship or affinity
+congeries | 1 | heap
+congeries | 3 | rhet., a figure of speech piling up expressions
+congero1 | 1 | heap
+congero1 | 3 | trop., to compile, as material for a speech
+congero1 | 4 | to heap upon someone, to ascribe or impute, as blame or praise
+congestio | 1 | accumulation
+congestio | 2 | heap
