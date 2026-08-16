@@ -667,3 +667,24 @@ descendo | 1 | descend
 descendo | 3 | milit: to march down from higher ground into the plain
 descendo | 4 | trop: to lower oneself to, to stoop to an unworthy act
 descendo | 5 | trop: to penetrate deeply, to sink in, as of words or feelings
+descensio | 1 | descent
+descensus2 | 1 | descent
+descensus2 | 3 | concr: a way down, a downward path, as of a mountain or road
+descindo | 1 | divide
+descisco | 1 | revolt
+descisco | 3 | transf: to deviate from, to break faith with, to fall away from a person or principle
+describo | 1 | describe
+describo | 3 | to copy out, transcribe a text
+describo | 4 | to mark out, sketch, or delineate a shape or plan
+describo | 5 | to assign or apportion something to someone
+descriptio | 1 | description
+descriptio | 3 | a copy, a transcript
+descriptio | 4 | an arrangement, an ordering of parts within a whole
+deseco | 1 | cut off
+desero2 | 1 | abandon
+desero2 | 3 | milit: to desert
+desero2 | 4 | legal: vadimonia deserere, to fail to appear in court, forfeiting bail
+desero2 | 5 | of strength or memory: to fail someone
+desero2 | 6 | as adj. (desertus): deserted, lonely, desolate
+desertor | 1 | deserter
+deservio | 1 | serve
