@@ -1356,3 +1356,33 @@ dissuadeo | 1 | dissuade
 dissulto | 1 | burst
 dissuo | 1 | unstitch
 dissuo | 3 | trop: to loosen, dissolve (a friendship) gradually, by degrees
+distabesco | 1 | melt away
+distabesco | 3 | trop: to be consumed, wasted away (with guilt or distress)
+distantia | 1 | distance
+distantia | 2 | difference
+distendo | 1 | distend
+distendo | 3 | meton: to torture by racking, stretch on the rack
+distendo | 4 | trop: to distract, perplex, divide (the mind or attention)
+distermino | 1 | demarcate
+distermino | 3 | trop: to limit, regulate
+distinctio | 1 | distinction
+distinctio | 3 | rhet/gram t.t.: a mark of punctuation, a pause in speech
+distinctio | 4 | rare: an ornament, an adornment
+distineo | 1 | separate
+distineo | 2 | detain
+distineo | 3 | trop: to distract, perplex (the mind)
+distineo | 4 | to occupy, engage, keep busy (with a task)
+distinguo | 1 | distinguish
+distinguo | 2 | adorn
+distinguo | 3 | rhet/gram t.t.: to punctuate, mark the pauses (in a text)
+distinguo | 4 | as adj. (distinctus): distinct, separate
+distinguo | 5 | as adj. (distinctus): adorned, decorated, ornamented
+disto | 1 | be distant
+disto | 2 | differ
+distorqueo | 1 | distort
+distorqueo | 3 | meton: to torment, torture (physically)
+distorqueo | 4 | trop: to torment, distress (mentally)
+distorqueo | 5 | as adj. (distortus): misshapen, deformed, dwarfish
+distractio | 1 | separation
+distractio | 2 | discord
+distractio | 3 | mercant t.t.: a selling off piecemeal, retail sale
