@@ -2507,3 +2507,26 @@ commemoro | 2 | remind
 commemoro | 3 | rarely, of oneself, to call to mind or remember
 commendatio | 1 | recommendation
 commendatio | 2 | merit
+commendo | 1 | entrust
+commendo | 2 | recommend
+commendo | 3 | of the dying, to commend children or family to another's care
+commentariensis | 1 | registrar
+commentariensis | 3 | a keeper of a prison or list of prisoners
+commentarius | 1 | notebook
+commentarius | 3 | as a book title, a commentary or historical memoir, as in Caesar's Commentarii
+commentarius | 4 | in law, a brief
+commentatio | 1 | study
+commentatio | 3 | concr., a treatise or dissertation
+commenticius | 1 | invented
+commenticius | 2 | false
+# skip: commento only citation is a dubious pun (Plautus, "commentare ora", to cudgel a face); too obscure to gloss reliably
+commentor1 | 1 | study
+commentor1 | 3 | of an orator, to practise or rehearse a speech
+commentor1 | 4 | to compose or write
+commeo | 1 | ply
+commeo | 2 | frequent
+commercium | 1 | trade
+commercium | 2 | intercourse
+commercium | 3 | the right to trade as a merchant, a legal trading privilege
+commercium | 4 | euphemistically, illicit intercourse, an affair
+commercor | 1 | buy up
