@@ -1554,3 +1554,24 @@ domus | 5 | philos: a philosophical school, sect
 donarium | 1 | treasury
 donarium | 2 | offering
 donarium | 3 | meton: a temple, sanctuary, altar
+donatio | 1 | donation
+donativum | 1 | largess
+donec | 1 | until
+donec | 3 | while, as long as (contemporaneous sense)
+dono | 1 | bestow
+dono | 2 | forgive
+donum | 1 | gift
+donum | 3 | in partic: a votive offering (to a deity)
+donum | 4 | dona suprema (or ultima), the last honours, funeral rites
+dormio | 1 | sleep
+dormio | 3 | pregn: to sleep the sleep of death, be dead
+dormio | 4 | trop: to be idle, inactive, careless, unconcerned
+dormito | 1 | doze
+dormito | 3 | poet transf: (of a lamp) to flicker low, be going out
+dormito | 4 | trop: to be sluggish, dull, slow to act
+dorsum | 1 | back
+dorsum | 3 | transf: a ridge, summit (of a hill or mountain range)
+dos | 1 | dowry
+dos | 2 | talent
+dossennus1 | 1 | soothsayer
+dossennus1 | 3 | transf, ironic: a fool, clown, jester
