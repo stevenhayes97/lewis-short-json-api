@@ -1627,3 +1627,26 @@ dulcitudo | 3 | trop: pleasantness, charm, tenderness
 dum | 1 | while
 dum | 3 | as long as, provided that (restrictive/conditional sense)
 dum | 4 | until
+dumetum | 1 | thicket
+dumetum | 3 | trop: a tangle, a maze of confusion (in an argument)
+dumtaxat | 1 | only
+dumtaxat | 2 | at least
+duo | 1 | two
+duodecim | 1 | twelve
+duodeni | 1 | twelve each
+duovir | 1 | duumvir
+duovir | 3 | the chief magistrates of a municipality or colony (a board of two)
+duplex | 1 | double
+duplex | 2 | deceitful
+duplex | 3 | transf: (of things in pairs) both
+duplex | 4 | opp. single: thick, strong, stout
+duplex | 5 | trop: (of words) ambiguous, of double meaning
+duplicatio | 1 | doubling
+duplicatio | 3 | jurid t.t.: a rejoinder, turning an objection back on the opponent
+duplicatio | 4 | rhet t.t.: anadiplosis, the repetition of a word at the start of successive clauses
+duplico | 1 | double
+duplico | 3 | poet, meton: to bend double, bow (a person or limb)
+duplico | 4 | late: to split in two, tear apart
+duplus | 1 | double
+duplus | 3 | as noun (duplum): the double, twice the amount
+duplus | 4 | as noun (dupla): a double price, twice the payment
