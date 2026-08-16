@@ -1136,3 +1136,35 @@ dirumpo | 3 | pass, colloq: to burst (with envy, joy, or another strong emotion)
 diruo | 1 | demolish
 diruo | 3 | transf: to scatter, drive asunder (troops)
 diruo | 4 | milit: aere dirutus, deprived of one's pay
+dirus | 1 | dreadful
+dirus | 2 | ominous
+dirus | 3 | as noun (dirae): curses, imprecations; ill-boding portents
+dirus | 4 | as noun (Dirae): the Furies
+dis3 | 1 | apart
+dis3 | 3 | as a negating prefix (like English un-): not, un-
+dis3 | 4 | as an intensive prefix: exceedingly, utterly
+dis3 | 5 | as a prefix: between, among, through
+dis4 | 1 | rich
+discedo | 1 | depart
+discedo | 2 | divide
+discedo | 3 | milit: to march off, decamp
+discedo | 4 | milit, transf: to come off, emerge (victorious, defeated, or otherwise) from a battle or trial
+discedo | 5 | trop: to deviate, swerve, depart from (a standard or practice)
+discedo | 6 | polit: in alicujus sententiam discedere, to go over to someone's opinion (in a vote)
+disceptatio | 1 | debate
+disceptatio | 3 | esp, rare: a decision, judicial award, judgment
+disceptator | 1 | arbitrator
+discepto | 1 | debate
+discepto | 3 | jurid t.t.: to adjudicate, decide (a legal dispute)
+discepto | 4 | (of things) to be at stake, hang in the balance
+discerno | 1 | separate
+discerno | 2 | discern
+discerno | 3 | to determine, settle (a dispute or case)
+discerpo | 1 | mangle
+discerpo | 2 | revile
+discerpo | 3 | transf: to scatter, disperse, destroy
+discerpo | 4 | trop: to dissect, pick apart (an argument or subject)
+discessio | 1 | division
+discessio | 2 | separation
+discessio | 3 | eccl: schism
+discessio | 4 | rare: departure, a going away
