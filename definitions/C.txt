@@ -2574,3 +2574,20 @@ commodus1 | 2 | obliging
 commodus1 | 3 | as a substantive commodum, an advantage or profit
 commodus1 | 4 | as a substantive commodum, a convenient opportunity
 commodus1 | 5 | commodum, adv., just then, just now, at that very moment
+commolior | 1 | stir
+commonefacio | 1 | remind
+commoneo | 1 | remind
+commonitorius | 1 | reminding
+commonitorius | 3 | as a substantive commonitorium, a memorandum or letter of instructions
+commonstro | 1 | point out
+commoratio | 1 | delay
+commoratio | 3 | rhet., a dwelling on a point, a rhetorical figure of emphasis
+commorior | 1 | die together
+commoror | 1 | stay
+commoror | 3 | rarely, act., to detain or delay someone
+commotio | 1 | agitation
+commotio | 3 | lit., a physical shaking or movement, post-classical
+commoveo | 1 | move
+commoveo | 2 | excite
+commoveo | 3 | to dislodge or shake something physically
+commoveo | 4 | to stir up trouble or passions
