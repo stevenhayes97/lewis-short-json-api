@@ -3119,3 +3119,23 @@ coniveo | 3 | trop., to be dull or drowsy
 conjectio | 1 | throwing
 conjectio | 2 | conjecture
 conjectio | 3 | conjectio causae, the outline or draft of a law case
+conjecto | 1 | guess
+conjecto | 3 | to conclude from signs or omens, to augur
+conjector | 1 | interpreter
+conjector | 3 | a diviner or soothsayer, interpreter of dreams
+conjectura | 1 | conjecture
+conjectura | 3 | t.t. of augury, a divining or interpreting of omens
+conjecturalis | 1 | conjectural
+conjecturalis | 3 | rhet., status conjecturalis, the issue of fact in a legal case
+conjectus2 | 1 | throw
+conjectus2 | 3 | teli conjectus, the range of a weapon
+conjectus2 | 4 | trop., a turning or directing, as of the eyes or mind
+conjugalis | 1 | conjugal
+conjugatio | 1 | combination
+conjugatio | 3 | rhet., the etymological relationship between words
+conjugatio | 4 | gram., conjugation, the inflection of a verb
+conjugium | 1 | marriage
+conjugium | 3 | meton., a husband or wife, one's spouse
+conjugo | 1 | unite
+conjugo | 3 | rhet., conjugata verba, etymologically related words
+conjunctim | 1 | jointly
