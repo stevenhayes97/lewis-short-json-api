@@ -2768,3 +2768,23 @@ concelebro | 1 | celebrate
 concelebro | 2 | frequent
 concelebro | 3 | to pursue or practise something vigorously, as one's studies
 concelebro | 4 | to publish or make widely known
+concenturio | 1 | assemble
+concentus | 1 | harmony
+concentus | 3 | trop., concord or unanimity, as among people
+conceptio | 1 | conception
+conceptio | 3 | jurid., the drafting of legal formulas
+conceptio | 4 | a reservoir or collection, as of water
+conceptivus | 1 | movable
+conceptivus | 3 | feriae conceptivae, movable festivals set annually by the priests, as opposed to fixed ones
+conceptus2 | 1 | conception
+conceptus2 | 3 | concr., the foetus, an unborn child
+conceptus2 | 4 | a gathering or collection, as of water
+concerpo | 1 | tear up
+concerpo | 3 | trop., to abuse or revile someone in speech
+concertatio | 1 | dispute
+concerto | 1 | contend
+concerto | 3 | to dispute or debate, as in argument
+concessio | 1 | concession
+concessio | 3 | rhet., a figure admitting a point while arguing mitigation
+concessio | 4 | jurid., a plea that admits the act but pleads for pardon
+concesso | 1 | cease
