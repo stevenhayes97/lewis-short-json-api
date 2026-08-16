@@ -3684,3 +3684,28 @@ corbis | 1 | basket
 corbitus | 1 | basket-rigged
 corbitus | 3 | as a substantive (corbita), a slow cargo ship
 cordatus | 1 | wise
+corium | 1 | hide
+corium | 2 | rind
+corium | 3 | meton., a leather whip or strap
+corium | 4 | building, a layer or coat, as of plaster
+corneus1 | 1 | horny
+corneus1 | 3 | of the colour of horn
+corneus1 | 4 | trop., hard-hearted or unfeeling
+cornicularius | 1 | adjutant
+cornicularius | 3 | transf., a civil assistant or secretary
+corniculum1 | 1 | horn
+corniculum1 | 3 | a horn-shaped ornament awarded for bravery, worn on a helmet
+corniger | 1 | horned
+cornipes | 1 | hoofed
+cornipes | 3 | as a substantive, a horse
+cornix | 1 | crow
+cornu | 1 | horn
+cornu | 2 | wing
+cornu | 3 | the horns or crescent of the moon
+cornu | 4 | a bugle or war-trumpet
+cornu | 5 | trop., power or strength, symbolized by the horn
+cornutus1 | 1 | horned
+cornutus1 | 3 | as a substantive, a kind of horned sea-fish
+cornutus1 | 4 | cornutus syllogismus, a horned syllogism, a logical dilemma
+corollarium | 1 | gratuity
+corollarium | 3 | later philos., a corollary or logical deduction
