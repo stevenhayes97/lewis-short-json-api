@@ -3355,3 +3355,28 @@ constringo | 3 | trop., to restrain or hold in check, as the passions
 constringo | 4 | of discourse, to compress or condense
 constructio | 1 | construction
 constructio | 3 | gram., the syntactic arrangement of words in a sentence
+construo | 1 | build
+construo | 3 | gram., to construct or arrange grammatically
+constupro | 1 | violate
+constupro | 3 | trop., to corrupt or pollute, as a court by bribery
+consuadeo | 1 | urge
+consuefacio | 1 | accustom
+consuesco | 1 | accustom
+consuesco | 2 | cohabit
+consuesco | 3 | consuevi, I am accustomed, I am wont
+consuetudo | 1 | custom
+consuetudo | 2 | companionship
+consuetudo | 3 | a love affair, an illicit relationship
+consuetudo | 4 | legal, customary law or established usage
+consul | 1 | consul
+consul | 3 | meton., a proconsul or governor of a province
+consul | 4 | the chief magistrate of a foreign city or state
+consularis | 1 | consular
+consularis | 3 | as a substantive, an ex-consul or man of consular rank
+consularis | 4 | under the empire, an imperial governor of consular rank
+consulatus | 1 | consulship
+consulo | 1 | consult
+consulo | 2 | care for
+consulo | 3 | to resolve or determine
+consulo | 4 | senatus consultum, a decree of the senate
+consulo | 5 | juris consultus, one learned in the law
