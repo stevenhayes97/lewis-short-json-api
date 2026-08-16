@@ -4077,3 +4077,21 @@ curvo | 3 | trop., to move or soften, as to pity
 curvus | 1 | curved
 curvus | 2 | crooked
 curvus | 3 | as a substantive (curvum), that which is wrong, as opposed to right
+cuspis | 1 | point
+cuspis | 2 | spear
+cuspis | 3 | meton., a sting, as of a bee or scorpion
+custodela | 1 | guardianship
+custodia | 1 | guard
+custodia | 2 | custody
+custodia | 3 | meton., a prison or place of confinement
+custodia | 4 | meton., the guards themselves, a garrison
+custodio | 1 | guard
+custodio | 2 | observe
+custodio | 3 | to hold captive, to keep in custody
+custos | 1 | guardian
+custos | 2 | spy
+custos | 3 | jailer, keeper of a prison
+cutis | 1 | skin
+cutis | 2 | rind
+cutis | 3 | curare cutem, to pamper oneself
+cutis | 4 | trop., surface appearance, as opposed to substance
