@@ -1285,3 +1285,26 @@ dispono | 1 | arrange
 dispono | 3 | milit: to draw up, array (troops, guards, or military engines)
 dispono | 4 | trop: to arrange, order (the parts of a speech or discourse)
 dispono | 5 | post-class: to settle, determine, ordain
+dispositio | 1 | arrangement
+dispositio | 3 | post-class: management, direction, ordering
+dispositio | 4 | legal, late: a testamentary disposition, the terms of a will
+dispunctio | 1 | audit
+dispunctio | 3 | trop: an investigation, examination, a testing
+dispungo | 1 | audit
+dispungo | 3 | trop: to review, go over, examine (one's life or conduct)
+disputatio | 1 | discussion
+disputatio | 3 | rare: a computation, calculation
+disputo | 1 | discuss
+disputo | 3 | orig., mercant: to reckon up, calculate (a sum)
+disputo | 4 | late: to preach, discourse (in a synagogue or assembly)
+dissaepio | 1 | partition
+dissaepio | 3 | transf: to tear apart, tear to pieces
+dissaepio | 4 | trop, rare: to wall off, separate (something) from what surrounds it
+disseco | 1 | dissect
+disseco | 3 | trop: dissecari cordibus, to be cut to the heart
+dissemino | 1 | disseminate
+dissensio | 1 | disagreement
+dissensio | 3 | of inanimate things: incompatibility, inconsistency
+dissentio | 1 | disagree
+dissentio | 3 | transf: to be unlike, differ, be inconsistent (of things)
+dissentio | 4 | rare: to protest, object
