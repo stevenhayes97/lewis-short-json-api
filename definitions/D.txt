@@ -1386,3 +1386,27 @@ distorqueo | 5 | as adj. (distortus): misshapen, deformed, dwarfish
 distractio | 1 | separation
 distractio | 2 | discord
 distractio | 3 | mercant t.t.: a selling off piecemeal, retail sale
+distraho | 1 | separate
+distraho | 2 | distract
+distraho | 3 | mercant: to sell off, retail, sell in parcels
+distraho | 4 | trop: to estrange, alienate (a person from another)
+distribuo | 1 | distribute
+distributio | 1 | distribution
+distributio | 3 | rhet t.t.: the resolution of a statement into its several parts
+distringo | 1 | occupy
+distringo | 3 | as adj. (districtus): strict, severe
+distringo | 4 | as adj. (districtus): hesitating, vacillating, torn (in mind)
+disturbo | 1 | demolish
+disturbo | 2 | thwart
+disturbo | 3 | to throw into disorder, disturb (a crowd or assembly)
+dito | 1 | enrich
+diu | 1 | long
+diu | 3 | mostly ante-class: long since, a great while ago
+diu | 4 | rare, of place (Mela): a long way, far
+diurnus | 1 | daily
+diurnus | 2 | diurnal
+diurnus | 3 | as noun (diurnum): a day-book, journal
+diurnus | 4 | as noun (diurna, pl.): daily records, a gazette
+diurnus | 5 | as noun (diurnum): a daily ration, allowance
+diutinus | 1 | lasting
+diuturnitas | 1 | duration
