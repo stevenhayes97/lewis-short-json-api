@@ -499,3 +499,24 @@ demoveo | 1 | remove
 demoveo | 3 | trop: to divert or dislodge someone from a position or opinion
 demulceo | 1 | stroke
 demulceo | 3 | trop: to soothe, charm, win over
+demum | 1 | finally
+demum | 3 | enclitic with pronouns or adverbs, for emphasis: precisely, just, exactly (id demum, that very thing)
+demum | 4 | tum demum, nunc demum: only then, not until then
+demuto | 1 | alter
+demuto | 3 | neut: to change one's mind
+denarius | 1 | of ten
+denarius | 3 | as a noun (denarius): a Roman silver coin, originally worth ten asses
+denarro | 1 | recount
+denego | 1 | refuse
+denego | 3 | to deny that something is so
+deni | 1 | ten each
+deni | 3 | poet: ten (used for decem)
+deni | 4 | poet: tenth (used for decimus)
+# review: denicalis is a narrow religious technical term with no natural one-word English adjective; occurs only in the phrase "feriae denicales", funeral rites purifying a family after a death
+denicalis | 1 | purifying from death
+denigro | 1 | blacken
+denigro | 3 | trop: to blacken someone's reputation, to defame
+denique | 1 | finally
+denique | 3 | in enumerations: in short, in a word, in fact
+denique | 4 | postAug: therefore, accordingly, as a result
+denominatio | 1 | metonymy
