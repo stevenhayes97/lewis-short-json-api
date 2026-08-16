@@ -585,3 +585,27 @@ depleo | 1 | drain
 depleo | 3 | medic: to let blood, to bleed someone
 deploro | 1 | lament
 deploro | 3 | meton: to regard as lost, to give up as hopeless
+depolio | 1 | smooth
+depolio | 3 | comic: to cudgel, to beat
+depono | 1 | lay down
+depono | 3 | to deposit or entrust something for safekeeping
+depono | 4 | trop: to give up, abandon, resign (depono arma, to lay down arms)
+depono | 5 | of buildings: to pull down, demolish
+depono | 6 | late: to depose someone from an office
+depopulatio | 1 | devastation
+depopulor | 1 | ravage
+deporto | 1 | carry away
+deporto | 3 | to bring home from a province, as a triumph or spoils
+deporto | 4 | legal: to banish, to exile for life
+deposco | 1 | demand
+deposco | 3 | to demand someone be handed over for punishment
+deposco | 4 | transf: to challenge someone to fight
+depositio | 1 | deposit
+depositio | 3 | jurid: a giving of testimony, a deposition
+depositio | 4 | a lowering, degradation of rank or dignity
+depositio | 5 | late: a burial, an interment
+depraedor | 1 | plunder
+depravatio | 1 | distortion
+depravatio | 3 | trop: moral corruption, depravity
+depravo | 1 | distort
+depravo | 3 | trop: to corrupt, deprave, lead astray
