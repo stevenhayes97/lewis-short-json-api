@@ -1308,3 +1308,23 @@ dissensio | 3 | of inanimate things: incompatibility, inconsistency
 dissentio | 1 | disagree
 dissentio | 3 | transf: to be unlike, differ, be inconsistent (of things)
 dissentio | 4 | rare: to protest, object
+dissereno | 1 | clear up
+dissereno | 3 | late, trop: to clear away (gloom); to cheer, brighten (someone's mood)
+dissero1 | 1 | sow
+dissero1 | 3 | to plant (something) at intervals, space out in planting
+dissero2 | 1 | discourse
+dissero2 | 3 | as adj. (disertus): eloquent, fluent, skilled in speaking
+dissero2 | 4 | as adj. (disertus), of speech: well-expressed, eloquent
+disserto | 1 | discuss
+dissideo | 1 | disagree
+dissideo | 3 | lit, poet, rare: to lie apart, be remote from
+dissideo | 4 | of things: to be inconsistent, differ, be at odds
+dissilio | 1 | burst
+dissilio | 3 | trop: to be dissolved, broken off (a friendship or bond)
+dissimilis | 1 | dissimilar
+dissimilitudo | 1 | dissimilarity
+dissimulatio | 1 | dissimulation
+dissimulatio | 3 | philos t.t.: Socratic irony, feigned ignorance
+dissimulatio | 4 | late: negligence, carelessness
+dissimulo | 1 | dissemble
+dissimulo | 3 | to leave unnoticed, disregard, neglect
