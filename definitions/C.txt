@@ -2438,3 +2438,33 @@ colubra | 1 | snake
 colubra | 3 | specifically, a female snake, as distinguished from the male coluber
 colum1 | 1 | strainer
 colum1 | 3 | poet., a wicker fish-net, a weir
+columba | 1 | dove
+columbarius | 1 | dove-keeper
+columbarius | 2 | dovecote
+columbarius | 3 | transf., in architecture, a mortise cut to hold a rafter, or a rowlock hole in a ship's side
+columbarius | 4 | a subterranean tomb with niches in its walls for funerary urns
+columbinus | 1 | of doves
+columbinus | 2 | dove-grey
+columbinus | 3 | pulli columbini, young pigeons; ovum columbinum, a dove's egg
+columen | 1 | summit
+columen | 2 | mainstay
+columen | 3 | of a building, the ridge or gable-top: columen tecti, the ridge of a roof
+columen | 4 | trop., the height or culmination of something: pervenire ad columen, to reach the pinnacle
+columna | 1 | column
+columna | 2 | waterspout
+columna | 3 | trop., a support or pillar of strength, said of a person
+columna | 4 | poet., the vault of heaven
+columnarius | 1 | debtor
+columnarius | 2 | pillar-tax
+columnarius | 3 | one condemned and publicly humiliated at the Columna Maenia in the Forum
+columnatus | 1 | pillared
+columnatus | 3 | humorously, in Plautus, os columnatum, a chin propped on a fist
+colus | 1 | distaff
+colus | 3 | meton., the thread spun on a distaff
+combibo1 | 1 | absorb
+combibo1 | 2 | carouse
+combibo1 | 3 | trop., to absorb or imbibe skills or qualities: artes combibere, to soak up various skills
+comburo | 1 | burn
+comburo | 2 | ruin
+comburo | 3 | comburere aliquem judicio, to destroy someone through a lawsuit
+comburo | 4 | poet., to be consumed by love; also diem comburere, to burn away a day in revelry
