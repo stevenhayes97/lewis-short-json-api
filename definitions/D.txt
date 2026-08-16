@@ -233,3 +233,30 @@ dedico | 1 | dedicate
 dedico | 3 | to declare, to announce something formally (an early, rare sense)
 dedico | 4 | to dedicate or inscribe a literary work to someone
 dedico | 5 | law: to register one's property for the census
+dedignor | 1 | disdain
+dedisco | 1 | unlearn
+dediticius | 1 | surrendered
+dediticius | 3 | as a noun: one who has surrendered, a captive under Roman rule without treaty rights
+deditio | 1 | surrender
+dedo | 1 | surrender
+dedo | 2 | devote
+dedo | 3 | dedita opera (adv.), on purpose, deliberately
+dedo | 4 | dare or dedere manus, to give up, to yield (an idiom)
+dedoceo | 1 | unteach
+dedolo | 1 | hew
+deduco | 1 | lead
+deduco | 2 | deduct
+deduco | 3 | naut: to launch a ship, drawing it down from the dock into the water
+deduco | 4 | pub. law: to lead forth and settle a colony (deducere coloniam, to found a colony)
+deduco | 5 | to escort someone, especially to conduct a bride to her husband's house
+deduco | 6 | to mislead, seduce, entice someone into an opinion
+deduco | 7 | of a literary work: to spin out, compose, elaborate (deducta poemata, finely-wrought poems)
+deduco | 8 | to derive, to trace the origin of a word or name
+deduco | 9 | to relieve or cure a physical ailment
+deductio | 1 | deduction
+deductio | 3 | the founding or settling of a colony
+deductio | 4 | a leading away of the bride, to her husband's house
+deductio | 5 | jurid.: a formal ejection from a disputed property, or the act that established one's claim to it
+deductus1 | 1 | drawn-in
+deductus1 | 2 | weak
+deductus1 | 3 | of a voice: weak, subdued (ante-classical usage)
