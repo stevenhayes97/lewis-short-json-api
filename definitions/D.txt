@@ -850,3 +850,26 @@ detrudo | 2 | dispossess
 detrudo | 3 | milit: to dislodge, drive off (an enemy from a position)
 detrudo | 4 | trop: to reduce, force (someone) into (a state or situation)
 detrudo | 5 | of time: to postpone, defer
+detrunco | 1 | lop
+detrunco | 3 | transf: to mutilate, maim, or behead
+deturbo | 1 | topple
+deturbo | 3 | trop: to deprive (someone) of, drive (someone) from, e.g. deturbare aliquem de sanitate, to deprive someone of their senses
+deuro | 1 | burn up
+deuro | 3 | transf: of cold or frost, to blight, kill (plants)
+deus | 1 | god
+deus | 3 | poet: (of a female deity) goddess
+deus | 4 | eccl: God (the God of Jews and Christians)
+deus | 5 | transf: (of a person) a godlike or superhuman figure
+deveho | 1 | convey
+deveho | 3 | pass: to sail or travel down (a river), depart
+deveho | 4 | trop, rare: to be transported, carried away
+devello | 1 | pluck
+devenio | 1 | arrive
+devenio | 3 | trop: to come to, fall into (a state or condition), e.g. devenire in servitutem, to fall into slavery
+deversor1 | 1 | lodge
+deversorius | 1 | of lodging
+deversorius | 3 | subst. (deversorium): an inn, lodging house
+deverticulum | 1 | byway
+deverticulum | 2 | inn
+deverticulum | 3 | trop: a digression, deviation (in speech or writing)
+deverticulum | 4 | trop: a refuge, retreat, hiding place
