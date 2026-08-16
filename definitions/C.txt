@@ -2488,3 +2488,22 @@ comitatus2 | 4 | in imperial times, an emperor's escort or court
 comitialis | 1 | of the comitia
 comitialis | 3 | morbus comitialis, epilepsy, so called because a seizure during the assembly broke it up
 comitiatus2 | 1 | assembly
+comitium | 1 | assembly-place
+comitium | 3 | in the plural, the comitia, the electoral assemblies of the Roman people
+comito | 1 | accompany
+comitor | 1 | accompany
+comitor | 3 | to attend a person to the grave
+commaculo | 1 | defile
+commanduco | 1 | chew up
+commeatus | 1 | supplies
+commeatus | 2 | furlough
+commeatus | 3 | a passage or thoroughfare
+commeatus | 4 | a convoy or caravan of traffic
+commemini | 1 | remember
+commemini | 3 | in later Latin, to mention
+commemoratio | 1 | mention
+commemoro | 1 | mention
+commemoro | 2 | remind
+commemoro | 3 | rarely, of oneself, to call to mind or remember
+commendatio | 1 | recommendation
+commendatio | 2 | merit
