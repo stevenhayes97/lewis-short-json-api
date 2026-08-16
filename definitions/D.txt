@@ -1245,3 +1245,21 @@ disjungo | 3 | esp: to unyoke (draught animals); to wean (young animals)
 disjungo | 4 | trop: to estrange, alienate (a person from a friendship or alliance)
 disjungo | 5 | as adj. (disjunctus): remote, apart, different
 disjungo | 6 | as adj. (disjunctus), of discourse: disconnected, abrupt, disjointed
+dispalor | 1 | straggle
+dispalor | 3 | trop: to be scattered, dispersed (of a multitude)
+dispando | 1 | distend
+dispando | 3 | trop: (of speech) to amplify, expand
+dispar | 1 | unequal
+disparilis | 1 | dissimilar
+disparo | 1 | separate
+disparo | 3 | logic t.t.: as adj. (disparatum), a term opposed to another by simple negation, e.g. wise vs not-wise
+dispello | 1 | disperse
+dispello | 3 | trop: to dispel, drive away (fear, darkness, or care)
+dispendium | 1 | expense
+dispendium | 3 | trop: loss (of time, reputation, or discipline), e.g. dispendium morae, a loss of time
+dispensatio | 1 | management
+dispensatio | 3 | the office of a steward, administratorship
+dispensator | 1 | steward
+dispensator | 3 | of the imperial treasury: a cashier, treasurer
+dispenso | 1 | dispense
+dispenso | 2 | manage
