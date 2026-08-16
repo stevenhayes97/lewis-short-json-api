@@ -4020,3 +4020,36 @@ cura | 3 | guardianship, as of a ward or minor
 cura | 4 | medic., medical treatment, a cure
 cura | 5 | poet., the object of one's love, a sweetheart
 cura | 6 | administration, oversight, as of public affairs
+curatio | 1 | management
+curatio | 2 | guardianship
+curatio | 3 | medic., healing or treatment
+curator | 1 | overseer
+curator | 2 | guardian
+curia | 1 | curia
+curia | 3 | meton., the senate-house
+curia | 4 | meton., the Senate itself, the assembled body
+# review: curialis "of a curia" needs the article to be accurate; no shorter English phrasing fits
+curialis | 1 | of a curia
+curialis | 3 | as a substantive, a fellow member of a curia
+curialis | 4 | late Lat., belonging to the imperial court
+# review: curiatus "of the curiae" needs the article to be accurate; no shorter English phrasing fits
+curiatus | 1 | of the curiae
+curiatus | 3 | comitia curiata, the assembly voting by curiae
+curiosus | 1 | careful
+curiosus | 2 | curious
+curiosus | 3 | as a substantive, a spy or informer
+curiosus | 4 | transf., emaciated or wasted away with worry
+curo | 1 | care for
+curo | 2 | commission
+curo | 3 | medic., to heal or cure
+curo | 4 | to pay or settle, as a debt
+curriculum | 1 | race
+curriculum | 2 | course
+curriculum | 3 | curriculum vitae, the course of one's life
+curriculum | 4 | a race-chariot
+curro | 1 | run
+curro | 2 | flow
+curro | 3 | trop., to flow smoothly, as a speech
+currus | 1 | chariot
+currus | 2 | triumph
+currus | 3 | poet., a team of horses drawing a chariot
