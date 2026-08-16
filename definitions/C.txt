@@ -3236,3 +3236,20 @@ consero1 | 3 | consitus senectute, weighed down with old age
 consero2 | 1 | link
 consero2 | 3 | manum conserere, to join in close combat
 consero2 | 4 | trop., to connect or link, as day to day or virtue to virtue
+conserva | 1 | fellow-slave
+conservatio | 1 | preservation
+conservator | 1 | preserver
+conservatrix | 1 | protectress
+conservo | 1 | preserve
+conservus | 1 | fellow-slave
+consessor | 1 | assessor
+consessor | 3 | at a feast, a fellow guest or table companion
+consessus | 1 | assembly
+consessus | 3 | abstr., the act or right of sitting together with someone
+considero | 1 | consider
+considero | 2 | examine
+consido | 1 | sit
+consido | 2 | encamp
+consido | 3 | to settle permanently, take up one's abode
+consido | 4 | of things, to sink or subside
+consido | 5 | trop., to subside or abate, as anger or passion
