@@ -2913,3 +2913,22 @@ condicionalis | 1 | conditional
 condico | 1 | arrange
 condico | 3 | jurid., to make a formal claim for the return of something
 condico | 4 | condicere ad cenam, to accept an invitation to dinner
+condictio | 1 | claim
+condictio | 3 | in religious language, a formal proclamation of a festival date
+condignus | 1 | deserving
+condimentum | 1 | seasoning
+condimentum | 3 | trop., the crowning touch or embellishment of something
+condio | 1 | season
+condio | 2 | embellish
+condio | 3 | to preserve or pickle, as fruit
+condio | 4 | to embalm a dead body
+condisco | 1 | learn thoroughly
+condisco | 3 | to learn together with someone, as a fellow-student
+conditio3 | 1 | seasoning
+conditio3 | 3 | a preserving, as of fruit
+conditivus | 1 | preservable
+conditor1 | 1 | founder
+conditor1 | 3 | more generally, an author or compiler, as of a written work
+conditorium | 1 | repository
+conditorium | 3 | specif., a coffin, or a tomb
+conditrix | 1 | foundress
