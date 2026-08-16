@@ -739,3 +739,31 @@ desperatio | 1 | despair
 desperatio | 3 | meton: desperate boldness, recklessness
 despero | 1 | despair
 despero | 3 | with acc.: to give up as lost, abandon hope for (a cause, plan, or person)
+despicio | 1 | despise
+despicio | 3 | to look down (from a height)
+despicio | 4 | rare: to look away, disregard, pay no heed to
+despicor | 1 | despise
+despolio | 1 | despoil
+despondeo | 1 | pledge
+despondeo | 2 | betroth
+despondeo | 3 | animum despondere, to lose heart, become despondent
+despondeo | 4 | trop: to give up, devote, or resign (something) to
+despumo | 1 | skim
+despumo | 3 | transf: to work off, mellow, or digest (wine)
+despumo | 4 | trop: to cease foaming, slacken, abate
+despuo | 1 | spit
+despuo | 3 | trop: to reject, spurn, abhor
+desquamo | 1 | scale
+desquamo | 3 | transf: to peel off, scour, or rub clean
+desquamo | 4 | medic: (as subst.) chafed or excoriated patches of skin
+destillo | 1 | drip
+destillo | 3 | transf: to anoint or drop (something fragrant) onto, e.g. tempora nardo destillare, to anoint the temples with nard
+destinatio | 1 | resolve
+destinatio | 3 | esp: obstinacy, stubbornness
+destino | 1 | destine
+destino | 3 | lit: to make fast, bind, secure
+destino | 4 | to determine, resolve, decide upon
+destino | 5 | milit: (of archers, slingers) to aim at, take aim
+destino | 6 | trade: to mark out for purchase, intend to buy
+destino | 7 | as adj. (destinatus): fixed, resolved, determined
+destino | 8 | as noun (destinatum): a mark, target; a plan, design
