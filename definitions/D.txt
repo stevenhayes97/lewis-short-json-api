@@ -1083,3 +1083,26 @@ dimeto | 1 | demarcate
 dimicatio | 1 | combat
 dimicatio | 3 | transf: a struggle, contest (beyond the military sphere)
 dimicatio | 4 | dimicatio capitis (or vitae), a fight for one's life, a trial on a capital charge
+dimico | 1 | fight
+dimico | 3 | transf: to struggle, strive, contend (in a non-military sense)
+dimidio | 1 | halve
+dimidius | 1 | half
+dimidius | 3 | as noun (dimidium): the half, half of a quantity
+dimidius | 4 | prov: dimidium facti qui coepit habet, well begun is half done
+diminuo | 1 | shatter
+diminuo | 3 | to violate, corrupt, destroy by outrage (of texts or truths)
+dimissio | 1 | dismissal
+dimissio | 3 | a sending out, dispatch (in different directions)
+dimissio | 4 | medic: remission (of pain or fever)
+dimitto | 1 | dismiss
+dimitto | 2 | abandon
+dimitto | 3 | to disband, break up (an army, assembly, etc.)
+dimitto | 4 | to send out, dispatch (in different directions)
+dimoveo | 1 | part
+dimoveo | 3 | transf: to scatter, disperse, drive away (a crowd)
+dimoveo | 4 | trop: to remove, detach, entice away (from a habit or attachment)
+dinosco | 1 | distinguish
+dinumeratio | 1 | enumeration
+dinumeratio | 3 | rhet t.t.: enumeration as a rhetorical figure, listing points one by one
+dinumero | 1 | enumerate
+dinumero | 3 | mercantile t.t.: to count out, pay out (money)
