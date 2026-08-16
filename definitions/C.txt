@@ -3093,3 +3093,29 @@ congredior | 2 | fight
 congredior | 3 | trop., to contend or dispute in words, as in a lawsuit
 congregatio | 1 | gathering
 congregatio | 3 | rhet., a recapitulation, as of arguments or facts
+congrego | 1 | assemble
+congrego | 3 | trop., to accumulate, as arguments or words
+congressio | 1 | meeting
+congressio | 2 | intercourse
+congressio | 3 | a hostile encounter or attack
+congressus2 | 1 | meeting
+congressus2 | 2 | fight
+congressus2 | 3 | intercourse, carnal union
+congrex | 1 | gregarious
+congrex | 3 | trop., close or intimate
+congruo | 1 | agree
+congruo | 3 | to coincide, as in time or circumstance
+congruus | 1 | fitting
+conicio | 1 | throw
+conicio | 2 | infer
+conicio | 3 | se conicere, to throw oneself, betake oneself hastily somewhere
+conicio | 4 | trop., to drive or urge into a state, as of fear or joy
+conicio | 5 | of augury, to interpret an omen or divine from signs
+conitor | 1 | strive
+conitor | 3 | to struggle in labour, as in childbirth
+coniveo | 1 | blink
+coniveo | 2 | connive
+coniveo | 3 | trop., to be dull or drowsy
+conjectio | 1 | throwing
+conjectio | 2 | conjecture
+conjectio | 3 | conjectio causae, the outline or draft of a law case
