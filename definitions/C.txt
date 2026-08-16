@@ -3709,3 +3709,28 @@ cornutus1 | 3 | as a substantive, a kind of horned sea-fish
 cornutus1 | 4 | cornutus syllogismus, a horned syllogism, a logical dilemma
 corollarium | 1 | gratuity
 corollarium | 3 | later philos., a corollary or logical deduction
+# review: coronarius "of a wreath" needs the article to be accurate; no shorter English phrasing fits
+coronarius | 1 | of a wreath
+coronarius | 3 | as a substantive, a garland-maker or -seller
+corono | 1 | crown
+corono | 3 | trop., to win as a prize of victory
+corono | 4 | meton., to surround or encircle, as a camp
+corporalis | 1 | corporeal
+corporeus | 1 | corporeal
+corporeus | 3 | fleshly, made of flesh
+corporo | 1 | embody
+corporo | 3 | to kill, literally to reduce to a lifeless body
+corporo | 4 | as a substantive (corporatus), a member of a guild or corporation
+corpulentus | 1 | corpulent
+corpulentus | 3 | archaic, great or large
+corpulentus | 4 | late Lat., physical or corporeal
+corpus | 1 | body
+corpus | 2 | corpse
+corpus | 3 | flesh, as of an animal
+corpus | 4 | meton., a body or corporation, as an organized community
+corrado | 1 | scrape together
+corrado | 3 | trop., to obtain with difficulty, as credibility
+correctio | 1 | correction
+correctio | 3 | rhet., the rhetorical figure of replacing a word with a stronger one
+corrector | 1 | corrector
+corrector | 3 | under the empire, the title of a provincial governor
