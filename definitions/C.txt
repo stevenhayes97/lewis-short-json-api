@@ -3502,3 +3502,30 @@ contra | 1 | against
 contra | 2 | opposite
 contra | 3 | on the contrary, conversely
 contra | 4 | contra atque, otherwise than, differently from what
+contractio | 1 | contraction
+contractio | 2 | shortening
+contractio | 3 | trop., dejection or despondency of spirit
+contractus2 | 1 | contract
+contractus2 | 3 | a shrinking or wrinkling, as of grapes drying
+contradictio | 1 | objection
+contraho | 1 | gather
+contraho | 2 | incur
+contraho | 3 | to shrink or narrow, as a muscle or space
+contraho | 4 | to make a contract or bargain
+contraho | 5 | trop., to restrain or check, as fear or grief
+contrapono | 1 | oppose
+contrapono | 3 | as a substantive (contrapositum), an antithesis
+contrarius | 1 | opposite
+contrarius | 2 | hostile
+contrarius | 3 | as a substantive (contrarium), the opposite or reverse
+contrarius | 4 | ex contrario, on the contrary, on the other hand
+contrectatio | 1 | touch
+contrectatio | 3 | jurid., an illegal taking, theft
+contrecto | 1 | handle
+contrecto | 2 | violate
+contrecto | 3 | jurid., to steal or purloin
+contrecto | 4 | trop., to dwell upon or contemplate, as in thought
+contremisco | 1 | tremble
+contremisco | 3 | to dread or be afraid of something
+contribulo | 1 | crush
+contribulo | 3 | trop., to afflict or distress greatly
