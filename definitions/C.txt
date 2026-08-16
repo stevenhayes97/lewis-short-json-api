@@ -2324,3 +2324,34 @@ collectio | 1 | gathering
 collectio | 2 | abscess
 collectio | 3 | in rhetoric, a summary or recapitulation of points already made
 collectio | 4 | in logic, a conclusion or inference drawn from premises
+collectivus | 1 | collective
+collectivus | 3 | in grammar, nomen collectivum, a collective noun, such as exercitus, populus
+collectivus | 4 | in rhetoric, pertaining to a syllogism: status collectivus, a syllogistic argument
+collega | 1 | colleague
+collega | 3 | more generally, a fellow member of a group or a companion in some pursuit
+collegium | 1 | college
+collegium | 2 | partnership
+collegium | 3 | concr., persons united by the same office, trade, or calling: collegium pontificum, the college of priests
+collegium | 4 | in gen., a guild, club, or fraternity of any kind
+collibet | 1 | please
+collibet | 3 | impersonal, used mainly in the perfect: si collibuisset, if it had pleased him
+collido | 1 | collide
+collido | 2 | estrange
+collido | 3 | collidere manus, to clap the hands
+collido | 4 | pass., to be at variance, to clash: ambitiosa gloria pios fratres collidit, ambitious glory sets pious brothers at odds
+colligatio | 1 | connection
+colligatio | 3 | in mechanics, a ligature or fastening
+colligatio | 4 | of causes, a chain or interlinking: colligatio causarum, the interconnection of causes
+colligo1 | 1 | gather
+colligo1 | 2 | infer
+colligo1 | 3 | colligere se (or animum), to compose oneself, to regain one's courage
+colligo1 | 4 | to gain or incur: odium colligere, to incur hatred
+colligo1 | 5 | of things contracting, to coil or draw together: in spiram se colligere, to coil into a spiral, of a snake
+colligo2 | 1 | bind
+colligo2 | 2 | restrain
+colligo2 | 3 | trop., to unite or connect: officia inter se colligata, duties bound up with one another
+colligo2 | 4 | to keep someone confined or held back: Brutum in Graecia colligare, to keep Brutus stationed in Greece
+collineo | 1 | aim
+collineo | 3 | absol., to hit the mark, to aim correctly
+collino | 1 | besmear
+collino | 3 | figuratively, to sully or disgrace: turpes mores collinunt ornatum, base character sullies fine adornment
