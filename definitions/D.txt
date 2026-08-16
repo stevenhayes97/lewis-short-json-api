@@ -1328,3 +1328,31 @@ dissimulatio | 3 | philos t.t.: Socratic irony, feigned ignorance
 dissimulatio | 4 | late: negligence, carelessness
 dissimulo | 1 | dissemble
 dissimulo | 3 | to leave unnoticed, disregard, neglect
+dissipatio | 1 | scattering
+dissipatio | 3 | pregn: destruction, annihilation
+dissipo | 1 | scatter
+dissipo | 2 | squander
+dissipo | 3 | milit: to rout, put to flight (an enemy)
+dissipo | 4 | to demolish, destroy (a building or structure)
+dissipo | 5 | trop: to spread abroad, circulate, disseminate (news or knowledge)
+dissipo | 6 | trop: to drive away, dispel (cares); to interrupt, disturb
+dissocio | 1 | estrange
+dissocio | 3 | lit, poet: to separate physically, sunder
+dissolutio | 1 | dissolution
+dissolutio | 2 | dissoluteness
+dissolutio | 3 | a reply, refutation (of a charge or argument)
+dissolutio | 4 | rhet t.t.: asyndeton, lack of connecting words
+dissolvo | 1 | dissolve
+dissolvo | 2 | discharge
+dissolvo | 3 | trop: to abolish, annul, put an end to (a friendship, alliance, or law)
+dissolvo | 4 | rhet/philos: to refute, answer (an argument or charge)
+dissolvo | 5 | to release, free, disengage (someone)
+dissolvo | 6 | as adj. (dissolutus): lax, negligent, careless; licentious, dissolute
+dissono | 1 | clash
+dissono | 3 | trop: to disagree, differ, be at variance
+dissonus | 1 | discordant
+dissonus | 3 | in gen: disagreeing, different, at odds (of languages or customs)
+dissuadeo | 1 | dissuade
+dissulto | 1 | burst
+dissuo | 1 | unstitch
+dissuo | 3 | trop: to loosen, dissolve (a friendship) gradually, by degrees
