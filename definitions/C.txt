@@ -2189,3 +2189,39 @@ codicilli | 3 | in the imperial period, an official document from the emperor gr
 codicilli | 4 | originally, wood cut and split for burning, found only in Cato
 coemo | 1 | buy up
 coemo | 3 | agros coemere, to buy up land, often to corner a market
+coemptio | 1 | mock sale
+coemptio | 3 | a legal fiction transferring an estate to free it from the religious duties (sacra) attached to it
+coemptio | 4 | specifically, a form of marriage by mutual mock sale, freeing the wife from her birth family's guardianship and sacra
+coeo | 1 | meet
+coeo | 2 | unite
+coeo | 3 | of armies or fighters, to clash in battle
+coeo | 4 | of the sexes, to have intercourse
+coeo | 5 | coire nuptiis, to be joined in marriage
+coeo | 6 | coire societatem, to enter into an alliance or form a partnership
+coepio | 1 | begin
+coepio | 3 | usually with an infinitive: amare coepi, I began to love; ver esse coeperat, spring had begun
+coepio | 4 | intransitively (post-Augustan), to arise or originate
+coepto | 1 | attempt
+coepto | 3 | quid coeptas? what are you attempting?; seditionem coeptare, to attempt a rebellion
+coepto | 4 | intransitively (post-Augustan and rare), to begin, make a start
+coerceo | 1 | restrain
+coerceo | 3 | literally, to enclose or hold within bounds: amnis nullis ripis coercitus, a river held in by no banks
+coerceo | 4 | of discourse, to keep within limits, control
+coerceo | 5 | of faults or passions, to curb, check, correct
+coercitio | 1 | coercion
+coercitio | 2 | authority
+coercitio | 3 | coercitio magistratus, the coercive power of a magistrate
+cogitatio | 1 | thought
+cogitatio | 2 | plan
+cogitatio | 3 | meton., the faculty or power of thinking, reason
+cogitatio | 4 | cogitatione aliquid complecti, to grasp something in thought
+cogito | 1 | think
+cogito | 2 | intend
+cogito | 3 | with an infinitive, to intend or plan to do something: facere cogitat, he intends to do it
+cogito | 4 | de aliqua re cogitare, to think about or contemplate something: de morte cogitare, to contemplate death
+cognatio | 1 | kinship
+cognatio | 2 | relatives
+cognatio | 3 | figuratively, a close resemblance or natural affinity between things: cognatio poetis cum oratoribus, the kinship between poets and orators
+cognatus | 1 | related
+cognatus | 3 | as a substantive (cognatus, cognata), a blood relation, a kinsman or kinswoman
+cognatus | 4 | figuratively, kindred, similar, closely connected: nihil tam cognatum mentibus nostris quam numeri, nothing is so akin to our minds as rhythm
