@@ -1216,3 +1216,32 @@ discrimino | 3 | trop: to distinguish, differentiate
 discriptio | 1 | apportionment
 discrucio | 1 | torture
 discrucio | 3 | mid., mentally: to torment oneself, fret, agonize
+discumbo | 1 | recline
+discumbo | 3 | rarely: to lie down to sleep
+discurro | 1 | run about
+discurro | 3 | transf: to traverse, run through or over
+discurro | 4 | trop, post-class: to discourse on, speak at length about
+discurso | 1 | run about
+discurso | 3 | act, late: to traverse
+discursus2 | 1 | running about
+discursus2 | 3 | transf: a spreading, ramification (of roots or veins)
+discursus2 | 4 | late: a discourse, conversation
+discussio | 1 | discussion
+discussio | 3 | a revision, audit (of public accounts, late empire)
+discutio | 1 | shatter
+discutio | 2 | dispel
+discutio | 3 | to frustrate, bring to naught (a plan or undertaking)
+discutio | 4 | medic: to disperse, resolve (a swelling or morbid matter)
+disicio | 1 | scatter
+disicio | 2 | demolish
+disicio | 3 | milit: to rout, put to flight (an enemy)
+disicio | 4 | trop: to frustrate, thwart, wreck (a plan or peace)
+disjunctio | 1 | separation
+disjunctio | 3 | philos t.t.: a disjunctive proposition, an "either...or" statement
+disjunctio | 4 | rhet t.t.: a figure using a series of clauses, each with its own verb
+disjunctivus | 1 | disjunctive
+disjungo | 1 | separate
+disjungo | 3 | esp: to unyoke (draught animals); to wean (young animals)
+disjungo | 4 | trop: to estrange, alienate (a person from a friendship or alliance)
+disjungo | 5 | as adj. (disjunctus): remote, apart, different
+disjungo | 6 | as adj. (disjunctus), of discourse: disconnected, abrupt, disjointed
