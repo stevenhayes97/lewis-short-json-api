@@ -2264,3 +2264,35 @@ cohibeo | 1 | contain
 cohibeo | 2 | restrain
 cohibeo | 3 | cohibere se, to restrain oneself, to keep oneself in check
 cohibeo | 4 | with ab and the ablative, to keep someone from something: manus ab alieno cohibere, to keep one's hands off another's property
+cohonesto | 1 | honour
+cohonesto | 2 | palliate
+cohonesto | 3 | exsequias cohonestare, to pay due honour at a funeral
+cohonesto | 4 | of a physical defect, to disguise or remedy it: defluvia capitis cohonestare, to conceal hair loss
+cohorresco | 1 | shudder
+cohorresco | 3 | quem ubi agnovi, equidem cohorrui, when I recognized him, I shuddered
+cohors | 1 | cohort
+cohors | 2 | retinue
+cohors | 3 | literally, an enclosed yard or pen, especially for cattle or poultry
+cohors | 4 | more generally, a crowd, multitude, or company of attendants
+cohortalis | 1 | of farmyards
+cohortalis | 2 | of bodyguards
+cohortalis | 3 | aves cohortales, yard fowl, domestic poultry kept in a pen
+cohortalis | 4 | late Latin, of an emperor's guard: cohortale officium, the staff of an imperial bodyguard
+cohortatio | 1 | exhortation
+cohortatio | 3 | militum cohortatio, a rallying speech to the troops
+cohortor | 1 | exhort
+cohortor | 3 | especially of a general before battle, to rally or address the troops
+cohortor | 4 | cohortari aliquem ad aliquid, to urge someone toward something: cohortari aliquem ad virtutem, to urge someone toward virtue
+coinquino | 1 | defile
+coinquino | 3 | of disease, to infect, to taint
+coinquino | 4 | of moral faults, to corrupt or stain: se scelere coinquinare, to stain oneself with a crime
+coitio | 1 | meeting
+coitio | 2 | conspiracy
+coitio | 3 | prima coitio est acerrima, the first encounter is the fiercest
+coitio | 4 | post-classical, sexual intercourse
+coitus2 | 1 | union
+coitus2 | 2 | intercourse
+coitus2 | 3 | of syllables, sounds, or fluids, a joining or coalescing: coitus syllabarum, the joining of syllables
+coitus2 | 4 | of plants, union by grafting
+collabefio | 1 | collapse
+collabefio | 3 | trop., to be overthrown or supplanted: a Themistocle collabefactus, brought down by Themistocles
