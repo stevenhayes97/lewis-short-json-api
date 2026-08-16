@@ -2377,3 +2377,33 @@ colluceo | 1 | blaze
 colluceo | 3 | trop., to be conspicuous, to blaze forth: collucere furtis, to be ablaze with evidence of theft
 colluco | 1 | thin
 colluco | 3 | of a forest, to clear undergrowth or thin trees to let in light
+colluctatio | 1 | struggle
+colluctatio | 3 | trop., of speech, a stumbling or floundering over words
+colluctor | 1 | wrestle
+colluctor | 3 | trop., cum agro colluctari, to struggle with difficult soil, of hard farming
+colludo | 1 | play
+colludo | 2 | collude
+colludo | 3 | jurid., to have a secret understanding with someone to the injury of a third party
+collum | 1 | neck
+collum | 3 | as a symbol of servitude, collum dare, to bow the neck, to submit
+collum | 4 | obtorto collo trahere aliquem, to seize someone by the neck and drag him off, to court or prison
+collum | 5 | meton., the neck of a flask or bottle
+colluo | 1 | rinse
+colluo | 3 | absol., of waves, to erode or wash away land
+collusio | 1 | collusion
+collusor | 1 | playmate
+collusor | 2 | accomplice
+collusor | 3 | in law, one who colludes with another to defraud a third party
+collustro | 1 | illuminate
+collustro | 2 | survey
+collustro | 3 | omnia oculis collustrare, to survey everything with one's eyes, to take it all in
+colluvio | 1 | filth
+colluvio | 2 | rabble
+colluvio | 3 | trop., a degraded mixture or medley of people: colluvio omnium scelerum, a cesspool of every crime
+colo1 | 1 | cultivate
+colo1 | 2 | worship
+colo1 | 3 | without reference to farming, to dwell or inhabit a place: hanc urbem colere, to dwell in this city
+colo1 | 4 | of the body, to groom or adorn: corpus colere, to take care of one's appearance
+colo1 | 5 | with abstract objects, to practise or devote oneself to: amicitiam colere, to cultivate a friendship; fidem colere, to keep one's word
+colo1 | 6 | of a period of time, to live through, to spend: aetatem colere, to pass one's life
+colo1 | 7 | colere aliquem, to honour or pay respect to a person, not only a god
