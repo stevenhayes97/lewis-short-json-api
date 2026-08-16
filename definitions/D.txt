@@ -355,3 +355,24 @@ dego | 1 | spend
 dego | 3 | absol.: to live, to dwell (post-Augustan usage)
 degravo | 1 | weigh down
 degravo | 3 | trop: to burden, to weigh upon, to oppress
+degredior | 1 | descend
+degusto | 1 | taste
+degusto | 3 | trop: to try, to sample, to make oneself acquainted with something
+degusto | 4 | to touch briefly upon a subject, to treat cursorily
+dehinc | 1 | then
+dehinc | 3 | of place: from here, hence (rare, post-Augustan)
+dehinc | 4 | of time, looking forward: henceforth, from now on
+dehisco | 1 | gape
+dehonestamentum | 1 | blemish
+dehonesto | 1 | disgrace
+dehortor | 1 | dissuade
+deicio | 1 | throw down
+deicio | 2 | dishearten
+deicio | 3 | milit: to dislodge an enemy from a position
+deicio | 4 | jurid: to eject, to dispossess someone of property
+deicio | 5 | pregn: to fell with a mortal wound, to strike dead
+deicio | 6 | to deprive someone of an expectation or hope (de honore deici, to be deprived of an office)
+deinceps | 1 | successively
+deinceps | 3 | as an adjective: following next, the next in a series
+deinde | 1 | then
+deinde | 3 | in local succession: next, after that (rare)
