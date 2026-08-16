@@ -767,3 +767,28 @@ destino | 5 | milit: (of archers, slingers) to aim at, take aim
 destino | 6 | trade: to mark out for purchase, intend to buy
 destino | 7 | as adj. (destinatus): fixed, resolved, determined
 destino | 8 | as noun (destinatum): a mark, target; a plan, design
+destituo | 1 | abandon
+destituo | 3 | lit., rare: to set down, place
+destituo | 4 | as adj. (destitutus): destitute, deprived, forsaken (usu. + ab or abl.)
+destringo | 1 | draw
+destringo | 3 | to strip off, pluck off (leaves, bark, etc.)
+destringo | 4 | to strip, scour, or rub down (the body, intestines, etc.)
+destringo | 5 | to graze, skim, or touch lightly in passing
+destringo | 6 | trop: to criticise, satirize
+destruo | 1 | demolish
+destruo | 3 | trop: to destroy, ruin, or weaken (an argument, plan, etc.)
+desub | 1 | beneath
+desubito | 1 | suddenly
+desudo | 1 | sweat
+desudo | 3 | trop: to exert oneself, toil hard
+desudo | 4 | to sweat out, exude (something)
+desuesco | 1 | disuse
+desuesco | 3 | neutr: to become unaccustomed to, grow out of the habit of
+desuesco | 4 | as adj. (desuetus): unaccustomed, out of practice
+desultor | 1 | vaulter
+desultor | 3 | trop: a fickle or inconstant person, e.g. desultor amoris, a fickle lover
+desum | 1 | be lacking
+desum | 3 | pregn: to fail (someone) in duty, fail to help or support, desert
+desum | 4 | deesse sibi, to fail oneself, neglect one's own interests
+desumo | 1 | select
+desumo | 2 | undertake
