@@ -2837,3 +2837,24 @@ concitator | 1 | instigator
 concito | 1 | spur
 concito | 2 | incite
 concito | 3 | to cause or occasion, as war or disturbance
+conclamo | 1 | shout
+conclamo | 2 | summon
+conclamo | 3 | conclamare ad arma, to sound the call to arms
+conclamo | 4 | to mourn the dead, calling on them by name
+conclave | 1 | room
+concludo | 1 | enclose
+concludo | 2 | conclude
+concludo | 3 | rhet., to round off a sentence rhythmically
+concludo | 4 | philos., to infer or deduce, as in an argument
+conclusio | 1 | conclusion
+conclusio | 3 | milit., a siege or blockade
+conclusio | 4 | rhet., a period, a complete rounded sentence
+concolor | 1 | same-coloured
+concolor | 3 | similar or alike, in general
+concomitor | 1 | accompany
+concoquo | 1 | digest
+concoquo | 3 | trop., to endure or put up with something
+concoquo | 4 | trop., to ponder or weigh something maturely in mind
+concordia1 | 1 | harmony
+concordo | 1 | agree
+concorporo | 1 | incorporate
