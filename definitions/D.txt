@@ -633,3 +633,18 @@ depropero | 3 | to prepare something in haste
 depso | 1 | knead
 depugno | 1 | fight
 depugno | 3 | to fight to the finish, to stop fighting only once it is settled
+depulsio | 1 | warding off
+depulsio | 3 | rhetor: a defence against a charge or accusation
+depulsor | 1 | deliverer
+depurgo | 1 | cleanse
+deputo | 1 | prune
+deputo | 3 | to consider, regard as (ante- and post-classical)
+deputo | 4 | late: to allot, assign to someone
+derado | 1 | shave
+derelinquo | 1 | abandon
+derelinquo | 3 | late: to bequeath, to leave behind as an inheritance
+derepente | 1 | suddenly
+derideo | 1 | deride
+deridiculus | 1 | ridiculous
+derigesco | 1 | stiffen
+derigesco | 3 | of blood or liquid: to curdle, congeal
