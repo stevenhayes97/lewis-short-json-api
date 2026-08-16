@@ -397,3 +397,26 @@ delecto | 3 | archaic: to entice away, to seduce from the right path
 delectus2 | 1 | choice
 delectus2 | 3 | milit: a levy, a recruiting of soldiers
 delectus2 | 4 | meton: the men levied, a body of recruits
+delegatio | 1 | assignment
+delegatio | 3 | business: the transfer of a debt to another person
+delegatio | 4 | trop: delegation, the passing off of a task to someone else
+delego | 1 | assign
+delego | 3 | business: to transfer a debt to another person
+delego | 4 | trop: to attribute or ascribe something to someone
+delenimentum | 1 | allurement
+delenio | 1 | charm
+delenio | 2 | soothe
+deleo | 1 | destroy
+deleo | 2 | erase
+deleo | 3 | trop: to end, finish, or terminate (a war, laws, a dispute)
+deliberatio | 1 | deliberation
+deliberatio | 3 | rhetor: a deliberative speech, one urging a course of action
+deliberativus | 1 | deliberative
+delibero | 1 | deliberate
+delibero | 3 | to consult an oracle
+delibero | 4 | meton: to resolve or determine after deliberating
+delibo | 1 | taste
+delibo | 3 | trop: to pluck or gather, to enjoy the best part of something
+delibo | 4 | trop: to take away from, diminish, detract
+delibuo | 1 | anoint
+delibuo | 3 | trop: overwhelmed by an emotion (delibutus gaudio, overwhelmed with joy)
