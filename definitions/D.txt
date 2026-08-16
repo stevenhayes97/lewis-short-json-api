@@ -792,3 +792,27 @@ desum | 3 | pregn: to fail (someone) in duty, fail to help or support, desert
 desum | 4 | deesse sibi, to fail oneself, neglect one's own interests
 desumo | 1 | select
 desumo | 2 | undertake
+desuper | 1 | above
+detego | 1 | uncover
+detego | 2 | detect
+detego | 3 | comic transf: to strip off, take off (clothing)
+detergeo | 1 | wipe
+detergeo | 3 | to strip off, break off, or shatter, e.g. of oars sheared off in a ramming attack
+detergeo | 4 | trop: to remove, take away, get rid of
+detergeo | 5 | colloq: of money, to sweep off, net, obtain
+deterior | 1 | worse
+determino | 1 | delimit
+determino | 3 | transf: to fix, settle, or appoint (a time, date, or term)
+detero | 1 | wear down
+detero | 3 | trop: to diminish, weaken, impair
+deterreo | 1 | deter
+deterreo | 3 | to avert, keep off (a danger, attack, or evil)
+detestabilis | 1 | detestable
+detestatio1 | 1 | curse
+detestatio1 | 2 | renunciation
+detestatio1 | 3 | a warding off, an averting (of evil)
+detestor | 1 | curse
+detestor | 2 | detest
+detestor | 3 | to call down (evil or curses) upon someone, invoking a deity
+detestor | 4 | transf: to avert by entreaty, ward off, deprecate
+detestor | 5 | judic: to renounce solemnly under oath
