@@ -3554,3 +3554,24 @@ contubernium | 4 | attendance on a general, as by a young recruit
 contueor | 1 | gaze
 contueor | 2 | ponder
 contueor | 3 | to catch sight of, to spot
+contumacia | 1 | obstinacy
+contumacia | 3 | jurid., contempt of court, refusal to appear when summoned
+contumax | 1 | obstinate
+contumax | 3 | jurid., in contempt of court, refusing a summons
+contumelia | 1 | insult
+contumelia | 2 | violence
+contumeliosus | 1 | abusive
+contundo | 1 | crush
+contundo | 3 | trop., to subdue or break, as an enemy's strength
+conturbatio | 1 | confusion
+conturbatio | 3 | trop., mental disquiet or perturbation
+conturbo | 1 | confuse
+conturbo | 2 | disturb
+conturbo | 3 | conturbare rationes, to go bankrupt
+conubialis | 1 | connubial
+conubium | 1 | marriage
+conubium | 3 | jus conubii, the legal right to intermarry
+conubium | 4 | of plants, a grafting together
+convalesco | 1 | recover
+convalesco | 3 | trop., to gain strength or power, as a state or faction
+convalesco | 4 | jurid., to become legally valid, as a will
