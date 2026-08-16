@@ -3884,3 +3884,28 @@ crucio | 2 | torment
 crucio | 3 | medial, to grieve or be afflicted, to worry oneself
 crudelis | 1 | cruel
 crudelitas | 1 | cruelty
+crudesco | 1 | worsen
+cruditas | 1 | indigestion
+cruditas | 3 | undigested food
+crudus | 1 | raw
+crudus | 2 | unripe
+crudus | 3 | cruda senectus, a vigorous old age
+crudus | 4 | poet., harsh or cruel
+cruento | 1 | bloody
+cruento | 3 | trop., to wound, as with cutting words
+cruento | 4 | to dye red, tinge with red
+cruentus | 1 | bloody
+cruentus | 2 | bloodthirsty
+cruentus | 3 | blood-red, deep red in colour
+cruor | 1 | blood
+cruor | 2 | bloodshed
+cruor | 3 | poet., blood in the body generally
+crus | 1 | leg
+crus | 3 | transf., the stalk or lower stem of a plant
+crusta | 1 | crust
+crusta | 2 | veneer
+crusta | 3 | art, ornamental inlay or mosaic work on walls
+crusto | 1 | incrust
+crux | 1 | cross
+crux | 2 | torment
+crux | 3 | facete, a gallows-bird, a rascal
