@@ -3139,3 +3139,26 @@ conjugium | 3 | meton., a husband or wife, one's spouse
 conjugo | 1 | unite
 conjugo | 3 | rhet., conjugata verba, etymologically related words
 conjunctim | 1 | jointly
+conjunctio | 1 | connection
+conjunctio | 3 | gram., a conjunction, a connecting particle
+conjungo | 1 | join
+conjungo | 2 | marry
+conjungo | 3 | conjunctus, bordering upon or near, as of places
+conjungo | 4 | conjunctus, related or intimate, as by kinship or friendship
+conjunx | 1 | wife
+conjunx | 2 | husband
+conjunx | 3 | poet., a bride or betrothed
+conjuratio | 1 | conspiracy
+conjuratio | 3 | meton., the band of conspirators themselves
+conjuro | 1 | conspire
+conjuro | 3 | poet., of things, to be united or joined, as if by oath
+connascor | 1 | originate
+connascor | 3 | to be born at the same time as, to be innate in
+conor | 1 | try
+conquasso | 1 | shake
+conquasso | 2 | shatter
+conquasso | 3 | trop., to disturb or throw into confusion, as a state or mind
+conqueror | 1 | complain
+conquestio | 1 | complaint
+conquestio | 3 | rhet., a plea for the audience's pity
+conquestio | 4 | transf., of birds, a plaintive song
