@@ -3779,3 +3779,25 @@ cos1 | 2 | whetstone
 cos1 | 3 | trop., a spur or stimulus, as anger sharpening courage
 costa | 1 | rib
 costa | 3 | transf., a side or plank, as of a ship or wall
+cothurnatus | 1 | tragic
+cothurnatus | 3 | lit., wearing the buskin, as a tragic actor
+cottidianus | 1 | daily
+cottidianus | 3 | meton., ordinary or commonplace
+cottidie | 1 | daily
+cras | 1 | tomorrow
+cras | 3 | poet., the future, time to come
+crassesco | 1 | thicken
+crassitudo | 1 | thickness
+crassitudo | 3 | concr., dregs or sediment
+crassus1 | 1 | thick
+crassus1 | 2 | dull
+crassus1 | 3 | crassa Minerva, with rough native wit, without refinement
+crastinus1 | 1 | tomorrow's
+crastinus1 | 3 | in crastinum, for tomorrow, on the morrow
+cratis | 1 | hurdle
+cratis | 2 | harrow
+cratis | 3 | milit., fascines, bundled sticks for siegeworks
+cratis | 4 | transf., a joint or rib, as of the body or a honeycomb
+creator | 1 | creator
+creator | 3 | eccl., God, the creator of the world
+creator | 4 | jurid., one who elects or appoints to office
