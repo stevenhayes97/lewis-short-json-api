@@ -1168,3 +1168,28 @@ discessio | 1 | division
 discessio | 2 | separation
 discessio | 3 | eccl: schism
 discessio | 4 | rare: departure, a going away
+discessus2 | 1 | departure
+discessus2 | 2 | separation
+discessus2 | 3 | milit: a marching away, decamping
+discessus2 | 4 | Cic.: banishment, exile
+discidium | 1 | rift
+discidium | 2 | divorce
+discidium | 3 | lit, rare: a physical tearing asunder, separation
+discindo | 1 | rend
+discindo | 3 | trop: to sunder, break apart (a bond, argument, or discourse)
+discingo | 1 | ungird
+discingo | 3 | trop, rare: to neglect, loosen one's hold on (a friendship or alliance)
+discingo | 4 | as adj. (discinctus): dissolute, reckless, slovenly
+disciplina | 1 | instruction
+disciplina | 2 | custom
+disciplina | 3 | meton: learning, knowledge, a branch of science or a system of doctrine
+discipulus | 1 | pupil
+discipulus | 3 | a learner of a trade, an apprentice
+discipulus | 4 | eccl: a disciple of Christ
+discludo | 1 | separate
+disco | 1 | learn
+disco | 3 | late, rare: to teach (used loosely for docere)
+discolor | 1 | variegated
+discolor | 3 | transf: of various kinds, different, diverse
+discooperio | 1 | uncover
+discooperio | 3 | trop: to expose, disclose, reveal (sins or faults)
