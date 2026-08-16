@@ -1263,3 +1263,25 @@ dispensator | 1 | steward
 dispensator | 3 | of the imperial treasury: a cashier, treasurer
 dispenso | 1 | dispense
 dispenso | 2 | manage
+disperdo | 1 | ruin
+dispereo | 1 | perish
+dispereo | 3 | colloq: disperii!, I am undone!, it's all over with me!
+dispergo | 1 | scatter
+dispergo | 3 | trop: to scatter, distribute (topics or arguments) at random
+dispersio | 1 | dispersion
+dispersio | 3 | transf: destruction, ruin (of a city)
+dispersio | 4 | eccl: the diaspora, those who are scattered
+dispertio | 1 | distribute
+dispesco | 1 | divide
+dispesco | 3 | trop, rare: to sunder, break up (a marriage)
+dispicio | 1 | discern
+dispicio | 2 | consider
+dispicio | 3 | lit: to see with effort, make out (through darkness or fog)
+dispicio | 4 | transf: to investigate, examine
+displiceo | 1 | displease
+displiceo | 3 | sibi displicere, to be dissatisfied with oneself, feel out of sorts
+displodo | 1 | splay
+dispono | 1 | arrange
+dispono | 3 | milit: to draw up, array (troops, guards, or military engines)
+dispono | 4 | trop: to arrange, order (the parts of a speech or discourse)
+dispono | 5 | post-class: to settle, determine, ordain
