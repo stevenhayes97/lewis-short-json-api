@@ -2675,3 +2675,26 @@ competo | 3 | to belong or be due to someone
 competo | 4 | as a participle competens, appropriate or competent
 compilo | 1 | plunder
 compilo | 3 | trop., to plagiarize or pilfer, as another's writings
+compingo1 | 1 | join
+compingo1 | 2 | confine
+compitalis | 1 | of crossroads
+compitalis | 3 | as a substantive Compitalia, a festival held at crossroads honouring the Lares
+compitum | 1 | crossroads
+complaceo | 1 | please
+complano | 1 | level
+complano | 3 | trop., to smooth over or make tolerable
+complector | 1 | embrace
+complector | 2 | comprehend
+complector | 3 | to comprise or include, as in a speech or account
+complector | 4 | to value or cherish someone
+compleo | 1 | fill
+compleo | 2 | complete
+compleo | 3 | milit., to bring a legion or army up to full strength
+compleo | 4 | to man, as a fleet with crews
+complexio | 1 | combination
+complexio | 3 | rhet., a period, a complete rounded sentence
+complexio | 4 | philos., the conclusion of a syllogism, or a dilemma
+complexus2 | 1 | embrace
+complexus2 | 3 | trop., a connection or coherence in discourse
+complexus2 | 4 | as a measure, an arm's reach or span
+complico | 1 | fold
