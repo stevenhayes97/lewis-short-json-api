@@ -2978,3 +2978,24 @@ confero | 6 | neutr., to be useful or profitable
 confervesco | 1 | heat up
 confervesco | 3 | trop., to boil or seethe with anger
 confervesco | 4 | medic., of broken bones, to knit together, heal
+confessio | 1 | confession
+confestim | 1 | immediately
+conficio | 1 | complete
+conficio | 2 | exhaust
+conficio | 3 | to traverse or cover, as a distance
+conficio | 4 | to kill or destroy
+conficio | 5 | of time, to spend or pass
+confidentia | 1 | confidence
+confidentia | 2 | impudence
+confido | 1 | trust
+configo | 1 | pierce
+configo | 2 | fasten
+configo | 3 | trop., to render powerless or paralyze, as with arguments
+configuro | 1 | shape
+confingo | 1 | fabricate
+confingo | 3 | lit., to build or fashion, as a nest
+confinis | 1 | adjoining
+confinis | 3 | as a substantive, a neighbour
+confinis | 4 | trop., nearly related or similar
+confinium | 1 | border
+confinium | 3 | trop., a close connection or near relation between two things
