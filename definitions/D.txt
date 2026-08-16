@@ -376,3 +376,24 @@ deinceps | 1 | successively
 deinceps | 3 | as an adjective: following next, the next in a series
 deinde | 1 | then
 deinde | 3 | in local succession: next, after that (rare)
+dejectio | 1 | expulsion
+dejectio | 3 | medic: a purging of the bowels
+dejectio | 4 | legal: ejection, the turning out of someone from their property
+dejectio | 5 | trop: degradation, a lowering in rank
+dejectus2 | 1 | fall
+dejectus2 | 3 | of localities: a slope, a declivity
+dejectus2 | 4 | a covering, something thrown over one
+dejectus2 | 5 | transf: a lowering of the voice, opposite of raising it
+dejero | 1 | swear
+delabor | 1 | slip down
+delabor | 3 | trop: to sink, descend, or slide into a state or condition
+delatio | 1 | accusation
+delator | 1 | informer
+delectabilis | 1 | delightful
+delectatio | 1 | delight
+delectatio | 3 | medic: straining, a painful urging (late Latin)
+delecto | 1 | delight
+delecto | 3 | archaic: to entice away, to seduce from the right path
+delectus2 | 1 | choice
+delectus2 | 3 | milit: a levy, a recruiting of soldiers
+delectus2 | 4 | meton: the men levied, a body of recruits
