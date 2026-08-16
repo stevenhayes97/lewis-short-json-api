@@ -3324,3 +3324,34 @@ conspuo | 4 | poet., to besprinkle or cover, as snow covering mountains
 constantia1 | 1 | constancy
 constantia1 | 2 | consistency
 constantia1 | 3 | firmness of character, self-possession
+consternatio | 1 | dismay
+consternatio | 2 | mutiny
+consterno1 | 1 | strew
+consterno1 | 3 | to level or throw down, as buildings
+consterno1 | 4 | as a substantive (constratum), a ship's deck
+consterno2 | 1 | terrify
+consterno2 | 3 | of animals, to frighten or make shy, as a startled horse
+consterno2 | 4 | to incite to revolt or mutiny
+constituo | 1 | establish
+constituo | 2 | decide
+constituo | 3 | milit., to station or draw up troops
+constituo | 4 | to fix or settle, as a price or date
+constituo | 5 | as a substantive (constitutum), an agreement or appointment
+constitutio | 1 | constitution
+constitutio | 2 | definition
+constitutio | 3 | rhet., the point at issue in a legal case
+constitutio | 4 | an imperial edict or decree
+constitutor | 1 | founder
+consto | 1 | agree
+consto | 2 | cost
+consto | 3 | to consist of or in something
+consto | 4 | constat, it is well known or established
+consto | 5 | to stand firm, to endure or hold up
+constrepo | 1 | resound
+constrepo | 3 | trop., to ring or resound with, as testimony and evidence
+constringo | 1 | bind
+constringo | 2 | fetter
+constringo | 3 | trop., to restrain or hold in check, as the passions
+constringo | 4 | of discourse, to compress or condense
+constructio | 1 | construction
+constructio | 3 | gram., the syntactic arrangement of words in a sentence
