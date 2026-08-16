@@ -1602,3 +1602,28 @@ duco | 5 | to derive, deduce, trace (one's origin) from something
 duco | 6 | with time: to protract, prolong; to spend, pass (time)
 duco | 7 | mercant: to calculate, reckon, compute
 duco | 8 | in a bad sense: to cheat, deceive
+ductim | 1 | by drawing
+ducto | 1 | lead
+ducto | 2 | deceive
+ductor | 1 | leader
+ductor | 3 | rare: one who draws out, an iron-worker who beats out metal
+ductus2 | 1 | conduct
+ductus2 | 2 | aqueduct
+ductus2 | 3 | milit: generalship, command
+ductus2 | 4 | trop, rhet: the structure of a discourse; a period
+dudum | 1 | recently
+dudum | 3 | opp. nunc: formerly, before
+dudum | 4 | quam dudum, how long since; haud dudum, just now
+dulcedo | 1 | sweetness
+dulcedo | 3 | trop: pleasantness, charm, delightfulness
+dulciarius | 1 | confectionery
+dulciarius | 3 | esp, subst.: a confectioner, pastry-cook
+dulcis | 1 | sweet
+dulcis | 2 | dear
+dulcis | 3 | subst. (dulcia): sweet cakes, sweetmeats
+dulcis | 4 | trop: agreeable, pleasant, charming (of life, words, or style)
+dulcitudo | 1 | sweetness
+dulcitudo | 3 | trop: pleasantness, charm, tenderness
+dum | 1 | while
+dum | 3 | as long as, provided that (restrictive/conditional sense)
+dum | 4 | until
