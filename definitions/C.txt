@@ -3978,3 +3978,22 @@ cumulo | 3 | trop., to complete or perfect, as happiness
 cumulus | 1 | heap
 cumulus | 2 | crowning addition
 cumulus | 3 | rhet., the peroration, the climax of a speech
+cunabula | 1 | cradle
+cunabula | 3 | meton., the birthplace or earliest home, as of a nation
+cunae | 1 | cradle
+cunae | 3 | meton., birth or earliest childhood
+cunctatio | 1 | delay
+cunctator1 | 1 | delayer
+cunctator1 | 3 | in a good sense, one cautiously deliberate, as a wise general
+cunctor | 1 | hesitate
+cunctor | 2 | linger
+cunctor | 3 | poet., of things, to move slowly or sluggishly
+cunctus | 1 | all
+cuneo | 1 | wedge
+cuneo | 3 | to shape like a wedge, as a peninsula
+cuneus1 | 1 | wedge
+cuneus1 | 3 | milit., troops arrayed in a wedge formation
+cuneus1 | 4 | a wedge-shaped block of seats in a theatre
+cunnus | 1 | vulva
+cunnus | 3 | transf., an unchaste woman, a strumpet
+cupa1 | 1 | cask
