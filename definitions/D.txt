@@ -1496,3 +1496,30 @@ doctrina | 3 | subj: a principle, a settled way of thinking instilled by trainin
 documentum | 1 | lesson
 documentum | 2 | proof
 # skip: dodona is a place name (a city in Epirus, site of an oracle of Jupiter), not a common word
+dodrans | 1 | three-quarters
+dodrans | 3 | as a measure of length: nine inches
+dodrans | 4 | as a measure of time: three quarters of an hour
+dolabra | 1 | pickaxe
+doleo | 1 | grieve
+doleo | 2 | ache
+dolium | 1 | large jar
+dolo1 | 1 | hew
+dolo1 | 3 | transf, colloq: to cudgel, drub, belabor
+dolo1 | 4 | trop: to shape, fashion, contrive, devise
+dolo1 | 5 | as noun (dolo, dolonis): a pike, sword-cane, hidden dagger
+dolo1 | 6 | as noun (dolo, dolonis), naut: the fore-topsail
+dolor | 1 | pain
+dolor | 2 | resentment
+dolor | 3 | meton: a grief, a cause of sorrow
+dolor | 4 | rhet t.t.: pathos, passionate expression
+dolosus | 1 | deceitful
+domesticus | 1 | domestic
+domesticus | 2 | personal
+domesticus | 3 | subst. (domestici): the members of a household; household slaves
+domesticus | 4 | opp. foreign: internal, native, home-grown (of resources or affairs)
+domicilium | 1 | dwelling
+domicilium | 3 | trop: the seat, home (of an abstract quality, e.g. liberty)
+domina | 1 | mistress
+domina | 2 | sweetheart
+domina | 3 | in partic: a lady of the imperial family
+domina | 4 | poet, as endearment: wife
