@@ -3300,3 +3300,27 @@ consortio | 1 | fellowship
 consortio | 3 | transf., a sympathetic connection, as between organs of the body
 consortium | 1 | partnership
 consortium | 3 | fellowship or participation in common with others
+conspectus2 | 1 | sight
+conspectus2 | 2 | presence
+conspectus2 | 3 | trop., a mental survey or overview
+conspergo | 1 | sprinkle
+conspergo | 3 | trop., to adorn a speech, as if strewing it with flowers
+conspicio1 | 1 | notice
+conspicio1 | 2 | understand
+conspicio1 | 3 | pass., conspici, to attract attention, be conspicuous
+conspicor | 1 | spot
+conspicuus | 1 | conspicuous
+conspicuus | 3 | lit., visible or in view, as opposed to hidden
+conspiratio | 1 | harmony
+conspiratio | 2 | conspiracy
+conspiratio | 3 | meton., the conspirators themselves
+conspiro1 | 1 | harmonize
+conspiro1 | 2 | conspire
+conspiro1 | 3 | lit., to sound together, as instruments
+conspondeo | 1 | pledge
+conspuo | 1 | spit
+conspuo | 3 | esp., to spit upon in contempt or scorn
+conspuo | 4 | poet., to besprinkle or cover, as snow covering mountains
+constantia1 | 1 | constancy
+constantia1 | 2 | consistency
+constantia1 | 3 | firmness of character, self-possession
