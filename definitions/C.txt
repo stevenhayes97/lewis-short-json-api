@@ -2637,3 +2637,26 @@ comparatio2 | 3 | in later Latin, a purchase
 comparativus | 1 | comparative
 comparco | 1 | save
 comparco | 3 | trop., to refrain or abstain from something
+compareo | 1 | appear
+comparo1 | 1 | compare
+comparo1 | 2 | pair
+comparo1 | 3 | of colleagues in office, to agree on a division of duties
+comparo2 | 1 | prepare
+comparo2 | 2 | procure
+compasco | 1 | pasture
+compasco | 3 | pregn., to consume or destroy by grazing
+compedio | 1 | fetter
+compedio | 3 | trop., to hamper or restrict
+compello1 | 1 | compel
+compello1 | 2 | assemble
+compello2 | 1 | rebuke
+compello2 | 2 | accost
+compello2 | 3 | jurid., to summon before a tribunal, arraign
+compendiarius | 1 | short
+compendiarius | 3 | as a substantive (via) compendiaria, a short cut or shortcut method
+compendiosus | 1 | brief
+compendiosus | 2 | advantageous
+compendium | 1 | saving
+compendium | 2 | shortcut
+compendium | 3 | facere compendium, to make a profit or a saving
+compendium | 4 | a conciseness or brevity in speech
