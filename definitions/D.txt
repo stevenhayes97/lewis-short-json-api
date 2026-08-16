@@ -715,3 +715,27 @@ designatio | 3 | the formal appointment or election to a public office
 designator | 1 | usher
 designator | 3 | undertaker, master of ceremonies at funerals
 designator | 4 | umpire at public games
+designo | 1 | designate
+designo | 3 | trop: to point out, indicate in words
+designo | 4 | to arrange, appoint, or elect to an office
+designo | 5 | as adj. (designatus): elect, appointed but not yet in office, e.g. consul designatus, consul-elect
+desilio | 1 | leap down
+desilio | 3 | transf: of things, to fall, rush, or shoot down, as water or lightning
+desilio | 4 | trop: to plunge (into difficulties)
+desino | 1 | cease
+desino | 3 | rhetor: of a sentence or clause, to end, close
+desipio | 1 | be silly
+desipio | 3 | rare: to render insipid or tasteless
+desisto | 1 | desist
+desisto | 3 | rare: to set (something) down, deposit
+desolo | 1 | desolate
+desolo | 3 | as adj. (desolatus): forsaken, deserted, alone
+despecto | 1 | overlook
+despecto | 3 | trop: to look down upon, despise
+despectus2 | 1 | view
+despectus2 | 2 | contempt
+despectus2 | 3 | transf: (dat. only) an object of contempt, a laughingstock
+desperatio | 1 | despair
+desperatio | 3 | meton: desperate boldness, recklessness
+despero | 1 | despair
+despero | 3 | with acc.: to give up as lost, abandon hope for (a cause, plan, or person)
