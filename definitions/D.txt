@@ -986,3 +986,27 @@ difficilis | 1 | difficult
 difficilis | 3 | of character: hard to please, obstinate, morose
 difficultas | 1 | difficulty
 difficultas | 3 | of character: obstinacy, captiousness, moroseness
+diffidentia | 1 | distrust
+diffidentia | 3 | eccl: unbelief, disobedience, want of faith
+diffido | 1 | distrust
+diffido | 3 | diffidere + dat., to despair of, have no confidence in
+diffindo | 1 | cleave
+diffindo | 3 | jurid: diem diffindere, to adjourn a case to the next day
+diffindo | 4 | trop: to refute, cut off (part of an argument)
+diffingo | 1 | remodel
+diffingo | 3 | trop: to alter, undo what is already done
+diffiteor | 1 | deny
+difflo | 1 | dispel
+diffluo | 1 | flow away
+diffluo | 3 | transf: to melt away, dissolve, disappear
+diffluo | 4 | trop: to be given over to, dissolve into (luxury or self-indulgence)
+diffugio | 1 | scatter
+diffundo | 1 | diffuse
+diffundo | 2 | cheer
+diffundo | 3 | trop: to spread, extend (fame, power, or influence)
+diffundo | 4 | of style or writing: diffuse, prolix, verbose
+digero | 1 | arrange
+digero | 2 | digest
+digero | 3 | medic: to dissolve, dissipate (morbid matter)
+digero | 4 | trop: to distribute, apportion
+digero | 5 | as noun (digesta): the Digests, Justinian's compiled code of Roman law
