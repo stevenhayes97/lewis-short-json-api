@@ -2225,3 +2225,42 @@ cognatio | 3 | figuratively, a close resemblance or natural affinity between thi
 cognatus | 1 | related
 cognatus | 3 | as a substantive (cognatus, cognata), a blood relation, a kinsman or kinswoman
 cognatus | 4 | figuratively, kindred, similar, closely connected: nihil tam cognatum mentibus nostris quam numeri, nothing is so akin to our minds as rhythm
+cognitio | 1 | knowledge
+cognitio | 2 | trial
+cognitio | 3 | as a legal term, a judicial inquiry or investigation of a case
+cognitio | 4 | concr., a notion or conception formed in the mind
+cognitio | 5 | in Terence, recognition, discovery of a person's identity
+cognitor | 1 | advocate
+cognitor | 2 | voucher
+cognitor | 3 | in general, a defender or protector
+cognitor | 4 | one who testifies that he knows and can identify a person
+cognomen | 1 | surname
+cognomen | 3 | more generally, in poetry and later prose, a name of any kind
+cognomentum | 1 | surname
+cognomentum | 3 | more generally, a name, especially of an inanimate thing or of a person's distinguishing trait
+cognominis | 1 | homonymous
+cognominis | 3 | often with a genitive or dative naming the thing shared: urbs cognominis flumini, a city bearing the same name as the river
+cognomino | 1 | surname
+cognomino | 3 | more generally, to name or call: Macedonia Emathia cognominata est, Macedonia was named Emathia
+cognosco | 1 | learn
+cognosco | 2 | know
+cognosco | 3 | rarely, to recognize someone already known
+cognosco | 4 | euphemistically, of sexual intercourse
+cognosco | 5 | as a legal term, to examine and judge a case judicially
+cognosco | 6 | as a military term, to reconnoitre, to scout out
+cogo | 1 | gather
+cogo | 2 | compel
+cogo | 3 | of liquids, to thicken or curdle: lac in duritiam cogere, to curdle milk into a solid mass
+cogo | 4 | of places, to narrow or contract
+cogo | 5 | cogere agmen, to bring up the rear of a march or line
+cogo | 6 | with an infinitive or ut-clause, to force someone to do something: cogere aliquem ut redeat, to force someone to return
+cogo | 7 | as a philosophical term, to infer, conclude
+cohaereo | 1 | cohere
+cohaereo | 2 | adhere
+cohaereo | 3 | of people bound by kinship or friendship, to be closely united
+cohaereo | 4 | of thought or discourse, to be consistent, to hang together: haec non cohaerent, this does not add up
+cohaereo | 5 | pregn., to hold together, to endure, to remain intact
+cohibeo | 1 | contain
+cohibeo | 2 | restrain
+cohibeo | 3 | cohibere se, to restrain oneself, to keep oneself in check
+cohibeo | 4 | with ab and the ablative, to keep someone from something: manus ab alieno cohibere, to keep one's hands off another's property
