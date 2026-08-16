@@ -333,3 +333,25 @@ deformo1 | 3 | trop: to depict, to describe in words
 deformo2 | 1 | disfigure
 deformo2 | 2 | disgrace
 defraudo | 1 | defraud
+defrico | 1 | rub
+defrico | 3 | trop: to lash with satire, to mock sharply
+defringo | 1 | break off
+defringo | 3 | trop: to destroy, to break down (rare)
+defugio | 1 | flee
+defugio | 3 | to shun or avoid a duty or obligation (defugere munus, to shirk a duty)
+defundo | 1 | pour
+defundo | 3 | relig.: to pour out as a libation to a god
+defungor | 1 | discharge
+defungor | 3 | defunctus jam sum, I am now through with it, out of danger (an idiom)
+degener | 1 | degenerate
+degener | 3 | with a genitive: unworthy of, falling short of (degener sanguinis, unworthy of one's lineage)
+degenero | 1 | degenerate
+degenero | 3 | trop: to fall short of one's ancestors or their standards (a virtute majorum degenerare, to fall short of the virtue of one's forefathers)
+degenero | 4 | act: to cause something to degenerate or deteriorate
+degenero | 5 | act: to dishonour, to disgrace by falling short (a rare poetic use)
+deglubo | 1 | peel
+deglubo | 3 | transf: to skin, to flay an animal or person
+dego | 1 | spend
+dego | 3 | absol.: to live, to dwell (post-Augustan usage)
+degravo | 1 | weigh down
+degravo | 3 | trop: to burden, to weigh upon, to oppress
