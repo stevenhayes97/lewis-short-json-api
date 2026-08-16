@@ -2788,3 +2788,29 @@ concessio | 1 | concession
 concessio | 3 | rhet., a figure admitting a point while arguing mitigation
 concessio | 4 | jurid., a plea that admits the act but pleads for pardon
 concesso | 1 | cease
+concessus2 | 1 | permission
+conchylium | 1 | shellfish
+conchylium | 3 | specif., an oyster, or a purple-dye murex
+conchylium | 4 | meton., purple dye, or purple garments
+concido1 | 1 | collapse
+concido1 | 2 | perish
+concido1 | 3 | to fall dead, or fall in battle
+concido2 | 1 | cut up
+concido2 | 2 | slaughter
+concido2 | 3 | to cudgel or beat severely
+concido2 | 4 | trop., to ruin or destroy, as an argument or reputation
+concieo | 1 | summon
+concieo | 2 | rouse
+conciliabulum | 1 | meeting-place
+conciliatio | 1 | conciliation
+conciliatio | 3 | philos., a natural inclination or affinity toward something
+conciliatio | 4 | an acquiring or procuring, as of favour
+conciliator | 1 | promoter
+conciliator | 3 | in love affairs, a procurer or go-between
+conciliatrix | 1 | match-maker
+conciliatrix | 3 | in a bad sense, a procuress or bawd
+conciliatrix | 4 | in gen., that which produces or brings about something, as a bond of union
+concilio | 1 | win over
+concilio | 2 | procure
+concilio | 3 | to bring about or produce, as peace or goodwill
+concilio | 4 | to unite or connect physically, as parts into a whole
