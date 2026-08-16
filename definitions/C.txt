@@ -2999,3 +2999,27 @@ confinis | 3 | as a substantive, a neighbour
 confinis | 4 | trop., nearly related or similar
 confinium | 1 | border
 confinium | 3 | trop., a close connection or near relation between two things
+confirmatio | 1 | confirmation
+confirmatio | 2 | encouragement
+confirmatio | 3 | rhet., an adducing of proofs
+confirmativus | 1 | confirmative
+confirmo | 1 | strengthen
+confirmo | 2 | encourage
+confirmo | 3 | to confirm or corroborate, as a fact or assertion
+confirmo | 4 | to assert or affirm as true
+confisco | 1 | confiscate
+confisco | 3 | lit., to store away, as in a chest
+confiteor | 1 | confess
+confiteor | 2 | reveal
+confiteor | 3 | ex confesso, confessedly, beyond doubt
+conflagro | 1 | burn
+conflagro | 3 | trop., to be consumed, as by envy or passion
+conflictatio | 1 | collision
+conflictatio | 3 | of verbal strife, a dispute
+conflictio | 1 | collision
+conflictio | 3 | trop., a conflict or clash of opposing arguments
+conflicto | 1 | struggle
+conflicto | 3 | conflictari aliqua re, to be afflicted or harassed by something, as illness or misfortune
+conflicto | 4 | to strike down or ruin
+conflictus2 | 1 | collision
+conflictus2 | 3 | trop., the pressure of circumstance
