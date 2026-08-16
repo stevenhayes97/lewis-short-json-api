@@ -3450,3 +3450,32 @@ contero | 2 | wear out
 contero | 3 | to spend or pass, as time
 contero | 4 | trop., to obliterate or erase, as from memory
 conterreo | 1 | terrify
+contestatio | 1 | testimony
+contestatio | 3 | an earnest entreaty or appeal
+contestor | 1 | witness
+contestor | 3 | litem contestari, to bring a lawsuit by calling witnesses
+contexo | 1 | weave
+contexo | 2 | compose
+contexo | 3 | contexere de aliqua re, to treat of or discuss a subject
+contextus2 | 1 | connection
+contextus2 | 3 | trop., coherence, as of a speech or argument
+conticesco | 1 | fall silent
+conticesco | 3 | trop., to die down or abate, as grief or uproar
+contiguus | 1 | adjacent
+contiguus | 3 | pass., within reach, as of a spear
+continentia1 | 1 | self-restraint
+continentia1 | 3 | late Lat., the contents of a written work
+continentia1 | 4 | contiguity or proximity
+contineo | 1 | contain
+contineo | 2 | restrain
+contineo | 3 | to keep, as troops in camp
+contineo | 4 | continens, adjoining or bordering upon
+contineo | 5 | continens, continuous or uninterrupted
+contineo | 6 | contentus, content or satisfied with something
+contingo1 | 1 | touch
+contingo1 | 2 | border
+contingo1 | 3 | contingit, it happens or falls to one's lot
+contingo1 | 4 | to attain or reach, as a goal
+contingo1 | 5 | to pollute or defile
+contingo2 | 1 | moisten
+contingo2 | 3 | trop., to tinge or touch, as with charm or grace
