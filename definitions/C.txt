@@ -3405,3 +3405,26 @@ consurgo | 1 | rise
 consurgo | 3 | to rise up for action, as to war or revolt
 consurgo | 4 | of storms or wars, to arise or break out
 contabesco | 1 | waste away
+contabulo | 1 | board
+contabulo | 3 | to build in stories, as a tower
+contactus2 | 1 | touch
+contactus2 | 2 | contagion
+contagio | 1 | contact
+contagio | 2 | contagion
+contagio | 3 | trop., corrupting influence or contamination, as from bad company
+contamino | 1 | contaminate
+contamino | 2 | blend
+contamino | 3 | trop., to mar or spoil, as joy with grief
+contego | 1 | cover
+contego | 2 | conceal
+contego | 3 | to preserve or keep safe, by covering
+contemno | 1 | despise
+contemno | 2 | disparage
+contemno | 3 | poet., to defy or be unaffected by, as danger or hardship
+contemplatio | 1 | contemplation
+contemplatio | 3 | an aiming or taking aim, as with a weapon
+contemplatio | 4 | legal, regard or consideration, as of someone's rank
+contemplo | 1 | contemplate
+contemplor | 1 | gaze
+contemplor | 2 | contemplate
+contemptim | 1 | contemptuously
