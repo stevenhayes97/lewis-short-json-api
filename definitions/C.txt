@@ -3278,3 +3278,25 @@ consobrinus | 1 | cousin
 consocio | 1 | unite
 consocius | 1 | united
 consocius | 3 | as a substantive, a partner or companion
+consolatio | 1 | comfort
+consolatio | 2 | encouragement
+consolatio | 3 | meton., a consolatory speech or treatise
+consolido | 1 | solidify
+consolido | 3 | jurid., to consolidate a legal right of possession
+consolo | 1 | console
+consolor | 1 | console
+consolor | 2 | alleviate
+consono | 1 | resound
+consono | 2 | agree
+consono | 3 | gram., a consonant, a letter
+consonus | 1 | harmonious
+consonus | 3 | as a substantive (gram.), a consonant
+consopio | 1 | stupefy
+consopio | 3 | trop., of laws, to become obsolete or fall into disuse
+consors | 1 | sharing
+consors | 2 | partner
+consors | 3 | as a substantive, a brother or sister as joint heir
+consortio | 1 | fellowship
+consortio | 3 | transf., a sympathetic connection, as between organs of the body
+consortium | 1 | partnership
+consortium | 3 | fellowship or participation in common with others
