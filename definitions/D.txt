@@ -108,3 +108,33 @@ decessio | 1 | departure
 decessio | 2 | decrease
 decessio | 3 | a magistrate's retirement from his province at the end of his term
 decessio | 4 | decease, death (rare)
+decessor | 1 | predecessor
+decessor | 3 | specifically: an outgoing provincial governor, as viewed by his successor
+decessus | 1 | departure
+decessus | 2 | decrease
+decessus | 3 | a magistrate's retirement from his province at the end of his term
+decessus | 4 | decease, death
+decet | 1 | befits
+decet | 3 | with an infinitive: it is proper for someone to do something (oratorem irasci minime decet, it is most improper for an orator to lose his temper)
+decet | 4 | of physical fitness: to be well-formed, becoming in appearance
+decido1 | 1 | fall
+decido1 | 3 | to fall short, to be disappointed (quanta de spe decidi! what a hope I have fallen from!)
+decido1 | 4 | poetic: to fall down dead, to perish
+decido2 | 1 | sever
+decido2 | 2 | settle
+decido2 | 3 | to cut down or reduce an amount (ad tertiam partem vectigal decidere, to reduce the tax by two-thirds)
+decido2 | 4 | to cudgel, beat soundly (rare)
+deciduus | 1 | deciduous
+decies | 1 | tenfold
+decies | 3 | an indefinitely large number or sum (colloquial exaggeration)
+decimanus | 1 | of tithes
+decimanus | 3 | as a noun: a tithe-farmer or tax-collector
+decimanus | 4 | of the tenth cohort or tenth legion; porta decumana, the main gate of a Roman camp
+decimanus | 5 | meton: immense, extraordinarily large (decumani fluctus, huge waves)
+decimo | 1 | decimate
+decimo | 3 | to tithe someone, to collect a tenth from them as tax
+decimo | 4 | to offer a tenth of something as a religious tithe
+decimus1 | 1 | tenth
+decimus1 | 3 | decimum (adv.), for the tenth time
+decimus1 | 4 | decima (noun), a tithe or tenth part, especially as a religious offering or a tax on provincial land
+decimus1 | 5 | meton: immense, huge, of a wave (poetic use)
