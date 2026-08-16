@@ -3208,3 +3208,31 @@ consector | 2 | persecute
 consector | 3 | trop., to strive after or emulate, as an example
 consecutio | 1 | consequence
 consecutio | 3 | rhet., a sequence or ordering, as of tenses
+consenesco | 1 | age
+consenesco | 3 | trop., to decline or waste away, as strength or reputation
+consensio | 1 | agreement
+consensio | 2 | conspiracy
+consensio | 3 | in concreto, the conspirators themselves
+consensus2 | 1 | agreement
+consensus2 | 3 | consensu, unanimously, by common consent
+consensus2 | 4 | trop., harmony or sympathy, as among all parts of nature
+consentaneus | 1 | fitting
+consentaneus | 3 | consentaneum est, it is reasonable or fitting
+consentes | 1 | united
+consentes | 3 | di consentes, the twelve major gods of the Roman council
+consentio | 1 | agree
+consentio | 2 | conspire
+consentio | 3 | trop., to be consistent or match, as words with actions
+consequentia | 1 | consequence
+consequentia | 3 | per consequentiam, consequently, as a result
+consequor | 1 | follow
+consequor | 2 | obtain
+consequor | 3 | to result or follow, as an effect from a cause
+consequor | 4 | to overtake or catch up with, as a fugitive
+consequor | 5 | to imitate or follow, as a model or example
+consequor | 6 | to understand or grasp, as an idea
+consero1 | 1 | plant
+consero1 | 3 | consitus senectute, weighed down with old age
+consero2 | 1 | link
+consero2 | 3 | manum conserere, to join in close combat
+consero2 | 4 | trop., to connect or link, as day to day or virtue to virtue
