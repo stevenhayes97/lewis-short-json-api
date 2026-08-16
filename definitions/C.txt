@@ -3070,3 +3070,26 @@ congero1 | 3 | trop., to compile, as material for a speech
 congero1 | 4 | to heap upon someone, to ascribe or impute, as blame or praise
 congestio | 1 | accumulation
 congestio | 2 | heap
+congestus2 | 1 | accumulation
+congestus2 | 2 | heap
+congestus2 | 3 | trop., an undigested mass of material, as in a speech
+# review: congiarius "of a congius" needs the article to be accurate; no shorter English phrasing fits
+congiarius | 1 | of a congius
+congiarius | 3 | as a substantive (congiarium), a donative of oil, grain, or money given to the people
+# review: congius the precise volume needs more than one word; no exact English equivalent
+congius | 1 | a Roman liquid measure of about six pints
+conglacio | 1 | freeze
+conglacio | 3 | trop., to become inactive or stagnant
+conglobo | 1 | cluster
+conglobo | 3 | trop., to heap together, as arguments or definitions
+conglomero | 1 | conglomerate
+conglomero | 3 | trop., to heap together, as troubles upon someone
+conglutino | 1 | glue
+conglutino | 3 | trop., to bind or unite firmly
+conglutino | 4 | to contrive or devise, as a scheme
+congratulor | 1 | congratulate
+congredior | 1 | meet
+congredior | 2 | fight
+congredior | 3 | trop., to contend or dispute in words, as in a lawsuit
+congregatio | 1 | gathering
+congregatio | 3 | rhet., a recapitulation, as of arguments or facts
