@@ -1575,3 +1575,30 @@ dos | 1 | dowry
 dos | 2 | talent
 dossennus1 | 1 | soothsayer
 dossennus1 | 3 | transf, ironic: a fool, clown, jester
+dotalis | 1 | dotal
+doto1 | 1 | endow
+doto1 | 3 | transf: to enrich, endow (something) with a quality
+dracunculus | 1 | dragonet
+dracunculus | 3 | the plant tarragon
+dubitatio | 1 | doubt
+dubitatio | 3 | rhet t.t.: dubitatio, a figure feigning hesitation for rhetorical effect
+dubitatio | 4 | hesitancy, irresolution, delay (in acting)
+dubito | 1 | doubt
+dubito | 2 | hesitate
+dubito | 3 | meton: to reflect upon, ponder, deliberate
+dubius | 1 | doubtful
+dubius | 2 | precarious
+ducatus | 1 | leadership
+ducatus | 3 | eccl: guidance
+ducatus | 4 | transf: authority
+ducenarius | 1 | two-hundred
+ducenti | 1 | two hundred
+ducenti | 3 | transf: (used indefinitely) a great many, a large number
+duco | 1 | lead
+duco | 2 | consider
+duco | 3 | uxorem ducere, to marry, take a wife
+duco | 4 | milit: to lead, command (an army)
+duco | 5 | to derive, deduce, trace (one's origin) from something
+duco | 6 | with time: to protract, prolong; to spend, pass (time)
+duco | 7 | mercant: to calculate, reckon, compute
+duco | 8 | in a bad sense: to cheat, deceive
