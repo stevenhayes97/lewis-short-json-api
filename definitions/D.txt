@@ -1,0 +1,26 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_D.json (Lewis & Short via Perseus), simplified for learners.
+damma | 1 | deer
+damma | 3 | venison, the meat of a deer
+damnabilis | 1 | damnable
+damnas | 1 | bound
+damnas | 3 | legal formula: bound or liable to do something, especially to pay a fine (damnas esto dare, let him be bound to give)
+damnatio | 1 | condemnation
+damnatio | 3 | an heir's legal obligation to pay a bequest
+damno | 1 | condemn
+damno | 2 | censure
+damno | 3 | to harm or damage (an early, non-legal sense)
+damno | 4 | with a genitive of the charge: damnari furti, to be convicted of theft
+damno | 5 | with an ablative of the penalty: damnari capite, to be sentenced to death
+damno | 6 | to bind an heir by will to carry out a bequest
+damnosus | 1 | ruinous
+damnosus | 2 | wasteful
+damnum | 1 | loss
+damnum | 2 | fine
+damnum | 3 | damnum injuria datum, injury done to another's property or slave, actionable under the lex Aquilia
+damnum | 4 | damnum infectum, threatened but not yet inflicted damage, against which security could be demanded
+daps | 1 | feast
+daps | 2 | offering
+dapsilis | 1 | lavish
+datatim | 1 | reciprocally
+datatim | 3 | in ball games: passing the ball from one to another, back and forth (ludere datatim)
