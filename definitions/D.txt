@@ -24,3 +24,28 @@ daps | 2 | offering
 dapsilis | 1 | lavish
 datatim | 1 | reciprocally
 datatim | 3 | in ball games: passing the ball from one to another, back and forth (ludere datatim)
+datio | 1 | giving
+datio | 3 | the legal right to give away or transfer property
+datio | 4 | a gift (in later Latin)
+dativus | 1 | given
+dativus | 3 | in law: dativi tutores, guardians appointed rather than named by will
+dativus | 4 | in grammar: dativus (casus), the dative case
+dato | 1 | give
+dator | 1 | giver
+dator | 3 | in ball games: the slave who hands the ball to the player
+de2 | 1 | from
+de2 | 2 | about
+de2 | 3 | of material: made of, out of (signum de marmore, a statue of marble)
+de2 | 4 | of cause: because of, on account of
+de2 | 5 | of conformity: according to (de sua sententia, in his own opinion)
+de2 | 6 | of a whole: some of, out of, from among (a partitive use)
+de2 | 7 | of time: immediately after (rare)
+de2 | 8 | in idioms: de integro, anew; de improviso, unexpectedly
+dea | 1 | goddess
+dealbo | 1 | whitewash
+deambulo | 1 | stroll
+deamo | 1 | adore
+deamo | 3 | to be delighted with something (of things, not people)
+deamo | 4 | deamo te, I'm much obliged to you (idiom of thanks)
+deargento | 1 | silver-plate
+deargento | 2 | impoverish
