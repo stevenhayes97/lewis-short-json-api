@@ -1106,3 +1106,33 @@ dinumeratio | 1 | enumeration
 dinumeratio | 3 | rhet t.t.: enumeration as a rhetorical figure, listing points one by one
 dinumero | 1 | enumerate
 dinumero | 3 | mercantile t.t.: to count out, pay out (money)
+# skip: dio is a proper name (Dion of Syracuse, and others), not a common word
+directio | 1 | direction
+directio | 3 | concr: a straight line
+directio | 4 | eccl: righteousness, uprightness
+direptio | 1 | plunder
+direptio | 3 | a stealing, carrying off (of an object)
+diribeo | 1 | sort
+diribeo | 3 | transf: to distribute, allot
+dirigo | 1 | direct
+dirigo | 3 | to send in a straight line, steer (a ship or army) towards a place
+dirigo | 4 | trop: to guide, orient (something) according to a rule or towards a goal
+dirigo | 5 | as adj. (directus): straight, level
+dirigo | 6 | as adj. (directus), trop: straightforward, direct, plain
+dirimo | 1 | separate
+dirimo | 2 | thwart
+dirimo | 3 | trop: to interrupt, break off (combat, a discussion, or negotiations)
+dirimo | 4 | to postpone, delay (a decision or action)
+diripio | 1 | plunder
+diripio | 2 | scramble for
+diripio | 3 | to tear apart, rend (limb from limb)
+diripio | 4 | to snatch away, tear off
+diripio | 5 | trop: to distract, tear (the mind or feelings) in different directions
+diritas | 1 | cruelty
+diritas | 2 | calamity
+dirumpo | 1 | shatter
+dirumpo | 2 | sever
+dirumpo | 3 | pass, colloq: to burst (with envy, joy, or another strong emotion)
+diruo | 1 | demolish
+diruo | 3 | transf: to scatter, drive asunder (troops)
+diruo | 4 | milit: aere dirutus, deprived of one's pay
