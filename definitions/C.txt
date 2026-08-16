@@ -4053,3 +4053,27 @@ curro | 3 | trop., to flow smoothly, as a speech
 currus | 1 | chariot
 currus | 2 | triumph
 currus | 3 | poet., a team of horses drawing a chariot
+cursim | 1 | swiftly
+cursito | 1 | run about
+cursito | 3 | to race, to run in competition
+curso | 1 | run about
+curso | 3 | act., to run over or traverse
+cursor1 | 1 | runner
+cursor1 | 2 | courier
+cursor1 | 3 | a forerunner, a slave running before a nobleman's chariot
+cursorius | 1 | of running
+cursorius | 3 | as a substantive (cursoria), a swift boat, a cutter
+cursorius | 4 | as a substantive (cursorium), the public post or mail service
+cursus | 1 | course
+cursus | 2 | journey
+cursus | 3 | cursus publicus, the imperial post system
+cursus | 4 | trop., the course or direction, as of events
+curtus | 1 | shortened
+curtus | 3 | trop., defective or incomplete, as an argument or fortune
+curulis | 1 | curule
+curulis | 3 | sella curulis, the curule chair, seat of a high magistrate
+curvo | 1 | bend
+curvo | 3 | trop., to move or soften, as to pity
+curvus | 1 | curved
+curvus | 2 | crooked
+curvus | 3 | as a substantive (curvum), that which is wrong, as opposed to right
