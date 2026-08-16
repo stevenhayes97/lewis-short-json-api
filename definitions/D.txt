@@ -957,3 +957,32 @@ dicto | 3 | to prescribe, lay down (rules or terms)
 dicto | 4 | of abstract things: to suggest, dictate, e.g. ratio dictat, reason dictates
 dido1 | 1 | distribute
 dido1 | 3 | trop: to spread, disseminate (rumour, fame, or news)
+diduco | 1 | separate
+diduco | 3 | milit: to disperse, scatter (troops)
+diduco | 4 | trop: to sunder, break up (a friendship or marriage)
+dierectus | 1 | crucified
+dierectus | 3 | as a curse: go hang!, be hanged!
+dierectus | 4 | transf, colloq: ruined, done for
+dies | 1 | day
+dies | 2 | deadline
+dies | 3 | transf: daylight, the light of day
+dies | 4 | a day's journey
+dies | 5 | dies dicere alicui, to summon someone to trial, set a day for their prosecution
+dies | 6 | poet: the sky, the weather
+diffamo | 1 | defame
+diffamo | 3 | to spread, divulge, or publicise (esp. something discreditable)
+diffamo | 4 | late: to proclaim, make widely known
+diffarreatio | 1 | divorce
+diffarreatio | 3 | the ancient religious ceremony that formally dissolved a marriage contracted by confarreatio
+differentia | 1 | difference
+differentia | 3 | logic t.t.: a differentia, the specific feature distinguishing a species within a genus
+differo | 1 | scatter
+differo | 2 | differ
+differo | 3 | to defer, postpone, put off (a matter or decision)
+differo | 4 | to defame, spread damaging reports about (someone)
+differo | 5 | trop, rare: to distract, disturb, harass (someone)
+differtus | 1 | crammed
+difficilis | 1 | difficult
+difficilis | 3 | of character: hard to please, obstinate, morose
+difficultas | 1 | difficulty
+difficultas | 3 | of character: obstinacy, captiousness, moroseness
