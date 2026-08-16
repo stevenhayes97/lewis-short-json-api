@@ -3626,3 +3626,20 @@ convexus1 | 1 | convex
 convexus1 | 2 | sloping
 convexus1 | 3 | as a substantive (convexa), the vault or arch, as of the sky
 convicior | 1 | revile
+convicium | 1 | clamor
+convicium | 2 | abuse
+convicium | 3 | meton., the target or butt of reproach
+convictus2 | 1 | intimacy
+convictus2 | 3 | a banquet or feast
+convinco | 1 | convict
+convinco | 2 | prove
+convinctio | 1 | conjunction
+conviso | 1 | scrutinize
+conviva | 1 | guest
+convivalis | 1 | convivial
+convivium | 1 | banquet
+convivium | 2 | guests
+convivor | 1 | feast
+convivor | 3 | to consume or eat, as food
+convoco | 1 | convene
+convoco | 3 | trop., to gather or collect, as one's thoughts
