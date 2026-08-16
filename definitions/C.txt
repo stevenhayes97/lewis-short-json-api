@@ -3663,3 +3663,24 @@ copia1 | 3 | copiam facere, to give the opportunity or means
 copiosus | 1 | abundant
 copiosus | 3 | of an orator, eloquent or fluent
 copis1 | 1 | well-supplied
+copula | 1 | tie
+copula | 3 | trop., a bond, as of love or marriage
+copulatio | 1 | union
+copulatio | 3 | gram., the connection of words in a sentence
+copulo | 1 | join
+copulo | 2 | associate
+copulo | 3 | trop., to unite or combine, as ideas or qualities
+coquo | 1 | cook
+coquo | 2 | ripen
+coquo | 3 | trop., to plan or contrive, as a scheme
+coquo | 4 | trop., to torment or vex, as worry gnawing at the mind
+coquus | 1 | cook
+cor | 1 | heart
+cor | 2 | mind
+cor | 3 | cordi est, it is pleasing or dear to someone
+coram | 1 | personally
+coram | 3 | prep. with abl., in the presence of, before
+corbis | 1 | basket
+corbitus | 1 | basket-rigged
+corbitus | 3 | as a substantive (corbita), a slow cargo ship
+cordatus | 1 | wise
