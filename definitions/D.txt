@@ -1193,3 +1193,26 @@ discolor | 1 | variegated
 discolor | 3 | transf: of various kinds, different, diverse
 discooperio | 1 | uncover
 discooperio | 3 | trop: to expose, disclose, reveal (sins or faults)
+discordia | 1 | discord
+discordia | 3 | transf: the subject of strife, the bone of contention
+discordia | 4 | personified (Discordia): the goddess of Discord, Eris
+discordo | 1 | disagree
+discordo | 3 | transf: to be inconsistent with, out of harmony with
+discors | 1 | discordant
+discors | 3 | transf: unlike, differing, inconsistent
+discors | 4 | poet: twin, double, distinct (of two things from one source)
+discrepo | 1 | differ
+discrepo | 3 | lit, rare: to sound differently, be out of tune
+discrepo | 4 | impers.: discrepat, there is disagreement, it is disputed or uncertain
+discretio | 1 | separation
+discretio | 2 | discernment
+discribo | 1 | apportion
+discrimen | 1 | distinction
+discrimen | 2 | crisis
+discrimen | 3 | lit: an interval, gap, dividing space
+discrimen | 4 | the turning point, the decisive moment (in a dispute)
+discrimino | 1 | divide
+discrimino | 3 | trop: to distinguish, differentiate
+discriptio | 1 | apportionment
+discrucio | 1 | torture
+discrucio | 3 | mid., mentally: to torment oneself, fret, agonize
