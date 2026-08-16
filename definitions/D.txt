@@ -1464,3 +1464,35 @@ divisor | 4 | arithm t.t.: a divisor
 divitiae | 1 | riches
 divitiae | 3 | transf: rich or costly ornaments, splendid furnishings
 divitiae | 4 | trop, rare: richness, copiousness (of style or eloquence)
+divortium | 1 | divorce
+divortium | 2 | fork
+divortium | 3 | trop: a division, a parting of the ways (of opinions or schools of thought)
+divulgo | 1 | divulge
+divulgo | 3 | transf: to make common, cheapen, degrade through overexposure
+divus | 1 | divine
+divus | 2 | god
+divus | 3 | as noun (divus), esp.: a deified emperor
+divus | 4 | transf: godlike, of extraordinary excellence
+divus | 5 | as noun (divum): the sky; sub divo, under the open sky, outdoors
+do1 | 1 | give
+do1 | 2 | allow
+do1 | 3 | milit: nomina dare, to enlist, join up
+do1 | 4 | manus dare, to surrender, give oneself up
+do1 | 5 | verba dare alicui, to deceive, cheat someone
+do1 | 6 | fabulam dare, to put on a play, produce a drama
+do1 | 7 | alicui aliquid dare (crimini, laudi, vitio), to impute, ascribe (something to someone) as a fault or merit
+do1 | 8 | se dare (alicui), to devote oneself, give oneself over to
+do1 | 9 | datur, impers., it is permitted, allowed, granted
+do2 | 1 | put
+doceo | 1 | teach
+doceo | 3 | fabulam docere, to produce a play, lit. to teach it to the actors
+doceo | 4 | as adj. (doctus): learned, skilled, accomplished
+doceo | 5 | as adj. (doctus), in comedy: cunning, shrewd, sly
+docilis | 1 | docile
+docilis | 3 | transf: (of things) pliant, easily worked, receptive
+doctrina | 1 | instruction
+doctrina | 2 | learning
+doctrina | 3 | subj: a principle, a settled way of thinking instilled by training
+documentum | 1 | lesson
+documentum | 2 | proof
+# skip: dodona is a place name (a city in Epirus, site of an oracle of Jupiter), not a common word
