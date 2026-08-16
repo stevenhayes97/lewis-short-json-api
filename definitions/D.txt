@@ -456,3 +456,24 @@ dementio | 1 | rave
 demento | 1 | craze
 demento | 3 | to bewitch, delude
 demento | 4 | neut: to rave, to be out of one's mind
+demereo | 1 | deserve
+demereo | 3 | with a person as object: to earn someone's gratitude, to oblige
+demergo | 1 | submerge
+demergo | 3 | of the sun: to set
+demergo | 4 | trop: to overwhelm, depress
+demetior | 1 | measure
+demeto1 | 1 | reap
+demigro | 1 | emigrate
+demigro | 3 | pregn: to depart this life, to die
+demigro | 4 | trop: to depart from, abandon a position or resolve
+deminuo | 1 | lessen
+deminuo | 3 | gram: to form a diminutive
+deminutio | 1 | decrease
+deminutio | 3 | legal: capitis deminutio, the loss of civil rights
+deminutio | 4 | gram: a diminutive form
+deminutivus | 1 | diminutive
+demiror | 1 | wonder
+demiror | 3 | to be at a loss, to wonder how or why (demiror qui sciat, I wonder who could know)
+demissio | 1 | lowering
+demissio | 3 | trop: dejection, low spirits (demissio animi)
+demissio | 4 | medic: abatement, mitigation of a disease
