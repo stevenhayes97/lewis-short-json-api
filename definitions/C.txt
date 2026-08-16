@@ -3801,3 +3801,24 @@ cratis | 4 | transf., a joint or rib, as of the body or a honeycomb
 creator | 1 | creator
 creator | 3 | eccl., God, the creator of the world
 creator | 4 | jurid., one who elects or appoints to office
+creatrix | 1 | mother
+creber | 1 | frequent
+creber | 2 | abounding
+creber | 3 | crebro, repeatedly, often
+crebresco | 1 | increase
+crebresco | 3 | of a rumour, to spread abroad
+crebritas | 1 | frequency
+credibilis | 1 | credible
+credo | 1 | believe
+credo | 2 | lend
+credo | 3 | trust or entrust, as to someone's care
+credo | 4 | credo, I suppose, I dare say
+credulitas | 1 | credulity
+credulus | 1 | credulous
+credulus | 3 | transf., trusting or hopeful, as feelings or expectations
+cremo | 1 | burn
+cremo | 3 | to cremate, as a corpse
+cremo | 4 | to burn as a sacrifice, as a victim
+creo1 | 1 | create
+creo1 | 2 | elect
+creo1 | 3 | trop., to cause or occasion, as trouble or delay
