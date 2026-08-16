@@ -3951,3 +3951,30 @@ culpabilis | 1 | culpable
 culpo | 1 | blame
 culpo | 3 | P.a. (culpatus), worthy of blame, blameworthy
 culpo | 4 | of wine, corrupted or spoiled
+culter | 1 | knife
+culter | 3 | lit., a ploughshare or coulter
+cultio | 1 | cultivation
+cultio | 3 | veneration or reverence
+cultor | 1 | cultivator
+cultor | 2 | worshipper
+cultor | 3 | meton., an inhabitant or dweller
+cultrix | 1 | caretaker
+cultrix | 2 | inhabitant
+cultrix | 3 | trop., a female worshipper
+cultura | 1 | cultivation
+cultura | 2 | culture
+cultura | 3 | an honouring or courting, as of a powerful friend
+cultura | 4 | late Lat., religious worship
+cultus2 | 1 | cultivation
+cultus2 | 2 | worship
+cultus2 | 3 | refinement, as of manners or style
+cultus2 | 4 | dress or attire, especially ornamental
+cum1 | 1 | with
+cum1 | 3 | cum primis, especially, particularly
+cumque | 1 | -ever
+cumulo | 1 | heap up
+cumulo | 2 | overwhelm
+cumulo | 3 | trop., to complete or perfect, as happiness
+cumulus | 1 | heap
+cumulus | 2 | crowning addition
+cumulus | 3 | rhet., the peroration, the climax of a speech
