@@ -816,3 +816,37 @@ detestor | 2 | detest
 detestor | 3 | to call down (evil or curses) upon someone, invoking a deity
 detestor | 4 | transf: to avert by entreaty, ward off, deprecate
 detestor | 5 | judic: to renounce solemnly under oath
+detexo | 1 | weave
+detexo | 3 | comic: to filch, steal
+detexo | 4 | trop: to complete, finish (a narrative or account)
+detineo | 1 | detain
+detineo | 3 | to occupy, engage (someone's attention or time)
+detineo | 4 | poet: to prolong, spin out (time)
+detondeo | 1 | shear
+detondeo | 3 | transf: to strip off, crop (leaves, grass, etc.)
+detondeo | 4 | transf: to lay waste, ravage (fields, crops)
+detono | 1 | thunder
+detono | 3 | trop: to thunder forth, storm, rage (in speech or attack)
+detono | 4 | to cease thundering; trop: to cease raging, spend itself
+detorqueo | 1 | deflect
+detorqueo | 2 | distort
+detorqueo | 3 | trop: to turn away, divert (someone) from a course, e.g. from virtue
+detorqueo | 4 | trop: to misrepresent, twist the meaning of (words or facts)
+detractio | 1 | withdrawal
+detractio | 2 | slander
+detractio | 3 | medic: a purging
+detractio | 4 | rhet: an ellipsis, omission (of a word)
+detraho | 1 | remove
+detraho | 2 | disparage
+detraho | 3 | trop: to pull down, lower (in rank or dignity)
+detraho | 4 | to withhold (something due)
+detrecto | 1 | refuse
+detrecto | 2 | belittle
+detrimentum | 1 | damage
+detrimentum | 3 | milit: a defeat, a lost battle
+detrimentum | 4 | ne quid respublica detrimenti capiat, "that the state come to no harm" — the formula investing the consuls with emergency powers
+detrudo | 1 | push
+detrudo | 2 | dispossess
+detrudo | 3 | milit: to dislodge, drive off (an enemy from a position)
+detrudo | 4 | trop: to reduce, force (someone) into (a state or situation)
+detrudo | 5 | of time: to postpone, defer
