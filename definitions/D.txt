@@ -1523,3 +1523,34 @@ domina | 1 | mistress
 domina | 2 | sweetheart
 domina | 3 | in partic: a lady of the imperial family
 domina | 4 | poet, as endearment: wife
+dominatio | 1 | tyranny
+dominatio | 3 | trop: dominance, control (e.g. of reason over passion)
+dominatio | 4 | eccl, pl.: Dominions, an order of angels
+dominatus | 1 | tyranny
+dominatus | 3 | transf: mastery, control (of the mind or desires)
+dominicus | 1 | master's
+dominicus | 3 | transf, imperial period: imperial
+dominicus | 4 | eccl: dominica dies, the Lord's Day, Sunday
+dominium | 1 | ownership
+dominium | 3 | rare: a feast, banquet
+dominium | 4 | eccl: lordship, rule
+dominor | 1 | rule
+dominor | 3 | transf: (of things) to prevail, hold sway, reign
+dominus | 1 | master
+dominus | 2 | Lord
+dominus | 3 | in partic: the host, master of a feast
+dominus | 4 | title of the Roman emperors (imperial period)
+dominus | 5 | poet, as endearment: my lord, my love (addressing a lover)
+dominus | 6 | respectful address: sir
+domitor | 1 | tamer
+domitor | 2 | conqueror
+domo | 1 | tame
+domo | 2 | conquer
+domus | 1 | home
+domus | 2 | family
+domus | 3 | domi, at home; domum, homewards; domo, from home (special adverbial forms)
+domus | 4 | meton: one's native country, homeland
+domus | 5 | philos: a philosophical school, sect
+donarium | 1 | treasury
+donarium | 2 | offering
+donarium | 3 | meton: a temple, sanctuary, altar
