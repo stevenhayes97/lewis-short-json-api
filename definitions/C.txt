@@ -2468,3 +2468,23 @@ comburo | 1 | burn
 comburo | 2 | ruin
 comburo | 3 | comburere aliquem judicio, to destroy someone through a lawsuit
 comburo | 4 | poet., to be consumed by love; also diem comburere, to burn away a day in revelry
+comedo1 | 1 | eat up
+comedo1 | 2 | squander
+comedo1 | 3 | comedere aliquem oculis, to devour someone with one's eyes, i.e. to gaze at them with longing
+comedo1 | 4 | se comedere, to waste away with grief
+comes | 1 | companion
+comes | 3 | an attendant or escort of a magistrate or dignitary
+comes | 4 | in late Latin, an imperial officer or courtier, source of the English word count
+comis | 1 | courteous
+comissabundus | 1 | revelling
+comissatio | 1 | revelry
+comissator | 1 | reveller
+comitas | 1 | courteousness
+comitas | 3 | too great liberality, prodigality
+comitatus2 | 1 | retinue
+comitatus2 | 3 | a company, band, or crowd, without the idea of attendance
+comitatus2 | 4 | in imperial times, an emperor's escort or court
+# review: comitialis "comitial" exists but is obscure; "of the comitia" names the actual institution plainly
+comitialis | 1 | of the comitia
+comitialis | 3 | morbus comitialis, epilepsy, so called because a seizure during the assembly broke it up
+comitiatus2 | 1 | assembly
