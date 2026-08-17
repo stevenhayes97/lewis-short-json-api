@@ -743,3 +743,29 @@ exacuo | 1 | sharpen
 exacuo | 3 | transf: to make pungent (of taste)
 exacuo | 4 | trop: to incite, spur on, stimulate (a person)
 exadversum | 1 | opposite
+exaedifico | 1 | build
+exaedifico | 3 | trop: to finish, complete (a task or work)
+exaedifico | 4 | rare: to turn out of doors, evict
+exaequo | 1 | level
+exaequo | 3 | trop: to place on a level with, treat as equal
+exaequo | 4 | to equal, match, be equal to
+exaestuo | 1 | seethe
+exaestuo | 3 | trop: to boil, seethe (with anger or passion)
+exaestuo | 4 | act, rare: to give off, exhale (heat)
+exaggeratio | 1 | elevation
+exaggeratio | 3 | rhet: exaggeration, amplification (of style)
+exaggero | 1 | heap up
+exaggero | 3 | transf: to increase, enlarge (wealth or resources)
+exaggero | 4 | rhet: to amplify, exaggerate, heighten (in speech)
+exagito | 1 | harass
+exagito | 3 | in partic: to attack, censure, satirize (in speech)
+exagito | 4 | to incite, stir up, rouse (a crowd or passion)
+exalto | 1 | exalt
+exalto | 3 | to deepen (a trench or furrow)
+examen | 1 | swarm
+examen | 3 | rare: the pointer of a balance, the tongue of a scale
+examen | 4 | trop: an examination, a weighing, a consideration
+examino | 1 | weigh
+examino | 3 | trop: to consider, ponder, scrutinize, test
+examino | 4 | rare: to swarm (of bees)
+examussim | 1 | exactly
