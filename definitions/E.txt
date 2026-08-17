@@ -372,3 +372,26 @@ emissarius | 1 | spy
 emissarius | 3 | eccl: an attendant, a guard
 emissarius | 4 | eccl: the scapegoat (caper emissarius)
 emissarius | 5 | botany: a shoot, a young branch
+emissio | 1 | release
+emissio | 3 | meton: the power of hurling, projecting (missiles)
+emitto | 1 | send out
+emitto | 3 | esp: manu emittere, to set free, emancipate (a slave)
+emitto | 4 | trop: to let slip, let go (from one's control)
+emo | 1 | buy
+emo | 3 | trop: to buy off, bribe, procure (through payment)
+emolior | 1 | dislodge
+emollio | 1 | soften
+emollio | 3 | trop: to mollify, calm, make gentle
+emollio | 4 | trop, pejorative: to enervate, weaken, make soft (an army or a people)
+emolumentum | 1 | benefit
+emolumentum | 3 | rare: effort, exertion, labour
+emolumentum | 4 | concr, rare: a work, a structure
+emorior | 1 | die
+emorior | 3 | transf: to die out, go out (of fire), wither (of plants)
+emorior | 4 | trop: to perish, pass away, cease (of fame, hope, or love)
+emoveo | 1 | remove
+emoveo | 3 | trop: to drive away, banish, expel (fear, cares)
+emptio | 1 | purchase
+emptio | 3 | transf: a thing purchased, an acquisition
+emptio | 4 | legal: a bill of sale, a deed of purchase
+emptor | 1 | buyer
