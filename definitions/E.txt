@@ -91,3 +91,31 @@ educo1 | 5 | naut: to bring a ship out of harbour, put to sea
 educo1 | 6 | of a child: to bring up, rear
 educo1 | 7 | since Aug: to raise up, erect, build
 educo1 | 8 | of time: to pass, spend
+educo2 | 1 | educate
+educo2 | 3 | transf: to train, foster, cultivate (talents, character, or an art)
+educo2 | 4 | poet: to nourish, sustain (of plants or animals)
+edulis | 1 | edible
+edulis | 3 | as subst. (edulia): food, eatables
+effarcio | 1 | stuff
+effectus2 | 1 | execution
+effectus2 | 3 | the result, effect (of an action or operation)
+effemino | 1 | enervate
+effemino | 3 | lit: to make feminine (rare, of air)
+effemino | 4 | p. a. (effeminatus): womanish, effeminate, unmanly
+effemino | 5 | p. a., in mal. part.: passive, submitting to unnatural lust
+effero1 | 1 | carry out
+effero1 | 2 | bury
+effero1 | 3 | of soil: to bring forth, produce, yield (fruit)
+effero1 | 4 | to lift up, raise, elevate
+effero1 | 5 | to utter, proclaim, publish
+effero1 | 6 | pass: to be carried away, transported (by passion or emotion)
+effero1 | 7 | with se: to rise, distinguish oneself
+effero1 | 8 | with se, in a bad sense: to be puffed up, grow arrogant
+effero2 | 1 | make wild
+effero2 | 3 | mentally: to brutalize, make fierce, savage (a person's temper)
+efferus | 1 | savage
+effervesco | 1 | boil over
+effervesco | 3 | trop: to grow violent, rage, seethe (of passion or unrest)
+effervesco | 4 | transf, poet: to blaze out, shine forth (of stars)
+effervesco | 5 | to boil away, subside, die down (of anger)
+effervo | 1 | boil over
