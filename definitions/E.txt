@@ -212,3 +212,30 @@ egredior | 7 | trop: to exceed, surpass, overstep
 egregius | 1 | outstanding
 egregius | 3 | of rank: distinguished, illustrious, honourable
 egregius | 4 | adv (egregie), as exclamation: well done, bravo
+egressio | 1 | departure
+egressio | 3 | rhet: a digression (in a speech)
+egressus2 | 1 | departure
+egressus2 | 3 | concr: an exit, a way out
+egressus2 | 4 | naut: a disembarking, a landing
+egressus2 | 5 | rhet: a digression (in a speech)
+eheu | 1 | alas
+eho | 1 | hey
+eho | 3 | in a vehement question: eho tu, hey you, tell me
+eho | 4 | in a command: eho, come here
+eia | 1 | ah
+eia | 3 | in exhortation: come on, up then (eia age)
+eia | 4 | ironic, with vero: pshaw, indeed (expressing doubt)
+eicio | 1 | eject
+eicio | 2 | expel
+eicio | 3 | naut: to run aground, wreck (a ship)
+eicio | 4 | naut: to bring a ship to land
+eicio | 5 | trop: to banish, drive out (a feeling, a fault)
+eicio | 6 | to reject, dismiss (disapprovingly, of an argument or theory)
+ejaculor | 1 | shoot out
+ejecto | 1 | throw up
+ejulo | 1 | wail
+ejulo | 3 | act: to bewail, lament over (a person or thing)
+ejuro | 1 | renounce
+ejuro | 3 | jurid: to reject on oath (a judge or court) as unfair
+ejuro | 4 | polit: to resign, abdicate (an office), swearing to have held it lawfully
+ejuro | 5 | mercant: to swear oneself insolvent
