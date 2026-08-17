@@ -461,6 +461,7 @@ demereo | 3 | with a person as object: to earn someone's gratitude, to oblige
 demergo | 1 | submerge
 demergo | 3 | of the sun: to set
 demergo | 4 | trop: to overwhelm, depress
+# review: demetior L&S explicitly contrasts this with dimetior ("whereas dimetior is to measure the parts of a whole"); sharing the bare gloss "measure" with dimetior erases that distinction
 demetior | 1 | measure
 demeto1 | 1 | reap
 demigro | 1 | emigrate
@@ -972,6 +973,7 @@ dies | 6 | poet: the sky, the weather
 diffamo | 1 | defame
 diffamo | 3 | to spread, divulge, or publicise (esp. something discreditable)
 diffamo | 4 | late: to proclaim, make widely known
+# review: diffarreatio is one specific archaic religious ceremony for dissolving a confarreatio marriage, not divorce in general; sharing "divorce" with divortium loses that narrower, technical sense
 diffarreatio | 1 | divorce
 diffarreatio | 3 | the ancient religious ceremony that formally dissolved a marriage contracted by confarreatio
 differentia | 1 | difference
@@ -1078,6 +1080,7 @@ diluvies | 3 | trop: a deluge, an overwhelming rush (of destruction or invasion)
 dimensio | 1 | measurement
 dimensio | 3 | transf: dimension, extent
 dimensio | 4 | trop: the metrical measure, quantity (of syllables or verses)
+# review: dimetior L&S defines this specifically as measuring the parts of a whole, as opposed to demetior (measuring a whole); the shared gloss "measure" erases that source-drawn distinction
 dimetior | 1 | measure
 dimeto | 1 | demarcate
 dimicatio | 1 | combat
@@ -1164,6 +1167,7 @@ discerpo | 1 | mangle
 discerpo | 2 | revile
 discerpo | 3 | transf: to scatter, disperse, destroy
 discerpo | 4 | trop: to dissect, pick apart (an argument or subject)
+# review: discessio's dominant classical use (per L&S, "far more freq.") is the specific Senate procedure of voting by dividing into groups, not the general "division" divisio denotes; the bare gloss loses that
 discessio | 1 | division
 discessio | 2 | separation
 discessio | 3 | eccl: schism
@@ -1198,6 +1202,7 @@ discordia | 3 | transf: the subject of strife, the bone of contention
 discordia | 4 | personified (Discordia): the goddess of Discord, Eris
 discordo | 1 | disagree
 discordo | 3 | transf: to be inconsistent with, out of harmony with
+# review: discors is fundamentally about people/things at variance (dis+cor, "hearts apart"); sharing "discordant" with dissonus, whose literal sense is discordant sound, blurs a real domain difference
 discors | 1 | discordant
 discors | 3 | transf: unlike, differing, inconsistent
 discors | 4 | poet: twin, double, distinct (of two things from one source)
@@ -1350,6 +1355,7 @@ dissolvo | 5 | to release, free, disengage (someone)
 dissolvo | 6 | as adj. (dissolutus): lax, negligent, careless; licentious, dissolute
 dissono | 1 | clash
 dissono | 3 | trop: to disagree, differ, be at variance
+# review: dissonus is literally about discordant sound (dis+sonus), only secondarily generalized to "differing"; sharing "discordant" with discors (variance between people/things) blurs that distinction
 dissonus | 1 | discordant
 dissonus | 3 | in gen: disagreeing, different, at odds (of languages or customs)
 dissuadeo | 1 | dissuade
