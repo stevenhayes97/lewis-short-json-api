@@ -587,3 +587,29 @@ erumpo | 3 | milit: to break out, sally forth (from a besieged position)
 erumpo | 4 | trop: to vent, unleash (anger or emotion) on someone
 erumpo | 5 | of plants: to sprout, shoot up
 erumpo | 6 | trop: to come to light, be disclosed
+eruo | 1 | dig out
+eruo | 3 | trop: to elicit, draw out (information, an idea)
+eruo | 4 | trop: to overthrow, destroy (a city or state)
+eruo | 5 | trop, rare: to rescue, extricate
+eruptio | 1 | outbreak
+eruptio | 3 | milit: a sally, a sortie (from a besieged place)
+eruptio | 4 | medic: an eruption, a breaking out (of a rash or sore)
+eruptio | 5 | of a volcano: an eruption
+erus | 1 | master
+erus | 3 | poet: an owner, a lord (of property)
+erus | 4 | poet, plur.: the gods (as lords, eri)
+esca | 1 | food
+esca | 3 | bait (for catching animals)
+esca | 4 | trop: a lure, an enticement (esp. to vice)
+escarius | 1 | culinary
+escarius | 3 | of bait: for fishing, angling
+escendo | 1 | climb up
+escendo | 3 | act: to mount, ascend (a chariot, a platform)
+escendo | 4 | trop: to rise (to a level), reach a height
+escensio | 1 | ascent
+escensio | 3 | esp: a disembarkation, a landing (from ships)
+esculentus | 1 | edible
+essedarius | 1 | chariot-fighter
+essedarius | 3 | of a chariot: relating to a war-chariot
+essedarius | 4 | in the circus: a chariot-gladiator
+essentia | 1 | essence
