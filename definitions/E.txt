@@ -871,3 +871,26 @@ excogito | 1 | devise
 excolo1 | 1 | cultivate
 excolo1 | 3 | trop: to refine, perfect, ennoble (character or style)
 excolo1 | 4 | poet, rare: to honour, revere (a god or person)
+excoquo | 1 | boil away
+excoquo | 3 | trop: to plague, vex, torment (mentally)
+excors | 1 | foolish
+excresco | 1 | sprout
+excresco | 3 | medic: to form a growth, an excrescence (on the body)
+excresco | 4 | trop: to grow excessively, swell, increase immoderately
+excrucio | 1 | torture
+excrucio | 3 | mentally: to torment, distress, harass, vex
+excubiae | 1 | watch
+excubiae | 3 | transf, concr: the guards, the sentinels (on duty)
+excubitor | 1 | sentinel
+excubo | 1 | keep watch
+excubo | 3 | trop: to be vigilant, watchful, on the alert
+excudo | 1 | hammer out
+excudo | 3 | of birds: to hatch (eggs)
+excudo | 4 | trop: to compose, produce (a piece of writing)
+exculco | 1 | trample
+exculco | 3 | transf: to tread down, ram firm
+excurro | 1 | run out
+excurro | 2 | project
+excurro | 3 | milit: to sally forth, make a raid
+excurro | 4 | trop: to extend, spread out, range widely
+excurro | 5 | act, rare: to pass over, omit (in speaking)
