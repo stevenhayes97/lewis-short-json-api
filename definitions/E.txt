@@ -1206,3 +1206,31 @@ exsecrabilis | 3 | act, rare: cursing, imprecatory
 exsecratio | 1 | curse
 exsecratio | 3 | transf: a solemn oath (sworn under imprecation)
 exsecratio | 4 | late: an abomination, a detestable thing
+exsecror | 1 | curse
+exsecror | 3 | transf: to swear a solemn oath (with imprecations)
+exsecutio | 1 | execution
+exsecutio | 3 | jurid: a prosecution, an indictment
+exsecutio | 4 | jurid: jurisdiction, official authority
+exsecutio | 5 | rhet: a full discussion, a complete treatment
+exsecutor | 1 | executor
+exsecutor | 3 | jurid: a prosecutor
+exsecutor | 4 | late: a tax collector
+exsequiae | 1 | funeral
+exsequiae | 3 | late: the remains, the relics (of the dead)
+exsequor | 1 | pursue
+exsequor | 2 | perform
+exsequor | 3 | to relate, describe, narrate (in speech)
+exsequor | 4 | to avenge, punish
+exsequor | 5 | in partic: to accompany to the grave
+exsero | 1 | thrust out
+exsero | 3 | trop: to reveal, disclose, show
+exsero | 4 | p. a. (exsertus): bare, uncovered, protruding
+exserto | 1 | protrude
+exserto | 3 | to uncover, bare (the shoulders)
+exsibilo | 1 | hiss
+exsibilo | 3 | theat: to hiss off (an actor from the stage)
+exsicco | 1 | dry up
+exsicco | 3 | in partic: to drain, empty (a bottle)
+exsicco | 4 | trop: to dispel, banish (sorrow)
+exsilio | 1 | leap up
+exsilio | 3 | of inanimate things: to spring forth, take its rise, arise suddenly
