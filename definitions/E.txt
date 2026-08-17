@@ -499,3 +499,32 @@ equester | 5 | as subst. (equestria): the knights' seats in the theatre
 equidem | 1 | indeed
 equidem | 3 | concessive: certainly, to be sure, by all means
 equidem | 4 | with pregn. ref. to speaker: for my part, as far as I'm concerned
+equinus | 1 | equine
+equitatus1 | 1 | cavalry
+equitatus1 | 3 | abstr, rare: riding, horsemanship
+equitatus1 | 4 | rare: the equestrian order
+equito | 1 | ride
+equito | 3 | transf: to skirmish, manoeuvre (on horseback)
+equito | 4 | poet, of wind: to blow violently, rush
+equuleus | 1 | colt
+equuleus | 3 | a rack (an instrument of torture shaped like a horse)
+equus | 1 | horse
+equus | 3 | idiom (equis virisque): with horse and foot, with might and main
+equus | 4 | meton: a battering-ram
+equus | 5 | meton: the constellation Pegasus
+equus | 6 | meton, poet: a ship (equus ligneus)
+era | 1 | mistress
+era | 3 | of goddesses: a divine mistress, a patroness
+era | 4 | poet: a sweetheart, a lady-love
+eradico | 1 | uproot
+eradico | 3 | transf: to destroy utterly, wipe out (a person)
+eradico | 4 | trop: to wear out, pester (with talk)
+erado | 1 | scrape off
+erado | 3 | esp: to strike off, erase (a name from a list)
+erado | 4 | trop: to abolish, root out, remove entirely
+erepo | 1 | crawl out
+erepo | 3 | to climb, clamber up
+erepo | 4 | trop: to emerge slowly, work one's way out (of poverty)
+erga | 1 | towards
+erga | 3 | lit, rare: opposite, over against (of place)
+erga | 4 | of unfriendly feelings: against
