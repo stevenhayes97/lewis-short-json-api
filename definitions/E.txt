@@ -1335,3 +1335,25 @@ exter | 6 | sup. (extremus), pejor: the lowest, meanest, most wretched
 exter | 7 | sup. (extimus): the outermost, farthest, most remote
 extergeo | 1 | wipe
 extergeo | 3 | transf: to strip clean, plunder entirely
+extermino | 1 | expel
+extermino | 3 | trop: to put aside, remove, dismiss (an authority or idea)
+externus | 1 | external
+externus | 3 | in partic: foreign, of another country
+extero | 1 | rub off
+extero | 3 | trop: to wear out, use up (through use)
+exterreo | 1 | terrify
+extimesco | 1 | dread
+extispex | 1 | haruspex
+extollo | 1 | raise
+extollo | 2 | exalt
+extollo | 3 | to adorn, beautify, embellish
+extollo | 4 | ante-class, rare: to put off, defer
+extorqueo | 1 | wrench
+extorqueo | 2 | extort
+extorqueo | 3 | of limbs: to dislocate, put out of joint
+extorris | 1 | banished
+extra | 1 | outside
+extra | 3 | with acc.: outside of, beyond (a place)
+extra | 4 | idiom (extra quam): except, unless (in conditional clauses)
+extra | 5 | with acc.: except, excepting (a person)
+extra | 6 | besides, in addition to
