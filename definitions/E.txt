@@ -1164,3 +1164,24 @@ expromo | 3 | trop: to display, exhibit, exert (a quality)
 expromo | 4 | of speech: to utter, disclose, declare
 expugnabilis | 1 | conquerable
 expugnatio | 1 | storming
+expugnator | 1 | conqueror
+expugnator | 3 | trop: a violator, a despoiler (of chastity)
+expugno | 1 | storm
+expugno | 3 | trop: to overcome, conquer, subdue (resistance)
+expulso | 1 | repel
+expungo | 1 | erase
+expungo | 3 | to settle, reckon up (an account)
+expungo | 4 | transf: to fulfil, accomplish, carry out
+expurgo | 1 | cleanse
+expurgo | 3 | in partic: to exculpate, clear (oneself of blame)
+exputo | 1 | prune
+exputo | 3 | trop: to consider carefully, examine
+exputo | 4 | trop: to fathom, comprehend, work out
+exquiro | 1 | investigate
+exquiro | 3 | p. a. (exquisitus): choice, exquisite, carefully sought out
+exsanguis | 1 | bloodless
+exsanguis | 3 | transf: pale, wan (with fear)
+exsanguis | 4 | trop: feeble, powerless, weak (of style)
+exsanio | 1 | cleanse
+exsanio | 3 | transf: to press out, squeeze out (juice)
+exsarcio | 1 | mend
