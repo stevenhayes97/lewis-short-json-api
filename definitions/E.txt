@@ -239,3 +239,30 @@ ejuro | 1 | renounce
 ejuro | 3 | jurid: to reject on oath (a judge or court) as unfair
 ejuro | 4 | polit: to resign, abdicate (an office), swearing to have held it lawfully
 ejuro | 5 | mercant: to swear oneself insolvent
+ejusmodi | 1 | such
+ejusmodi | 3 | as adverb: in such a manner, thus
+elabor | 1 | slip away
+elabor | 2 | escape
+elabor | 3 | of joints: to be dislocated, slip out of place
+elabor | 4 | trop: to escape punishment, get off
+elabor | 5 | trop, pregn: to pass away, vanish, fade (of hope, memory, or time)
+elaboro | 1 | strive
+elaboro | 3 | act: to work out, produce with care, elaborate
+elaboro | 4 | p. a. (elaboratus): laboured, elaborate (sometimes overwrought)
+elanguesco | 1 | grow faint
+elatio | 1 | elevation
+elatio | 3 | pride, arrogance, self-exaltation
+elatio | 4 | transport, passion (of joy)
+elatio | 5 | rare: a carrying out, a burial
+elavo | 1 | wash out
+elavo | 3 | transf, idiom: elavari in mari, to be shipwrecked, ruined
+electio | 1 | choice
+elegans | 1 | tasteful
+elegans | 3 | ante-class., pejorative: fussy, over-nice, fastidious
+elegantia | 1 | refinement
+elegantia | 3 | ante-class., pejorative: fastidiousness, excessive nicety
+elementum | 1 | element
+elementum | 3 | plur: the alphabet, the letters
+elementum | 4 | plur: the rudiments, first principles (of an art or subject)
+elementum | 5 | meton, plur: beginners, elementary students
+elementum | 6 | the beginnings, origins (of anything)
