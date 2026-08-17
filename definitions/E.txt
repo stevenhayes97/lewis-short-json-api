@@ -1185,3 +1185,24 @@ exsanguis | 4 | trop: feeble, powerless, weak (of style)
 exsanio | 1 | cleanse
 exsanio | 3 | transf: to press out, squeeze out (juice)
 exsarcio | 1 | mend
+exsatio | 1 | satiate
+exsatio | 3 | trop: to glut, satisfy fully (with slaughter or vengeance)
+exsaturo | 1 | satiate
+exscensio | 1 | landing
+exscindo | 1 | destroy
+exscindo | 3 | trop, rare: to tear away, rip out
+exscreo | 1 | expectorate
+exscribo | 1 | transcribe
+exscribo | 3 | transf: to copy, reproduce (a painting)
+exscribo | 4 | trop: to resemble closely, take after
+exsculpo | 1 | carve out
+exsculpo | 3 | trop: to elicit, extort, wring out
+exsculpo | 4 | to scratch out, erase
+exseco | 1 | excise
+exseco | 3 | in partic: to castrate, geld
+exseco | 4 | trop, poet: to deduct, cut out (interest on a debt)
+exsecrabilis | 1 | accursed
+exsecrabilis | 3 | act, rare: cursing, imprecatory
+exsecratio | 1 | curse
+exsecratio | 3 | transf: a solemn oath (sworn under imprecation)
+exsecratio | 4 | late: an abomination, a detestable thing
