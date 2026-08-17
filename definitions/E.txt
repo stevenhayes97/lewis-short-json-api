@@ -1234,3 +1234,31 @@ exsicco | 3 | in partic: to drain, empty (a bottle)
 exsicco | 4 | trop: to dispel, banish (sorrow)
 exsilio | 1 | leap up
 exsilio | 3 | of inanimate things: to spring forth, take its rise, arise suddenly
+exsilium | 1 | exile
+exsilium | 3 | transf: a place of exile, a refuge
+exsilium | 4 | plur (exsilia): exiles, banished persons
+exsisto | 1 | emerge
+exsisto | 2 | exist
+exsisto | 3 | to arise, spring from, originate
+exsolvo | 1 | loosen
+exsolvo | 2 | pay
+exsolvo | 3 | trop: to free, release (from worry or obligation)
+exsolvo | 4 | trop: to solve, explain (a riddle or difficulty)
+exsorbeo | 1 | drain
+exsorbeo | 3 | trop: to swallow up, destroy, consume
+exsors | 1 | choice
+exsors | 3 | transf: without a share in, free from (with genitive)
+exspatior | 1 | digress
+exspatior | 3 | lit: to spread out, extend widely
+exspectatio | 1 | expectation
+exspectatio | 3 | rare: the object of hope, that which is longed for
+exspecto | 1 | await
+exspecto | 2 | hope for
+exspecto | 3 | to dread, fear, apprehend
+exspecto | 4 | poet, transf: to need, require (of plants or tools)
+exspiro | 1 | exhale
+exspiro | 2 | die
+exspiro | 3 | neutr: to rush forth, gush out, be exhaled
+exspiro | 4 | trop: to come to an end, cease, perish
+exsplendesco | 1 | glitter
+exsplendesco | 3 | trop: to shine forth, become distinguished
