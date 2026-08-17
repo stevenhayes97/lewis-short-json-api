@@ -1,0 +1,1675 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_D.json (Lewis & Short via Perseus), simplified for learners.
+damma | 1 | deer
+damma | 3 | venison, the meat of a deer
+damnabilis | 1 | damnable
+damnas | 1 | bound
+damnas | 3 | legal formula: bound or liable to do something, especially to pay a fine (damnas esto dare, let him be bound to give)
+damnatio | 1 | condemnation
+damnatio | 3 | an heir's legal obligation to pay a bequest
+damno | 1 | condemn
+damno | 2 | censure
+damno | 3 | to harm or damage (an early, non-legal sense)
+damno | 4 | with a genitive of the charge: damnari furti, to be convicted of theft
+damno | 5 | with an ablative of the penalty: damnari capite, to be sentenced to death
+damno | 6 | to bind an heir by will to carry out a bequest
+damnosus | 1 | ruinous
+damnosus | 2 | wasteful
+damnum | 1 | loss
+damnum | 2 | fine
+damnum | 3 | damnum injuria datum, injury done to another's property or slave, actionable under the lex Aquilia
+damnum | 4 | damnum infectum, threatened but not yet inflicted damage, against which security could be demanded
+daps | 1 | feast
+daps | 2 | offering
+dapsilis | 1 | lavish
+datatim | 1 | reciprocally
+datatim | 3 | in ball games: passing the ball from one to another, back and forth (ludere datatim)
+datio | 1 | giving
+datio | 3 | the legal right to give away or transfer property
+datio | 4 | a gift (in later Latin)
+dativus | 1 | given
+dativus | 3 | in law: dativi tutores, guardians appointed rather than named by will
+dativus | 4 | in grammar: dativus (casus), the dative case
+dato | 1 | give
+dator | 1 | giver
+dator | 3 | in ball games: the slave who hands the ball to the player
+de2 | 1 | from
+de2 | 2 | about
+de2 | 3 | of material: made of, out of (signum de marmore, a statue of marble)
+de2 | 4 | of cause: because of, on account of
+de2 | 5 | of conformity: according to (de sua sententia, in his own opinion)
+de2 | 6 | of a whole: some of, out of, from among (a partitive use)
+de2 | 7 | of time: immediately after (rare)
+de2 | 8 | in idioms: de integro, anew; de improviso, unexpectedly
+dea | 1 | goddess
+dealbo | 1 | whitewash
+deambulo | 1 | stroll
+deamo | 1 | adore
+deamo | 3 | to be delighted with something (of things, not people)
+deamo | 4 | deamo te, I'm much obliged to you (idiom of thanks)
+deargento | 1 | silver-plate
+deargento | 2 | impoverish
+deauro | 1 | gild
+debacchor | 1 | rave
+debello | 1 | conquer
+debello | 3 | to bring a war to a close, finish a war (intransitive)
+debello | 4 | parcere subjectis et debellare superbos, to spare the humbled and crush the proud (Virgil)
+debeo | 1 | owe
+debeo | 2 | must
+debeo | 3 | to be indebted to someone, to have to thank someone for something (debeo tibi hoc, I owe this to you)
+debeo | 4 | poetic: to be destined by fate (cui regnum Italiae debetur, to whom Italy's kingdom is destined)
+debilis | 1 | weak
+debilis | 3 | of a person: lame, crippled, disabled
+debilis | 4 | of the mind or character: enfeebled, incapacitated
+debilitas | 1 | weakness
+debilitas | 3 | lameness or physical infirmity
+debilitas | 4 | of the mind: weakness of spirit
+debilito | 1 | weaken
+debilito | 3 | of the body: to lame, cripple, maim
+debilito | 4 | of morale, resources, etc.: to unnerve, incapacitate
+debitor | 1 | debtor
+debitor | 3 | one bound to fulfil a vow once it has been granted (voti debitor)
+debitor | 4 | one indebted or obliged to someone for something (figurative use)
+decanto | 1 | repeat
+decanto | 2 | enchant
+decanto | 3 | to recite or rehearse, without any unfavourable sense (miserabiles elegos decantare, to recite mournful elegies)
+decanto | 4 | intransitive: to leave off singing or lamenting
+decanus | 1 | dean
+decanus | 3 | a superior set over ten people, such as soldiers or monks (late Latin administrative and religious use)
+decanus | 4 | in astrology: a decan, the ruler of one of the three ten-degree divisions of a zodiac sign
+decedo | 1 | depart
+decedo | 2 | die
+decedo | 3 | of a magistrate: to retire from a province at the end of one's term (de provincia decedere)
+decedo | 4 | to yield or give way, to make room for someone (decedere de via alicui)
+decedo | 5 | to give up a claim or right, to yield (decedere de jure suo, to give up one's right)
+decedo | 6 | of a fever or symptom: to subside, abate
+decem | 1 | ten
+decemviralis | 1 | decemviral
+decemviri | 1 | decemvirs
+decemviri | 3 | decemviri legibus scribundis, the ten-man commission that drafted the Twelve Tables
+decemviri | 4 | decemviri stlitibus judicandis, a standing court for cases of freedom and citizenship
+decemviri | 5 | decemviri sacris faciundis, the priestly college that kept and consulted the Sibylline Books
+decennalis | 1 | decennial
+decennalis | 3 | decennalia, a festival celebrated every ten years, marking an emperor's reign
+decennis | 1 | decennial
+decennis | 3 | of an animal: ten years old
+decerno | 1 | decide
+decerno | 2 | fight
+decerno | 3 | to resolve or determine to do something (with an infinitive)
+decerno | 4 | of a political or judicial body: to decree, to vote for something as an official decision
+decerpo | 1 | pluck
+decerpo | 2 | detract
+decerpo | 3 | to enjoy or savour something (a transferred sense)
+decerpo | 4 | to destroy or take away entirely (rare)
+decerto | 1 | fight
+decerto | 2 | contend
+decerto | 3 | with an ablative: proelio decertare, to fight a decisive battle
+decessio | 1 | departure
+decessio | 2 | decrease
+decessio | 3 | a magistrate's retirement from his province at the end of his term
+decessio | 4 | decease, death (rare)
+decessor | 1 | predecessor
+decessor | 3 | specifically: an outgoing provincial governor, as viewed by his successor
+decessus | 1 | departure
+decessus | 2 | decrease
+decessus | 3 | a magistrate's retirement from his province at the end of his term
+decessus | 4 | decease, death
+decet | 1 | befits
+decet | 3 | with an infinitive: it is proper for someone to do something (oratorem irasci minime decet, it is most improper for an orator to lose his temper)
+decet | 4 | of physical fitness: to be well-formed, becoming in appearance
+decido1 | 1 | fall
+decido1 | 3 | to fall short, to be disappointed (quanta de spe decidi! what a hope I have fallen from!)
+decido1 | 4 | poetic: to fall down dead, to perish
+decido2 | 1 | sever
+decido2 | 2 | settle
+decido2 | 3 | to cut down or reduce an amount (ad tertiam partem vectigal decidere, to reduce the tax by two-thirds)
+decido2 | 4 | to cudgel, beat soundly (rare)
+deciduus | 1 | deciduous
+decies | 1 | tenfold
+decies | 3 | an indefinitely large number or sum (colloquial exaggeration)
+decimanus | 1 | of tithes
+decimanus | 3 | as a noun: a tithe-farmer or tax-collector
+decimanus | 4 | of the tenth cohort or tenth legion; porta decumana, the main gate of a Roman camp
+decimanus | 5 | meton: immense, extraordinarily large (decumani fluctus, huge waves)
+decimo | 1 | decimate
+decimo | 3 | to tithe someone, to collect a tenth from them as tax
+decimo | 4 | to offer a tenth of something as a religious tithe
+decimus1 | 1 | tenth
+decimus1 | 3 | decimum (adv.), for the tenth time
+decimus1 | 4 | decima (noun), a tithe or tenth part, especially as a religious offering or a tax on provincial land
+decimus1 | 5 | meton: immense, huge, of a wave (poetic use)
+decipio | 1 | deceive
+decipio | 3 | to elude, to escape the notice of (custodes decipere, to slip past the guards)
+decipula | 1 | trap
+decisio | 1 | settlement
+decisio | 3 | a diminishing, decrease (rare)
+declamatio | 1 | declamation
+declamatio | 3 | a theme or exercise set for practice speaking
+declamatio | 4 | in a bad sense: ranting, bombastic talk
+declamator | 1 | declaimer
+declamatorius | 1 | declamatory
+declamito | 1 | declaim
+declamito | 3 | in a bad sense: to bluster, rant
+declamo | 1 | declaim
+declamo | 3 | in a bad sense: to rant, bluster
+declaro | 1 | declare
+declaro | 3 | in public life: to proclaim someone elected to office, especially as consul
+declaro | 4 | trop: to demonstrate, prove, make evident to the mind
+declinatio | 1 | deviation
+declinatio | 2 | declension
+declinatio | 3 | trop: an avoidance, a turning away from something (a malis declinatio, avoidance of evils)
+declinatio | 4 | in rhetoric: a short digression from the subject
+declinatio | 5 | geog: a region or climate zone of the earth (translating Greek klima)
+declino | 1 | deviate
+declino | 2 | avoid
+declino | 3 | grammar: to inflect or decline a part of speech
+declino | 4 | with an accusative: to turn something aside, to divert (declinare agmen, to divert the marching column)
+declivis | 1 | sloping
+declivis | 3 | trop: declining, in the decline of life (mulier aetate declivis, a woman in the decline of life)
+decoctio | 1 | decoction
+decollo | 1 | behead
+decollo | 3 | to take something off the neck (literal, rare)
+decollo | 4 | trop: to deprive, rob someone of something (rare)
+decolo | 1 | fail
+decolor | 1 | discoloured
+decolor | 3 | poetic, of an age or fame: degenerate, debased
+decoloro | 1 | discolour
+decoloro | 3 | trop: to tarnish, disgrace
+decoquo | 1 | reduce
+decoquo | 2 | go bankrupt
+decoquo | 3 | to boil or cook something (a general culinary sense)
+decoquo | 4 | trop: to consume, waste away, diminish gradually
+decoquo | 5 | decocta (noun), a chilled boiled-water drink invented by Nero
+decoquo | 6 | decoctum (noun), a medicinal potion or infusion
+decor | 1 | grace
+decoris | 1 | elegant
+decoro | 1 | adorn
+decoro | 3 | trop: to honour, distinguish (with an ablative: decorare aliquem praemiis, to honour someone with rewards)
+decorus | 1 | fitting
+decorus | 2 | beautiful
+decorus | 3 | as a noun, decorum (n.): that which is proper or seemly, propriety
+decrepitus | 1 | decrepit
+decresco | 1 | decrease
+decresco | 3 | to vanish, disappear entirely
+decretorius | 1 | decisive
+decumbo | 1 | recline
+decumbo | 3 | to lie ill, to be confined to bed by sickness
+decumbo | 4 | of a defeated gladiator: to fall
+decuria | 1 | decury
+decuria | 3 | one of the panels of jurors at Rome (decuriae judicum)
+decurio1 | 1 | decuriate
+decurio1 | 3 | esp.: to organize people into groups for bribery or political corruption
+decurio2 | 1 | decurion
+decurro | 1 | charge
+decurro | 2 | resort
+decurro | 3 | of a racer or vehicle: to run down or through a course (decurso spatio, having completed the course)
+decurro | 4 | trop: to run through or over a subject in speech
+decurro | 5 | of stars or heavenly bodies: to complete their course, to set
+decursio | 1 | manoeuvre
+decursio | 3 | a running or flowing down, as of water
+decursio | 4 | a ceremonial running in armour at a festival
+decursus2 | 1 | descent
+decursus2 | 2 | career
+decursus2 | 3 | milit: a manoeuvre or evolution; a hostile attack
+decursus2 | 4 | the completion or end of a course (destitit ante decursum, he stopped before the finish)
+decursus2 | 5 | in rhetoric: the rhythmical flow of a verse or sentence
+decurto | 1 | curtail
+decus1 | 1 | glory
+decus1 | 2 | virtue
+decus1 | 3 | plural, decora: honourable achievements, valiant deeds
+decus1 | 4 | renowned ancestors (a transferred, poetic use)
+decussis | 1 | ten
+decussis | 3 | the X-shaped mark denoting the number ten, or the intersection of two lines
+decussis | 4 | a Roman coin worth ten asses
+decutio1 | 1 | dislodge
+decutio1 | 3 | trop: to shake off, cast aside something no longer wanted
+dedecet | 1 | ill-befits
+dedecet | 3 | with an infinitive: it is unbecoming for someone to do something
+dedecoro | 1 | disgrace
+dedecus | 1 | disgrace
+dedecus | 2 | vice
+dedecus | 3 | concr.: a thing that causes shame, a blot, a blemish
+dedico | 1 | dedicate
+dedico | 3 | to declare, to announce something formally (an early, rare sense)
+dedico | 4 | to dedicate or inscribe a literary work to someone
+dedico | 5 | law: to register one's property for the census
+dedignor | 1 | disdain
+dedisco | 1 | unlearn
+dediticius | 1 | surrendered
+dediticius | 3 | as a noun: one who has surrendered, a captive under Roman rule without treaty rights
+deditio | 1 | surrender
+dedo | 1 | surrender
+dedo | 2 | devote
+dedo | 3 | dedita opera (adv.), on purpose, deliberately
+dedo | 4 | dare or dedere manus, to give up, to yield (an idiom)
+dedoceo | 1 | unteach
+dedolo | 1 | hew
+deduco | 1 | lead
+deduco | 2 | deduct
+deduco | 3 | naut: to launch a ship, drawing it down from the dock into the water
+deduco | 4 | pub. law: to lead forth and settle a colony (deducere coloniam, to found a colony)
+deduco | 5 | to escort someone, especially to conduct a bride to her husband's house
+deduco | 6 | to mislead, seduce, entice someone into an opinion
+deduco | 7 | of a literary work: to spin out, compose, elaborate (deducta poemata, finely-wrought poems)
+deduco | 8 | to derive, to trace the origin of a word or name
+deduco | 9 | to relieve or cure a physical ailment
+deductio | 1 | deduction
+deductio | 3 | the founding or settling of a colony
+deductio | 4 | a leading away of the bride, to her husband's house
+deductio | 5 | jurid.: a formal ejection from a disputed property, or the act that established one's claim to it
+deductus1 | 1 | drawn-in
+deductus1 | 2 | weak
+deductus1 | 3 | of a voice: weak, subdued (ante-classical usage)
+deerro | 1 | stray
+defaeco | 1 | purify
+defatigo | 1 | exhaust
+defectio | 1 | defection
+defectio | 2 | failure
+defectio | 3 | esp., of the sun or moon: an eclipse
+defectio | 4 | exhaustion, fainting, a swoon (post-Augustan prose)
+defectio | 5 | in grammar: an ellipsis
+defectus2 | 1 | defection
+defectus2 | 2 | failure
+defectus2 | 3 | a swoon, a fainting fit
+defendo | 1 | defend
+defendo | 2 | maintain
+defendo | 3 | with a dative: to ward something off from someone (defendere solstitium pecori, to shield the flock from the summer heat)
+defendo | 4 | of a legal case: to argue, to assert as a defence
+defensio | 1 | defence
+defensio | 3 | concr.: a written or spoken defence, a speech in defence
+defensio | 4 | jurid.: the legal maintenance of a right, or the prosecution of a crime
+defenso | 1 | shield
+defensor | 1 | defender
+defensor | 3 | plural, defensores: the garrison of a besieged place
+defensor | 4 | defensor civitatis, a late-imperial magistrate who protected provincial townspeople from oppression
+defero | 1 | carry
+defero | 2 | report
+defero | 3 | to confer, bestow, or offer something upon someone (deferre imperium ad aliquem, to confer command on someone)
+defero | 4 | legal: to indict, to accuse someone before a court
+defero | 5 | naut: to drive a ship off course, to carry it along
+defero | 6 | pub. law: to report one's property to the censors, for assessment
+defervesco | 1 | cool
+defetiscor | 1 | tire
+deficio | 1 | fail
+deficio | 2 | revolt
+deficio | 3 | passive: to be weakened, exhausted, worn out (viribus defici, to be exhausted of strength)
+deficio | 4 | of the sun or moon: to be eclipsed
+defigo | 1 | fix
+defigo | 2 | curse
+defigo | 3 | trop: to fix one's gaze or attention intently (defigere oculos in aliquo, to fix one's eyes upon someone)
+defigo | 4 | to strike motionless with astonishment, to stupefy
+defingo | 1 | shape
+definio | 1 | define
+definio | 3 | to restrict, to confine within certain limits, as of a speech or subject
+definio | 4 | to terminate, to finish (a rare sense)
+definitio | 1 | definition
+definitio | 3 | a boundary or bounding line (rare, in inscriptions)
+definitio | 4 | transf: a decree, a decision
+definitivus | 1 | definitive
+deflagro | 1 | burn down
+deflagro | 2 | perish
+deflagro | 3 | of a fire of passion: to abate, to be allayed (deflagrare iras, for anger to burn itself out)
+deflecto | 1 | swerve
+deflecto | 3 | trop: to divert someone from their pursuits or a particular direction (aliquem ab institutis studiis deflectere, to divert someone from their chosen studies)
+deflecto | 4 | grammar, in late Latin: to inflect a word
+defleo | 1 | lament
+defloresco | 1 | wither
+defluo | 1 | flow down
+defluo | 2 | vanish
+defluo | 3 | trop: to come, to originate from a source (hoc totum e sophistarum fontibus defluxit, all this flowed down from the springs of the sophists)
+defluo | 4 | of a person: to desert, to prove unfaithful (unus e tribunis defluxit, one of the tribunes deserted)
+defluus | 1 | descending
+defluus | 3 | esp.: vasculum defluum, a water-clock, a vessel through which water trickles down
+defodio | 1 | bury
+defodio | 3 | to dig deeply, to excavate a hole or trench
+defodio | 4 | transf: to hide, to conceal
+deformis | 1 | ugly
+deformis | 2 | disgraceful
+deformitas | 1 | ugliness
+deformitas | 2 | baseness
+deformitas | 3 | of style: uncouthness, inelegance
+deformo1 | 1 | shape
+deformo1 | 3 | trop: to depict, to describe in words
+deformo2 | 1 | disfigure
+deformo2 | 2 | disgrace
+defraudo | 1 | defraud
+defrico | 1 | rub
+defrico | 3 | trop: to lash with satire, to mock sharply
+defringo | 1 | break off
+defringo | 3 | trop: to destroy, to break down (rare)
+defugio | 1 | flee
+defugio | 3 | to shun or avoid a duty or obligation (defugere munus, to shirk a duty)
+defundo | 1 | pour
+defundo | 3 | relig.: to pour out as a libation to a god
+defungor | 1 | discharge
+defungor | 3 | defunctus jam sum, I am now through with it, out of danger (an idiom)
+degener | 1 | degenerate
+degener | 3 | with a genitive: unworthy of, falling short of (degener sanguinis, unworthy of one's lineage)
+degenero | 1 | degenerate
+degenero | 3 | trop: to fall short of one's ancestors or their standards (a virtute majorum degenerare, to fall short of the virtue of one's forefathers)
+degenero | 4 | act: to cause something to degenerate or deteriorate
+degenero | 5 | act: to dishonour, to disgrace by falling short (a rare poetic use)
+deglubo | 1 | peel
+deglubo | 3 | transf: to skin, to flay an animal or person
+dego | 1 | spend
+dego | 3 | absol.: to live, to dwell (post-Augustan usage)
+degravo | 1 | weigh down
+degravo | 3 | trop: to burden, to weigh upon, to oppress
+degredior | 1 | descend
+degusto | 1 | taste
+degusto | 3 | trop: to try, to sample, to make oneself acquainted with something
+degusto | 4 | to touch briefly upon a subject, to treat cursorily
+dehinc | 1 | then
+dehinc | 3 | of place: from here, hence (rare, post-Augustan)
+dehinc | 4 | of time, looking forward: henceforth, from now on
+dehisco | 1 | gape
+dehonestamentum | 1 | blemish
+dehonesto | 1 | disgrace
+dehortor | 1 | dissuade
+deicio | 1 | throw down
+deicio | 2 | dishearten
+deicio | 3 | milit: to dislodge an enemy from a position
+deicio | 4 | jurid: to eject, to dispossess someone of property
+deicio | 5 | pregn: to fell with a mortal wound, to strike dead
+deicio | 6 | to deprive someone of an expectation or hope (de honore deici, to be deprived of an office)
+deinceps | 1 | successively
+deinceps | 3 | as an adjective: following next, the next in a series
+deinde | 1 | then
+deinde | 3 | in local succession: next, after that (rare)
+dejectio | 1 | expulsion
+dejectio | 3 | medic: a purging of the bowels
+dejectio | 4 | legal: ejection, the turning out of someone from their property
+dejectio | 5 | trop: degradation, a lowering in rank
+dejectus2 | 1 | fall
+dejectus2 | 3 | of localities: a slope, a declivity
+dejectus2 | 4 | a covering, something thrown over one
+dejectus2 | 5 | transf: a lowering of the voice, opposite of raising it
+dejero | 1 | swear
+delabor | 1 | slip down
+delabor | 3 | trop: to sink, descend, or slide into a state or condition
+delatio | 1 | accusation
+delator | 1 | informer
+delectabilis | 1 | delightful
+delectatio | 1 | delight
+delectatio | 3 | medic: straining, a painful urging (late Latin)
+delecto | 1 | delight
+delecto | 3 | archaic: to entice away, to seduce from the right path
+delectus2 | 1 | choice
+delectus2 | 3 | milit: a levy, a recruiting of soldiers
+delectus2 | 4 | meton: the men levied, a body of recruits
+delegatio | 1 | assignment
+delegatio | 3 | business: the transfer of a debt to another person
+delegatio | 4 | trop: delegation, the passing off of a task to someone else
+delego | 1 | assign
+delego | 3 | business: to transfer a debt to another person
+delego | 4 | trop: to attribute or ascribe something to someone
+delenimentum | 1 | allurement
+delenio | 1 | charm
+delenio | 2 | soothe
+deleo | 1 | destroy
+deleo | 2 | erase
+deleo | 3 | trop: to end, finish, or terminate (a war, laws, a dispute)
+deliberatio | 1 | deliberation
+deliberatio | 3 | rhetor: a deliberative speech, one urging a course of action
+deliberativus | 1 | deliberative
+delibero | 1 | deliberate
+delibero | 3 | to consult an oracle
+delibero | 4 | meton: to resolve or determine after deliberating
+delibo | 1 | taste
+delibo | 3 | trop: to pluck or gather, to enjoy the best part of something
+delibo | 4 | trop: to take away from, diminish, detract
+delibuo | 1 | anoint
+delibuo | 3 | trop: overwhelmed by an emotion (delibutus gaudio, overwhelmed with joy)
+delicatus | 1 | delightful
+delicatus | 2 | spoiled
+delicatus | 3 | of a place or lifestyle: luxurious
+delicatus | 4 | fastidious, overly particular
+deliciae | 1 | delight
+deliciae | 3 | a term of endearment: darling, sweetheart
+delictum | 1 | offence
+deligo1 | 1 | select
+deligo1 | 3 | of fruit: to pick, to gather
+deligo1 | 4 | to pick out and send away, remove (rare)
+deligo2 | 1 | bind
+delinquo | 1 | transgress
+delinquo | 3 | lit: to be lacking, deficient (rare)
+deliquesco | 1 | melt
+deliquesco | 3 | trop: to pine away, vanish, disappear
+deliquo | 1 | strain
+deliquo | 3 | trop: to clear up, explain
+deliratio | 1 | folly
+deliro | 1 | rave
+deliro | 3 | lit: to swerve or deviate from a straight line (rare, of a plough)
+delirus | 1 | crazy
+delitesco | 1 | hide
+delitesco | 3 | trop: to shelter behind, to take refuge under someone's authority
+delubrum | 1 | shrine
+deludo | 1 | deceive
+deludo | 3 | to finish playing, to stop a performance (rare)
+delumbo | 1 | lame
+delumbo | 3 | trop: to weaken, enervate (a speech or style)
+demando | 1 | entrust
+demens | 1 | insane
+demens | 3 | transf: wild, frenzied (of things: demens discordia, frenzied strife)
+dementia | 1 | insanity
+dementio | 1 | rave
+demento | 1 | craze
+demento | 3 | to bewitch, delude
+demento | 4 | neut: to rave, to be out of one's mind
+demereo | 1 | deserve
+demereo | 3 | with a person as object: to earn someone's gratitude, to oblige
+demergo | 1 | submerge
+demergo | 3 | of the sun: to set
+demergo | 4 | trop: to overwhelm, depress
+demetior | 1 | measure
+demeto1 | 1 | reap
+demigro | 1 | emigrate
+demigro | 3 | pregn: to depart this life, to die
+demigro | 4 | trop: to depart from, abandon a position or resolve
+deminuo | 1 | lessen
+deminuo | 3 | gram: to form a diminutive
+deminutio | 1 | decrease
+deminutio | 3 | legal: capitis deminutio, the loss of civil rights
+deminutio | 4 | gram: a diminutive form
+deminutivus | 1 | diminutive
+demiror | 1 | wonder
+demiror | 3 | to be at a loss, to wonder how or why (demiror qui sciat, I wonder who could know)
+demissio | 1 | lowering
+demissio | 3 | trop: dejection, low spirits (demissio animi)
+demissio | 4 | medic: abatement, mitigation of a disease
+demitto | 1 | lower
+demitto | 3 | milit: to lead troops down to lower ground
+demitto | 4 | trop: to cast down the eyes or head, to be downcast
+demitto | 5 | of a place: low-lying, sunken
+demitto | 6 | of lineage: descended, derived (demissum genus ab Aenea, a line descended from Aeneas)
+demo | 1 | remove
+demolior | 1 | demolish
+demonstratio | 1 | demonstration
+demonstratio | 3 | rhetor: a vivid or picturesque description
+demonstratio | 4 | legal: a clear declaration of intent, as in a will
+demonstrativus | 1 | demonstrative
+demonstro | 1 | indicate
+demonstro | 3 | trop: to prove, demonstrate, explain
+demonstro | 4 | legal: to point out the boundaries of a property
+demorior | 1 | die
+demorior | 3 | trop: to fall out of use, become obsolete (of words)
+demorior | 4 | with acc: to be dying of love for someone
+demoror | 1 | delay
+demoveo | 1 | remove
+demoveo | 3 | trop: to divert or dislodge someone from a position or opinion
+demulceo | 1 | stroke
+demulceo | 3 | trop: to soothe, charm, win over
+demum | 1 | finally
+demum | 3 | enclitic with pronouns or adverbs, for emphasis: precisely, just, exactly (id demum, that very thing)
+demum | 4 | tum demum, nunc demum: only then, not until then
+demuto | 1 | alter
+demuto | 3 | neut: to change one's mind
+denarius | 1 | of ten
+denarius | 3 | as a noun (denarius): a Roman silver coin, originally worth ten asses
+denarro | 1 | recount
+denego | 1 | refuse
+denego | 3 | to deny that something is so
+deni | 1 | ten each
+deni | 3 | poet: ten (used for decem)
+deni | 4 | poet: tenth (used for decimus)
+# review: denicalis is a narrow religious technical term with no natural one-word English adjective; occurs only in the phrase "feriae denicales", funeral rites purifying a family after a death
+denicalis | 1 | purifying from death
+denigro | 1 | blacken
+denigro | 3 | trop: to blacken someone's reputation, to defame
+denique | 1 | finally
+denique | 3 | in enumerations: in short, in a word, in fact
+denique | 4 | postAug: therefore, accordingly, as a result
+denominatio | 1 | metonymy
+denomino | 1 | name
+denoto | 1 | mark
+denoto | 3 | to point out, specify, indicate
+denoto | 4 | trop: to stigmatize, brand with reproach
+dens | 1 | tooth
+dens | 3 | meton: a prong, spike, or point, as of a plough or comb
+dens | 4 | trop: dens invidiae, the tooth of envy, malicious spite
+denso | 1 | condense
+densus | 1 | dense
+densus | 3 | of time: frequent, continuous, following in close succession
+densus | 4 | trop of speech: condensed, concise
+dentale | 1 | share-beam
+dentale | 3 | meton: a ploughshare
+dentatus | 1 | toothed
+dentatus | 3 | of implements: spiked, toothed, like a rake or saw
+dentatus | 4 | of paper (charta): polished smooth with a tooth
+dentio1 | 1 | teethe
+denubo | 1 | marry
+denubo | 3 | to marry beneath one's social rank
+denudo | 1 | denude
+denudo | 3 | trop: to disclose, reveal, betray, expose
+denudo | 4 | to strip, plunder someone of their possessions
+denuntiatio | 1 | announcement
+denuntio | 1 | announce
+denuntio | 3 | jurid: to summon a witness or give notice of a lawsuit
+denuntio | 4 | transf: to threaten, warn, menace
+denuo | 1 | again
+deonero | 1 | unload
+deonero | 3 | trop: to relieve someone of a burden or blame
+deorsum | 1 | down
+deorsum | 3 | sursum deorsum: up and down, back and forth
+deosculor | 1 | kiss
+deosculor | 3 | transf: to praise highly, to laud
+depango | 1 | fix
+depango | 3 | trop: firmly set or fixed, as a boundary or limit
+depasco | 1 | graze
+depasco | 3 | of cattle: to eat up, consume
+depasco | 4 | trop: to prune away, trim down excess in style
+depasco | 5 | trop: to consume, waste away, as by disease
+depeciscor | 1 | bargain
+depeciscor | 3 | trop: to resign oneself to something as an acceptable trade-off (depecisci morte, to be content to die)
+depecto | 1 | comb
+depeculor | 1 | plunder
+depello | 1 | expel
+depello | 3 | milit: to dislodge an enemy from a position
+depello | 4 | of infants or young animals: to wean
+depello | 5 | trop: to deter, dissuade, or divert someone from a course
+dependeo | 1 | hang
+dependeo | 3 | trop: to depend on, be derived from
+dependo | 1 | pay
+dependo | 3 | transf: to spend, expend, lay out
+deperdo | 1 | lose
+deperdo | 3 | as perf. participle (deperditus): ruined, or desperately in love
+depereo | 1 | perish
+depereo | 3 | to be desperately in love with someone (deperire aliquem, to be head over heels for someone)
+depilo | 1 | pluck
+depilo | 3 | transf: to fleece, to cheat someone, as if plucked
+depilo | 4 | to peel, to rub off skin
+depingo | 1 | depict
+depingo | 3 | trop: to portray, describe, or imagine in words
+depingo | 4 | to embroider
+depleo | 1 | drain
+depleo | 3 | medic: to let blood, to bleed someone
+deploro | 1 | lament
+deploro | 3 | meton: to regard as lost, to give up as hopeless
+depolio | 1 | smooth
+depolio | 3 | comic: to cudgel, to beat
+depono | 1 | lay down
+depono | 3 | to deposit or entrust something for safekeeping
+depono | 4 | trop: to give up, abandon, resign (depono arma, to lay down arms)
+depono | 5 | of buildings: to pull down, demolish
+depono | 6 | late: to depose someone from an office
+depopulatio | 1 | devastation
+depopulor | 1 | ravage
+deporto | 1 | carry away
+deporto | 3 | to bring home from a province, as a triumph or spoils
+deporto | 4 | legal: to banish, to exile for life
+deposco | 1 | demand
+deposco | 3 | to demand someone be handed over for punishment
+deposco | 4 | transf: to challenge someone to fight
+depositio | 1 | deposit
+depositio | 3 | jurid: a giving of testimony, a deposition
+depositio | 4 | a lowering, degradation of rank or dignity
+depositio | 5 | late: a burial, an interment
+depraedor | 1 | plunder
+depravatio | 1 | distortion
+depravatio | 3 | trop: moral corruption, depravity
+depravo | 1 | distort
+depravo | 3 | trop: to corrupt, deprave, lead astray
+deprecatio | 1 | entreaty
+deprecatio | 3 | a plea for pardon or forgiveness
+deprecatio | 4 | relig: an imprecation, a curse invoking punishment
+deprecator | 1 | intercessor
+deprecor | 1 | beg off
+deprecor | 3 | to intercede on behalf of someone or something in danger
+deprecor | 4 | relig: to invoke a curse, to imprecate
+deprehendo | 1 | catch
+deprehendo | 2 | detect
+deprehendo | 3 | trop: to perceive, understand, discern
+deprehendo | 4 | to catch someone in the act of wrongdoing (deprehendi in scelere, to be caught red-handed)
+deprehendo | 5 | to hem in, trap, or embarrass
+depretio | 1 | undervalue
+depretio | 3 | trop: to disregard, make light of
+deprimo | 1 | depress
+deprimo | 3 | naut: to sink a ship
+deprimo | 4 | trop: to disparage, belittle in words
+depromo | 1 | fetch
+depromo | 3 | trop: to draw upon, to derive from a source, as arguments from books
+depropero | 1 | hasten
+depropero | 3 | to prepare something in haste
+depso | 1 | knead
+depugno | 1 | fight
+depugno | 3 | to fight to the finish, to stop fighting only once it is settled
+depulsio | 1 | warding off
+depulsio | 3 | rhetor: a defence against a charge or accusation
+depulsor | 1 | deliverer
+depurgo | 1 | cleanse
+deputo | 1 | prune
+deputo | 3 | to consider, regard as (ante- and post-classical)
+deputo | 4 | late: to allot, assign to someone
+derado | 1 | shave
+derelinquo | 1 | abandon
+derelinquo | 3 | late: to bequeath, to leave behind as an inheritance
+derepente | 1 | suddenly
+derideo | 1 | deride
+deridiculus | 1 | ridiculous
+derigesco | 1 | stiffen
+derigesco | 3 | of blood or liquid: to curdle, congeal
+deripio | 1 | tear away
+derisor | 1 | mocker
+derisus2 | 1 | mockery
+derivatio | 1 | diversion
+derivatio | 3 | gram: derivation, the origin or etymology of a word
+derivo | 1 | divert
+derivo | 3 | gram: to derive one word from another
+derogo | 1 | repeal
+derogo | 3 | transf: to detract from, diminish, take away
+derogo | 4 | to disparage, discredit someone
+deruptus | 1 | steep
+desacro | 1 | consecrate
+desacro | 3 | trop: to devote or set aside for a purpose
+desaevio | 1 | rage
+desaevio | 3 | to cease raging, to spend one's fury
+descendo | 1 | descend
+descendo | 3 | milit: to march down from higher ground into the plain
+descendo | 4 | trop: to lower oneself to, to stoop to an unworthy act
+descendo | 5 | trop: to penetrate deeply, to sink in, as of words or feelings
+descensio | 1 | descent
+descensus2 | 1 | descent
+descensus2 | 3 | concr: a way down, a downward path, as of a mountain or road
+descindo | 1 | divide
+descisco | 1 | revolt
+descisco | 3 | transf: to deviate from, to break faith with, to fall away from a person or principle
+describo | 1 | describe
+describo | 3 | to copy out, transcribe a text
+describo | 4 | to mark out, sketch, or delineate a shape or plan
+describo | 5 | to assign or apportion something to someone
+descriptio | 1 | description
+descriptio | 3 | a copy, a transcript
+descriptio | 4 | an arrangement, an ordering of parts within a whole
+deseco | 1 | cut off
+desero2 | 1 | abandon
+desero2 | 3 | milit: to desert
+desero2 | 4 | legal: vadimonia deserere, to fail to appear in court, forfeiting bail
+desero2 | 5 | of strength or memory: to fail someone
+desero2 | 6 | as adj. (desertus): deserted, lonely, desolate
+desertor | 1 | deserter
+deservio | 1 | serve
+deses | 1 | idle
+deses | 3 | transf: of things or places, sluggish, unwarlike, torpid
+desideo | 1 | idle
+desideo | 3 | to sit long, remain seated
+desideo | 4 | euphemism: to relieve oneself
+desiderabilis | 1 | desirable
+desiderium | 1 | longing
+desiderium | 2 | grief
+desiderium | 3 | as a term of endearment: darling, sweetheart
+desiderium | 4 | transf: want, need
+desiderium | 5 | later: a request, petition
+desidero | 1 | desire
+desidero | 2 | miss
+desidero | 3 | milit: (pass.) to be missing, lost, or killed in battle
+desidero | 4 | rare: to investigate, examine
+desidia1 | 1 | idleness
+desidia1 | 3 | transf: of land, lying fallow
+desidiosus | 1 | slothful
+desidiosus | 3 | transf: causing idleness, making one lazy
+desido | 1 | subside
+desido | 3 | trop: to deteriorate, degenerate
+designatio | 1 | designation
+designatio | 2 | arrangement
+designatio | 3 | the formal appointment or election to a public office
+designator | 1 | usher
+designator | 3 | undertaker, master of ceremonies at funerals
+designator | 4 | umpire at public games
+designo | 1 | designate
+designo | 3 | trop: to point out, indicate in words
+designo | 4 | to arrange, appoint, or elect to an office
+designo | 5 | as adj. (designatus): elect, appointed but not yet in office, e.g. consul designatus, consul-elect
+desilio | 1 | leap down
+desilio | 3 | transf: of things, to fall, rush, or shoot down, as water or lightning
+desilio | 4 | trop: to plunge (into difficulties)
+desino | 1 | cease
+desino | 3 | rhetor: of a sentence or clause, to end, close
+desipio | 1 | be silly
+desipio | 3 | rare: to render insipid or tasteless
+desisto | 1 | desist
+desisto | 3 | rare: to set (something) down, deposit
+desolo | 1 | desolate
+desolo | 3 | as adj. (desolatus): forsaken, deserted, alone
+despecto | 1 | overlook
+despecto | 3 | trop: to look down upon, despise
+despectus2 | 1 | view
+despectus2 | 2 | contempt
+despectus2 | 3 | transf: (dat. only) an object of contempt, a laughingstock
+desperatio | 1 | despair
+desperatio | 3 | meton: desperate boldness, recklessness
+despero | 1 | despair
+despero | 3 | with acc.: to give up as lost, abandon hope for (a cause, plan, or person)
+despicio | 1 | despise
+despicio | 3 | to look down (from a height)
+despicio | 4 | rare: to look away, disregard, pay no heed to
+despicor | 1 | despise
+despolio | 1 | despoil
+despondeo | 1 | pledge
+despondeo | 2 | betroth
+despondeo | 3 | animum despondere, to lose heart, become despondent
+despondeo | 4 | trop: to give up, devote, or resign (something) to
+despumo | 1 | skim
+despumo | 3 | transf: to work off, mellow, or digest (wine)
+despumo | 4 | trop: to cease foaming, slacken, abate
+despuo | 1 | spit
+despuo | 3 | trop: to reject, spurn, abhor
+desquamo | 1 | scale
+desquamo | 3 | transf: to peel off, scour, or rub clean
+desquamo | 4 | medic: (as subst.) chafed or excoriated patches of skin
+destillo | 1 | drip
+destillo | 3 | transf: to anoint or drop (something fragrant) onto, e.g. tempora nardo destillare, to anoint the temples with nard
+destinatio | 1 | resolve
+destinatio | 3 | esp: obstinacy, stubbornness
+destino | 1 | destine
+destino | 3 | lit: to make fast, bind, secure
+destino | 4 | to determine, resolve, decide upon
+destino | 5 | milit: (of archers, slingers) to aim at, take aim
+destino | 6 | trade: to mark out for purchase, intend to buy
+destino | 7 | as adj. (destinatus): fixed, resolved, determined
+destino | 8 | as noun (destinatum): a mark, target; a plan, design
+destituo | 1 | abandon
+destituo | 3 | lit., rare: to set down, place
+destituo | 4 | as adj. (destitutus): destitute, deprived, forsaken (usu. + ab or abl.)
+destringo | 1 | draw
+destringo | 3 | to strip off, pluck off (leaves, bark, etc.)
+destringo | 4 | to strip, scour, or rub down (the body, intestines, etc.)
+destringo | 5 | to graze, skim, or touch lightly in passing
+destringo | 6 | trop: to criticise, satirize
+destruo | 1 | demolish
+destruo | 3 | trop: to destroy, ruin, or weaken (an argument, plan, etc.)
+desub | 1 | beneath
+desubito | 1 | suddenly
+desudo | 1 | sweat
+desudo | 3 | trop: to exert oneself, toil hard
+desudo | 4 | to sweat out, exude (something)
+desuesco | 1 | disuse
+desuesco | 3 | neutr: to become unaccustomed to, grow out of the habit of
+desuesco | 4 | as adj. (desuetus): unaccustomed, out of practice
+desultor | 1 | vaulter
+desultor | 3 | trop: a fickle or inconstant person, e.g. desultor amoris, a fickle lover
+desum | 1 | be lacking
+desum | 3 | pregn: to fail (someone) in duty, fail to help or support, desert
+desum | 4 | deesse sibi, to fail oneself, neglect one's own interests
+desumo | 1 | select
+desumo | 2 | undertake
+desuper | 1 | above
+detego | 1 | uncover
+detego | 2 | detect
+detego | 3 | comic transf: to strip off, take off (clothing)
+detergeo | 1 | wipe
+detergeo | 3 | to strip off, break off, or shatter, e.g. of oars sheared off in a ramming attack
+detergeo | 4 | trop: to remove, take away, get rid of
+detergeo | 5 | colloq: of money, to sweep off, net, obtain
+deterior | 1 | worse
+determino | 1 | delimit
+determino | 3 | transf: to fix, settle, or appoint (a time, date, or term)
+detero | 1 | wear down
+detero | 3 | trop: to diminish, weaken, impair
+deterreo | 1 | deter
+deterreo | 3 | to avert, keep off (a danger, attack, or evil)
+detestabilis | 1 | detestable
+detestatio1 | 1 | curse
+detestatio1 | 2 | renunciation
+detestatio1 | 3 | a warding off, an averting (of evil)
+detestor | 1 | curse
+detestor | 2 | detest
+detestor | 3 | to call down (evil or curses) upon someone, invoking a deity
+detestor | 4 | transf: to avert by entreaty, ward off, deprecate
+detestor | 5 | judic: to renounce solemnly under oath
+detexo | 1 | weave
+detexo | 3 | comic: to filch, steal
+detexo | 4 | trop: to complete, finish (a narrative or account)
+detineo | 1 | detain
+detineo | 3 | to occupy, engage (someone's attention or time)
+detineo | 4 | poet: to prolong, spin out (time)
+detondeo | 1 | shear
+detondeo | 3 | transf: to strip off, crop (leaves, grass, etc.)
+detondeo | 4 | transf: to lay waste, ravage (fields, crops)
+detono | 1 | thunder
+detono | 3 | trop: to thunder forth, storm, rage (in speech or attack)
+detono | 4 | to cease thundering; trop: to cease raging, spend itself
+detorqueo | 1 | deflect
+detorqueo | 2 | distort
+detorqueo | 3 | trop: to turn away, divert (someone) from a course, e.g. from virtue
+detorqueo | 4 | trop: to misrepresent, twist the meaning of (words or facts)
+detractio | 1 | withdrawal
+detractio | 2 | slander
+detractio | 3 | medic: a purging
+detractio | 4 | rhet: an ellipsis, omission (of a word)
+detraho | 1 | remove
+detraho | 2 | disparage
+detraho | 3 | trop: to pull down, lower (in rank or dignity)
+detraho | 4 | to withhold (something due)
+detrecto | 1 | refuse
+detrecto | 2 | belittle
+detrimentum | 1 | damage
+detrimentum | 3 | milit: a defeat, a lost battle
+detrimentum | 4 | ne quid respublica detrimenti capiat, "that the state come to no harm" — the formula investing the consuls with emergency powers
+detrudo | 1 | push
+detrudo | 2 | dispossess
+detrudo | 3 | milit: to dislodge, drive off (an enemy from a position)
+detrudo | 4 | trop: to reduce, force (someone) into (a state or situation)
+detrudo | 5 | of time: to postpone, defer
+detrunco | 1 | lop
+detrunco | 3 | transf: to mutilate, maim, or behead
+deturbo | 1 | topple
+deturbo | 3 | trop: to deprive (someone) of, drive (someone) from, e.g. deturbare aliquem de sanitate, to deprive someone of their senses
+deuro | 1 | burn up
+deuro | 3 | transf: of cold or frost, to blight, kill (plants)
+deus | 1 | god
+deus | 3 | poet: (of a female deity) goddess
+deus | 4 | eccl: God (the God of Jews and Christians)
+deus | 5 | transf: (of a person) a godlike or superhuman figure
+deveho | 1 | convey
+deveho | 3 | pass: to sail or travel down (a river), depart
+deveho | 4 | trop, rare: to be transported, carried away
+devello | 1 | pluck
+devenio | 1 | arrive
+devenio | 3 | trop: to come to, fall into (a state or condition), e.g. devenire in servitutem, to fall into slavery
+deversor1 | 1 | lodge
+deversorius | 1 | of lodging
+deversorius | 3 | subst. (deversorium): an inn, lodging house
+deverticulum | 1 | byway
+deverticulum | 2 | inn
+deverticulum | 3 | trop: a digression, deviation (in speech or writing)
+deverticulum | 4 | trop: a refuge, retreat, hiding place
+deverto | 1 | turn aside
+deverto | 2 | lodge
+deverto | 3 | trop, rare: to resort to, have recourse to (a method)
+deverto | 4 | trop, rare: to digress
+devexus | 1 | sloping
+devexus | 3 | transf: (of age or time) declining, waning
+devincio | 1 | bind
+devincio | 3 | trop: to bind (someone) by obligation, win over, attach firmly
+devinco | 1 | vanquish
+devinco | 3 | trop: to overcome, prevail over (a plan, argument, or motive)
+devito | 1 | avoid
+devius | 1 | remote
+devius | 3 | transf: (of people) secluded, living in out-of-the-way places
+devius | 4 | trop: wayward, inconsistent, erratic
+devoco | 1 | summon
+devoco | 3 | trop: to allure, entice away (from a course or purpose)
+devolo | 1 | fly down
+devolo | 3 | transf: to hasten down, rush, hurry away
+devolvo | 1 | roll
+devolvo | 3 | pass: to tumble down, fall headlong
+devolvo | 4 | trop, mid: to sink down, fall into (a state), e.g. devolvi ad inertiam, to sink into idleness
+devoro | 1 | devour
+devoro | 2 | squander
+devoro | 3 | transf: to engulf, swallow up (of the earth, sea, etc.)
+devoro | 4 | to repress, suppress, hold back (tears, words, feelings)
+devoro | 5 | trop: to endure patiently, put up with, swallow (an insult or hardship)
+devoro | 6 | to devour eagerly, get through avidly (a book or speech)
+devotio | 1 | devotion
+devotio | 2 | curse
+devotio | 3 | sorcery, a magic spell or incantation
+devoto | 1 | devote
+devoto | 2 | bewitch
+devoto | 3 | to curse
+devoveo | 1 | vow
+devoveo | 2 | curse
+devoveo | 3 | transf: to devote, give up, attach (oneself) to, e.g. se alicui devovere, to devote oneself to someone
+devoveo | 4 | to bewitch by spells, enchant
+devoveo | 5 | as adj. (devotus): devoted, attached, faithful
+devoveo | 6 | eccl: pious, devout
+dextans | 1 | ten-twelfths
+dextans | 3 | ten twelfths of an as, a jugerum, an hour, or any other whole divided into twelfths
+dexter | 1 | right
+dexter | 2 | skilful
+dexter | 3 | trop: favourable, propitious, auspicious (of omens)
+dextera | 1 | right hand
+dextera | 2 | pledge
+dextera | 3 | transf: the right side, right-hand direction
+dextera | 4 | poet: the hand (in general)
+dextrorsum | 1 | rightward
+dicacitas | 1 | banter
+dicaculus | 1 | talkative
+dicaculus | 2 | witty
+dicax | 1 | witty
+dicax | 2 | sarcastic
+dicio | 1 | dominion
+dicio | 3 | esse in dicione alicujus, to be under someone's power or control
+# review: dicis has no independent meaning outside the fixed phrase dicis causa/gratia
+dicis | 1 | for form's sake
+dicis | 3 | dicis causa, for form's sake, as a formality, for appearance's sake
+dico1 | 1 | dedicate
+dico1 | 3 | transf: to give up, set apart, or devote (time, effort) to someone
+dico2 | 1 | say
+dico2 | 2 | call
+dico2 | 3 | to plead, deliver (a speech), esp. in court
+dico2 | 4 | to appoint, name (to an office), e.g. dictatorem dicere, to appoint a dictator
+dico2 | 5 | to predict, foretell
+dico2 | 6 | dictum ac factum, no sooner said than done
+dico2 | 7 | dicto audientem esse alicui, to obey someone, take orders from someone
+dictator | 1 | dictator
+dictator | 3 | transf: (of a foreign or absolute ruler) a supreme commander, autocrat
+dictator | 4 | late: one who dictates (a letter or text)
+dictatura | 1 | dictatorship
+dictatura | 3 | rare, in wordplay: the practice of dictating lessons to pupils
+dictio | 1 | diction
+dictio | 3 | an oracular response, prediction
+dictio | 4 | the art of public speaking, oratory
+dictito | 1 | reiterate
+dictito | 3 | jurid: to plead (cases) habitually, practise as an advocate
+dicto | 1 | dictate
+dicto | 2 | compose
+dicto | 3 | to prescribe, lay down (rules or terms)
+dicto | 4 | of abstract things: to suggest, dictate, e.g. ratio dictat, reason dictates
+dido1 | 1 | distribute
+dido1 | 3 | trop: to spread, disseminate (rumour, fame, or news)
+diduco | 1 | separate
+diduco | 3 | milit: to disperse, scatter (troops)
+diduco | 4 | trop: to sunder, break up (a friendship or marriage)
+dierectus | 1 | crucified
+dierectus | 3 | as a curse: go hang!, be hanged!
+dierectus | 4 | transf, colloq: ruined, done for
+dies | 1 | day
+dies | 2 | deadline
+dies | 3 | transf: daylight, the light of day
+dies | 4 | a day's journey
+dies | 5 | dies dicere alicui, to summon someone to trial, set a day for their prosecution
+dies | 6 | poet: the sky, the weather
+diffamo | 1 | defame
+diffamo | 3 | to spread, divulge, or publicise (esp. something discreditable)
+diffamo | 4 | late: to proclaim, make widely known
+diffarreatio | 1 | divorce
+diffarreatio | 3 | the ancient religious ceremony that formally dissolved a marriage contracted by confarreatio
+differentia | 1 | difference
+differentia | 3 | logic t.t.: a differentia, the specific feature distinguishing a species within a genus
+differo | 1 | scatter
+differo | 2 | differ
+differo | 3 | to defer, postpone, put off (a matter or decision)
+differo | 4 | to defame, spread damaging reports about (someone)
+differo | 5 | trop, rare: to distract, disturb, harass (someone)
+differtus | 1 | crammed
+difficilis | 1 | difficult
+difficilis | 3 | of character: hard to please, obstinate, morose
+difficultas | 1 | difficulty
+difficultas | 3 | of character: obstinacy, captiousness, moroseness
+diffidentia | 1 | distrust
+diffidentia | 3 | eccl: unbelief, disobedience, want of faith
+diffido | 1 | distrust
+diffido | 3 | diffidere + dat., to despair of, have no confidence in
+diffindo | 1 | cleave
+diffindo | 3 | jurid: diem diffindere, to adjourn a case to the next day
+diffindo | 4 | trop: to refute, cut off (part of an argument)
+diffingo | 1 | remodel
+diffingo | 3 | trop: to alter, undo what is already done
+diffiteor | 1 | deny
+difflo | 1 | dispel
+diffluo | 1 | flow away
+diffluo | 3 | transf: to melt away, dissolve, disappear
+diffluo | 4 | trop: to be given over to, dissolve into (luxury or self-indulgence)
+diffugio | 1 | scatter
+diffundo | 1 | diffuse
+diffundo | 2 | cheer
+diffundo | 3 | trop: to spread, extend (fame, power, or influence)
+diffundo | 4 | of style or writing: diffuse, prolix, verbose
+digero | 1 | arrange
+digero | 2 | digest
+digero | 3 | medic: to dissolve, dissipate (morbid matter)
+digero | 4 | trop: to distribute, apportion
+digero | 5 | as noun (digesta): the Digests, Justinian's compiled code of Roman law
+digestio | 1 | digestion
+digestio | 3 | an orderly distribution, arrangement
+digestio | 4 | rhet t.t.: enumeration, a listing of points in order
+digitulus | 1 | little finger
+digitulus | 3 | transf: a toe, a claw (of a bird or crab)
+digitus1 | 1 | finger
+digitus1 | 2 | inch
+digitus1 | 3 | transf: a toe
+digitus1 | 4 | transf: a small twig, shoot
+digladior | 1 | duel
+digladior | 3 | transf: to dispute vehemently, wrangle (in words)
+dignatio | 1 | esteem
+dignatio | 3 | transf: dignity, reputation, honour
+dignitas | 1 | dignity
+dignitas | 2 | office
+dignitas | 3 | worthiness, merit, desert
+dignitas | 4 | transf: (of things) worth, value, excellence
+digno | 1 | deem worthy
+dignor | 1 | deem worthy
+dignor | 3 | with inf.: to deign to do something, think it fitting
+dignor | 4 | with a negative: to disdain, refuse as beneath oneself
+dignus | 1 | worthy
+dignus | 3 | dignus qui + subj., worthy to do something, deserving that
+digredior | 1 | depart
+digredior | 2 | digress
+digredior | 3 | trop: to deviate, depart (from a principle or duty)
+digressio | 1 | departure
+digressio | 3 | trop: a deviation, digression (in speech or writing)
+digressus2 | 1 | departure
+digressus2 | 3 | trop: a digression (in speech)
+dijudico | 1 | adjudicate
+dijudico | 3 | to discern, distinguish (between two things)
+dijudico | 4 | transf: to decide by arms, settle by war
+dilabor | 1 | dissolve
+dilabor | 2 | disperse
+dilabor | 3 | pregn: to crumble, fall into decay (of buildings)
+dilabor | 4 | trop: to go to ruin, be squandered, e.g. male parta male dilabuntur, ill-gotten gains are ill lost
+dilabor | 5 | of time: to glide away, pass
+dilacero | 1 | dismember
+dilacero | 3 | trop: to tear apart, rend, destroy (a state, one's mind, etc.)
+dilanio | 1 | mangle
+dilargior | 1 | lavish
+dilatio | 1 | delay
+dilatio | 3 | the interval, the period of postponement
+dilato | 1 | dilate
+dilato | 3 | trop: to amplify, expand (a speech or argument)
+diligentia | 1 | diligence
+diligentia | 3 | in partic: economy, frugality (in household management)
+diligo | 1 | esteem
+diligo | 3 | transf: to value, prize (an inanimate thing, quality, or policy)
+diligo | 4 | as adj. (diligens): careful, attentive, diligent, accurate
+diligo | 5 | as adj. (diligens), of domestic affairs: frugal, thrifty, economical
+dilucesco | 1 | dawn
+dilucesco | 3 | trop: to become clear, come to light
+dilucidus | 1 | lucid
+dilucidus | 3 | lit., rare: bright, luminous (of a gem or light)
+diluo | 1 | dilute
+diluo | 2 | refute
+diluo | 3 | to wash away, rinse off
+diluo | 4 | to solve, explain (a difficulty or question)
+dilutus | 1 | diluted
+dilutus | 3 | transf, colloq: tipsy, mellow (of a drinker)
+dilutus | 4 | trop: clear, distinct, evident
+diluvies | 1 | flood
+diluvies | 3 | trop: a deluge, an overwhelming rush (of destruction or invasion)
+dimensio | 1 | measurement
+dimensio | 3 | transf: dimension, extent
+dimensio | 4 | trop: the metrical measure, quantity (of syllables or verses)
+dimetior | 1 | measure
+dimeto | 1 | demarcate
+dimicatio | 1 | combat
+dimicatio | 3 | transf: a struggle, contest (beyond the military sphere)
+dimicatio | 4 | dimicatio capitis (or vitae), a fight for one's life, a trial on a capital charge
+dimico | 1 | fight
+dimico | 3 | transf: to struggle, strive, contend (in a non-military sense)
+dimidio | 1 | halve
+dimidius | 1 | half
+dimidius | 3 | as noun (dimidium): the half, half of a quantity
+dimidius | 4 | prov: dimidium facti qui coepit habet, well begun is half done
+diminuo | 1 | shatter
+diminuo | 3 | to violate, corrupt, destroy by outrage (of texts or truths)
+dimissio | 1 | dismissal
+dimissio | 3 | a sending out, dispatch (in different directions)
+dimissio | 4 | medic: remission (of pain or fever)
+dimitto | 1 | dismiss
+dimitto | 2 | abandon
+dimitto | 3 | to disband, break up (an army, assembly, etc.)
+dimitto | 4 | to send out, dispatch (in different directions)
+dimoveo | 1 | part
+dimoveo | 3 | transf: to scatter, disperse, drive away (a crowd)
+dimoveo | 4 | trop: to remove, detach, entice away (from a habit or attachment)
+dinosco | 1 | distinguish
+dinumeratio | 1 | enumeration
+dinumeratio | 3 | rhet t.t.: enumeration as a rhetorical figure, listing points one by one
+dinumero | 1 | enumerate
+dinumero | 3 | mercantile t.t.: to count out, pay out (money)
+# skip: dio is a proper name (Dion of Syracuse, and others), not a common word
+directio | 1 | direction
+directio | 3 | concr: a straight line
+directio | 4 | eccl: righteousness, uprightness
+direptio | 1 | plunder
+direptio | 3 | a stealing, carrying off (of an object)
+diribeo | 1 | sort
+diribeo | 3 | transf: to distribute, allot
+dirigo | 1 | direct
+dirigo | 3 | to send in a straight line, steer (a ship or army) towards a place
+dirigo | 4 | trop: to guide, orient (something) according to a rule or towards a goal
+dirigo | 5 | as adj. (directus): straight, level
+dirigo | 6 | as adj. (directus), trop: straightforward, direct, plain
+dirimo | 1 | separate
+dirimo | 2 | thwart
+dirimo | 3 | trop: to interrupt, break off (combat, a discussion, or negotiations)
+dirimo | 4 | to postpone, delay (a decision or action)
+diripio | 1 | plunder
+diripio | 2 | scramble for
+diripio | 3 | to tear apart, rend (limb from limb)
+diripio | 4 | to snatch away, tear off
+diripio | 5 | trop: to distract, tear (the mind or feelings) in different directions
+diritas | 1 | cruelty
+diritas | 2 | calamity
+dirumpo | 1 | shatter
+dirumpo | 2 | sever
+dirumpo | 3 | pass, colloq: to burst (with envy, joy, or another strong emotion)
+diruo | 1 | demolish
+diruo | 3 | transf: to scatter, drive asunder (troops)
+diruo | 4 | milit: aere dirutus, deprived of one's pay
+dirus | 1 | dreadful
+dirus | 2 | ominous
+dirus | 3 | as noun (dirae): curses, imprecations; ill-boding portents
+dirus | 4 | as noun (Dirae): the Furies
+dis3 | 1 | apart
+dis3 | 3 | as a negating prefix (like English un-): not, un-
+dis3 | 4 | as an intensive prefix: exceedingly, utterly
+dis3 | 5 | as a prefix: between, among, through
+dis4 | 1 | rich
+discedo | 1 | depart
+discedo | 2 | divide
+discedo | 3 | milit: to march off, decamp
+discedo | 4 | milit, transf: to come off, emerge (victorious, defeated, or otherwise) from a battle or trial
+discedo | 5 | trop: to deviate, swerve, depart from (a standard or practice)
+discedo | 6 | polit: in alicujus sententiam discedere, to go over to someone's opinion (in a vote)
+disceptatio | 1 | debate
+disceptatio | 3 | esp, rare: a decision, judicial award, judgment
+disceptator | 1 | arbitrator
+discepto | 1 | debate
+discepto | 3 | jurid t.t.: to adjudicate, decide (a legal dispute)
+discepto | 4 | (of things) to be at stake, hang in the balance
+discerno | 1 | separate
+discerno | 2 | discern
+discerno | 3 | to determine, settle (a dispute or case)
+discerpo | 1 | mangle
+discerpo | 2 | revile
+discerpo | 3 | transf: to scatter, disperse, destroy
+discerpo | 4 | trop: to dissect, pick apart (an argument or subject)
+discessio | 1 | division
+discessio | 2 | separation
+discessio | 3 | eccl: schism
+discessio | 4 | rare: departure, a going away
+discessus2 | 1 | departure
+discessus2 | 2 | separation
+discessus2 | 3 | milit: a marching away, decamping
+discessus2 | 4 | Cic.: banishment, exile
+discidium | 1 | rift
+discidium | 2 | divorce
+discidium | 3 | lit, rare: a physical tearing asunder, separation
+discindo | 1 | rend
+discindo | 3 | trop: to sunder, break apart (a bond, argument, or discourse)
+discingo | 1 | ungird
+discingo | 3 | trop, rare: to neglect, loosen one's hold on (a friendship or alliance)
+discingo | 4 | as adj. (discinctus): dissolute, reckless, slovenly
+disciplina | 1 | instruction
+disciplina | 2 | custom
+disciplina | 3 | meton: learning, knowledge, a branch of science or a system of doctrine
+discipulus | 1 | pupil
+discipulus | 3 | a learner of a trade, an apprentice
+discipulus | 4 | eccl: a disciple of Christ
+discludo | 1 | separate
+disco | 1 | learn
+disco | 3 | late, rare: to teach (used loosely for docere)
+discolor | 1 | variegated
+discolor | 3 | transf: of various kinds, different, diverse
+discooperio | 1 | uncover
+discooperio | 3 | trop: to expose, disclose, reveal (sins or faults)
+discordia | 1 | discord
+discordia | 3 | transf: the subject of strife, the bone of contention
+discordia | 4 | personified (Discordia): the goddess of Discord, Eris
+discordo | 1 | disagree
+discordo | 3 | transf: to be inconsistent with, out of harmony with
+discors | 1 | discordant
+discors | 3 | transf: unlike, differing, inconsistent
+discors | 4 | poet: twin, double, distinct (of two things from one source)
+discrepo | 1 | differ
+discrepo | 3 | lit, rare: to sound differently, be out of tune
+discrepo | 4 | impers.: discrepat, there is disagreement, it is disputed or uncertain
+discretio | 1 | separation
+discretio | 2 | discernment
+discribo | 1 | apportion
+discrimen | 1 | distinction
+discrimen | 2 | crisis
+discrimen | 3 | lit: an interval, gap, dividing space
+discrimen | 4 | the turning point, the decisive moment (in a dispute)
+discrimino | 1 | divide
+discrimino | 3 | trop: to distinguish, differentiate
+discriptio | 1 | apportionment
+discrucio | 1 | torture
+discrucio | 3 | mid., mentally: to torment oneself, fret, agonize
+discumbo | 1 | recline
+discumbo | 3 | rarely: to lie down to sleep
+discurro | 1 | run about
+discurro | 3 | transf: to traverse, run through or over
+discurro | 4 | trop, post-class: to discourse on, speak at length about
+discurso | 1 | run about
+discurso | 3 | act, late: to traverse
+discursus2 | 1 | running about
+discursus2 | 3 | transf: a spreading, ramification (of roots or veins)
+discursus2 | 4 | late: a discourse, conversation
+discussio | 1 | discussion
+discussio | 3 | a revision, audit (of public accounts, late empire)
+discutio | 1 | shatter
+discutio | 2 | dispel
+discutio | 3 | to frustrate, bring to naught (a plan or undertaking)
+discutio | 4 | medic: to disperse, resolve (a swelling or morbid matter)
+disicio | 1 | scatter
+disicio | 2 | demolish
+disicio | 3 | milit: to rout, put to flight (an enemy)
+disicio | 4 | trop: to frustrate, thwart, wreck (a plan or peace)
+disjunctio | 1 | separation
+disjunctio | 3 | philos t.t.: a disjunctive proposition, an "either...or" statement
+disjunctio | 4 | rhet t.t.: a figure using a series of clauses, each with its own verb
+disjunctivus | 1 | disjunctive
+disjungo | 1 | separate
+disjungo | 3 | esp: to unyoke (draught animals); to wean (young animals)
+disjungo | 4 | trop: to estrange, alienate (a person from a friendship or alliance)
+disjungo | 5 | as adj. (disjunctus): remote, apart, different
+disjungo | 6 | as adj. (disjunctus), of discourse: disconnected, abrupt, disjointed
+dispalor | 1 | straggle
+dispalor | 3 | trop: to be scattered, dispersed (of a multitude)
+dispando | 1 | distend
+dispando | 3 | trop: (of speech) to amplify, expand
+dispar | 1 | unequal
+disparilis | 1 | dissimilar
+disparo | 1 | separate
+disparo | 3 | logic t.t.: as adj. (disparatum), a term opposed to another by simple negation, e.g. wise vs not-wise
+dispello | 1 | disperse
+dispello | 3 | trop: to dispel, drive away (fear, darkness, or care)
+dispendium | 1 | expense
+dispendium | 3 | trop: loss (of time, reputation, or discipline), e.g. dispendium morae, a loss of time
+dispensatio | 1 | management
+dispensatio | 3 | the office of a steward, administratorship
+dispensator | 1 | steward
+dispensator | 3 | of the imperial treasury: a cashier, treasurer
+dispenso | 1 | dispense
+dispenso | 2 | manage
+disperdo | 1 | ruin
+dispereo | 1 | perish
+dispereo | 3 | colloq: disperii!, I am undone!, it's all over with me!
+dispergo | 1 | scatter
+dispergo | 3 | trop: to scatter, distribute (topics or arguments) at random
+dispersio | 1 | dispersion
+dispersio | 3 | transf: destruction, ruin (of a city)
+dispersio | 4 | eccl: the diaspora, those who are scattered
+dispertio | 1 | distribute
+dispesco | 1 | divide
+dispesco | 3 | trop, rare: to sunder, break up (a marriage)
+dispicio | 1 | discern
+dispicio | 2 | consider
+dispicio | 3 | lit: to see with effort, make out (through darkness or fog)
+dispicio | 4 | transf: to investigate, examine
+displiceo | 1 | displease
+displiceo | 3 | sibi displicere, to be dissatisfied with oneself, feel out of sorts
+displodo | 1 | splay
+dispono | 1 | arrange
+dispono | 3 | milit: to draw up, array (troops, guards, or military engines)
+dispono | 4 | trop: to arrange, order (the parts of a speech or discourse)
+dispono | 5 | post-class: to settle, determine, ordain
+dispositio | 1 | arrangement
+dispositio | 3 | post-class: management, direction, ordering
+dispositio | 4 | legal, late: a testamentary disposition, the terms of a will
+dispunctio | 1 | audit
+dispunctio | 3 | trop: an investigation, examination, a testing
+dispungo | 1 | audit
+dispungo | 3 | trop: to review, go over, examine (one's life or conduct)
+disputatio | 1 | discussion
+disputatio | 3 | rare: a computation, calculation
+disputo | 1 | discuss
+disputo | 3 | orig., mercant: to reckon up, calculate (a sum)
+disputo | 4 | late: to preach, discourse (in a synagogue or assembly)
+dissaepio | 1 | partition
+dissaepio | 3 | transf: to tear apart, tear to pieces
+dissaepio | 4 | trop, rare: to wall off, separate (something) from what surrounds it
+disseco | 1 | dissect
+disseco | 3 | trop: dissecari cordibus, to be cut to the heart
+dissemino | 1 | disseminate
+dissensio | 1 | disagreement
+dissensio | 3 | of inanimate things: incompatibility, inconsistency
+dissentio | 1 | disagree
+dissentio | 3 | transf: to be unlike, differ, be inconsistent (of things)
+dissentio | 4 | rare: to protest, object
+dissereno | 1 | clear up
+dissereno | 3 | late, trop: to clear away (gloom); to cheer, brighten (someone's mood)
+dissero1 | 1 | sow
+dissero1 | 3 | to plant (something) at intervals, space out in planting
+dissero2 | 1 | discourse
+dissero2 | 3 | as adj. (disertus): eloquent, fluent, skilled in speaking
+dissero2 | 4 | as adj. (disertus), of speech: well-expressed, eloquent
+disserto | 1 | discuss
+dissideo | 1 | disagree
+dissideo | 3 | lit, poet, rare: to lie apart, be remote from
+dissideo | 4 | of things: to be inconsistent, differ, be at odds
+dissilio | 1 | burst
+dissilio | 3 | trop: to be dissolved, broken off (a friendship or bond)
+dissimilis | 1 | dissimilar
+dissimilitudo | 1 | dissimilarity
+dissimulatio | 1 | dissimulation
+dissimulatio | 3 | philos t.t.: Socratic irony, feigned ignorance
+dissimulatio | 4 | late: negligence, carelessness
+dissimulo | 1 | dissemble
+dissimulo | 3 | to leave unnoticed, disregard, neglect
+dissipatio | 1 | scattering
+dissipatio | 3 | pregn: destruction, annihilation
+dissipo | 1 | scatter
+dissipo | 2 | squander
+dissipo | 3 | milit: to rout, put to flight (an enemy)
+dissipo | 4 | to demolish, destroy (a building or structure)
+dissipo | 5 | trop: to spread abroad, circulate, disseminate (news or knowledge)
+dissipo | 6 | trop: to drive away, dispel (cares); to interrupt, disturb
+dissocio | 1 | estrange
+dissocio | 3 | lit, poet: to separate physically, sunder
+dissolutio | 1 | dissolution
+dissolutio | 2 | dissoluteness
+dissolutio | 3 | a reply, refutation (of a charge or argument)
+dissolutio | 4 | rhet t.t.: asyndeton, lack of connecting words
+dissolvo | 1 | dissolve
+dissolvo | 2 | discharge
+dissolvo | 3 | trop: to abolish, annul, put an end to (a friendship, alliance, or law)
+dissolvo | 4 | rhet/philos: to refute, answer (an argument or charge)
+dissolvo | 5 | to release, free, disengage (someone)
+dissolvo | 6 | as adj. (dissolutus): lax, negligent, careless; licentious, dissolute
+dissono | 1 | clash
+dissono | 3 | trop: to disagree, differ, be at variance
+dissonus | 1 | discordant
+dissonus | 3 | in gen: disagreeing, different, at odds (of languages or customs)
+dissuadeo | 1 | dissuade
+dissulto | 1 | burst
+dissuo | 1 | unstitch
+dissuo | 3 | trop: to loosen, dissolve (a friendship) gradually, by degrees
+distabesco | 1 | melt away
+distabesco | 3 | trop: to be consumed, wasted away (with guilt or distress)
+distantia | 1 | distance
+distantia | 2 | difference
+distendo | 1 | distend
+distendo | 3 | meton: to torture by racking, stretch on the rack
+distendo | 4 | trop: to distract, perplex, divide (the mind or attention)
+distermino | 1 | demarcate
+distermino | 3 | trop: to limit, regulate
+distinctio | 1 | distinction
+distinctio | 3 | rhet/gram t.t.: a mark of punctuation, a pause in speech
+distinctio | 4 | rare: an ornament, an adornment
+distineo | 1 | separate
+distineo | 2 | detain
+distineo | 3 | trop: to distract, perplex (the mind)
+distineo | 4 | to occupy, engage, keep busy (with a task)
+distinguo | 1 | distinguish
+distinguo | 2 | adorn
+distinguo | 3 | rhet/gram t.t.: to punctuate, mark the pauses (in a text)
+distinguo | 4 | as adj. (distinctus): distinct, separate
+distinguo | 5 | as adj. (distinctus): adorned, decorated, ornamented
+disto | 1 | be distant
+disto | 2 | differ
+distorqueo | 1 | distort
+distorqueo | 3 | meton: to torment, torture (physically)
+distorqueo | 4 | trop: to torment, distress (mentally)
+distorqueo | 5 | as adj. (distortus): misshapen, deformed, dwarfish
+distractio | 1 | separation
+distractio | 2 | discord
+distractio | 3 | mercant t.t.: a selling off piecemeal, retail sale
+distraho | 1 | separate
+distraho | 2 | distract
+distraho | 3 | mercant: to sell off, retail, sell in parcels
+distraho | 4 | trop: to estrange, alienate (a person from another)
+distribuo | 1 | distribute
+distributio | 1 | distribution
+distributio | 3 | rhet t.t.: the resolution of a statement into its several parts
+distringo | 1 | occupy
+distringo | 3 | as adj. (districtus): strict, severe
+distringo | 4 | as adj. (districtus): hesitating, vacillating, torn (in mind)
+disturbo | 1 | demolish
+disturbo | 2 | thwart
+disturbo | 3 | to throw into disorder, disturb (a crowd or assembly)
+dito | 1 | enrich
+diu | 1 | long
+diu | 3 | mostly ante-class: long since, a great while ago
+diu | 4 | rare, of place (Mela): a long way, far
+diurnus | 1 | daily
+diurnus | 2 | diurnal
+diurnus | 3 | as noun (diurnum): a day-book, journal
+diurnus | 4 | as noun (diurna, pl.): daily records, a gazette
+diurnus | 5 | as noun (diurnum): a daily ration, allowance
+diutinus | 1 | lasting
+diuturnitas | 1 | duration
+diuturnus | 1 | lasting
+divalis | 1 | divine
+divalis | 3 | of decrees: imperial
+divarico | 1 | straddle
+divello | 1 | tear apart
+divello | 2 | estrange
+divello | 3 | trop: to destroy, sunder (a bond or relationship)
+diverbero | 1 | cleave
+diverbero | 3 | transf, colloq: to cudgel soundly, thrash
+diversitas | 1 | diversity
+diversitas | 2 | contradiction
+diverto | 1 | different
+diverto | 2 | opposite
+diverto | 3 | rare, verb finit.: to lodge, stop, sojourn (of travellers)
+diverto | 4 | rare, verb finit.: (of a wife) to leave her husband, divorce
+diverto | 5 | as adj. (diversus): hostile, opposed, unfriendly
+diverto | 6 | as adj. (diversus): divided, hesitating, inconsistent
+dives | 1 | rich
+dives | 3 | transf: (of things) sumptuous, costly, splendid
+dives | 4 | poet: abundant, plentiful
+divexo | 1 | ravage
+divexo | 3 | trop: to vex, trouble
+dividia | 1 | discord
+dividia | 2 | worry
+divido | 1 | divide
+divido | 2 | distribute
+divido | 3 | polit t.t.: sententiam dividere, to divide the question, put parts of a motion to a separate vote
+divido | 4 | pregn: to break up, dissolve, destroy (a harmony or empire)
+divido | 5 | to separate, mark the boundary between (two regions), e.g. flumen ... dividit, the river separates...
+divido | 6 | trop: to distinguish, tell apart
+dividuus | 1 | divisible
+dividuus | 2 | divided
+dividuus | 3 | gram t.t.: dividuum nomen, a distributive noun, e.g. uterque, each of two
+divinatio | 1 | divination
+divinatio | 3 | jurid t.t.: a preliminary hearing to determine which accuser should prosecute
+divinitas | 1 | divinity
+divinitas | 3 | transf: the power of divination, prophetic ability
+divinitas | 4 | transf: excellence, superb quality (of a person's gifts)
+divinitus | 1 | divinely
+divinitus | 3 | transf: by inspiration, prophetically
+divinitus | 4 | transf: admirably, excellently
+divino | 1 | divine
+divinus | 1 | divine
+divinus | 2 | prophetic
+divinus | 3 | transf: godlike, superhuman, admirable, excellent
+divisio | 1 | division
+divisio | 3 | in partic: partition, distribution, allotment
+divisio | 4 | rhet/logic t.t.: a division of a subject into parts
+divisor | 1 | distributor
+divisor | 3 | in partic: an agent hired to bribe voters, by distributing money among them
+divisor | 4 | arithm t.t.: a divisor
+divitiae | 1 | riches
+divitiae | 3 | transf: rich or costly ornaments, splendid furnishings
+divitiae | 4 | trop, rare: richness, copiousness (of style or eloquence)
+divortium | 1 | divorce
+divortium | 2 | fork
+divortium | 3 | trop: a division, a parting of the ways (of opinions or schools of thought)
+divulgo | 1 | divulge
+divulgo | 3 | transf: to make common, cheapen, degrade through overexposure
+divus | 1 | divine
+divus | 2 | god
+divus | 3 | as noun (divus), esp.: a deified emperor
+divus | 4 | transf: godlike, of extraordinary excellence
+divus | 5 | as noun (divum): the sky; sub divo, under the open sky, outdoors
+do1 | 1 | give
+do1 | 2 | allow
+do1 | 3 | milit: nomina dare, to enlist, join up
+do1 | 4 | manus dare, to surrender, give oneself up
+do1 | 5 | verba dare alicui, to deceive, cheat someone
+do1 | 6 | fabulam dare, to put on a play, produce a drama
+do1 | 7 | alicui aliquid dare (crimini, laudi, vitio), to impute, ascribe (something to someone) as a fault or merit
+do1 | 8 | se dare (alicui), to devote oneself, give oneself over to
+do1 | 9 | datur, impers., it is permitted, allowed, granted
+do2 | 1 | put
+doceo | 1 | teach
+doceo | 3 | fabulam docere, to produce a play, lit. to teach it to the actors
+doceo | 4 | as adj. (doctus): learned, skilled, accomplished
+doceo | 5 | as adj. (doctus), in comedy: cunning, shrewd, sly
+docilis | 1 | docile
+docilis | 3 | transf: (of things) pliant, easily worked, receptive
+doctrina | 1 | instruction
+doctrina | 2 | learning
+doctrina | 3 | subj: a principle, a settled way of thinking instilled by training
+documentum | 1 | lesson
+documentum | 2 | proof
+# skip: dodona is a place name (a city in Epirus, site of an oracle of Jupiter), not a common word
+dodrans | 1 | three-quarters
+dodrans | 3 | as a measure of length: nine inches
+dodrans | 4 | as a measure of time: three quarters of an hour
+dolabra | 1 | pickaxe
+doleo | 1 | grieve
+doleo | 2 | ache
+dolium | 1 | large jar
+dolo1 | 1 | hew
+dolo1 | 3 | transf, colloq: to cudgel, drub, belabor
+dolo1 | 4 | trop: to shape, fashion, contrive, devise
+dolo1 | 5 | as noun (dolo, dolonis): a pike, sword-cane, hidden dagger
+dolo1 | 6 | as noun (dolo, dolonis), naut: the fore-topsail
+dolor | 1 | pain
+dolor | 2 | resentment
+dolor | 3 | meton: a grief, a cause of sorrow
+dolor | 4 | rhet t.t.: pathos, passionate expression
+dolosus | 1 | deceitful
+domesticus | 1 | domestic
+domesticus | 2 | personal
+domesticus | 3 | subst. (domestici): the members of a household; household slaves
+domesticus | 4 | opp. foreign: internal, native, home-grown (of resources or affairs)
+domicilium | 1 | dwelling
+domicilium | 3 | trop: the seat, home (of an abstract quality, e.g. liberty)
+domina | 1 | mistress
+domina | 2 | sweetheart
+domina | 3 | in partic: a lady of the imperial family
+domina | 4 | poet, as endearment: wife
+dominatio | 1 | tyranny
+dominatio | 3 | trop: dominance, control (e.g. of reason over passion)
+dominatio | 4 | eccl, pl.: Dominions, an order of angels
+dominatus | 1 | tyranny
+dominatus | 3 | transf: mastery, control (of the mind or desires)
+dominicus | 1 | master's
+dominicus | 3 | transf, imperial period: imperial
+dominicus | 4 | eccl: dominica dies, the Lord's Day, Sunday
+dominium | 1 | ownership
+dominium | 3 | rare: a feast, banquet
+dominium | 4 | eccl: lordship, rule
+dominor | 1 | rule
+dominor | 3 | transf: (of things) to prevail, hold sway, reign
+dominus | 1 | master
+dominus | 2 | Lord
+dominus | 3 | in partic: the host, master of a feast
+dominus | 4 | title of the Roman emperors (imperial period)
+dominus | 5 | poet, as endearment: my lord, my love (addressing a lover)
+dominus | 6 | respectful address: sir
+domitor | 1 | tamer
+domitor | 2 | conqueror
+domo | 1 | tame
+domo | 2 | conquer
+domus | 1 | home
+domus | 2 | family
+domus | 3 | domi, at home; domum, homewards; domo, from home (special adverbial forms)
+domus | 4 | meton: one's native country, homeland
+domus | 5 | philos: a philosophical school, sect
+donarium | 1 | treasury
+donarium | 2 | offering
+donarium | 3 | meton: a temple, sanctuary, altar
+donatio | 1 | donation
+donativum | 1 | largess
+donec | 1 | until
+donec | 3 | while, as long as (contemporaneous sense)
+dono | 1 | bestow
+dono | 2 | forgive
+donum | 1 | gift
+donum | 3 | in partic: a votive offering (to a deity)
+donum | 4 | dona suprema (or ultima), the last honours, funeral rites
+dormio | 1 | sleep
+dormio | 3 | pregn: to sleep the sleep of death, be dead
+dormio | 4 | trop: to be idle, inactive, careless, unconcerned
+dormito | 1 | doze
+dormito | 3 | poet transf: (of a lamp) to flicker low, be going out
+dormito | 4 | trop: to be sluggish, dull, slow to act
+dorsum | 1 | back
+dorsum | 3 | transf: a ridge, summit (of a hill or mountain range)
+dos | 1 | dowry
+dos | 2 | talent
+dossennus1 | 1 | soothsayer
+dossennus1 | 3 | transf, ironic: a fool, clown, jester
+dotalis | 1 | dotal
+doto1 | 1 | endow
+doto1 | 3 | transf: to enrich, endow (something) with a quality
+dracunculus | 1 | dragonet
+dracunculus | 3 | the plant tarragon
+dubitatio | 1 | doubt
+dubitatio | 3 | rhet t.t.: dubitatio, a figure feigning hesitation for rhetorical effect
+dubitatio | 4 | hesitancy, irresolution, delay (in acting)
+dubito | 1 | doubt
+dubito | 2 | hesitate
+dubito | 3 | meton: to reflect upon, ponder, deliberate
+dubius | 1 | doubtful
+dubius | 2 | precarious
+ducatus | 1 | leadership
+ducatus | 3 | eccl: guidance
+ducatus | 4 | transf: authority
+ducenarius | 1 | two-hundred
+ducenti | 1 | two hundred
+ducenti | 3 | transf: (used indefinitely) a great many, a large number
+duco | 1 | lead
+duco | 2 | consider
+duco | 3 | uxorem ducere, to marry, take a wife
+duco | 4 | milit: to lead, command (an army)
+duco | 5 | to derive, deduce, trace (one's origin) from something
+duco | 6 | with time: to protract, prolong; to spend, pass (time)
+duco | 7 | mercant: to calculate, reckon, compute
+duco | 8 | in a bad sense: to cheat, deceive
+ductim | 1 | by drawing
+ducto | 1 | lead
+ducto | 2 | deceive
+ductor | 1 | leader
+ductor | 3 | rare: one who draws out, an iron-worker who beats out metal
+ductus2 | 1 | conduct
+ductus2 | 2 | aqueduct
+ductus2 | 3 | milit: generalship, command
+ductus2 | 4 | trop, rhet: the structure of a discourse; a period
+dudum | 1 | recently
+dudum | 3 | opp. nunc: formerly, before
+dudum | 4 | quam dudum, how long since; haud dudum, just now
+dulcedo | 1 | sweetness
+dulcedo | 3 | trop: pleasantness, charm, delightfulness
+dulciarius | 1 | confectionery
+dulciarius | 3 | esp, subst.: a confectioner, pastry-cook
+dulcis | 1 | sweet
+dulcis | 2 | dear
+dulcis | 3 | subst. (dulcia): sweet cakes, sweetmeats
+dulcis | 4 | trop: agreeable, pleasant, charming (of life, words, or style)
+dulcitudo | 1 | sweetness
+dulcitudo | 3 | trop: pleasantness, charm, tenderness
+dum | 1 | while
+dum | 3 | as long as, provided that (restrictive/conditional sense)
+dum | 4 | until
+dumetum | 1 | thicket
+dumetum | 3 | trop: a tangle, a maze of confusion (in an argument)
+dumtaxat | 1 | only
+dumtaxat | 2 | at least
+duo | 1 | two
+duodecim | 1 | twelve
+duodeni | 1 | twelve each
+duovir | 1 | duumvir
+duovir | 3 | the chief magistrates of a municipality or colony (a board of two)
+duplex | 1 | double
+duplex | 2 | deceitful
+duplex | 3 | transf: (of things in pairs) both
+duplex | 4 | opp. single: thick, strong, stout
+duplex | 5 | trop: (of words) ambiguous, of double meaning
+duplicatio | 1 | doubling
+duplicatio | 3 | jurid t.t.: a rejoinder, turning an objection back on the opponent
+duplicatio | 4 | rhet t.t.: anadiplosis, the repetition of a word at the start of successive clauses
+duplico | 1 | double
+duplico | 3 | poet, meton: to bend double, bow (a person or limb)
+duplico | 4 | late: to split in two, tear apart
+duplus | 1 | double
+duplus | 3 | as noun (duplum): the double, twice the amount
+duplus | 4 | as noun (dupla): a double price, twice the payment
+durabilis | 1 | durable
+duracinus | 1 | hard-berried
+duramentum | 1 | hardening
+duramentum | 3 | transf: a means of toughening, a stimulus to endurance
+duramentum | 4 | trop: firmness, fortitude
+duresco | 1 | harden
+duresco | 3 | trop: to become fixed, set in one's ways, through habit
+duritia | 1 | hardness
+duritia | 2 | austerity
+duritia | 3 | trop: harshness, insensibility, callousness
+duritia | 4 | medic: induration, a hardening (of tissue)
+duro | 1 | harden
+duro | 2 | endure
+duro | 3 | trop: to inure, make hardy, through use or labour
+duro | 4 | in gen: to last, continue in existence, remain
+durus | 1 | hard
+durus | 2 | hardy
+durus | 3 | trop: rough, rude, uncultivated (of style or manners)
+durus | 4 | trop: harsh, stern, unfeeling, obstinate
+durus | 5 | of things: severe, toilsome, burdensome, adverse
+dux | 1 | leader
+dux | 2 | general
+dux | 3 | transf: a chief, head (of a herd, flock, or swarm)
