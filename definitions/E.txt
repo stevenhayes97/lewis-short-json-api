@@ -976,3 +976,26 @@ exiguus | 1 | scanty
 exiguus | 3 | as subst. (exiguum): a small amount, a trifle
 exiguus | 4 | as subst. (exiguus): a poor man
 exiguus | 5 | adv (exigue): sparingly, scantily, briefly
+exilis | 1 | thin
+exilis | 3 | transf, of style: dry, meagre, inadequate
+exilitas | 1 | thinness
+exilitas | 3 | transf, of style: dryness, meagreness
+eximius | 1 | exceptional
+eximius | 3 | rare: exempt, excepted (from a general rule)
+eximo | 1 | remove
+eximo | 2 | free
+eximo | 3 | of time: to consume, use up, waste
+eximo | 4 | to except, leave out of consideration
+eximo | 5 | jurid: to detain, keep from appearing in court
+exinanio | 1 | empty
+exinde | 1 | thereafter
+exinde | 3 | rare, of space: thence, from there
+exinde | 4 | in enumeration: then, next, furthermore
+exinde | 5 | late: from that time, ever since
+existimatio | 1 | judgment
+existimatio | 3 | transf: reputation, good name, character
+existimator | 1 | critic
+existimo | 1 | think
+existimo | 3 | rare: to value, estimate, appraise (worth)
+existimo | 4 | with de: to form a judgement about, have an opinion of
+exitiabilis | 1 | deadly
