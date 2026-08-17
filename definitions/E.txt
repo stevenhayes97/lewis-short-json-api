@@ -1357,3 +1357,26 @@ extra | 3 | with acc.: outside of, beyond (a place)
 extra | 4 | idiom (extra quam): except, unless (in conditional clauses)
 extra | 5 | with acc.: except, excepting (a person)
 extra | 6 | besides, in addition to
+extraho | 1 | draw out
+extraho | 2 | protract
+extraho | 3 | medic: to extract (a tooth)
+extraho | 4 | trop: to extricate, rescue (from danger)
+extraneus | 1 | external
+extraneus | 3 | as subst.: a stranger, an outsider
+extraneus | 4 | legal: unrelated by blood (of an heir)
+extraordinarius | 1 | extraordinary
+extrarius | 1 | external
+extrarius | 3 | as subst.: a stranger, an outsider (unrelated by family)
+extremitas | 1 | extremity
+extrico | 1 | disentangle
+extrico | 3 | transf: to clear (land for farming)
+extrico | 4 | trop: to unravel, clear up, resolve
+extrinsecus1 | 1 | externally
+extrinsecus1 | 3 | rare: irrelevantly, beside the point
+extrinsecus1 | 4 | late: moreover, besides
+extrudo | 1 | expel
+extrudo | 3 | trop: to crowd out, displace
+extubero | 1 | swell
+extubero | 3 | act: to raise up, cause to swell
+extundo | 1 | pound out
+extundo | 3 | trop: to extort, wring out (through persistent pressure)
