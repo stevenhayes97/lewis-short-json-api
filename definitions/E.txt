@@ -635,3 +635,31 @@ etsi | 3 | transf: and yet, however (restricting a previous statement)
 euripus | 1 | strait
 euripus | 3 | transf: a canal, a conduit, an aqueduct
 euripus | 4 | in partic: the trench around the Roman circus
+evacuo | 1 | empty
+evacuo | 3 | trop: to make void, cancel, annul (an obligation)
+evado | 1 | escape
+evado | 2 | turn out
+evado | 3 | act: to pass beyond, get over (an obstacle or distance)
+evado | 4 | pregn: to come true, be fulfilled (of a dream or prophecy)
+evado | 5 | to climb up, ascend
+evagor | 1 | roam
+evagor | 3 | milit: to manoeuvre, march to and fro
+evagor | 4 | trop: to digress, range widely (in speech)
+evalesco | 1 | strengthen
+evalesco | 3 | transf: to be able, have the power (to do something)
+evalesco | 4 | of a word: to prevail, come into common use
+evanesco | 1 | vanish
+evanesco | 3 | trop: to sink into oblivion, be forgotten
+evangelizo | 1 | evangelize
+evanidus | 1 | fading
+eveho | 1 | carry out
+eveho | 3 | reflex: to ride out, advance, sally forth
+eveho | 4 | trop: to elevate, raise up (in rank or position)
+eveho | 5 | trop: to spread abroad, disseminate
+evello | 1 | uproot
+evello | 3 | trop: to root out, eradicate, erase (a memory or fear)
+evenio | 1 | happen
+evenio | 3 | lit, rare: to come forth, spring up, grow
+evenio | 4 | to turn out, result, end up (in some way)
+evenio | 5 | as subst. (eventum): an occurrence, an event
+evenio | 6 | as subst. (eventus): the outcome, result, consequence
