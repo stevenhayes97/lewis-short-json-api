@@ -558,3 +558,32 @@ erogo | 1 | disburse
 erogo | 3 | eccl., trop: to expose to death, destroy
 erogo | 4 | rare: to prevail on by entreaty
 errabundus | 1 | wandering
+erraticus | 1 | roving
+erraticus | 3 | botany: wild, growing untended
+erro1 | 1 | wander
+erro1 | 2 | err
+erro1 | 3 | act, poet: to wander over, roam through (a place)
+erro1 | 4 | as subst. (erratum): a mistake, an error
+erro2 | 1 | vagabond
+erro2 | 3 | esp: a runaway slave
+error | 1 | wandering
+error | 3 | trop: uncertainty, wavering, indecision
+error | 4 | trop: a mistake, a delusion, a misconception
+error | 5 | esp: a solecism, an error in language
+erubesco | 1 | blush
+erubesco | 3 | act: to feel shame at, be ashamed of, respect (something)
+eruca | 1 | caterpillar
+eruca | 3 | botany: rocket (a pungent cole-wort, Brassica eruca)
+eructo | 1 | belch
+eructo | 3 | trop: to blurt out, blab (esp. while drunk)
+eructo | 4 | gen: to emit, exhale, cast forth
+erudio | 1 | educate
+erudio | 3 | transf: to train, cultivate, develop (a skill or an art)
+erudio | 4 | p. a. (eruditus): learned, cultivated, refined
+eruditio | 1 | erudition
+eruditio | 3 | rare: instruction, teaching (the act itself)
+erumpo | 1 | burst forth
+erumpo | 3 | milit: to break out, sally forth (from a besieged position)
+erumpo | 4 | trop: to vent, unleash (anger or emotion) on someone
+erumpo | 5 | of plants: to sprout, shoot up
+erumpo | 6 | trop: to come to light, be disclosed
