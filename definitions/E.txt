@@ -686,3 +686,25 @@ evidens | 1 | evident
 evidentia | 1 | clarity
 evidentia | 3 | rhet: vividness, graphic clarity (a quality of style)
 evidentia | 4 | late: a proof, evidence
+evigilo | 1 | wake
+evigilo | 3 | trop: to be vigilant, watchful (in effort or care)
+evigilo | 4 | transf: to compose carefully, work out through long effort
+evilesco | 1 | degenerate
+evincio | 1 | bind
+evinco | 1 | conquer
+evinco | 3 | transf: to overcome, prevail upon (with emotion, tears, or entreaty)
+evinco | 4 | to carry one's point, succeed (in getting one's way)
+evinco | 5 | jurid: to recover property by judicial decision
+evinco | 6 | transf: to prove, demonstrate
+eviro | 1 | emasculate
+eviro | 3 | transf: to weaken, enfeeble, drain of strength
+eviscero | 1 | disembowel
+eviscero | 3 | gen: to tear to pieces, mangle
+eviscero | 4 | trop: to squander, exhaust, drain completely
+evito1 | 1 | avoid
+evito2 | 1 | kill
+evocatio | 1 | summons
+evocatio | 3 | milit: a call-up, a summoning of soldiers (in an emergency)
+evoco | 1 | summon
+evoco | 3 | relig: to call a deity out of a besieged city (a Roman ritual, evocatio)
+evoco | 4 | trop: to call forth, elicit, evoke (a feeling or quality)
