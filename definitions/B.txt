@@ -162,6 +162,7 @@ bellus | 4 | of manner, polite and agreeable: homo bellus, a pleasant fellow
 bellus | 5 | of things and places, nice, fine, first-rate: vinum bellissimum, excellent wine
 bellus | 6 | commonest in Plautus, Catullus and Cicero's letters rather than in formal prose
 bellus | 7 | as an adverb belle, nicely or neatly: belle negare, to refuse politely; belle se habere, to be in good health
+# review: belua L&S explicitly contrasts belua (large or fierce beast) with the broader bestia; plain "beast" erases that distinction
 belua | 1 | beast
 belua | 3 | a large or fierce animal, an elephant, lion, boar or whale, against the smaller bestia
 belua | 4 | on its own very often the elephant: belua Inda, the beast of India
