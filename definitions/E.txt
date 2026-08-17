@@ -951,3 +951,28 @@ exhaurio | 1 | drain
 exhaurio | 2 | exhaust
 exhaurio | 3 | trop: to take away, remove (grief, blame)
 exhaurio | 4 | trop: to bring to an end, use up completely
+exheredo | 1 | disinherit
+exheres | 1 | disinherited
+exhibeo | 1 | present
+exhibeo | 3 | transf: to display, show, exhibit
+exhibeo | 4 | jurid, late: to maintain, support (a dependent)
+exhibeo | 5 | to cause, occasion, produce (an effect)
+exhilaro | 1 | cheer
+exhilaro | 3 | transf: to refresh, enliven, brighten (of plants or complexion)
+exhorresco | 1 | shudder
+exhorresco | 3 | act: to dread, shudder at, be terrified of (something)
+exhortatio | 1 | exhortation
+exhortor | 1 | exhort
+exhortor | 3 | transf: to stimulate, encourage, promote (a quality or virtue)
+exigo | 1 | expel
+exigo | 2 | demand
+exigo | 3 | of time: to spend, pass, complete (one's life)
+exigo | 4 | to finish, complete, bring to an end (a work)
+exigo | 5 | to examine, weigh, measure (against a standard)
+exigo | 6 | to determine, ascertain, find out
+exigo | 7 | p. a. (exactus): precise, accurate, exact
+exiguitas | 1 | scantiness
+exiguus | 1 | scanty
+exiguus | 3 | as subst. (exiguum): a small amount, a trifle
+exiguus | 4 | as subst. (exiguus): a poor man
+exiguus | 5 | adv (exigue): sparingly, scantily, briefly
