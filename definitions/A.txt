@@ -423,6 +423,7 @@ accuso | 2 | blame
 accuso | 3 | to blame or reproach someone, to call them to account
 accuso | 4 | to prosecute someone in court, with the genitive of the charge: accusare aliquem ambitus, to prosecute for bribery
 accuso | 5 | to complain of a thing, to find fault with it
+# review: acer2 'keen' just restates 'sharp' in English; the mental/acute sense that might justify a second gloss is already covered separately at rank 6
 acer2 | 1 | sharp
 acer2 | 2 | keen
 acer2 | 3 | of edges and points, sharp and cutting
@@ -486,6 +487,7 @@ acquiesco | 2 | acquiesce
 acquiesco | 3 | to come to rest physically, to settle down, to sleep
 acquiesco | 4 | to find peace or comfort in something, to take pleasure in it
 acquiesco | 5 | to be satisfied with something, to assent and let it stand
+# review: acquiro 'gain' just restates 'acquire'; the entry never marks off a genuinely distinct second sense
 acquiro | 1 | acquire
 acquiro | 2 | gain
 acquiro | 3 | to get something in addition, to add it to what one has (with ad or the dative)
@@ -1624,6 +1626,7 @@ ah | 5 | of indignation or reproach: ah stulte, you fool
 ah | 6 | also of warning, of comfort, or of amusement, according to the tone
 ai1 | 1 | alas
 ai1 | 3 | a cry of grief taken from the Greek, ah, alas
+# review: aio 'affirm' just restates 'say'; the real distinct sense (say yes, opposite of nego) is already given fully at rank 3
 aio | 1 | say
 aio | 2 | affirm
 aio | 3 | to say yes, to affirm, the opposite of nego: vel ai vel nega, either say yes or say no
@@ -1815,6 +1818,7 @@ aliubi | 4 | aliubi ... aliubi, now here, now there
 aliunde | 1 | from elsewhere
 aliunde | 3 | from another place, person, or thing
 aliunde | 4 | aliunde ... aliunde, from one source ... from another
+# review: alius2 'another' doesn't earn its slot over 'other'; the real distinguishing nuance (one of many, vs. alter's one of two) only appears at rank 3
 alius2 | 1 | other
 alius2 | 2 | another
 alius2 | 3 | another out of many, where alter is the other of two
@@ -2363,6 +2367,7 @@ angulus | 3 | in mathematics, an angle: angulus acutus, an acute angle
 angulus | 4 | the corner of an object or a place: extremus angulus, the far corner
 angulus | 5 | an out-of-the-way spot, a nook: in angulum abire, to retire into a corner
 angulus | 6 | a bay or inlet of the sea
+# review: angustiae 'straits' just restates 'narrows' (both the same literal geographic sense); the real second sense is the figurative want/difficulty first given at rank 4
 angustiae | 1 | narrows
 angustiae | 2 | straits
 angustiae | 3 | a narrow place, a mountain pass or a strait of sea: Corinthus posita in angustiis, Corinth set in the narrows of Greece
@@ -3341,6 +3346,7 @@ arto | 1 | compress
 arto | 3 | to press things close together: libros artare, to pack the books tight
 arto | 4 | figuratively, to limit or cut short: tempus artare, to shrink the time allowed
 arto | 5 | artatus as an adjective, squeezed into a small compass, and of time, short
+# review: artus1 'tight' just restates 'narrow' (both the same physical sense); the real second sense is the figurative strict/severe, first given at rank 4
 artus1 | 1 | narrow
 artus1 | 2 | tight
 artus1 | 3 | close or confined, of space: exire regionibus artis, to come out of cramped quarters
@@ -3687,6 +3693,7 @@ asto | 6 | figuratively, of what is in store: certa finis vitae mortalibus astat
 astrepo | 1 | applaud
 astrepo | 3 | to make a noise at or towards something: scopuli astrepunt, the rocks roar back
 astrepo | 4 | to shout approval at someone (with the dative): astrepebat vulgus, the crowd roared him on
+# review: astringo 'bind' just restates 'tighten' (both the same literal sense); the real second sense is the figurative put-under-obligation, first given at rank 4
 astringo | 1 | tighten
 astringo | 2 | bind
 astringo | 3 | to draw or tie something tight: ad columnam astringere, to lash a man to a pillar
