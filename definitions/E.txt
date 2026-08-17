@@ -1063,3 +1063,30 @@ expeditio | 3 | rhet: a rhetorical figure (elimination of alternatives)
 expeditio | 4 | architect: a preparation, an arrangement (of a building)
 expello | 1 | expel
 expello | 3 | trop: to banish, remove, drive away (a vice or fear)
+expendo | 1 | pay out
+expendo | 2 | ponder
+expendo | 3 | to suffer, undergo (a penalty or punishment)
+expendo | 4 | as subst. (expensum): a payment, an expenditure
+expergefacio | 1 | awaken
+expergefacio | 3 | transf: to stir up, arouse, excite
+expergiscor | 1 | awaken
+expergiscor | 3 | transf: to bestir oneself, rouse to action
+expergo | 1 | rouse
+expergo | 3 | transf: to stir, excite (the mind or spirits)
+experientia | 1 | trial
+experientia | 3 | transf: experience, practical knowledge (gained through trial)
+experimentum | 1 | experiment
+experimentum | 3 | experience, practical knowledge
+experior | 1 | try
+experior | 2 | experience
+experior | 3 | to contend with, measure strength against
+experior | 4 | jurid: to go to law, bring a lawsuit
+experior | 5 | p. a. (experiens): enterprising, active, industrious
+experior | 6 | p. a. (expertus): tried, tested, proven
+expers | 1 | devoid
+expers | 3 | rare: having no share in, not privy to
+expetesso | 1 | crave
+expeto | 1 | desire
+expeto | 3 | to reach, attain to (a goal)
+expeto | 4 | intr, rare: to fall upon, befall (a person)
+expeto | 5 | absol, rare: to happen, occur, turn out
