@@ -999,3 +999,24 @@ existimo | 1 | think
 existimo | 3 | rare: to value, estimate, appraise (worth)
 existimo | 4 | with de: to form a judgement about, have an opinion of
 exitiabilis | 1 | deadly
+exitialis | 1 | deadly
+exitiosus | 1 | pernicious
+exitium | 1 | destruction
+exitium | 3 | ante-class, rare: an exit, a going out
+exitus2 | 1 | departure
+exitus2 | 3 | transf: an outlet, an exit, a passage
+exitus2 | 4 | trop: an end, a conclusion, a close
+exitus2 | 5 | in partic: death, the end of life
+exitus2 | 6 | trop: an outcome, a result, an issue
+exlex | 1 | lawless
+exolesco | 1 | mature
+exolesco | 3 | transf: to become obsolete, fall out of use, fade away
+exolesco | 4 | p. a. (exoletus), pejor: a male prostitute (of ripe age)
+exonero | 1 | unload
+exonero | 3 | trop: to relieve, free (from worry or duty)
+exopto | 1 | crave
+exopto | 3 | p. a. (exoptatus): greatly longed for, welcome
+exorabilis | 1 | persuadable
+exorabilis | 3 | act, rare: persuasive, moving (of speech)
+exorbito | 1 | deviate
+exorbito | 3 | act, rare: to turn aside, divert (the mind)
