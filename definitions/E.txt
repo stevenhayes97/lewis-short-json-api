@@ -1043,3 +1043,23 @@ exosculor | 3 | trop: to praise greatly, admire, extol
 exossis | 1 | boneless
 exossis | 3 | transf: supple, limber, pliant
 exossis | 4 | transf, of style: loose, slack, negligent
+exosso | 1 | debone
+exosus | 1 | detesting
+exosus | 3 | pass, post-class: hateful, odious, loathed
+expallesco | 1 | pale
+expalpo | 1 | coax
+expando | 1 | spread out
+expando | 3 | trop: to unfold, explain, lay open
+expavesco | 1 | dread
+expavesco | 3 | absol: to be terrified, panic
+expectoro | 1 | banish
+expedio | 1 | free
+expedio | 2 | explain
+expedio | 3 | to arrange, put in order, set right (affairs)
+expedio | 4 | impers (expedit): it is expedient, advantageous, useful
+expedio | 5 | p. a. (expeditus): unencumbered, without baggage, ready for action
+expeditio | 1 | expedition
+expeditio | 3 | rhet: a rhetorical figure (elimination of alternatives)
+expeditio | 4 | architect: a preparation, an arrangement (of a building)
+expello | 1 | expel
+expello | 3 | trop: to banish, remove, drive away (a vice or fear)
