@@ -56,3 +56,38 @@ edisco | 1 | memorize
 edisco | 3 | in gen: to learn thoroughly, study
 edissero | 1 | expound
 edissero | 3 | to set forth in detail, explain fully, relate
+edisserto | 1 | expound
+edisserto | 3 | to set forth in detail, explain fully, relate
+editio | 1 | publication
+editio | 3 | concr: an edition (of a text)
+editio | 4 | jurid: a declaration, statement (of the form of an action)
+editio | 5 | an exhibition, giving (of public games)
+editio | 6 | late: a birth, bringing forth
+edo1 | 1 | eat
+edo1 | 3 | transf: to squander, dissipate (property)
+edo1 | 4 | poet: to consume, destroy, eat away (of decay, flame, or disease)
+edo1 | 5 | trop: to corrode, prey upon, consume (the mind)
+edo2 | 1 | give forth
+edo2 | 2 | publish
+edo2 | 3 | to give birth to, bring forth (young)
+edo2 | 4 | to utter, proclaim, declare (an oracle's response, a decree)
+edo2 | 5 | to produce, cause, bring about
+edo2 | 6 | p. a. (editus): elevated, high, lofty (of places)
+edoceo | 1 | instruct
+edoceo | 3 | to teach fully, explain in detail (with acc. of person and thing)
+edoceo | 4 | transf: to inform clearly, make evident (of circumstances or facts)
+edolo | 1 | hew out
+edolo | 3 | trop: to work out, finish, complete (a piece of writing)
+edomo | 1 | subdue
+edomo | 3 | transf: to soften, melt, break in (metal, soil, or wild nature)
+edormio | 1 | sleep off
+edormio | 3 | poet: to sleep through (an event, a performance)
+educatio | 1 | upbringing
+educatio | 3 | transf: the rearing, breeding (of animals or plants)
+educo1 | 1 | lead out
+educo1 | 3 | pub. law: to bring, summon before a court
+educo1 | 4 | milit: to lead out, march out (troops)
+educo1 | 5 | naut: to bring a ship out of harbour, put to sea
+educo1 | 6 | of a child: to bring up, rear
+educo1 | 7 | since Aug: to raise up, erect, build
+educo1 | 8 | of time: to pass, spend
