@@ -769,3 +769,27 @@ examino | 1 | weigh
 examino | 3 | trop: to consider, ponder, scrutinize, test
 examino | 4 | rare: to swarm (of bees)
 examussim | 1 | exactly
+exanclo | 1 | drain
+exanclo | 3 | trop: to endure, suffer through (hardship)
+exanimatio | 1 | suffocation
+exanimatio | 3 | trop: terror, fright, panic
+exanimis | 1 | lifeless
+exanimis | 3 | transf, rare: terrified, half dead with fear
+exanimo | 1 | exhaust
+exanimo | 2 | kill
+exanimo | 3 | trop: to terrify, alarm greatly, unnerve
+exardesco | 1 | blaze up
+exardesco | 3 | trop: to be inflamed, break out (of anger, passion, or conflict)
+exaresco | 1 | dry up
+exaresco | 3 | trop: to wither, fade, dry up (of feeling or fortune)
+exarmo | 1 | disarm
+exarmo | 3 | transf: to unrig, dismantle (a ship)
+exarmo | 4 | trop: to win over, disarm (through tears or charm)
+exaro | 1 | plough
+exaro | 3 | to produce, raise (a crop) by tillage
+exaro | 4 | to write, jot down (a letter, on tablets)
+exaspero | 1 | roughen
+exaspero | 3 | trop: to irritate, provoke, exasperate
+exauctoro | 1 | discharge
+exauctoro | 3 | pejor: to cashier, dismiss in disgrace (for misconduct)
+exauctoro | 4 | trop: obsolete, discarded (of words no longer in use)
