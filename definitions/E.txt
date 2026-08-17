@@ -296,3 +296,28 @@ elinguis | 4 | pregn: inarticulate, lacking eloquence
 eliquo | 1 | strain
 eliquo | 3 | trop: to sift, examine thoroughly
 eliquo | 4 | trop: to drawl, recite without energy
+elixus | 1 | boiled
+elixus | 3 | transf: soaked, drenched, wet through
+elocutio | 1 | utterance
+elocutio | 3 | rhet: style, delivery (of a speech)
+elogium | 1 | saying
+elogium | 3 | an epitaph, a tombstone inscription
+elogium | 4 | legal: a clause in a will (esp. one disinheriting an heir)
+elogium | 5 | legal: a judicial record (of a criminal charge or sentence)
+elongo | 1 | remove
+elongo | 3 | to prolong, protract (time)
+elongo | 4 | neutr: to withdraw, depart
+eloquium | 1 | eloquence
+eloquium | 3 | late: a declaration, a saying, an utterance
+eloquor | 1 | declare
+eloquor | 3 | absol: to speak eloquently, in an oratorical style
+eloquor | 4 | p. a. (eloquens): eloquent, fluent
+eluceo | 1 | shine out
+eluceo | 3 | trop: to show itself, be evident, be apparent (of talent or character)
+eluctor | 1 | struggle out
+eluctor | 3 | act: to overcome, surmount (a difficulty)
+eludo | 1 | elude
+eludo | 2 | mock
+eludo | 3 | to deceive, cheat, frustrate
+eludo | 4 | gladiatorial: to parry, dodge (a blow)
+elugeo | 1 | mourn
