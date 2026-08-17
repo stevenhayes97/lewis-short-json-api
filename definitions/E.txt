@@ -395,3 +395,25 @@ emptio | 1 | purchase
 emptio | 3 | transf: a thing purchased, an acquisition
 emptio | 4 | legal: a bill of sale, a deed of purchase
 emptor | 1 | buyer
+emundo | 1 | cleanse
+emundo | 3 | eccl: to purify from sin
+emungo | 1 | wipe
+emungo | 3 | idiom (naris emunctae): keen, discerning, of nice judgement
+emungo | 4 | comic: to cheat, fleece (someone of money)
+emunio | 1 | fortify
+emunio | 3 | transf: to strengthen, make secure, reinforce
+emunio | 4 | transf: to clear, make passable (a road, a forest)
+en | 1 | behold
+en | 3 | with an imperative, as encouragement: come, here
+enarratio | 1 | exposition
+enarratio | 3 | esp: the scanning of a verse (in metre)
+enarro | 1 | expound
+enascor | 1 | sprout
+enato | 1 | swim away
+enato | 3 | trop: to extricate oneself, get off, escape (from a difficulty)
+enavigo | 1 | sail away
+enavigo | 3 | act: to sail across, traverse by sea
+enavigo | 4 | trop: to escape, get clear (of a difficulty)
+eneco | 1 | kill
+eneco | 3 | transf: to exhaust utterly, wear out, wear down
+eneco | 4 | colloq: to torment, plague, pester to death
