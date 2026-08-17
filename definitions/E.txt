@@ -266,3 +266,33 @@ elementum | 3 | plur: the alphabet, the letters
 elementum | 4 | plur: the rudiments, first principles (of an art or subject)
 elementum | 5 | meton, plur: beginners, elementary students
 elementum | 6 | the beginnings, origins (of anything)
+elephantus | 1 | elephant
+elephantus | 3 | transf: ivory
+elephantus | 4 | transf: elephantiasis (a disease)
+elephantus | 5 | transf: a kind of sea-fish
+elevatio | 1 | lifting
+elevatio | 3 | rhet: disparagement, belittling (a form of irony)
+elevatio | 4 | gram: the raised stress (of the voice), the arsis
+elevo | 1 | lift up
+elevo | 3 | trop: to lighten, ease, alleviate (grief or worry)
+elevo | 4 | trop, esp: to make light of, disparage, belittle
+elicio | 1 | draw out
+elicio | 3 | relig: to conjure up, call down (a god or spirit)
+elicio | 4 | trop: to evoke, elicit, provoke (a response or feeling)
+elido | 1 | force out
+elido | 2 | shatter
+elido | 3 | trop: to destroy, crush, break down (courage, an agreement)
+eligo | 1 | choose
+eligo | 3 | p. a. (electus): select, choice, excellent
+eligo | 4 | eccl: chosen by God, elect (destined for salvation)
+elimino | 1 | expel
+elimino | 3 | trop: to blab, let slip (a secret)
+elimo | 1 | polish
+elimo | 3 | to perfect, refine, finish (a piece of writing)
+elimo | 4 | to lessen, diminish (strength)
+elinguis | 1 | tongueless
+elinguis | 3 | transf: speechless, mute
+elinguis | 4 | pregn: inarticulate, lacking eloquence
+eliquo | 1 | strain
+eliquo | 3 | trop: to sift, examine thoroughly
+eliquo | 4 | trop: to drawl, recite without energy
