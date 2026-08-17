@@ -476,3 +476,26 @@ eo2 | 6 | besides, in addition to that
 eodem | 1 | to the same place
 eodem | 3 | of place where (rare): in the same place
 eodem | 4 | transf: to the same point, purpose, or person
+epistularis | 1 | epistolary
+epistularis | 3 | as subst. (epistulares): state secretaries, letter-officials
+epoto | 1 | drink up
+epularis | 1 | convivial
+epulo1 | 1 | feaster
+epulo1 | 3 | relig: an Epulo, a member of the priestly college in charge of sacred banquets
+epulor | 1 | feast
+epulor | 3 | act: to eat, feast upon, devour
+epulum | 1 | banquet
+epulum | 3 | trop: a feast, delight (for the eyes or mind)
+equa | 1 | mare
+eques | 1 | horseman
+eques | 2 | knight
+eques | 3 | milit: a cavalryman, trooper (opp. foot-soldier)
+eques | 4 | collect: cavalry, horse-soldiers
+eques | 5 | the equestrian order (the Roman social class between senators and plebs)
+equester | 1 | equestrian
+equester | 3 | milit: of cavalry, cavalry- (proelium equestre, a cavalry battle)
+equester | 4 | of the equestrian order, of knightly rank
+equester | 5 | as subst. (equestria): the knights' seats in the theatre
+equidem | 1 | indeed
+equidem | 3 | concessive: certainly, to be sure, by all means
+equidem | 4 | with pregn. ref. to speaker: for my part, as far as I'm concerned
