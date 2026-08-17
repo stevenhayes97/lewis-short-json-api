@@ -1309,3 +1309,29 @@ exsurdo | 3 | transf: to stun, overwhelm (with noise)
 exsurdo | 4 | of taste: to dull, blunt
 exsurgo | 1 | rise
 exsurgo | 3 | trop: to recover, regain strength (of a cause or a state)
+exsuscito | 1 | awaken
+exsuscito | 3 | transf: to kindle (fire)
+exsuscito | 4 | trop: to stir up, rouse, excite (feelings)
+exta | 1 | entrails
+exta | 3 | esp: the vital organs of a sacrificial victim (examined for omens)
+extabesco | 1 | waste away
+extabesco | 3 | trop: to fade away, become obsolete (of ideas or beliefs)
+extemplo | 1 | immediately
+extemporalis | 1 | extempore
+extendo | 1 | stretch
+extendo | 3 | of time: to prolong, extend, spend (a period)
+extendo | 4 | p. a. (extentus): extended, wide, spread out
+extensio | 1 | extension
+extensio | 3 | medic: a swelling, a tumour
+extensio | 4 | trop: a strain (of the mind), a fit
+extenuo | 1 | thin
+extenuo | 3 | medic: to alleviate, reduce (a disease or symptom)
+extenuo | 4 | trop: to diminish, lessen, downplay (an achievement)
+exter | 1 | foreign
+exter | 3 | comp. (exterior): outer, exterior
+exter | 4 | sup. (extremus): outermost, last, final
+exter | 5 | sup. (extremus), trop: the utmost, greatest, highest degree
+exter | 6 | sup. (extremus), pejor: the lowest, meanest, most wretched
+exter | 7 | sup. (extimus): the outermost, farthest, most remote
+extergeo | 1 | wipe
+extergeo | 3 | transf: to strip clean, plunder entirely
