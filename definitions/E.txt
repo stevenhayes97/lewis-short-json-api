@@ -1380,3 +1380,27 @@ extubero | 1 | swell
 extubero | 3 | act: to raise up, cause to swell
 extundo | 1 | pound out
 extundo | 3 | trop: to extort, wring out (through persistent pressure)
+exturbo | 1 | expel
+exturbo | 3 | esp: to divorce, put away (a wife)
+exturbo | 4 | trop: to banish, drive out (grief or hope)
+exubero | 1 | abound
+exubero | 3 | act, rare: to make abundant, fill to overflowing
+exubero | 4 | p. a. (exuberans): superfluous, excessive
+exulceratio | 1 | soreness
+exulceratio | 3 | trop: exasperation, aggravation (of grief)
+exulcero | 1 | inflame
+exulcero | 3 | trop: to exasperate, aggravate, worsen
+exululo | 1 | howl
+exululo | 3 | act, rare: to invoke with howling cries
+exundo | 1 | overflow
+exundo | 3 | transf: to be washed ashore, cast up (by waves)
+exundo | 4 | trop: to pour forth abundantly, gush out
+exuo | 1 | strip off
+exuo | 2 | shed
+exuo | 3 | trop: to cast off, discard, divest oneself of (a quality)
+exuo | 4 | transf: to free, rid (of vices)
+exuro | 1 | burn up
+exuro | 3 | transf: to dry up, parch (land or crops)
+exuro | 4 | trop: to inflame, kindle (passion)
+exuviae | 1 | spoils
+exuviae | 3 | gen: cast-off clothing, gear, equipment (stripped from the body)
