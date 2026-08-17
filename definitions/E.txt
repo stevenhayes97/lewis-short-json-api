@@ -613,3 +613,25 @@ essedarius | 1 | chariot-fighter
 essedarius | 3 | of a chariot: relating to a war-chariot
 essedarius | 4 | in the circus: a chariot-gladiator
 essentia | 1 | essence
+esurio1 | 1 | hunger
+esurio1 | 3 | trop: to crave, hunger for (riches)
+et | 1 | and
+et | 3 | after aeque, idem, par, etc.: as, than
+et | 4 | et ... et: both ... and
+etenim | 1 | for
+etiam | 1 | also
+etiam | 2 | still
+etiam | 3 | as affirmative: yes, certainly, granted
+etiam | 4 | to add emphasis: even, nay
+etiam | 5 | idiom (etiam atque etiam): again and again, repeatedly
+etiamdum | 1 | still
+etiamnum | 1 | still
+etiamnum | 3 | of past time: till then, up to that point
+etiamnum | 4 | post-Aug: also, besides, moreover
+etiamsi | 1 | although
+etiamtum | 1 | still
+etsi | 1 | although
+etsi | 3 | transf: and yet, however (restricting a previous statement)
+euripus | 1 | strait
+euripus | 3 | transf: a canal, a conduit, an aqueduct
+euripus | 4 | in partic: the trench around the Roman circus
