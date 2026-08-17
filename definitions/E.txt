@@ -1286,3 +1286,26 @@ exstruo | 1 | heap up
 exstruo | 2 | build
 exstruo | 3 | trop: to exaggerate, magnify (a charge)
 exstruo | 4 | trop: to build up, cultivate (virtue or character)
+exsudo | 1 | exude
+exsudo | 3 | trop: to toil through, achieve through hard effort
+exsufflo | 1 | blow away
+exsufflo | 3 | eccl: to blow upon, exorcise (as a charm against evil)
+exsugo | 1 | suck out
+exsul | 1 | exile
+exsul | 3 | transf, poet: deprived of, cut off from (something)
+exsulo | 1 | exile
+exsulo | 3 | act, late: to banish, exile (someone)
+exsultatio | 1 | leaping
+exsultatio | 3 | trop: exultation, excessive rejoicing
+exsulto | 1 | frolic
+exsulto | 2 | exult
+exsulto | 3 | trop: to run riot, revel, boast
+exsulto | 4 | p. a., of style: diffuse, prolix, unrestrained
+exsupero | 1 | surpass
+exsupero | 3 | to overpower, overwhelm (a difficulty or opponent)
+exsupero | 4 | lit: to rise above, tower over, surmount
+exsurdo | 1 | deafen
+exsurdo | 3 | transf: to stun, overwhelm (with noise)
+exsurdo | 4 | of taste: to dull, blunt
+exsurgo | 1 | rise
+exsurgo | 3 | trop: to recover, regain strength (of a cause or a state)
