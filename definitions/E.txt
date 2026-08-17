@@ -441,3 +441,38 @@ enodo | 1 | unknot
 enodo | 3 | trop, of speech: to explain, elucidate, make plain
 enormis | 1 | huge
 enormis | 3 | irregular, unusual, out of the ordinary
+enoto | 1 | note down
+ensis | 1 | sword
+ensis | 3 | meton, poet: war, slaughter
+ensis | 4 | meton: royal power, sovereignty
+ensis | 5 | astron: the constellation Orion
+enucleo | 1 | shell
+enucleo | 3 | trop: to explain clearly, elucidate
+enucleo | 4 | p. a. (enucleatus): pure, unadulterated, genuine
+enucleo | 5 | p. a., of speech: plain, unadorned
+enumeratio | 1 | enumeration
+enumeratio | 3 | rhet: a recapitulation, a summing-up (of a speech)
+enumero | 1 | count up
+enumero | 3 | in speaking: to enumerate, recount, list out
+enuntio | 1 | disclose
+enuntio | 3 | transf: to express, state, declare
+enuntio | 4 | gram: to pronounce, utter (a sound)
+enutrio | 1 | nurture
+enutrio | 3 | trop: to foster, promote, cultivate (talent, an institution)
+eo1 | 1 | go
+eo1 | 3 | milit: to march against, advance on (with hostile intent)
+eo1 | 4 | polit: ire in sententiam, to vote for, accede to (an opinion)
+eo1 | 5 | mercant: to sell for, fetch (a price)
+eo1 | 6 | of time: to pass, go by
+eo1 | 7 | to turn out, happen, result
+eo1 | 8 | with a supine: to be about to, set about to (do something)
+eo2 | 1 | thither
+eo2 | 2 | therefore
+eo2 | 3 | rare, of place where: there, in that place
+eo2 | 4 | to that end, for that purpose
+eo2 | 5 | to that degree, so far (with comparatives)
+eo2 | 6 | besides, in addition to that
+# review: eodem is the old dat/abl of idem used adverbially; no single word covers "to that same place"
+eodem | 1 | to the same place
+eodem | 3 | of place where (rare): in the same place
+eodem | 4 | transf: to the same point, purpose, or person
