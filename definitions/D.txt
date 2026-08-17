@@ -1167,7 +1167,7 @@ discerpo | 1 | mangle
 discerpo | 2 | revile
 discerpo | 3 | transf: to scatter, disperse, destroy
 discerpo | 4 | trop: to dissect, pick apart (an argument or subject)
-# review: discessio's dominant classical use (per L&S, "far more freq.") is the specific Senate procedure of voting by dividing into groups, not the general "division" divisio denotes; the bare gloss loses that
+# review: discessio dominant classical use (per L&S, "far more freq.") is the specific Senate procedure of voting by dividing into groups, not the general "division" divisio denotes; the bare gloss loses that
 discessio | 1 | division
 discessio | 2 | separation
 discessio | 3 | eccl: schism
