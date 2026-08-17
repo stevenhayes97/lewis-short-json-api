@@ -1020,3 +1020,26 @@ exorabilis | 1 | persuadable
 exorabilis | 3 | act, rare: persuasive, moving (of speech)
 exorbito | 1 | deviate
 exorbito | 3 | act, rare: to turn aside, divert (the mind)
+exordior | 1 | begin
+exordior | 3 | lit, rare: to lay the warp, begin weaving
+exordium | 1 | beginning
+exordium | 3 | rhet: the introduction, the opening (of a speech)
+exordium | 4 | rare, lit: the warp of a web
+exorior | 1 | rise
+exorior | 2 | arise
+exorior | 3 | as subst. (exoriens): the east, the point of sunrise
+exorior | 4 | trop: to spring up, break out, originate
+exornatio | 1 | embellishment
+exornatio | 3 | rhet: a figure of speech, a rhetorical ornament
+exorno | 1 | adorn
+exorno | 3 | rare: to equip, fit out, furnish
+exorno | 4 | trop: to embellish, enhance (with qualities or fame)
+exoro | 1 | persuade
+exortivus | 1 | eastern
+exortivus | 3 | astron: of the rising (of stars or the sun)
+exortus2 | 1 | rising
+exosculor | 1 | caress
+exosculor | 3 | trop: to praise greatly, admire, extol
+exossis | 1 | boneless
+exossis | 3 | transf: supple, limber, pliant
+exossis | 4 | transf, of style: loose, slack, negligent
