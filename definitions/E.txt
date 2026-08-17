@@ -1262,3 +1262,27 @@ exspiro | 3 | neutr: to rush forth, gush out, be exhaled
 exspiro | 4 | trop: to come to an end, cease, perish
 exsplendesco | 1 | glitter
 exsplendesco | 3 | trop: to shine forth, become distinguished
+exspolio | 1 | plunder
+exspolio | 3 | trop: to strip, deprive (of resources or honours)
+exspuo | 1 | spit out
+exspuo | 3 | transf: to eject, expel, cast out (impurities)
+exspuo | 4 | trop: to banish, remove (from the mind)
+exsterno | 1 | terrify
+exstimulo | 1 | goad
+exstimulo | 3 | trop: to instigate, incite, spur on
+exstinctor | 1 | extinguisher
+exstinctor | 3 | transf: a destroyer, an annihilator (of a state or dynasty)
+exstinguo | 1 | extinguish
+exstinguo | 2 | kill
+exstinguo | 3 | trop: to abolish, annul, wipe out (laws, memory)
+exstirpo | 1 | uproot
+exstirpo | 3 | trop: to eradicate, root out (vice or feeling)
+exsto | 1 | project
+exsto | 2 | exist
+exsto | 3 | trop: to be prominent, stand out, be conspicuous
+exstructio | 1 | construction
+exstructio | 3 | rare: an adornment
+exstruo | 1 | heap up
+exstruo | 2 | build
+exstruo | 3 | trop: to exaggerate, magnify (a charge)
+exstruo | 4 | trop: to build up, cultivate (virtue or character)
