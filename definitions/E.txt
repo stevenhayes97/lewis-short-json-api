@@ -842,3 +842,32 @@ excido1 | 3 | of words: to slip out, escape (involuntarily)
 excido1 | 4 | to slip from the memory, be forgotten
 excido1 | 5 | to lose, forfeit, be deprived of (something)
 excido1 | 6 | to perish, vanish, disappear
+excido2 | 1 | cut down
+excido2 | 3 | transf: to raze, demolish, destroy (a city)
+excido2 | 4 | trop: to remove, banish, root out (a feeling)
+excio | 1 | summon
+excio | 3 | transf: to call forth, produce (tears, a sound)
+excio | 4 | trop: to rouse, excite, terrify
+excipio | 1 | catch
+excipio | 2 | except
+excipio | 3 | to receive, welcome (a guest or attack)
+excipio | 4 | to follow, succeed (in time or order)
+excipio | 5 | to overhear, catch (words spoken)
+excipio | 6 | jurid: to make a legal exception (as defendant)
+excito | 1 | rouse
+excito | 3 | to build, erect, construct
+excito | 4 | trop: to arouse, stir up, incite, stimulate
+excito | 5 | to cite, appeal to (as a witness or authority)
+exclamatio | 1 | outcry
+exclamatio | 3 | rhet: an exclamation (a rhetorical figure)
+exclamo | 1 | exclaim
+exclamo | 3 | act, with personal object: to call upon, cry out to (someone)
+excludo | 1 | exclude
+excludo | 3 | of birds: to hatch (young from the egg)
+excludo | 4 | transf: to knock out, thrust out
+excludo | 5 | trop: to prevent, hinder, debar (from something)
+excogitatio | 1 | invention
+excogito | 1 | devise
+excolo1 | 1 | cultivate
+excolo1 | 3 | trop: to refine, perfect, ennoble (character or style)
+excolo1 | 4 | poet, rare: to honour, revere (a god or person)
