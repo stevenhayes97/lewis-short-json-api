@@ -1114,3 +1114,32 @@ expleo | 4 | of time: to complete, finish out (a period)
 expleo | 5 | rare: to unload, disembark
 explicatio | 1 | explanation
 explicatio | 3 | lit, rare: an unfolding, an unwinding (of a rope)
+explico | 1 | unfold
+explico | 2 | explain
+explico | 3 | milit: to deploy, spread out (troops in battle line)
+explico | 4 | to disentangle, arrange, settle (a difficulty)
+explico | 5 | p. a. (explicatus): clear, well-ordered, plain
+explodo | 1 | hiss off
+explodo | 3 | transf: to drive out, cast out
+explodo | 4 | to reject, disapprove, dismiss (an argument)
+explorator | 1 | scout
+explorator | 3 | rare: a forerunner, one who clears the way (for a dignitary)
+exploro | 1 | investigate
+exploro | 3 | milit: to reconnoitre, spy out
+exploro | 4 | to test, try, put to the proof
+expolio | 1 | polish
+expolio | 3 | trop: to refine, cultivate, improve (a mind or character)
+expolio | 4 | comic: to fleece, ruin (financially)
+expolitio | 1 | polishing
+expolitio | 3 | rhet: embellishment, ornamentation (of style)
+expolitio | 4 | rhet: a figure of speech (elaboration by repetition)
+expono | 1 | explain
+expono | 2 | expose
+expono | 3 | naut: to disembark, land (troops)
+expono | 4 | of an infant: to abandon, expose
+expono | 5 | p. a. (expositus): open, accessible, exposed
+exporrigo | 1 | stretch out
+exporrigo | 3 | trop: to prolong, spread out (time)
+exporto | 1 | export
+exposco | 1 | implore
+exposco | 3 | in partic: to demand the surrender of (someone, for punishment)
