@@ -708,3 +708,38 @@ evocatio | 3 | milit: a call-up, a summoning of soldiers (in an emergency)
 evoco | 1 | summon
 evoco | 3 | relig: to call a deity out of a besieged city (a Roman ritual, evocatio)
 evoco | 4 | trop: to call forth, elicit, evoke (a feeling or quality)
+evolo | 1 | fly away
+evolo | 3 | transf: to rush forth, dash out quickly
+evolo | 4 | trop: to escape, break free (of the soul from the body)
+evolvo | 1 | unroll
+evolvo | 2 | narrate
+evolvo | 3 | transf: to read through, peruse (a book)
+evolvo | 4 | reflex: to roll out, empty itself (of a river into the sea)
+evolvo | 5 | of time: to pass, elapse, roll by
+evolvo | 6 | trop: to clear up, work out, resolve (a problem)
+evomo | 1 | vomit
+evomo | 3 | transf: to disgorge, give up, cast out
+evomo | 4 | trop: to pour out, spew forth (anger or bitter words)
+evulgo | 1 | publish
+ex | 1 | from
+ex | 2 | out of
+ex | 3 | of time: after, since, immediately following
+ex | 4 | of material: made of, out of
+ex | 5 | of cause: from, because of, on account of
+ex | 6 | of change: from one state into another
+ex | 7 | of a whole: out of, from among (a group)
+ex | 8 | of standard: according to, in conformity with
+ex | 9 | idiom (ex usu, ex re): to the advantage of
+exacerbo | 1 | anger
+exacerbo | 3 | jurid: to aggravate, increase (a punishment)
+exactio | 1 | collection
+exactio | 3 | transf: a tax, a tribute, an impost
+exactio | 4 | rare: an expulsion, a driving out
+exactio | 5 | rare: a completion, a finishing
+exactor | 1 | collector
+exactor | 3 | in gen: an overseer, an enforcer (of labour or discipline)
+exactor | 4 | rare: an expeller, one who drives out
+exacuo | 1 | sharpen
+exacuo | 3 | transf: to make pungent (of taste)
+exacuo | 4 | trop: to incite, spur on, stimulate (a person)
+exadversum | 1 | opposite
