@@ -151,3 +151,34 @@ effluo | 3 | transf: to issue forth, escape (of non-fluid things)
 effluo | 4 | to vanish, disappear
 effluo | 5 | trop: to become known, leak out, get abroad
 effluo | 6 | trop: to pass away, slip by (of time)
+effodio | 1 | dig out
+effodio | 3 | esp: to gouge out, put out (eyes)
+effor | 1 | utter
+effor | 3 | of augurs: to consecrate, mark out (a sacred space)
+effor | 4 | in dialectics: to state (a proposition)
+effor | 5 | as subst. (effatum): an axiom, a dialectical proposition
+effreno | 1 | unbridle
+effreno | 3 | p. a. (effrenatus): unbridled, without a rein (of horses)
+effreno | 4 | p. a., transf: ungoverned, unrestrained, unruly (of persons or passions)
+effrenus | 1 | unbridled
+effrenus | 3 | trop: unrestrained, ungoverned (of passion or people)
+effringo | 1 | break open
+effringo | 3 | neutr: to break out, burst forth
+effugio | 1 | escape
+effugio | 2 | avoid
+effugium | 1 | flight
+effugium | 3 | concr: a means of escape, a way out
+effulgeo | 1 | gleam
+effulgeo | 3 | trop: to shine forth, stand out, distinguish itself
+effundo | 1 | pour out
+effundo | 2 | squander
+effundo | 3 | with se: to pour out, rush out in a crowd
+effundo | 4 | trop: to give vent to, pour forth freely (words, feelings)
+effundo | 5 | with se: to give oneself up to, indulge in
+effundo | 6 | to relax, loosen, give free rein (esp. habenas effundere, to slacken the reins)
+effundo | 7 | p. a. (effusus): spread out, extensive, vast
+effundo | 8 | p. a. (effusus): straggling, disorderly, scattered (of a crowd or army)
+effundo | 9 | p. a. (effusus): profuse, lavish, extravagant
+effusio | 1 | outpouring
+effusio | 3 | transf: a rushing out, a crowd pouring forth
+effusio | 4 | profusion, extravagance, prodigality
