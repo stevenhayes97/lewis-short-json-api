@@ -3434,6 +3434,7 @@ contemptrix | 1 | despiser
 contemptus2 | 1 | contempt
 contemptus2 | 2 | being despised
 contemptus2 | 3 | contemptui esse, to be an object of scorn
+# review: contendo rank 2 'contend' restates rank 1 'strive' as near-synonyms; the entry's real distinct sense (to assert/maintain in argument) is already given at rank 4
 contendo | 1 | strive
 contendo | 2 | contend
 contendo | 3 | to march or hasten, as an army to a place
@@ -3495,6 +3496,7 @@ contionabundus | 1 | haranguing
 contionalis | 1 | of the assembly
 contionor | 1 | harangue
 contionor | 3 | in gen., to declare or make known publicly
+# review: contorqueo rank 2 'vehement' is adjective-shaped (the perfect-participle sense) for a headword that is fundamentally a verb; it doesn't read as a sense of the verb 'twist'
 contorqueo | 1 | twist
 contorqueo | 2 | vehement
 contorqueo | 3 | involved or intricate, as an argument
@@ -3879,6 +3881,7 @@ cruciarius | 4 | facete, a gallows-bird, a scoundrel
 cruciatus | 1 | torture
 cruciatus | 2 | anguish
 cruciatus | 3 | transf., instruments of torture
+# review: crucio rank 2 'torment' is a near-synonym of rank 1 'torture' (the entry gives them jointly for the same physical sense); the real second branch, mental affliction, is already at rank 3
 crucio | 1 | torture
 crucio | 2 | torment
 crucio | 3 | medial, to grieve or be afflicted, to worry oneself
@@ -3985,6 +3988,7 @@ cunae | 3 | meton., birth or earliest childhood
 cunctatio | 1 | delay
 cunctator1 | 1 | delayer
 cunctator1 | 3 | in a good sense, one cautiously deliberate, as a wise general
+# review: cunctor rank 2 'linger' is a near-synonym of rank 1 'hesitate' for personal delay; the entry's genuinely distinct transferred sense (of things moving slowly) is already at rank 3
 cunctor | 1 | hesitate
 cunctor | 2 | linger
 cunctor | 3 | poet., of things, to move slowly or sluggishly
@@ -4064,6 +4068,7 @@ cursor1 | 3 | a forerunner, a slave running before a nobleman's chariot
 cursorius | 1 | of running
 cursorius | 3 | as a substantive (cursoria), a swift boat, a cutter
 cursorius | 4 | as a substantive (cursorium), the public post or mail service
+# review: cursus rank 2 'journey' is a near-synonym of rank 1 'course' (both from the same list of literal glosses); the entry's real figurative sense is separately given at rank 4
 cursus | 1 | course
 cursus | 2 | journey
 cursus | 3 | cursus publicus, the imperial post system
@@ -4074,6 +4079,7 @@ curulis | 1 | curule
 curulis | 3 | sella curulis, the curule chair, seat of a high magistrate
 curvo | 1 | bend
 curvo | 3 | trop., to move or soften, as to pity
+# review: curvus rank 2 'crooked' is a near-synonym of rank 1 'curved' (both describe the same literal bending); the entry's genuine figurative sense ('wrong') is already at rank 3
 curvus | 1 | curved
 curvus | 2 | crooked
 curvus | 3 | as a substantive (curvum), that which is wrong, as opposed to right
