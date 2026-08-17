@@ -346,3 +346,29 @@ emendo | 3 | post-class: to chastise, punish (as correction)
 ementior | 1 | fabricate
 emercor | 1 | bribe
 emercor | 3 | to buy up, purchase completely
+emereo | 1 | earn
+emereo | 3 | to gain the favour of, deserve well of (someone)
+emereo | 4 | milit: to serve out, complete (one's term of service)
+emergo | 1 | emerge
+emergo | 3 | trop: to extricate oneself, get clear (of trouble or disgrace)
+emergo | 4 | of plants: to spring up, come forth
+emeticus | 1 | emetic
+emetior | 1 | measure out
+emetior | 3 | transf: to pass through, traverse (a distance or journey)
+emetior | 4 | transf: to impart, bestow, give out
+emico | 1 | spring forth
+emico | 3 | trop: to stand out, become conspicuous, catch attention
+emigro | 1 | emigrate
+emigro | 3 | act, rare: to remove, take away
+eminentia | 1 | prominence
+eminentia | 3 | painting: the highlights, the light parts (of a picture)
+eminentia | 4 | trop: excellence, distinction
+emineo | 1 | project
+emineo | 3 | trop: to stand out, be conspicuous
+emineo | 4 | trop, esp: to excel, distinguish oneself (through talent or virtue)
+eminus | 1 | afar
+eminus | 3 | milit: at a distance, with missiles (not hand-to-hand), opp. comminus
+emissarius | 1 | spy
+emissarius | 3 | eccl: an attendant, a guard
+emissarius | 4 | eccl: the scapegoat (caper emissarius)
+emissarius | 5 | botany: a shoot, a young branch
