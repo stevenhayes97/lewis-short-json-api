@@ -528,3 +528,33 @@ erepo | 4 | trop: to emerge slowly, work one's way out (of poverty)
 erga | 1 | towards
 erga | 3 | lit, rare: opposite, over against (of place)
 erga | 4 | of unfriendly feelings: against
+ergastulum | 1 | workhouse
+ergastulum | 3 | transf, plur: the convicts, inmates of a workhouse
+ergo | 1 | therefore
+ergo | 3 | archaic, with gen: on account of, for the sake of
+ergo | 4 | in resuming a thought: as I was saying, well then
+ericius | 1 | hedgehog
+ericius | 3 | milit, transf: a spiked barricade, a chevaux-de-frise
+erigo | 1 | raise up
+erigo | 2 | encourage
+erigo | 3 | to build, construct, erect (a building)
+erigo | 4 | trop: to arouse, excite (attention)
+erigo | 5 | p. a. (erectus): upright, erect (in posture)
+erigo | 6 | p. a., trop: elevated, lofty, noble
+erigo | 7 | p. a., trop: attentive, intent, on the stretch
+erigo | 8 | p. a., pejorative: haughty, arrogant
+erilis | 1 | master's
+erilis | 3 | of the master or mistress of the house (poet., esp. in Plautus)
+eripio | 1 | snatch away
+eripio | 3 | with se: to escape, flee, tear oneself free
+eripio | 4 | pregn: eripi, to be snatched away by death, die suddenly
+eripio | 5 | trop: to take away, deprive of (rights, speech)
+erodo | 1 | gnaw away
+erodo | 3 | transf: to corrode, eat away (metal, wood)
+erodo | 4 | medic: to act as a caustic, an erosive remedy
+erogatio | 1 | disbursement
+erogatio | 3 | legal: a repeal, an abrogation (of a law)
+erogo | 1 | disburse
+erogo | 3 | eccl., trop: to expose to death, destroy
+erogo | 4 | rare: to prevail on by entreaty
+errabundus | 1 | wandering
