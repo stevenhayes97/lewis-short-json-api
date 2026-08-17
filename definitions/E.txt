@@ -1,0 +1,30 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_E.json (Lewis & Short via Perseus), simplified for learners.
+# review: eadem is the adverbial ablative of idem; no single word covers "by the same route"
+eadem | 1 | likewise
+eadem | 3 | by the same route (rare)
+eadem | 4 | eadem ... eadem, at one time ... at another
+# review: eatenus is a correlative adverb of extent; English needs a phrase
+eatenus | 1 | so far
+eatenus | 3 | to the extent that, insofar as (usu. with quatenus)
+ebibo | 1 | drink up
+ebibo | 3 | transf: to suck in, absorb, drain (of things)
+ebibo | 4 | to squander in drink
+# review: eblandior needs a verb phrase; English has no single verb for "get by flattery"
+eblandior | 1 | coax out
+eblandior | 3 | to obtain by flattery or coaxing
+ebrietas | 1 | drunkenness
+ebrietas | 3 | transf: excess, an overabundance (of juice or liquid)
+ebriosus | 1 | drunken
+ebriosus | 3 | as subst.: a drunkard, a sot
+ebrius | 1 | drunk
+ebrius | 3 | trop: intoxicated, flushed (with success or passion)
+ebrius | 4 | in gen: filled to the brim, sated
+ebullio | 1 | bubble up
+ebullio | 3 | to breathe out, give up (the ghost)
+ebullio | 4 | trop: to boast of, brag about
+ebur | 1 | ivory
+ebur | 3 | meton: a thing made of ivory (a statue, flute, sword-hilt)
+ebur | 4 | meton: an elephant
+eburneus | 1 | of ivory
+eburneus | 3 | poet: white as ivory
