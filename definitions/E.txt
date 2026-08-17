@@ -894,3 +894,31 @@ excurro | 2 | project
 excurro | 3 | milit: to sally forth, make a raid
 excurro | 4 | trop: to extend, spread out, range widely
 excurro | 5 | act, rare: to pass over, omit (in speaking)
+excursio | 1 | sally
+excursio | 3 | trop: a digression (in a speech)
+excursio | 4 | trop: the opening, the outset (of a speech)
+excursor | 1 | scout
+excursus2 | 1 | sally
+excursus2 | 3 | transf: a projection, a headland (of a coastline)
+excursus2 | 4 | trop: a digression (in a speech)
+excusatio | 1 | excuse
+excusatio | 3 | legal: an exemption, a release (from an obligation)
+excuso | 1 | excuse
+excuso | 3 | to plead, allege (as an excuse)
+excuso | 4 | to exempt, release, discharge (from an obligation)
+excutio | 1 | shake out
+excutio | 3 | to search, frisk (a person's clothing)
+excutio | 4 | trop: to shake off, cast aside, discard
+excutio | 5 | trop: to scrutinize, examine closely, investigate
+exdorsuo | 1 | debone
+exedo | 1 | devour
+exedo | 3 | transf: to eat away, corrode, destroy
+exedo | 4 | trop: to prey upon, consume, corrode (the mind)
+exemplar | 1 | copy
+exemplar | 3 | trop: a likeness, an image, an impression
+exemplar | 4 | a model, a pattern, an exemplar
+exemplum | 1 | example
+exemplum | 3 | a copy, a transcript
+exemplum | 4 | idiom (exempli causa): for instance, for example
+exemplum | 5 | in partic: a warning, a deterrent, a punishment
+exemplum | 6 | legal: a precedent
