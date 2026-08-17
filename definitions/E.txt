@@ -922,3 +922,32 @@ exemplum | 3 | a copy, a transcript
 exemplum | 4 | idiom (exempli causa): for instance, for example
 exemplum | 5 | in partic: a warning, a deterrent, a punishment
 exemplum | 6 | legal: a precedent
+exeo | 1 | leave
+exeo | 3 | milit: to march out, sally forth
+exeo | 4 | of time: to run out, end, expire
+exeo | 5 | of plants: to sprout, spring forth
+exeo | 6 | act, pregn: to avoid, evade, dodge (a blow)
+exerceo | 1 | exercise
+exerceo | 2 | practise
+exerceo | 3 | pregn: to vex, harass, plague, disquiet
+exerceo | 4 | p. a. (exercitatus): disciplined, trained, practised
+exerceo | 5 | with se: to train oneself, practise
+exercitatio | 1 | practice
+exercitatio | 3 | rare: a setting in motion, an agitation
+exercitio | 1 | exercise
+exercitium | 1 | exercise
+exercito | 1 | drill
+exercito | 3 | pregn: to vex, harass, agitate
+exercitor | 1 | trainer
+exercitor | 3 | transf: a practitioner, an operator (of a business or trade)
+exercitus2 | 1 | army
+exercitus2 | 3 | poet: a multitude, a host, a swarm
+exercitus2 | 4 | polit: the Comitia Centuriata (the people's assembly organized as an army)
+exercitus2 | 5 | rare: exercise, training (the abstract sense)
+exhalo | 1 | exhale
+exhalo | 3 | neutr: to breathe one's last, expire, die
+exhalo | 4 | transf, poet: to steam, give off vapour
+exhaurio | 1 | drain
+exhaurio | 2 | exhaust
+exhaurio | 3 | trop: to take away, remove (grief, blame)
+exhaurio | 4 | trop: to bring to an end, use up completely
