@@ -182,3 +182,33 @@ effundo | 9 | p. a. (effusus): profuse, lavish, extravagant
 effusio | 1 | outpouring
 effusio | 3 | transf: a rushing out, a crowd pouring forth
 effusio | 4 | profusion, extravagance, prodigality
+effutio | 1 | blab
+effutio | 3 | absol: to let slip a secret
+effutio | 4 | absol: to talk idly, ramble
+egelidus | 1 | lukewarm
+egelidus | 3 | intens: chilly, cold (the opposite sense, context-dependent)
+egenus | 1 | needy
+egenus | 3 | as subst. (egenus): a poor man
+egenus | 4 | as subst. (egenum): poor soil
+egeo | 1 | need
+egeo | 3 | absol: to be poor, be in want
+egeo | 4 | transf: to be without, lack (in gen.)
+egeo | 5 | to desire, wish for, long for
+egero | 1 | carry out
+egero | 3 | poet: to carry to the grave, bury
+egero | 4 | trop: to pour forth, vent, utter (feelings, complaints)
+egestas | 1 | poverty
+egestio | 1 | emptying
+egestio | 3 | esp: excretion, evacuation (of the bowels or bladder)
+ego | 1 | I
+ego | 3 | egomet, I myself (emphatic)
+egredior | 1 | go out
+egredior | 2 | disembark
+egredior | 3 | milit: to march out, leave (camp)
+egredior | 4 | to climb, ascend, mount
+egredior | 5 | trop, in speech: to digress, wander from the subject
+egredior | 6 | act: to leave, pass beyond (a place or boundary)
+egredior | 7 | trop: to exceed, surpass, overstep
+egregius | 1 | outstanding
+egregius | 3 | of rank: distinguished, illustrious, honourable
+egregius | 4 | adv (egregie), as exclamation: well done, bravo
