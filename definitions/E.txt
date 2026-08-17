@@ -793,3 +793,26 @@ exaspero | 3 | trop: to irritate, provoke, exasperate
 exauctoro | 1 | discharge
 exauctoro | 3 | pejor: to cashier, dismiss in disgrace (for misconduct)
 exauctoro | 4 | trop: obsolete, discarded (of words no longer in use)
+exaudio | 1 | hear clearly
+exaudio | 3 | of prayers: to hearken to, grant
+exaudio | 4 | to heed, obey (a warning)
+exaudio | 5 | to understand, comprehend
+excaeco | 1 | blind
+excaeco | 3 | transf: to block up, stop up (a river or channel)
+excaeco | 4 | trop: to blind, cloud (the mind or judgement)
+excalceo | 1 | unshoe
+excalceo | 3 | theat: to remove the buskins (from a tragic actor)
+excalfacio | 1 | warm
+excandesco | 1 | flare up
+excandesco | 3 | trop: to blaze with anger, lose one's temper
+excanto | 1 | conjure
+excarnifico | 1 | mangle
+excarnifico | 3 | trop: to torment, torture
+excaudico | 1 | uproot
+excaudico | 3 | trop: to extirpate, root out entirely
+excavo | 1 | hollow out
+excedo | 1 | depart
+excedo | 2 | exceed
+excedo | 3 | of life: to die, decease, pass away
+excedo | 4 | trop: to disappear, fade (from memory or heart)
+excedo | 5 | act: to leave, quit (a place)
