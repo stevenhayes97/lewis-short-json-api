@@ -1090,3 +1090,27 @@ expeto | 1 | desire
 expeto | 3 | to reach, attain to (a goal)
 expeto | 4 | intr, rare: to fall upon, befall (a person)
 expeto | 5 | absol, rare: to happen, occur, turn out
+expilator | 1 | plunderer
+expilo | 1 | plunder
+expilo | 3 | trop: to plagiarize, pillage (another's ideas)
+expingo | 1 | paint
+expingo | 3 | trop: to depict vividly, describe to the life (in words)
+expio | 1 | atone for
+expio | 3 | to avert (an evil omen) by expiatory rites
+expio | 4 | transf: to make amends for, repair, redress
+expiscor | 1 | ferret out
+explanatio | 1 | explanation
+explanatio | 3 | rhet: a rhetorical figure (vivid depiction)
+explanatio | 4 | of speech: clear articulation, distinct pronunciation
+explano | 1 | explain
+explano | 3 | lit, rare: to flatten, spread out
+explano | 4 | to utter distinctly, enunciate clearly
+explementum | 1 | filler
+explementum | 3 | trop, of speech: a complement, a supplement
+expleo | 1 | fill
+expleo | 2 | satisfy
+expleo | 3 | to fulfil, discharge, perform (a duty)
+expleo | 4 | of time: to complete, finish out (a period)
+expleo | 5 | rare: to unload, disembark
+explicatio | 1 | explanation
+explicatio | 3 | lit, rare: an unfolding, an unwinding (of a rope)
