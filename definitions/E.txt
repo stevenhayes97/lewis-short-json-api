@@ -816,3 +816,29 @@ excedo | 2 | exceed
 excedo | 3 | of life: to die, decease, pass away
 excedo | 4 | trop: to disappear, fade (from memory or heart)
 excedo | 5 | act: to leave, quit (a place)
+excellentia | 1 | excellence
+excello | 1 | excel
+excello | 3 | p. a. (excellens): distinguished, superior, outstanding
+excello | 4 | p. a. (excelsus): elevated, lofty, high
+excello | 5 | p. a. (excelsus), trop: noble, distinguished, high-minded
+excello | 6 | as subst. (excelsum): a height, an elevated place
+exceptio | 1 | exception
+exceptio | 3 | jurid: a defendant's formal plea, an exception (to a claim)
+excepto | 1 | catch
+exceptor | 1 | scribe
+exceptor | 3 | late: a chancery officer, a court clerk
+excerno | 1 | sift out
+excerno | 3 | medic: to discharge, excrete (from the body)
+excerpo | 1 | select
+excerpo | 3 | to leave out, except, omit
+excerpo | 4 | with se: to withdraw oneself (from company or custom)
+excessus | 1 | departure
+excessus | 3 | esp: death, a departure from life
+excessus | 4 | rhet: a digression
+excessus | 5 | trop: a loss of self-possession, an ecstasy
+excidium1 | 1 | destruction
+excido1 | 1 | fall out
+excido1 | 3 | of words: to slip out, escape (involuntarily)
+excido1 | 4 | to slip from the memory, be forgotten
+excido1 | 5 | to lose, forfeit, be deprived of (something)
+excido1 | 6 | to perish, vanish, disappear
