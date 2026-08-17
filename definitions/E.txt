@@ -417,3 +417,27 @@ enavigo | 4 | trop: to escape, get clear (of a difficulty)
 eneco | 1 | kill
 eneco | 3 | transf: to exhaust utterly, wear out, wear down
 eneco | 4 | colloq: to torment, plague, pester to death
+enervis | 1 | feeble
+enervo | 1 | weaken
+enervo | 3 | lit, rare: to cut the sinews, hamstring
+enim | 1 | for
+enim | 3 | corroborative: indeed, in fact, truly
+enim | 4 | explanatory: for instance, namely
+eniteo | 1 | shine
+eniteo | 3 | trop: to be eminent, distinguished, outstanding
+enitesco | 1 | brighten
+enitesco | 3 | trop: to become distinguished, come to prominence
+enitor | 1 | strive
+enitor | 2 | climb
+enitor | 3 | to give birth to, bear (children)
+enitor | 4 | p. a. (enixus): strenuous, earnest, zealous
+enitor | 5 | adv (enixe): earnestly, zealously
+eno | 1 | swim away
+eno | 3 | poet, transf: to fly out, fly away
+eno | 4 | act: to traverse by swimming, cross (a strait)
+enodis | 1 | knotless
+enodis | 3 | trop, of speech: clear, plain, straightforward
+enodo | 1 | unknot
+enodo | 3 | trop, of speech: to explain, elucidate, make plain
+enormis | 1 | huge
+enormis | 3 | irregular, unusual, out of the ordinary
