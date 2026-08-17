@@ -28,3 +28,31 @@ ebur | 3 | meton: a thing made of ivory (a statue, flute, sword-hilt)
 ebur | 4 | meton: an elephant
 eburneus | 1 | of ivory
 eburneus | 3 | poet: white as ivory
+ecce | 1 | behold
+ecce | 3 | here is, here comes (pointing something out)
+ecce | 4 | introducing something sudden or unexpected: ecce Apollo mihi imperat, look, Apollo commands me
+eclogarius | 1 | excerpted
+eclogarius | 3 | as subst. (eclogarium): a collection of selected poems
+eclogarius | 4 | as subst. (eclogarii): selected passages from a work
+ecquando | 1 | ever
+ecquando | 3 | interrog: is there ever a time when...? (indignant question)
+ecqui1 | 1 | any
+ecqui1 | 3 | interrog: is there any...? (in an impassioned question)
+ecquis | 1 | anyone
+ecquis | 2 | anything
+ecquis | 3 | interrog: is there anyone who...? (in an impassioned question)
+ecquis | 4 | as adverb (ecquid): at all, whether: ecquid audis, do you hear at all
+ecquis | 5 | as adverb (ecquo): anywhere at all
+edax | 1 | gluttonous
+edax | 3 | poet, transf: devouring, consuming (of fire, time, or the sea)
+edico | 1 | proclaim
+edico | 3 | to decree, ordain by public proclamation
+edico | 4 | of a magistrate: to publish an edict on taking office
+edico | 5 | in gen: to declare, appoint, order
+edictum | 1 | edict
+edictum | 3 | transf: an order, command (in gen.)
+edictum | 4 | transf: a public notice, bill (e.g. of games)
+edisco | 1 | memorize
+edisco | 3 | in gen: to learn thoroughly, study
+edissero | 1 | expound
+edissero | 3 | to set forth in detail, explain fully, relate
