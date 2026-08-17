@@ -663,3 +663,26 @@ evenio | 3 | lit, rare: to come forth, spring up, grow
 evenio | 4 | to turn out, result, end up (in some way)
 evenio | 5 | as subst. (eventum): an occurrence, an event
 evenio | 6 | as subst. (eventus): the outcome, result, consequence
+eventilo | 1 | fan
+eventilo | 3 | to winnow (grain)
+eventilo | 4 | trop: to scatter, dissipate (wealth)
+eventus | 1 | outcome
+eventus | 3 | esp: good fortune, success
+eventus | 4 | personif. (Bonus Eventus): the god of Good Success
+everbero | 1 | batter
+everbero | 3 | trop: to assail, besiege (the ears, with words)
+everriculum | 1 | dragnet
+everriculum | 3 | trop: a plunderer, one who sweeps away everything
+everro | 1 | sweep out
+everro | 3 | trop: to clean out, plunder completely
+eversio | 1 | overthrow
+eversio | 3 | a turning out, an expulsion (from one's possessions)
+eversor | 1 | destroyer
+everto | 1 | overturn
+everto | 2 | ruin
+everto | 3 | to drive out, expel (from one's property)
+everto | 4 | transf: to destroy, raze (a city)
+evidens | 1 | evident
+evidentia | 1 | clarity
+evidentia | 3 | rhet: vividness, graphic clarity (a quality of style)
+evidentia | 4 | late: a proof, evidence
