@@ -1143,3 +1143,24 @@ exporrigo | 3 | trop: to prolong, spread out (time)
 exporto | 1 | export
 exposco | 1 | implore
 exposco | 3 | in partic: to demand the surrender of (someone, for punishment)
+expositio | 1 | exposition
+expositio | 3 | rhet: a definition, an explanation
+expositio | 4 | rare: the exposing of an infant
+expostulatio | 1 | complaint
+expostulo | 1 | demand
+expostulo | 3 | with cum: to remonstrate with, complain to (someone)
+expressio | 1 | squeezing
+expressio | 3 | architect: a projecting fillet, a listel
+expressio | 4 | of language: vividness, expressiveness
+exprimo | 1 | squeeze out
+exprimo | 2 | portray
+exprimo | 3 | trop: to extort, wring out, elicit
+exprimo | 4 | to translate (word for word)
+exprimo | 5 | p. a. (expressus): distinct, clear, vivid
+exprobratio | 1 | reproach
+exprobro | 1 | reproach
+expromo | 1 | bring out
+expromo | 3 | trop: to display, exhibit, exert (a quality)
+expromo | 4 | of speech: to utter, disclose, declare
+expugnabilis | 1 | conquerable
+expugnatio | 1 | storming
