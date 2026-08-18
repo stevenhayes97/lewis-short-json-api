@@ -266,3 +266,26 @@ felix1 | 1 | fruitful
 felix1 | 2 | lucky
 felix1 | 3 | act: auspicious, of good omen, bringing good luck
 felix1 | 4 | adv (feliciter): fortunately, successfully, happily
+femina | 1 | woman
+femina | 3 | of animals: a female
+femina | 4 | gram: the feminine gender
+femineus | 1 | womanly
+femineus | 3 | pejor: womanish, effeminate, unmanly
+femininus | 1 | feminine
+femur | 1 | thigh
+femur | 3 | architect: the space between the grooves (of a triglyph)
+femur | 4 | eccl: the loins (of ancestry, of one's line)
+fenestella | 1 | window
+fenestra | 1 | window
+fenestra | 3 | milit: a loophole (for shooting arrows)
+fenestra | 4 | milit: a breach (in a wall)
+fenestra | 5 | trop: an opening, an opportunity, an inlet (for vice)
+fenestro | 1 | fenestrate
+fenestro | 3 | trop: to lay open, make transparent (of the heart)
+feralis | 1 | funereal
+feralis | 3 | as subst. (Feralia): the festival of the dead (in February)
+feralis | 4 | transf: deadly, fatal, dangerous (in gen.)
+ferax | 1 | fertile
+ferax | 3 | trop: rich, fruitful, productive (of talent or ideas)
+ferculum | 1 | litter
+ferculum | 3 | at a meal: a course, a dish (of food)
