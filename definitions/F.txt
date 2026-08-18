@@ -697,3 +697,23 @@ fluo | 2 | vanish
 fluo | 3 | trop: to arise, spring, proceed (from a source)
 fluo | 4 | of speech: to flow smoothly, be fluent
 fluo | 5 | p. a. (fluxus): loose, slack, perishable, unstable
+fluor | 1 | flow
+fluor | 3 | medic: a flux, diarrhoea
+flustra | 1 | calm
+fluvius | 1 | river
+fluvius | 3 | transf: a stream, running water
+fluxus2 | 1 | flux
+focillo | 1 | revive
+focillo | 3 | trop: to cherish, nurture, foster
+foculus | 1 | brazier
+foculus | 3 | transf: fire (in gen.)
+focus | 1 | hearth
+focus | 3 | transf: home, household, family
+focus | 4 | a fire-pan, a portable brazier
+fodico | 1 | jab
+fodico | 3 | trop: to goad, needle, disturb (the mind)
+fodio | 1 | dig
+fodio | 2 | stab
+fodio | 3 | trop: to goad, sting, torment (the heart)
+foedero | 1 | ally
+foedero | 3 | p. a. (foederatus): allied, confederate, leagued together
