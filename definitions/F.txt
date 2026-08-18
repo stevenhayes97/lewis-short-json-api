@@ -170,3 +170,29 @@ fascia | 1 | band
 fascia | 3 | architect: a fillet, a listel (moulding round a column)
 fascia | 4 | transf, poet: a streak, a band (of cloud in the sky)
 fascia | 5 | geog: a zone (of the earth)
+fasciculus | 1 | bundle
+fascino | 1 | bewitch
+fascinum | 1 | witchcraft
+fascinum | 3 | transf: a phallic amulet (worn against the evil eye)
+fascis | 1 | bundle
+fascis | 2 | burden
+fascis | 3 | polit, plur (fasces): the fasces, the rods and axe of a magistrate
+fascis | 4 | meton: high office, the consulship
+fastidio | 1 | loathe
+fastidio | 2 | disdain
+fastidio | 3 | trop: to scorn, be too proud for (something)
+fastidiosus | 1 | squeamish
+fastidiosus | 3 | act, rare: disgusting, loathsome, distasteful
+fastidium | 1 | distaste
+fastidium | 3 | esp: fussiness, daintiness (of a pampered taste)
+fastidium | 4 | trop: disdain, scornful contempt, haughtiness
+fastigium | 1 | summit
+fastigium | 2 | slope
+fastigium | 3 | trop: the highest rank, the peak (of dignity or power)
+fastigium | 4 | rare: depth (the lower extremity)
+fastigium | 5 | rhet: a chief point, a main heading (in a discourse)
+fastigo | 1 | taper
+fastigo | 3 | p. a. (fastigatus): sloping, steep, pitched (of a roof)
+fastigo | 4 | trop, late: to elevate, exalt
+fastus1 | 1 | calendar
+fastus1 | 3 | esp (fasti consulares): the register of consuls (by year)
