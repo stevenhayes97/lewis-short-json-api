@@ -93,6 +93,34 @@ gemmatus | 4 | having buds or eyes, of plants
 gemmeus | 1 | jewelled
 gemmeus | 3 | of or set with precious stones
 gemmeus | 4 | transferred, glittering or sparkling like a jewel
+gemmo | 1 | bud
+gemmo | 3 | to put forth buds, of plants
+gemmo | 4 | poetic, to sparkle or glitter, as if set with gems
+gemo | 1 | groan
+gemo | 3 | poetic, of things, to creak or groan under strain
+gemo | 4 | transitive, to sigh over, bewail, lament something
+gemursa | 1 | toe swelling
+gena | 1 | cheek
+gena | 3 | poetic, the eye or eyelid, used this way by Ennius
+gena | 4 | poetic, the eye-socket
+gener | 1 | son-in-law
+gener | 3 | transferred, the husband of a granddaughter, or a sister's husband
+generalis | 1 | general
+generalis | 3 | of or belonging to a kind or species, generic (rare)
+generalis | 4 | relating to all, as opposed to particular or specific
+generatim | 1 | by kind
+generatim | 3 | by kinds, species, classes, or divisions
+generatim | 4 | opposed to specially: in general terms, broadly
+generatio | 1 | generation
+generatio | 3 | the act of begetting or producing offspring
+generatio | 4 | transferred, a generation of people, an age-group
+genero | 1 | beget
+genero | 3 | to produce or create, of non-physical things
+genero | 4 | in the passive, to spring or descend from
+generositas | 1 | nobility
+generositas | 2 | boldness
+generositas | 3 | a noble breed or race, said of animals
+generositas | 4 | high spirit, courage, boldness of nature
 gens | 1 | clan
 gens | 2 | people
 gens | 3 | a Roman clan: a group of families sharing one name and common religious rites, such as the gens Iulia
