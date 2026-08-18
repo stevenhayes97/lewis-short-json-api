@@ -542,3 +542,24 @@ firmamentum | 3 | late: the firmament, the sky
 firmamentum | 4 | rhet: the main point, the chief support (of an argument)
 firmitas | 1 | firmness
 firmitas | 3 | trop: steadfastness, constancy, resolve
+firmitudo | 1 | firmness
+firmitudo | 3 | trop: constancy, resolve, strength of mind
+firmo | 1 | strengthen
+firmo | 3 | trop: to encourage, hearten, embolden
+firmo | 4 | to confirm, affirm, assert (as true)
+firmus | 1 | firm
+firmus | 3 | trop: steadfast, constant, faithful, true
+firmus | 4 | poet, with inf: able, capable (of enduring)
+fiscalis | 1 | fiscal
+fiscella | 1 | basket
+fiscina | 1 | basket
+fiscus | 1 | purse
+fiscus | 3 | in partic: the public treasury, the state's revenue
+fiscus | 4 | imperial: the emperor's privy purse
+fissilis | 1 | splittable
+fissilis | 3 | comically: cracked (of a head, i.e. beaten)
+fistuco | 1 | ram
+fistula | 1 | pipe
+fistula | 3 | transf: a reed-pipe, a shepherd's pipe (pan-pipes)
+fistula | 4 | medic: a fistula (a chronic sore or ulcer)
+fistula | 5 | medic: a catheter
