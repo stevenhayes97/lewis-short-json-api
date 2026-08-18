@@ -866,3 +866,21 @@ frater | 4 | in partic (frater patruelis): a cousin (father's brother's son)
 frater | 5 | euphem: a lover
 fraterculus | 1 | brother
 fraterculus | 3 | transf: dear friend, buddy (affectionate address)
+fraternitas | 1 | brotherhood
+fraternus | 1 | brotherly
+fraternus | 3 | transf: of a kinsman, of a relative
+fraternus | 4 | transf: closely allied, friendly (of nations or feelings)
+fraudatio | 1 | fraud
+fraudo | 1 | defraud
+fraudo | 3 | transf: to embezzle, purloin, steal
+fraudulentia | 1 | deceitfulness
+fraudulentus | 1 | deceitful
+fraus1 | 1 | deceit
+fraus1 | 3 | concr, pejor: a cheat, a swindler (as a term of abuse)
+fraus1 | 4 | pass: self-deception, delusion, a mistake
+fraus1 | 5 | in phrases (sine fraude, fraudi esse): harm, injury, detriment
+fraxinus1 | 1 | ash-tree
+fraxinus1 | 3 | transf: an ashen spear, a javelin
+fremitus | 1 | roar
+fremo | 1 | roar
+fremo | 3 | act: to grumble at, complain loudly about (something)
