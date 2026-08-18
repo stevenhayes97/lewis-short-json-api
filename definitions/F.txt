@@ -196,3 +196,25 @@ fastigo | 3 | p. a. (fastigatus): sloping, steep, pitched (of a roof)
 fastigo | 4 | trop, late: to elevate, exalt
 fastus1 | 1 | calendar
 fastus1 | 3 | esp (fasti consulares): the register of consuls (by year)
+fastus2 | 1 | arrogance
+fatalis | 1 | fated
+fatalis | 3 | pejor: deadly, destructive, dangerous
+fateor | 1 | confess
+fateor | 3 | transf, rare: to show, reveal, bear witness to
+fatidicus | 1 | prophetic
+fatigatio | 1 | weariness
+fatigatio | 3 | trop, late: mockery, banter
+fatigo | 1 | weary
+fatigo | 3 | trop: to importune, pester, harass (with requests)
+fatigo | 4 | late: to jeer, banter, mock
+fatisco | 1 | crack
+fatisco | 3 | trop: to grow weak, flag, become exhausted
+fatum | 1 | fate
+fatum | 3 | rare: a prophecy, an oracle
+fatum | 4 | esp: death, one's appointed end
+fatum | 5 | concr: a calamity, a plague (a person who brings ruin)
+fatus2 | 1 | utterance
+fatus2 | 3 | esp: an oracle, a prophecy
+fatuus1 | 1 | foolish
+fatuus1 | 3 | as subst.: a fool, a jester (kept for amusement)
+fatuus1 | 4 | poet, transf: insipid, tasteless (of food)
