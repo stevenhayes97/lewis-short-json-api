@@ -672,3 +672,28 @@ flos | 5 | of speech: an embellishment, a flourish (of style)
 flosculus | 1 | floweret
 flosculus | 3 | trop: an ornament, a highlight, a showpiece
 flosculus | 4 | of speech: a rhetorical flourish, a purple passage
+fluctio | 1 | discharge
+fluctio | 3 | medic: a flux, an abnormal flow (of fluid in the body)
+fluctuatio | 1 | fluctuation
+fluctuatio | 3 | trop: hesitation, vacillation, indecision
+fluctuo | 1 | billow
+fluctuo | 3 | trop: to waver, hesitate, be undecided
+fluctus | 1 | wave
+fluctus | 3 | trop: turbulence, upheaval, commotion (political)
+fluctus | 4 | poet, transf: a stream, a surge (of fire or scent)
+fluentum | 1 | stream
+fluentum | 3 | transf: a current, a stream (of fire or air)
+fluidus | 1 | fluid
+fluidus | 3 | transf: slack, languid, flabby
+fluito | 1 | float
+fluito | 3 | transf: to wave, flutter, undulate
+fluito | 4 | trop: to waver, be uncertain, vacillate
+flumen | 1 | river
+flumen | 3 | transf: a flood, a stream (of blood, tears, etc.)
+flumen | 4 | trop: a flow, a fluency (of speech)
+flumineus | 1 | riverine
+fluo | 1 | flow
+fluo | 2 | vanish
+fluo | 3 | trop: to arise, spring, proceed (from a source)
+fluo | 4 | of speech: to flow smoothly, be fluent
+fluo | 5 | p. a. (fluxus): loose, slack, perishable, unstable
