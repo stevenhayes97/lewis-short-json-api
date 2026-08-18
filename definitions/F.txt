@@ -581,3 +581,25 @@ flagellum | 4 | trop, poet: the sting, the lash (of conscience or love)
 flagitator | 1 | dun
 flagitator | 3 | with gen.: an importunate demander (of a promised triumph, a fight, etc.)
 flagitiosus | 1 | shameful
+flagitium | 1 | disgrace
+flagitium | 3 | vulg, as an insult: scoundrel, rascal
+flagitium | 4 | rare: an urgent demand, an importunity
+flagito | 1 | demand
+flagito | 3 | legal: to summon, accuse (before a court)
+flagrantia | 1 | glow
+flagrantia | 3 | trop: ardour, passion, vehement desire
+flagro | 1 | blaze
+flagro | 3 | trop: to burn, be consumed (with passion or desire)
+flagro | 4 | trop: to suffer, be plagued (by disgrace or hatred)
+flagro | 5 | p. a. (flagrans): ardent, glowing, eager
+flagrum | 1 | whip
+flamen1 | 1 | flamen
+flamen1 | 3 | a priest devoted to a particular god's cult
+flamen2 | 1 | gust
+flamen2 | 3 | transf, concr: a breeze, a wind
+flaminica | 1 | flamen's wife
+flaminius1 | 1 | flamen's
+flaminius1 | 3 | as subst. (Flaminium): the office of flamen, a priesthood
+flamma1 | 1 | flame
+flamma1 | 3 | trop: the fire of passion, love's ardour
+flamma1 | 4 | trop: a devouring danger, a destructive crisis
