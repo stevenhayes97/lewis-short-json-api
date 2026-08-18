@@ -947,3 +947,24 @@ fructuarius | 3 | legal: usufructuary, held in usufruct
 fructuarius | 4 | legal, as subst.: a usufructuary (one entitled to the use and profit of a thing)
 fructuosus | 1 | fruitful
 fructuosus | 3 | trop: profitable, beneficial, rewarding
+fructus2 | 1 | fruit
+fructus2 | 2 | profit
+fructus2 | 3 | rare, abstr: enjoyment, use
+fructus2 | 4 | trop: result, reward, return (of an action)
+frugalis | 1 | frugal
+frugalitas | 1 | frugality
+frugifer | 1 | fruitful
+frugifer | 3 | trop: profitable, beneficial
+frumentarius | 1 | of grain
+frumentarius | 3 | as subst.: a corn-dealer, a grain merchant
+frumentarius | 4 | milit, as subst.: a commissary, a supply officer (for grain)
+frumentor | 1 | forage
+frumentor | 3 | act, rare: to supply with grain
+frumentum | 1 | grain
+frumentum | 3 | transf: small seeds (e.g. of figs)
+fruniscor | 1 | enjoy
+fruor | 1 | enjoy
+fruor | 3 | legal: to hold the usufruct of, have use and enjoyment of
+frustra | 1 | vainly
+frustra | 3 | rare: in error, mistakenly, under a delusion
+frustra | 4 | without reason, groundlessly
