@@ -25,6 +25,30 @@ gallicinium | 3 | the last watch of the night, early dawn
 gallina1 | 1 | hen
 gallinaceus | 1 | of poultry
 gallinaceus | 3 | transferred, of plants: cunila gallinacea, a kind of savory herb
+gallinarius | 1 | of poultry
+gallinarius | 3 | as a noun, a poulterer, one who tends poultry
+gallinarius | 4 | as a noun, gallinarium, a hen-house
+gallus1 | 1 | cock
+gallus1 | 3 | ad cantum galli secundi, at the second cock-crow, i.e. before dawn
+ganea | 1 | dive
+ganea | 3 | a cheap eating-house or tavern, especially one of ill repute, often frequented by prostitutes
+ganeo | 1 | glutton
+ganeo | 2 | debauchee
+ganeo | 3 | one who haunts eating-houses and dens of vice, a wastrel
+gannio | 1 | yelp
+gannio | 3 | of dogs, to bark or yelp
+gannio | 4 | transferred, of persons, to snarl, growl, or grumble
+gannitus | 1 | yelp
+gannitus | 3 | transferred, of birds, a chirping or twittering
+gannitus | 4 | transferred, of persons, a snarling, grumbling, or whining
+garrio | 1 | chatter
+garrio | 3 | to talk idly, prattle, gossip
+garrio | 4 | transferred, of frogs croaking or birds singing
+garrulitas | 1 | garrulity
+garrulitas | 3 | talkativeness, a habit of chattering or prattling
+garrulus | 1 | talkative
+garrulus | 3 | transferred, of animals or birds, that chatters, chirps, or twitters constantly
+garrulus | 4 | transferred, of a subject, talked about at length, the theme of endless chatter
 gaudeo | 1 | rejoice
 gaudeo | 2 | delight
 gaudeo | 3 | to be glad, feel joy inwardly, as against laetor, which shows joy openly
@@ -33,6 +57,10 @@ gaudeo | 5 | to be glad that something is so, with an infinitive, an accusative 
 gaudeo | 6 | in sinu gaudere, to be quietly pleased with oneself, to enjoy something in secret
 gaudeo | 7 | of plants, places, and things, to thrive on or be at home in something
 gaudeo | 8 | used as a greeting, like the Greek chairein: to send someone one's good wishes
+gaudium | 1 | joy
+gaudium | 3 | inward joy or gladness, as opposed to laetitia, joy that shows itself outwardly
+gaudium | 4 | in the plural gaudia, outward expressions of joy, or sensual pleasure and enjoyment
+gaudium | 5 | transferred, a cause or source of joy, a delight
 gens | 1 | clan
 gens | 2 | people
 gens | 3 | a Roman clan: a group of families sharing one name and common religious rites, such as the gens Iulia
