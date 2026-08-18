@@ -346,3 +346,27 @@ ferrugineus | 3 | of taste: metallic, iron-tasting
 ferrugo | 1 | rust
 ferrugo | 3 | transf: a dusky colour, rust-red (or sea-green)
 ferrugo | 4 | trop, rare: envy
+ferrum | 1 | iron
+ferrum | 3 | transf: a sword, a blade
+ferrum | 4 | transf: an iron tool (e.g. a plough, a chisel)
+ferrumen | 1 | solder
+ferrumen | 3 | rare: iron-rust
+ferruumino | 1 | solder
+ferruumino | 3 | comic: to glue together (of lips, i.e. to kiss)
+fertilis | 1 | fertile
+fertilis | 3 | trop: productive, fruitful (of talent)
+fertilis | 4 | act: fertilizing, making fruitful
+fertilitas | 1 | fertility
+fertilitas | 3 | trop, rare: productiveness (of an artist's talent)
+ferula | 1 | fennel
+ferula | 3 | transf: a cane, a rod (for punishment)
+ferula | 4 | medic: a splint (for a broken bone)
+ferus | 1 | wild
+ferus | 3 | as subst. (fera): a wild beast, an animal
+ferus | 4 | trop: savage, barbarous, cruel
+fervefacio | 1 | heat
+ferveo | 1 | boil
+ferveo | 3 | trop: to rage, seethe, be inflamed (with passion)
+ferveo | 4 | transf: to swarm, teem (with activity or numbers)
+fervesco | 1 | heat up
+fervesco | 3 | trop: to grow hot with anger, become inflamed
