@@ -1094,3 +1094,22 @@ fungor | 3 | in partic: to pay, discharge (a due or obligation)
 fungus | 1 | mushroom
 fungus | 3 | pejor: a dolt, a blockhead
 fungus | 4 | transf: candle-snuff (charred wick)
+funis | 1 | rope
+funus | 1 | funeral
+funus | 3 | transf, poet: a corpse, a dead body
+funus | 4 | trop: destruction, ruin, downfall
+fur | 1 | thief
+fur | 3 | transf: a drone (a robber-bee)
+furax | 1 | thievish
+furca | 1 | fork
+furca | 3 | as punishment: a yoke (placed on a slave's neck as punishment)
+furca | 4 | transf: a gallows
+furcifer | 1 | scoundrel
+furcilla | 1 | pitchfork
+furcula | 1 | prop
+furcula | 3 | geog (Furculae Caudinae): the Caudine Forks (a mountain pass)
+furfur | 1 | bran
+furfur | 3 | transf: dandruff, scurf (on the skin)
+furia | 1 | frenzy
+furia | 3 | personif. (Furia): a Fury, a goddess of vengeance
+furia | 4 | transf: a fiend, a menace (of a destructive person)
