@@ -218,3 +218,25 @@ fatus2 | 3 | esp: an oracle, a prophecy
 fatuus1 | 1 | foolish
 fatuus1 | 3 | as subst.: a fool, a jester (kept for amusement)
 fatuus1 | 4 | poet, transf: insipid, tasteless (of food)
+fauces | 1 | throat
+fauces | 3 | transf: a narrow pass, a defile
+fauces | 4 | transf: a chasm, an abyss (in the earth)
+faustus1 | 1 | auspicious
+fautor | 1 | patron
+fautor | 3 | absol: an applauder, a claqueur (a hired supporter)
+fautrix | 1 | patroness
+faventia1 | 1 | silence
+faventia1 | 3 | relig: ritual silence (kept during a sacrifice)
+faveo | 1 | favour
+faveo | 3 | relig, idiom (favete linguis): keep reverent silence
+faveo | 4 | to applaud, cheer
+favilla | 1 | embers
+favilla | 3 | in partic: the ashes of the dead (still warm)
+favilla | 4 | trop: a spark, the beginning (of trouble)
+favor | 1 | favour
+favor | 3 | in partic: applause, acclaim (at a performance)
+favor | 4 | legal: favoris causa, as a matter of legal preference
+favorabilis | 1 | popular
+favorabilis | 3 | of speech: winning, appealing, persuasive
+favus | 1 | honeycomb
+favus | 3 | transf: a hexagonal paving-stone
