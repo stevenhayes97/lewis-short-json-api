@@ -1,5 +1,54 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_G.json (Lewis & Short via Perseus), simplified for learners.
+galbanum | 1 | galbanum
+galbanum | 3 | a fragrant gum-resin from a Syrian plant, used in incense and medicine
+galbeum | 1 | armband
+galbeum | 3 | a band or fillet worn on the arm, as an ornament, for medical use, or by a general celebrating a triumph
+galea | 1 | helmet
+galea | 3 | usually a leather helmet, as opposed to the metal cassis
+galea | 4 | transferred, the crest of the Guinea fowl
+# review: galeo English has no one-word verb for putting on a helmet; "helm" would wrongly suggest steering
+galeo | 1 | cover with a helmet
+galeo | 3 | of soldiers, to put on or wear a helmet, to arm
+galeo | 4 | transferred, galeatus prologus, a defensive preface, written to forestall criticism
+galeritus | 1 | hooded
+galeritus | 3 | of a rustic, wearing a hood or hide cap
+galeritus | 4 | transferred, galerita avis, the crested lark
+galerum | 1 | cap
+galerum | 3 | a close-fitting cap of skin or fur, worn by priests
+galerum | 4 | a kind of wig or toupee
+galerum | 5 | poetic, a rose-bud
+galla1 | 1 | gall-nut
+galla1 | 3 | a harsh, inferior kind of wine
+gallicinium | 1 | cockcrow
+gallicinium | 3 | the last watch of the night, early dawn
+gallina1 | 1 | hen
+gallinaceus | 1 | of poultry
+gallinaceus | 3 | transferred, of plants: cunila gallinacea, a kind of savory herb
+gallinarius | 1 | of poultry
+gallinarius | 3 | as a noun, a poulterer, one who tends poultry
+gallinarius | 4 | as a noun, gallinarium, a hen-house
+gallus1 | 1 | cock
+gallus1 | 3 | ad cantum galli secundi, at the second cock-crow, i.e. before dawn
+ganea | 1 | dive
+ganea | 3 | a cheap eating-house or tavern, especially one of ill repute, often frequented by prostitutes
+ganeo | 1 | glutton
+ganeo | 2 | debauchee
+ganeo | 3 | one who haunts eating-houses and dens of vice, a wastrel
+gannio | 1 | yelp
+gannio | 3 | of dogs, to bark or yelp
+gannio | 4 | transferred, of persons, to snarl, growl, or grumble
+gannitus | 1 | yelp
+gannitus | 3 | transferred, of birds, a chirping or twittering
+gannitus | 4 | transferred, of persons, a snarling, grumbling, or whining
+garrio | 1 | chatter
+garrio | 3 | to talk idly, prattle, gossip
+garrio | 4 | transferred, of frogs croaking or birds singing
+garrulitas | 1 | garrulity
+garrulitas | 3 | talkativeness, a habit of chattering or prattling
+garrulus | 1 | talkative
+garrulus | 3 | transferred, of animals or birds, that chatters, chirps, or twitters constantly
+garrulus | 4 | transferred, of a subject, talked about at length, the theme of endless chatter
 gaudeo | 1 | rejoice
 gaudeo | 2 | delight
 gaudeo | 3 | to be glad, feel joy inwardly, as against laetor, which shows joy openly
@@ -8,6 +57,107 @@ gaudeo | 5 | to be glad that something is so, with an infinitive, an accusative 
 gaudeo | 6 | in sinu gaudere, to be quietly pleased with oneself, to enjoy something in secret
 gaudeo | 7 | of plants, places, and things, to thrive on or be at home in something
 gaudeo | 8 | used as a greeting, like the Greek chairein: to send someone one's good wishes
+gaudium | 1 | joy
+gaudium | 3 | inward joy or gladness, as opposed to laetitia, joy that shows itself outwardly
+gaudium | 4 | in the plural gaudia, outward expressions of joy, or sensual pleasure and enjoyment
+gaudium | 5 | transferred, a cause or source of joy, a delight
+gelidus | 1 | icy
+gelidus | 3 | very cold, colder than frigidus; of water, ice-cold
+gelidus | 4 | poetic, cold and stiff with death, old age, or fear
+gelo1 | 1 | freeze
+gelo1 | 3 | to cause to freeze or congeal; in the passive, to be frozen
+gelo1 | 4 | to chill or numb with fright or horror
+gelum | 1 | frost
+gelum | 3 | poetic, coldness or numbness caused by death, old age, or fear
+gemellus | 1 | twin
+gemellus | 3 | transferred, paired, double: poma gemella, fruit growing in pairs
+gemellus | 4 | resembling or matched like twins
+gemino | 1 | double
+gemino | 3 | to pair, join, or unite two things together
+geminus | 1 | twin
+geminus | 3 | transferred, paired, double, twofold, both
+geminus | 4 | as a proper noun, Gemini, the constellation of the Twins
+gemitus | 1 | groan
+gemitus | 3 | poetic, of inanimate things, a deep or hoarse sound
+gemma | 1 | bud
+gemma | 2 | gem
+gemma | 3 | a bud, eye, or shoot on a plant
+gemma | 4 | a precious stone, especially cut and polished, a jewel
+gemma | 5 | an object made of gemstone: a drinking-cup, or a seal-ring
+gemma | 6 | a pearl (poetic)
+gemma | 7 | the eye-like markings on a peacock's tail
+gemma | 8 | transferred, an ornament, a beauty (post-Augustan, rare)
+gemmatus | 1 | jewelled
+gemmatus | 3 | set or adorned with precious stones
+gemmatus | 4 | having buds or eyes, of plants
+gemmeus | 1 | jewelled
+gemmeus | 3 | of or set with precious stones
+gemmeus | 4 | transferred, glittering or sparkling like a jewel
+gemmo | 1 | bud
+gemmo | 3 | to put forth buds, of plants
+gemmo | 4 | poetic, to sparkle or glitter, as if set with gems
+gemo | 1 | groan
+gemo | 3 | poetic, of things, to creak or groan under strain
+gemo | 4 | transitive, to sigh over, bewail, lament something
+gemursa | 1 | toe swelling
+gena | 1 | cheek
+gena | 3 | poetic, the eye or eyelid, used this way by Ennius
+gena | 4 | poetic, the eye-socket
+gener | 1 | son-in-law
+gener | 3 | transferred, the husband of a granddaughter, or a sister's husband
+generalis | 1 | general
+generalis | 3 | of or belonging to a kind or species, generic (rare)
+generalis | 4 | relating to all, as opposed to particular or specific
+generatim | 1 | by kind
+generatim | 3 | by kinds, species, classes, or divisions
+generatim | 4 | opposed to specially: in general terms, broadly
+generatio | 1 | generation
+generatio | 3 | the act of begetting or producing offspring
+generatio | 4 | transferred, a generation of people, an age-group
+genero | 1 | beget
+genero | 3 | to produce or create, of non-physical things
+genero | 4 | in the passive, to spring or descend from
+generositas | 1 | nobility
+generositas | 2 | boldness
+generositas | 3 | a noble breed or race, said of animals
+generositas | 4 | high spirit, courage, boldness of nature
+generosus | 1 | noble
+generosus | 2 | generous
+generosus | 3 | of noble birth or descent
+generosus | 4 | transferred, of animals or plants, of good stock, superior in kind
+generosus | 5 | of persons, noble-minded, magnanimous
+generosus | 6 | of things, dignified, honourable
+genetivus | 1 | genitive
+genetivus | 3 | of or belonging to generation or birth (rare, poetic)
+genetivus | 4 | in grammar, casus genetivus, the genitive case
+genetrix | 1 | mother
+genetrix | 3 | poetic, she who produces or gives rise to something
+genetrix | 4 | poetic, a mother-in-law (rare)
+genialis | 1 | genial
+genialis | 2 | nuptial
+genialis | 3 | of or belonging to the marriage bed: lectus genialis, the bridal bed
+genialis | 4 | jovial, festive, pleasant, given to enjoyment and good living
+geniculatus | 1 | knotted
+geniculatus | 3 | jointed, having knots, as the stem of certain plants
+geniculatus | 4 | with bent knee; as a proper noun, Geniculatus, the constellation "The Kneeler"
+geniculum | 1 | small knee
+geniculum | 3 | transferred, a knot or joint on the stalk of a plant
+genitalis | 1 | generative
+genitalis | 3 | causing birth or generation, fruitful
+genitalis | 4 | as a title of Diana, presiding over childbirth
+genitalis | 5 | as a noun (genitale), the genital organ
+genitor | 1 | father
+genitor | 3 | a begetter, creator, sire
+genitor | 4 | poetic, a source or origin: genitor Rhodanus, the Rhone as source-river
+genitura | 1 | birth
+genitura | 3 | the act of begetting or bearing offspring
+genitura | 4 | transferred, seed, semen
+genitura | 5 | in astrology, one's natal star or horoscope
+genius | 1 | guardian spirit
+genius | 3 | the tutelary deity of a person, place, or thing
+genius | 4 | one's spirit of enjoyment, taste for good living, appetite: indulgere genio, to indulge oneself
+genius | 5 | comically, a term for one's patron or host, used by parasites
+genius | 6 | very rare, intellectual talent, genius
 gens | 1 | clan
 gens | 2 | people
 gens | 3 | a Roman clan: a group of families sharing one name and common religious rites, such as the gens Iulia
@@ -18,6 +168,27 @@ gens | 7 | a breed, herd, or swarm of animals
 gens | 8 | a tribe, crew, or gang, said with contempt (gens Clodiana, that Clodian crew)
 gens | 9 | partitive genitive gentium, used for emphasis in questions: ubi gentium, where in the world
 gens | 10 | in Christian Latin, gentes: the gentiles, the pagan nations
+# review: gentilicius "of a clan" needs the article to be accurate; no shorter English phrasing fits
+gentilicius | 1 | of a clan
+gentilicius | 3 | belonging to a particular gens: sacra gentilicia, the clan's ancestral rites
+gentilicius | 4 | of a nation, national (post-classical)
+gentilis | 1 | clansman
+gentilis | 3 | of or belonging to the same clan, stock, or race
+gentilis | 4 | transferred, of the same nation, a fellow-countryman (post-classical)
+gentilis | 5 | in ecclesiastical Latin, a heathen, pagan, gentile
+gentilitas | 1 | kinship
+gentilitas | 3 | the relationship between members of the same gens
+gentilitas | 4 | transferred, concretely, one's kindred, relatives bearing the same name
+gentilitas | 5 | in ecclesiastical Latin, heathenism, paganism
+genu | 1 | knee
+genu | 3 | transferred, of plants, a knot or joint on a stalk
+genuinus1 | 1 | innate
+genuinus1 | 2 | genuine
+genuinus1 | 3 | native, natural, belonging to one from birth
+genuinus1 | 4 | transferred, genuine, authentic (post-classical)
+# review: genuinus2 "of the cheek" needs the article to be accurate; no shorter English phrasing fits
+genuinus2 | 1 | of the cheek
+genuinus2 | 3 | dentes genuini, the back teeth, molars
 genus1 | 1 | kind
 genus1 | 2 | birth
 genus1 | 3 | a kind, sort, class, or type of thing (omne genus, of every kind)
@@ -28,6 +199,23 @@ genus1 | 7 | a descendant, child, or offspring; collectively, posterity (poetic)
 genus1 | 8 | a manner, style, or way of doing something: genus dicendi, a style of speaking
 genus1 | 9 | in logic, a genus: the general class that contains the particular species beneath it
 genus1 | 10 | in grammar, gender
+germanitas | 1 | siblinghood
+germanitas | 3 | the relationship between full brothers and sisters
+germanitas | 4 | transferred, close kinship between colony and mother-city, or resemblance between things
+germanitas | 5 | a sister (rare)
+germanus1 | 1 | full
+germanus1 | 2 | genuine
+germanus1 | 3 | of siblings sharing both parents: frater germanus, a full brother
+germanus1 | 4 | as a noun, an own or full brother or sister
+germanus1 | 5 | transferred, of or belonging to brothers and sisters, brotherly, sisterly (rare)
+germanus1 | 6 | genuine, real, actual, true
+germen | 1 | sprout
+germen | 3 | poetic, a sprig, offshoot, or bud of a plant
+germen | 4 | figurative, a germ, origin, or seed of something
+germinatio | 1 | germination
+germinatio | 3 | transferred, concretely, a sprout or shoot
+germino | 1 | germinate
+germino | 3 | to put forth or produce something, such as feathers or hair
 gero1 | 1 | carry
 gero1 | 2 | wage
 gero1 | 3 | to bear or carry something; to wear clothing, armour, a crown, or a weapon
@@ -38,12 +226,63 @@ gero1 | 7 | se gerere with an adverb or phrase: to behave, act, conduct oneself 
 gero1 | 8 | of soil, plants, or animals: to bear, bring forth, produce
 gero1 | 9 | of time: to pass, spend, live out (aetatem gerere, to spend one's life)
 gero1 | 10 | res gestae, from the perfect participle: things done, deeds, exploits, achievements
+gerulus | 1 | carrier
+gerulus | 3 | one who does or performs something, a doer (rare)
+gesta | 1 | deeds
+gestamen | 1 | burden
+gestamen | 2 | conveyance
+gestamen | 3 | something worn or carried: an ornament, weapon, or piece of armour
+gestamen | 4 | a litter, sedan chair, or carriage
+gestamen | 5 | any means of conveyance
+gestatio | 1 | airing
+gestatio | 3 | the act of carrying or bearing (rare)
+gestatio | 4 | being carried about for pleasure, in a litter, carriage, or boat; a ride, drive, or sail
+gestatio | 5 | transferred, a promenade or place for taking the air
+gesticulor | 1 | gesticulate
+gestio2 | 1 | exult
+gestio2 | 2 | yearn
+gestio2 | 3 | to throw oneself about for joy, to be transported, to exult
+gestio2 | 4 | to desire eagerly or long for something, usually with an infinitive
+gestio2 | 5 | in speaking, to digress freely, to range at will
+gestito | 1 | carry
+gestito | 3 | to carry often or habitually, to be in the habit of wearing or bearing something
+gesto | 1 | carry
+gesto | 3 | to wear, wield, or bear something habitually
+gesto | 4 | passive gestari, to be carried about for pleasure, to ride, drive, or sail
+gesto | 5 | figurative, to cherish in one's heart, to hold dear
+gesto | 6 | to carry about and spread, to report, gossip, blab
+gestus2 | 1 | gesture
+gestus2 | 3 | the carriage, posture, or motion of the body
+gestus2 | 4 | in particular, the gesticulation of an actor or orator
+gestus2 | 5 | post-classical, management, administration
+gibber1 | 1 | hunchbacked
+gibber1 | 3 | transferred, protuberant, bulging
+gibbus1 | 1 | humped
+gibbus1 | 3 | as a noun, a hump
+gibbus1 | 4 | transferred, a hump-like swelling, a protuberance
+gigeria | 1 | giblets
 gigno | 1 | beget
 gigno | 2 | produce
 gigno | 3 | to father or give birth to, to bring into the world, said of either parent
 gigno | 4 | of the earth and nature, to bring forth, grow, yield
 gigno | 5 | to cause, occasion, or give rise to something abstract, such as fear, quarrels, or friendship
 gigno | 6 | in the passive, gigni: to be born, to arise, to spring from
+glaber | 1 | smooth
+glaber | 3 | hairless, bald
+glaber | 4 | as a noun, a young beardless slave, a favourite
+glacialis | 1 | icy
+glacies | 1 | ice
+glacies | 3 | transferred, hardness
+glacio | 1 | freeze
+glacio | 3 | transferred, to make hard or solid
+glacio | 4 | figurative, to numb or chill with fear
+gladiator | 1 | gladiator
+gladiator | 3 | in the plural, a gladiatorial combat or exhibition
+gladiator | 4 | a swordcutler, a maker of swords
+gladiatorius | 1 | gladiatorial
+gladiatorius | 3 | as a noun, the hire or pay of gladiators
+gladiolus | 1 | small sword
+gladiolus | 3 | the sword-lily, gladiolus, the flower
 gladius | 1 | sword
 gladius | 3 | the short two-edged thrusting sword of a Roman soldier, worn on the right hip
 gladius | 4 | violence, bloodshed, or murder, with the sword standing for armed force
@@ -51,6 +290,46 @@ gladius | 5 | a gladiatorial fight, or the arena as a sentence: ad gladium damna
 gladius | 6 | proverbial: suo sibi gladio iugulare, to cut a man's throat with his own sword, to beat him with his own argument
 gladius | 7 | the blade of a ploughshare
 gladius | 8 | the swordfish
+glaeba | 1 | clod
+glaeba | 3 | transferred, land, soil, ground
+glaeba | 4 | a lump or mass of something else: sevi glaebae, lumps of tallow
+glaebula | 1 | small clod
+glaebula | 3 | a small farm, a little piece of land
+glaebula | 4 | a small piece or lump of something else
+glandulae | 1 | tonsils
+glandulae | 3 | the glands of the throat, especially when swollen
+glandulae | 4 | a delicate cut of meat from the neck, especially of pork
+glans | 1 | acorn
+glans | 3 | any acorn-shaped nut, such as a beechnut or chestnut
+glans | 4 | transferred, an acorn-shaped sling-bullet of lead or clay
+glans | 5 | anatomical, the glans penis
+glarea | 1 | gravel
+glis | 1 | dormouse
+glisco | 1 | swell
+glisco | 3 | of fire, to blaze up, kindle, spread
+glisco | 4 | figurative, to grow, increase, spread: of feelings, ambition, or forces gathering strength
+globo | 1 | ball
+globo | 3 | to make round or spherical
+globo | 4 | transferred, to crowd together, to form into a mass or body
+globosus | 1 | spherical
+globulus | 1 | globule
+globulus | 3 | a small lump of food, a dumpling
+globulus | 4 | medical, a pill
+globulus | 5 | figurative, of speech, a well-rounded phrase or period
+globus | 1 | ball
+globus | 2 | troop
+globus | 3 | a round body, sphere, or globe
+globus | 4 | a dumpling
+globus | 5 | in military language, a compact body of troops, a band or company
+globus | 6 | transferred, a mass of things collected together: globi flammarum, balls of flame
+glomeramen | 1 | ball
+glomero | 1 | gather
+glomero | 3 | to wind or form into a ball, to heap up
+glomero | 4 | transferred, to crowd, press, or collect together, of troops assembling
+glomero | 5 | figurative, to accumulate, pile up
+glomus | 1 | clew
+glomus | 3 | a ball or skein of yarn or thread
+glomus | 4 | in religious ritual, a small cake shaped like a ball
 gloria | 1 | glory
 gloria | 2 | fame
 gloria | 3 | glory, renown, or high reputation won by achievement, especially in war
@@ -58,6 +337,23 @@ gloria | 4 | the praise and honour others give you; also the thing you are prais
 gloria | 5 | ambition, the hunger for glory taken as a motive
 gloria | 6 | boasting, vainglory, empty self-display, in a bad sense
 gloria | 7 | in Christian Latin, the glory given to God, divine splendour
+glorior | 1 | boast
+gloriosus | 1 | glorious
+gloriosus | 2 | boastful
+gloriosus | 3 | full of glory, famous, renowned
+gloriosus | 4 | vainglorious, bragging, ostentatious, conceited
+gloriosus | 5 | Miles Gloriosus, the title of a comedy by Plautus, "The Braggart Soldier"
+gluten | 1 | glue
+gluten | 3 | transferred, a connecting tie or band
+gluten | 4 | figurative, a bond, a tie that unites
+glutino | 1 | glue
+glutino | 3 | medical, to close up or heal a wound
+glutio | 1 | gulp
+glutio | 3 | transferred, of sound, to utter brokenly, as if swallowing
+gnarus | 1 | knowing
+gnarus | 2 | skilled
+gnarus | 3 | acquainted or familiar with something, usually with the genitive: loci gnarus, familiar with the place
+gnarus | 4 | passive, known, well-known (post-Augustan, rare)
 gratia | 1 | favour
 gratia | 2 | thanks
 gratia | 3 | the goodwill you enjoy in other people's eyes: esteem, popularity, influence, standing
