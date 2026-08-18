@@ -121,3 +121,29 @@ fama | 2 | reputation
 fama | 3 | personif. (Fama): the goddess of Rumour
 fama | 4 | pejor: ill fame, infamy, scandal
 famelicus | 1 | famished
+fames | 1 | hunger
+fames | 3 | transf: famine, dearth (a shortage of food)
+fames | 4 | trop: greed, avidity, a craving (for wealth or gain)
+fames | 5 | of speech: poverty of expression, aridity
+familia | 1 | household
+familia | 2 | estate
+familia | 3 | in respect to lineage: a family, a clan (within a gens)
+familia | 4 | a school, a sect (of philosophers)
+familiaricus | 1 | servants'
+familiaricus | 3 | of the house or family (in gen.)
+familiaris | 1 | domestic
+familiaris | 2 | intimate
+familiaris | 3 | as subst.: a close friend, an intimate
+familiaris | 4 | customary, habitual, familiar
+familiaris | 5 | fitting, appropriate, suited (to a place or purpose)
+familiaritas | 1 | intimacy
+familiaritas | 3 | transf, plur: close friends, intimates
+famosus | 1 | famous
+famosus | 3 | pejor: infamous, notorious
+famosus | 4 | active: defamatory, slanderous (of a libel)
+famularis | 1 | servile
+famulitium | 1 | servitude
+famulitium | 3 | concr: the household slaves, the domestic staff
+famulor | 1 | serve
+famulus1 | 1 | servant
+famulus1 | 3 | fem (famula): a handmaid, a female attendant
