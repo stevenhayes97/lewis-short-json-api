@@ -1046,3 +1046,25 @@ fumidus | 1 | smoky
 fumificus | 1 | smoking
 fumigo | 1 | fumigate
 fumigo | 3 | neutr: to smoke, steam, give off smoke
+fumo | 1 | smoke
+fumo | 3 | trop, rare: to smoulder (of latent danger)
+fumosus | 1 | smoky
+fumus | 1 | smoke
+fumus | 3 | trop: ruin, destruction (reducing something to smoke and ashes)
+funalis | 1 | roped
+funalis | 3 | as subst. (funale): a wax torch
+funalis | 4 | as subst. (funale), transf: a chandelier
+funarius | 1 | of rope
+functio | 1 | performance
+functio | 3 | late: payment (of taxes, a duty discharged)
+functio | 4 | euphem: death, life's end
+funda | 1 | sling
+funda | 3 | transf: a casting-net, a drag-net
+funda | 4 | transf: the bezel (of a ring, holding a gem)
+funda | 5 | transf: a money-bag, a purse
+fundamentum | 1 | foundation
+fundamentum | 3 | trop: a basis, a groundwork (for virtue or trust)
+fundito | 1 | hurl
+fundito | 3 | trop: to pour forth, spout (words)
+funditus | 1 | utterly
+funditus | 3 | rare: at the bottom, below
