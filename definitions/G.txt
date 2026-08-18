@@ -316,6 +316,20 @@ globulus | 1 | globule
 globulus | 3 | a small lump of food, a dumpling
 globulus | 4 | medical, a pill
 globulus | 5 | figurative, of speech, a well-rounded phrase or period
+globus | 1 | ball
+globus | 2 | troop
+globus | 3 | a round body, sphere, or globe
+globus | 4 | a dumpling
+globus | 5 | in military language, a compact body of troops, a band or company
+globus | 6 | transferred, a mass of things collected together: globi flammarum, balls of flame
+glomeramen | 1 | ball
+glomero | 1 | gather
+glomero | 3 | to wind or form into a ball, to heap up
+glomero | 4 | transferred, to crowd, press, or collect together, of troops assembling
+glomero | 5 | figurative, to accumulate, pile up
+glomus | 1 | clew
+glomus | 3 | a ball or skein of yarn or thread
+glomus | 4 | in religious ritual, a small cake shaped like a ball
 gloria | 1 | glory
 gloria | 2 | fame
 gloria | 3 | glory, renown, or high reputation won by achievement, especially in war
@@ -323,6 +337,23 @@ gloria | 4 | the praise and honour others give you; also the thing you are prais
 gloria | 5 | ambition, the hunger for glory taken as a motive
 gloria | 6 | boasting, vainglory, empty self-display, in a bad sense
 gloria | 7 | in Christian Latin, the glory given to God, divine splendour
+glorior | 1 | boast
+gloriosus | 1 | glorious
+gloriosus | 2 | boastful
+gloriosus | 3 | full of glory, famous, renowned
+gloriosus | 4 | vainglorious, bragging, ostentatious, conceited
+gloriosus | 5 | Miles Gloriosus, the title of a comedy by Plautus, "The Braggart Soldier"
+gluten | 1 | glue
+gluten | 3 | transferred, a connecting tie or band
+gluten | 4 | figurative, a bond, a tie that unites
+glutino | 1 | glue
+glutino | 3 | medical, to close up or heal a wound
+glutio | 1 | gulp
+glutio | 3 | transferred, of sound, to utter brokenly, as if swallowing
+gnarus | 1 | knowing
+gnarus | 2 | skilled
+gnarus | 3 | acquainted or familiar with something, usually with the genitive: loci gnarus, familiar with the place
+gnarus | 4 | passive, known, well-known (post-Augustan, rare)
 gratia | 1 | favour
 gratia | 2 | thanks
 gratia | 3 | the goodwill you enjoy in other people's eyes: esteem, popularity, influence, standing
