@@ -625,3 +625,26 @@ flecto | 2 | persuade
 flecto | 3 | naut: to round, double (a promontory)
 flecto | 4 | gram: to decline, inflect (a word)
 flecto | 5 | neutr: to turn, veer, change direction
+flemina | 1 | swelling
+flemina | 3 | medic: swollen ankles (from a long walk)
+fleo | 1 | weep
+fleo | 3 | act: to lament, mourn, bewail (someone or something)
+fleo | 4 | transf, rare: to drip, trickle (of liquid)
+fletus2 | 1 | weeping
+fletus2 | 3 | transf, concr: tears
+flexanimus | 1 | moving
+flexanimus | 3 | pass, rare: touched, moved, affected
+flexibilis | 1 | flexible
+flexibilis | 3 | pejor: fickle, wavering, inconstant
+flexilis | 1 | pliant
+flexio | 1 | bend
+flexio | 3 | trop: an evasion, a dodge, a roundabout excuse
+flexio | 4 | of the voice: a modulation, an inflection
+flexuosus | 1 | winding
+flexuosus | 3 | trop: devious, crooked (of deceit)
+flexura | 1 | bend
+flexura | 3 | gram: inflection, declension (of a word)
+flexus2 | 1 | turn
+flexus2 | 3 | trop: a political shift, a turning point (in the state)
+flexus2 | 4 | of the voice: a modulation, an inflection
+flexus2 | 5 | gram: an inflection, a grammatical variation
