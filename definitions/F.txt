@@ -648,3 +648,27 @@ flexus2 | 1 | turn
 flexus2 | 3 | trop: a political shift, a turning point (in the state)
 flexus2 | 4 | of the voice: a modulation, an inflection
 flexus2 | 5 | gram: an inflection, a grammatical variation
+fligo | 1 | strike
+flo | 1 | blow
+flo | 3 | transf: to cast, mint (coins, metal by blowing on a furnace)
+flo | 4 | trop: to bluster, talk bombastically
+flocces | 1 | dregs
+floccus | 1 | tuft
+floccus | 3 | idiom (flocci facere): to not care a straw for, to think worthless
+floreo | 1 | bloom
+floreo | 3 | trop: to flourish, thrive, be prosperous
+floreo | 4 | trop: to be eminent, distinguished, in repute
+floreo | 5 | p. a. (florens): flourishing, prosperous, in the prime
+floresco | 1 | blossom
+floresco | 3 | trop: to begin to flourish, come into repute
+floreus | 1 | flowery
+floreus | 3 | transf: shining, radiant, beautiful
+floridus | 1 | flowery
+floridus | 3 | trop: blooming, radiant, in the prime (of youth or beauty)
+flos | 1 | flower
+flos | 3 | trop: the prime, the best part (of anything)
+flos | 4 | transf: virginity, youthful innocence (flos aetatis)
+flos | 5 | of speech: an embellishment, a flourish (of style)
+flosculus | 1 | floweret
+flosculus | 3 | trop: an ornament, a highlight, a showpiece
+flosculus | 4 | of speech: a rhetorical flourish, a purple passage
