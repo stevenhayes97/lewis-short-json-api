@@ -381,6 +381,29 @@ gradus | 7 | a degree of rank, age, or kinship
 gradus | 8 | in mathematics, a degree of a circle
 graecor | 1 | Grecize
 graecor | 3 | to live in the Greek fashion, especially self-indulgently
+gramen | 1 | grass
+gramen | 3 | transferred, a plant or herb generally
+gramen | 4 | in particular, couch-grass, dog's-grass, a weed
+gramineus | 1 | grassy
+gramineus | 3 | of Indian reed, made of bamboo
+granarium | 1 | granary
+grandaevus | 1 | aged
+grandesco | 1 | grow
+grandiloquus | 1 | grandiloquent
+grandiloquus | 3 | in a bad sense, bombastic, pompous in speech
+grandio | 1 | enlarge
+grandio | 3 | intransitive, to grow, become great
+grandis | 1 | large
+grandis | 2 | aged
+grandis | 3 | full-grown, big, great in size
+grandis | 4 | of persons, grown-up, or, with natu, advanced in years, old
+grandis | 5 | trop., great, strong, powerful
+grandis | 6 | of style, grand, lofty, sublime
+granditas | 1 | greatness
+granditas | 3 | of style, grandeur, sublimity
+grando | 1 | hail
+grando | 3 | transferred, poetic, a shower, a great quantity or multitude
+grando | 4 | figurative, of copious, torrential speech
 gratia | 1 | favour
 gratia | 2 | thanks
 gratia | 3 | the goodwill you enjoy in other people's eyes: esteem, popularity, influence, standing
