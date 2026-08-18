@@ -521,3 +521,44 @@ grus | 3 | transferred, a siege engine, a battering-ram shaped like a crane's be
 gubernaculum | 1 | rudder
 gubernaculum | 3 | transferred, guidance, direction
 gubernaculum | 4 | especially, the helm of state, government: gubernacula rei publicae tractare, to be at the helm of the republic
+gubernatio | 1 | steering
+gubernatio | 3 | the piloting of a ship
+gubernatio | 4 | transferred, direction, management, government
+gubernator | 1 | pilot
+gubernator | 2 | governor
+gubernator | 3 | a steersman, one who pilots a ship
+gubernator | 4 | transferred, a director, ruler, one who governs
+gula | 1 | throat
+gula | 2 | gluttony
+gula | 3 | the gullet, weasand
+gula | 4 | transferred, greed for food, gormandizing, appetite
+gulosus | 1 | gluttonous
+gurges1 | 1 | whirlpool
+gurges1 | 2 | spendthrift
+gurges1 | 3 | a raging abyss, gulf, or whirlpool
+gurges1 | 4 | poetic, transferred, waters, a stream, the sea
+gurges1 | 5 | of insatiable craving, an abyss; of a person, one who squanders everything, a prodigal
+gustatus | 1 | taste
+gustatus | 3 | the sense of taste, one of the five senses
+gustatus | 4 | the flavour of something
+gustatus | 5 | figurative, an experience or taste of something: libidinosi verae laudis gustatum non habent, the self-indulgent have no taste for true praise
+gusto | 1 | taste
+gusto | 3 | to take a little of something, to try
+gusto | 4 | in particular, to take a light meal, a snack
+gusto | 5 | figurative, to partake of, enjoy, experience
+gustus | 1 | taste
+gustus | 3 | a tasting, a partaking of a small amount of food
+gustus | 4 | in particular, an appetizer at the start of a meal, a whet
+gustus | 5 | a draught, a small serving of liquid: gustum aquae, a mouthful of water
+gustus | 6 | figurative, a foretaste, a sample or specimen of something
+gutta1 | 1 | drop
+gutta1 | 3 | transferred, a spot or speck, as on an animal's skin or a stone
+gutta1 | 4 | in architecture, a small drop-shaped ornament under the triglyphs of a Doric column
+gutta1 | 5 | figurative, a little bit, a small amount
+guttur | 1 | throat
+guttur | 3 | transferred, gluttony
+gutus | 1 | cruet
+gypso | 1 | plaster
+gyro | 1 | circle
+gyro | 3 | to go around something
+gyro | 4 | intransitive, to turn around, revolve
