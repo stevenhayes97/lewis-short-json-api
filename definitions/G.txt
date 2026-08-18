@@ -214,6 +214,8 @@ germen | 3 | poetic, a sprig, offshoot, or bud of a plant
 germen | 4 | figurative, a germ, origin, or seed of something
 germinatio | 1 | germination
 germinatio | 3 | transferred, concretely, a sprout or shoot
+germino | 1 | germinate
+germino | 3 | to put forth or produce something, such as feathers or hair
 gero1 | 1 | carry
 gero1 | 2 | wage
 gero1 | 3 | to bear or carry something; to wear clothing, armour, a crown, or a weapon
@@ -224,6 +226,35 @@ gero1 | 7 | se gerere with an adverb or phrase: to behave, act, conduct oneself 
 gero1 | 8 | of soil, plants, or animals: to bear, bring forth, produce
 gero1 | 9 | of time: to pass, spend, live out (aetatem gerere, to spend one's life)
 gero1 | 10 | res gestae, from the perfect participle: things done, deeds, exploits, achievements
+gerulus | 1 | carrier
+gerulus | 3 | one who does or performs something, a doer (rare)
+gesta | 1 | deeds
+gestamen | 1 | burden
+gestamen | 2 | conveyance
+gestamen | 3 | something worn or carried: an ornament, weapon, or piece of armour
+gestamen | 4 | a litter, sedan chair, or carriage
+gestamen | 5 | any means of conveyance
+gestatio | 1 | airing
+gestatio | 3 | the act of carrying or bearing (rare)
+gestatio | 4 | being carried about for pleasure, in a litter, carriage, or boat; a ride, drive, or sail
+gestatio | 5 | transferred, a promenade or place for taking the air
+gesticulor | 1 | gesticulate
+gestio2 | 1 | exult
+gestio2 | 2 | yearn
+gestio2 | 3 | to throw oneself about for joy, to be transported, to exult
+gestio2 | 4 | to desire eagerly or long for something, usually with an infinitive
+gestio2 | 5 | in speaking, to digress freely, to range at will
+gestito | 1 | carry
+gestito | 3 | to carry often or habitually, to be in the habit of wearing or bearing something
+gesto | 1 | carry
+gesto | 3 | to wear, wield, or bear something habitually
+gesto | 4 | passive gestari, to be carried about for pleasure, to ride, drive, or sail
+gesto | 5 | figurative, to cherish in one's heart, to hold dear
+gesto | 6 | to carry about and spread, to report, gossip, blab
+gestus2 | 1 | gesture
+gestus2 | 3 | the carriage, posture, or motion of the body
+gestus2 | 4 | in particular, the gesticulation of an actor or orator
+gestus2 | 5 | post-classical, management, administration
 gigno | 1 | beget
 gigno | 2 | produce
 gigno | 3 | to father or give birth to, to bring into the world, said of either parent
