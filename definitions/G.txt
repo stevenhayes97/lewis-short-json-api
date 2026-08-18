@@ -168,6 +168,27 @@ gens | 7 | a breed, herd, or swarm of animals
 gens | 8 | a tribe, crew, or gang, said with contempt (gens Clodiana, that Clodian crew)
 gens | 9 | partitive genitive gentium, used for emphasis in questions: ubi gentium, where in the world
 gens | 10 | in Christian Latin, gentes: the gentiles, the pagan nations
+# review: gentilicius "of a clan" needs the article to be accurate; no shorter English phrasing fits
+gentilicius | 1 | of a clan
+gentilicius | 3 | belonging to a particular gens: sacra gentilicia, the clan's ancestral rites
+gentilicius | 4 | of a nation, national (post-classical)
+gentilis | 1 | clansman
+gentilis | 3 | of or belonging to the same clan, stock, or race
+gentilis | 4 | transferred, of the same nation, a fellow-countryman (post-classical)
+gentilis | 5 | in ecclesiastical Latin, a heathen, pagan, gentile
+gentilitas | 1 | kinship
+gentilitas | 3 | the relationship between members of the same gens
+gentilitas | 4 | transferred, concretely, one's kindred, relatives bearing the same name
+gentilitas | 5 | in ecclesiastical Latin, heathenism, paganism
+genu | 1 | knee
+genu | 3 | transferred, of plants, a knot or joint on a stalk
+genuinus1 | 1 | innate
+genuinus1 | 2 | genuine
+genuinus1 | 3 | native, natural, belonging to one from birth
+genuinus1 | 4 | transferred, genuine, authentic (post-classical)
+# review: genuinus2 "of the cheek" needs the article to be accurate; no shorter English phrasing fits
+genuinus2 | 1 | of the cheek
+genuinus2 | 3 | dentes genuini, the back teeth, molars
 genus1 | 1 | kind
 genus1 | 2 | birth
 genus1 | 3 | a kind, sort, class, or type of thing (omne genus, of every kind)
@@ -178,6 +199,21 @@ genus1 | 7 | a descendant, child, or offspring; collectively, posterity (poetic)
 genus1 | 8 | a manner, style, or way of doing something: genus dicendi, a style of speaking
 genus1 | 9 | in logic, a genus: the general class that contains the particular species beneath it
 genus1 | 10 | in grammar, gender
+germanitas | 1 | siblinghood
+germanitas | 3 | the relationship between full brothers and sisters
+germanitas | 4 | transferred, close kinship between colony and mother-city, or resemblance between things
+germanitas | 5 | a sister (rare)
+germanus1 | 1 | full
+germanus1 | 2 | genuine
+germanus1 | 3 | of siblings sharing both parents: frater germanus, a full brother
+germanus1 | 4 | as a noun, an own or full brother or sister
+germanus1 | 5 | transferred, of or belonging to brothers and sisters, brotherly, sisterly (rare)
+germanus1 | 6 | genuine, real, actual, true
+germen | 1 | sprout
+germen | 3 | poetic, a sprig, offshoot, or bud of a plant
+germen | 4 | figurative, a germ, origin, or seed of something
+germinatio | 1 | germination
+germinatio | 3 | transferred, concretely, a sprout or shoot
 gero1 | 1 | carry
 gero1 | 2 | wage
 gero1 | 3 | to bear or carry something; to wear clothing, armour, a crown, or a weapon
