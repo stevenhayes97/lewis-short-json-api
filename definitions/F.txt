@@ -844,3 +844,25 @@ foveo | 3 | medic: to foment (a wound or ailment)
 fraces | 1 | dregs
 fracesco | 1 | rot
 fractura | 1 | fracture
+fragilis | 1 | brittle
+fragilis | 3 | transf: weak, frail, perishable
+fragilitas | 1 | brittleness
+fragilitas | 3 | transf: weakness, frailty
+fragmen | 1 | fragment
+fragmentum | 1 | fragment
+fragor | 1 | crash
+fragosus | 1 | rugged
+fragosus | 3 | trop, of speech: choppy, uneven, halting
+fragosus | 4 | poet: roaring, crashing (of a torrent)
+fragro | 1 | smell
+fragro | 3 | of an unpleasant smell: to reek, stink
+frango | 1 | break
+frango | 2 | subdue
+frango | 3 | transf: to grind, crush, pulverize
+frango | 4 | trop: to move, soften, touch (someone's feelings)
+frater | 1 | brother
+frater | 3 | transf: a dear friend (an affectionate term of address)
+frater | 4 | in partic (frater patruelis): a cousin (father's brother's son)
+frater | 5 | euphem: a lover
+fraterculus | 1 | brother
+fraterculus | 3 | transf: dear friend, buddy (affectionate address)
