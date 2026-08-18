@@ -121,6 +121,43 @@ generositas | 1 | nobility
 generositas | 2 | boldness
 generositas | 3 | a noble breed or race, said of animals
 generositas | 4 | high spirit, courage, boldness of nature
+generosus | 1 | noble
+generosus | 2 | generous
+generosus | 3 | of noble birth or descent
+generosus | 4 | transferred, of animals or plants, of good stock, superior in kind
+generosus | 5 | of persons, noble-minded, magnanimous
+generosus | 6 | of things, dignified, honourable
+genetivus | 1 | genitive
+genetivus | 3 | of or belonging to generation or birth (rare, poetic)
+genetivus | 4 | in grammar, casus genetivus, the genitive case
+genetrix | 1 | mother
+genetrix | 3 | poetic, she who produces or gives rise to something
+genetrix | 4 | poetic, a mother-in-law (rare)
+genialis | 1 | genial
+genialis | 2 | nuptial
+genialis | 3 | of or belonging to the marriage bed: lectus genialis, the bridal bed
+genialis | 4 | jovial, festive, pleasant, given to enjoyment and good living
+geniculatus | 1 | knotted
+geniculatus | 3 | jointed, having knots, as the stem of certain plants
+geniculatus | 4 | with bent knee; as a proper noun, Geniculatus, the constellation "The Kneeler"
+geniculum | 1 | small knee
+geniculum | 3 | transferred, a knot or joint on the stalk of a plant
+genitalis | 1 | generative
+genitalis | 3 | causing birth or generation, fruitful
+genitalis | 4 | as a title of Diana, presiding over childbirth
+genitalis | 5 | as a noun (genitale), the genital organ
+genitor | 1 | father
+genitor | 3 | a begetter, creator, sire
+genitor | 4 | poetic, a source or origin: genitor Rhodanus, the Rhone as source-river
+genitura | 1 | birth
+genitura | 3 | the act of begetting or bearing offspring
+genitura | 4 | transferred, seed, semen
+genitura | 5 | in astrology, one's natal star or horoscope
+genius | 1 | guardian spirit
+genius | 3 | the tutelary deity of a person, place, or thing
+genius | 4 | one's spirit of enjoyment, taste for good living, appetite: indulgere genio, to indulge oneself
+genius | 5 | comically, a term for one's patron or host, used by parasites
+genius | 6 | very rare, intellectual talent, genius
 gens | 1 | clan
 gens | 2 | people
 gens | 3 | a Roman clan: a group of families sharing one name and common religious rites, such as the gens Iulia
