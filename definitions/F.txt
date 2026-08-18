@@ -760,3 +760,24 @@ fordus | 1 | pregnant
 forensis | 1 | forensic
 forfex | 1 | shears
 forfex | 3 | transf: a claw (of a crab or beetle)
+forinsecus | 1 | outwardly
+forinsecus | 3 | transf: outdoors, out
+foris1 | 1 | door
+foris1 | 3 | trop: an entrance, an opening (into something)
+foris2 | 1 | outside
+foris2 | 3 | from without, from abroad
+forma | 1 | shape
+forma | 2 | beauty
+forma | 3 | a mould, a pattern, a model
+forma | 4 | philos: a kind, a species (of a genus)
+forma | 5 | gram: the grammatical form (of a word)
+formalis | 1 | formal
+formalis | 3 | rare: of or for a mould
+formator | 1 | former
+formator | 3 | trop: a trainer, a shaper (of character or minds)
+formica | 1 | ant
+formidabilis | 1 | formidable
+formido1 | 1 | dread
+formido2 | 1 | dread
+formido2 | 3 | in partic: awe, reverence
+formido2 | 4 | concr: a bugbear, a scarecrow (used to frighten game)
