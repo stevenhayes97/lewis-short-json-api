@@ -410,3 +410,29 @@ fetus2 | 3 | abstr: the act of giving birth, breeding
 fetus2 | 4 | transf: fruit, produce (of plants)
 fetus2 | 5 | trop: a literary product, a creation (of the mind)
 fetutina | 1 | cesspool
+fibra | 1 | fibre
+fibra | 3 | transf, poet: entrails, innards
+fibra | 4 | trop: the depths, the interior (of the earth)
+fibula | 1 | clasp
+fibula | 3 | medic: a clamp (for closing a wound)
+fibula | 4 | trop: a connection, a link (joining ideas)
+ficarius | 1 | of figs
+ficarius | 3 | as subst. (ficaria): a fig orchard
+ficatum | 1 | liver
+ficatum | 3 | esp: liver fattened on figs (a delicacy)
+ficticius | 1 | fake
+ficticius | 3 | of actions: feigned, pretended (in a legal sense)
+fictilis | 1 | earthen
+fictilis | 3 | as subst. (fictilia): earthenware, clay vessels
+fictio | 1 | formation
+fictio | 3 | rhet: a hypothetical case, a supposition
+fictio | 4 | legal: a legal fiction (an assumed fact)
+fictor | 1 | sculptor
+fictor | 3 | relig: a baker of ritual cakes
+fictor | 4 | trop: a deceiver, a feigner (master of lies)
+ficus | 1 | fig-tree
+ficus | 3 | transf: a fig (the fruit)
+ficus | 4 | medic, colloq: piles, haemorrhoids
+# review: fideicommissarius relates to the Roman fideicommissum trust-bequest; English has no adjective for it
+fideicommissarius | 1 | of a trust-bequest
+fideicommissarius | 3 | as subst.: one who receives an inheritance under a fideicommissum, a trust-heir
