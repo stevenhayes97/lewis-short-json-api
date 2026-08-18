@@ -1113,3 +1113,20 @@ furfur | 3 | transf: dandruff, scurf (on the skin)
 furia | 1 | frenzy
 furia | 3 | personif. (Furia): a Fury, a goddess of vengeance
 furia | 4 | transf: a fiend, a menace (of a destructive person)
+furialis | 1 | furious
+furialis | 3 | act, rare: maddening, infuriating
+furibundus | 1 | raging
+furibundus | 3 | esp: inspired, prophetically frenzied
+furio1 | 1 | madden
+furiosus | 1 | furious
+furnus | 1 | oven
+furo | 1 | rage
+furo | 3 | transf: to rage, rush violently (of wind, sea)
+furor1 | 1 | steal
+furor1 | 3 | transf: to remove secretly, withdraw stealthily
+furor2 | 1 | frenzy
+furor2 | 3 | personif. (Furor): the god of Rage, companion of Mars
+furor2 | 4 | transf, poet: a cause of wrath, a provocation
+furtim | 1 | stealthily
+furtivus | 1 | stolen
+furtivus | 3 | transf: secret, hidden, clandestine
