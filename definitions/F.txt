@@ -1,0 +1,1158 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_F.json (Lewis & Short via Perseus), simplified for learners.
+faba | 1 | bean
+faba | 3 | transf: a bean-shaped grain or pellet
+fabarius | 1 | of beans
+fabella | 1 | tale
+fabella | 3 | in partic: a fable (with a moral)
+fabella | 4 | a short play
+faber1 | 1 | craftsman
+faber1 | 3 | esp (faber tignarius): a carpenter
+faber2 | 1 | skilful
+fabrefacio | 1 | craft
+fabrefacio | 3 | trop: to forge, contrive (a trick)
+fabrica | 1 | workshop
+fabrica | 3 | transf: a craft, a trade (requiring skilled work)
+fabrica | 4 | gen: a structure, a skilfully made thing
+fabrica | 5 | comic: a trick, a crafty scheme
+fabricatio | 1 | construction
+fabricatio | 3 | trop, of speech: structure, composition
+fabricator | 1 | maker
+fabricator | 3 | trop: a cause, an author (of misfortune)
+fabricor | 1 | construct
+fabricor | 3 | transf: to form, shape, fashion (in a general sense)
+fabrilis | 1 | craftsman's
+fabula1 | 1 | story
+fabula1 | 2 | play
+fabula1 | 3 | a fable (with a moral)
+fabula1 | 4 | vulg: an affair, a matter, a business
+fabulor | 1 | chat
+fabulor | 3 | esp: to speak (a particular language)
+fabulosus | 1 | legendary
+facesso | 1 | perform
+facesso | 3 | in partic, pejor: to cause, bring on, occasion (trouble)
+facesso | 4 | neutr: to go away, depart, withdraw
+facetia | 1 | jest
+facetia | 3 | plur: wit, witticisms, pleasantries
+facetus | 1 | witty
+facetus | 3 | of behaviour: courteous, polite, refined
+facetus | 4 | of speech: elegant, fine
+facies | 1 | shape
+facies | 2 | face
+facies | 3 | trop: appearance, look, aspect (in general)
+facies | 4 | in Tac.: a pretence, a pretext (outward show masking reality)
+facilis | 1 | easy
+facilis | 2 | affable
+facilis | 3 | of fortune: favourable, prosperous
+facilis | 4 | adv (facile): easily, readily, without difficulty
+facilitas | 1 | ease
+facilitas | 3 | of character: good nature, affability, courteousness
+facilitas | 4 | pejor: levity, heedlessness
+facinorosus | 1 | villainous
+facinus | 1 | deed
+facinus | 3 | in partic: a crime, an outrage, a villainy
+facinus | 4 | transf, poet: an instrument of crime (e.g. a poisoned cup)
+facio | 1 | make
+facio | 2 | do
+facio | 3 | with double acc.: to render, turn into (something)
+facio | 4 | to value, esteem, regard (with gen. of price: magni facere, to think highly of)
+facio | 5 | to represent, feign, pretend, assert (that something is the case)
+facio | 6 | mercant: to practise, follow (a trade or profession)
+facio | 7 | relig: to perform a rite, offer a sacrifice
+facio | 8 | facere cum aliquo: to side with, take part with someone
+facio | 9 | hypothetically (fac): suppose, assume that...
+facio | 10 | as subst. (factum): a deed, an act, an achievement
+facticius | 1 | artificial
+factio | 1 | faction
+factio | 3 | legal: the right to make a will (testamenti factio)
+factio | 4 | rare: a making, a doing, a preparing
+factio | 5 | at the races: a racing team (of charioteers)
+factiosus | 1 | factious
+factito | 1 | practise
+factito | 3 | with double acc.: to declare, proclaim (someone something, e.g. an heir)
+factito | 4 | esp, pejor: to keep churning out (with implied lack of success)
+factor | 1 | doer
+factor | 3 | econom: an oil-presser
+factor | 4 | in ball games: the batsman, the striker
+factura | 1 | manufacture
+factura | 3 | transf: a creature, a created thing
+factus2 | 1 | construction
+factus2 | 3 | econom: a pressing (of oil), the yield of one pressing
+facultas | 1 | ability
+facultas | 2 | opportunity
+facultas | 3 | transf, plur: resources, means, wealth
+facundia | 1 | eloquence
+facundus | 1 | eloquent
+faeculentus | 1 | turbid
+faeculentus | 3 | trop, rare: impure, unwholesome (of mirth)
+faeneratio | 1 | usury
+faenerator | 1 | moneylender
+faeneror | 1 | lend
+faeneror | 3 | meton: to drain, exploit through usury
+faeneror | 4 | to borrow on interest
+faeneror | 5 | trop: to lend expecting a return (of a favour)
+faeneus | 1 | of hay
+faenum | 1 | hay
+faenum | 3 | esp (faenum Graecum): fenugreek
+faenus | 1 | interest
+faenus | 3 | transf, rare: capital lent out (the principal)
+faenus | 4 | gen: gain, profit, advantage (in a non-financial sense)
+faex | 1 | dregs
+faex | 3 | trop: the dregs, the lowest class (of a people)
+faex | 4 | transf: rouge, cosmetic paint (for the face)
+fala | 1 | scaffold
+fala | 3 | milit: a siege-tower (for throwing missiles)
+fala | 4 | at the circus: one of the turning-posts (pillars in the spina)
+falarica | 1 | fire-javelin
+falarica | 3 | transf: a similar missile thrown by hand
+falcatus | 1 | scythed
+falcatus | 3 | transf: sickle-shaped, curved, hooked
+fallacia | 1 | deceit
+fallax | 1 | deceptive
+fallo | 1 | deceive
+fallo | 2 | elude
+fallo | 3 | impers (fallit me): I am mistaken, I am wrong
+fallo | 4 | to beguile, lighten, make (time or toil) pass unnoticed
+fallo | 5 | p. a. (falsus): false, counterfeit, spurious
+falx | 1 | sickle
+falx | 3 | milit, transf: a grappling hook (for pulling down walls)
+fama | 1 | rumour
+fama | 2 | reputation
+fama | 3 | personif. (Fama): the goddess of Rumour
+fama | 4 | pejor: ill fame, infamy, scandal
+famelicus | 1 | famished
+fames | 1 | hunger
+fames | 3 | transf: famine, dearth (a shortage of food)
+fames | 4 | trop: greed, avidity, a craving (for wealth or gain)
+fames | 5 | of speech: poverty of expression, aridity
+familia | 1 | household
+familia | 2 | estate
+familia | 3 | in respect to lineage: a family, a clan (within a gens)
+familia | 4 | a school, a sect (of philosophers)
+familiaricus | 1 | servants'
+familiaricus | 3 | of the house or family (in gen.)
+familiaris | 1 | domestic
+familiaris | 2 | intimate
+familiaris | 3 | as subst.: a close friend, an intimate
+familiaris | 4 | customary, habitual, familiar
+familiaris | 5 | fitting, appropriate, suited (to a place or purpose)
+familiaritas | 1 | intimacy
+familiaritas | 3 | transf, plur: close friends, intimates
+famosus | 1 | famous
+famosus | 3 | pejor: infamous, notorious
+famosus | 4 | active: defamatory, slanderous (of a libel)
+famularis | 1 | servile
+famulitium | 1 | servitude
+famulitium | 3 | concr: the household slaves, the domestic staff
+famulor | 1 | serve
+famulus1 | 1 | servant
+famulus1 | 3 | fem (famula): a handmaid, a female attendant
+famulus2 | 1 | servile
+fanaticus | 1 | frenzied
+fanaticus | 3 | of temple attendants: inspired, possessed (by a divinity)
+fanum1 | 1 | shrine
+far | 1 | spelt
+far | 3 | transf: coarse meal, grits
+farcio | 1 | stuff
+farcio | 3 | in partic: to fatten (poultry)
+farina | 1 | flour
+farina | 3 | transf: powder, dust (of any ground substance)
+farina | 4 | trop: nature, character, sort (of person)
+farrago | 1 | fodder
+farrago | 3 | transf: a medley, a hodgepodge
+farrago | 4 | transf: a trifle
+fartor | 1 | poulterer
+fartor | 3 | rare: a sausage-maker
+fas | 1 | right
+fas | 3 | rare: a court day, permitted for legal business
+fas | 4 | as predicate (fas est): it is lawful, permitted, right
+fascia | 1 | band
+fascia | 3 | architect: a fillet, a listel (moulding round a column)
+fascia | 4 | transf, poet: a streak, a band (of cloud in the sky)
+fascia | 5 | geog: a zone (of the earth)
+fasciculus | 1 | bundle
+fascino | 1 | bewitch
+fascinum | 1 | witchcraft
+fascinum | 3 | transf: a phallic amulet (worn against the evil eye)
+fascis | 1 | bundle
+fascis | 2 | burden
+fascis | 3 | polit, plur (fasces): the fasces, the rods and axe of a magistrate
+fascis | 4 | meton: high office, the consulship
+fastidio | 1 | loathe
+fastidio | 2 | disdain
+fastidio | 3 | trop: to scorn, be too proud for (something)
+fastidiosus | 1 | squeamish
+fastidiosus | 3 | act, rare: disgusting, loathsome, distasteful
+fastidium | 1 | distaste
+fastidium | 3 | esp: fussiness, daintiness (of a pampered taste)
+fastidium | 4 | trop: disdain, scornful contempt, haughtiness
+fastigium | 1 | summit
+fastigium | 2 | slope
+fastigium | 3 | trop: the highest rank, the peak (of dignity or power)
+fastigium | 4 | rare: depth (the lower extremity)
+fastigium | 5 | rhet: a chief point, a main heading (in a discourse)
+fastigo | 1 | taper
+fastigo | 3 | p. a. (fastigatus): sloping, steep, pitched (of a roof)
+fastigo | 4 | trop, late: to elevate, exalt
+fastus1 | 1 | calendar
+fastus1 | 3 | esp (fasti consulares): the register of consuls (by year)
+fastus2 | 1 | arrogance
+fatalis | 1 | fated
+fatalis | 3 | pejor: deadly, destructive, dangerous
+fateor | 1 | confess
+fateor | 3 | transf, rare: to show, reveal, bear witness to
+fatidicus | 1 | prophetic
+fatigatio | 1 | weariness
+fatigatio | 3 | trop, late: mockery, banter
+fatigo | 1 | weary
+fatigo | 3 | trop: to importune, pester, harass (with requests)
+fatigo | 4 | late: to jeer, banter, mock
+fatisco | 1 | crack
+fatisco | 3 | trop: to grow weak, flag, become exhausted
+fatum | 1 | fate
+fatum | 3 | rare: a prophecy, an oracle
+fatum | 4 | esp: death, one's appointed end
+fatum | 5 | concr: a calamity, a plague (a person who brings ruin)
+fatus2 | 1 | utterance
+fatus2 | 3 | esp: an oracle, a prophecy
+fatuus1 | 1 | foolish
+fatuus1 | 3 | as subst.: a fool, a jester (kept for amusement)
+fatuus1 | 4 | poet, transf: insipid, tasteless (of food)
+fauces | 1 | throat
+fauces | 3 | transf: a narrow pass, a defile
+fauces | 4 | transf: a chasm, an abyss (in the earth)
+faustus1 | 1 | auspicious
+fautor | 1 | patron
+fautor | 3 | absol: an applauder, a claqueur (a hired supporter)
+fautrix | 1 | patroness
+faventia1 | 1 | silence
+faventia1 | 3 | relig: ritual silence (kept during a sacrifice)
+faveo | 1 | favour
+faveo | 3 | relig, idiom (favete linguis): keep reverent silence
+faveo | 4 | to applaud, cheer
+favilla | 1 | embers
+favilla | 3 | in partic: the ashes of the dead (still warm)
+favilla | 4 | trop: a spark, the beginning (of trouble)
+favor | 1 | favour
+favor | 3 | in partic: applause, acclaim (at a performance)
+favor | 4 | legal: favoris causa, as a matter of legal preference
+favorabilis | 1 | popular
+favorabilis | 3 | of speech: winning, appealing, persuasive
+favus | 1 | honeycomb
+favus | 3 | transf: a hexagonal paving-stone
+fax | 1 | torch
+fax | 3 | poet, transf: a shooting star, a comet
+fax | 4 | trop: an incitement, a spur, a cause (of ruin or passion)
+fax | 5 | poet, transf: a wedding (via wedding-torches)
+febris | 1 | fever
+febris | 3 | trop: torment, uneasiness, anxiety
+februo | 1 | purify
+februum | 1 | purification
+februum | 3 | esp: the Roman festival of purification (in February)
+fecunditas | 1 | fertility
+fecunditas | 3 | trop: luxuriance, richness (of style)
+fecundus | 1 | fertile
+fecundus | 3 | transf: fertilizing, making fruitful
+fecundus | 4 | trop: rich, abundant, prolific (of talent or style)
+fel | 1 | bile
+fel | 3 | transf, poet: poison, venom
+fel | 4 | trop: bitterness, rancour, animosity
+feles | 1 | cat
+feles | 3 | transf: a marten, a polecat
+feles | 4 | trop, rare: a seducer, a thief (of virgins)
+felicitas1 | 1 | happiness
+felicitas1 | 3 | rare: fruitfulness, fertility (of soil)
+felix1 | 1 | fruitful
+felix1 | 2 | lucky
+felix1 | 3 | act: auspicious, of good omen, bringing good luck
+felix1 | 4 | adv (feliciter): fortunately, successfully, happily
+femina | 1 | woman
+femina | 3 | of animals: a female
+femina | 4 | gram: the feminine gender
+femineus | 1 | womanly
+femineus | 3 | pejor: womanish, effeminate, unmanly
+femininus | 1 | feminine
+femur | 1 | thigh
+femur | 3 | architect: the space between the grooves (of a triglyph)
+femur | 4 | eccl: the loins (of ancestry, of one's line)
+fenestella | 1 | window
+fenestra | 1 | window
+fenestra | 3 | milit: a loophole (for shooting arrows)
+fenestra | 4 | milit: a breach (in a wall)
+fenestra | 5 | trop: an opening, an opportunity, an inlet (for vice)
+fenestro | 1 | fenestrate
+fenestro | 3 | trop: to lay open, make transparent (of the heart)
+feralis | 1 | funereal
+feralis | 3 | as subst. (Feralia): the festival of the dead (in February)
+feralis | 4 | transf: deadly, fatal, dangerous (in gen.)
+ferax | 1 | fertile
+ferax | 3 | trop: rich, fruitful, productive (of talent or ideas)
+ferculum | 1 | litter
+ferculum | 3 | at a meal: a course, a dish (of food)
+fere | 1 | almost
+fere | 3 | with a negative: scarcely, hardly
+fere | 4 | of time, habitually: generally, usually
+ferentarius | 1 | skirmisher
+ferentarius | 3 | transf: a ready helper, one quick to assist
+feriae | 1 | holidays
+feriae | 3 | transf: rest, peace, leisure (in gen.)
+ferinus | 1 | wild
+ferinus | 3 | as subst. (ferina): venison, game (the meat of wild animals)
+ferio | 1 | strike
+ferio | 2 | kill
+ferio | 3 | idiom (foedus ferire): to make a treaty, strike a bargain
+ferio | 4 | of coins: to mint, stamp
+ferio | 5 | colloq: to cheat, trick, dupe
+ferior | 1 | rest
+feritas | 1 | fierceness
+feritas | 3 | transf: harshness, roughness (of a place or thing)
+fermento | 1 | ferment
+fermento | 3 | transf: to loosen, break up (soil)
+fermento | 4 | trop: to sour, spoil, corrupt
+fermentum | 1 | leaven
+fermentum | 3 | transf: beer, malt liquor
+fermentum | 4 | trop, poet: anger, passion, irritation
+fero | 1 | carry
+fero | 2 | bear
+fero | 3 | with se: to rush, hurry, move swiftly
+fero | 4 | to bring forth, produce, yield (of plants, or offspring)
+fero | 5 | to endure, tolerate, put up with (something difficult)
+fero | 6 | of report: to relate, say, assert; ferunt, they say, it is said
+fero | 7 | polit: legem ferre, to propose a law
+fero | 8 | polit: suffragium ferre, to cast a vote
+fero | 9 | to get, win, carry off (a prize or victory)
+fero | 10 | idiom (prae se ferre): to show, display, make evident
+ferocia | 1 | fierceness
+ferocia | 3 | good sense: spirit, courage, boldness
+ferocia | 4 | transf: harshness, roughness (of wine)
+ferocio | 1 | rage
+ferocitas | 1 | fierceness
+ferocitas | 3 | good sense: courage, boldness, spirit
+ferox | 1 | fierce
+ferox | 2 | bold
+ferox | 3 | adv (ferociter): bravely, courageously
+ferox | 4 | adv (ferociter), pejor: savagely, insolently
+ferramentum | 1 | tool
+ferrarius1 | 1 | of iron
+ferrarius1 | 3 | as subst. (ferrarius): a blacksmith, an ironworker
+ferrarius1 | 4 | as subst. (ferraria): an iron-mine, ironworks
+ferratus | 1 | ironclad
+ferratus | 3 | as subst. (ferrati): armoured soldiers, cuirassiers
+ferreus | 1 | iron
+ferreus | 2 | unfeeling
+ferreus | 3 | trop: firm, unyielding, resolute (of character)
+ferrugineus | 1 | rust-coloured
+ferrugineus | 3 | of taste: metallic, iron-tasting
+ferrugo | 1 | rust
+ferrugo | 3 | transf: a dusky colour, rust-red (or sea-green)
+ferrugo | 4 | trop, rare: envy
+ferrum | 1 | iron
+ferrum | 3 | transf: a sword, a blade
+ferrum | 4 | transf: an iron tool (e.g. a plough, a chisel)
+ferrumen | 1 | solder
+ferrumen | 3 | rare: iron-rust
+ferruumino | 1 | solder
+ferruumino | 3 | comic: to glue together (of lips, i.e. to kiss)
+fertilis | 1 | fertile
+fertilis | 3 | trop: productive, fruitful (of talent)
+fertilis | 4 | act: fertilizing, making fruitful
+fertilitas | 1 | fertility
+fertilitas | 3 | trop, rare: productiveness (of an artist's talent)
+ferula | 1 | fennel
+ferula | 3 | transf: a cane, a rod (for punishment)
+ferula | 4 | medic: a splint (for a broken bone)
+ferus | 1 | wild
+ferus | 3 | as subst. (fera): a wild beast, an animal
+ferus | 4 | trop: savage, barbarous, cruel
+fervefacio | 1 | heat
+ferveo | 1 | boil
+ferveo | 3 | trop: to rage, seethe, be inflamed (with passion)
+ferveo | 4 | transf: to swarm, teem (with activity or numbers)
+fervesco | 1 | heat up
+fervesco | 3 | trop: to grow hot with anger, become inflamed
+fervidus | 1 | scorching
+fervidus | 3 | trop: fiery, impetuous, vehement (of temperament)
+fervor | 1 | heat
+fervor | 3 | trop: passion, ardour, zeal
+fessus | 1 | weary
+festinatio | 1 | haste
+festino | 1 | hasten
+festino | 3 | act: to hurry, speed up, accelerate (something)
+festinus | 1 | hasty
+festivitas | 1 | gaiety
+festivitas | 3 | of speech: wit, humour, pleasantry
+festivitas | 4 | late: a festival, a feast
+festivus | 1 | merry
+festivus | 3 | transf: pleasing, charming, handsome
+festivus | 4 | of speech: witty, humorous, amusing
+festuca | 1 | stalk
+festuca | 3 | legal: the rod (used in manumission ceremonies)
+festuca | 4 | transf: a speck, a mote, a trifle
+festus1 | 1 | festive
+festus1 | 3 | as subst. (festum): a holiday, a festival
+feteo | 1 | stink
+fetiales | 1 | fetials
+fetiales | 3 | the college of priests who oversaw treaties and declarations of war
+fetialis | 1 | fetial
+fetidus | 1 | stinking
+fetidus | 3 | fig: foul, disgusting, loathsome
+feto | 1 | breed
+feto | 3 | act: to impregnate, make fruitful
+fetor | 1 | stench
+fetura | 1 | breeding
+fetura | 3 | transf, concr: offspring, young, a brood
+fetura | 4 | trop: literary output, a work produced
+fetus1 | 1 | pregnant
+fetus1 | 3 | transf: fruitful, productive (of land)
+fetus1 | 4 | trop: full of, teeming with (something)
+fetus2 | 1 | offspring
+fetus2 | 3 | abstr: the act of giving birth, breeding
+fetus2 | 4 | transf: fruit, produce (of plants)
+fetus2 | 5 | trop: a literary product, a creation (of the mind)
+fetutina | 1 | cesspool
+fibra | 1 | fibre
+fibra | 3 | transf, poet: entrails, innards
+fibra | 4 | trop: the depths, the interior (of the earth)
+fibula | 1 | clasp
+fibula | 3 | medic: a clamp (for closing a wound)
+fibula | 4 | trop: a connection, a link (joining ideas)
+ficarius | 1 | of figs
+ficarius | 3 | as subst. (ficaria): a fig orchard
+ficatum | 1 | liver
+ficatum | 3 | esp: liver fattened on figs (a delicacy)
+ficticius | 1 | fake
+ficticius | 3 | of actions: feigned, pretended (in a legal sense)
+fictilis | 1 | earthen
+fictilis | 3 | as subst. (fictilia): earthenware, clay vessels
+fictio | 1 | formation
+fictio | 3 | rhet: a hypothetical case, a supposition
+fictio | 4 | legal: a legal fiction (an assumed fact)
+fictor | 1 | sculptor
+fictor | 3 | relig: a baker of ritual cakes
+fictor | 4 | trop: a deceiver, a feigner (master of lies)
+ficus | 1 | fig-tree
+ficus | 3 | transf: a fig (the fruit)
+ficus | 4 | medic, colloq: piles, haemorrhoids
+# review: fideicommissarius relates to the Roman fideicommissum trust-bequest; English has no adjective for it
+fideicommissarius | 1 | of a trust-bequest
+fideicommissarius | 3 | as subst.: one who receives an inheritance under a fideicommissum, a trust-heir
+fideicommitto | 1 | bequeath
+fideicommitto | 3 | legal: to leave in trust (by will, for delivery to a third party)
+fidejubeo | 1 | vouch
+fidejubeo | 3 | legal: to stand surety, act as guarantor (for a debt)
+fidejussor | 1 | guarantor
+fidelia | 1 | pot
+fidelia | 3 | esp: a pail (of whitewash)
+fidelis | 1 | faithful
+fidelis | 3 | transf: dependable, sound, durable (of things)
+fidelis | 4 | as subst.: a trusted friend, a confidant
+fidelitas | 1 | fidelity
+fidentia1 | 1 | confidence
+fidepromissor | 1 | surety
+fides1 | 1 | trust
+fides1 | 2 | promise
+fides1 | 3 | mercant: credit, creditworthiness
+fides1 | 4 | pregn: protection, safe-conduct, guaranteed safety
+fides1 | 5 | personif. (Fides): the goddess of good faith
+fides2 | 1 | lyre
+fides2 | 3 | astron (Fides): the constellation Lyra
+fides2 | 4 | transf, sing: a string (of an instrument)
+fidicen | 1 | harpist
+fidicen | 3 | poet, transf: a lyric poet
+fidiculae | 1 | lute
+fidiculae | 3 | astron (Fidicula): the constellation Lyra
+fidiculae | 4 | transf: cords (used as an instrument of torture)
+fido | 1 | trust
+fido | 3 | p. a. (fidens): confident, bold, self-assured
+fiducia | 1 | confidence
+fiducia | 3 | in partic: self-confidence, boldness
+fiducia | 4 | legal: a pledge, a security, a mortgage
+fiduciarius | 1 | fiduciary
+fiduciarius | 3 | transf: held in trust, provisional
+fiducio | 1 | mortgage
+fidus1 | 1 | trusty
+fidus1 | 3 | transf: safe, reliable, secure (of things)
+figlinus | 1 | potter's
+figlinus | 3 | as subst. (figlina): a pottery workshop
+figlinus | 4 | as subst. (figlinum): an earthen vessel
+figmentum | 1 | formation
+figmentum | 3 | concr: a figure, an image (something shaped)
+figmentum | 4 | in partic: a fiction, an invented tale
+figo | 1 | fasten
+figo | 2 | pierce
+figo | 3 | trop: to fix, direct, concentrate (attention or effort)
+figo | 4 | of speech: to sting, taunt, needle (someone)
+figo | 5 | p. a. (fixus): fixed, firm, immovable
+figulus1 | 1 | potter
+figura | 1 | shape
+figura | 3 | gram: the inflected form (of a word)
+figura | 4 | rhet: a figure of speech
+figura | 5 | poet: a ghost, a phantom, a shade
+figuratio | 1 | shaping
+figuratio | 3 | trop: imagination, fancy
+figuratio | 4 | rhet: figurative speech, a mode of figured expression
+figuro | 1 | shape
+figuro | 3 | trop: to imagine, picture, fancy
+figuro | 4 | rhet: to adorn with figures of speech
+figuro | 5 | p. a. (figuratus), of speech: figurative
+filia | 1 | daughter
+filia | 3 | poet, transf: an offshoot (of a plant or place)
+filiola | 1 | daughter
+filiola | 3 | sarcastic: an effeminate young man ("little miss")
+filius | 1 | son
+filius | 3 | plur (filii): children (of both sexes)
+filius | 4 | transf: a descendant
+filum | 1 | thread
+filum | 3 | transf: a string, a cord, a filament
+filum | 4 | trop: texture, style, quality (of speech)
+filum | 5 | rare: contour, shape, form (of an object)
+fimbriae | 1 | fringe
+fimus | 1 | dung
+fimus | 3 | poet, transf: dirt, mire, filth
+finalis | 1 | final
+finalis | 3 | rare: relating to boundaries
+findo | 1 | split
+findo | 3 | as subst. (fissum): a cleft, a fissure
+findo | 4 | augury: the cleft, the fissure (in a liver, examined for omens)
+fingo | 1 | shape
+fingo | 2 | invent
+fingo | 3 | to imagine, conceive, suppose
+fingo | 4 | to train, mould, form (by instruction)
+fingo | 5 | to adorn, arrange, dress (a person or thing)
+finio | 1 | limit
+finio | 2 | finish
+finio | 3 | to determine, fix, prescribe, appoint
+finio | 4 | euphem: to come to one's end, die
+finis | 1 | boundary
+finis | 2 | end
+finis | 3 | plur: territory, borders, land
+finis | 4 | purpose, aim, goal
+finis | 5 | euphem: death, the end of life
+finis | 6 | rhet: a definition
+finitimus | 1 | neighbouring
+finitimus | 3 | as subst. (finitimi): neighbours
+finitimus | 4 | trop: closely related, akin, similar
+finitio | 1 | boundary
+finitio | 3 | rhet: a definition, an explanation
+finitio | 4 | euphem: death, the end of life
+finitor | 1 | surveyor
+finitor | 3 | poet: one who brings an end, a finisher (of all things, i.e. death)
+firmamentum | 1 | support
+firmamentum | 3 | late: the firmament, the sky
+firmamentum | 4 | rhet: the main point, the chief support (of an argument)
+firmitas | 1 | firmness
+firmitas | 3 | trop: steadfastness, constancy, resolve
+firmitudo | 1 | firmness
+firmitudo | 3 | trop: constancy, resolve, strength of mind
+firmo | 1 | strengthen
+firmo | 3 | trop: to encourage, hearten, embolden
+firmo | 4 | to confirm, affirm, assert (as true)
+firmus | 1 | firm
+firmus | 3 | trop: steadfast, constant, faithful, true
+firmus | 4 | poet, with inf: able, capable (of enduring)
+fiscalis | 1 | fiscal
+fiscella | 1 | basket
+fiscina | 1 | basket
+fiscus | 1 | purse
+fiscus | 3 | in partic: the public treasury, the state's revenue
+fiscus | 4 | imperial: the emperor's privy purse
+fissilis | 1 | splittable
+fissilis | 3 | comically: cracked (of a head, i.e. beaten)
+fistuco | 1 | ram
+fistula | 1 | pipe
+fistula | 3 | transf: a reed-pipe, a shepherd's pipe (pan-pipes)
+fistula | 4 | medic: a fistula (a chronic sore or ulcer)
+fistula | 5 | medic: a catheter
+fistulosus | 1 | porous
+fistulosus | 3 | medic: fistulous, ulcerated
+flabellum | 1 | fan
+flabellum | 3 | trop: an inciter, a stirrer (of unrest)
+flabra | 1 | gusts
+flacceo | 1 | droop
+flaccesco | 1 | wilt
+flaccesco | 3 | trop: to grow feeble, languish, flag
+flaccidus | 1 | flabby
+flaccidus | 3 | trop: languid, feeble, weak
+flagello | 1 | whip
+flagello | 3 | transf: to lash, beat against (of wind or hair)
+flagellum | 1 | whip
+flagellum | 3 | transf: a young shoot, a vine-tendril
+flagellum | 4 | trop, poet: the sting, the lash (of conscience or love)
+flagitator | 1 | dun
+flagitator | 3 | with gen.: an importunate demander (of a promised triumph, a fight, etc.)
+flagitiosus | 1 | shameful
+flagitium | 1 | disgrace
+flagitium | 3 | vulg, as an insult: scoundrel, rascal
+flagitium | 4 | rare: an urgent demand, an importunity
+flagito | 1 | demand
+flagito | 3 | legal: to summon, accuse (before a court)
+flagrantia | 1 | glow
+flagrantia | 3 | trop: ardour, passion, vehement desire
+flagro | 1 | blaze
+flagro | 3 | trop: to burn, be consumed (with passion or desire)
+flagro | 4 | trop: to suffer, be plagued (by disgrace or hatred)
+flagro | 5 | p. a. (flagrans): ardent, glowing, eager
+flagrum | 1 | whip
+flamen1 | 1 | flamen
+flamen1 | 3 | a priest devoted to a particular god's cult
+flamen2 | 1 | gust
+flamen2 | 3 | transf, concr: a breeze, a wind
+flaminica | 1 | flamen's wife
+flaminius1 | 1 | flamen's
+flaminius1 | 3 | as subst. (Flaminium): the office of flamen, a priesthood
+flamma1 | 1 | flame
+flamma1 | 3 | trop: the fire of passion, love's ardour
+flamma1 | 4 | trop: a devouring danger, a destructive crisis
+flammeus | 1 | fiery
+flammeus | 3 | as subst. (flammeum): a bridal veil (flame-coloured)
+flammifer | 1 | flaming
+flammo | 1 | ignite
+flammo | 3 | transf: to redden, colour flame-red
+flammo | 4 | trop: to inflame, incite, stir up
+flator | 1 | piper
+flator | 3 | metallurgy: a metal-caster, a smelter
+flatus | 1 | breath
+flatus | 3 | trop: a favourable breeze (of fortune)
+flatus | 4 | trop, plur: pride, haughtiness, arrogance
+flaveo | 1 | be yellow
+flavesco | 1 | turn yellow
+flavus | 1 | golden
+flebilis | 1 | lamentable
+flebilis | 3 | act: causing tears, tear-inducing
+flebilis | 4 | act: tearful, doleful, weeping
+flecto | 1 | bend
+flecto | 2 | persuade
+flecto | 3 | naut: to round, double (a promontory)
+flecto | 4 | gram: to decline, inflect (a word)
+flecto | 5 | neutr: to turn, veer, change direction
+flemina | 1 | swelling
+flemina | 3 | medic: swollen ankles (from a long walk)
+fleo | 1 | weep
+fleo | 3 | act: to lament, mourn, bewail (someone or something)
+fleo | 4 | transf, rare: to drip, trickle (of liquid)
+fletus2 | 1 | weeping
+fletus2 | 3 | transf, concr: tears
+flexanimus | 1 | moving
+flexanimus | 3 | pass, rare: touched, moved, affected
+flexibilis | 1 | flexible
+flexibilis | 3 | pejor: fickle, wavering, inconstant
+flexilis | 1 | pliant
+flexio | 1 | bend
+flexio | 3 | trop: an evasion, a dodge, a roundabout excuse
+flexio | 4 | of the voice: a modulation, an inflection
+flexuosus | 1 | winding
+flexuosus | 3 | trop: devious, crooked (of deceit)
+flexura | 1 | bend
+flexura | 3 | gram: inflection, declension (of a word)
+flexus2 | 1 | turn
+flexus2 | 3 | trop: a political shift, a turning point (in the state)
+flexus2 | 4 | of the voice: a modulation, an inflection
+flexus2 | 5 | gram: an inflection, a grammatical variation
+fligo | 1 | strike
+flo | 1 | blow
+flo | 3 | transf: to cast, mint (coins, metal by blowing on a furnace)
+flo | 4 | trop: to bluster, talk bombastically
+flocces | 1 | dregs
+floccus | 1 | tuft
+floccus | 3 | idiom (flocci facere): to not care a straw for, to think worthless
+floreo | 1 | bloom
+floreo | 3 | trop: to flourish, thrive, be prosperous
+floreo | 4 | trop: to be eminent, distinguished, in repute
+floreo | 5 | p. a. (florens): flourishing, prosperous, in the prime
+floresco | 1 | blossom
+floresco | 3 | trop: to begin to flourish, come into repute
+floreus | 1 | flowery
+floreus | 3 | transf: shining, radiant, beautiful
+floridus | 1 | flowery
+floridus | 3 | trop: blooming, radiant, in the prime (of youth or beauty)
+flos | 1 | flower
+flos | 3 | trop: the prime, the best part (of anything)
+flos | 4 | transf: virginity, youthful innocence (flos aetatis)
+flos | 5 | of speech: an embellishment, a flourish (of style)
+flosculus | 1 | floweret
+flosculus | 3 | trop: an ornament, a highlight, a showpiece
+flosculus | 4 | of speech: a rhetorical flourish, a purple passage
+fluctio | 1 | discharge
+fluctio | 3 | medic: a flux, an abnormal flow (of fluid in the body)
+fluctuatio | 1 | fluctuation
+fluctuatio | 3 | trop: hesitation, vacillation, indecision
+fluctuo | 1 | billow
+fluctuo | 3 | trop: to waver, hesitate, be undecided
+fluctus | 1 | wave
+fluctus | 3 | trop: turbulence, upheaval, commotion (political)
+fluctus | 4 | poet, transf: a stream, a surge (of fire or scent)
+fluentum | 1 | stream
+fluentum | 3 | transf: a current, a stream (of fire or air)
+fluidus | 1 | fluid
+fluidus | 3 | transf: slack, languid, flabby
+fluito | 1 | float
+fluito | 3 | transf: to wave, flutter, undulate
+fluito | 4 | trop: to waver, be uncertain, vacillate
+flumen | 1 | river
+flumen | 3 | transf: a flood, a stream (of blood, tears, etc.)
+flumen | 4 | trop: a flow, a fluency (of speech)
+flumineus | 1 | riverine
+fluo | 1 | flow
+fluo | 2 | vanish
+fluo | 3 | trop: to arise, spring, proceed (from a source)
+fluo | 4 | of speech: to flow smoothly, be fluent
+fluo | 5 | p. a. (fluxus): loose, slack, perishable, unstable
+fluor | 1 | flow
+fluor | 3 | medic: a flux, diarrhoea
+flustra | 1 | calm
+fluvius | 1 | river
+fluvius | 3 | transf: a stream, running water
+fluxus2 | 1 | flux
+focillo | 1 | revive
+focillo | 3 | trop: to cherish, nurture, foster
+foculus | 1 | brazier
+foculus | 3 | transf: fire (in gen.)
+focus | 1 | hearth
+focus | 3 | transf: home, household, family
+focus | 4 | a fire-pan, a portable brazier
+fodico | 1 | jab
+fodico | 3 | trop: to goad, needle, disturb (the mind)
+fodio | 1 | dig
+fodio | 2 | stab
+fodio | 3 | trop: to goad, sting, torment (the heart)
+foedero | 1 | ally
+foedero | 3 | p. a. (foederatus): allied, confederate, leagued together
+foeditas | 1 | foulness
+foeditas | 3 | mentally: baseness, depravity, moral ugliness
+foedo | 1 | defile
+foedo | 3 | trop: to disgrace, dishonour, sully
+foedus1 | 1 | foul
+foedus1 | 3 | mentally: base, shameful, disgraceful
+foedus2 | 1 | treaty
+foedus2 | 3 | transf: an agreement, a bargain, a pact
+foedus2 | 4 | poet: a law (of nature)
+foliatus | 1 | leafy
+foliatus | 3 | as subst. (foliatum): nard-oil, an ointment of spikenard
+folium | 1 | leaf
+folium | 3 | trop: a trifle, a thing of no worth
+folium | 4 | late: a leaf, a page (of paper)
+follico | 1 | pant
+folliculus | 1 | pouch
+folliculus | 3 | transf: a husk, a pod, a shell
+folliculus | 4 | esp: an inflated ball (for playing)
+follis | 1 | bellows
+follis | 3 | a money-bag, a purse
+follis | 4 | a windball (an inflated playing-ball)
+follis | 5 | transf: the belly, the stomach
+fomentum | 1 | poultice
+fomentum | 3 | trop: a comfort, a solace, an alleviation
+fomentum | 4 | transf: kindling, tinder
+fomes | 1 | tinder
+fomes | 3 | trop: an incitement, a spur, a fuel (for passion)
+fons | 1 | spring
+fons | 3 | trop: a source, an origin, a fountainhead
+fontinalis | 1 | spring's
+fontinalis | 3 | as subst. (Fontinalia): the festival of the fountains (13 October)
+for | 1 | speak
+for | 3 | in partic: to foretell, prophesy
+for | 4 | poet: to sing of, celebrate (in verse)
+foramen | 1 | hole
+foras | 1 | outdoors
+foras | 3 | late: abroad (away from home)
+forceps | 1 | tongs
+forceps | 3 | milit, transf: a wedge formation (with diverging wings)
+fordus | 1 | pregnant
+forensis | 1 | forensic
+forfex | 1 | shears
+forfex | 3 | transf: a claw (of a crab or beetle)
+forinsecus | 1 | outwardly
+forinsecus | 3 | transf: outdoors, out
+foris1 | 1 | door
+foris1 | 3 | trop: an entrance, an opening (into something)
+foris2 | 1 | outside
+foris2 | 3 | from without, from abroad
+forma | 1 | shape
+forma | 2 | beauty
+forma | 3 | a mould, a pattern, a model
+forma | 4 | philos: a kind, a species (of a genus)
+forma | 5 | gram: the grammatical form (of a word)
+formalis | 1 | formal
+formalis | 3 | rare: of or for a mould
+formator | 1 | former
+formator | 3 | trop: a trainer, a shaper (of character or minds)
+formica | 1 | ant
+formidabilis | 1 | formidable
+formido1 | 1 | dread
+formido2 | 1 | dread
+formido2 | 3 | in partic: awe, reverence
+formido2 | 4 | concr: a bugbear, a scarecrow (used to frighten game)
+formidulosus | 1 | dreadful
+formidulosus | 3 | pass, rare: timid, fearful, afraid
+formo | 1 | shape
+formo | 3 | trop: to train, mould, regulate (character or style)
+formosus | 1 | beautiful
+formula | 1 | formula
+formula | 3 | legal: a rule, a procedure (for conducting a lawsuit)
+formula | 4 | transf: a lawsuit, a legal action
+formula | 5 | gen: a rule, a principle
+fornacalis | 1 | of ovens
+fornacalis | 3 | as subst. (Fornacalia): the festival of the oven-goddess
+fornax | 1 | furnace
+fornax | 3 | personif. (Fornax): the goddess of ovens
+fornix | 1 | arch
+fornix | 3 | in partic: a triumphal arch
+fornix | 4 | transf: a brothel (housed under vaulted arches)
+foro | 1 | pierce
+foro | 3 | trop: leaky, unable to retain anything (of the mind)
+fors | 1 | chance
+fors | 3 | personif. (Fors): the goddess of chance
+fors | 4 | adv (forte): by chance, accidentally
+forsan | 1 | perhaps
+forsitan | 1 | perhaps
+fortasse | 1 | perhaps
+fortasse | 3 | of numbers: about, roughly
+fortassean | 1 | perhaps
+fortis | 1 | brave
+fortis | 3 | physically, rare: strong, powerful, robust
+fortis | 4 | adv (fortiter): bravely, valiantly, vigorously
+fortitudo | 1 | courage
+fortitudo | 3 | physically, rare: bodily strength
+fortuitus | 1 | accidental
+fortuna | 1 | fortune
+fortuna | 3 | personif. (Fortuna): the goddess of fortune
+fortuna | 4 | condition, circumstance, lot (in life)
+fortuna | 5 | transf, concr: property, wealth, possessions
+fortuno | 1 | bless
+fortuno | 3 | p. a. (fortunatus): wealthy, well off, prosperous
+forum | 1 | marketplace
+forum | 3 | the public square (for civic and legal affairs)
+forum | 4 | rare: a fore-court (before a tomb)
+forus1 | 1 | gangway
+forus1 | 3 | transf: a row of seats (in the Circus)
+forus1 | 4 | transf: a honeycomb cell
+fossa | 1 | ditch
+fossa | 3 | in partic: a foundation-furrow (marking a wall's course)
+fossa | 4 | late: a grave
+fosso | 1 | dig
+fossor | 1 | digger
+fossor | 3 | in partic: a miner
+fossor | 4 | transf, pejor: a lout, a boor, a common labourer
+fossura | 1 | digging
+fossura | 3 | transf, concr: a pit
+fotus2 | 1 | fomentation
+fotus2 | 3 | trop, rare: warmth, nurture (of glory)
+fovea | 1 | pitfall
+fovea | 3 | trop: a snare, a trap (for deceiving someone)
+foveo | 1 | warm
+foveo | 2 | cherish
+foveo | 3 | medic: to foment (a wound or ailment)
+fraces | 1 | dregs
+fracesco | 1 | rot
+fractura | 1 | fracture
+fragilis | 1 | brittle
+fragilis | 3 | transf: weak, frail, perishable
+fragilitas | 1 | brittleness
+fragilitas | 3 | transf: weakness, frailty
+fragmen | 1 | fragment
+fragmentum | 1 | fragment
+fragor | 1 | crash
+fragosus | 1 | rugged
+fragosus | 3 | trop, of speech: choppy, uneven, halting
+fragosus | 4 | poet: roaring, crashing (of a torrent)
+fragro | 1 | smell
+fragro | 3 | of an unpleasant smell: to reek, stink
+frango | 1 | break
+frango | 2 | subdue
+frango | 3 | transf: to grind, crush, pulverize
+frango | 4 | trop: to move, soften, touch (someone's feelings)
+frater | 1 | brother
+frater | 3 | transf: a dear friend (an affectionate term of address)
+frater | 4 | in partic (frater patruelis): a cousin (father's brother's son)
+frater | 5 | euphem: a lover
+fraterculus | 1 | brother
+fraterculus | 3 | transf: dear friend, buddy (affectionate address)
+fraternitas | 1 | brotherhood
+fraternus | 1 | brotherly
+fraternus | 3 | transf: of a kinsman, of a relative
+fraternus | 4 | transf: closely allied, friendly (of nations or feelings)
+fraudatio | 1 | fraud
+fraudo | 1 | defraud
+fraudo | 3 | transf: to embezzle, purloin, steal
+fraudulentia | 1 | deceitfulness
+fraudulentus | 1 | deceitful
+fraus1 | 1 | deceit
+fraus1 | 3 | concr, pejor: a cheat, a swindler (as a term of abuse)
+fraus1 | 4 | pass: self-deception, delusion, a mistake
+fraus1 | 5 | in phrases (sine fraude, fraudi esse): harm, injury, detriment
+fraxinus1 | 1 | ash-tree
+fraxinus1 | 3 | transf: an ashen spear, a javelin
+fremitus | 1 | roar
+fremo | 1 | roar
+fremo | 3 | act: to grumble at, complain loudly about (something)
+fremor | 1 | murmur
+frendo | 1 | gnash
+frendo | 3 | act: to crush, grind to pieces
+freno | 1 | bridle
+freno | 3 | trop: to curb, restrain, govern (passions)
+frenum | 1 | bridle
+frenum | 3 | transf: a restraint, a check, a curb
+frenum | 4 | anatomy: the frenulum (a connecting ligament)
+frequens | 1 | frequent
+frequens | 3 | transf: crowded, thronged, well-attended
+frequentatio | 1 | frequency
+frequentatio | 3 | rhet: a recapitulation, a summing-up (of arguments)
+frequentia | 1 | crowd
+frequento | 1 | frequent
+frequento | 3 | to fill, crowd, populate (a place)
+frequento | 4 | to celebrate, observe (a festival)
+fretum | 1 | strait
+fretum | 3 | poet, transf: the sea
+fretum | 4 | trop: a raging, a turbulent surge (of passion or age)
+fretus1 | 1 | relying
+fretus1 | 3 | poet, with inf: daring, venturing (to do something)
+frico | 1 | rub
+frigeo | 1 | be cold
+frigeo | 3 | trop: to languish, stagnate, be inactive
+frigeo | 4 | trop: to be coldly received, be out of favour
+frigesco | 1 | chill
+frigesco | 3 | trop: to grow languid, become listless
+frigidarius | 1 | cooling
+frigidarius | 3 | as subst. (frigidarium): the cooling-room (in a bath)
+frigidus | 1 | cold
+frigidus | 3 | trop: listless, half-hearted, indifferent
+frigidus | 4 | trop: flat, dull, insipid (of style)
+frigo1 | 1 | roast
+frigus | 1 | cold
+frigus | 3 | poet: winter, the cold season
+frigus | 4 | euphem: the chill of death
+frigus | 5 | trop: a cool reception, indifference, disfavour
+frigusculum | 1 | chill
+frigusculum | 3 | trop: a coolness, a rift (between spouses)
+frigutio | 1 | twitter
+frigutio | 3 | transf: to stammer, stutter (speak indistinctly)
+frio | 1 | crumble
+fritinnio | 1 | chirp
+fritinnio | 3 | transf: to babble, prattle (of a child)
+frivolus | 1 | trifling
+frivolus | 3 | as subst. (frivola): paltry trifles, junk
+frondeo | 1 | leaf
+frondesco | 1 | leaf out
+frondesco | 3 | trop, of speech: to become flowery, ornate
+frondeus | 1 | leafy
+frondosus | 1 | leafy
+frons1 | 1 | foliage
+frons1 | 3 | poet, transf: a garland, a leafy wreath
+frons2 | 1 | forehead
+frons2 | 2 | front
+frons2 | 3 | trop: outward appearance, exterior show
+frons2 | 4 | poet: shame, modesty
+frons2 | 5 | late: impudence, boldness, cheek
+fructuarius | 1 | fruit-bearing
+fructuarius | 3 | legal: usufructuary, held in usufruct
+fructuarius | 4 | legal, as subst.: a usufructuary (one entitled to the use and profit of a thing)
+fructuosus | 1 | fruitful
+fructuosus | 3 | trop: profitable, beneficial, rewarding
+fructus2 | 1 | fruit
+fructus2 | 2 | profit
+fructus2 | 3 | rare, abstr: enjoyment, use
+fructus2 | 4 | trop: result, reward, return (of an action)
+frugalis | 1 | frugal
+frugalitas | 1 | frugality
+frugifer | 1 | fruitful
+frugifer | 3 | trop: profitable, beneficial
+frumentarius | 1 | of grain
+frumentarius | 3 | as subst.: a corn-dealer, a grain merchant
+frumentarius | 4 | milit, as subst.: a commissary, a supply officer (for grain)
+frumentor | 1 | forage
+frumentor | 3 | act, rare: to supply with grain
+frumentum | 1 | grain
+frumentum | 3 | transf: small seeds (e.g. of figs)
+fruniscor | 1 | enjoy
+fruor | 1 | enjoy
+fruor | 3 | legal: to hold the usufruct of, have use and enjoyment of
+frustra | 1 | vainly
+frustra | 3 | rare: in error, mistakenly, under a delusion
+frustra | 4 | without reason, groundlessly
+frustratio | 1 | deception
+frustratio | 3 | rare: a delaying, a keeping back
+frustror | 1 | deceive
+frustror | 3 | transf: to render vain, make useless
+frustum | 1 | morsel
+frutectum | 1 | thicket
+frutectum | 3 | transf: a shrub
+frutex | 1 | shrub
+frutex | 3 | as an insult: blockhead, dolt
+frutico | 1 | sprout
+frutico | 3 | poet, transf: to grow bushy (of hair or antlers)
+fruticosus | 1 | shrubby
+frux | 1 | crop
+frux | 3 | trop: worth, value, benefit (of an effort)
+frux | 4 | as adj. (frugi): worthy, upright, temperate, honest
+fuco | 1 | dye
+fuco | 3 | in partic: to rouge, paint (the face)
+fuco | 4 | trop: to embellish, gloss over, disguise
+fucosus | 1 | counterfeit
+fucosus | 3 | of colour: painted, showy, gaudy
+fugax | 1 | fleeting
+fugax | 3 | with gen: shunning, avoiding (something)
+fugio | 1 | flee
+fugio | 2 | avoid
+fugio | 3 | pregn: to vanish, pass away, perish
+fugio | 4 | idiom (res me fugit): it escapes my notice, I fail to see
+fugio | 5 | legal, as subst.: the defendant
+fugitivarius | 1 | slave-catcher
+fugitivus | 1 | fugitive
+fugitivus | 3 | milit, as subst.: a deserter
+fugito | 1 | flee
+fugo | 1 | rout
+fulcio | 1 | prop up
+fulcio | 3 | trop: to support, sustain, uphold (a cause or person)
+fulcrum | 1 | bedpost
+fulcrum | 3 | transf: a couch, a dining-lounge
+fulgeo | 1 | flash
+fulgeo | 3 | transf: to gleam, glitter, shine (with light)
+fulgeo | 4 | trop: to be conspicuous, illustrious, distinguished
+fulgetrum | 1 | lightning
+fulgor | 1 | flash
+fulgor | 3 | transf: brightness, radiance, splendour
+fulgor | 4 | trop: glory, renown, fame
+fulgur | 1 | lightning
+fulgur | 3 | transf, rare: brightness, splendour
+fulguratio | 1 | lightning
+fulgurator | 1 | lightning-priest
+fulgurator | 3 | poet: a hurler of lightning bolts (of Jupiter)
+fulgurio | 1 | lighten
+fulgurio | 3 | act, rare: to strike with lightning
+fulguro | 1 | lighten
+fulguro | 3 | trop: to dazzle, blaze forth (of eloquence)
+fuligo | 1 | soot
+fuligo | 3 | transf: black eye-paint, kohl
+fuligo | 4 | trop: a smear, a besmirching (of words)
+fullo | 1 | fuller
+fullo | 3 | zool: a spotted beetle
+fullonicus | 1 | fuller's
+fullonicus | 3 | as subst. (fullonica): a fuller's workshop
+fullonius | 1 | fuller's
+fullonius | 3 | as subst. (fullonium): a fuller's shop
+fulmen | 1 | thunderbolt
+fulmen | 3 | trop: a crushing blow, a devastating force
+fulmentum | 1 | prop
+fulmentum | 3 | in partic: a bedpost
+fulminatus | 1 | thunderbolt-bearing
+fulmineus | 1 | fulminous
+fulmineus | 3 | trop: destructive, deadly, murderous
+fulmino | 1 | lighten
+fulmino | 3 | trop: to thunder, rage furiously (in battle or speech)
+fulmino | 4 | act: to strike with lightning, blast
+fultura | 1 | support
+fultura | 3 | transf: nourishment, sustenance (for the body)
+fulvus | 1 | tawny
+fumidus | 1 | smoky
+fumificus | 1 | smoking
+fumigo | 1 | fumigate
+fumigo | 3 | neutr: to smoke, steam, give off smoke
+fumo | 1 | smoke
+fumo | 3 | trop, rare: to smoulder (of latent danger)
+fumosus | 1 | smoky
+fumus | 1 | smoke
+fumus | 3 | trop: ruin, destruction (reducing something to smoke and ashes)
+funalis | 1 | roped
+funalis | 3 | as subst. (funale): a wax torch
+funalis | 4 | as subst. (funale), transf: a chandelier
+funarius | 1 | of rope
+functio | 1 | performance
+functio | 3 | late: payment (of taxes, a duty discharged)
+functio | 4 | euphem: death, life's end
+funda | 1 | sling
+funda | 3 | transf: a casting-net, a drag-net
+funda | 4 | transf: the bezel (of a ring, holding a gem)
+funda | 5 | transf: a money-bag, a purse
+fundamentum | 1 | foundation
+fundamentum | 3 | trop: a basis, a groundwork (for virtue or trust)
+fundito | 1 | hurl
+fundito | 3 | trop: to pour forth, spout (words)
+funditus | 1 | utterly
+funditus | 3 | rare: at the bottom, below
+fundo1 | 1 | pour
+fundo1 | 2 | rout
+fundo1 | 3 | to bring forth, produce (in abundance)
+fundo1 | 4 | metallurgy: to cast, found (metal)
+fundo1 | 5 | of speech: to utter, pour forth
+fundo1 | 6 | p. a. (fusus): spread out, diffuse, flowing
+fundo2 | 1 | found
+fundo2 | 3 | transf: to fasten, secure, make firm
+fundus | 1 | bottom
+fundus | 2 | estate
+fundus | 3 | legal, rare: a ratifier, one who formally approves (a transaction)
+funebris | 1 | funeral
+funebris | 3 | transf: deadly, fatal, cruel
+funereus | 1 | funereal
+funereus | 3 | transf: deadly, fatal, destructive
+funero | 1 | bury
+funero | 3 | p. a. (funeratus): killed, destroyed
+funesto | 1 | defile
+funesto | 3 | transf: to dishonour, disgrace (in gen.)
+funestus | 1 | deadly
+funestus | 3 | neutr sense: mournful, grief-stricken, sorrowful
+fungor | 1 | perform
+fungor | 3 | in partic: to pay, discharge (a due or obligation)
+fungus | 1 | mushroom
+fungus | 3 | pejor: a dolt, a blockhead
+fungus | 4 | transf: candle-snuff (charred wick)
+funis | 1 | rope
+funus | 1 | funeral
+funus | 3 | transf, poet: a corpse, a dead body
+funus | 4 | trop: destruction, ruin, downfall
+fur | 1 | thief
+fur | 3 | transf: a drone (a robber-bee)
+furax | 1 | thievish
+furca | 1 | fork
+furca | 3 | as punishment: a yoke (placed on a slave's neck as punishment)
+furca | 4 | transf: a gallows
+furcifer | 1 | scoundrel
+furcilla | 1 | pitchfork
+furcula | 1 | prop
+furcula | 3 | geog (Furculae Caudinae): the Caudine Forks (a mountain pass)
+furfur | 1 | bran
+furfur | 3 | transf: dandruff, scurf (on the skin)
+furia | 1 | frenzy
+furia | 3 | personif. (Furia): a Fury, a goddess of vengeance
+furia | 4 | transf: a fiend, a menace (of a destructive person)
+furialis | 1 | furious
+furialis | 3 | act, rare: maddening, infuriating
+furibundus | 1 | raging
+furibundus | 3 | esp: inspired, prophetically frenzied
+furio1 | 1 | madden
+furiosus | 1 | furious
+furnus | 1 | oven
+furo | 1 | rage
+furo | 3 | transf: to rage, rush violently (of wind, sea)
+furor1 | 1 | steal
+furor1 | 3 | transf: to remove secretly, withdraw stealthily
+furor2 | 1 | frenzy
+furor2 | 3 | personif. (Furor): the god of Rage, companion of Mars
+furor2 | 4 | transf, poet: a cause of wrath, a provocation
+furtim | 1 | stealthily
+furtivus | 1 | stolen
+furtivus | 3 | transf: secret, hidden, clandestine
+furtum | 1 | theft
+furtum | 3 | transf, concr: stolen goods, loot
+furtum | 4 | transf: a trick, a stratagem
+furtum | 5 | in partic, plur: a secret love affair, an intrigue
+furunculus | 1 | pilferer
+furunculus | 3 | medic: a boil, a furuncle
+furunculus | 4 | viticulture: a bud, a knob (on a vine)
+furvus | 1 | dusky
+furvus | 3 | trop: black, ill-omened (of a day or deed)
+fusco | 1 | darken
+fusco | 3 | neutr: to grow dark, become swarthy
+fuscus1 | 1 | swarthy
+fuscus1 | 3 | transf, of the voice: husky, hoarse
+fusilis | 1 | molten
+fusilis | 3 | of metal: cast
+fusio | 1 | outpouring
+fusio | 3 | metallurgy: a casting, a founding (of metal)
+fusio | 4 | late: a tax, a duty
+fustis | 1 | cudgel
+fustuarium | 1 | cudgelling
+fustuarium | 3 | milit: death by cudgelling (a punishment for desertion)
+fusus3 | 1 | spindle
+fusus3 | 3 | mechanics, transf: an axle-bar, a connecting rod (between wheels)
+futtilis | 1 | futile
+futtilis | 3 | as subst. (futtile): a ritual water-vessel (used in sacrifices to Vesta)
+futtilis | 4 | transf, rare: leaky, unable to hold anything
