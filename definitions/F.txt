@@ -926,3 +926,24 @@ frigusculum | 3 | trop: a coolness, a rift (between spouses)
 frigutio | 1 | twitter
 frigutio | 3 | transf: to stammer, stutter (speak indistinctly)
 frio | 1 | crumble
+fritinnio | 1 | chirp
+fritinnio | 3 | transf: to babble, prattle (of a child)
+frivolus | 1 | trifling
+frivolus | 3 | as subst. (frivola): paltry trifles, junk
+frondeo | 1 | leaf
+frondesco | 1 | leaf out
+frondesco | 3 | trop, of speech: to become flowery, ornate
+frondeus | 1 | leafy
+frondosus | 1 | leafy
+frons1 | 1 | foliage
+frons1 | 3 | poet, transf: a garland, a leafy wreath
+frons2 | 1 | forehead
+frons2 | 2 | front
+frons2 | 3 | trop: outward appearance, exterior show
+frons2 | 4 | poet: shame, modesty
+frons2 | 5 | late: impudence, boldness, cheek
+fructuarius | 1 | fruit-bearing
+fructuarius | 3 | legal: usufructuary, held in usufruct
+fructuarius | 4 | legal, as subst.: a usufructuary (one entitled to the use and profit of a thing)
+fructuosus | 1 | fruitful
+fructuosus | 3 | trop: profitable, beneficial, rewarding
