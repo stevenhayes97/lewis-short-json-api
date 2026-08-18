@@ -717,3 +717,28 @@ fodio | 2 | stab
 fodio | 3 | trop: to goad, sting, torment (the heart)
 foedero | 1 | ally
 foedero | 3 | p. a. (foederatus): allied, confederate, leagued together
+foeditas | 1 | foulness
+foeditas | 3 | mentally: baseness, depravity, moral ugliness
+foedo | 1 | defile
+foedo | 3 | trop: to disgrace, dishonour, sully
+foedus1 | 1 | foul
+foedus1 | 3 | mentally: base, shameful, disgraceful
+foedus2 | 1 | treaty
+foedus2 | 3 | transf: an agreement, a bargain, a pact
+foedus2 | 4 | poet: a law (of nature)
+foliatus | 1 | leafy
+foliatus | 3 | as subst. (foliatum): nard-oil, an ointment of spikenard
+folium | 1 | leaf
+folium | 3 | trop: a trifle, a thing of no worth
+folium | 4 | late: a leaf, a page (of paper)
+follico | 1 | pant
+folliculus | 1 | pouch
+folliculus | 3 | transf: a husk, a pod, a shell
+folliculus | 4 | esp: an inflated ball (for playing)
+follis | 1 | bellows
+follis | 3 | a money-bag, a purse
+follis | 4 | a windball (an inflated playing-ball)
+follis | 5 | transf: the belly, the stomach
+fomentum | 1 | poultice
+fomentum | 3 | trop: a comfort, a solace, an alleviation
+fomentum | 4 | transf: kindling, tinder
