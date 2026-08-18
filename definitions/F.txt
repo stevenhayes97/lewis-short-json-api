@@ -289,3 +289,36 @@ ferax | 1 | fertile
 ferax | 3 | trop: rich, fruitful, productive (of talent or ideas)
 ferculum | 1 | litter
 ferculum | 3 | at a meal: a course, a dish (of food)
+fere | 1 | almost
+fere | 3 | with a negative: scarcely, hardly
+fere | 4 | of time, habitually: generally, usually
+ferentarius | 1 | skirmisher
+ferentarius | 3 | transf: a ready helper, one quick to assist
+feriae | 1 | holidays
+feriae | 3 | transf: rest, peace, leisure (in gen.)
+ferinus | 1 | wild
+ferinus | 3 | as subst. (ferina): venison, game (the meat of wild animals)
+ferio | 1 | strike
+ferio | 2 | kill
+ferio | 3 | idiom (foedus ferire): to make a treaty, strike a bargain
+ferio | 4 | of coins: to mint, stamp
+ferio | 5 | colloq: to cheat, trick, dupe
+ferior | 1 | rest
+feritas | 1 | fierceness
+feritas | 3 | transf: harshness, roughness (of a place or thing)
+fermento | 1 | ferment
+fermento | 3 | transf: to loosen, break up (soil)
+fermento | 4 | trop: to sour, spoil, corrupt
+fermentum | 1 | leaven
+fermentum | 3 | transf: beer, malt liquor
+fermentum | 4 | trop, poet: anger, passion, irritation
+fero | 1 | carry
+fero | 2 | bear
+fero | 3 | with se: to rush, hurry, move swiftly
+fero | 4 | to bring forth, produce, yield (of plants, or offspring)
+fero | 5 | to endure, tolerate, put up with (something difficult)
+fero | 6 | of report: to relate, say, assert; ferunt, they say, it is said
+fero | 7 | polit: legem ferre, to propose a law
+fero | 8 | polit: suffragium ferre, to cast a vote
+fero | 9 | to get, win, carry off (a prize or victory)
+fero | 10 | idiom (prae se ferre): to show, display, make evident
