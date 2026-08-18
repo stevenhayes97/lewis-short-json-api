@@ -1068,3 +1068,29 @@ fundito | 1 | hurl
 fundito | 3 | trop: to pour forth, spout (words)
 funditus | 1 | utterly
 funditus | 3 | rare: at the bottom, below
+fundo1 | 1 | pour
+fundo1 | 2 | rout
+fundo1 | 3 | to bring forth, produce (in abundance)
+fundo1 | 4 | metallurgy: to cast, found (metal)
+fundo1 | 5 | of speech: to utter, pour forth
+fundo1 | 6 | p. a. (fusus): spread out, diffuse, flowing
+fundo2 | 1 | found
+fundo2 | 3 | transf: to fasten, secure, make firm
+fundus | 1 | bottom
+fundus | 2 | estate
+fundus | 3 | legal, rare: a ratifier, one who formally approves (a transaction)
+funebris | 1 | funeral
+funebris | 3 | transf: deadly, fatal, cruel
+funereus | 1 | funereal
+funereus | 3 | transf: deadly, fatal, destructive
+funero | 1 | bury
+funero | 3 | p. a. (funeratus): killed, destroyed
+funesto | 1 | defile
+funesto | 3 | transf: to dishonour, disgrace (in gen.)
+funestus | 1 | deadly
+funestus | 3 | neutr sense: mournful, grief-stricken, sorrowful
+fungor | 1 | perform
+fungor | 3 | in partic: to pay, discharge (a due or obligation)
+fungus | 1 | mushroom
+fungus | 3 | pejor: a dolt, a blockhead
+fungus | 4 | transf: candle-snuff (charred wick)
