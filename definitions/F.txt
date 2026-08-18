@@ -988,3 +988,23 @@ fuco | 3 | in partic: to rouge, paint (the face)
 fuco | 4 | trop: to embellish, gloss over, disguise
 fucosus | 1 | counterfeit
 fucosus | 3 | of colour: painted, showy, gaudy
+fugax | 1 | fleeting
+fugax | 3 | with gen: shunning, avoiding (something)
+fugio | 1 | flee
+fugio | 2 | avoid
+fugio | 3 | pregn: to vanish, pass away, perish
+fugio | 4 | idiom (res me fugit): it escapes my notice, I fail to see
+fugio | 5 | legal, as subst.: the defendant
+fugitivarius | 1 | slave-catcher
+fugitivus | 1 | fugitive
+fugitivus | 3 | milit, as subst.: a deserter
+fugito | 1 | flee
+fugo | 1 | rout
+fulcio | 1 | prop up
+fulcio | 3 | trop: to support, sustain, uphold (a cause or person)
+fulcrum | 1 | bedpost
+fulcrum | 3 | transf: a couch, a dining-lounge
+fulgeo | 1 | flash
+fulgeo | 3 | transf: to gleam, glitter, shine (with light)
+fulgeo | 4 | trop: to be conspicuous, illustrious, distinguished
+fulgetrum | 1 | lightning
