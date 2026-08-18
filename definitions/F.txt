@@ -1,0 +1,23 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_F.json (Lewis & Short via Perseus), simplified for learners.
+faba | 1 | bean
+faba | 3 | transf: a bean-shaped grain or pellet
+fabarius | 1 | of beans
+fabella | 1 | tale
+fabella | 3 | in partic: a fable (with a moral)
+fabella | 4 | a short play
+faber1 | 1 | craftsman
+faber1 | 3 | esp (faber tignarius): a carpenter
+faber2 | 1 | skilful
+fabrefacio | 1 | craft
+fabrefacio | 3 | trop: to forge, contrive (a trick)
+fabrica | 1 | workshop
+fabrica | 3 | transf: a craft, a trade (requiring skilled work)
+fabrica | 4 | gen: a structure, a skilfully made thing
+fabrica | 5 | comic: a trick, a crafty scheme
+fabricatio | 1 | construction
+fabricatio | 3 | trop, of speech: structure, composition
+fabricator | 1 | maker
+fabricator | 3 | trop: a cause, an author (of misfortune)
+fabricor | 1 | construct
+fabricor | 3 | transf: to form, shape, fashion (in a general sense)
