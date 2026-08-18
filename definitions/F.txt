@@ -457,3 +457,29 @@ fides1 | 5 | personif. (Fides): the goddess of good faith
 fides2 | 1 | lyre
 fides2 | 3 | astron (Fides): the constellation Lyra
 fides2 | 4 | transf, sing: a string (of an instrument)
+fidicen | 1 | harpist
+fidicen | 3 | poet, transf: a lyric poet
+fidiculae | 1 | lute
+fidiculae | 3 | astron (Fidicula): the constellation Lyra
+fidiculae | 4 | transf: cords (used as an instrument of torture)
+fido | 1 | trust
+fido | 3 | p. a. (fidens): confident, bold, self-assured
+fiducia | 1 | confidence
+fiducia | 3 | in partic: self-confidence, boldness
+fiducia | 4 | legal: a pledge, a security, a mortgage
+fiduciarius | 1 | fiduciary
+fiduciarius | 3 | transf: held in trust, provisional
+fiducio | 1 | mortgage
+fidus1 | 1 | trusty
+fidus1 | 3 | transf: safe, reliable, secure (of things)
+figlinus | 1 | potter's
+figlinus | 3 | as subst. (figlina): a pottery workshop
+figlinus | 4 | as subst. (figlinum): an earthen vessel
+figmentum | 1 | formation
+figmentum | 3 | concr: a figure, an image (something shaped)
+figmentum | 4 | in partic: a fiction, an invented tale
+figo | 1 | fasten
+figo | 2 | pierce
+figo | 3 | trop: to fix, direct, concentrate (attention or effort)
+figo | 4 | of speech: to sting, taunt, needle (someone)
+figo | 5 | p. a. (fixus): fixed, firm, immovable
