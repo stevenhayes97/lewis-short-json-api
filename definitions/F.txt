@@ -781,3 +781,25 @@ formido1 | 1 | dread
 formido2 | 1 | dread
 formido2 | 3 | in partic: awe, reverence
 formido2 | 4 | concr: a bugbear, a scarecrow (used to frighten game)
+formidulosus | 1 | dreadful
+formidulosus | 3 | pass, rare: timid, fearful, afraid
+formo | 1 | shape
+formo | 3 | trop: to train, mould, regulate (character or style)
+formosus | 1 | beautiful
+formula | 1 | formula
+formula | 3 | legal: a rule, a procedure (for conducting a lawsuit)
+formula | 4 | transf: a lawsuit, a legal action
+formula | 5 | gen: a rule, a principle
+fornacalis | 1 | of ovens
+fornacalis | 3 | as subst. (Fornacalia): the festival of the oven-goddess
+fornax | 1 | furnace
+fornax | 3 | personif. (Fornax): the goddess of ovens
+fornix | 1 | arch
+fornix | 3 | in partic: a triumphal arch
+fornix | 4 | transf: a brothel (housed under vaulted arches)
+foro | 1 | pierce
+foro | 3 | trop: leaky, unable to retain anything (of the mind)
+fors | 1 | chance
+fors | 3 | personif. (Fors): the goddess of chance
+fors | 4 | adv (forte): by chance, accidentally
+forsan | 1 | perhaps
