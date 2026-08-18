@@ -905,3 +905,24 @@ fretum | 3 | poet, transf: the sea
 fretum | 4 | trop: a raging, a turbulent surge (of passion or age)
 fretus1 | 1 | relying
 fretus1 | 3 | poet, with inf: daring, venturing (to do something)
+frico | 1 | rub
+frigeo | 1 | be cold
+frigeo | 3 | trop: to languish, stagnate, be inactive
+frigeo | 4 | trop: to be coldly received, be out of favour
+frigesco | 1 | chill
+frigesco | 3 | trop: to grow languid, become listless
+frigidarius | 1 | cooling
+frigidarius | 3 | as subst. (frigidarium): the cooling-room (in a bath)
+frigidus | 1 | cold
+frigidus | 3 | trop: listless, half-hearted, indifferent
+frigidus | 4 | trop: flat, dull, insipid (of style)
+frigo1 | 1 | roast
+frigus | 1 | cold
+frigus | 3 | poet: winter, the cold season
+frigus | 4 | euphem: the chill of death
+frigus | 5 | trop: a cool reception, indifference, disfavour
+frigusculum | 1 | chill
+frigusculum | 3 | trop: a coolness, a rift (between spouses)
+frigutio | 1 | twitter
+frigutio | 3 | transf: to stammer, stutter (speak indistinctly)
+frio | 1 | crumble
