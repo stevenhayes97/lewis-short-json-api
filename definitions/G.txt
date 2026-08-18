@@ -404,6 +404,18 @@ granditas | 3 | of style, grandeur, sublimity
 grando | 1 | hail
 grando | 3 | transferred, poetic, a shower, a great quantity or multitude
 grando | 4 | figurative, of copious, torrential speech
+granum | 1 | grain
+grassator | 1 | vagabond
+grassator | 2 | footpad
+grassator | 3 | an idler, one with no fixed occupation (early usage)
+grassator | 4 | one who roams about at night causing disorder, a rioter or street-robber
+grassor | 1 | roam
+grassor | 3 | to go about, to walk, proceed (rare, mostly early Latin)
+grassor | 4 | to roam about rioting, or lying in wait to rob
+grassor | 5 | figurative, to proceed or act in a given manner
+grassor | 6 | figurative, to attack, rage against, proceed with violence
+grates | 1 | thanks
+grates | 3 | thanks or thanksgiving rendered especially to the gods
 gratia | 1 | favour
 gratia | 2 | thanks
 gratia | 3 | the goodwill you enjoy in other people's eyes: esteem, popularity, influence, standing
@@ -414,6 +426,20 @@ gratia | 7 | charm, gracefulness, attractiveness, beauty (poetic and later prose
 gratia | 8 | after a genitive, gratia means for the sake of, on account of: exempli gratia, for example; mea gratia, for my sake
 gratia | 9 | Gratiae, the three Graces, goddesses of charm and loveliness
 gratia | 10 | ablative gratiis, contracted gratis: for nothing, free of charge, without payment
+gratificor | 1 | oblige
+gratificor | 3 | to do something as a favour, to sacrifice one thing to gratify another
+gratiosus | 1 | popular
+gratiosus | 3 | enjoying favour, in favour, well-regarded
+gratiosus | 4 | that shows favour, obliging, complaisant (rare)
+grator | 1 | congratulate
+gratuitus | 1 | free
+gratuitus | 2 | voluntary
+gratuitus | 3 | done without pay, reward, or profit
+gratuitus | 4 | spontaneous, unforced, done of one's own accord
+gratulatio | 1 | congratulation
+gratulatio | 3 | a public religious festival of thanksgiving
+gratulor | 1 | congratulate
+gratulor | 3 | to give thanks, to thank, especially a deity (early Latin)
 gratus | 1 | pleasing
 gratus | 2 | grateful
 gratus | 3 | pleasant, agreeable, welcome, said of things that please
