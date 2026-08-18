@@ -825,3 +825,22 @@ forum | 4 | rare: a fore-court (before a tomb)
 forus1 | 1 | gangway
 forus1 | 3 | transf: a row of seats (in the Circus)
 forus1 | 4 | transf: a honeycomb cell
+fossa | 1 | ditch
+fossa | 3 | in partic: a foundation-furrow (marking a wall's course)
+fossa | 4 | late: a grave
+fosso | 1 | dig
+fossor | 1 | digger
+fossor | 3 | in partic: a miner
+fossor | 4 | transf, pejor: a lout, a boor, a common labourer
+fossura | 1 | digging
+fossura | 3 | transf, concr: a pit
+fotus2 | 1 | fomentation
+fotus2 | 3 | trop, rare: warmth, nurture (of glory)
+fovea | 1 | pitfall
+fovea | 3 | trop: a snare, a trap (for deceiving someone)
+foveo | 1 | warm
+foveo | 2 | cherish
+foveo | 3 | medic: to foment (a wound or ailment)
+fraces | 1 | dregs
+fracesco | 1 | rot
+fractura | 1 | fracture
