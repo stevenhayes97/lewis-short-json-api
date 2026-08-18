@@ -21,3 +21,30 @@ fabricator | 1 | maker
 fabricator | 3 | trop: a cause, an author (of misfortune)
 fabricor | 1 | construct
 fabricor | 3 | transf: to form, shape, fashion (in a general sense)
+fabrilis | 1 | craftsman's
+fabula1 | 1 | story
+fabula1 | 2 | play
+fabula1 | 3 | a fable (with a moral)
+fabula1 | 4 | vulg: an affair, a matter, a business
+fabulor | 1 | chat
+fabulor | 3 | esp: to speak (a particular language)
+fabulosus | 1 | legendary
+facesso | 1 | perform
+facesso | 3 | in partic, pejor: to cause, bring on, occasion (trouble)
+facesso | 4 | neutr: to go away, depart, withdraw
+facetia | 1 | jest
+facetia | 3 | plur: wit, witticisms, pleasantries
+facetus | 1 | witty
+facetus | 3 | of behaviour: courteous, polite, refined
+facetus | 4 | of speech: elegant, fine
+facies | 1 | shape
+facies | 2 | face
+facies | 3 | trop: appearance, look, aspect (in general)
+facies | 4 | in Tac.: a pretence, a pretext (outward show masking reality)
+facilis | 1 | easy
+facilis | 2 | affable
+facilis | 3 | of fortune: favourable, prosperous
+facilis | 4 | adv (facile): easily, readily, without difficulty
+facilitas | 1 | ease
+facilitas | 3 | of character: good nature, affability, courteousness
+facilitas | 4 | pejor: levity, heedlessness
