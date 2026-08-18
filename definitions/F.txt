@@ -48,3 +48,33 @@ facilis | 4 | adv (facile): easily, readily, without difficulty
 facilitas | 1 | ease
 facilitas | 3 | of character: good nature, affability, courteousness
 facilitas | 4 | pejor: levity, heedlessness
+facinorosus | 1 | villainous
+facinus | 1 | deed
+facinus | 3 | in partic: a crime, an outrage, a villainy
+facinus | 4 | transf, poet: an instrument of crime (e.g. a poisoned cup)
+facio | 1 | make
+facio | 2 | do
+facio | 3 | with double acc.: to render, turn into (something)
+facio | 4 | to value, esteem, regard (with gen. of price: magni facere, to think highly of)
+facio | 5 | to represent, feign, pretend, assert (that something is the case)
+facio | 6 | mercant: to practise, follow (a trade or profession)
+facio | 7 | relig: to perform a rite, offer a sacrifice
+facio | 8 | facere cum aliquo: to side with, take part with someone
+facio | 9 | hypothetically (fac): suppose, assume that...
+facio | 10 | as subst. (factum): a deed, an act, an achievement
+facticius | 1 | artificial
+factio | 1 | faction
+factio | 3 | legal: the right to make a will (testamenti factio)
+factio | 4 | rare: a making, a doing, a preparing
+factio | 5 | at the races: a racing team (of charioteers)
+factiosus | 1 | factious
+factito | 1 | practise
+factito | 3 | with double acc.: to declare, proclaim (someone something, e.g. an heir)
+factito | 4 | esp, pejor: to keep churning out (with implied lack of success)
+factor | 1 | doer
+factor | 3 | econom: an oil-presser
+factor | 4 | in ball games: the batsman, the striker
+factura | 1 | manufacture
+factura | 3 | transf: a creature, a created thing
+factus2 | 1 | construction
+factus2 | 3 | econom: a pressing (of oil), the yield of one pressing
