@@ -483,3 +483,29 @@ figo | 2 | pierce
 figo | 3 | trop: to fix, direct, concentrate (attention or effort)
 figo | 4 | of speech: to sting, taunt, needle (someone)
 figo | 5 | p. a. (fixus): fixed, firm, immovable
+figulus1 | 1 | potter
+figura | 1 | shape
+figura | 3 | gram: the inflected form (of a word)
+figura | 4 | rhet: a figure of speech
+figura | 5 | poet: a ghost, a phantom, a shade
+figuratio | 1 | shaping
+figuratio | 3 | trop: imagination, fancy
+figuratio | 4 | rhet: figurative speech, a mode of figured expression
+figuro | 1 | shape
+figuro | 3 | trop: to imagine, picture, fancy
+figuro | 4 | rhet: to adorn with figures of speech
+figuro | 5 | p. a. (figuratus), of speech: figurative
+filia | 1 | daughter
+filia | 3 | poet, transf: an offshoot (of a plant or place)
+filiola | 1 | daughter
+filiola | 3 | sarcastic: an effeminate young man ("little miss")
+filius | 1 | son
+filius | 3 | plur (filii): children (of both sexes)
+filius | 4 | transf: a descendant
+filum | 1 | thread
+filum | 3 | transf: a string, a cord, a filament
+filum | 4 | trop: texture, style, quality (of speech)
+filum | 5 | rare: contour, shape, form (of an object)
+fimbriae | 1 | fringe
+fimus | 1 | dung
+fimus | 3 | poet, transf: dirt, mire, filth
