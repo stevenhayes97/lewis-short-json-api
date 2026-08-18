@@ -436,3 +436,24 @@ ficus | 4 | medic, colloq: piles, haemorrhoids
 # review: fideicommissarius relates to the Roman fideicommissum trust-bequest; English has no adjective for it
 fideicommissarius | 1 | of a trust-bequest
 fideicommissarius | 3 | as subst.: one who receives an inheritance under a fideicommissum, a trust-heir
+fideicommitto | 1 | bequeath
+fideicommitto | 3 | legal: to leave in trust (by will, for delivery to a third party)
+fidejubeo | 1 | vouch
+fidejubeo | 3 | legal: to stand surety, act as guarantor (for a debt)
+fidejussor | 1 | guarantor
+fidelia | 1 | pot
+fidelia | 3 | esp: a pail (of whitewash)
+fidelis | 1 | faithful
+fidelis | 3 | transf: dependable, sound, durable (of things)
+fidelis | 4 | as subst.: a trusted friend, a confidant
+fidelitas | 1 | fidelity
+fidentia1 | 1 | confidence
+fidepromissor | 1 | surety
+fides1 | 1 | trust
+fides1 | 2 | promise
+fides1 | 3 | mercant: credit, creditworthiness
+fides1 | 4 | pregn: protection, safe-conduct, guaranteed safety
+fides1 | 5 | personif. (Fides): the goddess of good faith
+fides2 | 1 | lyre
+fides2 | 3 | astron (Fides): the constellation Lyra
+fides2 | 4 | transf, sing: a string (of an instrument)
