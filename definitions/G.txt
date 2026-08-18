@@ -1,5 +1,30 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_G.json (Lewis & Short via Perseus), simplified for learners.
+galbanum | 1 | galbanum
+galbanum | 3 | a fragrant gum-resin from a Syrian plant, used in incense and medicine
+galbeum | 1 | armband
+galbeum | 3 | a band or fillet worn on the arm, as an ornament, for medical use, or by a general celebrating a triumph
+galea | 1 | helmet
+galea | 3 | usually a leather helmet, as opposed to the metal cassis
+galea | 4 | transferred, the crest of the Guinea fowl
+# review: galeo English has no one-word verb for putting on a helmet; "helm" would wrongly suggest steering
+galeo | 1 | cover with a helmet
+galeo | 3 | of soldiers, to put on or wear a helmet, to arm
+galeo | 4 | transferred, galeatus prologus, a defensive preface, written to forestall criticism
+galeritus | 1 | hooded
+galeritus | 3 | of a rustic, wearing a hood or hide cap
+galeritus | 4 | transferred, galerita avis, the crested lark
+galerum | 1 | cap
+galerum | 3 | a close-fitting cap of skin or fur, worn by priests
+galerum | 4 | a kind of wig or toupee
+galerum | 5 | poetic, a rose-bud
+galla1 | 1 | gall-nut
+galla1 | 3 | a harsh, inferior kind of wine
+gallicinium | 1 | cockcrow
+gallicinium | 3 | the last watch of the night, early dawn
+gallina1 | 1 | hen
+gallinaceus | 1 | of poultry
+gallinaceus | 3 | transferred, of plants: cunila gallinacea, a kind of savory herb
 gaudeo | 1 | rejoice
 gaudeo | 2 | delight
 gaudeo | 3 | to be glad, feel joy inwardly, as against laetor, which shows joy openly
