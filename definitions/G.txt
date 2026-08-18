@@ -496,3 +496,28 @@ gregarius | 3 | of or belonging to a flock or herd, literal, rare
 gregarius | 4 | military, miles gregarius, a common soldier, a private
 gregatim | 1 | in flocks
 gregatim | 3 | transferred, in troops, in crowds, en masse
+grego | 1 | flock
+grego | 3 | to gather into a group, host, or assembly
+gremium | 1 | lap
+gremium | 3 | transferred, the heart or centre of a place: in gremio Thebes, in the heart of Thebes
+gressus2 | 1 | step
+gressus2 | 3 | poetic, of a ship, its course: huc dirige gressum, steer your course here
+gressus2 | 4 | a pace, as a unit of length
+grex | 1 | flock
+grex | 2 | company
+grex | 3 | of animals, a herd, drove, or swarm
+grex | 4 | of persons, a company, troop, band, or crowd
+grex | 5 | in particular, of actors or charioteers, a troupe or team
+grex | 6 | rarely, of things, a bundle: grex virgarum, a bundle of rods
+groma | 1 | surveyor's rod
+groma | 3 | transferred, the centre point of a Roman camp, where the rod was planted
+gromaticus | 1 | of surveying
+gromaticus | 3 | as a noun, gromatici, writers on land-surveying
+grossus2 | 1 | thick
+grunnio | 1 | grunt
+grunnio | 3 | transferred, of other animals, to make a grunting sound
+grus | 1 | crane
+grus | 3 | transferred, a siege engine, a battering-ram shaped like a crane's beak
+gubernaculum | 1 | rudder
+gubernaculum | 3 | transferred, guidance, direction
+gubernaculum | 4 | especially, the helm of state, government: gubernacula rei publicae tractare, to be at the helm of the republic
