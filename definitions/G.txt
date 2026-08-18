@@ -290,6 +290,32 @@ gladius | 5 | a gladiatorial fight, or the arena as a sentence: ad gladium damna
 gladius | 6 | proverbial: suo sibi gladio iugulare, to cut a man's throat with his own sword, to beat him with his own argument
 gladius | 7 | the blade of a ploughshare
 gladius | 8 | the swordfish
+glaeba | 1 | clod
+glaeba | 3 | transferred, land, soil, ground
+glaeba | 4 | a lump or mass of something else: sevi glaebae, lumps of tallow
+glaebula | 1 | small clod
+glaebula | 3 | a small farm, a little piece of land
+glaebula | 4 | a small piece or lump of something else
+glandulae | 1 | tonsils
+glandulae | 3 | the glands of the throat, especially when swollen
+glandulae | 4 | a delicate cut of meat from the neck, especially of pork
+glans | 1 | acorn
+glans | 3 | any acorn-shaped nut, such as a beechnut or chestnut
+glans | 4 | transferred, an acorn-shaped sling-bullet of lead or clay
+glans | 5 | anatomical, the glans penis
+glarea | 1 | gravel
+glis | 1 | dormouse
+glisco | 1 | swell
+glisco | 3 | of fire, to blaze up, kindle, spread
+glisco | 4 | figurative, to grow, increase, spread: of feelings, ambition, or forces gathering strength
+globo | 1 | ball
+globo | 3 | to make round or spherical
+globo | 4 | transferred, to crowd together, to form into a mass or body
+globosus | 1 | spherical
+globulus | 1 | globule
+globulus | 3 | a small lump of food, a dumpling
+globulus | 4 | medical, a pill
+globulus | 5 | figurative, of speech, a well-rounded phrase or period
 gloria | 1 | glory
 gloria | 2 | fame
 gloria | 3 | glory, renown, or high reputation won by achievement, especially in war
