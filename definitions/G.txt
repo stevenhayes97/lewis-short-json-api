@@ -447,6 +447,23 @@ gratus | 4 | dear to someone, in favour with them, with the dative: gratus dis, 
 gratus | 5 | thankful, grateful, mindful of a kindness received
 gratus | 6 | deserving thanks, sure to be appreciated, said of an act that earns gratitude
 gratus | 7 | adverb grate: willingly and with pleasure; also thankfully, gratefully
+# review: gravedinosus English has no adjective for catching colds easily; described directly
+gravedinosus | 1 | prone to colds
+gravedinosus | 3 | transferred, that causes colds: ervum gravedinosum, a cold-inducing legume
+gravedo | 1 | catarrh
+gravedo | 3 | heaviness of the limbs, a head cold
+gravedo | 4 | rare, pregnancy
+gravesco | 1 | worsen
+gravesco | 3 | to become heavy or laden: fetu gravescit, it becomes loaded with fruit
+gravesco | 4 | in particular, to become pregnant
+gravesco | 5 | figurative, to grow worse, become more grievous
+gravido | 1 | burden
+gravido | 3 | in particular, to impregnate, make pregnant
+gravidus | 1 | pregnant
+gravidus | 2 | laden
+gravidus | 3 | with child, with young
+gravidus | 4 | transferred, poetic, laden, filled, full: gravidae segetes, fields heavy with grain
+gravidus | 5 | figurative, full, abundant
 gravis | 1 | heavy
 gravis | 2 | serious
 gravis | 3 | weighed down, loaded, laden, often with the ablative: navis gravis, a laden ship
@@ -457,3 +474,25 @@ gravis | 7 | of sound, deep and low-pitched, the opposite of acutus
 gravis | 8 | of a smell or taste, strong, rank, offensive
 gravis | 9 | of air, food, or the body, unwholesome or unhealthy; of a person, sick and ailing
 gravis | 10 | pregnant, with child (poetic, standing in for gravidus)
+gravitas | 1 | weight
+gravitas | 2 | dignity
+gravitas | 3 | physical weight or heaviness
+gravitas | 4 | transferred, of smell, rankness, offensiveness
+gravitas | 5 | of health, severity, sickness, or unwholesomeness
+gravitas | 6 | bad sense, heaviness, slowness, harshness
+gravitas | 7 | good sense, seriousness, dignity, weightiness of character
+gravo | 1 | burden
+gravo | 2 | demur
+gravo | 3 | to load, weigh down, oppress
+gravo | 4 | especially, to make pregnant
+gravo | 5 | figurative, to oppress, aggravate, make more grievous
+gravo | 6 | deponent gravor, to feel burdened or reluctant, to be unwilling, to demur
+# review: gregalis "of the herd" needs the article to be accurate; no shorter English phrasing fits
+gregalis | 1 | of the herd
+gregalis | 3 | as a noun, gregales, comrades, companions
+gregalis | 4 | of the common sort, common, ordinary, bad sense
+gregarius | 1 | common
+gregarius | 3 | of or belonging to a flock or herd, literal, rare
+gregarius | 4 | military, miles gregarius, a common soldier, a private
+gregatim | 1 | in flocks
+gregatim | 3 | transferred, in troops, in crowds, en masse
