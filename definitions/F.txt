@@ -1008,3 +1008,24 @@ fulgeo | 1 | flash
 fulgeo | 3 | transf: to gleam, glitter, shine (with light)
 fulgeo | 4 | trop: to be conspicuous, illustrious, distinguished
 fulgetrum | 1 | lightning
+fulgor | 1 | flash
+fulgor | 3 | transf: brightness, radiance, splendour
+fulgor | 4 | trop: glory, renown, fame
+fulgur | 1 | lightning
+fulgur | 3 | transf, rare: brightness, splendour
+fulguratio | 1 | lightning
+fulgurator | 1 | lightning-priest
+fulgurator | 3 | poet: a hurler of lightning bolts (of Jupiter)
+fulgurio | 1 | lighten
+fulgurio | 3 | act, rare: to strike with lightning
+fulguro | 1 | lighten
+fulguro | 3 | trop: to dazzle, blaze forth (of eloquence)
+fuligo | 1 | soot
+fuligo | 3 | transf: black eye-paint, kohl
+fuligo | 4 | trop: a smear, a besmirching (of words)
+fullo | 1 | fuller
+fullo | 3 | zool: a spotted beetle
+fullonicus | 1 | fuller's
+fullonicus | 3 | as subst. (fullonica): a fuller's workshop
+fullonius | 1 | fuller's
+fullonius | 3 | as subst. (fullonium): a fuller's shop
