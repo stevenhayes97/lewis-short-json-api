@@ -803,3 +803,25 @@ fors | 1 | chance
 fors | 3 | personif. (Fors): the goddess of chance
 fors | 4 | adv (forte): by chance, accidentally
 forsan | 1 | perhaps
+forsitan | 1 | perhaps
+fortasse | 1 | perhaps
+fortasse | 3 | of numbers: about, roughly
+fortassean | 1 | perhaps
+fortis | 1 | brave
+fortis | 3 | physically, rare: strong, powerful, robust
+fortis | 4 | adv (fortiter): bravely, valiantly, vigorously
+fortitudo | 1 | courage
+fortitudo | 3 | physically, rare: bodily strength
+fortuitus | 1 | accidental
+fortuna | 1 | fortune
+fortuna | 3 | personif. (Fortuna): the goddess of fortune
+fortuna | 4 | condition, circumstance, lot (in life)
+fortuna | 5 | transf, concr: property, wealth, possessions
+fortuno | 1 | bless
+fortuno | 3 | p. a. (fortunatus): wealthy, well off, prosperous
+forum | 1 | marketplace
+forum | 3 | the public square (for civic and legal affairs)
+forum | 4 | rare: a fore-court (before a tomb)
+forus1 | 1 | gangway
+forus1 | 3 | transf: a row of seats (in the Circus)
+forus1 | 4 | transf: a honeycomb cell
