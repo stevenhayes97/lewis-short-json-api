@@ -97,3 +97,27 @@ faenum | 3 | esp (faenum Graecum): fenugreek
 faenus | 1 | interest
 faenus | 3 | transf, rare: capital lent out (the principal)
 faenus | 4 | gen: gain, profit, advantage (in a non-financial sense)
+faex | 1 | dregs
+faex | 3 | trop: the dregs, the lowest class (of a people)
+faex | 4 | transf: rouge, cosmetic paint (for the face)
+fala | 1 | scaffold
+fala | 3 | milit: a siege-tower (for throwing missiles)
+fala | 4 | at the circus: one of the turning-posts (pillars in the spina)
+falarica | 1 | fire-javelin
+falarica | 3 | transf: a similar missile thrown by hand
+falcatus | 1 | scythed
+falcatus | 3 | transf: sickle-shaped, curved, hooked
+fallacia | 1 | deceit
+fallax | 1 | deceptive
+fallo | 1 | deceive
+fallo | 2 | elude
+fallo | 3 | impers (fallit me): I am mistaken, I am wrong
+fallo | 4 | to beguile, lighten, make (time or toil) pass unnoticed
+fallo | 5 | p. a. (falsus): false, counterfeit, spurious
+falx | 1 | sickle
+falx | 3 | milit, transf: a grappling hook (for pulling down walls)
+fama | 1 | rumour
+fama | 2 | reputation
+fama | 3 | personif. (Fama): the goddess of Rumour
+fama | 4 | pejor: ill fame, infamy, scandal
+famelicus | 1 | famished
