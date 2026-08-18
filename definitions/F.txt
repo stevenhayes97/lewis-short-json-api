@@ -603,3 +603,25 @@ flaminius1 | 3 | as subst. (Flaminium): the office of flamen, a priesthood
 flamma1 | 1 | flame
 flamma1 | 3 | trop: the fire of passion, love's ardour
 flamma1 | 4 | trop: a devouring danger, a destructive crisis
+flammeus | 1 | fiery
+flammeus | 3 | as subst. (flammeum): a bridal veil (flame-coloured)
+flammifer | 1 | flaming
+flammo | 1 | ignite
+flammo | 3 | transf: to redden, colour flame-red
+flammo | 4 | trop: to inflame, incite, stir up
+flator | 1 | piper
+flator | 3 | metallurgy: a metal-caster, a smelter
+flatus | 1 | breath
+flatus | 3 | trop: a favourable breeze (of fortune)
+flatus | 4 | trop, plur: pride, haughtiness, arrogance
+flaveo | 1 | be yellow
+flavesco | 1 | turn yellow
+flavus | 1 | golden
+flebilis | 1 | lamentable
+flebilis | 3 | act: causing tears, tear-inducing
+flebilis | 4 | act: tearful, doleful, weeping
+flecto | 1 | bend
+flecto | 2 | persuade
+flecto | 3 | naut: to round, double (a promontory)
+flecto | 4 | gram: to decline, inflect (a word)
+flecto | 5 | neutr: to turn, veer, change direction
