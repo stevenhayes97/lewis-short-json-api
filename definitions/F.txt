@@ -147,3 +147,26 @@ famulitium | 3 | concr: the household slaves, the domestic staff
 famulor | 1 | serve
 famulus1 | 1 | servant
 famulus1 | 3 | fem (famula): a handmaid, a female attendant
+famulus2 | 1 | servile
+fanaticus | 1 | frenzied
+fanaticus | 3 | of temple attendants: inspired, possessed (by a divinity)
+fanum1 | 1 | shrine
+far | 1 | spelt
+far | 3 | transf: coarse meal, grits
+farcio | 1 | stuff
+farcio | 3 | in partic: to fatten (poultry)
+farina | 1 | flour
+farina | 3 | transf: powder, dust (of any ground substance)
+farina | 4 | trop: nature, character, sort (of person)
+farrago | 1 | fodder
+farrago | 3 | transf: a medley, a hodgepodge
+farrago | 4 | transf: a trifle
+fartor | 1 | poulterer
+fartor | 3 | rare: a sausage-maker
+fas | 1 | right
+fas | 3 | rare: a court day, permitted for legal business
+fas | 4 | as predicate (fas est): it is lawful, permitted, right
+fascia | 1 | band
+fascia | 3 | architect: a fillet, a listel (moulding round a column)
+fascia | 4 | transf, poet: a streak, a band (of cloud in the sky)
+fascia | 5 | geog: a zone (of the earth)
