@@ -390,3 +390,23 @@ festuca | 3 | legal: the rod (used in manumission ceremonies)
 festuca | 4 | transf: a speck, a mote, a trifle
 festus1 | 1 | festive
 festus1 | 3 | as subst. (festum): a holiday, a festival
+feteo | 1 | stink
+fetiales | 1 | fetials
+fetiales | 3 | the college of priests who oversaw treaties and declarations of war
+fetialis | 1 | fetial
+fetidus | 1 | stinking
+fetidus | 3 | fig: foul, disgusting, loathsome
+feto | 1 | breed
+feto | 3 | act: to impregnate, make fruitful
+fetor | 1 | stench
+fetura | 1 | breeding
+fetura | 3 | transf, concr: offspring, young, a brood
+fetura | 4 | trop: literary output, a work produced
+fetus1 | 1 | pregnant
+fetus1 | 3 | transf: fruitful, productive (of land)
+fetus1 | 4 | trop: full of, teeming with (something)
+fetus2 | 1 | offspring
+fetus2 | 3 | abstr: the act of giving birth, breeding
+fetus2 | 4 | transf: fruit, produce (of plants)
+fetus2 | 5 | trop: a literary product, a creation (of the mind)
+fetutina | 1 | cesspool
