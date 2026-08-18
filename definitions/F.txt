@@ -370,3 +370,23 @@ ferveo | 3 | trop: to rage, seethe, be inflamed (with passion)
 ferveo | 4 | transf: to swarm, teem (with activity or numbers)
 fervesco | 1 | heat up
 fervesco | 3 | trop: to grow hot with anger, become inflamed
+fervidus | 1 | scorching
+fervidus | 3 | trop: fiery, impetuous, vehement (of temperament)
+fervor | 1 | heat
+fervor | 3 | trop: passion, ardour, zeal
+fessus | 1 | weary
+festinatio | 1 | haste
+festino | 1 | hasten
+festino | 3 | act: to hurry, speed up, accelerate (something)
+festinus | 1 | hasty
+festivitas | 1 | gaiety
+festivitas | 3 | of speech: wit, humour, pleasantry
+festivitas | 4 | late: a festival, a feast
+festivus | 1 | merry
+festivus | 3 | transf: pleasing, charming, handsome
+festivus | 4 | of speech: witty, humorous, amusing
+festuca | 1 | stalk
+festuca | 3 | legal: the rod (used in manumission ceremonies)
+festuca | 4 | transf: a speck, a mote, a trifle
+festus1 | 1 | festive
+festus1 | 3 | as subst. (festum): a holiday, a festival
