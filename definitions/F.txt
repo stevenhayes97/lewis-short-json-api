@@ -1029,3 +1029,20 @@ fullonicus | 1 | fuller's
 fullonicus | 3 | as subst. (fullonica): a fuller's workshop
 fullonius | 1 | fuller's
 fullonius | 3 | as subst. (fullonium): a fuller's shop
+fulmen | 1 | thunderbolt
+fulmen | 3 | trop: a crushing blow, a devastating force
+fulmentum | 1 | prop
+fulmentum | 3 | in partic: a bedpost
+fulminatus | 1 | thunderbolt-bearing
+fulmineus | 1 | fulminous
+fulmineus | 3 | trop: destructive, deadly, murderous
+fulmino | 1 | lighten
+fulmino | 3 | trop: to thunder, rage furiously (in battle or speech)
+fulmino | 4 | act: to strike with lightning, blast
+fultura | 1 | support
+fultura | 3 | transf: nourishment, sustenance (for the body)
+fulvus | 1 | tawny
+fumidus | 1 | smoky
+fumificus | 1 | smoking
+fumigo | 1 | fumigate
+fumigo | 3 | neutr: to smoke, steam, give off smoke
