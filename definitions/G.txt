@@ -255,12 +255,34 @@ gestus2 | 1 | gesture
 gestus2 | 3 | the carriage, posture, or motion of the body
 gestus2 | 4 | in particular, the gesticulation of an actor or orator
 gestus2 | 5 | post-classical, management, administration
+gibber1 | 1 | hunchbacked
+gibber1 | 3 | transferred, protuberant, bulging
+gibbus1 | 1 | humped
+gibbus1 | 3 | as a noun, a hump
+gibbus1 | 4 | transferred, a hump-like swelling, a protuberance
+gigeria | 1 | giblets
 gigno | 1 | beget
 gigno | 2 | produce
 gigno | 3 | to father or give birth to, to bring into the world, said of either parent
 gigno | 4 | of the earth and nature, to bring forth, grow, yield
 gigno | 5 | to cause, occasion, or give rise to something abstract, such as fear, quarrels, or friendship
 gigno | 6 | in the passive, gigni: to be born, to arise, to spring from
+glaber | 1 | smooth
+glaber | 3 | hairless, bald
+glaber | 4 | as a noun, a young beardless slave, a favourite
+glacialis | 1 | icy
+glacies | 1 | ice
+glacies | 3 | transferred, hardness
+glacio | 1 | freeze
+glacio | 3 | transferred, to make hard or solid
+glacio | 4 | figurative, to numb or chill with fear
+gladiator | 1 | gladiator
+gladiator | 3 | in the plural, a gladiatorial combat or exhibition
+gladiator | 4 | a swordcutler, a maker of swords
+gladiatorius | 1 | gladiatorial
+gladiatorius | 3 | as a noun, the hire or pay of gladiators
+gladiolus | 1 | small sword
+gladiolus | 3 | the sword-lily, gladiolus, the flower
 gladius | 1 | sword
 gladius | 3 | the short two-edged thrusting sword of a Roman soldier, worn on the right hip
 gladius | 4 | violence, bloodshed, or murder, with the sword standing for armed force
