@@ -509,3 +509,36 @@ filum | 5 | rare: contour, shape, form (of an object)
 fimbriae | 1 | fringe
 fimus | 1 | dung
 fimus | 3 | poet, transf: dirt, mire, filth
+finalis | 1 | final
+finalis | 3 | rare: relating to boundaries
+findo | 1 | split
+findo | 3 | as subst. (fissum): a cleft, a fissure
+findo | 4 | augury: the cleft, the fissure (in a liver, examined for omens)
+fingo | 1 | shape
+fingo | 2 | invent
+fingo | 3 | to imagine, conceive, suppose
+fingo | 4 | to train, mould, form (by instruction)
+fingo | 5 | to adorn, arrange, dress (a person or thing)
+finio | 1 | limit
+finio | 2 | finish
+finio | 3 | to determine, fix, prescribe, appoint
+finio | 4 | euphem: to come to one's end, die
+finis | 1 | boundary
+finis | 2 | end
+finis | 3 | plur: territory, borders, land
+finis | 4 | purpose, aim, goal
+finis | 5 | euphem: death, the end of life
+finis | 6 | rhet: a definition
+finitimus | 1 | neighbouring
+finitimus | 3 | as subst. (finitimi): neighbours
+finitimus | 4 | trop: closely related, akin, similar
+finitio | 1 | boundary
+finitio | 3 | rhet: a definition, an explanation
+finitio | 4 | euphem: death, the end of life
+finitor | 1 | surveyor
+finitor | 3 | poet: one who brings an end, a finisher (of all things, i.e. death)
+firmamentum | 1 | support
+firmamentum | 3 | late: the firmament, the sky
+firmamentum | 4 | rhet: the main point, the chief support (of an argument)
+firmitas | 1 | firmness
+firmitas | 3 | trop: steadfastness, constancy, resolve
