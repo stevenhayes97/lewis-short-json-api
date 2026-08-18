@@ -354,6 +354,33 @@ gnarus | 1 | knowing
 gnarus | 2 | skilled
 gnarus | 3 | acquainted or familiar with something, usually with the genitive: loci gnarus, familiar with the place
 gnarus | 4 | passive, known, well-known (post-Augustan, rare)
+gracilis | 1 | slender
+gracilis | 3 | transferred, meagre, scanty, thin, of soil or resources
+gracilis | 4 | of style, simple, plain, unadorned
+gracilitas | 1 | slenderness
+gracilitas | 3 | of style, simplicity, plainness
+graculus | 1 | jackdaw
+gradarius | 1 | ambling
+gradarius | 3 | equus gradarius, a pacer or ambling horse
+gradarius | 4 | transferred, of a speaker, deliberate, unhurried
+gradatim | 1 | gradually
+gradatio | 1 | gradation
+gradatio | 3 | literally, a flight of steps, as in a theatre
+gradatio | 4 | rhetorical, a climax: a series of clauses each building on the last
+gradilis | 1 | stepped
+gradior | 1 | walk
+gradior | 3 | poetic, of inanimate things, to move along, advance
+gradior | 4 | ecclesiastical, of one's conduct, to walk, live, conduct oneself
+gradus | 1 | step
+gradus | 2 | degree
+gradus | 3 | a pace, or a single footstep
+gradus | 4 | a stage or degree of progress: a step towards something
+gradus | 5 | military, one's position or station in the ranks
+gradus | 6 | a stair-step, a rung of a ladder
+gradus | 7 | a degree of rank, age, or kinship
+gradus | 8 | in mathematics, a degree of a circle
+graecor | 1 | Grecize
+graecor | 3 | to live in the Greek fashion, especially self-indulgently
 gratia | 1 | favour
 gratia | 2 | thanks
 gratia | 3 | the goodwill you enjoy in other people's eyes: esteem, popularity, influence, standing
