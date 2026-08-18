@@ -884,3 +884,24 @@ fraxinus1 | 3 | transf: an ashen spear, a javelin
 fremitus | 1 | roar
 fremo | 1 | roar
 fremo | 3 | act: to grumble at, complain loudly about (something)
+fremor | 1 | murmur
+frendo | 1 | gnash
+frendo | 3 | act: to crush, grind to pieces
+freno | 1 | bridle
+freno | 3 | trop: to curb, restrain, govern (passions)
+frenum | 1 | bridle
+frenum | 3 | transf: a restraint, a check, a curb
+frenum | 4 | anatomy: the frenulum (a connecting ligament)
+frequens | 1 | frequent
+frequens | 3 | transf: crowded, thronged, well-attended
+frequentatio | 1 | frequency
+frequentatio | 3 | rhet: a recapitulation, a summing-up (of arguments)
+frequentia | 1 | crowd
+frequento | 1 | frequent
+frequento | 3 | to fill, crowd, populate (a place)
+frequento | 4 | to celebrate, observe (a festival)
+fretum | 1 | strait
+fretum | 3 | poet, transf: the sea
+fretum | 4 | trop: a raging, a turbulent surge (of passion or age)
+fretus1 | 1 | relying
+fretus1 | 3 | poet, with inf: daring, venturing (to do something)
