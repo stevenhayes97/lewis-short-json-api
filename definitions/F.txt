@@ -240,3 +240,29 @@ favorabilis | 1 | popular
 favorabilis | 3 | of speech: winning, appealing, persuasive
 favus | 1 | honeycomb
 favus | 3 | transf: a hexagonal paving-stone
+fax | 1 | torch
+fax | 3 | poet, transf: a shooting star, a comet
+fax | 4 | trop: an incitement, a spur, a cause (of ruin or passion)
+fax | 5 | poet, transf: a wedding (via wedding-torches)
+febris | 1 | fever
+febris | 3 | trop: torment, uneasiness, anxiety
+februo | 1 | purify
+februum | 1 | purification
+februum | 3 | esp: the Roman festival of purification (in February)
+fecunditas | 1 | fertility
+fecunditas | 3 | trop: luxuriance, richness (of style)
+fecundus | 1 | fertile
+fecundus | 3 | transf: fertilizing, making fruitful
+fecundus | 4 | trop: rich, abundant, prolific (of talent or style)
+fel | 1 | bile
+fel | 3 | transf, poet: poison, venom
+fel | 4 | trop: bitterness, rancour, animosity
+feles | 1 | cat
+feles | 3 | transf: a marten, a polecat
+feles | 4 | trop, rare: a seducer, a thief (of virgins)
+felicitas1 | 1 | happiness
+felicitas1 | 3 | rare: fruitfulness, fertility (of soil)
+felix1 | 1 | fruitful
+felix1 | 2 | lucky
+felix1 | 3 | act: auspicious, of good omen, bringing good luck
+felix1 | 4 | adv (feliciter): fortunately, successfully, happily
