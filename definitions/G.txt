@@ -61,6 +61,38 @@ gaudium | 1 | joy
 gaudium | 3 | inward joy or gladness, as opposed to laetitia, joy that shows itself outwardly
 gaudium | 4 | in the plural gaudia, outward expressions of joy, or sensual pleasure and enjoyment
 gaudium | 5 | transferred, a cause or source of joy, a delight
+gelidus | 1 | icy
+gelidus | 3 | very cold, colder than frigidus; of water, ice-cold
+gelidus | 4 | poetic, cold and stiff with death, old age, or fear
+gelo1 | 1 | freeze
+gelo1 | 3 | to cause to freeze or congeal; in the passive, to be frozen
+gelo1 | 4 | to chill or numb with fright or horror
+gelum | 1 | frost
+gelum | 3 | poetic, coldness or numbness caused by death, old age, or fear
+gemellus | 1 | twin
+gemellus | 3 | transferred, paired, double: poma gemella, fruit growing in pairs
+gemellus | 4 | resembling or matched like twins
+gemino | 1 | double
+gemino | 3 | to pair, join, or unite two things together
+geminus | 1 | twin
+geminus | 3 | transferred, paired, double, twofold, both
+geminus | 4 | as a proper noun, Gemini, the constellation of the Twins
+gemitus | 1 | groan
+gemitus | 3 | poetic, of inanimate things, a deep or hoarse sound
+gemma | 1 | bud
+gemma | 2 | gem
+gemma | 3 | a bud, eye, or shoot on a plant
+gemma | 4 | a precious stone, especially cut and polished, a jewel
+gemma | 5 | an object made of gemstone: a drinking-cup, or a seal-ring
+gemma | 6 | a pearl (poetic)
+gemma | 7 | the eye-like markings on a peacock's tail
+gemma | 8 | transferred, an ornament, a beauty (post-Augustan, rare)
+gemmatus | 1 | jewelled
+gemmatus | 3 | set or adorned with precious stones
+gemmatus | 4 | having buds or eyes, of plants
+gemmeus | 1 | jewelled
+gemmeus | 3 | of or set with precious stones
+gemmeus | 4 | transferred, glittering or sparkling like a jewel
 gens | 1 | clan
 gens | 2 | people
 gens | 3 | a Roman clan: a group of families sharing one name and common religious rites, such as the gens Iulia
