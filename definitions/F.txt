@@ -322,3 +322,27 @@ fero | 7 | polit: legem ferre, to propose a law
 fero | 8 | polit: suffragium ferre, to cast a vote
 fero | 9 | to get, win, carry off (a prize or victory)
 fero | 10 | idiom (prae se ferre): to show, display, make evident
+ferocia | 1 | fierceness
+ferocia | 3 | good sense: spirit, courage, boldness
+ferocia | 4 | transf: harshness, roughness (of wine)
+ferocio | 1 | rage
+ferocitas | 1 | fierceness
+ferocitas | 3 | good sense: courage, boldness, spirit
+ferox | 1 | fierce
+ferox | 2 | bold
+ferox | 3 | adv (ferociter): bravely, courageously
+ferox | 4 | adv (ferociter), pejor: savagely, insolently
+ferramentum | 1 | tool
+ferrarius1 | 1 | of iron
+ferrarius1 | 3 | as subst. (ferrarius): a blacksmith, an ironworker
+ferrarius1 | 4 | as subst. (ferraria): an iron-mine, ironworks
+ferratus | 1 | ironclad
+ferratus | 3 | as subst. (ferrati): armoured soldiers, cuirassiers
+ferreus | 1 | iron
+ferreus | 2 | unfeeling
+ferreus | 3 | trop: firm, unyielding, resolute (of character)
+ferrugineus | 1 | rust-coloured
+ferrugineus | 3 | of taste: metallic, iron-tasting
+ferrugo | 1 | rust
+ferrugo | 3 | transf: a dusky colour, rust-red (or sea-green)
+ferrugo | 4 | trop, rare: envy
