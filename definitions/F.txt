@@ -563,3 +563,21 @@ fistula | 1 | pipe
 fistula | 3 | transf: a reed-pipe, a shepherd's pipe (pan-pipes)
 fistula | 4 | medic: a fistula (a chronic sore or ulcer)
 fistula | 5 | medic: a catheter
+fistulosus | 1 | porous
+fistulosus | 3 | medic: fistulous, ulcerated
+flabellum | 1 | fan
+flabellum | 3 | trop: an inciter, a stirrer (of unrest)
+flabra | 1 | gusts
+flacceo | 1 | droop
+flaccesco | 1 | wilt
+flaccesco | 3 | trop: to grow feeble, languish, flag
+flaccidus | 1 | flabby
+flaccidus | 3 | trop: languid, feeble, weak
+flagello | 1 | whip
+flagello | 3 | transf: to lash, beat against (of wind or hair)
+flagellum | 1 | whip
+flagellum | 3 | transf: a young shoot, a vine-tendril
+flagellum | 4 | trop, poet: the sting, the lash (of conscience or love)
+flagitator | 1 | dun
+flagitator | 3 | with gen.: an importunate demander (of a promised triumph, a fight, etc.)
+flagitiosus | 1 | shameful
