@@ -1130,3 +1130,29 @@ furor2 | 4 | transf, poet: a cause of wrath, a provocation
 furtim | 1 | stealthily
 furtivus | 1 | stolen
 furtivus | 3 | transf: secret, hidden, clandestine
+furtum | 1 | theft
+furtum | 3 | transf, concr: stolen goods, loot
+furtum | 4 | transf: a trick, a stratagem
+furtum | 5 | in partic, plur: a secret love affair, an intrigue
+furunculus | 1 | pilferer
+furunculus | 3 | medic: a boil, a furuncle
+furunculus | 4 | viticulture: a bud, a knob (on a vine)
+furvus | 1 | dusky
+furvus | 3 | trop: black, ill-omened (of a day or deed)
+fusco | 1 | darken
+fusco | 3 | neutr: to grow dark, become swarthy
+fuscus1 | 1 | swarthy
+fuscus1 | 3 | transf, of the voice: husky, hoarse
+fusilis | 1 | molten
+fusilis | 3 | of metal: cast
+fusio | 1 | outpouring
+fusio | 3 | metallurgy: a casting, a founding (of metal)
+fusio | 4 | late: a tax, a duty
+fustis | 1 | cudgel
+fustuarium | 1 | cudgelling
+fustuarium | 3 | milit: death by cudgelling (a punishment for desertion)
+fusus3 | 1 | spindle
+fusus3 | 3 | mechanics, transf: an axle-bar, a connecting rod (between wheels)
+futtilis | 1 | futile
+futtilis | 3 | as subst. (futtile): a ritual water-vessel (used in sacrifices to Vesta)
+futtilis | 4 | transf, rare: leaky, unable to hold anything
