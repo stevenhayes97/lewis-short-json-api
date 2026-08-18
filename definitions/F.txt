@@ -78,3 +78,22 @@ factura | 1 | manufacture
 factura | 3 | transf: a creature, a created thing
 factus2 | 1 | construction
 factus2 | 3 | econom: a pressing (of oil), the yield of one pressing
+facultas | 1 | ability
+facultas | 2 | opportunity
+facultas | 3 | transf, plur: resources, means, wealth
+facundia | 1 | eloquence
+facundus | 1 | eloquent
+faeculentus | 1 | turbid
+faeculentus | 3 | trop, rare: impure, unwholesome (of mirth)
+faeneratio | 1 | usury
+faenerator | 1 | moneylender
+faeneror | 1 | lend
+faeneror | 3 | meton: to drain, exploit through usury
+faeneror | 4 | to borrow on interest
+faeneror | 5 | trop: to lend expecting a return (of a favour)
+faeneus | 1 | of hay
+faenum | 1 | hay
+faenum | 3 | esp (faenum Graecum): fenugreek
+faenus | 1 | interest
+faenus | 3 | transf, rare: capital lent out (the principal)
+faenus | 4 | gen: gain, profit, advantage (in a non-financial sense)
