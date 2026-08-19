@@ -1144,4 +1144,28 @@ inertia | 2 | unskilfulness
 inertia | 3 | rare, want of skill or art, ignorance
 inertia | 4 | in general, inactivity, laziness, sluggishness
 ineruditus | 1 | unlearned
+inesco | 1 | entice
+inesco | 3 | trop., to deceive by means of a lure
+inesco | 4 | rare, to fill with food, satiate
+inevitabilis | 1 | inevitable
+inexcusabilis | 1 | inexcusable
+inexercitatus | 1 | untrained
+inexercitatus | 3 | rare, unemployed, not busy
+inexorabilis | 1 | inexorable
+inexorabilis | 3 | of things, inexorably severe, harsh, unyielding
+inexorabilis | 4 | that cannot be obtained by entreaty, rare
+inexpeditus | 1 | entangled
+inexpeditus | 3 | post-classical, of persons, not ready, slow at something
+inexpeditus | 4 | of things, not easy, difficult
+inexpertus | 1 | inexperienced
+inexpertus | 2 | untested
+inexpertus | 3 | active, unacquainted with, inexperienced in something
+inexpertus | 4 | passive, not yet tried, untested, unproven
+inexpiabilis | 1 | inexpiable
+inexpiabilis | 3 | transferred, implacable, irreconcilable, obstinate
+inexplebilis | 1 | insatiable
+inexplebilis | 3 | literally, of hunger or thirst, unable to be satisfied
+inexplebilis | 4 | trop., of desire or ambition, insatiable
+inexpugnabilis | 1 | impregnable
+inexpugnabilis | 3 | trop., unconquerable, invincible, safe from attack
 
