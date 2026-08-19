@@ -329,3 +329,35 @@ horreo | 4 | to shiver, shake, or tremble, from cold
 horreo | 5 | to shudder or tremble with fear, to dread, to be afraid of something
 horreo | 6 | to shudder with amazement, to be astonished
 horreo | 7 | to look rough, wild, or frightful in appearance; to be terrible, dreadful
+horresco | 1 | bristle
+horresco | 2 | shudder
+horresco | 3 | to rise on end, to bristle up, poetic
+horresco | 4 | to begin to shake or tremble
+horresco | 5 | to begin to shudder or tremble with fear, to become frightened
+horresco | 6 | to grow fearful or terrible, rare
+horreum1 | 1 | granary
+horribilis | 1 | terrible
+horribilis | 2 | amazing
+horribilis | 3 | causing fear or dread, horrible, dreadful
+horribilis | 4 | colloquial, in a good sense, astonishing, tremendous
+horridulus | 1 | rough
+horridulus | 3 | standing up, projecting, protuberant
+horridulus | 4 | trop., of style, rude, unpolished, simple, unadorned
+horridus | 1 | bristling
+horridus | 2 | uncouth
+horridus | 3 | standing on end, rough, shaggy, prickly, literal
+horridus | 4 | transferred, rough, rude, wild, savage; with dishevelled hair
+horridus | 5 | trop., of character or manners, blunt, stern, unpolished
+horridus | 6 | rare, poetic, terrible, frightful, horrid, equal to horribilis
+horrifer | 1 | terrifying
+horrifico | 1 | terrify
+horrifico | 3 | to ruffle or roughen, as wind on the sea's surface
+horrificus | 1 | terrifying
+horror | 1 | horror
+horror | 2 | shiver
+horror | 3 | a standing on end, bristling, poetic
+horror | 4 | a shaking, shivering, a chill or ague-fit
+horror | 5 | a shuddering with fear, dread, terror
+horror | 6 | religious awe, veneration
+horror | 7 | concretely, that which causes dread, a terror, poetic
+hortamen | 1 | encouragement
