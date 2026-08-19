@@ -18,6 +18,19 @@ ROOT = Path(__file__).resolve().parent
 PATH = ROOT / "ls_C.json"
 TARGET = "canis1"
 
+DEFINITIONS_DIR = ROOT / "definitions"
+
+
+def iter_definitions():
+    for path in sorted(DEFINITIONS_DIR.glob("*.txt")):
+        with path.open(encoding="utf-8") as f:
+            for line in f.readlines()[2:]:
+                line = line.strip()
+                if not line or line.startswith("#"):
+                    continue
+                key, rank, definition = (p.strip() for p in line.split("|", 2))
+                yield path.stem, key, int(rank), definition
+
 
 def find_entry(path: Path, key: str) -> dict | None:
     decoder = json.JSONDecoder()
@@ -74,3 +87,7 @@ if __name__ == "__main__":
     
     definition = json.dumps(entry, ensure_ascii=False, indent=2)
     print(definition)
+
+    for letter, key, rank, definition in iter_definitions():
+        if rank in [1,2]:
+            print(letter, key, rank, definition)
