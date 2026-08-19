@@ -911,4 +911,33 @@ inculco | 3 | literally, to tread down, to ram down
 inculco | 4 | trop., to stuff, press, or force something in, such as foreign words
 inculco | 5 | trop., to force upon, impress on, drum into someone's mind
 inculpatus | 1 | blameless
+incultus1 | 1 | uncultivated
+incultus1 | 3 | transferred, unadorned, unpolished, neglected, rude, of appearance or style
+incultus2 | 1 | neglect
+incumbo | 1 | lean
+incumbo | 2 | endeavour
+incumbo | 3 | literally, to lean or recline upon something
+incumbo | 4 | transferred, to lean toward, incline, overhang
+incumbo | 5 | trop., to press upon, weigh upon, burden
+incumbo | 6 | trop., to apply oneself to, devote oneself to a task
+incumbo | 7 | to be incumbent upon someone as a duty, post-classical
+incunabula | 1 | swaddling clothes
+incunabula | 3 | transferred, the cradle, or one's birthplace
+incunabula | 4 | transferred, childhood, earliest years
+incunabula | 5 | trop., the origin, beginning, or infancy of something
+incunctans | 1 | unhesitating
+incuria | 1 | negligence
+incuriosus | 1 | careless
+incuriosus | 3 | active, unconcerned, indifferent to, heedless of something, usually with the genitive
+incuriosus | 4 | passive, of a thing, done carelessly, without care
+incurro | 1 | attack
+incurro | 2 | incur
+incurro | 3 | literally, to run against, rush upon, assail
+incurro | 4 | military, to make an inroad, to invade
+incurro | 5 | trop., to strike the eye or attention, to meet the sight
+incurro | 6 | of events, to befall, happen, occur to someone
+incursio | 1 | assault
+incursio | 3 | in particular, a hostile inroad, an incursion
+incursito | 1 | assail
+incursito | 3 | trop., to clash or collide with, throughout life
 
