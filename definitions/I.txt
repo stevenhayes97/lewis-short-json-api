@@ -629,3 +629,31 @@ inambulatio | 3 | transferred, a place for walking, a promenade
 inambulo | 1 | pace
 inanimus | 1 | inanimate
 inanio | 1 | empty
+inanis | 1 | empty
+inanis | 2 | vain
+inanis | 3 | physically empty, void, hollow
+inanis | 4 | as a noun, inane, an empty space, a void
+inanis | 5 | trop., empty, useless, worthless, unprofitable
+inanis | 6 | of persons, vain, conceited, petty
+inanitas | 1 | emptiness
+inanitas | 3 | trop., uselessness, inanity, vapidity
+inardesco | 1 | kindle
+inardesco | 3 | trop., to be inflamed or kindled with passion, desire, or anger
+inaresco | 1 | dry up
+inaro | 1 | plough in
+inaro | 3 | transferred, to plough, till, or cultivate land generally
+inaro | 4 | transferred, to enter or write in a list, rare
+inaro | 5 | transferred, to mark or brand, rare
+inartificialis | 1 | inartificial
+inaudio | 1 | overhear
+inauditus2 | 1 | unprecedented
+inauditus2 | 2 | unheard
+inauditus2 | 3 | unheard-of, unusual, strange, new, the frequent classical sense
+inauditus2 | 4 | legal, of an accused person, without a hearing, not given a chance to speak
+inauditus2 | 5 | literally, not heard, inaudible
+inauguro | 1 | inaugurate
+inauguro | 3 | literally, to take omens from the flight of birds, to practise augury
+inauguro | 4 | transferred, to consecrate or install a place or official with the sanction of augury
+inauguro | 5 | in general, to install someone in office
+inauro | 1 | gild
+inauro | 3 | trop., to enrich, to make wealthy
