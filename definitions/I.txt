@@ -1118,4 +1118,30 @@ inedia | 1 | fasting
 inefficax | 1 | ineffective
 inelegans | 1 | inelegant
 inelegans | 3 | transferred, late Latin, unreasonable, inconsistent
+inenarrabilis | 1 | indescribable
+ineo | 1 | enter
+ineo | 2 | begin
+ineo | 3 | literally, to go into, enter a place
+ineo | 4 | in particular, euphemistic, to mate with, have intercourse with
+ineo | 5 | trop., to enter upon, begin a business, office, or enterprise
+ineptia | 1 | folly
+ineptia | 3 | plural ineptiae, fooleries, trifles, nonsense
+ineptus | 1 | inept
+inequito | 1 | ride over
+inequito | 3 | trop., to insult, to ride roughshod over someone
+inermis | 1 | unarmed
+inermis | 3 | transferred, toothless, or weak, powerless
+inermis | 4 | trop., harmless, that wounds no one
+inermis | 5 | trop., unprepared, not well versed in a subject
+inerro | 1 | wander
+inerro | 3 | trop., to float or hover before the eyes or memory
+iners | 1 | unskilled
+iners | 2 | idle
+iners | 3 | without skill or art, unskilful
+iners | 4 | in general, inactive, idle, indolent, sluggish
+inertia | 1 | idleness
+inertia | 2 | unskilfulness
+inertia | 3 | rare, want of skill or art, ignorance
+inertia | 4 | in general, inactivity, laziness, sluggishness
+ineruditus | 1 | unlearned
 
