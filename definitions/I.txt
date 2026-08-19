@@ -610,3 +610,22 @@ in5 | 3 | unequal, unlike, differing in size
 ina | 1 | fibre
 inaccessus | 1 | inaccessible
 inaccessus | 3 | trop., unattainable
+inacesco | 1 | sour
+inacesco | 3 | trop., to sour, embitter, cause resentment
+inaedifico | 1 | build
+inaedifico | 3 | transferred, to wall up, to block off with a structure
+inaedifico | 4 | trop., to burden, to load down
+inaequalitas | 1 | inequality
+inaequalitas | 3 | in grammar, irregularity, anomaly
+inaestimabilis | 1 | inestimable
+inaestimabilis | 2 | valueless
+inaestimabilis | 3 | that cannot be estimated or judged, uncertain
+inaestimabilis | 4 | in particular, priceless, invaluable, incalculable
+inaestimabilis | 5 | rare, opposite sense, not worthy of esteem, valueless
+inalbo | 1 | whiten
+inamabilis | 1 | hateful
+inambulatio | 1 | pacing
+inambulatio | 3 | transferred, a place for walking, a promenade
+inambulo | 1 | pace
+inanimus | 1 | inanimate
+inanio | 1 | empty
