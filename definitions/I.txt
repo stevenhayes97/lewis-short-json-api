@@ -140,3 +140,35 @@ illicio | 1 | entice
 illicitator | 1 | shill
 illicitator | 3 | one who bids at an auction only to drive up the price, a mock bidder
 illicitus | 1 | illicit
+illicium | 1 | allurement
+illicium | 3 | in public law, a formal calling together of the people, an assembly
+illido | 1 | dash
+illido | 3 | to strike or dash something against a surface
+illido | 4 | transferred, to dash to pieces, rare
+illigo | 1 | bind
+illigo | 3 | to fetter, entangle, impede, hinder free movement
+illigo | 4 | figurative, to attach, connect, or bind together, as words or ideas
+illigo | 5 | figurative, to bind someone under obligation, to entangle in debt or difficulty
+illinc | 1 | thence
+illinc | 3 | transferred, from that person or thing, from that quarter, on that side
+illino | 1 | smear
+illino | 3 | to apply an ointment or medicine to a surface
+illino | 4 | transferred, to besmear, bedaub, or anoint with something
+illino | 5 | figurative, to stain, taint, sully
+illitteratus | 1 | illiterate
+illitteratus | 3 | unwritten, not drawn up in writing, post-classical, rare
+illitteratus | 4 | inarticulate, of sounds or interjections
+illotus | 1 | unwashed
+illotus | 3 | trop., of speech, coarse, unrefined
+illucesco | 1 | dawn
+illucesco | 3 | impersonal illuxit, it grew light, day broke
+illucesco | 4 | figurative, to shine forth, become clear or illustrious
+illucesco | 5 | active, rare, to shine upon, give light to
+illudo | 1 | mock
+illudo | 2 | squander
+illudo | 3 | to jest, mock, or ridicule someone, usually with the dative
+illudo | 4 | to sport or fool away something, to squander or destroy through carelessness
+illudo | 5 | poetic, to violate, abuse, ruin
+illumino | 1 | illuminate
+illumino | 3 | transferred, to embellish or adorn with something bright
+illumino | 4 | figurative, to set in a clear light, to make conspicuous, especially of style in rhetoric
