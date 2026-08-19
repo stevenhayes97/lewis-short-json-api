@@ -657,3 +657,27 @@ inauguro | 4 | transferred, to consecrate or install a place or official with th
 inauguro | 5 | in general, to install someone in office
 inauro | 1 | gild
 inauro | 3 | trop., to enrich, to make wealthy
+inauspicatus | 1 | inauspicious
+inauspicatus | 3 | literally, at which no auspices were taken, without augury
+inauspicatus | 4 | of bad omen, unlucky, post-Augustan
+inauspicatus | 5 | late Latin, unhoped for, unexpected
+inausus | 1 | unattempted
+incalesco | 1 | warm
+incalesco | 3 | trop., to glow, kindle, or grow ardent with passion, especially love
+incallidus | 1 | unskilful
+incandesco | 1 | glow
+incanesco | 1 | grey
+incanto | 1 | enchant
+incanto | 3 | in particular, to chant or mutter a magic spell against someone
+incanto | 4 | transferred, to consecrate with charms, or to bewitch
+incautus | 1 | incautious
+incautus | 2 | unforeseen
+incautus | 3 | active, careless, heedless, improvident, not on one's guard
+incautus | 4 | passive, not guarded against, unforeseen, unexpected, dangerous
+incedo | 1 | march
+incedo | 2 | befall
+incedo | 3 | to walk or march at a measured, stately pace
+incedo | 4 | military, to advance, move forward
+incedo | 5 | trop., to triumph over, exult over someone, with the dative
+incedo | 6 | of abstract things, to come upon, befall, seize, or attack someone
+incenatus | 1 | fasting
