@@ -843,4 +843,23 @@ incomptus | 3 | trop., of speech, artless, unpolished, yet pleasing in its simpl
 inconcilio | 1 | dupe
 inconcilio | 3 | in particular, to embarrass, entangle in difficulties, make trouble for someone
 inconcinnus | 1 | awkward
+inconcussus | 1 | unshaken
+inconditus | 1 | disordered
+inconditus | 3 | uncreated, not made, rare
+inconditus | 4 | unburied, of a corpse
+inconexus | 1 | disconnected
+inconexus | 3 | in grammar, of loose, disjointed verse construction
+incongruens | 1 | incongruous
+incongruus | 1 | incongruous
+inconsideratio | 1 | thoughtlessness
+inconsideratio | 3 | the state or quality of being thoughtless or heedless
+inconstans | 1 | fickle
+inconstantia | 1 | fickleness
+inconsultus1 | 1 | unconsulted
+inconsultus1 | 2 | rash
+inconsultus1 | 3 | passive, not consulted, unasked, disregarded
+inconsultus1 | 4 | active, unadvised, inconsiderate, indiscreet, rash
+incontinens | 1 | intemperate
+incontinens | 3 | literally, rare, not containing or retaining something
+incontinens | 4 | usually, unrestrained, immoderate, lacking self-control
 
