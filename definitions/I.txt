@@ -745,4 +745,31 @@ incido2 | 6 | trop., to cut off, cut short, remove
 incido2 | 7 | in rhetoric, as a noun, incisum, a short clause or division of a sentence
 incilis | 1 | ditch
 incilis | 3 | as an adjective, cut into, rare
+incingo | 1 | gird
+incipio | 1 | begin
+incipisso | 1 | begin
+incisio | 1 | incision
+incisio | 3 | in rhetoric, a clause or division of a sentence
+incisio | 4 | in grammar, a caesura
+incisio | 5 | medical, a griping pain, colic
+incisura | 1 | incision
+incisura | 3 | in particular, a natural indentation, as in a hand or a leaf
+incisura | 4 | in painting, the boundary between light and shadow
+incitamentum | 1 | incentive
+incitamentum | 3 | concretely, of a person, an instigator
+incitatio | 1 | incitement
+incitatio | 2 | momentum
+incitatio | 3 | active, the act of rousing, inciting, instigating
+incitatio | 4 | passive, rapid or violent motion, vehemence, energy
+incito | 1 | hasten
+incito | 2 | incite
+incito | 3 | literally, to set in rapid motion, to urge forward, to speed up
+incito | 4 | to augment, increase, cause to grow larger
+incito | 5 | trop., to encourage, stimulate, rouse, spur on
+incito | 6 | trop., in a bad sense, to stir up, provoke, incite to wrongdoing
+incitus2 | 1 | immovable
+incitus2 | 3 | of a chess piece, unable to be moved
+incitus2 | 4 | in the phrase ad incitas redigere, to bring to a standstill, to reduce to extremity
+incivilis | 1 | uncivil
+incivilis | 3 | transferred, unreasonable, unjust
 
