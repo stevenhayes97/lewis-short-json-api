@@ -1307,4 +1307,33 @@ influo | 1 | flow in
 influo | 3 | transferred, of things not fluid, to stream, rush, or press into
 infodio | 1 | bury
 infodio | 3 | to dig up, or to make by digging
+informatio | 1 | outline
+informatio | 3 | trop., an idea, a mental conception, a notion
+informis | 1 | shapeless
+informis | 3 | transferred, misshapen, deformed, hideous
+informo | 1 | shape
+informo | 2 | educate
+informo | 3 | literally, to give form to something, to mould, fashion
+informo | 4 | trop., to form an idea of, to sketch mentally, conceive
+informo | 5 | trop., to instruct, educate, train the mind
+infortunium | 1 | misfortune
+infra | 1 | below
+infra | 3 | as a preposition with the accusative, below, under, beneath
+infra | 4 | of time, later than
+infra | 5 | trop., beneath in rank, value, or esteem
+infrendeo | 1 | gnash
+infrendeo | 3 | to gnash the teeth at someone, to threaten furiously
+infrenis | 1 | unbridled
+infrenis | 3 | trop., untamed, unchecked, uncontrolled
+infreno | 1 | bridle
+infreno | 3 | transferred, to curb, restrain, hold in check
+infrequens | 1 | infrequent
+infrequens | 3 | of persons, seldom present, rarely attending
+infrequens | 4 | usually with the ablative or genitive, not well filled or provided with something
+infringo | 1 | break
+infringo | 2 | weaken
+infringo | 3 | literally, to break, crack, bruise something
+infringo | 4 | transferred, to strike one thing against another
+infringo | 5 | trop., to check, weaken, lessen, diminish
+infringo | 6 | trop., to destroy, make void, break, such as a law
 
