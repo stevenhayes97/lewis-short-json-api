@@ -1210,4 +1210,40 @@ infelix | 3 | unfruitful, infertile, of plants
 infelix | 4 | passive, unfortunate, wretched, miserable
 infelix | 5 | active, causing misfortune, unlucky, ill-omened
 infensus | 1 | hostile
+inferiae | 1 | funeral offerings
+infernus | 1 | lower
+infernus | 2 | infernal
+infernus | 3 | of or belonging to the Lower World, the underworld
+infernus | 4 | as a noun, eccl. Latin, hell
+infero | 1 | bring in
+infero | 2 | infer
+infero | 3 | literally, to carry, bring, or throw into a place
+infero | 4 | in particular, to bury, to bring for burial
+infero | 5 | military, signa inferre, to attack, to bear the standards against the enemy
+infero | 6 | trop., to bring forward, introduce, cause, inflict
+infero | 7 | in particular, to conclude, to draw an inference
+inferus | 1 | lower
+inferus | 2 | inferior
+inferus | 3 | positive, that is below, underneath, situated lower
+inferus | 4 | as a noun, inferi, the dead, the inhabitants of the underworld
+inferus | 5 | comparative inferior, lower in rank, quality, or number
+inferus | 6 | superlative infimus or imus, lowest, last, meanest
+infervesco | 1 | boil
+infesto | 1 | infest
+infesto | 3 | transferred, in general, to damage, impair, spoil
+infestus | 1 | unsafe
+infestus | 2 | hostile
+infestus | 3 | passive, of a place, made unsafe, beset with danger
+infestus | 4 | active, that threatens or endangers, hostile, dangerous
+infibulo | 1 | clasp
+infibulo | 3 | medical, to infibulate, to fasten with a clasp for chastity
+infibulo | 4 | in cookery, to fasten together food that is stuffed
+inficio | 1 | dye
+inficio | 2 | corrupt
+inficio | 3 | literally, to stain, dye, colour, tinge with something
+inficio | 4 | transferred, bad sense, to taint, poison, spoil
+inficio | 5 | trop., to instruct or imbue someone with knowledge, especially early in life
+inficio | 6 | trop., to spoil, corrupt, deprave
+infidelis | 1 | unfaithful
+infidelis | 3 | ecclesiastical Latin, unbelieving, infidel
 
