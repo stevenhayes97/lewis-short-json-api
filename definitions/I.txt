@@ -381,3 +381,31 @@ impendeo | 1 | overhang
 impendeo | 2 | threaten
 impendeo | 3 | literally, to hang over, overhang something
 impendeo | 4 | trop., especially frequent, to impend, threaten, be imminent, hang over someone
+impendium | 1 | expense
+impendium | 3 | in particular, interest paid on a loan
+impendium | 4 | adverbial impendio, at great expense or loss; also, as an intensive, greatly, very much
+impendo | 1 | expend
+impendo | 3 | transferred, to devote, employ, or apply, as time or effort, to a purpose
+impendo | 4 | participial impensus, ample, considerable, great; of price, dear, costly
+impendo | 5 | as a noun, impensa, outlay, cost, expense
+impenetrabilis | 1 | impenetrable
+impenetrabilis | 3 | trop., unconquerable, unyielding, that cannot be overcome
+imperator | 1 | general
+imperator | 2 | emperor
+imperator | 3 | originally, a commander-in-chief, a general
+imperator | 4 | in particular, republican, an honorific title given to a victorious general
+imperator | 5 | transferred, a leader, ruler, or master, generally
+imperator | 6 | in particular, the title of the Roman emperors
+# review: imperatorius "of a general" needs the article to be accurate; no shorter English phrasing fits
+imperatorius | 1 | of a general
+imperatorius | 3 | imperial, of or belonging to the emperor
+imperatrix | 1 | mistress
+imperatrix | 3 | she who commands, a female ruler or leader, very rare
+imperfectus | 1 | unfinished
+imperfectus | 3 | especially, morally imperfect, not yet wise
+imperialis | 1 | imperial
+imperiosus | 1 | powerful
+imperiosus | 2 | domineering
+imperiosus | 3 | possessing far-reaching power, mighty, puissant
+imperiosus | 4 | in a bad sense, imperious, tyrannical, domineering
+imperitia | 1 | inexperience
