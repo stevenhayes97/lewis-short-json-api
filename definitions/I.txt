@@ -862,4 +862,26 @@ inconsultus1 | 4 | active, unadvised, inconsiderate, indiscreet, rash
 incontinens | 1 | intemperate
 incontinens | 3 | literally, rare, not containing or retaining something
 incontinens | 4 | usually, unrestrained, immoderate, lacking self-control
+inconveniens | 1 | unsuitable
+incoquo | 1 | boil in
+incoquo | 3 | transferred, to dip in, to dye or colour
+incoquo | 4 | trop., poetic, to imbue, fill with a quality
+incoram | 1 | openly
+incoram | 3 | with the genitive, in the presence of someone
+incorporalis | 1 | incorporeal
+incorporalis | 3 | legal, of rights or abstractions not perceptible by the senses, as opposed to physical things
+incorporatio | 1 | embodiment
+incorporatio | 3 | especially, incorporation into the public treasury, late Latin
+incorporo | 1 | embody
+incorporo | 3 | trop., to incorporate, unite as one body
+incorporo | 4 | especially, to pay into the public treasury, late Latin
+incorruptus | 1 | uncorrupted
+incorruptus | 3 | literally, unspoiled, uninjured, undamaged
+incorruptus | 4 | trop., unbribed, incorruptible, of a person's integrity
+increbresco | 1 | spread
+incredibilis | 1 | incredible
+incredibilis | 3 | active, rare, unbelieving, incredulous
+incrementum | 1 | growth
+incrementum | 3 | transferred, poetic, offspring, progeny
+incrementum | 4 | trop., an increase, an addition, augmentation
 
