@@ -111,3 +111,38 @@ haruspex | 1 | haruspex
 haruspex | 3 | poetic, a prophet or seer in general
 haruspicinus | 1 | of divination
 haruspicinus | 3 | as a noun, haruspicina, the art of divining by entrails
+hasta | 1 | spear
+hasta | 3 | especially, a lance, pike, javelin, a military weapon
+hasta | 4 | a spear planted at public auctions, symbolizing sale by the state: sub hasta vendere, to sell at auction
+hasta | 5 | transferred, of a comet, its tail shaped like a spear
+hastatus | 1 | spear-armed
+hastatus | 3 | military, hastati, the front line of a Roman legion, made up of young soldiers
+hastatus | 4 | military, a company of hastati, or, elliptically, their captain
+hastile | 1 | shaft
+hastile | 3 | a spear or javelin, by extension, poetic
+hastile | 4 | any rod or pole of wood: a branch, a prop, a standard-pole
+haud | 1 | not
+haud | 3 | not at all, by no means
+haud | 4 | haud dum, not yet at all; haud quaquam, by no means whatever
+haurio | 1 | draw
+haurio | 2 | drain
+haurio | 3 | to draw water or liquid, to scoop up
+haurio | 4 | to drain, drink up, or spill, shed, of blood
+haurio | 5 | in general, to tear out, pluck out, draw out; to swallow, consume, exhaust
+haurio | 6 | figurative, to draw, derive, or borrow, as from a source: e fontibus haurire, to draw from the source
+haustus2 | 1 | draught
+haustus2 | 3 | the act of drawing water
+haustus2 | 4 | a drink, a draught
+haustus2 | 5 | figurative, drawing inspiration or knowledge from a source
+hebdomas | 1 | week
+hebeo | 1 | be dull
+hebeo | 3 | literally, of a blade, to be blunt
+hebeo | 4 | figurative, to be sluggish, inactive, not lively
+hebes | 1 | blunt
+hebes | 2 | stupid
+hebes | 3 | not sharp or pointed, blunt
+hebes | 4 | of the senses, dull, dim, faint
+hebes | 5 | trop., dull-witted, obtuse, sluggish, stupid
+hebesco | 1 | dull
+hebesco | 3 | to become blunt, dim, or faint, of the senses or edges
+hebesco | 4 | figurative, of the mind, to grow dull or feeble
