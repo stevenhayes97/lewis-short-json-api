@@ -246,3 +246,28 @@ hircosus | 1 | goatish
 hircus | 1 | he-goat
 hircus | 3 | transferred, a goatish smell, the rank odour of armpits
 hircus | 4 | as an insult, a filthy or lecherous person
+hirrio | 1 | snarl
+hirsutus | 1 | shaggy
+hirsutus | 3 | rough, bristly, hairy, of animals or plants
+hirsutus | 4 | figurative, rude, unpolished, crude, of style
+hirtus | 1 | shaggy
+hirtus | 3 | rough, hairy, bristly
+hirtus | 4 | figurative, of character, rough, rude, unpolished
+hirudo | 1 | leech
+hirudo | 3 | figurative, anything that drains or exhausts, such as the treasury
+hirundo | 1 | swallow
+hirundo | 3 | transferred, a flying fish, the sea-swallow
+hisco | 1 | gape
+hisco | 3 | to open the mouth, to mutter, to speak up
+hisco | 4 | active, poetic, to say, utter, relate
+hispidus | 1 | bristly
+hispidus | 3 | figurative, rude, coarse, insensible
+histrio | 1 | actor
+histrio | 3 | transferred, a boaster, one who exaggerates
+hiulcus | 1 | gaping
+hiulcus | 3 | split, cleft, cracked open, poetic
+hiulcus | 4 | of speech, badly joined, forming a hiatus
+hiulcus | 5 | eager, longing for something, rare
+hodie | 1 | today
+hodie | 3 | transferred, at the present time, nowadays
+hodie | 4 | emphatic, at once, immediately, right now
