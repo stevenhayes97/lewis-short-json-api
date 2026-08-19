@@ -193,3 +193,32 @@ hiatus | 2 | hiatus
 hiatus | 3 | an opening, aperture, gap, or cleft
 hiatus | 4 | figurative, an eager desire, a craving
 hiatus | 5 | in grammar and prosody, a hiatus: the collision of vowel sounds between words
+hibernaculum | 1 | winter home
+hibernaculum | 3 | military, winter tents, an encampment for the winter
+hiberno | 1 | winter
+hiberno | 3 | military, to be stationed in winter quarters
+hiberno | 4 | poetic, transferred, to rest, repose
+hibernus | 1 | wintry
+hibernus | 3 | as a noun, hibernum, the winter
+hibernus | 4 | as a noun, plural hiberna, winter-quarters, a military camp for winter
+hibrida | 1 | hybrid
+hibrida | 3 | transferred, of persons, one of mixed parentage: a Roman father and foreign mother, or a freeman and a slave
+hic | 1 | this
+hic | 3 | this, as opposed to iste, near the hearer, or ille, remote, the nearer object
+hic | 4 | hoc est, that is to say, namely, introducing an explanation
+hic | 5 | of time, now, at this point, hereupon
+hic | 6 | adverbial hic, locative, in this place, here; hac, this way, on this side
+hiemalis | 1 | wintry
+hiemalis | 3 | as a noun, hiemalia, winter-quarters, rare, post-classical
+hiemo | 1 | winter
+hiemo | 3 | military, to be in winter quarters
+hiemo | 4 | of weather, to be stormy, wintry, cold
+hiemo | 5 | impersonal, hiemat, it is wintry, cold weather
+hiemo | 6 | active, to freeze, turn to ice, post-Augustan
+hiems | 1 | winter
+hiems | 2 | storm
+hiems | 3 | the winter season, wintertime
+hiems | 4 | transferred, poetic, stormy or rainy weather, a tempest
+hiems | 5 | figurative, cold, distress, or turmoil: hiems rerum, the storm of war
+hieto | 1 | yawn
+hilaritas | 1 | cheerfulness
