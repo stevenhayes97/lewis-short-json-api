@@ -89,3 +89,32 @@ ilicet | 3 | originally, a formula dismissing an assembly: you may go, it is ove
 ilicet | 4 | transferred, let us go, let us be gone
 ilicet | 5 | transferred, all is over, it's all up, of something lost or failed
 ilicet | 6 | through the notion of hastening, straightway, immediately, instantly
+ilico | 1 | instantly
+ilico | 3 | literally, on the spot, in that very place, ante-classical
+ilico | 4 | of time, instantly, immediately, directly
+illabor | 1 | glide
+illabor | 3 | to flow, slide, or sink into something
+illabor | 4 | figurative, to penetrate, to steal into: illapsa pernicies, ruin creeping in
+illaboratus | 1 | effortless
+illacrimo | 1 | weep
+illacrimo | 3 | to weep over, mourn for, usually with the dative
+illacrimo | 4 | poetic, transferred, of things, to drip, ooze, distil
+illaesus | 1 | unharmed
+illaqueo | 1 | ensnare
+illaqueo | 3 | figurative, to entrap, entangle, catch in difficulty
+illatio | 1 | bringing in
+illatio | 3 | in particular, a tax, an impost
+illatio | 4 | figurative, a causing or committing of an act
+illatio | 5 | in logic, an inference, a conclusion
+illaudatus | 1 | unpraised
+illaudatus | 2 | detestable
+illaudatus | 3 | not praised, without fame, obscure
+illaudatus | 4 | poetic, unworthy of praise, blamable, detestable
+ille | 1 | that
+ille | 3 | opposed to hic, indicating the more remote object: that, the former
+ille | 4 | pregnant sense, indicating something well-known or celebrated: that famous, the well-known
+ille | 5 | ille quidem...sed, to be sure, indeed...but still
+ille | 6 | adverbial illo, to that place, thither; ex illo, from that time, since then
+illecebra | 1 | allurement
+illecebra | 3 | an inducement, attraction, or charm, in a good or bad sense
+illecebra | 4 | transferred, concretely, an enticing person, a seducer, a decoy
