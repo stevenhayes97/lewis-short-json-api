@@ -77,3 +77,37 @@ halo | 4 | to breathe out, emit, as a scent
 hamatus | 1 | hooked
 hamatus | 3 | shaped like a hook, crooked
 hamatus | 4 | figurative, alluring, baited, catching, like a hook
+hamus | 1 | hook
+hamus | 2 | allurement
+hamus | 3 | especially, a fish-hook, an angle
+hamus | 4 | figurative, an enticement, a lure, a bait
+hamus | 5 | a hook used as a surgical instrument
+hamus | 6 | transferred, anything hooked or curved: a hawk's talon, a thorn
+hara | 1 | pen
+hara | 3 | especially, a hog-sty
+harena | 1 | sand
+harena | 2 | arena
+harena | 3 | a sandy place, a sandy desert or waste
+harena | 4 | the seashore, the beach
+harena | 5 | the sanded floor of the amphitheatre, where gladiators fought
+harena | 6 | transferred, a combat in the amphitheatre, or the gladiators themselves
+harena | 7 | figurative, the scene or theatre of any contest, such as a war or dispute
+harenarius | 1 | sandy
+harenarius | 3 | transferred, pertaining to the amphitheatre: fera harenaria, a beast destined for the arena
+harenarius | 4 | as a noun, a gladiator
+harenarius | 5 | as a noun, harenaria, a sand-pit
+harenosus | 1 | sandy
+hariolor | 1 | prophesy
+hariolor | 3 | transferred, bad sense, to talk nonsense, babble foolishly, early Latin
+hariolus | 1 | soothsayer
+harundo | 1 | reed
+harundo | 3 | a cane or reed plant
+harundo | 4 | meton., a fishing rod
+harundo | 5 | meton., an arrow, or the shaft of an arrow
+harundo | 6 | meton., a reed pen, for writing
+harundo | 7 | meton., a shepherd's pipe, a set of pan-pipes
+harundo | 8 | meton., other things made of reed: a bird-lime twig, a measuring-rod, a rod for beating, a child's hobbyhorse
+haruspex | 1 | haruspex
+haruspex | 3 | poetic, a prophet or seer in general
+haruspicinus | 1 | of divination
+haruspicinus | 3 | as a noun, haruspicina, the art of divining by entrails
