@@ -940,4 +940,32 @@ incursio | 1 | assault
 incursio | 3 | in particular, a hostile inroad, an incursion
 incursito | 1 | assail
 incursito | 3 | trop., to clash or collide with, throughout life
+incurso | 1 | assail
+incurso | 3 | transferred, of sensory impressions, to strike upon the eyes or ears
+incurso | 4 | trop., to assail, of an emotion such as grief
+incursus2 | 1 | assault
+incursus2 | 3 | transferred, poetic, of things, a rushing or dashing against
+incursus2 | 4 | trop., an impulse, an inclination
+incurvo | 1 | bend
+incurvo | 3 | trop., to bend, cast down, disturb someone's spirit
+incurvus | 1 | bent
+incus | 1 | anvil
+incus | 3 | figurative, something being worked on or prepared, as on an anvil
+incuso | 1 | blame
+incustoditus | 1 | unguarded
+incustoditus | 2 | heedless
+incustoditus | 3 | passive, literally, not watched, unguarded
+incustoditus | 4 | passive, trop., unconcealed, undisguised
+incustoditus | 5 | active, heedless, imprudent, incautious
+incutio | 1 | strike
+incutio | 2 | inspire
+incutio | 3 | literally, to strike upon or against something
+incutio | 4 | transferred, to throw, cast, hurl
+incutio | 5 | trop., to strike into, to inspire someone with fear, terror, or awe
+incutio | 6 | to shake, cause to tremble
+indagator | 1 | tracker
+indagator | 3 | transferred, an investigator, a searcher
+indago1 | 1 | track
+indago1 | 3 | trop., to investigate, search into, explore
+indago1 | 4 | trop., to hunt for, strive to obtain something
 
