@@ -354,6 +354,68 @@ gnarus | 1 | knowing
 gnarus | 2 | skilled
 gnarus | 3 | acquainted or familiar with something, usually with the genitive: loci gnarus, familiar with the place
 gnarus | 4 | passive, known, well-known (post-Augustan, rare)
+gracilis | 1 | slender
+gracilis | 3 | transferred, meagre, scanty, thin, of soil or resources
+gracilis | 4 | of style, simple, plain, unadorned
+gracilitas | 1 | slenderness
+gracilitas | 3 | of style, simplicity, plainness
+graculus | 1 | jackdaw
+gradarius | 1 | ambling
+gradarius | 3 | equus gradarius, a pacer or ambling horse
+gradarius | 4 | transferred, of a speaker, deliberate, unhurried
+gradatim | 1 | gradually
+gradatio | 1 | gradation
+gradatio | 3 | literally, a flight of steps, as in a theatre
+gradatio | 4 | rhetorical, a climax: a series of clauses each building on the last
+gradilis | 1 | stepped
+gradior | 1 | walk
+gradior | 3 | poetic, of inanimate things, to move along, advance
+gradior | 4 | ecclesiastical, of one's conduct, to walk, live, conduct oneself
+gradus | 1 | step
+gradus | 2 | degree
+gradus | 3 | a pace, or a single footstep
+gradus | 4 | a stage or degree of progress: a step towards something
+gradus | 5 | military, one's position or station in the ranks
+gradus | 6 | a stair-step, a rung of a ladder
+gradus | 7 | a degree of rank, age, or kinship
+gradus | 8 | in mathematics, a degree of a circle
+graecor | 1 | Grecize
+graecor | 3 | to live in the Greek fashion, especially self-indulgently
+gramen | 1 | grass
+gramen | 3 | transferred, a plant or herb generally
+gramen | 4 | in particular, couch-grass, dog's-grass, a weed
+gramineus | 1 | grassy
+gramineus | 3 | of Indian reed, made of bamboo
+granarium | 1 | granary
+grandaevus | 1 | aged
+grandesco | 1 | grow
+grandiloquus | 1 | grandiloquent
+grandiloquus | 3 | in a bad sense, bombastic, pompous in speech
+grandio | 1 | enlarge
+grandio | 3 | intransitive, to grow, become great
+grandis | 1 | large
+grandis | 2 | aged
+grandis | 3 | full-grown, big, great in size
+grandis | 4 | of persons, grown-up, or, with natu, advanced in years, old
+grandis | 5 | trop., great, strong, powerful
+grandis | 6 | of style, grand, lofty, sublime
+granditas | 1 | greatness
+granditas | 3 | of style, grandeur, sublimity
+grando | 1 | hail
+grando | 3 | transferred, poetic, a shower, a great quantity or multitude
+grando | 4 | figurative, of copious, torrential speech
+granum | 1 | grain
+grassator | 1 | vagabond
+grassator | 2 | footpad
+grassator | 3 | an idler, one with no fixed occupation (early usage)
+grassator | 4 | one who roams about at night causing disorder, a rioter or street-robber
+grassor | 1 | roam
+grassor | 3 | to go about, to walk, proceed (rare, mostly early Latin)
+grassor | 4 | to roam about rioting, or lying in wait to rob
+grassor | 5 | figurative, to proceed or act in a given manner
+grassor | 6 | figurative, to attack, rage against, proceed with violence
+grates | 1 | thanks
+grates | 3 | thanks or thanksgiving rendered especially to the gods
 gratia | 1 | favour
 gratia | 2 | thanks
 gratia | 3 | the goodwill you enjoy in other people's eyes: esteem, popularity, influence, standing
@@ -364,6 +426,20 @@ gratia | 7 | charm, gracefulness, attractiveness, beauty (poetic and later prose
 gratia | 8 | after a genitive, gratia means for the sake of, on account of: exempli gratia, for example; mea gratia, for my sake
 gratia | 9 | Gratiae, the three Graces, goddesses of charm and loveliness
 gratia | 10 | ablative gratiis, contracted gratis: for nothing, free of charge, without payment
+gratificor | 1 | oblige
+gratificor | 3 | to do something as a favour, to sacrifice one thing to gratify another
+gratiosus | 1 | popular
+gratiosus | 3 | enjoying favour, in favour, well-regarded
+gratiosus | 4 | that shows favour, obliging, complaisant (rare)
+grator | 1 | congratulate
+gratuitus | 1 | free
+gratuitus | 2 | voluntary
+gratuitus | 3 | done without pay, reward, or profit
+gratuitus | 4 | spontaneous, unforced, done of one's own accord
+gratulatio | 1 | congratulation
+gratulatio | 3 | a public religious festival of thanksgiving
+gratulor | 1 | congratulate
+gratulor | 3 | to give thanks, to thank, especially a deity (early Latin)
 gratus | 1 | pleasing
 gratus | 2 | grateful
 gratus | 3 | pleasant, agreeable, welcome, said of things that please
@@ -371,6 +447,23 @@ gratus | 4 | dear to someone, in favour with them, with the dative: gratus dis, 
 gratus | 5 | thankful, grateful, mindful of a kindness received
 gratus | 6 | deserving thanks, sure to be appreciated, said of an act that earns gratitude
 gratus | 7 | adverb grate: willingly and with pleasure; also thankfully, gratefully
+# review: gravedinosus English has no adjective for catching colds easily; described directly
+gravedinosus | 1 | prone to colds
+gravedinosus | 3 | transferred, that causes colds: ervum gravedinosum, a cold-inducing legume
+gravedo | 1 | catarrh
+gravedo | 3 | heaviness of the limbs, a head cold
+gravedo | 4 | rare, pregnancy
+gravesco | 1 | worsen
+gravesco | 3 | to become heavy or laden: fetu gravescit, it becomes loaded with fruit
+gravesco | 4 | in particular, to become pregnant
+gravesco | 5 | figurative, to grow worse, become more grievous
+gravido | 1 | burden
+gravido | 3 | in particular, to impregnate, make pregnant
+gravidus | 1 | pregnant
+gravidus | 2 | laden
+gravidus | 3 | with child, with young
+gravidus | 4 | transferred, poetic, laden, filled, full: gravidae segetes, fields heavy with grain
+gravidus | 5 | figurative, full, abundant
 gravis | 1 | heavy
 gravis | 2 | serious
 gravis | 3 | weighed down, loaded, laden, often with the ablative: navis gravis, a laden ship
@@ -381,3 +474,91 @@ gravis | 7 | of sound, deep and low-pitched, the opposite of acutus
 gravis | 8 | of a smell or taste, strong, rank, offensive
 gravis | 9 | of air, food, or the body, unwholesome or unhealthy; of a person, sick and ailing
 gravis | 10 | pregnant, with child (poetic, standing in for gravidus)
+gravitas | 1 | weight
+gravitas | 2 | dignity
+gravitas | 3 | physical weight or heaviness
+gravitas | 4 | transferred, of smell, rankness, offensiveness
+gravitas | 5 | of health, severity, sickness, or unwholesomeness
+gravitas | 6 | bad sense, heaviness, slowness, harshness
+gravitas | 7 | good sense, seriousness, dignity, weightiness of character
+gravo | 1 | burden
+gravo | 2 | demur
+gravo | 3 | to load, weigh down, oppress
+gravo | 4 | especially, to make pregnant
+gravo | 5 | figurative, to oppress, aggravate, make more grievous
+gravo | 6 | deponent gravor, to feel burdened or reluctant, to be unwilling, to demur
+# review: gregalis "of the herd" needs the article to be accurate; no shorter English phrasing fits
+gregalis | 1 | of the herd
+gregalis | 3 | as a noun, gregales, comrades, companions
+gregalis | 4 | of the common sort, common, ordinary, bad sense
+gregarius | 1 | common
+gregarius | 3 | of or belonging to a flock or herd, literal, rare
+gregarius | 4 | military, miles gregarius, a common soldier, a private
+gregatim | 1 | in flocks
+gregatim | 3 | transferred, in troops, in crowds, en masse
+grego | 1 | flock
+grego | 3 | to gather into a group, host, or assembly
+gremium | 1 | lap
+gremium | 3 | transferred, the heart or centre of a place: in gremio Thebes, in the heart of Thebes
+gressus2 | 1 | step
+gressus2 | 3 | poetic, of a ship, its course: huc dirige gressum, steer your course here
+gressus2 | 4 | a pace, as a unit of length
+grex | 1 | flock
+grex | 2 | company
+grex | 3 | of animals, a herd, drove, or swarm
+grex | 4 | of persons, a company, troop, band, or crowd
+grex | 5 | in particular, of actors or charioteers, a troupe or team
+grex | 6 | rarely, of things, a bundle: grex virgarum, a bundle of rods
+groma | 1 | surveyor's rod
+groma | 3 | transferred, the centre point of a Roman camp, where the rod was planted
+gromaticus | 1 | of surveying
+gromaticus | 3 | as a noun, gromatici, writers on land-surveying
+grossus2 | 1 | thick
+grunnio | 1 | grunt
+grunnio | 3 | transferred, of other animals, to make a grunting sound
+grus | 1 | crane
+grus | 3 | transferred, a siege engine, a battering-ram shaped like a crane's beak
+gubernaculum | 1 | rudder
+gubernaculum | 3 | transferred, guidance, direction
+gubernaculum | 4 | especially, the helm of state, government: gubernacula rei publicae tractare, to be at the helm of the republic
+gubernatio | 1 | steering
+gubernatio | 3 | the piloting of a ship
+gubernatio | 4 | transferred, direction, management, government
+gubernator | 1 | pilot
+gubernator | 2 | governor
+gubernator | 3 | a steersman, one who pilots a ship
+gubernator | 4 | transferred, a director, ruler, one who governs
+gula | 1 | throat
+gula | 2 | gluttony
+gula | 3 | the gullet, weasand
+gula | 4 | transferred, greed for food, gormandizing, appetite
+gulosus | 1 | gluttonous
+gurges1 | 1 | whirlpool
+gurges1 | 2 | spendthrift
+gurges1 | 3 | a raging abyss, gulf, or whirlpool
+gurges1 | 4 | poetic, transferred, waters, a stream, the sea
+gurges1 | 5 | of insatiable craving, an abyss; of a person, one who squanders everything, a prodigal
+gustatus | 1 | taste
+gustatus | 3 | the sense of taste, one of the five senses
+gustatus | 4 | the flavour of something
+gustatus | 5 | figurative, an experience or taste of something: libidinosi verae laudis gustatum non habent, the self-indulgent have no taste for true praise
+gusto | 1 | taste
+gusto | 3 | to take a little of something, to try
+gusto | 4 | in particular, to take a light meal, a snack
+gusto | 5 | figurative, to partake of, enjoy, experience
+gustus | 1 | taste
+gustus | 3 | a tasting, a partaking of a small amount of food
+gustus | 4 | in particular, an appetizer at the start of a meal, a whet
+gustus | 5 | a draught, a small serving of liquid: gustum aquae, a mouthful of water
+gustus | 6 | figurative, a foretaste, a sample or specimen of something
+gutta1 | 1 | drop
+gutta1 | 3 | transferred, a spot or speck, as on an animal's skin or a stone
+gutta1 | 4 | in architecture, a small drop-shaped ornament under the triglyphs of a Doric column
+gutta1 | 5 | figurative, a little bit, a small amount
+guttur | 1 | throat
+guttur | 3 | transferred, gluttony
+gutus | 1 | cruet
+gypso | 1 | plaster
+gyro | 1 | circle
+gyro | 3 | to go around something
+gyro | 4 | intransitive, to turn around, revolve
