@@ -884,4 +884,31 @@ incredibilis | 3 | active, rare, unbelieving, incredulous
 incrementum | 1 | growth
 incrementum | 3 | transferred, poetic, offspring, progeny
 incrementum | 4 | trop., an increase, an addition, augmentation
+increpito | 1 | chide
+increpito | 3 | encouragingly, to call upon, to challenge, poetic
+increpito | 4 | transferred, rare, to beat, strike
+increpo | 1 | resound
+increpo | 2 | rebuke
+increpo | 3 | literally, to make a noise, to resound, rustle, rattle
+increpo | 4 | active, to utter aloud, to sound forth
+increpo | 5 | trop., to exclaim loudly against, to blame, chide, reprove someone
+incresco | 1 | grow
+incresco | 3 | trop., to grow or increase in, of a feeling: irae increscunt, angers grow
+incresco | 4 | in general, to increase, augment
+incruentus | 1 | bloodless
+incrusto | 1 | encrust
+incubatio | 1 | incubation
+incubatio | 3 | trop., unlawful possession, occupying something without right
+incubo1 | 1 | lie upon
+incubo1 | 3 | in particular, to sit on eggs, to brood, to hatch
+incubo1 | 4 | trop., to brood over, to jealously guard or covet something
+incubo1 | 5 | trop., to press upon, weigh upon, be a burden to
+incubo2 | 1 | incubus
+incubo2 | 3 | a spirit believed to guard buried treasure
+incubo2 | 4 | the nightmare, a demon thought to cause bad dreams
+inculco | 1 | inculcate
+inculco | 3 | literally, to tread down, to ram down
+inculco | 4 | trop., to stuff, press, or force something in, such as foreign words
+inculco | 5 | trop., to force upon, impress on, drum into someone's mind
+inculpatus | 1 | blameless
 
