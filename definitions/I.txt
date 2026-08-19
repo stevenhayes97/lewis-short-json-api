@@ -436,3 +436,28 @@ impeto | 1 | assail
 impeto | 3 | transferred, to accuse someone of something
 impetrabilis | 1 | attainable
 impetrabilis | 3 | active, that easily gets what it seeks, successful, persuasive
+impetrio | 1 | divine
+impetrio | 3 | religious term, to seek an omen's favour for something, to consult the auspices
+impetro | 1 | obtain
+impetro | 3 | to accomplish, effect, bring to pass, especially through request
+impetro | 4 | especially, like impetrio, to obtain a favourable omen
+impetus | 1 | attack
+impetus | 2 | impulse
+impetus | 3 | an assault, an onset, physical
+impetus | 4 | medical, an attack or fit of a disease
+impetus | 5 | transferred, violent or rapid motion, force, vehemence
+impetus | 6 | mental, an impulse, urge, or passion
+impexus | 1 | uncombed
+impexus | 3 | trop., unpolished, rude, unrefined
+impietas | 1 | impiety
+impiger | 1 | diligent
+impingo | 1 | thrust
+impingo | 3 | to strike or dash something against a surface
+impingo | 4 | in general, to force something upon someone
+impingo | 5 | trop., to drive or force someone into a situation or course of action
+impio | 1 | defile
+impius | 1 | impious
+impius | 3 | disloyal, undutiful, unpatriotic, lacking respect for family or country
+impius | 4 | transferred, of things, unholy, accursed
+impius | 5 | as a noun, impii, wicked or abandoned men
+implacabilis | 1 | implacable
