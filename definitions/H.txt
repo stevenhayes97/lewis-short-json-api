@@ -305,3 +305,27 @@ honor | 4 | a public office, magistracy, or post of honour: cursus honorum, the 
 honor | 5 | honoris causa, out of respect, or for the sake of
 honor | 6 | concretely, an honorary gift, reward, or fee; a sacrifice; funeral rites
 honor | 7 | poetic, a quality that brings honour: an ornament, grace, beauty
+honorabilis | 1 | honourable
+honorarius | 1 | honorary
+honorarius | 3 | as a noun, honorarium, a fee or gift given on appointment to an office
+honorarius | 4 | legal, jus honorarium, praetorian law, as opposed to statute law
+honorificus | 1 | honorific
+honoro | 1 | honour
+honoro | 3 | to adorn, embellish, decorate
+honoro | 4 | passive honoratus, distinguished by holding public office, respectable
+honorus | 1 | honourable
+hora1 | 1 | hour
+hora1 | 3 | transferred, plural horae, a sundial, a clock
+hora1 | 4 | poetic, in general, time, a season: quamcumque horam fortuna dederit, whatever season fortune gives
+hora1 | 5 | personified, Horae, the goddesses of the seasons
+hordearius | 1 | of barley
+hordearius | 3 | figurative, inflated, puffed-up, like barley grain
+hordeum | 1 | barley
+hornus | 1 | this year's
+horreo | 1 | dread
+horreo | 2 | bristle
+horreo | 3 | to stand on end, to bristle, of hair or spikes, literal
+horreo | 4 | to shiver, shake, or tremble, from cold
+horreo | 5 | to shudder or tremble with fear, to dread, to be afraid of something
+horreo | 6 | to shudder with amazement, to be astonished
+horreo | 7 | to look rough, wild, or frightful in appearance; to be terrible, dreadful
