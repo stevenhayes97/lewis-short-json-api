@@ -271,3 +271,37 @@ hiulcus | 5 | eager, longing for something, rare
 hodie | 1 | today
 hodie | 3 | transferred, at the present time, nowadays
 hodie | 4 | emphatic, at once, immediately, right now
+hodiernus | 1 | today's
+hodiernus | 3 | transferred, of the present time, current
+holus | 1 | vegetables
+homicida | 1 | murderer
+homicida | 3 | in a good sense, as an epithet of a warrior: a slayer of men in battle
+homo | 1 | person
+homo | 2 | man
+homo | 3 | a human being in general, as opposed to animals
+homo | 4 | pregnant sense, good, a man of good character, a true human being
+homo | 5 | pregnant sense, bad, a mere mortal, a man subject to weakness and error
+homo | 6 | military, homines, foot-soldiers, infantry, as opposed to cavalry
+homo | 7 | familiar, the fellow, the man, used colloquially in place of he, him
+homuncio | 1 | manikin
+homunculus | 1 | manikin
+honestas | 1 | honour
+honestas | 2 | integrity
+honestas | 3 | the honour, reputation, or respectability one enjoys in the eyes of others
+honestas | 4 | honourable character, integrity, virtue, moral probity
+honestas | 5 | transferred, of things, beauty, grace, rare
+honesto | 1 | honour
+honesto | 3 | to adorn, embellish, grace, of things as well as persons
+honestus | 1 | honourable
+honestus | 2 | handsome
+honestus | 3 | enjoying honour or respect, distinguished, respectable, noble
+honestus | 4 | as a noun, honestum, honourable conduct, virtue, morality
+honestus | 5 | deserving of honour, creditable, worthy, decent, proper
+honestus | 6 | of personal appearance, noble, fine, handsome, poetic
+honor | 1 | honour
+honor | 2 | office
+honor | 3 | esteem, respect, or distinction shown to someone
+honor | 4 | a public office, magistracy, or post of honour: cursus honorum, the sequence of public offices
+honor | 5 | honoris causa, out of respect, or for the sake of
+honor | 6 | concretely, an honorary gift, reward, or fee; a sacrifice; funeral rites
+honor | 7 | poetic, a quality that brings honour: an ornament, grace, beauty
