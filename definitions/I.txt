@@ -968,4 +968,26 @@ indagator | 3 | transferred, an investigator, a searcher
 indago1 | 1 | track
 indago1 | 3 | trop., to investigate, search into, explore
 indago1 | 4 | trop., to hunt for, strive to obtain something
+indago2 | 1 | encirclement
+indago2 | 3 | transferred, a military encirclement of the enemy
+indago2 | 4 | trop., an investigation, a searching into
+inde | 1 | thence
+inde | 3 | of things or causes, from that, hence
+inde | 4 | of time, from that time onward, since then
+inde | 5 | of time, after that, thereupon, then
+indebitus | 1 | undue
+indebitus | 3 | as a noun, indebitum, a payment not owed, an overpayment
+indecens | 1 | unseemly
+indeclinabilis | 1 | unchangeable
+indeclinabilis | 3 | in grammar, indeclinable, having no case endings
+indecor | 1 | disgraceful
+indecorus | 1 | unbecoming
+indefessus | 1 | tireless
+indemnatus | 1 | uncondemned
+index | 1 | indicator
+index | 2 | informer
+index | 3 | the forefinger, the index finger
+index | 4 | a sign, mark, indication, or proof of something
+index | 5 | especially, an informer, a spy, a betrayer
+index | 6 | transferred, of a book, a title, or a table of contents, a catalogue
 
