@@ -1246,4 +1246,32 @@ inficio | 5 | trop., to instruct or imbue someone with knowledge, especially ear
 inficio | 6 | trop., to spoil, corrupt, deprave
 infidelis | 1 | unfaithful
 infidelis | 3 | ecclesiastical Latin, unbelieving, infidel
+infidus | 1 | faithless
+infigo | 1 | fix
+infigo | 3 | trop., to impress or imprint upon the mind
+infinitas | 1 | infinity
+infinitus | 1 | infinite
+infinitus | 2 | indefinite
+infinitus | 3 | boundless, unlimited, without end
+infinitus | 4 | innumerable, countless
+infinitus | 5 | grammatical, indefinite: verbum infinitum, the infinitive
+infirmitas | 1 | weakness
+infirmitas | 2 | inconstancy
+infirmitas | 3 | physical weakness, feebleness
+infirmitas | 4 | in particular, infirmity, sickness, indisposition
+infirmitas | 5 | trop., weakness of spirit or mind, lack of courage
+infirmitas | 6 | in particular, fickleness, inconstancy
+infirmo1 | 1 | weaken
+infirmo1 | 2 | invalidate
+infirmo1 | 3 | literally, to deprive of strength, weaken, enfeeble
+infirmo1 | 4 | trop., to disprove, refute, invalidate an argument
+infirmo1 | 5 | trop., to annul, make void, such as a law or contract
+infirmus | 1 | weak
+infirmus | 3 | trop., weak in mind or character, timid, fickle, superstitious
+infit | 1 | begin
+infit | 3 | in particular, he begins to speak, introducing a speech
+infitiae | 1 | denial
+infitiae | 3 | especially, legal, infitias ire, to deny a debt or charge in court
+infitiatio | 1 | denial
+infitiatio | 3 | in particular, a denial or disowning of a debt
 
