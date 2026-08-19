@@ -1,0 +1,683 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_I.json (Lewis & Short via Perseus), simplified for learners.
+ibi | 1 | there
+ibi | 3 | of time, then, thereupon
+ibi | 4 | of other relations, in that matter, on that occasion, in that condition
+ibidem | 1 | right there
+ibidem | 3 | of time, at that very moment
+ibidem | 4 | of other relations, in the same matter
+ictus2 | 1 | blow
+ictus2 | 3 | in particular, a beat, in prosody or music
+ictus2 | 4 | a beat of the pulse
+ictus2 | 5 | figurative, a blow, attack, shock
+idcirco | 1 | therefore
+idem | 1 | same
+idem | 3 | connecting two predicates of the same subject: also, likewise, at the same time
+idem | 4 | connecting contrasting predicates: nevertheless, yet, and still
+idem | 5 | as a term of comparison, with et, ac, quam, or the dative: the same as, identical with
+identidem | 1 | repeatedly
+ideo | 1 | therefore
+idoneus | 1 | suitable
+idoneus | 3 | fit, apt, or capable for a particular task, often with ad or the dative
+idoneus | 4 | of a witness or authority, sufficient, credible, reliable
+igitur | 1 | therefore
+igitur | 3 | in resuming an interrupted thought: so then, as I was saying
+igitur | 4 | pleonastically with tum or deinde: then at last, then indeed
+ignarus | 1 | ignorant
+ignarus | 3 | unacquainted with, inexperienced, or unaware of something, usually with the genitive
+ignarus | 4 | transferred, unmindful, regardless of something
+ignarus | 5 | passive, poetic, unknown, equal to ignotus
+ignavia | 1 | laziness
+ignavia | 2 | cowardice
+ignavia | 3 | inactivity, idleness, sluggishness
+ignavia | 4 | lack of courage, cowardice, faintheartedness
+ignavus | 1 | lazy
+ignavus | 2 | cowardly
+ignavus | 3 | inactive, idle, sluggish, listless
+ignavus | 4 | transferred, of things, unproductive, causing inactivity or sloth
+ignesco | 1 | kindle
+ignesco | 3 | transferred, of colour, to glow, to break into flame
+ignesco | 4 | figurative, to burn with passion, to glow with anger
+igneus | 1 | fiery
+igneus | 3 | of colour, flaming, resplendent, glowing
+igneus | 4 | figurative, ardent, vehement, passionate
+igniculus | 1 | spark
+igniculus | 3 | transferred, of colour, a glittering, sparkling
+igniculus | 4 | figurative, a spark of passion or feeling
+ignio | 1 | ignite
+ignis | 1 | fire
+ignis | 2 | passion
+ignis | 3 | in particular, sacer ignis, St. Anthony's fire, a skin disease
+ignis | 4 | transferred, brightness, splendour, glow
+ignis | 5 | firewood, fuel
+ignis | 6 | figurative, the fire of passion: love, anger, or rage
+ignis | 7 | poetic, a beloved person, a flame, a sweetheart
+ignis | 8 | figurative, that which brings destruction, a conflagration: war as a smouldering fire
+ignobilis | 1 | obscure
+ignobilis | 2 | lowborn
+ignobilis | 3 | unknown to fame, undistinguished
+ignobilis | 4 | of low birth, base-born, ignoble
+ignobilitas | 1 | obscurity
+ignobilitas | 2 | low birth
+ignobilitas | 3 | want of fame, obscurity
+ignobilitas | 4 | low birth, mean origin
+ignobilitas | 5 | transferred, of things, inferior quality, badness
+ignominia | 1 | disgrace
+ignominiosus | 1 | shameful
+ignorabilis | 1 | unknown
+ignorantia | 1 | ignorance
+ignoratio | 1 | ignorance
+ignoro | 1 | not know
+ignoro | 2 | ignore
+ignoro | 3 | to have no knowledge of a person or thing, to be unacquainted with, unaware
+ignoro | 4 | to mistake, misunderstand, fail to recognize
+ignoro | 5 | rare, to take no notice of, disregard, pay no attention to
+ignosco | 1 | forgive
+ignosco | 3 | to pardon or excuse a fault, usually with the dative of the person and accusative of the offense
+ignotus2 | 1 | unknown
+ignotus2 | 2 | lowborn
+ignotus2 | 3 | not known, unrecognized
+ignotus2 | 4 | pregnant sense, poetic, of low birth or condition, base, vulgar
+ignotus2 | 5 | active, rare, unacquainted with, ignorant of something
+ile | 1 | flank
+ile | 3 | transferred, the entrails of animals
+ile | 4 | transferred, the belly or body of a vessel
+ile | 5 | singular, the private parts, rare
+ilex | 1 | holm oak
+ilicet | 1 | forthwith
+ilicet | 3 | originally, a formula dismissing an assembly: you may go, it is over
+ilicet | 4 | transferred, let us go, let us be gone
+ilicet | 5 | transferred, all is over, it's all up, of something lost or failed
+ilicet | 6 | through the notion of hastening, straightway, immediately, instantly
+ilico | 1 | instantly
+ilico | 3 | literally, on the spot, in that very place, ante-classical
+ilico | 4 | of time, instantly, immediately, directly
+illabor | 1 | glide
+illabor | 3 | to flow, slide, or sink into something
+illabor | 4 | figurative, to penetrate, to steal into: illapsa pernicies, ruin creeping in
+illaboratus | 1 | effortless
+illacrimo | 1 | weep
+illacrimo | 3 | to weep over, mourn for, usually with the dative
+illacrimo | 4 | poetic, transferred, of things, to drip, ooze, distil
+illaesus | 1 | unharmed
+illaqueo | 1 | ensnare
+illaqueo | 3 | figurative, to entrap, entangle, catch in difficulty
+illatio | 1 | bringing in
+illatio | 3 | in particular, a tax, an impost
+illatio | 4 | figurative, a causing or committing of an act
+illatio | 5 | in logic, an inference, a conclusion
+illaudatus | 1 | unpraised
+illaudatus | 2 | detestable
+illaudatus | 3 | not praised, without fame, obscure
+illaudatus | 4 | poetic, unworthy of praise, blamable, detestable
+ille | 1 | that
+ille | 3 | opposed to hic, indicating the more remote object: that, the former
+ille | 4 | pregnant sense, indicating something well-known or celebrated: that famous, the well-known
+ille | 5 | ille quidem...sed, to be sure, indeed...but still
+ille | 6 | adverbial illo, to that place, thither; ex illo, from that time, since then
+illecebra | 1 | allurement
+illecebra | 3 | an inducement, attraction, or charm, in a good or bad sense
+illecebra | 4 | transferred, concretely, an enticing person, a seducer, a decoy
+illecebrosus | 1 | enticing
+illepidus | 1 | rude
+illex2 | 1 | alluring
+illex2 | 3 | as a noun, a decoy, a lure
+illex2 | 4 | transferred, a seducer or seductress
+illibatus | 1 | unimpaired
+illiberalis | 1 | ungenerous
+illiberalis | 2 | niggardly
+illiberalis | 3 | unworthy of a free person, ignoble, sordid, mean, disobliging
+illiberalis | 4 | niggardly, stingy, grasping, especially with money
+illic1 | 1 | that
+illic1 | 3 | ante-classical pronoun: he, she, or it yonder
+illic1 | 4 | adverbial illac, that way, on that side, there
+illic1 | 5 | adverbial illuc or illoc, to that place, thither
+illic1 | 6 | transferred, illuc, to that point, to such an extent
+illic2 | 1 | there
+illic2 | 3 | transferred, with that person, there, i.e. with him
+illic2 | 4 | in that matter, therein
+illicio | 1 | entice
+illicitator | 1 | shill
+illicitator | 3 | one who bids at an auction only to drive up the price, a mock bidder
+illicitus | 1 | illicit
+illicium | 1 | allurement
+illicium | 3 | in public law, a formal calling together of the people, an assembly
+illido | 1 | dash
+illido | 3 | to strike or dash something against a surface
+illido | 4 | transferred, to dash to pieces, rare
+illigo | 1 | bind
+illigo | 3 | to fetter, entangle, impede, hinder free movement
+illigo | 4 | figurative, to attach, connect, or bind together, as words or ideas
+illigo | 5 | figurative, to bind someone under obligation, to entangle in debt or difficulty
+illinc | 1 | thence
+illinc | 3 | transferred, from that person or thing, from that quarter, on that side
+illino | 1 | smear
+illino | 3 | to apply an ointment or medicine to a surface
+illino | 4 | transferred, to besmear, bedaub, or anoint with something
+illino | 5 | figurative, to stain, taint, sully
+illitteratus | 1 | illiterate
+illitteratus | 3 | unwritten, not drawn up in writing, post-classical, rare
+illitteratus | 4 | inarticulate, of sounds or interjections
+illotus | 1 | unwashed
+illotus | 3 | trop., of speech, coarse, unrefined
+illucesco | 1 | dawn
+illucesco | 3 | impersonal illuxit, it grew light, day broke
+illucesco | 4 | figurative, to shine forth, become clear or illustrious
+illucesco | 5 | active, rare, to shine upon, give light to
+illudo | 1 | mock
+illudo | 2 | squander
+illudo | 3 | to jest, mock, or ridicule someone, usually with the dative
+illudo | 4 | to sport or fool away something, to squander or destroy through carelessness
+illudo | 5 | poetic, to violate, abuse, ruin
+illumino | 1 | illuminate
+illumino | 3 | transferred, to embellish or adorn with something bright
+illumino | 4 | figurative, to set in a clear light, to make conspicuous, especially of style in rhetoric
+illustris | 1 | bright
+illustris | 2 | illustrious
+illustris | 3 | lighted up, clear, bright, literal
+illustris | 4 | trop., clear, plain, evident, manifest
+illustris | 5 | distinguished, famous, honourable, illustrious
+illustro | 1 | illuminate
+illustro | 2 | clarify
+illustro | 3 | to light up, make bright, literal
+illustro | 4 | trop., to make clear, elucidate, explain
+illustro | 5 | trop., to render famous, renowned, illustrious
+illuvies | 1 | filth
+illuvies | 3 | dirt, uncleanness of the body
+illuvies | 4 | post-classical, an overflowing, a flood
+imaginarius | 1 | imaginary
+imaginarius | 3 | of or belonging to images; as a noun, the bearer of the emperor's image, a standard-bearer
+imaginarius | 4 | existing only in appearance, seeming, nominal, fancied
+imagino | 1 | represent
+imaginor | 1 | imagine
+imago | 1 | image
+imago | 2 | ghost
+imago | 3 | a representation, likeness, statue, bust, or picture
+imago | 4 | a phantom, apparition, spirit of the dead
+imago | 5 | in particular, an ancestral wax mask of a distinguished Roman, displayed in the atrium and carried in funerals
+imago | 6 | transferred, an echo, a reverberation of sound
+imago | 7 | trop., an idea, conception, or mental picture of something
+imago | 8 | in rhetoric, a figurative comparison, a simile
+imago | 9 | a mere semblance, appearance, or shadow, as opposed to the real thing
+imbecillitas | 1 | weakness
+imbecillitas | 3 | physical weakness, feebleness of body
+imbecillitas | 4 | transferred, powerlessness, helplessness, impotence
+imbecillitas | 5 | weakness or feebleness of mind
+imbecillus | 1 | weak
+imbecillus | 3 | of body, weak, feeble, frail
+imbecillus | 4 | of mind, weak, feeble, foolish
+imbellis | 1 | unwarlike
+imbellis | 3 | peaceful, fond of peace, avoiding war
+imbellis | 4 | of things, weak, ineffective, powerless: telum imbelle, a weak, harmless weapon
+imber | 1 | rain
+imber | 3 | transferred, a rain-cloud, storm-cloud
+imber | 4 | poetic, water or liquid in general
+imber | 5 | figurative, a shower of things falling like rain: ferreus imber, a shower of iron weapons
+imberbis | 1 | beardless
+imbibo | 1 | imbibe
+imbibo | 3 | figurative, to conceive or take in, of an idea, opinion, or feeling
+imbibo | 4 | in particular, to resolve, determine to do something
+imbrex | 1 | roof tile
+imbrex | 3 | transferred, a gutter or trough for watering animals
+imbrex | 4 | transferred, other things shaped like a hollow tile, such as the partition of the nose
+imbrico | 1 | tile
+imbrico | 3 | to shape or curve like a gutter-tile
+imbuo | 1 | imbue
+imbuo | 2 | instruct
+imbuo | 3 | literally, to wet, moisten, dip, or tinge with a liquid
+imbuo | 4 | figurative, to fill, stain, or taint with a quality: imbutus religione, imbued with religious feeling
+imbuo | 5 | in particular, to instruct or train early, to accustom, initiate
+imbuo | 6 | poetic, to be the first to do or try something: to explore, to break new ground
+imitabilis | 1 | imitable
+imitabilis | 3 | rare, imitative, inclined to imitate
+imitamen | 1 | imitation
+imitamentum | 1 | imitation
+imitatio | 1 | imitation
+imitatio | 3 | the faculty or capacity for imitation
+imitatio | 4 | in rhetoric, the imitation of a model orator's style
+imitatio | 5 | in rhetoric, imitation of a natural sound, onomatopoeia
+imitator | 1 | imitator
+imitor | 1 | imitate
+imitor | 3 | to represent, portray, or copy in art
+imitor | 4 | to act like, resemble, or counterfeit someone or something
+immanis | 1 | huge
+immanis | 2 | savage
+immanis | 3 | monstrous in size, enormous, vast
+immanis | 4 | trop., monstrous in character, fierce, savage, inhuman
+immanitas | 1 | hugeness
+immanitas | 2 | savagery
+immanitas | 3 | monstrous size, vastness, excess, rare
+immanitas | 4 | monstrousness, cruelty, barbarism, savage character
+immansuetus | 1 | untamed
+immaturus | 1 | unripe
+immaturus | 3 | transferred, of persons or events, premature, untimely, not yet ready
+immemor | 1 | forgetful
+immemor | 3 | unmindful of, forgetful of, usually with the genitive
+immemor | 4 | transferred, poetic, that causes forgetfulness: an epithet of the river Lethe
+immensus | 1 | immense
+immensus | 3 | trop., vast, measureless, boundless
+immensus | 4 | as a noun, immensum, a boundless extent, immensity
+immensus | 5 | adverbial immensum, without end, exceedingly, immensely
+immerens | 1 | undeserving
+immergo | 1 | immerse
+immergo | 3 | transferred, se immergere, to plunge or throw oneself into a place
+immergo | 4 | figurative, se immergere, to immerse oneself in an activity or pursuit
+immeritus | 1 | undeserving
+immeritus | 2 | undeserved
+immeritus | 3 | active, that has not deserved something, guiltless, innocent
+immeritus | 4 | passive, not deserved, unmerited, of a thing
+immigro | 1 | immigrate
+immigro | 3 | to move or go into a place, a house
+immigro | 4 | figurative, of words, to pass into their proper or natural place
+immineo | 1 | overhang
+immineo | 2 | threaten
+immineo | 3 | to project over, hang over, overhang, literally
+immineo | 4 | to be near to, border upon, adjoin
+immineo | 5 | in a hostile sense, to threaten, menace, by nearness or position
+immineo | 6 | figurative, to be eager for, long for, be intent upon something
+immineo | 7 | to be imminent, to impend, to be near at hand
+imminuo | 1 | lessen
+imminuo | 2 | impair
+imminuo | 3 | to lessen, diminish, reduce something in size or amount
+imminuo | 4 | pregnant, to weaken, impair, enfeeble
+imminuo | 5 | trop., to encroach upon, violate, injure, subvert, destroy
+imminutio | 1 | diminution
+imminutio | 3 | a weakening, impairing, injury
+imminutio | 4 | in rhetoric, litotes, the use of a weaker expression for a stronger one
+immisceo | 1 | intermix
+immisceo | 3 | especially, se immiscere, to join or associate with someone
+immisceo | 4 | figurative, se immiscere alicui rei, to meddle with, interfere in, concern oneself with
+immisericors | 1 | merciless
+immitis | 1 | harsh
+immitis | 3 | of fruit, unripe, sour, not mellow
+immitis | 4 | transferred, of persons or character, rough, stern, savage, inexorable
+immitto | 1 | send in
+immitto | 3 | to send or despatch against someone, to let loose at, incite, instigate
+immitto | 4 | to let grow wild or unrestrained, of plants
+immitto | 5 | horticultural, to graft on
+immo | 1 | rather
+immo | 3 | contradicting what precedes: on the contrary, no indeed, not at all
+immo | 4 | strengthening what precedes: yes indeed, certainly, by all means
+immo | 5 | correcting or adding emphasis mid-sentence: nay rather, or rather
+immobilis | 1 | immovable
+immobilis | 3 | as a legal term, res immobiles, immovable property, real estate
+immobilis | 4 | trop., unmoved, unalterable, steadfast
+immoderatio | 1 | excess
+immoderatus | 1 | immoderate
+immoderatus | 3 | poetic, literally, without measure, boundless
+immoderatus | 4 | trop., unrestrained, unbridled, excessive
+immodestus | 1 | unrestrained
+immodestus | 3 | immoderately, extravagantly, impudently
+immodestus | 4 | unjustly, rare
+immodicus | 1 | excessive
+immodicus | 3 | literally, rare, beyond measure, huge, unrestrained
+immodicus | 4 | trop., excessive, extravagant, immoderate, often with the genitive
+immolo | 1 | sacrifice
+immolo | 3 | originally, to sprinkle a victim with sacrificial meal before slaying it
+immolo | 4 | poetic, more generally, to slay, to kill as a sacrifice
+immolo | 5 | ecclesiastical, to present as an offering, to render
+immordeo | 1 | bite into
+immorior | 1 | die
+immorior | 3 | to die upon or in the midst of something, usually with the dative
+immorior | 4 | figurative, to pine away, to waste oneself over a task
+immoror | 1 | linger
+immoror | 3 | to dwell on or linger over a subject in speech or thought
+immortalis | 1 | immortal
+immortalis | 3 | transferred, imperishable, eternal, everlasting
+immortalis | 4 | poetic, blessed, exceedingly happy, like the gods
+immortalitas | 1 | immortality
+immortalitas | 3 | transferred, imperishable fame, undying renown
+immortalitas | 4 | poetic, blessedness, the height of happiness
+immotus | 1 | motionless
+immotus | 2 | steadfast
+immotus | 3 | unmoved, immovable, still
+immotus | 4 | trop., unshaken, undisturbed, steadfast, firm
+immundus | 1 | unclean
+immunis | 1 | exempt
+immunis | 3 | free or exempt from a public duty, burden, or tax
+immunis | 4 | transferred, free from, contributing nothing, inactive
+immunis | 5 | trop., not sharing in, devoid of, free from something, often with the genitive
+immunitas | 1 | immunity
+immunitas | 3 | trop., freedom or exemption from something in general
+immurmuro | 1 | murmur
+immutabilis1 | 1 | immutable
+immutatio | 1 | substitution
+immutatio | 3 | in rhetoric, metonymy, the substitution of one word for another
+immuto | 1 | alter
+immuto | 3 | in rhetoric, to substitute one word for another, metonymy
+immuto | 4 | in rhetoric, immutata oratio, allegory, extended metaphor
+impacatus | 1 | unquiet
+impar | 1 | unequal
+impar | 3 | uneven, dissimilar in number or quality
+impar | 4 | in particular, unequal to, not a match for, inferior, weaker, often with the dative
+impar | 5 | inequitable, unjust
+imparatus | 1 | unprepared
+imparilitas | 1 | inequality
+imparilitas | 3 | in grammar, a solecism, faulty agreement
+impatiens | 1 | impatient
+impatiens | 3 | of persons, unable to endure or bear something, usually with the genitive
+impatiens | 4 | of things, unable to withstand something
+impatiens | 5 | rare, insensible, apathetic, unfeeling
+impatientia | 1 | impatience
+impatientia | 3 | insensibility, impassibility, apathy, a translation of the Greek apatheia
+impavidus | 1 | fearless
+impedimentum | 1 | hindrance
+impedimentum | 2 | baggage
+impedimentum | 3 | that which entangles or hinders, an obstacle, impediment
+impedimentum | 4 | in particular, plural impedimenta, luggage, travelling equipment, especially the baggage train of an army
+impedio | 1 | hinder
+impedio | 2 | entangle
+impedio | 3 | literally, to entangle the feet, to ensnare, shackle
+impedio | 4 | transferred, to clasp, encircle, embrace, poetic
+impedio | 5 | trop., to entangle, confuse, embarrass
+impedio | 6 | most frequently, to hinder, obstruct, prevent, detain someone from doing something
+impello | 1 | push
+impello | 2 | incite
+impello | 3 | to strike or drive against something, literal
+impello | 4 | to set in motion, drive forward, urge on
+impello | 5 | trop., to instigate, persuade, urge someone to do something
+impello | 6 | rare, to overthrow, subdue, destroy
+impendeo | 1 | overhang
+impendeo | 2 | threaten
+impendeo | 3 | literally, to hang over, overhang something
+impendeo | 4 | trop., especially frequent, to impend, threaten, be imminent, hang over someone
+impendium | 1 | expense
+impendium | 3 | in particular, interest paid on a loan
+impendium | 4 | adverbial impendio, at great expense or loss; also, as an intensive, greatly, very much
+impendo | 1 | expend
+impendo | 3 | transferred, to devote, employ, or apply, as time or effort, to a purpose
+impendo | 4 | participial impensus, ample, considerable, great; of price, dear, costly
+impendo | 5 | as a noun, impensa, outlay, cost, expense
+impenetrabilis | 1 | impenetrable
+impenetrabilis | 3 | trop., unconquerable, unyielding, that cannot be overcome
+imperator | 1 | general
+imperator | 2 | emperor
+imperator | 3 | originally, a commander-in-chief, a general
+imperator | 4 | in particular, republican, an honorific title given to a victorious general
+imperator | 5 | transferred, a leader, ruler, or master, generally
+imperator | 6 | in particular, the title of the Roman emperors
+# review: imperatorius "of a general" needs the article to be accurate; no shorter English phrasing fits
+imperatorius | 1 | of a general
+imperatorius | 3 | imperial, of or belonging to the emperor
+imperatrix | 1 | mistress
+imperatrix | 3 | she who commands, a female ruler or leader, very rare
+imperfectus | 1 | unfinished
+imperfectus | 3 | especially, morally imperfect, not yet wise
+imperialis | 1 | imperial
+imperiosus | 1 | powerful
+imperiosus | 2 | domineering
+imperiosus | 3 | possessing far-reaching power, mighty, puissant
+imperiosus | 4 | in a bad sense, imperious, tyrannical, domineering
+imperitia | 1 | inexperience
+imperito | 1 | rule
+imperitus | 1 | unskilled
+imperitus | 3 | inexperienced or unacquainted with something, usually with the genitive
+imperium | 1 | command
+imperium | 2 | empire
+imperium | 3 | an order, a command, a direction
+imperium | 4 | the right or power to command, authority, control
+imperium | 5 | in particular, supreme power, sovereignty, dominion
+imperium | 6 | concretely, a realm, a dominion, an empire
+imperium | 7 | legal, the jurisdiction or discretion of a magistrate
+imperium | 8 | military, the chief command
+impero | 1 | command
+impero | 3 | in particular, to requisition, to order supplies or provisions
+impero | 4 | to govern, rule over, be in command of
+impero | 5 | transferred, to master, control: imperare sibi, to control oneself
+impero | 6 | medical, to prescribe
+impertio | 1 | impart
+impertio | 3 | transferred, to make someone a partaker in something, to present with
+impervius | 1 | impassable
+impes | 1 | force
+impes | 3 | mass, bulk, extent, of size
+impetibilis1 | 1 | intolerable
+impetibilis1 | 3 | active, rare, impassible, incapable of suffering
+impeto | 1 | assail
+impeto | 3 | transferred, to accuse someone of something
+impetrabilis | 1 | attainable
+impetrabilis | 3 | active, that easily gets what it seeks, successful, persuasive
+impetrio | 1 | divine
+impetrio | 3 | religious term, to seek an omen's favour for something, to consult the auspices
+impetro | 1 | obtain
+impetro | 3 | to accomplish, effect, bring to pass, especially through request
+impetro | 4 | especially, like impetrio, to obtain a favourable omen
+impetus | 1 | attack
+impetus | 2 | impulse
+impetus | 3 | an assault, an onset, physical
+impetus | 4 | medical, an attack or fit of a disease
+impetus | 5 | transferred, violent or rapid motion, force, vehemence
+impetus | 6 | mental, an impulse, urge, or passion
+impexus | 1 | uncombed
+impexus | 3 | trop., unpolished, rude, unrefined
+impietas | 1 | impiety
+impiger | 1 | diligent
+impingo | 1 | thrust
+impingo | 3 | to strike or dash something against a surface
+impingo | 4 | in general, to force something upon someone
+impingo | 5 | trop., to drive or force someone into a situation or course of action
+impio | 1 | defile
+impius | 1 | impious
+impius | 3 | disloyal, undutiful, unpatriotic, lacking respect for family or country
+impius | 4 | transferred, of things, unholy, accursed
+impius | 5 | as a noun, impii, wicked or abandoned men
+implacabilis | 1 | implacable
+implecto | 1 | entwine
+implecto | 3 | trop., to entangle, involve, implicate
+impleo | 1 | fill
+impleo | 2 | fulfil
+impleo | 3 | to fill something with something else, literally
+impleo | 4 | to fill with food, to satisfy, satiate
+impleo | 5 | trop., to fill with a feeling or quality: implere aliquem spei, to fill someone with hope
+impleo | 6 | to complete a period of time or a number, to finish, to reach a certain age
+impleo | 7 | to fulfil, discharge, or execute a duty or promise
+implicatio | 1 | entanglement
+impliciscor | 1 | become confused
+implico | 1 | entwine
+implico | 2 | implicate
+implico | 3 | to infold, wind around, envelop, embrace
+implico | 4 | trop., to entangle, involve, engage in something
+implico | 5 | in particular, to attach closely, connect intimately, unite
+imploro | 1 | implore
+implumis | 1 | unfledged
+implumis | 3 | transferred, without hair, bald
+impluo | 1 | rain
+impluo | 3 | active, to rain upon something
+impluvium | 1 | impluvium
+impluvium | 3 | the opening in the roof of a Roman atrium that let in rain and light
+impluvium | 4 | transferred, the basin in the atrium floor that collected the rainwater
+impluvium | 5 | transferred, the open central space of the atrium itself
+impolitia | 1 | carelessness
+impolitus | 1 | unpolished
+impono | 1 | place
+impono | 2 | deceive
+impono | 3 | to put or lay something upon something else
+impono | 4 | nautical, to put on board, to embark
+impono | 5 | trop., to impose, to set over as overseer or commander
+impono | 6 | trop., to lay upon as a burden or tax
+impono | 7 | alicui, to trick or defraud someone, taking advantage of their trust
+importabilis | 1 | unbearable
+importo | 1 | import
+importo | 3 | trop., to introduce, bring about, occasion, cause
+importunitas | 1 | rudeness
+importunitas | 3 | unsuitableness, unfitness, rare
+importunitas | 4 | in particular, of character, incivility, impoliteness, insolence
+importunus | 1 | unsuitable
+importunus | 2 | harsh
+importunus | 3 | unfit, unsuitable, inconvenient, rare
+importunus | 4 | troublesome, grievous, distressing, dangerous
+importunus | 5 | of character, uncivil, rude, morose, harsh, cruel
+impos | 1 | powerless
+impos | 3 | not master of something, especially of one's own mind: animi impos, out of one's senses
+impositicius | 1 | applied
+impositicius | 3 | trop., of names, arbitrarily given or applied, as opposed to natural
+impositicius | 4 | trop., of a cause, ascribed rather than inherent
+impossibilis | 1 | impossible
+impotens | 1 | powerless
+impotens | 2 | unbridled
+impotens | 3 | weak, feeble, lacking strength or power
+impotens | 4 | with the genitive, having no control over something, unable to master it
+impotens | 5 | in particular, not master of oneself, headstrong, violent, insolent, immoderate
+impotentia | 1 | fury
+impotentia | 2 | poverty
+impotentia | 3 | want of moderation or self-restraint, ungovernableness, violent passion
+impotentia | 4 | rare, inability, want of means, poverty
+impraesentiarum | 1 | currently
+imprecatio | 1 | curse
+imprecatio | 3 | late Latin, in a good sense, a prayer
+imprecor | 1 | curse
+imprecor | 3 | rare, of good wishes, to invoke blessings upon someone
+imprecor | 4 | post-classical, to pray to, call upon, invoke a deity
+impressio | 1 | impression
+impressio | 3 | in particular, military, an onset, an attack, an assault
+impressio | 4 | trop., of speech, a rhythmic beat or division
+impressio | 5 | the impression made on the mind by what is perceived
+imprimo | 1 | imprint
+imprimo | 3 | transferred, to engrave, stamp, or mark something
+imprimo | 4 | trop., to impress or engrave something on the mind
+improbabilis | 1 | objectionable
+improbitas | 1 | wickedness
+improbitas | 3 | transferred, of animals, boldness, impudence, audacity
+improbo | 1 | disapprove
+improbus | 1 | wicked
+improbus | 2 | excessive
+improbus | 3 | below standard, of bad or inferior quality, rare
+improbus | 4 | beyond the standard, enormous, monstrous, excessive in size or degree
+improbus | 5 | of character, restless, persistent, indomitable: labor improbus, relentless toil
+improbus | 6 | morally bad, wicked, base, dishonest, shameless, impudent
+impropero2 | 1 | reproach
+improprius | 1 | improper
+improvidus | 1 | improvident
+improvisus | 1 | unexpected
+improvisus | 3 | as a noun, improvisum, an unforeseen event, an emergency
+improvisus | 4 | adverbial de improviso, unexpectedly, suddenly
+imprudens | 1 | unaware
+imprudens | 3 | inconsiderate, inadvertent, acting without due thought
+imprudens | 4 | ignorant of, unacquainted with something, usually with the genitive
+imprudentia | 1 | imprudence
+impubes | 1 | underage
+impubes | 3 | transferred, of things, youthful, not yet mature
+impubes | 4 | in particular, celibate, virgin, chaste
+impudens | 1 | shameless
+impudentia | 1 | impudence
+impudicitia | 1 | lewdness
+impudicitia | 3 | transferred, equal to impudentia, shamelessness
+impudicus | 1 | lewd
+impudicus | 2 | shameless
+impudicus | 3 | unchaste, immodest, lewd, the predominant sense
+impudicus | 4 | rare, shameless, impudent, equal to impudens
+impugno | 1 | attack
+impugno | 3 | transferred, to attack, oppose, or impugn something, such as an argument or policy
+impulsio | 1 | impulse
+impulsio | 3 | external pressure or force
+impulsio | 4 | trop., incitement, instigation
+impulsio | 5 | in rhetoric, a jest or witticism used to provoke laughter
+impulsor | 1 | instigator
+impulsus2 | 1 | impulse
+impulsus2 | 3 | trop., incitement, instigation, influence
+impunis | 1 | unpunished
+impunis | 3 | adverbial impune, without punishment, safely, with impunity
+impunitas | 1 | impunity
+impunitus | 1 | unpunished
+impunitus | 3 | unrestrained, free from danger, safe, secure
+impuratus | 1 | vile
+impurus | 1 | depraved
+impurus | 2 | filthy
+impurus | 3 | unclean, filthy, foul, literal, very rare
+impurus | 4 | trop., morally impure, defiled, infamous, abandoned, vile
+imputo | 1 | impute
+imputo | 3 | literally, to enter into the reckoning, to charge to an account
+imputo | 4 | trop., to attribute something to someone as a merit or a fault, to take credit for
+in1 | 1 | in
+in1 | 3 | with the ablative, indicating place or time: in, within, on, during
+in1 | 4 | with the accusative, indicating motion or direction: into, onto, towards
+in1 | 5 | with the accusative, indicating purpose, result, or hostile or friendly disposition: against, for, toward
+in1 | 6 | in composition, this preposition becomes assimilated before l, m, r, and the labials: illabor, immitto, impello
+in11 | 1 | unsated
+in11 | 3 | trop., of grief, love, or slaughter, insatiable, incessant
+in12 | 1 | inexplicable
+in12 | 2 | inextricable
+in12 | 3 | literally, that cannot be untangled or unfastened, intricate
+in12 | 4 | transferred, of roads, impassable
+in12 | 5 | trop., that cannot be explained or resolved, baffling
+in14 | 1 | unexplored
+in14 | 3 | adverbial inexplorato, without previous examination or reconnaissance
+in2 | 1 | un-
+in2 | 3 | a negative prefix attached to adjectives and adverbs, equivalent to English un- or non-
+in4 | 1 | uneven
+in4 | 3 | of number or measure, disproportionate
+in5 | 1 | uneven
+in5 | 3 | unequal, unlike, differing in size
+ina | 1 | fibre
+inaccessus | 1 | inaccessible
+inaccessus | 3 | trop., unattainable
+inacesco | 1 | sour
+inacesco | 3 | trop., to sour, embitter, cause resentment
+inaedifico | 1 | build
+inaedifico | 3 | transferred, to wall up, to block off with a structure
+inaedifico | 4 | trop., to burden, to load down
+inaequalitas | 1 | inequality
+inaequalitas | 3 | in grammar, irregularity, anomaly
+inaestimabilis | 1 | inestimable
+inaestimabilis | 2 | valueless
+inaestimabilis | 3 | that cannot be estimated or judged, uncertain
+inaestimabilis | 4 | in particular, priceless, invaluable, incalculable
+inaestimabilis | 5 | rare, opposite sense, not worthy of esteem, valueless
+inalbo | 1 | whiten
+inamabilis | 1 | hateful
+inambulatio | 1 | pacing
+inambulatio | 3 | transferred, a place for walking, a promenade
+inambulo | 1 | pace
+inanimus | 1 | inanimate
+inanio | 1 | empty
+inanis | 1 | empty
+inanis | 2 | vain
+inanis | 3 | physically empty, void, hollow
+inanis | 4 | as a noun, inane, an empty space, a void
+inanis | 5 | trop., empty, useless, worthless, unprofitable
+inanis | 6 | of persons, vain, conceited, petty
+inanitas | 1 | emptiness
+inanitas | 3 | trop., uselessness, inanity, vapidity
+inardesco | 1 | kindle
+inardesco | 3 | trop., to be inflamed or kindled with passion, desire, or anger
+inaresco | 1 | dry up
+inaro | 1 | plough in
+inaro | 3 | transferred, to plough, till, or cultivate land generally
+inaro | 4 | transferred, to enter or write in a list, rare
+inaro | 5 | transferred, to mark or brand, rare
+inartificialis | 1 | inartificial
+inaudio | 1 | overhear
+inauditus2 | 1 | unprecedented
+inauditus2 | 2 | unheard
+inauditus2 | 3 | unheard-of, unusual, strange, new, the frequent classical sense
+inauditus2 | 4 | legal, of an accused person, without a hearing, not given a chance to speak
+inauditus2 | 5 | literally, not heard, inaudible
+inauguro | 1 | inaugurate
+inauguro | 3 | literally, to take omens from the flight of birds, to practise augury
+inauguro | 4 | transferred, to consecrate or install a place or official with the sanction of augury
+inauguro | 5 | in general, to install someone in office
+inauro | 1 | gild
+inauro | 3 | trop., to enrich, to make wealthy
+inauspicatus | 1 | inauspicious
+inauspicatus | 3 | literally, at which no auspices were taken, without augury
+inauspicatus | 4 | of bad omen, unlucky, post-Augustan
+inauspicatus | 5 | late Latin, unhoped for, unexpected
+inausus | 1 | unattempted
+incalesco | 1 | warm
+incalesco | 3 | trop., to glow, kindle, or grow ardent with passion, especially love
+incallidus | 1 | unskilful
+incandesco | 1 | glow
+incanesco | 1 | grey
+incanto | 1 | enchant
+incanto | 3 | in particular, to chant or mutter a magic spell against someone
+incanto | 4 | transferred, to consecrate with charms, or to bewitch
+incautus | 1 | incautious
+incautus | 2 | unforeseen
+incautus | 3 | active, careless, heedless, improvident, not on one's guard
+incautus | 4 | passive, not guarded against, unforeseen, unexpected, dangerous
+incedo | 1 | march
+incedo | 2 | befall
+incedo | 3 | to walk or march at a measured, stately pace
+incedo | 4 | military, to advance, move forward
+incedo | 5 | trop., to triumph over, exult over someone, with the dative
+incedo | 6 | of abstract things, to come upon, befall, seize, or attack someone
+incenatus | 1 | fasting
