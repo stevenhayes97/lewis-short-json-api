@@ -1047,4 +1047,31 @@ indiligens | 3 | passive, of a thing, neglected, untended
 indiligentia | 1 | negligence
 indipiscor | 1 | attain
 indipiscor | 3 | transferred, rare, to begin, commence
+indiscretus | 1 | undivided
+indiscretus | 2 | indistinguishable
+indiscretus | 3 | closely connected, unseparated
+indiscretus | 4 | trop., undistinguishable, impossible to tell apart
+indiscretus | 5 | active, rare, not distinguishing, indiscriminate, random
+indissolubilis | 1 | indissoluble
+indissolubilis | 3 | transferred, of persons, indestructible, imperishable
+indistinctus | 1 | indistinct
+indistinctus | 3 | especially, obscure, unclear
+indistinctus | 4 | of style, devoid of ostentation, restrained, unassuming
+individuus | 1 | indivisible
+individuus | 3 | trop., inseparable, undivided, of a shared quality or company
+indivisus | 1 | undivided
+indivisus | 3 | transferred, held in common, jointly, pro indiviso
+indo | 1 | place
+indo | 3 | trop., to introduce, bring in
+indo | 4 | trop., to impart, apply, or impose something on someone
+indo | 5 | especially, to give a name to, to name after: nomen indere, to give a name
+indocilis | 1 | unteachable
+indocilis | 3 | transferred, untaught, unlearned, ignorant, rude
+indoctus | 1 | unlearned
+indoles | 1 | nature
+indoles | 2 | talent
+indoles | 3 | an inborn or natural quality, in general
+indoles | 4 | in particular, natural ability, talent, disposition, character
+indolesco | 1 | ache
+indolesco | 3 | trop., to feel grief or distress at something
 
