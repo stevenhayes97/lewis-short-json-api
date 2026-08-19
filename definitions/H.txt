@@ -1,0 +1,41 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_H.json (Lewis & Short via Perseus), simplified for learners.
+ha! | 1 | ha
+ha! | 3 | an exclamation of relief or joy: thank heavens!
+ha! | 4 | repeated, ha ha, an exclamation of laughter or derision
+habena | 1 | rein
+habena | 3 | a strap or thong, in general
+habena | 4 | transferred, a small strip of flesh cut away in surgery
+habena | 5 | figurative, control, direction, government: habenas imperii tenere, to hold the reins of power
+habeo | 1 | have
+habeo | 2 | consider
+habeo | 3 | to hold, possess, own
+habeo | 4 | with a double object, to consider, regard, treat as: aliquem fidelem habere, to consider someone faithful
+habeo | 5 | to hold, keep someone or something in a state or condition: aliquem in custodia habere, to keep someone under guard
+habeo | 6 | reflexive, se habere, to be in a certain state or condition: bene se habere, to be well
+habeo | 7 | to hold, wield, use, manage
+habeo | 8 | to dwell, live somewhere, ante-classical, later replaced by habito
+habeo | 9 | to spend or pass time: aetatem habere, to spend one's life
+habeo | 10 | gladiatorial, hoc habet or habet, he is hit, he's done for
+habilis | 1 | handy
+habilis | 2 | skilful
+habilis | 3 | easily handled or managed, well-suited, fit, apt
+habilis | 4 | light, nimble, swift, agile
+habilis | 5 | of persons, apt, expert, skilful at something
+habitabilis | 1 | habitable
+habitabilis | 3 | poetic, inhabited
+habitatio | 1 | dwelling
+habitatio | 2 | rent
+habitatio | 3 | the act of dwelling or inhabiting
+habitatio | 4 | a dwelling-place, a habitation, a home
+habitatio | 5 | rent paid for a dwelling, house-rent
+habitator | 1 | tenant
+habitator | 3 | one who dwells in a house, an occupant
+habitator | 4 | transferred, an inhabitant of a country or region
+habito | 1 | dwell
+habito | 3 | to inhabit, to have possession of a place
+habito | 4 | transferred, to dwell on or linger over a subject, a favourite word of Cicero's
+habitudo | 1 | condition
+habitudo | 3 | one's bodily condition, appearance, figure
+habituo | 1 | condition
+habituo | 3 | passive, to be conditioned or constituted in a certain way, of bodily health
