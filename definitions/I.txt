@@ -118,3 +118,25 @@ ille | 6 | adverbial illo, to that place, thither; ex illo, from that time, sinc
 illecebra | 1 | allurement
 illecebra | 3 | an inducement, attraction, or charm, in a good or bad sense
 illecebra | 4 | transferred, concretely, an enticing person, a seducer, a decoy
+illecebrosus | 1 | enticing
+illepidus | 1 | rude
+illex2 | 1 | alluring
+illex2 | 3 | as a noun, a decoy, a lure
+illex2 | 4 | transferred, a seducer or seductress
+illibatus | 1 | unimpaired
+illiberalis | 1 | ungenerous
+illiberalis | 2 | niggardly
+illiberalis | 3 | unworthy of a free person, ignoble, sordid, mean, disobliging
+illiberalis | 4 | niggardly, stingy, grasping, especially with money
+illic1 | 1 | that
+illic1 | 3 | ante-classical pronoun: he, she, or it yonder
+illic1 | 4 | adverbial illac, that way, on that side, there
+illic1 | 5 | adverbial illuc or illoc, to that place, thither
+illic1 | 6 | transferred, illuc, to that point, to such an extent
+illic2 | 1 | there
+illic2 | 3 | transferred, with that person, there, i.e. with him
+illic2 | 4 | in that matter, therein
+illicio | 1 | entice
+illicitator | 1 | shill
+illicitator | 3 | one who bids at an auction only to drive up the price, a mock bidder
+illicitus | 1 | illicit
