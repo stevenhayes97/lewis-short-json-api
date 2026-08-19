@@ -409,3 +409,30 @@ imperiosus | 2 | domineering
 imperiosus | 3 | possessing far-reaching power, mighty, puissant
 imperiosus | 4 | in a bad sense, imperious, tyrannical, domineering
 imperitia | 1 | inexperience
+imperito | 1 | rule
+imperitus | 1 | unskilled
+imperitus | 3 | inexperienced or unacquainted with something, usually with the genitive
+imperium | 1 | command
+imperium | 2 | empire
+imperium | 3 | an order, a command, a direction
+imperium | 4 | the right or power to command, authority, control
+imperium | 5 | in particular, supreme power, sovereignty, dominion
+imperium | 6 | concretely, a realm, a dominion, an empire
+imperium | 7 | legal, the jurisdiction or discretion of a magistrate
+imperium | 8 | military, the chief command
+impero | 1 | command
+impero | 3 | in particular, to requisition, to order supplies or provisions
+impero | 4 | to govern, rule over, be in command of
+impero | 5 | transferred, to master, control: imperare sibi, to control oneself
+impero | 6 | medical, to prescribe
+impertio | 1 | impart
+impertio | 3 | transferred, to make someone a partaker in something, to present with
+impervius | 1 | impassable
+impes | 1 | force
+impes | 3 | mass, bulk, extent, of size
+impetibilis1 | 1 | intolerable
+impetibilis1 | 3 | active, rare, impassible, incapable of suffering
+impeto | 1 | assail
+impeto | 3 | transferred, to accuse someone of something
+impetrabilis | 1 | attainable
+impetrabilis | 3 | active, that easily gets what it seeks, successful, persuasive
