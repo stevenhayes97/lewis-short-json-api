@@ -1,0 +1,29 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_I.json (Lewis & Short via Perseus), simplified for learners.
+ibi | 1 | there
+ibi | 3 | of time, then, thereupon
+ibi | 4 | of other relations, in that matter, on that occasion, in that condition
+ibidem | 1 | right there
+ibidem | 3 | of time, at that very moment
+ibidem | 4 | of other relations, in the same matter
+ictus2 | 1 | blow
+ictus2 | 3 | in particular, a beat, in prosody or music
+ictus2 | 4 | a beat of the pulse
+ictus2 | 5 | figurative, a blow, attack, shock
+idcirco | 1 | therefore
+idem | 1 | same
+idem | 3 | connecting two predicates of the same subject: also, likewise, at the same time
+idem | 4 | connecting contrasting predicates: nevertheless, yet, and still
+idem | 5 | as a term of comparison, with et, ac, quam, or the dative: the same as, identical with
+identidem | 1 | repeatedly
+ideo | 1 | therefore
+idoneus | 1 | suitable
+idoneus | 3 | fit, apt, or capable for a particular task, often with ad or the dative
+idoneus | 4 | of a witness or authority, sufficient, credible, reliable
+igitur | 1 | therefore
+igitur | 3 | in resuming an interrupted thought: so then, as I was saying
+igitur | 4 | pleonastically with tum or deinde: then at last, then indeed
+ignarus | 1 | ignorant
+ignarus | 3 | unacquainted with, inexperienced, or unaware of something, usually with the genitive
+ignarus | 4 | transferred, unmindful, regardless of something
+ignarus | 5 | passive, poetic, unknown, equal to ignotus
