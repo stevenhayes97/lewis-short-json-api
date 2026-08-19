@@ -1186,4 +1186,28 @@ infans | 3 | not capable of speech, not eloquent
 infans | 4 | not yet able to speak, young, little
 infans | 5 | as a noun, a young child, a baby, including the unborn
 infans | 6 | childish, silly
+infantarius | 1 | of infants
+infantarius | 3 | as a noun, infantaria, a woman fond of infants
+infantarius | 4 | as a noun, infantarii, alleged sacrificers of infants, an accusation against early Christians
+infantia | 1 | infancy
+infantia | 2 | inarticulateness
+infantia | 3 | literally, inability to speak
+infantia | 4 | in particular, want of eloquence, in rhetoric
+infantia | 5 | transferred, early childhood, one's earliest years
+infantia | 6 | collectively, the young, children
+infarcio | 1 | stuff
+infarcio | 3 | trop., to pack in words densely, of style
+infatuo | 1 | infatuate
+infatuo | 3 | transferred, to deprive of flavour, make flat or tasteless
+infaustus | 1 | unlucky
+infectus1 | 1 | undone
+infectus1 | 3 | impossible, rare
+infecundus | 1 | unfruitful
+infelicito | 1 | curse
+infelix | 1 | unhappy
+infelix | 2 | unlucky
+infelix | 3 | unfruitful, infertile, of plants
+infelix | 4 | passive, unfortunate, wretched, miserable
+infelix | 5 | active, causing misfortune, unlucky, ill-omened
+infensus | 1 | hostile
 
