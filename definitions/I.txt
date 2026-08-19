@@ -325,3 +325,25 @@ immoror | 3 | to dwell on or linger over a subject in speech or thought
 immortalis | 1 | immortal
 immortalis | 3 | transferred, imperishable, eternal, everlasting
 immortalis | 4 | poetic, blessed, exceedingly happy, like the gods
+immortalitas | 1 | immortality
+immortalitas | 3 | transferred, imperishable fame, undying renown
+immortalitas | 4 | poetic, blessedness, the height of happiness
+immotus | 1 | motionless
+immotus | 2 | steadfast
+immotus | 3 | unmoved, immovable, still
+immotus | 4 | trop., unshaken, undisturbed, steadfast, firm
+immundus | 1 | unclean
+immunis | 1 | exempt
+immunis | 3 | free or exempt from a public duty, burden, or tax
+immunis | 4 | transferred, free from, contributing nothing, inactive
+immunis | 5 | trop., not sharing in, devoid of, free from something, often with the genitive
+immunitas | 1 | immunity
+immunitas | 3 | trop., freedom or exemption from something in general
+immurmuro | 1 | murmur
+immutabilis1 | 1 | immutable
+immutatio | 1 | substitution
+immutatio | 3 | in rhetoric, metonymy, the substitution of one word for another
+immuto | 1 | alter
+immuto | 3 | in rhetoric, to substitute one word for another, metonymy
+immuto | 4 | in rhetoric, immutata oratio, allegory, extended metaphor
+impacatus | 1 | unquiet
