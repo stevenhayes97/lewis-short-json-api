@@ -63,3 +63,29 @@ ignobilitas | 3 | want of fame, obscurity
 ignobilitas | 4 | low birth, mean origin
 ignobilitas | 5 | transferred, of things, inferior quality, badness
 ignominia | 1 | disgrace
+ignominiosus | 1 | shameful
+ignorabilis | 1 | unknown
+ignorantia | 1 | ignorance
+ignoratio | 1 | ignorance
+ignoro | 1 | not know
+ignoro | 2 | ignore
+ignoro | 3 | to have no knowledge of a person or thing, to be unacquainted with, unaware
+ignoro | 4 | to mistake, misunderstand, fail to recognize
+ignoro | 5 | rare, to take no notice of, disregard, pay no attention to
+ignosco | 1 | forgive
+ignosco | 3 | to pardon or excuse a fault, usually with the dative of the person and accusative of the offense
+ignotus2 | 1 | unknown
+ignotus2 | 2 | lowborn
+ignotus2 | 3 | not known, unrecognized
+ignotus2 | 4 | pregnant sense, poetic, of low birth or condition, base, vulgar
+ignotus2 | 5 | active, rare, unacquainted with, ignorant of something
+ile | 1 | flank
+ile | 3 | transferred, the entrails of animals
+ile | 4 | transferred, the belly or body of a vessel
+ile | 5 | singular, the private parts, rare
+ilex | 1 | holm oak
+ilicet | 1 | forthwith
+ilicet | 3 | originally, a formula dismissing an assembly: you may go, it is over
+ilicet | 4 | transferred, let us go, let us be gone
+ilicet | 5 | transferred, all is over, it's all up, of something lost or failed
+ilicet | 6 | through the notion of hastening, straightway, immediately, instantly
