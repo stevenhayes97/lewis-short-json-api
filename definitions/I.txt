@@ -709,4 +709,40 @@ inceptio | 1 | undertaking
 incepto | 1 | attempt
 incepto | 3 | especially, incepto cum aliquo, to pick a quarrel with someone
 incerno | 1 | sift
+incero | 1 | wax
+incero | 3 | poetic, transferred, genua incerare, to cling persistently to someone's knees in supplication
+incerto2 | 1 | unsettle
+incertus | 1 | uncertain
+incertus | 3 | of things, unsettled, doubtful, untrustworthy, not firm
+incertus | 4 | of perceptions or convictions, undetermined, dubious
+incertus | 5 | as a noun, incertum, an uncertainty
+incertus | 6 | of a person, hesitating, doubtful, unsure what to do
+incesso | 1 | assail
+incesso | 3 | trop., to attack with words, to reproach, accuse
+incessus | 1 | gait
+incessus | 3 | in particular, rare, a hostile incursion, an invasion
+incessus | 4 | transferred, concretely, an entrance, an approach
+incesto | 1 | defile
+incesto | 3 | in particular, to dishonour, to defile with lust
+incestus1 | 1 | impure
+incestus1 | 2 | incestuous
+incestus1 | 3 | unclean in a moral or religious sense, sinful, criminal
+incestus1 | 4 | in particular, unchaste, lewd, incestuous
+incestus1 | 5 | as a noun, incestum, unchastity, especially incest as a religious crime
+incido1 | 1 | fall
+incido1 | 2 | happen
+incido1 | 3 | literally, to fall into or onto something
+incido1 | 4 | to meet or come upon someone or something unexpectedly, to fall in with
+incido1 | 5 | trop., to fall into a condition, such as illness or misfortune
+incido1 | 6 | to occur to the mind, to come to mind
+incido1 | 7 | to fall out, to occur, to come to pass
+incido2 | 1 | cut
+incido2 | 2 | engrave
+incido2 | 3 | to cut into, cut open, cut through
+incido2 | 4 | transferred, to carve, engrave, or inscribe on a surface
+incido2 | 5 | trop., to break off, interrupt, put an end to
+incido2 | 6 | trop., to cut off, cut short, remove
+incido2 | 7 | in rhetoric, as a noun, incisum, a short clause or division of a sentence
+incilis | 1 | ditch
+incilis | 3 | as an adjective, cut into, rare
 
