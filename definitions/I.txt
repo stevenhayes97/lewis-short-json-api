@@ -1274,4 +1274,37 @@ infitiae | 1 | denial
 infitiae | 3 | especially, legal, infitias ire, to deny a debt or charge in court
 infitiatio | 1 | denial
 infitiatio | 3 | in particular, a denial or disowning of a debt
+infitior | 1 | deny
+infitior | 3 | in particular, to deny receiving or owing something, such as a debt
+inflammatio | 1 | inflammation
+inflammatio | 3 | literally, a kindling, setting on fire
+inflammatio | 4 | trop., a kindling or inflaming of the passions
+inflammo | 1 | kindle
+inflammo | 3 | transferred, medical, to inflame, of the body
+inflammo | 4 | trop., to inflame, rouse, excite the passions
+inflatio | 1 | swelling
+inflatio | 3 | medical, flatulence, a puffing up from gas
+inflatio | 4 | an inflammation
+inflecto | 1 | bend
+inflecto | 2 | alter
+inflecto | 3 | literally, to bend, bow, curve something
+inflecto | 4 | in particular, to modulate or vary a tone of voice
+inflecto | 5 | trop., to change, affect, pervert: to influence someone's judgment or style
+inflexio | 1 | bending
+inflexio | 3 | transferred, an inflection, a modification
+infligo | 1 | strike
+infligo | 2 | inflict
+infligo | 3 | literally, to strike or dash something against a surface
+infligo | 4 | transferred, to inflict a wound by striking
+infligo | 5 | in general, to inflict or impose something, such as a loss or penalty
+inflo | 1 | inflate
+inflo | 2 | play
+inflo | 3 | literally, to blow into or upon something, to swell with air
+inflo | 4 | in particular, to play a wind instrument
+inflo | 5 | trop., to puff up with pride, hope, or vanity
+inflo | 6 | of style, inflated, turgid, bombastic
+influo | 1 | flow in
+influo | 3 | transferred, of things not fluid, to stream, rush, or press into
+infodio | 1 | bury
+infodio | 3 | to dig up, or to make by digging
 
