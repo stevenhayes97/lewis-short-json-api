@@ -1104,4 +1104,18 @@ induo | 1 | don
 induo | 3 | trop., to put on, assume, take up: to adopt a role or quality
 induresco | 1 | harden
 induresco | 3 | trop., to become firmly set, unyielding, in loyalty or vice
+induro | 1 | harden
+industria1 | 1 | diligence
+industriosus | 1 | industrious
+industrius | 1 | diligent
+indutiae | 1 | truce
+indutiae | 3 | transferred, a pause, a lull, a respite in general
+indutus2 | 1 | donning
+inebrio | 1 | intoxicate
+inebrio | 3 | transferred, of colour, to saturate deeply
+inebrio | 4 | trop., to fill someone's ear with talk
+inedia | 1 | fasting
+inefficax | 1 | ineffective
+inelegans | 1 | inelegant
+inelegans | 3 | transferred, late Latin, unreasonable, inconsistent
 
