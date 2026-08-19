@@ -27,3 +27,39 @@ ignarus | 1 | ignorant
 ignarus | 3 | unacquainted with, inexperienced, or unaware of something, usually with the genitive
 ignarus | 4 | transferred, unmindful, regardless of something
 ignarus | 5 | passive, poetic, unknown, equal to ignotus
+ignavia | 1 | laziness
+ignavia | 2 | cowardice
+ignavia | 3 | inactivity, idleness, sluggishness
+ignavia | 4 | lack of courage, cowardice, faintheartedness
+ignavus | 1 | lazy
+ignavus | 2 | cowardly
+ignavus | 3 | inactive, idle, sluggish, listless
+ignavus | 4 | transferred, of things, unproductive, causing inactivity or sloth
+ignesco | 1 | kindle
+ignesco | 3 | transferred, of colour, to glow, to break into flame
+ignesco | 4 | figurative, to burn with passion, to glow with anger
+igneus | 1 | fiery
+igneus | 3 | of colour, flaming, resplendent, glowing
+igneus | 4 | figurative, ardent, vehement, passionate
+igniculus | 1 | spark
+igniculus | 3 | transferred, of colour, a glittering, sparkling
+igniculus | 4 | figurative, a spark of passion or feeling
+ignio | 1 | ignite
+ignis | 1 | fire
+ignis | 2 | passion
+ignis | 3 | in particular, sacer ignis, St. Anthony's fire, a skin disease
+ignis | 4 | transferred, brightness, splendour, glow
+ignis | 5 | firewood, fuel
+ignis | 6 | figurative, the fire of passion: love, anger, or rage
+ignis | 7 | poetic, a beloved person, a flame, a sweetheart
+ignis | 8 | figurative, that which brings destruction, a conflagration: war as a smouldering fire
+ignobilis | 1 | obscure
+ignobilis | 2 | lowborn
+ignobilis | 3 | unknown to fame, undistinguished
+ignobilis | 4 | of low birth, base-born, ignoble
+ignobilitas | 1 | obscurity
+ignobilitas | 2 | low birth
+ignobilitas | 3 | want of fame, obscurity
+ignobilitas | 4 | low birth, mean origin
+ignobilitas | 5 | transferred, of things, inferior quality, badness
+ignominia | 1 | disgrace
