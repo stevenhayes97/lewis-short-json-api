@@ -487,3 +487,33 @@ impluvium | 3 | the opening in the roof of a Roman atrium that let in rain and l
 impluvium | 4 | transferred, the basin in the atrium floor that collected the rainwater
 impluvium | 5 | transferred, the open central space of the atrium itself
 impolitia | 1 | carelessness
+impolitus | 1 | unpolished
+impono | 1 | place
+impono | 2 | deceive
+impono | 3 | to put or lay something upon something else
+impono | 4 | nautical, to put on board, to embark
+impono | 5 | trop., to impose, to set over as overseer or commander
+impono | 6 | trop., to lay upon as a burden or tax
+impono | 7 | alicui, to trick or defraud someone, taking advantage of their trust
+importabilis | 1 | unbearable
+importo | 1 | import
+importo | 3 | trop., to introduce, bring about, occasion, cause
+importunitas | 1 | rudeness
+importunitas | 3 | unsuitableness, unfitness, rare
+importunitas | 4 | in particular, of character, incivility, impoliteness, insolence
+importunus | 1 | unsuitable
+importunus | 2 | harsh
+importunus | 3 | unfit, unsuitable, inconvenient, rare
+importunus | 4 | troublesome, grievous, distressing, dangerous
+importunus | 5 | of character, uncivil, rude, morose, harsh, cruel
+impos | 1 | powerless
+impos | 3 | not master of something, especially of one's own mind: animi impos, out of one's senses
+impositicius | 1 | applied
+impositicius | 3 | trop., of names, arbitrarily given or applied, as opposed to natural
+impositicius | 4 | trop., of a cause, ascribed rather than inherent
+impossibilis | 1 | impossible
+impotens | 1 | powerless
+impotens | 2 | unbridled
+impotens | 3 | weak, feeble, lacking strength or power
+impotens | 4 | with the genitive, having no control over something, unable to master it
+impotens | 5 | in particular, not master of oneself, headstrong, violent, insolent, immoderate
