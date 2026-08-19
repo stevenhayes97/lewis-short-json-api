@@ -1021,4 +1021,30 @@ indigeo | 5 | as a noun, indigens, a needy or indigent person
 indigestus1 | 1 | disordered
 indigestus1 | 3 | in particular, of food, undigested
 indigestus1 | 4 | suffering from indigestion
+indigeto | 1 | invoke
+indigeto | 3 | transferred, to utter or proclaim, of a prayer
+indigitamenta | 1 | ritual books
+indignatio | 1 | indignation
+indignatio | 3 | in rhetoric, a speech designed to provoke indignation against someone
+indignatio | 4 | transferred, poetic, a provocation, an occasion for outrage
+indignatio | 5 | post-classical, a wound, a sore
+indignitas | 1 | unworthiness
+indignitas | 2 | indignity
+indignitas | 3 | unworthy or degrading treatment, insult, indignity
+indignitas | 4 | indignation felt as a result of unworthy treatment
+indignor | 1 | resent
+indignor | 3 | poetic, of things, to disdain, resist, chafe against
+indignor | 4 | of wounds, to become inflamed or irritated
+indignus | 1 | unworthy
+indignus | 2 | undeserved
+indignus | 3 | of persons, unworthy, undeserving, often with the ablative or genitive
+indignus | 4 | of things, unbecoming, shameful, intolerable, harsh
+indignus | 5 | undeserved, unmerited, of suffering or treatment
+indigus | 1 | needy
+indigus | 3 | in particular, desirous of something, craving
+indiligens | 1 | careless
+indiligens | 3 | passive, of a thing, neglected, untended
+indiligentia | 1 | negligence
+indipiscor | 1 | attain
+indipiscor | 3 | transferred, rare, to begin, commence
 
