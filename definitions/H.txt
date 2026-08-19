@@ -361,3 +361,28 @@ horror | 5 | a shuddering with fear, dread, terror
 horror | 6 | religious awe, veneration
 horror | 7 | concretely, that which causes dread, a terror, poetic
 hortamen | 1 | encouragement
+hortamentum | 1 | encouragement
+hortatio | 1 | exhortation
+hortator1 | 1 | encourager
+hortatus | 1 | encouragement
+hortor | 1 | urge
+hortor | 3 | to incite, instigate, encourage someone to do something
+hortor | 4 | military, to exhort soldiers before battle
+hortulanus | 1 | gardener
+hortulanus | 3 | as an adjective, of or belonging to a garden, post-classical
+hortulus | 1 | little garden
+hortulus | 3 | trop., a school of philosophy or its teachings, referring to Epicurus's Garden
+hortus | 1 | garden
+hortus | 3 | transferred, a country estate, a villa
+hortus | 4 | transferred, garden produce, vegetables, greens
+hospes | 1 | host
+hospes | 2 | guest
+hospes | 3 | one who receives and entertains a stranger, a host
+hospes | 4 | transferred, a visitor, guest, or friend
+hospes | 5 | opposed to a native, a stranger, a foreigner
+hospes | 6 | figurative, a stranger to a subject, unacquainted, inexperienced
+hospes | 7 | as an adjective, hospitable; or strange, foreign
+hospitalis | 1 | hospitable
+hospitalis | 3 | as a noun, a guest
+hospitalis | 4 | as a noun, plural hospitalia, guest-chambers, or, on stage, the side entrances for strangers
+hospitalis | 5 | transferred, of things, receiving, welcoming: hospitable waters
