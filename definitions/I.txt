@@ -1168,4 +1168,22 @@ inexplebilis | 3 | literally, of hunger or thirst, unable to be satisfied
 inexplebilis | 4 | trop., of desire or ambition, insatiable
 inexpugnabilis | 1 | impregnable
 inexpugnabilis | 3 | trop., unconquerable, invincible, safe from attack
+inexspectatus | 1 | unexpected
+inexsuperabilis | 1 | insurmountable
+inexsuperabilis | 3 | trop., unconquerable, invincible, unsurpassable
+inextricabilis | 1 | inextricable
+inextricabilis | 3 | trop., incurable, or inexplicable
+infabre | 1 | unskilfully
+infacetus | 1 | coarse
+infamia | 1 | infamy
+infamis | 1 | infamous
+infamo | 1 | defame
+infamo | 3 | transferred, post-Augustan, to accuse, charge, blame
+infandus | 1 | unspeakable
+infans | 1 | speechless
+infans | 2 | infant
+infans | 3 | not capable of speech, not eloquent
+infans | 4 | not yet able to speak, young, little
+infans | 5 | as a noun, a young child, a baby, including the unborn
+infans | 6 | childish, silly
 
