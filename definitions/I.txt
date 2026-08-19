@@ -805,4 +805,24 @@ incogitabilis | 1 | thoughtless
 incogitabilis | 2 | inconceivable
 incogitabilis | 3 | active, thoughtless, inconsiderate
 incogitabilis | 4 | passive, inconceivable, incomprehensible
+incogitatus | 1 | unconsidered
+incogitatus | 2 | thoughtless
+incogitatus | 3 | passive, unconsidered, unstudied, spontaneous
+incogitatus | 4 | active, thoughtless, inconsiderate
+incognitus | 1 | unknown
+incognitus | 3 | not examined, not investigated, untried
+incoho | 1 | begin
+incoho | 3 | participial incohatus, only begun, unfinished, incomplete
+incoho | 4 | neuter, to begin to speak
+incola | 1 | inhabitant
+incola | 3 | transferred, of animals or things, a native, a dweller
+incolo1 | 1 | inhabit
+incolo1 | 3 | rare, late Latin, to cultivate land
+incolumis | 1 | unharmed
+incolumitas | 1 | safety
+incomitatus | 1 | unaccompanied
+incomitio | 1 | berate
+incomitio | 3 | to insult or reproach someone publicly, in the assembly
+incommoditas | 1 | inconvenience
+incommoditas | 3 | disadvantage, damage, loss, injury
 
