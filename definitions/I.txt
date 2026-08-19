@@ -461,3 +461,29 @@ impius | 3 | disloyal, undutiful, unpatriotic, lacking respect for family or cou
 impius | 4 | transferred, of things, unholy, accursed
 impius | 5 | as a noun, impii, wicked or abandoned men
 implacabilis | 1 | implacable
+implecto | 1 | entwine
+implecto | 3 | trop., to entangle, involve, implicate
+impleo | 1 | fill
+impleo | 2 | fulfil
+impleo | 3 | to fill something with something else, literally
+impleo | 4 | to fill with food, to satisfy, satiate
+impleo | 5 | trop., to fill with a feeling or quality: implere aliquem spei, to fill someone with hope
+impleo | 6 | to complete a period of time or a number, to finish, to reach a certain age
+impleo | 7 | to fulfil, discharge, or execute a duty or promise
+implicatio | 1 | entanglement
+impliciscor | 1 | become confused
+implico | 1 | entwine
+implico | 2 | implicate
+implico | 3 | to infold, wind around, envelop, embrace
+implico | 4 | trop., to entangle, involve, engage in something
+implico | 5 | in particular, to attach closely, connect intimately, unite
+imploro | 1 | implore
+implumis | 1 | unfledged
+implumis | 3 | transferred, without hair, bald
+impluo | 1 | rain
+impluo | 3 | active, to rain upon something
+impluvium | 1 | impluvium
+impluvium | 3 | the opening in the roof of a Roman atrium that let in rain and light
+impluvium | 4 | transferred, the basin in the atrium floor that collected the rainwater
+impluvium | 5 | transferred, the open central space of the atrium itself
+impolitia | 1 | carelessness
