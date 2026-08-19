@@ -825,4 +825,22 @@ incomitio | 1 | berate
 incomitio | 3 | to insult or reproach someone publicly, in the assembly
 incommoditas | 1 | inconvenience
 incommoditas | 3 | disadvantage, damage, loss, injury
+incommodo | 1 | inconvenience
+incommodus | 1 | inconvenient
+incommodus | 3 | of persons, troublesome, annoying
+incommodus | 4 | as a noun, incommodum, a disadvantage, injury, misfortune
+incommutabilis | 1 | unchangeable
+incomparabilis | 1 | incomparable
+incompertus | 1 | unknown
+incompositus | 1 | disordered
+incompositus | 3 | rare, not compounded, simple
+incompositus | 4 | transferred, of style, irregular, unpolished
+incomprehensibilis | 1 | incomprehensible
+incomprehensibilis | 3 | literally, that cannot be seized or caught
+incomprehensibilis | 4 | trop., of a debater, elusive, hard to pin down
+incomptus | 1 | unkempt
+incomptus | 3 | trop., of speech, artless, unpolished, yet pleasing in its simplicity
+inconcilio | 1 | dupe
+inconcilio | 3 | in particular, to embarrass, entangle in difficulties, make trouble for someone
+inconcinnus | 1 | awkward
 
