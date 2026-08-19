@@ -1,0 +1,444 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_H.json (Lewis & Short via Perseus), simplified for learners.
+ha! | 1 | ha
+ha! | 3 | an exclamation of relief or joy: thank heavens!
+ha! | 4 | repeated, ha ha, an exclamation of laughter or derision
+habena | 1 | rein
+habena | 3 | a strap or thong, in general
+habena | 4 | transferred, a small strip of flesh cut away in surgery
+habena | 5 | figurative, control, direction, government: habenas imperii tenere, to hold the reins of power
+habeo | 1 | have
+habeo | 2 | consider
+habeo | 3 | to hold, possess, own
+habeo | 4 | with a double object, to consider, regard, treat as: aliquem fidelem habere, to consider someone faithful
+habeo | 5 | to hold, keep someone or something in a state or condition: aliquem in custodia habere, to keep someone under guard
+habeo | 6 | reflexive, se habere, to be in a certain state or condition: bene se habere, to be well
+habeo | 7 | to hold, wield, use, manage
+habeo | 8 | to dwell, live somewhere, ante-classical, later replaced by habito
+habeo | 9 | to spend or pass time: aetatem habere, to spend one's life
+habeo | 10 | gladiatorial, hoc habet or habet, he is hit, he's done for
+habilis | 1 | handy
+habilis | 2 | skilful
+habilis | 3 | easily handled or managed, well-suited, fit, apt
+habilis | 4 | light, nimble, swift, agile
+habilis | 5 | of persons, apt, expert, skilful at something
+habitabilis | 1 | habitable
+habitabilis | 3 | poetic, inhabited
+habitatio | 1 | dwelling
+habitatio | 2 | rent
+habitatio | 3 | the act of dwelling or inhabiting
+habitatio | 4 | a dwelling-place, a habitation, a home
+habitatio | 5 | rent paid for a dwelling, house-rent
+habitator | 1 | tenant
+habitator | 3 | one who dwells in a house, an occupant
+habitator | 4 | transferred, an inhabitant of a country or region
+habito | 1 | dwell
+habito | 3 | to inhabit, to have possession of a place
+habito | 4 | transferred, to dwell on or linger over a subject, a favourite word of Cicero's
+habitudo | 1 | condition
+habitudo | 3 | one's bodily condition, appearance, figure
+habituo | 1 | condition
+habituo | 3 | passive, to be conditioned or constituted in a certain way, of bodily health
+habitus2 | 1 | condition
+habitus2 | 2 | attire
+habitus2 | 3 | the state, plight, or appearance of the body
+habitus2 | 4 | dress, attire, costume, Augustan and later
+habitus2 | 5 | trop., quality, nature, character
+habitus2 | 6 | a disposition of feeling, friendly or hostile, toward someone
+habitus2 | 7 | in philosophy, an acquired settled condition or trait
+hactenus | 1 | hitherto
+hactenus | 3 | of space, to this point, thus far
+hactenus | 4 | of a discourse, thus far, no further than this, a formula of transition
+hactenus | 5 | of time, up to now, until now
+hactenus | 6 | of extent, to this degree only, so far as: hactenus...quatenus, to this extent...as far as
+haedus | 1 | kid
+haedus | 3 | transferred, plural Haedi, a small constellation in the hand of the Wagoner, Auriga
+haereo | 1 | stick
+haereo | 2 | hesitate
+haereo | 3 | to hang or cling to something, to be fixed in place
+haereo | 4 | to remain attached, to adhere closely, to persist
+haereo | 5 | to keep close to or follow someone
+haereo | 6 | to remain or abide in a place, to stay fixed there
+haereo | 7 | to be brought to a standstill, to be perplexed, at a loss, embarrassed
+haesitatio | 1 | hesitation
+haesitatio | 3 | a stammering, hesitation in speech
+haesitatio | 4 | mental uncertainty, irresolution, perplexity
+haesito | 1 | hesitate
+haesito | 3 | to stick fast, remain fixed in a place, literally
+haesito | 4 | of speech, to stammer, falter
+haesito | 5 | of the mind, to be uncertain, undecided, at a loss
+halitus | 1 | breath
+halitus | 3 | exhalation, steam, vapour
+halitus | 4 | transferred, the spirit, the soul, poetic
+hallelujah | 1 | hallelujah
+halo | 1 | exhale
+halo | 3 | to give off fragrance, to be fragrant
+halo | 4 | to breathe out, emit, as a scent
+hamatus | 1 | hooked
+hamatus | 3 | shaped like a hook, crooked
+hamatus | 4 | figurative, alluring, baited, catching, like a hook
+hamus | 1 | hook
+hamus | 2 | allurement
+hamus | 3 | especially, a fish-hook, an angle
+hamus | 4 | figurative, an enticement, a lure, a bait
+hamus | 5 | a hook used as a surgical instrument
+hamus | 6 | transferred, anything hooked or curved: a hawk's talon, a thorn
+hara | 1 | pen
+hara | 3 | especially, a hog-sty
+harena | 1 | sand
+harena | 2 | arena
+harena | 3 | a sandy place, a sandy desert or waste
+harena | 4 | the seashore, the beach
+harena | 5 | the sanded floor of the amphitheatre, where gladiators fought
+harena | 6 | transferred, a combat in the amphitheatre, or the gladiators themselves
+harena | 7 | figurative, the scene or theatre of any contest, such as a war or dispute
+harenarius | 1 | sandy
+harenarius | 3 | transferred, pertaining to the amphitheatre: fera harenaria, a beast destined for the arena
+harenarius | 4 | as a noun, a gladiator
+harenarius | 5 | as a noun, harenaria, a sand-pit
+harenosus | 1 | sandy
+hariolor | 1 | prophesy
+hariolor | 3 | transferred, bad sense, to talk nonsense, babble foolishly, early Latin
+hariolus | 1 | soothsayer
+harundo | 1 | reed
+harundo | 3 | a cane or reed plant
+harundo | 4 | meton., a fishing rod
+harundo | 5 | meton., an arrow, or the shaft of an arrow
+harundo | 6 | meton., a reed pen, for writing
+harundo | 7 | meton., a shepherd's pipe, a set of pan-pipes
+harundo | 8 | meton., other things made of reed: a bird-lime twig, a measuring-rod, a rod for beating, a child's hobbyhorse
+haruspex | 1 | haruspex
+haruspex | 3 | poetic, a prophet or seer in general
+haruspicinus | 1 | of divination
+haruspicinus | 3 | as a noun, haruspicina, the art of divining by entrails
+hasta | 1 | spear
+hasta | 3 | especially, a lance, pike, javelin, a military weapon
+hasta | 4 | a spear planted at public auctions, symbolizing sale by the state: sub hasta vendere, to sell at auction
+hasta | 5 | transferred, of a comet, its tail shaped like a spear
+hastatus | 1 | spear-armed
+hastatus | 3 | military, hastati, the front line of a Roman legion, made up of young soldiers
+hastatus | 4 | military, a company of hastati, or, elliptically, their captain
+hastile | 1 | shaft
+hastile | 3 | a spear or javelin, by extension, poetic
+hastile | 4 | any rod or pole of wood: a branch, a prop, a standard-pole
+haud | 1 | not
+haud | 3 | not at all, by no means
+haud | 4 | haud dum, not yet at all; haud quaquam, by no means whatever
+haurio | 1 | draw
+haurio | 2 | drain
+haurio | 3 | to draw water or liquid, to scoop up
+haurio | 4 | to drain, drink up, or spill, shed, of blood
+haurio | 5 | in general, to tear out, pluck out, draw out; to swallow, consume, exhaust
+haurio | 6 | figurative, to draw, derive, or borrow, as from a source: e fontibus haurire, to draw from the source
+haustus2 | 1 | draught
+haustus2 | 3 | the act of drawing water
+haustus2 | 4 | a drink, a draught
+haustus2 | 5 | figurative, drawing inspiration or knowledge from a source
+hebdomas | 1 | week
+hebeo | 1 | be dull
+hebeo | 3 | literally, of a blade, to be blunt
+hebeo | 4 | figurative, to be sluggish, inactive, not lively
+hebes | 1 | blunt
+hebes | 2 | stupid
+hebes | 3 | not sharp or pointed, blunt
+hebes | 4 | of the senses, dull, dim, faint
+hebes | 5 | trop., dull-witted, obtuse, sluggish, stupid
+hebesco | 1 | dull
+hebesco | 3 | to become blunt, dim, or faint, of the senses or edges
+hebesco | 4 | figurative, of the mind, to grow dull or feeble
+hebeto | 1 | blunt
+hebeto | 3 | to dull, dim, or weaken something physically, such as a blade or the eyes
+hebeto | 4 | figurative, to dull the mind, to make dull or stupid
+hedera | 1 | ivy
+hei | 1 | alas
+helluor | 1 | gorge
+helluor | 3 | to gormandize, to eat and drink to excess
+helluor | 4 | figurative, to devour eagerly, to squander: helluari libris, to devour books voraciously
+hem | 1 | well
+hem | 3 | an exclamation of surprise: oho! indeed!
+hem | 4 | an exclamation of pain or grief: alas!
+herba | 1 | grass
+herba | 2 | herb
+herba | 3 | growing greenery, grass, or herbage in general
+herba | 4 | transferred, a weed, a useless plant
+herbidus | 1 | grassy
+herbidus | 3 | grass-coloured, green like grass
+herbosus | 1 | grassy
+herbosus | 3 | grass-coloured, grass-green, post-classical
+hercisco | 1 | partition
+hercisco | 3 | to divide an inheritance among heirs
+hercisco | 4 | transferred, to dispute about a course or way to take
+herctum | 1 | inheritance
+herctum | 3 | only in the phrase herctum ciere, to divide an inheritance
+hereditarius | 1 | hereditary
+hereditas | 1 | inheritance
+hereditas | 3 | the legal right of succession to an estate
+hereditas | 4 | concretely, the property or estate inherited
+hereditas | 5 | figurative, a legacy, something handed down: hereditas gloriae, a legacy of glory
+heredium | 1 | homestead
+heredium | 3 | a small hereditary landholding, originally a fixed allotment of two iugera
+heres | 1 | heir
+heres | 3 | transferred, ante-classical, an owner, possessor, master
+heres | 4 | poetic, a successor, a new growth replacing what was cut away
+heres | 5 | figurative, a successor or inheritor of something abstract: heres laudis, an heir to someone's glory
+heri | 1 | yesterday
+heri | 3 | transferred, a short time ago, lately, rare
+heroicus | 1 | heroic
+hesternus | 1 | yesterday's
+heu! | 1 | alas
+heu! | 3 | rarely, an exclamation of surprise or admiration: oh!
+heus! | 1 | hey
+hiatus | 1 | opening
+hiatus | 2 | hiatus
+hiatus | 3 | an opening, aperture, gap, or cleft
+hiatus | 4 | figurative, an eager desire, a craving
+hiatus | 5 | in grammar and prosody, a hiatus: the collision of vowel sounds between words
+hibernaculum | 1 | winter home
+hibernaculum | 3 | military, winter tents, an encampment for the winter
+hiberno | 1 | winter
+hiberno | 3 | military, to be stationed in winter quarters
+hiberno | 4 | poetic, transferred, to rest, repose
+hibernus | 1 | wintry
+hibernus | 3 | as a noun, hibernum, the winter
+hibernus | 4 | as a noun, plural hiberna, winter-quarters, a military camp for winter
+hibrida | 1 | hybrid
+hibrida | 3 | transferred, of persons, one of mixed parentage: a Roman father and foreign mother, or a freeman and a slave
+hic | 1 | this
+hic | 3 | this, as opposed to iste, near the hearer, or ille, remote, the nearer object
+hic | 4 | hoc est, that is to say, namely, introducing an explanation
+hic | 5 | of time, now, at this point, hereupon
+hic | 6 | adverbial hic, locative, in this place, here; hac, this way, on this side
+hiemalis | 1 | wintry
+hiemalis | 3 | as a noun, hiemalia, winter-quarters, rare, post-classical
+hiemo | 1 | winter
+hiemo | 3 | military, to be in winter quarters
+hiemo | 4 | of weather, to be stormy, wintry, cold
+hiemo | 5 | impersonal, hiemat, it is wintry, cold weather
+hiemo | 6 | active, to freeze, turn to ice, post-Augustan
+hiems | 1 | winter
+hiems | 2 | storm
+hiems | 3 | the winter season, wintertime
+hiems | 4 | transferred, poetic, stormy or rainy weather, a tempest
+hiems | 5 | figurative, cold, distress, or turmoil: hiems rerum, the storm of war
+hieto | 1 | yawn
+hilaritas | 1 | cheerfulness
+hilaro | 1 | cheer
+hillae | 1 | entrails
+hillae | 3 | specifically, the smaller intestines of animals
+hillae | 4 | a kind of smoked sausage
+hilum | 1 | trifle
+hilum | 3 | usually with a negative: nihil...hilum, not the least bit, nothing at all
+hinc | 1 | hence
+hinc | 3 | of space, from this place, from here
+hinc | 4 | of cause, from this source, on this account, hence
+hinc | 5 | of time, from this time on, hereafter, post-Augustan
+hinc | 6 | for abhinc, ago, since: hinc ducentos annos, two hundred years ago
+hinnio | 1 | neigh
+hinnulus | 1 | young mule
+hio | 1 | gape
+hio | 3 | to open wide, to stand open, of the earth or a chasm
+hio | 4 | to open the mouth, to yawn
+hio | 5 | of speech, to leave an awkward gap between vowels, a hiatus
+hio | 6 | figurative, to gape with longing or desire, to be eager for something
+hio | 7 | active, poetic, to spew out, emit; also to sing or utter loudly
+hircinus | 1 | goat's
+hircosus | 1 | goatish
+hircus | 1 | he-goat
+hircus | 3 | transferred, a goatish smell, the rank odour of armpits
+hircus | 4 | as an insult, a filthy or lecherous person
+hirrio | 1 | snarl
+hirsutus | 1 | shaggy
+hirsutus | 3 | rough, bristly, hairy, of animals or plants
+hirsutus | 4 | figurative, rude, unpolished, crude, of style
+hirtus | 1 | shaggy
+hirtus | 3 | rough, hairy, bristly
+hirtus | 4 | figurative, of character, rough, rude, unpolished
+hirudo | 1 | leech
+hirudo | 3 | figurative, anything that drains or exhausts, such as the treasury
+hirundo | 1 | swallow
+hirundo | 3 | transferred, a flying fish, the sea-swallow
+hisco | 1 | gape
+hisco | 3 | to open the mouth, to mutter, to speak up
+hisco | 4 | active, poetic, to say, utter, relate
+hispidus | 1 | bristly
+hispidus | 3 | figurative, rude, coarse, insensible
+histrio | 1 | actor
+histrio | 3 | transferred, a boaster, one who exaggerates
+hiulcus | 1 | gaping
+hiulcus | 3 | split, cleft, cracked open, poetic
+hiulcus | 4 | of speech, badly joined, forming a hiatus
+hiulcus | 5 | eager, longing for something, rare
+hodie | 1 | today
+hodie | 3 | transferred, at the present time, nowadays
+hodie | 4 | emphatic, at once, immediately, right now
+hodiernus | 1 | today's
+hodiernus | 3 | transferred, of the present time, current
+holus | 1 | vegetables
+homicida | 1 | murderer
+homicida | 3 | in a good sense, as an epithet of a warrior: a slayer of men in battle
+homo | 1 | person
+homo | 2 | man
+homo | 3 | a human being in general, as opposed to animals
+homo | 4 | pregnant sense, good, a man of good character, a true human being
+homo | 5 | pregnant sense, bad, a mere mortal, a man subject to weakness and error
+homo | 6 | military, homines, foot-soldiers, infantry, as opposed to cavalry
+homo | 7 | familiar, the fellow, the man, used colloquially in place of he, him
+homuncio | 1 | manikin
+homunculus | 1 | manikin
+honestas | 1 | honour
+honestas | 2 | integrity
+honestas | 3 | the honour, reputation, or respectability one enjoys in the eyes of others
+honestas | 4 | honourable character, integrity, virtue, moral probity
+honestas | 5 | transferred, of things, beauty, grace, rare
+honesto | 1 | honour
+honesto | 3 | to adorn, embellish, grace, of things as well as persons
+honestus | 1 | honourable
+honestus | 2 | handsome
+honestus | 3 | enjoying honour or respect, distinguished, respectable, noble
+honestus | 4 | as a noun, honestum, honourable conduct, virtue, morality
+honestus | 5 | deserving of honour, creditable, worthy, decent, proper
+honestus | 6 | of personal appearance, noble, fine, handsome, poetic
+honor | 1 | honour
+honor | 2 | office
+honor | 3 | esteem, respect, or distinction shown to someone
+honor | 4 | a public office, magistracy, or post of honour: cursus honorum, the sequence of public offices
+honor | 5 | honoris causa, out of respect, or for the sake of
+honor | 6 | concretely, an honorary gift, reward, or fee; a sacrifice; funeral rites
+honor | 7 | poetic, a quality that brings honour: an ornament, grace, beauty
+honorabilis | 1 | honourable
+honorarius | 1 | honorary
+honorarius | 3 | as a noun, honorarium, a fee or gift given on appointment to an office
+honorarius | 4 | legal, jus honorarium, praetorian law, as opposed to statute law
+honorificus | 1 | honorific
+honoro | 1 | honour
+honoro | 3 | to adorn, embellish, decorate
+honoro | 4 | passive honoratus, distinguished by holding public office, respectable
+honorus | 1 | honourable
+hora1 | 1 | hour
+hora1 | 3 | transferred, plural horae, a sundial, a clock
+hora1 | 4 | poetic, in general, time, a season: quamcumque horam fortuna dederit, whatever season fortune gives
+hora1 | 5 | personified, Horae, the goddesses of the seasons
+hordearius | 1 | of barley
+hordearius | 3 | figurative, inflated, puffed-up, like barley grain
+hordeum | 1 | barley
+hornus | 1 | this year's
+horreo | 1 | dread
+horreo | 2 | bristle
+horreo | 3 | to stand on end, to bristle, of hair or spikes, literal
+horreo | 4 | to shiver, shake, or tremble, from cold
+horreo | 5 | to shudder or tremble with fear, to dread, to be afraid of something
+horreo | 6 | to shudder with amazement, to be astonished
+horreo | 7 | to look rough, wild, or frightful in appearance; to be terrible, dreadful
+horresco | 1 | bristle
+horresco | 2 | shudder
+horresco | 3 | to rise on end, to bristle up, poetic
+horresco | 4 | to begin to shake or tremble
+horresco | 5 | to begin to shudder or tremble with fear, to become frightened
+horresco | 6 | to grow fearful or terrible, rare
+horreum1 | 1 | granary
+horribilis | 1 | terrible
+horribilis | 2 | amazing
+horribilis | 3 | causing fear or dread, horrible, dreadful
+horribilis | 4 | colloquial, in a good sense, astonishing, tremendous
+horridulus | 1 | rough
+horridulus | 3 | standing up, projecting, protuberant
+horridulus | 4 | trop., of style, rude, unpolished, simple, unadorned
+horridus | 1 | bristling
+horridus | 2 | uncouth
+horridus | 3 | standing on end, rough, shaggy, prickly, literal
+horridus | 4 | transferred, rough, rude, wild, savage; with dishevelled hair
+horridus | 5 | trop., of character or manners, blunt, stern, unpolished
+horridus | 6 | rare, poetic, terrible, frightful, horrid, equal to horribilis
+horrifer | 1 | terrifying
+horrifico | 1 | terrify
+horrifico | 3 | to ruffle or roughen, as wind on the sea's surface
+horrificus | 1 | terrifying
+horror | 1 | horror
+horror | 2 | shiver
+horror | 3 | a standing on end, bristling, poetic
+horror | 4 | a shaking, shivering, a chill or ague-fit
+horror | 5 | a shuddering with fear, dread, terror
+horror | 6 | religious awe, veneration
+horror | 7 | concretely, that which causes dread, a terror, poetic
+hortamen | 1 | encouragement
+hortamentum | 1 | encouragement
+hortatio | 1 | exhortation
+hortator1 | 1 | encourager
+hortatus | 1 | encouragement
+hortor | 1 | urge
+hortor | 3 | to incite, instigate, encourage someone to do something
+hortor | 4 | military, to exhort soldiers before battle
+hortulanus | 1 | gardener
+hortulanus | 3 | as an adjective, of or belonging to a garden, post-classical
+hortulus | 1 | little garden
+hortulus | 3 | trop., a school of philosophy or its teachings, referring to Epicurus's Garden
+hortus | 1 | garden
+hortus | 3 | transferred, a country estate, a villa
+hortus | 4 | transferred, garden produce, vegetables, greens
+hospes | 1 | host
+hospes | 2 | guest
+hospes | 3 | one who receives and entertains a stranger, a host
+hospes | 4 | transferred, a visitor, guest, or friend
+hospes | 5 | opposed to a native, a stranger, a foreigner
+hospes | 6 | figurative, a stranger to a subject, unacquainted, inexperienced
+hospes | 7 | as an adjective, hospitable; or strange, foreign
+hospitalis | 1 | hospitable
+hospitalis | 3 | as a noun, a guest
+hospitalis | 4 | as a noun, plural hospitalia, guest-chambers, or, on stage, the side entrances for strangers
+hospitalis | 5 | transferred, of things, receiving, welcoming: hospitable waters
+hospitium | 1 | hospitality
+hospitium | 2 | inn
+hospitium | 3 | a hospitable reception or entertainment
+hospitium | 4 | concretely, a lodging, an inn, a guest-chamber
+hospitor | 1 | lodge
+hospitor | 3 | transferred, of a river, to flow through or rest in a place
+hospitor | 4 | figurative, to dwell within: the soul lodging in the body
+hostia | 1 | victim
+hosticus | 1 | hostile
+hosticus | 3 | of a stranger, foreign
+hostilis | 1 | hostile
+hostilis | 3 | in divination, hostilis pars, the part of the entrails relating to the enemy
+hostilis | 4 | characteristic of an enemy, hostile in manner: hostili odio, with an enemy's hatred
+hostimentum | 1 | requital
+hostio1 | 1 | requite
+hostis | 1 | enemy
+hostis | 3 | originally, a stranger, a foreigner
+hostis | 4 | a public enemy, an enemy of the state, as opposed to inimicus, a personal enemy
+hostis | 5 | transferred, poetic, of an animal or thing, a foe, a destroyer
+huc | 1 | hither
+huc | 3 | transferred, to this point, so far, to such an extent
+huc | 4 | huc illuc, hither and thither, this way and that
+huc | 5 | huc usque, hucusque, hitherto, thus far
+hui | 1 | wow
+humanitas | 1 | humanity
+humanitas | 2 | kindness
+humanitas | 3 | human nature, the qualities and feelings of mankind
+humanitas | 4 | transferred, concretely, mankind, the human race, rare
+humanitas | 5 | humane conduct, kindness, gentleness, courtesy toward others
+humanitas | 6 | a liberal education, refinement, good breeding, culture
+humanitus | 1 | humanly
+humanitus | 3 | in particular, humanely, kindly, tenderly
+humanus | 1 | human
+humanus | 2 | kind
+humanus | 3 | of or belonging to mankind, human
+humanus | 4 | as a noun, humana, human affairs, the concerns of life
+humanus | 5 | humane, kind, gentle, obliging, polite
+humanus | 6 | well-educated, refined, cultured, polite in manners
+humilio | 1 | humble
+humilis | 1 | low
+humilis | 2 | abject
+humilis | 3 | of height, low, not tall, physically small
+humilis | 4 | of rank, birth, or fortune, low, humble, insignificant, poor
+humilis | 5 | of language or style, plain, unadorned, low
+humilis | 6 | of mind or character, base, mean, servile
+humilitas | 1 | lowness
+humilitas | 2 | humility
+humilitas | 3 | physical lowness, shortness, low height
+humilitas | 4 | of rank or birth, lowness, meanness, insignificance
+humilitas | 5 | littleness of mind, meanness, baseness
+humilitas | 6 | ecclesiastical, in a good sense, humility, opposed to pride
+humo | 1 | bury
+humo | 3 | transferred, to perform funeral rites for someone
+humus | 1 | ground
+humus | 3 | transferred, land, a country, a region
+humus | 4 | adverbial form humi, on the ground, to the ground
