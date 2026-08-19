@@ -517,3 +517,30 @@ impotens | 2 | unbridled
 impotens | 3 | weak, feeble, lacking strength or power
 impotens | 4 | with the genitive, having no control over something, unable to master it
 impotens | 5 | in particular, not master of oneself, headstrong, violent, insolent, immoderate
+impotentia | 1 | fury
+impotentia | 2 | poverty
+impotentia | 3 | want of moderation or self-restraint, ungovernableness, violent passion
+impotentia | 4 | rare, inability, want of means, poverty
+impraesentiarum | 1 | currently
+imprecatio | 1 | curse
+imprecatio | 3 | late Latin, in a good sense, a prayer
+imprecor | 1 | curse
+imprecor | 3 | rare, of good wishes, to invoke blessings upon someone
+imprecor | 4 | post-classical, to pray to, call upon, invoke a deity
+impressio | 1 | impression
+impressio | 3 | in particular, military, an onset, an attack, an assault
+impressio | 4 | trop., of speech, a rhythmic beat or division
+impressio | 5 | the impression made on the mind by what is perceived
+imprimo | 1 | imprint
+imprimo | 3 | transferred, to engrave, stamp, or mark something
+imprimo | 4 | trop., to impress or engrave something on the mind
+improbabilis | 1 | objectionable
+improbitas | 1 | wickedness
+improbitas | 3 | transferred, of animals, boldness, impudence, audacity
+improbo | 1 | disapprove
+improbus | 1 | wicked
+improbus | 2 | excessive
+improbus | 3 | below standard, of bad or inferior quality, rare
+improbus | 4 | beyond the standard, enormous, monstrous, excessive in size or degree
+improbus | 5 | of character, restless, persistent, indomitable: labor improbus, relentless toil
+improbus | 6 | morally bad, wicked, base, dishonest, shameless, impudent
