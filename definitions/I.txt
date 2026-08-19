@@ -236,3 +236,29 @@ imitatio | 1 | imitation
 imitatio | 3 | the faculty or capacity for imitation
 imitatio | 4 | in rhetoric, the imitation of a model orator's style
 imitatio | 5 | in rhetoric, imitation of a natural sound, onomatopoeia
+imitator | 1 | imitator
+imitor | 1 | imitate
+imitor | 3 | to represent, portray, or copy in art
+imitor | 4 | to act like, resemble, or counterfeit someone or something
+immanis | 1 | huge
+immanis | 2 | savage
+immanis | 3 | monstrous in size, enormous, vast
+immanis | 4 | trop., monstrous in character, fierce, savage, inhuman
+immanitas | 1 | hugeness
+immanitas | 2 | savagery
+immanitas | 3 | monstrous size, vastness, excess, rare
+immanitas | 4 | monstrousness, cruelty, barbarism, savage character
+immansuetus | 1 | untamed
+immaturus | 1 | unripe
+immaturus | 3 | transferred, of persons or events, premature, untimely, not yet ready
+immemor | 1 | forgetful
+immemor | 3 | unmindful of, forgetful of, usually with the genitive
+immemor | 4 | transferred, poetic, that causes forgetfulness: an epithet of the river Lethe
+immensus | 1 | immense
+immensus | 3 | trop., vast, measureless, boundless
+immensus | 4 | as a noun, immensum, a boundless extent, immensity
+immensus | 5 | adverbial immensum, without end, exceedingly, immensely
+immerens | 1 | undeserving
+immergo | 1 | immerse
+immergo | 3 | transferred, se immergere, to plunge or throw oneself into a place
+immergo | 4 | figurative, se immergere, to immerse oneself in an activity or pursuit
