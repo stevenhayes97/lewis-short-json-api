@@ -1074,4 +1074,34 @@ indoles | 3 | an inborn or natural quality, in general
 indoles | 4 | in particular, natural ability, talent, disposition, character
 indolesco | 1 | ache
 indolesco | 3 | trop., to feel grief or distress at something
+indomitus | 1 | untamed
+indormio | 1 | doze
+indormio | 3 | transferred, of a limb, to be numb, asleep
+indormio | 4 | trop., to be negligent or careless about a matter
+indotatus | 1 | portionless
+indotatus | 3 | transferred, poetic, of the dead, denied proper funeral honours
+indotatus | 4 | trop., unadorned, plain, poor, of style
+indubitatus | 1 | undoubted
+induco | 1 | lead in
+induco | 2 | persuade
+induco | 3 | literally, to lead, bring, or conduct into a place
+induco | 4 | in particular, to exhibit or bring forward on the stage or in the arena
+induco | 5 | transferred, to put on an article of clothing; to overlay, spread over
+induco | 6 | trop., to introduce, bring in, establish, such as a custom
+induco | 7 | trop., to mislead, delude, deceive
+induco | 8 | animum inducere, to resolve, determine, or to suppose, imagine
+inductio | 1 | introduction
+inductio | 3 | trop., a purpose, resolution, inclination
+inductio | 4 | in rhetoric and logic, induction, reasoning from particulars to a general conclusion
+indulgentia | 1 | indulgence
+indulgentia | 3 | transferred, of weather or fortune, mildness, favour
+indulgentia | 4 | post-classical, a remission of punishment or taxation
+indulgeo | 1 | indulge
+indulgeo | 3 | neuter, to be kind, tender, or indulgent toward someone, with the dative
+indulgeo | 4 | to give oneself up to, be addicted to something
+indulgeo | 5 | active, to grant, concede, allow, bestow as a favour
+induo | 1 | don
+induo | 3 | trop., to put on, assume, take up: to adopt a role or quality
+induresco | 1 | harden
+induresco | 3 | trop., to become firmly set, unyielding, in loyalty or vice
 
