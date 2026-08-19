@@ -347,3 +347,37 @@ immuto | 1 | alter
 immuto | 3 | in rhetoric, to substitute one word for another, metonymy
 immuto | 4 | in rhetoric, immutata oratio, allegory, extended metaphor
 impacatus | 1 | unquiet
+impar | 1 | unequal
+impar | 3 | uneven, dissimilar in number or quality
+impar | 4 | in particular, unequal to, not a match for, inferior, weaker, often with the dative
+impar | 5 | inequitable, unjust
+imparatus | 1 | unprepared
+imparilitas | 1 | inequality
+imparilitas | 3 | in grammar, a solecism, faulty agreement
+impatiens | 1 | impatient
+impatiens | 3 | of persons, unable to endure or bear something, usually with the genitive
+impatiens | 4 | of things, unable to withstand something
+impatiens | 5 | rare, insensible, apathetic, unfeeling
+impatientia | 1 | impatience
+impatientia | 3 | insensibility, impassibility, apathy, a translation of the Greek apatheia
+impavidus | 1 | fearless
+impedimentum | 1 | hindrance
+impedimentum | 2 | baggage
+impedimentum | 3 | that which entangles or hinders, an obstacle, impediment
+impedimentum | 4 | in particular, plural impedimenta, luggage, travelling equipment, especially the baggage train of an army
+impedio | 1 | hinder
+impedio | 2 | entangle
+impedio | 3 | literally, to entangle the feet, to ensnare, shackle
+impedio | 4 | transferred, to clasp, encircle, embrace, poetic
+impedio | 5 | trop., to entangle, confuse, embarrass
+impedio | 6 | most frequently, to hinder, obstruct, prevent, detain someone from doing something
+impello | 1 | push
+impello | 2 | incite
+impello | 3 | to strike or drive against something, literal
+impello | 4 | to set in motion, drive forward, urge on
+impello | 5 | trop., to instigate, persuade, urge someone to do something
+impello | 6 | rare, to overthrow, subdue, destroy
+impendeo | 1 | overhang
+impendeo | 2 | threaten
+impendeo | 3 | literally, to hang over, overhang something
+impendeo | 4 | trop., especially frequent, to impend, threaten, be imminent, hang over someone
