@@ -299,3 +299,29 @@ immo | 1 | rather
 immo | 3 | contradicting what precedes: on the contrary, no indeed, not at all
 immo | 4 | strengthening what precedes: yes indeed, certainly, by all means
 immo | 5 | correcting or adding emphasis mid-sentence: nay rather, or rather
+immobilis | 1 | immovable
+immobilis | 3 | as a legal term, res immobiles, immovable property, real estate
+immobilis | 4 | trop., unmoved, unalterable, steadfast
+immoderatio | 1 | excess
+immoderatus | 1 | immoderate
+immoderatus | 3 | poetic, literally, without measure, boundless
+immoderatus | 4 | trop., unrestrained, unbridled, excessive
+immodestus | 1 | unrestrained
+immodestus | 3 | immoderately, extravagantly, impudently
+immodestus | 4 | unjustly, rare
+immodicus | 1 | excessive
+immodicus | 3 | literally, rare, beyond measure, huge, unrestrained
+immodicus | 4 | trop., excessive, extravagant, immoderate, often with the genitive
+immolo | 1 | sacrifice
+immolo | 3 | originally, to sprinkle a victim with sacrificial meal before slaying it
+immolo | 4 | poetic, more generally, to slay, to kill as a sacrifice
+immolo | 5 | ecclesiastical, to present as an offering, to render
+immordeo | 1 | bite into
+immorior | 1 | die
+immorior | 3 | to die upon or in the midst of something, usually with the dative
+immorior | 4 | figurative, to pine away, to waste oneself over a task
+immoror | 1 | linger
+immoror | 3 | to dwell on or linger over a subject in speech or thought
+immortalis | 1 | immortal
+immortalis | 3 | transferred, imperishable, eternal, everlasting
+immortalis | 4 | poetic, blessed, exceedingly happy, like the gods
