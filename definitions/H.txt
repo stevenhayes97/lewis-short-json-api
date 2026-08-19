@@ -39,3 +39,41 @@ habitudo | 1 | condition
 habitudo | 3 | one's bodily condition, appearance, figure
 habituo | 1 | condition
 habituo | 3 | passive, to be conditioned or constituted in a certain way, of bodily health
+habitus2 | 1 | condition
+habitus2 | 2 | attire
+habitus2 | 3 | the state, plight, or appearance of the body
+habitus2 | 4 | dress, attire, costume, Augustan and later
+habitus2 | 5 | trop., quality, nature, character
+habitus2 | 6 | a disposition of feeling, friendly or hostile, toward someone
+habitus2 | 7 | in philosophy, an acquired settled condition or trait
+hactenus | 1 | hitherto
+hactenus | 3 | of space, to this point, thus far
+hactenus | 4 | of a discourse, thus far, no further than this, a formula of transition
+hactenus | 5 | of time, up to now, until now
+hactenus | 6 | of extent, to this degree only, so far as: hactenus...quatenus, to this extent...as far as
+haedus | 1 | kid
+haedus | 3 | transferred, plural Haedi, a small constellation in the hand of the Wagoner, Auriga
+haereo | 1 | stick
+haereo | 2 | hesitate
+haereo | 3 | to hang or cling to something, to be fixed in place
+haereo | 4 | to remain attached, to adhere closely, to persist
+haereo | 5 | to keep close to or follow someone
+haereo | 6 | to remain or abide in a place, to stay fixed there
+haereo | 7 | to be brought to a standstill, to be perplexed, at a loss, embarrassed
+haesitatio | 1 | hesitation
+haesitatio | 3 | a stammering, hesitation in speech
+haesitatio | 4 | mental uncertainty, irresolution, perplexity
+haesito | 1 | hesitate
+haesito | 3 | to stick fast, remain fixed in a place, literally
+haesito | 4 | of speech, to stammer, falter
+haesito | 5 | of the mind, to be uncertain, undecided, at a loss
+halitus | 1 | breath
+halitus | 3 | exhalation, steam, vapour
+halitus | 4 | transferred, the spirit, the soul, poetic
+hallelujah | 1 | hallelujah
+halo | 1 | exhale
+halo | 3 | to give off fragrance, to be fragrant
+halo | 4 | to breathe out, emit, as a scent
+hamatus | 1 | hooked
+hamatus | 3 | shaped like a hook, crooked
+hamatus | 4 | figurative, alluring, baited, catching, like a hook
