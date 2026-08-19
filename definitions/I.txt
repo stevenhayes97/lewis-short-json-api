@@ -209,3 +209,30 @@ imbecillus | 4 | of mind, weak, feeble, foolish
 imbellis | 1 | unwarlike
 imbellis | 3 | peaceful, fond of peace, avoiding war
 imbellis | 4 | of things, weak, ineffective, powerless: telum imbelle, a weak, harmless weapon
+imber | 1 | rain
+imber | 3 | transferred, a rain-cloud, storm-cloud
+imber | 4 | poetic, water or liquid in general
+imber | 5 | figurative, a shower of things falling like rain: ferreus imber, a shower of iron weapons
+imberbis | 1 | beardless
+imbibo | 1 | imbibe
+imbibo | 3 | figurative, to conceive or take in, of an idea, opinion, or feeling
+imbibo | 4 | in particular, to resolve, determine to do something
+imbrex | 1 | roof tile
+imbrex | 3 | transferred, a gutter or trough for watering animals
+imbrex | 4 | transferred, other things shaped like a hollow tile, such as the partition of the nose
+imbrico | 1 | tile
+imbrico | 3 | to shape or curve like a gutter-tile
+imbuo | 1 | imbue
+imbuo | 2 | instruct
+imbuo | 3 | literally, to wet, moisten, dip, or tinge with a liquid
+imbuo | 4 | figurative, to fill, stain, or taint with a quality: imbutus religione, imbued with religious feeling
+imbuo | 5 | in particular, to instruct or train early, to accustom, initiate
+imbuo | 6 | poetic, to be the first to do or try something: to explore, to break new ground
+imitabilis | 1 | imitable
+imitabilis | 3 | rare, imitative, inclined to imitate
+imitamen | 1 | imitation
+imitamentum | 1 | imitation
+imitatio | 1 | imitation
+imitatio | 3 | the faculty or capacity for imitation
+imitatio | 4 | in rhetoric, the imitation of a model orator's style
+imitatio | 5 | in rhetoric, imitation of a natural sound, onomatopoeia
