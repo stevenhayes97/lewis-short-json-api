@@ -990,4 +990,35 @@ index | 3 | the forefinger, the index finger
 index | 4 | a sign, mark, indication, or proof of something
 index | 5 | especially, an informer, a spy, a betrayer
 index | 6 | transferred, of a book, a title, or a table of contents, a catalogue
+indicium | 1 | disclosure
+indicium | 3 | in particular, legal, permission to turn informer against one's accomplices
+indicium | 4 | in particular, a reward for informing or giving evidence
+indicium | 5 | in general, a sign, indication, token, proof
+indico1 | 1 | reveal
+indico1 | 3 | in general, to show, declare, make known
+indico1 | 4 | in particular, to state briefly, mention, give a hint of
+indico1 | 5 | to set or tell the price of something, to value
+indico2 | 1 | proclaim
+indico2 | 3 | especially, to appoint a place or date for a gathering
+indico2 | 4 | to impose, enjoin, inflict, as a tax or penalty
+indictus2 | 1 | unsaid
+indictus2 | 3 | post-classical, unspeakable, ineffable
+indidem | 1 | thence
+indidem | 3 | from that same place, previously mentioned
+indidem | 4 | from that same source or matter
+indifferens | 1 | indifferent
+indifferens | 3 | philosophical term, of Stoic ethics, neither good nor evil, morally neutral
+indifferens | 4 | grammatical, of a syllable, doubtful, able to be long or short
+indigena | 1 | native
+indigentia | 1 | need
+indigentia | 2 | craving
+indigentia | 3 | want, lack, indigence
+indigentia | 4 | philosophical, insatiable desire, unquenchable craving
+indigeo | 1 | need
+indigeo | 3 | to require, stand in want of, usually with the genitive or ablative
+indigeo | 4 | to long for, desire something
+indigeo | 5 | as a noun, indigens, a needy or indigent person
+indigestus1 | 1 | disordered
+indigestus1 | 3 | in particular, of food, undigested
+indigestus1 | 4 | suffering from indigestion
 
