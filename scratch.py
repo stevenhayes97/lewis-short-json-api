@@ -88,6 +88,6 @@ if __name__ == "__main__":
     definition = json.dumps(entry, ensure_ascii=False, indent=2)
     print(definition)
 
-    for letter, key, rank, definition in iter_definitions():
-        if rank in [1,2]:
-            print(letter, key, rank, definition)
+    # for letter, key, rank, definition in iter_definitions():
+    #     if rank in [1,2]:
+    #         print(letter, key, rank, definition)
