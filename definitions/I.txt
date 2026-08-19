@@ -681,3 +681,32 @@ incedo | 4 | military, to advance, move forward
 incedo | 5 | trop., to triumph over, exult over someone, with the dative
 incedo | 6 | of abstract things, to come upon, befall, seize, or attack someone
 incenatus | 1 | fasting
+incendiarius | 1 | incendiary
+incendiarius | 3 | as a noun, an arsonist, one who sets fires
+incendium | 1 | fire
+incendium | 2 | passion
+incendium | 3 | a conflagration, a destructive fire
+incendium | 4 | transferred, heat, burning, in general
+incendium | 5 | concretely, poetic, a firebrand, a torch
+incendium | 6 | trop., vehemence, a consuming passion or emotion
+incendo | 1 | kindle
+incendo | 2 | incense
+incendo | 3 | literally, to set on fire, to burn
+incendo | 4 | to make bright or shining, to illumine
+incendo | 5 | trop., to inflame, rouse, incite, excite someone
+incendo | 6 | to enhance or raise, of price: incendere annonam, to drive up the price of grain
+incendo | 7 | to destroy, ruin, lay waste
+incensum | 1 | incense
+incensum | 3 | ecclesiastical, the act of lighting a fire or offering
+incensum | 4 | in general, a sacrifice
+incensus2 | 1 | unregistered
+incentivus | 1 | leading
+incentivus | 3 | trop., that provokes or incites
+incentivus | 4 | as a noun, incentivum, an incentive, a stimulus
+incentor | 1 | precentor
+incentor | 3 | trop., an inciter, an instigator
+inceptio | 1 | undertaking
+incepto | 1 | attempt
+incepto | 3 | especially, incepto cum aliquo, to pick a quarrel with someone
+incerno | 1 | sift
+
