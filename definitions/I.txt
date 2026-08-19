@@ -584,3 +584,29 @@ impurus | 1 | depraved
 impurus | 2 | filthy
 impurus | 3 | unclean, filthy, foul, literal, very rare
 impurus | 4 | trop., morally impure, defiled, infamous, abandoned, vile
+imputo | 1 | impute
+imputo | 3 | literally, to enter into the reckoning, to charge to an account
+imputo | 4 | trop., to attribute something to someone as a merit or a fault, to take credit for
+in1 | 1 | in
+in1 | 3 | with the ablative, indicating place or time: in, within, on, during
+in1 | 4 | with the accusative, indicating motion or direction: into, onto, towards
+in1 | 5 | with the accusative, indicating purpose, result, or hostile or friendly disposition: against, for, toward
+in1 | 6 | in composition, this preposition becomes assimilated before l, m, r, and the labials: illabor, immitto, impello
+in11 | 1 | unsated
+in11 | 3 | trop., of grief, love, or slaughter, insatiable, incessant
+in12 | 1 | inexplicable
+in12 | 2 | inextricable
+in12 | 3 | literally, that cannot be untangled or unfastened, intricate
+in12 | 4 | transferred, of roads, impassable
+in12 | 5 | trop., that cannot be explained or resolved, baffling
+in14 | 1 | unexplored
+in14 | 3 | adverbial inexplorato, without previous examination or reconnaissance
+in2 | 1 | un-
+in2 | 3 | a negative prefix attached to adjectives and adverbs, equivalent to English un- or non-
+in4 | 1 | uneven
+in4 | 3 | of number or measure, disproportionate
+in5 | 1 | uneven
+in5 | 3 | unequal, unlike, differing in size
+ina | 1 | fibre
+inaccessus | 1 | inaccessible
+inaccessus | 3 | trop., unattainable
