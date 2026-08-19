@@ -172,3 +172,40 @@ illudo | 5 | poetic, to violate, abuse, ruin
 illumino | 1 | illuminate
 illumino | 3 | transferred, to embellish or adorn with something bright
 illumino | 4 | figurative, to set in a clear light, to make conspicuous, especially of style in rhetoric
+illustris | 1 | bright
+illustris | 2 | illustrious
+illustris | 3 | lighted up, clear, bright, literal
+illustris | 4 | trop., clear, plain, evident, manifest
+illustris | 5 | distinguished, famous, honourable, illustrious
+illustro | 1 | illuminate
+illustro | 2 | clarify
+illustro | 3 | to light up, make bright, literal
+illustro | 4 | trop., to make clear, elucidate, explain
+illustro | 5 | trop., to render famous, renowned, illustrious
+illuvies | 1 | filth
+illuvies | 3 | dirt, uncleanness of the body
+illuvies | 4 | post-classical, an overflowing, a flood
+imaginarius | 1 | imaginary
+imaginarius | 3 | of or belonging to images; as a noun, the bearer of the emperor's image, a standard-bearer
+imaginarius | 4 | existing only in appearance, seeming, nominal, fancied
+imagino | 1 | represent
+imaginor | 1 | imagine
+imago | 1 | image
+imago | 2 | ghost
+imago | 3 | a representation, likeness, statue, bust, or picture
+imago | 4 | a phantom, apparition, spirit of the dead
+imago | 5 | in particular, an ancestral wax mask of a distinguished Roman, displayed in the atrium and carried in funerals
+imago | 6 | transferred, an echo, a reverberation of sound
+imago | 7 | trop., an idea, conception, or mental picture of something
+imago | 8 | in rhetoric, a figurative comparison, a simile
+imago | 9 | a mere semblance, appearance, or shadow, as opposed to the real thing
+imbecillitas | 1 | weakness
+imbecillitas | 3 | physical weakness, feebleness of body
+imbecillitas | 4 | transferred, powerlessness, helplessness, impotence
+imbecillitas | 5 | weakness or feebleness of mind
+imbecillus | 1 | weak
+imbecillus | 3 | of body, weak, feeble, frail
+imbecillus | 4 | of mind, weak, feeble, foolish
+imbellis | 1 | unwarlike
+imbellis | 3 | peaceful, fond of peace, avoiding war
+imbellis | 4 | of things, weak, ineffective, powerless: telum imbelle, a weak, harmless weapon
