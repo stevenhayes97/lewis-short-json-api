@@ -544,3 +544,20 @@ improbus | 3 | below standard, of bad or inferior quality, rare
 improbus | 4 | beyond the standard, enormous, monstrous, excessive in size or degree
 improbus | 5 | of character, restless, persistent, indomitable: labor improbus, relentless toil
 improbus | 6 | morally bad, wicked, base, dishonest, shameless, impudent
+impropero2 | 1 | reproach
+improprius | 1 | improper
+improvidus | 1 | improvident
+improvisus | 1 | unexpected
+improvisus | 3 | as a noun, improvisum, an unforeseen event, an emergency
+improvisus | 4 | adverbial de improviso, unexpectedly, suddenly
+imprudens | 1 | unaware
+imprudens | 3 | inconsiderate, inadvertent, acting without due thought
+imprudens | 4 | ignorant of, unacquainted with something, usually with the genitive
+imprudentia | 1 | imprudence
+impubes | 1 | underage
+impubes | 3 | transferred, of things, youthful, not yet mature
+impubes | 4 | in particular, celibate, virgin, chaste
+impudens | 1 | shameless
+impudentia | 1 | impudence
+impudicitia | 1 | lewdness
+impudicitia | 3 | transferred, equal to impudentia, shamelessness
