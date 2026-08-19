@@ -262,3 +262,40 @@ immerens | 1 | undeserving
 immergo | 1 | immerse
 immergo | 3 | transferred, se immergere, to plunge or throw oneself into a place
 immergo | 4 | figurative, se immergere, to immerse oneself in an activity or pursuit
+immeritus | 1 | undeserving
+immeritus | 2 | undeserved
+immeritus | 3 | active, that has not deserved something, guiltless, innocent
+immeritus | 4 | passive, not deserved, unmerited, of a thing
+immigro | 1 | immigrate
+immigro | 3 | to move or go into a place, a house
+immigro | 4 | figurative, of words, to pass into their proper or natural place
+immineo | 1 | overhang
+immineo | 2 | threaten
+immineo | 3 | to project over, hang over, overhang, literally
+immineo | 4 | to be near to, border upon, adjoin
+immineo | 5 | in a hostile sense, to threaten, menace, by nearness or position
+immineo | 6 | figurative, to be eager for, long for, be intent upon something
+immineo | 7 | to be imminent, to impend, to be near at hand
+imminuo | 1 | lessen
+imminuo | 2 | impair
+imminuo | 3 | to lessen, diminish, reduce something in size or amount
+imminuo | 4 | pregnant, to weaken, impair, enfeeble
+imminuo | 5 | trop., to encroach upon, violate, injure, subvert, destroy
+imminutio | 1 | diminution
+imminutio | 3 | a weakening, impairing, injury
+imminutio | 4 | in rhetoric, litotes, the use of a weaker expression for a stronger one
+immisceo | 1 | intermix
+immisceo | 3 | especially, se immiscere, to join or associate with someone
+immisceo | 4 | figurative, se immiscere alicui rei, to meddle with, interfere in, concern oneself with
+immisericors | 1 | merciless
+immitis | 1 | harsh
+immitis | 3 | of fruit, unripe, sour, not mellow
+immitis | 4 | transferred, of persons or character, rough, stern, savage, inexorable
+immitto | 1 | send in
+immitto | 3 | to send or despatch against someone, to let loose at, incite, instigate
+immitto | 4 | to let grow wild or unrestrained, of plants
+immitto | 5 | horticultural, to graft on
+immo | 1 | rather
+immo | 3 | contradicting what precedes: on the contrary, no indeed, not at all
+immo | 4 | strengthening what precedes: yes indeed, certainly, by all means
+immo | 5 | correcting or adding emphasis mid-sentence: nay rather, or rather
