@@ -561,3 +561,26 @@ impudens | 1 | shameless
 impudentia | 1 | impudence
 impudicitia | 1 | lewdness
 impudicitia | 3 | transferred, equal to impudentia, shamelessness
+impudicus | 1 | lewd
+impudicus | 2 | shameless
+impudicus | 3 | unchaste, immodest, lewd, the predominant sense
+impudicus | 4 | rare, shameless, impudent, equal to impudens
+impugno | 1 | attack
+impugno | 3 | transferred, to attack, oppose, or impugn something, such as an argument or policy
+impulsio | 1 | impulse
+impulsio | 3 | external pressure or force
+impulsio | 4 | trop., incitement, instigation
+impulsio | 5 | in rhetoric, a jest or witticism used to provoke laughter
+impulsor | 1 | instigator
+impulsus2 | 1 | impulse
+impulsus2 | 3 | trop., incitement, instigation, influence
+impunis | 1 | unpunished
+impunis | 3 | adverbial impune, without punishment, safely, with impunity
+impunitas | 1 | impunity
+impunitus | 1 | unpunished
+impunitus | 3 | unrestrained, free from danger, safe, secure
+impuratus | 1 | vile
+impurus | 1 | depraved
+impurus | 2 | filthy
+impurus | 3 | unclean, filthy, foul, literal, very rare
+impurus | 4 | trop., morally impure, defiled, infamous, abandoned, vile
