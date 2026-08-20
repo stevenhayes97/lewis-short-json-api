@@ -1764,4 +1764,18 @@ insolesco | 1 | grow insolent
 insolesco | 3 | literally, of the voice, to begin to break, deepen
 insolitus | 1 | unusual
 insolitus | 3 | of persons, unaccustomed, unused to something
+insolubilis | 1 | indissoluble
+insolubilis | 3 | of a debt, that cannot be paid
+insolubilis | 4 | irrefutable, incontestable
+insomnia | 1 | sleeplessness
+insomnis | 1 | sleepless
+insomnium1 | 1 | dream
+insono | 1 | resound
+insons | 1 | innocent
+insons | 2 | harmless
+inspectio | 1 | inspection
+inspectio | 3 | trop., theoretical consideration, as opposed to practice
+inspecto | 1 | observe
+insperans | 1 | not expecting
+insperatus | 1 | unexpected
 
