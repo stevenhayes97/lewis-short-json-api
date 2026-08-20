@@ -1721,4 +1721,25 @@ insidiae | 1 | ambush
 insidiae | 3 | trop., a trick, plot, snare
 insidior | 1 | ambush
 insidior | 3 | trop., to watch for, lie in wait for an opportunity
+insidiosus | 1 | insidious
+insido | 1 | settle
+insido | 3 | of troops, to occupy, take possession of a place
+insido | 4 | trop., to become fixed, embedded, rooted in the mind
+insigne | 1 | badge
+insigne | 3 | a standard, ensign
+insigne | 4 | trop., a mark of honor, distinction
+insignio | 1 | mark
+insignio | 3 | to distinguish, make notable, single out
+insignis | 1 | notable
+insilio | 1 | leap upon
+insilio | 3 | trop., to mount, climb upward, as a vine shoot into its trellis
+insimulo | 1 | accuse
+insincerus | 1 | adulterated
+insincerus | 2 | insincere
+insinuatio | 1 | ingratiation
+insinuatio | 3 | rhetoric, a subtly introduced opening of a speech
+insinuatio | 4 | legal, a notification, formal declaration
+insinuo | 1 | worm in
+insinuo | 3 | trop., se insinuare, to worm one's way into someone's favor, to ingratiate oneself
+insinuo | 4 | trop., to make favourably known, recommend, introduce a person to another
 
