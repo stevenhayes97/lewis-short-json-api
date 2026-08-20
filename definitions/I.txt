@@ -1431,4 +1431,29 @@ inguen | 5 | transferred, of plants, the joint where a branch meets the stem
 ingurgito | 1 | gorge
 ingurgito | 3 | literally, to pour in like a flood, to flood, fill
 ingurgito | 4 | trop., to immerse oneself deeply in, to be absorbed in, to addict oneself to something
+inhabilis | 1 | unwieldy
+inhabilis | 3 | trop., unfit, incapable, unable for something
+inhabito | 1 | inhabit
+inhabito | 3 | transferred, of garments, to wear
+inhaereo | 1 | adhere
+inhaereo | 3 | trop., to cling to, be deeply engaged in, closely connected with
+inhaeresco | 1 | stick fast
+inhaeresco | 3 | trop., to become deeply fixed in the mind
+inhalo | 1 | breathe on
+inhalo | 3 | transferred, magical rite, to breathe upon something as a spell
+inhibeo | 1 | restrain
+inhibeo | 2 | employ
+inhibeo | 3 | literally, to keep back, curb, check: inhibere remos, to stop rowing
+inhibeo | 4 | transferred, to hinder, prevent, inhibit an action
+inhibeo | 5 | rare, to set in operation, to practise, perform, use
+inhio | 1 | gape
+inhio | 3 | in particular, to open the mouth wide at something, as if to devour it
+inhio | 4 | transferred, to gaze at with eagerness, to covet, long for
+inhonestus | 1 | dishonourable
+inhonestus | 3 | unseemly, ugly, filthy
+inhonoro | 1 | dishonour
+inhonoro | 3 | participial inhonoratus, unhonoured, disregarded, or unrewarded
+inhonorus | 1 | unhonoured
+inhonorus | 3 | of no account, inconsiderable, not esteemed
+inhonorus | 4 | unsightly, ugly
 
