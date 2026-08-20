@@ -1486,4 +1486,39 @@ inicio | 6 | trop., to throw out a hint, to mention, suggest
 inigo | 1 | drive in
 inigo | 3 | to throw or thrust someone somewhere, rare
 inimicitia | 1 | enmity
+inimico | 1 | alienate
+inimicus | 1 | hostile
+inimicus | 2 | enemy
+inimicus | 3 | of persons, unfriendly, hostile, inimical
+inimicus | 4 | of things, hurtful, injurious, harmful
+inimicus | 5 | as a noun, a personal enemy, as opposed to hostis, a public enemy
+iniquitas | 1 | unevenness
+iniquitas | 2 | injustice
+iniquitas | 3 | literally, unevenness of ground, or inequality of weight
+iniquitas | 4 | trop., unfavourableness, hardship, difficulty of circumstances
+iniquitas | 5 | trop., unfairness, injustice, unreasonableness
+iniquus | 1 | unequal
+iniquus | 2 | unjust
+iniquus | 3 | literally, uneven, not level, steep
+iniquus | 4 | transferred, unfair, unjust
+iniquus | 5 | inimical, hostile, adverse
+iniquus | 6 | unwilling, impatient, discontented: iniquo animo ferre, to bear something with displeasure
+initialis | 1 | initial
+initio | 1 | initiate
+initio | 3 | rare, late Latin, to begin, originate
+initio | 4 | ecclesiastical Latin, to baptize
+initium | 1 | beginning
+initium | 2 | rites
+initium | 3 | a going in, an entrance
+initium | 4 | transferred, elements, constituent parts, or first principles of a subject
+initium | 5 | plural initia, secret religious rites, sacred mysteries
+initus2 | 1 | entrance
+initus2 | 3 | a beginning, a commencement
+initus2 | 4 | transferred, euphemistic, mating, sexual approach, of animals
+injectio | 1 | throwing in
+injectio | 3 | medical, an injection, a clyster
+injectio | 4 | legal, manus injectio, the formal laying on of the hand to seize property or a person
+injectio | 5 | trop., late Latin, an instigation, a suggestion, or an objection
+injucundus | 1 | unpleasant
+injucundus | 3 | harsh, severe, of treatment
 
