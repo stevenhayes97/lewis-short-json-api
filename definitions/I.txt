@@ -1334,4 +1334,30 @@ infringo | 3 | literally, to break, crack, bruise something
 infringo | 4 | transferred, to strike one thing against another
 infringo | 5 | trop., to check, weaken, lessen, diminish
 infringo | 6 | trop., to destroy, make void, break, such as a law
+infructuosus | 1 | unfruitful
+infructuosus | 3 | trop., fruitless, useless, unproductive of results
+infula | 1 | fillet
+infula | 3 | in particular, a sacred woollen fillet worn by priests and consecrated things
+infula | 4 | transferred, a badge of honour, an insignia of office
+# review: infulatus no single English word for "wearing a sacred fillet"; described directly
+infulatus | 1 | wearing a fillet
+infulatus | 3 | of victims or persons led to death, adorned like sacrificial victims with the sacred fillet
+infundo | 1 | pour in
+infundo | 2 | impart
+infundo | 3 | literally, to pour a liquid into or onto something
+infundo | 4 | transferred, to administer, present, or lay before someone: infundere venenum, to administer poison
+infundo | 5 | trop., to communicate, spread, impart: to pour words into someone's ears
+infusco | 1 | darken
+infusco | 3 | trop., to sully, stain, tarnish someone's reputation
+infusio | 1 | infusion
+ingemino | 1 | redouble
+ingemisco | 1 | groan
+ingemisco | 3 | transitive, to groan or sigh over a specific thing
+ingemisco | 4 | transferred, of inanimate things, to creak, groan
+ingemo | 1 | groan
+ingemo | 3 | to mourn over, lament, bewail something
+ingemo | 4 | transferred, of inanimate things, to creak, groan
+ingenero | 1 | implant
+ingenero | 3 | transferred, to generate, create, bring into being
+ingenero | 4 | rare, literal, to plant, of agriculture
 
