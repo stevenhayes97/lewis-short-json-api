@@ -1929,4 +1929,26 @@ intentio | 5 | legal, an accusation, the plaintiff's charge
 intento | 1 | threaten
 intento | 3 | literally, to stretch out, point towards
 intento | 4 | legal, to accuse, bring a charge against
+intepesco | 1 | become lukewarm
+intepesco | 3 | trop., to weaken, cool down, lose force
+inter1 | 1 | between
+inter1 | 2 | among
+inter1 | 3 | of time, during, within a period
+inter1 | 4 | inter nos, between ourselves, privately
+inter1 | 5 | inter haec, meanwhile
+interamnus | 1 | between rivers
+intercalaris | 1 | intercalary
+intercalo | 1 | intercalate
+intercapedo | 1 | interval
+intercedo | 1 | intervene
+intercedo | 2 | veto
+intercedo | 3 | to become surety, pledge for someone
+intercedo | 4 | to intercede, plead on behalf of someone
+intercedo | 5 | to obstruct, hinder, interrupt
+intercessio | 1 | intervention
+intercessio | 3 | a pledge, becoming surety for someone
+intercessio | 4 | a tribune's veto, protest
+intercessor | 1 | surety
+intercessor | 2 | protester
+intercessus | 1 | intervention
 
