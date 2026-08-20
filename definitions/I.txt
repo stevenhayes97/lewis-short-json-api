@@ -2190,4 +2190,27 @@ inundo | 1 | flood
 inundo | 3 | transferred, of a crowd, to overrun, swarm over
 inundo | 4 | to abound, be full of, teem with
 inunguo | 1 | anoint
+inurbanus | 1 | boorish
+inuro | 1 | brand
+inuro | 3 | literally, to cauterize, remove by burning
+inusitatus | 1 | unusual
+inutilis | 1 | useless
+inutilis | 2 | harmful
+invado | 1 | invade
+invado | 2 | seize
+invado | 3 | of disease or emotion, to befall, attack, seize upon
+invado | 4 | to assail with words, attack verbally
+invalesco | 1 | grow strong
+invalesco | 3 | to prevail, become widespread, come into common use
+invalidus | 1 | feeble
+invectio | 1 | importation
+invectio | 3 | an inveighing against, an invective, a verbal attack
+inveho | 1 | import
+inveho | 2 | inveigh
+inveho | 3 | passive, to ride, sail, or fly into a place, to enter
+inveho | 4 | trop., to bring upon, inflict misfortune
+invenio | 1 | find
+invenio | 2 | invent
+invenio | 3 | to find out, discover, ascertain, learn
+invenio | 4 | to acquire, earn, win, e.g. praise or fame
 
