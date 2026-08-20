@@ -2312,4 +2312,23 @@ irritamentum | 1 | incitement
 irritatio | 1 | irritation
 irritatio | 3 | physical, a stimulant, something that provokes a bodily reaction
 irrito1 | 1 | provoke
+irritus1 | 1 | void
+irritus1 | 2 | vain
+irritus1 | 3 | of persons, unsuccessful, having acted in vain
+irrogo | 1 | impose
+irrogo | 3 | legal, to propose a bill or measure against someone
+irroro | 1 | bedew
+irrubesco | 1 | redden
+irrumpo | 1 | burst in
+irrumpo | 3 | trop., to intrude upon, invade, interrupt
+irrumpo | 4 | to break, violate a treaty or law
+irruo | 1 | rush in
+irruo | 3 | trop., to force one's way into, seize upon eagerly
+irruptio | 1 | irruption
+irruptio | 3 | military, an incursion, a sally, a raid
+is | 1 | he
+is | 3 | such, of such a kind or sort
+istac | 1 | that way
+iste | 1 | that
+iste | 3 | often with scorn or contempt, that wretched, that so-called
 
