@@ -1989,4 +1989,26 @@ interficio | 4 | se interficere, to commit suicide, kill oneself
 interfluo | 1 | flow between
 interfor | 1 | interrupt
 interfundo | 1 | pour between
+interibi | 1 | meanwhile
+interim | 1 | meanwhile
+interim | 2 | sometimes
+interimo | 1 | kill
+interimo | 3 | transferred, to overwhelm, distress intolerably
+interior | 1 | inner
+interior | 2 | secret
+interior | 3 | nearer, closer
+interior | 4 | deeper, more intimate
+interior | 5 | farther inland
+interitus2 | 1 | destruction
+interjaceo | 1 | lie between
+interjacio | 1 | insert
+interjacio | 3 | of time, anno interjecto, after an interval, a year having passed
+interjectio | 1 | insertion
+interjectio | 3 | grammar, an interjection
+interjectio | 4 | rhetoric, a parenthesis
+interjectus2 | 1 | interposition
+interjectus2 | 3 | of time, an interval
+interjungo | 1 | join
+interjungo | 2 | unyoke
+interjungo | 3 | trop., to rest, take a break
 
