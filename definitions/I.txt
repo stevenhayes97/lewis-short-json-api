@@ -1360,4 +1360,36 @@ ingemo | 4 | transferred, of inanimate things, to creak, groan
 ingenero | 1 | implant
 ingenero | 3 | transferred, to generate, create, bring into being
 ingenero | 4 | rare, literal, to plant, of agriculture
+ingeniculo | 1 | kneel
+ingeniosus | 1 | ingenious
+ingeniosus | 3 | of persons, gifted, talented, of good natural abilities
+ingeniosus | 4 | transferred, of things, apt, fit, well-adapted for something
+ingenium | 1 | nature
+ingenium | 2 | genius
+ingenium | 3 | innate or natural quality in general
+ingenium | 4 | of persons, natural disposition, temper, character
+ingenium | 5 | natural intellectual capacity, talent, genius
+ingenium | 6 | transferred, a person of genius, a gifted individual
+ingens | 1 | huge
+ingens | 3 | trop., great, strong, powerful, of spirit or character
+ingenuitas | 1 | free birth
+ingenuitas | 3 | trop., noble-mindedness, frankness, candour, worthy of a freeborn person
+ingenuus | 1 | freeborn
+ingenuus | 2 | candid
+ingenuus | 3 | native, indigenous, not foreign, literal
+ingenuus | 4 | transferred, inborn, innate, natural
+ingenuus | 5 | born of free parents, freeborn, as opposed to a slave
+ingenuus | 6 | in particular, worthy of a freeman, noble, upright, frank, candid
+ingenuus | 7 | poetic, delicate, tender, unused to hardship
+ingero | 1 | throw in
+ingero | 2 | obtrude
+ingero | 3 | literally, to carry, pour, or put something into a place
+ingero | 4 | especially, se ingerere, to rush or thrust oneself into a place
+ingero | 5 | trop., of language, to pour out, hurl, such as insults
+ingero | 6 | trop., to force or press upon someone repeatedly, to obtrude
+ingigno | 1 | instil
+inglorius | 1 | inglorious
+inglorius | 3 | transferred, poetic, unadorned, plain, without ornament
+ingluvies | 1 | crop
+ingluvies | 3 | transferred, voraciousness, gluttony
 
