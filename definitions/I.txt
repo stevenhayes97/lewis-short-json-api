@@ -1681,4 +1681,22 @@ inscitia | 1 | ineptitude
 inscitia | 3 | in Tacitus, ignorance, lack of knowledge (= inscientia)
 inscitus | 1 | inept
 inscitus | 3 | passive, unknown, undisclosed
+inscius | 1 | unaware
+inscius | 3 | non sum inscius, I am well aware, I know very well
+inscribo | 1 | inscribe
+inscribo | 3 | transferred, to label, to furnish with an inscription
+inscribo | 4 | trop., to ascribe, attribute
+inscribo | 5 | trop., to brand, mark
+inscriptio | 1 | inscription
+inscriptus2 | 1 | unwritten
+inscriptus2 | 3 | legal, not registered at the customhouse, contraband
+insculpo | 1 | engrave
+insculpo | 3 | trop., to imprint, impress on the mind
+inseco1 | 1 | cut into
+inseco2 | 1 | relate
+insectatio | 1 | pursuit
+insectatio | 3 | trop., a verbal attack, railing, invective
+insector | 1 | pursue
+insector | 3 | trop., to attack with words, to rail at, inveigh against
+insemino | 1 | implant
 
