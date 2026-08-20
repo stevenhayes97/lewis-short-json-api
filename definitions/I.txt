@@ -2029,4 +2029,20 @@ intermitto | 3 | of a fever, to be intermittent
 intermitto | 4 | to leave an interval, a gap, between
 intermorior | 1 | die off
 intermorior | 3 | trop., to faint, swoon
+internecinus | 1 | deadly
+internecio | 1 | massacre
+internosco | 1 | distinguish
+internuntius | 1 | go-between
+internus | 1 | internal
+internus | 3 | of affairs, domestic, civil, as opposed to foreign
+intero | 1 | crumble in
+intero | 3 | proverbial, tu hoc intristi, tibi omne est exedendum, you made your own bed, now lie in it
+interpellatio | 1 | interruption
+interpellatio | 3 | legal, a suit, an appeal to the court
+interpellator | 1 | interrupter
+interpello | 1 | interrupt
+interpello | 3 | to hinder, obstruct a plan or action
+interpello | 4 | to dun, demand payment from
+interpolis | 1 | refurbished
+interpolis | 3 | falsified, not genuine
 
