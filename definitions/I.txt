@@ -1456,4 +1456,34 @@ inhonoro | 3 | participial inhonoratus, unhonoured, disregarded, or unrewarded
 inhonorus | 1 | unhonoured
 inhonorus | 3 | of no account, inconsiderable, not esteemed
 inhonorus | 4 | unsightly, ugly
+inhorreo | 1 | bristle
+inhorreo | 3 | transferred, to quiver, shake, shudder, of things
+inhorreo | 4 | to tremble, shudder with cold, fear, or horror
+inhorresco | 1 | bristle
+inhorresco | 3 | transferred, to shiver or shake with cold or fever
+inhorresco | 4 | to quake, shudder with fear or horror
+inhospitalis | 1 | inhospitable
+inhospitus | 1 | inhospitable
+inhospitus | 3 | as a noun, inhospita, inhospitable regions
+inhumanitas | 1 | inhumanity
+inhumanitas | 2 | rudeness
+inhumanitas | 3 | inhuman conduct, savageness, cruelty
+inhumanitas | 4 | want of good breeding: incivility, unkindness, churlishness, or niggardliness
+inhumanus | 1 | inhuman
+inhumanus | 2 | boorish
+inhumanus | 3 | rude, savage, cruel, barbarous
+inhumanus | 4 | unpolished, uncivil, unmannerly, discourteous
+inhumanus | 5 | rare, superhuman, godlike
+inibi | 1 | there
+inibi | 3 | transferred, of time, nearly, almost, on the point of
+inibi | 4 | inibi est, it is near at hand, about to happen soon
+inicio | 1 | throw in
+inicio | 2 | inspire
+inicio | 3 | literally, to throw, cast, or put something into or upon a place
+inicio | 4 | esp., manum inicere, to lay hands on someone, to seize
+inicio | 5 | trop., to inspire, infuse, or instill a feeling, such as fear or hope
+inicio | 6 | trop., to throw out a hint, to mention, suggest
+inigo | 1 | drive in
+inigo | 3 | to throw or thrust someone somewhere, rare
+inimicitia | 1 | enmity
 
