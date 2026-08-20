@@ -2213,4 +2213,21 @@ invenio | 1 | find
 invenio | 2 | invent
 invenio | 3 | to find out, discover, ascertain, learn
 invenio | 4 | to acquire, earn, win, e.g. praise or fame
+inventio | 1 | invention
+inventio | 3 | rhetoric, the faculty of finding arguments
+inventor | 1 | inventor
+inventum | 1 | discovery
+invenustus | 1 | unattractive
+invenustus | 3 | unfortunate, unlucky in love
+inverecundus | 1 | shameless
+inverto | 1 | invert
+inverto | 3 | trop., to pervert, corrupt, change for the worse
+inverto | 4 | of words, to use ironically, misapply
+investigo | 1 | investigate
+investis | 1 | unclothed
+investis | 3 | of a boy, beardless, not yet come of age
+inveterasco | 1 | take root
+inveterasco | 3 | to grow old, decay, become obsolete
+invetero | 1 | age
+invetero | 3 | passive, to become inveterate, deep-rooted, chronic
 
