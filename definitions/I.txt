@@ -2131,4 +2131,25 @@ intingo | 3 | ecclesiastical, to baptize
 intolerabilis | 1 | intolerable
 intolerabilis | 3 | irresistible
 intolerabilis | 4 | archaic, active sense, impatient, unable to bear something
+intolerandus | 1 | intolerable
+intolerans | 1 | impatient
+intolerans | 3 | passive, intolerable, unbearable
+intolerantia | 1 | impatience
+intolerantia | 2 | insolence
+intono | 1 | thunder
+intono | 3 | trop., to thunder forth, cry out vehemently in speech
+intonsus2 | 1 | unshorn
+intonsus2 | 3 | of trees or mountains, leafy, overgrown
+intonsus2 | 4 | trop., unpolished, rude, uncivilized
+intorqueo | 1 | twist
+intorqueo | 3 | to brandish, hurl a weapon
+intorqueo | 4 | trop., to hurl insults at, cast reproaches against
+intra | 1 | within
+intra | 3 | of time, within, during, in less than
+intra | 4 | of quantity or degree, less than, fewer than
+intractabilis | 1 | intractable
+intractatus | 1 | untamed
+intractatus | 3 | untried, unattempted
+intremo | 1 | tremble
+intremo | 3 | with an accusative, to tremble at, be terrified of someone or something
 
