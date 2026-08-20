@@ -2248,4 +2248,19 @@ inviolabilis | 2 | imperishable
 inviolatus | 1 | unhurt
 inviolatus | 2 | inviolable
 invisibilis | 1 | invisible
+invisitatus | 1 | unseen
+invisitatus | 3 | transferred, strange, uncommon, unfamiliar
+inviso | 1 | visit
+invisus2 | 1 | unseen
+invitamentum | 1 | inducement
+invitatio | 1 | invitation
+invitator | 1 | inviter
+invito | 1 | invite
+invito | 3 | to attract, allure, entice
+invito | 4 | to urge, request someone to do something
+invitus | 1 | unwilling
+invius | 1 | impassable
+invius | 3 | transferred, forbidden, inaccessible to entry
+invocatus2 | 1 | uninvited
+invocatus2 | 3 | legal, not called upon, uncalled as a witness
 
