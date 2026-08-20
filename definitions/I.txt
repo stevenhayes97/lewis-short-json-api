@@ -2152,4 +2152,20 @@ intractatus | 1 | untamed
 intractatus | 3 | untried, unattempted
 intremo | 1 | tremble
 intremo | 3 | with an accusative, to tremble at, be terrified of someone or something
+intrepidus | 1 | intrepid
+intrico | 1 | entangle
+intrinsecus1 | 1 | inwardly
+intro1 | 1 | inside
+intro1 | 3 | with verbs of motion, in, inwards, e.g. intro ire, to go inside
+intro2 | 1 | enter
+intro2 | 3 | trop., to penetrate, pierce into the mind or nature of something
+introduco | 1 | introduce
+introduco | 3 | to bring forward, maintain an opinion
+introduco | 4 | to institute, originate a custom
+introeo | 1 | enter
+introitus2 | 1 | entrance
+introitus2 | 3 | trop., a beginning, introduction, preface of a speech or work
+introitus2 | 4 | an entering upon an office, induction
+intromitto | 1 | let in
+introrsum | 1 | inward
 
