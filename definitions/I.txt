@@ -1845,4 +1845,26 @@ insulsus | 1 | silly
 insulsus | 3 | literally, unsalted, flavourless, of food
 insulto | 1 | leap upon
 insulto | 2 | taunt, mock
+insum | 1 | be in
+insumo | 1 | expend
+insumo | 3 | trop., to apply, devote, employ time or effort
+insumo | 4 | to use up, exhaust, wear out
+insuo | 1 | sew in
+insuper | 1 | above
+insuper | 2 | besides
+insuperabilis | 1 | insurmountable
+insuperabilis | 3 | of an enemy or people, unconquerable
+insuperabilis | 4 | of fate, unavoidable, inevitable
+insurgo | 1 | rise
+insurgo | 2 | rebel
+insurgo | 3 | of waters, to swell, surge
+insurgo | 4 | of speech or style, to become elevated, grow sublime
+insusurro | 1 | whisper
+insusurro | 3 | trop., to suggest, hint subtly
+intabesco | 1 | waste away
+intabesco | 3 | transferred, to melt, dissolve
+intactus1 | 1 | untouched
+intactus1 | 2 | chaste
+intectus2 | 1 | uncovered
+intectus2 | 2 | frank
 
