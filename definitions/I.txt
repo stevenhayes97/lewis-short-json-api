@@ -2297,4 +2297,19 @@ irrequietus | 1 | restless
 irrequietus | 2 | disquieting
 irretio | 1 | ensnare
 irreverens | 1 | irreverent
+irreverentia | 1 | irreverence
+irrevocabilis | 1 | irrevocable
+irrevocabilis | 3 | transferred, of a hook or anchor, barbed, unable to be withdrawn
+irrideo | 1 | mock
+irrigatio | 1 | irrigation
+irrigo | 1 | irrigate
+irrigo | 3 | to wet, moisten, bedew
+irrigo | 4 | trop., to refresh, nourish, diffuse through
+irriguus | 1 | well-watered
+irriguus | 2 | irrigating
+irrisus2 | 1 | derision
+irritamentum | 1 | incitement
+irritatio | 1 | irritation
+irritatio | 3 | physical, a stimulant, something that provokes a bodily reaction
+irrito1 | 1 | provoke
 
