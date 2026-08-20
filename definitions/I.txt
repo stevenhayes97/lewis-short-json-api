@@ -1545,4 +1545,40 @@ injussus2 | 1 | unauthorized
 injussus2 | 3 | ablative injussu, without the command or orders of someone
 injustitia | 1 | injustice
 injustitia | 3 | severity, harsh treatment
+injustus | 1 | unjust
+injustus | 3 | in general, rare, excessive, oppressive, immoderate
+injustus | 4 | in particular, wrongful, unfair, harsh
+innascor | 1 | originate
+innascor | 3 | literally, to grow or spring up in a place
+innascor | 4 | trop., participial innatus, inborn, innate, inherent, natural
+innato | 1 | float
+innato | 3 | to flow over, to overflow onto something
+innato | 4 | trop., of style, to float on the surface, to be superficial
+innecto | 1 | bind
+innecto | 2 | contrive
+innecto | 3 | literally, to tie, bind, or fasten one thing to another
+innecto | 4 | trop., to devise, weave, or frame successively, such as excuses
+innecto | 5 | trop., to entangle, implicate someone in something
+innitor | 1 | lean on
+innitor | 3 | trop., to depend on, rest upon someone or something for support
+innitor | 4 | in particular, of syllables, to end or terminate in a certain letter
+inno | 1 | float
+inno | 3 | transferred, to sail upon, to navigate
+innocens | 1 | harmless
+innocens | 2 | innocent
+innocens | 3 | literally, harmless, inoffensive, that causes no injury
+innocens | 4 | transferred, blameless, guiltless, not guilty of wrongdoing
+innocens | 5 | in particular, disinterested, upright, incorruptible
+innocentia | 1 | harmlessness
+innocentia | 2 | integrity
+innocentia | 3 | literally, harmlessness, the quality of causing no injury
+innocentia | 4 | transferred, blamelessness, innocence
+innocentia | 5 | in particular, uprightness, integrity, disinterestedness, especially of officials
+innocuus | 1 | harmless
+innocuus | 2 | unharmed
+innocuus | 3 | active, that causes no harm, safe
+innocuus | 4 | passive, unharmed, uninjured
+innocuus | 5 | transferred, inoffensive, innocent
+innodo | 1 | knot
+innodo | 3 | trop., to entangle, implicate someone in something
 
