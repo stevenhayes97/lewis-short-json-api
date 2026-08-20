@@ -125,7 +125,6 @@ illex2 | 3 | as a noun, a decoy, a lure
 illex2 | 4 | transferred, a seducer or seductress
 illibatus | 1 | unimpaired
 illiberalis | 1 | ungenerous
-illiberalis | 2 | niggardly
 illiberalis | 3 | unworthy of a free person, ignoble, sordid, mean, disobliging
 illiberalis | 4 | niggardly, stingy, grasping, especially with money
 illic1 | 1 | that
@@ -178,7 +177,7 @@ illustris | 3 | lighted up, clear, bright, literal
 illustris | 4 | trop., clear, plain, evident, manifest
 illustris | 5 | distinguished, famous, honourable, illustrious
 illustro | 1 | illuminate
-illustro | 2 | clarify
+illustro | 2 | glorify
 illustro | 3 | to light up, make bright, literal
 illustro | 4 | trop., to make clear, elucidate, explain
 illustro | 5 | trop., to render famous, renowned, illustrious
@@ -647,7 +646,7 @@ inaro | 5 | transferred, to mark or brand, rare
 inartificialis | 1 | inartificial
 inaudio | 1 | overhear
 inauditus2 | 1 | unprecedented
-inauditus2 | 2 | unheard
+inauditus2 | 2 | undefended
 inauditus2 | 3 | unheard-of, unusual, strange, new, the frequent classical sense
 inauditus2 | 4 | legal, of an accused person, without a hearing, not given a chance to speak
 inauditus2 | 5 | literally, not heard, inaudible
@@ -805,8 +804,7 @@ incogitabilis | 1 | thoughtless
 incogitabilis | 2 | inconceivable
 incogitabilis | 3 | active, thoughtless, inconsiderate
 incogitabilis | 4 | passive, inconceivable, incomprehensible
-incogitatus | 1 | unconsidered
-incogitatus | 2 | thoughtless
+incogitatus | 1 | thoughtless
 incogitatus | 3 | passive, unconsidered, unstudied, spontaneous
 incogitatus | 4 | active, thoughtless, inconsiderate
 incognitus | 1 | unknown
@@ -1336,4 +1334,304 @@ infringo | 3 | literally, to break, crack, bruise something
 infringo | 4 | transferred, to strike one thing against another
 infringo | 5 | trop., to check, weaken, lessen, diminish
 infringo | 6 | trop., to destroy, make void, break, such as a law
+infructuosus | 1 | unfruitful
+infructuosus | 3 | trop., fruitless, useless, unproductive of results
+infula | 1 | fillet
+infula | 3 | in particular, a sacred woollen fillet worn by priests and consecrated things
+infula | 4 | transferred, a badge of honour, an insignia of office
+# review: infulatus no single English word for "wearing a sacred fillet"; described directly
+infulatus | 1 | wearing a fillet
+infulatus | 3 | of victims or persons led to death, adorned like sacrificial victims with the sacred fillet
+infundo | 1 | pour in
+infundo | 2 | impart
+infundo | 3 | literally, to pour a liquid into or onto something
+infundo | 4 | transferred, to administer, present, or lay before someone: infundere venenum, to administer poison
+infundo | 5 | trop., to communicate, spread, impart: to pour words into someone's ears
+infusco | 1 | darken
+infusco | 3 | trop., to sully, stain, tarnish someone's reputation
+infusio | 1 | infusion
+ingemino | 1 | redouble
+ingemisco | 1 | groan
+ingemisco | 3 | transitive, to groan or sigh over a specific thing
+ingemisco | 4 | transferred, of inanimate things, to creak, groan
+ingemo | 1 | groan
+ingemo | 3 | to mourn over, lament, bewail something
+ingemo | 4 | transferred, of inanimate things, to creak, groan
+ingenero | 1 | implant
+ingenero | 3 | transferred, to generate, create, bring into being
+ingenero | 4 | rare, literal, to plant, of agriculture
+ingeniculo | 1 | kneel
+ingeniosus | 1 | ingenious
+ingeniosus | 3 | of persons, gifted, talented, of good natural abilities
+ingeniosus | 4 | transferred, of things, apt, fit, well-adapted for something
+ingenium | 1 | nature
+ingenium | 2 | genius
+ingenium | 3 | innate or natural quality in general
+ingenium | 4 | of persons, natural disposition, temper, character
+ingenium | 5 | natural intellectual capacity, talent, genius
+ingenium | 6 | transferred, a person of genius, a gifted individual
+ingens | 1 | huge
+ingens | 3 | trop., great, strong, powerful, of spirit or character
+ingenuitas | 1 | free birth
+ingenuitas | 3 | trop., noble-mindedness, frankness, candour, worthy of a freeborn person
+ingenuus | 1 | freeborn
+ingenuus | 2 | candid
+ingenuus | 3 | native, indigenous, not foreign, literal
+ingenuus | 4 | transferred, inborn, innate, natural
+ingenuus | 5 | born of free parents, freeborn, as opposed to a slave
+ingenuus | 6 | in particular, worthy of a freeman, noble, upright, frank, candid
+ingenuus | 7 | poetic, delicate, tender, unused to hardship
+ingero | 1 | throw in
+ingero | 2 | obtrude
+ingero | 3 | literally, to carry, pour, or put something into a place
+ingero | 4 | especially, se ingerere, to rush or thrust oneself into a place
+ingero | 5 | trop., of language, to pour out, hurl, such as insults
+ingero | 6 | trop., to force or press upon someone repeatedly, to obtrude
+ingigno | 1 | instil
+inglorius | 1 | inglorious
+inglorius | 3 | transferred, poetic, unadorned, plain, without ornament
+ingluvies | 1 | crop
+ingluvies | 3 | transferred, voraciousness, gluttony
+ingratia | 1 | ingratitude
+ingratia | 3 | adverbial ingratiis, unwillingly, against one's will
+ingratus | 1 | ungrateful
+ingratus | 2 | unpleasant
+ingratus | 3 | disagreeable, unpleasant, of things
+ingratus | 4 | unthankful, not showing gratitude, of persons
+ingratus | 5 | passive, unappreciated, receiving no thanks
+ingratus | 6 | transferred, of things, unproductive, not repaying the effort spent on them
+ingravesco | 1 | worsen
+ingravesco | 3 | literally, to grow heavy or heavier
+ingravesco | 4 | poetic, to become pregnant
+ingravesco | 5 | transferred, to increase, grow worse, become burdensome
+ingravo | 1 | weigh down
+ingravo | 3 | transferred, to oppress, molest, burden
+ingravo | 4 | trop., to make worse, aggravate
+ingredior | 1 | enter
+ingredior | 2 | begin
+ingredior | 3 | literally, to go into, to enter a place
+ingredior | 4 | to enter upon, engage in, apply oneself to something
+ingredior | 5 | to begin or commence an action or a speech
+ingredior | 6 | transferred, to walk, advance, proceed, march
+ingressio | 1 | entrance
+ingressio | 3 | transferred, a gait, a way of walking
+ingressio | 4 | a beginning, an opening
+ingressus | 1 | entrance
+ingressus | 2 | gait
+ingressus | 3 | a going into, an entrance
+ingressus | 4 | especially, a hostile entrance, an inroad
+ingressus | 5 | a manner of walking, a gait
+ingressus | 6 | trop., a beginning, a commencement, an opening
+ingruo | 1 | assail
+ingruo | 3 | transferred, of things, to press upon, threaten, come on suddenly: bellum ingruit, war breaks out upon them
+inguen | 1 | groin
+inguen | 3 | euphemistic, the private parts
+inguen | 4 | medical, a swelling in the groin
+inguen | 5 | transferred, of plants, the joint where a branch meets the stem
+ingurgito | 1 | gorge
+ingurgito | 3 | literally, to pour in like a flood, to flood, fill
+ingurgito | 4 | trop., to immerse oneself deeply in, to be absorbed in, to addict oneself to something
+inhabilis | 1 | unwieldy
+inhabilis | 3 | trop., unfit, incapable, unable for something
+inhabito | 1 | inhabit
+inhabito | 3 | transferred, of garments, to wear
+inhaereo | 1 | adhere
+inhaereo | 3 | trop., to cling to, be deeply engaged in, closely connected with
+inhaeresco | 1 | stick fast
+inhaeresco | 3 | trop., to become deeply fixed in the mind
+inhalo | 1 | breathe on
+inhalo | 3 | transferred, magical rite, to breathe upon something as a spell
+inhibeo | 1 | restrain
+inhibeo | 2 | employ
+inhibeo | 3 | literally, to keep back, curb, check: inhibere remos, to stop rowing
+inhibeo | 4 | transferred, to hinder, prevent, inhibit an action
+inhibeo | 5 | rare, to set in operation, to practise, perform, use
+inhio | 1 | gape
+inhio | 3 | in particular, to open the mouth wide at something, as if to devour it
+inhio | 4 | transferred, to gaze at with eagerness, to covet, long for
+inhonestus | 1 | dishonourable
+inhonestus | 3 | unseemly, ugly, filthy
+inhonoro | 1 | dishonour
+inhonoro | 3 | participial inhonoratus, unhonoured, disregarded, or unrewarded
+inhonorus | 1 | unhonoured
+inhonorus | 3 | of no account, inconsiderable, not esteemed
+inhonorus | 4 | unsightly, ugly
+inhorreo | 1 | bristle
+inhorreo | 3 | transferred, to quiver, shake, shudder, of things
+inhorreo | 4 | to tremble, shudder with cold, fear, or horror
+inhorresco | 1 | bristle
+inhorresco | 3 | transferred, to shiver or shake with cold or fever
+inhorresco | 4 | to quake, shudder with fear or horror
+inhospitalis | 1 | inhospitable
+inhospitus | 1 | inhospitable
+inhospitus | 3 | as a noun, inhospita, inhospitable regions
+inhumanitas | 1 | inhumanity
+inhumanitas | 2 | rudeness
+inhumanitas | 3 | inhuman conduct, savageness, cruelty
+inhumanitas | 4 | want of good breeding: incivility, unkindness, churlishness, or niggardliness
+inhumanus | 1 | inhuman
+inhumanus | 2 | boorish
+inhumanus | 3 | rude, savage, cruel, barbarous
+inhumanus | 4 | unpolished, uncivil, unmannerly, discourteous
+inhumanus | 5 | rare, superhuman, godlike
+inibi | 1 | there
+inibi | 3 | transferred, of time, nearly, almost, on the point of
+inibi | 4 | inibi est, it is near at hand, about to happen soon
+inicio | 1 | throw in
+inicio | 2 | inspire
+inicio | 3 | literally, to throw, cast, or put something into or upon a place
+inicio | 4 | esp., manum inicere, to lay hands on someone, to seize
+inicio | 5 | trop., to inspire, infuse, or instill a feeling, such as fear or hope
+inicio | 6 | trop., to throw out a hint, to mention, suggest
+inigo | 1 | drive in
+inigo | 3 | to throw or thrust someone somewhere, rare
+inimicitia | 1 | enmity
+inimico | 1 | alienate
+inimicus | 1 | hostile
+inimicus | 2 | enemy
+inimicus | 3 | of persons, unfriendly, hostile, inimical
+inimicus | 4 | of things, hurtful, injurious, harmful
+inimicus | 5 | as a noun, a personal enemy, as opposed to hostis, a public enemy
+iniquitas | 1 | unevenness
+iniquitas | 2 | injustice
+iniquitas | 3 | literally, unevenness of ground, or inequality of weight
+iniquitas | 4 | trop., unfavourableness, hardship, difficulty of circumstances
+iniquitas | 5 | trop., unfairness, injustice, unreasonableness
+iniquus | 1 | unequal
+iniquus | 2 | unjust
+iniquus | 3 | literally, uneven, not level, steep
+iniquus | 4 | transferred, unfair, unjust
+iniquus | 5 | inimical, hostile, adverse
+iniquus | 6 | unwilling, impatient, discontented: iniquo animo ferre, to bear something with displeasure
+initialis | 1 | initial
+initio | 1 | initiate
+initio | 3 | rare, late Latin, to begin, originate
+initio | 4 | ecclesiastical Latin, to baptize
+initium | 1 | beginning
+initium | 2 | rites
+initium | 3 | a going in, an entrance
+initium | 4 | transferred, elements, constituent parts, or first principles of a subject
+initium | 5 | plural initia, secret religious rites, sacred mysteries
+initus2 | 1 | entrance
+initus2 | 3 | a beginning, a commencement
+initus2 | 4 | transferred, euphemistic, mating, sexual approach, of animals
+injectio | 1 | throwing in
+injectio | 3 | medical, an injection, a clyster
+injectio | 4 | legal, manus injectio, the formal laying on of the hand to seize property or a person
+injectio | 5 | trop., late Latin, an instigation, a suggestion, or an objection
+injucundus | 1 | unpleasant
+injucundus | 3 | harsh, severe, of treatment
+injugis | 1 | unyoked
+injugis | 3 | in prosody, injuges versus, verses lacking a connecting particle, asyndeton
+injungo | 1 | attach
+injungo | 2 | enjoin
+injungo | 3 | literally, to join, fasten, or attach one thing to another
+injungo | 4 | trop., to inflict, occasion, bring upon someone, such as a burden
+injungo | 5 | trop., to impose as a duty, to charge, enjoin
+injuratus | 1 | unsworn
+injuria | 1 | injury
+injuria | 2 | injustice
+injuria | 3 | any wrong or violence done contrary to justice
+injuria | 4 | an injurious act, an outrage, an insult, an affront
+injuria | 5 | unjust severity, harshness, rigour
+injuria | 6 | damage or harm of any kind, even from natural causes: injuria frigorum, damage from the cold
+injurior | 1 | wrong
+injuriosus | 1 | unjust
+injuriosus | 3 | transferred, hurtful, noxious, harmful, of things
+injurius | 1 | unjust
+injussus1 | 1 | unbidden
+injussus1 | 3 | transferred, of things, spontaneous, uncontrolled, acting of their own accord
+injussus2 | 1 | unauthorized
+injussus2 | 3 | ablative injussu, without the command or orders of someone
+injustitia | 1 | injustice
+injustitia | 3 | severity, harsh treatment
+injustus | 1 | unjust
+injustus | 3 | in general, rare, excessive, oppressive, immoderate
+injustus | 4 | in particular, wrongful, unfair, harsh
+innascor | 1 | originate
+innascor | 3 | literally, to grow or spring up in a place
+innascor | 4 | trop., participial innatus, inborn, innate, inherent, natural
+innato | 1 | float
+innato | 3 | to flow over, to overflow onto something
+innato | 4 | trop., of style, to float on the surface, to be superficial
+innecto | 1 | bind
+innecto | 2 | contrive
+innecto | 3 | literally, to tie, bind, or fasten one thing to another
+innecto | 4 | trop., to devise, weave, or frame successively, such as excuses
+innecto | 5 | trop., to entangle, implicate someone in something
+innitor | 1 | lean on
+innitor | 3 | trop., to depend on, rest upon someone or something for support
+innitor | 4 | in particular, of syllables, to end or terminate in a certain letter
+inno | 1 | float
+inno | 3 | transferred, to sail upon, to navigate
+innocens | 1 | harmless
+innocens | 2 | innocent
+innocens | 3 | literally, harmless, inoffensive, that causes no injury
+innocens | 4 | transferred, blameless, guiltless, not guilty of wrongdoing
+innocens | 5 | in particular, disinterested, upright, incorruptible
+innocentia | 1 | harmlessness
+innocentia | 2 | integrity
+innocentia | 3 | literally, harmlessness, the quality of causing no injury
+innocentia | 4 | transferred, blamelessness, innocence
+innocentia | 5 | in particular, uprightness, integrity, disinterestedness, especially of officials
+innocuus | 1 | harmless
+innocuus | 2 | unharmed
+innocuus | 3 | active, that causes no harm, safe
+innocuus | 4 | passive, unharmed, uninjured
+innocuus | 5 | transferred, inoffensive, innocent
+innodo | 1 | knot
+innodo | 3 | trop., to entangle, implicate someone in something
+innotesco | 1 | become known
+innotesco | 3 | transferred, of daylight, to become clear, to dawn
+innotesco | 4 | rare, to come to know, to learn by experience
+innovo | 1 | renew
+innovo | 3 | transferred, se innovare, to return to a former habit or state
+innoxius | 1 | harmless
+innoxius | 2 | unharmed
+innoxius | 3 | active, that harms no one, blameless, guiltless
+innoxius | 4 | passive, unharmed, unhurt, uninjured
+innumerabilis | 1 | innumerable
+innumerus | 1 | innumerable
+innumerus | 3 | in particular, of verse, without metre, prosaic
+innuo | 1 | nod
+innuo | 3 | to give a sign, to hint, to signal
+innuptus | 1 | unmarried
+innuptus | 3 | as a noun, innupta, an unmarried woman, a maiden
+innuptus | 4 | transferred, innuptae nuptiae, a marriage that is no true marriage, an unhappy union
+innutrio | 1 | nurture
+ino | 1 | Ino
+ino | 3 | daughter of Cadmus, wife of Athamas, nurse of the infant Bacchus in Greek myth
+inoffensus | 1 | unhindered
+inoffensus | 3 | transferred, uninterrupted, going on smoothly without obstacle
+inofficiosus | 1 | undutiful
+inofficiosus | 3 | legal, of a will, contrary to natural duty, unfairly disinheriting relatives
+inofficiosus | 4 | in particular, not obliging, disobliging
+inolesco | 1 | grow in
+inolesco | 2 | implant
+inolesco | 3 | neuter, literally, to grow into or onto something
+inolesco | 4 | neuter, trop., to become fixed or ingrained in the mind
+inolesco | 5 | active, to implant, cause to grow in
+inopia | 1 | scarcity
+inopia | 2 | poverty
+inopia | 3 | want or lack of a specific thing
+inopia | 4 | need, destitution, poverty, lack of necessities
+inopia | 5 | transferred, helplessness, lack of protectors or resources
+inopia | 6 | of a speaker or style, poverty of ideas or words
+inopinabilis | 1 | inconceivable
+inopinabilis | 3 | in rhetoric, surprising, paradoxical
+inopinans | 1 | unaware
+inopinatus | 1 | unexpected
+inopinatus | 3 | as a noun, inopinatum, something unexpected
+inopinatus | 4 | adverbial ex inopinato, unexpectedly, suddenly
+inops | 1 | helpless
+inops | 2 | destitute
+inops | 3 | without resources, weak, helpless in general
+inops | 4 | in particular, poor, needy, destitute
+inops | 5 | with the genitive, lacking, devoid of something
+inops | 6 | trop., of speech, poor in words or ideas, meagre
+inordinatus | 1 | disordered
+inornatus | 1 | unadorned
+inquam | 1 | say
+inquam | 3 | used parenthetically within quoted speech, especially inquit: "he said", "she says"
+inquam | 4 | with an indefinite subject, inquiunt: "they say", "it is said"
 
