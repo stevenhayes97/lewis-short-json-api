@@ -2108,4 +2108,27 @@ intervenio | 4 | to hinder, stand in the way of
 intervenio | 5 | legal, to become surety for someone
 interventus | 1 | intervention
 interventus | 3 | mediation, assistance
+interverto | 1 | divert
+interverto | 2 | embezzle
+interverto | 3 | to defraud someone of something
+interverto | 4 | to squander, waste
+interviso | 1 | check on
+interviso | 3 | to visit occasionally, from time to time
+intestabilis1 | 1 | detestable
+intestabilis1 | 3 | legal, incapable of being a witness or making a will
+intestatus1 | 1 | intestate
+intestatus1 | 3 | indemnatus atque intestatus, condemned without trial or witnesses
+intestinus | 1 | internal
+intestinus | 3 | as a noun, the intestines, bowels, gut
+intexo | 1 | interweave
+intexo | 3 | trop., to insert, include, work into a narrative
+intimo | 1 | announce
+intimo | 3 | literally, to bring into, insert
+intimus | 1 | innermost
+intimus | 2 | intimate
+intingo | 1 | dip
+intingo | 3 | ecclesiastical, to baptize
+intolerabilis | 1 | intolerable
+intolerabilis | 3 | irresistible
+intolerabilis | 4 | archaic, active sense, impatient, unable to bear something
 
