@@ -1975,4 +1975,18 @@ interdico | 3 | interdicere alicui aqua et igni, to banish someone
 interdico | 4 | legal, of a praetor, to issue an interdict, a provisional decree
 interdictum | 1 | prohibition
 interdictum | 3 | legal, a praetorian interdict, a provisional decree
+interdiu | 1 | by day
+interdo | 1 | distribute
+interdo | 3 | nihil interduo, I don't care, it's no matter to me
+interdum | 1 | sometimes
+interea | 1 | meanwhile
+intereo | 1 | perish
+intereo | 3 | interii! I am ruined! I am undone!
+interfectorius | 1 | deadly
+interficio | 1 | kill
+interficio | 3 | to destroy, ruin, bring to nothing
+interficio | 4 | se interficere, to commit suicide, kill oneself
+interfluo | 1 | flow between
+interfor | 1 | interrupt
+interfundo | 1 | pour between
 
