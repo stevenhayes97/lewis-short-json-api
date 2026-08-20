@@ -1794,4 +1794,29 @@ instauro | 3 | of a festival or rite, to repeat, hold again from the start
 insterno | 1 | cover
 instigo | 1 | incite
 instillo | 1 | instil
+instinctus2 | 1 | impulse
+instinguo | 1 | incite
+instita | 1 | flounce
+instita | 2 | bandage
+institor | 1 | peddler
+institor | 3 | trop., one who hawks about a skill for show, a huckster of eloquence
+instituo | 1 | establish
+instituo | 2 | teach
+instituo | 3 | to undertake, resolve to begin something
+instituo | 4 | to appoint, esp. as heir or to an office
+instituo | 5 | to arrange, draw up troops
+instituo | 6 | to govern, regulate, order a way of life
+institutio | 1 | education
+institutio | 3 | arrangement, disposition
+institutio | 4 | legal, appointment as heir
+institutor | 1 | founder
+institutor | 2 | teacher
+institutum | 1 | practice
+institutum | 2 | plan
+insto | 1 | press on
+insto | 2 | be imminent
+insto | 3 | in a hostile sense, to press upon, harass, pursue closely
+insto | 4 | to urge forward, ply diligently, work hard at something
+insto | 5 | grammar, tempus instans, the present tense
+instrepo | 1 | rattle
 
