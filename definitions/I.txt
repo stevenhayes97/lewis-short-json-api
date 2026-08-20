@@ -1778,4 +1778,20 @@ inspectio | 3 | trop., theoretical consideration, as opposed to practice
 inspecto | 1 | observe
 insperans | 1 | not expecting
 insperatus | 1 | unexpected
+inspergo | 1 | sprinkle
+inspicio | 1 | inspect
+inspicio | 3 | trop., to scrutinize, get to know thoroughly
+inspiro | 1 | inspire
+inspiro | 3 | literally, to blow into or upon, as a musical instrument
+instabilis | 1 | unstable
+instantia | 1 | imminence
+instantia | 3 | trop., urgency, earnestness, insistence
+instar | 1 | likeness
+instar | 3 | with a genitive, equivalent to, the size of, like
+instar | 4 | worth, value
+instauro | 1 | renew
+instauro | 3 | of a festival or rite, to repeat, hold again from the start
+insterno | 1 | cover
+instigo | 1 | incite
+instillo | 1 | instil
 
