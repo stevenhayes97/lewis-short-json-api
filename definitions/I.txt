@@ -2086,4 +2086,26 @@ interseco | 1 | intersect
 interseco | 3 | trop., to impress deeply, fix in the mind
 intersero1 | 1 | plant between
 intersero1 | 3 | se interserere, to come between, lie between
+intersisto | 1 | pause
+interstinguo | 1 | speckle
+interstinguo | 2 | extinguish
+interstinguo | 3 | rare, to kill
+intersum | 1 | lie between
+intersum | 2 | differ
+intersum | 3 | to attend, take part in, be present at
+intersum | 4 | interest, impersonal, it matters, it concerns
+intertexo | 1 | interweave
+intertrimentum | 1 | wastage
+intertrimentum | 3 | trop., loss, damage generally
+interturbo | 1 | disturb
+intervallo | 1 | space out
+intervallum | 1 | interval
+intervallum | 2 | difference
+intervenio | 1 | intervene
+intervenio | 2 | happen
+intervenio | 3 | to interrupt, put a stop to
+intervenio | 4 | to hinder, stand in the way of
+intervenio | 5 | legal, to become surety for someone
+interventus | 1 | intervention
+interventus | 3 | mediation, assistance
 
