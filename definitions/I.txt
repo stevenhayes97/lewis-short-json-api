@@ -1900,4 +1900,33 @@ intellego | 4 | to interpret, take something to mean
 intellego | 5 | to notice, perceive, observe
 intemeratus | 1 | undefiled
 intemeratus | 2 | chaste
+intemperans | 1 | intemperate
+intemperantia | 1 | intemperance
+intemperantia | 3 | of weather, harshness, inclemency
+intemperantia | 4 | haughtiness, insolence towards others
+intemperatus | 1 | inclement
+intemperatus | 3 | trop., immoderate, unrestrained
+intemperiae | 1 | madness
+intemperiae | 3 | literally, of weather, harsh, inclement
+intemperies | 1 | inclemency
+intemperies | 3 | transferred, a storm, calamity
+intemperies | 4 | trop., outrageous behaviour, fury, madness
+intempestivus | 1 | untimely
+intempestus | 1 | unseasonable
+intempestus | 3 | nox intempesta, the dead of night
+intempestus | 4 | of a place, unhealthy, unwholesome
+intempestus | 5 | stormy, tempestuous
+intendo | 1 | stretch
+intendo | 2 | intend
+intendo | 3 | to aim, direct a weapon at
+intendo | 4 | to direct one's attention or mind to, focus on
+intendo | 5 | legal, to assert, maintain, aver in court
+intendo | 6 | to threaten with, bring a charge against
+intentio | 1 | tension
+intentio | 3 | trop., effort, attention, application to a task
+intentio | 4 | purpose, intention
+intentio | 5 | legal, an accusation, the plaintiff's charge
+intento | 1 | threaten
+intento | 3 | literally, to stretch out, point towards
+intento | 4 | legal, to accuse, bring a charge against
 
