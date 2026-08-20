@@ -2263,4 +2263,24 @@ invius | 1 | impassable
 invius | 3 | transferred, forbidden, inaccessible to entry
 invocatus2 | 1 | uninvited
 invocatus2 | 3 | legal, not called upon, uncalled as a witness
+invoco | 1 | invoke
+invoco | 3 | transferred, to call by name, to name someone
+involo | 1 | swoop down
+involo | 3 | transferred, to seize, snatch, carry off
+involucrum | 1 | wrapper
+involucrum | 3 | trop., a cover, disguise, mask
+involvo | 1 | wrap
+involvo | 2 | overwhelm
+involvo | 3 | trop., to obscure, complicate, involve
+invulgo | 1 | publish
+io1 | 1 | hurrah
+io1 | 3 | expressing pain, oh, ah
+io1 | 4 | as an urgent call, look out, quick
+ipse | 1 | himself
+ipse | 3 | for emphasis, precisely, exactly, in person
+ipse | 4 | of one's own accord, of oneself, spontaneously
+ira | 1 | anger
+ira | 3 | of things, violence, fury, impetuosity
+iracundia | 1 | irascibility
+iracundus | 1 | irascible
 
