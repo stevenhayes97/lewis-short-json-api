@@ -1951,4 +1951,28 @@ intercessio | 4 | a tribune's veto, protest
 intercessor | 1 | surety
 intercessor | 2 | protester
 intercessus | 1 | intervention
+intercido1 | 1 | cut through
+intercido1 | 3 | of accounts, to mutilate, falsify
+intercido2 | 1 | perish
+intercido2 | 3 | literally, to fall between
+intercido2 | 4 | to happen meanwhile, occur
+intercipio | 1 | intercept
+intercipio | 3 | to interrupt, cut off, block
+intercipio | 4 | to steal, rob
+intercipio | 5 | of death, to carry off, snatch away
+intercludo | 1 | block off
+intercludo | 3 | to cut off, separate from supplies or aid
+intercludo | 4 | to blockade
+intercludo | 5 | trop., to hinder, prevent
+intercurro | 1 | run between
+intercurro | 3 | trop., to intercede, step in during a dispute
+intercurso | 1 | run between
+intercursus2 | 1 | intervention
+intercus | 1 | subcutaneous
+intercus | 3 | aqua intercus, dropsy
+interdico | 1 | forbid
+interdico | 3 | interdicere alicui aqua et igni, to banish someone
+interdico | 4 | legal, of a praetor, to issue an interdict, a provisional decree
+interdictum | 1 | prohibition
+interdictum | 3 | legal, a praetorian interdict, a provisional decree
 
