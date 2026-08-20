@@ -1581,4 +1581,26 @@ innocuus | 4 | passive, unharmed, uninjured
 innocuus | 5 | transferred, inoffensive, innocent
 innodo | 1 | knot
 innodo | 3 | trop., to entangle, implicate someone in something
+innotesco | 1 | become known
+innotesco | 3 | transferred, of daylight, to become clear, to dawn
+innotesco | 4 | rare, to come to know, to learn by experience
+innovo | 1 | renew
+innovo | 3 | transferred, se innovare, to return to a former habit or state
+innoxius | 1 | harmless
+innoxius | 2 | unharmed
+innoxius | 3 | active, that harms no one, blameless, guiltless
+innoxius | 4 | passive, unharmed, unhurt, uninjured
+innumerabilis | 1 | innumerable
+innumerus | 1 | innumerable
+innumerus | 3 | in particular, of verse, without metre, prosaic
+innuo | 1 | nod
+innuo | 3 | to give a sign, to hint, to signal
+innuptus | 1 | unmarried
+innuptus | 3 | as a noun, innupta, an unmarried woman, a maiden
+innuptus | 4 | transferred, innuptae nuptiae, a marriage that is no true marriage, an unhappy union
+innutrio | 1 | nurture
+ino | 1 | Ino
+ino | 3 | daughter of Cadmus, wife of Athamas, nurse of the infant Bacchus in Greek myth
+inoffensus | 1 | unhindered
+inoffensus | 3 | transferred, uninterrupted, going on smoothly without obstacle
 
