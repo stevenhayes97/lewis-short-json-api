@@ -1392,4 +1392,43 @@ inglorius | 1 | inglorious
 inglorius | 3 | transferred, poetic, unadorned, plain, without ornament
 ingluvies | 1 | crop
 ingluvies | 3 | transferred, voraciousness, gluttony
+ingratia | 1 | ingratitude
+ingratia | 3 | adverbial ingratiis, unwillingly, against one's will
+ingratus | 1 | ungrateful
+ingratus | 2 | unpleasant
+ingratus | 3 | disagreeable, unpleasant, of things
+ingratus | 4 | unthankful, not showing gratitude, of persons
+ingratus | 5 | passive, unappreciated, receiving no thanks
+ingratus | 6 | transferred, of things, unproductive, not repaying the effort spent on them
+ingravesco | 1 | worsen
+ingravesco | 3 | literally, to grow heavy or heavier
+ingravesco | 4 | poetic, to become pregnant
+ingravesco | 5 | transferred, to increase, grow worse, become burdensome
+ingravo | 1 | weigh down
+ingravo | 3 | transferred, to oppress, molest, burden
+ingravo | 4 | trop., to make worse, aggravate
+ingredior | 1 | enter
+ingredior | 2 | begin
+ingredior | 3 | literally, to go into, to enter a place
+ingredior | 4 | to enter upon, engage in, apply oneself to something
+ingredior | 5 | to begin or commence an action or a speech
+ingredior | 6 | transferred, to walk, advance, proceed, march
+ingressio | 1 | entrance
+ingressio | 3 | transferred, a gait, a way of walking
+ingressio | 4 | a beginning, an opening
+ingressus | 1 | entrance
+ingressus | 2 | gait
+ingressus | 3 | a going into, an entrance
+ingressus | 4 | especially, a hostile entrance, an inroad
+ingressus | 5 | a manner of walking, a gait
+ingressus | 6 | trop., a beginning, a commencement, an opening
+ingruo | 1 | assail
+ingruo | 3 | transferred, of things, to press upon, threaten, come on suddenly: bellum ingruit, war breaks out upon them
+inguen | 1 | groin
+inguen | 3 | euphemistic, the private parts
+inguen | 4 | medical, a swelling in the groin
+inguen | 5 | transferred, of plants, the joint where a branch meets the stem
+ingurgito | 1 | gorge
+ingurgito | 3 | literally, to pour in like a flood, to flood, fill
+ingurgito | 4 | trop., to immerse oneself deeply in, to be absorbed in, to addict oneself to something
 
