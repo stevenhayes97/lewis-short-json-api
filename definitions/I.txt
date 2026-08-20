@@ -1819,4 +1819,30 @@ insto | 3 | in a hostile sense, to press upon, harass, pursue closely
 insto | 4 | to urge forward, ply diligently, work hard at something
 insto | 5 | grammar, tempus instans, the present tense
 instrepo | 1 | rattle
+instringo | 1 | bind
+instringo | 3 | of a weapon, to draw, brandish
+instructio | 1 | construction
+instructio | 3 | military, an arranging in battle order
+instructio | 4 | trop., instruction, teaching
+instrumentum | 1 | tool
+instrumentum | 3 | collectively, equipment, apparatus, stock
+instrumentum | 4 | legal, a document, record
+instrumentum | 5 | means, resources, provision
+instruo | 1 | build
+instruo | 2 | teach
+instruo | 3 | to draw up, arrange in battle order
+instruo | 4 | to equip, furnish, fit out
+instruo | 5 | trop., to prepare for, provide for a case or speech
+instruo | 6 | to plan, devise a scheme
+insubidus | 1 | foolish
+insuesco | 1 | become accustomed
+insuesco | 3 | active, to accustom someone to something
+insuetus2 | 1 | unaccustomed
+insuetus2 | 3 | passive, of things, unusual, strange
+insula1 | 1 | island
+insula1 | 3 | a tenement block, an apartment building rented out to poor families
+insulsus | 1 | silly
+insulsus | 3 | literally, unsalted, flavourless, of food
+insulto | 1 | leap upon
+insulto | 2 | taunt, mock
 
