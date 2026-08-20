@@ -1656,4 +1656,29 @@ insalubris | 1 | unwholesome
 insalubris | 3 | unserviceable, unprofitable, useless
 insanabilis | 1 | incurable
 insanabilis | 3 | trop., irretrievable, without remedy, hopeless
+insania | 1 | madness
+insania | 3 | of excess or extravagance in something, villarum insania, a mania for country houses
+insania | 4 | poetic frenzy, inspired rapture
+insanio | 1 | be insane
+insanio | 3 | transferred, to act like a madman, to rage, rave
+insanio | 4 | with acc., to be crazily obsessed with something, amores alicujus insanire, to be madly in love with someone
+insanitas | 1 | unsoundness
+insanus | 1 | mad
+insanus | 2 | excessive
+insanus | 3 | transferred, of things, monstrous, outrageous, extravagant
+insanus | 4 | that causes madness
+insanus | 5 | enthusiastic, inspired
+insatiabilis | 1 | insatiable
+insatiabilis | 3 | of things, never producing satiety, never palling
+inscendo | 1 | mount
+inscendo | 3 | transferred, of a man, to force himself sexually upon a woman
+insciens | 1 | unaware
+insciens | 2 | ignorant
+inscientia | 1 | ignorance
+inscientia | 3 | philosophically, lack of fundamental knowledge, as opposed to true understanding
+inscientia | 4 | in Tacitus, culpable negligence, remissness
+inscitia | 1 | ineptitude
+inscitia | 3 | in Tacitus, ignorance, lack of knowledge (= inscientia)
+inscitus | 1 | inept
+inscitus | 3 | passive, unknown, undisclosed
 
