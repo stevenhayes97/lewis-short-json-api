@@ -2045,4 +2045,26 @@ interpello | 3 | to hinder, obstruct a plan or action
 interpello | 4 | to dun, demand payment from
 interpolis | 1 | refurbished
 interpolis | 3 | falsified, not genuine
+interpolo | 1 | falsify
+interpolo | 3 | literally, to refurbish, give a new appearance to
+interpono | 1 | insert
+interpono | 3 | of time, to let pass, leave an interval
+interpono | 4 | se interponere, to interfere, intervene, meddle
+interpono | 5 | fidem interponere, to pledge one's word
+interpositio | 1 | insertion
+interpositio | 3 | rhetoric, a parenthesis
+interpres | 1 | interpreter
+interpres | 3 | an agent, broker, negotiator
+interpretatio | 1 | interpretation
+interpretatio | 3 | a translation, version
+interpretatio | 4 | meaning, signification
+interpretor | 1 | interpret
+interpretor | 3 | to translate
+interpretor | 4 | to understand, conclude, infer
+interpungo | 1 | punctuate
+interrado | 1 | scrape
+interrado | 3 | of trees or vines, to prune here and there
+interregnum | 1 | interregnum
+interrex | 1 | regent
+interrex | 3 | under the republic, an interim magistrate holding power until new consuls were elected
 
