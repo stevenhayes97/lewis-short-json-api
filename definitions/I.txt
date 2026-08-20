@@ -2011,4 +2011,22 @@ interjectus2 | 3 | of time, an interval
 interjungo | 1 | join
 interjungo | 2 | unyoke
 interjungo | 3 | trop., to rest, take a break
+interlino | 1 | smear
+interlino | 3 | of a document, to falsify by erasing or altering
+interloquor | 1 | interrupt
+interloquor | 3 | legal, to pronounce an interlocutory ruling
+interluceo | 1 | gleam through
+interluceo | 3 | trop., to be evident, manifest
+interluceo | 4 | of something thin or sparse, to be transparent, show through
+interluo | 1 | flow between
+# review: intermenstruus astronomical term for "the time between two months" has no one-word English equivalent
+intermenstruus | 1 | of the time between two months, at the new moon
+interminor | 1 | threaten
+intermisceo | 1 | intermix
+intermissio | 1 | interruption
+intermitto | 1 | interrupt
+intermitto | 3 | of a fever, to be intermittent
+intermitto | 4 | to leave an interval, a gap, between
+intermorior | 1 | die off
+intermorior | 3 | trop., to faint, swoon
 
