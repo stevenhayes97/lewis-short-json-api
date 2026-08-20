@@ -1742,4 +1742,26 @@ insinuatio | 4 | legal, a notification, formal declaration
 insinuo | 1 | worm in
 insinuo | 3 | trop., se insinuare, to worm one's way into someone's favor, to ingratiate oneself
 insinuo | 4 | trop., to make favourably known, recommend, introduce a person to another
+insipiens | 1 | foolish
+insipientia | 1 | folly
+insisto | 1 | tread
+insisto | 2 | persist
+insisto | 3 | to set out on, pursue a path or journey
+insisto | 4 | in a hostile sense, to press upon, pursue closely
+insisto | 5 | trop., to apply oneself vigorously to, press on with a task
+insisto | 6 | to halt, stop, stand still
+insisto | 7 | to dwell upon, discuss at length
+insiticius | 1 | grafted
+insiticius | 3 | trop., of a nap, taken in the middle of the day, a siesta
+insitivus | 1 | grafted
+insitivus | 2 | spurious
+insociabilis | 1 | unsociable
+insolens | 1 | insolent
+insolens | 2 | unaccustomed
+insolentia | 1 | insolence
+insolentia | 2 | unfamiliarity
+insolesco | 1 | grow insolent
+insolesco | 3 | literally, of the voice, to begin to break, deepen
+insolitus | 1 | unusual
+insolitus | 3 | of persons, unaccustomed, unused to something
 
