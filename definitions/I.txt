@@ -1603,4 +1603,35 @@ ino | 1 | Ino
 ino | 3 | daughter of Cadmus, wife of Athamas, nurse of the infant Bacchus in Greek myth
 inoffensus | 1 | unhindered
 inoffensus | 3 | transferred, uninterrupted, going on smoothly without obstacle
+inofficiosus | 1 | undutiful
+inofficiosus | 3 | legal, of a will, contrary to natural duty, unfairly disinheriting relatives
+inofficiosus | 4 | in particular, not obliging, disobliging
+inolesco | 1 | grow in
+inolesco | 2 | implant
+inolesco | 3 | neuter, literally, to grow into or onto something
+inolesco | 4 | neuter, trop., to become fixed or ingrained in the mind
+inolesco | 5 | active, to implant, cause to grow in
+inopia | 1 | scarcity
+inopia | 2 | poverty
+inopia | 3 | want or lack of a specific thing
+inopia | 4 | need, destitution, poverty, lack of necessities
+inopia | 5 | transferred, helplessness, lack of protectors or resources
+inopia | 6 | of a speaker or style, poverty of ideas or words
+inopinabilis | 1 | inconceivable
+inopinabilis | 3 | in rhetoric, surprising, paradoxical
+inopinans | 1 | unaware
+inopinatus | 1 | unexpected
+inopinatus | 3 | as a noun, inopinatum, something unexpected
+inopinatus | 4 | adverbial ex inopinato, unexpectedly, suddenly
+inops | 1 | helpless
+inops | 2 | destitute
+inops | 3 | without resources, weak, helpless in general
+inops | 4 | in particular, poor, needy, destitute
+inops | 5 | with the genitive, lacking, devoid of something
+inops | 6 | trop., of speech, poor in words or ideas, meagre
+inordinatus | 1 | disordered
+inornatus | 1 | unadorned
+inquam | 1 | say
+inquam | 3 | used parenthetically within quoted speech, especially inquit: "he said", "she says"
+inquam | 4 | with an indefinite subject, inquiunt: "they say", "it is said"
 
