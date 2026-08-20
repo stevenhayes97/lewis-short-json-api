@@ -2283,4 +2283,18 @@ ira | 1 | anger
 ira | 3 | of things, violence, fury, impetuosity
 iracundia | 1 | irascibility
 iracundus | 1 | irascible
+irascor | 1 | be angry
+irascor | 3 | transferred, of things such as the sea or wind, to rage, be violent
+irradio | 1 | illuminate
+irrationabilis | 1 | irrational
+irrationalis | 1 | irrational
+irreligiosus | 1 | irreligious
+irremediabilis | 1 | incurable
+irremediabilis | 3 | trop., implacable, unrelenting
+irrepo | 1 | creep in
+irrepo | 3 | trop., to steal in, insinuate oneself imperceptibly
+irrequietus | 1 | restless
+irrequietus | 2 | disquieting
+irretio | 1 | ensnare
+irreverens | 1 | irreverent
 
