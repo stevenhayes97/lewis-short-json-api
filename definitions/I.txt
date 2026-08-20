@@ -1867,4 +1867,37 @@ intactus1 | 1 | untouched
 intactus1 | 2 | chaste
 intectus2 | 1 | uncovered
 intectus2 | 2 | frank
+integer | 1 | whole
+integer | 2 | honest
+integer | 3 | fresh, unused, new
+integer | 4 | unbiased, impartial
+integer | 5 | res integra, an undecided matter, still open
+integer | 6 | de integro, anew, afresh
+intego | 1 | cover
+intego | 2 | protect
+integritas | 1 | wholeness
+integritas | 2 | integrity
+integritas | 3 | soundness of mind, sanity
+integritas | 4 | chastity, purity
+integritas | 5 | purity, correctness of language
+integro | 1 | renew
+integro | 3 | to restore, repair, heal
+integro | 4 | trop., to refresh, recreate the mind
+integumentum | 1 | covering
+integumentum | 3 | transferred, something that conceals, a disguise, cloak
+integumentum | 4 | a protection, defence, shelter
+intellectus2 | 1 | understanding
+intellectus2 | 3 | perception by the senses
+intellectus2 | 4 | meaning, sense of a word
+intellegentia | 1 | intelligence
+intellegentia | 3 | taste, skill, connoisseurship in a subject
+intellegentia | 4 | perception by the senses
+intellegibilis | 1 | intelligible
+intellegibilis | 3 | rare, perceptible to the senses, sensible
+intellego | 1 | understand
+intellego | 3 | to be knowledgeable in, a connoisseur of something
+intellego | 4 | to interpret, take something to mean
+intellego | 5 | to notice, perceive, observe
+intemeratus | 1 | undefiled
+intemeratus | 2 | chaste
 
