@@ -2067,4 +2067,23 @@ interrado | 3 | of trees or vines, to prune here and there
 interregnum | 1 | interregnum
 interrex | 1 | regent
 interrex | 3 | under the republic, an interim magistrate holding power until new consuls were elected
+interritus | 1 | undaunted
+interrogatio | 1 | interrogation
+interrogatio | 3 | logic, a syllogism
+interrogo | 1 | question
+interrogo | 3 | legal, to examine a witness, to prosecute, sue
+interrogo | 4 | logic, to argue by syllogism
+interrumpo | 1 | break apart
+interrumpo | 2 | interrupt
+interruptio | 1 | interruption
+interruptio | 3 | rhetoric, a sudden breaking off in speech
+intersaepio | 1 | fence in
+intersaepio | 2 | cut off
+interscindo | 1 | tear down
+interscindo | 3 | transferred, to separate, cut off, interrupt
+interscribo | 1 | write between
+interseco | 1 | intersect
+interseco | 3 | trop., to impress deeply, fix in the mind
+intersero1 | 1 | plant between
+intersero1 | 3 | se interserere, to come between, lie between
 
