@@ -2331,4 +2331,30 @@ is | 3 | such, of such a kind or sort
 istac | 1 | that way
 iste | 1 | that
 iste | 3 | often with scorn or contempt, that wretched, that so-called
+istic1 | 1 | that
+istic2 | 1 | there
+istic2 | 3 | transferred, in this matter, in this affair
+istim | 1 | thither
+istinc | 1 | from there
+istinc | 3 | transferred, of that thing, from that matter
+istiusmodi | 1 | such
+isto | 1 | thither
+istuc | 1 | thither
+istuc | 3 | transferred, to that point, to that subject
+ita | 1 | thus
+ita | 2 | yes
+itaque | 1 | therefore
+item | 1 | likewise
+iter | 1 | journey
+iter | 2 | road
+iter | 3 | legal, a right of way
+iteratio | 1 | repetition
+iteratio | 3 | agriculture, a second ploughing
+itero1 | 1 | repeat
+itero1 | 3 | agriculture, to plough a second time
+iterum | 1 | again
+itidem | 1 | likewise
+itinerarius | 1 | itinerary
+itus | 1 | departure
+itus | 3 | literally, a going, a gait, manner of walking
 
