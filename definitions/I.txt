@@ -1634,4 +1634,26 @@ inornatus | 1 | unadorned
 inquam | 1 | say
 inquam | 3 | used parenthetically within quoted speech, especially inquit: "he said", "she says"
 inquam | 4 | with an indefinite subject, inquiunt: "they say", "it is said"
+inquies2 | 1 | restless
+inquieto | 1 | disturb
+inquietus | 1 | restless
+inquilinus1 | 1 | tenant
+inquilinus1 | 3 | trop., contemptuously, an interloper, an intruder
+inquino | 1 | pollute
+inquino | 3 | literally, to stain, befoul, dirty
+inquino | 4 | trop., to corrupt, contaminate, defile morally
+inquino | 5 | of speech, low, base, vulgar
+inquiro | 1 | inquire
+inquiro | 3 | legal, to search for grounds of accusation against someone
+inquiro | 4 | to search, examine, pry into something closely
+inquisitio | 1 | inquiry
+inquisitio | 3 | transferred, an examination, a searching into a matter
+inquisitio | 4 | legal, an inquisition, a search for proofs to support an accusation
+inquisitor | 1 | investigator
+inquisitor | 3 | literally, a tracker of a fugitive or suspect, a detective
+inquisitor | 4 | legal, one who searches for proofs to support an accusation, a prosecutor's agent
+insalubris | 1 | unwholesome
+insalubris | 3 | unserviceable, unprofitable, useless
+insanabilis | 1 | incurable
+insanabilis | 3 | trop., irretrievable, without remedy, hopeless
 
