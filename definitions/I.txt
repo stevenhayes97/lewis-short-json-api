@@ -2230,4 +2230,22 @@ inveterasco | 1 | take root
 inveterasco | 3 | to grow old, decay, become obsolete
 invetero | 1 | age
 invetero | 3 | passive, to become inveterate, deep-rooted, chronic
+invicem | 1 | alternately
+invicem | 2 | mutually
+invictus | 1 | invincible
+invideo1 | 1 | envy
+invideo1 | 3 | to be unwilling, refuse, deny something to someone
+invideo1 | 4 | to hinder, prevent
+invidia | 1 | envy
+invidia | 2 | unpopularity
+invidiosus | 1 | envious
+invidiosus | 2 | enviable
+invidiosus | 3 | hateful, odious, exciting resentment
+invidus | 1 | envious
+invigilo | 1 | watch over
+inviolabilis | 1 | inviolable
+inviolabilis | 2 | imperishable
+inviolatus | 1 | unhurt
+inviolatus | 2 | inviolable
+invisibilis | 1 | invisible
 
