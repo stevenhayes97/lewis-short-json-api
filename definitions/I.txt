@@ -1699,4 +1699,26 @@ insectatio | 3 | trop., a verbal attack, railing, invective
 insector | 1 | pursue
 insector | 3 | trop., to attack with words, to rail at, inveigh against
 insemino | 1 | implant
+insensibilis | 1 | imperceptible
+insensibilis | 2 | senseless
+inseparabilis | 1 | inseparable
+insepultus | 1 | unburied
+insepultus | 3 | of a burial rite, lacking the customary rites, and so no true burial at all
+insequor | 1 | follow
+insequor | 3 | to pursue, press upon, chase
+insequor | 4 | trop., to strive after, pursue as a goal
+insequor | 5 | trop., to attack with words, to reproach, censure
+insequor | 6 | of time or order, to follow next, succeed
+insero1 | 1 | graft
+insero1 | 3 | trop., to implant, instil a quality
+insero2 | 1 | insert
+insero2 | 3 | trop., to introduce, bring in, mix in
+inservio | 1 | serve
+insideo | 1 | sit upon
+insideo | 3 | trop., to be fixed, embedded, ingrained in the mind
+insideo | 4 | of a place, to occupy, hold, be situated on
+insidiae | 1 | ambush
+insidiae | 3 | trop., a trick, plot, snare
+insidior | 1 | ambush
+insidior | 3 | trop., to watch for, lie in wait for an opportunity
 
