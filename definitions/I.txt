@@ -125,7 +125,6 @@ illex2 | 3 | as a noun, a decoy, a lure
 illex2 | 4 | transferred, a seducer or seductress
 illibatus | 1 | unimpaired
 illiberalis | 1 | ungenerous
-illiberalis | 2 | niggardly
 illiberalis | 3 | unworthy of a free person, ignoble, sordid, mean, disobliging
 illiberalis | 4 | niggardly, stingy, grasping, especially with money
 illic1 | 1 | that
@@ -178,7 +177,7 @@ illustris | 3 | lighted up, clear, bright, literal
 illustris | 4 | trop., clear, plain, evident, manifest
 illustris | 5 | distinguished, famous, honourable, illustrious
 illustro | 1 | illuminate
-illustro | 2 | clarify
+illustro | 2 | glorify
 illustro | 3 | to light up, make bright, literal
 illustro | 4 | trop., to make clear, elucidate, explain
 illustro | 5 | trop., to render famous, renowned, illustrious
@@ -647,7 +646,7 @@ inaro | 5 | transferred, to mark or brand, rare
 inartificialis | 1 | inartificial
 inaudio | 1 | overhear
 inauditus2 | 1 | unprecedented
-inauditus2 | 2 | unheard
+inauditus2 | 2 | undefended
 inauditus2 | 3 | unheard-of, unusual, strange, new, the frequent classical sense
 inauditus2 | 4 | legal, of an accused person, without a hearing, not given a chance to speak
 inauditus2 | 5 | literally, not heard, inaudible
@@ -805,8 +804,7 @@ incogitabilis | 1 | thoughtless
 incogitabilis | 2 | inconceivable
 incogitabilis | 3 | active, thoughtless, inconsiderate
 incogitabilis | 4 | passive, inconceivable, incomprehensible
-incogitatus | 1 | unconsidered
-incogitatus | 2 | thoughtless
+incogitatus | 1 | thoughtless
 incogitatus | 3 | passive, unconsidered, unstudied, spontaneous
 incogitatus | 4 | active, thoughtless, inconsiderate
 incognitus | 1 | unknown
