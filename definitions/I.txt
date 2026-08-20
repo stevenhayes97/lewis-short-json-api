@@ -1521,4 +1521,28 @@ injectio | 4 | legal, manus injectio, the formal laying on of the hand to seize 
 injectio | 5 | trop., late Latin, an instigation, a suggestion, or an objection
 injucundus | 1 | unpleasant
 injucundus | 3 | harsh, severe, of treatment
+injugis | 1 | unyoked
+injugis | 3 | in prosody, injuges versus, verses lacking a connecting particle, asyndeton
+injungo | 1 | attach
+injungo | 2 | enjoin
+injungo | 3 | literally, to join, fasten, or attach one thing to another
+injungo | 4 | trop., to inflict, occasion, bring upon someone, such as a burden
+injungo | 5 | trop., to impose as a duty, to charge, enjoin
+injuratus | 1 | unsworn
+injuria | 1 | injury
+injuria | 2 | injustice
+injuria | 3 | any wrong or violence done contrary to justice
+injuria | 4 | an injurious act, an outrage, an insult, an affront
+injuria | 5 | unjust severity, harshness, rigour
+injuria | 6 | damage or harm of any kind, even from natural causes: injuria frigorum, damage from the cold
+injurior | 1 | wrong
+injuriosus | 1 | unjust
+injuriosus | 3 | transferred, hurtful, noxious, harmful, of things
+injurius | 1 | unjust
+injussus1 | 1 | unbidden
+injussus1 | 3 | transferred, of things, spontaneous, uncontrolled, acting of their own accord
+injussus2 | 1 | unauthorized
+injussus2 | 3 | ablative injussu, without the command or orders of someone
+injustitia | 1 | injustice
+injustitia | 3 | severity, harsh treatment
 
