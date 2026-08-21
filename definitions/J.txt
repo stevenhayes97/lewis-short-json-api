@@ -71,3 +71,26 @@ janua | 3 | entrance, gateway (of any kind)
 janua | 4 | entrance, approach (to a subject or undertaking)
 jecur | 1 | liver
 jecur | 3 | seat of the passions (anger, love), regarded as the liver in Roman physiology
+jejunitas | 1 | emptiness
+jejunitas | 3 | emptiness of the stomach, hunger
+jejunitas | 4 | dryness, meagreness (of a speech or style)
+jejunitas | 5 | ignorance (of a subject)
+jejunium | 1 | fast
+jejunium | 3 | hunger
+jejunium | 4 | leanness
+jejunium | 5 | barrenness (of soil)
+jejuno | 1 | fast
+jejunus | 1 | hungry
+jejunus | 2 | barren
+jejunus | 3 | thirsty
+jejunus | 4 | scanty, meagre (in quantity)
+jejunus | 5 | poor, feeble, spiritless (of speech or style)
+jejunus | 6 | destitute of, without (+ gen. or abl.)
+jentaculum | 1 | breakfast
+jocor | 1 | joke
+jocor | 3 | say in jest, jokingly remark
+jocosus | 1 | jocular
+jocularis | 1 | laughable
+joculus | 1 | jest
+joculus | 3 | toys, playthings
+jocus | 1 | jest
