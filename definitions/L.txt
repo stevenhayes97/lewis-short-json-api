@@ -61,3 +61,31 @@ lac | 4 | milk-white (poet., of colour)
 lacer | 1 | mangled
 lacer | 3 | rent, scattered, broken up (trop., of families or an army)
 laceratio | 1 | laceration
+lacerna1 | 1 | cloak
+lacero | 1 | mangle
+lacero | 2 | slander
+lacero | 3 | wreck, shatter (a ship)
+lacero | 4 | plunder, ravage (a country)
+lacero | 5 | torment, afflict (with grief)
+lacero | 6 | squander, ruin (an estate)
+lacerta | 1 | lizard
+lacerta | 3 | a kind of sea-fish (species uncertain)
+lacertus1 | 1 | arm
+lacertus1 | 3 | the upper arm (from shoulder to elbow)
+lacertus1 | 4 | muscular strength, might (trop.)
+lacesso | 1 | provoke
+lacesso | 3 | challenge, attack (to a fight)
+lacesso | 4 | stimulate, arouse, incite
+lacinia | 1 | hem
+lacinia | 3 | garment (post-class., in gen.)
+lacinia | 4 | dewlap (of cattle, transf.)
+lacinia | 5 | a small piece, fragment, or scrap
+laciniosus | 1 | jagged
+laciniosus | 3 | overloaded, redundant (trop., of a speech or style)
+lacrima | 1 | tear
+lacrima | 3 | gum, resin (exuded from plants, transf.)
+lacrimabilis | 1 | lamentable
+lacrimabilis | 3 | tear-like, tearful
+lacrimo | 1 | weep
+lacrimo | 3 | bewail, lament (a thing)
+lacrimo | 4 | drip, exude (of plants oozing gum, transf.)
