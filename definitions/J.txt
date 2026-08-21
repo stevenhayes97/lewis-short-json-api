@@ -1,0 +1,49 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_J.json (Lewis & Short via Perseus), simplified for learners.
+jaceo | 1 | lie
+jaceo | 3 | lie ill, be sick
+jaceo | 4 | lie dead, have fallen
+jaceo | 5 | be situated (of a place)
+jaceo | 6 | be dejected, cast down
+jaceo | 7 | be refuted, fail (of an argument)
+jaceo | 8 | lie idle, be neglected
+jacio | 1 | throw
+jacio | 3 | lay, build, found (a wall, foundation)
+jacio | 4 | scatter, sow
+jacio | 5 | throw away, cast off
+jacio | 6 | throw out, utter, mention (in speech)
+jactantia | 1 | boasting
+jactatio | 1 | tossing
+jactatio | 2 | boasting
+jactatio | 3 | violent shaking or motion (of the body, a storm at sea)
+jactatio | 4 | mental agitation, restlessness
+jactatio | 5 | striving for popular favour
+jactator | 1 | boaster
+jacto | 1 | toss
+jacto | 2 | boast
+jacto | 3 | toss about, buffet (a storm tossing a ship)
+jacto | 4 | throw away, discard
+jacto | 5 | throw out, mention, discuss
+jacto | 6 | torment, harass
+jacto | 7 | threaten, utter threats
+jacto | 8 | se jactare, to show off, brag about oneself
+jactura | 1 | loss
+jactura | 2 | expense
+jactura | 3 | jettison, throwing overboard (of cargo in a storm)
+jactura | 4 | dismissal, turning away (of a client)
+jactura | 5 | jacturam facere + gen., to sacrifice, give up (something)
+jactus2 | 1 | throw
+jactus2 | 2 | range
+jactus2 | 3 | throw or cast of dice
+jactus2 | 4 | distance covered by a throw (intra jactum teli, within range of a weapon)
+jactus2 | 5 | haul, cast (of a fishing net)
+jactus2 | 6 | jettison, throwing overboard
+jaculator | 1 | javelin-thrower
+jaculator | 3 | thrower, hurler (in general)
+jaculator | 4 | fisherman (one who casts a net)
+jaculator | 5 | accuser
+jaculor | 1 | hurl
+jaculor | 3 | throw the javelin, fight with javelin
+jaculor | 4 | strike, hit (with a missile)
+jaculor | 5 | shoot at, assail, revile (in words)
+jaculor | 6 | aim at, strive for
