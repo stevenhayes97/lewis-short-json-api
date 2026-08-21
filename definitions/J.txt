@@ -148,3 +148,29 @@ jugum | 5 | beam of a weaver's loom
 jugum | 6 | bondage, servitude (trop., of slavery or marriage)
 jumentum | 1 | draught-animal
 jumentum | 3 | carriage, vehicle (rare)
+junceus | 1 | of rushes
+junceus | 2 | slender
+junctura | 1 | joint
+junctura | 3 | connection, relationship
+junctura | 4 | combination, arrangement (of words, in rhetoric or grammar)
+jungo | 1 | join
+jungo | 2 | marry
+jungo | 3 | yoke, harness (animals to a vehicle)
+jungo | 4 | heal, close (a wound)
+jungo | 5 | unite, combine (armies or forces)
+jungo | 6 | make, conclude (a treaty or alliance)
+jungo | 7 | compound (words, gram.)
+junix | 1 | heifer
+jurator | 1 | oath-taker
+jurator | 3 | censor's assistant (who received sworn tax returns)
+jurgium | 1 | quarrel
+jurgium | 3 | legal separation (of husband and wife)
+jurgo | 1 | quarrel
+jurgo | 2 | scold
+jurgo | 3 | sue at law
+jurisconsultus | 1 | lawyer
+jurisdictio | 1 | jurisdiction
+jurisdictio | 3 | authority, control (in general)
+jurisdictio | 4 | assize town (a place where justice was administered)
+# review: jurisperitus no one-word adjective for "skilled in the law"; nearest single words distort the meaning
+jurisperitus | 1 | learned in the law
