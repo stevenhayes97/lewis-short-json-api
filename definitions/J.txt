@@ -97,7 +97,7 @@ jocus | 1 | jest
 juba1 | 1 | mane
 juba1 | 3 | crest (of a helmet, serpent, or bird)
 jubar | 1 | radiance
-jubar | 3 | the morning star (poet.)
+jubar | 3 | the morning or evening star (poet.)
 jubar | 4 | splendour, glory (transf.)
 jubeo | 1 | order
 jubeo | 3 | decree, ratify (a law, in political language)
@@ -203,7 +203,7 @@ justus | 3 | proper, complete, adequate (of size, number, or degree)
 justus | 4 | moderate, mild, gentle
 justus | 5 | justa, neut. plur. subst., due rites, formalities; esp. funeral rites
 juvenalis1 | 1 | youthful
-juvenculus | 1 | young
+juvenculus | 1 | youngster
 juvenculus | 3 | young man
 juvenculus | 4 | young bullock
 juvenculus | 5 | young girl
