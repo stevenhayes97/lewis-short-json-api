@@ -220,3 +220,26 @@ lapillus | 3 | gemstone, jewel
 lapillus | 4 | a stone in the bladder (medical, gravel)
 lapillus | 5 | tombstone
 lapio | 1 | petrify
+lapis | 1 | stone
+lapis | 3 | milestone (marking a Roman mile on a road)
+lapis | 4 | gem, precious stone
+lapis | 5 | gravestone, tombstone
+lapis | 6 | blockhead, dolt (trop., term of insult for a dull person)
+lapso | 1 | stumble
+lapso | 3 | falter, stammer (trop., of words)
+lapsus2 | 1 | fall
+lapsus2 | 2 | error
+lapsus2 | 3 | gliding motion, flow, flight (of water, stars, or similar)
+laquear | 1 | panelled ceiling
+laqueo1 | 1 | ensnare
+laqueo2 | 1 | panel
+laqueus | 1 | noose
+laqueus | 3 | snare, trap (trop., a rhetorical or legal trick)
+laqueus | 4 | fetters, chains, hindrance (trop.)
+largior | 1 | lavish
+largior | 2 | bribe
+largitio | 1 | largesse
+largitio | 2 | bribery
+largitio | 3 | prodigality, extravagance
+largitor2 | 1 | benefactor
+largitor2 | 2 | briber
