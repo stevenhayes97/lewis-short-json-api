@@ -94,3 +94,26 @@ jocularis | 1 | laughable
 joculus | 1 | jest
 joculus | 3 | toys, playthings
 jocus | 1 | jest
+juba1 | 1 | mane
+juba1 | 3 | crest (of a helmet, serpent, or bird)
+jubar | 1 | radiance
+jubar | 3 | the morning star (poet.)
+jubar | 4 | splendour, glory (transf.)
+jubeo | 1 | order
+jubeo | 3 | decree, ratify (a law, in political language)
+jubeo | 4 | appoint, elect (to an office)
+jubeo | 5 | prescribe (medically)
+jucunditas | 1 | pleasantness
+jucundo | 1 | delight
+jucundus | 1 | pleasant
+judex | 1 | judge
+judex | 3 | umpire, arbiter (in a non-legal matter)
+judicatio | 1 | judgment
+judicatio | 3 | judicial investigation, inquiry into a charge
+judicatio | 4 | critical estimate, assessment
+judicialis | 1 | judicial
+judicium | 1 | trial
+judicium | 2 | judgment
+judicium | 3 | court, tribunal (transf., the place of trial)
+judicium | 4 | discernment, good sense
+judicium | 5 | judicial speeches, pleadings in court
