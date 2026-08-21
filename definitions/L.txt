@@ -33,3 +33,31 @@ labor1 | 5 | decline, sink into ruin
 labor1 | 6 | slip away from, lose (something)
 labor1 | 7 | fall into, come to be in (a state or habit)
 labor1 | 8 | lapse from the faith, apostatize (eccl.)
+labor2 | 1 | labour
+labor2 | 2 | hardship
+labor2 | 3 | work, workmanship (of an artist, meton.)
+labor2 | 4 | crops, produce (of cultivated land, meton.)
+labor2 | 5 | eclipse (of the sun or moon, poet.)
+laboriosus | 1 | laborious
+laboriosus | 2 | industrious
+laboriosus | 3 | troubled, harassed (undergoing much hardship)
+laboro | 1 | labour
+laboro | 2 | suffer
+laboro | 3 | be anxious, worried
+laboro | 4 | be in danger, distress
+laboro | 5 | make, fashion, produce (a work of art)
+laboro | 6 | cultivate (crops)
+labrum1 | 1 | lip
+labrum1 | 3 | edge, rim (of a vessel or ditch)
+labrum2 | 1 | basin
+labrum2 | 3 | wine-vat (for treading grapes)
+labrum2 | 4 | bath (poet.)
+labrusca | 1 | wild vine
+labyrinthus | 1 | labyrinth
+labyrinthus | 3 | maze, tangle, bewildering complexity (trop.)
+lac | 1 | milk
+lac | 3 | sap, milky juice (of plants)
+lac | 4 | milk-white (poet., of colour)
+lacer | 1 | mangled
+lacer | 3 | rent, scattered, broken up (trop., of families or an army)
+laceratio | 1 | laceration
