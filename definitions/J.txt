@@ -226,3 +226,13 @@ juventas | 1 | youth
 juventas | 3 | the goddess of youth, Hebe (personified)
 juventus | 1 | youth
 juventus | 3 | young men, the youth (of a community, collectively)
+juvo | 1 | help
+juvo | 2 | please
+juvo | 3 | impers., juvat, it delights, it is pleasant (+ infin.)
+juxta | 1 | near
+juxta | 2 | equally
+juxta | 3 | beside, next to (+ acc.)
+juxta | 4 | on a par with, next to (in rank or importance)
+juxta | 5 | according to (juxta praeceptum, juxta morem)
+juxtim | 1 | near
+juxtim | 2 | equally
