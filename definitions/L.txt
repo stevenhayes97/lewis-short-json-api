@@ -1,0 +1,35 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_L.json (Lewis & Short via Perseus), simplified for learners.
+labasco | 1 | totter
+labasco | 3 | waver, give way (trop., of resolve or feelings)
+labefacio | 1 | shake
+labefacio | 3 | undermine, weaken (a person's resolve or loyalty)
+labefacio | 4 | overthrow, ruin, destroy
+labefacto | 1 | shake
+labefacto | 3 | weaken, injure
+labefacto | 4 | overthrow, ruin, destroy
+labellum1 | 1 | lip
+labellum1 | 3 | a dainty little lip (dim. of labrum, poet.)
+labes1 | 1 | fall
+labes1 | 3 | ruin, destruction
+labes1 | 4 | a ruinous person, a curse (meton., of one who brings ruin)
+labes1 | 5 | epilepsy, the falling sickness
+labes2 | 1 | stain
+labes2 | 3 | disgrace, stigma (trop.)
+labes2 | 4 | a disgraceful person, a wretch (meton.)
+labia | 1 | lip
+labia | 3 | axle (of an oil-press, transf.)
+labilis | 1 | unstable
+labilis | 3 | fleeting, transient, perishable (trop.)
+labilis | 4 | slippery (causing others to slip, of ground)
+labo | 1 | totter
+labo | 3 | waver, hesitate (of resolve or opinion)
+labo | 4 | collapse, go to ruin
+labor1 | 1 | glide
+labor1 | 2 | err
+labor1 | 3 | slip away, escape
+labor1 | 4 | elapse, pass away (of time)
+labor1 | 5 | decline, sink into ruin
+labor1 | 6 | slip away from, lose (something)
+labor1 | 7 | fall into, come to be in (a state or habit)
+labor1 | 8 | lapse from the faith, apostatize (eccl.)
