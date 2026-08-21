@@ -117,3 +117,34 @@ judicium | 2 | judgment
 judicium | 3 | court, tribunal (transf., the place of trial)
 judicium | 4 | discernment, good sense
 judicium | 5 | judicial speeches, pleadings in court
+judico | 1 | judge
+judico | 2 | condemn
+judico | 3 | consider, deem, think (an opinion, transf.)
+judico | 4 | declare, pronounce (someone to be something)
+judico | 5 | determine, decide, resolve
+judico | 6 | award, adjudge (something to someone)
+jugalis | 1 | nuptial
+jugalis | 3 | of a yoke, yoked together (of draught animals)
+jugalis | 4 | fastened to the loom (of thread)
+jugerum | 1 | acre
+jugis2 | 1 | perpetual
+jugis2 | 3 | ever-flowing, perennial (of a spring or water source)
+juglans | 1 | walnut
+juglans | 3 | walnut-tree
+jugo1 | 1 | join
+jugo1 | 3 | prop up, train (a vine) on rails
+jugo1 | 4 | marry (poet.)
+jugulo | 1 | slaughter
+jugulo | 3 | cut the throat of
+jugulo | 4 | confute, silence (an opponent, trop.)
+jugulum | 1 | throat
+jugulum | 3 | collar-bone
+jugulum | 4 | crux, vital point (of an argument or case)
+jugum | 1 | yoke
+jugum | 2 | ridge
+jugum | 3 | team, pair (of draught animals)
+jugum | 4 | the yoke of spears passed under by a defeated army, a symbol of subjugation
+jugum | 5 | beam of a weaver's loom
+jugum | 6 | bondage, servitude (trop., of slavery or marriage)
+jumentum | 1 | draught-animal
+jumentum | 3 | carriage, vehicle (rare)
