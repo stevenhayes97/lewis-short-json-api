@@ -174,3 +174,26 @@ jurisdictio | 3 | authority, control (in general)
 jurisdictio | 4 | assize town (a place where justice was administered)
 # review: jurisperitus no one-word adjective for "skilled in the law"; nearest single words distort the meaning
 jurisperitus | 1 | learned in the law
+juro | 1 | swear
+juro | 3 | conspire (swear together against someone)
+jus1 | 1 | broth
+jus1 | 3 | juice (of a plant, transf.)
+jus2 | 1 | law
+jus2 | 2 | right
+jus2 | 3 | justice, fairness (jure, justly)
+jus2 | 4 | court of justice (in jus ire, to go to court)
+jusjurandum | 1 | oath
+jussum | 1 | order
+jussum | 3 | prescription (of a physician)
+jussum | 4 | a father's consent (to his son's marriage)
+jussus2 | 1 | order
+justificatio | 1 | justification
+justificatio | 3 | due formality, ceremonial correctness
+justifico | 1 | justify
+justifico | 3 | do justice to, treat justly
+justitia | 1 | justice
+justitia | 3 | clemency, compassion
+justitia | 4 | ordinances, precepts (of God, biblical, plur.)
+justitium | 1 | suspension
+justitium | 3 | recess of the courts, legal vacation
+justitium | 4 | public mourning (a suspension of public business)
