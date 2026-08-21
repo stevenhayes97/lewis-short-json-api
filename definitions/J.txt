@@ -47,3 +47,27 @@ jaculor | 3 | throw the javelin, fight with javelin
 jaculor | 4 | strike, hit (with a missile)
 jaculor | 5 | shoot at, assail, revile (in words)
 jaculor | 6 | aim at, strive for
+jaculum | 1 | javelin
+jaculum | 3 | casting-net, fishing-net
+jaculus | 1 | casting-net
+jaculus | 3 | dart-snake (a serpent said to leap from trees)
+jaculus | 4 | lasso, noose (for oxen)
+jam | 1 | now
+jam | 2 | already
+jam | 3 | at once, immediately
+jam | 4 | then, in that case (introducing a conclusion)
+jam | 5 | moreover, further (in transitions)
+jam | 6 | no longer (jam non)
+jamdudum | 1 | long since
+jamdudum | 2 | immediately
+jamjam | 1 | just now
+jamjamque | 1 | just now
+jampridem | 1 | long since
+jampridem | 3 | for a long time now, hitherto
+janitor | 1 | porter
+janitor | 3 | guardian of a gate (poet., of Janus or Cerberus)
+janua | 1 | door
+janua | 3 | entrance, gateway (of any kind)
+janua | 4 | entrance, approach (to a subject or undertaking)
+jecur | 1 | liver
+jecur | 3 | seat of the passions (anger, love), regarded as the liver in Roman physiology
