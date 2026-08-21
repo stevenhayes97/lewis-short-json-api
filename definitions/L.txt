@@ -155,3 +155,27 @@ lamentatio | 1 | lamentation
 lamentor | 1 | lament
 lamentor | 3 | bewail, weep over (a person or thing)
 lamentum | 1 | lamentation
+lamina | 1 | plate
+lamina | 3 | red-hot iron plates (an instrument of torture)
+lamina | 4 | coin, money (transf.)
+lana | 1 | wool
+lana | 3 | wool-working, spinning (transf.)
+lana | 4 | down, soft fluff (of feathers or hair, transf.)
+lanarius1 | 1 | of wool
+lanarius1 | 3 | wool-worker (subst.)
+lanatus1 | 1 | woolly
+lanatus1 | 3 | downy (of fruit, transf.)
+lancea | 1 | lance
+lancino | 1 | mangle
+lancino | 3 | squander, fritter away (trop., e.g. one's life)
+laneus | 1 | woollen
+laneus | 3 | downy (of fruit, transf.)
+langueo | 1 | languish
+langueo | 3 | be ill, be weak from sickness
+langueo | 4 | be listless, apathetic (trop.)
+languesco | 1 | weaken
+languesco | 3 | fall ill, become sickly
+languesco | 4 | decline, flag (trop., of morale or vigour)
+languidus | 1 | languid
+languidus | 3 | ill, weak from sickness
+languidus | 4 | feeble, listless, inactive (trop.)
