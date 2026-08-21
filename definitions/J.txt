@@ -197,3 +197,32 @@ justitia | 4 | ordinances, precepts (of God, biblical, plur.)
 justitium | 1 | suspension
 justitium | 3 | recess of the courts, legal vacation
 justitium | 4 | public mourning (a suspension of public business)
+justus | 1 | just
+justus | 2 | lawful
+justus | 3 | proper, complete, adequate (of size, number, or degree)
+justus | 4 | moderate, mild, gentle
+justus | 5 | justa, neut. plur. subst., due rites, formalities; esp. funeral rites
+juvenalis1 | 1 | youthful
+juvenculus | 1 | young
+juvenculus | 3 | young man
+juvenculus | 4 | young bullock
+juvenculus | 5 | young girl
+juvencus1 | 1 | young
+juvencus1 | 3 | young bullock, steer
+juvencus1 | 4 | young man
+juvencus1 | 5 | heifer, young cow (juvenca)
+juvencus1 | 6 | girl (juvenca, poet.)
+juvenesco | 1 | mature
+juvenesco | 3 | grow young again, be rejuvenated
+juvenesco | 4 | become vigorous, revive (transf., of strength or plants)
+juvenilis | 1 | youthful
+juvenilis | 3 | lively, cheerful
+juvenilis | 4 | violent, vigorous
+juvenis | 1 | young
+juvenis | 3 | a young person, a youth (aged between twenty and forty)
+juventa | 1 | youth
+juventa | 3 | the goddess of youth (personified)
+juventas | 1 | youth
+juventas | 3 | the goddess of youth, Hebe (personified)
+juventus | 1 | youth
+juventus | 3 | young men, the youth (of a community, collectively)
