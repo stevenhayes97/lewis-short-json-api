@@ -1,0 +1,238 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_J.json (Lewis & Short via Perseus), simplified for learners.
+jaceo | 1 | lie
+jaceo | 3 | lie ill, be sick
+jaceo | 4 | lie dead, have fallen
+jaceo | 5 | be situated (of a place)
+jaceo | 6 | be dejected, cast down
+jaceo | 7 | be refuted, fail (of an argument)
+jaceo | 8 | lie idle, be neglected
+jacio | 1 | throw
+jacio | 3 | lay, build, found (a wall, foundation)
+jacio | 4 | scatter, sow
+jacio | 5 | throw away, cast off
+jacio | 6 | throw out, utter, mention (in speech)
+jactantia | 1 | boasting
+jactatio | 1 | tossing
+jactatio | 2 | boasting
+jactatio | 3 | violent shaking or motion (of the body, a storm at sea)
+jactatio | 4 | mental agitation, restlessness
+jactatio | 5 | striving for popular favour
+jactator | 1 | boaster
+jacto | 1 | toss
+jacto | 2 | boast
+jacto | 3 | toss about, buffet (a storm tossing a ship)
+jacto | 4 | throw away, discard
+jacto | 5 | throw out, mention, discuss
+jacto | 6 | torment, harass
+jacto | 7 | threaten, utter threats
+jacto | 8 | se jactare, to show off, brag about oneself
+jactura | 1 | loss
+jactura | 2 | expense
+jactura | 3 | jettison, throwing overboard (of cargo in a storm)
+jactura | 4 | dismissal, turning away (of a client)
+jactura | 5 | jacturam facere + gen., to sacrifice, give up (something)
+jactus2 | 1 | throw
+jactus2 | 2 | range
+jactus2 | 3 | throw or cast of dice
+jactus2 | 4 | distance covered by a throw (intra jactum teli, within range of a weapon)
+jactus2 | 5 | haul, cast (of a fishing net)
+jactus2 | 6 | jettison, throwing overboard
+jaculator | 1 | javelin-thrower
+jaculator | 3 | thrower, hurler (in general)
+jaculator | 4 | fisherman (one who casts a net)
+jaculator | 5 | accuser
+jaculor | 1 | hurl
+jaculor | 3 | throw the javelin, fight with javelin
+jaculor | 4 | strike, hit (with a missile)
+jaculor | 5 | shoot at, assail, revile (in words)
+jaculor | 6 | aim at, strive for
+jaculum | 1 | javelin
+jaculum | 3 | casting-net, fishing-net
+jaculus | 1 | casting-net
+jaculus | 3 | dart-snake (a serpent said to leap from trees)
+jaculus | 4 | lasso, noose (for oxen)
+jam | 1 | now
+jam | 2 | already
+jam | 3 | at once, immediately
+jam | 4 | then, in that case (introducing a conclusion)
+jam | 5 | moreover, further (in transitions)
+jam | 6 | no longer (jam non)
+jamdudum | 1 | long since
+jamdudum | 2 | immediately
+jamjam | 1 | just now
+jamjamque | 1 | just now
+jampridem | 1 | long since
+jampridem | 3 | for a long time now, hitherto
+janitor | 1 | porter
+janitor | 3 | guardian of a gate (poet., of Janus or Cerberus)
+janua | 1 | door
+janua | 3 | entrance, gateway (of any kind)
+janua | 4 | entrance, approach (to a subject or undertaking)
+jecur | 1 | liver
+jecur | 3 | seat of the passions (anger, love), regarded as the liver in Roman physiology
+jejunitas | 1 | emptiness
+jejunitas | 3 | emptiness of the stomach, hunger
+jejunitas | 4 | dryness, meagreness (of a speech or style)
+jejunitas | 5 | ignorance (of a subject)
+jejunium | 1 | fast
+jejunium | 3 | hunger
+jejunium | 4 | leanness
+jejunium | 5 | barrenness (of soil)
+jejuno | 1 | fast
+jejunus | 1 | hungry
+jejunus | 2 | barren
+jejunus | 3 | thirsty
+jejunus | 4 | scanty, meagre (in quantity)
+jejunus | 5 | poor, feeble, spiritless (of speech or style)
+jejunus | 6 | destitute of, without (+ gen. or abl.)
+jentaculum | 1 | breakfast
+jocor | 1 | joke
+jocor | 3 | say in jest, jokingly remark
+jocosus | 1 | jocular
+jocularis | 1 | laughable
+joculus | 1 | jest
+joculus | 3 | toys, playthings
+jocus | 1 | jest
+juba1 | 1 | mane
+juba1 | 3 | crest (of a helmet, serpent, or bird)
+jubar | 1 | radiance
+jubar | 3 | the morning or evening star (poet.)
+jubar | 4 | splendour, glory (transf.)
+jubeo | 1 | order
+jubeo | 3 | decree, ratify (a law, in political language)
+jubeo | 4 | appoint, elect (to an office)
+jubeo | 5 | prescribe (medically)
+jucunditas | 1 | pleasantness
+jucundo | 1 | delight
+jucundus | 1 | pleasant
+judex | 1 | judge
+judex | 3 | umpire, arbiter (in a non-legal matter)
+judicatio | 1 | judgment
+judicatio | 3 | judicial investigation, inquiry into a charge
+judicatio | 4 | critical estimate, assessment
+judicialis | 1 | judicial
+judicium | 1 | trial
+judicium | 2 | judgment
+judicium | 3 | court, tribunal (transf., the place of trial)
+judicium | 4 | discernment, good sense
+judicium | 5 | judicial speeches, pleadings in court
+judico | 1 | judge
+judico | 2 | condemn
+judico | 3 | consider, deem, think (an opinion, transf.)
+judico | 4 | declare, pronounce (someone to be something)
+judico | 5 | determine, decide, resolve
+judico | 6 | award, adjudge (something to someone)
+jugalis | 1 | nuptial
+jugalis | 3 | of a yoke, yoked together (of draught animals)
+jugalis | 4 | fastened to the loom (of thread)
+jugerum | 1 | acre
+jugis2 | 1 | perpetual
+jugis2 | 3 | ever-flowing, perennial (of a spring or water source)
+juglans | 1 | walnut
+juglans | 3 | walnut-tree
+jugo1 | 1 | join
+jugo1 | 3 | prop up, train (a vine) on rails
+jugo1 | 4 | marry (poet.)
+jugulo | 1 | slaughter
+jugulo | 3 | cut the throat of
+jugulo | 4 | confute, silence (an opponent, trop.)
+jugulum | 1 | throat
+jugulum | 3 | collar-bone
+jugulum | 4 | crux, vital point (of an argument or case)
+jugum | 1 | yoke
+jugum | 2 | ridge
+jugum | 3 | team, pair (of draught animals)
+jugum | 4 | the yoke of spears passed under by a defeated army, a symbol of subjugation
+jugum | 5 | beam of a weaver's loom
+jugum | 6 | bondage, servitude (trop., of slavery or marriage)
+jumentum | 1 | draught-animal
+jumentum | 3 | carriage, vehicle (rare)
+junceus | 1 | of rushes
+junceus | 2 | slender
+junctura | 1 | joint
+junctura | 3 | connection, relationship
+junctura | 4 | combination, arrangement (of words, in rhetoric or grammar)
+jungo | 1 | join
+jungo | 2 | marry
+jungo | 3 | yoke, harness (animals to a vehicle)
+jungo | 4 | heal, close (a wound)
+jungo | 5 | unite, combine (armies or forces)
+jungo | 6 | make, conclude (a treaty or alliance)
+jungo | 7 | compound (words, gram.)
+junix | 1 | heifer
+jurator | 1 | oath-taker
+jurator | 3 | censor's assistant (who received sworn tax returns)
+jurgium | 1 | quarrel
+jurgium | 3 | legal separation (of husband and wife)
+jurgo | 1 | quarrel
+jurgo | 2 | scold
+jurgo | 3 | sue at law
+jurisconsultus | 1 | lawyer
+jurisdictio | 1 | jurisdiction
+jurisdictio | 3 | authority, control (in general)
+jurisdictio | 4 | assize town (a place where justice was administered)
+# review: jurisperitus no one-word adjective for "skilled in the law"; nearest single words distort the meaning
+jurisperitus | 1 | learned in the law
+juro | 1 | swear
+juro | 3 | conspire (swear together against someone)
+jus1 | 1 | broth
+jus1 | 3 | juice (of a plant, transf.)
+jus2 | 1 | law
+jus2 | 2 | right
+jus2 | 3 | justice, fairness (jure, justly)
+jus2 | 4 | court of justice (in jus ire, to go to court)
+jusjurandum | 1 | oath
+jussum | 1 | order
+jussum | 3 | prescription (of a physician)
+jussum | 4 | a father's consent (to his son's marriage)
+jussus2 | 1 | order
+justificatio | 1 | justification
+justificatio | 3 | due formality, ceremonial correctness
+justifico | 1 | justify
+justifico | 3 | do justice to, treat justly
+justitia | 1 | justice
+justitia | 3 | clemency, compassion
+justitia | 4 | ordinances, precepts (of God, biblical, plur.)
+justitium | 1 | suspension
+justitium | 3 | recess of the courts, legal vacation
+justitium | 4 | public mourning (a suspension of public business)
+justus | 1 | just
+justus | 2 | lawful
+justus | 3 | proper, complete, adequate (of size, number, or degree)
+justus | 4 | moderate, mild, gentle
+justus | 5 | justa, neut. plur. subst., due rites, formalities; esp. funeral rites
+juvenalis1 | 1 | youthful
+juvenculus | 1 | youngster
+juvenculus | 3 | young man
+juvenculus | 4 | young bullock
+juvenculus | 5 | young girl
+juvencus1 | 1 | young
+juvencus1 | 3 | young bullock, steer
+juvencus1 | 4 | young man
+juvencus1 | 5 | heifer, young cow (juvenca)
+juvencus1 | 6 | girl (juvenca, poet.)
+juvenesco | 1 | mature
+juvenesco | 3 | grow young again, be rejuvenated
+juvenesco | 4 | become vigorous, revive (transf., of strength or plants)
+juvenilis | 1 | youthful
+juvenilis | 3 | lively, cheerful
+juvenilis | 4 | violent, vigorous
+juvenis | 1 | young
+juvenis | 3 | a young person, a youth (aged between twenty and forty)
+juventa | 1 | youth
+juventa | 3 | the goddess of youth (personified)
+juventas | 1 | youth
+juventas | 3 | the goddess of youth, Hebe (personified)
+juventus | 1 | youth
+juventus | 3 | young men, the youth (of a community, collectively)
+juvo | 1 | help
+juvo | 2 | please
+juvo | 3 | impers., juvat, it delights, it is pleasant (+ infin.)
+juxta | 1 | near
+juxta | 2 | equally
+juxta | 3 | beside, next to (+ acc.)
+juxta | 4 | on a par with, next to (in rank or importance)
+juxta | 5 | according to (juxta praeceptum, juxta morem)
+juxtim | 1 | near
+juxtim | 2 | equally
