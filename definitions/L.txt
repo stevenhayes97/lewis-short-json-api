@@ -89,3 +89,25 @@ lacrimabilis | 3 | tear-like, tearful
 lacrimo | 1 | weep
 lacrimo | 3 | bewail, lament (a thing)
 lacrimo | 4 | drip, exude (of plants oozing gum, transf.)
+lacrimosus | 1 | tearful
+lacrimosus | 2 | lamentable
+lacrimosus | 3 | oozing, exuding sap (transf., of plants)
+lacrimula | 1 | teardrop
+lacrimula | 3 | a slight, insincere tear ("crocodile tears")
+lactarius | 1 | milky
+lactarius | 3 | made with milk (of food)
+lactarius | 4 | suckling, giving suck (of animals)
+lacteo | 1 | suckle
+lacteo | 3 | be milky, be full of sap (of plants or grain)
+lactes | 1 | intestines
+lactesco | 1 | lactate
+lactesco | 3 | turn milky (of sap, juice, or grain)
+lacteus | 1 | milky
+lacteus | 3 | milk-white (transf., of colour)
+lacteus | 4 | the Milky Way (lacteus circulus, astro.)
+lacto1 | 1 | suckle
+lacto1 | 3 | give suck to (a child)
+lacto2 | 1 | cajole
+lacuna | 1 | hollow
+lacuna | 2 | gap
+lacuna | 3 | pool, pond (a hollow where water collects)
