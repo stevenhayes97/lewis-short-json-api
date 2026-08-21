@@ -196,3 +196,27 @@ lanio1 | 1 | mangle
 lanista | 1 | gladiator-trainer
 lanista | 3 | instigator, agitator (transf., one who incites violence)
 lanius | 1 | butcher
+lanugo | 1 | down
+lanugo | 3 | sawdust (transf.)
+lanx | 1 | platter
+lanx | 3 | the pan of a balance (scale)
+lanx | 4 | aequa lance, with equal weight, impartially (trop.)
+lapicidinae | 1 | quarries
+lapidarius | 1 | of stone
+lapidarius | 3 | stony, full of stones
+lapidatio | 1 | stoning
+lapidatio | 3 | a shower of stones
+lapidatio | 4 | hail-storm (transf.)
+lapideus | 1 | of stone
+lapideus | 3 | petrified, turned to stone (trop., of emotion)
+lapideus | 4 | stony, full of stones
+lapido | 1 | stone
+lapido | 3 | assail, attack (trop., with words)
+lapido | 4 | lapidat, it rains stones (impers.)
+lapidosus | 1 | stony
+lapidosus | 3 | hard as stone (transf., of bread, fruit, or disease)
+lapillus | 1 | pebble
+lapillus | 3 | gemstone, jewel
+lapillus | 4 | a stone in the bladder (medical, gravel)
+lapillus | 5 | tombstone
+lapio | 1 | petrify
