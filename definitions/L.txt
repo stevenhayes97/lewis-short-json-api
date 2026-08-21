@@ -133,3 +133,25 @@ laetitia | 3 | beauty, charm (of appearance, transf.)
 laetitia | 4 | fertility, luxuriance (of soil or plants)
 laeto | 1 | gladden
 laeto | 3 | fertilize (the soil, post-class.)
+laetor | 1 | rejoice
+laetor | 3 | flourish, thrive (transf., of plants)
+laetus1 | 1 | happy
+laetus1 | 2 | fertile
+laetus1 | 3 | favourable, auspicious (of omens or portents)
+laetus1 | 4 | pleasing, delightful (of news or things)
+laetus1 | 5 | abundant, luxuriant (of growth or crops)
+laetus2 | 1 | serf
+laevus | 1 | left
+laevus | 2 | unlucky
+laevus | 3 | awkward, foolish, silly (trop.)
+laevus | 4 | lucky, favourable (in augural language, since the augur faced south)
+lama | 1 | bog
+lambo | 1 | lick
+lambo | 3 | flow past, wash (of a river, transf.)
+lambo | 4 | lick, play upon (of fire, transf.)
+lamentabilis | 1 | mournful
+lamentabilis | 2 | deplorable
+lamentatio | 1 | lamentation
+lamentor | 1 | lament
+lamentor | 3 | bewail, weep over (a person or thing)
+lamentum | 1 | lamentation
