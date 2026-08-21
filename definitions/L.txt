@@ -111,3 +111,25 @@ lacto2 | 1 | cajole
 lacuna | 1 | hollow
 lacuna | 2 | gap
 lacuna | 3 | pool, pond (a hollow where water collects)
+lacunar | 1 | panelled ceiling
+lacunosus | 1 | pitted
+lacus | 1 | lake
+lacus | 2 | vat
+lacus | 3 | reservoir, cistern (for water)
+lacus | 4 | den (for wild animals, e.g. lions)
+laedo | 1 | hurt
+laedo | 3 | break, violate (one's word or an agreement)
+laedo | 4 | harm, damage (someone's reputation)
+laedo | 5 | offend (a god)
+laedo | 6 | laedere majestatem, to commit treason
+laena | 1 | cloak
+laesio | 1 | injury
+laesio | 3 | a personal attack (rhetorical term, in oratory)
+laetifico | 1 | gladden
+laetifico | 3 | fertilize, enrich (the soil)
+laetificus | 1 | joyful
+laetitia | 1 | joy
+laetitia | 3 | beauty, charm (of appearance, transf.)
+laetitia | 4 | fertility, luxuriance (of soil or plants)
+laeto | 1 | gladden
+laeto | 3 | fertilize (the soil, post-class.)
