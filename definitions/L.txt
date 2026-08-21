@@ -179,3 +179,20 @@ languesco | 4 | decline, flag (trop., of morale or vigour)
 languidus | 1 | languid
 languidus | 3 | ill, weak from sickness
 languidus | 4 | feeble, listless, inactive (trop.)
+languor | 1 | languor
+languor | 3 | weakness, faintness (from illness)
+laniatus | 1 | mangling
+laniatus | 3 | anguish, remorse (trop.)
+lanicius | 1 | woolly
+lanicius | 3 | fleece, wool (subst. lanicium)
+lanienus | 1 | butcher's
+lanienus | 3 | a butcher's stall (subst. laniena)
+lanificium | 1 | wool-working
+lanificus | 1 | wool-working
+laniger | 1 | fleecy
+laniger | 3 | a ram (subst.)
+laniger | 4 | the constellation Aries (subst., poet.)
+lanio1 | 1 | mangle
+lanista | 1 | gladiator-trainer
+lanista | 3 | instigator, agitator (transf., one who incites violence)
+lanius | 1 | butcher
