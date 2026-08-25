@@ -540,3 +540,29 @@ libero | 4 | clear, traverse (a place, without hindrance)
 libertas | 1 | freedom
 libertas | 3 | frankness, outspokenness (freedom of speech)
 libertas | 4 | exemption (from taxation)
+libertinus1 | 1 | freedman
+libertus | 1 | freedman
+libet | 1 | please
+libet | 3 | libet mihi, it pleases me, I am willing (impers. + dat.)
+libidinosus | 1 | lustful
+libidinosus | 3 | eager, longing (in a good sense, post-class.)
+libido | 1 | desire
+libido | 2 | lust
+libido | 3 | caprice, wilfulness (unrestrained whim)
+libo1 | 1 | taste
+libo1 | 2 | libate
+libo1 | 3 | touch lightly, graze (poet.)
+libo1 | 4 | impair, diminish (by taking a part away)
+libo1 | 5 | extract, glean (trop., ideas from a source)
+libra | 1 | pound
+libra | 2 | scale
+libra | 3 | the constellation Libra
+libra | 4 | a level, plummet-line (for checking horizontal surfaces)
+libramentum | 1 | weight
+libramentum | 3 | a level surface, horizontal plane (transf.)
+libramentum | 4 | counterweight (for a machine, e.g. a ballista)
+librarius1 | 1 | pound-weight
+librarius1 | 3 | a sixteenth of a modius (subst., a measure equal to a sextarius)
+librarius2 | 1 | of books
+librarius2 | 3 | a copyist, scribe (subst.)
+librarius2 | 4 | a bookseller (subst.)
