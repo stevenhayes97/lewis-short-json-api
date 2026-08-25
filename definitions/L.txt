@@ -871,3 +871,28 @@ luculentus | 2 | excellent
 luculentus | 3 | considerable, ample (trop., of wealth or means)
 lucumo | 1 | Etruscan prince
 lucumo | 3 | an inspired person (original sense, one possessed)
+lucus1 | 1 | grove
+lucus1 | 3 | wood, woodland (transf., in gen.)
+ludibrium | 1 | mockery
+ludibrium | 3 | laughing-stock, butt (transf., a person)
+ludibrium | 4 | abuse, violation (of a woman)
+ludibundus | 1 | playful
+ludibundus | 3 | with ease, effortlessly (transf.)
+ludicer | 1 | sportive
+ludicer | 3 | public games, a show (subst.)
+ludifico | 1 | mock
+ludificor | 1 | mock
+ludificor | 3 | thwart, frustrate (transf., by tricks)
+ludius1 | 1 | actor
+ludius1 | 3 | gladiator
+ludo | 1 | play
+ludo | 2 | deceive
+ludo | 3 | mock, ridicule (trop.)
+ludo | 4 | waste, squander (time, trop.)
+ludus | 1 | game
+ludus | 2 | school
+ludus | 3 | public games (in partic., plur.)
+ludus | 4 | jest, joke (transf.)
+lues1 | 1 | plague
+lues1 | 3 | calamity, disaster (transf.)
+lues1 | 4 | a pest, scourge (transf., term of abuse for a destructive person)
