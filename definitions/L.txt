@@ -603,3 +603,26 @@ lignatio | 3 | a woodcutting site (transf., concr.)
 ligneus | 1 | wooden
 ligneus | 3 | dry, withered (transf., like dry wood)
 lignor | 1 | gather wood
+lignum | 1 | wood
+lignum | 3 | a writing tablet (transf.)
+lignum | 4 | a tree (poet., late Lat.)
+ligo1 | 1 | bind
+ligo1 | 3 | unite, join (trop.)
+ligo1 | 4 | ratify, confirm (trop.)
+ligo2 | 1 | hoe
+ligula | 1 | tongue
+ligula | 3 | shoe-strap, shoe-latchet
+ligula | 4 | spoon, ladle
+ligula | 5 | spoonful (as a measure)
+ligurio | 1 | lick
+ligurio | 3 | crave, lust after (trop.)
+ligustrum | 1 | privet
+lilium | 1 | lily
+lilium | 3 | a defensive pit-trap (milit., rows of concealed stakes, transf.)
+lima | 1 | file
+lima | 3 | polish, revision (trop., of literary work)
+limax | 1 | slug
+limax | 3 | a loose woman, harlot (transf., term of abuse)
+limbus | 1 | hem
+limbus | 3 | the zodiac (transf.)
+limbus | 4 | a snare (for catching animals, transf.)
