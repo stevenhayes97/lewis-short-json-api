@@ -917,8 +917,8 @@ lumino | 1 | illuminate
 luna1 | 1 | moon
 luna1 | 3 | month (transf.)
 luna1 | 4 | crescent (transf., a half-moon shape or ornament)
-lunaticus | 1 | moon-dwelling
-lunaticus | 2 | epileptic
+lunaticus | 1 | epileptic
+lunaticus | 3 | moon-dwelling (rare, in partic.)
 luno | 1 | curve
 lunula | 1 | crescent-ornament
 luo2 | 1 | pay
