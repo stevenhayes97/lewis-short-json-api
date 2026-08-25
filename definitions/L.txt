@@ -763,3 +763,27 @@ loco | 1 | place
 loco | 2 | lease
 loco | 3 | invest (money, at interest)
 loco | 4 | give in marriage (locare in matrimonium, of a daughter)
+loculamentum | 1 | case
+loculamentum | 3 | socket (of a tooth, in partic.)
+loculus | 1 | purse
+loculus | 3 | coffin
+loculus | 4 | compartment, stall (for animals)
+locuples | 1 | wealthy
+locuples | 3 | richly supplied, abundant (trop., of things)
+locuples | 4 | trustworthy, reliable (as a surety, trop.)
+locupleto | 1 | enrich
+locupleto | 3 | adorn, embellish (trop.)
+locus | 1 | place
+locus | 2 | topic
+locus | 3 | passage (in a book or author)
+locus | 4 | rank, standing, position (social or political)
+locus | 5 | opportunity, occasion (room for something to happen)
+locusta1 | 1 | lobster
+locusta1 | 2 | locust
+locutio | 1 | speech
+locutio | 3 | pronunciation, manner of speaking (in partic.)
+locutio | 4 | phrase, expression (transf.)
+locutuleius | 1 | chatterbox
+lomentum | 1 | cosmetic
+lomentum | 3 | bean-meal (transf.)
+longaevus | 1 | aged
