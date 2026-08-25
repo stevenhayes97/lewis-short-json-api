@@ -741,3 +741,25 @@ lituus | 3 | war-trumpet, clarion
 lituus | 4 | instigator, author (trop.)
 liveo | 1 | be livid
 liveo | 2 | envy
+lividus | 1 | livid
+lividus | 2 | envious
+livor | 1 | bruise
+livor | 2 | envy
+lixa | 1 | sutler
+lixa | 3 | camp-follower (transf., plur.)
+lixivius | 1 | of lye
+lixivius | 3 | lye (subst. lixivia/lixivium)
+lixivus | 1 | of lye
+lixivus | 3 | lye (subst. lixivum)
+localis | 1 | local
+locarius | 1 | of letting
+locarius | 3 | a seat-scalper (subst., one who rents out theatre seats)
+locatio | 1 | placement
+locatio | 3 | leasing, letting out (in partic.)
+locatio | 4 | a lease (transf., the contract itself)
+locator | 1 | lessor
+locator | 3 | contractor, undertaker
+loco | 1 | place
+loco | 2 | lease
+loco | 3 | invest (money, at interest)
+loco | 4 | give in marriage (locare in matrimonium, of a daughter)
