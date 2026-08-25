@@ -352,3 +352,29 @@ lavo | 4 | wash away, cleanse (trop., of guilt or sin)
 laxamentum | 1 | widening
 laxamentum | 3 | space, room (transf., concr.)
 laxamentum | 4 | respite, relief (trop.)
+laxitas | 1 | roominess
+laxitas | 3 | laxity, languor (trop., rare)
+laxo | 1 | widen
+laxo | 2 | relax
+laxo | 3 | loosen, undo (a fastening)
+laxo | 4 | ease, lighten (a burden)
+laxo | 5 | reduce, lower (a price)
+laxus | 1 | loose
+laxus | 3 | ample, unrestricted (trop., of scope or time)
+lebes | 1 | cauldron
+lebes | 3 | basin (for washing)
+lectica | 1 | litter
+lectica | 3 | the crotch of a tree, where branches spring (transf.)
+lecticarius | 1 | litter-bearer
+lecticula | 1 | litter
+lecticula | 3 | bier (for a corpse)
+lecticula | 4 | couch, settee (for reading or writing)
+lectio | 1 | reading
+lectio | 2 | selection
+lectio | 3 | the roll-call of the senate (lectio senatus, a censorial term)
+lectio | 4 | a text, passage (transf., post-class.)
+# review: lectisternium no single English word for this Roman religious rite; described directly
+lectisternium | 1 | a banquet offered to the gods
+lectisternium | 3 | a memorial feast for the dead (transf., Christian era)
+lectito | 1 | peruse
+lectito | 3 | gather eagerly, collect often (post-class., of objects)
