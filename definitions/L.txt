@@ -937,3 +937,26 @@ lura | 3 | leather sack (transf.)
 lurco2 | 1 | glutton
 luridus | 1 | ghastly
 luridus | 3 | pallor-inducing, deathly (transf., causing paleness)
+lusciniola | 1 | nightingale
+luscitiosus | 1 | night-blind
+luscus | 1 | one-eyed
+lusor | 1 | player
+lusor | 3 | humorous writer (trop.)
+lusor | 4 | banterer, mocker (trop.)
+lusorius | 1 | playing
+lusorius | 3 | pleasure boat (subst. lusoria, a yacht)
+lusorius | 4 | empty, ineffectual (trop., of a sham or invalid act)
+lustralis | 1 | purificatory
+lustralis | 2 | quinquennial
+lustratio | 1 | purification
+lustratio | 3 | a wandering, roaming (transf.)
+lustricus | 1 | purificatory
+lustricus | 3 | dies lustricus, the day of a child's naming and purification
+lustro1 | 1 | purify
+lustro1 | 2 | traverse
+lustro1 | 3 | review (troops, milit.)
+lustro1 | 4 | survey, scan (poet., with the eyes)
+lustro1 | 5 | illuminate (of the sun or moon)
+lustrum1 | 1 | bog
+lustrum1 | 3 | den, lair (transf., of wild beasts)
+lustrum1 | 4 | brothel (transf.)
