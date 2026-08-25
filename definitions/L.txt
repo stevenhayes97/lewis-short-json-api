@@ -830,3 +830,26 @@ lucaris | 3 | the grove-festival (subst. lucaria)
 luceo | 1 | shine
 luceo | 3 | dawn, grow light (of daybreak)
 luceo | 4 | be evident, be conspicuous (trop.)
+lucerna | 1 | lamp
+lucerna | 3 | nocturnal study, late-night work (transf., poet.)
+lucesco | 1 | brighten
+lucesco | 3 | dawn, grow light (of daybreak, in partic.)
+lucidus | 1 | bright
+lucidus | 2 | lucid
+lucifer | 1 | light-bringing
+lucifer | 3 | the morning star, Venus (subst.)
+lucifer | 4 | day (poet. transf.)
+lucinus1 | 1 | light-bringing
+lucinus1 | 3 | the goddess of childbirth (subst. Lucina)
+lucinus1 | 4 | childbirth (poet. transf.)
+lucrativus | 1 | profitable
+lucrativus | 3 | gratuitously acquired (jurid., of a bequest or gift)
+lucrifacio | 1 | profit
+lucrifacio | 3 | escape, get off (trop., avoid punishment)
+lucror | 1 | gain
+lucror | 3 | save, economize (in partic.)
+lucror | 4 | win over, convert (eccl. Lat., trop.)
+lucrosus | 1 | profitable
+lucrum | 1 | profit
+lucrum | 3 | greed, love of gain (transf.)
+lucrum | 4 | wealth, riches (transf.)
