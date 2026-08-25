@@ -468,3 +468,22 @@ lepor | 4 | my darling, my charmer (as a term of endearment)
 leporarius | 1 | of hares
 leporarius | 3 | a game-park (subst. leporarium, an enclosure for hares and other wild animals)
 lepra | 1 | leprosy
+lepus | 1 | hare
+lepus | 3 | the constellation Lepus
+letalis | 1 | deadly
+letifer | 1 | deadly
+letum | 1 | death
+letum | 3 | ruin, destruction (transf., of things)
+levamen | 1 | relief
+levamentum | 1 | relief
+levatio | 1 | lifting
+levatio | 3 | relief, alleviation (trop.)
+levatio | 4 | diminishing, lessening (rare)
+levigo1 | 1 | smooth
+levigo1 | 3 | pulverize, grind fine (transf.)
+levir | 1 | brother-in-law
+levis1 | 1 | light
+levis1 | 2 | fickle
+levis1 | 3 | swift, nimble (transf., of motion)
+levis1 | 4 | trivial, unimportant (trop.)
+levis1 | 5 | mild, gentle (rare)
