@@ -425,3 +425,23 @@ lenitas | 1 | gentleness
 lenitas | 3 | leniency, mildness (trop., of temperament or rule)
 lenitas | 4 | smoothness, evenness (of style, in partic.)
 lenitudo | 1 | gentleness
+leno1 | 1 | pander
+leno2 | 1 | pimp
+leno2 | 3 | seducer, allurer (transf.)
+lenocinium | 1 | pandering
+lenocinium | 3 | allurement, enticement (transf.)
+lenocinium | 4 | showy ornament, finery (transf., of dress or style)
+lenocinor | 1 | flatter
+lenocinor | 3 | promote, advance (post-Aug.)
+lenonius | 1 | pimping
+lens2 | 1 | lentil
+lentesco | 1 | soften
+lentesco | 3 | slacken, relax (trop.)
+lenticula | 1 | lentil
+lenticula | 3 | a lentil-shaped vessel (transf.)
+lenticula | 4 | freckle (transf.)
+lentigo | 1 | spot
+lentigo | 3 | freckle (in partic., a skin condition)
+lentiscus | 1 | mastic-tree
+lentiscus | 3 | mastic-oil (transf.)
+lentiscus | 4 | toothpick (of mastic-wood, transf.)
