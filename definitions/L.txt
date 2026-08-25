@@ -487,3 +487,31 @@ levis1 | 2 | fickle
 levis1 | 3 | swift, nimble (transf., of motion)
 levis1 | 4 | trivial, unimportant (trop.)
 levis1 | 5 | mild, gentle (rare)
+levis2 | 1 | smooth
+levis2 | 3 | flowing, smooth (trop., of speech or style)
+levitas1 | 1 | lightness
+levitas1 | 2 | fickleness
+levitas2 | 1 | smoothness
+levitas2 | 3 | fluency (trop., of speech or style)
+levo1 | 1 | lift
+levo1 | 2 | relieve
+levo1 | 3 | lessen, diminish, weaken
+levo1 | 4 | free, release (from something, + abl.)
+levo1 | 5 | avert (an omen or blow)
+levo2 | 1 | smooth
+levo2 | 3 | polish, refine (trop., of style)
+lex | 1 | law
+lex | 2 | condition
+lex | 3 | a bill (a proposed law, before its passage)
+lex | 4 | contract, agreement
+libamen | 1 | libation
+libamen | 3 | first taste, first enjoyment (trop.)
+libamentum | 1 | libation
+libamentum | 3 | a taste, sample (trop.)
+libella | 1 | farthing
+libella | 3 | level (a tool for checking horizontal surfaces)
+libellus | 1 | booklet
+libellus | 2 | petition
+libellus | 3 | placard, public notice
+libellus | 4 | lampoon, libel (a defamatory writing)
+libellus | 5 | lawyer's brief
