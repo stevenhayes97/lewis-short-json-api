@@ -1,0 +1,245 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_L.json (Lewis & Short via Perseus), simplified for learners.
+labasco | 1 | totter
+labasco | 3 | waver, give way (trop., of resolve or feelings)
+labefacio | 1 | shake
+labefacio | 3 | undermine, weaken (a person's resolve or loyalty)
+labefacio | 4 | overthrow, ruin, destroy
+labefacto | 1 | shake
+labefacto | 3 | weaken, injure
+labefacto | 4 | overthrow, ruin, destroy
+labellum1 | 1 | lip
+labellum1 | 3 | a dainty little lip (dim. of labrum, poet.)
+labes1 | 1 | fall
+labes1 | 3 | ruin, destruction
+labes1 | 4 | a ruinous person, a curse (meton., of one who brings ruin)
+labes1 | 5 | epilepsy, the falling sickness
+labes2 | 1 | stain
+labes2 | 3 | disgrace, stigma (trop.)
+labes2 | 4 | a disgraceful person, a wretch (meton.)
+labia | 1 | lip
+labia | 3 | axle (of an oil-press, transf.)
+labilis | 1 | unstable
+labilis | 3 | fleeting, transient, perishable (trop.)
+labilis | 4 | slippery (causing others to slip, of ground)
+labo | 1 | totter
+labo | 3 | waver, hesitate (of resolve or opinion)
+labo | 4 | collapse, go to ruin
+labor1 | 1 | glide
+labor1 | 2 | err
+labor1 | 3 | slip away, escape
+labor1 | 4 | elapse, pass away (of time)
+labor1 | 5 | decline, sink into ruin
+labor1 | 6 | slip away from, lose (something)
+labor1 | 7 | fall into, come to be in (a state or habit)
+labor1 | 8 | lapse from the faith, apostatize (eccl.)
+labor2 | 1 | labour
+labor2 | 2 | hardship
+labor2 | 3 | work, workmanship (of an artist, meton.)
+labor2 | 4 | crops, produce (of cultivated land, meton.)
+labor2 | 5 | eclipse (of the sun or moon, poet.)
+laboriosus | 1 | laborious
+laboriosus | 2 | industrious
+laboriosus | 3 | troubled, harassed (undergoing much hardship)
+laboro | 1 | labour
+laboro | 2 | suffer
+laboro | 3 | be anxious, worried
+laboro | 4 | be in danger, distress
+laboro | 5 | make, fashion, produce (a work of art)
+laboro | 6 | cultivate (crops)
+labrum1 | 1 | lip
+labrum1 | 3 | edge, rim (of a vessel or ditch)
+labrum2 | 1 | basin
+labrum2 | 3 | wine-vat (for treading grapes)
+labrum2 | 4 | bath (poet.)
+labrusca | 1 | wild vine
+labyrinthus | 1 | labyrinth
+labyrinthus | 3 | maze, tangle, bewildering complexity (trop.)
+lac | 1 | milk
+lac | 3 | sap, milky juice (of plants)
+lac | 4 | milk-white (poet., of colour)
+lacer | 1 | mangled
+lacer | 3 | rent, scattered, broken up (trop., of families or an army)
+laceratio | 1 | laceration
+lacerna1 | 1 | cloak
+lacero | 1 | mangle
+lacero | 2 | slander
+lacero | 3 | wreck, shatter (a ship)
+lacero | 4 | plunder, ravage (a country)
+lacero | 5 | torment, afflict (with grief)
+lacero | 6 | squander, ruin (an estate)
+lacerta | 1 | lizard
+lacerta | 3 | a kind of sea-fish (species uncertain)
+lacertus1 | 1 | arm
+lacertus1 | 3 | the upper arm (from shoulder to elbow)
+lacertus1 | 4 | muscular strength, might (trop.)
+lacesso | 1 | provoke
+lacesso | 3 | challenge, attack (to a fight)
+lacesso | 4 | stimulate, arouse, incite
+lacinia | 1 | hem
+lacinia | 3 | garment (post-class., in gen.)
+lacinia | 4 | dewlap (of cattle, transf.)
+lacinia | 5 | a small piece, fragment, or scrap
+laciniosus | 1 | jagged
+laciniosus | 3 | overloaded, redundant (trop., of a speech or style)
+lacrima | 1 | tear
+lacrima | 3 | gum, resin (exuded from plants, transf.)
+lacrimabilis | 1 | lamentable
+lacrimabilis | 3 | tear-like, tearful
+lacrimo | 1 | weep
+lacrimo | 3 | bewail, lament (a thing)
+lacrimo | 4 | drip, exude (of plants oozing gum, transf.)
+lacrimosus | 1 | tearful
+lacrimosus | 2 | lamentable
+lacrimosus | 3 | oozing, exuding sap (transf., of plants)
+lacrimula | 1 | teardrop
+lacrimula | 3 | a slight, insincere tear ("crocodile tears")
+lactarius | 1 | milky
+lactarius | 3 | made with milk (of food)
+lactarius | 4 | suckling, giving suck (of animals)
+lacteo | 1 | suckle
+lacteo | 3 | be milky, be full of sap (of plants or grain)
+lactes | 1 | intestines
+lactesco | 1 | lactate
+lactesco | 3 | turn milky (of sap, juice, or grain)
+lacteus | 1 | milky
+lacteus | 3 | milk-white (transf., of colour)
+lacteus | 4 | the Milky Way (lacteus circulus, astro.)
+lacto1 | 1 | suckle
+lacto1 | 3 | give suck to (a child)
+lacto2 | 1 | cajole
+lacuna | 1 | hollow
+lacuna | 2 | gap
+lacuna | 3 | pool, pond (a hollow where water collects)
+lacunar | 1 | panelled ceiling
+lacunosus | 1 | pitted
+lacus | 1 | lake
+lacus | 2 | vat
+lacus | 3 | reservoir, cistern (for water)
+lacus | 4 | den (for wild animals, e.g. lions)
+laedo | 1 | hurt
+laedo | 3 | break, violate (one's word or an agreement)
+laedo | 4 | harm, damage (someone's reputation)
+laedo | 5 | offend (a god)
+laedo | 6 | laedere majestatem, to commit treason
+laena | 1 | cloak
+laesio | 1 | injury
+laesio | 3 | a personal attack (rhetorical term, in oratory)
+laetifico | 1 | gladden
+laetifico | 3 | fertilize, enrich (the soil)
+laetificus | 1 | joyful
+laetitia | 1 | joy
+laetitia | 3 | beauty, charm (of appearance, transf.)
+laetitia | 4 | fertility, luxuriance (of soil or plants)
+laeto | 1 | gladden
+laeto | 3 | fertilize (the soil, post-class.)
+laetor | 1 | rejoice
+laetor | 3 | flourish, thrive (transf., of plants)
+laetus1 | 1 | happy
+laetus1 | 2 | fertile
+laetus1 | 3 | favourable, auspicious (of omens or portents)
+laetus1 | 4 | pleasing, delightful (of news or things)
+laetus1 | 5 | abundant, luxuriant (of growth or crops)
+laetus2 | 1 | serf
+laevus | 1 | left
+laevus | 2 | unlucky
+laevus | 3 | awkward, foolish, silly (trop.)
+laevus | 4 | lucky, favourable (in augural language, since the augur faced south)
+lama | 1 | bog
+lambo | 1 | lick
+lambo | 3 | flow past, wash (of a river, transf.)
+lambo | 4 | lick, play upon (of fire, transf.)
+lamentabilis | 1 | mournful
+lamentabilis | 2 | deplorable
+lamentatio | 1 | lamentation
+lamentor | 1 | lament
+lamentor | 3 | bewail, weep over (a person or thing)
+lamentum | 1 | lamentation
+lamina | 1 | plate
+lamina | 3 | red-hot iron plates (an instrument of torture)
+lamina | 4 | coin, money (transf.)
+lana | 1 | wool
+lana | 3 | wool-working, spinning (transf.)
+lana | 4 | down, soft fluff (of feathers or hair, transf.)
+lanarius1 | 1 | of wool
+lanarius1 | 3 | wool-worker (subst.)
+lanatus1 | 1 | woolly
+lanatus1 | 3 | downy (of fruit, transf.)
+lancea | 1 | lance
+lancino | 1 | mangle
+lancino | 3 | squander, fritter away (trop., e.g. one's life)
+laneus | 1 | woollen
+laneus | 3 | downy (of fruit, transf.)
+langueo | 1 | languish
+langueo | 3 | be ill, be weak from sickness
+langueo | 4 | be listless, apathetic (trop.)
+languesco | 1 | weaken
+languesco | 3 | fall ill, become sickly
+languesco | 4 | decline, flag (trop., of morale or vigour)
+languidus | 1 | languid
+languidus | 3 | ill, weak from sickness
+languidus | 4 | feeble, listless, inactive (trop.)
+languor | 1 | languor
+languor | 3 | weakness, faintness (from illness)
+laniatus | 1 | mangling
+laniatus | 3 | anguish, remorse (trop.)
+lanicius | 1 | woolly
+lanicius | 3 | fleece, wool (subst. lanicium)
+lanienus | 1 | butcher's
+lanienus | 3 | a butcher's stall (subst. laniena)
+lanificium | 1 | wool-working
+lanificus | 1 | wool-working
+laniger | 1 | fleecy
+laniger | 3 | a ram (subst.)
+laniger | 4 | the constellation Aries (subst., poet.)
+lanio1 | 1 | mangle
+lanista | 1 | gladiator-trainer
+lanista | 3 | instigator, agitator (transf., one who incites violence)
+lanius | 1 | butcher
+lanugo | 1 | down
+lanugo | 3 | sawdust (transf.)
+lanx | 1 | platter
+lanx | 3 | the pan of a balance (scale)
+lanx | 4 | aequa lance, with equal weight, impartially (trop.)
+lapicidinae | 1 | quarries
+lapidarius | 1 | of stone
+lapidarius | 3 | stony, full of stones
+lapidatio | 1 | stoning
+lapidatio | 3 | a shower of stones
+lapidatio | 4 | hail-storm (transf.)
+lapideus | 1 | of stone
+lapideus | 3 | petrified, turned to stone (trop., of emotion)
+lapideus | 4 | stony, full of stones
+lapido | 1 | stone
+lapido | 3 | assail, attack (trop., with words)
+lapido | 4 | lapidat, it rains stones (impers.)
+lapidosus | 1 | stony
+lapidosus | 3 | hard as stone (transf., of bread, fruit, or disease)
+lapillus | 1 | pebble
+lapillus | 3 | gemstone, jewel
+lapillus | 4 | a stone in the bladder (medical, gravel)
+lapillus | 5 | tombstone
+lapio | 1 | petrify
+lapis | 1 | stone
+lapis | 3 | milestone (marking a Roman mile on a road)
+lapis | 4 | gem, precious stone
+lapis | 5 | gravestone, tombstone
+lapis | 6 | blockhead, dolt (trop., term of insult for a dull person)
+lapso | 1 | stumble
+lapso | 3 | falter, stammer (trop., of words)
+lapsus2 | 1 | fall
+lapsus2 | 2 | error
+lapsus2 | 3 | gliding motion, flow, flight (of water, stars, or similar)
+laquear | 1 | panelled ceiling
+laqueo1 | 1 | ensnare
+laqueo2 | 1 | panel
+laqueus | 1 | noose
+laqueus | 3 | snare, trap (trop., a rhetorical or legal trick)
+laqueus | 4 | fetters, chains, hindrance (trop.)
+largior | 1 | lavish
+largior | 2 | bribe
+largitio | 1 | largesse
+largitio | 2 | bribery
+largitio | 3 | prodigality, extravagance
+largitor2 | 1 | benefactor
+largitor2 | 2 | briber
