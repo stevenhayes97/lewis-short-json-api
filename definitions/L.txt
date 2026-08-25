@@ -983,3 +983,18 @@ lux | 4 | eyesight, the eye (transf.)
 lux | 5 | glory, ornament (trop., of a distinguished person or thing)
 luxo | 1 | dislocate
 luxo | 3 | displace (transf.)
+luxuria | 1 | luxuriance
+luxuria | 2 | extravagance
+luxurio | 1 | flourish
+luxurio | 2 | run riot
+luxuriosus | 1 | luxuriant
+luxuriosus | 2 | extravagant
+luxus3 | 1 | extravagance
+luxus3 | 3 | splendour, pomp (in a positive sense)
+lympha | 1 | water
+lympha | 3 | a water-nymph (personified, poet.)
+lymphaticus | 1 | frantic
+lympho | 1 | dilute
+lympho | 3 | madden, drive out of one's senses
+lyricus | 1 | lyric
+lyricus | 3 | a lyric poet (subst.)
