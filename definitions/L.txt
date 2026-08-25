@@ -715,3 +715,29 @@ litigium | 1 | quarrel
 litigium | 3 | litigation (esp.)
 litigo | 1 | quarrel
 litigo | 3 | litigate, sue at law (in partic.)
+lito | 1 | propitiate
+lito | 3 | sacrifice, make an offering (in gen., transf.)
+littera | 1 | letter
+littera | 2 | literature
+littera | 3 | account book, financial record
+littera | 4 | edict, ordinance
+litterator | 1 | schoolteacher
+litterator | 3 | smatterer, dabbler (opp. litteratus, a superficial scholar)
+litteratura | 1 | writing
+litteratura | 3 | grammar, philology (the science of language)
+litteratura | 4 | learning, erudition
+litteratus | 1 | branded
+litteratus | 2 | learned
+litterula | 1 | small letter
+litterula | 3 | a short note (transf., plur.)
+litterula | 4 | modest learning, a little scholarship (transf., plur., ironic)
+litura | 1 | erasure
+litura | 3 | blot, smudge (transf.)
+litura | 4 | wrinkle (transf.)
+litus3 | 1 | shore
+litus3 | 3 | landing-place (transf.)
+lituus | 1 | augur's staff
+lituus | 3 | war-trumpet, clarion
+lituus | 4 | instigator, author (trop.)
+liveo | 1 | be livid
+liveo | 2 | envy
