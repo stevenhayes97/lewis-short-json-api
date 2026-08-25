@@ -515,3 +515,28 @@ libellus | 2 | petition
 libellus | 3 | placard, public notice
 libellus | 4 | lampoon, libel (a defamatory writing)
 libellus | 5 | lawyer's brief
+libentia | 1 | delight
+liber1 | 1 | free
+liber1 | 3 | licentious, unrestrained (bad sense)
+liber2 | 1 | children
+liber2 | 3 | the young (of animals, transf.)
+liber4 | 1 | bark
+liber4 | 2 | book
+liber4 | 3 | a chapter, a division of a longer work
+liber4 | 4 | register, list, catalogue
+liber4 | 5 | letter, epistle
+liberalis1 | 1 | noble
+liberalis1 | 2 | generous
+liberalitas | 1 | generosity
+liberalitas | 3 | kindness, affability (in gen.)
+liberalitas | 4 | a gift, donation (transf., concr.)
+liberatio | 1 | release
+liberatio | 3 | acquittal (in a court of law)
+liberatio | 4 | discharge from debt (jurid.)
+liberator | 1 | liberator
+libero | 1 | free
+libero | 3 | acquit (in a court of law)
+libero | 4 | clear, traverse (a place, without hindrance)
+libertas | 1 | freedom
+libertas | 3 | frankness, outspokenness (freedom of speech)
+libertas | 4 | exemption (from taxation)
