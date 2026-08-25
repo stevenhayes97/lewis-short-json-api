@@ -669,3 +669,27 @@ lino | 4 | befoul, sully (trop.)
 linquo | 1 | leave
 linquo | 3 | faint, swoon (linqui animo, esp.)
 linquo | 4 | die (linquere lumen or vitam, esp.)
+linter | 1 | tub
+linter | 3 | skiff, small boat (transf.)
+linteum | 1 | cloth
+linteum | 3 | sail (transf.)
+linteus | 1 | linen
+lippio | 1 | be bleary-eyed
+lippio | 3 | smart, burn (transf., of the throat)
+lippitudo | 1 | bleariness
+lippus | 1 | bleary-eyed
+lippus | 3 | purblind, dim-sighted (transf.)
+lippus | 4 | blind to one's own faults (trop.)
+liquefacio | 1 | melt
+liquefacio | 3 | putrefy, decompose (transf.)
+liquefacio | 4 | weaken, enervate (trop.)
+liqueo | 1 | be liquid
+liqueo | 2 | be clear
+liqueo | 3 | non liquet, it is not proven (a legal formula for a hung verdict)
+liquesco | 1 | melt
+liquesco | 3 | grow soft, become effeminate (trop.)
+liquesco | 4 | waste away (trop.)
+liquidus | 1 | liquid
+liquidus | 2 | clear
+liquidus | 3 | calm, serene, tranquil (trop., of mind)
+liquidus | 4 | certain, evident (trop.)
