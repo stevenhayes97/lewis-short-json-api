@@ -445,3 +445,26 @@ lentigo | 3 | freckle (in partic., a skin condition)
 lentiscus | 1 | mastic-tree
 lentiscus | 3 | mastic-oil (transf.)
 lentiscus | 4 | toothpick (of mastic-wood, transf.)
+lentitudo | 1 | sluggishness
+lentitudo | 3 | dullness, apathy (trop.)
+lento1 | 1 | bend
+lento1 | 3 | ply (an oar, transf.)
+lento1 | 4 | prolong, protract (trop., of time)
+lentor | 1 | stickiness
+lentor | 3 | pliancy, flexibility
+lentus | 1 | pliant
+lentus | 2 | slow
+lentus | 3 | lasting, prolonged (trop., of time)
+lentus | 4 | calm, unconcerned, indifferent (of character)
+leo2 | 1 | lion
+leo2 | 3 | the constellation Leo
+leoninus1 | 1 | leonine
+leoninus1 | 3 | leonina societas, a one-sided partnership (trop., where one party takes all the gain)
+lepidus1 | 1 | charming
+lepidus1 | 3 | witty, facetious (of speech, in partic.)
+lepor | 1 | charm
+lepor | 3 | wit, humour (of speech, in partic.)
+lepor | 4 | my darling, my charmer (as a term of endearment)
+leporarius | 1 | of hares
+leporarius | 3 | a game-park (subst. leporarium, an enclosure for hares and other wild animals)
+lepra | 1 | leprosy
