@@ -378,3 +378,27 @@ lectisternium | 1 | a banquet offered to the gods
 lectisternium | 3 | a memorial feast for the dead (transf., Christian era)
 lectito | 1 | peruse
 lectito | 3 | gather eagerly, collect often (post-class., of objects)
+lector | 1 | reader
+lector | 3 | reading-slave (one who reads aloud to his master)
+lector | 4 | lector (a minor clerical office, Christian church, transf.)
+lectulus | 1 | couch
+lectulus | 3 | dining-couch
+lectulus | 4 | bier, funeral couch
+lectus2 | 1 | bed
+lectus2 | 3 | bridal bed
+lectus2 | 4 | dining-couch
+lectus2 | 5 | bier, funeral couch
+legalis | 1 | legal
+legatarius | 1 | testamentary
+legatarius | 3 | a legatee (subst., one to whom something is bequeathed)
+legatio | 1 | embassy
+legatio | 3 | the delegation, the embassy's staff (transf., a group of people)
+legativus | 1 | ambassadorial
+legativus | 3 | an ambassador's travel allowance (subst. legativum)
+legifer | 1 | law-giving
+legifer | 3 | a lawgiver (subst., epithet applied to Minos, Ceres, or Moses)
+legio | 1 | legion
+legio | 3 | army, a large body of troops (in gen.)
+legio | 4 | a great crowd, host (of people, transf.)
+legitimus | 1 | lawful
+legitimus | 2 | proper
