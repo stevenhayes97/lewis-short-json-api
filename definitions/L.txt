@@ -303,3 +303,30 @@ latro1 | 5 | demand vehemently
 latro2 | 1 | robber
 latro2 | 3 | hired soldier, mercenary (ante-class.)
 latro2 | 4 | a chessman, a piece in a board game (poet.)
+latrocinium | 1 | robbery
+latrocinium | 3 | villainy, fraud
+latrocinium | 4 | a band of robbers (concr.)
+latrocinor | 1 | rob
+latrocinor | 3 | serve as a mercenary (ante-class.)
+latrunculus | 1 | brigand
+latrunculus | 3 | a chessman, a piece in a board game (poet.)
+latus1 | 1 | broad
+latus1 | 3 | wide-spread, extensive (trop.)
+latus1 | 4 | diffuse, prolix (trop., of style)
+latus2 | 1 | side
+latus2 | 3 | the lungs (of an orator, i.e. vocal stamina)
+latus2 | 4 | flank (of an army or position)
+latus2 | 5 | an intimate companion (ab latere, trop.)
+laudabilis | 1 | praiseworthy
+laudabilis | 3 | valuable, excellent (transf.)
+laudatio | 1 | praise
+laudatio | 3 | a character reference (in a court of law)
+laudatio | 4 | funeral oration, eulogy
+laudativus | 1 | laudatory
+laudator | 1 | praiser
+laudator | 3 | a character witness (in a court of law)
+laudator | 4 | one who delivers a funeral oration
+laudo | 1 | praise
+laudo | 3 | deliver a funeral oration for (someone)
+laudo | 4 | recommend (as a remedy, medical)
+laudo | 5 | cite, name, quote (transf., as an authority)
