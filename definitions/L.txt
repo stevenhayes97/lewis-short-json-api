@@ -402,3 +402,26 @@ legio | 3 | army, a large body of troops (in gen.)
 legio | 4 | a great crowd, host (of people, transf.)
 legitimus | 1 | lawful
 legitimus | 2 | proper
+lego1 | 1 | depute
+lego1 | 2 | bequeath
+lego2 | 1 | read
+lego2 | 2 | gather
+lego2 | 3 | choose, select
+lego2 | 4 | coast along, sail past (of a ship, poet.)
+lego2 | 5 | furl (sails, naut. t.t.)
+lego2 | 6 | steal, purloin (rare)
+legulus | 1 | gatherer
+legulus | 3 | olive-picker (esp., one who gathers fallen olives)
+legumen | 1 | pulse
+legumen | 3 | bean (in partic.)
+lemniscatus | 1 | beribboned
+lena | 1 | procuress
+lena | 3 | seductress, enticer (transf.)
+lenio | 1 | soothe
+lenio | 3 | appease, pacify (trop., a person's anger)
+lenis1 | 1 | gentle
+lenis1 | 3 | mild, lenient (trop., of a person's temperament or rule)
+lenitas | 1 | gentleness
+lenitas | 3 | leniency, mildness (trop., of temperament or rule)
+lenitas | 4 | smoothness, evenness (of style, in partic.)
+lenitudo | 1 | gentleness
