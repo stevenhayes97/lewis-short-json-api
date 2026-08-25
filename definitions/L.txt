@@ -809,3 +809,24 @@ loquor | 3 | mention, talk about (constantly, act.)
 loquor | 4 | reveal, show clearly (transf., of a thing or sign)
 loquor | 5 | rustle, murmur (poet., of wind or trees)
 lora1 | 1 | small wine
+lorarius | 1 | harness-maker
+lorarius | 3 | flogger (transf., who scourged slaves)
+lorica | 1 | cuirass
+lorica | 3 | breastwork, parapet (milit., transf.)
+lorica | 4 | plaster, plastering (transf.)
+lorico | 1 | mail
+lorico | 3 | plaster, coat (transf.)
+loripes | 1 | bandy-legged
+lorum | 1 | thong
+lorum | 3 | reins (transf., plur.)
+lorum | 4 | whip, lash (transf.)
+lubrico | 1 | lubricate
+lubricus | 1 | slippery
+lubricus | 2 | precarious
+lubricus | 3 | fleeting, gliding (trop., of time or narrative)
+lucar | 1 | forest-tax
+lucaris | 1 | sylvan
+lucaris | 3 | the grove-festival (subst. lucaria)
+luceo | 1 | shine
+luceo | 3 | dawn, grow light (of daybreak)
+luceo | 4 | be evident, be conspicuous (trop.)
