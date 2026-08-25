@@ -787,3 +787,25 @@ locutuleius | 1 | chatterbox
 lomentum | 1 | cosmetic
 lomentum | 3 | bean-meal (transf.)
 longaevus | 1 | aged
+longinquitas | 1 | length
+longinquitas | 3 | remoteness, distance (in partic.)
+longinquitas | 4 | duration, length of time (transf.)
+longinquus | 1 | distant
+longinquus | 3 | foreign, strange (in partic.)
+longinquus | 4 | long, prolonged (transf., of time)
+longitudo | 1 | length
+longitudo | 3 | duration (transf., of time)
+longus | 1 | long
+longus | 3 | vast, spacious (poet.)
+longus | 4 | tedious (transf., of time)
+loquacitas | 1 | talkativeness
+loquax | 1 | talkative
+loquax | 3 | chattering, babbling (transf., of animals, water, or sound)
+loquela | 1 | speech
+loquela | 3 | language, tongue (transf.)
+loquentia | 1 | fluency
+loquor | 1 | speak
+loquor | 3 | mention, talk about (constantly, act.)
+loquor | 4 | reveal, show clearly (transf., of a thing or sign)
+loquor | 5 | rustle, murmur (poet., of wind or trees)
+lora1 | 1 | small wine
