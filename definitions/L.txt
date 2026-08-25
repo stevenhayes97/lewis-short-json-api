@@ -626,3 +626,23 @@ limax | 3 | a loose woman, harlot (transf., term of abuse)
 limbus | 1 | hem
 limbus | 3 | the zodiac (transf.)
 limbus | 4 | a snare (for catching animals, transf.)
+limen | 1 | threshold
+limen | 3 | house, dwelling (transf.)
+limen | 4 | beginning (trop.)
+limes | 1 | boundary
+limes | 3 | path, track (in gen.)
+limes | 4 | frontier, fortified border (milit.)
+limito | 1 | bound
+limito | 3 | fix, settle, determine (trop.)
+limo2 | 1 | file
+limo2 | 3 | polish, refine (trop., of a literary work)
+limo2 | 4 | diminish, pare down (trop.)
+limosus | 1 | muddy
+limpidus | 1 | clear
+limpidus | 3 | pure, clean (transf.)
+limus1 | 1 | sidelong
+limus2 | 1 | mud
+limus2 | 3 | filth, pollution (trop.)
+limus3 | 1 | priest's apron
+linamentum | 1 | linen
+linamentum | 3 | lint (medical, for dressing wounds)
