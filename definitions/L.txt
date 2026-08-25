@@ -280,3 +280,26 @@ laterculus | 3 | a tile-shaped pastry (transf.)
 latericius | 1 | brick
 latex | 1 | liquid
 latex | 3 | water (poet.)
+latibulum | 1 | den
+latibulum | 3 | refuge, shelter (trop.)
+laticlavius | 1 | broad-striped
+laticlavius | 3 | a senator (subst., one entitled to wear the broad stripe)
+latinitas | 1 | Latinity
+latinitas | 3 | Latin rights (jus Latii, a legal status)
+latio | 1 | proposal
+latio | 3 | legis latio, the proposing of a law or bill
+latio | 4 | suffragii latio, the casting of a vote
+latito | 1 | hide
+latito | 3 | abscond, evade the courts (jurid.)
+latitudo | 1 | breadth
+latitudo | 3 | extent, size, compass (transf.)
+latitudo | 4 | richness, copiousness (trop., of style)
+lator | 1 | proposer
+latratus | 1 | barking
+latro1 | 1 | bark
+latro1 | 3 | roar, resound (transf., of water)
+latro1 | 4 | rant, bluster (of an orator)
+latro1 | 5 | demand vehemently
+latro2 | 1 | robber
+latro2 | 3 | hired soldier, mercenary (ante-class.)
+latro2 | 4 | a chessman, a piece in a board game (poet.)
