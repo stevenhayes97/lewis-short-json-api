@@ -646,3 +646,26 @@ limus2 | 3 | filth, pollution (trop.)
 limus3 | 1 | priest's apron
 linamentum | 1 | linen
 linamentum | 3 | lint (medical, for dressing wounds)
+linea | 1 | line
+linea | 2 | limit
+linea | 3 | fishing-line
+linea | 4 | plumb-line (a mason's or carpenter's tool)
+linea | 5 | lineage, line of descent (trop.)
+lineamentum | 1 | line
+lineamentum | 3 | feature, lineament (of a face, transf.)
+linearis | 1 | linear
+lineo | 1 | straighten
+lineo | 3 | striped (transf., pass. part.)
+lineus | 1 | linen
+lingo | 1 | lick
+lingua | 1 | tongue
+lingua | 2 | language
+lingua | 3 | tongue of land (transf., a promontory)
+lingulaca | 1 | chatterbox
+lingulaca | 3 | sole (a kind of fish)
+lino | 1 | smear
+lino | 3 | cover, overlay (transf., e.g. with gold)
+lino | 4 | befoul, sully (trop.)
+linquo | 1 | leave
+linquo | 3 | faint, swoon (linqui animo, esp.)
+linquo | 4 | die (linquere lumen or vitam, esp.)
