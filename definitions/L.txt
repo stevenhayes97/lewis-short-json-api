@@ -260,3 +260,23 @@ laser | 1 | asafoetida
 laser | 3 | silphium (the plant itself, meton.)
 lassesco | 1 | tire
 lassitudo | 1 | weariness
+lasso | 1 | tire
+lassus | 1 | weary
+lassus | 3 | exhausted, worn out (transf., of things)
+latebra | 1 | hideout
+latebra | 3 | hidden recess, retreat (trop.)
+latebra | 4 | subterfuge, pretence
+latebrosus | 1 | secluded
+latebrosus | 3 | intricate, obscure (trop., late Lat.)
+lateo | 1 | lurk
+lateo | 3 | be safe, be sheltered
+lateo | 4 | be unknown, escape notice (trop., + acc. or dat.)
+later | 1 | brick
+later | 3 | ingot, bar (of gold or silver, transf.)
+lateralis | 1 | lateral
+lateralis | 3 | saddle-bags (subst.)
+laterculus | 1 | tile
+laterculus | 3 | a tile-shaped pastry (transf.)
+latericius | 1 | brick
+latex | 1 | liquid
+latex | 3 | water (poet.)
