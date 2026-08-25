@@ -566,3 +566,23 @@ librarius1 | 3 | a sixteenth of a modius (subst., a measure equal to a sextarius
 librarius2 | 1 | of books
 librarius2 | 3 | a copyist, scribe (subst.)
 librarius2 | 4 | a bookseller (subst.)
+librator | 1 | surveyor
+librator | 3 | a slinger, one who hurls weapons by hand
+librilis | 1 | pound-weight
+librilis | 3 | a balance, pair of scales (subst. librile)
+libripens | 1 | paymaster
+libripens | 3 | the balance-holder (a formal witness at a legal sale by scale and coin)
+libro | 1 | balance
+libro | 2 | hurl
+libro | 3 | weigh, ponder, consider (trop.)
+libum | 1 | cake
+licentia | 1 | freedom
+licentia | 2 | licentiousness
+licentia | 3 | boldness, presumption (a liberty one assumes)
+licentiosus | 1 | licentious
+liceo1 | 1 | cost
+liceo1 | 3 | offer for sale, set a price (of the seller, transf.)
+liceor | 1 | bid
+liceor | 3 | appraise, estimate the value of (trop.)
+licet | 1 | may
+licet | 2 | although
