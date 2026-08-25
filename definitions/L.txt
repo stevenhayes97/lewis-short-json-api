@@ -330,3 +330,25 @@ laudo | 1 | praise
 laudo | 3 | deliver a funeral oration for (someone)
 laudo | 4 | recommend (as a remedy, medical)
 laudo | 5 | cite, name, quote (transf., as an authority)
+laureatus | 1 | laureate
+laureus | 1 | laurel
+laureus | 3 | the laurel tree (subst. laurea)
+laureus | 4 | a laurel crown or wreath (subst. laurea, sign of triumph)
+laurus | 1 | laurel
+laurus | 3 | triumph, victory (meton., via the laurel crown)
+laus1 | 1 | praise
+laus1 | 3 | a praiseworthy deed, a merit
+laus1 | 4 | value, worth, repute (of things)
+lautia | 1 | state hospitality
+lautitia | 1 | splendour
+lautumiae | 1 | quarry
+lautumiae | 3 | a rock-cut prison (esp. at Syracuse or Rome)
+lavatio | 1 | bathing
+lavatio | 3 | bathing apparatus (transf.)
+lavatio | 4 | bathing-room, bath-house (transf.)
+lavo | 1 | wash
+lavo | 3 | moisten, bedew (transf.)
+lavo | 4 | wash away, cleanse (trop., of guilt or sin)
+laxamentum | 1 | widening
+laxamentum | 3 | space, room (transf., concr.)
+laxamentum | 4 | respite, relief (trop.)
