@@ -960,3 +960,26 @@ lustro1 | 5 | illuminate (of the sun or moon)
 lustrum1 | 1 | bog
 lustrum1 | 3 | den, lair (transf., of wild beasts)
 lustrum1 | 4 | brothel (transf.)
+lustrum2 | 1 | lustrum
+lustrum2 | 3 | purification sacrifice (the censorial rite itself)
+lusus2 | 1 | play
+lusus2 | 3 | dalliance, flirtation (transf.)
+lusus2 | 4 | jest, mockery (transf.)
+luteus1 | 1 | saffron-yellow
+luteus2 | 1 | muddy
+luteus2 | 3 | vile, worthless (trop.)
+luto1 | 1 | bedaub
+lutulentus | 1 | muddy
+lutulentus | 3 | vile, filthy (trop.)
+lutulentus | 4 | turbid, impure (trop., of style)
+lutum1 | 1 | dyer's-weed
+lutum1 | 3 | yellow (transf., the colour)
+lutum2 | 1 | mud
+lutum2 | 3 | clay, potter's clay (transf.)
+lux | 1 | light
+lux | 2 | life
+lux | 3 | day (transf.)
+lux | 4 | eyesight, the eye (transf.)
+lux | 5 | glory, ornament (trop., of a distinguished person or thing)
+luxo | 1 | dislocate
+luxo | 3 | displace (transf.)
