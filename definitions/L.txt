@@ -693,3 +693,25 @@ liquidus | 1 | liquid
 liquidus | 2 | clear
 liquidus | 3 | calm, serene, tranquil (trop., of mind)
 liquidus | 4 | certain, evident (trop.)
+liquo | 1 | melt
+liquo | 3 | strain, filter (transf.)
+liquo | 4 | clarify, simplify (trop.)
+liquor1 | 1 | flow
+liquor1 | 3 | waste away (trop.)
+liquor2 | 1 | fluidity
+liquor2 | 3 | a liquid (transf., concr.)
+lira | 1 | ridge
+lira | 3 | furrow (transf.)
+liro | 1 | plough in
+liro | 3 | rave, be mad (trop., for delirare)
+lis | 1 | dispute
+lis | 2 | lawsuit
+lis | 3 | the matter in dispute (the subject of a lawsuit)
+litigator | 1 | disputant
+litigator | 3 | litigant (in partic., a party to a lawsuit)
+litigiosus | 1 | quarrelsome
+litigiosus | 3 | contested, disputed (transf., of property or a claim)
+litigium | 1 | quarrel
+litigium | 3 | litigation (esp.)
+litigo | 1 | quarrel
+litigo | 3 | litigate, sue at law (in partic.)
