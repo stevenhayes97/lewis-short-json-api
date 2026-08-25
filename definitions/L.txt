@@ -896,3 +896,27 @@ ludus | 4 | jest, joke (transf.)
 lues1 | 1 | plague
 lues1 | 3 | calamity, disaster (transf.)
 lues1 | 4 | a pest, scourge (transf., term of abuse for a destructive person)
+lugeo | 1 | mourn
+lugeo | 3 | be in mourning, wear mourning attire (transf.)
+lugubris | 1 | mourning
+lugubris | 3 | disastrous, calamitous (transf.)
+lugubris | 4 | mean, pitiable (transf.)
+lumbricus | 1 | worm
+lumbricus | 3 | earthworm (transf.)
+lumbus | 1 | loin
+lumbus | 3 | genitals (transf.)
+lumen | 1 | light
+lumen | 2 | eye
+lumen | 3 | lamp, torch (transf.)
+lumen | 4 | glory, distinction (trop., of a person or thing)
+lumen | 5 | clarity, lucidity (trop., of style or exposition)
+luminare | 1 | luminary
+luminare | 3 | lamp (in a temple or church)
+luminare | 4 | window, window-shutter (transf.)
+lumino | 1 | illuminate
+luna1 | 1 | moon
+luna1 | 3 | month (transf.)
+luna1 | 4 | crescent (transf., a half-moon shape or ornament)
+lunaticus | 1 | moon-dwelling
+lunaticus | 2 | epileptic
+luno | 1 | curve
