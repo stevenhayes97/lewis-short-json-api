@@ -586,3 +586,20 @@ liceor | 1 | bid
 liceor | 3 | appraise, estimate the value of (trop.)
 licet | 1 | may
 licet | 2 | although
+licitatio | 1 | bid
+licitor | 1 | bid
+licitor | 3 | contend, fight (transf.)
+licium | 1 | thread
+licium | 3 | girdle, belt (a woven band, transf.)
+lictor | 1 | lictor
+lien | 1 | spleen
+ligatura | 1 | binding
+ligatura | 3 | amulet (in partic., a bound charm)
+ligatura | 4 | bunch, cluster (of grapes)
+lignarius | 1 | of wood
+lignarius | 3 | a carpenter, joiner (subst.)
+lignatio | 1 | wood-gathering
+lignatio | 3 | a woodcutting site (transf., concr.)
+ligneus | 1 | wooden
+ligneus | 3 | dry, withered (transf., like dry wood)
+lignor | 1 | gather wood
