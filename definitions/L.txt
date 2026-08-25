@@ -853,3 +853,21 @@ lucrosus | 1 | profitable
 lucrum | 1 | profit
 lucrum | 3 | greed, love of gain (transf.)
 lucrum | 4 | wealth, riches (transf.)
+luctamen | 1 | struggle
+luctamen | 3 | toil, exertion (transf.)
+luctatio | 1 | wrestling
+luctatio | 3 | struggle, contest (transf. or trop.)
+luctator | 1 | wrestler
+luctator | 3 | a treacherous foe (transf., of wine's effect)
+luctor | 1 | wrestle
+luctor | 3 | struggle, strive (transf. or trop.)
+luctuosus | 1 | sorrowful
+luctus | 1 | grief
+luctus | 3 | mourning attire, weeds (transf.)
+lucubratio | 1 | night-work
+lucubro | 1 | lucubrate
+luculentus | 1 | bright
+luculentus | 2 | excellent
+luculentus | 3 | considerable, ample (trop., of wealth or means)
+lucumo | 1 | Etruscan prince
+lucumo | 3 | an inspired person (original sense, one possessed)
