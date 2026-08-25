@@ -243,3 +243,20 @@ largitio | 2 | bribery
 largitio | 3 | prodigality, extravagance
 largitor2 | 1 | benefactor
 largitor2 | 2 | briber
+largus1 | 1 | abundant
+largus1 | 2 | generous
+laridum | 1 | lard
+larva | 1 | ghost
+larva | 3 | mask (transf.)
+larva | 4 | skeleton (transf.)
+larvo | 1 | bewitch
+lascivia | 1 | playfulness
+lascivia | 2 | licentiousness
+lascivio | 1 | frolic
+lascivio | 3 | run riot (trop., of style or language)
+lascivus | 1 | playful
+lascivus | 2 | lewd
+laser | 1 | asafoetida
+laser | 3 | silphium (the plant itself, meton.)
+lassesco | 1 | tire
+lassitudo | 1 | weariness
