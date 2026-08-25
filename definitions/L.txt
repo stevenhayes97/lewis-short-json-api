@@ -920,3 +920,20 @@ luna1 | 4 | crescent (transf., a half-moon shape or ornament)
 lunaticus | 1 | moon-dwelling
 lunaticus | 2 | epileptic
 luno | 1 | curve
+lunula | 1 | crescent-ornament
+luo2 | 1 | pay
+luo2 | 3 | atone for, expiate (a crime or sin)
+lupa | 1 | she-wolf
+lupa | 3 | prostitute (transf.)
+lupanar | 1 | brothel
+lupatus | 1 | spiked
+lupatus | 3 | a spiked bit (subst., for a horse)
+lupinus2 | 1 | lupine
+lupus1 | 1 | wolf
+lupus1 | 3 | pike (transf., a voracious fish)
+lupus1 | 4 | hook (transf., for hoisting)
+lura | 1 | thong
+lura | 3 | leather sack (transf.)
+lurco2 | 1 | glutton
+luridus | 1 | ghastly
+luridus | 3 | pallor-inducing, deathly (transf., causing paleness)
