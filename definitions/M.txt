@@ -248,3 +248,22 @@ maritus1 | 1 | matrimonial
 maritus1 | 2 | husband
 marmoreus | 1 | marble
 marmoreus | 3 | marble-white, marble-smooth (transf.)
+marmoro | 1 | marble
+marra | 1 | hoe
+marra | 3 | fishing-hook (transf.)
+mas | 1 | male
+mas | 3 | manly, brave (transf.)
+masculinus | 1 | male
+masculinus | 3 | masculine (gram., of grammatical gender)
+masculus | 1 | male
+masculus | 3 | manly, vigorous, bold (transf.)
+massalis | 1 | of mass
+matella | 1 | pot
+matella | 3 | chamber-pot (in partic.)
+mater | 1 | mother
+mater | 3 | source, origin (trop.)
+materia | 1 | material
+materia | 2 | topic
+materia | 3 | talent, natural ability (trop.)
+materiarius | 1 | of timber
+materiarius | 3 | a timber-merchant (subst.)
