@@ -114,3 +114,26 @@ maleficus | 4 | harmful, noxious (transf.)
 malesuadus | 1 | seductive
 malevolens | 1 | malevolent
 malevolentia | 1 | malevolence
+malevolus | 1 | malevolent
+malevolus | 3 | an enemy, foe (subst.)
+malignitas | 1 | malice
+malignitas | 2 | stinginess
+maligno | 1 | malign
+malignus | 1 | malicious
+malignus | 2 | stingy
+malignus | 3 | scanty, meagre (transf., small in quantity)
+malitia | 1 | malice
+malitia | 3 | cunning, craftiness
+malitia | 4 | roguery (in a good sense)
+malitiosus | 1 | crafty
+malleolus | 1 | small hammer
+malleolus | 3 | vine-cutting (transf., a mallet-shaped shoot for planting)
+malleolus | 4 | fire-dart (milit., transf.)
+malleus | 1 | hammer
+malleus | 3 | glanders (transf., a disease of animals)
+malo | 1 | prefer
+malo | 3 | favour (in partic., be more inclined towards someone)
+malus1 | 1 | bad
+malus1 | 3 | ugly, ill-looking (of appearance)
+malus1 | 4 | harm, misfortune (subst. malum, an evil)
+malus1 | 5 | punishment (in partic., subst. malum)
