@@ -208,3 +208,24 @@ manubiae | 1 | booty
 manubiae | 3 | plunder, ill-gotten gain (transf.)
 manubiae | 4 | a thunderbolt (in augury)
 manubrium | 1 | handle
+manumissio | 1 | manumission
+manumissio | 3 | pardon (transf.)
+manumitto | 1 | manumit
+manupretium | 1 | wages
+manupretium | 3 | workmanship, the value of labour (transf., in a crafted item)
+manus1 | 1 | hand
+manus1 | 2 | band
+manus1 | 3 | handwriting (transf.)
+manus1 | 4 | combat, close fighting (transf., ad manus venire)
+manus1 | 5 | power, authority (trop., esp. legal control of a husband over wife)
+mappa | 1 | napkin
+mappa | 3 | starting-flag (transf., in circus races)
+marceo | 1 | wither
+marceo | 3 | be languid, feeble (transf.)
+marcesco | 1 | wither
+marcesco | 3 | languish, waste away (transf.)
+marcidus | 1 | withered
+marcidus | 3 | languid, enervated (transf.)
+marcor | 1 | withering
+marcor | 3 | languor, indolence (transf.)
+marculus1 | 1 | small hammer
