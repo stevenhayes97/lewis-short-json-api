@@ -58,3 +58,23 @@ maestitudo | 1 | sadness
 maestus | 1 | sad
 maestus | 3 | gloomy, severe (transf., of temperament)
 maestus | 4 | mournful, funereal (in gen., of garments or rites)
+magister | 1 | master
+magister | 2 | teacher
+magisterium | 1 | directorship
+magisterium | 3 | tutorship (in partic.)
+magisterium | 4 | instruction, teaching (trop.)
+magistra | 1 | mistress
+magistra | 3 | schoolmistress, instructress
+magistratus | 1 | magistracy
+magistratus | 2 | magistrate
+magmentarius | 1 | supplementary
+magnanimitas | 1 | magnanimity
+magnanimus | 1 | magnanimous
+magnificentia | 1 | magnificence
+magnificentia | 3 | grandeur, splendour (transf., of things)
+magnificentia | 4 | pomposity, bombast (rhet., bad sense)
+magnifico | 1 | esteem
+magnifico | 3 | extol, glorify (transf.)
+magnifico | 4 | enlarge (rare, eccl.)
+magnificus | 1 | magnificent
+magnificus | 3 | boastful, bragging (bad sense, of a person)
