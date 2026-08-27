@@ -137,3 +137,20 @@ malus1 | 1 | bad
 malus1 | 3 | ugly, ill-looking (of appearance)
 malus1 | 4 | harm, misfortune (subst. malum, an evil)
 malus1 | 5 | punishment (in partic., subst. malum)
+malus3 | 1 | mast
+malus3 | 3 | beam, pole (in gen.)
+malva | 1 | mallow
+mamilla | 1 | nipple
+mamilla | 3 | a small pipe or nozzle (transf.)
+mamma | 1 | breast
+mamma | 3 | mother, mama (children's language)
+mammosus | 1 | full-breasted
+mammosus | 3 | protuberant, bulging (transf., of fruit)
+manalis1 | 1 | flowing
+manceps | 1 | contractor
+manceps | 3 | surety, guarantor (transf.)
+mancipatio | 1 | conveyance
+mancipium | 1 | ownership
+mancipium | 2 | slave
+mancipo | 1 | convey
+mancipo | 3 | subject, deliver up (trop., to a vice or fate)
