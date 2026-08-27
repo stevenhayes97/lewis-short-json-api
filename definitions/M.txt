@@ -78,3 +78,24 @@ magnifico | 3 | extol, glorify (transf.)
 magnifico | 4 | enlarge (rare, eccl.)
 magnificus | 1 | magnificent
 magnificus | 3 | boastful, bragging (bad sense, of a person)
+magniloquentia | 1 | eloquence
+magniloquentia | 2 | bombast
+magniloquus | 1 | eloquent
+magniloquus | 2 | boastful
+magnitudo | 1 | size
+magnitudo | 3 | abundance, great quantity (of number or amount)
+magnitudo | 4 | rank, dignity (in partic., post-Aug.)
+magnopere | 1 | greatly
+magnus1 | 1 | great
+magnus1 | 3 | loud (of a voice)
+magnus1 | 4 | old, advanced in years (magnus natu)
+magnus1 | 5 | dear, expensive (of price, magni or magno)
+majalis | 1 | barrow hog
+majalis | 3 | an unmanned man (transf., term of abuse)
+majestas | 1 | majesty
+majestas | 3 | dignity, splendour (transf., in gen.)
+majusculus | 1 | rather large
+mala | 1 | jawbone
+mala | 3 | cheek (transf., the external part of the face)
+maledico | 1 | revile
+maledico | 3 | curse (eccl. Lat.)
