@@ -229,3 +229,22 @@ marcidus | 3 | languid, enervated (transf.)
 marcor | 1 | withering
 marcor | 3 | languor, indolence (transf.)
 marculus1 | 1 | small hammer
+mare | 1 | sea
+mare | 3 | sea-water (transf.)
+margaritarius | 1 | of pearls
+margaritarius | 3 | a pearl-dealer (subst.)
+margo | 1 | edge
+margo | 3 | side-dishes (transf., poet.)
+marinus | 1 | marine
+marisca | 1 | coarse fig
+marisca | 3 | piles, haemorrhoids (transf., medical)
+maritalis | 1 | matrimonial
+maritimus | 1 | maritime
+maritimus | 3 | changeable, inconstant (transf., like the sea)
+marito | 1 | marry
+marito | 3 | mate, pair (transf., of animals)
+marito | 4 | train, prop up (transf., of a vine tied to a tree)
+maritus1 | 1 | matrimonial
+maritus1 | 2 | husband
+marmoreus | 1 | marble
+marmoreus | 3 | marble-white, marble-smooth (transf.)
