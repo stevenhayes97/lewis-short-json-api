@@ -154,3 +154,21 @@ mancipium | 1 | ownership
 mancipium | 2 | slave
 mancipo | 1 | convey
 mancipo | 3 | subject, deliver up (trop., to a vice or fate)
+mancus | 1 | maimed
+mancus | 3 | defective, imperfect (trop.)
+mandator | 1 | mandator
+mandator | 3 | instigator (transf., of an accuser or informer)
+mando1 | 1 | commission
+mando1 | 2 | entrust
+mando2 | 1 | chew
+mando2 | 3 | devour (transf.)
+manduco1 | 1 | chew
+manducus | 1 | glutton
+manducus | 3 | a chewing-mask (transf., a comic theatrical figure)
+mane | 1 | morning
+mane | 3 | in the morning, early (adv.)
+maneo | 1 | remain
+maneo | 2 | await
+mango | 1 | slave-dealer
+manicae | 1 | sleeve
+manicae | 2 | handcuff
