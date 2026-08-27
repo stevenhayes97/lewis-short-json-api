@@ -190,3 +190,21 @@ mansio | 2 | inn
 mansuefacio | 1 | tame
 mansuefacio | 3 | civilize, pacify (trop.)
 mansues | 1 | tame
+mansuesco | 1 | tame
+mansuesco | 3 | grow tame, become gentle (neutr.)
+mansuetudo | 1 | tameness
+mansuetudo | 3 | mildness, clemency (trop.)
+mantele | 1 | towel
+mantele | 3 | tablecloth (transf., post-class.)
+mantica | 1 | wallet
+manticulor | 1 | steal
+manticulor | 3 | act slyly, scheme (transf.)
+manto1 | 1 | wait
+manualis | 1 | handheld
+manualis | 3 | a book-cover (subst.)
+manuarius | 1 | handheld
+manuarius | 3 | a thief (subst.)
+manubiae | 1 | booty
+manubiae | 3 | plunder, ill-gotten gain (transf.)
+manubiae | 4 | a thunderbolt (in augury)
+manubrium | 1 | handle
