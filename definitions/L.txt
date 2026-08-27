@@ -243,3 +243,758 @@ largitio | 2 | bribery
 largitio | 3 | prodigality, extravagance
 largitor2 | 1 | benefactor
 largitor2 | 2 | briber
+largus1 | 1 | abundant
+largus1 | 2 | generous
+laridum | 1 | lard
+larva | 1 | ghost
+larva | 3 | mask (transf.)
+larva | 4 | skeleton (transf.)
+larvo | 1 | bewitch
+lascivia | 1 | playfulness
+lascivia | 2 | licentiousness
+lascivio | 1 | frolic
+lascivio | 3 | run riot (trop., of style or language)
+lascivus | 1 | playful
+lascivus | 2 | lewd
+laser | 1 | asafoetida
+laser | 3 | silphium (the plant itself, meton.)
+lassesco | 1 | tire
+lassitudo | 1 | weariness
+lasso | 1 | tire
+lassus | 1 | weary
+lassus | 3 | exhausted, worn out (transf., of things)
+latebra | 1 | hideout
+latebra | 3 | hidden recess, retreat (trop.)
+latebra | 4 | subterfuge, pretence
+latebrosus | 1 | secluded
+latebrosus | 3 | intricate, obscure (trop., late Lat.)
+lateo | 1 | lurk
+lateo | 3 | be safe, be sheltered
+lateo | 4 | be unknown, escape notice (trop., + acc. or dat.)
+later | 1 | brick
+later | 3 | ingot, bar (of gold or silver, transf.)
+lateralis | 1 | lateral
+lateralis | 3 | saddle-bags (subst.)
+laterculus | 1 | tile
+laterculus | 3 | a tile-shaped pastry (transf.)
+latericius | 1 | brick
+latex | 1 | liquid
+latex | 3 | water (poet.)
+latibulum | 1 | den
+latibulum | 3 | refuge, shelter (trop.)
+laticlavius | 1 | broad-striped
+laticlavius | 3 | a senator (subst., one entitled to wear the broad stripe)
+latinitas | 1 | Latinity
+latinitas | 3 | Latin rights (jus Latii, a legal status)
+latio | 1 | proposal
+latio | 3 | legis latio, the proposing of a law or bill
+latio | 4 | suffragii latio, the casting of a vote
+latito | 1 | hide
+latito | 3 | abscond, evade the courts (jurid.)
+latitudo | 1 | breadth
+latitudo | 3 | extent, size, compass (transf.)
+latitudo | 4 | richness, copiousness (trop., of style)
+lator | 1 | proposer
+latratus | 1 | barking
+latro1 | 1 | bark
+latro1 | 3 | roar, resound (transf., of water)
+latro1 | 4 | rant, bluster (of an orator)
+latro1 | 5 | demand vehemently
+latro2 | 1 | robber
+latro2 | 3 | hired soldier, mercenary (ante-class.)
+latro2 | 4 | a chessman, a piece in a board game (poet.)
+latrocinium | 1 | robbery
+latrocinium | 3 | villainy, fraud
+latrocinium | 4 | a band of robbers (concr.)
+latrocinor | 1 | rob
+latrocinor | 3 | serve as a mercenary (ante-class.)
+latrunculus | 1 | brigand
+latrunculus | 3 | a chessman, a piece in a board game (poet.)
+latus1 | 1 | broad
+latus1 | 3 | wide-spread, extensive (trop.)
+latus1 | 4 | diffuse, prolix (trop., of style)
+latus2 | 1 | side
+latus2 | 3 | the lungs (of an orator, i.e. vocal stamina)
+latus2 | 4 | flank (of an army or position)
+latus2 | 5 | an intimate companion (ab latere, trop.)
+laudabilis | 1 | praiseworthy
+laudabilis | 3 | valuable, excellent (transf.)
+laudatio | 1 | praise
+laudatio | 3 | a character reference (in a court of law)
+laudatio | 4 | funeral oration, eulogy
+laudativus | 1 | laudatory
+laudator | 1 | praiser
+laudator | 3 | a character witness (in a court of law)
+laudator | 4 | one who delivers a funeral oration
+laudo | 1 | praise
+laudo | 3 | deliver a funeral oration for (someone)
+laudo | 4 | recommend (as a remedy, medical)
+laudo | 5 | cite, name, quote (transf., as an authority)
+laureatus | 1 | laureate
+laureus | 1 | laurel
+laureus | 3 | the laurel tree (subst. laurea)
+laureus | 4 | a laurel crown or wreath (subst. laurea, sign of triumph)
+laurus | 1 | laurel
+laurus | 3 | triumph, victory (meton., via the laurel crown)
+laus1 | 1 | praise
+laus1 | 3 | a praiseworthy deed, a merit
+laus1 | 4 | value, worth, repute (of things)
+lautia | 1 | state hospitality
+lautitia | 1 | splendour
+lautumiae | 1 | quarry
+lautumiae | 3 | a rock-cut prison (esp. at Syracuse or Rome)
+lavatio | 1 | bathing
+lavatio | 3 | bathing apparatus (transf.)
+lavatio | 4 | bathing-room, bath-house (transf.)
+lavo | 1 | wash
+lavo | 3 | moisten, bedew (transf.)
+lavo | 4 | wash away, cleanse (trop., of guilt or sin)
+laxamentum | 1 | widening
+laxamentum | 3 | space, room (transf., concr.)
+laxamentum | 4 | respite, relief (trop.)
+laxitas | 1 | roominess
+laxitas | 3 | laxity, languor (trop., rare)
+laxo | 1 | widen
+laxo | 2 | relax
+laxo | 3 | loosen, undo (a fastening)
+laxo | 4 | ease, lighten (a burden)
+laxo | 5 | reduce, lower (a price)
+laxus | 1 | loose
+laxus | 3 | ample, unrestricted (trop., of scope or time)
+lebes | 1 | cauldron
+lebes | 3 | basin (for washing)
+lectica | 1 | litter
+lectica | 3 | the crotch of a tree, where branches spring (transf.)
+lecticarius | 1 | litter-bearer
+lecticula | 1 | litter
+lecticula | 3 | bier (for a corpse)
+lecticula | 4 | couch, settee (for reading or writing)
+lectio | 1 | reading
+lectio | 2 | selection
+lectio | 3 | the roll-call of the senate (lectio senatus, a censorial term)
+lectio | 4 | a text, passage (transf., post-class.)
+# review: lectisternium no single English word for this Roman religious rite; described directly
+lectisternium | 1 | a banquet offered to the gods
+lectisternium | 3 | a memorial feast for the dead (transf., Christian era)
+lectito | 1 | peruse
+lectito | 3 | gather eagerly, collect often (post-class., of objects)
+lector | 1 | reader
+lector | 3 | reading-slave (one who reads aloud to his master)
+lector | 4 | lector (a minor clerical office, Christian church, transf.)
+lectulus | 1 | couch
+lectulus | 3 | dining-couch
+lectulus | 4 | bier, funeral couch
+lectus2 | 1 | bed
+lectus2 | 3 | bridal bed
+lectus2 | 4 | dining-couch
+lectus2 | 5 | bier, funeral couch
+legalis | 1 | legal
+legatarius | 1 | testamentary
+legatarius | 3 | a legatee (subst., one to whom something is bequeathed)
+legatio | 1 | embassy
+legatio | 3 | the delegation, the embassy's staff (transf., a group of people)
+legativus | 1 | ambassadorial
+legativus | 3 | an ambassador's travel allowance (subst. legativum)
+legifer | 1 | law-giving
+legifer | 3 | a lawgiver (subst., epithet applied to Minos, Ceres, or Moses)
+legio | 1 | legion
+legio | 3 | army, a large body of troops (in gen.)
+legio | 4 | a great crowd, host (of people, transf.)
+legitimus | 1 | lawful
+legitimus | 2 | proper
+lego1 | 1 | depute
+lego1 | 2 | bequeath
+lego2 | 1 | read
+lego2 | 2 | gather
+lego2 | 3 | choose, select
+lego2 | 4 | coast along, sail past (of a ship, poet.)
+lego2 | 5 | furl (sails, naut. t.t.)
+lego2 | 6 | steal, purloin (rare)
+legulus | 1 | gatherer
+legulus | 3 | olive-picker (esp., one who gathers fallen olives)
+legumen | 1 | pulse
+legumen | 3 | bean (in partic.)
+lemniscatus | 1 | beribboned
+lena | 1 | procuress
+lena | 3 | seductress, enticer (transf.)
+lenio | 1 | soothe
+lenio | 3 | appease, pacify (trop., a person's anger)
+lenis1 | 1 | gentle
+lenis1 | 3 | mild, lenient (trop., of a person's temperament or rule)
+lenitas | 1 | gentleness
+lenitas | 3 | leniency, mildness (trop., of temperament or rule)
+lenitas | 4 | smoothness, evenness (of style, in partic.)
+lenitudo | 1 | gentleness
+leno1 | 1 | pander
+leno2 | 1 | pimp
+leno2 | 3 | seducer, allurer (transf.)
+lenocinium | 1 | pandering
+lenocinium | 3 | allurement, enticement (transf.)
+lenocinium | 4 | showy ornament, finery (transf., of dress or style)
+lenocinor | 1 | flatter
+lenocinor | 3 | promote, advance (post-Aug.)
+lenonius | 1 | pimping
+lens2 | 1 | lentil
+lentesco | 1 | soften
+lentesco | 3 | slacken, relax (trop.)
+lenticula | 1 | lentil
+lenticula | 3 | a lentil-shaped vessel (transf.)
+lenticula | 4 | freckle (transf.)
+lentigo | 1 | spot
+lentigo | 3 | freckle (in partic., a skin condition)
+lentiscus | 1 | mastic-tree
+lentiscus | 3 | mastic-oil (transf.)
+lentiscus | 4 | toothpick (of mastic-wood, transf.)
+lentitudo | 1 | sluggishness
+lentitudo | 3 | dullness, apathy (trop.)
+lento1 | 1 | bend
+lento1 | 3 | ply (an oar, transf.)
+lento1 | 4 | prolong, protract (trop., of time)
+lentor | 1 | stickiness
+lentor | 3 | pliancy, flexibility
+lentus | 1 | pliant
+lentus | 2 | slow
+lentus | 3 | lasting, prolonged (trop., of time)
+lentus | 4 | calm, unconcerned, indifferent (of character)
+leo2 | 1 | lion
+leo2 | 3 | the constellation Leo
+leoninus1 | 1 | leonine
+leoninus1 | 3 | leonina societas, a one-sided partnership (trop., where one party takes all the gain)
+lepidus1 | 1 | charming
+lepidus1 | 3 | witty, facetious (of speech, in partic.)
+lepor | 1 | charm
+lepor | 3 | wit, humour (of speech, in partic.)
+lepor | 4 | my darling, my charmer (as a term of endearment)
+leporarius | 1 | of hares
+leporarius | 3 | a game-park (subst. leporarium, an enclosure for hares and other wild animals)
+lepra | 1 | leprosy
+lepus | 1 | hare
+lepus | 3 | the constellation Lepus
+letalis | 1 | deadly
+letifer | 1 | deadly
+letum | 1 | death
+letum | 3 | ruin, destruction (transf., of things)
+levamen | 1 | relief
+levamentum | 1 | relief
+levatio | 1 | lifting
+levatio | 3 | relief, alleviation (trop.)
+levatio | 4 | diminishing, lessening (rare)
+levigo1 | 1 | smooth
+levigo1 | 3 | pulverize, grind fine (transf.)
+levir | 1 | brother-in-law
+levis1 | 1 | light
+levis1 | 2 | fickle
+levis1 | 3 | swift, nimble (transf., of motion)
+levis1 | 4 | trivial, unimportant (trop.)
+levis1 | 5 | mild, gentle (rare)
+levis2 | 1 | smooth
+levis2 | 3 | flowing, smooth (trop., of speech or style)
+levitas1 | 1 | lightness
+levitas1 | 2 | fickleness
+levitas2 | 1 | smoothness
+levitas2 | 3 | fluency (trop., of speech or style)
+levo1 | 1 | lift
+levo1 | 2 | relieve
+levo1 | 3 | lessen, diminish, weaken
+levo1 | 4 | free, release (from something, + abl.)
+levo1 | 5 | avert (an omen or blow)
+levo2 | 1 | smooth
+levo2 | 3 | polish, refine (trop., of style)
+lex | 1 | law
+lex | 2 | condition
+lex | 3 | a bill (a proposed law, before its passage)
+lex | 4 | contract, agreement
+libamen | 1 | libation
+libamen | 3 | first taste, first enjoyment (trop.)
+libamentum | 1 | libation
+libamentum | 3 | a taste, sample (trop.)
+libella | 1 | farthing
+libella | 3 | level (a tool for checking horizontal surfaces)
+libellus | 1 | booklet
+libellus | 2 | petition
+libellus | 3 | placard, public notice
+libellus | 4 | lampoon, libel (a defamatory writing)
+libellus | 5 | lawyer's brief
+libentia | 1 | delight
+liber1 | 1 | free
+liber1 | 3 | licentious, unrestrained (bad sense)
+liber2 | 1 | children
+liber2 | 3 | the young (of animals, transf.)
+liber4 | 1 | bark
+liber4 | 2 | book
+liber4 | 3 | a chapter, a division of a longer work
+liber4 | 4 | register, list, catalogue
+liber4 | 5 | letter, epistle
+liberalis1 | 1 | noble
+liberalis1 | 2 | generous
+liberalitas | 1 | generosity
+liberalitas | 3 | kindness, affability (in gen.)
+liberalitas | 4 | a gift, donation (transf., concr.)
+liberatio | 1 | release
+liberatio | 3 | acquittal (in a court of law)
+liberatio | 4 | discharge from debt (jurid.)
+liberator | 1 | liberator
+libero | 1 | free
+libero | 3 | acquit (in a court of law)
+libero | 4 | clear, traverse (a place, without hindrance)
+libertas | 1 | freedom
+libertas | 3 | frankness, outspokenness (freedom of speech)
+libertas | 4 | exemption (from taxation)
+libertinus1 | 1 | freedman
+libertus | 1 | freedman
+libet | 1 | please
+libet | 3 | libet mihi, it pleases me, I am willing (impers. + dat.)
+libidinosus | 1 | lustful
+libidinosus | 3 | eager, longing (in a good sense, post-class.)
+libido | 1 | desire
+libido | 2 | lust
+libido | 3 | caprice, wilfulness (unrestrained whim)
+libo1 | 1 | taste
+libo1 | 2 | libate
+libo1 | 3 | touch lightly, graze (poet.)
+libo1 | 4 | impair, diminish (by taking a part away)
+libo1 | 5 | extract, glean (trop., ideas from a source)
+libra | 1 | pound
+libra | 2 | scale
+libra | 3 | the constellation Libra
+libra | 4 | a level, plummet-line (for checking horizontal surfaces)
+libramentum | 1 | weight
+libramentum | 3 | a level surface, horizontal plane (transf.)
+libramentum | 4 | counterweight (for a machine, e.g. a ballista)
+librarius1 | 1 | pound-weight
+librarius1 | 3 | a sixteenth of a modius (subst., a measure equal to a sextarius)
+librarius2 | 1 | of books
+librarius2 | 3 | a copyist, scribe (subst.)
+librarius2 | 4 | a bookseller (subst.)
+librator | 1 | surveyor
+librator | 3 | a slinger, one who hurls weapons by hand
+librilis | 1 | pound-weight
+librilis | 3 | a balance, pair of scales (subst. librile)
+libripens | 1 | paymaster
+libripens | 3 | the balance-holder (a formal witness at a legal sale by scale and coin)
+libro | 1 | balance
+libro | 2 | hurl
+libro | 3 | weigh, ponder, consider (trop.)
+libum | 1 | cake
+licentia | 1 | freedom
+licentia | 2 | licentiousness
+licentia | 3 | boldness, presumption (a liberty one assumes)
+licentiosus | 1 | licentious
+liceo1 | 1 | cost
+liceo1 | 3 | offer for sale, set a price (of the seller, transf.)
+liceor | 1 | bid
+liceor | 3 | appraise, estimate the value of (trop.)
+licet | 1 | may
+licet | 2 | although
+licitatio | 1 | bid
+licitor | 1 | bid
+licitor | 3 | contend, fight (transf.)
+licium | 1 | thread
+licium | 3 | girdle, belt (a woven band, transf.)
+lictor | 1 | lictor
+lien | 1 | spleen
+ligatura | 1 | binding
+ligatura | 3 | amulet (in partic., a bound charm)
+ligatura | 4 | bunch, cluster (of grapes)
+lignarius | 1 | of wood
+lignarius | 3 | a carpenter, joiner (subst.)
+lignatio | 1 | wood-gathering
+lignatio | 3 | a woodcutting site (transf., concr.)
+ligneus | 1 | wooden
+ligneus | 3 | dry, withered (transf., like dry wood)
+lignor | 1 | gather wood
+lignum | 1 | wood
+lignum | 3 | a writing tablet (transf.)
+lignum | 4 | a tree (poet., late Lat.)
+ligo1 | 1 | bind
+ligo1 | 3 | unite, join (trop.)
+ligo1 | 4 | ratify, confirm (trop.)
+ligo2 | 1 | hoe
+ligula | 1 | tongue
+ligula | 3 | shoe-strap, shoe-latchet
+ligula | 4 | spoon, ladle
+ligula | 5 | spoonful (as a measure)
+ligurio | 1 | lick
+ligurio | 3 | crave, lust after (trop.)
+ligustrum | 1 | privet
+lilium | 1 | lily
+lilium | 3 | a defensive pit-trap (milit., rows of concealed stakes, transf.)
+lima | 1 | file
+lima | 3 | polish, revision (trop., of literary work)
+limax | 1 | slug
+limax | 3 | a loose woman, harlot (transf., term of abuse)
+limbus | 1 | hem
+limbus | 3 | the zodiac (transf.)
+limbus | 4 | a snare (for catching animals, transf.)
+limen | 1 | threshold
+limen | 3 | house, dwelling (transf.)
+limen | 4 | beginning (trop.)
+limes | 1 | boundary
+limes | 3 | path, track (in gen.)
+limes | 4 | frontier, fortified border (milit.)
+limito | 1 | bound
+limito | 3 | fix, settle, determine (trop.)
+limo2 | 1 | file
+limo2 | 3 | polish, refine (trop., of a literary work)
+limo2 | 4 | diminish, pare down (trop.)
+limosus | 1 | muddy
+limpidus | 1 | clear
+limpidus | 3 | pure, clean (transf.)
+limus1 | 1 | sidelong
+limus2 | 1 | mud
+limus2 | 3 | filth, pollution (trop.)
+limus3 | 1 | priest's apron
+linamentum | 1 | linen
+linamentum | 3 | lint (medical, for dressing wounds)
+linea | 1 | line
+linea | 2 | limit
+linea | 3 | fishing-line
+linea | 4 | plumb-line (a mason's or carpenter's tool)
+linea | 5 | lineage, line of descent (trop.)
+lineamentum | 1 | line
+lineamentum | 3 | feature, lineament (of a face, transf.)
+linearis | 1 | linear
+lineo | 1 | straighten
+lineo | 3 | striped (transf., pass. part.)
+lineus | 1 | linen
+lingo | 1 | lick
+lingua | 1 | tongue
+lingua | 2 | language
+lingua | 3 | tongue of land (transf., a promontory)
+lingulaca | 1 | chatterbox
+lingulaca | 3 | sole (a kind of fish)
+lino | 1 | smear
+lino | 3 | cover, overlay (transf., e.g. with gold)
+lino | 4 | befoul, sully (trop.)
+linquo | 1 | leave
+linquo | 3 | faint, swoon (linqui animo, esp.)
+linquo | 4 | die (linquere lumen or vitam, esp.)
+linter | 1 | tub
+linter | 3 | skiff, small boat (transf.)
+linteum | 1 | cloth
+linteum | 3 | sail (transf.)
+linteus | 1 | linen
+lippio | 1 | be bleary-eyed
+lippio | 3 | smart, burn (transf., of the throat)
+lippitudo | 1 | bleariness
+lippus | 1 | bleary-eyed
+lippus | 3 | purblind, dim-sighted (transf.)
+lippus | 4 | blind to one's own faults (trop.)
+liquefacio | 1 | melt
+liquefacio | 3 | putrefy, decompose (transf.)
+liquefacio | 4 | weaken, enervate (trop.)
+liqueo | 1 | be liquid
+liqueo | 2 | be clear
+liqueo | 3 | non liquet, it is not proven (a legal formula for a hung verdict)
+liquesco | 1 | melt
+liquesco | 3 | grow soft, become effeminate (trop.)
+liquesco | 4 | waste away (trop.)
+liquidus | 1 | liquid
+liquidus | 2 | clear
+liquidus | 3 | calm, serene, tranquil (trop., of mind)
+liquidus | 4 | certain, evident (trop.)
+liquo | 1 | melt
+liquo | 3 | strain, filter (transf.)
+liquo | 4 | clarify, simplify (trop.)
+liquor1 | 1 | flow
+liquor1 | 3 | waste away (trop.)
+liquor2 | 1 | fluidity
+liquor2 | 3 | a liquid (transf., concr.)
+lira | 1 | ridge
+lira | 3 | furrow (transf.)
+liro | 1 | plough in
+liro | 3 | rave, be mad (trop., for delirare)
+lis | 1 | dispute
+lis | 2 | lawsuit
+lis | 3 | the matter in dispute (the subject of a lawsuit)
+litigator | 1 | disputant
+litigator | 3 | litigant (in partic., a party to a lawsuit)
+litigiosus | 1 | quarrelsome
+litigiosus | 3 | contested, disputed (transf., of property or a claim)
+litigium | 1 | quarrel
+litigium | 3 | litigation (esp.)
+litigo | 1 | quarrel
+litigo | 3 | litigate, sue at law (in partic.)
+lito | 1 | propitiate
+lito | 3 | sacrifice, make an offering (in gen., transf.)
+littera | 1 | letter
+littera | 2 | literature
+littera | 3 | account book, financial record
+littera | 4 | edict, ordinance
+litterator | 1 | schoolteacher
+litterator | 3 | smatterer, dabbler (opp. litteratus, a superficial scholar)
+litteratura | 1 | writing
+litteratura | 3 | grammar, philology (the science of language)
+litteratura | 4 | learning, erudition
+litteratus | 1 | branded
+litteratus | 2 | learned
+litterula | 1 | small letter
+litterula | 3 | a short note (transf., plur.)
+litterula | 4 | modest learning, a little scholarship (transf., plur., ironic)
+litura | 1 | erasure
+litura | 3 | blot, smudge (transf.)
+litura | 4 | wrinkle (transf.)
+litus3 | 1 | shore
+litus3 | 3 | landing-place (transf.)
+lituus | 1 | augur's staff
+lituus | 3 | war-trumpet, clarion
+lituus | 4 | instigator, author (trop.)
+liveo | 1 | be livid
+liveo | 2 | envy
+lividus | 1 | livid
+lividus | 2 | envious
+livor | 1 | bruise
+livor | 2 | envy
+lixa | 1 | sutler
+lixa | 3 | camp-follower (transf., plur.)
+lixivius | 1 | of lye
+lixivius | 3 | lye (subst. lixivia/lixivium)
+lixivus | 1 | of lye
+lixivus | 3 | lye (subst. lixivum)
+localis | 1 | local
+locarius | 1 | of letting
+locarius | 3 | a seat-scalper (subst., one who rents out theatre seats)
+locatio | 1 | placement
+locatio | 3 | leasing, letting out (in partic.)
+locatio | 4 | a lease (transf., the contract itself)
+locator | 1 | lessor
+locator | 3 | contractor, undertaker
+loco | 1 | place
+loco | 2 | lease
+loco | 3 | invest (money, at interest)
+loco | 4 | give in marriage (locare in matrimonium, of a daughter)
+loculamentum | 1 | case
+loculamentum | 3 | socket (of a tooth, in partic.)
+loculus | 1 | purse
+loculus | 3 | coffin
+loculus | 4 | compartment, stall (for animals)
+locuples | 1 | wealthy
+locuples | 3 | richly supplied, abundant (trop., of things)
+locuples | 4 | trustworthy, reliable (as a surety, trop.)
+locupleto | 1 | enrich
+locupleto | 3 | adorn, embellish (trop.)
+locus | 1 | place
+locus | 2 | topic
+locus | 3 | passage (in a book or author)
+locus | 4 | rank, standing, position (social or political)
+locus | 5 | opportunity, occasion (room for something to happen)
+locusta1 | 1 | lobster
+locusta1 | 2 | locust
+locutio | 1 | speech
+locutio | 3 | pronunciation, manner of speaking (in partic.)
+locutio | 4 | phrase, expression (transf.)
+locutuleius | 1 | chatterbox
+lomentum | 1 | cosmetic
+lomentum | 3 | bean-meal (transf.)
+longaevus | 1 | aged
+longinquitas | 1 | length
+longinquitas | 3 | remoteness, distance (in partic.)
+longinquitas | 4 | duration, length of time (transf.)
+longinquus | 1 | distant
+longinquus | 3 | foreign, strange (in partic.)
+longinquus | 4 | long, prolonged (transf., of time)
+longitudo | 1 | length
+longitudo | 3 | duration (transf., of time)
+longus | 1 | long
+longus | 3 | vast, spacious (poet.)
+longus | 4 | tedious (transf., of time)
+loquacitas | 1 | talkativeness
+loquax | 1 | talkative
+loquax | 3 | chattering, babbling (transf., of animals, water, or sound)
+loquela | 1 | speech
+loquela | 3 | language, tongue (transf.)
+loquentia | 1 | fluency
+loquor | 1 | speak
+loquor | 3 | mention, talk about (constantly, act.)
+loquor | 4 | reveal, show clearly (transf., of a thing or sign)
+loquor | 5 | rustle, murmur (poet., of wind or trees)
+lora1 | 1 | small wine
+lorarius | 1 | harness-maker
+lorarius | 3 | flogger (transf., who scourged slaves)
+lorica | 1 | cuirass
+lorica | 3 | breastwork, parapet (milit., transf.)
+lorica | 4 | plaster, plastering (transf.)
+lorico | 1 | mail
+lorico | 3 | plaster, coat (transf.)
+loripes | 1 | bandy-legged
+lorum | 1 | thong
+lorum | 3 | reins (transf., plur.)
+lorum | 4 | whip, lash (transf.)
+lubrico | 1 | lubricate
+lubricus | 1 | slippery
+lubricus | 2 | precarious
+lubricus | 3 | fleeting, gliding (trop., of time or narrative)
+lucar | 1 | forest-tax
+lucaris | 1 | sylvan
+lucaris | 3 | the grove-festival (subst. lucaria)
+luceo | 1 | shine
+luceo | 3 | dawn, grow light (of daybreak)
+luceo | 4 | be evident, be conspicuous (trop.)
+lucerna | 1 | lamp
+lucerna | 3 | nocturnal study, late-night work (transf., poet.)
+lucesco | 1 | brighten
+lucesco | 3 | dawn, grow light (of daybreak, in partic.)
+lucidus | 1 | bright
+lucidus | 2 | lucid
+lucifer | 1 | light-bringing
+lucifer | 3 | the morning star, Venus (subst.)
+lucifer | 4 | day (poet. transf.)
+lucinus1 | 1 | light-bringing
+lucinus1 | 3 | the goddess of childbirth (subst. Lucina)
+lucinus1 | 4 | childbirth (poet. transf.)
+lucrativus | 1 | profitable
+lucrativus | 3 | gratuitously acquired (jurid., of a bequest or gift)
+lucrifacio | 1 | profit
+lucrifacio | 3 | escape, get off (trop., avoid punishment)
+lucror | 1 | gain
+lucror | 3 | save, economize (in partic.)
+lucror | 4 | win over, convert (eccl. Lat., trop.)
+lucrosus | 1 | profitable
+lucrum | 1 | profit
+lucrum | 3 | greed, love of gain (transf.)
+lucrum | 4 | wealth, riches (transf.)
+luctamen | 1 | struggle
+luctamen | 3 | toil, exertion (transf.)
+luctatio | 1 | wrestling
+luctatio | 3 | struggle, contest (transf. or trop.)
+luctator | 1 | wrestler
+luctator | 3 | a treacherous foe (transf., of wine's effect)
+luctor | 1 | wrestle
+luctor | 3 | struggle, strive (transf. or trop.)
+luctuosus | 1 | sorrowful
+luctus | 1 | grief
+luctus | 3 | mourning attire, weeds (transf.)
+lucubratio | 1 | night-work
+lucubro | 1 | lucubrate
+luculentus | 1 | bright
+luculentus | 2 | excellent
+luculentus | 3 | considerable, ample (trop., of wealth or means)
+lucumo | 1 | Etruscan prince
+lucumo | 3 | an inspired person (original sense, one possessed)
+lucus1 | 1 | grove
+lucus1 | 3 | wood, woodland (transf., in gen.)
+ludibrium | 1 | mockery
+ludibrium | 3 | laughing-stock, butt (transf., a person)
+ludibrium | 4 | abuse, violation (of a woman)
+ludibundus | 1 | playful
+ludibundus | 3 | with ease, effortlessly (transf.)
+ludicer | 1 | sportive
+ludicer | 3 | public games, a show (subst.)
+ludifico | 1 | mock
+ludificor | 1 | mock
+ludificor | 3 | thwart, frustrate (transf., by tricks)
+ludius1 | 1 | actor
+ludius1 | 3 | gladiator
+ludo | 1 | play
+ludo | 2 | deceive
+ludo | 3 | mock, ridicule (trop.)
+ludo | 4 | waste, squander (time, trop.)
+ludus | 1 | game
+ludus | 2 | school
+ludus | 3 | public games (in partic., plur.)
+ludus | 4 | jest, joke (transf.)
+lues1 | 1 | plague
+lues1 | 3 | calamity, disaster (transf.)
+lues1 | 4 | a pest, scourge (transf., term of abuse for a destructive person)
+lugeo | 1 | mourn
+lugeo | 3 | be in mourning, wear mourning attire (transf.)
+lugubris | 1 | mourning
+lugubris | 3 | disastrous, calamitous (transf.)
+lugubris | 4 | mean, pitiable (transf.)
+lumbricus | 1 | worm
+lumbricus | 3 | earthworm (transf.)
+lumbus | 1 | loin
+lumbus | 3 | genitals (transf.)
+lumen | 1 | light
+lumen | 2 | eye
+lumen | 3 | lamp, torch (transf.)
+lumen | 4 | glory, distinction (trop., of a person or thing)
+lumen | 5 | clarity, lucidity (trop., of style or exposition)
+luminare | 1 | luminary
+luminare | 3 | lamp (in a temple or church)
+luminare | 4 | window, window-shutter (transf.)
+lumino | 1 | illuminate
+luna1 | 1 | moon
+luna1 | 3 | month (transf.)
+luna1 | 4 | crescent (transf., a half-moon shape or ornament)
+lunaticus | 1 | epileptic
+lunaticus | 3 | moon-dwelling (rare, in partic.)
+luno | 1 | curve
+lunula | 1 | crescent-ornament
+luo2 | 1 | pay
+luo2 | 3 | atone for, expiate (a crime or sin)
+lupa | 1 | she-wolf
+lupa | 3 | prostitute (transf.)
+lupanar | 1 | brothel
+lupatus | 1 | spiked
+lupatus | 3 | a spiked bit (subst., for a horse)
+lupinus2 | 1 | lupine
+lupus1 | 1 | wolf
+lupus1 | 3 | pike (transf., a voracious fish)
+lupus1 | 4 | hook (transf., for hoisting)
+lura | 1 | thong
+lura | 3 | leather sack (transf.)
+lurco2 | 1 | glutton
+luridus | 1 | ghastly
+luridus | 3 | pallor-inducing, deathly (transf., causing paleness)
+lusciniola | 1 | nightingale
+luscitiosus | 1 | night-blind
+luscus | 1 | one-eyed
+lusor | 1 | player
+lusor | 3 | humorous writer (trop.)
+lusor | 4 | banterer, mocker (trop.)
+lusorius | 1 | playing
+lusorius | 3 | pleasure boat (subst. lusoria, a yacht)
+lusorius | 4 | empty, ineffectual (trop., of a sham or invalid act)
+lustralis | 1 | purificatory
+lustralis | 2 | quinquennial
+lustratio | 1 | purification
+lustratio | 3 | a wandering, roaming (transf.)
+lustricus | 1 | purificatory
+lustricus | 3 | dies lustricus, the day of a child's naming and purification
+lustro1 | 1 | purify
+lustro1 | 2 | traverse
+lustro1 | 3 | review (troops, milit.)
+lustro1 | 4 | survey, scan (poet., with the eyes)
+lustro1 | 5 | illuminate (of the sun or moon)
+lustrum1 | 1 | bog
+lustrum1 | 3 | den, lair (transf., of wild beasts)
+lustrum1 | 4 | brothel (transf.)
+lustrum2 | 1 | lustrum
+lustrum2 | 3 | purification sacrifice (the censorial rite itself)
+lusus2 | 1 | play
+lusus2 | 3 | dalliance, flirtation (transf.)
+lusus2 | 4 | jest, mockery (transf.)
+luteus1 | 1 | saffron-yellow
+luteus2 | 1 | muddy
+luteus2 | 3 | vile, worthless (trop.)
+luto1 | 1 | bedaub
+lutulentus | 1 | muddy
+lutulentus | 3 | vile, filthy (trop.)
+lutulentus | 4 | turbid, impure (trop., of style)
+lutum1 | 1 | dyer's-weed
+lutum1 | 3 | yellow (transf., the colour)
+lutum2 | 1 | mud
+lutum2 | 3 | clay, potter's clay (transf.)
+lux | 1 | light
+lux | 2 | life
+lux | 3 | day (transf.)
+lux | 4 | eyesight, the eye (transf.)
+lux | 5 | glory, ornament (trop., of a distinguished person or thing)
+luxo | 1 | dislocate
+luxo | 3 | displace (transf.)
+luxuria | 1 | luxuriance
+luxuria | 2 | extravagance
+luxurio | 1 | flourish
+luxurio | 2 | run riot
+luxuriosus | 1 | luxuriant
+luxuriosus | 2 | extravagant
+luxus3 | 1 | extravagance
+luxus3 | 3 | splendour, pomp (in a positive sense)
+lympha | 1 | water
+lympha | 3 | a water-nymph (personified, poet.)
+lymphaticus | 1 | frantic
+lympho | 1 | dilute
+lympho | 3 | madden, drive out of one's senses
+lyricus | 1 | lyric
+lyricus | 3 | a lyric poet (subst.)
