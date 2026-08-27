@@ -99,3 +99,18 @@ mala | 1 | jawbone
 mala | 3 | cheek (transf., the external part of the face)
 maledico | 1 | revile
 maledico | 3 | curse (eccl. Lat.)
+maledictio | 1 | abuse
+maledictio | 3 | curse (esp., eccl. Lat.)
+maledicus | 1 | slanderous
+malefacio | 1 | harm
+malefactor | 1 | evildoer
+maleficentia | 1 | maliciousness
+maleficium | 1 | crime
+maleficium | 3 | fraud, deception (in partic.)
+maleficium | 4 | sorcery, enchantment (in partic.)
+maleficus | 1 | wicked
+maleficus | 3 | magical, sorcerous (in partic.)
+maleficus | 4 | harmful, noxious (transf.)
+malesuadus | 1 | seductive
+malevolens | 1 | malevolent
+malevolentia | 1 | malevolence
