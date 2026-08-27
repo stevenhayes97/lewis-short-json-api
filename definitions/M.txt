@@ -1,0 +1,22 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_M.json (Lewis & Short via Perseus), simplified for learners.
+macellarius | 1 | butcher's
+macellarius | 3 | a meat-seller, victualler (subst.)
+macellum | 1 | meat-market
+macellum | 3 | meat (transf.)
+macer1 | 1 | lean
+macer1 | 3 | poor, barren (of soil or land)
+maceria | 1 | wall
+maceria | 3 | affliction, distress (a pun on macer, rare)
+macero | 1 | steep
+macero | 2 | torment
+macesco | 1 | grow lean
+machinamentum | 1 | machine
+machinamentum | 3 | trick, stratagem (trop.)
+machinarius | 1 | of machines
+machinarius | 3 | a scaffold-worker (subst.)
+machinatio | 1 | mechanism
+machinatio | 3 | a machine, engine (transf., concr.)
+machinatio | 4 | trickery, machination (trop.)
+machinator | 1 | engineer
+machinator | 3 | schemer, mastermind (trop., of plots or crimes)
