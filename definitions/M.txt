@@ -172,3 +172,21 @@ maneo | 2 | await
 mango | 1 | slave-dealer
 manicae | 1 | sleeve
 manicae | 2 | handcuff
+manifesto2 | 1 | reveal
+manifestus | 1 | evident
+manifestus | 3 | caught in the act, convicted (in partic., law)
+manipularis | 1 | manipular
+manipularis | 3 | a common soldier (subst.)
+manipulatim | 1 | in bundles
+manipulatim | 3 | by maniples (milit.)
+manipulus | 1 | handful
+manipulus | 2 | maniple
+mannulus | 1 | pony
+mano | 1 | flow
+mano | 3 | spread, extend (transf. or trop.)
+mano | 4 | originate, spring (trop., from a source)
+mansio | 1 | stay
+mansio | 2 | inn
+mansuefacio | 1 | tame
+mansuefacio | 3 | civilize, pacify (trop.)
+mansues | 1 | tame
