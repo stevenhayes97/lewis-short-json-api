@@ -267,3 +267,23 @@ materia | 2 | topic
 materia | 3 | talent, natural ability (trop.)
 materiarius | 1 | of timber
 materiarius | 3 | a timber-merchant (subst.)
+maternus1 | 1 | maternal
+matertera | 1 | maternal aunt
+matralis | 1 | maternal
+matralis | 3 | Matralia, the festival of Mater Matuta (esp.)
+matrimonium | 1 | marriage
+matrimonium | 3 | wives, married women (transf., plur.)
+matrix | 1 | dam
+matrix | 3 | womb (transf., late Lat.)
+matrix | 4 | register, roll (transf.)
+matrona1 | 1 | matron
+matrona1 | 3 | lady (esp., a woman of rank or quality)
+matronalis | 1 | matronly
+matula | 1 | pot
+matula | 3 | chamber-pot (in partic.)
+matula | 4 | simpleton (term of abuse)
+maturesco | 1 | ripen
+maturesco | 3 | come to term (transf., of pregnancy or age)
+maturitas | 1 | ripeness
+maturitas | 3 | the proper time, perfection (transf.)
+maturitas | 4 | promptness, speed (post-Aug.)
