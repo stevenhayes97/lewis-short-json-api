@@ -41,3 +41,20 @@ maculosus | 1 | spotted
 maculosus | 3 | stained, defiled (trop.)
 madefacio | 1 | soak
 madefacio | 3 | intoxicate, make drunk (in partic.)
+madeo | 1 | be wet
+madeo | 3 | be drunk, be intoxicated (in partic.)
+madeo | 4 | abound in, overflow with (transf.)
+madesco | 1 | become wet
+madesco | 3 | get drunk (in partic.)
+madido | 1 | wet
+madido | 3 | intoxicate (in partic.)
+madidus | 1 | wet
+madidus | 2 | drunk
+mador | 1 | moisture
+maereo | 1 | grieve
+maeror | 1 | sorrow
+maestitia | 1 | sadness
+maestitudo | 1 | sadness
+maestus | 1 | sad
+maestus | 3 | gloomy, severe (transf., of temperament)
+maestus | 4 | mournful, funereal (in gen., of garments or rites)
