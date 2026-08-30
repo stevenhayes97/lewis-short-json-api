@@ -322,3 +322,22 @@ medico | 4 | dye, tint (transf.)
 medicor | 1 | heal
 medicus1 | 1 | medical
 medicus1 | 2 | physician
+medietas | 1 | middle
+medietas | 3 | half, moiety (transf.)
+mediocris | 1 | middling
+mediocritas | 1 | moderation
+mediocritas | 2 | insignificance
+medioximus | 1 | middlemost
+meditatio | 1 | contemplation
+meditatio | 3 | preparation, practice (transf.)
+mediterraneus | 1 | inland
+mediterraneus | 3 | the interior, inland region (subst.)
+meditor | 1 | ponder
+meditor | 3 | practise, rehearse (transf.)
+meditullium | 1 | middle
+medius1 | 1 | middle
+medius1 | 2 | neutral
+medius1 | 3 | the public, common view (subst. medium, transf.)
+medulla | 1 | marrow
+medulla | 3 | pith, core (transf., of plants)
+medulla | 4 | essence, quintessence (trop.)
