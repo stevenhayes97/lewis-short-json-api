@@ -676,3 +676,20 @@ mollitudo | 3 | susceptibility, weakness (trop.)
 molo1 | 1 | grind
 molucrum | 1 | mill-broom
 molucrum | 3 | mill-handle (uncertain, alt. sense)
+momen | 1 | movement
+momen | 3 | importance, weight (trop.)
+momentum | 1 | movement
+momentum | 2 | moment
+momentum | 3 | influence, weight (trop., importance)
+monedula | 1 | jackdaw
+moneo | 1 | warn
+moneo | 2 | teach
+monetalis | 1 | minted
+monile | 1 | necklace
+monitio | 1 | admonition
+monitor | 1 | adviser
+monitor | 3 | prompter (in partic., in the theatre or in legal proceedings)
+monitum | 1 | advice
+monitum | 3 | prophecy, prediction
+monitus2 | 1 | warning
+monitus2 | 3 | omen, portent (in partic., divine warning)
