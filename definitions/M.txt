@@ -471,3 +471,23 @@ meta | 2 | cone
 meta | 3 | limit, boundary (transf., of life or a journey)
 metallicus | 1 | metallic
 metallicus | 3 | miner (subst.)
+metator | 1 | surveyor
+metior | 1 | measure
+metior | 3 | traverse (poet. transf., a distance)
+metior | 4 | estimate, judge (trop.)
+meto2 | 1 | reap
+meto2 | 3 | mow down, cut down (in partic., in battle)
+metor | 1 | mark out
+metor | 3 | encamp, pitch camp (in partic.)
+metuo | 1 | fear
+metuo | 3 | revere, hold in awe (eccl. Lat.)
+metus | 1 | fear
+metus | 3 | a terror (transf., concr., a thing that causes fear)
+mica | 1 | crumb
+mica | 3 | a small dining-room (transf.)
+mico | 1 | quiver
+mico | 2 | gleam
+mictualis | 1 | urinary
+mictualis | 3 | diuretic (a substance promoting urination)
+migratio | 1 | migration
+migratio | 3 | a metaphorical transfer (trop., of a word's meaning)
