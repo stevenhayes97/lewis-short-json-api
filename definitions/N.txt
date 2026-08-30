@@ -315,3 +315,22 @@ nixor | 3 | depend, rely upon (trop.)
 nixus2 | 1 | pressure
 nixus2 | 3 | effort, exertion (transf.)
 nixus2 | 4 | labour pains, throes of childbirth (in partic.)
+no1 | 1 | swim
+no1 | 3 | sail, flow, fly (poet., transf.)
+nobilis | 1 | famous
+nobilis | 2 | noble
+nobilis | 3 | knowable, known (in gen., rare, lit.)
+nobilis | 4 | excellent, superior (of a kind or quality)
+nobilitas | 1 | fame
+nobilitas | 3 | noble birth, aristocracy (in partic.; also meton., the nobility as a class)
+nobilitas | 4 | excellence, superiority (of quality, in gen.)
+nobilito | 1 | ennoble
+nobilito | 3 | improve, enhance (in partic., to render excellent)
+noceo | 1 | harm
+noctiluca | 1 | moon
+noctiluca | 3 | lantern (rare, transf.)
+noctua1 | 1 | owl
+nocturnus | 1 | nocturnal
+nodo | 1 | knot
+nodosus | 1 | knotty
+nodosus | 3 | intricate, difficult (trop., poet. and post-Aug.)
