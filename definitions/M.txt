@@ -693,3 +693,28 @@ monitum | 1 | advice
 monitum | 3 | prophecy, prediction
 monitus2 | 1 | warning
 monitus2 | 3 | omen, portent (in partic., divine warning)
+mons | 1 | mountain
+mons | 3 | heap, mass (of things, transf.)
+mons | 4 | rock (poet.)
+mons | 5 | wild beasts (late poet., of mountain creatures)
+monstrifer | 1 | monster-bearing
+monstrifer | 3 | monstrous, horrid, misshapen (transf.)
+monstrificus | 1 | monstrous
+monstro | 1 | show
+monstro | 2 | teach
+monstro | 3 | ordain, appoint (poet., of rites or omens)
+monstro | 4 | denounce, inform against (post-Aug., in a criminal accusation)
+monstro | 5 | advise, urge (someone to do something)
+monstrum | 1 | portent
+monstrum | 2 | monster
+montanus1 | 1 | mountain
+montanus1 | 3 | mountainous, full of mountains (predicative)
+montuosus | 1 | mountainous
+monumentum | 1 | monument
+monumentum | 3 | tomb, sepulchre (in partic.)
+monumentum | 4 | record, chronicle (of history)
+monumentum | 5 | token, souvenir (transf., a mark of remembrance)
+mora1 | 1 | delay
+mora1 | 3 | hindrance, obstacle (transf., that which causes delay)
+mora1 | 4 | space of time, interval (mora temporis)
+mora1 | 5 | pause (in speech, rhetorical)
