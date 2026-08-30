@@ -357,3 +357,23 @@ membrana | 3 | surface, outward show (trop.)
 membranaceus | 1 | membranous
 membranula | 1 | small membrane
 membranula | 3 | a parchment (transf.)
+membratim | 1 | piecemeal
+membratim | 3 | limb by limb (lit., of a body)
+membrum | 1 | limb
+membrum | 3 | part, division (transf., of a larger whole)
+membrum | 4 | a clause (of a sentence, of speech)
+memini | 1 | remember
+memini | 3 | mention (transf.)
+memor1 | 1 | mindful
+memor1 | 3 | having a good memory (esp.)
+memorabilis | 1 | memorable
+memoratus2 | 1 | mention
+memoria | 1 | memory
+memoria | 2 | narrative
+memoria | 3 | era, period (transf., a span of time)
+memorialis | 1 | memorial
+memorialis | 3 | a historiographer (subst., post-Aug.)
+memoro | 1 | relate
+memoro | 3 | utter, speak (esp., a word or phrase)
+menda | 1 | blemish
+menda | 3 | mistake, error (transf., in writing)
