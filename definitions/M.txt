@@ -377,3 +377,23 @@ memoro | 1 | relate
 memoro | 3 | utter, speak (esp., a word or phrase)
 menda | 1 | blemish
 menda | 3 | mistake, error (transf., in writing)
+mendacium | 1 | lie
+mendacium | 3 | fable, fiction (esp.)
+mendax | 1 | lying
+mendax | 3 | liar (subst.)
+mendicitas | 1 | beggary
+mendico | 1 | beg
+mendicus | 1 | beggarly
+mendicus | 3 | paltry, mean (transf.)
+mendosus | 1 | faulty
+mendosus | 3 | erroneous, incorrect (of texts or accounts)
+mendum | 1 | error
+mendum | 3 | blemish, defect (of the face)
+mens | 1 | mind
+mens | 2 | courage
+mens | 3 | purpose, intention (of a plan)
+mensa | 1 | table
+mensa | 3 | meal, course (transf.)
+mensa | 4 | a bank, money-changer's counter (transf.)
+mensarius | 1 | banker
+mensarius | 3 | table-cloth, table linen (subst. mensarium)
