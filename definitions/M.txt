@@ -939,3 +939,26 @@ murmur | 3 | roar, rumble (of louder or harsher sounds, e.g. the sea or a crowd)
 murmuro | 1 | murmur
 murmuro | 3 | grumble, mutter (of discontent)
 murmuro | 4 | grumble at, complain about (act., transf., + acc.)
+murreus2 | 1 | murrine
+murrinus1 | 1 | myrrh
+murrinus1 | 3 | spiced wine flavoured with myrrh (subst. murrina)
+murrinus2 | 1 | murrine
+murrinus2 | 3 | murrine vessels, fine vases (subst. murrina, plur.)
+murus | 1 | wall
+murus | 3 | dam, embankment (transf.)
+murus | 4 | rim, side (of a vessel, e.g. a pot)
+murus | 5 | safeguard, defence (trop.)
+musca1 | 1 | fly
+musca1 | 3 | busybody, meddler (transf., of an annoying person)
+muscarius | 1 | fly
+muscarius | 3 | fly-whisk, fly-brush (subst., made of tail hair or feathers)
+musculus | 1 | mouse
+musculus | 3 | muscle (of the body, trop. or medical)
+musculus | 4 | mussel (transf., a sea-mussel)
+musculus | 5 | shed, mantelet (milit., a protective siege shelter)
+musculus | 6 | a small boat (rare, post-class.)
+mussito | 1 | mutter
+mussito | 3 | be silent about, disregard (act., to take no notice of a thing)
+musso | 1 | mutter
+musso | 3 | hesitate, be uncertain (transf., to deliberate silently or be afraid to act)
+mustaceus | 1 | wedding-cake
