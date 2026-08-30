@@ -845,3 +845,29 @@ multifacio | 1 | esteem
 multifarius | 1 | manifold
 multifarius | 3 | on many sides, in many places (adv. multifariam)
 multifarius | 4 | in many ways, variously (adv. multifarie, post-Aug.)
+multifidus | 1 | cleft
+multifidus | 3 | many-branched (transf., of hair or rivers)
+multifidus | 4 | manifold, various (trop.)
+multiformis | 1 | multiform
+multiformis | 3 | various, diverse (of character or subject)
+multijugus | 1 | many-yoked
+multijugus | 3 | manifold, complex, various (trop.)
+multimodis | 1 | variously
+multimodus | 1 | manifold
+multiplex | 1 | manifold
+multiplex | 3 | winding, having many folds (lit.)
+multiplex | 4 | many times as great, far more (in comparisons)
+multiplico | 1 | multiply
+multitudo | 1 | multitude
+multitudo | 3 | crowd (of people, in partic.)
+multitudo | 4 | the common people, the masses (of the crowd, disparaging)
+multitudo | 5 | the plural, plural number (gram.)
+multo2 | 1 | fine
+multus | 1 | much
+multus | 3 | many (in the plural)
+multus | 4 | too much, excessive (in partic.)
+multus | 5 | frequent, often present (in partic., of persons)
+multus | 6 | at length, often (multum, adv., of manner or degree)
+multus | 7 | by far, much (comp. multo + comparative)
+multus | 8 | more (comp. plus)
+multus | 9 | most, very many (sup. plurimus)
