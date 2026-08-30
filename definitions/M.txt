@@ -448,3 +448,26 @@ meridianus | 1 | midday
 meridianus | 2 | southern
 meridies | 1 | noon
 meridies | 2 | south
+merito2 | 1 | earn
+merito2 | 3 | serve as a soldier (rare)
+meritorius | 1 | profitable
+meritorius | 3 | let out for hire (subst. meritoria, rooms)
+meritorius | 4 | of prostitution (in partic.)
+merso | 1 | dip
+merso | 3 | overwhelm (trop.)
+merula1 | 1 | blackbird
+merula1 | 3 | sea-carp (transf., a fish)
+merus | 1 | pure
+merus | 2 | mere
+merx | 1 | goods
+merx | 3 | a piece of goods (transf., term of abuse for a person, ante-class.)
+messis | 1 | harvest
+messis | 3 | the standing crop (transf., yet to be harvested)
+messis | 4 | a year (poet. transf.)
+messor | 1 | reaper
+messor | 3 | destroyer (trop., a 'reaper' of men)
+meta | 1 | goal
+meta | 2 | cone
+meta | 3 | limit, boundary (transf., of life or a journey)
+metallicus | 1 | metallic
+metallicus | 3 | miner (subst.)
