@@ -871,3 +871,27 @@ multus | 6 | at length, often (multum, adv., of manner or degree)
 multus | 7 | by far, much (comp. multo + comparative)
 multus | 8 | more (comp. plus)
 multus | 9 | most, very many (sup. plurimus)
+mulus | 1 | mule
+mundanus | 1 | worldly
+mundanus | 3 | cosmopolitan, a citizen of the world (subst., late Lat.)
+munditia | 1 | cleanliness
+munditia | 3 | elegance, neatness (transf., of dress or furniture)
+munditia | 4 | neatness, terseness (trop., of style or speech)
+mundo | 1 | cleanse
+mundo | 3 | purify (eccl., ceremonially or spiritually)
+mundulus | 1 | neat
+mundus1 | 1 | clean
+mundus1 | 3 | elegant, refined (transf., of manner, dress, or speech)
+mundus1 | 4 | in mundo esse, to be in readiness, ready at hand (idiom, subst. mundum)
+mundus2 | 1 | toiletries
+mundus2 | 3 | tool, implement (transf., in gen.)
+mundus2 | 4 | universe, the world (transf., like Gr. kosmos)
+mundus2 | 5 | the earth, mankind (poet., transf.)
+mundus2 | 6 | the sky, the weather (post-class.)
+mundus2 | 7 | the underworld, entrance to the Lower World (euphemistic, at Rome)
+munerarius | 1 | sponsor
+munerarius | 3 | giver of a gladiatorial exhibition (in partic.)
+munerarius | 4 | benefactor, one who bestows gifts (in gen.)
+munero | 1 | present
+munero | 3 | reward, honour (with a gift)
+munia | 1 | duties
