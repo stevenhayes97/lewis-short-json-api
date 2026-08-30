@@ -895,3 +895,20 @@ munerarius | 4 | benefactor, one who bestows gifts (in gen.)
 munero | 1 | present
 munero | 3 | reward, honour (with a gift)
 munia | 1 | duties
+municeps | 1 | citizen
+municeps | 3 | fellow-citizen (transf., of a common origin or town)
+municeps | 4 | freedman in a municipium (rare, technical)
+municipalis | 1 | municipal
+municipium | 1 | municipality
+munifex | 1 | fatigue-man
+munifex | 3 | suckling (transf., of an animal)
+munificentia | 1 | munificence
+munificus1 | 1 | generous
+munimen | 1 | defence
+munimentum | 1 | fortification
+munimentum | 3 | protection, shelter (trop.)
+munio1 | 1 | fortify
+munio1 | 3 | defend, guard, protect (transf., in gen.)
+munio1 | 4 | pave, build (a road)
+munio1 | 5 | open, prepare (a way, trop., e.g. for an accusation)
+munis | 1 | obliging
