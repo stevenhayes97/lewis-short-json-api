@@ -543,3 +543,18 @@ minuscularius | 3 | a petty tax-collector (subst.)
 minusculus | 1 | smallish
 minutatim | 1 | piecemeal
 minutia | 1 | smallness
+minutio | 1 | diminution
+minutio | 3 | bloodletting (in partic., medical)
+mirabilis | 1 | wonderful
+mirabilis | 3 | a miracle (subst., eccl. Lat.)
+mirabundus | 1 | astonished
+miraculum | 1 | marvel
+mirificus | 1 | marvellous
+mirmillo | 1 | gladiator
+mirmillo | 3 | a Gallic-helmeted gladiator with a fish crest, who fought a net-fighter
+miro | 1 | wonder
+miror | 1 | wonder
+miror | 3 | admire, hold in regard (trop.)
+mirus | 1 | wonderful
+miscellaneus | 1 | mixed
+miscellaneus | 3 | hash, hodgepodge (subst., of food)
