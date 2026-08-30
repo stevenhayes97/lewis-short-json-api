@@ -142,3 +142,24 @@ nedum | 3 | much more, not to say (transf., post-Aug., in affirmative statements
 nefandus | 1 | unspeakable
 nefarius | 1 | wicked
 nefarius | 3 | a heinous act, a crime (subst. neut. nefarium)
+nefas | 1 | sin
+nefas | 3 | a monstrous horror (poet., transf.)
+nefas | 4 | impossible (transf., of what cannot be corrected or done)
+nefastus | 1 | unlawful
+nefastus | 3 | impious, profane (transf., contrary to religion)
+nefastus | 4 | unlucky, inauspicious (transf., of a day)
+nefastus | 5 | harmful, injurious (rare)
+nefrens | 1 | toothless
+negativus | 1 | negative
+negito | 1 | deny
+negito | 3 | persist in denying, deny repeatedly (freq., a stronger emphasis than nego)
+neglegentia | 1 | negligence
+neglego | 1 | neglect
+neglego | 3 | disregard, despise (in partic., to slight or scorn)
+nego | 1 | deny
+nego | 2 | refuse
+nego | 3 | decline (an invitation, in partic.)
+nego | 4 | yield nothing, fail to produce (transf., poet., of infertile land or an unfavourable wind)
+nego | 5 | disown, deny knowing (eccl. Lat., + acc. of a person)
+negotialis | 1 | business
+negotiatio | 1 | commerce
