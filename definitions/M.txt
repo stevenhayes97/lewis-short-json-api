@@ -636,3 +636,24 @@ modo | 2 | just now
 modo | 3 | modo...modo, now...now (alternation)
 modulatio | 1 | measure
 modulatio | 3 | melody, modulation (in partic., music or verse)
+modulor | 1 | measure
+modulor | 2 | sing
+modulus | 1 | measure
+modulus | 3 | module (archit., a standard unit of proportion)
+modulus | 4 | rhythm, melody (in partic., music or verse)
+modus | 1 | measure
+modus | 2 | way
+modus | 3 | limit, bound (transf.)
+moenia1 | 1 | walls
+moenia1 | 3 | a walled town, city (transf.)
+mola | 1 | millstone
+mola | 3 | sacrificial meal (transf., salted grits sprinkled on victims)
+molaris | 1 | millstone
+molaris | 3 | molar (subst., a grinding tooth)
+moles | 1 | mass
+moles | 2 | difficulty
+molestia | 1 | annoyance
+molestia | 3 | affectation, stiffness (in partic., of speech or style)
+molestus | 1 | troublesome
+molestus | 3 | affected, laboured (in partic., of speech or style)
+molimen | 1 | effort
