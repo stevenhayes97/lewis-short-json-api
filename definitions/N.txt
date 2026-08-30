@@ -1,0 +1,25 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_N.json (Lewis & Short via Perseus), simplified for learners.
+naevus | 1 | mole
+naevus | 3 | blemish, fault (trop., late Lat.)
+nam | 1 | for
+nam | 3 | but, now (in transitions, introducing a new subject)
+nam | 4 | but why, but what (in questions, expressing surprise)
+namque | 1 | for
+nanciscor | 1 | obtain
+nanciscor | 3 | light upon, meet with, find (transf., by chance)
+naris | 1 | nostril
+naris | 3 | opening, vent (transf., of a canal or pipe)
+narratio | 1 | narrative
+narratio | 3 | statement of facts (in partic., the narrative section of a speech, rhet.)
+narro | 1 | tell
+narro | 3 | dedicate (rare, of a book, to a patron)
+nascor | 1 | be born
+nascor | 3 | arise, spring from, originate (transf., of things, e.g. rivers or plants)
+nascor | 4 | be regenerated, be born again (eccl. Lat., spiritually)
+nascor | 5 | destined, suited by nature (as adj. natus + dat. or ad, naturally fitted for something)
+nascor | 6 | aged, of the age of (as adj. natus + a number, e.g. annos natus viginti, twenty years old)
+nascor | 7 | a son (as subst. natus); a daughter (subst. nata)
+nassa | 1 | fish-trap
+nassa | 3 | snare, trap (trop., of an inescapable dangerous situation)
+nasturtium | 1 | cress
