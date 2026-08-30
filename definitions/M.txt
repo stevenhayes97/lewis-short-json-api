@@ -397,3 +397,20 @@ mensa | 3 | meal, course (transf.)
 mensa | 4 | a bank, money-changer's counter (transf.)
 mensarius | 1 | banker
 mensarius | 3 | table-cloth, table linen (subst. mensarium)
+mensis | 1 | month
+mensis | 3 | menstrual period (transf., plur.)
+mensor | 1 | surveyor
+mensor | 3 | engineer (milit.)
+menstrualis | 1 | monthly
+menstrualis | 3 | menstrual (post-Aug.)
+menstruus | 1 | monthly
+menstruus | 3 | menstrual (in partic.)
+mensura | 1 | measure
+mensura | 3 | extent, degree (trop., capacity or proportion)
+mensuralis | 1 | measuring
+mensuro | 1 | measure
+mentio1 | 1 | mention
+mentior | 1 | lie
+mentior | 2 | feign
+mentum1 | 1 | chin
+mentum1 | 3 | coping (transf., archit., a projecting cornice)
