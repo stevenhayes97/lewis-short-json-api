@@ -163,3 +163,24 @@ nego | 4 | yield nothing, fail to produce (transf., poet., of infertile land or 
 nego | 5 | disown, deny knowing (eccl. Lat., + acc. of a person)
 negotialis | 1 | business
 negotiatio | 1 | commerce
+negotiator | 1 | dealer
+negotiator | 3 | agent, factor (in partic., one entrusted with managing a business)
+negotior | 1 | trade
+negotior | 3 | engage in business, deal (transf. or trop., in gen.)
+negotiosus | 1 | busy
+negotiosus | 3 | troublesome (transf.)
+negotium | 1 | business
+negotium | 3 | trouble, difficulty (transf.)
+negotium | 4 | matter, thing (transf., like Gr. pragma, for res)
+nemo | 1 | nobody
+nemo | 3 | no, not any (adj., = nullus, transf.)
+nemorensis | 1 | woodland
+nemorosus | 1 | wooded
+nemorosus | 3 | leafy, shady (transf., full of foliage)
+nempe | 1 | certainly
+nempe | 3 | you mean (in questions, asking for confirmation of another's meaning)
+nenia | 1 | dirge
+nenia | 3 | incantation, magic song (in partic.)
+nenia | 4 | lullaby, nursery song (in partic.)
+neo1 | 1 | spin
+neo1 | 3 | weave, entwine (transf.)
