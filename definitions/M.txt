@@ -767,3 +767,34 @@ mors | 4 | bloodshed, murder (poet.)
 mors | 5 | deadly weapon (poet., of a missile)
 morsico | 1 | nibble
 morsico | 3 | press the lips together, nuzzle (post-class., as in kissing)
+morsus2 | 1 | bite
+morsus2 | 3 | catch, clasp (transf., of a buckle or fastening)
+morsus2 | 4 | sharpness, pungency (of flavour or taste)
+morsus2 | 5 | sting, pain, vexation (trop.)
+mortalis | 1 | mortal
+mortalis | 3 | human, of human origin (transf.)
+mortalis | 4 | temporary, transient (opp. eternal)
+mortalitas | 1 | mortality
+mortalitas | 3 | mankind, mortals (transf., post-Aug.)
+mortarium | 1 | mortar
+mortarium | 3 | trough for mixing mortar (transf.)
+mortarium | 4 | hollow dug around a tree (transf.)
+mortarium | 5 | a drug, ground remedy (that which is triturated)
+morticinus | 1 | carrion
+morticinus | 3 | dead (transf., of things generally)
+mortifer | 1 | deadly
+mortualia | 1 | grave-clothes
+mortualia | 3 | funeral dirges (of songs sung for the dead)
+mos | 1 | custom
+mos | 3 | conduct, character (in partic., moral behaviour; plur. mores, morals)
+mos | 4 | quality, nature, manner (transf., of things)
+mos | 5 | precept, law, rule (poet. and post-Aug.)
+motio | 1 | motion
+motio | 3 | an ague-fit (in partic., medical)
+motio | 4 | emotion (trop., pl., of the soul)
+motus2 | 1 | motion
+motus2 | 3 | gesture, dance (in partic., artistic movement)
+motus2 | 4 | emotion, impulse (trop., of the mind)
+motus2 | 5 | uprising, disturbance (in partic., political)
+motus2 | 6 | trope, figure of speech (rhet.)
+motus2 | 7 | motive (post-Aug.)
