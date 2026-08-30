@@ -596,3 +596,22 @@ mitesco | 1 | ripen
 mitesco | 3 | grow gentle, become tame (transf. or trop.)
 mitifico | 1 | ripen
 mitifico | 3 | tame, gentle (trop., soften a person's temper)
+mitigo | 1 | soften
+mitigo | 3 | appease, pacify (trop.)
+mitis | 1 | mild
+mitis | 3 | gentle, calm (trop., of temperament or speech)
+mitto | 1 | send
+mitto | 2 | hurl
+mitto | 3 | omit, pass over (esp., in speaking)
+mitto | 4 | release, let go (dismiss, set free)
+mobilis | 1 | movable
+mobilis | 2 | fickle
+mobilitas | 1 | mobility
+mobilitas | 2 | fickleness
+moderamen | 1 | rudder
+moderamen | 3 | management, control (trop., of affairs or a state)
+moderatio | 1 | moderation
+moderatio | 3 | guidance, government (of a state or the world)
+moderator | 1 | governor
+moderatrix | 1 | governess
+modero | 1 | moderate
