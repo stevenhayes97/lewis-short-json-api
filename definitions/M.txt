@@ -575,3 +575,24 @@ miseria | 1 | misery
 miseria | 3 | trouble, irksomeness
 misericordia | 1 | mercy
 misericordia | 3 | wretchedness (transf., a pitiable condition)
+misericors | 1 | merciful
+misericors | 3 | contemptible, mean (a distinct, rarer sense noted by Cicero)
+miseror | 1 | lament
+miseror | 2 | pity
+miserulus | 1 | wretched
+missilis | 1 | missile
+missilis | 3 | presents thrown to a crowd (subst. missilia, plur.)
+missio | 1 | dismissal
+missio | 3 | discharge (from military or gladiatorial service)
+missio | 4 | quarter, mercy (esp., sparing a defeated gladiator)
+missus2 | 1 | sending
+missus2 | 3 | a heat, round (transf., in public games)
+missus2 | 4 | a course (transf., at a meal)
+mistura | 1 | mixture
+mistura | 3 | carnal intercourse (in partic.)
+mitella | 1 | headband
+mitella | 3 | arm-bandage, sling (transf.)
+mitesco | 1 | ripen
+mitesco | 3 | grow gentle, become tame (transf. or trop.)
+mitifico | 1 | ripen
+mitifico | 3 | tame, gentle (trop., soften a person's temper)
