@@ -432,3 +432,19 @@ merces1 | 1 | wages
 merces1 | 2 | bribe
 merces1 | 3 | rent, revenue (transf.)
 mercimonium | 1 | merchandise
+mercor | 1 | buy
+merenda1 | 1 | luncheon
+mereo | 1 | deserve
+mereo | 2 | earn
+mereo | 3 | serve as a soldier (milit., mereri stipendia)
+meretricius | 1 | meretricious
+meretrix | 1 | prostitute
+mergae | 1 | pitchfork
+mergo | 1 | dip
+mergo | 2 | overwhelm
+mergus | 1 | diving-bird
+mergus | 3 | vine-layer (a shoot buried to take root)
+meridianus | 1 | midday
+meridianus | 2 | southern
+meridies | 1 | noon
+meridies | 2 | south
