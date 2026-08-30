@@ -50,3 +50,29 @@ nato | 2 | float
 nato | 3 | overflow, be flooded (with abl., mostly poet.)
 nato | 4 | swim, be glazed (of the eyes, as of a drunk or dying person)
 nato | 5 | waver, fluctuate (trop., to be uncertain)
+natrix | 1 | water-snake
+natrix | 3 | scourge (transf., a whip made of snake-skin)
+natura | 1 | nature
+natura | 3 | character, disposition (of a person, natural temperament)
+natura | 4 | the world, the universe (transf.)
+natura | 5 | genitals (euphemistic, subst., the natural parts)
+natura | 6 | birth (lit., rare)
+naturalis | 1 | natural
+naturalis | 3 | by birth, biological (of a father, opp. adoptive)
+natus2 | 1 | age
+natus2 | 3 | growth (of plants, rare)
+naucum | 1 | trifle
+naufragium | 1 | shipwreck
+naufragium | 3 | wreck, ruin (trop., of one's fortune or estate)
+naufragium | 4 | wreckage, debris (transf., of a physical wreck)
+naufragus | 1 | shipwrecked
+naufragus | 3 | ruined (trop., of a person's fortune)
+naufragus | 4 | causing shipwreck, hazardous (poet., transf., of a sea or storm)
+nauseo | 1 | be seasick
+nauseo | 3 | vomit, feel queasy (transf., in gen.)
+nauseo | 4 | talk nonsense (trop., to belch out silly words)
+nauseo | 5 | disgust, sicken (trop., to cause revulsion in others)
+nauta | 1 | sailor
+navalis | 1 | naval
+navalis | 3 | dockyard (subst. navale, navalia)
+navalis | 4 | rigging, tackle (subst., the fittings of a ship)
