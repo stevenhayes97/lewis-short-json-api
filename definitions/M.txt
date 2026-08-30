@@ -798,3 +798,30 @@ motus2 | 4 | emotion, impulse (trop., of the mind)
 motus2 | 5 | uprising, disturbance (in partic., political)
 motus2 | 6 | trope, figure of speech (rhet.)
 motus2 | 7 | motive (post-Aug.)
+moveo | 1 | move
+moveo | 2 | affect
+moveo | 3 | cause, produce (transf., e.g. sweat, tears, an undertaking)
+moveo | 4 | shake, alter, change (an opinion or decision)
+moveo | 5 | disturb, trouble, torment (someone)
+moveo | 6 | put forth, sprout (of plants, poet.)
+moveo | 7 | dance, perform a gesture (of ritual dance)
+mox | 1 | soon
+mox | 3 | then, next (in a narrative sequence)
+mox | 4 | afterwards, later (post-Aug., for post)
+mucro | 1 | point
+mucro | 3 | sword (transf., poet.)
+mucro | 4 | edge, sharpness (trop., of wit or authority)
+mugil | 1 | mullet
+muginor | 1 | dawdle
+mugio1 | 1 | low
+mugio1 | 3 | bray (transf., of a trumpet)
+mugio1 | 4 | rumble (transf., of an earthquake or the ground)
+mugitus | 1 | lowing
+mugitus | 3 | rumbling, roaring (transf., a loud noise)
+mula | 1 | mule
+mulceo | 1 | stroke
+mulceo | 3 | soothe, appease (trop.)
+mulceo | 4 | charm, delight (trop.)
+mulco | 1 | beat
+mulco | 3 | maltreat, handle roughly (in gen.)
+mulco | 4 | maul, savage (trop., of critics or an argument)
