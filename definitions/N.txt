@@ -23,3 +23,30 @@ nascor | 7 | a son (as subst. natus); a daughter (subst. nata)
 nassa | 1 | fish-trap
 nassa | 3 | snare, trap (trop., of an inescapable dangerous situation)
 nasturtium | 1 | cress
+nasus1 | 1 | nose
+nasus1 | 3 | nozzle, spout (transf., of a vessel)
+nasutus | 1 | large-nosed
+nasutus | 3 | sharp-witted, satirical (trop., of a critical or mocking disposition)
+natalicius | 1 | birthday
+natalicius | 3 | birthday present (subst. neut. natalicium)
+natalicius | 4 | birthday feast (subst. fem. natalicia)
+natalis1 | 1 | birthday
+natalis1 | 3 | anniversary, commemorative day (transf., of any yearly festival)
+natalis1 | 4 | lineage, extraction (subst. plur. natales, of family origin)
+natalis1 | 5 | origin, source (transf., of things, e.g. metals or ideas)
+natatorius | 1 | swimming
+natatorius | 3 | swimming-pool, bathing-place (subst. natatorium)
+natio | 1 | nation
+natio | 3 | breed, stock, race (of animals or people, in gen.)
+natio | 4 | birth, origin (lit., rare)
+natis | 1 | buttocks
+nativitas | 1 | birth
+nativitas | 3 | a generation (transf., of a genealogical unit)
+nativus | 1 | native
+nativus | 3 | inborn, innate (transf., of a quality)
+nativus | 4 | primitive, root (gram., of a word not derived from another)
+nato | 1 | swim
+nato | 2 | float
+nato | 3 | overflow, be flooded (with abl., mostly poet.)
+nato | 4 | swim, be glazed (of the eyes, as of a drunk or dying person)
+nato | 5 | waver, fluctuate (trop., to be uncertain)
