@@ -284,3 +284,34 @@ niteo | 6 | be brilliant, be elegant (trop., of speech or style)
 nitesco | 1 | brighten
 nitesco | 3 | grow sleek, thrive (transf., of animals or plants)
 nitesco | 4 | become illustrious, be cultivated (trop.)
+nitido | 1 | polish
+nitido | 3 | wash, bathe (in partic.)
+nitidus | 1 | shining
+nitidus | 3 | sleek, plump (transf., of animals)
+nitidus | 4 | healthy-looking, well-groomed (transf., of persons)
+nitidus | 5 | handsome, elegant, neat (transf.)
+nitidus | 6 | luxuriant, blooming (transf., of fields or plants)
+nitidus | 7 | polished, refined (trop., of style)
+nitor1 | 1 | lean
+nitor1 | 2 | strive
+nitor1 | 3 | press forward, climb (transf., to advance with effort)
+nitor1 | 4 | labour in childbirth (transf., to strain, give birth)
+nitor1 | 5 | rely, depend upon (trop., + abl. or in + abl.)
+nitor1 | 6 | argue, contend (trop., to try to prove a point)
+nitor2 | 1 | brightness
+nitor2 | 3 | good looks, comeliness (transf., of the body)
+nitor2 | 4 | elegance, refinement (transf., of external appearance)
+nitor2 | 5 | polish, elegance (trop., of speech or style)
+nitor2 | 6 | excellence, distinction (trop., of character or lineage)
+nivalis | 1 | snowy
+nivalis | 3 | cold, wintry (transf., of a day)
+nivarius | 1 | snow
+niveus | 1 | snowy
+niveus | 3 | snow-white (transf., of colour)
+nix | 1 | snow
+nix | 3 | whiteness (transf., poet., of hair or ivory)
+nixor | 1 | lean
+nixor | 3 | depend, rely upon (trop.)
+nixus2 | 1 | pressure
+nixus2 | 3 | effort, exertion (transf.)
+nixus2 | 4 | labour pains, throes of childbirth (in partic.)
