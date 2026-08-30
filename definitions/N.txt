@@ -209,3 +209,24 @@ nervus | 5 | fetter, shackle (transf., a restraint for the feet)
 nervus | 6 | prison (transf., in partic.)
 nervus | 7 | vigour, strength, force (trop.)
 nervus | 8 | energy, force of style (trop., in partic., of oratory)
+nescio | 1 | not know
+nescio | 3 | be unable, not know how (in partic., + inf.)
+nescius | 1 | unaware
+neuter | 1 | neither
+neuter | 3 | neuter (gram., of gender)
+neutiquam | 1 | nowise
+neve | 1 | nor
+nex | 1 | murder
+nex | 3 | death (in gen., a natural death, rare and post-Aug.)
+nex | 4 | destruction, ruin (jurid. Lat., transf.)
+nexo | 1 | bind
+nexus2 | 1 | binding
+nexus2 | 3 | bondage, debt-slavery (transf., a legal obligation for debt)
+nexus2 | 4 | obligation, restraint (trop., in gen.)
+ni | 1 | unless
+ni | 3 | not (arch., a simple negative particle, only in fixed phrases like quidni, why not)
+ni | 4 | that not, lest (conj., ante-class. and poet., in purpose clauses)
+nicto | 1 | blink
+nicto | 3 | wink (in partic., to signal with the eyes)
+nicto | 4 | flash, flicker (transf., of fire)
+nicto | 5 | strain, exert oneself (trop.)
