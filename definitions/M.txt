@@ -414,3 +414,21 @@ mentior | 1 | lie
 mentior | 2 | feign
 mentum1 | 1 | chin
 mentum1 | 3 | coping (transf., archit., a projecting cornice)
+meo | 1 | go
+meo | 3 | move, travel (trop., of things like stars or vehicles)
+mephitis | 1 | stench
+meracus | 1 | unmixed
+meracus | 3 | pure, unadulterated (trop.)
+mercator | 1 | merchant
+mercator | 3 | buyer, purchaser (transf.)
+mercatura | 1 | trade
+mercatura | 3 | goods, merchandise (transf.)
+mercatus | 1 | trade
+mercatus | 2 | market
+mercedula | 1 | small wages
+mercenarius | 1 | hired
+mercenarius | 3 | hireling, hired servant (subst.)
+merces1 | 1 | wages
+merces1 | 2 | bribe
+merces1 | 3 | rent, revenue (transf.)
+mercimonium | 1 | merchandise
