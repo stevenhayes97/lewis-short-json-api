@@ -558,3 +558,20 @@ miror | 3 | admire, hold in regard (trop.)
 mirus | 1 | wonderful
 miscellaneus | 1 | mixed
 miscellaneus | 3 | hash, hodgepodge (subst., of food)
+miscellus | 1 | mixed
+misceo | 1 | mix
+misceo | 2 | confound
+misellus | 1 | poor
+miser | 1 | wretched
+miser | 3 | sick, ill (transf.)
+miserabilis | 1 | pitiable
+miseratio | 1 | pity
+miseratio | 3 | a pathetic appeal (transf., rhet., a speech meant to move pity)
+misereo | 1 | pity
+misereo | 3 | miseret me, it grieves me, I pity (impers.)
+miseresco | 1 | pity
+miseresco | 3 | become wretched (rare)
+miseria | 1 | misery
+miseria | 3 | trouble, irksomeness
+misericordia | 1 | mercy
+misericordia | 3 | wretchedness (transf., a pitiable condition)
