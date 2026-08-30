@@ -707,6 +707,7 @@ monstro | 4 | denounce, inform against (post-Aug., in a criminal accusation)
 monstro | 5 | advise, urge (someone to do something)
 monstrum | 1 | portent
 monstrum | 2 | monster
+monstruosus | 1 | monstrous
 montanus1 | 1 | mountain
 montanus1 | 3 | mountainous, full of mountains (predicative)
 montuosus | 1 | mountainous
@@ -718,3 +719,28 @@ mora1 | 1 | delay
 mora1 | 3 | hindrance, obstacle (transf., that which causes delay)
 mora1 | 4 | space of time, interval (mora temporis)
 mora1 | 5 | pause (in speech, rhetorical)
+moralis | 1 | moral
+morator | 1 | delayer
+morator | 3 | advocate who talks to waste time (in court)
+morator | 4 | one who delays runners in a race (for the crowd's amusement)
+moratus2 | 1 | mannered
+moratus2 | 3 | characteristic, true to life (of style suited to a person)
+morbosus | 1 | sickly
+morbosus | 3 | diseased with lewdness, prone to unnatural desire
+morbus | 1 | disease
+morbus | 3 | vice, moral failing (of the mind)
+morbus | 4 | grief, distress
+mordacitas | 1 | mordacity
+mordacitas | 3 | snappishness, sharpness (transf., of temper or style)
+mordax | 1 | biting
+mordax | 3 | pungent, sharp (transf., of taste or things)
+mordax | 4 | biting, snarling (trop., of persons or words)
+mordeo | 1 | bite
+mordeo | 3 | eat, devour (poet.)
+mordeo | 4 | grip, clasp fast (transf., of a buckle or fastening)
+mordeo | 5 | nip, sting (of cold or wind)
+mordeo | 6 | sting, hurt, pain (trop.)
+mordeo | 7 | grasp firmly, fix in the mind
+mordeo | 8 | squander, dissipate (rare)
+mordicitus | 1 | bitingly
+mordicitus | 3 | with the teeth (lit., biting into something)
