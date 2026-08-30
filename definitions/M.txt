@@ -615,3 +615,24 @@ moderatio | 3 | guidance, government (of a state or the world)
 moderator | 1 | governor
 moderatrix | 1 | governess
 modero | 1 | moderate
+moderor | 1 | restrain
+moderor | 2 | govern
+modestia | 1 | moderation
+modestia | 2 | modesty
+modestus | 1 | moderate
+modestus | 2 | modest
+modicus | 1 | moderate
+modicus | 3 | middling, mediocre (disparaging sense)
+modifico | 1 | limit
+modificor | 1 | measure
+modificor | 3 | moderate, limit (trop.)
+modiolus | 1 | small measure
+modiolus | 3 | the nave of a wheel (transf.)
+modiolus | 4 | trepan (transf., a surgical borer)
+modius | 1 | peck
+modius | 3 | the mast-socket (transf., of a ship)
+modo | 1 | only
+modo | 2 | just now
+modo | 3 | modo...modo, now...now (alternation)
+modulatio | 1 | measure
+modulatio | 3 | melody, modulation (in partic., music or verse)
