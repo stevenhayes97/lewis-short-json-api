@@ -744,3 +744,26 @@ mordeo | 7 | grasp firmly, fix in the mind
 mordeo | 8 | squander, dissipate (rare)
 mordicitus | 1 | bitingly
 mordicitus | 3 | with the teeth (lit., biting into something)
+mordicus1 | 1 | tenaciously
+mordicus1 | 3 | with the teeth, by biting (lit.)
+moretum | 1 | relish
+moretum | 3 | a garlic-and-herb spread (a country dish; also the title of a pseudo-Vergilian poem)
+moribundus | 1 | dying
+moribundus | 3 | deadly, fatal (act., poet., causing death)
+morigeror | 1 | comply
+morigerus | 1 | obedient
+morior | 1 | die
+morior | 3 | decay, wither away (transf., of things)
+morior | 4 | dead (adj., as past part. mortuus)
+morior | 5 | the dead, a dead person (as subst., mortuus)
+moror1 | 1 | delay
+moror1 | 2 | amuse
+moror1 | 3 | nihil moror + acc., I don't care about (idiom, to dismiss or disregard something)
+morosus1 | 1 | peevish
+morosus1 | 3 | scrupulous, careful (rare, of thoroughness rather than temper)
+mors | 1 | death
+mors | 3 | corpse, dead body (transf., mostly poet.)
+mors | 4 | bloodshed, murder (poet.)
+mors | 5 | deadly weapon (poet., of a missile)
+morsico | 1 | nibble
+morsico | 3 | press the lips together, nuzzle (post-class., as in kissing)
