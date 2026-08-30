@@ -825,3 +825,23 @@ mulceo | 4 | charm, delight (trop.)
 mulco | 1 | beat
 mulco | 3 | maltreat, handle roughly (in gen.)
 mulco | 4 | maul, savage (trop., of critics or an argument)
+muliebris | 1 | female
+muliebris | 3 | womanish, effeminate (reproachful, of men)
+mulier | 1 | woman
+mulier | 3 | wife (in partic., opp. to a maid)
+mulier | 4 | coward (transf., as a term of reproach)
+mulierarius | 1 | woman's
+mulierarius | 3 | a lover of women (subst.)
+muliercula | 1 | girl
+muliercula | 3 | mere woman, weak woman (dim., often slightly condescending)
+mulio1 | 1 | muleteer
+mulio1 | 3 | a kind of gnat (transf., an enemy to bees)
+mulleus | 1 | purple-red shoe
+mulleus | 3 | worn only by consuls, praetors, and curule aediles (in partic., a mark of high magistracy)
+multa1 | 1 | fine
+multicius | 1 | sheer
+multicius | 3 | fine, transparent garments (subst., soft luxurious clothing)
+multifacio | 1 | esteem
+multifarius | 1 | manifold
+multifarius | 3 | on many sides, in many places (adv. multifariam)
+multifarius | 4 | in many ways, variously (adv. multifarie, post-Aug.)
