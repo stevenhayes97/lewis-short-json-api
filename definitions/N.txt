@@ -334,3 +334,31 @@ nocturnus | 1 | nocturnal
 nodo | 1 | knot
 nodosus | 1 | knotty
 nodosus | 3 | intricate, difficult (trop., poet. and post-Aug.)
+nodus | 1 | knot
+nodus | 3 | girdle, sash (transf., poet.)
+nodus | 4 | knob, joint (transf., of a body or plant)
+nodus | 5 | bond, obligation (trop., poet.)
+nodus | 6 | difficulty, knotty point (trop., in partic.)
+# review: noegeum a single obscure citation with disputed description (purple-trimmed vs plain white garment); kept generic
+noegeum | 1 | garment
+noegeum | 3 | a purple-trimmed cloak (uncertain; some sources describe it as plain white instead)
+nolo | 1 | be unwilling
+nolo | 3 | wish ill, be hostile (in partic., rare, + dat.)
+nomen | 1 | name
+nomen | 3 | reputation, fame (trop.)
+nomen | 4 | family, nation (transf., a people or stock, e.g. nomen Romanum)
+nomen | 5 | accusation, charge (transf., nomen deferre, to bring a charge)
+nomen | 6 | debt, claim (transf., a bond or note owed)
+nomen | 7 | pretext, pretence (trop., a nominal excuse or authority)
+nomen | 8 | noun (gram.)
+nomenclator | 1 | nomenclator
+nominalis | 1 | nominal
+nominatim | 1 | by name
+nominatio | 1 | naming
+nominatio | 3 | nomination (in partic., to an office)
+nominatio | 4 | personification (rhet., in partic., a figure giving a name to something otherwise unnamed)
+nomino | 1 | name
+nomino | 3 | make famous, celebrate (in partic., pregn.)
+nomino | 4 | nominate (in partic., to an office)
+nomino | 5 | accuse, denounce (in partic., not ante-Aug.)
+non | 1 | not
