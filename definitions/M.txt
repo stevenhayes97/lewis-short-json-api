@@ -912,3 +912,30 @@ munio1 | 3 | defend, guard, protect (transf., in gen.)
 munio1 | 4 | pave, build (a road)
 munio1 | 5 | open, prepare (a way, trop., e.g. for an accusation)
 munis | 1 | obliging
+munitio | 1 | fortifying
+munitio | 3 | fortification, rampart (concr., a structure)
+munitio | 4 | road-building, paving (of a road)
+munitio | 5 | support (trop.)
+munitor | 1 | engineer
+munus | 1 | duty
+munus | 2 | gift
+munus | 3 | burden, tribute (in partic., an onus)
+munus | 4 | a work, composition (transf., e.g. a book)
+munus | 5 | favour, service (transf.)
+munus | 6 | funeral rites, last offices (in partic., to the dead)
+munus | 7 | public show, gladiatorial exhibition (in partic.)
+munus | 8 | a public building erected at private expense (in partic.)
+munusculum | 1 | gift
+munusculum | 3 | a small present (esp. informal or affectionate)
+muralis | 1 | mural
+murex | 1 | murex
+murex | 3 | purple dye (transf., from the shellfish)
+murex | 4 | sharp rock, jagged stone (transf., of pointed things)
+murex | 5 | caltrop (in partic., a spiked defensive device)
+muria | 1 | brine
+murinus | 1 | mouse-coloured
+murmur | 1 | murmur
+murmur | 3 | roar, rumble (of louder or harsher sounds, e.g. the sea or a crowd)
+murmuro | 1 | murmur
+murmuro | 3 | grumble, mutter (of discontent)
+murmuro | 4 | grumble at, complain about (act., transf., + acc.)
