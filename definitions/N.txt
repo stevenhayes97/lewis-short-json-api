@@ -261,3 +261,26 @@ nimbus | 5 | cloud of dust or smoke (transf.)
 nimbus | 6 | headband, frontlet (rare, worn by women)
 nimbus | 7 | multitude, host (transf., of things spreading out like a cloud, e.g. a mass of spears)
 nimbus | 8 | disaster, misfortune (trop., a sudden storm of trouble)
+nimirum | 1 | doubtless
+nimis | 1 | excessively
+nimius | 1 | excessive
+nimius | 3 | too great, too powerful (in partic., post-Aug., of political power)
+nimius | 4 | very great, very much (transf., great beyond measure)
+ningit | 1 | it snows
+ningit | 3 | shower down, scatter (transf., of things falling like snow)
+nisi | 1 | unless
+nisi | 3 | except, only (after a negative or interrogative clause)
+nisi | 4 | but, than (after nihil or nihil aliud)
+nisus2 | 1 | effort
+nisus2 | 3 | pressure (lit., a pressing or resting against something)
+nitedula | 1 | dormouse
+nitela1 | 1 | brightness
+nitela1 | 3 | polish (transf., that which causes shine, e.g. tooth-powder)
+niteo | 1 | shine
+niteo | 3 | be sleek, be in good condition (transf., of animals)
+niteo | 4 | look beautiful, be radiant (transf., of persons)
+niteo | 5 | flourish, thrive (transf., of fields, plants, or wealth)
+niteo | 6 | be brilliant, be elegant (trop., of speech or style)
+nitesco | 1 | brighten
+nitesco | 3 | grow sleek, thrive (transf., of animals or plants)
+nitesco | 4 | become illustrious, be cultivated (trop.)
