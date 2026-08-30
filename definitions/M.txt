@@ -302,3 +302,23 @@ medeor | 1 | heal
 medeor | 3 | remedy, correct (trop.)
 medianus | 1 | middle
 mediastinus | 1 | drudge
+mediator | 1 | mediator
+medicabilis | 1 | curable
+medicabilis | 2 | curative
+medicamen | 1 | remedy
+medicamen | 2 | poison
+medicamentarius | 1 | of drugs
+medicamentarius | 3 | a druggist, apothecary (subst.)
+medicamentum | 1 | remedy
+medicamentum | 2 | poison
+medicinalis | 1 | medicinal
+medicinus | 1 | medicine
+medicinus | 3 | medical (adj., rare)
+medicinus | 4 | a physician's shop (subst. medicina)
+medicinus | 5 | remedy (subst. medicina)
+medico | 1 | heal
+medico | 3 | medicate, treat with herbs (transf.)
+medico | 4 | dye, tint (transf.)
+medicor | 1 | heal
+medicus1 | 1 | medical
+medicus1 | 2 | physician
