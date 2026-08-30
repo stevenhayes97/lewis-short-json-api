@@ -657,3 +657,22 @@ molestia | 3 | affectation, stiffness (in partic., of speech or style)
 molestus | 1 | troublesome
 molestus | 3 | affected, laboured (in partic., of speech or style)
 molimen | 1 | effort
+molimentum | 1 | effort
+molior | 1 | endeavour
+molior | 2 | build
+molitio1 | 1 | moving
+molitio1 | 3 | preparation, undertaking (a laborious task)
+mollesco | 1 | soften
+mollesco | 3 | become effeminate (trop.)
+mollio | 1 | soften
+mollio | 3 | mitigate, moderate (trop.)
+mollio | 4 | render effeminate (trop.)
+mollis | 1 | soft
+mollis | 2 | effeminate
+mollitia | 1 | softness
+mollitia | 2 | effeminacy
+mollitudo | 1 | softness
+mollitudo | 3 | susceptibility, weakness (trop.)
+molo1 | 1 | grind
+molucrum | 1 | mill-broom
+molucrum | 3 | mill-handle (uncertain, alt. sense)
