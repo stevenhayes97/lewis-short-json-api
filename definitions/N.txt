@@ -123,3 +123,22 @@ necessitudo | 3 | close connection, relationship, friendship (transf.)
 necessitudo | 4 | relatives, connections (concr., plur., post-Aug.)
 necne | 1 | or not
 necnon | 1 | and also
+neco | 1 | kill
+neco | 3 | thwart, check (trop., a natural inclination)
+neco | 4 | bore to death, pester (trop., colloquial, of talking someone to death)
+necopinans | 1 | unaware
+necopinatus | 1 | unexpected
+necopinus | 1 | unexpected
+necopinus | 3 | unsuspecting, off guard (act., of the one caught unaware)
+nectareus | 1 | nectarous
+nectareus | 3 | delicious, sweet (transf., as sweet as nectar)
+necto | 1 | bind
+necto | 3 | fetter, enslave (in partic., for debt)
+necto | 4 | attach, link (trop., of causes or ideas)
+necto | 5 | bind, oblige (trop., by an obligation)
+necubi | 1 | nowhere
+nedum | 1 | much less
+nedum | 3 | much more, not to say (transf., post-Aug., in affirmative statements)
+nefandus | 1 | unspeakable
+nefarius | 1 | wicked
+nefarius | 3 | a heinous act, a crime (subst. neut. nefarium)
