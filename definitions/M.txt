@@ -491,3 +491,21 @@ mictualis | 1 | urinary
 mictualis | 3 | diuretic (a substance promoting urination)
 migratio | 1 | migration
 migratio | 3 | a metaphorical transfer (trop., of a word's meaning)
+migro | 1 | migrate
+migro | 3 | transgress, violate (act., of a law)
+miles | 1 | soldier
+miles | 3 | the army, soldiery (transf., collect.)
+miles | 4 | a chessman, pawn (transf.)
+miliarius1 | 1 | thousandfold
+miliarius1 | 3 | milestone (subst.)
+miliarius2 | 1 | of millet
+miliarius2 | 3 | a water-heater (subst., a tall vessel for warming water)
+milifolium | 1 | yarrow
+militaris | 1 | military
+militia | 1 | warfare
+militia | 2 | occupation
+milito | 1 | serve
+milito | 3 | wage war (transf.)
+mille | 1 | thousand
+mille | 3 | countless, innumerable (transf., poet.)
+millesimus | 1 | thousandth
