@@ -76,3 +76,30 @@ nauta | 1 | sailor
 navalis | 1 | naval
 navalis | 3 | dockyard (subst. navale, navalia)
 navalis | 4 | rigging, tackle (subst., the fittings of a ship)
+navia | 1 | boat
+navia | 3 | trough (transf., a hollowed wood vessel used in vintage-making)
+navicularius | 1 | shipowner
+navicularius | 3 | of a ship, of a shipmaster (adj., late Lat.)
+navicularius | 4 | the shipping business (subst. fem. navicularia)
+navigatio | 1 | voyage
+navigium | 1 | ship
+navigium | 3 | raft, float (transf., post-class.)
+navigium | 4 | a voyage, sailing (transf., ante- and post-class.)
+navigo | 1 | sail
+navigo | 3 | sail over, navigate (act., to traverse a sea)
+navigo | 4 | proceed, advance (transf., e.g. of an army or a war moving swiftly)
+navigo | 5 | swim (rare, poet.)
+navigo | 6 | flow (rare, poet., of a current)
+navis | 1 | ship
+navis | 3 | genitals (euphemistic, transf.)
+navis | 4 | the ship of state (trop., of political affairs)
+navo | 1 | exert
+navo | 3 | navare operam, to lend zealous assistance, apply oneself vigorously (idiom)
+navus | 1 | diligent
+navus | 3 | wholly, completely (adv. naviter, transf., emphatic)
+ne1 | 1 | not
+ne1 | 3 | not even (in the phrase ne...quidem)
+ne1 | 4 | that not, lest (in purpose or result clauses, or after verbs of fearing, warning, forbidding)
+ne1 | 5 | do not (in prohibitions, + subj. or imper.)
+ne2 | 1 | question-marker
+ne2 | 3 | whether (in indirect questions)
