@@ -103,3 +103,23 @@ ne1 | 4 | that not, lest (in purpose or result clauses, or after verbs of fearin
 ne1 | 5 | do not (in prohibitions, + subj. or imper.)
 ne2 | 1 | question-marker
 ne2 | 3 | whether (in indirect questions)
+ne3 | 1 | indeed
+nebula | 1 | mist
+nebula | 3 | thin fabric, transparent cloth (transf., of a garment or a metal sheet)
+nebula | 4 | obscurity, vagueness (trop., of confusion or uncertainty)
+nebulo | 1 | scoundrel
+nebulosus | 1 | misty
+nebulosus | 3 | obscure, hard to understand (trop.)
+necessarius | 1 | necessary
+necessarius | 2 | related
+necessarius | 3 | a relative, kinsman, close connection (subst., of blood, friendship, or clientship)
+necesse | 1 | necessary
+necessitas | 1 | necessity
+necessitas | 3 | fate, destiny (transf., a law of nature)
+necessitas | 4 | necessities, essentials (concr., plur., necessary things or expenses)
+necessitas | 5 | relationship, connection (for necessitudo, rare)
+necessitudo | 1 | necessity
+necessitudo | 3 | close connection, relationship, friendship (transf.)
+necessitudo | 4 | relatives, connections (concr., plur., post-Aug.)
+necne | 1 | or not
+necnon | 1 | and also
