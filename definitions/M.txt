@@ -1,0 +1,289 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_M.json (Lewis & Short via Perseus), simplified for learners.
+macellarius | 1 | butcher's
+macellarius | 3 | a meat-seller, victualler (subst.)
+macellum | 1 | meat-market
+macellum | 3 | meat (transf.)
+macer1 | 1 | lean
+macer1 | 3 | poor, barren (of soil or land)
+maceria | 1 | wall
+maceria | 3 | affliction, distress (a pun on macer, rare)
+macero | 1 | steep
+macero | 2 | torment
+macesco | 1 | grow lean
+machinamentum | 1 | machine
+machinamentum | 3 | trick, stratagem (trop.)
+machinarius | 1 | of machines
+machinarius | 3 | a scaffold-worker (subst.)
+machinatio | 1 | mechanism
+machinatio | 3 | a machine, engine (transf., concr.)
+machinatio | 4 | trickery, machination (trop.)
+machinator | 1 | engineer
+machinator | 3 | schemer, mastermind (trop., of plots or crimes)
+machinor | 1 | devise
+machinor | 3 | scheme, plot (in partic.)
+macies | 1 | leanness
+macies | 3 | poverty, meagreness (trop., of language or style)
+macilentus | 1 | lean
+macresco | 1 | grow lean
+macto | 1 | sacrifice
+macto | 2 | slaughter
+macto | 3 | afflict, punish (with something bad)
+macto | 4 | honour, reward (with something good)
+mactus1 | 1 | glorified
+mactus1 | 3 | macte! well done! (an exclamation of praise)
+macula1 | 1 | spot
+macula1 | 3 | mesh (transf., of a net)
+macula1 | 4 | stigma, blemish (trop., of character)
+maculo | 1 | stain
+maculo | 3 | defile, dishonour (trop.)
+maculosus | 1 | spotted
+maculosus | 3 | stained, defiled (trop.)
+madefacio | 1 | soak
+madefacio | 3 | intoxicate, make drunk (in partic.)
+madeo | 1 | be wet
+madeo | 3 | be drunk, be intoxicated (in partic.)
+madeo | 4 | abound in, overflow with (transf.)
+madesco | 1 | become wet
+madesco | 3 | get drunk (in partic.)
+madido | 1 | wet
+madido | 3 | intoxicate (in partic.)
+madidus | 1 | wet
+madidus | 2 | drunk
+mador | 1 | moisture
+maereo | 1 | grieve
+maeror | 1 | sorrow
+maestitia | 1 | sadness
+maestitudo | 1 | sadness
+maestus | 1 | sad
+maestus | 3 | gloomy, severe (transf., of temperament)
+maestus | 4 | mournful, funereal (in gen., of garments or rites)
+magister | 1 | master
+magister | 2 | teacher
+magisterium | 1 | directorship
+magisterium | 3 | tutorship (in partic.)
+magisterium | 4 | instruction, teaching (trop.)
+magistra | 1 | mistress
+magistra | 3 | schoolmistress, instructress
+magistratus | 1 | magistracy
+magistratus | 2 | magistrate
+magmentarius | 1 | supplementary
+magnanimitas | 1 | magnanimity
+magnanimus | 1 | magnanimous
+magnificentia | 1 | magnificence
+magnificentia | 3 | grandeur, splendour (transf., of things)
+magnificentia | 4 | pomposity, bombast (rhet., bad sense)
+magnifico | 1 | esteem
+magnifico | 3 | extol, glorify (transf.)
+magnifico | 4 | enlarge (rare, eccl.)
+magnificus | 1 | magnificent
+magnificus | 3 | boastful, bragging (bad sense, of a person)
+magniloquentia | 1 | eloquence
+magniloquentia | 2 | bombast
+magniloquus | 1 | eloquent
+magniloquus | 2 | boastful
+magnitudo | 1 | size
+magnitudo | 3 | abundance, great quantity (of number or amount)
+magnitudo | 4 | rank, dignity (in partic., post-Aug.)
+magnopere | 1 | greatly
+magnus1 | 1 | great
+magnus1 | 3 | loud (of a voice)
+magnus1 | 4 | old, advanced in years (magnus natu)
+magnus1 | 5 | dear, expensive (of price, magni or magno)
+majalis | 1 | barrow hog
+majalis | 3 | an unmanned man (transf., term of abuse)
+majestas | 1 | majesty
+majestas | 3 | dignity, splendour (transf., in gen.)
+majusculus | 1 | rather large
+mala | 1 | jawbone
+mala | 3 | cheek (transf., the external part of the face)
+maledico | 1 | revile
+maledico | 3 | curse (eccl. Lat.)
+maledictio | 1 | abuse
+maledictio | 3 | curse (esp., eccl. Lat.)
+maledicus | 1 | slanderous
+malefacio | 1 | harm
+malefactor | 1 | evildoer
+maleficentia | 1 | maliciousness
+maleficium | 1 | crime
+maleficium | 3 | fraud, deception (in partic.)
+maleficium | 4 | sorcery, enchantment (in partic.)
+maleficus | 1 | wicked
+maleficus | 3 | magical, sorcerous (in partic.)
+maleficus | 4 | harmful, noxious (transf.)
+malesuadus | 1 | seductive
+malevolens | 1 | malevolent
+malevolentia | 1 | malevolence
+malevolus | 1 | malevolent
+malevolus | 3 | an enemy, foe (subst.)
+malignitas | 1 | malice
+malignitas | 2 | stinginess
+maligno | 1 | malign
+malignus | 1 | malicious
+malignus | 2 | stingy
+malignus | 3 | scanty, meagre (transf., small in quantity)
+malitia | 1 | malice
+malitia | 3 | cunning, craftiness
+malitia | 4 | roguery (in a good sense)
+malitiosus | 1 | crafty
+malleolus | 1 | small hammer
+malleolus | 3 | vine-cutting (transf., a mallet-shaped shoot for planting)
+malleolus | 4 | fire-dart (milit., transf.)
+malleus | 1 | hammer
+malleus | 3 | glanders (transf., a disease of animals)
+malo | 1 | prefer
+malo | 3 | favour (in partic., be more inclined towards someone)
+malus1 | 1 | bad
+malus1 | 3 | ugly, ill-looking (of appearance)
+malus1 | 4 | harm, misfortune (subst. malum, an evil)
+malus1 | 5 | punishment (in partic., subst. malum)
+malus3 | 1 | mast
+malus3 | 3 | beam, pole (in gen.)
+malva | 1 | mallow
+mamilla | 1 | nipple
+mamilla | 3 | a small pipe or nozzle (transf.)
+mamma | 1 | breast
+mamma | 3 | mother, mama (children's language)
+mammosus | 1 | full-breasted
+mammosus | 3 | protuberant, bulging (transf., of fruit)
+manalis1 | 1 | flowing
+manceps | 1 | contractor
+manceps | 3 | surety, guarantor (transf.)
+mancipatio | 1 | conveyance
+mancipium | 1 | ownership
+mancipium | 2 | slave
+mancipo | 1 | convey
+mancipo | 3 | subject, deliver up (trop., to a vice or fate)
+mancus | 1 | maimed
+mancus | 3 | defective, imperfect (trop.)
+mandator | 1 | mandator
+mandator | 3 | instigator (transf., of an accuser or informer)
+mando1 | 1 | commission
+mando1 | 2 | entrust
+mando2 | 1 | chew
+mando2 | 3 | devour (transf.)
+manduco1 | 1 | chew
+manducus | 1 | glutton
+manducus | 3 | a chewing-mask (transf., a comic theatrical figure)
+mane | 1 | morning
+mane | 3 | in the morning, early (adv.)
+maneo | 1 | remain
+maneo | 2 | await
+mango | 1 | slave-dealer
+manicae | 1 | sleeve
+manicae | 2 | handcuff
+manifesto2 | 1 | reveal
+manifestus | 1 | evident
+manifestus | 3 | caught in the act, convicted (in partic., law)
+manipularis | 1 | manipular
+manipularis | 3 | a common soldier (subst.)
+manipulatim | 1 | in bundles
+manipulatim | 3 | by maniples (milit.)
+manipulus | 1 | handful
+manipulus | 2 | maniple
+mannulus | 1 | pony
+mano | 1 | flow
+mano | 3 | spread, extend (transf. or trop.)
+mano | 4 | originate, spring (trop., from a source)
+mansio | 1 | stay
+mansio | 2 | inn
+mansuefacio | 1 | tame
+mansuefacio | 3 | civilize, pacify (trop.)
+mansues | 1 | tame
+mansuesco | 1 | tame
+mansuesco | 3 | grow tame, become gentle (neutr.)
+mansuetudo | 1 | tameness
+mansuetudo | 3 | mildness, clemency (trop.)
+mantele | 1 | towel
+mantele | 3 | tablecloth (transf., post-class.)
+mantica | 1 | wallet
+manticulor | 1 | steal
+manticulor | 3 | act slyly, scheme (transf.)
+manto1 | 1 | wait
+manualis | 1 | handheld
+manualis | 3 | a book-cover (subst.)
+manuarius | 1 | handheld
+manuarius | 3 | a thief (subst.)
+manubiae | 1 | booty
+manubiae | 3 | plunder, ill-gotten gain (transf.)
+manubiae | 4 | a thunderbolt (in augury)
+manubrium | 1 | handle
+manumissio | 1 | manumission
+manumissio | 3 | pardon (transf.)
+manumitto | 1 | manumit
+manupretium | 1 | wages
+manupretium | 3 | workmanship, the value of labour (transf., in a crafted item)
+manus1 | 1 | hand
+manus1 | 2 | band
+manus1 | 3 | handwriting (transf.)
+manus1 | 4 | combat, close fighting (transf., ad manus venire)
+manus1 | 5 | power, authority (trop., esp. legal control of a husband over wife)
+mappa | 1 | napkin
+mappa | 3 | starting-flag (transf., in circus races)
+marceo | 1 | wither
+marceo | 3 | be languid, feeble (transf.)
+marcesco | 1 | wither
+marcesco | 3 | languish, waste away (transf.)
+marcidus | 1 | withered
+marcidus | 3 | languid, enervated (transf.)
+marcor | 1 | withering
+marcor | 3 | languor, indolence (transf.)
+marculus1 | 1 | small hammer
+mare | 1 | sea
+mare | 3 | sea-water (transf.)
+margaritarius | 1 | of pearls
+margaritarius | 3 | a pearl-dealer (subst.)
+margo | 1 | edge
+margo | 3 | side-dishes (transf., poet.)
+marinus | 1 | marine
+marisca | 1 | coarse fig
+marisca | 3 | piles, haemorrhoids (transf., medical)
+maritalis | 1 | matrimonial
+maritimus | 1 | maritime
+maritimus | 3 | changeable, inconstant (transf., like the sea)
+marito | 1 | marry
+marito | 3 | mate, pair (transf., of animals)
+marito | 4 | train, prop up (transf., of a vine tied to a tree)
+maritus1 | 1 | matrimonial
+maritus1 | 2 | husband
+marmoreus | 1 | marble
+marmoreus | 3 | marble-white, marble-smooth (transf.)
+marmoro | 1 | marble
+marra | 1 | hoe
+marra | 3 | fishing-hook (transf.)
+mas | 1 | male
+mas | 3 | manly, brave (transf.)
+masculinus | 1 | male
+masculinus | 3 | masculine (gram., of grammatical gender)
+masculus | 1 | male
+masculus | 3 | manly, vigorous, bold (transf.)
+massalis | 1 | of mass
+matella | 1 | pot
+matella | 3 | chamber-pot (in partic.)
+mater | 1 | mother
+mater | 3 | source, origin (trop.)
+materia | 1 | material
+materia | 2 | topic
+materia | 3 | talent, natural ability (trop.)
+materiarius | 1 | of timber
+materiarius | 3 | a timber-merchant (subst.)
+maternus1 | 1 | maternal
+matertera | 1 | maternal aunt
+matralis | 1 | maternal
+matralis | 3 | Matralia, the festival of Mater Matuta (esp.)
+matrimonium | 1 | marriage
+matrimonium | 3 | wives, married women (transf., plur.)
+matrix | 1 | dam
+matrix | 3 | womb (transf., late Lat.)
+matrix | 4 | register, roll (transf.)
+matrona1 | 1 | matron
+matrona1 | 3 | lady (esp., a woman of rank or quality)
+matronalis | 1 | matronly
+matula | 1 | pot
+matula | 3 | chamber-pot (in partic.)
+matula | 4 | simpleton (term of abuse)
+maturesco | 1 | ripen
+maturesco | 3 | come to term (transf., of pregnancy or age)
+maturitas | 1 | ripeness
+maturitas | 3 | the proper time, perfection (transf.)
+maturitas | 4 | promptness, speed (post-Aug.)
