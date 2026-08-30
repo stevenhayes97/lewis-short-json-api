@@ -526,3 +526,20 @@ minister | 3 | an assistant, promoter (transf., of a cause or vice)
 ministerium | 1 | service
 ministerium | 3 | retinue, staff of servants (transf., concr.)
 ministrator | 1 | attendant
+ministro | 1 | serve
+ministro | 3 | manage, direct (transf.)
+ministro | 4 | supply, furnish (in gen.)
+minitor | 1 | threaten
+mino | 1 | drive
+minor1 | 1 | threaten
+minor1 | 3 | jut out, project (lit., poet.)
+minor1 | 4 | boast, vaunt (in partic.)
+minoro | 1 | lessen
+minoro | 3 | be lacking, be in want (neutr.)
+minuo | 1 | lessen
+minuo | 3 | diminish, grow less (neutr.)
+minuscularius | 1 | petty
+minuscularius | 3 | a petty tax-collector (subst.)
+minusculus | 1 | smallish
+minutatim | 1 | piecemeal
+minutia | 1 | smallness
