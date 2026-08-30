@@ -184,3 +184,28 @@ nenia | 3 | incantation, magic song (in partic.)
 nenia | 4 | lullaby, nursery song (in partic.)
 neo1 | 1 | spin
 neo1 | 3 | weave, entwine (transf.)
+nepos1 | 1 | grandson
+nepos1 | 3 | nephew (transf., a brother's or sister's son, post-Aug.)
+nepos1 | 4 | descendant (poet., in gen.)
+nepos1 | 5 | spendthrift, prodigal (fig.)
+neptis | 1 | granddaughter
+nequam | 1 | worthless
+nequaquam | 1 | nowise
+neque | 1 | nor
+neque | 3 | not even (in partic., = ne...quidem)
+neque | 4 | neither...nor (in the correlative neque...neque construction)
+nequeo | 1 | be unable
+nequiquam | 1 | vainly
+nequitia | 1 | worthlessness
+nequitia | 3 | idleness, negligence (in partic.)
+nequitia | 4 | prodigality, extravagance (in partic.)
+nequitia | 5 | wantonness, lewdness (in partic.)
+nervosus | 1 | sinewy
+nervosus | 3 | vigorous, forceful (trop., of style or expression)
+nervus | 1 | sinew
+nervus | 3 | string (transf., of a musical instrument)
+nervus | 4 | bowstring (transf.)
+nervus | 5 | fetter, shackle (transf., a restraint for the feet)
+nervus | 6 | prison (transf., in partic.)
+nervus | 7 | vigour, strength, force (trop.)
+nervus | 8 | energy, force of style (trop., in partic., of oratory)
