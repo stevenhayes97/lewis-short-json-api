@@ -962,3 +962,41 @@ mussito | 3 | be silent about, disregard (act., to take no notice of a thing)
 musso | 1 | mutter
 musso | 3 | hesitate, be uncertain (transf., to deliberate silently or be afraid to act)
 mustaceus | 1 | wedding-cake
+musteus | 1 | fresh
+musteus | 3 | of must, must-like (lit., of new wine)
+mustus | 1 | fresh
+mustus | 3 | must, new wine (subst. mustum)
+mutabilis | 1 | changeable
+mutatio | 1 | change
+mutatio | 3 | exchange (in gen., of goods or offices)
+mutatio | 4 | a relay, change of horses (in partic., in posting)
+mutatio | 5 | interchange of expressions (rhet. term)
+# review: mutatorius extremely rare (post-class.); no natural one-word gloss for "of changing clothes"
+mutatorius | 1 | of changing clothes
+mutatorius | 3 | a cape, wrap (subst. mutatorium, worn when changing garments)
+mutilo | 1 | maim
+mutilo | 3 | curtail, diminish (transf., to lessen or shorten)
+mutilo | 4 | garble, corrupt (transf., in pronunciation or speech)
+mutilus | 1 | maimed
+mutilus | 3 | curtailed, abrupt (trop., of speech)
+mutio | 1 | mutter
+mutio | 3 | bleat, bark (transf., of animals)
+mutio | 4 | creak (transf., of a hinge)
+muto1 | 1 | change
+muto1 | 2 | exchange
+muto1 | 3 | move, shift (rare, lit., of position)
+muto1 | 4 | dye, colour (transf., in partic.)
+muto1 | 5 | improve (transf., change for the better)
+muto1 | 6 | spoil, turn (pass., transf., of wine going bad)
+muto1 | 7 | vary, alter one's style (of speech or writing)
+muto1 | 8 | abandon, forsake (rare)
+mutuor | 1 | borrow
+mutuor | 3 | derive, obtain (trop., to take for one's own use, e.g. of ideas)
+mutus | 1 | dumb
+mutus | 3 | silent, still (transf., of places)
+mutuus | 1 | borrowed
+mutuus | 3 | mutual, reciprocal (transf., in exchange, of shared action)
+mutuus | 4 | mutuo, mutue, mutuiter, mutually, in return (adv. forms)
+myrtetum | 1 | myrtle-grove
+myrteus | 1 | myrtle
+myrteus | 3 | myrtle-coloured, chestnut-brown (transf., of colour)
