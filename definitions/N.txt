@@ -230,3 +230,34 @@ nicto | 1 | blink
 nicto | 3 | wink (in partic., to signal with the eyes)
 nicto | 4 | flash, flicker (transf., of fire)
 nicto | 5 | strain, exert oneself (trop.)
+nidor | 1 | smell
+nidulor | 1 | nest
+nidulor | 3 | make a nest for another (act., rare)
+nidulus | 1 | nest
+nidulus | 3 | retreat, nook (trop., a place of retirement)
+nidus | 1 | nest
+nidus | 3 | nestlings, brood (transf., poet., young birds in a nest)
+nidus | 4 | litter (transf., poet., of pigs)
+nidus | 5 | case, receptacle (transf., for books or valuables)
+nidus | 6 | home, dwelling (transf.)
+nidus | 7 | bowl, goblet (transf., a nest-shaped vessel)
+niger1 | 1 | black
+niger1 | 3 | deathly, funereal (trop., associated with death or mourning)
+niger1 | 4 | unlucky, ill-omened (trop.)
+niger1 | 5 | wicked, evil (trop., of character)
+nigresco | 1 | darken
+nigrico | 1 | be blackish
+nigro | 1 | blacken
+nigro | 3 | be black (neutr., lit.)
+nigro | 4 | darken (trop., to obscure)
+nihil | 1 | nothing
+nihil | 3 | not at all (adv., a strengthened negative, in no respect)
+nihil | 4 | in vain, to no purpose (adv., rare)
+nihil | 5 | worthless (as gen. of value, nihili)
+nimbus | 1 | rainstorm
+nimbus | 3 | thundercloud (transf.)
+nimbus | 4 | halo, radiant cloud (transf., surrounding a god's head)
+nimbus | 5 | cloud of dust or smoke (transf.)
+nimbus | 6 | headband, frontlet (rare, worn by women)
+nimbus | 7 | multitude, host (transf., of things spreading out like a cloud, e.g. a mass of spears)
+nimbus | 8 | disaster, misfortune (trop., a sudden storm of trouble)
