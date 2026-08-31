@@ -498,3 +498,27 @@ nudus | 4 | poor, needy (in partic.)
 nudus | 5 | plain, unadorned (transf., of style or speech)
 nugae | 1 | nonsense
 nugae | 3 | jesters, tricksters (transf., abstr. pro concreto, of persons)
+nugator | 1 | trifler
+nugator | 3 | braggart, boaster (transf.)
+nugatorius | 1 | worthless
+nugivendus | 1 | trinket-seller
+nugor | 1 | trifle
+nugor | 3 | trick, cheat (transf.)
+nullus | 1 | no
+nullus | 3 | no one, nobody (subst.)
+nullus | 4 | not at all (colloq., = non)
+nullus | 5 | insignificant, trifling (in partic.)
+nullus | 6 | worthless, null (in partic., of value)
+nullus | 7 | ruined, undone (idiom, nullus sum, ante-class.)
+num | 1 | surely not
+num | 3 | whether (in indirect questions)
+numella | 1 | fetter
+numen | 1 | divinity
+numen | 3 | divine will, power (in partic., the will of the gods)
+numen | 4 | nod (lit., a nodding of the head)
+numerarius | 1 | accountant
+numerarius | 3 | arithmetician (rare)
+numero1 | 1 | count
+numero1 | 3 | pay out (in partic., of money)
+numero1 | 4 | possess, have (trop., rare, to count as one's own)
+numero1 | 5 | consider, esteem (trop., + double acc.)
