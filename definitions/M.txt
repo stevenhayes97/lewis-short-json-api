@@ -188,7 +188,7 @@ mano | 4 | originate, spring (trop., from a source)
 mansio | 1 | stay
 mansio | 2 | inn
 mansuefacio | 1 | tame
-mansuefacio | 3 | civilize, pacify (trop.)
+mansuefacio | 3 | civilise, pacify (trop.)
 mansues | 1 | tame
 mansuesco | 1 | tame
 mansuesco | 3 | grow tame, become gentle (neutr.)

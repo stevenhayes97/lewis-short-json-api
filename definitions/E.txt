@@ -52,7 +52,7 @@ edico | 5 | in gen: to declare, appoint, order
 edictum | 1 | edict
 edictum | 3 | transf: an order, command (in gen.)
 edictum | 4 | transf: a public notice, bill (e.g. of games)
-edisco | 1 | memorize
+edisco | 1 | memorise
 edisco | 3 | in gen: to learn thoroughly, study
 edissero | 1 | expound
 edissero | 3 | to set forth in detail, explain fully, relate
@@ -112,7 +112,7 @@ effero1 | 6 | pass: to be carried away, transported (by passion or emotion)
 effero1 | 7 | with se: to rise, distinguish oneself
 effero1 | 8 | with se, in a bad sense: to be puffed up, grow arrogant
 effero2 | 1 | make wild
-effero2 | 3 | mentally: to brutalize, make fierce, savage (a person's temper)
+effero2 | 3 | mentally: to brutalise, make fierce, savage (a person's temper)
 efferus | 1 | savage
 effervesco | 1 | boil over
 effervesco | 3 | trop: to grow violent, rage, seethe (of passion or unrest)
@@ -650,7 +650,7 @@ evalesco | 3 | transf: to be able, have the power (to do something)
 evalesco | 4 | of a word: to prevail, come into common use
 evanesco | 1 | vanish
 evanesco | 3 | trop: to sink into oblivion, be forgotten
-evangelizo | 1 | evangelize
+evangelizo | 1 | evangelise
 evanidus | 1 | fading
 eveho | 1 | carry out
 eveho | 3 | reflex: to ride out, advance, sally forth
@@ -758,7 +758,7 @@ exaggero | 1 | heap up
 exaggero | 3 | transf: to increase, enlarge (wealth or resources)
 exaggero | 4 | rhet: to amplify, exaggerate, heighten (in speech)
 exagito | 1 | harass
-exagito | 3 | in partic: to attack, censure, satirize (in speech)
+exagito | 3 | in partic: to attack, censure, satirise (in speech)
 exagito | 4 | to incite, stir up, rouse (a crowd or passion)
 exalto | 1 | exalt
 exalto | 3 | to deepen (a trench or furrow)
@@ -766,7 +766,7 @@ examen | 1 | swarm
 examen | 3 | rare: the pointer of a balance, the tongue of a scale
 examen | 4 | trop: an examination, a weighing, a consideration
 examino | 1 | weigh
-examino | 3 | trop: to consider, ponder, scrutinize, test
+examino | 3 | trop: to consider, ponder, scrutinise, test
 examino | 4 | rare: to swarm (of bees)
 examussim | 1 | exactly
 exanclo | 1 | drain
@@ -909,7 +909,7 @@ excuso | 4 | to exempt, release, discharge (from an obligation)
 excutio | 1 | shake out
 excutio | 3 | to search, frisk (a person's clothing)
 excutio | 4 | trop: to shake off, cast aside, discard
-excutio | 5 | trop: to scrutinize, examine closely, investigate
+excutio | 5 | trop: to scrutinise, examine closely, investigate
 exdorsuo | 1 | debone
 exedo | 1 | devour
 exedo | 3 | transf: to eat away, corrode, destroy
@@ -942,7 +942,7 @@ exercitor | 1 | trainer
 exercitor | 3 | transf: a practitioner, an operator (of a business or trade)
 exercitus2 | 1 | army
 exercitus2 | 3 | poet: a multitude, a host, a swarm
-exercitus2 | 4 | polit: the Comitia Centuriata (the people's assembly organized as an army)
+exercitus2 | 4 | polit: the Comitia Centuriata (the people's assembly organised as an army)
 exercitus2 | 5 | rare: exercise, training (the abstract sense)
 exhalo | 1 | exhale
 exhalo | 3 | neutr: to breathe one's last, expire, die
@@ -1092,7 +1092,7 @@ expeto | 4 | intr, rare: to fall upon, befall (a person)
 expeto | 5 | absol, rare: to happen, occur, turn out
 expilator | 1 | plunderer
 expilo | 1 | plunder
-expilo | 3 | trop: to plagiarize, pillage (another's ideas)
+expilo | 3 | trop: to plagiarise, pillage (another's ideas)
 expingo | 1 | paint
 expingo | 3 | trop: to depict vividly, describe to the life (in words)
 expio | 1 | atone for

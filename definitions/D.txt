@@ -198,7 +198,7 @@ decumbo | 4 | of a defeated gladiator: to fall
 decuria | 1 | decury
 decuria | 3 | one of the panels of jurors at Rome (decuriae judicum)
 decurio1 | 1 | decuriate
-decurio1 | 3 | esp.: to organize people into groups for bribery or political corruption
+decurio1 | 3 | esp.: to organise people into groups for bribery or political corruption
 decurio2 | 1 | decurion
 decurro | 1 | charge
 decurro | 2 | resort
@@ -523,7 +523,7 @@ denominatio | 1 | metonymy
 denomino | 1 | name
 denoto | 1 | mark
 denoto | 3 | to point out, specify, indicate
-denoto | 4 | trop: to stigmatize, brand with reproach
+denoto | 4 | trop: to stigmatise, brand with reproach
 dens | 1 | tooth
 dens | 3 | meton: a prong, spike, or point, as of a plough or comb
 dens | 4 | trop: dens invidiae, the tooth of envy, malicious spite
@@ -774,7 +774,7 @@ destringo | 1 | draw
 destringo | 3 | to strip off, pluck off (leaves, bark, etc.)
 destringo | 4 | to strip, scour, or rub down (the body, intestines, etc.)
 destringo | 5 | to graze, skim, or touch lightly in passing
-destringo | 6 | trop: to criticise, satirize
+destringo | 6 | trop: to criticise, satirise
 destruo | 1 | demolish
 destruo | 3 | trop: to destroy, ruin, or weaken (an argument, plan, etc.)
 desub | 1 | beneath
@@ -1215,7 +1215,7 @@ discrimino | 1 | divide
 discrimino | 3 | trop: to distinguish, differentiate
 discriptio | 1 | apportionment
 discrucio | 1 | torture
-discrucio | 3 | mid., mentally: to torment oneself, fret, agonize
+discrucio | 3 | mid., mentally: to torment oneself, fret, agonise
 discumbo | 1 | recline
 discumbo | 3 | rarely: to lie down to sleep
 discurro | 1 | run about

@@ -379,7 +379,7 @@ gradus | 5 | military, one's position or station in the ranks
 gradus | 6 | a stair-step, a rung of a ladder
 gradus | 7 | a degree of rank, age, or kinship
 gradus | 8 | in mathematics, a degree of a circle
-graecor | 1 | Grecize
+graecor | 1 | Grecise
 graecor | 3 | to live in the Greek fashion, especially self-indulgently
 gramen | 1 | grass
 gramen | 3 | transferred, a plant or herb generally
@@ -419,7 +419,7 @@ grates | 3 | thanks or thanksgiving rendered especially to the gods
 gratia | 1 | favour
 gratia | 2 | thanks
 gratia | 3 | the goodwill you enjoy in other people's eyes: esteem, popularity, influence, standing
-gratia | 4 | a kindness done for someone, a favor granted, a service
+gratia | 4 | a kindness done for someone, a favour granted, a service
 gratia | 5 | thanks, gratitude: gratias agere, to thank in words; gratiam referre, to repay by deed; gratiam habere, to feel grateful
 gratia | 6 | friendly relations, good terms: in gratiam redire cum aliquo, to be reconciled with someone
 gratia | 7 | charm, gracefulness, attractiveness, beauty (poetic and later prose)
@@ -531,7 +531,7 @@ gubernator | 4 | transferred, a director, ruler, one who governs
 gula | 1 | throat
 gula | 2 | gluttony
 gula | 3 | the gullet, weasand
-gula | 4 | transferred, greed for food, gormandizing, appetite
+gula | 4 | transferred, greed for food, gormandising, appetite
 gulosus | 1 | gluttonous
 gurges1 | 1 | whirlpool
 gurges1 | 2 | spendthrift
@@ -548,7 +548,7 @@ gusto | 4 | in particular, to take a light meal, a snack
 gusto | 5 | figurative, to partake of, enjoy, experience
 gustus | 1 | taste
 gustus | 3 | a tasting, a partaking of a small amount of food
-gustus | 4 | in particular, an appetizer at the start of a meal, a whet
+gustus | 4 | in particular, an appetiser at the start of a meal, a whet
 gustus | 5 | a draught, a small serving of liquid: gustum aquae, a mouthful of water
 gustus | 6 | figurative, a foretaste, a sample or specimen of something
 gutta1 | 1 | drop

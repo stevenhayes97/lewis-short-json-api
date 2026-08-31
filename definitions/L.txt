@@ -32,7 +32,7 @@ labor1 | 4 | elapse, pass away (of time)
 labor1 | 5 | decline, sink into ruin
 labor1 | 6 | slip away from, lose (something)
 labor1 | 7 | fall into, come to be in (a state or habit)
-labor1 | 8 | lapse from the faith, apostatize (eccl.)
+labor1 | 8 | lapse from the faith, apostatise (eccl.)
 labor2 | 1 | labour
 labor2 | 2 | hardship
 labor2 | 3 | work, workmanship (of an artist, meton.)
@@ -126,13 +126,13 @@ laena | 1 | cloak
 laesio | 1 | injury
 laesio | 3 | a personal attack (rhetorical term, in oratory)
 laetifico | 1 | gladden
-laetifico | 3 | fertilize, enrich (the soil)
+laetifico | 3 | fertilise, enrich (the soil)
 laetificus | 1 | joyful
 laetitia | 1 | joy
 laetitia | 3 | beauty, charm (of appearance, transf.)
 laetitia | 4 | fertility, luxuriance (of soil or plants)
 laeto | 1 | gladden
-laeto | 3 | fertilize (the soil, post-class.)
+laeto | 3 | fertilise (the soil, post-class.)
 laetor | 1 | rejoice
 laetor | 3 | flourish, thrive (transf., of plants)
 laetus1 | 1 | happy
@@ -480,7 +480,7 @@ levatio | 1 | lifting
 levatio | 3 | relief, alleviation (trop.)
 levatio | 4 | diminishing, lessening (rare)
 levigo1 | 1 | smooth
-levigo1 | 3 | pulverize, grind fine (transf.)
+levigo1 | 3 | pulverise, grind fine (transf.)
 levir | 1 | brother-in-law
 levis1 | 1 | light
 levis1 | 2 | fickle
@@ -847,7 +847,7 @@ lucrativus | 3 | gratuitously acquired (jurid., of a bequest or gift)
 lucrifacio | 1 | profit
 lucrifacio | 3 | escape, get off (trop., avoid punishment)
 lucror | 1 | gain
-lucror | 3 | save, economize (in partic.)
+lucror | 3 | save, economise (in partic.)
 lucror | 4 | win over, convert (eccl. Lat., trop.)
 lucrosus | 1 | profitable
 lucrum | 1 | profit
