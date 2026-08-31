@@ -435,3 +435,37 @@ noverca | 4 | draining ditch (transf., rare, agricultural)
 novercalis | 1 | stepmotherly
 novercalis | 3 | hostile, malevolent (transf., of feelings or looks)
 novicius | 1 | new
+novitas | 1 | novelty
+novitas | 3 | strangeness, unfamiliarity (in partic.)
+novitas | 4 | newcomer status, upstart rank (in partic., of a homo novus)
+novo | 1 | renew
+novo | 3 | alter, change (transf., in gen.)
+novo | 4 | revolutionize, overthrow (in partic., political, res novare)
+novus | 1 | new
+novus | 2 | strange
+novus | 3 | inexperienced, unaccustomed (in partic., poet. and post-Aug., + dat.)
+novus | 4 | last, latest (as superl. novissimus, extreme or final)
+nox | 1 | night
+nox | 3 | sleep, dream (transf., poet.)
+nox | 4 | death (transf., poet.)
+nox | 5 | darkness, gloom (transf., of weather or a dungeon)
+nox | 6 | blindness (transf., poet.)
+nox | 7 | confusion, chaos (trop., a dark or troubled condition)
+noxa | 1 | harm
+noxa | 3 | offence, fault, crime (transf.)
+noxa | 4 | punishment (in partic., not ante-Aug.)
+noxa | 5 | offender, culprit (concr., jurid. Lat.)
+noxalis | 1 | noxal
+noxius | 1 | harmful
+noxius | 2 | guilty
+noxius | 3 | fault, offence, damage (subst. fem. noxia)
+nubecula | 1 | cloudlet
+nubecula | 3 | dark spot, blemish (transf.)
+nubecula | 4 | gloomy look, frown (trop., of countenance)
+nubes | 1 | cloud
+nubes | 3 | swarm, multitude (transf., a dense mass, e.g. of locusts or weapons)
+nubes | 4 | illusion, phantom (trop., something unreal)
+nubes | 5 | gloom (trop., of countenance, sleep, or drunkenness)
+nubes | 6 | veil, concealment (trop.)
+nubes | 7 | threat, impending danger (trop., of war or misfortune)
+nubigena | 1 | cloud-born
