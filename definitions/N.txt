@@ -362,3 +362,18 @@ nomino | 3 | make famous, celebrate (in partic., pregn.)
 nomino | 4 | nominate (in partic., to an office)
 nomino | 5 | accuse, denounce (in partic., not ante-Aug.)
 non | 1 | not
+nonagenarius | 1 | ninety
+nonagenarius | 3 | ninety years old (in partic., of age)
+nondum | 1 | not yet
+nongenti | 1 | nine hundred
+nonne | 1 | surely
+nonnullus | 1 | some
+nonus | 1 | ninth
+norma | 1 | square
+norma | 3 | rule, standard (trop., a rule or pattern)
+normalis | 1 | right-angled
+normalis | 3 | straight, direct (transf., in a straight line)
+nos | 1 | we
+noscito | 1 | recognize
+noscito | 3 | perceive, observe (in gen.)
+noscito | 4 | examine, explore (transf.)
