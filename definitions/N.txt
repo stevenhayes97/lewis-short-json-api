@@ -522,3 +522,32 @@ numero1 | 1 | count
 numero1 | 3 | pay out (in partic., of money)
 numero1 | 4 | possess, have (trop., rare, to count as one's own)
 numero1 | 5 | consider, esteem (trop., + double acc.)
+numerosus | 1 | numerous
+numerosus | 3 | rhythmical, harmonious (of style or motion)
+numerus | 1 | number
+numerus | 3 | troop, division (in partic., military, post-Aug.)
+numerus | 4 | rank, category, class (trop.)
+numerus | 5 | rhythm, measure (of music or verse)
+numerus | 6 | a verse (poet., in gen.)
+numerus | 7 | duty, office, part (trop., a proper function)
+nummarius | 1 | monetary
+nummarius | 3 | venal, corrupt (transf., bribed with money)
+nummularius | 1 | money-changer
+nummularius | 3 | assayer (in partic., an officer testing silver for the mint)
+nummus | 1 | coin
+nummus | 3 | sesterce (in partic., a Roman silver coin)
+nummus | 4 | trifle, farthing (transf., a very small sum)
+numquam | 1 | never
+numquid | 1 | anything
+numquid | 3 | whether (rare, in indirect questions)
+nunc | 1 | now
+nunc | 3 | under these circumstances, given this (transf., of a state of affairs)
+nunc | 4 | now...now, at one time...at another (in the repeated construction nunc...nunc)
+nuncupatio | 1 | naming
+nuncupatio | 3 | appointment of an heir (in partic., a public naming as heir)
+nuncupatio | 4 | dedication (in partic., of a book)
+nuncupatio | 5 | public vow-taking (in partic., the formal pronouncing of vows)
+nuncupo | 1 | name
+nuncupo | 3 | appoint publicly, name as heir (in partic., nuncupare heredem)
+nuncupo | 4 | proclaim, announce formally (in gen.)
+nuncupo | 5 | vow, pronounce vows publicly (in partic.)
