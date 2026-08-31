@@ -70,13 +70,13 @@ ignoratio | 1 | ignorance
 ignoro | 1 | not know
 ignoro | 2 | ignore
 ignoro | 3 | to have no knowledge of a person or thing, to be unacquainted with, unaware
-ignoro | 4 | to mistake, misunderstand, fail to recognize
+ignoro | 4 | to mistake, misunderstand, fail to recognise
 ignoro | 5 | rare, to take no notice of, disregard, pay no attention to
 ignosco | 1 | forgive
-ignosco | 3 | to pardon or excuse a fault, usually with the dative of the person and accusative of the offense
+ignosco | 3 | to pardon or excuse a fault, usually with the dative of the person and accusative of the offence
 ignotus2 | 1 | unknown
 ignotus2 | 2 | lowborn
-ignotus2 | 3 | not known, unrecognized
+ignotus2 | 3 | not known, unrecognised
 ignotus2 | 4 | pregnant sense, poetic, of low birth or condition, base, vulgar
 ignotus2 | 5 | active, rare, unacquainted with, ignorant of something
 ile | 1 | flank
@@ -1481,7 +1481,7 @@ inicio | 1 | throw in
 inicio | 2 | inspire
 inicio | 3 | literally, to throw, cast, or put something into or upon a place
 inicio | 4 | esp., manum inicere, to lay hands on someone, to seize
-inicio | 5 | trop., to inspire, infuse, or instill a feeling, such as fear or hope
+inicio | 5 | trop., to inspire, infuse, or instil a feeling, such as fear or hope
 inicio | 6 | trop., to throw out a hint, to mention, suggest
 inigo | 1 | drive in
 inigo | 3 | to throw or thrust someone somewhere, rare
@@ -1506,7 +1506,7 @@ iniquus | 6 | unwilling, impatient, discontented: iniquo animo ferre, to bear so
 initialis | 1 | initial
 initio | 1 | initiate
 initio | 3 | rare, late Latin, to begin, originate
-initio | 4 | ecclesiastical Latin, to baptize
+initio | 4 | ecclesiastical Latin, to baptise
 initium | 1 | beginning
 initium | 2 | rites
 initium | 3 | a going in, an entrance
@@ -1541,7 +1541,7 @@ injuriosus | 3 | transferred, hurtful, noxious, harmful, of things
 injurius | 1 | unjust
 injussus1 | 1 | unbidden
 injussus1 | 3 | transferred, of things, spontaneous, uncontrolled, acting of their own accord
-injussus2 | 1 | unauthorized
+injussus2 | 1 | unauthorised
 injussus2 | 3 | ablative injussu, without the command or orders of someone
 injustitia | 1 | injustice
 injustitia | 3 | severity, harsh treatment
@@ -1727,7 +1727,7 @@ insido | 3 | of troops, to occupy, take possession of a place
 insido | 4 | trop., to become fixed, embedded, rooted in the mind
 insigne | 1 | badge
 insigne | 3 | a standard, ensign
-insigne | 4 | trop., a mark of honor, distinction
+insigne | 4 | trop., a mark of honour, distinction
 insignio | 1 | mark
 insignio | 3 | to distinguish, make notable, single out
 insignis | 1 | notable
@@ -1740,7 +1740,7 @@ insinuatio | 1 | ingratiation
 insinuatio | 3 | rhetoric, a subtly introduced opening of a speech
 insinuatio | 4 | legal, a notification, formal declaration
 insinuo | 1 | worm in
-insinuo | 3 | trop., se insinuare, to worm one's way into someone's favor, to ingratiate oneself
+insinuo | 3 | trop., se insinuare, to worm one's way into someone's favour, to ingratiate oneself
 insinuo | 4 | trop., to make favourably known, recommend, introduce a person to another
 insipiens | 1 | foolish
 insipientia | 1 | folly
@@ -1780,7 +1780,7 @@ insperans | 1 | not expecting
 insperatus | 1 | unexpected
 inspergo | 1 | sprinkle
 inspicio | 1 | inspect
-inspicio | 3 | trop., to scrutinize, get to know thoroughly
+inspicio | 3 | trop., to scrutinise, get to know thoroughly
 inspiro | 1 | inspire
 inspiro | 3 | literally, to blow into or upon, as a musical instrument
 instabilis | 1 | unstable
@@ -2127,7 +2127,7 @@ intimo | 3 | literally, to bring into, insert
 intimus | 1 | innermost
 intimus | 2 | intimate
 intingo | 1 | dip
-intingo | 3 | ecclesiastical, to baptize
+intingo | 3 | ecclesiastical, to baptise
 intolerabilis | 1 | intolerable
 intolerabilis | 3 | irresistible
 intolerabilis | 4 | archaic, active sense, impatient, unable to bear something
@@ -2140,7 +2140,7 @@ intono | 1 | thunder
 intono | 3 | trop., to thunder forth, cry out vehemently in speech
 intonsus2 | 1 | unshorn
 intonsus2 | 3 | of trees or mountains, leafy, overgrown
-intonsus2 | 4 | trop., unpolished, rude, uncivilized
+intonsus2 | 4 | trop., unpolished, rude, uncivilised
 intorqueo | 1 | twist
 intorqueo | 3 | to brandish, hurl a weapon
 intorqueo | 4 | trop., to hurl insults at, cast reproaches against
@@ -2169,7 +2169,7 @@ introitus2 | 4 | an entering upon an office, induction
 intromitto | 1 | let in
 introrsum | 1 | inward
 introspicio | 1 | peer into
-introspicio | 3 | trop., to examine closely, scrutinize the mind or character
+introspicio | 3 | trop., to examine closely, scrutinise the mind or character
 intueor | 1 | gaze at
 intueor | 3 | trop., to consider, contemplate, pay attention to
 intueor | 4 | to admire, wonder at
@@ -2192,7 +2192,7 @@ inundo | 4 | to abound, be full of, teem with
 inunguo | 1 | anoint
 inurbanus | 1 | boorish
 inuro | 1 | brand
-inuro | 3 | literally, to cauterize, remove by burning
+inuro | 3 | literally, to cauterise, remove by burning
 inusitatus | 1 | unusual
 inutilis | 1 | useless
 inutilis | 2 | harmful

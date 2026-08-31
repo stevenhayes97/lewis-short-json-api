@@ -440,7 +440,7 @@ novitas | 3 | strangeness, unfamiliarity (in partic.)
 novitas | 4 | newcomer status, upstart rank (in partic., of a homo novus)
 novo | 1 | renew
 novo | 3 | alter, change (transf., in gen.)
-novo | 4 | revolutionize, overthrow (in partic., political, res novare)
+novo | 4 | revolutionise, overthrow (in partic., political, res novare)
 novus | 1 | new
 novus | 2 | strange
 novus | 3 | inexperienced, unaccustomed (in partic., poet. and post-Aug., + dat.)

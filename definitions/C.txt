@@ -2244,7 +2244,7 @@ cognomino | 1 | surname
 cognomino | 3 | more generally, to name or call: Macedonia Emathia cognominata est, Macedonia was named Emathia
 cognosco | 1 | learn
 cognosco | 2 | know
-cognosco | 3 | rarely, to recognize someone already known
+cognosco | 3 | rarely, to recognise someone already known
 cognosco | 4 | euphemistically, of sexual intercourse
 cognosco | 5 | as a legal term, to examine and judge a case judicially
 cognosco | 6 | as a military term, to reconnoitre, to scout out
@@ -2269,7 +2269,7 @@ cohonesto | 2 | palliate
 cohonesto | 3 | exsequias cohonestare, to pay due honour at a funeral
 cohonesto | 4 | of a physical defect, to disguise or remedy it: defluvia capitis cohonestare, to conceal hair loss
 cohorresco | 1 | shudder
-cohorresco | 3 | quem ubi agnovi, equidem cohorrui, when I recognized him, I shuddered
+cohorresco | 3 | quem ubi agnovi, equidem cohorrui, when I recognised him, I shuddered
 cohors | 1 | cohort
 cohors | 2 | retinue
 cohors | 3 | literally, an enclosed yard or pen, especially for cattle or poultry
@@ -2674,7 +2674,7 @@ competo | 1 | coincide
 competo | 3 | to belong or be due to someone
 competo | 4 | as a participle competens, appropriate or competent
 compilo | 1 | plunder
-compilo | 3 | trop., to plagiarize or pilfer, as another's writings
+compilo | 3 | trop., to plagiarise or pilfer, as another's writings
 compingo1 | 1 | join
 compingo1 | 2 | confine
 compitalis | 1 | of crossroads
@@ -2824,12 +2824,12 @@ concinno | 1 | arrange
 concinno | 2 | cause
 concinnus | 1 | elegant
 concinnus | 2 | agreeable
-concino | 1 | harmonize
+concino | 1 | harmonise
 concino | 3 | act., to celebrate in song, sing of
 concino | 4 | rarely, to prophesy or foretell
 concipio | 1 | conceive
 concipio | 2 | imagine
-concipio | 3 | to harbor or adopt, as a feeling or passion
+concipio | 3 | to harbour or adopt, as a feeling or passion
 concipio | 4 | jurid., to draw up or compose formally, as an oath
 concitatio | 1 | agitation
 concitatio | 3 | concr., a sedition or popular uprising
@@ -2939,9 +2939,9 @@ condo | 4 | to compose or write, as a poem
 condo | 5 | to hide or conceal
 condoceo | 1 | train
 condoleo | 1 | suffer
-condoleo | 3 | to sympathize with someone in their pain
+condoleo | 3 | to sympathise with someone in their pain
 condolesco | 1 | ache
-condolesco | 3 | to sympathize or suffer along with another
+condolesco | 3 | to sympathise or suffer along with another
 condono | 1 | give
 condono | 2 | pardon
 condono | 3 | to remit or cancel a debt
@@ -2990,7 +2990,7 @@ confidentia | 2 | impudence
 confido | 1 | trust
 configo | 1 | pierce
 configo | 2 | fasten
-configo | 3 | trop., to render powerless or paralyze, as with arguments
+configo | 3 | trop., to render powerless or paralyse, as with arguments
 configuro | 1 | shape
 confingo | 1 | fabricate
 confingo | 3 | lit., to build or fashion, as a nest
@@ -3314,7 +3314,7 @@ conspicuus | 3 | lit., visible or in view, as opposed to hidden
 conspiratio | 1 | harmony
 conspiratio | 2 | conspiracy
 conspiratio | 3 | meton., the conspirators themselves
-conspiro1 | 1 | harmonize
+conspiro1 | 1 | harmonise
 conspiro1 | 2 | conspire
 conspiro1 | 3 | lit., to sound together, as instruments
 conspondeo | 1 | pledge
@@ -3626,7 +3626,7 @@ convexus1 | 1 | convex
 convexus1 | 2 | sloping
 convexus1 | 3 | as a substantive (convexa), the vault or arch, as of the sky
 convicior | 1 | revile
-convicium | 1 | clamor
+convicium | 1 | clamour
 convicium | 2 | abuse
 convicium | 3 | meton., the target or butt of reproach
 convictus2 | 1 | intimacy
@@ -3634,7 +3634,7 @@ convictus2 | 3 | a banquet or feast
 convinco | 1 | convict
 convinco | 2 | prove
 convinctio | 1 | conjunction
-conviso | 1 | scrutinize
+conviso | 1 | scrutinise
 conviva | 1 | guest
 convivalis | 1 | convivial
 convivium | 1 | banquet
@@ -3703,7 +3703,7 @@ cornu | 1 | horn
 cornu | 2 | wing
 cornu | 3 | the horns or crescent of the moon
 cornu | 4 | a bugle or war-trumpet
-cornu | 5 | trop., power or strength, symbolized by the horn
+cornu | 5 | trop., power or strength, symbolised by the horn
 cornutus1 | 1 | horned
 cornutus1 | 3 | as a substantive, a kind of horned sea-fish
 cornutus1 | 4 | cornutus syllogismus, a horned syllogism, a logical dilemma
@@ -3727,7 +3727,7 @@ corpulentus | 4 | late Lat., physical or corporeal
 corpus | 1 | body
 corpus | 2 | corpse
 corpus | 3 | flesh, as of an animal
-corpus | 4 | meton., a body or corporation, as an organized community
+corpus | 4 | meton., a body or corporation, as an organised community
 corrado | 1 | scrape together
 corrado | 3 | trop., to obtain with difficulty, as credibility
 correctio | 1 | correction

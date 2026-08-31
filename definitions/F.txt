@@ -252,7 +252,7 @@ februum | 3 | esp: the Roman festival of purification (in February)
 fecunditas | 1 | fertility
 fecunditas | 3 | trop: luxuriance, richness (of style)
 fecundus | 1 | fertile
-fecundus | 3 | transf: fertilizing, making fruitful
+fecundus | 3 | transf: fertilising, making fruitful
 fecundus | 4 | trop: rich, abundant, prolific (of talent or style)
 fel | 1 | bile
 fel | 3 | transf, poet: poison, venom
@@ -355,7 +355,7 @@ ferruumino | 1 | solder
 ferruumino | 3 | comic: to glue together (of lips, i.e. to kiss)
 fertilis | 1 | fertile
 fertilis | 3 | trop: productive, fruitful (of talent)
-fertilis | 4 | act: fertilizing, making fruitful
+fertilis | 4 | act: fertilising, making fruitful
 fertilitas | 1 | fertility
 fertilitas | 3 | trop, rare: productiveness (of an artist's talent)
 ferula | 1 | fennel
@@ -858,7 +858,7 @@ fragro | 1 | smell
 fragro | 3 | of an unpleasant smell: to reek, stink
 frango | 1 | break
 frango | 2 | subdue
-frango | 3 | transf: to grind, crush, pulverize
+frango | 3 | transf: to grind, crush, pulverise
 frango | 4 | trop: to move, soften, touch (someone's feelings)
 frater | 1 | brother
 frater | 3 | transf: a dear friend (an affectionate term of address)

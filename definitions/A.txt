@@ -3272,7 +3272,7 @@ arripio | 3 | to seize or lay hold of something quickly: manum arripere, to grab
 arripio | 4 | to take possession of a person or place: medium arripere, to catch someone round the middle
 arripio | 5 | to take something up for oneself, to appropriate it: cognomen arripere, to snatch at a surname
 arripio | 6 | in law, to haul someone before a court, often an official just out of office
-arripio | 7 | in Horace, to seize on someone for ridicule, to satirize them
+arripio | 7 | in Horace, to seize on someone for ridicule, to satirise them
 arrodo | 1 | nibble
 arrodo | 3 | to gnaw at something: clipeos arrodere, of mice nibbling the shields
 arrodo | 4 | figuratively, to nibble away at something: rem publicam arrodere, to gnaw at the state
