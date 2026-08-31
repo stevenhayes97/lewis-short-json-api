@@ -377,3 +377,35 @@ nos | 1 | we
 noscito | 1 | recognize
 noscito | 3 | perceive, observe (in gen.)
 noscito | 4 | examine, explore (transf.)
+nosco | 1 | learn
+nosco | 2 | know
+nosco | 3 | recognize (transf., in gen.)
+nosco | 4 | examine, consider (in partic., legal, to take judicial cognizance of a case)
+nosco | 5 | acknowledge, admit (in partic., an excuse)
+noster | 1 | our
+nostras | 1 | native
+nota | 1 | mark
+nota | 3 | letter, character (in partic., of writing)
+nota | 4 | cipher, secret writing (in partic.)
+nota | 5 | shorthand sign (in partic., stenographic notation)
+nota | 6 | note, memorandum (transf., a brief record)
+nota | 7 | brand, stigma (in partic., disgrace or a slave's brand)
+nota | 8 | kind, quality, grade (transf., e.g. of wine)
+nota | 9 | reproach, censure (trop., in partic., nota censoria)
+notabilis | 1 | notable
+notabilis | 3 | notorious (in partic., a bad sense)
+notarius | 1 | stenographer
+notarius | 3 | secretary, clerk (transf.)
+notatio | 1 | marking
+notatio | 3 | censure, official reprimand (in partic., inflicted by the censor)
+notatio | 4 | choice, selection (in partic., of judges)
+notatio | 5 | observation, remark (in gen.)
+notatio | 6 | etymology (in partic., the derivation of a word's meaning)
+notesco | 1 | become known
+notio | 1 | acquaintance
+notio | 3 | inquiry, investigation (in partic., judicial cognizance by a magistrate)
+notio | 4 | idea, notion (transf., a concept)
+notitia | 1 | knowledge
+notitia | 2 | acquaintance
+notitia | 3 | fame, celebrity (lit., very rare)
+notitia | 4 | carnal knowledge (in partic., euphemistic, of a woman)
