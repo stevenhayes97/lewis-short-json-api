@@ -551,3 +551,54 @@ nuncupo | 1 | name
 nuncupo | 3 | appoint publicly, name as heir (in partic., nuncupare heredem)
 nuncupo | 4 | proclaim, announce formally (in gen.)
 nuncupo | 5 | vow, pronounce vows publicly (in partic.)
+nundinatio | 1 | trading
+nundinatio | 3 | market-price (in partic., rare)
+nundinor | 1 | trade
+nundinor | 3 | gather, congregate (transf., rare, to come together in numbers)
+nundinor | 4 | purchase, buy (trop., to obtain by trafficking, often improperly)
+nundinor | 5 | sell off, barter away (trop., corruptly)
+nundinus | 1 | nine-day
+nundinus | 3 | market day (subst. fem. nundinae, the recurring, every-ninth-day market)
+nundinus | 4 | trade, traffic (trop., subst., business dealings)
+nuntiatio | 1 | announcement
+nuntiatio | 3 | notice, declaration (in partic., jurid., of ownerless goods to the treasury)
+nuntio | 1 | announce
+nuntio | 3 | denounce, inform against (in partic., jurid. Lat.)
+nuntius | 1 | messenger
+nuntius | 3 | message, news (subst. neut. nuntium)
+nuntius | 4 | command, order (in partic., transf.)
+nuntius | 5 | divorce notice (idiom, nuntium mittere, to send a letter of divorce)
+nuper | 1 | recently
+nuperus | 1 | recent
+nuptiae | 1 | wedding
+nuptiae | 3 | intercourse (transf., euphemistic)
+nuptialis | 1 | nuptial
+nusquam | 1 | nowhere
+nusquam | 3 | in nothing, on no occasion (transf.)
+nusquam | 4 | nusquam esse, to not exist, to be no more (idiom)
+nuto | 1 | nod
+nuto | 3 | sway, totter (in gen., lit., to shake or stagger)
+nuto | 4 | waver, hesitate (trop., in opinion or judgment)
+nuto | 5 | falter, be unfaithful (trop., in one's loyalty)
+nutribilis | 1 | nourishing
+nutricius | 1 | nursing
+nutricius | 3 | tutor, guardian (subst. masc., one who brings up a child)
+nutricius | 4 | nourishment (subst. neut. nutricium)
+nutrico | 1 | nurse
+nutrico | 3 | nourish, sustain (trop.)
+nutricula | 1 | nurse
+nutricula | 3 | sustainer, supporter (transf., of a place or thing that nourishes)
+nutrimentum | 1 | nourishment
+nutrimentum | 3 | fuel (transf., that which feeds a fire)
+nutrimentum | 4 | support (trop., in gen.)
+nutrio | 1 | nourish
+nutrio | 3 | nurse, tend (in partic., of caring for the body or the sick)
+nutrio | 4 | cherish, foster (trop., of an emotion or quality)
+nutrix | 1 | nurse
+nutrix | 3 | breasts (transf., poet., plur.)
+nutrix | 4 | nursery, seed-bed (transf., a plot for growing saplings)
+nutus | 1 | nod
+nutus | 3 | gravity, downward tendency (transf., physics, of falling bodies)
+nutus | 4 | will, command (trop.)
+nux | 1 | nut
+nux | 3 | nut-tree (transf.)
