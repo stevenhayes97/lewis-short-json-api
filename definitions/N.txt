@@ -469,3 +469,32 @@ nubes | 5 | gloom (trop., of countenance, sleep, or drunkenness)
 nubes | 6 | veil, concealment (trop.)
 nubes | 7 | threat, impending danger (trop., of war or misfortune)
 nubigena | 1 | cloud-born
+nubilo | 1 | cloud over
+nubilo | 3 | obscure, darken (trop., post-class.)
+nubilus | 1 | cloudy
+nubilus | 3 | gloomy, dark (transf., of a place or colour)
+nubilus | 4 | troubled, sad (trop., of mind or mood)
+nubo | 1 | marry
+nubo | 3 | cover, veil (lit., very rare, gen. sense)
+nubo | 4 | be wedded, entwined (transf., poet., of plants trained to supports)
+nucleus | 1 | kernel
+nucleus | 3 | stone, pit (in partic., of a fruit)
+nucleus | 4 | core, innermost part (transf., of anything)
+nudipedalia | 1 | barefoot-festival
+nudipedalia | 3 | going barefoot (in gen., the act itself)
+nuditas | 1 | nakedness
+nuditas | 3 | want, poverty (transf., late Lat.)
+nudius | 1 | ago
+nudius | 3 | nudius tertius, the day before yesterday, three days ago (fixed phrase with ordinals)
+nudo | 1 | bare
+nudo | 3 | expose, leave undefended (in partic., milit., to leave a position uncovered)
+nudo | 4 | strip, plunder (in partic., pregn., to despoil)
+nudo | 5 | reveal, disclose (trop., to lay bare intentions or facts)
+nudo | 6 | deprive, strip of (trop., + abl.)
+nudus | 1 | naked
+nudus | 2 | mere
+nudus | 3 | destitute, devoid of (in partic., + abl. or gen.)
+nudus | 4 | poor, needy (in partic.)
+nudus | 5 | plain, unadorned (transf., of style or speech)
+nugae | 1 | nonsense
+nugae | 3 | jesters, tricksters (transf., abstr. pro concreto, of persons)
