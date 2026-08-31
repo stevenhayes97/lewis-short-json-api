@@ -1,0 +1,604 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_N.json (Lewis & Short via Perseus), simplified for learners.
+naevus | 1 | mole
+naevus | 3 | blemish, fault (trop., late Lat.)
+nam | 1 | for
+nam | 3 | but, now (in transitions, introducing a new subject)
+nam | 4 | but why, but what (in questions, expressing surprise)
+namque | 1 | for
+nanciscor | 1 | obtain
+nanciscor | 3 | light upon, meet with, find (transf., by chance)
+naris | 1 | nostril
+naris | 3 | opening, vent (transf., of a canal or pipe)
+narratio | 1 | narrative
+narratio | 3 | statement of facts (in partic., the narrative section of a speech, rhet.)
+narro | 1 | tell
+narro | 3 | dedicate (rare, of a book, to a patron)
+nascor | 1 | be born
+nascor | 3 | arise, spring from, originate (transf., of things, e.g. rivers or plants)
+nascor | 4 | be regenerated, be born again (eccl. Lat., spiritually)
+nascor | 5 | destined, suited by nature (as adj. natus + dat. or ad, naturally fitted for something)
+nascor | 6 | aged, of the age of (as adj. natus + a number, e.g. annos natus viginti, twenty years old)
+nascor | 7 | a son (as subst. natus); a daughter (subst. nata)
+nassa | 1 | fish-trap
+nassa | 3 | snare, trap (trop., of an inescapable dangerous situation)
+nasturtium | 1 | cress
+nasus1 | 1 | nose
+nasus1 | 3 | nozzle, spout (transf., of a vessel)
+nasutus | 1 | large-nosed
+nasutus | 3 | sharp-witted, satirical (trop., of a critical or mocking disposition)
+natalicius | 1 | birthday
+natalicius | 3 | birthday present (subst. neut. natalicium)
+natalicius | 4 | birthday feast (subst. fem. natalicia)
+natalis1 | 1 | birthday
+natalis1 | 3 | anniversary, commemorative day (transf., of any yearly festival)
+natalis1 | 4 | lineage, extraction (subst. plur. natales, of family origin)
+natalis1 | 5 | origin, source (transf., of things, e.g. metals or ideas)
+natatorius | 1 | swimming
+natatorius | 3 | swimming-pool, bathing-place (subst. natatorium)
+natio | 1 | nation
+natio | 3 | breed, stock, race (of animals or people, in gen.)
+natio | 4 | birth, origin (lit., rare)
+natis | 1 | buttocks
+nativitas | 1 | birth
+nativitas | 3 | a generation (transf., of a genealogical unit)
+nativus | 1 | native
+nativus | 3 | inborn, innate (transf., of a quality)
+nativus | 4 | primitive, root (gram., of a word not derived from another)
+nato | 1 | swim
+nato | 2 | float
+nato | 3 | overflow, be flooded (with abl., mostly poet.)
+nato | 4 | swim, be glazed (of the eyes, as of a drunk or dying person)
+nato | 5 | waver, fluctuate (trop., to be uncertain)
+natrix | 1 | water-snake
+natrix | 3 | scourge (transf., a whip made of snake-skin)
+natura | 1 | nature
+natura | 3 | character, disposition (of a person, natural temperament)
+natura | 4 | the world, the universe (transf.)
+natura | 5 | genitals (euphemistic, subst., the natural parts)
+natura | 6 | birth (lit., rare)
+naturalis | 1 | natural
+naturalis | 3 | by birth, biological (of a father, opp. adoptive)
+natus2 | 1 | age
+natus2 | 3 | growth (of plants, rare)
+naucum | 1 | trifle
+naufragium | 1 | shipwreck
+naufragium | 3 | wreck, ruin (trop., of one's fortune or estate)
+naufragium | 4 | wreckage, debris (transf., of a physical wreck)
+naufragus | 1 | shipwrecked
+naufragus | 3 | ruined (trop., of a person's fortune)
+naufragus | 4 | causing shipwreck, hazardous (poet., transf., of a sea or storm)
+nauseo | 1 | be seasick
+nauseo | 3 | vomit, feel queasy (transf., in gen.)
+nauseo | 4 | talk nonsense (trop., to belch out silly words)
+nauseo | 5 | disgust, sicken (trop., to cause revulsion in others)
+nauta | 1 | sailor
+navalis | 1 | naval
+navalis | 3 | dockyard (subst. navale, navalia)
+navalis | 4 | rigging, tackle (subst., the fittings of a ship)
+navia | 1 | boat
+navia | 3 | trough (transf., a hollowed wood vessel used in vintage-making)
+navicularius | 1 | shipowner
+navicularius | 3 | of a ship, of a shipmaster (adj., late Lat.)
+navicularius | 4 | the shipping business (subst. fem. navicularia)
+navigatio | 1 | voyage
+navigium | 1 | ship
+navigium | 3 | raft, float (transf., post-class.)
+navigium | 4 | a voyage, sailing (transf., ante- and post-class.)
+navigo | 1 | sail
+navigo | 3 | sail over, navigate (act., to traverse a sea)
+navigo | 4 | proceed, advance (transf., e.g. of an army or a war moving swiftly)
+navigo | 5 | swim (rare, poet.)
+navigo | 6 | flow (rare, poet., of a current)
+navis | 1 | ship
+navis | 3 | genitals (euphemistic, transf.)
+navis | 4 | the ship of state (trop., of political affairs)
+navo | 1 | exert
+navo | 3 | navare operam, to lend zealous assistance, apply oneself vigorously (idiom)
+navus | 1 | diligent
+navus | 3 | wholly, completely (adv. naviter, transf., emphatic)
+ne1 | 1 | not
+ne1 | 3 | not even (in the phrase ne...quidem)
+ne1 | 4 | that not, lest (in purpose or result clauses, or after verbs of fearing, warning, forbidding)
+ne1 | 5 | do not (in prohibitions, + subj. or imper.)
+ne2 | 1 | question-marker
+ne2 | 3 | whether (in indirect questions)
+ne3 | 1 | indeed
+nebula | 1 | mist
+nebula | 3 | thin fabric, transparent cloth (transf., of a garment or a metal sheet)
+nebula | 4 | obscurity, vagueness (trop., of confusion or uncertainty)
+nebulo | 1 | scoundrel
+nebulosus | 1 | misty
+nebulosus | 3 | obscure, hard to understand (trop.)
+necessarius | 1 | necessary
+necessarius | 2 | related
+necessarius | 3 | a relative, kinsman, close connection (subst., of blood, friendship, or clientship)
+necesse | 1 | necessary
+necessitas | 1 | necessity
+necessitas | 3 | fate, destiny (transf., a law of nature)
+necessitas | 4 | necessities, essentials (concr., plur., necessary things or expenses)
+necessitas | 5 | relationship, connection (for necessitudo, rare)
+necessitudo | 1 | necessity
+necessitudo | 3 | close connection, relationship, friendship (transf.)
+necessitudo | 4 | relatives, connections (concr., plur., post-Aug.)
+necne | 1 | or not
+necnon | 1 | and also
+neco | 1 | kill
+neco | 3 | thwart, check (trop., a natural inclination)
+neco | 4 | bore to death, pester (trop., colloquial, of talking someone to death)
+necopinans | 1 | unaware
+necopinatus | 1 | unexpected
+necopinus | 1 | unexpected
+necopinus | 3 | unsuspecting, off guard (act., of the one caught unaware)
+nectareus | 1 | nectarous
+nectareus | 3 | delicious, sweet (transf., as sweet as nectar)
+necto | 1 | bind
+necto | 3 | fetter, enslave (in partic., for debt)
+necto | 4 | attach, link (trop., of causes or ideas)
+necto | 5 | bind, oblige (trop., by an obligation)
+necubi | 1 | nowhere
+nedum | 1 | much less
+nedum | 3 | much more, not to say (transf., post-Aug., in affirmative statements)
+nefandus | 1 | unspeakable
+nefarius | 1 | wicked
+nefarius | 3 | a heinous act, a crime (subst. neut. nefarium)
+nefas | 1 | sin
+nefas | 3 | a monstrous horror (poet., transf.)
+nefas | 4 | impossible (transf., of what cannot be corrected or done)
+nefastus | 1 | unlawful
+nefastus | 3 | impious, profane (transf., contrary to religion)
+nefastus | 4 | unlucky, inauspicious (transf., of a day)
+nefastus | 5 | harmful, injurious (rare)
+nefrens | 1 | toothless
+negativus | 1 | negative
+negito | 1 | deny
+negito | 3 | persist in denying, deny repeatedly (freq., a stronger emphasis than nego)
+neglegentia | 1 | negligence
+neglego | 1 | neglect
+neglego | 3 | disregard, despise (in partic., to slight or scorn)
+nego | 1 | deny
+nego | 2 | refuse
+nego | 3 | decline (an invitation, in partic.)
+nego | 4 | yield nothing, fail to produce (transf., poet., of infertile land or an unfavourable wind)
+nego | 5 | disown, deny knowing (eccl. Lat., + acc. of a person)
+negotialis | 1 | business
+negotiatio | 1 | commerce
+negotiator | 1 | dealer
+negotiator | 3 | agent, factor (in partic., one entrusted with managing a business)
+negotior | 1 | trade
+negotior | 3 | engage in business, deal (transf. or trop., in gen.)
+negotiosus | 1 | busy
+negotiosus | 3 | troublesome (transf.)
+negotium | 1 | business
+negotium | 3 | trouble, difficulty (transf.)
+negotium | 4 | matter, thing (transf., like Gr. pragma, for res)
+nemo | 1 | nobody
+nemo | 3 | no, not any (adj., = nullus, transf.)
+nemorensis | 1 | woodland
+nemorosus | 1 | wooded
+nemorosus | 3 | leafy, shady (transf., full of foliage)
+nempe | 1 | certainly
+nempe | 3 | you mean (in questions, asking for confirmation of another's meaning)
+nenia | 1 | dirge
+nenia | 3 | incantation, magic song (in partic.)
+nenia | 4 | lullaby, nursery song (in partic.)
+neo1 | 1 | spin
+neo1 | 3 | weave, entwine (transf.)
+nepos1 | 1 | grandson
+nepos1 | 3 | nephew (transf., a brother's or sister's son, post-Aug.)
+nepos1 | 4 | descendant (poet., in gen.)
+nepos1 | 5 | spendthrift, prodigal (fig.)
+neptis | 1 | granddaughter
+nequam | 1 | worthless
+nequaquam | 1 | nowise
+neque | 1 | nor
+neque | 3 | not even (in partic., = ne...quidem)
+neque | 4 | neither...nor (in the correlative neque...neque construction)
+nequeo | 1 | be unable
+nequiquam | 1 | vainly
+nequitia | 1 | worthlessness
+nequitia | 3 | idleness, negligence (in partic.)
+nequitia | 4 | prodigality, extravagance (in partic.)
+nequitia | 5 | wantonness, lewdness (in partic.)
+nervosus | 1 | sinewy
+nervosus | 3 | vigorous, forceful (trop., of style or expression)
+nervus | 1 | sinew
+nervus | 3 | string (transf., of a musical instrument)
+nervus | 4 | bowstring (transf.)
+nervus | 5 | fetter, shackle (transf., a restraint for the feet)
+nervus | 6 | prison (transf., in partic.)
+nervus | 7 | vigour, strength, force (trop.)
+nervus | 8 | energy, force of style (trop., in partic., of oratory)
+nescio | 1 | not know
+nescio | 3 | be unable, not know how (in partic., + inf.)
+nescius | 1 | unaware
+neuter | 1 | neither
+neuter | 3 | neuter (gram., of gender)
+neutiquam | 1 | nowise
+neve | 1 | nor
+nex | 1 | murder
+nex | 3 | death (in gen., a natural death, rare and post-Aug.)
+nex | 4 | destruction, ruin (jurid. Lat., transf.)
+nexo | 1 | bind
+nexus2 | 1 | binding
+nexus2 | 3 | bondage, debt-slavery (transf., a legal obligation for debt)
+nexus2 | 4 | obligation, restraint (trop., in gen.)
+ni | 1 | unless
+ni | 3 | not (arch., a simple negative particle, only in fixed phrases like quidni, why not)
+ni | 4 | that not, lest (conj., ante-class. and poet., in purpose clauses)
+nicto | 1 | blink
+nicto | 3 | wink (in partic., to signal with the eyes)
+nicto | 4 | flash, flicker (transf., of fire)
+nicto | 5 | strain, exert oneself (trop.)
+nidor | 1 | smell
+nidulor | 1 | nest
+nidulor | 3 | make a nest for another (act., rare)
+nidulus | 1 | nest
+nidulus | 3 | retreat, nook (trop., a place of retirement)
+nidus | 1 | nest
+nidus | 3 | nestlings, brood (transf., poet., young birds in a nest)
+nidus | 4 | litter (transf., poet., of pigs)
+nidus | 5 | case, receptacle (transf., for books or valuables)
+nidus | 6 | home, dwelling (transf.)
+nidus | 7 | bowl, goblet (transf., a nest-shaped vessel)
+niger1 | 1 | black
+niger1 | 3 | deathly, funereal (trop., associated with death or mourning)
+niger1 | 4 | unlucky, ill-omened (trop.)
+niger1 | 5 | wicked, evil (trop., of character)
+nigresco | 1 | darken
+nigrico | 1 | be blackish
+nigro | 1 | blacken
+nigro | 3 | be black (neutr., lit.)
+nigro | 4 | darken (trop., to obscure)
+nihil | 1 | nothing
+nihil | 3 | not at all (adv., a strengthened negative, in no respect)
+nihil | 4 | in vain, to no purpose (adv., rare)
+nihil | 5 | worthless (as gen. of value, nihili)
+nimbus | 1 | rainstorm
+nimbus | 3 | thundercloud (transf.)
+nimbus | 4 | halo, radiant cloud (transf., surrounding a god's head)
+nimbus | 5 | cloud of dust or smoke (transf.)
+nimbus | 6 | headband, frontlet (rare, worn by women)
+nimbus | 7 | multitude, host (transf., of things spreading out like a cloud, e.g. a mass of spears)
+nimbus | 8 | disaster, misfortune (trop., a sudden storm of trouble)
+nimirum | 1 | doubtless
+nimis | 1 | excessively
+nimius | 1 | excessive
+nimius | 3 | too great, too powerful (in partic., post-Aug., of political power)
+nimius | 4 | very great, very much (transf., great beyond measure)
+ningit | 1 | it snows
+ningit | 3 | shower down, scatter (transf., of things falling like snow)
+nisi | 1 | unless
+nisi | 3 | except, only (after a negative or interrogative clause)
+nisi | 4 | but, than (after nihil or nihil aliud)
+nisus2 | 1 | effort
+nisus2 | 3 | pressure (lit., a pressing or resting against something)
+nitedula | 1 | dormouse
+nitela1 | 1 | brightness
+nitela1 | 3 | polish (transf., that which causes shine, e.g. tooth-powder)
+niteo | 1 | shine
+niteo | 3 | be sleek, be in good condition (transf., of animals)
+niteo | 4 | look beautiful, be radiant (transf., of persons)
+niteo | 5 | flourish, thrive (transf., of fields, plants, or wealth)
+niteo | 6 | be brilliant, be elegant (trop., of speech or style)
+nitesco | 1 | brighten
+nitesco | 3 | grow sleek, thrive (transf., of animals or plants)
+nitesco | 4 | become illustrious, be cultivated (trop.)
+nitido | 1 | polish
+nitido | 3 | wash, bathe (in partic.)
+nitidus | 1 | shining
+nitidus | 3 | sleek, plump (transf., of animals)
+nitidus | 4 | healthy-looking, well-groomed (transf., of persons)
+nitidus | 5 | handsome, elegant, neat (transf.)
+nitidus | 6 | luxuriant, blooming (transf., of fields or plants)
+nitidus | 7 | polished, refined (trop., of style)
+nitor1 | 1 | lean
+nitor1 | 2 | strive
+nitor1 | 3 | press forward, climb (transf., to advance with effort)
+nitor1 | 4 | labour in childbirth (transf., to strain, give birth)
+nitor1 | 5 | rely, depend upon (trop., + abl. or in + abl.)
+nitor1 | 6 | argue, contend (trop., to try to prove a point)
+nitor2 | 1 | brightness
+nitor2 | 3 | good looks, comeliness (transf., of the body)
+nitor2 | 4 | elegance, refinement (transf., of external appearance)
+nitor2 | 5 | polish, elegance (trop., of speech or style)
+nitor2 | 6 | excellence, distinction (trop., of character or lineage)
+nivalis | 1 | snowy
+nivalis | 3 | cold, wintry (transf., of a day)
+nivarius | 1 | snow
+niveus | 1 | snowy
+niveus | 3 | snow-white (transf., of colour)
+nix | 1 | snow
+nix | 3 | whiteness (transf., poet., of hair or ivory)
+nixor | 1 | lean
+nixor | 3 | depend, rely upon (trop.)
+nixus2 | 1 | pressure
+nixus2 | 3 | effort, exertion (transf.)
+nixus2 | 4 | labour pains, throes of childbirth (in partic.)
+no1 | 1 | swim
+no1 | 3 | sail, flow, fly (poet., transf.)
+nobilis | 1 | famous
+nobilis | 2 | noble
+nobilis | 3 | knowable, known (in gen., rare, lit.)
+nobilis | 4 | excellent, superior (of a kind or quality)
+nobilitas | 1 | fame
+nobilitas | 3 | noble birth, aristocracy (in partic.; also meton., the nobility as a class)
+nobilitas | 4 | excellence, superiority (of quality, in gen.)
+nobilito | 1 | ennoble
+nobilito | 3 | improve, enhance (in partic., to render excellent)
+noceo | 1 | harm
+noctiluca | 1 | moon
+noctiluca | 3 | lantern (rare, transf.)
+noctua1 | 1 | owl
+nocturnus | 1 | nocturnal
+nodo | 1 | knot
+nodosus | 1 | knotty
+nodosus | 3 | intricate, difficult (trop., poet. and post-Aug.)
+nodus | 1 | knot
+nodus | 3 | girdle, sash (transf., poet.)
+nodus | 4 | knob, joint (transf., of a body or plant)
+nodus | 5 | bond, obligation (trop., poet.)
+nodus | 6 | difficulty, knotty point (trop., in partic.)
+# review: noegeum a single obscure citation with disputed description (purple-trimmed vs plain white garment); kept generic
+noegeum | 1 | garment
+noegeum | 3 | a purple-trimmed cloak (uncertain; some sources describe it as plain white instead)
+nolo | 1 | be unwilling
+nolo | 3 | wish ill, be hostile (in partic., rare, + dat.)
+nomen | 1 | name
+nomen | 3 | reputation, fame (trop.)
+nomen | 4 | family, nation (transf., a people or stock, e.g. nomen Romanum)
+nomen | 5 | accusation, charge (transf., nomen deferre, to bring a charge)
+nomen | 6 | debt, claim (transf., a bond or note owed)
+nomen | 7 | pretext, pretence (trop., a nominal excuse or authority)
+nomen | 8 | noun (gram.)
+nomenclator | 1 | nomenclator
+nominalis | 1 | nominal
+nominatim | 1 | by name
+nominatio | 1 | naming
+nominatio | 3 | nomination (in partic., to an office)
+nominatio | 4 | personification (rhet., in partic., a figure giving a name to something otherwise unnamed)
+nomino | 1 | name
+nomino | 3 | make famous, celebrate (in partic., pregn.)
+nomino | 4 | nominate (in partic., to an office)
+nomino | 5 | accuse, denounce (in partic., not ante-Aug.)
+non | 1 | not
+nonagenarius | 1 | ninety
+nonagenarius | 3 | ninety years old (in partic., of age)
+nondum | 1 | not yet
+nongenti | 1 | nine hundred
+nonne | 1 | surely
+nonnullus | 1 | some
+nonus | 1 | ninth
+norma | 1 | square
+norma | 3 | rule, standard (trop., a rule or pattern)
+normalis | 1 | right-angled
+normalis | 3 | straight, direct (transf., in a straight line)
+nos | 1 | we
+noscito | 1 | recognise
+noscito | 3 | perceive, observe (in gen.)
+noscito | 4 | examine, explore (transf.)
+nosco | 1 | learn
+nosco | 2 | know
+nosco | 3 | recognise (transf., in gen.)
+nosco | 4 | examine, consider (in partic., legal, to take judicial cognizance of a case)
+nosco | 5 | acknowledge, admit (in partic., an excuse)
+noster | 1 | our
+nostras | 1 | native
+nota | 1 | mark
+nota | 3 | letter, character (in partic., of writing)
+nota | 4 | cipher, secret writing (in partic.)
+nota | 5 | shorthand sign (in partic., stenographic notation)
+nota | 6 | note, memorandum (transf., a brief record)
+nota | 7 | brand, stigma (in partic., disgrace or a slave's brand)
+nota | 8 | kind, quality, grade (transf., e.g. of wine)
+nota | 9 | reproach, censure (trop., in partic., nota censoria)
+notabilis | 1 | notable
+notabilis | 3 | notorious (in partic., a bad sense)
+notarius | 1 | stenographer
+notarius | 3 | secretary, clerk (transf.)
+notatio | 1 | marking
+notatio | 3 | censure, official reprimand (in partic., inflicted by the censor)
+notatio | 4 | choice, selection (in partic., of judges)
+notatio | 5 | observation, remark (in gen.)
+notatio | 6 | etymology (in partic., the derivation of a word's meaning)
+notesco | 1 | become known
+notio | 1 | acquaintance
+notio | 3 | inquiry, investigation (in partic., judicial cognizance by a magistrate)
+notio | 4 | idea, notion (transf., a concept)
+notitia | 1 | knowledge
+notitia | 2 | acquaintance
+notitia | 3 | fame, celebrity (lit., very rare)
+notitia | 4 | carnal knowledge (in partic., euphemistic, of a woman)
+noto | 1 | mark
+noto | 3 | write, record (transf., in shorthand or brief form)
+noto | 4 | signify, denote (trop.)
+noto | 5 | allude to, hint at (in partic., + acc.)
+noto | 6 | observe, note (trop., to notice or remark upon)
+noto | 7 | censure, brand with infamy (in partic., of the censors)
+notorius | 1 | notice
+notorius | 3 | indictment, information (subst. neut. notorium, legal)
+novacula | 1 | razor
+novacula | 3 | dagger (transf.)
+novalis | 1 | fallow
+novalis | 3 | ploughed field (subst., freshly tilled land)
+novalis | 4 | cultivated field, standing crop (transf., poet.)
+novatio | 1 | renewal
+novatio | 3 | novation (transf., legal, a renewal of a bond or debt)
+novellus1 | 1 | young
+novellus1 | 3 | young vine, shoot (subst. fem. novella)
+novellus1 | 4 | the Novels (subst. plur. novellae, a part of Roman law)
+novendialis | 1 | nine-day
+novendialis | 3 | of the ninth day (in partic., of funeral rites held nine days after burial)
+noverca | 1 | stepmother
+noverca | 3 | hostile land, harsh region (trop., an unkind or foreign land)
+noverca | 4 | draining ditch (transf., rare, agricultural)
+novercalis | 1 | stepmotherly
+novercalis | 3 | hostile, malevolent (transf., of feelings or looks)
+novicius | 1 | new
+novitas | 1 | novelty
+novitas | 3 | strangeness, unfamiliarity (in partic.)
+novitas | 4 | newcomer status, upstart rank (in partic., of a homo novus)
+novo | 1 | renew
+novo | 3 | alter, change (transf., in gen.)
+novo | 4 | revolutionize, overthrow (in partic., political, res novare)
+novus | 1 | new
+novus | 2 | strange
+novus | 3 | inexperienced, unaccustomed (in partic., poet. and post-Aug., + dat.)
+novus | 4 | last, latest (as superl. novissimus, extreme or final)
+nox | 1 | night
+nox | 3 | sleep, dream (transf., poet.)
+nox | 4 | death (transf., poet.)
+nox | 5 | darkness, gloom (transf., of weather or a dungeon)
+nox | 6 | blindness (transf., poet.)
+nox | 7 | confusion, chaos (trop., a dark or troubled condition)
+noxa | 1 | harm
+noxa | 3 | offence, fault, crime (transf.)
+noxa | 4 | punishment (in partic., not ante-Aug.)
+noxa | 5 | offender, culprit (concr., jurid. Lat.)
+noxalis | 1 | noxal
+noxius | 1 | harmful
+noxius | 2 | guilty
+noxius | 3 | fault, offence, damage (subst. fem. noxia)
+nubecula | 1 | cloudlet
+nubecula | 3 | dark spot, blemish (transf.)
+nubecula | 4 | gloomy look, frown (trop., of countenance)
+nubes | 1 | cloud
+nubes | 3 | swarm, multitude (transf., a dense mass, e.g. of locusts or weapons)
+nubes | 4 | illusion, phantom (trop., something unreal)
+nubes | 5 | gloom (trop., of countenance, sleep, or drunkenness)
+nubes | 6 | veil, concealment (trop.)
+nubes | 7 | threat, impending danger (trop., of war or misfortune)
+nubigena | 1 | cloud-born
+nubilo | 1 | cloud over
+nubilo | 3 | obscure, darken (trop., post-class.)
+nubilus | 1 | cloudy
+nubilus | 3 | gloomy, dark (transf., of a place or colour)
+nubilus | 4 | troubled, sad (trop., of mind or mood)
+nubo | 1 | marry
+nubo | 3 | cover, veil (lit., very rare, gen. sense)
+nubo | 4 | be wedded, entwined (transf., poet., of plants trained to supports)
+nucleus | 1 | kernel
+nucleus | 3 | stone, pit (in partic., of a fruit)
+nucleus | 4 | core, innermost part (transf., of anything)
+nudipedalia | 1 | barefoot-festival
+nudipedalia | 3 | going barefoot (in gen., the act itself)
+nuditas | 1 | nakedness
+nuditas | 3 | want, poverty (transf., late Lat.)
+nudius | 1 | ago
+nudius | 3 | nudius tertius, the day before yesterday, three days ago (fixed phrase with ordinals)
+nudo | 1 | bare
+nudo | 3 | expose, leave undefended (in partic., milit., to leave a position uncovered)
+nudo | 4 | strip, plunder (in partic., pregn., to despoil)
+nudo | 5 | reveal, disclose (trop., to lay bare intentions or facts)
+nudo | 6 | deprive, strip of (trop., + abl.)
+nudus | 1 | naked
+nudus | 2 | mere
+nudus | 3 | destitute, devoid of (in partic., + abl. or gen.)
+nudus | 4 | poor, needy (in partic.)
+nudus | 5 | plain, unadorned (transf., of style or speech)
+nugae | 1 | nonsense
+nugae | 3 | jesters, tricksters (transf., abstr. pro concreto, of persons)
+nugator | 1 | trifler
+nugator | 3 | braggart, boaster (transf.)
+nugatorius | 1 | worthless
+nugivendus | 1 | trinket-seller
+nugor | 1 | trifle
+nugor | 3 | trick, cheat (transf.)
+nullus | 1 | no
+nullus | 3 | no one, nobody (subst.)
+nullus | 4 | not at all (colloq., = non)
+nullus | 5 | insignificant, trifling (in partic.)
+nullus | 6 | worthless, null (in partic., of value)
+nullus | 7 | ruined, undone (idiom, nullus sum, ante-class.)
+num | 1 | surely not
+num | 3 | whether (in indirect questions)
+numella | 1 | fetter
+numen | 1 | divinity
+numen | 3 | divine will, power (in partic., the will of the gods)
+numen | 4 | nod (lit., a nodding of the head)
+numerarius | 1 | accountant
+numerarius | 3 | arithmetician (rare)
+numero1 | 1 | count
+numero1 | 3 | pay out (in partic., of money)
+numero1 | 4 | possess, have (trop., rare, to count as one's own)
+numero1 | 5 | consider, esteem (trop., + double acc.)
+numerosus | 1 | numerous
+numerosus | 3 | rhythmical, harmonious (of style or motion)
+numerus | 1 | number
+numerus | 3 | troop, division (in partic., military, post-Aug.)
+numerus | 4 | rank, category, class (trop.)
+numerus | 5 | rhythm, measure (of music or verse)
+numerus | 6 | a verse (poet., in gen.)
+numerus | 7 | duty, office, part (trop., a proper function)
+nummarius | 1 | monetary
+nummarius | 3 | venal, corrupt (transf., bribed with money)
+nummularius | 1 | money-changer
+nummularius | 3 | assayer (in partic., an officer testing silver for the mint)
+nummus | 1 | coin
+nummus | 3 | sesterce (in partic., a Roman silver coin)
+nummus | 4 | trifle, farthing (transf., a very small sum)
+numquam | 1 | never
+numquid | 1 | anything
+numquid | 3 | whether (rare, in indirect questions)
+nunc | 1 | now
+nunc | 3 | under these circumstances, given this (transf., of a state of affairs)
+nunc | 4 | now...now, at one time...at another (in the repeated construction nunc...nunc)
+nuncupatio | 1 | naming
+nuncupatio | 3 | appointment of an heir (in partic., a public naming as heir)
+nuncupatio | 4 | dedication (in partic., of a book)
+nuncupatio | 5 | public vow-taking (in partic., the formal pronouncing of vows)
+nuncupo | 1 | name
+nuncupo | 3 | appoint publicly, name as heir (in partic., nuncupare heredem)
+nuncupo | 4 | proclaim, announce formally (in gen.)
+nuncupo | 5 | vow, pronounce vows publicly (in partic.)
+nundinatio | 1 | trading
+nundinatio | 3 | market-price (in partic., rare)
+nundinor | 1 | trade
+nundinor | 3 | gather, congregate (transf., rare, to come together in numbers)
+nundinor | 4 | purchase, buy (trop., to obtain by trafficking, often improperly)
+nundinor | 5 | sell off, barter away (trop., corruptly)
+nundinus | 1 | nine-day
+nundinus | 3 | market day (subst. fem. nundinae, the recurring, every-ninth-day market)
+nundinus | 4 | trade, traffic (trop., subst., business dealings)
+nuntiatio | 1 | announcement
+nuntiatio | 3 | notice, declaration (in partic., jurid., of ownerless goods to the treasury)
+nuntio | 1 | announce
+nuntio | 3 | denounce, inform against (in partic., jurid. Lat.)
+nuntius | 1 | messenger
+nuntius | 3 | message, news (subst. neut. nuntium)
+nuntius | 4 | command, order (in partic., transf.)
+nuntius | 5 | divorce notice (idiom, nuntium mittere, to send a letter of divorce)
+nuper | 1 | recently
+nuperus | 1 | recent
+nuptiae | 1 | wedding
+nuptiae | 3 | intercourse (transf., euphemistic)
+nuptialis | 1 | nuptial
+nusquam | 1 | nowhere
+nusquam | 3 | in nothing, on no occasion (transf.)
+nusquam | 4 | nusquam esse, to not exist, to be no more (idiom)
+nuto | 1 | nod
+nuto | 3 | sway, totter (in gen., lit., to shake or stagger)
+nuto | 4 | waver, hesitate (trop., in opinion or judgment)
+nuto | 5 | falter, be unfaithful (trop., in one's loyalty)
+nutribilis | 1 | nourishing
+nutricius | 1 | nursing
+nutricius | 3 | tutor, guardian (subst. masc., one who brings up a child)
+nutricius | 4 | nourishment (subst. neut. nutricium)
+nutrico | 1 | nurse
+nutrico | 3 | nourish, sustain (trop.)
+nutricula | 1 | nurse
+nutricula | 3 | sustainer, supporter (transf., of a place or thing that nourishes)
+nutrimentum | 1 | nourishment
+nutrimentum | 3 | fuel (transf., that which feeds a fire)
+nutrimentum | 4 | support (trop., in gen.)
+nutrio | 1 | nourish
+nutrio | 3 | nurse, tend (in partic., of caring for the body or the sick)
+nutrio | 4 | cherish, foster (trop., of an emotion or quality)
+nutrix | 1 | nurse
+nutrix | 3 | breasts (transf., poet., plur.)
+nutrix | 4 | nursery, seed-bed (transf., a plot for growing saplings)
+nutus | 1 | nod
+nutus | 3 | gravity, downward tendency (transf., physics, of falling bodies)
+nutus | 4 | will, command (trop.)
+nux | 1 | nut
+nux | 3 | nut-tree (transf.)
