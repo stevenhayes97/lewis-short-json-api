@@ -409,3 +409,29 @@ notitia | 1 | knowledge
 notitia | 2 | acquaintance
 notitia | 3 | fame, celebrity (lit., very rare)
 notitia | 4 | carnal knowledge (in partic., euphemistic, of a woman)
+noto | 1 | mark
+noto | 3 | write, record (transf., in shorthand or brief form)
+noto | 4 | signify, denote (trop.)
+noto | 5 | allude to, hint at (in partic., + acc.)
+noto | 6 | observe, note (trop., to notice or remark upon)
+noto | 7 | censure, brand with infamy (in partic., of the censors)
+notorius | 1 | notice
+notorius | 3 | indictment, information (subst. neut. notorium, legal)
+novacula | 1 | razor
+novacula | 3 | dagger (transf.)
+novalis | 1 | fallow
+novalis | 3 | ploughed field (subst., freshly tilled land)
+novalis | 4 | cultivated field, standing crop (transf., poet.)
+novatio | 1 | renewal
+novatio | 3 | novation (transf., legal, a renewal of a bond or debt)
+novellus1 | 1 | young
+novellus1 | 3 | young vine, shoot (subst. fem. novella)
+novellus1 | 4 | the Novels (subst. plur. novellae, a part of Roman law)
+novendialis | 1 | nine-day
+novendialis | 3 | of the ninth day (in partic., of funeral rites held nine days after burial)
+noverca | 1 | stepmother
+noverca | 3 | hostile land, harsh region (trop., an unkind or foreign land)
+noverca | 4 | draining ditch (transf., rare, agricultural)
+novercalis | 1 | stepmotherly
+novercalis | 3 | hostile, malevolent (transf., of feelings or looks)
+novicius | 1 | new
