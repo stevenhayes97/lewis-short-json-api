@@ -960,3 +960,23 @@ perurgeo | 2 | urge strongly
 peruro | 1 | burn up
 peruro | 2 | chafe
 peruro | 3 | nip, pinch (transf., of cold or frost)
+pervado | 1 | pervade
+pervagor | 1 | roam
+pervagor | 2 | spread widely
+pervagor | 3 | pervagatus, widespread, well known (the common adjectival participle)
+perveho | 1 | convey
+perveho | 3 | pervehi, to travel through, cross (mid./passive, e.g. the ocean)
+pervello | 1 | pluck
+pervello | 2 | disparage
+pervello | 3 | aurem pervellere, to pull someone's ear, i.e. to remind them of something (a vivid idiom)
+pervenio | 1 | arrive
+pervenio | 2 | attain
+perversitas | 1 | perversity
+perverto | 1 | overturn
+perverto | 2 | corrupt
+perverto | 3 | perversus, wrong, perverse, contrary to what is right (the common adjectival participle)
+pervestigo | 1 | track down
+pervestigo | 2 | investigate
+perviam | 1 | accessible
+pervicacia | 1 | obstinacy
+pervicacia | 2 | steadfastness
