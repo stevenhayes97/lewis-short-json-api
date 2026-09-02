@@ -2714,3 +2714,28 @@ prorogatio | 3 | a deferral, postponement (of an appointed time)
 prorogo | 1 | prolong
 prorogo | 3 | put off, defer (a deadline)
 prorogo | 4 | (post-class.) pay in advance, advance (money)
+prorsum | 1 | forward
+prorsum | 3 | (trop.) wholly, absolutely, entirely
+prorsus1 | 1 | utterly
+prorsus1 | 3 | exactly, precisely, just so
+prorsus1 | 4 | in short, in a word, summarizing
+prorsus2 | 1 | straight
+prorsus2 | 3 | (trop., of style) prosaic, written in prose
+prorumpo | 1 | burst
+prorumpo | 3 | (transf.) break out, appear suddenly, of tears, disease, fire
+prorumpo | 4 | (trop.) break out, erupt, of war, vice
+proruo | 1 | demolish
+proruo | 3 | (neut.) rush forward, charge (an enemy)
+proruo | 4 | (neut., post-Aug.) collapse, tumble down
+prosapia | 1 | lineage
+proscindo | 1 | rend
+proscindo | 3 | (agri.) plough up, break ground for the first time
+proscindo | 4 | (trop.) revile, censure, satirize with words
+proscribo | 1 | proscribe
+proscribo | 3 | publish, announce publicly (in writing)
+proscribo | 4 | advertise, put up for sale or auction
+proscribo | 5 | confiscate (someone's) property
+proscriptio | 1 | proscription
+proscriptio | 3 | a public notice of sale, an advertisement
+proseco | 1 | excise
+proseco | 3 | (relig.) cut off the parts of a victim to be offered in sacrifice
