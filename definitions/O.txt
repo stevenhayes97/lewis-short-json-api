@@ -677,3 +677,28 @@ orca1 | 3 | dice-box (a specific gaming implement, poet.)
 ordinarius | 1 | ordinary
 ordinarius | 3 | consul ordinarius, a regularly elected consul (as opposed to a consul suffectus, appointed to fill a vacancy)
 ordinatim | 1 | in order
+ordinatio | 1 | arrangement
+ordinatio | 2 | ordination
+ordinatio | 3 | an edict or decree (of an emperor)
+ordino | 1 | arrange
+ordino | 2 | ordain
+ordior | 1 | begin
+ordior | 3 | (of the Fates) to spin the thread of life (the verb's literal weaving sense)
+ordo | 1 | order
+ordo | 2 | class
+ordo | 3 | rank, line (military, of soldiers in formation)
+ordo | 4 | ordo senatorius, the senatorial order (one of Rome's formal social classes)
+orientalis | 1 | eastern
+originalis | 1 | original
+origo1 | 1 | origin
+origo1 | 2 | ancestor
+origo1 | 3 | Origines, the title of Cato the Elder's history of early Italy
+orior | 1 | rise
+orior | 2 | originate
+orior | 3 | oriens, the rising sun; the East (the participle used substantively)
+orior | 4 | ortus ab/ex aliquo, descended or sprung from someone (of ancestry)
+oriundus | 1 | descended
+oriundus | 3 | oriundus ab/ex loco, originating from a place, born there (a common way to state one's birthplace)
+ornamentum | 1 | ornament
+ornamentum | 2 | equipment
+ornamentum | 3 | ornamentum rei publicae, the pride and glory of the state (trop., of a distinguished person)
