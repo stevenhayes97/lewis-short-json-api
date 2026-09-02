@@ -758,3 +758,21 @@ perlino | 1 | smear
 perlino | 3 | perliti fuco, coated with color, i.e. biased or tinged by an opinion (trop., a vivid metaphor)
 perlito | 1 | sacrifice favorably
 perlito | 3 | to obtain favorable omens through a sacrifice (a technical term in Roman state religion)
+perluceo | 1 | shine through
+perluceo | 2 | be evident
+perluo | 1 | wash
+perlustro | 1 | traverse
+perlustro | 2 | survey
+perlustro | 3 | purify, hallow (through religious rites)
+permadesco | 1 | become soaked
+permadesco | 2 | grow soft
+permagnus | 1 | very great
+permaneo | 1 | remain
+permaneo | 3 | persist, persevere, hold firm (of steadfast endurance)
+permano | 1 | penetrate
+permano | 3 | permanare palam, to become public knowledge, leak out (of a secret or rumor)
+permeo | 1 | permeate
+permetior | 1 | measure out
+permetior | 2 | traverse
+permisceo | 1 | mix together
+permisceo | 2 | confound
