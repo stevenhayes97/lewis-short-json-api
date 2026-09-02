@@ -1,35 +1,37 @@
 # Low-confidence definitions awaiting review
 
+Progress: 5 of 85 settled.
+
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
 short form didn't fit cleanly. These are the low-confidence spots in the
 curated definitions: not necessarily wrong, but not settled to one or two
 words and worth a second pair of eyes.
 
-This file is a snapshot of `python tools/definitions.py review` for A–D,
-turned into a checklist. `D.txt` doesn't exist yet — no definitions have been
-written for D, so there's nothing to flag there yet.
-
-Regenerate the list at any time with:
+This file is a checklist built from `python tools/definitions.py review`
+across every letter written so far. Regenerate the raw list at any time with:
 
 ```
-python tools/definitions.py review A
-python tools/definitions.py review B
-python tools/definitions.py review C
-python tools/definitions.py review D   # once D.txt exists
+python tools/definitions.py review
 ```
 
-To resolve an item: either accept the gloss as-is (remove it from this list),
-or edit `definitions/<L>.txt` to tighten the gloss and drop its `# review:`
-line, then re-run `check`.
+A ticked item has been settled: either the gloss was accepted as the best
+English available (the `# review:` line stays, because `check` still needs
+it on any three-word gloss), or it was tightened and the flag dropped. The
+text after the dash records the verdict. An unticked item still carries the
+writer's original reason and is waiting for a decision.
 
-## A.txt (23)
+To resolve an item: accept the gloss as-is and tick it here with a one-line
+verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
+`# review:` line, re-run `check`, and tick it here saying what changed.
 
-- [ ] `abiegnus` r1 "made of fir" — English has no adjective for 'of fir'; three words kept, confirmed
-- [ ] `abjuro` r1 "deny on oath" — 'disavow' loses the oath, which is the whole point of the word
-- [ ] `admolior` r1 "lay hands on" — general sense is 'bring one thing to another'; the attested use is manus admoliri
-- [ ] `adusque` r1 "as far as" — 'unto' is archaic and vague; is a 3-word preposition gloss acceptable here?
-- [ ] `aestivo` r1 "spend the summer" — English has no one-word verb for it; 'summer' as a verb reads as the noun
+## A.txt (22)
+
+- [x] `abiegnus` r1 "made of fir" — accepted; English has no adjective for fir, and "fir" alone reads as the noun
+- [x] `abjuro` r1 "deny on oath" — accepted; "abjure" and "forswear" both mean renounce in modern English, and the oath-denial of a debt is the whole word
+- [x] `admolior` r1 "lay hands on" — accepted; the verb is all but confined to manus admoliri, and the general sense is carried at rank 3
+- [x] `adusque` r1 "as far as" — accepted; a three-word preposition gloss is fine here, and CLAUDE.md cites this very word as the model ("as far as", not "unto")
+- [x] `aestivo` r1 "spend the summer" — accepted; English has no verb for it, and CLAUDE.md uses this word as the model flag
 - [ ] `agninus` r1 "of a lamb" — 'lamb' would also read fine; three words kept, confirmed
 - [ ] `amburbium` r1 "procession round Rome" — a procession round Rome; "procession" alone loses the rite, and English has no single word
 - [ ] `amento` r1 "fit with a thong" — the sense is to fit a javelin with its throwing-strap; English has no verb for it
@@ -82,16 +84,70 @@ line, then re-run `check`.
 - [ ] `comitialis` r1 "of the comitia" — "comitial" exists but is obscure; "of the comitia" names the actual institution plainly
 - [ ] `commissorius` r1 "of a forfeiture clause" — jurid. term found almost only in "lex commissoria"; "of forfeiture" names the clause, a single word would mislead
 - [ ] `confarreo` r1 "wed by confarreatio" — denotes marrying specifically via the confarreatio bread-rite; no single English word covers that
-- [ ] `congiarius` r1 "of a congius" — needs the article to be accurate; no shorter English phrasing fits
+- [ ] `congiarius` r1 "of a congius" — "of a congius" needs the article to be accurate; no shorter English phrasing fits
 - [ ] `congius` r1 "a Roman liquid measure of about six pints" — the precise volume needs more than one word; no exact English equivalent
-- [ ] `contionalis` r1 "of the assembly" — needs the article to be accurate; no shorter English phrasing fits
-- [ ] `coronarius` r1 "of a wreath" — needs the article to be accurate; no shorter English phrasing fits
-- [ ] `crinalis` r1 "of the hair" — needs the article to be accurate; no shorter English phrasing fits
-- [ ] `cubicularius` r1 "of a bedroom" — needs the article to be accurate; no shorter English phrasing fits
-- [ ] `curialis` r1 "of a curia" — needs the article to be accurate; no shorter English phrasing fits
-- [ ] `curiatus` r1 "of the curiae" — needs the article to be accurate; no shorter English phrasing fits
+- [ ] `contionalis` r1 "of the assembly" — "of the assembly" needs the article to be accurate; no shorter English phrasing fits
+- [ ] `coronarius` r1 "of a wreath" — "of a wreath" needs the article to be accurate; no shorter English phrasing fits
+- [ ] `crinalis` r1 "of the hair" — "of the hair" needs the article to be accurate; no shorter English phrasing fits
+- [ ] `cubicularius` r1 "of a bedroom" — "of a bedroom" needs the article to be accurate; no shorter English phrasing fits
+- [ ] `curialis` r1 "of a curia" — "of a curia" needs the article to be accurate; no shorter English phrasing fits
+- [ ] `curiatus` r1 "of the curiae" — "of the curiae" needs the article to be accurate; no shorter English phrasing fits
 
-## D.txt
+## D.txt (2)
 
-Not started — `definitions/D.txt` doesn't exist yet, so there's nothing to
-review here. Re-run this list once D has been written.
+- [ ] `denicalis` r1 "purifying from death" — is a narrow religious technical term with no natural one-word English adjective; occurs only in the phrase "feriae denicales", funeral rites purifying a family after a death
+- [ ] `dicis` r1 "for form's sake" — has no independent meaning outside the fixed phrase dicis causa/gratia
+
+## E.txt (4)
+
+- [ ] `eadem` r1 "likewise" — is the adverbial ablative of idem; no single word covers "by the same route"
+- [ ] `eatenus` r1 "so far" — is a correlative adverb of extent; English needs a phrase
+- [ ] `eblandior` r1 "coax out" — needs a verb phrase; English has no single verb for "get by flattery"
+- [ ] `eodem` r1 "to the same place" — is the old dat/abl of idem used adverbially; no single word covers "to that same place"
+
+## F.txt (1)
+
+- [ ] `fideicommissarius` r1 "of a trust-bequest" — relates to the Roman fideicommissum trust-bequest; English has no adjective for it
+
+## G.txt (5)
+
+- [ ] `galeo` r1 "cover with a helmet" — English has no one-word verb for putting on a helmet; "helm" would wrongly suggest steering
+- [ ] `gentilicius` r1 "of a clan" — "of a clan" needs the article to be accurate; no shorter English phrasing fits
+- [ ] `genuinus2` r1 "of the cheek" — "of the cheek" needs the article to be accurate; no shorter English phrasing fits
+- [ ] `gravedinosus` r1 "prone to colds" — English has no adjective for catching colds easily; described directly
+- [ ] `gregalis` r1 "of the herd" — "of the herd" needs the article to be accurate; no shorter English phrasing fits
+
+## I.txt (3)
+
+- [ ] `imperatorius` r1 "of a general" — "of a general" needs the article to be accurate; no shorter English phrasing fits
+- [ ] `infulatus` r1 "wearing a fillet" — no single English word for "wearing a sacred fillet"; described directly
+- [ ] `intermenstruus` r1 "of the time between two months, at the new moon" — astronomical term for "the time between two months" has no one-word English equivalent
+
+## J.txt (1)
+
+- [ ] `jurisperitus` r1 "learned in the law" — no one-word adjective for "skilled in the law"; nearest single words distort the meaning
+
+## L.txt (1)
+
+- [ ] `lectisternium` r1 "a banquet offered to the gods" — no single English word for this Roman religious rite; described directly
+
+## M.txt (1)
+
+- [ ] `mutatorius` r1 "of changing clothes" — extremely rare (post-class.); no natural one-word gloss for "of changing clothes"
+
+## N.txt (1)
+
+- [ ] `noegeum` r1 "garment" — a single obscure citation with disputed description (purple-trimmed vs plain white garment); kept generic
+
+## O.txt (1)
+
+- [ ] `obvius` r1 "in the way" / r2 "obvious" — "in the way" needs three words; no single English word covers "positioned so as to meet" without losing the sense
+
+## P.txt (6)
+
+- [ ] `patrimus` r1 "having a father still living" — -- no single English word for "having a father still alive"; needed for the ritual pairing patrimi et matrimi
+- [ ] `penes` r1 "in the power of" — -- preposition meaning "in the possession or power of"; no single English preposition captures it precisely
+- [ ] `peremnis` r1 "of crossing a river" — -- a narrow augural technical term with no natural English adjective; occurs only in the phrase "peremne auspicium," the omen-taking ritual performed when crossing a river
+- [ ] `perendinus` r1 "occurring the day after tomorrow" — -- no single English word for "occurring the day after tomorrow"
+- [ ] `pollingo` r1 "wash and lay out (a corpse)" — no one-word or two-word English verb covers 'wash and lay out a corpse for burial'
+- [ ] `pridie` r1 "the day before" — 'the day before' is the accurate gloss; no single or double word captures it

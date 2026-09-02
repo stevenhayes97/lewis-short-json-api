@@ -984,7 +984,7 @@ aduro | 3 | to set something alight, to singe or scorch it
 aduro | 4 | of frost, wind, or locusts, to nip and spoil a crop
 aduro | 5 | in poetry, of love, to burn or inflame someone
 aduro | 6 | adustus as an adjective: sunburnt, browned, swarthy
-# review: adusque 'unto' is archaic and vague; is a 3-word preposition gloss acceptable here?
+# review: adusque 'unto' is archaic and vague; three words kept, confirmed, since no shorter preposition is accurate
 adusque | 1 | as far as
 adusque | 3 | as a preposition with the accusative, all the way to, right up to
 adusque | 4 | as an adverb, throughout, wholly, a strengthened usque
