@@ -386,3 +386,24 @@ occupo | 1 | seize
 occupo | 2 | preempt
 occupo | 3 | occupare locum, to seize control of a place (a common military or political phrase)
 occupo | 4 | timor animum occupat, fear seizes the mind (trop., of an emotion or state taking hold)
+occurro | 1 | meet
+occurro | 2 | occur
+occurro | 3 | counteract, remedy, take steps against (a problem or danger)
+occurro | 4 | attack, rush upon (an enemy)
+occursatio | 1 | fawning
+occursatio | 3 | eager greeting or attendance paid to someone in hopes of gaining their favor
+occurso | 1 | meet
+occurso | 2 | attack
+occurso | 3 | occur to one, come to mind (trop.)
+occursus | 1 | meeting
+ocellatus | 1 | speckled
+ocellatus | 3 | ocellatum, a small gem or stone marked with eye-like spots (used as a substantive noun)
+ocellus | 1 | eyelet
+ocellus | 3 | used as a term of endearment ("my darling," literally "my little eye") in poetry
+ocior | 1 | swifter
+ocior | 3 | ocius, quickly, speedily (the adverbial form, very common in the comparative)
+ocrea1 | 1 | greave
+octavus | 1 | eighth
+octavus | 3 | octava (hora), the eighth hour of the day (used substantively)
+octogenarius | 1 | octogenarian
+octogenarius | 3 | containing eighty (of a measurement or quantity, e.g. a pipe eighty inches wide)
