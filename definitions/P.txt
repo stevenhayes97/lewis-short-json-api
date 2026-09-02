@@ -685,3 +685,21 @@ perfidus | 1 | treacherous
 perfidus | 2 | dangerous
 perflabilis | 1 | airy
 perflabilis | 2 | susceptible
+perflatus | 1 | breeze
+perflatus | 3 | draught, current of air (the more abstract/technical sense)
+perflo | 1 | blow through
+perfluo | 1 | flow through
+perfluo | 3 | perfluo, I leak (secrets), I cannot keep quiet (a vivid Terentian idiom)
+perfodio | 1 | dig through
+perfodio | 3 | break into (a house, by digging through the wall)
+perforo | 1 | perforate
+perfrico | 1 | rub
+perfrico | 3 | frontem perfricare, to rub one's brow, i.e. cast off shame, become brazen (a vivid idiom)
+perfrigesco | 1 | catch cold
+perfringo | 1 | shatter
+perfringo | 2 | violate
+perfringo | 3 | force one's way through, break through (an obstacle or enemy line)
+perfruor | 1 | enjoy fully
+perfruor | 3 | perfrui aliqua re, to enjoy something thoroughly (+ ablative)
+perfruor | 4 | fulfil, carry out (poet., of instructions or a task)
+perfuga | 1 | deserter
