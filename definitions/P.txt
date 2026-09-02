@@ -1287,3 +1287,29 @@ plenus | 9 | (of style, oratory) ample, copious
 plerus | 1 | most
 plerusque | 1 | most
 plerusque | 3 | (sing.) the greatest part of, most of (a group)
+plico | 1 | fold
+ploratus | 1 | wailing
+ploratus | 3 | (of trees) weeping, oozing sap
+ploro | 1 | weep
+ploro | 3 | bewail, weep over (something)
+pluma | 1 | feather
+pluma | 3 | down (of a first beard, poet.)
+pluma | 4 | the scales of a coat of mail (transf.)
+plumarius | 1 | embroidered
+plumarius | 3 | (as noun) an embroiderer
+plumbarius | 1 | leaden
+plumbarius | 3 | (as noun) a plumber, worker in lead
+plumbeus | 1 | leaden
+plumbeus | 3 | blunt, dull (fig., of a weapon or wit)
+plumbeus | 4 | worthless, poor, bad (fig., poet.)
+plumbeus | 5 | heavy, oppressive, burdensome
+plumbeus | 6 | dull, stupid, stolid (fig.)
+plumbo | 1 | solder
+plumbo | 3 | (as participle plumbatus) made of lead, leaden
+plumbum | 1 | lead
+plumbum | 3 | a leaden bullet or sling-ball (poet.)
+plumbum | 4 | a lead pipe (poet.)
+plumbum | 5 | a pencil, a ruler for marking lines
+plumeus | 1 | downy
+plumeus | 3 | light, soft, delicate (like down, poet.)
+plumeus | 4 | embroidered (post-class.)
