@@ -2019,8 +2019,10 @@ interluceo | 1 | gleam through
 interluceo | 3 | trop., to be evident, manifest
 interluceo | 4 | of something thin or sparse, to be transparent, show through
 interluo | 1 | flow between
-# review: intermenstruus astronomical term for "the time between two months" has no one-word English equivalent
-intermenstruus | 1 | of the time between two months, at the new moon
+# review: intermenstruus a compound English can only unpack; "between two months" is L&S's gloss and the new moon it means sits at ranks 3-4
+intermenstruus | 1 | between two months
+intermenstruus | 3 | luna intermenstrua, the moon between one month and the next, that is the new moon
+intermenstruus | 4 | as a noun intermenstruum, the time of new moon
 interminor | 1 | threaten
 intermisceo | 1 | intermix
 intermissio | 1 | interruption

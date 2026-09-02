@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 70 of 85 settled.
+Progress: 75 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -115,17 +115,17 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `gentilicius` r1 "of a clan" — accepted; the article is needed, and "clan" is the standard rendering of gens
 - [x] `genuinus2` r1 "molar" — tightened to "molar" and flag dropped; the word is used only of the back teeth, and "of the cheek" was its etymology, now at rank 3
 - [x] `gravedinosus` r1 "prone to colds" — accepted; "catarrhal" would mean having a cold, not catching them easily
-- [ ] `gregalis` r1 "of the herd" — "of the herd" needs the article to be accurate; no shorter English phrasing fits
+- [x] `gregalis` r1 "of the herd" — accepted; the article is needed, and ranks 3-4 give comrades and the common sort
 
 ## I.txt (3)
 
-- [ ] `imperatorius` r1 "of a general" — "of a general" needs the article to be accurate; no shorter English phrasing fits
-- [ ] `infulatus` r1 "wearing a fillet" — no single English word for "wearing a sacred fillet"; described directly
-- [ ] `intermenstruus` r1 "of the time between two months, at the new moon" — astronomical term for "the time between two months" has no one-word English equivalent
+- [x] `imperatorius` r1 "of a general" — accepted; the article is needed, and rank 3 gives the imperial sense
+- [x] `infulatus` r1 "wearing a fillet" — accepted; "filleted" means boned in English, so the phrase is needed
+- [x] `intermenstruus` r1 "between two months" — tightened from eleven words to "between two months", L&S's own gloss, with the new moon at ranks 3-4; flag kept at three words
 
 ## J.txt (1)
 
-- [ ] `jurisperitus` r1 "learned in the law" — no one-word adjective for "skilled in the law"; nearest single words distort the meaning
+- [x] `jurisperitus` r1 "learned in the law" — accepted, and a rank 3 added for the noun use, a jurist; "legal" or "juridical" would each distort it
 
 ## L.txt (1)
 
