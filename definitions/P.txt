@@ -2212,3 +2212,39 @@ primitivus | 1 | primitive
 primitivus | 3 | (gram.) a root word, not derived from another
 primitivus | 4 | first-born (of offspring)
 primitus | 1 | originally
+primogenitus | 1 | firstborn
+primordialis | 1 | primordial
+primordius | 1 | original
+primordius | 3 | (as noun, primordia) the first beginnings, origin, commencement
+primoris | 1 | foremost
+primoris | 3 | (as noun) the tip, forepart, extremity (of something)
+primoris | 4 | (as noun, pl.) the chiefs, nobles, leading men
+primus | 1 | first
+primus | 3 | foremost, in front (of place)
+primus | 4 | chief, most eminent, distinguished (of rank)
+primus | 5 | (as adv., primo) at first, at the beginning
+primus | 6 | (as adv., primum) first, in the first place; for the first time
+princeps1 | 1 | chief
+princeps1 | 2 | emperor
+princeps1 | 3 | (as noun) the first, leading man; the first senator on the censor's list
+princeps1 | 4 | originator, author, founder (of something)
+princeps1 | 5 | (mil., pl. principes) the second line of heavy infantry, between the hastati and triarii
+princeps1 | 6 | (mil.) a centurion of the principes
+principalis | 1 | original
+principalis | 3 | chief, principal, foremost (in rank)
+principalis | 4 | (post-Aug.) princely, imperial, of the emperor
+principalis | 5 | (mil.) of the principes, the second line in battle order
+principalis | 6 | (mil.) of the principium, the headquarters area of a camp
+principatus | 1 | preeminence
+principatus | 3 | (in partic.) the supreme command, the post of commander-in-chief
+principatus | 4 | (post-Aug.) the imperial reign, sovereignty, the principate
+principatus | 5 | a beginning, origin (rare)
+principium | 1 | beginning
+principium | 3 | (pl.) first principles, elements, foundations
+principium | 4 | (mil.) the front line, the van of an army
+principium | 5 | (mil.) the headquarters area of a camp
+principium | 6 | an originator, founder, ancestor (poet.)
+prior | 1 | former
+prior | 3 | better, superior, preferable (trop.)
+prior | 4 | (as noun, priores) forefathers, ancestors
+prior | 5 | (as adv., prius) before, sooner, previously
