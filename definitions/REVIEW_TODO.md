@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 60 of 85 settled.
+Progress: 65 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -96,14 +96,14 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 ## D.txt (2)
 
 - [x] `denicalis` r1 "purifying from death" — accepted, and a rank 3 added for feriae denicales, the only phrase the word occurs in
-- [ ] `dicis` r1 "for form's sake" — has no independent meaning outside the fixed phrase dicis causa/gratia
+- [x] `dicis` r1 "for form's sake" — accepted; a genitive with no life outside dicis causa, which rank 3 gives
 
 ## E.txt (4)
 
-- [ ] `eadem` r1 "likewise" — is the adverbial ablative of idem; no single word covers "by the same route"
-- [ ] `eatenus` r1 "so far" — is a correlative adverb of extent; English needs a phrase
-- [ ] `eblandior` r1 "coax out" — needs a verb phrase; English has no single verb for "get by flattery"
-- [ ] `eodem` r1 "to the same place" — is the old dat/abl of idem used adverbially; no single word covers "to that same place"
+- [x] `eadem` r1 "the same way" — re-ranked: "the same way" first, since that is the Cicero and Livy sense, with the Plautine "likewise" moved to rank 4; flag kept, no one-word English
+- [x] `eatenus` r1 "so far" — accepted; "so far" is L&S's own gloss, and the correlative is explained at rank 3
+- [x] `eblandior` r1 "wheedle" — tightened to "wheedle" and flag dropped; wheedle means precisely to obtain by flattery, and rank 3 adds eblandita suffragia
+- [x] `eodem` r1 "to the same place" — accepted; an adverb of place with no one-word English, like the prepositions
 
 ## F.txt (1)
 
