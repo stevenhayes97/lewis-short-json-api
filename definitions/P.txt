@@ -2694,3 +2694,23 @@ propudium1 | 1 | disgrace
 propudium1 | 3 | (transf., term of abuse) a wretch, scoundrel, villain
 propugnaculum | 1 | bulwark
 propugnaculum | 3 | (trop.) a protection, safeguard, defence (of something abstract, e.g. a law)
+propugnatio | 1 | defence
+propugnator | 1 | defender
+propugnator | 3 | (trop.) a champion, maintainer, advocate (of a cause)
+propugno | 1 | defend
+propugno | 3 | sally forth, make an attack (to fight)
+propulso | 1 | repel
+propulso | 3 | (trop.) avert, ward off (danger, suspicion)
+proquaestore | 1 | proquaestor
+prorepo | 1 | creep
+prorepo | 3 | (transf., of plants) put forth gradually, sprout, ooze out
+proripio | 1 | snatch
+proripio | 3 | (se proripere) rush out, hurry away
+proripio | 4 | (trop.) hurry headlong, plunge (into something rash)
+prorito | 1 | provoke
+prorito | 3 | (transf.) entice, allure, tempt
+prorogatio | 1 | extension
+prorogatio | 3 | a deferral, postponement (of an appointed time)
+prorogo | 1 | prolong
+prorogo | 3 | put off, defer (a deadline)
+prorogo | 4 | (post-class.) pay in advance, advance (money)
