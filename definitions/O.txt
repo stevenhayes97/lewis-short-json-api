@@ -1,0 +1,23 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_O.json (Lewis & Short via Perseus), simplified for learners.
+o2 | 1 | oh
+o2 | 3 | used before a vocative, accusative, or nominative in exclamations of joy, sorrow, desire, or indignation
+ob | 1 | because of
+ob | 3 | before, in front of (earlier, chiefly ante-classical sense)
+ob | 4 | quam ob rem, for which reason, therefore
+obaeratus | 1 | indebted
+obaeratus | 2 | debtor
+obaeratus | 3 | a debt-bondsman, bound in service to a creditor until the debt was repaid
+obambulo | 1 | pace
+obambulo | 2 | wander
+obambulo | 3 | obambulare muris, to pace along the walls
+obaudio | 1 | obey
+obba1 | 1 | beaker
+obba1 | 3 | a broad-bottomed jug or drinking-vessel
+obbrutesco | 1 | become brutish
+obdo | 1 | bar
+obdo | 3 | pessulum ostio obdere, to bolt a door
+obdormio | 1 | fall asleep
+obdormio | 3 | fall asleep in death, die (eccl. Latin, obdormivit in Domino)
+obdormio | 4 | omnem obdormire crapulam, to sleep off a debauch
+obdormisco | 1 | fall asleep
