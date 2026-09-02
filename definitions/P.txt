@@ -1999,3 +1999,44 @@ praestigiae | 1 | trickery
 praestigiae | 3 | (concr.) conjuring tricks, sleight of hand
 praestino | 1 | buy
 praestituo | 1 | prescribe
+praesto1 | 1 | ready
+praesto1 | 3 | (praesto esse) attend upon, serve, assist
+praesto1 | 4 | (praesto esse, hostile) oppose, confront
+praesto2 | 1 | excel
+praesto2 | 3 | guarantee, vouch for, be answerable for
+praesto2 | 4 | fulfil, perform, discharge (a duty or promise)
+praesto2 | 5 | show, exhibit, display (a quality)
+praesto2 | 6 | give, furnish, provide
+praesto2 | 7 | (impers., praestat) it is better, preferable
+praesto2 | 8 | (as p. a. praestans) preeminent, excellent, outstanding
+praestolor | 1 | await
+praestringo | 1 | bind
+praestringo | 3 | graze, touch (lightly, in passing)
+praestringo | 4 | blunt, dull, weaken (an edge or faculty)
+praestringo | 5 | (esp.) blind, dazzle the eyes
+praestruo | 1 | found
+praestruo | 3 | (transf.) block up, obstruct (an entrance or path)
+praestruo | 4 | (trop.) prepare, arrange beforehand
+praesul | 1 | dancer
+praesul | 3 | (esp.) the leader of the Salian priests, who danced in procession
+praesul | 4 | (transf., post-class.) a president, patron, protector
+praesum | 1 | command
+praesum | 3 | (transf.) take the lead, be the foremost, head (something)
+praesum | 4 | (poet.) protect, defend
+praesum | 5 | (as p. a. praesens) present, in person, at hand
+praesum | 6 | (as p. a. praesens) immediate, prompt, instant
+praesum | 7 | (as p. a. praesens) efficacious, powerful, potent
+praesum | 8 | (as p. a. praesens) resolute, collected, self-possessed (of character)
+praesum | 9 | (as p. a. praesens) propitious, favouring (of a god)
+praesum | 10 | (as p. a. praesens) apt, timely, appropriate
+praesumo | 1 | presume
+praesumo | 3 | take, use, or enjoy beforehand (lit.)
+praesumo | 4 | anticipate, foresee, infer in advance
+praesumo | 5 | imagine, picture to oneself beforehand
+praesumo | 6 | undertake, venture, dare (post-class.)
+praesumptio | 1 | presumption
+praesumptio | 3 | anticipation, enjoyment in advance
+praesumptio | 4 | (rhet.) prolepsis, the anticipation of an objection
+praesumptio | 5 | (post-class.) boldness, audacity, overconfidence
+praesumptor | 1 | presumer
+praesumptor | 3 | (post-class., rare) one who takes possession beforehand, a preoccupier
