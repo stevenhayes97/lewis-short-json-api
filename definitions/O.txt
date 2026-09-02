@@ -120,3 +120,27 @@ obluctor | 1 | struggle
 obluctor | 3 | obluctari alicui rei, to struggle against something (+ dative)
 obmolior | 1 | barricade
 obmolior | 3 | block up, obstruct (an entrance or gap)
+obmoveo | 1 | offer
+obmurmuro | 1 | murmur
+obmurmuro | 3 | obmurmurare alicui, to murmur in reply to someone, grumble back at them
+obmutesco | 1 | fall silent
+obmutesco | 3 | lose the power of speech, be struck dumb
+obmutesco | 4 | cease, die away (trop., of a feeling or demand)
+obnitor | 1 | push
+obnitor | 2 | resist
+obnitor | 3 | strive, endeavor (+ infinitive)
+obnoxius | 1 | liable
+obnoxius | 2 | submissive
+obnoxius | 3 | indebted, obliged, beholden (to someone)
+obnoxius | 4 | exposed, at the mercy of (a person or danger)
+obnoxius | 5 | guilty of, addicted to (a fault or vice)
+obnubilo | 1 | cloud
+obnubo | 1 | veil
+obnubo | 3 | caput obnubito, cover his head (part of an old ritual formula for execution)
+obnuntio | 1 | announce
+obnuntio | 3 | announce bad news, bring word of misfortune
+obnuntio | 4 | (augury) declare an adverse omen, so as to obstruct public business
+oboedientia | 1 | obedience
+oboedio | 1 | obey
+oboedio | 2 | yield
+oboedio | 3 | (of things) be manageable, pliant, easily worked
