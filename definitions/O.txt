@@ -632,3 +632,29 @@ optatio | 3 | (rhetoric) the wish, a figure expressing a desire (paired with exs
 optimas | 1 | aristocratic
 optimas | 3 | optimates, the aristocratic party (a Roman political faction, opposed to the populares)
 optio1 | 1 | option
+optio2 | 1 | adjutant
+optio2 | 3 | an assistant chosen to help someone (general sense, ante-class.)
+opto | 1 | wish
+opto | 3 | choose, select (the older, ante-classical and poetic sense)
+opulentia | 1 | wealth
+opulentus | 1 | wealthy
+opulentus | 2 | splendid
+opus1 | 1 | work
+opus1 | 2 | book
+opus1 | 3 | opus est mihi aliqua re, I need something, I have need of it (a common impersonal construction, + ablative)
+opus1 | 4 | fortification, siege-work (military, of defensive or siege structures)
+ora1 | 1 | edge
+ora1 | 2 | coast
+ora1 | 3 | mooring-rope, cable (nautical, by which a ship is tied to shore)
+ora1 | 4 | luminis orae, the shores of light (poet., meaning "the world" or "life")
+oraculum | 1 | oracle
+oraculum | 2 | prophecy
+oratio | 1 | speech
+oratio | 2 | oration
+oratio | 3 | sentence (grammatical term, a clause expressing a complete thought)
+oratio | 4 | oratio vs sermo: oratio is formal, rhetorical speech; sermo is everyday conversation
+orator | 1 | orator
+orator | 2 | envoy
+orator | 3 | suppliant, one who begs or entreats (Plautine)
+oratorius | 1 | oratorical
+oratorius | 3 | oratorium, a chapel, a place of prayer (eccl. Latin, substantive use)
