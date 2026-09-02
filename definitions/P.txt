@@ -1158,3 +1158,26 @@ pinguitudo | 1 | fatness
 pinguitudo | 3 | (of pronunciation) coarseness, broadness
 pinnatus | 1 | winged
 pinnatus | 3 | pinnate, having leaves arranged like a feather
+pinniger | 1 | winged
+pinniger | 3 | finny, having fins (of fish)
+pinso | 1 | pound
+pinus | 1 | pine
+pinus | 3 | a ship (poet., made of pine-wood)
+pinus | 4 | a pine torch
+pio | 1 | appease
+pio | 3 | atone for, expiate (a wrong or bad omen)
+pio | 4 | avenge, punish
+pio | 5 | purify with religious rites
+pio | 6 | honour with religious rites, celebrate
+piper | 1 | pepper
+piper | 3 | (of speech) sharp, biting wit
+piperatus | 1 | peppered
+piperatus | 3 | peppery, pungent (of style or wit)
+piperatus | 4 | sharp, thievish (of a person's touch)
+pipulum | 1 | outcry
+pipulum | 3 | a whimpering, crying (of children)
+piscarius | 1 | of fish
+piscarius | 3 | (as noun) a fish-monger
+piscarius | 4 | (as noun) a fish-market
+piscator | 1 | fisherman
+piscatorius | 1 | fishing
