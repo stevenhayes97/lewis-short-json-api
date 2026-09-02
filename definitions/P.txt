@@ -1877,3 +1877,24 @@ praenoto | 5 | note down, write down
 praenuntio | 1 | foretell
 praenuntius | 1 | foreboding
 praenuntius | 3 | (as noun) a harbinger, foreteller, omen, token
+praeoccupatio | 1 | preoccupation
+praeoccupatio | 3 | (rhet.) prolepsis, the anticipation of an objection
+praeoccupatio | 4 | (medical) a disease causing abdominal distension
+praeoccupo | 1 | preoccupy
+praeoccupo | 3 | (trop.) fill or possess (the mind) beforehand
+praeoccupo | 4 | anticipate, forestall, prevent
+praeopto | 1 | prefer
+praeostendo | 1 | foreshow
+praeparatio | 1 | preparation
+praeparatio | 3 | (rhet.) a preparing of the hearer's mind for what follows
+praeparo | 1 | prepare
+praeparo | 3 | (trop.) prepare, dispose (the mind, an excuse, etc.)
+praepedio | 1 | shackle
+praepedio | 3 | (transf.) hinder, obstruct, impede
+praependeo | 1 | overhang
+praepes | 1 | swift-flying
+praepes | 3 | winged (gen.)
+praepes | 4 | (as noun) a bird, esp. one used in augury, a bird of good omen
+praepes | 5 | (transf., ante-class.) lucky, propitious, fortunate
+praepilatus | 1 | blunt-tipped
+praepilatus | 3 | (trop., of rhetorical exercises) blunted, for practice only, not real combat
