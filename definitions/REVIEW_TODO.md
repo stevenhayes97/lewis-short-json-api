@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 75 of 85 settled.
+Progress: 80 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -129,23 +129,23 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 
 ## L.txt (1)
 
-- [ ] `lectisternium` r1 "a banquet offered to the gods" — no single English word for this Roman religious rite; described directly
+- [x] `lectisternium` r1 "banquet for the gods" — tightened to "banquet for the gods" and the rite itself added at rank 3, which was missing; flag kept, a named rite with no English name
 
 ## M.txt (1)
 
-- [ ] `mutatorius` r1 "of changing clothes" — extremely rare (post-class.); no natural one-word gloss for "of changing clothes"
+- [x] `mutatorius` r1 "of changing clothes" — accepted; a rare post-classical word whose only sure sense is the change of clothing
 
 ## N.txt (1)
 
-- [ ] `noegeum` r1 "garment" — a single obscure citation with disputed description (purple-trimmed vs plain white garment); kept generic
+- [x] `noegeum` r1 "garment" — accepted; a one-word gloss flagged for confidence only, since the one citation's description is disputed
 
 ## O.txt (1)
 
-- [ ] `obvius` r1 "in the way" / r2 "obvious" — "in the way" needs three words; no single English word covers "positioned so as to meet" without losing the sense
+- [x] `obvius` r1 "in one's path" / r2 "obvious" — corrected to "in one's path"; "in the way" reads as obstruction in modern English, and the meeting construction is now at rank 3; flag kept at three words
 
 ## P.txt (6)
 
-- [ ] `patrimus` r1 "having a father still living" — -- no single English word for "having a father still alive"; needed for the ritual pairing patrimi et matrimi
+- [x] `patrimus` r1 "having a father still living" — accepted; English has no word for having a living father, and the pairing patrimi et matrimi sits at rank 3
 - [ ] `penes` r1 "in the power of" — -- preposition meaning "in the possession or power of"; no single English preposition captures it precisely
 - [ ] `peremnis` r1 "of crossing a river" — -- a narrow augural technical term with no natural English adjective; occurs only in the phrase "peremne auspicium," the omen-taking ritual performed when crossing a river
 - [ ] `perendinus` r1 "occurring the day after tomorrow" — -- no single English word for "occurring the day after tomorrow"

@@ -315,7 +315,7 @@ patricus | 1 | paternal
 patricus | 3 | patricus casus, the genitive case (a grammatical term)
 patrimonium | 1 | inheritance
 patrimonium | 3 | populi Romani patrimonium, the inheritance or estate of the Roman people (trop., of public resources)
-# review: patrimus -- no single English word for "having a father still alive"; needed for the ritual pairing patrimi et matrimi
+# review: patrimus no single English word for having a father still alive; needed for the ritual pairing patrimi et matrimi
 patrimus | 1 | having a father still living
 patrimus | 3 | patrimi et matrimi, children whose father and mother are both still alive (required for certain religious rites)
 patritus | 1 | paternal
