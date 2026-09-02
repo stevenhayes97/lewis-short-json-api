@@ -623,3 +623,26 @@ perduco | 2 | persuade
 perduco | 3 | prolong, extend (trop., of time or a discussion)
 perductor | 1 | guide
 perductor | 2 | pimp
+perduellio | 1 | treason
+perduellis | 1 | enemy
+perduellis | 3 | note: despite resembling perduellio ("treason"), perduellis means "public enemy," never "traitor" -- parricida is the word for that
+perduro | 1 | hold out
+perduro | 3 | harden, make hard (late Latin, transitive sense)
+peredo1 | 1 | consume
+peredo1 | 3 | waste away, be consumed (trop., of love or grief eating at someone)
+pereger | 1 | abroad
+pereger | 3 | peregre, the far more common adverbial form (used with verbs of motion or rest, "to/from/while abroad")
+peregrinatio | 1 | travel
+peregrinatio | 3 | wandering (transf., extended to animals roaming)
+peregrinitas | 1 | alien status
+peregrinitas | 3 | foreign ways, outlandish manners (transf., of culture or behavior)
+peregrinitas | 4 | a foreign accent (transf., in speech)
+peregrinor | 1 | travel abroad
+peregrinor | 2 | wander
+peregrinor | 3 | be a stranger, feel out of place (trop., even when at home)
+peregrinus | 1 | foreign
+peregrinus | 2 | foreigner
+peregrinus | 3 | (Roman law) a non-citizen resident, as opposed to a civis, "citizen"
+# review: peremnis -- a narrow augural technical term with no natural English adjective; occurs only in the phrase "peremne auspicium," the omen-taking ritual performed when crossing a river
+peremnis | 1 | of crossing a river
+peremnis | 3 | peremne auspicium, the auspices taken when a magistrate crosses a river or stream (a specific augural ritual)
