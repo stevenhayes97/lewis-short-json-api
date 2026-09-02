@@ -584,3 +584,22 @@ percipio | 3 | feel, experience (an emotion or sensation)
 percognosco | 1 | know thoroughly
 percolo1 | 1 | filter
 percolo1 | 3 | pass through, permeate (transf., of something seeping or passing through something else)
+percolo2 | 1 | cultivate
+percolo2 | 2 | honor
+percolo2 | 3 | adorn, embellish (transf., with eloquence or ornament)
+percommodus | 1 | very convenient
+percontatio | 1 | inquiry
+percontatio | 3 | (rhetoric) a figure using a rhetorical question
+perconto | 1 | question
+percontor | 1 | inquire
+percoquo | 1 | cook thoroughly
+percoquo | 2 | ripen
+percoquo | 3 | scorch, darken (by the sun's heat, of skin or complexion)
+percrebesco | 1 | spread widely
+percrebesco | 3 | become prevalent, be talked about everywhere (of a rumor or opinion)
+percuro | 1 | heal completely
+percurro | 1 | traverse
+percurro | 2 | skim
+percurro | 3 | spread through, penetrate (of a feeling or sensation)
+percursio | 1 | quick review
+percursio | 3 | (rhetoric) a rapid, cursory treatment of a topic
