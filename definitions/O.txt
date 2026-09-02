@@ -302,3 +302,23 @@ obtorqueo | 1 | twist
 obtorqueo | 3 | obtorto collo, by a twisted or wrenched neck (i.e. dragged forcibly by the collar)
 obtrectatio | 1 | detraction
 obtrectator | 1 | detractor
+obtrecto | 1 | disparage
+obtrecto | 3 | obtrectare alicui, to disparage or belittle someone out of envy (+ dative)
+obtrudo | 1 | foist
+obtrudo | 3 | gulp down, swallow hastily (rare, colloquial)
+obtrunco | 1 | slaughter
+obtrunco | 3 | prune, trim (a vine, rare literal sense)
+obtueor | 1 | gaze
+obtundo | 1 | blunt
+obtundo | 3 | aures obtundere, to din someone's ears, pester them by saying something over and over
+obturbo | 1 | disturb
+obturbo | 3 | stir up, make turbid (literal, of water)
+obturo | 1 | plug
+obturo | 3 | aures obturare, to stop up one's ears, refuse to listen
+obtutus | 1 | gaze
+obtutus | 3 | the eye (late Latin, rare)
+obumbro | 1 | overshadow
+obumbro | 2 | conceal
+obumbro | 3 | sapientia vino obumbratur, wisdom is clouded by wine (a common saying)
+obvenio | 1 | fall to
+obvenio | 3 | provincia alicui obvenit, a province falls to someone's lot (of a duty assigned, often by lot)
