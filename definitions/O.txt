@@ -570,3 +570,21 @@ opifex | 2 | artisan
 opifex | 3 | opifex mundi, the maker of the world (of a divine creator)
 opimo | 1 | fatten
 opimo | 2 | enrich
+opimus | 1 | fat
+opimus | 2 | fertile
+opimus | 3 | spolia opima, the richest spoils (a special honor for a general who personally killed an enemy commander)
+opinabilis | 1 | conjectural
+opinatio | 1 | conjecture
+opinio | 1 | opinion
+opinio | 2 | reputation
+opinio | 3 | rumor, report (transf., a circulating story)
+opinor | 1 | suppose
+opinor | 3 | (parenthetically) I suppose, I should think
+opiparus | 1 | sumptuous
+opitulor | 1 | help
+opitulor | 3 | opitulari alicui, to come to someone's aid (+ dative)
+oportet | 1 | ought
+oportet | 3 | oportet + accusative and infinitive, one ought to, it is right that (distinguished from necesse est, absolute necessity, and opus est, practical need)
+oppando | 1 | spread out
+opperior | 1 | wait
+opperior | 3 | opperiri aliquem, to wait for someone, await them (transitive use)
