@@ -144,3 +144,28 @@ oboedientia | 1 | obedience
 oboedio | 1 | obey
 oboedio | 2 | yield
 oboedio | 3 | (of things) be manageable, pliant, easily worked
+oboleo | 1 | smell
+oboleo | 3 | oboluisti allium, you reek of garlic
+oborior | 1 | arise
+obrepo | 1 | creep up
+obrepo | 2 | surprise
+obrepo | 3 | deceive, cheat, take advantage of unnoticed
+obreptio | 1 | surprise
+obrigesco | 1 | stiffen
+obrigesco | 3 | grow hard, become hardened (trop.)
+obrodo | 1 | gnaw
+obrodo | 2 | backbite
+obrogo | 1 | supersede
+obrogo | 3 | override an earlier law by passing a new, conflicting one
+obrogo | 4 | oppose the passage of a bill (post-classical)
+obruo | 1 | overwhelm
+obruo | 2 | bury
+obruo | 3 | sink, submerge (in water)
+obruo | 4 | overload, surfeit (with something, e.g. wine, criticism)
+obruo | 5 | outdo, eclipse, surpass
+obsaepio | 1 | enclose
+obsaepio | 2 | block
+obsaepio | 3 | obsaepire viam, to block off a path or route (trop., of an opportunity)
+obscenitas | 1 | obscenity
+obscenitas | 3 | inauspiciousness, the ill omen of something (rare)
+obscenitas | 4 | an obscene object or body part (concr., post-Augustan)
