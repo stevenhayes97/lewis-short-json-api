@@ -2280,3 +2280,25 @@ pro1 | 8 | on account of, for the sake of
 pro2 | 1 | oh!
 proavus | 1 | great-grandfather
 proavus | 3 | (transf.) a forefather, ancestor (in general)
+probabilis | 1 | probable
+probabilis | 2 | commendable
+probatio | 1 | examination
+probatio | 3 | approval, assent
+probatio | 4 | proof, demonstration (post-Aug.)
+probatio | 5 | (rhet.) the proof section of a speech, where arguments are presented
+probator | 1 | approver
+probitas | 1 | honesty
+probo | 1 | approve
+probo | 3 | test, examine, try (the quality of something)
+probo | 4 | prove, demonstrate, establish (a fact)
+probo | 5 | (mil.) approve for military service, enlist
+probo | 6 | pass off, represent (someone as something they are not)
+probo | 7 | (as p. a. probatus) tried, tested, of approved excellence
+probrosus | 1 | shameful
+probrum | 1 | disgrace
+probrum | 3 | unchaste conduct, lewdness, adultery (in partic.)
+probrum | 4 | abuse, insult, reproachful language
+probus1 | 1 | honest
+probus1 | 2 | sound
+procacitas | 1 | impudence
+procax | 1 | impudent
