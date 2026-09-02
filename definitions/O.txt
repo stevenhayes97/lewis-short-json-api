@@ -450,3 +450,21 @@ offensa | 1 | offence
 offensa | 2 | indisposition
 offensa | 3 | displeasure, disfavor, ill-will incurred from someone
 offensaculum | 1 | stumbling block
+offensatio | 1 | blunder
+offensio | 1 | disfavor
+offensio | 2 | stumble
+offensio | 3 | indisposition, mishap, misfortune (of health or circumstance)
+offenso | 1 | falter
+offenso | 3 | dash against, strike repeatedly (literal)
+offensus2 | 1 | shock
+offensus2 | 3 | annoyance, vexation (trop.)
+offero | 1 | offer
+offero | 3 | se offerre periculis, to expose oneself to danger
+offertorium | 1 | offertory
+officialis | 1 | official
+officina | 1 | workshop
+officina | 3 | ex officina, from this school or source (trop., of an origin that produces skilled people or ideas)
+officio | 1 | obstruct
+officio | 3 | luminibus officere, to block someone's light (a common phrase, also used of Diogenes blocking Alexander's sun)
+officiosus | 1 | obliging
+officiosus | 2 | dutiful
