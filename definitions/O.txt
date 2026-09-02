@@ -527,3 +527,25 @@ omnifarius | 3 | omnifariam, on every side, in every way (the more common adverb
 omnino | 1 | altogether
 omnino | 2 | in all
 omnino | 3 | certainly, to be sure (in concessive clauses, granting a point before qualifying it)
+omnipotens | 1 | omnipotent
+omnis | 1 | all
+omnis | 3 | omnes, everyone, all people (used substantively)
+omnis | 4 | omnia, everything (used substantively, neuter plural)
+onerarius | 1 | cargo
+onerarius | 3 | navis oneraria, a cargo ship, a ship of burden (as opposed to a warship)
+onero | 1 | load
+onero | 2 | overwhelm
+onero | 3 | oneratus, duped, taken for a fool (colloquial, Plautine)
+onerosus | 1 | burdensome
+onus | 1 | burden
+onus | 2 | tax
+onus | 3 | cargo, freight (of goods or baggage)
+onus | 4 | unborn child, the burden of the womb (poet.)
+onustus | 1 | laden
+onustus | 3 | full, abounding in (transf., filled with something)
+opaco | 1 | shade
+opacus | 1 | shady
+opacus | 2 | dark
+opera | 1 | effort
+opera | 2 | laborer
+opera | 3 | operam dare, to devote effort or attention to something (a common idiom, + dative or ut/ne clause)
