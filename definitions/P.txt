@@ -212,3 +212,20 @@ partiarius | 3 | colonus partiarius, a sharecropper, a tenant farmer who pays re
 particeps | 1 | participant
 particeps | 3 | particeps alicuius rei, a partaker or sharer in something (+ genitive)
 participialis | 1 | participial
+participium | 1 | participle
+participium | 3 | sharing, participation (the rarer literal sense)
+participo | 1 | share
+participo | 2 | inform
+particula | 1 | particle
+particula | 3 | a clause (rhetorical term, a small unit of a sentence)
+particularis | 1 | particular
+particulatim | 1 | piecemeal
+partilis | 1 | divisible
+partio1 | 1 | childbirth
+partio2 | 1 | divide
+partio2 | 3 | partiri inter se, to share something out among themselves, come to terms
+partitio | 1 | division
+partitio | 3 | (rhetoric) the part of a speech outlining the points to be discussed
+parturio | 1 | labor
+parturio | 2 | brood
+parturio | 3 | parturiunt montes, nascetur ridiculus mus, the mountains go into labor, and a ridiculous mouse is born (a proverb for a big buildup with a trivial result)
