@@ -1609,3 +1609,26 @@ praebeo | 1 | offer
 praebeo | 3 | give, furnish, supply (something needed)
 praebeo | 4 | (trop.) cause, occasion, give rise to
 praebeo | 5 | (se praebere) show oneself, behave, conduct oneself
+praebibo | 1 | toast
+praebitio | 1 | supplying
+praebitor | 1 | supplier
+praecano | 1 | foretell
+praecano | 3 | (rare) anticipate, forestall (the power of a spell)
+praecaveo | 1 | avert
+praecaveo | 3 | (neut.) be on one's guard, take precaution, beware
+praecedo | 1 | precede
+praecedo | 3 | (trop.) surpass, excel, outdo
+praecello | 1 | excel
+praecello | 3 | preside over, rule (with dat., Tacitean)
+praecello | 4 | (as p. a. praecellens) surpassing, excellent, eminent, distinguished
+praecelsus | 1 | lofty
+praeceps | 1 | headlong
+praeceps | 3 | steep, precipitous (of a place)
+praeceps | 4 | (as noun) a precipice, a steep drop
+praeceps | 5 | swift, rushing, rapid (poet.)
+praeceps | 6 | rash, hasty, reckless (trop.)
+praeceps | 7 | inclined, prone to (with in and acc.)
+praeceps | 8 | (as noun) extreme danger, a critical situation
+praeceptio | 1 | precept
+praeceptio | 3 | (legal) a taking or receiving in advance
+praeceptio | 4 | a preconception, a previous notion
