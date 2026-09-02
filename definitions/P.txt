@@ -2427,3 +2427,29 @@ profano1 | 1 | consecrate
 profano2 | 1 | desecrate
 profano2 | 3 | (transf.) violate, defile, pollute
 profano2 | 4 | (transf.) disclose, reveal, betray (a secret)
+profanus | 1 | profane
+profanus | 3 | (transf., poet.) wicked, impious
+profanus | 4 | (post-class., with gen.) unlearned, ignorant, uninitiated in something
+profectio | 1 | departure
+profectio | 3 | (transf.) the source, origin (of something obtained)
+profecto | 1 | certainly
+profectus3 | 1 | progress
+profero | 1 | produce
+profero | 3 | extend, stretch out (a hand, tongue, etc.)
+profero | 4 | put off, defer, postpone (a date)
+profero | 5 | (trop.) cite, quote, mention (as evidence)
+profero | 6 | (trop.) reveal, disclose, make known
+profero | 7 | prolong, extend (life, borders, time)
+profero | 8 | (mil., proferre signa) advance the standards, march forward
+professio | 1 | declaration
+professio | 3 | (legal) a public registration of one's person, property, or business
+professio | 4 | a profession, a publicly avowed occupation
+professor | 1 | professor
+profestus | 1 | workday
+profestus | 3 | (transf., post-class.) uninitiated, uncultivated, uneducated
+proficio | 1 | progress
+proficio | 3 | (trop.) be of use, help, avail, accomplish something
+proficio | 4 | (of inanimate things, post-Aug.) grow, increase
+proficiscor | 1 | depart
+proficiscor | 3 | (trop.) begin, commence (a discussion or line of reasoning)
+proficiscor | 4 | (trop.) arise, originate, spring (from something)
