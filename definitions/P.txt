@@ -1042,3 +1042,26 @@ petulcus | 2 | frisky
 phalangarius1 | 1 | porter
 phalanx | 1 | phalanx
 phalanx | 3 | the Macedonian phalanx, a compact battle formation fifty men wide and sixteen deep
+phalero | 1 | bedeck
+phalero | 3 | deck out, set off (of speech), display ostentatiously
+philosophor | 1 | philosophize
+phoenix3 | 1 | phoenix
+phoenix3 | 3 | a fabulous bird said to live five hundred years and rise renewed from its own ashes
+piacularis | 1 | expiatory
+piacularis | 3 | of a sacrifice: offered to atone for sin or a bad omen
+piaculum | 1 | sin-offering
+piaculum | 3 | a victim, an animal offered in sacrifice
+piaculum | 4 | atonement, an expiatory offering (of a person or act)
+piaculum | 5 | punishment for sacrilege
+piaculum | 6 | a wicked act, crime, guilt
+piaculum | 7 | a misfortune, calamity
+piamentum | 1 | atonement
+piamentum | 3 | an atoning sacrifice or offering
+piceus | 1 | of pitch
+piceus | 2 | pitch-black
+pico | 1 | tar
+pico | 3 | to season with pitch (of wine)
+pictura | 1 | painting
+pictura | 3 | a picture, description in words
+picus1 | 1 | woodpecker
+picus1 | 3 | (mythical) a fabulous bird resembling a griffin, said to guard treasure
