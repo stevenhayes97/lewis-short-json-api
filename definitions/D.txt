@@ -1171,7 +1171,7 @@ discessio | 4 | rare: departure, a going away
 discessus2 | 1 | departure
 discessus2 | 2 | separation
 discessus2 | 3 | milit: a marching away, decamping
-discessus2 | 4 | Cic.: banishment, exile
+discessus2 | 4 | as a euphemism, banishment, exile
 discidium | 1 | rift
 discidium | 2 | divorce
 discidium | 3 | lit, rare: a physical tearing asunder, separation
@@ -1504,7 +1504,7 @@ doleo | 1 | grieve
 doleo | 2 | ache
 dolium | 1 | large jar
 dolo1 | 1 | hew
-dolo1 | 3 | transf, colloq: to cudgel, drub, belabor
+dolo1 | 3 | transf, colloq: to cudgel, drub, belabour
 dolo1 | 4 | trop: to shape, fashion, contrive, devise
 dolo1 | 5 | as noun (dolo, dolonis): a pike, sword-cane, hidden dagger
 dolo1 | 6 | as noun (dolo, dolonis), naut: the fore-topsail
