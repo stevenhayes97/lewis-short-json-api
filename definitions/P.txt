@@ -21,3 +21,20 @@ paciscor | 3 | vitam pro laude paciscor, to stake one's life for glory (trop., p
 paco2 | 1 | pacify
 paco2 | 2 | subdue
 paco2 | 3 | pacare silvas, to clear and tame forests (transf., of land brought under cultivation)
+pactio | 1 | agreement
+pactio | 2 | collusion
+pactio | 3 | truce, peace settlement
+paedidus | 1 | filthy
+paedor | 1 | filth
+paelex | 1 | concubine
+paelex | 3 | (as an insult) a kept boy, male favorite (post-class., applied mockingly to a man)
+paene | 1 | almost
+paenitentia | 1 | repentance
+paeniteo | 1 | regret
+paeniteo | 3 | me paenitet aliquid/alicuius rei, I regret something (an impersonal construction, + accusative of person and genitive of the thing)
+paeniteo | 4 | be dissatisfied, displeased (of a state of discontent, not necessarily moral regret)
+paenula1 | 1 | cloak
+paenula1 | 3 | covering, wrapping (transf., any protective envelope)
+paenularius | 1 | cloak-maker
+paenultimus | 1 | penultimate
+paenultimus | 3 | paenultima, the penultimate syllable (a grammatical term, used substantively)
