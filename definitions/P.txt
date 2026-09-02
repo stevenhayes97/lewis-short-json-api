@@ -1099,3 +1099,28 @@ pignus | 6 | (pl., poet.) children, as pledges of love
 pigritia | 1 | laziness
 pigritia | 3 | leisure, ease (used favourably)
 pigritia | 4 | weakness (of the stomach)
+pila1 | 1 | mortar
+pila2 | 1 | pillar
+pila2 | 3 | a pier, stone mole (of a bridge or harbour)
+pila3 | 1 | ball
+pila3 | 3 | the game of ball
+pila3 | 4 | a ball-shaped mass, a globe (of any material)
+pilatim | 1 | pillar-wise
+pilatim | 3 | (of buildings) built or arranged in rows of pillars
+pilatim | 4 | (military) in close ranks, in solid columns
+pilentum | 1 | carriage
+pilentum | 3 | a ceremonial carriage used by Roman matrons, in which sacred vessels were also carried
+pilleatus | 1 | capped
+pilleatus | 3 | wearing the pilleus, a felt cap worn at festivals and given to slaves on manumission
+pilleus | 1 | felt cap
+pilleus | 3 | freedom, liberty (the cap given to a freed slave)
+pilleus | 4 | a protector
+pilleus | 5 | the caul, a membrane covering a newborn's head
+pilo1 | 1 | ram
+pilo1 | 3 | (of troops) pack closely together, form a dense marching column
+pilo1 | 4 | (trop.) fix firmly (in the mind)
+pilo2 | 1 | depilate
+pilo2 | 2 | grow hairy
+pilo2 | 3 | (of the body) put forth hair, become hairy
+pilo2 | 4 | (very rare) plunder, pillage
+pilosus | 1 | hairy
