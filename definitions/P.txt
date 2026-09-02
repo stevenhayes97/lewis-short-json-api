@@ -920,3 +920,23 @@ pertendo | 1 | persevere
 pertendo | 3 | push on, proceed (of physically continuing toward a destination)
 pertento | 1 | test
 pertento | 2 | pervade
+pertenuis | 1 | very thin
+pertenuis | 2 | very slight
+pertergeo | 1 | wipe dry
+pertergeo | 2 | graze
+perterreo | 1 | terrify
+pertexo | 1 | weave through
+pertexo | 2 | accomplish
+pertica | 1 | pole
+pertica | 2 | perch
+pertica | 3 | a Roman surveyor's measuring rod (used to mark out land grants to soldiers)
+pertimesco | 1 | dread
+pertinacia | 1 | obstinacy
+pertinacia | 2 | perseverance
+pertinax | 1 | tenacious
+pertinax | 2 | stubborn
+pertineo | 1 | pertain
+pertineo | 2 | extend
+pertineo | 3 | belong to, be the rightful property of (of a legal claim or right)
+pertingo | 1 | extend
+pertingo | 3 | reach, attain (trop., of an abstract goal such as wisdom)
