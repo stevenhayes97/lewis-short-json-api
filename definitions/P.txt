@@ -541,3 +541,24 @@ peracesco | 2 | become vexed
 peracutus | 1 | very sharp
 peracutus | 3 | very keen, very perceptive (trop., of intellect or wit)
 peraeque | 1 | equally
+peraequo | 1 | equalize
+peraequo | 3 | fill up, yield, produce (a specified quantity, agricultural usage)
+peragito | 1 | harass
+peragito | 3 | stir (of a liquid, literal)
+peragito | 4 | complete, finish (a curious extended sense)
+perago | 1 | complete
+perago | 2 | traverse
+perago | 3 | relate, narrate, detail (trop., to go through in speech)
+peragro | 1 | traverse
+peragro | 3 | spread through, pervade (trop., of fame or influence)
+perambulo | 1 | traverse
+perambulo | 3 | conduct oneself, live (eccl. Latin, trop., "to walk" a certain way of life)
+peraro | 1 | plough through
+peraro | 2 | write
+peraro | 3 | furrow, wrinkle (transf., of an aged face)
+perbibo | 1 | drink in
+perbibo | 2 | imbibe
+perbito | 1 | perish
+perbito | 3 | go, proceed (to a place, the rarer literal sense)
+perbrevis | 1 | very short
+percalefacio | 1 | heat thoroughly
