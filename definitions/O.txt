@@ -21,3 +21,32 @@ obdormio | 1 | fall asleep
 obdormio | 3 | fall asleep in death, die (eccl. Latin, obdormivit in Domino)
 obdormio | 4 | omnem obdormire crapulam, to sleep off a debauch
 obdormisco | 1 | fall asleep
+obduco | 1 | cover
+obduco | 2 | lead
+obduco | 3 | swallow, gulp down (of a drink or medicine)
+obduco | 4 | wrinkle, contract (the brow)
+obduco | 5 | tenebras alicui rei obducere, to cast darkness over something, obscure it
+obduresco | 1 | harden
+obduresco | 3 | become hardened, callous, or unmoved (the classical use; the literal sense is rare)
+obduro | 1 | persevere
+obduro | 3 | perfer et obdura, be strong and hold firm
+obedo | 1 | devour
+obeo | 1 | die
+obeo | 2 | attend to
+obeo | 3 | travel through, traverse
+obeo | 4 | visit
+obeo | 5 | survey, review
+obeo | 6 | meet, keep (an appointment): vadimonium obire, to appear in court as bailed; diem obire, to appear on the appointed day
+obequito | 1 | ride up
+obequito | 3 | obequitare moenibus, to ride up to the walls
+oberro | 1 | wander
+oberro | 2 | blunder
+oberro | 3 | hover before one's eyes or mind (of a vision, memory, or fear)
+obex | 1 | bolt
+obex | 2 | obstacle
+obhaeresco | 1 | stick fast
+obicio | 1 | expose
+obicio | 2 | reproach
+obicio | 3 | obicere alicui aliquid, to charge someone with something, reproach them for it
+obicio | 4 | oppose, set against (as a barrier or defence)
+obicio | 5 | objecta, charges, accusations (used substantively as a noun)
