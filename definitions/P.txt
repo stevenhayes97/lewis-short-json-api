@@ -797,3 +797,19 @@ permunio | 1 | fortify completely
 permutatio | 1 | change
 permutatio | 2 | exchange
 permutatio | 3 | (rhetoric) a figure substituting one expression for another
+permuto | 1 | exchange
+permuto | 2 | transform
+perna | 1 | ham
+perna | 3 | a type of sea-mussel (transf., by shape resemblance)
+pernecessarius | 1 | very necessary
+pernecessarius | 2 | very close
+pernego | 1 | flatly deny
+pernego | 2 | refuse
+pernicies | 1 | ruin
+pernicies | 2 | bane
+perniciosus | 1 | pernicious
+pernicitas | 1 | agility
+pernix | 1 | nimble
+pernocto | 1 | stay overnight
+pernocto | 3 | haec studia pernoctant nobiscum, these pursuits stay with us through the night (trop., of constant companionship)
+pernosco | 1 | know thoroughly
