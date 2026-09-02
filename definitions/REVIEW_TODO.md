@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 5 of 85 settled.
+Progress: 10 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -32,11 +32,11 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `admolior` r1 "lay hands on" — accepted; the verb is all but confined to manus admoliri, and the general sense is carried at rank 3
 - [x] `adusque` r1 "as far as" — accepted; a three-word preposition gloss is fine here, and CLAUDE.md cites this very word as the model ("as far as", not "unto")
 - [x] `aestivo` r1 "spend the summer" — accepted; English has no verb for it, and CLAUDE.md uses this word as the model flag
-- [ ] `agninus` r1 "of a lamb" — 'lamb' would also read fine; three words kept, confirmed
-- [ ] `amburbium` r1 "procession round Rome" — a procession round Rome; "procession" alone loses the rite, and English has no single word
-- [ ] `amento` r1 "fit with a thong" — the sense is to fit a javelin with its throwing-strap; English has no verb for it
-- [ ] `antestor` r1 "call to witness" — the sense is to call a bystander as witness at the opening of a suit; English has no verb for it
-- [ ] `aplustre` r1 "ship's curved stern" — English has no word for the curved ornamented stern-piece of a ship
+- [x] `agninus` r1 "of a lamb" — accepted; three words kept to match arietinus and aprugnus, and "lamb" alone reads as the noun
+- [x] `amburbium` r1 "procession round Rome" — accepted; a named rite with no English name, and "procession" alone loses that it circled the city
+- [x] `amento` r1 "fit with a thong" — accepted; L&S's own gloss is "furnish with a strap or thong", and English has no verb for it
+- [x] `antestor` r1 "call to witness" — accepted; a term of legal procedure that English has no verb for, and the procedure is explained at ranks 3-4
+- [x] `aplustre` r1 "curved stern" — tightened to "curved stern" and flag dropped; "ship's" was redundant since a stern is always a ship's, and rank 3 carries the ornaments
 - [ ] `aprugnus` r1 "of wild boar" — three words kept; "boar's" alone loses the wild boar, which is the whole of it
 - [ ] `apud` r1 "with" — no single English preposition covers it; "with" is nearest, but "at", "among" and "before" are each right in their place
 - [ ] `arbustus` r1 "planted with trees" — the sense is land set with trees for vines to climb; "wooded" would suggest natural woodland instead

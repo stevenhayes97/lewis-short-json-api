@@ -2725,8 +2725,7 @@ apium | 4 | the plant woven into garlands at drinking-parties, and given as the 
 apluda | 1 | chaff
 apluda | 3 | the husks beaten off grain, and so bran
 apluda | 4 | used as a byword for what is worthless: apluda nequior, more good-for-nothing than chaff
-# review: aplustre English has no word for the curved ornamented stern-piece of a ship
-aplustre | 1 | ship's curved stern
+aplustre | 1 | curved stern
 aplustre | 3 | the curved stern of a ship together with its ornaments of ribbons and streamers
 aplustre | 4 | usually in the plural, aplustra, and often as a trophy stripped from a beaten ship
 apo | 1 | fasten
