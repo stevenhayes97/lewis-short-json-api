@@ -2534,3 +2534,28 @@ prolapsio | 3 | (trop., late Lat.) an error, a misstep
 prolatio | 1 | utterance
 prolatio | 3 | extension, enlargement (of boundaries)
 prolatio | 4 | a deferring, postponement, delay (of a trial or event)
+prolato | 1 | extend
+prolato | 3 | (of time) defer, postpone, put off
+prolecto | 1 | entice
+prolecto | 3 | provoke, incite (to anger)
+proles | 1 | offspring
+proles | 3 | (transf.) youth, young men (collectively)
+proletarius | 1 | proletarian
+proletarius | 3 | (transf.) low, common, vulgar (of speech)
+prolixus | 1 | long
+prolixus | 3 | (of speech) prolix, wordy
+prolixus | 4 | favourable, fortunate (of circumstances)
+prolixus | 5 | obliging, courteous, well-disposed (of character)
+proloquium | 1 | preamble
+proloquium | 3 | (logic) a proposition, axiom
+proloquium | 4 | a judicial sentence, verdict
+proloquor | 1 | declare
+proloquor | 3 | (in partic.) foretell, predict
+prolubium | 1 | inclination
+prolubium | 3 | (post-class.) pleasure, enjoyment
+proludo | 1 | prelude
+proludo | 3 | (trop.) serve as a preliminary exercise or practice, for something greater
+proluo | 1 | wash
+proluo | 3 | (transf.) wash away, sweep away (soil, snow)
+proluo | 4 | (trop.) squander, dissipate (money, property)
+proluo | 5 | (post-class.) overflow, inundate
