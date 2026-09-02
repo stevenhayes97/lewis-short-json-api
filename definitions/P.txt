@@ -474,3 +474,27 @@ pellis | 1 | hide
 pellis | 2 | leather
 pellis | 3 | sub pellibus, in camp, on campaign (literally "under the skins," i.e. in tents)
 pellis | 4 | parchment (transf., writing material made of skin)
+pellitus | 1 | skin-clad
+pello | 1 | drive
+pello | 2 | expel
+pello | 3 | move, affect, touch (trop., of emotional impact)
+pellucidus | 1 | transparent
+pellucidus | 3 | very bright, brilliant (transf., of a star)
+pelvis | 1 | basin
+penarius | 1 | provision
+penarius | 3 | penaria, a storeroom, pantry (used substantively as a noun)
+pendeo | 1 | hang
+pendeo | 2 | depend
+pendeo | 3 | be uncertain, be in suspense, waver
+pendeo | 4 | pendere ab ore alicuius, to hang on someone's every word (a vivid idiom for rapt attention)
+pendo | 1 | weigh
+pendo | 2 | pay
+pendo | 3 | value, esteem (trop., + genitive of value, e.g. "magni pendere," to value highly)
+pendo | 4 | pensum, a task, duty (originally a slave's daily quota of wool to spin)
+pendulus | 1 | hanging
+pendulus | 2 | uncertain
+# review: penes -- preposition meaning "in the possession or power of"; no single English preposition captures it precisely
+penes | 1 | in the power of
+penes | 3 | penes me, in my possession, in my power (a common construction)
+penetrabilis | 1 | penetrable
+penetrabilis | 2 | piercing
