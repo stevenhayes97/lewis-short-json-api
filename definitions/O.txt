@@ -1,0 +1,771 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_O.json (Lewis & Short via Perseus), simplified for learners.
+o2 | 1 | oh
+o2 | 3 | used before a vocative, accusative, or nominative in exclamations of joy, sorrow, desire, or indignation
+ob | 1 | because of
+ob | 3 | before, in front of (earlier, chiefly ante-classical sense)
+ob | 4 | quam ob rem, for which reason, therefore
+obaeratus | 1 | indebted
+obaeratus | 2 | debtor
+obaeratus | 3 | a debt-bondsman, bound in service to a creditor until the debt was repaid
+obambulo | 1 | pace
+obambulo | 2 | wander
+obambulo | 3 | obambulare muris, to pace along the walls
+obaudio | 1 | obey
+obba1 | 1 | beaker
+obba1 | 3 | a broad-bottomed jug or drinking-vessel
+obbrutesco | 1 | become brutish
+obdo | 1 | bar
+obdo | 3 | pessulum ostio obdere, to bolt a door
+obdormio | 1 | fall asleep
+obdormio | 3 | fall asleep in death, die (eccl. Latin, obdormivit in Domino)
+obdormio | 4 | omnem obdormire crapulam, to sleep off a debauch
+obdormisco | 1 | fall asleep
+obduco | 1 | cover
+obduco | 2 | lead
+obduco | 3 | swallow, gulp down (of a drink or medicine)
+obduco | 4 | wrinkle, contract (the brow)
+obduco | 5 | tenebras alicui rei obducere, to cast darkness over something, obscure it
+obduresco | 1 | harden
+obduresco | 3 | become hardened, callous, or unmoved (the classical use; the literal sense is rare)
+obduro | 1 | persevere
+obduro | 3 | perfer et obdura, be strong and hold firm
+obedo | 1 | devour
+obeo | 1 | die
+obeo | 2 | attend to
+obeo | 3 | travel through, traverse
+obeo | 4 | visit
+obeo | 5 | survey, review
+obeo | 6 | meet, keep (an appointment): vadimonium obire, to appear in court as bailed; diem obire, to appear on the appointed day
+obequito | 1 | ride up
+obequito | 3 | obequitare moenibus, to ride up to the walls
+oberro | 1 | wander
+oberro | 2 | blunder
+oberro | 3 | hover before one's eyes or mind (of a vision, memory, or fear)
+obex | 1 | bolt
+obex | 2 | obstacle
+obhaeresco | 1 | stick fast
+obicio | 1 | expose
+obicio | 2 | reproach
+obicio | 3 | obicere alicui aliquid, to charge someone with something, reproach them for it
+obicio | 4 | oppose, set against (as a barrier or defence)
+obicio | 5 | objecta, charges, accusations (used substantively as a noun)
+obirascor | 1 | be angry
+obirascor | 3 | obirasci fortunae, to be angry at fortune (+ dative)
+obiter | 1 | in passing
+obiter | 3 | on the way, in going along
+obiter | 4 | immediately, forthwith (rare)
+obitus2 | 1 | death
+obitus2 | 2 | setting
+obitus2 | 3 | setting of the sun, moon, or stars
+obitus2 | 4 | approach, visit (rare)
+objaceo | 1 | lie opposite
+objectio | 1 | reproach
+objectio | 2 | objection
+objecto | 1 | accuse
+objecto | 2 | endanger
+objecto | 3 | objectare alicui aliquid, to charge someone with something, throw it in their face
+objectus2 | 1 | barrier
+objectus2 | 2 | spectacle
+objurgatio | 1 | rebuke
+objurgatio | 3 | a rebuke given after a wrongdoing (as opposed to monitio, a warning given beforehand)
+objurgo | 1 | scold
+objurgo | 3 | urge earnestly, exhort (in a tone of reproof)
+objurgo | 4 | punish, chastise physically (post-Augustan)
+oblatio | 1 | offering
+oblatio | 3 | a bid at an auction
+oblatio | 4 | (eccl.) sacrifice, offering to God
+oblatro | 1 | carp
+oblatro | 3 | oblatrare alicui, to rail or carp at someone
+oblectamentum | 1 | delight
+oblecto | 1 | amuse
+oblecto | 2 | delay
+oblecto | 3 | se oblectare, to amuse oneself, enjoy oneself
+oblido | 1 | squeeze
+oblido | 3 | crush, squeeze to pieces
+obligatio | 1 | obligation
+obligatio | 3 | a bond or legal document recording an obligation
+obligo | 1 | bind
+obligo | 2 | bandage
+obligo | 3 | pledge, mortgage
+obligo | 4 | fidem suam obligare, to pledge one's word
+oblimo | 1 | muddy
+oblimo | 2 | squander
+oblimo | 3 | darken, obscure, confuse (trop.)
+oblinio | 1 | smear
+oblinio | 3 | blot out, erase (transf.)
+oblino | 1 | smear
+oblino | 2 | defile
+oblino | 3 | plaster over, stop up (a container, by smearing)
+oblino | 4 | overload, fill to excess (with something, trop.)
+obliquo | 1 | slant
+obliquo | 3 | obliquare preces, to make requests indirectly, hint rather than ask outright
+obliquus | 1 | oblique
+obliquus | 2 | indirect
+obliquus | 3 | casus obliquus, an oblique case (any case except the nominative and vocative)
+obliquus | 4 | collateral (of family relationship, not directly descended)
+oblitesco | 1 | hide
+oblittero | 1 | obliterate
+oblittero | 3 | blot out of memory, cause to be forgotten
+oblivio | 1 | oblivion
+obliviosus | 1 | forgetful
+obliviosus | 3 | that causes forgetfulness (of wine, poet.)
+obliviscor | 1 | forget
+obliviscor | 3 | oblivisci alicuius rei, to forget something (usually + genitive, sometimes + accusative)
+oblivium | 1 | oblivion
+obloquor | 1 | contradict
+obloquor | 3 | accompany (in singing), sing along with
+obloquor | 4 | rail at, abuse
+obluctor | 1 | struggle
+obluctor | 3 | obluctari alicui rei, to struggle against something (+ dative)
+obmolior | 1 | barricade
+obmolior | 3 | block up, obstruct (an entrance or gap)
+obmoveo | 1 | offer
+obmurmuro | 1 | murmur
+obmurmuro | 3 | obmurmurare alicui, to murmur in reply to someone, grumble back at them
+obmutesco | 1 | fall silent
+obmutesco | 3 | lose the power of speech, be struck dumb
+obmutesco | 4 | cease, die away (trop., of a feeling or demand)
+obnitor | 1 | push
+obnitor | 2 | resist
+obnitor | 3 | strive, endeavor (+ infinitive)
+obnoxius | 1 | liable
+obnoxius | 2 | submissive
+obnoxius | 3 | indebted, obliged, beholden (to someone)
+obnoxius | 4 | exposed, at the mercy of (a person or danger)
+obnoxius | 5 | guilty of, addicted to (a fault or vice)
+obnubilo | 1 | cloud
+obnubo | 1 | veil
+obnubo | 3 | caput obnubito, cover his head (part of an old ritual formula for execution)
+obnuntio | 1 | announce
+obnuntio | 3 | announce bad news, bring word of misfortune
+obnuntio | 4 | (augury) declare an adverse omen, so as to obstruct public business
+oboedientia | 1 | obedience
+oboedio | 1 | obey
+oboedio | 2 | yield
+oboedio | 3 | (of things) be manageable, pliant, easily worked
+oboleo | 1 | smell
+oboleo | 3 | oboluisti allium, you reek of garlic
+oborior | 1 | arise
+obrepo | 1 | creep up
+obrepo | 2 | surprise
+obrepo | 3 | deceive, cheat, take advantage of unnoticed
+obreptio | 1 | surprise
+obrigesco | 1 | stiffen
+obrigesco | 3 | grow hard, become hardened (trop.)
+obrodo | 1 | gnaw
+obrodo | 2 | backbite
+obrogo | 1 | supersede
+obrogo | 3 | override an earlier law by passing a new, conflicting one
+obrogo | 4 | oppose the passage of a bill (post-classical)
+obruo | 1 | overwhelm
+obruo | 2 | bury
+obruo | 3 | sink, submerge (in water)
+obruo | 4 | overload, surfeit (with something, e.g. wine, criticism)
+obruo | 5 | outdo, eclipse, surpass
+obsaepio | 1 | enclose
+obsaepio | 2 | block
+obsaepio | 3 | obsaepire viam, to block off a path or route (trop., of an opportunity)
+obscenitas | 1 | obscenity
+obscenitas | 3 | inauspiciousness, the ill omen of something (rare)
+obscenitas | 4 | an obscene object or body part (concr., post-Augustan)
+obscenus | 1 | obscene
+obscenus | 2 | repulsive
+obscenus | 3 | ill-omened, inauspicious (the word's older, non-sexual sense)
+obscenus | 4 | obscena, private parts (used as a substantive plural noun)
+obscuratio | 1 | darkening
+obscuratio | 3 | eclipse (of the sun)
+obscuritas | 1 | obscurity
+obscuritas | 3 | obscurity of birth or rank, low social standing
+obscuro | 1 | darken
+obscuro | 2 | conceal
+obscuro | 3 | obscure, make indistinct (of speech or pronunciation)
+obscuro | 4 | cause to be forgotten, consign to obscurity
+obscurus | 1 | dark
+obscurus | 2 | obscure
+obscurus | 3 | unknown, unrecognized
+obscurus | 4 | of humble or undistinguished rank, lowly
+obscurus | 5 | secretive, reserved (of character)
+obsecratio | 1 | entreaty
+obsecratio | 3 | a public supplication or day of prayer decreed by the state
+obsecro | 1 | beseech
+obsecro | 3 | (as an exclamation) please!, I beg you!, for heaven's sake!
+obsecundo | 1 | comply
+obsecundo | 3 | obsecundare alicui, to humor someone, fall in with their wishes (+ dative)
+obsequela | 1 | compliance
+obsequium | 1 | compliance
+obsequium | 2 | allegiance
+obsequor | 1 | comply
+obsequor | 3 | obsequi alicui, to comply with someone, humor them (+ dative)
+obsequor | 4 | give oneself up to, indulge in (a passion or pursuit)
+obsero1 | 1 | bolt
+obsero1 | 3 | shut, close up (a door, ear, or opening)
+obsero2 | 1 | sow
+obsero2 | 2 | cover
+obsero2 | 3 | obsitus virgultis, overgrown with bushes (common in the perfect participle)
+observantia | 1 | respect
+observantia | 2 | observance
+observatio | 1 | observation
+observatio | 2 | care
+observatio | 3 | siderum observatio, observation of the stars (a common astronomical use)
+observito | 1 | observe
+observo | 1 | observe
+observo | 2 | guard
+observo | 3 | comply with, keep (a law, custom, or precept)
+observo | 4 | esteem, honor, show respect to (a person)
+obses | 1 | hostage
+obses | 3 | surety, guarantee (transf., a person or thing pledged as security)
+obsessor | 1 | besieger
+obsessor | 3 | haunter, frequenter (of a place, rare general sense)
+obsideo | 1 | besiege
+obsideo | 2 | occupy
+obsideo | 3 | haunt, frequent (a place)
+obsideo | 4 | watch closely, be on the lookout for
+obsidio | 1 | siege
+obsidio | 2 | danger
+obsidionalis | 1 | of siege
+obsidionalis | 3 | corona obsidionalis, the siege crown (a grass crown awarded to a general who lifted a siege)
+obsidium1 | 1 | siege
+obsidium1 | 3 | ambush, waylaying (trop.)
+obsidium1 | 4 | danger
+obsido | 1 | besiege
+obsigno | 1 | seal
+obsigno | 3 | impress, stamp firmly (on the mind, trop.)
+obsisto | 1 | resist
+obsisto | 2 | block
+obsisto | 3 | obsistere alicui rei, to stand in the way of something, oppose it (+ dative)
+obsolefacio | 1 | degrade
+obsolesco | 1 | become obsolete
+obsolesco | 3 | become shabby, worn out, or common (of clothing, style, or quality)
+obsono1 | 1 | cater
+obsono1 | 3 | obsonare famem ambulando, to work up an appetite by taking a walk
+obsorbeo | 1 | gulp
+obsorbeo | 3 | swallow up, engulf (transf., of doors "swallowing" whatever passes through)
+obstaculum | 1 | obstacle
+obstetricius | 1 | obstetric
+obstetricius | 3 | obstetricia, midwifery (used substantively as a plural noun)
+obstinatio | 1 | resolve
+obstinatio | 2 | stubbornness
+obstino | 1 | resolve
+obstino | 3 | obstinare + infinitive, to resolve firmly to do something
+obstipesco | 1 | be amazed
+obstipesco | 3 | grow numb, lose feeling (of the body, literal sense)
+obstipus | 1 | tilted
+obstipus | 3 | with head bowed or bent to one side (of posture, in shame, thought, or pride)
+obstipus | 4 | stiff-necked, obstinate, perverse (eccl. Latin)
+obsto | 1 | hinder
+obsto | 3 | quid obstat quominus, what is stopping (something) from happening? (a common construction with a purpose clause)
+obstrepo | 1 | clamor
+obstrepo | 2 | annoy
+obstrepo | 3 | obstrepere alicui, to shout against someone, drown them out with noise (+ dative)
+obstringo | 1 | oblige
+obstringo | 2 | bind
+obstringo | 3 | civitatem jurejurando obstringere, to bind a community by oath
+obstruo | 1 | block
+obstruo | 3 | viri deus obstruit aures, the god blocks a man's ears (trop., of being deaf to something)
+obstupefacio | 1 | astonish
+obstupefacio | 3 | render senseless, benumb (literal, of the body)
+obstupidus | 1 | stupefied
+obsum | 1 | harm
+obsum | 3 | the opposite of prosum, "to benefit"; obsum takes the same dative construction
+obsuo | 1 | sew
+obsuo | 3 | sew shut, stitch closed (of an opening)
+obsurdesco | 1 | go deaf
+obsurdesco | 3 | turn a deaf ear, refuse to listen (trop.)
+obtego | 1 | cover
+obtego | 2 | conceal
+obtempero | 1 | obey
+obtempero | 3 | obtemperare alicui, to obey someone, comply with their wishes (+ dative)
+obtendo | 1 | spread
+obtendo | 2 | allege
+obtendo | 3 | matris preces obtendens, pleading his mother's prayers as an excuse
+obtentus2 | 1 | pretext
+obtentus2 | 2 | covering
+obtero | 1 | crush
+obtero | 3 | rub (rare, of applying a substance by rubbing)
+obtestatio | 1 | adjuration
+obtestatio | 3 | a solemn appeal invoking the gods as witnesses
+obtestatio | 4 | earnest entreaty, plea (transf.)
+obtestor | 1 | implore
+obtestor | 3 | deos hominesque obtestari, to call gods and men to witness, invoke as witnesses
+obtexo | 1 | cover
+obtexo | 3 | weave over, overspread (with a covering, e.g. cloud or web)
+obticesco | 1 | fall silent
+obtineo | 1 | hold
+obtineo | 2 | obtain
+obtineo | 3 | provinciam obtinere, to hold or govern a province (of a Roman magistrate)
+obtineo | 4 | prove, establish, make good (a point in argument)
+obtingo | 1 | befall
+obtingo | 3 | fall to one's lot, be granted by fortune
+obtorpesco | 1 | grow numb
+obtorqueo | 1 | twist
+obtorqueo | 3 | obtorto collo, by a twisted or wrenched neck (i.e. dragged forcibly by the collar)
+obtrectatio | 1 | detraction
+obtrectator | 1 | detractor
+obtrecto | 1 | disparage
+obtrecto | 3 | obtrectare alicui, to disparage or belittle someone out of envy (+ dative)
+obtrudo | 1 | foist
+obtrudo | 3 | gulp down, swallow hastily (rare, colloquial)
+obtrunco | 1 | slaughter
+obtrunco | 3 | prune, trim (a vine, rare literal sense)
+obtueor | 1 | gaze
+obtundo | 1 | blunt
+obtundo | 3 | aures obtundere, to din someone's ears, pester them by saying something over and over
+obturbo | 1 | disturb
+obturbo | 3 | stir up, make turbid (literal, of water)
+obturo | 1 | plug
+obturo | 3 | aures obturare, to stop up one's ears, refuse to listen
+obtutus | 1 | gaze
+obtutus | 3 | the eye (late Latin, rare)
+obumbro | 1 | overshadow
+obumbro | 2 | conceal
+obumbro | 3 | sapientia vino obumbratur, wisdom is clouded by wine (a common saying)
+obvenio | 1 | fall to
+obvenio | 3 | provincia alicui obvenit, a province falls to someone's lot (of a duty assigned, often by lot)
+obversor | 1 | hover
+obversor | 3 | ante oculos obversari, to hover before one's eyes, keep appearing in one's mind
+obverto | 1 | turn
+obverto | 3 | turned toward, facing, directed at (of the participle obversus)
+obviam | 1 | to meet
+obviam | 3 | obviam ire alicui, to go to meet someone (a common idiom, + dative)
+obvio | 1 | meet
+obvio | 3 | obviate, prevent, guard against (a problem)
+# review: obvius "in the way" needs three words; no single English word covers "positioned so as to meet" without losing the sense
+obvius | 1 | in the way
+obvius | 2 | obvious
+obvius | 3 | affable, approachable, courteous (of a person)
+obvius | 4 | hostile, opposing, confronting (as an enemy)
+obvolvo | 1 | wrap
+obvolvo | 3 | capite obvoluto, with head muffled or covered
+occaeco | 1 | blind
+occaeco | 3 | occaecatus cupiditate, blinded by greed (a common trop use)
+occallesco | 1 | become callous
+occasio | 1 | opportunity
+occasio | 2 | pretext
+occasio | 3 | a raid, surprise attack (military term)
+occasus2 | 1 | setting
+occasus2 | 2 | west
+occasus2 | 3 | downfall, ruin, destruction, death (trop.)
+occator | 1 | harrower
+occedo | 1 | approach
+occento | 1 | serenade
+occento | 2 | lampoon
+occento | 3 | sing a mocking or satirical song against someone (a recognized form of public shaming)
+occidio | 1 | massacre
+occidio | 3 | occidione occidere, to utterly annihilate, wipe out completely (an emphatic idiom)
+occido1 | 1 | kill
+occido1 | 2 | pester
+occido1 | 3 | occidis me!, you're killing me! (a common comic exclamation of exasperation)
+occido2 | 1 | set
+occido2 | 2 | die
+occido2 | 3 | occidi!, I am ruined!, I am undone! (a common exclamation of despair)
+occiduus | 1 | setting
+occiduus | 2 | western
+occiduus | 3 | failing, declining (trop., of old age)
+occino | 1 | screech
+occino | 3 | give an unfavorable omen by its cry (of a bird in augury)
+occipio | 1 | begin
+occipio | 3 | ita ut occepi, as I was saying (a formula for resuming a discourse after interruption)
+occipitium | 1 | occiput
+occisio | 1 | slaughter
+occludo | 1 | shut
+occludo | 3 | linguam occludere, to silence someone, stop them from speaking
+occo | 1 | harrow
+occubo | 1 | lie buried
+occulo | 1 | hide
+occulo | 3 | bury, cover with earth
+occultatio | 1 | concealment
+occultatio | 3 | (rhetoric) paralipsis, pretending to pass over a point while actually raising it
+occulto2 | 1 | hide
+occumbo | 1 | die
+occumbo | 3 | morti occumbere, to meet one's death (a common heroic or poetic phrase)
+occupatio | 1 | occupation
+occupatio | 2 | seizure
+occupatio | 3 | (rhetoric) anticipating and refuting an opponent's objections in advance
+occupo | 1 | seize
+occupo | 2 | preempt
+occupo | 3 | occupare locum, to seize control of a place (a common military or political phrase)
+occupo | 4 | timor animum occupat, fear seizes the mind (trop., of an emotion or state taking hold)
+occurro | 1 | meet
+occurro | 2 | occur
+occurro | 3 | counteract, remedy, take steps against (a problem or danger)
+occurro | 4 | attack, rush upon (an enemy)
+occursatio | 1 | fawning
+occursatio | 3 | eager greeting or attendance paid to someone in hopes of gaining their favor
+occurso | 1 | meet
+occurso | 2 | attack
+occurso | 3 | occur to one, come to mind (trop.)
+occursus | 1 | meeting
+ocellatus | 1 | speckled
+ocellatus | 3 | ocellatum, a small gem or stone marked with eye-like spots (used as a substantive noun)
+ocellus | 1 | eyelet
+ocellus | 3 | used as a term of endearment ("my darling," literally "my little eye") in poetry
+ocior | 1 | swifter
+ocior | 3 | ocius, quickly, speedily (the adverbial form, very common in the comparative)
+ocrea1 | 1 | greave
+octavus | 1 | eighth
+octavus | 3 | octava (hora), the eighth hour of the day (used substantively)
+octogenarius | 1 | octogenarian
+octogenarius | 3 | containing eighty (of a measurement or quantity, e.g. a pipe eighty inches wide)
+octoni | 1 | eight each
+ocularis | 1 | ocular
+oculatus | 1 | sighted
+oculatus | 2 | conspicuous
+oculatus | 3 | oculatus testis, an eyewitness (someone who saw with their own eyes)
+oculo | 1 | enlighten
+oculo | 3 | give sight to, cause to see (literal, eccl. Latin)
+oculus | 1 | eye
+oculus | 2 | bud
+oculus | 3 | oculi orae maritimae, the eyes (i.e. jewels, chief ornaments) of the coast (trop., a chief city or landmark)
+oculus | 4 | mentis oculus, the mind's eye (trop., of understanding or insight)
+odi | 1 | hate
+odi | 3 | oderint dum metuant, let them hate so long as they fear (a saying of Accius, later quoted by Caligula)
+odibilis | 1 | hateful
+odiosus | 1 | annoying
+odiosus | 2 | hateful
+odium1 | 1 | hatred
+odium1 | 2 | nuisance
+odium1 | 3 | in odium alicujus irruere, to earn or incur someone's hatred
+odor | 1 | smell
+odor | 2 | perfume
+odor | 3 | hint, inkling (trop., a suggestion or whiff of something, e.g. suspicion)
+odoratio | 1 | smelling
+odoratus2 | 1 | smell
+odoratus2 | 3 | the sense of smell (as one of the five senses)
+odorifer | 1 | fragrant
+odoro | 1 | perfume
+odoror | 1 | sniff out
+odoror | 2 | dabble in
+odoror | 3 | search out, investigate (trop., of plots or hidden information)
+odorus | 1 | fragrant
+odorus | 2 | keen-scented
+odorus | 3 | odora canum vis, the keen-scented pack of hounds (a famous Virgilian phrase)
+offa | 1 | morsel
+offa | 2 | lump
+offendo1 | 1 | offend
+offendo1 | 2 | stumble
+offendo1 | 3 | strike against, hit, bump into (literal)
+offendo1 | 4 | come upon, meet with, find (transf.)
+offensa | 1 | offence
+offensa | 2 | indisposition
+offensa | 3 | displeasure, disfavor, ill-will incurred from someone
+offensaculum | 1 | stumbling block
+offensatio | 1 | blunder
+offensio | 1 | disfavor
+offensio | 2 | stumble
+offensio | 3 | indisposition, mishap, misfortune (of health or circumstance)
+offenso | 1 | falter
+offenso | 3 | dash against, strike repeatedly (literal)
+offensus2 | 1 | shock
+offensus2 | 3 | annoyance, vexation (trop.)
+offero | 1 | offer
+offero | 3 | se offerre periculis, to expose oneself to danger
+offertorium | 1 | offertory
+officialis | 1 | official
+officina | 1 | workshop
+officina | 3 | ex officina, from this school or source (trop., of an origin that produces skilled people or ideas)
+officio | 1 | obstruct
+officio | 3 | luminibus officere, to block someone's light (a common phrase, also used of Diogenes blocking Alexander's sun)
+officiosus | 1 | obliging
+officiosus | 2 | dutiful
+officium | 1 | duty
+officium | 2 | favor
+officium | 3 | office, official position or business (post-Augustan)
+offigo | 1 | fix
+offirmo | 1 | persist
+offirmo | 3 | offirmare animum, to steel one's resolve, harden one's determination
+offoco | 1 | strangle
+offringo | 1 | cross-plough
+offringo | 3 | to plough a field a second time, at a right angle to the first ploughing
+offucia | 1 | makeup
+offucia | 2 | trick
+offula | 1 | morsel
+offulgeo | 1 | shine forth
+offulgeo | 3 | nova lux oculis offulsit, a new light shone before his eyes (of a sudden vision or realization)
+offundo | 1 | pour over
+offundo | 2 | overwhelm
+offundo | 3 | caligo animis offusa, a darkness or confusion spread over their minds (trop., of ignorance or bewilderment)
+oggannio | 1 | growl
+oggannio | 3 | nag, grumble at repeatedly (of tiresome scolding)
+oh | 1 | oh
+oleagineus | 1 | olive
+oleagineus | 3 | olive-colored (of a shade or hue)
+olearius | 1 | oil
+olearius | 3 | an oil merchant or oil-seller (used substantively as a noun)
+oleo1 | 1 | smell
+oleo1 | 2 | betray
+oleo1 | 3 | quid olet?, what does it smack of?, what does this suggest? (trop., detecting something by its telltale sign)
+olfacio | 1 | smell
+olfacio | 2 | surmise
+olfacto | 1 | sniff
+olidus | 1 | smelly
+olim | 1 | once
+olim | 2 | one day
+olim | 3 | used to, habitually (of a customary past action or state)
+olitorius | 1 | vegetable
+olitorius | 3 | forum olitorium, the vegetable market (a well-known market in ancient Rome)
+oliva | 1 | olive
+oliva | 2 | olive-tree
+oliva | 3 | olive-branch (transf., a symbol of peace)
+olivetum | 1 | olive grove
+olivum | 1 | oil
+olivum | 3 | the wrestling-school (trop., named for the oil used to anoint athletes)
+olla | 1 | pot
+olla | 3 | a rusty pot standing for a corrupt city (trop., Vulgate)
+olor1 | 1 | swan
+omen | 1 | omen
+omen | 3 | prima omina, wedding rites (so called because accompanied by auspices)
+omentum | 1 | omentum
+omentum | 3 | the caul, the membrane enclosing the bowels
+ominor | 1 | predict
+ominor | 3 | forebode, read as an omen (of interpreting a sign as a prediction of the future)
+omitto | 1 | give up
+omitto | 2 | omit
+omitto | 3 | omittere + infinitive, to stop doing something, cease (an action)
+omnifarius | 1 | manifold
+omnifarius | 3 | omnifariam, on every side, in every way (the more common adverbial form)
+omnino | 1 | altogether
+omnino | 2 | in all
+omnino | 3 | certainly, to be sure (in concessive clauses, granting a point before qualifying it)
+omnipotens | 1 | omnipotent
+omnis | 1 | all
+omnis | 3 | omnes, everyone, all people (used substantively)
+omnis | 4 | omnia, everything (used substantively, neuter plural)
+onerarius | 1 | cargo
+onerarius | 3 | navis oneraria, a cargo ship, a ship of burden (as opposed to a warship)
+onero | 1 | load
+onero | 2 | overwhelm
+onero | 3 | oneratus, duped, taken for a fool (colloquial, Plautine)
+onerosus | 1 | burdensome
+onus | 1 | burden
+onus | 2 | tax
+onus | 3 | cargo, freight (of goods or baggage)
+onus | 4 | unborn child, the burden of the womb (poet.)
+onustus | 1 | laden
+onustus | 3 | full, abounding in (transf., filled with something)
+opaco | 1 | shade
+opacus | 1 | shady
+opacus | 2 | dark
+opera | 1 | effort
+opera | 2 | laborer
+opera | 3 | operam dare, to devote effort or attention to something (a common idiom, + dative or ut/ne clause)
+operarius | 1 | laborer
+operarius | 3 | of labor, working (adjective, e.g. "working-cattle")
+operatio | 1 | operation
+operatio | 3 | a religious rite or offering (partic., in ritual contexts)
+operculum | 1 | lid
+operimentum | 1 | covering
+operio | 1 | cover
+operio | 3 | shut, close (a door or one's eyes)
+operio | 4 | contumeliis opertus, overwhelmed with insults (a common idiom, of shame or disgrace)
+operor | 1 | labor
+operor | 2 | worship
+operor | 3 | be effectual, operate, take effect (post-classical, transf.)
+operosus | 1 | industrious
+operosus | 2 | laborious
+opicus | 1 | boorish
+opicus | 3 | originally meant "Oscan" (an Italian people), used contemptuously by Greeks for uncultured foreigners
+opifex | 1 | maker
+opifex | 2 | artisan
+opifex | 3 | opifex mundi, the maker of the world (of a divine creator)
+opimo | 1 | fatten
+opimo | 2 | enrich
+opimus | 1 | fat
+opimus | 2 | fertile
+opimus | 3 | spolia opima, the richest spoils (a special honor for a general who personally killed an enemy commander)
+opinabilis | 1 | conjectural
+opinatio | 1 | conjecture
+opinio | 1 | opinion
+opinio | 2 | reputation
+opinio | 3 | rumor, report (transf., a circulating story)
+opinor | 1 | suppose
+opinor | 3 | (parenthetically) I suppose, I should think
+opiparus | 1 | sumptuous
+opitulor | 1 | help
+opitulor | 3 | opitulari alicui, to come to someone's aid (+ dative)
+oportet | 1 | ought
+oportet | 3 | oportet + accusative and infinitive, one ought to, it is right that (distinguished from necesse est, absolute necessity, and opus est, practical need)
+oppando | 1 | spread out
+opperior | 1 | wait
+opperior | 3 | opperiri aliquem, to wait for someone, await them (transitive use)
+oppeto | 1 | die
+oppeto | 3 | oppetere mortem, to meet one's death
+oppidanus | 1 | provincial
+oppidanus | 3 | of a country town (as opposed to urbanus, "of Rome")
+oppido | 1 | very
+oppidum | 1 | town
+oppidum | 3 | oppidum vs urbs: oppidum is any town other than Rome, which alone is called urbs
+oppidum | 4 | a fortified stronghold or hillfort (of the Britons, in Caesar)
+oppilo | 1 | plug
+oppleo | 1 | fill
+oppleo | 3 | haec opinio Graeciam opplevit, this belief spread throughout Greece (trop., of an idea filling a place)
+oppono | 1 | oppose
+oppono | 2 | pledge
+oppono | 3 | se opponere periculis, to expose oneself to danger
+oppono | 4 | object, raise in objection (rhetorical, in debate or argument)
+opportunitas | 1 | opportunity
+opportunitas | 2 | advantage
+opportunus | 1 | opportune
+opportunus | 2 | exposed
+oppositus2 | 1 | interposition
+oppositus2 | 3 | lunae oppositus, the interposition of the moon (astronomical, of an eclipse)
+opprimo | 1 | crush
+opprimo | 2 | suppress
+opprimo | 3 | catch unawares, surprise, take by surprise
+opprimo | 4 | os opprime!, shut your mouth!, hold your tongue! (a common Plautine command)
+opprobrium | 1 | disgrace
+opprobrium | 2 | insult
+opprobrium | 3 | a person who is a disgrace or embarrassment (to their family, city, etc.)
+opprobro | 1 | reproach
+oppugnatio | 1 | siege
+oppugnatio | 2 | verbal attack
+oppugnatio | 3 | an assault of accusations against someone (trop., in rhetoric or debate)
+oppugno1 | 1 | besiege
+oppugno1 | 2 | attack
+oppugno1 | 3 | pecunia aliquem oppugnare, to assail someone with bribes (trop., of non-military attack)
+ops1 | 1 | power
+ops1 | 2 | resources
+ops1 | 3 | aid, help, assistance
+optabilis | 1 | desirable
+optatio | 1 | wish
+optatio | 3 | (rhetoric) the wish, a figure expressing a desire (paired with exsecratio, "the curse")
+optimas | 1 | aristocratic
+optimas | 3 | optimates, the aristocratic party (a Roman political faction, opposed to the populares)
+optio1 | 1 | option
+optio2 | 1 | adjutant
+optio2 | 3 | an assistant chosen to help someone (general sense, ante-class.)
+opto | 1 | wish
+opto | 3 | choose, select (the older, ante-classical and poetic sense)
+opulentia | 1 | wealth
+opulentus | 1 | wealthy
+opulentus | 2 | splendid
+opus1 | 1 | work
+opus1 | 2 | book
+opus1 | 3 | opus est mihi aliqua re, I need something, I have need of it (a common impersonal construction, + ablative)
+opus1 | 4 | fortification, siege-work (military, of defensive or siege structures)
+ora1 | 1 | edge
+ora1 | 2 | coast
+ora1 | 3 | mooring-rope, cable (nautical, by which a ship is tied to shore)
+ora1 | 4 | luminis orae, the shores of light (poet., meaning "the world" or "life")
+oraculum | 1 | oracle
+oraculum | 2 | prophecy
+oratio | 1 | speech
+oratio | 2 | oration
+oratio | 3 | sentence (grammatical term, a clause expressing a complete thought)
+oratio | 4 | oratio vs sermo: oratio is formal, rhetorical speech; sermo is everyday conversation
+orator | 1 | orator
+orator | 2 | envoy
+orator | 3 | suppliant, one who begs or entreats (Plautine)
+oratorius | 1 | oratorical
+oratorius | 3 | oratorium, a chapel, a place of prayer (eccl. Latin, substantive use)
+orbiculatus | 1 | round
+orbiculus | 1 | disk
+orbis | 1 | circle
+orbis | 3 | orbis terrarum, the world (literally "the circle of the lands")
+orbis | 4 | rotation, cycle (trop., of a recurring period of time)
+orbita | 1 | rut
+orbita | 2 | orbit
+orbita | 3 | course, path (trop., of a customary way of life or established practice)
+orbitas | 1 | bereavement
+orbitas | 3 | childlessness, the loss of one's children (a common specific sense)
+orbo | 1 | bereave
+orbus | 1 | bereft
+orbus | 3 | orbus alicuius rei, deprived or devoid of something, esp. something precious (+ genitive)
+orca1 | 1 | whale
+orca1 | 2 | jar
+orca1 | 3 | dice-box (a specific gaming implement, poet.)
+ordinarius | 1 | ordinary
+ordinarius | 3 | consul ordinarius, a regularly elected consul (as opposed to a consul suffectus, appointed to fill a vacancy)
+ordinatim | 1 | in order
+ordinatio | 1 | arrangement
+ordinatio | 2 | ordination
+ordinatio | 3 | an edict or decree (of an emperor)
+ordino | 1 | arrange
+ordino | 2 | ordain
+ordior | 1 | begin
+ordior | 3 | (of the Fates) to spin the thread of life (the verb's literal weaving sense)
+ordo | 1 | order
+ordo | 2 | class
+ordo | 3 | rank, line (military, of soldiers in formation)
+ordo | 4 | ordo senatorius, the senatorial order (one of Rome's formal social classes)
+orientalis | 1 | eastern
+originalis | 1 | original
+origo1 | 1 | origin
+origo1 | 2 | ancestor
+origo1 | 3 | Origines, the title of Cato the Elder's history of early Italy
+orior | 1 | rise
+orior | 2 | originate
+orior | 3 | oriens, the rising sun; the East (the participle used substantively)
+orior | 4 | ortus ab/ex aliquo, descended or sprung from someone (of ancestry)
+oriundus | 1 | descended
+oriundus | 3 | oriundus ab/ex loco, originating from a place, born there (a common way to state one's birthplace)
+ornamentum | 1 | ornament
+ornamentum | 2 | equipment
+ornamentum | 3 | ornamentum rei publicae, the pride and glory of the state (trop., of a distinguished person)
+ornatus2 | 1 | adornment
+ornatus2 | 2 | attire
+orno | 1 | adorn
+orno | 2 | equip
+orno | 3 | praise, honor, extol (trop., of commending someone's achievements)
+oro | 1 | beg
+oro | 3 | oro te, I beg you, please (a common parenthetical formula of politeness)
+oro | 4 | plead, argue a case (as an advocate or ambassador)
+orsa | 1 | beginning
+orsa | 2 | speech
+ortus2 | 1 | rising
+ortus2 | 2 | origin
+os1 | 1 | mouth
+os1 | 2 | face
+os1 | 3 | opening, mouth (of a river, harbor, or other geographic feature)
+os2 | 1 | bone
+os2 | 3 | the skeleton, the underlying structure or substance (trop., of a speech or argument)
+oscen | 1 | omen-bird
+oscen | 3 | a bird whose call (rather than its flight) was read for omens, e.g. the raven, crow, or owl
+oscillum1 | 1 | mask
+oscillum1 | 3 | a small mask of Bacchus hung from trees to swing in the wind (the source of English "oscillate")
+oscitatio | 1 | yawn
+oscitatio | 2 | tediousness
+oscito | 1 | yawn
+oscito | 3 | be listless, drowsy, inattentive (trop.)
+osculor | 1 | kiss
+osculor | 2 | cherish
+osculum | 1 | kiss
+osor | 1 | hater
+ossuarius | 1 | bone
+ossuarius | 3 | ossuarium, an ossuary, a bone-vault or urn for the dead (used substantively as a noun)
+ostendo | 1 | show
+ostendo | 2 | indicate
+ostendo | 3 | ostentum, a portent, an omen (used substantively as a noun)
+ostensio | 1 | display
+ostentatio | 1 | ostentation
+ostentatio | 2 | pretence
+ostentator | 1 | boaster
+ostento | 1 | show off
+ostento | 2 | threaten
+ostento | 3 | hold out, proffer (as an offer or promise)
+ostentus2 | 1 | display
+ostentus2 | 2 | sign
+ostentus2 | 3 | pretence, a false sign meant to deceive
+ostiarius2 | 1 | doorkeeper
+ostiarius2 | 3 | ostiarium, a tax on doors (used substantively as a noun)
+ostiatim | 1 | door-to-door
+ostiatim | 3 | from house to house, visiting each one in turn
+ostium | 1 | door
+ostium | 2 | mouth
+ostium | 3 | ostium fluminis, the mouth of a river (a common geographic use)
+otiosus | 1 | idle
+otiosus | 2 | calm
+otiosus | 3 | a private citizen, someone not holding public office (used substantively as a noun)
+otium | 1 | leisure
+otium | 2 | peace
+otium | 3 | otium vs negotium: otium is free time, negotium is business or public duty, a central Roman cultural contrast
+ovatio | 1 | ovation
+ovatio | 3 | a lesser triumph, granted for a bloodless or otherwise minor victory (distinct from the full triumph)
+ovile | 1 | sheepfold
+ovile | 3 | the Ovile, the voting enclosure in the Campus Martius (so named by analogy with a sheep pen)
+ovis | 1 | sheep
+ovis | 3 | (colloquial) a simpleton, fool (an insult, calling someone "a sheep")
+ovo | 1 | exult
+ovo | 3 | celebrate an ovation, triumph in the lesser triumphal procession (see ovatio)
+ovum | 1 | egg
+ovum | 2 | oval
