@@ -776,3 +776,24 @@ permetior | 1 | measure out
 permetior | 2 | traverse
 permisceo | 1 | mix together
 permisceo | 2 | confound
+permissio | 1 | surrender
+permissio | 2 | permission
+permissio | 3 | (rhetoric) a figure submitting a point to the opponent's own judgment
+permissus2 | 1 | permission
+permissus2 | 3 | permissu alicuius, with someone's permission, by their leave (a common ablative construction)
+permities | 1 | ruin
+permitto | 1 | permit
+permitto | 2 | entrust
+permitto | 3 | hurl, cast (a weapon, so as to reach its mark)
+permotio | 1 | agitation
+permotio | 2 | emotion
+permoveo | 1 | move deeply
+permoveo | 2 | persuade
+permulceo | 1 | stroke
+permulceo | 2 | soothe
+permulceo | 3 | charm, delight (trop., through eloquence or pleasing words)
+permultus | 1 | very many
+permunio | 1 | fortify completely
+permutatio | 1 | change
+permutatio | 2 | exchange
+permutatio | 3 | (rhetoric) a figure substituting one expression for another
