@@ -1230,3 +1230,29 @@ plagula | 3 | a breadth, a strip of cloth sewn into a garment
 plagula | 4 | a sheet of paper (post-Aug.)
 planctus | 1 | lamentation
 planctus | 3 | a beating, banging, loud noise (of wings, etc., poet.)
+plango | 1 | lament
+plango | 3 | strike, beat with a noise (poet., of waves, etc.)
+plango | 4 | beat one's breast (as a sign of grief)
+plango | 5 | bewail, mourn for (a person or thing)
+plangor | 1 | lamentation
+plangor | 3 | a loud noise, crash, roar (poet., of waves, etc.)
+planities | 1 | plain
+planta | 1 | cutting
+planta | 2 | sole
+plantaris | 1 | of shoots
+plantaris | 3 | (as noun, plantaria) young trees or slips for transplanting
+plantaris | 4 | of the sole (poet., epithet of Mercury's winged sandals)
+planus1 | 1 | flat
+planus1 | 2 | clear
+planus1 | 3 | (as noun, planum) level ground, a plain
+planus1 | 4 | lowly, humble (post-Aug., of rank or status)
+planus1 | 5 | easy, safe, free from danger
+plaudo | 1 | applaud
+plaudo | 3 | strike, beat, flap (of wings, poet.)
+plaudo | 4 | approve, express approval (of a person or thing)
+plausibilis | 1 | praiseworthy
+plaustrarius | 1 | wagon
+plaustrarius | 3 | (as noun) a wagon-maker, wheelwright
+plaustrarius | 4 | (as noun) a wagon-driver, wagoner
+plaustrum | 1 | wagon
+plaustrum | 3 | (as constellation) the Great Bear, Charles's Wain
