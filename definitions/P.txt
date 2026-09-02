@@ -2739,3 +2739,29 @@ proscriptio | 1 | proscription
 proscriptio | 3 | a public notice of sale, an advertisement
 proseco | 1 | excise
 proseco | 3 | (relig.) cut off the parts of a victim to be offered in sacrifice
+prosecutio | 1 | attendance
+prosecutio | 3 | (trop.) a continuation
+prosemino | 1 | sow
+prosemino | 3 | (trop.) disseminate, propagate, spread
+prosequor | 1 | accompany
+prosequor | 3 | pursue, chase (an enemy)
+prosequor | 4 | (trop.) honour, bestow (something) upon someone
+prosequor | 5 | (trop.) continue, pursue further (a discussion or theme)
+prosero1 | 1 | sow
+prosero1 | 3 | (transf.) beget, produce, generate
+proserpo | 1 | creep
+proserpo | 3 | (trop.) advance imperceptibly, steal along, of a disease or evil
+prosilio | 1 | leap
+prosilio | 3 | (transf.) burst forth, gush out (of blood, tears)
+prosilio | 4 | (trop.) leap eagerly to an action, rush zealously into
+prospecto | 1 | watch
+prospecto | 3 | (of localities) face, look toward (a direction)
+prospecto | 4 | (trop.) expect, await, look forward to
+prospecto | 5 | (trop.) threaten, impend over (someone, of fate)
+prospector | 1 | watcher
+prospector | 3 | (trop., post-class.) one who foresees and provides, a provider
+prospectus2 | 1 | view
+prospectus2 | 3 | (trop., post-class.) regard, respect, consideration
+prospectus2 | 4 | (eccl. Lat.) foresight
+prospeculor | 1 | scout
+prospeculor | 3 | (act.) watch for, look out for (an arrival)
