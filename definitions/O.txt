@@ -487,3 +487,23 @@ offundo | 2 | overwhelm
 offundo | 3 | caligo animis offusa, a darkness or confusion spread over their minds (trop., of ignorance or bewilderment)
 oggannio | 1 | growl
 oggannio | 3 | nag, grumble at repeatedly (of tiresome scolding)
+oh | 1 | oh
+oleagineus | 1 | olive
+oleagineus | 3 | olive-colored (of a shade or hue)
+olearius | 1 | oil
+olearius | 3 | an oil merchant or oil-seller (used substantively as a noun)
+oleo1 | 1 | smell
+oleo1 | 2 | betray
+oleo1 | 3 | quid olet?, what does it smack of?, what does this suggest? (trop., detecting something by its telltale sign)
+olfacio | 1 | smell
+olfacio | 2 | surmise
+olfacto | 1 | sniff
+olidus | 1 | smelly
+olim | 1 | once
+olim | 2 | one day
+olim | 3 | used to, habitually (of a customary past action or state)
+olitorius | 1 | vegetable
+olitorius | 3 | forum olitorium, the vegetable market (a well-known market in ancient Rome)
+oliva | 1 | olive
+oliva | 2 | olive-tree
+oliva | 3 | olive-branch (transf., a symbol of peace)
