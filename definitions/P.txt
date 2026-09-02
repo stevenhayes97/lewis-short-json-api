@@ -1555,3 +1555,27 @@ postulo | 1 | demand
 postulo | 3 | (legal) prosecute, arraign, accuse (someone) before a court
 postulo | 4 | (of a seller) ask, demand a price
 postulo | 5 | (transf., of things) require, need
+potatio | 1 | drinking-bout
+potentatus | 1 | dominion
+potentatus | 3 | (transf., late Lat.) a potentate, ruler (person)
+potentia1 | 1 | power
+potentia1 | 3 | efficacy, potency (of a drug, herb, or force)
+potentia1 | 4 | (trop.) political power, authority, influence
+potestas | 1 | power
+potestas | 3 | (legal) authority or control over a person, e.g. patria potestas, a father's power over his children
+potestas | 4 | political power, dominion, rule
+potestas | 5 | magisterial office, official authority
+potestas | 6 | (of a word) meaning, signification
+potestas | 7 | opportunity, possibility, the power to do something
+potilis | 1 | drinking
+potin' | 1 | can you?
+potio1 | 1 | drink
+potio1 | 3 | a poisonous draught, poison
+potio1 | 4 | a medicinal draught, dose (given by a physician)
+potio1 | 5 | a magic potion, philtre (poet.)
+potio2 | 1 | subject
+potio2 | 3 | (pass.) fall into the power of, become subject to
+potiono | 1 | dose
+potior1 | 1 | obtain
+potior1 | 3 | become master of, take possession of, seize (usu. with gen.)
+potior1 | 4 | (transf.) possess, hold, occupy, have (in the sense of enjoying)
