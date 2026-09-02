@@ -2091,3 +2091,26 @@ praetimeo | 1 | dread
 praetor | 1 | praetor
 praetor | 3 | (gen., prop.) a leader, chief, president (of any body)
 praetor | 4 | (transf.) a propraetor, a former praetor governing a province
+praetorianus1 | 1 | praetorian
+praetorium | 1 | headquarters
+praetorium | 3 | (transf.) the governor's official residence in a province
+praetorium | 4 | (post-Aug.) a palace, a magnificent villa
+praetorium | 5 | (transf.) a council of war
+praetorium | 6 | the imperial bodyguard, the Praetorian Guard
+praetorius | 1 | praetorian
+praetorius | 3 | (as noun) an ex-praetor, a man of praetorian rank
+praetorius | 4 | (mil.) belonging to a general's bodyguard, the praetorian cohort
+praetura | 1 | praetorship
+praeuro | 1 | scorch
+praeuro | 3 | (of cold) frostbite, numb with cold
+praevaleo | 1 | prevail
+praevaleo | 3 | (of medicines) be highly effective, potent
+praevaleo | 4 | (as p. a. praevalens) very strong, very powerful
+praevalidus | 1 | mighty
+praevaricatio | 1 | collusion
+praevaricatio | 3 | (eccl. Lat.) transgression, deviation from duty or law
+praevaricator | 1 | colluder
+praevaricator | 3 | (eccl. Lat.) a sinner, transgressor; an apostate
+praevaricor | 1 | collude
+praevaricor | 3 | (lit., rare) walk crookedly, swerve, e.g. of a plowman's furrow
+praevaricor | 4 | (late Lat.) transgress, violate, sin against
