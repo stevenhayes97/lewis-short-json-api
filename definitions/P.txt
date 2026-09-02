@@ -1124,3 +1124,37 @@ pilo2 | 2 | grow hairy
 pilo2 | 3 | (of the body) put forth hair, become hairy
 pilo2 | 4 | (very rare) plunder, pillage
 pilosus | 1 | hairy
+pilum | 1 | javelin
+pilum | 3 | pestle, a pounder (of a mortar)
+pilus1 | 1 | hair
+pilus1 | 3 | the slightest bit, a trifle (usually with a negative: not a whit)
+pilus2 | 1 | company
+pilus2 | 3 | primus pilus: the first company of the triarii (veteran legionaries)
+pilus2 | 4 | (as primipilus) the senior centurion of the legion
+pineus | 1 | of pine
+pineus | 3 | (as noun) a pine-cone or pine-nut
+pingo | 1 | paint
+pingo | 3 | stain, colour (of dyes, poet.)
+pingo | 4 | adorn, decorate, embellish
+pingo | 5 | (trop., of style) embellish, ornament
+pingo | 6 | (of participle pictus) tattooed
+pingo | 7 | (fig.) false, unreal, deceptive, merely for show
+pinguedo | 1 | fatness
+pinguedo | 3 | richness, abundance
+pinguedo | 4 | (of style) richness, fulness of expression
+pinguesco | 1 | fatten
+pinguesco | 3 | grow rich or oily (of wine, nuts)
+pinguesco | 4 | become glossy, take on a sheen
+pinguesco | 5 | (poet.) increase, grow more violent (of flames)
+pinguis | 1 | fat
+pinguis | 2 | rich
+pinguis | 3 | fertile, rich (of soil, food)
+pinguis | 4 | thick, dense
+pinguis | 5 | dull, stupid (of the mind)
+pinguis | 6 | calm, comfortable, easy-going
+pinguis | 7 | dull, insipid (of taste)
+pinguis | 8 | bedaubed, smeared (with mud, lime, etc.)
+pinguitudo | 1 | fatness
+pinguitudo | 3 | (of pronunciation) coarseness, broadness
+pinnatus | 1 | winged
+pinnatus | 3 | pinnate, having leaves arranged like a feather
