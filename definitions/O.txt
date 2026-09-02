@@ -468,3 +468,22 @@ officio | 1 | obstruct
 officio | 3 | luminibus officere, to block someone's light (a common phrase, also used of Diogenes blocking Alexander's sun)
 officiosus | 1 | obliging
 officiosus | 2 | dutiful
+officium | 1 | duty
+officium | 2 | favor
+officium | 3 | office, official position or business (post-Augustan)
+offigo | 1 | fix
+offirmo | 1 | persist
+offirmo | 3 | offirmare animum, to steel one's resolve, harden one's determination
+offoco | 1 | strangle
+offringo | 1 | cross-plough
+offringo | 3 | to plough a field a second time, at a right angle to the first ploughing
+offucia | 1 | makeup
+offucia | 2 | trick
+offula | 1 | morsel
+offulgeo | 1 | shine forth
+offulgeo | 3 | nova lux oculis offulsit, a new light shone before his eyes (of a sudden vision or realization)
+offundo | 1 | pour over
+offundo | 2 | overwhelm
+offundo | 3 | caligo animis offusa, a darkness or confusion spread over their minds (trop., of ignorance or bewilderment)
+oggannio | 1 | growl
+oggannio | 3 | nag, grumble at repeatedly (of tiresome scolding)
