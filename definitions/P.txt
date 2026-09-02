@@ -498,3 +498,26 @@ penes | 1 | in the power of
 penes | 3 | penes me, in my possession, in my power (a common construction)
 penetrabilis | 1 | penetrable
 penetrabilis | 2 | piercing
+penetralis | 1 | inner
+penetralis | 2 | sanctuary
+penetralis | 3 | penetralia, the innermost shrine of a household, sacred to the Penates
+penetro | 1 | penetrate
+penetro | 3 | occur to, enter someone's thoughts (trop., of an idea)
+penicillum | 1 | paintbrush
+penicillum | 2 | style
+penicillum | 3 | a roll of lint or a small sponge (medical sense, for dressing wounds)
+peniculus | 1 | brush
+peniculus | 2 | sponge
+penis | 1 | tail
+penis | 2 | penis
+penis | 3 | (by metonymy) lust, sexual desire
+penitus1 | 1 | deeply
+penitus1 | 2 | completely
+penna | 1 | feather
+penna | 2 | wing
+penna | 3 | pen (late Latin, the writing implement -- the source of the English word)
+penna | 4 | pinnacle, battlement (transf., architectural, by resemblance to feather-tips)
+pennatus | 1 | winged
+pensiculo | 1 | ponder
+pensilis | 1 | hanging
+pensilis | 3 | horti pensiles, hanging gardens (as in the famous gardens of Babylon)
