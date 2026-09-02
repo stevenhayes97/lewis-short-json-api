@@ -666,3 +666,22 @@ pereo | 4 | perii!, I am lost!, I am ruined! (a common exclamation of despair)
 perequito | 1 | ride about
 pererro | 1 | wander through
 pererro | 3 | survey, scan (transf., of the eyes passing over something)
+perexiguus | 1 | very small
+perfacilis | 1 | very easy
+perfacilis | 2 | courteous
+perfamiliaris | 1 | very close
+perfamiliaris | 3 | a close friend (used substantively as a noun)
+perfectio | 1 | perfection
+perfectio | 3 | completion, finishing (the concrete process, as opposed to the abstract quality)
+perfero | 1 | carry through
+perfero | 2 | endure
+perfero | 3 | report, announce (partic., to convey news)
+perficio | 1 | complete
+perficio | 2 | perfect
+perficio | 3 | perficere ut, to bring it about that, to see to it that (+ subjunctive)
+perfidia | 1 | treachery
+perfidiosus | 1 | treacherous
+perfidus | 1 | treacherous
+perfidus | 2 | dangerous
+perflabilis | 1 | airy
+perflabilis | 2 | susceptible
