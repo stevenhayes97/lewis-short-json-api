@@ -1065,3 +1065,37 @@ pictura | 1 | painting
 pictura | 3 | a picture, description in words
 picus1 | 1 | woodpecker
 picus1 | 3 | (mythical) a fabulous bird resembling a griffin, said to guard treasure
+pietas1 | 1 | duty
+pietas1 | 2 | piety
+pietas1 | 3 | devotion, loyalty (to parents, family, or country)
+pietas1 | 4 | justice
+pietas1 | 5 | compassion, kindness, pity
+pietas1 | 6 | (personified) the goddess Piety
+pigeo | 1 | irk
+pigeo | 3 | piget (impers.): it grieves, troubles, or disgusts one
+pigeo | 4 | it repents one (archaic sense, = paenitet)
+pigeo | 5 | it makes one ashamed
+piger | 1 | lazy
+piger | 2 | sluggish
+piger | 3 | reluctant, unwilling (rare, of persons)
+piger | 4 | dull, dispirited, sad
+piger | 5 | benumbing, that dulls the senses (of sleep, cold, old age)
+pigmentarius | 1 | of paints
+pigmentarius | 3 | (as subst.) a dealer in paints or cosmetics
+pigmentum | 1 | pigment
+pigmentum | 3 | cosmetic, rouge
+pigmentum | 4 | (of style) colouring, ornament
+pigneraticius | 1 | pledged
+pignero | 1 | pledge
+pignero | 3 | to bind or commit (oneself or another) as a pledge
+pigneror | 1 | appropriate
+pigneror | 3 | take as a pledge (literal, root sense)
+pigneror | 4 | accept as certain, take as an omen
+pignus | 1 | pledge
+pignus | 3 | a wager, stake
+pignus | 4 | a security, mortgage (legal contract)
+pignus | 5 | a token, proof, assurance
+pignus | 6 | (pl., poet.) children, as pledges of love
+pigritia | 1 | laziness
+pigritia | 3 | leisure, ease (used favourably)
+pigritia | 4 | weakness (of the stomach)
