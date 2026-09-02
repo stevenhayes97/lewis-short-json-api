@@ -61,3 +61,28 @@ palea | 1 | chaff
 palea | 3 | the wattles of a cock, the dew-lap-like flesh under a rooster's beak (transf., by resemblance)
 palear | 1 | dewlap
 palear | 3 | throat (transf., of the general area)
+palla | 1 | robe
+palla | 3 | a tragic actor's costume (transf., poet.)
+palleo | 1 | be pale
+palleo | 2 | pine for
+palleo | 3 | be anxious about, fear (trop., + dative or accusative)
+palleo | 4 | study intensely, pore over (trop., growing pale from application to books)
+pallesco | 1 | turn pale
+pallesco | 3 | wither, fade (transf., of leaves losing their color)
+palliatus | 1 | cloaked
+palliatus | 3 | fabula palliata, Roman comedy in Greek dress (a literary genre term, plays set in Greece)
+pallidus | 1 | pale
+pallidus | 3 | pallida mors, pale death (a famous Horatian personification)
+palliolum | 1 | cloak
+palliolum | 2 | hood
+pallium | 1 | cloak
+pallium | 2 | coverlet
+pallium | 3 | ad pallium reverti, to return to philosophy (trop., since the cloak was the philosopher's garb)
+pallor | 1 | pallor
+pallor | 2 | terror
+pallor | 3 | personified as the god of fear (alongside Pavor, in Roman religion)
+palmaris | 1 | excellent
+palmaris | 3 | a hand's-breadth or palm in size (a unit of measurement)
+palmaris | 4 | full of palm trees (of a grove or place)
+palmarius | 1 | masterpiece
+palmarius | 3 | a lawyer's success-fee (paid to an advocate who won the case)
