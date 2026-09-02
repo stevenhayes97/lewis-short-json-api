@@ -721,3 +721,22 @@ pergraecor | 1 | carouse
 pergraecor | 3 | literally "to play the Greek" -- reflecting a Roman stereotype of Greeks as given to revelry and luxury
 pergratus | 1 | very pleasant
 pergravis | 1 | very important
+perhibeo | 1 | grant
+perhibeo | 2 | say
+perhonorificus | 1 | very honorable
+perhonorificus | 2 | deferential
+perhorresco | 1 | shudder
+perhorresco | 2 | dread
+periclitor | 1 | risk
+periclitor | 2 | test
+periclitor | 3 | periclitari capite, to risk one's life, be in danger of death (+ ablative of what's at stake)
+periculosus | 1 | dangerous
+periculum | 1 | danger
+periculum | 2 | trial
+periculum | 3 | lawsuit, legal action (partic., a specific judicial sense)
+peridoneus | 1 | very suitable
+perimo | 1 | destroy
+perimo | 2 | kill
+perinde | 1 | equally
+perinde | 3 | perinde ac/quasi, just as, just as if (a common comparative construction)
+peritia | 1 | expertise
