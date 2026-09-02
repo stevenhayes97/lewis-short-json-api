@@ -549,3 +549,24 @@ opacus | 2 | dark
 opera | 1 | effort
 opera | 2 | laborer
 opera | 3 | operam dare, to devote effort or attention to something (a common idiom, + dative or ut/ne clause)
+operarius | 1 | laborer
+operarius | 3 | of labor, working (adjective, e.g. "working-cattle")
+operatio | 1 | operation
+operatio | 3 | a religious rite or offering (partic., in ritual contexts)
+operculum | 1 | lid
+operimentum | 1 | covering
+operio | 1 | cover
+operio | 3 | shut, close (a door or one's eyes)
+operio | 4 | contumeliis opertus, overwhelmed with insults (a common idiom, of shame or disgrace)
+operor | 1 | labor
+operor | 2 | worship
+operor | 3 | be effectual, operate, take effect (post-classical, transf.)
+operosus | 1 | industrious
+operosus | 2 | laborious
+opicus | 1 | boorish
+opicus | 3 | originally meant "Oscan" (an Italian people), used contemptuously by Greeks for uncultured foreigners
+opifex | 1 | maker
+opifex | 2 | artisan
+opifex | 3 | opifex mundi, the maker of the world (of a divine creator)
+opimo | 1 | fatten
+opimo | 2 | enrich
