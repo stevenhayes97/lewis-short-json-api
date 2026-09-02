@@ -454,3 +454,23 @@ pedica | 3 | fetter, shackle (trop., post-class., of love or other constraints)
 pediculus1 | 1 | pedicle
 pediculus1 | 3 | a little foot (the literal, rarer sense)
 pediculus2 | 1 | louse
+pedis | 1 | louse
+pedisequus | 1 | footman
+pedisequus | 3 | follower, attendant (trop., of something subordinate to something else)
+pedulis | 1 | foot
+pedulis | 3 | pedule, a sole (used substantively as a noun)
+pedum1 | 1 | crook
+pejero | 1 | perjure
+pejero | 2 | lie
+pelicatus | 1 | concubinage
+pellacia | 1 | allurement
+pellacia | 3 | seduction (post-classical, a narrower specific sense)
+pellicio | 1 | entice
+pellicio | 3 | win over, bring to one's side (trop., through charm or wit)
+pellicio | 4 | draw away another's crops by magic spells (a specific ancient superstition)
+pellicula | 1 | hide
+pellicula | 3 | aurea pellicula, the golden fleece (a specific poetic reference, Juvenal)
+pellis | 1 | hide
+pellis | 2 | leather
+pellis | 3 | sub pellibus, in camp, on campaign (literally "under the skins," i.e. in tents)
+pellis | 4 | parchment (transf., writing material made of skin)
