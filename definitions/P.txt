@@ -1204,3 +1204,29 @@ pius | 2 | pious
 pius | 3 | honest, upright (rare)
 pius | 4 | kind, gentle, gracious (post-Aug.)
 pix | 1 | pitch
+placabilis | 1 | placable
+placabilis | 3 | pacifying, appeasing (of an action, rare)
+placeo | 1 | please
+placeo | 3 | (impers., placet) it seems good, right; one resolves, decides
+placeo | 4 | (placere sibi) be pleased with oneself, preen
+placidus | 1 | calm
+placidus | 3 | (of fruit or plants) ripe, or cultivated rather than wild
+placo | 1 | appease
+placo | 3 | reconcile (a person) to another
+plaga1 | 1 | blow
+plaga1 | 2 | wound
+plaga1 | 3 | a welt, scar, stripe
+plaga1 | 4 | a misfortune, a blow (fig.)
+plaga1 | 5 | a plague, pestilence (late Lat.)
+plaga2 | 1 | region
+plaga3 | 1 | net
+plaga3 | 3 | a trap, snare (fig.)
+plaga3 | 4 | a bed-curtain (ante-class.)
+plagiarius | 1 | kidnapper
+plagiarius | 2 | plagiarist
+plagiarius | 3 | oppressor, plunderer (gen. sense)
+plagula | 1 | curtain
+plagula | 3 | a breadth, a strip of cloth sewn into a garment
+plagula | 4 | a sheet of paper (post-Aug.)
+planctus | 1 | lamentation
+planctus | 3 | a beating, banging, loud noise (of wings, etc., poet.)
