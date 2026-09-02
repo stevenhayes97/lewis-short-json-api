@@ -2643,3 +2643,26 @@ propero | 3 | hasten to do, prepare with haste (something)
 propero | 4 | (as p. a. properatus) hurried, rapid, speedy
 properus | 1 | speedy
 properus | 3 | (as adv., propere) hastily, quickly, speedily
+propexus | 1 | combed-forward
+propheto | 1 | prophesy
+propinatio | 1 | toast
+propinatio | 3 | (transf., rare) a funeral banquet
+propinquitas | 1 | proximity
+propinquitas | 2 | kinship
+propinquitas | 3 | (ante-class., rare) intimacy, friendship
+propinquo | 1 | approach
+propinquo | 3 | (act.) bring near, hasten, accelerate (something)
+propinquus | 1 | near
+propinquus | 3 | (trop.) resembling, similar, like
+propinquus | 4 | (as noun) a relative, kinsman
+propior | 1 | nearer
+propior | 3 | (of time) more recent, later
+propior | 4 | (of resemblance) more similar, closer to
+propior | 5 | (superl., proximus) nearest, next
+propior | 6 | (superl., proximus, of time) previous, last, or next, the most recent
+propior | 7 | (superl., proximus, as noun) a neighbor
+propitiatorius | 1 | atoning
+propitiatorius | 3 | (as noun, propitiatorium) a means of atonement, propitiation
+propitiatorius | 4 | (as noun, propitiatorium, biblical) the mercy seat, place of atonement
+propitio | 1 | propitiate
+propitius | 1 | propitious
