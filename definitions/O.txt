@@ -283,3 +283,22 @@ obtentus2 | 1 | pretext
 obtentus2 | 2 | covering
 obtero | 1 | crush
 obtero | 3 | rub (rare, of applying a substance by rubbing)
+obtestatio | 1 | adjuration
+obtestatio | 3 | a solemn appeal invoking the gods as witnesses
+obtestatio | 4 | earnest entreaty, plea (transf.)
+obtestor | 1 | implore
+obtestor | 3 | deos hominesque obtestari, to call gods and men to witness, invoke as witnesses
+obtexo | 1 | cover
+obtexo | 3 | weave over, overspread (with a covering, e.g. cloud or web)
+obticesco | 1 | fall silent
+obtineo | 1 | hold
+obtineo | 2 | obtain
+obtineo | 3 | provinciam obtinere, to hold or govern a province (of a Roman magistrate)
+obtineo | 4 | prove, establish, make good (a point in argument)
+obtingo | 1 | befall
+obtingo | 3 | fall to one's lot, be granted by fortune
+obtorpesco | 1 | grow numb
+obtorqueo | 1 | twist
+obtorqueo | 3 | obtorto collo, by a twisted or wrenched neck (i.e. dragged forcibly by the collar)
+obtrectatio | 1 | detraction
+obtrectator | 1 | detractor
