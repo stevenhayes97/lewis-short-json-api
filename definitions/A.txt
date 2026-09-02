@@ -3584,8 +3584,7 @@ assiduitas | 2 | persistence
 assiduitas | 3 | constant attendance on someone: medici assiduitas, the doctor's unbroken attendance
 assiduitas | 4 | the daily presence of friends and clients about a candidate
 assiduitas | 5 | of things, unbroken continuance or frequent repetition: assiduitas molestiarum, one trouble after another
-# review: assiduus1 a class in the Servian constitution; "taxpayer" is the nearest single word but drops the property qualification
-assiduus1 | 1 | taxpayer
+assiduus1 | 1 | propertied citizen
 assiduus1 | 3 | in the constitution of Servius Tullius, a citizen of the propertied classes who paid tribute, as against the proletarii
 assiduus1 | 4 | by extension, a man of means
 assiduus1 | 5 | in Gellius, of a writer of the first rank, as against a proletarius scribbler

@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 20 of 85 settled.
+Progress: 25 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -47,14 +47,14 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `artio2` r1 "train" — tightened to "train" and flag dropped; "up" added nothing, and rank 3 carries the participle artitus, schooled in the arts
 - [x] `as` r1 "copper coin" / r2 "unit" — ranks swapped to "copper coin" then "unit"; the note itself said readers meet the coin first, and the rank contract orders by what a learner meets
 - [x] `assero1` r1 "plant beside" — accepted; "plant" alone loses the beside, which is the whole word
-- [ ] `assiduus1` r1 "taxpayer" — a class in the Servian constitution; "taxpayer" is the nearest single word but drops the property qualification
-- [ ] `assulatim` r1 "into splinters" — "piecemeal" is already articulatim's gloss and this word is specifically about splintering
+- [x] `assiduus1` r1 "propertied citizen" — tightened to "propertied citizen" and flag dropped; the word names the class above the proletarii, and "taxpayer" was Servius' etymology, not the meaning
+- [x] `assulatim` r1 "into splinters" — accepted; a two-word gloss flagged for confidence only, and "piecemeal" is articulatim
 
 ## B.txt (10)
 
-- [ ] `bellipotens` r1 "mighty in war" — English has no one-word adjective for it; 'valiant' drops the war, which is the whole word
-- [ ] `bidental` r1 "lightning shrine" — English has no word for a spot struck by lightning and then consecrated; 'shrine' is close but not exact
-- [ ] `bigae` r1 "two-horse chariot" — the pair of horses and the car they draw are one word in Latin; 'chariot' alone loses the pair
+- [x] `bellipotens` r1 "mighty in war" — accepted; matches armipotens, and "valiant" drops the war
+- [x] `bidental` r1 "lightning shrine" — accepted; English has no name for a lightning-struck spot consecrated and fenced off, and ranks 3-5 explain it
+- [x] `bigae` r1 "two-horse chariot" — accepted; "chariot" alone loses the pair of horses, which is the word
 - [ ] `bigatus` r1 "stamped with a chariot" — 'stamped with a two-horse chariot' is the whole word; English has neither the adjective nor a name for the coin
 - [ ] `bimaris` r1 "between two seas" — English has no one-word adjective for 'lying between two seas'
 - [ ] `bimatus` r1 "age of two" — a noun for 'the age of two years'; English has no noun that carries it
