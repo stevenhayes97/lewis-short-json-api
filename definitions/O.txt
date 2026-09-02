@@ -195,3 +195,29 @@ obsecundo | 3 | obsecundare alicui, to humor someone, fall in with their wishes 
 obsequela | 1 | compliance
 obsequium | 1 | compliance
 obsequium | 2 | allegiance
+obsequor | 1 | comply
+obsequor | 3 | obsequi alicui, to comply with someone, humor them (+ dative)
+obsequor | 4 | give oneself up to, indulge in (a passion or pursuit)
+obsero1 | 1 | bolt
+obsero1 | 3 | shut, close up (a door, ear, or opening)
+obsero2 | 1 | sow
+obsero2 | 2 | cover
+obsero2 | 3 | obsitus virgultis, overgrown with bushes (common in the perfect participle)
+observantia | 1 | respect
+observantia | 2 | observance
+observatio | 1 | observation
+observatio | 2 | care
+observatio | 3 | siderum observatio, observation of the stars (a common astronomical use)
+observito | 1 | observe
+observo | 1 | observe
+observo | 2 | guard
+observo | 3 | comply with, keep (a law, custom, or precept)
+observo | 4 | esteem, honor, show respect to (a person)
+obses | 1 | hostage
+obses | 3 | surety, guarantee (transf., a person or thing pledged as security)
+obsessor | 1 | besieger
+obsessor | 3 | haunter, frequenter (of a place, rare general sense)
+obsideo | 1 | besiege
+obsideo | 2 | occupy
+obsideo | 3 | haunt, frequent (a place)
+obsideo | 4 | watch closely, be on the lookout for
