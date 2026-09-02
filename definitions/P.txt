@@ -2400,3 +2400,30 @@ prodigo | 4 | (post-class.) use up, consume, in a neutral sense
 prodigus | 1 | prodigal
 prodigus | 3 | (poet., with gen.) rich, abounding in something
 prodigus | 4 | (post-Aug.) costly, expensive
+proditio1 | 1 | treason
+proditio1 | 3 | (ante-class., rare) a deferring, postponement
+proditor | 1 | traitor
+prodo | 1 | betray
+prodo | 3 | hand down, transmit, bequeath (to posterity)
+prodo | 4 | make known, publish, report, record
+prodo | 5 | give up, surrender, abandon
+prodo | 6 | bring forth, produce (poet.)
+produco | 1 | produce
+produco | 3 | bring forward, present, someone or something in public, e.g. before a court
+produco | 4 | prolong, protract, drag out (time, a meal, a war)
+produco | 5 | (of pronunciation) lengthen (a syllable)
+produco | 6 | bring up, educate, raise (children)
+produco | 7 | promote, advance (someone's career or rank)
+produco | 8 | delude, put off with false promises
+productio | 1 | prolongation
+productio | 3 | (of pronunciation) the lengthening of a syllable
+proeliaris | 1 | battle
+proelior | 1 | fight
+proelior | 3 | (gen.) contend, wrangle, fight with words
+proelium | 1 | battle
+proelium | 3 | (trop.) contest, strife (of any kind)
+proelium | 4 | (poet., transf.) a fight, contest, of animals or forces of nature
+profano1 | 1 | consecrate
+profano2 | 1 | desecrate
+profano2 | 3 | (transf.) violate, defile, pollute
+profano2 | 4 | (transf.) disclose, reveal, betray (a secret)
