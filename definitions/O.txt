@@ -743,3 +743,29 @@ ostentator | 1 | boaster
 ostento | 1 | show off
 ostento | 2 | threaten
 ostento | 3 | hold out, proffer (as an offer or promise)
+ostentus2 | 1 | display
+ostentus2 | 2 | sign
+ostentus2 | 3 | pretence, a false sign meant to deceive
+ostiarius2 | 1 | doorkeeper
+ostiarius2 | 3 | ostiarium, a tax on doors (used substantively as a noun)
+ostiatim | 1 | door-to-door
+ostiatim | 3 | from house to house, visiting each one in turn
+ostium | 1 | door
+ostium | 2 | mouth
+ostium | 3 | ostium fluminis, the mouth of a river (a common geographic use)
+otiosus | 1 | idle
+otiosus | 2 | calm
+otiosus | 3 | a private citizen, someone not holding public office (used substantively as a noun)
+otium | 1 | leisure
+otium | 2 | peace
+otium | 3 | otium vs negotium: otium is free time, negotium is business or public duty, a central Roman cultural contrast
+ovatio | 1 | ovation
+ovatio | 3 | a lesser triumph, granted for a bloodless or otherwise minor victory (distinct from the full triumph)
+ovile | 1 | sheepfold
+ovile | 3 | the Ovile, the voting enclosure in the Campus Martius (so named by analogy with a sheep pen)
+ovis | 1 | sheep
+ovis | 3 | (colloquial) a simpleton, fool (an insult, calling someone "a sheep")
+ovo | 1 | exult
+ovo | 3 | celebrate an ovation, triumph in the lesser triumphal procession (see ovatio)
+ovum | 1 | egg
+ovum | 2 | oval
