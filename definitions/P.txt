@@ -229,3 +229,26 @@ partitio | 3 | (rhetoric) the part of a speech outlining the points to be discus
 parturio | 1 | labor
 parturio | 2 | brood
 parturio | 3 | parturiunt montes, nascetur ridiculus mus, the mountains go into labor, and a ridiculous mouse is born (a proverb for a big buildup with a trivial result)
+parturitio | 1 | labor
+parturitio | 3 | parturition, childbirth (transf., the actual delivery)
+partus2 | 1 | birth
+partus2 | 2 | offspring
+partus2 | 3 | beginnings, origins (trop., of the sources of something)
+parumper | 1 | briefly
+parvitas | 1 | smallness
+parvulus | 1 | tiny
+parvulus | 2 | young
+parvus | 1 | small
+parvus | 3 | comparative minor, superlative minimus (irregular, not parvior/parvissimus)
+parvus | 4 | quominus, so that... not (a common construction after verbs of hindering or preventing)
+pascha | 1 | Passover
+pascha | 3 | Easter (the Christian feast, eccl. Latin)
+pascha | 4 | the paschal lamb (the sacrificial animal)
+pasco | 1 | feed
+pasco | 2 | graze
+pasco | 3 | feast, gratify (trop., of feeding one's eyes or mind on something)
+pasco | 4 | ravage, lay waste (trop., of devastating land)
+pascuus | 1 | grazing
+pascuus | 2 | pasture
+passer1 | 1 | sparrow
+passer1 | 3 | passer marinus, an ostrich (transf., literally "sea-sparrow")
