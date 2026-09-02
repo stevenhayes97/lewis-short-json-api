@@ -2328,3 +2328,25 @@ procidentia2 | 1 | prolapse
 procidentia2 | 3 | (gram.) the substitution of one case for another
 procido1 | 1 | fall
 procido1 | 3 | (medical, of a body part) prolapse, fall out of place
+procieo | 1 | summon
+procinctus2 | 1 | readiness
+procinctus2 | 3 | (late Lat.) a military campaign, enterprise
+procinctus2 | 4 | a battle, engagement
+procingo | 1 | gird
+procingo | 3 | (as p. a. procinctus) prepared for battle, ready for action
+proclamo | 1 | exclaim
+proclamo | 3 | (legal) clamor in defence (of someone)
+proclamo | 4 | (legal, proclamare in libertatem) appeal to assert one's freedom
+proclino | 1 | incline
+proclino | 3 | (trop., pass.) totter, verge toward collapse or ruin
+proclivis | 1 | sloping
+proclivis | 3 | prone, inclined, liable, to something, usually bad
+proclivis | 4 | (transf.) easy, without difficulty
+proclivis | 5 | declining, drawing to a close (of age)
+proclivitas | 1 | proneness
+proclivitas | 3 | (post-class., rare) a steep descent, declivity
+proco | 1 | demand
+proconsul | 1 | proconsul
+proconsul | 3 | (transf.) an ex-praetor made governor of a province, a propraetor
+proconsul | 4 | (imperial period) a governor of a senatorial province
+proconsularis | 1 | proconsular
