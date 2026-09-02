@@ -1763,3 +1763,24 @@ praefestino | 1 | rush
 praefestino | 3 | (rare) hasten past, hurry by (something)
 praefica | 1 | mourner
 praefica | 3 | a woman hired to lead the lamentation at the head of a funeral procession
+praeficio | 1 | appoint
+praeficio | 3 | (as noun, praefectus) an overseer, president, commander, governor, the title of an officer
+praefidens | 1 | overconfident
+praefigo | 1 | affix
+praefigo | 3 | tip, point (a weapon with metal)
+praefigo | 4 | pierce, transfix
+praefigo | 5 | close, block up (an opening)
+praefinio | 1 | prescribe
+praefiscine | 1 | no offence
+praefloro | 1 | tarnish
+praefloro | 3 | deflower (of a woman, rare)
+praefluo | 1 | flow past
+praefor | 1 | preface
+praefor | 3 | (relig.) utter a preliminary prayer before an act
+praefor | 4 | name, cite beforehand (as an authority)
+praefor | 5 | (very rare) foretell, predict
+praefringo | 1 | snap
+praefringo | 3 | (rhet., as p. a. praefractus) abrupt, broken off (of style)
+praefringo | 4 | (of character, as p. a. praefractus) stern, harsh, inflexible
+praefulcio | 1 | prop
+praefulcio | 3 | (trop.) secure, safeguard, support (a plan or position)
