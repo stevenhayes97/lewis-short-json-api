@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 40 of 85 settled.
+Progress: 45 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -73,11 +73,11 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `caudicarius` r1 "of tree trunks" — accepted; almost only of log-built barges, and English has no adjective for it
 - [x] `ce` r1 "here" — accepted; a one-word gloss flagged for confidence only; a suffix has no standalone English, and ranks 3-6 explain its forms
 - [x] `censualis` r1 "of the census" — accepted; "census" alone reads as the noun
-- [ ] `centenarius` r1 "of a hundred" — 'consisting of a hundred'; English has no adjective, and 'hundredfold' answers to centuplex instead
-- [ ] `centumviri` r1 "court of a hundred" — the name of a Roman civil court; there is no English name for it, and a translation has to spell the number out
-- [ ] `centuplico` r1 "increase a hundredfold" — English has no one-word verb for increasing a thing a hundredfold
-- [ ] `centurialis` r1 "of a century" — 'belonging to a centuria' in any of that word's senses; English has no adjective for it
-- [ ] `centurio1` r1 "divide into centuries" — 'to divide into centuries'; English has no verb that carries it
+- [x] `centenarius` r1 "of a hundred" — accepted; "hundredfold" is centuplex, and English has no adjective for consisting of a hundred
+- [x] `centumviri` r1 "court of a hundred" — accepted; the court has no English name, and the number must be spelt out
+- [x] `centuplico` r1 "increase a hundredfold" — accepted; "centuple" exists as a verb but reads as an adjective on its own
+- [x] `centurialis` r1 "of a century" — accepted; belonging to a centuria in any of its senses, which English cannot compress
+- [x] `centurio1` r1 "divide into centuries" — accepted; English has no verb for dividing into centuries, and rank 5 gives comitia centuriata
 - [ ] `circumcidaneus` r1 "pared round" — used only of must from a second pressing, after the mass left in the press was pared round; the gloss alone conveys nothing
 - [ ] `cis` r1 "on this side" — a preposition meaning 'on this side of'; English has no single word for it, and cis- survives only as a prefix
 - [ ] `clarigatio` r1 "demand for redress" — the fetial ceremony of formally demanding redress before war; English has no name for it
