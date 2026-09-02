@@ -2248,3 +2248,35 @@ prior | 1 | former
 prior | 3 | better, superior, preferable (trop.)
 prior | 4 | (as noun, priores) forefathers, ancestors
 prior | 5 | (as adv., prius) before, sooner, previously
+priscus1 | 1 | ancient
+priscus1 | 3 | (transf., poet.) former, previous
+priscus1 | 4 | (transf., poet.) old-fashioned, strict, severe
+pristinus1 | 1 | former
+pristinus1 | 3 | just past, of the preceding day
+pristinus1 | 4 | (= priscus) old-fashioned, ancient
+privatim | 1 | privately
+privatim | 3 | separately, individually (post-Aug.)
+privatim | 4 | at home
+privignus | 1 | stepchild
+privignus | 3 | (poet., transf., of plants) an offshoot, a sucker growing from another plant's root
+privilegium | 1 | privilege
+privilegium | 3 | (orig., Cic.) a law concerning a single named individual, for or against him
+privo | 1 | deprive
+privo | 3 | free, release, deliver, from something bad, with abl.
+privo | 4 | (as p. a. privatus) private, not public
+privo | 5 | (as p. a. privatus, of a person) out of office, a private citizen
+privo | 6 | (as p. a. privatus, of the imperial period) not belonging to the emperor
+privus | 1 | single
+privus | 3 | each, every one, distributively, one each
+privus | 4 | one's own, particular, peculiar
+privus | 5 | deprived of, without (rare)
+pro1 | 1 | for
+pro1 | 3 | before, in front of (of place)
+pro1 | 4 | on behalf of, in favour of, in defence of
+pro1 | 5 | instead of, in place of (substitution)
+pro1 | 6 | in exchange for, in return for (of price)
+pro1 | 7 | in proportion to, according to, by virtue of
+pro1 | 8 | on account of, for the sake of
+pro2 | 1 | oh!
+proavus | 1 | great-grandfather
+proavus | 3 | (transf.) a forefather, ancestor (in general)
