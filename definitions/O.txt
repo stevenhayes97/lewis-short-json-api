@@ -725,3 +725,21 @@ oscillum1 | 1 | mask
 oscillum1 | 3 | a small mask of Bacchus hung from trees to swing in the wind (the source of English "oscillate")
 oscitatio | 1 | yawn
 oscitatio | 2 | tediousness
+oscito | 1 | yawn
+oscito | 3 | be listless, drowsy, inattentive (trop.)
+osculor | 1 | kiss
+osculor | 2 | cherish
+osculum | 1 | kiss
+osor | 1 | hater
+ossuarius | 1 | bone
+ossuarius | 3 | ossuarium, an ossuary, a bone-vault or urn for the dead (used substantively as a noun)
+ostendo | 1 | show
+ostendo | 2 | indicate
+ostendo | 3 | ostentum, a portent, an omen (used substantively as a noun)
+ostensio | 1 | display
+ostentatio | 1 | ostentation
+ostentatio | 2 | pretence
+ostentator | 1 | boaster
+ostento | 1 | show off
+ostento | 2 | threaten
+ostento | 3 | hold out, proffer (as an offer or promise)
