@@ -2170,3 +2170,27 @@ premo | 8 | rule, govern (poet.)
 premo | 9 | surpass, exceed
 premo | 10 | (as p. a. pressus, of style) concise, terse, without ornament
 presso | 1 | press
+pressulus | 1 | compressed
+pressura | 1 | pressure
+pressura | 3 | (in partic.) the pressing of wine or oil
+pressura | 4 | (transf.) a throng, crush, crowd of people
+pressura | 5 | juice, that which is pressed out (poet.)
+pressura | 6 | (trop., eccl. Lat.) oppression, affliction, distress
+pressus2 | 1 | pressure
+pretiosus | 1 | precious
+pretiosus | 3 | (transf.) costly, expensive, dear
+pretiosus | 4 | extravagant, lavish (of a spender)
+pretium | 1 | price
+pretium | 3 | (gen., poet.) money, wealth
+pretium | 4 | worth, value (abstract)
+pretium | 5 | wages, reward (poet.)
+pretium | 6 | (in a bad sense) punishment, retribution (poet.)
+prex | 1 | prayer
+prex | 3 | a good wish, friendly greeting
+prex | 4 | a curse, imprecation
+prex | 5 | (poet.) an intercession, a plea on someone's behalf
+pridem | 1 | long ago
+pridianus | 1 | yesterday's
+# review: pridie 'the day before' is the accurate gloss; no single or double word captures it
+pridie | 1 | the day before
+primaevus | 1 | youthful
