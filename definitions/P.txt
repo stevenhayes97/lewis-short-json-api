@@ -1435,3 +1435,29 @@ populatio1 | 4 | (trop.) ruin, corruption, destruction (post-Aug.)
 populator | 1 | ravager
 populor | 1 | ravage
 populor | 3 | (gen., poet.) destroy, ruin, spoil
+populus1 | 1 | people
+populus1 | 3 | the citizens, as distinguished from the plebs or the senate (institutional sense)
+populus1 | 4 | (transf., poet.) a multitude, host, crowd
+porceo | 1 | restrain
+porcinus | 1 | porcine
+porcinus | 3 | (as noun, porcina) pork, swine's flesh
+porcinus | 4 | (mil.) a swine's head, a wedge-shaped battle formation
+porcus | 1 | pig
+porcus | 3 | (transf.) porpoise, sea-hog
+porcus | 4 | (mil.) a wedge-shaped battle formation
+porricio | 1 | offer
+porricio | 3 | (transf., of crops) produce, yield (rare)
+porrigo1 | 1 | extend
+porrigo1 | 3 | hold out, offer, present (something to someone)
+porrigo1 | 4 | (trop.) prolong, protract (time or a syllable)
+porrigo1 | 5 | (se porrigere) extend, spread, reach (itself)
+porro | 1 | moreover
+porro | 3 | forward, onward, farther on, to a distance (lit., of space, rare)
+porro | 4 | henceforth, hereafter, in future (temporal)
+porta | 1 | gate
+porta | 3 | (gen.) an entrance, passage, outlet, door of any kind
+portendo | 1 | portend
+portendo | 3 | (as noun, portentum) a sign, token, omen, portent
+portendo | 4 | (as noun, portentum) a monster, monstrosity
+portendo | 5 | (as noun, portentum) a marvellous or extravagant tale
+portentosus | 1 | monstrous
