@@ -1021,3 +1021,24 @@ pestis | 3 | destruction, ruin, death (transf., in a general abstract sense)
 petesso | 1 | pursue eagerly
 petimen | 1 | saddle sore
 petimen | 3 | a sore on a draft animal's shoulder, caused by its harness
+petiolus | 1 | little foot
+petiolus | 2 | stalk
+petitio | 1 | petition
+petitio | 2 | candidacy
+petitio | 3 | attack, thrust (literal or rhetorical)
+petitor | 1 | candidate
+petitor | 2 | plaintiff
+petitorius | 1 | petitory
+peto | 1 | seek
+peto | 2 | attack
+peto | 3 | run for office, be a candidate (political sense)
+peto | 4 | woo, court (of romantic pursuit)
+petulans | 1 | impudent
+petulans | 2 | wanton
+petulantia | 1 | impudence
+petulantia | 2 | exuberance
+petulcus | 1 | butting
+petulcus | 2 | frisky
+phalangarius1 | 1 | porter
+phalanx | 1 | phalanx
+phalanx | 3 | the Macedonian phalanx, a compact battle formation fifty men wide and sixteen deep
