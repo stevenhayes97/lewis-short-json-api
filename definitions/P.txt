@@ -2617,3 +2617,29 @@ propagatio | 1 | propagation
 propagatio | 3 | (trop.) extension, enlargement, prolongation
 propages | 1 | layer
 propages | 3 | (transf.) offspring, progeny, posterity
+propago1 | 1 | propagate
+propago1 | 3 | (transf.) extend, enlarge, increase (territory)
+propago1 | 4 | prolong, continue, extend (life, in time)
+propago2 | 1 | offspring
+propago2 | 3 | (lit.) a layer, a shoot for propagating a plant
+propalam | 1 | openly
+propatulus | 1 | open
+propatulus | 3 | (as noun, propatulum, in propatulo) in the open air, in public view
+prope | 1 | near
+prope | 3 | (of degree) nearly, almost, about
+prope | 4 | (of time) close at hand, not far off
+prope | 5 | (of abstract proximity) close to, verging on
+propello | 1 | propel
+propello | 3 | (trop.) impel, incite, urge (someone to do something)
+propello | 4 | drive away, ward off (danger, hunger)
+propemodum | 1 | almost
+propendeo | 1 | overhang
+propendeo | 3 | (trop.) preponderate, outweigh, carry more weight
+propendeo | 4 | (trop.) be inclined, disposed to something
+propendeo | 5 | (as p. a. propensus) willing, favourably disposed
+propendeo | 6 | (as p. a. propensus) weighty, important
+propero | 1 | hasten
+propero | 3 | hasten to do, prepare with haste (something)
+propero | 4 | (as p. a. properatus) hurried, rapid, speedy
+properus | 1 | speedy
+properus | 3 | (as adv., propere) hastily, quickly, speedily
