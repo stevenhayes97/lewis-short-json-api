@@ -107,3 +107,17 @@ paludamentum | 1 | cloak
 paludamentum | 3 | a general's cloak, worn as the formal mark of military command outside Rome
 paludatus | 1 | cloaked
 paludatus | 3 | proficisci paludatus, to set out wearing the general's cloak (i.e. assuming military command)
+palumbes | 1 | wood-pigeon
+palus1 | 1 | stake
+palus1 | 3 | ad palum alligari, to be bound to a stake (for punishment)
+palus2 | 1 | marsh
+palus2 | 3 | water, a lake (poet., transf., especially of the underworld rivers)
+paluster | 1 | marshy
+paluster | 3 | lux palustris, a squalid, degraded life (trop., a specific idiom)
+pampinarius | 1 | tendril
+pampinatio | 1 | pruning
+pampineus | 1 | vine-leaved
+pampino | 1 | prune
+pampinus | 1 | tendril
+pampinus | 2 | vine-leaf
+pando1 | 1 | bend
