@@ -169,3 +169,29 @@ obsaepio | 3 | obsaepire viam, to block off a path or route (trop., of an opport
 obscenitas | 1 | obscenity
 obscenitas | 3 | inauspiciousness, the ill omen of something (rare)
 obscenitas | 4 | an obscene object or body part (concr., post-Augustan)
+obscenus | 1 | obscene
+obscenus | 2 | repulsive
+obscenus | 3 | ill-omened, inauspicious (the word's older, non-sexual sense)
+obscenus | 4 | obscena, private parts (used as a substantive plural noun)
+obscuratio | 1 | darkening
+obscuratio | 3 | eclipse (of the sun)
+obscuritas | 1 | obscurity
+obscuritas | 3 | obscurity of birth or rank, low social standing
+obscuro | 1 | darken
+obscuro | 2 | conceal
+obscuro | 3 | obscure, make indistinct (of speech or pronunciation)
+obscuro | 4 | cause to be forgotten, consign to obscurity
+obscurus | 1 | dark
+obscurus | 2 | obscure
+obscurus | 3 | unknown, unrecognized
+obscurus | 4 | of humble or undistinguished rank, lowly
+obscurus | 5 | secretive, reserved (of character)
+obsecratio | 1 | entreaty
+obsecratio | 3 | a public supplication or day of prayer decreed by the state
+obsecro | 1 | beseech
+obsecro | 3 | (as an exclamation) please!, I beg you!, for heaven's sake!
+obsecundo | 1 | comply
+obsecundo | 3 | obsecundare alicui, to humor someone, fall in with their wishes (+ dative)
+obsequela | 1 | compliance
+obsequium | 1 | compliance
+obsequium | 2 | allegiance
