@@ -2959,3 +2959,26 @@ pugno | 3 | (transf.) conflict, disagree, contradict (someone)
 pugno | 4 | struggle, strive, exert oneself (for something)
 pugnus | 1 | fist
 pugnus | 3 | (transf., as a measure) a fistful, a handful
+pulchellus | 1 | pretty
+pulchellus | 3 | (ironic) a mocking nickname, 'pretty boy'
+pulcher1 | 1 | beautiful
+pulcher1 | 2 | noble
+pulchritudo | 1 | beauty
+pulchritudo | 3 | (transf., pl.) beautiful objects, beauties (concr.)
+puleium | 1 | pennyroyal
+pulex | 1 | flea
+pulex | 3 | (transf.) the ground-flea, spring-tail, an insect pest
+pullarius | 1 | chicken-keeper
+pullarius | 3 | (adj.) of or belonging to young animals
+pullatus | 1 | dark-clad
+pullatus | 3 | (transf.) of the common people, the lower classes, who wore dark clothing
+pullulo | 1 | sprout
+pullulo | 3 | (of animals) bring forth young, breed
+pullulo | 4 | (trop.) spread, grow, increase, of vice or evil
+pullus1 | 1 | chick
+pullus1 | 3 | (gen.) the young of any animal
+pullus1 | 4 | (transf., term of endearment) darling, chick, dove
+pullus1 | 5 | (of plants) a sprout, young shoot
+pullus3 | 1 | dusky
+pullus3 | 3 | (transf.) poor, humble, alluding to plain dark clothing
+pullus3 | 4 | (poet., from mourning attire) sad, sorrowful, mournful
