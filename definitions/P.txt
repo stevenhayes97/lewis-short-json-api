@@ -435,3 +435,22 @@ pecus2 | 2 | sheep
 pecus2 | 3 | (as an insult) a brute, a stupid or filthy creature (trop., applied to a person)
 pedalis | 1 | foot-long
 pedalis | 3 | pedalis, a slipper (used substantively as a noun)
+pedamen | 1 | prop
+pedaneus | 1 | foot-long
+pedaneus | 3 | judex pedaneus, a petty judge (so called for sitting on a low seat without a raised tribunal)
+pedarius | 1 | non-voting
+pedarius | 3 | senator pedarius, a junior senator who had not yet held curule office and could not speak, only vote by moving to a side (literally "voting with the feet")
+pedatus2 | 1 | charge
+pedes | 1 | on foot
+pedes | 2 | foot-soldier
+pedes | 3 | equites peditesque, cavalry and infantry (a common phrase for "the whole army" or "everyone")
+pedester | 1 | pedestrian
+pedester | 2 | prose
+pedester | 3 | by land (transf., as opposed to by sea)
+pedetemptim | 1 | cautiously
+pedetemptim | 3 | step by step, feeling one's way forward (the literal sense, of careful physical movement)
+pedica | 1 | snare
+pedica | 3 | fetter, shackle (trop., post-class., of love or other constraints)
+pediculus1 | 1 | pedicle
+pediculus1 | 3 | a little foot (the literal, rarer sense)
+pediculus2 | 1 | louse
