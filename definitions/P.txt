@@ -252,3 +252,25 @@ pascuus | 1 | grazing
 pascuus | 2 | pasture
 passer1 | 1 | sparrow
 passer1 | 3 | passer marinus, an ostrich (transf., literally "sea-sparrow")
+passim | 1 | everywhere
+passim | 2 | at random
+passio | 1 | suffering
+passio | 2 | the Passion
+passio | 3 | the sufferings of Christ (eccl. Latin, the specific sense behind "the Passion")
+passio | 4 | passion, emotion (a translation of the Greek pathos)
+passivus1 | 1 | widespread
+passivus2 | 1 | passive
+passus3 | 1 | step
+passus3 | 2 | pace
+passus3 | 3 | mille passus, a Roman mile (literally "a thousand paces," about 1,480 meters)
+pastillus | 1 | roll
+pastillus | 2 | lozenge
+pastino | 1 | trench
+pastino | 3 | prepare ground for planting vines (a specific viticultural technique)
+pastinum | 1 | dibble
+pastinum | 3 | the act of trenching and preparing ground (transf., the practice itself)
+pastio | 1 | grazing
+pastio | 2 | pasture
+pastor | 1 | shepherd
+pastor | 2 | pastor
+pastor | 3 | pastor populi, shepherd of the people (trop., of a leader or ruler)
