@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 45 of 85 settled.
+Progress: 50 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -78,11 +78,11 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `centuplico` r1 "increase a hundredfold" — accepted; "centuple" exists as a verb but reads as an adjective on its own
 - [x] `centurialis` r1 "of a century" — accepted; belonging to a centuria in any of its senses, which English cannot compress
 - [x] `centurio1` r1 "divide into centuries" — accepted; English has no verb for dividing into centuries, and rank 5 gives comitia centuriata
-- [ ] `circumcidaneus` r1 "pared round" — used only of must from a second pressing, after the mass left in the press was pared round; the gloss alone conveys nothing
-- [ ] `cis` r1 "on this side" — a preposition meaning 'on this side of'; English has no single word for it, and cis- survives only as a prefix
-- [ ] `clarigatio` r1 "demand for redress" — the fetial ceremony of formally demanding redress before war; English has no name for it
-- [ ] `comitialis` r1 "of the comitia" — "comitial" exists but is obscure; "of the comitia" names the actual institution plainly
-- [ ] `commissorius` r1 "of a forfeiture clause" — jurid. term found almost only in "lex commissoria"; "of forfeiture" names the clause, a single word would mislead
+- [x] `circumcidaneus` r1 "pared round" — accepted; a two-word literal gloss flagged for confidence only; the word exists for one kind of must, which rank 3 explains
+- [x] `cis` r1 "on this side" — accepted; a preposition with no one-word English, like adusque
+- [x] `clarigatio` r1 "demand for redress" — accepted; a fetial ceremony with no English name, explained at rank 3
+- [x] `comitialis` r1 "of the comitia" — accepted; "comitial" exists but is obscure, and naming the institution is plainer
+- [x] `commissorius` r1 "of forfeiture" — tightened to "of forfeiture" and flag dropped; the clause is named at rank 3, and the note itself preferred the shorter form
 - [ ] `confarreo` r1 "wed by confarreatio" — denotes marrying specifically via the confarreatio bread-rite; no single English word covers that
 - [ ] `congiarius` r1 "of a congius" — "of a congius" needs the article to be accurate; no shorter English phrasing fits
 - [ ] `congius` r1 "a Roman liquid measure of about six pints" — the precise volume needs more than one word; no exact English equivalent

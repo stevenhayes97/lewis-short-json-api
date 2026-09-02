@@ -2552,8 +2552,7 @@ commiseror | 3 | absol., of an orator, to excite compassion in a speech
 commissio | 1 | engagement
 commissio | 3 | meton., an opening speech or prize declamation at the games
 commissio | 4 | jurid., a perpetration or commission of an offence
-# review: commissorius jurid. term found almost only in "lex commissoria"; "of forfeiture" names the clause, a single word would mislead
-commissorius | 1 | of a forfeiture clause
+commissorius | 1 | of forfeiture
 commissorius | 3 | lex commissoria, a clause letting a seller rescind an unpaid sale
 commissura | 1 | joint
 commissura | 3 | transf., in rhetoric, a connection or transition in a speech
