@@ -658,3 +658,22 @@ orator | 2 | envoy
 orator | 3 | suppliant, one who begs or entreats (Plautine)
 oratorius | 1 | oratorical
 oratorius | 3 | oratorium, a chapel, a place of prayer (eccl. Latin, substantive use)
+orbiculatus | 1 | round
+orbiculus | 1 | disk
+orbis | 1 | circle
+orbis | 3 | orbis terrarum, the world (literally "the circle of the lands")
+orbis | 4 | rotation, cycle (trop., of a recurring period of time)
+orbita | 1 | rut
+orbita | 2 | orbit
+orbita | 3 | course, path (trop., of a customary way of life or established practice)
+orbitas | 1 | bereavement
+orbitas | 3 | childlessness, the loss of one's children (a common specific sense)
+orbo | 1 | bereave
+orbus | 1 | bereft
+orbus | 3 | orbus alicuius rei, deprived or devoid of something, esp. something precious (+ genitive)
+orca1 | 1 | whale
+orca1 | 2 | jar
+orca1 | 3 | dice-box (a specific gaming implement, poet.)
+ordinarius | 1 | ordinary
+ordinarius | 3 | consul ordinarius, a regularly elected consul (as opposed to a consul suffectus, appointed to fill a vacancy)
+ordinatim | 1 | in order
