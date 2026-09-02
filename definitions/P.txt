@@ -2559,3 +2559,33 @@ proluo | 1 | wash
 proluo | 3 | (transf.) wash away, sweep away (soil, snow)
 proluo | 4 | (trop.) squander, dissipate (money, property)
 proluo | 5 | (post-class.) overflow, inundate
+promereo | 1 | deserve
+promereo | 3 | (transf.) acquire, gain, win over (a person, as an ally)
+promico | 1 | gleam
+promico | 3 | (transf.) spring forth, burst out (of tears, growth)
+promineo | 1 | protrude
+promineo | 3 | (trop.) extend, reach out (to something, e.g. fame or virtue)
+promiscuus | 1 | indiscriminate
+promiscuus | 3 | (gram.) epicene, of common gender
+promiscuus | 4 | (transf., rare) common, ordinary, usual
+promissio | 1 | promise
+promissio | 3 | (rhet.) a promise made to the audience, a rhetorical technique
+promitto | 1 | promise
+promitto | 3 | (lit., rare) let hang down, let grow long
+promitto | 4 | (relig.) vow, promise something to a deity
+promitto | 5 | (as p. a. promissus, of hair) long, hanging down
+promo | 1 | produce
+promo | 3 | (trop.) disclose, reveal, utter (thoughts or words)
+promo | 4 | (as p. a. promptus) ready, prepared, quick, inclined to something
+promo | 5 | (as p. a. promptus) brave, courageous
+promo | 6 | (as p. a. promptus, of things) easy, practicable
+promoveo | 1 | advance
+promoveo | 3 | extend, enlarge (territory or borders)
+promoveo | 4 | (medical) dislocate, put out of joint
+promoveo | 5 | (trop., post-Aug.) promote, advance (someone in rank)
+promoveo | 6 | (trop.) put off, defer, postpone
+promptuarius | 1 | storage
+promptuarius | 3 | (as noun, promptuarium) a storeroom, repository
+promptus2 | 1 | visibility
+promptus2 | 3 | (in promptu esse or habere) to be at hand, ready, available
+promptus2 | 4 | (in promptu esse) to be easy, straightforward
