@@ -50,3 +50,28 @@ obicio | 2 | reproach
 obicio | 3 | obicere alicui aliquid, to charge someone with something, reproach them for it
 obicio | 4 | oppose, set against (as a barrier or defence)
 obicio | 5 | objecta, charges, accusations (used substantively as a noun)
+obirascor | 1 | be angry
+obirascor | 3 | obirasci fortunae, to be angry at fortune (+ dative)
+obiter | 1 | in passing
+obiter | 3 | on the way, in going along
+obiter | 4 | immediately, forthwith (rare)
+obitus2 | 1 | death
+obitus2 | 2 | setting
+obitus2 | 3 | setting of the sun, moon, or stars
+obitus2 | 4 | approach, visit (rare)
+objaceo | 1 | lie opposite
+objectio | 1 | reproach
+objectio | 2 | objection
+objecto | 1 | accuse
+objecto | 2 | endanger
+objecto | 3 | objectare alicui aliquid, to charge someone with something, throw it in their face
+objectus2 | 1 | barrier
+objectus2 | 2 | spectacle
+objurgatio | 1 | rebuke
+objurgatio | 3 | a rebuke given after a wrongdoing (as opposed to monitio, a warning given beforehand)
+objurgo | 1 | scold
+objurgo | 3 | urge earnestly, exhort (in a tone of reproof)
+objurgo | 4 | punish, chastise physically (post-Augustan)
+oblatio | 1 | offering
+oblatio | 3 | a bid at an auction
+oblatio | 4 | (eccl.) sacrifice, offering to God
