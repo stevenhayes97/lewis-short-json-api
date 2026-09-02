@@ -646,3 +646,23 @@ peregrinus | 3 | (Roman law) a non-citizen resident, as opposed to a civis, "cit
 # review: peremnis -- a narrow augural technical term with no natural English adjective; occurs only in the phrase "peremne auspicium," the omen-taking ritual performed when crossing a river
 peremnis | 1 | of crossing a river
 peremnis | 3 | peremne auspicium, the auspices taken when a magistrate crosses a river or stream (a specific augural ritual)
+peremptalis | 1 | cancelling
+peremptalis | 3 | fulmina peremptalia, lightnings believed to nullify the omen of earlier lightning (a specific augural term)
+peremptor | 1 | slayer
+peremptorius | 1 | peremptory
+peremptorius | 3 | deadly, fatal (the rarer literal sense, of poison or a weapon)
+# review: perendinus -- no single English word for "occurring the day after tomorrow"
+perendinus | 1 | occurring the day after tomorrow
+perendinus | 3 | perendino die, on the day after tomorrow
+perennis | 1 | perennial
+perennis | 3 | lasting through the year (the literal sense, e.g. of birds that don't migrate)
+perennitas | 1 | perpetuity
+perenno | 1 | endure
+perenno | 3 | preserve, keep long (transitive sense, rare)
+pereo | 1 | perish
+pereo | 2 | be ruined
+pereo | 3 | pine away with love, be desperately in love (poet.)
+pereo | 4 | perii!, I am lost!, I am ruined! (a common exclamation of despair)
+perequito | 1 | ride about
+pererro | 1 | wander through
+pererro | 3 | survey, scan (transf., of the eyes passing over something)
