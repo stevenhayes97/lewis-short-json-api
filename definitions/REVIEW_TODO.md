@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 65 of 85 settled.
+Progress: 70 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -107,14 +107,14 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 
 ## F.txt (1)
 
-- [ ] `fideicommissarius` r1 "of a trust-bequest" — relates to the Roman fideicommissum trust-bequest; English has no adjective for it
+- [x] `fideicommissarius` r1 "fideicommissary" — tightened to "fideicommissary" and flag dropped; the English legal adjective exists (OED), and rank 3 now explains the fideicommissum
 
 ## G.txt (5)
 
-- [ ] `galeo` r1 "cover with a helmet" — English has no one-word verb for putting on a helmet; "helm" would wrongly suggest steering
-- [ ] `gentilicius` r1 "of a clan" — "of a clan" needs the article to be accurate; no shorter English phrasing fits
-- [ ] `genuinus2` r1 "of the cheek" — "of the cheek" needs the article to be accurate; no shorter English phrasing fits
-- [ ] `gravedinosus` r1 "prone to colds" — English has no adjective for catching colds easily; described directly
+- [x] `galeo` r1 "cover with a helmet" — accepted; "helm" would suggest steering, and English has no other verb for it
+- [x] `gentilicius` r1 "of a clan" — accepted; the article is needed, and "clan" is the standard rendering of gens
+- [x] `genuinus2` r1 "molar" — tightened to "molar" and flag dropped; the word is used only of the back teeth, and "of the cheek" was its etymology, now at rank 3
+- [x] `gravedinosus` r1 "prone to colds" — accepted; "catarrhal" would mean having a cold, not catching them easily
 - [ ] `gregalis` r1 "of the herd" — "of the herd" needs the article to be accurate; no shorter English phrasing fits
 
 ## I.txt (3)

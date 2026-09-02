@@ -433,9 +433,9 @@ fictor | 4 | trop: a deceiver, a feigner (master of lies)
 ficus | 1 | fig-tree
 ficus | 3 | transf: a fig (the fruit)
 ficus | 4 | medic, colloq: piles, haemorrhoids
-# review: fideicommissarius relates to the Roman fideicommissum trust-bequest; English has no adjective for it
-fideicommissarius | 1 | of a trust-bequest
-fideicommissarius | 3 | as subst.: one who receives an inheritance under a fideicommissum, a trust-heir
+fideicommissarius | 1 | fideicommissary
+fideicommissarius | 3 | of or under a fideicommissum, the Roman bequest in trust: hereditas fideicommissaria, an inheritance left in trust
+fideicommissarius | 4 | as a noun, one who receives an inheritance under a fideicommissum, a trust-heir
 fideicommitto | 1 | bequeath
 fideicommitto | 3 | legal: to leave in trust (by will, for delivery to a third party)
 fidejubeo | 1 | vouch
