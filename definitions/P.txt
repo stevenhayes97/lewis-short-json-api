@@ -38,3 +38,26 @@ paenula1 | 3 | covering, wrapping (transf., any protective envelope)
 paenularius | 1 | cloak-maker
 paenultimus | 1 | penultimate
 paenultimus | 3 | paenultima, the penultimate syllable (a grammatical term, used substantively)
+paetus1 | 1 | squinting
+paetus1 | 3 | having a charming, slightly averted gaze (as an epithet of Venus, a positive trait)
+paganicus | 1 | rural
+paganicus | 3 | heathen, pagan (eccl. Latin)
+paganus | 1 | rural
+paganus | 2 | civilian
+paganus | 3 | pagan, heathen (eccl. Latin, ultimately from "civilian" -- one outside the "army" of Christ)
+pagina | 1 | page
+pagina | 3 | a plot of vines, four rows arranged in a square (viticultural term)
+pagus | 1 | district
+pagus | 3 | the country folk, villagers (of a rural district, by metonymy)
+pala | 1 | spade
+pala | 3 | bezel, the flat setting of a ring (transf., by shape)
+palam | 1 | openly
+palam | 2 | before
+palam | 3 | palam est, it is publicly known, it is common knowledge
+palatum | 1 | palate
+palatum | 2 | taste
+palatum | 3 | caeli palatum, the vault of heaven (transf., by analogy of shape)
+palea | 1 | chaff
+palea | 3 | the wattles of a cock, the dew-lap-like flesh under a rooster's beak (transf., by resemblance)
+palear | 1 | dewlap
+palear | 3 | throat (transf., of the general area)
