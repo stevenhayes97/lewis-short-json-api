@@ -493,7 +493,7 @@ pendo | 3 | value, esteem (trop., + genitive of value, e.g. "magni pendere," to 
 pendo | 4 | pensum, a task, duty (originally a slave's daily quota of wool to spin)
 pendulus | 1 | hanging
 pendulus | 2 | uncertain
-# review: penes -- preposition meaning "in the possession or power of"; no single English preposition captures it precisely
+# review: penes a preposition meaning in the possession or power of; no single English preposition captures it
 penes | 1 | in the power of
 penes | 3 | penes me, in my possession, in my power (a common construction)
 penetrabilis | 1 | penetrable
@@ -643,7 +643,7 @@ peregrinor | 3 | be a stranger, feel out of place (trop., even when at home)
 peregrinus | 1 | foreign
 peregrinus | 2 | foreigner
 peregrinus | 3 | (Roman law) a non-citizen resident, as opposed to a civis, "citizen"
-# review: peremnis -- a narrow augural technical term with no natural English adjective; occurs only in the phrase "peremne auspicium," the omen-taking ritual performed when crossing a river
+# review: peremnis an augural term with no English adjective; occurs only in peremne auspicium, the omens taken on crossing a river
 peremnis | 1 | of crossing a river
 peremnis | 3 | peremne auspicium, the auspices taken when a magistrate crosses a river or stream (a specific augural ritual)
 peremptalis | 1 | cancelling
@@ -651,8 +651,7 @@ peremptalis | 3 | fulmina peremptalia, lightnings believed to nullify the omen o
 peremptor | 1 | slayer
 peremptorius | 1 | peremptory
 peremptorius | 3 | deadly, fatal (the rarer literal sense, of poison or a weapon)
-# review: perendinus -- no single English word for "occurring the day after tomorrow"
-perendinus | 1 | occurring the day after tomorrow
+perendinus | 1 | after tomorrow
 perendinus | 3 | perendino die, on the day after tomorrow
 perennis | 1 | perennial
 perennis | 3 | lasting through the year (the literal sense, e.g. of birds that don't migrate)
@@ -1359,8 +1358,9 @@ polliceor | 4 | (of a bidder) bid, offer (at a sale)
 pollicitatio | 1 | promise
 pollicitor | 1 | promise
 pollinctor | 1 | undertaker
-# review: pollingo no one-word or two-word English verb covers 'wash and lay out a corpse for burial'
-pollingo | 1 | wash and lay out (a corpse)
+pollingo | 1 | lay out
+pollingo | 3 | to wash a corpse and prepare it for the pyre, the work of the pollinctor, the undertaker's man
+pollingo | 4 | transferred, of an old man as good as dead: pollinctum corpus, a body already laid out
 pollubrum | 1 | basin
 polluceo | 1 | offer
 polluceo | 3 | serve up (as a dish, transf.)
@@ -2193,6 +2193,8 @@ pridem | 1 | long ago
 pridianus | 1 | yesterday's
 # review: pridie 'the day before' is the accurate gloss; no single or double word captures it
 pridie | 1 | the day before
+pridie | 3 | with the accusative of the day: pridie Kalendas, on the day before the Kalends; pridie ejus diei, the day before that
+pridie | 4 | pridie quam, the day before something happened: pridie quam Athenas veni, the day before I reached Athens
 primaevus | 1 | youthful
 primanus | 1 | first-legion
 primarius | 1 | foremost

@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 80 of 85 settled.
+Progress: 85 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -146,8 +146,17 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 ## P.txt (6)
 
 - [x] `patrimus` r1 "having a father still living" — accepted; English has no word for having a living father, and the pairing patrimi et matrimi sits at rank 3
-- [ ] `penes` r1 "in the power of" — -- preposition meaning "in the possession or power of"; no single English preposition captures it precisely
-- [ ] `peremnis` r1 "of crossing a river" — -- a narrow augural technical term with no natural English adjective; occurs only in the phrase "peremne auspicium," the omen-taking ritual performed when crossing a river
-- [ ] `perendinus` r1 "occurring the day after tomorrow" — -- no single English word for "occurring the day after tomorrow"
-- [ ] `pollingo` r1 "wash and lay out (a corpse)" — no one-word or two-word English verb covers 'wash and lay out a corpse for burial'
-- [ ] `pridie` r1 "the day before" — 'the day before' is the accurate gloss; no single or double word captures it
+- [x] `penes` r1 "in the power of" — accepted; a preposition with no one-word English, like apud and cis
+- [x] `peremnis` r1 "of crossing a river" — accepted; an augural term found only in peremne auspicium, which rank 3 gives
+- [x] `perendinus` r1 "after tomorrow" — tightened to "after tomorrow", L&S's own gloss, and flag dropped; "occurring" was padding
+- [x] `pollingo` r1 "lay out" — tightened to "lay out" and flag dropped; laying out is exactly preparing a corpse in English, and the washing is at rank 3
+- [x] `pridie` r1 "the day before" — accepted, and ranks 3-4 added for the accusative and pridie quam constructions; an adverb with no shorter English
+
+## Wider problems found in the scan, not yet fixed
+
+- **L&S shorthand in ranks 3+.** `CLAUDE.md` says to drop the apparatus, but
+  C, D, E, F, I and P (written later than A and B) lead roughly 3,000 lines
+  with `trop.`, `transf.`, `meton.`, `milit.`, `jurid.`, `post-Aug.` and the
+  like, either as `trop:` or `(trop.)`. A and B spell these out ("figuratively",
+  "of soldiers", "in late Latin"). Fixing it is a rewrite of those files,
+  not a review item, so it is recorded here rather than done piecemeal.
