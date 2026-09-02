@@ -1579,3 +1579,33 @@ potiono | 1 | dose
 potior1 | 1 | obtain
 potior1 | 3 | become master of, take possession of, seize (usu. with gen.)
 potior1 | 4 | (transf.) possess, hold, occupy, have (in the sense of enjoying)
+potis | 1 | able
+potis | 3 | (comp. potior) preferable, better
+potis | 4 | (sup. potissimus) chief, foremost, most important
+potis | 5 | (comp. adv. potius) rather, preferably
+potis | 6 | (sup. adv. potissimum) chiefly, above all, especially
+poto | 1 | drink
+poto | 3 | tipple, tope, drink habitually or heavily
+poto | 4 | (as p. a. potus) drunk, intoxicated
+potor | 1 | drinker
+potor | 3 | a hard drinker, a drunkard, toper
+potorius | 1 | drinking
+potorius | 3 | (as noun, potorium) a drinking-vessel, goblet
+potulentus | 1 | drinkable
+potulentus | 2 | drunken
+potulentus | 3 | (as noun, potulenta) drinkables, beverages
+potus2 | 1 | drink
+potus2 | 3 | (transf., post-Aug.) urine
+potus2 | 4 | a drinking-cup (late Lat.)
+prae | 1 | before
+prae | 3 | (prae se ferre, etc.) show, exhibit, reveal, betray
+prae | 4 | in comparison with, compared with
+prae | 5 | because of, on account of (chiefly with a negation)
+praeacuo | 1 | sharpen
+praeacuo | 3 | (as p. a. praeacutus) sharpened, pointed
+praealtus | 1 | lofty
+praealtus | 2 | deep
+praebeo | 1 | offer
+praebeo | 3 | give, furnish, supply (something needed)
+praebeo | 4 | (trop.) cause, occasion, give rise to
+praebeo | 5 | (se praebere) show oneself, behave, conduct oneself
