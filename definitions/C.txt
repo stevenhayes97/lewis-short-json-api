@@ -3855,6 +3855,7 @@ crimino | 1 | accuse
 criminosus | 1 | slanderous
 # review: crinalis "of the hair" needs the article to be accurate; no shorter English phrasing fits
 crinalis | 1 | of the hair
+crinalis | 3 | crinalis vitta, a hair-band; crinalis acus, or crinale as a noun, a hair-pin
 crinio | 1 | hairy
 crinio | 3 | transf., trailing or maned, as a comet or a crested helmet
 crinis | 1 | hair
@@ -4030,7 +4031,7 @@ curia | 4 | meton., the Senate itself, the assembled body
 # review: curialis "of a curia" needs the article to be accurate; no shorter English phrasing fits
 curialis | 1 | of a curia
 curialis | 3 | as a substantive, a fellow member of a curia
-curialis | 4 | late Lat., belonging to the imperial court
+curialis | 4 | in late Latin, belonging to the imperial court
 # review: curiatus "of the curiae" needs the article to be accurate; no shorter English phrasing fits
 curiatus | 1 | of the curiae
 curiatus | 3 | comitia curiata, the assembly voting by curiae

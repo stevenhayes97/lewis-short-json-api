@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 55 of 85 settled.
+Progress: 60 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -88,14 +88,14 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `congius` r1 "liquid measure" — tightened to "liquid measure" and flag dropped; the nine-word volume now sits at rank 3, which is where a precise quantity belongs
 - [x] `contionalis` r1 "of the assembly" — accepted, and a rank 3 added with contionalis clamor and contionalis senex; the article is needed
 - [x] `coronarius` r1 "of a wreath" — accepted; the article is needed, and rank 3 gives the garland-maker
-- [ ] `crinalis` r1 "of the hair" — "of the hair" needs the article to be accurate; no shorter English phrasing fits
-- [ ] `cubicularius` r1 "of a bedroom" — "of a bedroom" needs the article to be accurate; no shorter English phrasing fits
-- [ ] `curialis` r1 "of a curia" — "of a curia" needs the article to be accurate; no shorter English phrasing fits
-- [ ] `curiatus` r1 "of the curiae" — "of the curiae" needs the article to be accurate; no shorter English phrasing fits
+- [x] `crinalis` r1 "of the hair" — accepted, and a rank 3 added with vitta crinalis and the hair-pin; the article is needed
+- [x] `cubicularius` r1 "of a bedroom" — accepted; the article is needed, and rank 3 gives the chamber-servant
+- [x] `curialis` r1 "of a curia" — accepted; the article is needed, and ranks 3-4 give the member and the late court sense
+- [x] `curiatus` r1 "of the curiae" — accepted; comitia curiata at rank 3 is the whole use
 
 ## D.txt (2)
 
-- [ ] `denicalis` r1 "purifying from death" — is a narrow religious technical term with no natural one-word English adjective; occurs only in the phrase "feriae denicales", funeral rites purifying a family after a death
+- [x] `denicalis` r1 "purifying from death" — accepted, and a rank 3 added for feriae denicales, the only phrase the word occurs in
 - [ ] `dicis` r1 "for form's sake" — has no independent meaning outside the fixed phrase dicis causa/gratia
 
 ## E.txt (4)

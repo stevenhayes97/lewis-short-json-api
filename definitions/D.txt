@@ -514,6 +514,7 @@ deni | 3 | poet: ten (used for decem)
 deni | 4 | poet: tenth (used for decimus)
 # review: denicalis is a narrow religious technical term with no natural one-word English adjective; occurs only in the phrase "feriae denicales", funeral rites purifying a family after a death
 denicalis | 1 | purifying from death
+denicalis | 3 | feriae denicales, the days of purification a household kept after a death
 denigro | 1 | blacken
 denigro | 3 | trop: to blacken someone's reputation, to defame
 denique | 1 | finally
