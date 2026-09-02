@@ -241,3 +241,25 @@ obsono1 | 1 | cater
 obsono1 | 3 | obsonare famem ambulando, to work up an appetite by taking a walk
 obsorbeo | 1 | gulp
 obsorbeo | 3 | swallow up, engulf (transf., of doors "swallowing" whatever passes through)
+obstaculum | 1 | obstacle
+obstetricius | 1 | obstetric
+obstetricius | 3 | obstetricia, midwifery (used substantively as a plural noun)
+obstinatio | 1 | resolve
+obstinatio | 2 | stubbornness
+obstino | 1 | resolve
+obstino | 3 | obstinare + infinitive, to resolve firmly to do something
+obstipesco | 1 | be amazed
+obstipesco | 3 | grow numb, lose feeling (of the body, literal sense)
+obstipus | 1 | tilted
+obstipus | 3 | with head bowed or bent to one side (of posture, in shame, thought, or pride)
+obstipus | 4 | stiff-necked, obstinate, perverse (eccl. Latin)
+obsto | 1 | hinder
+obsto | 3 | quid obstat quominus, what is stopping (something) from happening? (a common construction with a purpose clause)
+obstrepo | 1 | clamor
+obstrepo | 2 | annoy
+obstrepo | 3 | obstrepere alicui, to shout against someone, drown them out with noise (+ dative)
+obstringo | 1 | oblige
+obstringo | 2 | bind
+obstringo | 3 | civitatem jurejurando obstringere, to bind a community by oath
+obstruo | 1 | block
+obstruo | 3 | viri deus obstruit aures, the god blocks a man's ears (trop., of being deaf to something)
