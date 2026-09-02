@@ -588,3 +588,24 @@ oportet | 3 | oportet + accusative and infinitive, one ought to, it is right tha
 oppando | 1 | spread out
 opperior | 1 | wait
 opperior | 3 | opperiri aliquem, to wait for someone, await them (transitive use)
+oppeto | 1 | die
+oppeto | 3 | oppetere mortem, to meet one's death
+oppidanus | 1 | provincial
+oppidanus | 3 | of a country town (as opposed to urbanus, "of Rome")
+oppido | 1 | very
+oppidum | 1 | town
+oppidum | 3 | oppidum vs urbs: oppidum is any town other than Rome, which alone is called urbs
+oppidum | 4 | a fortified stronghold or hillfort (of the Britons, in Caesar)
+oppilo | 1 | plug
+oppleo | 1 | fill
+oppleo | 3 | haec opinio Graeciam opplevit, this belief spread throughout Greece (trop., of an idea filling a place)
+oppono | 1 | oppose
+oppono | 2 | pledge
+oppono | 3 | se opponere periculis, to expose oneself to danger
+oppono | 4 | object, raise in objection (rhetorical, in debate or argument)
+opportunitas | 1 | opportunity
+opportunitas | 2 | advantage
+opportunus | 1 | opportune
+opportunus | 2 | exposed
+oppositus2 | 1 | interposition
+oppositus2 | 3 | lunae oppositus, the interposition of the moon (astronomical, of an eclipse)
