@@ -392,3 +392,25 @@ pax1 | 2 | divine favor
 pax1 | 3 | pax!, silence!, enough! (as an interjection demanding quiet)
 pax1 | 4 | pace tua, with your leave, if I may say so (a common polite formula)
 pax1 | 5 | Pax Romana, the Roman peace (post-Augustan, of Rome's dominion and the stability it imposed)
+peccatum | 1 | sin
+pecco | 1 | err
+pecco | 2 | sin
+pecten | 1 | comb
+pecten | 2 | plectrum
+pecten | 3 | scallop (a shellfish, still the genus name today)
+pecten | 4 | rake
+pectinatim | 1 | comb-like
+pectino | 1 | comb
+pectino | 3 | harrow (transf., of raking soil)
+pecto | 1 | comb
+pecto | 3 | pectere pugnis, to give someone a beating (comic idiom, literally "to comb with fists")
+pectoralis | 1 | pectoral
+pectoralis | 2 | breastplate
+pectus | 1 | breast
+pectus | 2 | heart
+pectus | 3 | mind, understanding (trop., the intellectual or rational faculty)
+pecu | 1 | cattle
+pecu | 2 | money
+pecu | 3 | pecu squamosum, "scaly cattle" (a poetic kenning for fish)
+pecuarius | 1 | cattle
+pecuarius | 2 | grazier
