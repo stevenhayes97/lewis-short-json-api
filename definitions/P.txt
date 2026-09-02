@@ -901,3 +901,22 @@ perspicuitas | 1 | clarity
 perspicuus | 1 | clear
 persto | 1 | stand firm
 persto | 2 | persist
+perstrepo | 1 | resound
+perstringo | 1 | graze
+perstringo | 2 | censure
+perstringo | 3 | touch on briefly, mention in passing (in speech)
+persuadeo | 1 | persuade
+persuadeo | 3 | persuadere alicui ut, to persuade someone to do something (+ dative and ut/ne clause)
+persuasibilis | 1 | persuasive
+persuasio | 1 | persuasion
+persuasio | 2 | conviction
+persulto | 1 | frisk about
+persulto | 3 | resound (transf., of the voice)
+pertaedet | 1 | weary
+pertaedet | 3 | pertaedet me alicuius rei, I am sick and tired of something (an impersonal construction, + genitive)
+pertego | 1 | cover completely
+pertego | 3 | benefacta benefactis pertegito, cover good deeds with more good deeds (a vivid Plautine metaphor for sustained kindness)
+pertendo | 1 | persevere
+pertendo | 3 | push on, proceed (of physically continuing toward a destination)
+pertento | 1 | test
+pertento | 2 | pervade
