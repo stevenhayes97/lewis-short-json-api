@@ -2453,3 +2453,34 @@ proficio | 4 | (of inanimate things, post-Aug.) grow, increase
 proficiscor | 1 | depart
 proficiscor | 3 | (trop.) begin, commence (a discussion or line of reasoning)
 proficiscor | 4 | (trop.) arise, originate, spring (from something)
+profiteor | 1 | profess
+profiteor | 3 | declare oneself to be (something), profess to be
+profiteor | 4 | practice, profess (an art or science) as one's occupation
+profiteor | 5 | offer freely, volunteer, promise
+profligo1 | 1 | rout
+profligo1 | 3 | (trop.) ruin, destroy, overthrow
+profligo1 | 4 | bring nearly to an end, all but finish
+profligo1 | 5 | (as p. a. profligatus) corrupt, dissolute, profligate
+proflo | 1 | exhale
+proflo | 3 | (transf., post-Aug.) melt, liquefy by blowing
+profluo | 1 | flow
+profluo | 3 | (trop.) issue, proceed, spring (from a source)
+profluo | 4 | (as p. a. profluens, of speech) fluent, flowing
+profluvium | 1 | discharge
+profluvium | 3 | (medical) diarrhoea, looseness of the bowels
+profluvium | 4 | (medical) the menses, monthly flow
+profor | 1 | utter
+profor | 3 | (in partic.) foretell, predict, prophesy
+profugio | 1 | flee
+profugio | 3 | flee for refuge, take shelter (with someone)
+profugus | 1 | fugitive
+profugus | 3 | (transf., poet.) wandering, vagabond, unsettled
+profugus | 4 | (in partic.) exiled, banished from one's homeland
+profunditas | 1 | depth
+profunditas | 3 | (trop.) vastness, immensity (of genius, learning)
+profundo | 1 | pour
+profundo | 3 | shed, spill (blood or tears)
+profundo | 4 | (trop.) squander, lavish, waste (money)
+profundo | 5 | (trop.) sacrifice, give up (one's life, for a cause)
+profundo | 6 | (as p. a. profusus) lavish, extravagant, profuse
+profundo | 7 | (as p. a. profusus) immoderate, excessive
