@@ -883,3 +883,21 @@ perseverantia | 3 | (of a war or ordeal) long continuance, tedious duration (tra
 persevero | 1 | persevere
 persevero | 3 | perseverare in aliqua re, to persist in something (+ ablative, a common construction)
 persisto | 1 | persist
+persolvo | 1 | pay
+persolvo | 2 | solve
+persona | 1 | mask
+persona | 2 | character
+persona | 3 | person
+persona | 4 | (grammar) person, as in first, second, or third person
+personalis | 1 | personal
+personatus | 1 | masked
+personatus | 2 | pretended
+persono | 1 | resound
+persono | 2 | cry out
+perspicax | 1 | perspicacious
+perspicio | 1 | look into
+perspicio | 2 | perceive
+perspicuitas | 1 | clarity
+perspicuus | 1 | clear
+persto | 1 | stand firm
+persto | 2 | persist
