@@ -355,3 +355,21 @@ paululus | 3 | paululum alicuius rei, a little bit of something (+ genitive, a c
 paulus1 | 1 | small
 paulus1 | 2 | somewhat
 paulus1 | 3 | paulo ante, paulo post, shortly before, shortly after (common idioms, the ablative used adverbially with comparatives)
+pauper | 1 | poor
+pauper | 3 | scanty, meagre (of things, transf.)
+pauperculus | 1 | poor
+pauperies | 1 | poverty
+pauperies | 2 | damage
+paupero | 1 | impoverish
+paupero | 2 | deprive
+paupertas | 1 | poverty
+paupertas | 3 | paupertas vs egestas: paupertas is modest means, not the desperate destitution of egestas or inopia
+paupertas | 4 | poverty of language, a lack of vocabulary or expressiveness (trop., a rhetorical criticism)
+pausarius | 1 | boatswain
+pausarius | 3 | a rowing-master who signals the stroke with a hammer
+pauso | 1 | pause
+pauso | 3 | pausat in pace, (he or she) rests in peace (a common funerary inscription formula)
+pauxillulus | 1 | tiny
+pauxillus | 1 | little
+pauxillus | 3 | ex pauxillo, little by little (a common idiom)
+pavefacio | 1 | frighten
