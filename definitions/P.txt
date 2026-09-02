@@ -1336,3 +1336,25 @@ poculum | 1 | cup
 poculum | 3 | a drink, draught, potion (poet.)
 poculum | 4 | a drinking-bout, carouse
 poculum | 5 | a draught of poison
+poenalis | 1 | penal
+poetor | 1 | poetize
+polio1 | 1 | polish
+polio1 | 3 | adorn, embellish (of fields, etc., transf.)
+polio1 | 4 | (trop., of style) refine, polish
+politura | 1 | polishing
+politura | 3 | (of literary style) finish, polish
+pollen | 1 | flour
+pollen | 3 | fine dust (of pepper, incense, etc., transf.)
+polleo | 1 | prevail
+polleo | 3 | (of medicines) be effective, potent
+polleo | 4 | be worth, be valued, esteemed (transf.)
+polleo | 5 | abound in, be rich in
+pollex1 | 1 | thumb
+pollex1 | 2 | toe
+pollex1 | 3 | the stump of a pruned vine-branch (transf.)
+pollex1 | 4 | a knob, protuberance on a tree trunk (transf.)
+polliceor | 1 | promise
+polliceor | 3 | (of a speaker) announce, promise (in opening a speech)
+polliceor | 4 | (of a bidder) bid, offer (at a sale)
+pollicitatio | 1 | promise
+pollicitor | 1 | promise
