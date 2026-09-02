@@ -221,3 +221,23 @@ obsideo | 1 | besiege
 obsideo | 2 | occupy
 obsideo | 3 | haunt, frequent (a place)
 obsideo | 4 | watch closely, be on the lookout for
+obsidio | 1 | siege
+obsidio | 2 | danger
+obsidionalis | 1 | of siege
+obsidionalis | 3 | corona obsidionalis, the siege crown (a grass crown awarded to a general who lifted a siege)
+obsidium1 | 1 | siege
+obsidium1 | 3 | ambush, waylaying (trop.)
+obsidium1 | 4 | danger
+obsido | 1 | besiege
+obsigno | 1 | seal
+obsigno | 3 | impress, stamp firmly (on the mind, trop.)
+obsisto | 1 | resist
+obsisto | 2 | block
+obsisto | 3 | obsistere alicui rei, to stand in the way of something, oppose it (+ dative)
+obsolefacio | 1 | degrade
+obsolesco | 1 | become obsolete
+obsolesco | 3 | become shabby, worn out, or common (of clothing, style, or quality)
+obsono1 | 1 | cater
+obsono1 | 3 | obsonare famem ambulando, to work up an appetite by taking a walk
+obsorbeo | 1 | gulp
+obsorbeo | 3 | swallow up, engulf (transf., of doors "swallowing" whatever passes through)
