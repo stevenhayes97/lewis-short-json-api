@@ -274,3 +274,26 @@ pastio | 2 | pasture
 pastor | 1 | shepherd
 pastor | 2 | pastor
 pastor | 3 | pastor populi, shepherd of the people (trop., of a leader or ruler)
+pastoralis | 1 | pastoral
+pastus2 | 1 | fodder
+pastus2 | 3 | sustenance, nourishment (trop., of anything that feeds or sustains)
+patefacio | 1 | open
+patefacio | 2 | reveal
+patella1 | 1 | dish
+patella1 | 2 | kneecap
+pateo | 1 | be open
+pateo | 2 | extend
+pateo | 3 | be evident, be clear (trop., of something obvious or well known)
+pater | 1 | father
+pater | 2 | ancestors
+pater | 3 | Pater, God the Father (eccl. Latin, of the Christian deity)
+pater | 4 | pater familias, the head of a household
+patera | 1 | libation-bowl
+patera | 3 | a shallow ceremonial dish used for pouring wine offerings to the gods
+paternus | 1 | paternal
+paternus | 3 | paternus vs patrius: paternus is a father's property or external relations, patrius what belongs to his essential nature
+paternus | 4 | casus paternus, the genitive case (a grammatical term)
+patesco | 1 | open
+patesco | 3 | become evident, come to light (trop.)
+patibilis | 1 | endurable
+patibilis | 2 | sensitive
