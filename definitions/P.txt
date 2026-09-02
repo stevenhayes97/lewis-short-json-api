@@ -3003,3 +3003,26 @@ pulso | 5 | drive away, remove, put out of the way
 pulsus2 | 1 | blow
 pulsus2 | 3 | (trop.) impulse, influence (on the mind)
 pulto1 | 1 | knock
+pulvereus | 1 | dusty
+pulvereus | 3 | (act.) that raises dust, of a horse or wind
+pulvero | 1 | dust
+pulvero | 3 | (viticulture) cover vines with loose soil, as protection
+pulvero | 4 | pulverize, reduce to powder
+pulverulentus | 1 | dusty
+pulverulentus | 3 | (trop.) toilsome, laborious
+pulvinar | 1 | couch
+pulvinar | 3 | (relig.) the ceremonial couch of a god, set out at a lectisternium
+pulvinatus | 1 | cushion-shaped
+pulvinus | 1 | cushion
+pulvinus | 3 | (agri.) a raised bed or ridge in a field
+pulvinus | 4 | (transf.) a seat of honour
+pulvis | 1 | dust
+pulvis | 3 | (transf.) the arena, the field of contest
+pulvis | 4 | (poet., transf.) toil, effort, labour
+pulvisculus | 1 | powder
+pulvisculus | 3 | (transf., cum pulvisculo) wholly, completely, entirely, an idiom
+pumex | 1 | pumice
+pumex | 3 | (transf., poet.) any soft, porous rock
+pumex | 4 | (gen., poet.) a rock
+pumico | 1 | polish
+pumico | 3 | (as p. a. pumicatus, trop.) smooth, effeminate, luxurious, of a person
