@@ -740,3 +740,21 @@ perimo | 2 | kill
 perinde | 1 | equally
 perinde | 3 | perinde ac/quasi, just as, just as if (a common comparative construction)
 peritia | 1 | expertise
+peritus | 1 | skilled
+peritus | 3 | peritus alicuius rei, skilled or experienced in something (+ genitive)
+perjucundus | 1 | very pleasant
+perjurium | 1 | perjury
+perjurium | 3 | perjuria Graia, the perjured Greeks (poet., a famous epithet for Greek treachery, e.g. Sinon)
+perjurus | 1 | perjured
+perlabor | 1 | glide through
+perlego | 1 | read through
+perlego | 2 | survey
+perlego | 3 | read aloud, read out (transf., e.g. a list of names)
+perlibet | 1 | delight
+perlibet | 3 | perlibet mihi, it greatly pleases me, I should very much like (an impersonal construction)
+perlibro | 1 | level
+perlibro | 2 | hurl
+perlino | 1 | smear
+perlino | 3 | perliti fuco, coated with color, i.e. biased or tinged by an opinion (trop., a vivid metaphor)
+perlito | 1 | sacrifice favorably
+perlito | 3 | to obtain favorable omens through a sacrifice (a technical term in Roman state religion)
