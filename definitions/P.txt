@@ -1806,3 +1806,31 @@ praegustator | 3 | (trop.) one who samples or previews something in advance (fig
 praegusto | 1 | foretaste
 praegusto | 3 | (gen.) take, eat, or drink beforehand
 praehibeo | 1 | offer
+praejudicium | 1 | precedent
+praejudicium | 3 | (post-class.) damage, disadvantage, prejudice
+praejudicium | 4 | (legal) a preliminary judicial examination before a trial
+praejudico | 1 | prejudge
+praejudico | 3 | (post-class.) be injurious, prejudicial (to something, with dat.)
+praelabor | 1 | glide
+praelabor | 3 | (trop.) glide past, hasten by (time, etc.)
+praelego1 | 1 | bequeath
+praelego1 | 3 | (legal) leave a legacy to be given before the general division of the inheritance
+praelego2 | 1 | lecture
+praelego2 | 3 | select, pick out, choose (post-class.)
+praelego2 | 4 | sail by, sail along (a coast, post-Aug.)
+praelibatio | 1 | foretaste
+praelibatio | 3 | an offering of the first-fruits (relig.)
+praelibatio | 4 | (trop.) a diminution, lessening
+praeligo | 1 | bind
+praeligo | 3 | bind up, dress (a wound)
+praeligo | 4 | cover, veil (transf.)
+praeligo | 5 | (trop.) fetter, enthrall, captivate
+praeloquor | 1 | preface
+praeloquor | 3 | speak first, forestall (someone) in speaking
+praeloquor | 4 | (rare) foretell, predict
+praeluceo | 1 | light
+praeluceo | 3 | (trop.) shine forth, be bright, be conspicuous
+praeluceo | 4 | (trop.) outshine, surpass
+praeludo | 1 | prelude
+praeludo | 3 | (trop.) preface, premise (in writing)
+praeludo | 4 | (trop.) serve as a foretaste or rehearsal (of a larger event)
