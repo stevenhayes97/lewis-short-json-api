@@ -75,3 +75,28 @@ objurgo | 4 | punish, chastise physically (post-Augustan)
 oblatio | 1 | offering
 oblatio | 3 | a bid at an auction
 oblatio | 4 | (eccl.) sacrifice, offering to God
+oblatro | 1 | carp
+oblatro | 3 | oblatrare alicui, to rail or carp at someone
+oblectamentum | 1 | delight
+oblecto | 1 | amuse
+oblecto | 2 | delay
+oblecto | 3 | se oblectare, to amuse oneself, enjoy oneself
+oblido | 1 | squeeze
+oblido | 3 | crush, squeeze to pieces
+obligatio | 1 | obligation
+obligatio | 3 | a bond or legal document recording an obligation
+obligo | 1 | bind
+obligo | 2 | bandage
+obligo | 3 | pledge, mortgage
+obligo | 4 | fidem suam obligare, to pledge one's word
+oblimo | 1 | muddy
+oblimo | 2 | squander
+oblimo | 3 | darken, obscure, confuse (trop.)
+oblinio | 1 | smear
+oblinio | 3 | blot out, erase (transf.)
+oblino | 1 | smear
+oblino | 2 | defile
+oblino | 3 | plaster over, stop up (a container, by smearing)
+oblino | 4 | overload, fill to excess (with something, trop.)
+obliquo | 1 | slant
+obliquo | 3 | obliquare preces, to make requests indirectly, hint rather than ask outright
