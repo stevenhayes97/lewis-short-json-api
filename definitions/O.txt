@@ -100,3 +100,23 @@ oblino | 3 | plaster over, stop up (a container, by smearing)
 oblino | 4 | overload, fill to excess (with something, trop.)
 obliquo | 1 | slant
 obliquo | 3 | obliquare preces, to make requests indirectly, hint rather than ask outright
+obliquus | 1 | oblique
+obliquus | 2 | indirect
+obliquus | 3 | casus obliquus, an oblique case (any case except the nominative and vocative)
+obliquus | 4 | collateral (of family relationship, not directly descended)
+oblitesco | 1 | hide
+oblittero | 1 | obliterate
+oblittero | 3 | blot out of memory, cause to be forgotten
+oblivio | 1 | oblivion
+obliviosus | 1 | forgetful
+obliviosus | 3 | that causes forgetfulness (of wine, poet.)
+obliviscor | 1 | forget
+obliviscor | 3 | oblivisci alicuius rei, to forget something (usually + genitive, sometimes + accusative)
+oblivium | 1 | oblivion
+obloquor | 1 | contradict
+obloquor | 3 | accompany (in singing), sing along with
+obloquor | 4 | rail at, abuse
+obluctor | 1 | struggle
+obluctor | 3 | obluctari alicui rei, to struggle against something (+ dative)
+obmolior | 1 | barricade
+obmolior | 3 | block up, obstruct (an entrance or gap)
