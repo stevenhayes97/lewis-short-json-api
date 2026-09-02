@@ -999,3 +999,25 @@ pervolo1 | 2 | dart through
 pervolo2 | 1 | wish greatly
 pervolvo | 1 | roll about
 pervolvo | 2 | read through
+pervulgo | 1 | publicize
+pervulgo | 3 | pervulgatus, common, well known, widespread (the common adjectival participle)
+pes | 1 | foot
+pes | 2 | sheet
+pes | 3 | a rope used to set a sail to the wind (the nautical sense of pes)
+pes | 4 | pedibus ire in sententiam alicuius, to side with someone's opinion (a Roman senatorial voting procedure, literally "go with the feet")
+pes | 5 | a metrical foot (in poetry, as in English)
+pessulus | 1 | bolt
+pessum1 | 1 | down
+pessum1 | 3 | pessum ire, to go to ruin, sink, perish
+pessum1 | 4 | pessum dare, to ruin, destroy, sink (transitive, "to send to the bottom")
+pestifer | 1 | pestilential
+pestifer | 2 | destructive
+pestilens | 1 | pestilential
+pestilens | 3 | noxious, harmful (trop., of a person or thing)
+pestilentia | 1 | plague
+pestis | 1 | plague
+pestis | 2 | bane
+pestis | 3 | destruction, ruin, death (transf., in a general abstract sense)
+petesso | 1 | pursue eagerly
+petimen | 1 | saddle sore
+petimen | 3 | a sore on a draft animal's shoulder, caused by its harness
