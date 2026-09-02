@@ -2589,3 +2589,31 @@ promptuarius | 3 | (as noun, promptuarium) a storeroom, repository
 promptus2 | 1 | visibility
 promptus2 | 3 | (in promptu esse or habere) to be at hand, ready, available
 promptus2 | 4 | (in promptu esse) to be easy, straightforward
+promulgo | 1 | promulgate
+promunturium | 1 | promontory
+promunturium | 3 | the highest ridge of a mountain chain
+promus | 1 | steward
+promus | 3 | (transf.) a librarian, one who gives out books
+promutuus | 1 | advanced
+promutuus | 3 | (as noun, promutuum) an advance, a loan
+pronubus | 1 | bridal
+pronubus | 3 | (as noun, pronubus) a groomsman, one who conducts the marriage rites
+pronubus | 4 | (as noun, pronuba) a matron who attends the bride at a wedding
+pronuntiatio | 1 | proclamation
+pronuntiatio | 3 | (rhet.) delivery, manner of speaking, an oratorical technique
+pronuntiatio | 4 | (logic) a proposition, a statement that can be true or false
+pronuntio | 1 | announce
+pronuntio | 3 | recite, declaim, deliver (a speech)
+pronuntio | 4 | (of an actor) perform, act on stage
+pronuntio | 5 | pronounce, utter (a word or sound)
+pronuntio | 6 | (legal, post-class.) sentence, pass judgment
+pronuntio | 7 | nominate, appoint (to public office)
+pronus | 1 | prone
+pronus | 3 | downward, sloping, inclined (of a place or thing)
+pronus | 4 | (poet., of stars, time) setting, sinking, declining
+pronus | 5 | (post-Aug.) favourable, well-disposed toward someone
+pronus | 6 | (mostly post-Aug.) easy, without difficulty
+propagatio | 1 | propagation
+propagatio | 3 | (trop.) extension, enlargement, prolongation
+propages | 1 | layer
+propages | 3 | (transf.) offspring, progeny, posterity
