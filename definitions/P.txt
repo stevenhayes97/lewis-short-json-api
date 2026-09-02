@@ -2788,3 +2788,20 @@ prosum1 | 1 | benefit
 prosum1 | 3 | (of a medicine or remedy) be good for, be beneficial for something
 protector | 1 | protector
 protector | 3 | (mil., post-class.) a member of the imperial bodyguard
+protego | 1 | protect
+protego | 3 | (jurid.) build a projecting roof or shed
+protego | 4 | cover up, screen, conceal (very rare)
+protelo | 1 | repulse
+protelo | 3 | (transf.) prolong, delay, defer, put off
+protelum | 1 | team
+protelum | 3 | (transf.) a line, row, succession
+protendo | 1 | extend
+protendo | 3 | (trop., post-class.) prolong, lengthen (a word or speech)
+protero | 1 | trample
+protero | 3 | (transf.) overthrow, defeat, crush (an enemy)
+proterreo | 1 | scare
+protervitas | 1 | impudence
+protervus | 1 | impudent
+protervus | 2 | violent
+protestor | 1 | testify
+protinam | 1 | forthwith
