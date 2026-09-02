@@ -1,0 +1,23 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_P.json (Lewis & Short via Perseus), simplified for learners.
+pabulatio | 1 | foraging
+pabulatio | 3 | pasture, pastureland (literal)
+pabulor | 1 | forage
+pabulor | 3 | graze, feed (of animals eating fodder)
+pabulum | 1 | fodder
+pabulum | 3 | food, sustenance (trop., of anything that nourishes or feeds something abstract)
+pacator | 1 | pacifier
+pacator | 3 | subjugator, conqueror (since peace was often established through conquest)
+pacifer | 1 | peace-bringing
+pacifico | 1 | make peace
+pacifico | 2 | appease
+pacificus | 1 | peaceable
+pacisco | 1 | agree
+pacisco | 3 | quo pacto, in what way, how (a common idiomatic ablative)
+pacisco | 4 | betrothed (of the participle pactus/pacta, promised in marriage)
+paciscor | 1 | bargain
+paciscor | 2 | betroth
+paciscor | 3 | vitam pro laude paciscor, to stake one's life for glory (trop., poet.)
+paco2 | 1 | pacify
+paco2 | 2 | subdue
+paco2 | 3 | pacare silvas, to clear and tame forests (transf., of land brought under cultivation)
