@@ -346,3 +346,24 @@ occasio | 3 | a raid, surprise attack (military term)
 occasus2 | 1 | setting
 occasus2 | 2 | west
 occasus2 | 3 | downfall, ruin, destruction, death (trop.)
+occator | 1 | harrower
+occedo | 1 | approach
+occento | 1 | serenade
+occento | 2 | lampoon
+occento | 3 | sing a mocking or satirical song against someone (a recognized form of public shaming)
+occidio | 1 | massacre
+occidio | 3 | occidione occidere, to utterly annihilate, wipe out completely (an emphatic idiom)
+occido1 | 1 | kill
+occido1 | 2 | pester
+occido1 | 3 | occidis me!, you're killing me! (a common comic exclamation of exasperation)
+occido2 | 1 | set
+occido2 | 2 | die
+occido2 | 3 | occidi!, I am ruined!, I am undone! (a common exclamation of despair)
+occiduus | 1 | setting
+occiduus | 2 | western
+occiduus | 3 | failing, declining (trop., of old age)
+occino | 1 | screech
+occino | 3 | give an unfavorable omen by its cry (of a bird in augury)
+occipio | 1 | begin
+occipio | 3 | ita ut occepi, as I was saying (a formula for resuming a discourse after interruption)
+occipitium | 1 | occiput
