@@ -2507,3 +2507,30 @@ prognatus | 3 | (transf., poet.) sprung up, grown (of plants)
 progredior | 1 | advance
 progredior | 3 | (trop.) proceed (in a discussion or argument)
 progredior | 4 | (trop.) progress, make headway, in virtue, skill, etc.
+progressio | 1 | progression
+progressio | 3 | (rhet.) climax, a progressive strengthening of expressions
+progressus2 | 1 | advance
+progressus2 | 3 | (transf., concr.) a jetty, pier, mole
+progressus2 | 4 | (trop.) the course, progress (of events)
+prohibeo | 1 | prevent
+prohibeo | 3 | forbid, prohibit (something)
+prohibeo | 4 | (rare) keep safe, protect, defend (from danger)
+prohibitio | 1 | prohibition
+proicio | 1 | fling
+proicio | 3 | cast out, expel, banish
+proicio | 4 | (trop.) give up, renounce, reject
+proicio | 5 | (se proicere) rush into, throw oneself into (danger, disgrace)
+proicio | 6 | (as p. a. projectus) jutting out, projecting
+proicio | 7 | (as p. a. projectus) abject, mean, contemptible
+proinde | 1 | therefore
+proinde | 3 | just so, equally, in the same manner, with atque, ac, or ut
+projectio | 1 | extension
+projectio | 3 | (transf., concr.) an architectural projection, jutting part of a building
+prolabor | 1 | slip
+prolabor | 3 | (trop.) fall into error, go wrong, err
+prolabor | 4 | (trop.) decline, sink, fall into ruin
+prolapsio | 1 | slip
+prolapsio | 3 | (trop., late Lat.) an error, a misstep
+prolatio | 1 | utterance
+prolatio | 3 | extension, enlargement (of boundaries)
+prolatio | 4 | a deferring, postponement, delay (of a trial or event)
