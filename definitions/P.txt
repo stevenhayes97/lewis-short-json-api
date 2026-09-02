@@ -1920,3 +1920,26 @@ praeproperus | 1 | overhasty
 praeputium | 1 | foreskin
 praeputium | 3 | (trop.) impurity, uncleanness (fig., 'foreskin of the heart')
 praeputium | 4 | (transf.) uncircumcision (as a state)
+praerapidus | 1 | swift
+praerapidus | 3 | (trop.) very eager, ardent
+praeripio | 1 | snatch
+praeripio | 3 | carry off prematurely, cut short (a life)
+praeripio | 4 | forestall, anticipate (someone's action)
+praerodo | 1 | gnaw
+praerogativus | 1 | first-voting
+praerogativus | 3 | (as noun, praerogativa) the tribe or century that voted first in the assembly
+praerogativus | 4 | (as noun) a sure sign, omen, token
+praerogativus | 5 | (as noun) a privilege, prerogative
+praerogo | 1 | prepay
+praerogo | 3 | ask first, poll before others (in voting)
+praerumpo | 1 | snap
+praerumpo | 3 | (as p. a. praeruptus) steep, abrupt, precipitous (of places)
+praerumpo | 4 | (as p. a. praeruptus, trop.) hasty, rash, precipitate
+praes1 | 1 | surety
+praesaepe | 1 | stable
+praesaepe | 3 | (transf.) a hut, hovel, humble dwelling
+praesaepe | 4 | (fig.) a crib, mess, table (for eating)
+praesaepe | 5 | (astro.) the Praesepe, a star cluster in Cancer
+praesagio | 1 | presage
+praesagio | 3 | (transf.) forebode, foreshow, predict
+praesagitio | 1 | premonition
