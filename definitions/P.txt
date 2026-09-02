@@ -1980,3 +1980,22 @@ praesidalis | 1 | gubernatorial
 praesideo | 1 | preside
 praesideo | 3 | (trop.) guard, watch over, protect, defend
 praesideo | 4 | command, direct, have charge of (a province, army, etc.)
+praesidiarius | 1 | defensive
+praesidiarius | 3 | (as noun) a garrison
+praesidiarius | 4 | (post-class.) of a provincial governor, gubernatorial
+praesidiarius | 5 | (transf.) kept in reserve
+praesidium | 1 | protection
+praesidium | 3 | (mil.) a garrison, guard, escort
+praesidium | 4 | a fortified post, a camp (the place itself)
+praesidium | 5 | (gen.) help, assistance of any kind
+praesidium | 6 | a remedy, safeguard (against disease)
+praestabilis | 1 | preeminent
+praestantia | 1 | preeminence
+praestatio | 1 | warranty
+praestatio | 3 | (transf., post-class.) payment of a due, discharge of an obligation
+praesterno | 1 | prepare
+praestes | 1 | guardian
+praestigiae | 1 | trickery
+praestigiae | 3 | (concr.) conjuring tricks, sleight of hand
+praestino | 1 | buy
+praestituo | 1 | prescribe
