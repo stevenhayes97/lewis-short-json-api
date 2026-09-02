@@ -940,3 +940,23 @@ pertineo | 2 | extend
 pertineo | 3 | belong to, be the rightful property of (of a legal claim or right)
 pertingo | 1 | extend
 pertingo | 3 | reach, attain (trop., of an abstract goal such as wisdom)
+pertono | 1 | thunder
+pertono | 3 | proclaim loudly, thunder forth (act., of announcing something forcefully)
+pertracto | 1 | handle
+pertracto | 2 | study
+pertraho | 1 | drag
+pertraho | 2 | entice
+pertranseo | 1 | pass through
+pertranseo | 2 | pass away
+pertundo | 1 | perforate
+perturbatio | 1 | disturbance
+perturbatio | 2 | emotion
+perturbo | 1 | disturb
+perturbo | 3 | perturbatus, disturbed, upset, thrown into confusion (the common adjectival participle)
+perurbanus | 1 | very witty
+perurbanus | 2 | over-refined
+perurgeo | 1 | oppress
+perurgeo | 2 | urge strongly
+peruro | 1 | burn up
+peruro | 2 | chafe
+peruro | 3 | nip, pinch (transf., of cold or frost)
