@@ -367,3 +367,22 @@ occino | 3 | give an unfavorable omen by its cry (of a bird in augury)
 occipio | 1 | begin
 occipio | 3 | ita ut occepi, as I was saying (a formula for resuming a discourse after interruption)
 occipitium | 1 | occiput
+occisio | 1 | slaughter
+occludo | 1 | shut
+occludo | 3 | linguam occludere, to silence someone, stop them from speaking
+occo | 1 | harrow
+occubo | 1 | lie buried
+occulo | 1 | hide
+occulo | 3 | bury, cover with earth
+occultatio | 1 | concealment
+occultatio | 3 | (rhetoric) paralipsis, pretending to pass over a point while actually raising it
+occulto2 | 1 | hide
+occumbo | 1 | die
+occumbo | 3 | morti occumbere, to meet one's death (a common heroic or poetic phrase)
+occupatio | 1 | occupation
+occupatio | 2 | seizure
+occupatio | 3 | (rhetoric) anticipating and refuting an opponent's objections in advance
+occupo | 1 | seize
+occupo | 2 | preempt
+occupo | 3 | occupare locum, to seize control of a place (a common military or political phrase)
+occupo | 4 | timor animum occupat, fear seizes the mind (trop., of an emotion or state taking hold)
