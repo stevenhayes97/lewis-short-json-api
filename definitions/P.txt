@@ -1408,3 +1408,30 @@ pono | 10 | (trop.) lay down as true, state, assert, assume
 pons1 | 1 | bridge
 pons1 | 3 | (at the Comitia) the gangway over which voters passed to cast their ballot
 pons1 | 4 | the deck of a ship (transf.)
+pontifex | 1 | pontiff
+pontifex | 3 | (Jewish, or later Christian) a high priest; a bishop
+pontificius | 1 | pontifical
+pontificius | 3 | (as noun, pontificium) the office or dignity of a pontiff or bishop
+pontificius | 4 | (transf.) the power or right of doing something
+popa | 1 | acolyte
+popa | 3 | an inferior priest's assistant who led the sacrificial victim to the altar and felled it
+popina | 1 | cookshop
+popina | 3 | (transf.) the food sold at a cookshop, fare
+poples | 1 | knee
+poples | 3 | specifically, the hollow at the back of the knee, the hough
+popularis | 1 | popular
+popularis | 2 | democratic
+popularis | 3 | (political) of the popular party, as opposed to the aristocratic optimates
+popularis | 4 | (as noun) a fellow-countryman, compatriot
+popularis | 5 | (as noun) a companion, comrade, associate
+popularis | 6 | common, coarse, vulgar (of low class)
+popularis | 7 | native, of the same country or region
+popularitas | 1 | popularity
+popularitas | 3 | fellow-citizenship, being of the same country (rare)
+popularitas | 4 | (late Lat.) the population, inhabitants
+populatio1 | 1 | devastation
+populatio1 | 3 | plunder, booty (concr., things plundered)
+populatio1 | 4 | (trop.) ruin, corruption, destruction (post-Aug.)
+populator | 1 | ravager
+populor | 1 | ravage
+populor | 3 | (gen., poet.) destroy, ruin, spoil
