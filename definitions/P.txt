@@ -318,3 +318,22 @@ patrimonium | 3 | populi Romani patrimonium, the inheritance or estate of the Ro
 # review: patrimus -- no single English word for "having a father still alive"; needed for the ritual pairing patrimi et matrimi
 patrimus | 1 | having a father still living
 patrimus | 3 | patrimi et matrimi, children whose father and mother are both still alive (required for certain religious rites)
+patritus | 1 | paternal
+patrius1 | 1 | paternal
+patrius1 | 2 | homeland
+patrius1 | 3 | patria, one's native land or country (used substantively as a feminine noun -- an essential word, root of "patriot")
+patrius1 | 4 | hereditary, traditional, handed down (transf., of ancient customs or traits)
+patrius2 | 1 | native
+patrius2 | 3 | nomen patrium, a gentile or national adjective (e.g. Romanus, Atheniensis) -- a grammatical term
+patro | 1 | accomplish
+patro | 3 | bellum patrare, to bring a war to an end
+patrocinium | 1 | patronage
+patrocinium | 2 | advocacy
+patrocinor | 1 | champion
+patrocinor | 3 | patrocinari alicui, to act as patron or defender for someone (+ dative)
+patrona | 1 | patroness
+patronatus | 1 | patronage
+patronus | 1 | patron
+patronus | 2 | advocate
+patruelis | 1 | cousin
+patruelis | 3 | patruelis vs consobrinus: patruelis is specifically a cousin through a father's brother; consobrinus is through a mother's sister
