@@ -2138,3 +2138,35 @@ pratum | 4 | (poet., transf.) a broad plain (of the sea, fig.)
 pravitas | 1 | crookedness
 pravitas | 3 | (trop.) perverseness, impropriety
 pravitas | 4 | (of character, in partic.) depravity, viciousness
+pravus | 1 | crooked
+pravus | 2 | wicked
+precarius | 1 | precarious
+precarius | 3 | (lit.) obtained by entreaty or favour, not by right
+precatio | 1 | prayer
+precatio | 3 | (concr., post-Aug.) a set form of prayer, used superstitiously
+precor | 1 | pray
+precor | 3 | wish (someone) well, salute with a blessing
+precor | 4 | curse, invoke evil upon (someone)
+prehendo | 1 | grasp
+prehendo | 3 | seize, occupy suddenly (a place, by force)
+prehendo | 4 | detain (someone), buttonhole, stop to talk with
+prehendo | 5 | catch in the act, catch red-handed
+prehendo | 6 | (trop., rare) apprehend, comprehend (with the mind)
+prehensio | 1 | seizure
+prehensio | 3 | (legal, ante-class.) the right to arrest someone
+prehenso | 1 | grasp
+prehenso | 3 | detain (someone), buttonhole, entreat
+prehenso | 4 | (transf.) canvass, solicit votes for office
+prelum | 1 | press
+prelum | 3 | (specifically) a wine-press or oil-press
+prelum | 4 | a clothes-press, for smoothing garments
+premo | 1 | press
+premo | 3 | pursue closely, press hard upon (an enemy)
+premo | 4 | burden, weigh down, load
+premo | 5 | hide, conceal, suppress (poet.)
+premo | 6 | check, restrain, arrest
+premo | 7 | prune, keep in check (of plants)
+premo | 8 | rule, govern (poet.)
+premo | 9 | surpass, exceed
+premo | 10 | (as p. a. pressus, of style) concise, terse, without ornament
+presso | 1 | press
