@@ -297,3 +297,24 @@ patesco | 1 | open
 patesco | 3 | become evident, come to light (trop.)
 patibilis | 1 | endurable
 patibilis | 2 | sensitive
+patibulum | 1 | gibbet
+patibulum | 3 | a forked prop for supporting vines (agricultural sense)
+patientia | 1 | patience
+patientia | 2 | forbearance
+patina1 | 1 | pan
+patina1 | 3 | manger, crib (transf., a feeding trough)
+patinarius | 1 | pan
+patior | 1 | suffer
+patior | 2 | allow
+patior | 3 | (gram.) to be passive, have a passive sense (the source of the term "passive")
+patriarcha | 1 | patriarch
+patriarcha | 3 | a chief bishop (eccl. Latin, a specific high church office)
+patricius | 1 | patrician
+patricius | 3 | (later imperial usage) a high court title, granted by the emperor from Constantine onward
+patricus | 1 | paternal
+patricus | 3 | patricus casus, the genitive case (a grammatical term)
+patrimonium | 1 | inheritance
+patrimonium | 3 | populi Romani patrimonium, the inheritance or estate of the Roman people (trop., of public resources)
+# review: patrimus -- no single English word for "having a father still alive"; needed for the ritual pairing patrimi et matrimi
+patrimus | 1 | having a father still living
+patrimus | 3 | patrimi et matrimi, children whose father and mother are both still alive (required for certain religious rites)
