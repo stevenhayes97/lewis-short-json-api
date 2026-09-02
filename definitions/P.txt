@@ -2886,3 +2886,33 @@ pte | 1 | own
 pte | 3 | an enclitic suffix meaning 'own, self', attached to possessive pronouns, e.g. meopte 'by my very own'
 pubens | 1 | pubescent
 pubens | 3 | (transf., of plants) flourishing, luxuriant, in full vigour
+pubertas | 1 | puberty
+pubertas | 3 | (transf.) manhood, virility
+pubertas | 4 | (transf., collective) youth, young men
+pubes1 | 1 | grown-up
+pubes1 | 3 | (as noun, puberes) adults, grown men
+pubes1 | 4 | (transf., of plants) downy, covered with soft down
+pubes2 | 1 | pubic hair
+pubes2 | 3 | (transf., euphemism) the private parts
+pubes2 | 4 | (collect.) young men, youth, the fighting-age population
+pubesco | 1 | mature
+pubesco | 3 | (transf., poet.) become covered, clothe itself with something
+pubesco | 4 | grow up, ripen (of crops or fruit)
+publicanus | 1 | publican
+publicanus | 3 | (as noun) a farmer-general who collected the public revenue
+publicitus | 1 | publicly
+publicitus | 3 | at public expense, on the State's account
+publico | 1 | confiscate
+publico | 3 | make known, publish, disclose (post-Aug.)
+publico | 4 | prostitute (oneself or one's chastity)
+publicus | 1 | public
+publicus | 3 | (as noun, publicus) a public official, magistrate
+publicus | 4 | (as noun, publicum) the public treasury, State revenue
+publicus | 5 | (as noun, publicum) a public place, in view of everyone
+publicus | 6 | (as adv., publice) at the State's expense, officially
+publicus | 7 | (as adv., publice) openly, publicly (post-class.)
+pudeo | 1 | be ashamed
+pudeo | 3 | (as p. a. pudens) modest, bashful, shamefaced
+pudeo | 4 | (as p. a. pudendus) shameful, disgraceful, scandalous
+pudibundus | 1 | bashful
+pudibundus | 2 | shameful
