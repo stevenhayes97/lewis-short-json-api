@@ -373,3 +373,22 @@ pauxillulus | 1 | tiny
 pauxillus | 1 | little
 pauxillus | 3 | ex pauxillo, little by little (a common idiom)
 pavefacio | 1 | frighten
+paveo | 1 | fear
+pavesco | 1 | become afraid
+pavidus | 1 | fearful
+pavidus | 2 | terrifying
+pavimentum | 1 | pavement
+pavio | 1 | beat
+pavio | 2 | ram
+pavito | 1 | tremble
+pavito | 3 | shiver with fever, have the ague (a specific medical sense)
+pavo1 | 1 | peacock
+pavoninus | 1 | peacock
+pavoninus | 2 | pavonine
+pavor | 1 | panic
+pavor | 3 | personified as the god of fear (alongside Pallor, in Roman religion)
+pax1 | 1 | peace
+pax1 | 2 | divine favor
+pax1 | 3 | pax!, silence!, enough! (as an interjection demanding quiet)
+pax1 | 4 | pace tua, with your leave, if I may say so (a common polite formula)
+pax1 | 5 | Pax Romana, the Roman peace (post-Augustan, of Rome's dominion and the stability it imposed)
