@@ -2982,3 +2982,24 @@ pullus1 | 5 | (of plants) a sprout, young shoot
 pullus3 | 1 | dusky
 pullus3 | 3 | (transf.) poor, humble, alluding to plain dark clothing
 pullus3 | 4 | (poet., from mourning attire) sad, sorrowful, mournful
+pulmentarium | 1 | relish
+pulmentarium | 3 | (transf.) food in general
+pulmentum | 1 | relish
+pulmentum | 3 | (transf.) food in general
+pulmo | 1 | lung
+pulmo | 3 | (transf.) a sea-lung, a type of marine creature
+pulpa | 1 | flesh
+pulpa | 3 | (transf.) the pulp of fruit
+pulpa | 4 | (transf.) the pith of wood
+pulpamentum | 1 | meat
+pulpamentum | 3 | (transf.) tidbits, food made from bits of meat
+pulpitum | 1 | platform
+pulpitum | 3 | (esp.) a stage for actors, a theatrical stage
+puls | 1 | porridge
+pulso | 1 | strike
+pulso | 3 | (trop.) agitate, disturb, disquiet (the mind)
+pulso | 4 | (legal) arraign, accuse (before a tribunal)
+pulso | 5 | drive away, remove, put out of the way
+pulsus2 | 1 | blow
+pulsus2 | 3 | (trop.) impulse, influence (on the mind)
+pulto1 | 1 | knock
