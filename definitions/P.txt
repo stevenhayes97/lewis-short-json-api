@@ -813,3 +813,19 @@ pernix | 1 | nimble
 pernocto | 1 | stay overnight
 pernocto | 3 | haec studia pernoctant nobiscum, these pursuits stay with us through the night (trop., of constant companionship)
 pernosco | 1 | know thoroughly
+pernox | 1 | all-night
+pernox | 3 | luna pernox, the moon up all night, i.e. the full moon
+perodi | 1 | detest
+perodi | 3 | perosus, hated, detested (post-classical, the passive sense of the participle)
+peropportunus | 1 | very opportune
+peroratio | 1 | peroration
+peroro | 1 | harangue
+peroro | 2 | conclude
+perpaucus | 1 | very few
+perpello | 1 | compel
+perpello | 2 | move deeply
+perpendiculum | 1 | plumb-line
+perpendiculum | 3 | ad perpendiculum, by the plumb-line, i.e. with strict accuracy or moral rectitude (trop.)
+perpendo | 1 | ponder
+perpes | 1 | continual
+perpes | 3 | noctem perpetem, through the whole night, all night long
