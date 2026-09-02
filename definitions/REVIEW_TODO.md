@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 35 of 85 settled.
+Progress: 40 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -68,11 +68,11 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `caeduus` r1 "fit for felling" — accepted; "coppiced" names the practice where the word means fitness for cutting
 - [x] `caesim` r1 "with the edge" — accepted; English has no adverb for a cut with the edge as against the point
 - [x] `caestus` r1 "cestus" — tightened to "cestus" and flag dropped; it is the exact English word (OED), and rank 3 describes the leaded strap
-- [ ] `capularis` r1 "ready for burial" — said of an old man close to death, literally 'fit for the bier'; English has no adjective for it
-- [ ] `castrensis` r1 "of the camp" — 'of camp' reads oddly without the article; 'military' would be militaris, and English has no adjective tied to the camp itself
-- [ ] `caudicarius` r1 "of tree trunks" — used almost only of barges built from rough tree trunks; English has no adjective for it
-- [ ] `ce` r1 "here" — an inseparable demonstrative suffix; 'here' is the nearest English deictic, but it is not a word that stands alone
-- [ ] `censualis` r1 "of the census" — a late legal adjective tied to the census; English has no adjective, and 'census' alone reads as the noun
+- [x] `capularis` r1 "moribund" — corrected to "moribund" and flag dropped; "ready for burial" read as already dead, where the word is said of a living old man at death's door
+- [x] `castrensis` r1 "of the camp" — accepted; "military" is militaris, and "of camp" reads oddly without the article
+- [x] `caudicarius` r1 "of tree trunks" — accepted; almost only of log-built barges, and English has no adjective for it
+- [x] `ce` r1 "here" — accepted; a one-word gloss flagged for confidence only; a suffix has no standalone English, and ranks 3-6 explain its forms
+- [x] `censualis` r1 "of the census" — accepted; "census" alone reads as the noun
 - [ ] `centenarius` r1 "of a hundred" — 'consisting of a hundred'; English has no adjective, and 'hundredfold' answers to centuplex instead
 - [ ] `centumviri` r1 "court of a hundred" — the name of a Roman civil court; there is no English name for it, and a translation has to spell the number out
 - [ ] `centuplico` r1 "increase a hundredfold" — English has no one-word verb for increasing a thing a hundredfold

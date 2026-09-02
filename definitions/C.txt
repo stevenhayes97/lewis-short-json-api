@@ -727,9 +727,8 @@ captus2 | 1 | grasp
 captus2 | 3 | a taking, or as much as can be taken at once: trium digitorum captu, a three-finger pinch
 captus2 | 4 | the power of taking a thing in, one's capacity: ut est captus alicujus, according to a person's lights
 captus2 | 5 | rarely of bodily powers: pro corporis captu, in proportion to their size
-# review: capularis said of an old man close to death, literally 'fit for the bier'; English has no adjective for it
-capularis | 1 | ready for burial
-capularis | 3 | belonging to the bier, said of an old man on the edge of the grave: capularis senex, an old man with one foot in the coffin
+capularis | 1 | moribund
+capularis | 3 | literally fit for the bier, said of an old man on the edge of the grave: capularis senex, an old man with one foot in the coffin
 capularis | 4 | also of criminals reckoned fit for the bier
 capulus | 1 | handle
 capulus | 2 | bier
