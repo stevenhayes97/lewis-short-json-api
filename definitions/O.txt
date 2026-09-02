@@ -609,3 +609,26 @@ opportunus | 1 | opportune
 opportunus | 2 | exposed
 oppositus2 | 1 | interposition
 oppositus2 | 3 | lunae oppositus, the interposition of the moon (astronomical, of an eclipse)
+opprimo | 1 | crush
+opprimo | 2 | suppress
+opprimo | 3 | catch unawares, surprise, take by surprise
+opprimo | 4 | os opprime!, shut your mouth!, hold your tongue! (a common Plautine command)
+opprobrium | 1 | disgrace
+opprobrium | 2 | insult
+opprobrium | 3 | a person who is a disgrace or embarrassment (to their family, city, etc.)
+opprobro | 1 | reproach
+oppugnatio | 1 | siege
+oppugnatio | 2 | verbal attack
+oppugnatio | 3 | an assault of accusations against someone (trop., in rhetoric or debate)
+oppugno1 | 1 | besiege
+oppugno1 | 2 | attack
+oppugno1 | 3 | pecunia aliquem oppugnare, to assail someone with bribes (trop., of non-military attack)
+ops1 | 1 | power
+ops1 | 2 | resources
+ops1 | 3 | aid, help, assistance
+optabilis | 1 | desirable
+optatio | 1 | wish
+optatio | 3 | (rhetoric) the wish, a figure expressing a desire (paired with exsecratio, "the curse")
+optimas | 1 | aristocratic
+optimas | 3 | optimates, the aristocratic party (a Roman political faction, opposed to the populares)
+optio1 | 1 | option
