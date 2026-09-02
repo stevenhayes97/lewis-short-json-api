@@ -1711,3 +1711,28 @@ praedator | 3 | (poet., transf.) a hunter
 praedator | 4 | a rapacious or avaricious person
 praedestino | 1 | predestine
 praedestino | 3 | provide, arrange beforehand
+praediator | 1 | dealer
+praediator | 3 | a buyer of mortgaged estates sold at public auction
+praedicatio | 1 | proclamation
+praedicatio | 2 | praise
+praedicatio | 3 | a prediction, prophecy
+praedicatio | 4 | (eccl. Lat.) preaching
+praedicator | 1 | proclaimer
+praedicator | 3 | a praiser, eulogist
+praedicator | 4 | (eccl. Lat.) a preacher
+praedico1 | 1 | proclaim
+praedico1 | 3 | praise, extol, commend
+praedico1 | 4 | (eccl. Lat.) preach (the gospel)
+praedico2 | 1 | predict
+praedico2 | 3 | say beforehand, mention in advance, premise
+praedico2 | 4 | appoint, fix (a date), give notice of
+praedico2 | 5 | advise, warn, charge, command (someone to do something)
+praedisco | 1 | learn beforehand
+praeditus | 1 | endowed
+praeditus | 3 | (of a deity, post-Aug.) presiding over, placed in charge of (with dat.)
+praedium | 1 | estate
+praedo2 | 1 | robber
+praedo2 | 3 | (transf., poet.) a rapacious creature or thing, e.g. a drone, a hawk
+praedor | 1 | plunder
+praedor | 3 | (transf.) catch, take (animals or birds, in hunting)
+praedor | 4 | (trop., poet.) rob, ravish, snatch away
