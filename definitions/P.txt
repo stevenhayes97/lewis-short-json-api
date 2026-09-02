@@ -1943,3 +1943,22 @@ praesaepe | 5 | (astro.) the Praesepe, a star cluster in Cancer
 praesagio | 1 | presage
 praesagio | 3 | (transf.) forebode, foreshow, predict
 praesagitio | 1 | premonition
+praesagium | 1 | presage
+praesagus | 1 | prophetic
+praescio | 1 | foreknow
+praescius | 1 | prescient
+praescribo | 1 | prescribe
+praescribo | 3 | write before, prefix in writing (lit.)
+praescribo | 4 | (legal) bring an exception or demurrer against
+praescribo | 5 | use as a pretext
+praescribo | 6 | describe or depict beforehand
+praescriptio | 1 | preface
+praescriptio | 3 | (trop.) a pretext, excuse, pretence
+praescriptio | 4 | a precept, rule, principle
+praescriptio | 5 | (legal) an exception, objection, demurrer
+praescriptio | 6 | (legal) prescription, a time-limitation on a claim
+praescriptivus | 1 | exception-related
+praeseco | 1 | excise
+praesegmen | 1 | paring
+praesemino | 1 | sow
+praesemino | 3 | (trop.) lay the foundation for, prepare for (something)
