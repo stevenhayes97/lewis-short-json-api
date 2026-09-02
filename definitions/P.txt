@@ -2302,3 +2302,29 @@ probus1 | 1 | honest
 probus1 | 2 | sound
 procacitas | 1 | impudence
 procax | 1 | impudent
+procedo | 1 | advance
+procedo | 3 | come forth, appear, show oneself
+procedo | 4 | (of time) pass, elapse
+procedo | 5 | turn out, succeed, prosper
+procedo | 6 | make progress, get on (in some pursuit)
+procedo | 7 | (of plants) spring forth, grow
+procedo | 8 | project, extend (of a place)
+procella | 1 | storm
+procella | 3 | (transf.) tumult, commotion, violent outburst
+procella | 4 | (mil.) a cavalry charge, a sudden onset
+procellosus | 1 | stormy
+procer | 1 | noble
+procer | 3 | (trop., post-Aug.) a master, leading expert (in an art or science)
+proceritas | 1 | height
+proceritas | 3 | (transf.) length (in general)
+procerus | 1 | tall
+procerus | 3 | (transf.) long, large, extended (in general)
+processio | 1 | advance
+processio | 3 | (late Lat.) a religious procession
+processus2 | 1 | progress
+processus2 | 3 | (anatomical, transf.) a projection, process
+processus2 | 4 | (of time) a lapse, passing
+procidentia2 | 1 | prolapse
+procidentia2 | 3 | (gram.) the substitution of one case for another
+procido1 | 1 | fall
+procido1 | 3 | (medical, of a body part) prolapse, fall out of place
