@@ -1313,3 +1313,26 @@ plumbum | 5 | a pencil, a ruler for marking lines
 plumeus | 1 | downy
 plumeus | 3 | light, soft, delicate (like down, poet.)
 plumeus | 4 | embroidered (post-class.)
+plumo | 1 | feather
+plumo | 3 | embroider (poet.)
+plumo | 4 | (neut.) become fledged, grow feathers
+pluo | 1 | rain
+pluralis | 1 | plural
+plurativus | 1 | plural
+plurifariam | 1 | widely
+plurifariam | 3 | in many places, in many parts
+plurifariam | 4 | in many ways, variously (post-class.)
+plusculus | 1 | somewhat more
+pluteus | 1 | parapet
+pluteus | 3 | a mantlet, a movable shed (military, for besiegers)
+pluteus | 4 | a bookshelf, bookcase
+pluteus | 5 | the back-board of a couch or settee; also, by metonymy, the couch itself
+pluteus | 6 | a partition wall, balustrade (between columns)
+pluvia | 1 | rain
+pluvia | 3 | a shower (of anything, post-class., fig.)
+pluvia | 4 | rainwater
+pluvius | 1 | rainy
+poculum | 1 | cup
+poculum | 3 | a drink, draught, potion (poet.)
+poculum | 4 | a drinking-bout, carouse
+poculum | 5 | a draught of poison
