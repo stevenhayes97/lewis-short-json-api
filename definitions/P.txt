@@ -414,3 +414,24 @@ pecu | 2 | money
 pecu | 3 | pecu squamosum, "scaly cattle" (a poetic kenning for fish)
 pecuarius | 1 | cattle
 pecuarius | 2 | grazier
+peculatus | 1 | embezzlement
+peculiaris | 1 | personal
+peculiaris | 2 | distinctive
+peculiaris | 3 | note: does not mean "odd" or "strange" as modern English "peculiar" does; it means "one's own, particular to oneself"
+peculio | 1 | endow
+peculio | 3 | peculiatus, having money or property of one's own (of the participle)
+peculium | 1 | savings
+peculium | 2 | personal fund
+peculium | 3 | property allowed to a slave or son to hold and manage as his own, though legally owned by his master or father
+pecunia | 1 | money
+pecunia | 3 | wealth, property (the older, broader sense, before it narrowed to mean specifically money)
+pecuniarius | 1 | pecuniary
+pecuniosus | 1 | wealthy
+pecuniosus | 2 | profitable
+pecus1 | 1 | herd
+pecus1 | 3 | servum pecus, a slavish herd (trop., a contemptuous term for mindless imitators or followers)
+pecus2 | 1 | beast
+pecus2 | 2 | sheep
+pecus2 | 3 | (as an insult) a brute, a stupid or filthy creature (trop., applied to a person)
+pedalis | 1 | foot-long
+pedalis | 3 | pedalis, a slipper (used substantively as a noun)
