@@ -521,3 +521,23 @@ pennatus | 1 | winged
 pensiculo | 1 | ponder
 pensilis | 1 | hanging
 pensilis | 3 | horti pensiles, hanging gardens (as in the famous gardens of Babylon)
+pensio | 1 | payment
+pensio | 2 | rent
+pensitatio | 1 | payment
+pensito | 1 | ponder
+pensito | 2 | pay
+penso | 1 | weigh
+penso | 2 | compensate
+penso | 3 | ponder, consider, weigh mentally (trop.)
+penuria | 1 | scarcity
+penus | 1 | provisions
+penus | 2 | sanctuary
+per1 | 1 | through
+per1 | 2 | via
+per1 | 3 | during, throughout (of time)
+per1 | 4 | per- (as a prefix), thoroughly, completely, very (an intensifying compound-forming sense, e.g. peracutus, "very sharp")
+peracesco | 1 | turn sour
+peracesco | 2 | become vexed
+peracutus | 1 | very sharp
+peracutus | 3 | very keen, very perceptive (trop., of intellect or wit)
+peraeque | 1 | equally
