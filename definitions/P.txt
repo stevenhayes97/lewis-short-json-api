@@ -189,3 +189,26 @@ pario2 | 2 | acquire
 pario2 | 3 | parta, acquisitions, possessions gained (used substantively as a noun)
 parma1 | 1 | buckler
 parma1 | 3 | a Thracian-style gladiator (armed with the parma, as opposed to the larger scutum)
+paro1 | 1 | prepare
+paro1 | 2 | acquire
+paro1 | 3 | paratus, ready, prepared (the common adjectival participle)
+parra1 | 1 | owl
+parra1 | 3 | a bird of ill omen (exact species disputed -- perhaps the owl, woodpecker, or lapwing)
+parricida | 1 | parricide
+parricida | 2 | traitor
+parricida | 3 | the murderer of a near relative, or of a free citizen (transf., a broadened sense)
+parricidialis | 1 | parricidal
+parricidium | 1 | parricide
+parricidium | 2 | treason
+parricidium | 3 | the murder of a near relative, e.g. mother, brother (transf., a broadened sense)
+pars | 1 | part
+pars | 2 | faction
+pars | 3 | role, function, duty (transf., of a theatrical part or a person's office)
+pars | 4 | pars...pars, some...others (a common partitive construction)
+pars | 5 | magna pars, the majority, a good many
+parsimonia | 1 | frugality
+partiarius | 1 | shared
+partiarius | 3 | colonus partiarius, a sharecropper, a tenant farmer who pays rent with a portion of the crop
+particeps | 1 | participant
+particeps | 3 | particeps alicuius rei, a partaker or sharer in something (+ genitive)
+participialis | 1 | participial
