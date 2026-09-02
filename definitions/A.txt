@@ -3279,8 +3279,7 @@ arrogantia | 1 | arrogance
 arrogantia | 3 | presumption, the claiming of more than is one's due
 arrogantia | 4 | haughtiness born of real or supposed superiority
 arrogantia | 5 | stubbornness in pressing a demand
-# review: arrogatio a particular Roman form of adoption; English has no word for it
-arrogatio | 1 | formal adoption
+arrogatio | 1 | adrogation
 arrogatio | 3 | the adoption as a son of a man who was already legally independent, done before the assembly and the pontiffs
 arrogo | 1 | claim
 arrogo | 3 | to claim for oneself what is not one's due, to arrogate it: sibi nihil arrogare, to lay claim to nothing for oneself
@@ -3333,8 +3332,7 @@ artificium | 3 | the trade or occupation of a craftsman
 artificium | 4 | skill or ingenuity shown in something: singulari artificio perfectum, finished with rare skill
 artificium | 5 | the theory or system that lies behind an art
 artificium | 6 | in a bad sense, a trick or a piece of cunning
-# review: artio2 attested only through the participle artitus; there is no ordinary English verb for it
-artio2 | 1 | train up
+artio2 | 1 | train
 artio2 | 3 | found only in the participle artitus, schooled in the arts and so accomplished
 arto | 1 | compress
 arto | 3 | to press things close together: libros artare, to pack the books tight
@@ -3371,9 +3369,9 @@ arx | 5 | arcem facere e cloaca, to make a citadel out of a sewer, that is a mou
 arx | 6 | a height, peak or summit: Parnasi arce, on the height of Parnassus
 arx | 7 | of the sky, the height of heaven: caeli arcem, the citadel of heaven
 arx | 8 | figuratively, the head or chief point of a thing: caput atque arx belli, the head and stronghold of the war
-# review: as the root sense is the unit of any divided whole, but a reader most often meets the coin
-as | 1 | unit
-as | 2 | copper coin
+# review: as ranked by what a reader meets: the coin first, then the unit of any divided whole that underlies it
+as | 1 | copper coin
+as | 2 | unit
 as | 3 | the unit of a whole divided into twelve parts, used alike of coin, weight and measure
 as | 4 | the as, a copper coin, at first a pound of bronze and later much reduced
 as | 5 | in inheritance, the estate as a whole: haeres ex asse, sole heir; haeres ex semisse, heir to a half

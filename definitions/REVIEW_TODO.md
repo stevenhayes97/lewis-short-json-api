@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 15 of 85 settled.
+Progress: 20 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -42,11 +42,11 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `arbustus` r1 "planted with trees" — accepted; "wooded" would suggest natural woodland where the word means land set with trees for vines
 - [x] `arcera` r1 "covered wagon" — accepted; a two-word gloss flagged for confidence only; English has no name for the boarded sick-wagon of the Twelve Tables
 - [x] `arietinus` r1 "of a ram" — accepted; three words kept to match agninus and aprugnus, since "ram's" alone reads as a possessive
-- [ ] `armipotens` r1 "mighty in arms" — a compound meaning potent in arms; "warlike" or "valiant" alone drops the force of potens
-- [ ] `arrogatio` r1 "formal adoption" — a particular Roman form of adoption; English has no word for it
-- [ ] `artio2` r1 "train up" — attested only through the participle artitus; there is no ordinary English verb for it
-- [ ] `as` r1 "unit" / r2 "copper coin" — the root sense is the unit of any divided whole, but a reader most often meets the coin
-- [ ] `assero1` r1 "plant beside" — the point of the word is setting one plant beside another; "plant" alone loses it
+- [x] `armipotens` r1 "mighty in arms" — accepted; matches bellipotens, and "warlike" drops the potens
+- [x] `arrogatio` r1 "adrogation" — tightened to "adrogation" and flag dropped; it is the exact English legal term (OED), where "formal adoption" described every adoption and so said nothing
+- [x] `artio2` r1 "train" — tightened to "train" and flag dropped; "up" added nothing, and rank 3 carries the participle artitus, schooled in the arts
+- [x] `as` r1 "copper coin" / r2 "unit" — ranks swapped to "copper coin" then "unit"; the note itself said readers meet the coin first, and the rank contract orders by what a learner meets
+- [x] `assero1` r1 "plant beside" — accepted; "plant" alone loses the beside, which is the whole word
 - [ ] `assiduus1` r1 "taxpayer" — a class in the Servian constitution; "taxpayer" is the nearest single word but drops the property qualification
 - [ ] `assulatim` r1 "into splinters" — "piecemeal" is already articulatim's gloss and this word is specifically about splintering
 
