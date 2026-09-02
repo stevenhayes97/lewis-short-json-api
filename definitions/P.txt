@@ -2831,3 +2831,32 @@ proventus | 5 | (trop., in partic.) a successful outcome, happy result
 proverbium | 1 | proverb
 proverbium | 3 | (post-class.) a byword, a subject of scorn
 proverto | 1 | turn forward
+providentia | 1 | foresight
+providentia | 3 | (transf., theological) divine providence, the governance of the world
+providentia | 4 | (post-Aug., as a title) Providence, a name for God
+provideo | 1 | foresee
+provideo | 3 | provide for, make preparation for (something)
+provideo | 4 | prevent, forestall, obviate (an evil)
+provideo | 5 | (lit., very rare) see in the distance, descry
+providus | 1 | foreseeing
+providus | 2 | prudent
+providus | 3 | caring for, provident of (something, with gen.)
+provincia | 1 | province
+provincia | 3 | (transf.) a duty, task, charge, sphere of responsibility
+provincialis | 1 | provincial
+provincialis | 3 | (as noun) an inhabitant of a province
+provisio | 1 | foresight
+provisio | 3 | forethought, precaution (taken in advance)
+provisio | 4 | (rare) hindrance, prevention (of something)
+proviso2 | 1 | check on
+provisus2 | 1 | foresight
+provisus2 | 3 | (lit., rare) a looking into the distance
+provisus2 | 4 | (trop.) precaution, provision made beforehand
+provocatio | 1 | appeal
+provocatio | 3 | a challenge, a calling out to combat (post-Aug.)
+provocatio | 4 | (late Lat.) a stimulus, incitement, provocation
+provoco | 1 | challenge
+provoco | 3 | (legal) appeal to a higher court or authority
+provoco | 4 | (trop.) provoke, incite, stir up (someone to anger or action)
+provoco | 5 | (trop., post-Aug.) rival, vie with, emulate (someone)
+provoco | 6 | call forth, occasion, cause (something)
