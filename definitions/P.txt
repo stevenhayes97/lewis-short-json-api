@@ -2805,3 +2805,29 @@ protervus | 1 | impudent
 protervus | 2 | violent
 protestor | 1 | testify
 protinam | 1 | forthwith
+protinus | 1 | immediately
+protinus | 3 | continuously, uninterruptedly, rare, of space or time
+protollo | 1 | extend
+protollo | 3 | (trop.) prolong, defer, put off
+protraho | 1 | drag
+protraho | 3 | (trop.) bring to light, expose, disclose (a crime or wrongdoer)
+protraho | 4 | (post-Aug.) prolong, protract, drag out (in time)
+protrudo | 1 | push
+protrudo | 3 | (trop., of time) put off, defer, postpone
+proturbo | 1 | repulse
+proturbo | 3 | (transf., fig.) attack, assail (with words)
+proveho | 1 | convey
+proveho | 3 | (pass., mid.) advance, proceed, sail (to a place)
+proveho | 4 | (trop.) promote, advance, exalt (someone's career)
+proveho | 5 | (trop., of speech) prolong, protract, draw out
+provenio | 1 | arise
+provenio | 3 | grow, thrive (of crops or plants)
+provenio | 4 | (trop.) happen, come to pass, occur
+provenio | 5 | (trop.) turn out well, succeed, prosper
+proventus | 1 | yield
+proventus | 3 | (transf.) a supply, an abundant crop, of people, e.g. orators, poets
+proventus | 4 | (trop.) an outcome, result (of an event)
+proventus | 5 | (trop., in partic.) a successful outcome, happy result
+proverbium | 1 | proverb
+proverbium | 3 | (post-class.) a byword, a subject of scorn
+proverto | 1 | turn forward
