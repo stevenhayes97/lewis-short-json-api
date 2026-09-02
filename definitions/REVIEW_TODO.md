@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 25 of 85 settled.
+Progress: 30 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -55,11 +55,11 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `bellipotens` r1 "mighty in war" — accepted; matches armipotens, and "valiant" drops the war
 - [x] `bidental` r1 "lightning shrine" — accepted; English has no name for a lightning-struck spot consecrated and fenced off, and ranks 3-5 explain it
 - [x] `bigae` r1 "two-horse chariot" — accepted; "chariot" alone loses the pair of horses, which is the word
-- [ ] `bigatus` r1 "stamped with a chariot" — 'stamped with a two-horse chariot' is the whole word; English has neither the adjective nor a name for the coin
-- [ ] `bimaris` r1 "between two seas" — English has no one-word adjective for 'lying between two seas'
-- [ ] `bimatus` r1 "age of two" — a noun for 'the age of two years'; English has no noun that carries it
-- [ ] `bimembris` r1 "double-limbed" — literally 'of double members'; in practice always half man and half beast, which no single English word carries
-- [ ] `bipatens` r1 "opening both ways" — of double doors that open both ways; English has no adjective, and 'folding' misses the being thrown open
+- [x] `bigatus` r1 "stamped with a chariot" — accepted; English has neither an adjective nor a name for the coin, and rank 3 gives the full stamp
+- [x] `bimaris` r1 "between two seas" — accepted; a compound English can only unpack, and it is nearly always Corinth
+- [x] `bimatus` r1 "age of two" — accepted; English has no noun for the age of two years
+- [x] `bimembris` r1 "double-limbed" — accepted; a one-word gloss flagged for confidence only, and the centaur sense sits at rank 4
+- [x] `bipatens` r1 "opening both ways" — accepted; "folding" would miss the doors being thrown open on both leaves
 - [ ] `bracchialis` r1 "of the arm" — 'of arms' would read as weapons, so the article is needed; English has no adjective for it
 - [ ] `bustuarius` r1 "of the pyre" — the sense is 'of the burning place'; English has no adjective, and 'funeral' is far too wide
 
