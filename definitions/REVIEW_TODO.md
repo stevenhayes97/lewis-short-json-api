@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 30 of 85 settled.
+Progress: 35 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -60,14 +60,14 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `bimatus` r1 "age of two" — accepted; English has no noun for the age of two years
 - [x] `bimembris` r1 "double-limbed" — accepted; a one-word gloss flagged for confidence only, and the centaur sense sits at rank 4
 - [x] `bipatens` r1 "opening both ways" — accepted; "folding" would miss the doors being thrown open on both leaves
-- [ ] `bracchialis` r1 "of the arm" — 'of arms' would read as weapons, so the article is needed; English has no adjective for it
-- [ ] `bustuarius` r1 "of the pyre" — the sense is 'of the burning place'; English has no adjective, and 'funeral' is far too wide
+- [x] `bracchialis` r1 "of the arm" — accepted; "of arms" would read as weapons, so the article is needed
+- [x] `bustuarius` r1 "of the pyre" — accepted; "funeral" is far wider than the burning place, and rank 3 gives the gladiator
 
 ## C.txt (27)
 
-- [ ] `caeduus` r1 "fit for felling" — of wood that may be cut without harming the stand; 'coppiced' names the practice rather than the fitness
-- [ ] `caesim` r1 "with the edge" — the military sense is 'with the edge', against punctim 'with the point'; English has no single adverb
-- [ ] `caestus` r1 "boxing strap" — a leaded hide strap bound round the hands; 'boxing-glove' suggests padding, which is the opposite of it
+- [x] `caeduus` r1 "fit for felling" — accepted; "coppiced" names the practice where the word means fitness for cutting
+- [x] `caesim` r1 "with the edge" — accepted; English has no adverb for a cut with the edge as against the point
+- [x] `caestus` r1 "cestus" — tightened to "cestus" and flag dropped; it is the exact English word (OED), and rank 3 describes the leaded strap
 - [ ] `capularis` r1 "ready for burial" — said of an old man close to death, literally 'fit for the bier'; English has no adjective for it
 - [ ] `castrensis` r1 "of the camp" — 'of camp' reads oddly without the article; 'military' would be militaris, and English has no adjective tied to the camp itself
 - [ ] `caudicarius` r1 "of tree trunks" — used almost only of barges built from rough tree trunks; English has no adjective for it

@@ -176,8 +176,7 @@ caespes | 5 | a hut roofed with sods: fortuitus caespes, a chance shelter of tur
 caespes | 6 | grassy ground, greensward: de caespite se levare, to rise up from the grass
 caespes | 7 | a clump of plants, or any knob of that shape
 caespes | 8 | in late Latin simply the ground
-# review: caestus a leaded hide strap bound round the hands; 'boxing-glove' suggests padding, which is the opposite of it
-caestus | 1 | boxing strap
+caestus | 1 | cestus
 caestus | 3 | a strap of bull's hide weighted with lead or iron, wound round a boxer's hands and arms
 caestus | 4 | worn by the pugiles at the games, and far more dangerous than any glove
 caesura | 1 | cutting
