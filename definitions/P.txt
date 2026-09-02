@@ -2350,3 +2350,29 @@ proconsul | 1 | proconsul
 proconsul | 3 | (transf.) an ex-praetor made governor of a province, a propraetor
 proconsul | 4 | (imperial period) a governor of a senatorial province
 proconsularis | 1 | proconsular
+procrastino | 1 | procrastinate
+procreo | 1 | beget
+procreo | 3 | (trop.) produce, cause, occasion (something abstract)
+procresco | 1 | sprout
+procresco | 3 | grow larger, increase, continue growing
+procudo | 1 | forge
+procudo | 3 | (trop.) form, cultivate, shape (character, style)
+procudo | 4 | (transf.) contrive, devise (a scheme)
+procul | 1 | afar
+procul | 3 | (trop.) far removed, remote, from something, e.g. fear, blame
+procul | 4 | (rare) far inferior to, much poorer than
+proculco | 1 | trample
+proculco | 3 | (trop.) trample upon, despise, treat with contempt
+procumbo | 1 | collapse
+procumbo | 3 | (transf.) lean forward, bend down, sag (of inanimate things)
+procumbo | 4 | (trop.) sink, decline, fall into ruin
+procumbo | 5 | extend, spread out (of a mountain range, plain)
+procuratio | 1 | management
+procuratio | 3 | (relig.) an expiatory rite to avert an evil omen
+procurator | 1 | manager
+procurator | 3 | a steward, bailiff (of an estate)
+procurator | 4 | (imperial period, esp. in a province) an imperial governor-agent, procurator
+procurator | 5 | (legal) an attorney, agent conducting a lawsuit
+procuro | 1 | manage
+procuro | 3 | (relig.) avert or expiate an evil omen by sacrifice
+procuro | 4 | hold an administrative charge, act as procurator (of a province)
