@@ -429,3 +429,24 @@ odium1 | 3 | in odium alicujus irruere, to earn or incur someone's hatred
 odor | 1 | smell
 odor | 2 | perfume
 odor | 3 | hint, inkling (trop., a suggestion or whiff of something, e.g. suspicion)
+odoratio | 1 | smelling
+odoratus2 | 1 | smell
+odoratus2 | 3 | the sense of smell (as one of the five senses)
+odorifer | 1 | fragrant
+odoro | 1 | perfume
+odoror | 1 | sniff out
+odoror | 2 | dabble in
+odoror | 3 | search out, investigate (trop., of plots or hidden information)
+odorus | 1 | fragrant
+odorus | 2 | keen-scented
+odorus | 3 | odora canum vis, the keen-scented pack of hounds (a famous Virgilian phrase)
+offa | 1 | morsel
+offa | 2 | lump
+offendo1 | 1 | offend
+offendo1 | 2 | stumble
+offendo1 | 3 | strike against, hit, bump into (literal)
+offendo1 | 4 | come upon, meet with, find (transf.)
+offensa | 1 | offence
+offensa | 2 | indisposition
+offensa | 3 | displeasure, disfavor, ill-will incurred from someone
+offensaculum | 1 | stumbling block
