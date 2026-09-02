@@ -2960,6 +2960,7 @@ confarreatio | 1 | confarreation
 confarreatio | 3 | the ancient solemn Roman marriage rite involving a shared offering of bread before the Pontifex Maximus
 # review: confarreo denotes marrying specifically via the confarreatio bread-rite; no single English word covers that
 confarreo | 1 | wed by confarreatio
+confarreo | 3 | to marry by the old patrician rite in which a cake of spelt was offered: confarreatis parentibus geniti, born of parents so married
 confectio | 1 | completion
 confectio | 3 | a wearing down or diminishing, as of one's health
 confector | 1 | finisher
@@ -3073,8 +3074,8 @@ congestus2 | 3 | trop., an undigested mass of material, as in a speech
 # review: congiarius "of a congius" needs the article to be accurate; no shorter English phrasing fits
 congiarius | 1 | of a congius
 congiarius | 3 | as a substantive (congiarium), a donative of oil, grain, or money given to the people
-# review: congius the precise volume needs more than one word; no exact English equivalent
-congius | 1 | a Roman liquid measure of about six pints
+congius | 1 | liquid measure
+congius | 3 | a Roman measure for liquids of about six pints, the eighth part of an amphora
 conglacio | 1 | freeze
 conglacio | 3 | trop., to become inactive or stagnant
 conglobo | 1 | cluster
@@ -3490,6 +3491,7 @@ contio | 3 | in contionem ascendere, to mount the rostrum to speak
 contionabundus | 1 | haranguing
 # review: contionalis "of the assembly" needs the article to be accurate; no shorter English phrasing fits
 contionalis | 1 | of the assembly
+contionalis | 3 | suited to a public meeting, of speech or behaviour: contionalis clamor, an uproar fit for the assembly; contionalis senex, an old stirrer-up of the crowd
 contionor | 1 | harangue
 contionor | 3 | in gen., to declare or make known publicly
 contorqueo | 1 | twist

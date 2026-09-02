@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 50 of 85 settled.
+Progress: 55 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -83,11 +83,11 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `clarigatio` r1 "demand for redress" — accepted; a fetial ceremony with no English name, explained at rank 3
 - [x] `comitialis` r1 "of the comitia" — accepted; "comitial" exists but is obscure, and naming the institution is plainer
 - [x] `commissorius` r1 "of forfeiture" — tightened to "of forfeiture" and flag dropped; the clause is named at rank 3, and the note itself preferred the shorter form
-- [ ] `confarreo` r1 "wed by confarreatio" — denotes marrying specifically via the confarreatio bread-rite; no single English word covers that
-- [ ] `congiarius` r1 "of a congius" — "of a congius" needs the article to be accurate; no shorter English phrasing fits
-- [ ] `congius` r1 "a Roman liquid measure of about six pints" — the precise volume needs more than one word; no exact English equivalent
-- [ ] `contionalis` r1 "of the assembly" — "of the assembly" needs the article to be accurate; no shorter English phrasing fits
-- [ ] `coronarius` r1 "of a wreath" — "of a wreath" needs the article to be accurate; no shorter English phrasing fits
+- [x] `confarreo` r1 "wed by confarreatio" — accepted, and a rank 3 added describing the rite; no English verb covers marrying by confarreatio
+- [x] `congiarius` r1 "of a congius" — accepted; the article is needed, and rank 3 gives the congiarium largess
+- [x] `congius` r1 "liquid measure" — tightened to "liquid measure" and flag dropped; the nine-word volume now sits at rank 3, which is where a precise quantity belongs
+- [x] `contionalis` r1 "of the assembly" — accepted, and a rank 3 added with contionalis clamor and contionalis senex; the article is needed
+- [x] `coronarius` r1 "of a wreath" — accepted; the article is needed, and rank 3 gives the garland-maker
 - [ ] `crinalis` r1 "of the hair" — "of the hair" needs the article to be accurate; no shorter English phrasing fits
 - [ ] `cubicularius` r1 "of a bedroom" — "of a bedroom" needs the article to be accurate; no shorter English phrasing fits
 - [ ] `curialis` r1 "of a curia" — "of a curia" needs the article to be accurate; no shorter English phrasing fits
