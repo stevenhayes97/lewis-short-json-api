@@ -121,3 +121,26 @@ pampino | 1 | prune
 pampinus | 1 | tendril
 pampinus | 2 | vine-leaf
 pando1 | 1 | bend
+pando2 | 1 | spread
+pando2 | 2 | reveal
+pando2 | 3 | velis passis, with sails spread, under full sail (of the participle passus)
+pandus | 1 | curved
+pango | 1 | fasten
+pango | 2 | compose
+pango | 3 | agree, covenant, settle by agreement (class., only in the perfect-tense forms; related to pactum, paciscor)
+panicula | 1 | tuft
+panicula | 3 | swelling, tumor (transf., medical)
+panificium | 1 | bread-making
+panificium | 2 | baked goods
+panis | 1 | bread
+panis | 2 | food
+panis | 3 | a loaf-shaped ingot (transf., of metal)
+pannosus | 1 | ragged
+pannosus | 2 | flabby
+pannus | 1 | cloth
+pannus | 2 | rag
+pannus | 3 | swaddling-clothes (plur., of an infant)
+pantex | 1 | belly
+pantex | 3 | (comically) sausages, stuffed guts (of food, a Vergilian jest)
+papaver | 1 | poppy
+papaver | 3 | seed, kernel (transf., of small seeds generally, by analogy with poppy-seed)
