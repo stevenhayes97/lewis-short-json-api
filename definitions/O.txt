@@ -507,3 +507,23 @@ olitorius | 3 | forum olitorium, the vegetable market (a well-known market in an
 oliva | 1 | olive
 oliva | 2 | olive-tree
 oliva | 3 | olive-branch (transf., a symbol of peace)
+olivetum | 1 | olive grove
+olivum | 1 | oil
+olivum | 3 | the wrestling-school (trop., named for the oil used to anoint athletes)
+olla | 1 | pot
+olla | 3 | a rusty pot standing for a corrupt city (trop., Vulgate)
+olor1 | 1 | swan
+omen | 1 | omen
+omen | 3 | prima omina, wedding rites (so called because accompanied by auspices)
+omentum | 1 | omentum
+omentum | 3 | the caul, the membrane enclosing the bowels
+ominor | 1 | predict
+ominor | 3 | forebode, read as an omen (of interpreting a sign as a prediction of the future)
+omitto | 1 | give up
+omitto | 2 | omit
+omitto | 3 | omittere + infinitive, to stop doing something, cease (an action)
+omnifarius | 1 | manifold
+omnifarius | 3 | omnifariam, on every side, in every way (the more common adverbial form)
+omnino | 1 | altogether
+omnino | 2 | in all
+omnino | 3 | certainly, to be sure (in concessive clauses, granting a point before qualifying it)
