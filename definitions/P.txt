@@ -86,3 +86,24 @@ palmaris | 3 | a hand's-breadth or palm in size (a unit of measurement)
 palmaris | 4 | full of palm trees (of a grove or place)
 palmarius | 1 | masterpiece
 palmarius | 3 | a lawyer's success-fee (paid to an advocate who won the case)
+palmes | 1 | vine-shoot
+palmes | 3 | branch, bough (transf., of any tree)
+palmo | 1 | tie up
+palmo | 3 | tunica palmata, the palm-embroidered tunic worn by a general in his triumph
+palmula | 1 | palm
+palmula | 2 | oar-blade
+palmula | 3 | date, the fruit of the palm tree
+palmus | 1 | span
+palmus | 3 | the palm of the hand (literal, anatomical)
+palor | 1 | wander
+palor | 3 | vagi palantesque per agros, wandering scattered through the fields (of straggling troops or people)
+palpebra | 1 | eyelid
+palpebra | 3 | eyelashes (transf., plural)
+palpito | 1 | throb
+palpito | 3 | animus palpitans, a throbbing, anxious heart or mind (trop.)
+palpo1 | 1 | stroke
+palpo1 | 2 | coax
+paludamentum | 1 | cloak
+paludamentum | 3 | a general's cloak, worn as the formal mark of military command outside Rome
+paludatus | 1 | cloaked
+paludatus | 3 | proficisci paludatus, to set out wearing the general's cloak (i.e. assuming military command)
