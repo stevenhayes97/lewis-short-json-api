@@ -3049,3 +3049,28 @@ pupula | 3 | (term of endearment) a little girl, lass
 purgamen | 1 | refuse
 purgamen | 3 | a means of purification, an expiatory offering
 purgamen | 4 | (rare) purity, clearness
+purgamentum | 1 | refuse
+purgamentum | 3 | a means of purification, an expiatory offering
+purgatio | 1 | cleansing
+purgatio | 3 | (trop.) a religious purification, an expiation
+purgatio | 4 | (trop.) an apology, a justification
+purgo | 1 | cleanse
+purgo | 3 | (medic.) purge (by laxative)
+purgo | 4 | clear away, remove (debris, rubbish)
+purgo | 5 | (trop.) clear from accusation, excuse, exculpate
+purgo | 6 | (trop., relig.) expiate, atone for (a crime)
+purifico | 1 | purify
+purifico | 3 | (trop.) expiate, atone for, with religious rites
+purpura | 1 | purple
+purpura | 3 | (transf.) a purple garment, robe of rank
+purpura | 4 | (fig.) high office, sovereignty, as symbolized by the purple robe
+purpurarius | 1 | purple
+purpurarius | 3 | (as noun) a purple-dyer
+purpuratus | 1 | purple-clad
+purpuratus | 3 | (as noun) a courtier, a high officer at a king's court
+purpureus | 1 | purple
+purpureus | 3 | (transf., poet.) clothed in purple, of royal or noble rank
+purpureus | 4 | (poet.) brilliant, radiant, beautiful
+purpuro | 1 | purple
+purpuro | 3 | (neut.) be purple, glow with purple colour
+purulentus | 1 | purulent
