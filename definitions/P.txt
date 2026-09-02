@@ -1358,3 +1358,23 @@ polliceor | 3 | (of a speaker) announce, promise (in opening a speech)
 polliceor | 4 | (of a bidder) bid, offer (at a sale)
 pollicitatio | 1 | promise
 pollicitor | 1 | promise
+pollinctor | 1 | undertaker
+# review: pollingo no one-word or two-word English verb covers 'wash and lay out a corpse for burial'
+pollingo | 1 | wash and lay out (a corpse)
+pollubrum | 1 | basin
+polluceo | 1 | offer
+polluceo | 3 | serve up (as a dish, transf.)
+polluceo | 4 | entertain, treat (someone) with something
+pollucibilis | 1 | sumptuous
+polluo | 1 | pollute
+polluo | 3 | violate, desecrate (something sacred)
+polluo | 4 | violate, dishonour (a woman, post-Aug.)
+pomarius | 1 | of fruit
+pomarius | 3 | (as noun) a fruit-seller, fruiterer
+pomarius | 4 | (as noun) an orchard, fruit-garden
+pomarius | 5 | (as noun) a fruit-store, fruit-loft
+pomeridianus | 1 | afternoon
+pomerium | 1 | boundary
+pomerium | 3 | the consecrated strip encircling a city, marking its formal limits and auspices
+pomerium | 4 | (trop.) bounds, limits (fig.)
+pomifer | 1 | fruit-bearing
