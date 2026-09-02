@@ -980,3 +980,22 @@ pervestigo | 2 | investigate
 perviam | 1 | accessible
 pervicacia | 1 | obstinacy
 pervicacia | 2 | steadfastness
+pervicax | 1 | obstinate
+pervicax | 2 | steadfast
+pervideo | 1 | survey
+pervideo | 2 | discern
+pervigil | 1 | ever watchful
+pervigil | 3 | sleepless (transf., of a night spent without sleep)
+pervigilium | 1 | night watch
+pervigilium | 2 | vigil
+pervigilo | 1 | keep vigil
+pervigilo | 3 | watch over, be vigilant for (transf., of guarding or attending to something)
+pervinco | 1 | conquer completely
+pervinco | 2 | prevail
+pervius | 1 | passable
+pervius | 2 | accessible
+pervolo1 | 1 | fly through
+pervolo1 | 2 | dart through
+pervolo2 | 1 | wish greatly
+pervolvo | 1 | roll about
+pervolvo | 2 | read through
