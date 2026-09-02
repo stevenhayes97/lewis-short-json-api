@@ -407,3 +407,25 @@ octavus | 1 | eighth
 octavus | 3 | octava (hora), the eighth hour of the day (used substantively)
 octogenarius | 1 | octogenarian
 octogenarius | 3 | containing eighty (of a measurement or quantity, e.g. a pipe eighty inches wide)
+octoni | 1 | eight each
+ocularis | 1 | ocular
+oculatus | 1 | sighted
+oculatus | 2 | conspicuous
+oculatus | 3 | oculatus testis, an eyewitness (someone who saw with their own eyes)
+oculo | 1 | enlighten
+oculo | 3 | give sight to, cause to see (literal, eccl. Latin)
+oculus | 1 | eye
+oculus | 2 | bud
+oculus | 3 | oculi orae maritimae, the eyes (i.e. jewels, chief ornaments) of the coast (trop., a chief city or landmark)
+oculus | 4 | mentis oculus, the mind's eye (trop., of understanding or insight)
+odi | 1 | hate
+odi | 3 | oderint dum metuant, let them hate so long as they fear (a saying of Accius, later quoted by Caligula)
+odibilis | 1 | hateful
+odiosus | 1 | annoying
+odiosus | 2 | hateful
+odium1 | 1 | hatred
+odium1 | 2 | nuisance
+odium1 | 3 | in odium alicujus irruere, to earn or incur someone's hatred
+odor | 1 | smell
+odor | 2 | perfume
+odor | 3 | hint, inkling (trop., a suggestion or whiff of something, e.g. suspicion)
