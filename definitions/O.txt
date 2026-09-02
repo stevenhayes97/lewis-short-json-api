@@ -263,3 +263,23 @@ obstringo | 2 | bind
 obstringo | 3 | civitatem jurejurando obstringere, to bind a community by oath
 obstruo | 1 | block
 obstruo | 3 | viri deus obstruit aures, the god blocks a man's ears (trop., of being deaf to something)
+obstupefacio | 1 | astonish
+obstupefacio | 3 | render senseless, benumb (literal, of the body)
+obstupidus | 1 | stupefied
+obsum | 1 | harm
+obsum | 3 | the opposite of prosum, "to benefit"; obsum takes the same dative construction
+obsuo | 1 | sew
+obsuo | 3 | sew shut, stitch closed (of an opening)
+obsurdesco | 1 | go deaf
+obsurdesco | 3 | turn a deaf ear, refuse to listen (trop.)
+obtego | 1 | cover
+obtego | 2 | conceal
+obtempero | 1 | obey
+obtempero | 3 | obtemperare alicui, to obey someone, comply with their wishes (+ dative)
+obtendo | 1 | spread
+obtendo | 2 | allege
+obtendo | 3 | matris preces obtendens, pleading his mother's prayers as an excuse
+obtentus2 | 1 | pretext
+obtentus2 | 2 | covering
+obtero | 1 | crush
+obtero | 3 | rub (rare, of applying a substance by rubbing)
