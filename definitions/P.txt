@@ -1512,3 +1512,25 @@ post | 1 | after
 post | 3 | behind, back, backward (of place, adv.)
 post | 4 | (prep. with acc.) behind (of place)
 post | 5 | (trop.) inferior to, less important than
+postea | 1 | afterwards
+posteritas | 1 | posterity
+posteritas | 3 | (poet., of animals) offspring
+posterus | 1 | following
+posterus | 3 | (as noun, posteri) descendants, posterity, coming generations
+posterus | 4 | (comp. posterior) later, following, next in order (of two contrasted things)
+posterus | 5 | (comp. posterior, trop.) inferior, of less value
+posterus | 6 | (superl. postremus) last, hindmost
+posterus | 7 | (superl. postremus, trop.) lowest, basest, worst
+posterus | 8 | (superl. postumus) last-born, posthumous (born after the father's death)
+postfero | 1 | subordinate
+posthabeo | 1 | subordinate
+posthac | 1 | henceforth
+posticus | 1 | back
+posticus | 3 | (as noun, posticum) a back door
+posticus | 4 | (as noun, posticum) the rear part of a building
+postilio | 1 | claim
+postilio | 3 | a god's claim for a neglected or forgotten sacrifice (religious term)
+postilla | 1 | afterwards
+postis | 1 | doorpost
+postis | 3 | (poet., transf., usu. pl.) a door
+postis | 4 | (trop., poet.) barriers, gates (fig., e.g. of war)
