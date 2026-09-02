@@ -322,3 +322,27 @@ obumbro | 2 | conceal
 obumbro | 3 | sapientia vino obumbratur, wisdom is clouded by wine (a common saying)
 obvenio | 1 | fall to
 obvenio | 3 | provincia alicui obvenit, a province falls to someone's lot (of a duty assigned, often by lot)
+obversor | 1 | hover
+obversor | 3 | ante oculos obversari, to hover before one's eyes, keep appearing in one's mind
+obverto | 1 | turn
+obverto | 3 | turned toward, facing, directed at (of the participle obversus)
+obviam | 1 | to meet
+obviam | 3 | obviam ire alicui, to go to meet someone (a common idiom, + dative)
+obvio | 1 | meet
+obvio | 3 | obviate, prevent, guard against (a problem)
+# review: obvius "in the way" needs three words; no single English word covers "positioned so as to meet" without losing the sense
+obvius | 1 | in the way
+obvius | 2 | obvious
+obvius | 3 | affable, approachable, courteous (of a person)
+obvius | 4 | hostile, opposing, confronting (as an enemy)
+obvolvo | 1 | wrap
+obvolvo | 3 | capite obvoluto, with head muffled or covered
+occaeco | 1 | blind
+occaeco | 3 | occaecatus cupiditate, blinded by greed (a common trop use)
+occallesco | 1 | become callous
+occasio | 1 | opportunity
+occasio | 2 | pretext
+occasio | 3 | a raid, surprise attack (military term)
+occasus2 | 1 | setting
+occasus2 | 2 | west
+occasus2 | 3 | downfall, ruin, destruction, death (trop.)
