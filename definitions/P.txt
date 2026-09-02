@@ -337,3 +337,21 @@ patronus | 1 | patron
 patronus | 2 | advocate
 patruelis | 1 | cousin
 patruelis | 3 | patruelis vs consobrinus: patruelis is specifically a cousin through a father's brother; consobrinus is through a mother's sister
+patruus1 | 1 | uncle
+patruus1 | 2 | scold
+patruus1 | 3 | patruus vs avunculus: patruus is specifically a father's brother, avunculus a mother's brother
+patruus2 | 1 | uncle
+patulus | 1 | open
+patulus | 2 | spreading
+paucitas | 1 | scarcity
+pauculus | 1 | very few
+paucus | 1 | few
+paucus | 3 | pauca dicere, to speak briefly, in a few words
+paulatim | 1 | gradually
+paulatim | 3 | a few at a time, in small groups (of a sequence of people or parts)
+paulisper | 1 | briefly
+paululus | 1 | very little
+paululus | 3 | paululum alicuius rei, a little bit of something (+ genitive, a common partitive construction)
+paulus1 | 1 | small
+paulus1 | 2 | somewhat
+paulus1 | 3 | paulo ante, paulo post, shortly before, shortly after (common idioms, the ablative used adverbially with comparatives)
