@@ -1534,3 +1534,24 @@ postilla | 1 | afterwards
 postis | 1 | doorpost
 postis | 3 | (poet., transf., usu. pl.) a door
 postis | 4 | (trop., poet.) barriers, gates (fig., e.g. of war)
+postliminium | 1 | repatriation
+postliminium | 3 | the legal right of a returning citizen or captive to resume his former home, rank, and privileges
+postliminium | 4 | (trop.) a return, restoration (fig.)
+postmodo | 1 | afterwards
+postmodum | 1 | afterwards
+postpono | 1 | postpone
+postprincipia | 1 | sequel
+postprincipia | 3 | the course or progress of something after it has begun
+postquam | 1 | after
+postquam | 3 | since, because (rare, causal sense)
+postridie | 1 | next day
+postsum | 1 | be future
+postsum | 3 | (as noun, postfuturi) those yet to be, posterity
+postsum | 4 | (as noun, postfuturum) that which is to be, the future
+postulatio | 1 | demand
+postulatio | 3 | (legal) a complaint, an application for redress
+postulatio | 4 | (legal) an application to the praetor for leave to bring a charge
+postulo | 1 | demand
+postulo | 3 | (legal) prosecute, arraign, accuse (someone) before a court
+postulo | 4 | (of a seller) ask, demand a price
+postulo | 5 | (transf., of things) require, need
