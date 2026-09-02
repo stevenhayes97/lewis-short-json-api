@@ -984,7 +984,7 @@ aduro | 3 | to set something alight, to singe or scorch it
 aduro | 4 | of frost, wind, or locusts, to nip and spoil a crop
 aduro | 5 | in poetry, of love, to burn or inflame someone
 aduro | 6 | adustus as an adjective: sunburnt, browned, swarthy
-# review: adusque 'unto' is archaic and vague; is a 3-word preposition gloss acceptable here?
+# review: adusque 'unto' is archaic and vague; three words kept, confirmed, since no shorter preposition is accurate
 adusque | 1 | as far as
 adusque | 3 | as a preposition with the accusative, all the way to, right up to
 adusque | 4 | as an adverb, throughout, wholly, a strengthened usque
@@ -2725,8 +2725,7 @@ apium | 4 | the plant woven into garlands at drinking-parties, and given as the 
 apluda | 1 | chaff
 apluda | 3 | the husks beaten off grain, and so bran
 apluda | 4 | used as a byword for what is worthless: apluda nequior, more good-for-nothing than chaff
-# review: aplustre English has no word for the curved ornamented stern-piece of a ship
-aplustre | 1 | ship's curved stern
+aplustre | 1 | curved stern
 aplustre | 3 | the curved stern of a ship together with its ornaments of ribbons and streamers
 aplustre | 4 | usually in the plural, aplustra, and often as a trophy stripped from a beaten ship
 apo | 1 | fasten
@@ -3280,8 +3279,7 @@ arrogantia | 1 | arrogance
 arrogantia | 3 | presumption, the claiming of more than is one's due
 arrogantia | 4 | haughtiness born of real or supposed superiority
 arrogantia | 5 | stubbornness in pressing a demand
-# review: arrogatio a particular Roman form of adoption; English has no word for it
-arrogatio | 1 | formal adoption
+arrogatio | 1 | adrogation
 arrogatio | 3 | the adoption as a son of a man who was already legally independent, done before the assembly and the pontiffs
 arrogo | 1 | claim
 arrogo | 3 | to claim for oneself what is not one's due, to arrogate it: sibi nihil arrogare, to lay claim to nothing for oneself
@@ -3334,8 +3332,7 @@ artificium | 3 | the trade or occupation of a craftsman
 artificium | 4 | skill or ingenuity shown in something: singulari artificio perfectum, finished with rare skill
 artificium | 5 | the theory or system that lies behind an art
 artificium | 6 | in a bad sense, a trick or a piece of cunning
-# review: artio2 attested only through the participle artitus; there is no ordinary English verb for it
-artio2 | 1 | train up
+artio2 | 1 | train
 artio2 | 3 | found only in the participle artitus, schooled in the arts and so accomplished
 arto | 1 | compress
 arto | 3 | to press things close together: libros artare, to pack the books tight
@@ -3372,9 +3369,9 @@ arx | 5 | arcem facere e cloaca, to make a citadel out of a sewer, that is a mou
 arx | 6 | a height, peak or summit: Parnasi arce, on the height of Parnassus
 arx | 7 | of the sky, the height of heaven: caeli arcem, the citadel of heaven
 arx | 8 | figuratively, the head or chief point of a thing: caput atque arx belli, the head and stronghold of the war
-# review: as the root sense is the unit of any divided whole, but a reader most often meets the coin
-as | 1 | unit
-as | 2 | copper coin
+# review: as ranked by what a reader meets: the coin first, then the unit of any divided whole that underlies it
+as | 1 | copper coin
+as | 2 | unit
 as | 3 | the unit of a whole divided into twelve parts, used alike of coin, weight and measure
 as | 4 | the as, a copper coin, at first a pound of bronze and later much reduced
 as | 5 | in inheritance, the estate as a whole: haeres ex asse, sole heir; haeres ex semisse, heir to a half
@@ -3587,8 +3584,7 @@ assiduitas | 2 | persistence
 assiduitas | 3 | constant attendance on someone: medici assiduitas, the doctor's unbroken attendance
 assiduitas | 4 | the daily presence of friends and clients about a candidate
 assiduitas | 5 | of things, unbroken continuance or frequent repetition: assiduitas molestiarum, one trouble after another
-# review: assiduus1 a class in the Servian constitution; "taxpayer" is the nearest single word but drops the property qualification
-assiduus1 | 1 | taxpayer
+assiduus1 | 1 | propertied citizen
 assiduus1 | 3 | in the constitution of Servius Tullius, a citizen of the propertied classes who paid tribute, as against the proletarii
 assiduus1 | 4 | by extension, a man of means
 assiduus1 | 5 | in Gellius, of a writer of the first rank, as against a proletarius scribbler

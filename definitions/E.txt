@@ -1,18 +1,18 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_E.json (Lewis & Short via Perseus), simplified for learners.
-# review: eadem is the adverbial ablative of idem; no single word covers "by the same route"
-eadem | 1 | likewise
-eadem | 3 | by the same route (rare)
-eadem | 4 | eadem ... eadem, at one time ... at another
+# review: eadem an ablative of idem used as an adverb; "by the same way" is the classical sense and has no one-word English
+eadem | 1 | the same way
+eadem | 3 | by the same route: eadem revertens, returning the way he came
+eadem | 4 | in early Latin, at the same time, likewise
+eadem | 5 | eadem ... eadem, at one time ... at another
 # review: eatenus is a correlative adverb of extent; English needs a phrase
 eatenus | 1 | so far
-eatenus | 3 | to the extent that, insofar as (usu. with quatenus)
+eatenus | 3 | to the extent that, insofar as, usually answered by quatenus or quoad
 ebibo | 1 | drink up
 ebibo | 3 | transf: to suck in, absorb, drain (of things)
 ebibo | 4 | to squander in drink
-# review: eblandior needs a verb phrase; English has no single verb for "get by flattery"
-eblandior | 1 | coax out
-eblandior | 3 | to obtain by flattery or coaxing
+eblandior | 1 | wheedle
+eblandior | 3 | to obtain by flattery or coaxing: eblandita suffragia, votes wheedled out of people
 ebrietas | 1 | drunkenness
 ebrietas | 3 | transf: excess, an overabundance (of juice or liquid)
 ebriosus | 1 | drunken

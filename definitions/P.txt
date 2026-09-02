@@ -182,7 +182,7 @@ parietarius | 3 | parietaria, the herb pellitory, a plant that grows on walls
 parietinus | 1 | wall
 parietinus | 2 | ruins
 parilis | 1 | equal
-pario1 | 1 | equalize
+pario1 | 1 | equalise
 pario1 | 3 | settle, pay in full (a debt, post-classical legal usage)
 pario2 | 1 | give birth
 pario2 | 2 | acquire
@@ -315,7 +315,7 @@ patricus | 1 | paternal
 patricus | 3 | patricus casus, the genitive case (a grammatical term)
 patrimonium | 1 | inheritance
 patrimonium | 3 | populi Romani patrimonium, the inheritance or estate of the Roman people (trop., of public resources)
-# review: patrimus -- no single English word for "having a father still alive"; needed for the ritual pairing patrimi et matrimi
+# review: patrimus no single English word for having a father still alive; needed for the ritual pairing patrimi et matrimi
 patrimus | 1 | having a father still living
 patrimus | 3 | patrimi et matrimi, children whose father and mother are both still alive (required for certain religious rites)
 patritus | 1 | paternal
@@ -493,7 +493,7 @@ pendo | 3 | value, esteem (trop., + genitive of value, e.g. "magni pendere," to 
 pendo | 4 | pensum, a task, duty (originally a slave's daily quota of wool to spin)
 pendulus | 1 | hanging
 pendulus | 2 | uncertain
-# review: penes -- preposition meaning "in the possession or power of"; no single English preposition captures it precisely
+# review: penes a preposition meaning in the possession or power of; no single English preposition captures it
 penes | 1 | in the power of
 penes | 3 | penes me, in my possession, in my power (a common construction)
 penetrabilis | 1 | penetrable
@@ -541,7 +541,7 @@ peracesco | 2 | become vexed
 peracutus | 1 | very sharp
 peracutus | 3 | very keen, very perceptive (trop., of intellect or wit)
 peraeque | 1 | equally
-peraequo | 1 | equalize
+peraequo | 1 | equalise
 peraequo | 3 | fill up, yield, produce (a specified quantity, agricultural usage)
 peragito | 1 | harass
 peragito | 3 | stir (of a liquid, literal)
@@ -643,7 +643,7 @@ peregrinor | 3 | be a stranger, feel out of place (trop., even when at home)
 peregrinus | 1 | foreign
 peregrinus | 2 | foreigner
 peregrinus | 3 | (Roman law) a non-citizen resident, as opposed to a civis, "citizen"
-# review: peremnis -- a narrow augural technical term with no natural English adjective; occurs only in the phrase "peremne auspicium," the omen-taking ritual performed when crossing a river
+# review: peremnis an augural term with no English adjective; occurs only in peremne auspicium, the omens taken on crossing a river
 peremnis | 1 | of crossing a river
 peremnis | 3 | peremne auspicium, the auspices taken when a magistrate crosses a river or stream (a specific augural ritual)
 peremptalis | 1 | cancelling
@@ -651,8 +651,7 @@ peremptalis | 3 | fulmina peremptalia, lightnings believed to nullify the omen o
 peremptor | 1 | slayer
 peremptorius | 1 | peremptory
 peremptorius | 3 | deadly, fatal (the rarer literal sense, of poison or a weapon)
-# review: perendinus -- no single English word for "occurring the day after tomorrow"
-perendinus | 1 | occurring the day after tomorrow
+perendinus | 1 | after tomorrow
 perendinus | 3 | perendino die, on the day after tomorrow
 perennis | 1 | perennial
 perennis | 3 | lasting through the year (the literal sense, e.g. of birds that don't migrate)
@@ -999,7 +998,7 @@ pervolo1 | 2 | dart through
 pervolo2 | 1 | wish greatly
 pervolvo | 1 | roll about
 pervolvo | 2 | read through
-pervulgo | 1 | publicize
+pervulgo | 1 | publicise
 pervulgo | 3 | pervulgatus, common, well known, widespread (the common adjectival participle)
 pes | 1 | foot
 pes | 2 | sheet
@@ -1044,7 +1043,7 @@ phalanx | 1 | phalanx
 phalanx | 3 | the Macedonian phalanx, a compact battle formation fifty men wide and sixteen deep
 phalero | 1 | bedeck
 phalero | 3 | deck out, set off (of speech), display ostentatiously
-philosophor | 1 | philosophize
+philosophor | 1 | philosophise
 phoenix3 | 1 | phoenix
 phoenix3 | 3 | a fabulous bird said to live five hundred years and rise renewed from its own ashes
 piacularis | 1 | expiatory
@@ -1337,7 +1336,7 @@ poculum | 3 | a drink, draught, potion (poet.)
 poculum | 4 | a drinking-bout, carouse
 poculum | 5 | a draught of poison
 poenalis | 1 | penal
-poetor | 1 | poetize
+poetor | 1 | poetise
 polio1 | 1 | polish
 polio1 | 3 | adorn, embellish (of fields, etc., transf.)
 polio1 | 4 | (trop., of style) refine, polish
@@ -1359,8 +1358,9 @@ polliceor | 4 | (of a bidder) bid, offer (at a sale)
 pollicitatio | 1 | promise
 pollicitor | 1 | promise
 pollinctor | 1 | undertaker
-# review: pollingo no one-word or two-word English verb covers 'wash and lay out a corpse for burial'
-pollingo | 1 | wash and lay out (a corpse)
+pollingo | 1 | lay out
+pollingo | 3 | to wash a corpse and prepare it for the pyre, the work of the pollinctor, the undertaker's man
+pollingo | 4 | transferred, of an old man as good as dead: pollinctum corpus, a body already laid out
 pollubrum | 1 | basin
 polluceo | 1 | offer
 polluceo | 3 | serve up (as a dish, transf.)
@@ -2193,6 +2193,8 @@ pridem | 1 | long ago
 pridianus | 1 | yesterday's
 # review: pridie 'the day before' is the accurate gloss; no single or double word captures it
 pridie | 1 | the day before
+pridie | 3 | with the accusative of the day: pridie Kalendas, on the day before the Kalends; pridie ejus diei, the day before that
+pridie | 4 | pridie quam, the day before something happened: pridie quam Athenas veni, the day before I reached Athens
 primaevus | 1 | youthful
 primanus | 1 | first-legion
 primarius | 1 | foremost
@@ -2260,7 +2262,7 @@ privatim | 4 | at home
 privignus | 1 | stepchild
 privignus | 3 | (poet., transf., of plants) an offshoot, a sucker growing from another plant's root
 privilegium | 1 | privilege
-privilegium | 3 | (orig., Cic.) a law concerning a single named individual, for or against him
+privilegium | 3 | originally, a law concerning a single named individual, for or against him
 privo | 1 | deprive
 privo | 3 | free, release, deliver, from something bad, with abl.
 privo | 4 | (as p. a. privatus) private, not public
@@ -2718,7 +2720,7 @@ prorsum | 1 | forward
 prorsum | 3 | (trop.) wholly, absolutely, entirely
 prorsus1 | 1 | utterly
 prorsus1 | 3 | exactly, precisely, just so
-prorsus1 | 4 | in short, in a word, summarizing
+prorsus1 | 4 | in short, in a word, summarising
 prorsus2 | 1 | straight
 prorsus2 | 3 | (trop., of style) prosaic, written in prose
 prorumpo | 1 | burst
@@ -2730,7 +2732,7 @@ proruo | 4 | (neut., post-Aug.) collapse, tumble down
 prosapia | 1 | lineage
 proscindo | 1 | rend
 proscindo | 3 | (agri.) plough up, break ground for the first time
-proscindo | 4 | (trop.) revile, censure, satirize with words
+proscindo | 4 | (trop.) revile, censure, satirise with words
 proscribo | 1 | proscribe
 proscribo | 3 | publish, announce publicly (in writing)
 proscribo | 4 | advertise, put up for sale or auction
@@ -3007,7 +3009,7 @@ pulvereus | 1 | dusty
 pulvereus | 3 | (act.) that raises dust, of a horse or wind
 pulvero | 1 | dust
 pulvero | 3 | (viticulture) cover vines with loose soil, as protection
-pulvero | 4 | pulverize, reduce to powder
+pulvero | 4 | pulverise, reduce to powder
 pulverulentus | 1 | dusty
 pulverulentus | 3 | (trop.) toilsome, laborious
 pulvinar | 1 | couch
@@ -3034,7 +3036,7 @@ pungo | 5 | (as noun, punctum) a point, dot, small mark
 pungo | 6 | (as noun, punctum) a moment, an instant (of time)
 pungo | 7 | (as noun, punctum) a vote, ballot
 puniceus | 1 | crimson
-puniceus | 3 | (capitalized, Puniceus) Punic, Carthaginian
+puniceus | 3 | (capitalised, Puniceus) Punic, Carthaginian
 punio | 1 | punish
 punio | 3 | (rare) avenge, take vengeance for (something)
 pupilla | 1 | ward
@@ -3063,7 +3065,7 @@ purifico | 1 | purify
 purifico | 3 | (trop.) expiate, atone for, with religious rites
 purpura | 1 | purple
 purpura | 3 | (transf.) a purple garment, robe of rank
-purpura | 4 | (fig.) high office, sovereignty, as symbolized by the purple robe
+purpura | 4 | (fig.) high office, sovereignty, as symbolised by the purple robe
 purpurarius | 1 | purple
 purpurarius | 3 | (as noun) a purple-dyer
 purpuratus | 1 | purple-clad

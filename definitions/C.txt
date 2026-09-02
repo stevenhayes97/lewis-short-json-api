@@ -176,8 +176,7 @@ caespes | 5 | a hut roofed with sods: fortuitus caespes, a chance shelter of tur
 caespes | 6 | grassy ground, greensward: de caespite se levare, to rise up from the grass
 caespes | 7 | a clump of plants, or any knob of that shape
 caespes | 8 | in late Latin simply the ground
-# review: caestus a leaded hide strap bound round the hands; 'boxing-glove' suggests padding, which is the opposite of it
-caestus | 1 | boxing strap
+caestus | 1 | cestus
 caestus | 3 | a strap of bull's hide weighted with lead or iron, wound round a boxer's hands and arms
 caestus | 4 | worn by the pugiles at the games, and far more dangerous than any glove
 caesura | 1 | cutting
@@ -728,9 +727,8 @@ captus2 | 1 | grasp
 captus2 | 3 | a taking, or as much as can be taken at once: trium digitorum captu, a three-finger pinch
 captus2 | 4 | the power of taking a thing in, one's capacity: ut est captus alicujus, according to a person's lights
 captus2 | 5 | rarely of bodily powers: pro corporis captu, in proportion to their size
-# review: capularis said of an old man close to death, literally 'fit for the bier'; English has no adjective for it
-capularis | 1 | ready for burial
-capularis | 3 | belonging to the bier, said of an old man on the edge of the grave: capularis senex, an old man with one foot in the coffin
+capularis | 1 | moribund
+capularis | 3 | literally fit for the bier, said of an old man on the edge of the grave: capularis senex, an old man with one foot in the coffin
 capularis | 4 | also of criminals reckoned fit for the bier
 capulus | 1 | handle
 capulus | 2 | bier
@@ -2554,8 +2552,7 @@ commiseror | 3 | absol., of an orator, to excite compassion in a speech
 commissio | 1 | engagement
 commissio | 3 | meton., an opening speech or prize declamation at the games
 commissio | 4 | jurid., a perpetration or commission of an offence
-# review: commissorius jurid. term found almost only in "lex commissoria"; "of forfeiture" names the clause, a single word would mislead
-commissorius | 1 | of a forfeiture clause
+commissorius | 1 | of forfeiture
 commissorius | 3 | lex commissoria, a clause letting a seller rescind an unpaid sale
 commissura | 1 | joint
 commissura | 3 | transf., in rhetoric, a connection or transition in a speech
@@ -2963,6 +2960,7 @@ confarreatio | 1 | confarreation
 confarreatio | 3 | the ancient solemn Roman marriage rite involving a shared offering of bread before the Pontifex Maximus
 # review: confarreo denotes marrying specifically via the confarreatio bread-rite; no single English word covers that
 confarreo | 1 | wed by confarreatio
+confarreo | 3 | to marry by the old patrician rite in which a cake of spelt was offered: confarreatis parentibus geniti, born of parents so married
 confectio | 1 | completion
 confectio | 3 | a wearing down or diminishing, as of one's health
 confector | 1 | finisher
@@ -3076,8 +3074,8 @@ congestus2 | 3 | trop., an undigested mass of material, as in a speech
 # review: congiarius "of a congius" needs the article to be accurate; no shorter English phrasing fits
 congiarius | 1 | of a congius
 congiarius | 3 | as a substantive (congiarium), a donative of oil, grain, or money given to the people
-# review: congius the precise volume needs more than one word; no exact English equivalent
-congius | 1 | a Roman liquid measure of about six pints
+congius | 1 | liquid measure
+congius | 3 | a Roman measure for liquids of about six pints, the eighth part of an amphora
 conglacio | 1 | freeze
 conglacio | 3 | trop., to become inactive or stagnant
 conglobo | 1 | cluster
@@ -3493,6 +3491,7 @@ contio | 3 | in contionem ascendere, to mount the rostrum to speak
 contionabundus | 1 | haranguing
 # review: contionalis "of the assembly" needs the article to be accurate; no shorter English phrasing fits
 contionalis | 1 | of the assembly
+contionalis | 3 | suited to a public meeting, of speech or behaviour: contionalis clamor, an uproar fit for the assembly; contionalis senex, an old stirrer-up of the crowd
 contionor | 1 | harangue
 contionor | 3 | in gen., to declare or make known publicly
 contorqueo | 1 | twist
@@ -3856,6 +3855,7 @@ crimino | 1 | accuse
 criminosus | 1 | slanderous
 # review: crinalis "of the hair" needs the article to be accurate; no shorter English phrasing fits
 crinalis | 1 | of the hair
+crinalis | 3 | crinalis vitta, a hair-band; crinalis acus, or crinale as a noun, a hair-pin
 crinio | 1 | hairy
 crinio | 3 | transf., trailing or maned, as a comet or a crested helmet
 crinis | 1 | hair
@@ -4031,7 +4031,7 @@ curia | 4 | meton., the Senate itself, the assembled body
 # review: curialis "of a curia" needs the article to be accurate; no shorter English phrasing fits
 curialis | 1 | of a curia
 curialis | 3 | as a substantive, a fellow member of a curia
-curialis | 4 | late Lat., belonging to the imperial court
+curialis | 4 | in late Latin, belonging to the imperial court
 # review: curiatus "of the curiae" needs the article to be accurate; no shorter English phrasing fits
 curiatus | 1 | of the curiae
 curiatus | 3 | comitia curiata, the assembly voting by curiae

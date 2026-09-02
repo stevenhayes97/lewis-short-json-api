@@ -186,9 +186,9 @@ genuinus1 | 1 | innate
 genuinus1 | 2 | genuine
 genuinus1 | 3 | native, natural, belonging to one from birth
 genuinus1 | 4 | transferred, genuine, authentic (post-classical)
-# review: genuinus2 "of the cheek" needs the article to be accurate; no shorter English phrasing fits
-genuinus2 | 1 | of the cheek
-genuinus2 | 3 | dentes genuini, the back teeth, molars
+genuinus2 | 1 | molar
+genuinus2 | 3 | literally of the cheek: dentes genuini, the back teeth, and genuinus alone as a noun, a molar
+genuinus2 | 4 | genuinum frangere in aliquo, to break a tooth on someone, that is to savage him in criticism
 genus1 | 1 | kind
 genus1 | 2 | birth
 genus1 | 3 | a kind, sort, class, or type of thing (omne genus, of every kind)

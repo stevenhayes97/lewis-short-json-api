@@ -373,9 +373,10 @@ lectio | 1 | reading
 lectio | 2 | selection
 lectio | 3 | the roll-call of the senate (lectio senatus, a censorial term)
 lectio | 4 | a text, passage (transf., post-class.)
-# review: lectisternium no single English word for this Roman religious rite; described directly
-lectisternium | 1 | a banquet offered to the gods
-lectisternium | 3 | a memorial feast for the dead (transf., Christian era)
+# review: lectisternium a named rite with no English name; "banquet for the gods" is the shortest accurate form
+lectisternium | 1 | banquet for the gods
+lectisternium | 3 | a rite in which images of the gods were laid on couches and a meal set before them, held in times of danger: lectisternium habere, to hold a lectisternium
+lectisternium | 4 | in Christian times, a memorial feast for the dead
 lectito | 1 | peruse
 lectito | 3 | gather eagerly, collect often (post-class., of objects)
 lector | 1 | reader

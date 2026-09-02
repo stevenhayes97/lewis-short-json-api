@@ -183,7 +183,7 @@ obscuro | 3 | obscure, make indistinct (of speech or pronunciation)
 obscuro | 4 | cause to be forgotten, consign to obscurity
 obscurus | 1 | dark
 obscurus | 2 | obscure
-obscurus | 3 | unknown, unrecognized
+obscurus | 3 | unknown, unrecognised
 obscurus | 4 | of humble or undistinguished rank, lowly
 obscurus | 5 | secretive, reserved (of character)
 obsecratio | 1 | entreaty
@@ -330,11 +330,14 @@ obviam | 1 | to meet
 obviam | 3 | obviam ire alicui, to go to meet someone (a common idiom, + dative)
 obvio | 1 | meet
 obvio | 3 | obviate, prevent, guard against (a problem)
-# review: obvius "in the way" needs three words; no single English word covers "positioned so as to meet" without losing the sense
-obvius | 1 | in the way
+# review: obvius no single English adjective for placed so as to meet; "in the way" wrongly suggests obstruction, so "in one's path" is kept at three words
+obvius | 1 | in one's path
 obvius | 2 | obvious
-obvius | 3 | affable, approachable, courteous (of a person)
-obvius | 4 | hostile, opposing, confronting (as an enemy)
+obvius | 3 | so as to meet, meeting: obvius alicui esse, to meet someone; se dare obvium, to go to meet
+obvius | 4 | as an enemy, confronting: obvius hostibus, facing the enemy
+obvius | 5 | of a person, affable, approachable
+obvius | 6 | of things, at hand, ready, easy to come by
+obvius | 7 | exposed to: rupes obvia ventis, a crag open to the winds
 obvolvo | 1 | wrap
 obvolvo | 3 | capite obvoluto, with head muffled or covered
 occaeco | 1 | blind
@@ -350,7 +353,7 @@ occator | 1 | harrower
 occedo | 1 | approach
 occento | 1 | serenade
 occento | 2 | lampoon
-occento | 3 | sing a mocking or satirical song against someone (a recognized form of public shaming)
+occento | 3 | sing a mocking or satirical song against someone (a recognised form of public shaming)
 occidio | 1 | massacre
 occidio | 3 | occidione occidere, to utterly annihilate, wipe out completely (an emphatic idiom)
 occido1 | 1 | kill
@@ -448,10 +451,10 @@ offendo1 | 3 | strike against, hit, bump into (literal)
 offendo1 | 4 | come upon, meet with, find (transf.)
 offensa | 1 | offence
 offensa | 2 | indisposition
-offensa | 3 | displeasure, disfavor, ill-will incurred from someone
+offensa | 3 | displeasure, disfavour, ill-will incurred from someone
 offensaculum | 1 | stumbling block
 offensatio | 1 | blunder
-offensio | 1 | disfavor
+offensio | 1 | disfavour
 offensio | 2 | stumble
 offensio | 3 | indisposition, mishap, misfortune (of health or circumstance)
 offenso | 1 | falter
