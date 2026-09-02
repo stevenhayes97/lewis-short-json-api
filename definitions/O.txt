@@ -702,3 +702,26 @@ oriundus | 3 | oriundus ab/ex loco, originating from a place, born there (a comm
 ornamentum | 1 | ornament
 ornamentum | 2 | equipment
 ornamentum | 3 | ornamentum rei publicae, the pride and glory of the state (trop., of a distinguished person)
+ornatus2 | 1 | adornment
+ornatus2 | 2 | attire
+orno | 1 | adorn
+orno | 2 | equip
+orno | 3 | praise, honor, extol (trop., of commending someone's achievements)
+oro | 1 | beg
+oro | 3 | oro te, I beg you, please (a common parenthetical formula of politeness)
+oro | 4 | plead, argue a case (as an advocate or ambassador)
+orsa | 1 | beginning
+orsa | 2 | speech
+ortus2 | 1 | rising
+ortus2 | 2 | origin
+os1 | 1 | mouth
+os1 | 2 | face
+os1 | 3 | opening, mouth (of a river, harbor, or other geographic feature)
+os2 | 1 | bone
+os2 | 3 | the skeleton, the underlying structure or substance (trop., of a speech or argument)
+oscen | 1 | omen-bird
+oscen | 3 | a bird whose call (rather than its flight) was read for omens, e.g. the raven, crow, or owl
+oscillum1 | 1 | mask
+oscillum1 | 3 | a small mask of Bacchus hung from trees to swing in the wind (the source of English "oscillate")
+oscitatio | 1 | yawn
+oscitatio | 2 | tediousness
