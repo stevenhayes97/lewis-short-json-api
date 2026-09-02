@@ -3096,3 +3096,24 @@ puteal | 1 | wellhead
 puteal | 3 | (transf.) a similar stone curb marking a sacred or consecrated spot
 puteo | 1 | stink
 puteo | 3 | be rotten, putrid
+puter | 1 | rotten
+puter | 3 | (transf.) crumbling, friable, loose (of soil)
+putesco | 1 | rot
+puteus | 1 | well
+puteus | 3 | (transf.) a pit, shaft, for storage, mining, or as a dungeon
+putidus | 1 | rotten
+putidus | 3 | (transf., contemptuous) withered, decrepit, of an old person
+putidus | 4 | (of style) affected, disagreeably unnatural
+puto | 1 | think
+puto | 3 | (lit., rare) clean, cleanse
+puto | 4 | prune, trim (trees or vines)
+puto | 5 | reckon, compute, calculate
+puto | 6 | value, estimate, esteem, something as worth a certain amount
+puto | 7 | consider, ponder, reflect upon
+putrefacio | 1 | rot
+putrefacio | 3 | make friable, soften, rock, by heat and vinegar
+putresco | 1 | rot
+putresco | 3 | become loose, friable, crumbly
+putresco | 4 | (trop.) fall into contempt, become disgraced
+putus1 | 1 | pure
+putus1 | 3 | (usu. paired with purus) utterly pure, thoroughly clean, an emphatic doublet
