@@ -2068,3 +2068,26 @@ praetergredior | 1 | pass by
 praetergredior | 3 | (trop.) surpass, excel
 praeterlabor | 1 | glide by
 praeterlabor | 3 | (trop.) slip away, escape notice
+praetermeo | 1 | pass by
+praetermitto | 1 | omit
+praetermitto | 3 | let pass, allow (something) to go by
+praetermitto | 4 | overlook, wink at, disregard
+praeterquam | 1 | except
+praetervehor | 1 | pass by
+praetervehor | 3 | (trop.) pass over, pass by (in speech, e.g. in silence)
+praetervolo | 1 | fly past
+praetervolo | 3 | (trop.) slip by, escape (notice or memory)
+praetexo | 1 | fringe
+praetexo | 3 | (trop.) allege as a pretext, pretend
+praetexo | 4 | cover, cloak, disguise (something) with a pretence
+praetexo | 5 | (as noun, praetexta) the purple-bordered toga worn by magistrates and freeborn children
+praetexo | 6 | (as noun, praetextum) a pretext, excuse
+praetextatus | 1 | underage
+praetextatus | 3 | wearing the toga praetexta, the purple-bordered toga of magistrates or freeborn boys
+praetextatus | 4 | (transf., post-Aug., of words) veiled, indecent, obscene
+praetextus2 | 1 | pretext
+praetextus2 | 3 | outward show, display, appearance (post-Aug.)
+praetimeo | 1 | dread
+praetor | 1 | praetor
+praetor | 3 | (gen., prop.) a leader, chief, president (of any body)
+praetor | 4 | (transf.) a propraetor, a former praetor governing a province
