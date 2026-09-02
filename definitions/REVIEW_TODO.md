@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 10 of 85 settled.
+Progress: 15 of 85 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -37,11 +37,11 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `amento` r1 "fit with a thong" — accepted; L&S's own gloss is "furnish with a strap or thong", and English has no verb for it
 - [x] `antestor` r1 "call to witness" — accepted; a term of legal procedure that English has no verb for, and the procedure is explained at ranks 3-4
 - [x] `aplustre` r1 "curved stern" — tightened to "curved stern" and flag dropped; "ship's" was redundant since a stern is always a ship's, and rank 3 carries the ornaments
-- [ ] `aprugnus` r1 "of wild boar" — three words kept; "boar's" alone loses the wild boar, which is the whole of it
-- [ ] `apud` r1 "with" — no single English preposition covers it; "with" is nearest, but "at", "among" and "before" are each right in their place
-- [ ] `arbustus` r1 "planted with trees" — the sense is land set with trees for vines to climb; "wooded" would suggest natural woodland instead
-- [ ] `arcera` r1 "covered wagon" — English has no word for the boarded litter-wagon the Twelve Tables allowed the sick
-- [ ] `arietinus` r1 "of a ram" — three words kept, matching agninus; "ram's" alone reads as a possessive rather than a class
+- [x] `aprugnus` r1 "of wild boar" — accepted; "of wild boar" is the whole word, and "boar's" alone loses the wild
+- [x] `apud` r1 "with" — accepted; a one-word gloss flagged for confidence only; no single English preposition covers it, and ranks 3-9 carry the real range
+- [x] `arbustus` r1 "planted with trees" — accepted; "wooded" would suggest natural woodland where the word means land set with trees for vines
+- [x] `arcera` r1 "covered wagon" — accepted; a two-word gloss flagged for confidence only; English has no name for the boarded sick-wagon of the Twelve Tables
+- [x] `arietinus` r1 "of a ram" — accepted; three words kept to match agninus and aprugnus, since "ram's" alone reads as a possessive
 - [ ] `armipotens` r1 "mighty in arms" — a compound meaning potent in arms; "warlike" or "valiant" alone drops the force of potens
 - [ ] `arrogatio` r1 "formal adoption" — a particular Roman form of adoption; English has no word for it
 - [ ] `artio2` r1 "train up" — attested only through the participle artitus; there is no ordinary English verb for it
