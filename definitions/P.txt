@@ -166,3 +166,26 @@ parcus | 2 | scanty
 parens2 | 1 | parent
 parens2 | 2 | founder
 parens2 | 3 | ancestors, forebears (transf., plural, of more remote generations)
+parentalis | 1 | parental
+parentalis | 3 | Parentalia, the festival honoring dead ancestors (used substantively as a noun)
+parento | 1 | commemorate
+parento | 2 | avenge
+parento | 3 | to offer a sacrifice or rite in honor of dead relatives (the literal ritual sense, root of Parentalia)
+pareo | 1 | obey
+pareo | 2 | appear
+pareo | 3 | si paret, if it is proven, if it appears (evident) -- a legal formula
+pareo | 4 | parere alicui, to obey someone, be subject to them (+ dative)
+paries | 1 | wall
+paries | 3 | partition, barrier (trop., something that separates)
+parietarius | 1 | wall
+parietarius | 3 | parietaria, the herb pellitory, a plant that grows on walls
+parietinus | 1 | wall
+parietinus | 2 | ruins
+parilis | 1 | equal
+pario1 | 1 | equalize
+pario1 | 3 | settle, pay in full (a debt, post-classical legal usage)
+pario2 | 1 | give birth
+pario2 | 2 | acquire
+pario2 | 3 | parta, acquisitions, possessions gained (used substantively as a noun)
+parma1 | 1 | buckler
+parma1 | 3 | a Thracian-style gladiator (armed with the parma, as opposed to the larger scutum)
