@@ -562,3 +562,25 @@ perbito | 1 | perish
 perbito | 3 | go, proceed (to a place, the rarer literal sense)
 perbrevis | 1 | very short
 percalefacio | 1 | heat thoroughly
+percallesco | 1 | become hardened
+percallesco | 2 | master
+percelebro | 1 | repeat
+percelebro | 3 | talk about often, have constantly on one's lips (of a rumor or story)
+percello | 1 | overturn
+percello | 2 | dishearten
+percello | 3 | overthrow, ruin, destroy (trop., of a person's fortunes)
+percenseo | 1 | enumerate
+percenseo | 2 | review
+perceptio | 1 | perception
+perceptio | 2 | gathering
+percido | 1 | smash
+percido | 3 | rout, utterly destroy (of an army, military sense)
+percieo | 1 | excite
+percieo | 2 | abuse
+percieo | 3 | percitus, roused, agitated, excited (the common adjectival participle)
+percipio | 1 | perceive
+percipio | 2 | receive
+percipio | 3 | feel, experience (an emotion or sensation)
+percognosco | 1 | know thoroughly
+percolo1 | 1 | filter
+percolo1 | 3 | pass through, permeate (transf., of something seeping or passing through something else)
