@@ -2937,3 +2937,25 @@ puerilis | 3 | (transf.) trivial, silly, puerile (of ideas or conduct)
 pueritia | 1 | childhood
 pueritia | 3 | (rare) innocence
 pueritia | 4 | (rare, transf.) the first beginnings, early stages (of something)
+puerperium | 1 | childbirth
+puerperium | 3 | (transf.) a new-born child, infant
+puerperus | 1 | birthing
+puerperus | 3 | (as noun, puerpera) a woman in labour or childbed
+pugil | 1 | boxer
+pugillaris | 1 | handheld
+pugillaris | 3 | (as noun, pugillares) small writing-tablets
+pugilor | 1 | box
+pugilor | 3 | (transf., of a horse) kick
+pugio | 1 | dagger
+pugio | 3 | (trop., Cicero) a weak argument, mockingly, 'a leaden dagger'
+pugna | 1 | battle
+pugna | 3 | (rare, transf.) a battle line, troops drawn up for combat
+pugna | 4 | (rare) a dispute, quarrel, in general
+pugnax | 1 | combative
+pugnax | 3 | (trop., of speech) contentious, quarrelsome
+pugnax | 4 | (transf.) obstinate, stubborn, refractory
+pugno | 1 | fight
+pugno | 3 | (transf.) conflict, disagree, contradict (someone)
+pugno | 4 | struggle, strive, exert oneself (for something)
+pugnus | 1 | fist
+pugnus | 3 | (transf., as a measure) a fistful, a handful
