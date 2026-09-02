@@ -863,3 +863,23 @@ persaepe | 1 | very often
 perscribo | 1 | write out
 perscribo | 2 | register
 perscribo | 3 | assign, pay over (money), in a formal written record
+perscriptio | 1 | entry
+perscriptio | 2 | assignment
+perscrutor | 1 | search thoroughly
+perseco | 1 | excise
+perseco | 3 | dissect, lay bare (trop., of exposing hidden truths or the secrets of nature)
+persecutio | 1 | pursuit
+persecutio | 2 | persecution
+persedeo | 1 | sit long
+persedeo | 3 | settle (transf., of frost settling and freezing)
+persentisco | 1 | perceive clearly
+persentisco | 3 | feel deeply, be keenly affected
+persequor | 1 | pursue
+persequor | 2 | avenge
+persequor | 3 | carry out, execute (a task or order)
+persequor | 4 | describe, set forth, treat of (in speech or writing)
+perseverantia | 1 | perseverance
+perseverantia | 3 | (of a war or ordeal) long continuance, tedious duration (transf.)
+persevero | 1 | persevere
+persevero | 3 | perseverare in aliqua re, to persist in something (+ ablative, a common construction)
+persisto | 1 | persist
