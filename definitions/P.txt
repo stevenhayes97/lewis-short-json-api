@@ -2376,3 +2376,27 @@ procurator | 5 | (legal) an attorney, agent conducting a lawsuit
 procuro | 1 | manage
 procuro | 3 | (relig.) avert or expiate an evil omen by sacrifice
 procuro | 4 | hold an administrative charge, act as procurator (of a province)
+procurro | 1 | rush
+procurro | 3 | (transf.) jut out, project (of a place or promontory)
+procurro | 4 | (trop.) go on, advance further
+procursus | 1 | charge
+procursus | 3 | (transf.) a projection, a jutting out
+procursus | 4 | (trop., post-class.) an outbreak, a first manifestation
+procus2 | 1 | suitor
+procus2 | 3 | (trop.) a canvasser, one who solicits favour or office
+prodeo | 1 | emerge
+prodeo | 3 | (transf., of plants) spring up, sprout, appear
+prodeo | 4 | (trop.) advance, proceed, go forward
+prodico | 1 | postpone
+prodico | 3 | (rare) appoint or fix beforehand
+prodigialis | 1 | portentous
+prodigialis | 3 | (Plautine) that averts an evil omen
+prodigiosus | 1 | prodigious
+prodigium | 1 | portent
+prodigium | 3 | (transf.) a monster, an unnatural creature
+prodigo | 1 | squander
+prodigo | 3 | (lit., ante-class., rare) drive forth, drive to a place
+prodigo | 4 | (post-class.) use up, consume, in a neutral sense
+prodigus | 1 | prodigal
+prodigus | 3 | (poet., with gen.) rich, abounding in something
+prodigus | 4 | (post-Aug.) costly, expensive
