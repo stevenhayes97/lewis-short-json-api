@@ -1856,3 +1856,24 @@ praemonstro | 1 | guide
 praemonstro | 3 | predict, presage, foretell (in partic.)
 praemordeo | 1 | bite
 praemordeo | 3 | (transf.) bite off, snip off, pilfer
+praemorior | 1 | die early
+praemorior | 3 | (trop.) decay, fail (of the senses, faculties)
+praemunio | 1 | fortify
+praemunio | 3 | (trop.) protect, secure, safeguard
+praemunio | 4 | (trop., rhet.) preface, premise, to forestall objections
+praemunitio | 1 | fortification
+praemunitio | 3 | (rhet.) a preliminary preparing of the hearer's mind
+praenavigo | 1 | sail past
+praenavigo | 3 | (trop.) pass, hurry through (time, life)
+praeniteo | 1 | glitter
+praeniteo | 3 | (trop.) be conspicuous, outshine, surpass
+praenomen | 1 | forename
+praenomen | 3 | (transf.) a title or appellation placed before someone's name
+praenosco | 1 | foreknow
+praenoto | 1 | mark
+praenoto | 3 | entitle, give a title to (a book)
+praenoto | 4 | predict, foreshow
+praenoto | 5 | note down, write down
+praenuntio | 1 | foretell
+praenuntius | 1 | foreboding
+praenuntius | 3 | (as noun) a harbinger, foreteller, omen, token
