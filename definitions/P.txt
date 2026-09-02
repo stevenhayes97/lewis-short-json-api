@@ -2194,3 +2194,21 @@ pridianus | 1 | yesterday's
 # review: pridie 'the day before' is the accurate gloss; no single or double word captures it
 pridie | 1 | the day before
 primaevus | 1 | youthful
+primanus | 1 | first-legion
+primarius | 1 | foremost
+primas | 1 | noble
+primatus | 1 | primacy
+primicerius | 1 | chief
+primigenius | 1 | original
+primigenius | 3 | (gram.) a root word, primitive, not derived from another
+primigenius | 4 | (as epithet of Fortuna) governing one's fate from birth
+primipilaris | 1 | chief centurion
+primipilaris | 3 | (transf.) a retired chief centurion, one who had held that rank
+primipilaris | 4 | (eccl. Lat.) a bishop
+primitiae | 1 | firstfruits
+primitiae | 3 | (transf.) the first produce or output, of a mine, a vine, etc.
+primitiae | 4 | (trop.) a first attempt, a first experience, of youth, love, war
+primitivus | 1 | primitive
+primitivus | 3 | (gram.) a root word, not derived from another
+primitivus | 4 | first-born (of offspring)
+primitus | 1 | originally
