@@ -1485,3 +1485,30 @@ posco | 3 | (of a person demanded for punishment) call for the surrender of
 posco | 4 | call upon, invoke (a god)
 posco | 5 | (in selling) ask, bid a price for something
 posco | 6 | ask for in marriage, demand (someone's) hand
+positio | 1 | position
+positio | 3 | (rhet.) a proposition, theme, subject for argument
+positio | 4 | (gram./prosody) an ending, or a syllable made long by position
+positura | 1 | position
+positura | 3 | (gram.) punctuation, pointing
+positus2 | 1 | position
+positus2 | 3 | arrangement, disposition (of hair, bones, stars, etc.)
+possessio | 1 | possession
+possessio | 3 | (concr.) a thing possessed, an estate, property
+possessio | 4 | the act of taking possession, seizure
+possessor | 1 | owner
+possessor | 3 | (law) the party currently holding the disputed property, the defendant
+possibilis | 1 | possible
+possideo | 1 | possess
+possideo | 3 | (rare, = possido) take possession of, occupy
+possideo | 4 | (trop.) possess, have (a quality, name, etc.)
+possido | 1 | acquire
+possido | 3 | (trop.) take possession of, seize, occupy (fig.)
+possum | 1 | can
+possum | 3 | have power, influence, prevail (avail against something)
+possum | 4 | (as adj., potens) powerful, mighty (of persons, states)
+possum | 5 | (as adj., potens + gen.) having power over, master of, ruling over
+possum | 6 | (as adj., potens + gen.) capable of, fit for something
+post | 1 | after
+post | 3 | behind, back, backward (of place, adv.)
+post | 4 | (prep. with acc.) behind (of place)
+post | 5 | (trop.) inferior to, less important than
