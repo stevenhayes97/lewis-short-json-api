@@ -2040,3 +2040,31 @@ praesumptio | 4 | (rhet.) prolepsis, the anticipation of an objection
 praesumptio | 5 | (post-class.) boldness, audacity, overconfidence
 praesumptor | 1 | presumer
 praesumptor | 3 | (post-class., rare) one who takes possession beforehand, a preoccupier
+praetango | 1 | touch
+praetango | 3 | (transf., of disease) attack, afflict beforehand
+praetego | 1 | shelter
+praetendo | 1 | extend
+praetendo | 3 | hold out, place before (something, as a screen or barrier)
+praetendo | 4 | (of places) lie opposite to, stretch out in front of
+praetendo | 5 | (trop.) allege, pretend, use as a pretext
+praetento | 1 | probe
+praetento | 3 | (trop.) test, try beforehand (someone's resolve or feelings)
+praetento | 4 | (trop.) make a pretext of
+praeter | 1 | past
+praeter | 3 | beyond, more than (comparative)
+praeter | 4 | besides, in addition to
+praeter | 5 | except, excepting
+praeterea | 1 | besides
+praeterea | 3 | henceforth, from now on (rare)
+praetereo | 1 | pass
+praetereo | 3 | (trop.) escape one's notice, be unknown to someone
+praetereo | 4 | omit, leave out, pass over (in speaking or writing)
+praetereo | 5 | pass over, exclude, reject (in an election or a will)
+praetereo | 6 | surpass, excel
+praetereo | 7 | transgress, overstep (a limit)
+praeterfluo | 1 | flow past
+praeterfluo | 3 | (trop.) pass away, vanish, be forgotten
+praetergredior | 1 | pass by
+praetergredior | 3 | (trop.) surpass, excel
+praeterlabor | 1 | glide by
+praeterlabor | 3 | (trop.) slip away, escape notice
