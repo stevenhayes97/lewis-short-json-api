@@ -1,0 +1,416 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_P.json (Lewis & Short via Perseus), simplified for learners.
+pabulatio | 1 | foraging
+pabulatio | 3 | pasture, pastureland (literal)
+pabulor | 1 | forage
+pabulor | 3 | graze, feed (of animals eating fodder)
+pabulum | 1 | fodder
+pabulum | 3 | food, sustenance (trop., of anything that nourishes or feeds something abstract)
+pacator | 1 | pacifier
+pacator | 3 | subjugator, conqueror (since peace was often established through conquest)
+pacifer | 1 | peace-bringing
+pacifico | 1 | make peace
+pacifico | 2 | appease
+pacificus | 1 | peaceable
+pacisco | 1 | agree
+pacisco | 3 | quo pacto, in what way, how (a common idiomatic ablative)
+pacisco | 4 | betrothed (of the participle pactus/pacta, promised in marriage)
+paciscor | 1 | bargain
+paciscor | 2 | betroth
+paciscor | 3 | vitam pro laude paciscor, to stake one's life for glory (trop., poet.)
+paco2 | 1 | pacify
+paco2 | 2 | subdue
+paco2 | 3 | pacare silvas, to clear and tame forests (transf., of land brought under cultivation)
+pactio | 1 | agreement
+pactio | 2 | collusion
+pactio | 3 | truce, peace settlement
+paedidus | 1 | filthy
+paedor | 1 | filth
+paelex | 1 | concubine
+paelex | 3 | (as an insult) a kept boy, male favorite (post-class., applied mockingly to a man)
+paene | 1 | almost
+paenitentia | 1 | repentance
+paeniteo | 1 | regret
+paeniteo | 3 | me paenitet aliquid/alicuius rei, I regret something (an impersonal construction, + accusative of person and genitive of the thing)
+paeniteo | 4 | be dissatisfied, displeased (of a state of discontent, not necessarily moral regret)
+paenula1 | 1 | cloak
+paenula1 | 3 | covering, wrapping (transf., any protective envelope)
+paenularius | 1 | cloak-maker
+paenultimus | 1 | penultimate
+paenultimus | 3 | paenultima, the penultimate syllable (a grammatical term, used substantively)
+paetus1 | 1 | squinting
+paetus1 | 3 | having a charming, slightly averted gaze (as an epithet of Venus, a positive trait)
+paganicus | 1 | rural
+paganicus | 3 | heathen, pagan (eccl. Latin)
+paganus | 1 | rural
+paganus | 2 | civilian
+paganus | 3 | pagan, heathen (eccl. Latin, ultimately from "civilian" -- one outside the "army" of Christ)
+pagina | 1 | page
+pagina | 3 | a plot of vines, four rows arranged in a square (viticultural term)
+pagus | 1 | district
+pagus | 3 | the country folk, villagers (of a rural district, by metonymy)
+pala | 1 | spade
+pala | 3 | bezel, the flat setting of a ring (transf., by shape)
+palam | 1 | openly
+palam | 2 | before
+palam | 3 | palam est, it is publicly known, it is common knowledge
+palatum | 1 | palate
+palatum | 2 | taste
+palatum | 3 | caeli palatum, the vault of heaven (transf., by analogy of shape)
+palea | 1 | chaff
+palea | 3 | the wattles of a cock, the dew-lap-like flesh under a rooster's beak (transf., by resemblance)
+palear | 1 | dewlap
+palear | 3 | throat (transf., of the general area)
+palla | 1 | robe
+palla | 3 | a tragic actor's costume (transf., poet.)
+palleo | 1 | be pale
+palleo | 2 | pine for
+palleo | 3 | be anxious about, fear (trop., + dative or accusative)
+palleo | 4 | study intensely, pore over (trop., growing pale from application to books)
+pallesco | 1 | turn pale
+pallesco | 3 | wither, fade (transf., of leaves losing their color)
+palliatus | 1 | cloaked
+palliatus | 3 | fabula palliata, Roman comedy in Greek dress (a literary genre term, plays set in Greece)
+pallidus | 1 | pale
+pallidus | 3 | pallida mors, pale death (a famous Horatian personification)
+palliolum | 1 | cloak
+palliolum | 2 | hood
+pallium | 1 | cloak
+pallium | 2 | coverlet
+pallium | 3 | ad pallium reverti, to return to philosophy (trop., since the cloak was the philosopher's garb)
+pallor | 1 | pallor
+pallor | 2 | terror
+pallor | 3 | personified as the god of fear (alongside Pavor, in Roman religion)
+palmaris | 1 | excellent
+palmaris | 3 | a hand's-breadth or palm in size (a unit of measurement)
+palmaris | 4 | full of palm trees (of a grove or place)
+palmarius | 1 | masterpiece
+palmarius | 3 | a lawyer's success-fee (paid to an advocate who won the case)
+palmes | 1 | vine-shoot
+palmes | 3 | branch, bough (transf., of any tree)
+palmo | 1 | tie up
+palmo | 3 | tunica palmata, the palm-embroidered tunic worn by a general in his triumph
+palmula | 1 | palm
+palmula | 2 | oar-blade
+palmula | 3 | date, the fruit of the palm tree
+palmus | 1 | span
+palmus | 3 | the palm of the hand (literal, anatomical)
+palor | 1 | wander
+palor | 3 | vagi palantesque per agros, wandering scattered through the fields (of straggling troops or people)
+palpebra | 1 | eyelid
+palpebra | 3 | eyelashes (transf., plural)
+palpito | 1 | throb
+palpito | 3 | animus palpitans, a throbbing, anxious heart or mind (trop.)
+palpo1 | 1 | stroke
+palpo1 | 2 | coax
+paludamentum | 1 | cloak
+paludamentum | 3 | a general's cloak, worn as the formal mark of military command outside Rome
+paludatus | 1 | cloaked
+paludatus | 3 | proficisci paludatus, to set out wearing the general's cloak (i.e. assuming military command)
+palumbes | 1 | wood-pigeon
+palus1 | 1 | stake
+palus1 | 3 | ad palum alligari, to be bound to a stake (for punishment)
+palus2 | 1 | marsh
+palus2 | 3 | water, a lake (poet., transf., especially of the underworld rivers)
+paluster | 1 | marshy
+paluster | 3 | lux palustris, a squalid, degraded life (trop., a specific idiom)
+pampinarius | 1 | tendril
+pampinatio | 1 | pruning
+pampineus | 1 | vine-leaved
+pampino | 1 | prune
+pampinus | 1 | tendril
+pampinus | 2 | vine-leaf
+pando1 | 1 | bend
+pando2 | 1 | spread
+pando2 | 2 | reveal
+pando2 | 3 | velis passis, with sails spread, under full sail (of the participle passus)
+pandus | 1 | curved
+pango | 1 | fasten
+pango | 2 | compose
+pango | 3 | agree, covenant, settle by agreement (class., only in the perfect-tense forms; related to pactum, paciscor)
+panicula | 1 | tuft
+panicula | 3 | swelling, tumor (transf., medical)
+panificium | 1 | bread-making
+panificium | 2 | baked goods
+panis | 1 | bread
+panis | 2 | food
+panis | 3 | a loaf-shaped ingot (transf., of metal)
+pannosus | 1 | ragged
+pannosus | 2 | flabby
+pannus | 1 | cloth
+pannus | 2 | rag
+pannus | 3 | swaddling-clothes (plur., of an infant)
+pantex | 1 | belly
+pantex | 3 | (comically) sausages, stuffed guts (of food, a Vergilian jest)
+papaver | 1 | poppy
+papaver | 3 | seed, kernel (transf., of small seeds generally, by analogy with poppy-seed)
+papilio | 1 | butterfly
+papilio | 2 | tent
+papilla | 1 | nipple
+papilla | 2 | breast
+papilla | 3 | rose-bud (poet., by resemblance of shape)
+papula | 1 | pimple
+par | 1 | equal
+par | 2 | pair
+par | 3 | par est, it is fitting, right, proper (an impersonal idiom, like oportet)
+par | 4 | pariter, equally, likewise, at the same time (the common adverbial form)
+parabilis | 1 | attainable
+paratus2 | 1 | preparation
+parcitas | 1 | frugality
+parcitas | 2 | mercy
+parco | 1 | spare
+parco | 2 | refrain
+parco | 3 | parcere alicui, to spare someone, show mercy (+ dative)
+parcus | 1 | frugal
+parcus | 2 | scanty
+parens2 | 1 | parent
+parens2 | 2 | founder
+parens2 | 3 | ancestors, forebears (transf., plural, of more remote generations)
+parentalis | 1 | parental
+parentalis | 3 | Parentalia, the festival honoring dead ancestors (used substantively as a noun)
+parento | 1 | commemorate
+parento | 2 | avenge
+parento | 3 | to offer a sacrifice or rite in honor of dead relatives (the literal ritual sense, root of Parentalia)
+pareo | 1 | obey
+pareo | 2 | appear
+pareo | 3 | si paret, if it is proven, if it appears (evident) -- a legal formula
+pareo | 4 | parere alicui, to obey someone, be subject to them (+ dative)
+paries | 1 | wall
+paries | 3 | partition, barrier (trop., something that separates)
+parietarius | 1 | wall
+parietarius | 3 | parietaria, the herb pellitory, a plant that grows on walls
+parietinus | 1 | wall
+parietinus | 2 | ruins
+parilis | 1 | equal
+pario1 | 1 | equalize
+pario1 | 3 | settle, pay in full (a debt, post-classical legal usage)
+pario2 | 1 | give birth
+pario2 | 2 | acquire
+pario2 | 3 | parta, acquisitions, possessions gained (used substantively as a noun)
+parma1 | 1 | buckler
+parma1 | 3 | a Thracian-style gladiator (armed with the parma, as opposed to the larger scutum)
+paro1 | 1 | prepare
+paro1 | 2 | acquire
+paro1 | 3 | paratus, ready, prepared (the common adjectival participle)
+parra1 | 1 | owl
+parra1 | 3 | a bird of ill omen (exact species disputed -- perhaps the owl, woodpecker, or lapwing)
+parricida | 1 | parricide
+parricida | 2 | traitor
+parricida | 3 | the murderer of a near relative, or of a free citizen (transf., a broadened sense)
+parricidialis | 1 | parricidal
+parricidium | 1 | parricide
+parricidium | 2 | treason
+parricidium | 3 | the murder of a near relative, e.g. mother, brother (transf., a broadened sense)
+pars | 1 | part
+pars | 2 | faction
+pars | 3 | role, function, duty (transf., of a theatrical part or a person's office)
+pars | 4 | pars...pars, some...others (a common partitive construction)
+pars | 5 | magna pars, the majority, a good many
+parsimonia | 1 | frugality
+partiarius | 1 | shared
+partiarius | 3 | colonus partiarius, a sharecropper, a tenant farmer who pays rent with a portion of the crop
+particeps | 1 | participant
+particeps | 3 | particeps alicuius rei, a partaker or sharer in something (+ genitive)
+participialis | 1 | participial
+participium | 1 | participle
+participium | 3 | sharing, participation (the rarer literal sense)
+participo | 1 | share
+participo | 2 | inform
+particula | 1 | particle
+particula | 3 | a clause (rhetorical term, a small unit of a sentence)
+particularis | 1 | particular
+particulatim | 1 | piecemeal
+partilis | 1 | divisible
+partio1 | 1 | childbirth
+partio2 | 1 | divide
+partio2 | 3 | partiri inter se, to share something out among themselves, come to terms
+partitio | 1 | division
+partitio | 3 | (rhetoric) the part of a speech outlining the points to be discussed
+parturio | 1 | labor
+parturio | 2 | brood
+parturio | 3 | parturiunt montes, nascetur ridiculus mus, the mountains go into labor, and a ridiculous mouse is born (a proverb for a big buildup with a trivial result)
+parturitio | 1 | labor
+parturitio | 3 | parturition, childbirth (transf., the actual delivery)
+partus2 | 1 | birth
+partus2 | 2 | offspring
+partus2 | 3 | beginnings, origins (trop., of the sources of something)
+parumper | 1 | briefly
+parvitas | 1 | smallness
+parvulus | 1 | tiny
+parvulus | 2 | young
+parvus | 1 | small
+parvus | 3 | comparative minor, superlative minimus (irregular, not parvior/parvissimus)
+parvus | 4 | quominus, so that... not (a common construction after verbs of hindering or preventing)
+pascha | 1 | Passover
+pascha | 3 | Easter (the Christian feast, eccl. Latin)
+pascha | 4 | the paschal lamb (the sacrificial animal)
+pasco | 1 | feed
+pasco | 2 | graze
+pasco | 3 | feast, gratify (trop., of feeding one's eyes or mind on something)
+pasco | 4 | ravage, lay waste (trop., of devastating land)
+pascuus | 1 | grazing
+pascuus | 2 | pasture
+passer1 | 1 | sparrow
+passer1 | 3 | passer marinus, an ostrich (transf., literally "sea-sparrow")
+passim | 1 | everywhere
+passim | 2 | at random
+passio | 1 | suffering
+passio | 2 | the Passion
+passio | 3 | the sufferings of Christ (eccl. Latin, the specific sense behind "the Passion")
+passio | 4 | passion, emotion (a translation of the Greek pathos)
+passivus1 | 1 | widespread
+passivus2 | 1 | passive
+passus3 | 1 | step
+passus3 | 2 | pace
+passus3 | 3 | mille passus, a Roman mile (literally "a thousand paces," about 1,480 meters)
+pastillus | 1 | roll
+pastillus | 2 | lozenge
+pastino | 1 | trench
+pastino | 3 | prepare ground for planting vines (a specific viticultural technique)
+pastinum | 1 | dibble
+pastinum | 3 | the act of trenching and preparing ground (transf., the practice itself)
+pastio | 1 | grazing
+pastio | 2 | pasture
+pastor | 1 | shepherd
+pastor | 2 | pastor
+pastor | 3 | pastor populi, shepherd of the people (trop., of a leader or ruler)
+pastoralis | 1 | pastoral
+pastus2 | 1 | fodder
+pastus2 | 3 | sustenance, nourishment (trop., of anything that feeds or sustains)
+patefacio | 1 | open
+patefacio | 2 | reveal
+patella1 | 1 | dish
+patella1 | 2 | kneecap
+pateo | 1 | be open
+pateo | 2 | extend
+pateo | 3 | be evident, be clear (trop., of something obvious or well known)
+pater | 1 | father
+pater | 2 | ancestors
+pater | 3 | Pater, God the Father (eccl. Latin, of the Christian deity)
+pater | 4 | pater familias, the head of a household
+patera | 1 | libation-bowl
+patera | 3 | a shallow ceremonial dish used for pouring wine offerings to the gods
+paternus | 1 | paternal
+paternus | 3 | paternus vs patrius: paternus is a father's property or external relations, patrius what belongs to his essential nature
+paternus | 4 | casus paternus, the genitive case (a grammatical term)
+patesco | 1 | open
+patesco | 3 | become evident, come to light (trop.)
+patibilis | 1 | endurable
+patibilis | 2 | sensitive
+patibulum | 1 | gibbet
+patibulum | 3 | a forked prop for supporting vines (agricultural sense)
+patientia | 1 | patience
+patientia | 2 | forbearance
+patina1 | 1 | pan
+patina1 | 3 | manger, crib (transf., a feeding trough)
+patinarius | 1 | pan
+patior | 1 | suffer
+patior | 2 | allow
+patior | 3 | (gram.) to be passive, have a passive sense (the source of the term "passive")
+patriarcha | 1 | patriarch
+patriarcha | 3 | a chief bishop (eccl. Latin, a specific high church office)
+patricius | 1 | patrician
+patricius | 3 | (later imperial usage) a high court title, granted by the emperor from Constantine onward
+patricus | 1 | paternal
+patricus | 3 | patricus casus, the genitive case (a grammatical term)
+patrimonium | 1 | inheritance
+patrimonium | 3 | populi Romani patrimonium, the inheritance or estate of the Roman people (trop., of public resources)
+# review: patrimus -- no single English word for "having a father still alive"; needed for the ritual pairing patrimi et matrimi
+patrimus | 1 | having a father still living
+patrimus | 3 | patrimi et matrimi, children whose father and mother are both still alive (required for certain religious rites)
+patritus | 1 | paternal
+patrius1 | 1 | paternal
+patrius1 | 2 | homeland
+patrius1 | 3 | patria, one's native land or country (used substantively as a feminine noun -- an essential word, root of "patriot")
+patrius1 | 4 | hereditary, traditional, handed down (transf., of ancient customs or traits)
+patrius2 | 1 | native
+patrius2 | 3 | nomen patrium, a gentile or national adjective (e.g. Romanus, Atheniensis) -- a grammatical term
+patro | 1 | accomplish
+patro | 3 | bellum patrare, to bring a war to an end
+patrocinium | 1 | patronage
+patrocinium | 2 | advocacy
+patrocinor | 1 | champion
+patrocinor | 3 | patrocinari alicui, to act as patron or defender for someone (+ dative)
+patrona | 1 | patroness
+patronatus | 1 | patronage
+patronus | 1 | patron
+patronus | 2 | advocate
+patruelis | 1 | cousin
+patruelis | 3 | patruelis vs consobrinus: patruelis is specifically a cousin through a father's brother; consobrinus is through a mother's sister
+patruus1 | 1 | uncle
+patruus1 | 2 | scold
+patruus1 | 3 | patruus vs avunculus: patruus is specifically a father's brother, avunculus a mother's brother
+patruus2 | 1 | uncle
+patulus | 1 | open
+patulus | 2 | spreading
+paucitas | 1 | scarcity
+pauculus | 1 | very few
+paucus | 1 | few
+paucus | 3 | pauca dicere, to speak briefly, in a few words
+paulatim | 1 | gradually
+paulatim | 3 | a few at a time, in small groups (of a sequence of people or parts)
+paulisper | 1 | briefly
+paululus | 1 | very little
+paululus | 3 | paululum alicuius rei, a little bit of something (+ genitive, a common partitive construction)
+paulus1 | 1 | small
+paulus1 | 2 | somewhat
+paulus1 | 3 | paulo ante, paulo post, shortly before, shortly after (common idioms, the ablative used adverbially with comparatives)
+pauper | 1 | poor
+pauper | 3 | scanty, meagre (of things, transf.)
+pauperculus | 1 | poor
+pauperies | 1 | poverty
+pauperies | 2 | damage
+paupero | 1 | impoverish
+paupero | 2 | deprive
+paupertas | 1 | poverty
+paupertas | 3 | paupertas vs egestas: paupertas is modest means, not the desperate destitution of egestas or inopia
+paupertas | 4 | poverty of language, a lack of vocabulary or expressiveness (trop., a rhetorical criticism)
+pausarius | 1 | boatswain
+pausarius | 3 | a rowing-master who signals the stroke with a hammer
+pauso | 1 | pause
+pauso | 3 | pausat in pace, (he or she) rests in peace (a common funerary inscription formula)
+pauxillulus | 1 | tiny
+pauxillus | 1 | little
+pauxillus | 3 | ex pauxillo, little by little (a common idiom)
+pavefacio | 1 | frighten
+paveo | 1 | fear
+pavesco | 1 | become afraid
+pavidus | 1 | fearful
+pavidus | 2 | terrifying
+pavimentum | 1 | pavement
+pavio | 1 | beat
+pavio | 2 | ram
+pavito | 1 | tremble
+pavito | 3 | shiver with fever, have the ague (a specific medical sense)
+pavo1 | 1 | peacock
+pavoninus | 1 | peacock
+pavoninus | 2 | pavonine
+pavor | 1 | panic
+pavor | 3 | personified as the god of fear (alongside Pallor, in Roman religion)
+pax1 | 1 | peace
+pax1 | 2 | divine favor
+pax1 | 3 | pax!, silence!, enough! (as an interjection demanding quiet)
+pax1 | 4 | pace tua, with your leave, if I may say so (a common polite formula)
+pax1 | 5 | Pax Romana, the Roman peace (post-Augustan, of Rome's dominion and the stability it imposed)
+peccatum | 1 | sin
+pecco | 1 | err
+pecco | 2 | sin
+pecten | 1 | comb
+pecten | 2 | plectrum
+pecten | 3 | scallop (a shellfish, still the genus name today)
+pecten | 4 | rake
+pectinatim | 1 | comb-like
+pectino | 1 | comb
+pectino | 3 | harrow (transf., of raking soil)
+pecto | 1 | comb
+pecto | 3 | pectere pugnis, to give someone a beating (comic idiom, literally "to comb with fists")
+pectoralis | 1 | pectoral
+pectoralis | 2 | breastplate
+pectus | 1 | breast
+pectus | 2 | heart
+pectus | 3 | mind, understanding (trop., the intellectual or rational faculty)
+pecu | 1 | cattle
+pecu | 2 | money
+pecu | 3 | pecu squamosum, "scaly cattle" (a poetic kenning for fish)
+pecuarius | 1 | cattle
+pecuarius | 2 | grazier
