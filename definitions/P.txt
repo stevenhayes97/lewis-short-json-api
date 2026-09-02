@@ -1378,3 +1378,33 @@ pomerium | 1 | boundary
 pomerium | 3 | the consecrated strip encircling a city, marking its formal limits and auspices
 pomerium | 4 | (trop.) bounds, limits (fig.)
 pomifer | 1 | fruit-bearing
+pompa | 1 | procession
+pompa | 3 | a train, retinue, array (transf.)
+pompa | 4 | display, pomp, ostentation
+pomposus | 1 | pompous
+pomum | 1 | fruit
+pomum | 3 | (transf.) a fruit-tree
+pondero | 1 | weigh
+pondero | 3 | ponder, consider, weigh in the mind (trop.)
+ponderosus | 1 | heavy
+ponderosus | 3 | (trop.) weighty, significant, important
+pondo | 1 | pounds
+pondo | 3 | by weight, in weight (gen. sense)
+pondus | 1 | weight
+pondus | 3 | a heavy mass, load, burden (concr.)
+pondus | 4 | importance, influence, authority (trop.)
+pondus | 5 | a burden, oppressive weight (poet., fig.)
+pondus | 6 | firmness, constancy of character (poet.)
+pone | 1 | behind
+pono | 1 | place
+pono | 3 | pitch (a camp), station (troops)
+pono | 4 | set up, erect, build (a monument or structure)
+pono | 5 | plant (a tree)
+pono | 6 | serve up, set before one (at table)
+pono | 7 | lay aside, take off (clothing, arms)
+pono | 8 | lay out for burial, bury
+pono | 9 | invest, put out at interest (money)
+pono | 10 | (trop.) lay down as true, state, assert, assume
+pons1 | 1 | bridge
+pons1 | 3 | (at the Comitia) the gangway over which voters passed to cast their ballot
+pons1 | 4 | the deck of a ship (transf.)
