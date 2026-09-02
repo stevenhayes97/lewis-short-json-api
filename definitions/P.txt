@@ -1256,3 +1256,34 @@ plaustrarius | 3 | (as noun) a wagon-maker, wheelwright
 plaustrarius | 4 | (as noun) a wagon-driver, wagoner
 plaustrum | 1 | wagon
 plaustrum | 3 | (as constellation) the Great Bear, Charles's Wain
+plausus3 | 1 | applause
+plausus3 | 3 | a clapping sound, noise (general, poet.)
+plautus1 | 1 | flat
+plautus1 | 3 | flat-footed (dialectal, of the Umbrians)
+plebeius | 1 | plebeian
+plebeius | 3 | (transf., contemptuous) common, vulgar, low
+plebs | 1 | plebeians
+plebs | 3 | the masses, the multitude (gen. sense)
+plebs | 4 | (with contempt) the populace, the mob, the lower class
+plebs | 5 | the whole people, nation (late Lat.)
+plecto1 | 1 | plait
+plecto1 | 3 | twist, bend, turn (rare)
+plecto1 | 4 | (as p. a. plexus) intricate, entangled, ambiguous
+plecto2 | 1 | punish
+plecto2 | 3 | (pass., usual construction) be punished, suffer for
+plecto2 | 4 | (transf.) blame
+plenitudo | 1 | fullness
+plenitudo | 3 | completeness
+plenitudo | 4 | abundance, plenty
+plenitudo | 5 | thickness, stoutness (of a rod, or a person)
+plenus | 1 | full
+plenus | 3 | stout, plump, corpulent (of body)
+plenus | 4 | pregnant, with child (of women)
+plenus | 5 | entire, complete, whole
+plenus | 6 | sonorous, full, loud (of voice)
+plenus | 7 | abundant, plentiful, rich (in something)
+plenus | 8 | mature, advanced, ripe (of age)
+plenus | 9 | (of style, oratory) ample, copious
+plerus | 1 | most
+plerusque | 1 | most
+plerusque | 3 | (sing.) the greatest part of, most of (a group)
