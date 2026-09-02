@@ -2916,3 +2916,24 @@ pudeo | 3 | (as p. a. pudens) modest, bashful, shamefaced
 pudeo | 4 | (as p. a. pudendus) shameful, disgraceful, scandalous
 pudibundus | 1 | bashful
 pudibundus | 2 | shameful
+pudicitia | 1 | chastity
+pudicus | 1 | chaste
+pudicus | 3 | (transf., of things) pure, undefiled
+pudor | 1 | shame
+pudor | 3 | (transf.) disgrace, a cause for shame, ignominy
+pudor | 4 | (transf.) a blush
+puella | 1 | girl
+puella | 3 | (poet., in partic.) a sweetheart, mistress, beloved
+puella | 4 | (transf.) a young woman, young wife
+puellaris | 1 | girlish
+puellus | 1 | little boy
+puer | 1 | boy
+puer | 3 | (transf., poet.) a son
+puer | 4 | (transf.) a slave, an attendant, regardless of age
+puer | 5 | a young man, a youth, even up to adulthood
+puera | 1 | girl
+puerilis | 1 | childish
+puerilis | 3 | (transf.) trivial, silly, puerile (of ideas or conduct)
+pueritia | 1 | childhood
+pueritia | 3 | (rare) innocence
+pueritia | 4 | (rare, transf.) the first beginnings, early stages (of something)
