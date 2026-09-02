@@ -829,3 +829,19 @@ perpendiculum | 3 | ad perpendiculum, by the plumb-line, i.e. with strict accura
 perpendo | 1 | ponder
 perpes | 1 | continual
 perpes | 3 | noctem perpetem, through the whole night, all night long
+perpessio | 1 | endurance
+perpetior | 1 | endure steadfastly
+perpetro | 1 | accomplish
+perpetro | 2 | perpetrate
+perpetuitas | 1 | perpetuity
+perpetuo2 | 1 | perpetuate
+perpetuus | 1 | perpetual
+perpetuus | 2 | universal
+perpetuus | 3 | modus perpetuus, the infinitive mood (a specific grammatical term)
+perplaceo | 1 | please greatly
+perplexus | 1 | entangled
+perplexus | 2 | perplexing
+perpluo | 1 | leak
+perpluo | 3 | amor in pectus perpluit, love rained into my heart (a vivid Plautine trop image)
+perpolio | 1 | polish
+perpolio | 3 | perfect, put the finishing touches on (trop., of refining a literary work)
