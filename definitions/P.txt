@@ -144,3 +144,25 @@ pantex | 1 | belly
 pantex | 3 | (comically) sausages, stuffed guts (of food, a Vergilian jest)
 papaver | 1 | poppy
 papaver | 3 | seed, kernel (transf., of small seeds generally, by analogy with poppy-seed)
+papilio | 1 | butterfly
+papilio | 2 | tent
+papilla | 1 | nipple
+papilla | 2 | breast
+papilla | 3 | rose-bud (poet., by resemblance of shape)
+papula | 1 | pimple
+par | 1 | equal
+par | 2 | pair
+par | 3 | par est, it is fitting, right, proper (an impersonal idiom, like oportet)
+par | 4 | pariter, equally, likewise, at the same time (the common adverbial form)
+parabilis | 1 | attainable
+paratus2 | 1 | preparation
+parcitas | 1 | frugality
+parcitas | 2 | mercy
+parco | 1 | spare
+parco | 2 | refrain
+parco | 3 | parcere alicui, to spare someone, show mercy (+ dative)
+parcus | 1 | frugal
+parcus | 2 | scanty
+parens2 | 1 | parent
+parens2 | 2 | founder
+parens2 | 3 | ancestors, forebears (transf., plural, of more remote generations)
