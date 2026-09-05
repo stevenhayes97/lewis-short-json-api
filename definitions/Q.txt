@@ -119,3 +119,34 @@ quaestorius | 3 | as a noun (quaestorius), an ex-quaestor
 quaestorius | 4 | as a noun (quaestorium), the quaestor's tent in camp, or his residence in a province
 quaestuarius | 1 | mercenary
 quaestuarius | 3 | as a noun (quaestuaria), a prostitute, one hired out for profit
+quaestuosus | 1 | profitable
+quaestuosus | 3 | eager for gain, out for one's own profit
+quaestuosus | 4 | having profited greatly, wealthy, rich
+quaestura | 1 | quaestorship
+quaestura | 3 | transferred, the quaestor's chest, the public treasury under his charge
+quaestus | 1 | gain
+quaestus | 3 | transferred, a way of making money, a trade or business: quaestus meretricius, prostitution as a trade
+quaestus | 4 | profit, advantage generally
+qualibet | 1 | anywhere
+qualibet | 3 | as you please, in any way whatever
+# review: qualis 'what kind of' kept at three words; 'such' alone loses the interrogative use, and one word cannot cover both the interrogative and relative senses
+qualis | 1 | what kind of
+qualis | 3 | relative, with or without a correlative talis, such as, of the kind that
+qualis | 4 | in citations, as, for instance
+qualis | 5 | poetic, for qualiter, just as
+qualis | 6 | qualis qualis, of whatever kind, whatsoever
+qualis | 7 | indefinite, of some kind or other
+qualiscumque | 1 | whatever
+qualiscumque | 3 | transferred, any whatever, any without exception
+qualitas | 1 | quality
+qualitas | 3 | a term coined by Cicero to translate the Greek poiotes, quality as a philosophical category
+qualum | 1 | basket
+qualum | 3 | specifically, a fruit-basket, wool-basket, or wine-strainer, according to use
+quam | 1 | how
+quam | 2 | than
+quam | 3 | tam ... quam, as ... as; so ... as
+quam | 4 | quam ... tam, the more ... the more, with comparatives
+quam | 5 | after words of number or quantity, as much as: dimidium quam quod, half as much as
+quam | 6 | intensive, exceedingly, very, indeed: quam saevus est, he is extremely cruel
+quamdiu | 1 | how long
+quamdiu | 3 | relative, as long as, while, until
