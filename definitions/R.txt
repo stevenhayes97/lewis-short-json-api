@@ -611,4 +611,27 @@ reluctor | 3 | figuratively, to be reluctant, unwilling, averse to something
 remaneo | 1 | remain
 remedium | 1 | remedy
 remedium | 3 | specifically, a protective charm or amulet
+remeligo | 1 | dawdler
+remeo | 1 | return
+remeo | 3 | in particular, poetic, to return home victorious, in triumph
+remetior | 1 | remeasure
+remetior | 3 | transferred, to travel back over the same route: iter remetiri, to retrace one's journey
+remetior | 4 | figuratively, to go over again in one's mind, to reflect upon, recall: facta remetiri, to review one's deeds
+remex | 1 | rower
+remex | 3 | collectively, the crew of oarsmen, the ship's rowing complement
+remigium | 1 | rowing
+remigium | 3 | metonymically, the oars of a ship
+remigium | 4 | poetic, of birds, the beating of wings, as if oars: remigium alarum, the oarage of wings
+remigium | 5 | collectively, the crew of oarsmen
+remigo | 1 | row
+remigro | 1 | return
+remigro | 3 | figuratively, to return to a subject, principle, or state: ad justitiam remigrare, to return to justice
+reminiscor | 1 | remember
+reminiscor | 3 | to call to mind, imagine, conceive of something
+remisceo | 1 | remix
+remissio | 1 | remission
+remissio | 2 | relaxation
+remissio | 3 | mildness, gentleness, leniency of character or treatment
+remissio | 4 | ecclesiastical Latin, the forgiveness of sin
+remissio | 5 | rarely, a repetition: nova ludorum remissio, a fresh round of games
 
