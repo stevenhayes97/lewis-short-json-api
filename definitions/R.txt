@@ -426,4 +426,23 @@ reflatus | 3 | figuratively, a reaction, a counter-blast
 reflecto | 1 | turn back
 reflecto | 3 | figuratively, to turn someone's resolve or course back: animum reflectere, to turn back one's anger
 reflecto | 4 | intransitively, of an illness, to abate, yield, subside
+reflo | 1 | blow back
+reflo | 3 | figuratively, of fortune, to turn unfavorable: cum reflavit fortuna, when fortune turns against us
+reflo | 4 | actively, to breathe out, exhale: aer reflatur, the air is breathed out
+refluo | 1 | flow back
+refluus | 1 | refluent
+reformido | 1 | dread
+reformo | 1 | transform
+reformo | 2 | reform
+reformo | 3 | to restore, re-establish: pacem reformare, to restore peace
+refoveo | 1 | revive
+refoveo | 3 | literally, to warm again, to cherish: corpus refovere, to warm the body back to life
+refragor | 1 | oppose
+refragor | 3 | specifically, politically, to vote against or thwart a candidate's bid for office
+refreno | 1 | curb
+refrico | 1 | reopen
+refrico | 3 | figuratively, to reopen a memory, to stir up again: memoriam refricare, to revive a memory
+refrico | 4 | intransitively, of an ailment, to recur, break out again
+refrigero | 1 | cool
+refrigero | 3 | figuratively, to lose warmth or enthusiasm, to grow languid, flag: accusatio refrigerata, a prosecution that has lost its steam
 
