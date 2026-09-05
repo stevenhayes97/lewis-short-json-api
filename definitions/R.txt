@@ -746,4 +746,31 @@ replico | 2 | reply
 replico | 3 | figuratively, to turn over in the mind, to ponder, reflect upon, go over again: haec identidem replicare, to turn this over again and again
 repo | 1 | creep
 repo | 3 | figuratively, of style, to be low, plain, pedestrian: sermo repens per humum, speech that creeps along the ground
+repono | 1 | replace
+repono | 2 | store
+repono | 3 | to repay, requite, return: injuriam reponere, to repay a wrong
+repono | 4 | to substitute one thing for another: pro Eupoli Aristophanem reponere, to substitute Aristophanes for Eupolis
+repono | 5 | as an adjective (repositus or repostus), remote, distant: gentes repostae, far-off peoples
+reporto | 1 | bring back
+reporto | 3 | especially, as a victor, to carry off, win, gain: victoriam reportare, to win a victory
+reporto | 4 | to bring back a report or message: dicta tristia reportare, to bring back sad news
+reposco1 | 1 | reclaim
+reposco1 | 3 | figuratively, to claim or require as one's due: quod natura reposcit, what nature demands
+repositorium | 1 | tray
+repositorium | 3 | also, a repository, cabinet, storage case
+repotia | 1 | after-drinking
+repotia | 3 | specifically, the celebratory drinking held on the day after a wedding, birth, or similar feast
+repraesentatio | 1 | representation
+repraesentatio | 3 | in commerce, a cash payment, payment in full immediately
+repraesento | 1 | represent
+repraesento | 3 | in commerce, to pay immediately, to pay in cash on the spot
+repraesento | 4 | generally, to do or perform something at once, without delay: repraesentare consilium, to carry out a plan immediately
+reprehendo | 1 | reprehend
+reprehendo | 3 | literally and rarely, to seize, catch, take hold of: reprehendere pallio, to catch someone by the cloak
+reprehendo | 4 | in rhetoric, to refute an argument
+reprehensio | 1 | reprimand
+reprehensio | 3 | transferred, a fault, the thing blamed itself
+reprehensio | 4 | in rhetoric, a refutation
+reprimo | 1 | repress
+reprimo | 3 | literally, of water, to hold back, dam up: amnem reprimere, to check a river's flow
 
