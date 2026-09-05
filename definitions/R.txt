@@ -944,4 +944,27 @@ retendo | 3 | figuratively, to relax, ease, let unwind: quiete retenduntur, they
 retentio | 1 | retention
 retentio | 3 | philosophically, a withholding of assent, translating the Greek epoche, skeptical suspension of judgment
 retentio | 4 | preservation, maintenance: retentio disciplinae, the maintenance of discipline
+retento1 | 1 | hold back
+retento1 | 3 | figuratively, to preserve, maintain, keep safe from harm
+retento2 | 1 | retry
+retexo | 1 | unravel
+retexo | 3 | figuratively, to annul, cancel, undo: consilia retexere, to unravel and undo plans
+retexo | 4 | to renew or repeat: fata retexere, to bring back to life; also, to relate a story again
+retiarius | 1 | retiarius
+retiarius | 3 | a gladiator armed with a net and trident, who fought against the heavily armed secutor
+reticentia | 1 | silence
+reticentia | 3 | in rhetoric, aposiopesis, a deliberate breaking-off in the middle of a speech
+reticeo | 1 | keep silent
+reticeo | 3 | transitively, to keep something secret, conceal, suppress: nihil reticebo, I will conceal nothing
+reticulum | 1 | reticule
+reticulum | 3 | also, a small fishing net
+retinaculum | 1 | tether
+retinaculum | 3 | figuratively, a bond, restraint, tie: retinacula libertatis, the bonds safeguarding liberty
+retineo | 1 | retain
+retineo | 2 | restrain
+retineo | 3 | to remember, keep in mind: non retineo, I don't recall
+retineo | 4 | to preserve, maintain, uphold: jus suum retinere, to maintain one's right
+retorqueo | 1 | turn back
+retorqueo | 3 | figuratively, to turn back onto its source, to retort: crimen in auctorem retorquere, to turn a charge back on its author
+retorqueo | 4 | in rhetoric, to retort an argument upon one's opponent
 
