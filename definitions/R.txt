@@ -396,3 +396,34 @@ redundo | 4 | figuratively, to abound, be copious, superabound: ingenium redunda
 redundo | 5 | to be in excess, to be redundant or superfluous
 redux | 1 | returning
 redux | 3 | actively, that leads safely back home, an epithet of gods: Juppiter redux, Jupiter who brings travelers home safely
+refectio | 1 | repair
+refectio | 3 | figuratively, refreshment, recovery, recuperation
+refello | 1 | refute
+refercio | 1 | stuff
+refercio | 3 | figuratively, to cram or fill something to overflowing: aures refercire sermonibus, to stuff someone's ears with talk
+refercio | 4 | as an adjective (refertus), crammed full, packed, teeming with: referta divitiis, teeming with riches
+referio | 1 | strike back
+refero | 1 | report
+refero | 2 | return
+refero | 3 | referre pedem or gradum, militarily, to retreat, fall back
+refero | 4 | to repay, give back what is owed: par pari referre, to repay like for like
+refero | 5 | to bring formally before the Senate for debate: referre ad senatum, to put a motion to the Senate
+refero | 6 | to trace back or ascribe something to a cause: referre aliquid ad voluptatem, to attribute everything to pleasure
+refero | 7 | to record, note down, register in writing: referre in tabulas, to enter into the public records
+refero | 8 | to reply, answer, rejoin: quid ad haec refers?, what do you say to this?
+refert | 1 | matters
+refert | 3 | with the genitive of value, magni, parvi, or nihil refert, it matters a great deal, a little, or not at all
+refert | 4 | with a possessive, meā, tuā, or suā refert, it is my, your, or his concern
+reficio | 1 | repair
+reficio | 2 | refresh
+reficio | 3 | politically, reficere consulem, to re-elect someone to office
+reficio | 4 | economically, to recoup, get back as a return on investment
+reficio | 5 | of the body or mind, to restore, reinvigorate, revive: exercitum ex labore reficere, to let the army recover from exertion
+refigo | 1 | unfasten
+refigo | 3 | transferred, to annul or abrogate a law: leges refigere, to repeal laws, literally to take down the bronze tablets they were posted on
+reflatus | 1 | headwind
+reflatus | 3 | figuratively, a reaction, a counter-blast
+reflecto | 1 | turn back
+reflecto | 3 | figuratively, to turn someone's resolve or course back: animum reflectere, to turn back one's anger
+reflecto | 4 | intransitively, of an illness, to abate, yield, subside
+
