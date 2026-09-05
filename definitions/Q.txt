@@ -290,3 +290,37 @@ quia | 4 | post-classical, introducing an object clause, equivalent to quod, tha
 quicumque | 1 | whoever
 quicumque | 3 | in particular, for qualiscumque, of whatever kind or nature
 quicumque | 4 | transferred, each or every possible: quocumque modo, in every possible way
+quidam | 1 | certain
+quidam | 3 | substantively, someone, something: quidam ex advocatis, one of the advocates
+quidem | 1 | indeed
+quidem | 3 | ne ... quidem, not even
+quidem | 4 | at least, certainly, in truth
+quidem | 5 | introducing an example, for instance, for example
+quies1 | 1 | rest
+quies1 | 3 | political or military neutrality, a quiet, uninvolved life
+quies1 | 4 | sleep, slumber
+quies1 | 5 | euphemistically, the sleep of death
+quies1 | 6 | transferred, a dream
+quies1 | 7 | a lair or resting place of a wild animal
+quiesco | 1 | rest
+quiesco | 3 | politically, to remain neutral, to keep out of a conflict
+quiesco | 4 | to sleep
+quiesco | 5 | of things, to lie still, be calm: flamma quiescit, the fire dies down
+quiesco | 6 | to cease or desist from something: quiesce hanc rem petere, stop seeking this
+quiesco | 7 | to acquiesce in, to peaceably allow something to happen
+quilibet | 1 | anyone
+quilibet | 3 | with a dismissive tone, just anybody, the first person who happens along
+quin | 1 | why not
+quin | 3 | after negated verbs of doubt or hindrance, that, but that: non dubito quin verum sit, I do not doubt that it is true
+quin | 4 | as a relative particle after a negative, who or that ... not: nemo est quin sciat, there is no one who does not know
+quin | 5 | corroborative, indeed, in fact, truly
+quin | 6 | in corrections, nay rather, indeed
+quinam | 1 | who
+quinam | 3 | an emphatic interrogative, who or what indeed, whoever, pray
+quinarius | 1 | quinary
+quinarius | 3 | quinaria fistula, a pipe five quarter-digits in diameter
+quincuncialis | 1 | five-twelfths
+quincuncialis | 3 | in particular, planted in the arrangement of a quincunx, as the five spots on a die
+quincunx | 1 | five-twelfths
+quincunx | 2 | quincunx
+quincunx | 3 | transferred, trees or objects arranged in this pattern, used especially for orchard planting
