@@ -445,4 +445,27 @@ refrico | 3 | figuratively, to reopen a memory, to stir up again: memoriam refri
 refrico | 4 | intransitively, of an ailment, to recur, break out again
 refrigero | 1 | cool
 refrigero | 3 | figuratively, to lose warmth or enthusiasm, to grow languid, flag: accusatio refrigerata, a prosecution that has lost its steam
+refrigesco | 1 | cool
+refrigesco | 3 | figuratively, of enthusiasm or a case, to grow stale, lose momentum, flag
+refringo | 1 | break open
+refringo | 3 | figuratively, to break down, weaken, destroy: vim fluminis refringere, to break the force of a river
+refugio | 1 | flee
+refugio | 2 | shun
+refugio | 3 | pregnantly, to take refuge, flee for shelter: refugere ad legatos, to take refuge with the envoys
+refugio | 4 | of places, to recede, appear to draw back into the distance: templum refugit ab litore, the temple recedes from the shore
+refugium | 1 | refuge
+refugus | 1 | receding
+refulgeo | 1 | gleam
+refulgeo | 3 | figuratively, of fame, hope, or glory, to shine forth: spes refulsit, hope shone forth
+refundo | 1 | pour back
+refundo | 3 | transferred, of solid things, to throw back, fling back: refunditur alga, seaweed is flung back by the waves
+refundo | 4 | figuratively, to pour forth, shed: fletu ora refuso, with tears streaming down the face
+refuto | 1 | refute
+refuto | 3 | literally, to check, drive back, repel: nationes refutandae, peoples to be driven back
+refuto | 4 | to resist, oppose, restrain: cupiditatem refutare, to resist a desire
+regalis | 1 | royal
+regalis | 3 | transferred, worthy of a king, splendid, magnificent: regalis luxus, royal extravagance
+regalis | 4 | in a bad sense, as an adverb (regaliter), despotically, domineeringly
+regelo | 1 | thaw
+regelo | 3 | rarely, in the opposite sense, to air out, cool off: granaria regelare, to air out the granaries
 
