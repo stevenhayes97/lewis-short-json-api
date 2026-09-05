@@ -422,3 +422,22 @@ quoniam | 1 | since
 quoniam | 3 | post-classical, introducing an object clause, that
 quoquam | 1 | anywhere
 quoquam | 3 | equivalent to in aliquam rem, in anything, in any respect
+quoque1 | 1 | also
+quoque1 | 3 | ne ... quoque, not even that
+quoquo | 1 | wherever
+quorsum | 1 | whither
+quorsum | 3 | figuratively, to what purpose, to what end, with what aim: quorsum haec disputo?, to what end am I discussing this?
+quot | 1 | how many
+quot | 3 | transferred, in expressions of time: quot diebus, every day; quot annis, every year
+quotiens | 1 | how often
+quotquot | 1 | however many
+quotquot | 3 | transferred, quotquot annis, every year, annually
+# review: quotumus 'which in number' kept at three words; this rare interrogative asks for a position in a series (the "how-manyeth" day), which English has no single word for
+quotumus | 1 | which in number
+quotumus | 3 | quotumo die, on what day, by number
+# review: quotus 'which in number' kept at three words, matching quotumus; English has no single word asking for a position in a series
+quotus | 1 | which in number
+quotus | 3 | quotus quisque, how few out of every group, how rare a person
+quotus | 4 | quota hora est?, what time is it, literally which hour out of how many
+quousque | 1 | how long
+quousque | 3 | of place, how far, to what extent
