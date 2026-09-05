@@ -371,3 +371,31 @@ quis1 | 1 | who
 quis1 | 2 | what
 quis1 | 3 | transferred (quid), how, why, wherefore
 quis1 | 4 | quid, with a partitive genitive, what sort of, what kind of: quid mulieris, what sort of woman
+quis2 | 1 | someone
+quis2 | 2 | something
+quis2 | 3 | chiefly after si, nisi, ne, num, or cum: si quis, if anyone
+quisnam | 1 | who
+quisnam | 3 | neuter quidnam, what indeed, whatever can it be
+quispiam | 1 | someone
+quispiam | 3 | neuter quidpiam or quippiam, something or other
+quisquam | 1 | anyone
+quisquam | 3 | nec or neque quisquam, and no one, and none
+quisquam | 4 | pleonastically with nihil, nothing whatever, nothing at all
+quisque | 1 | each
+quisque | 3 | transferred, for quicumque, whoever, whatsoever, every one who
+quisquiliae | 1 | rubbish
+quisquiliae | 3 | figuratively, of worthless people, riffraff, dregs, trash
+quisquis | 1 | whoever
+quisquis | 3 | neuter quicquid or quidquid, whatever, anything that
+quivis | 1 | anyone
+quivis | 3 | neuter quidvis, anything you like, whatever you please
+quo | 1 | whither
+quo | 3 | tropically, to what end, for what purpose, why: quo tantam pecuniam?, why so much money?
+quo | 4 | transferred, to the end that, in order that, so that
+quo | 5 | less commonly, of rest, where: quo loci, in what place
+quo | 6 | causal, for which reason, because: quo aequior sum, for this reason I am more fair
+quo | 7 | indefinite, with si, to any place, anywhither
+quoad | 1 | until
+quoad | 3 | as long as, while
+quoad | 4 | how far, as far as, to what extent
+quoad | 5 | with respect to, as regards
