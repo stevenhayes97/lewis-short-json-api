@@ -99,3 +99,31 @@ rarus | 2 | sparse
 rarus | 3 | transferred, scattered, spread out, far apart: rari milites, soldiers spread out in loose order
 rarus | 4 | as an adverb (raro), seldom, rarely
 rarus | 5 | poetic, remarkable, extraordinary, uncommonly fine: rara puella, an extraordinary girl
+rasilis | 1 | polished
+rastrum | 1 | hoe
+rastrum | 3 | a toothed implement for breaking up soil, also called a mattock or rake
+rasura | 1 | scraping
+rasura | 3 | concretely, what is scraped or shaved off, shavings
+rasura | 4 | figuratively, a harsh, grating pronunciation, especially of guttural sounds
+ratio | 1 | reason
+ratio | 2 | account
+ratio | 3 | a method, plan, procedure, way of doing something: ratio belli gerendi, a method of waging war
+ratio | 4 | relation, respect, regard for something: rationem habere alicuius rei, to have regard for something
+ratio | 5 | a motive, ground, cause, reason for something: nulla ratione, for no reason at all
+ratio | 6 | a theory, system, or doctrine based on reasoning: ratio Stoicorum, the Stoic system
+ratio | 7 | rhetorically, an argument, a line of reasoning
+ratio | 8 | one's own interest or advantage: meae rationes, my interests
+ratiocinatio | 1 | reasoning
+ratiocinatio | 3 | in particular, a syllogism, a formal chain of reasoning
+ratiocinatio | 4 | in architecture, theory, as opposed to practical skill
+ratiocinativus | 1 | syllogistic
+ratiocinativus | 3 | in grammar, illative, expressing an inference: conjunctio ratiocinativa, an illative conjunction like ergo or igitur
+ratiocinator | 1 | accountant
+ratiocinor | 1 | calculate
+ratiocinor | 3 | transferred, to consider, deliberate, ponder something
+ratiocinor | 4 | to reason, argue, or infer from the circumstances
+rationabilis | 1 | reasonable
+rationalis | 1 | rational
+rationalis | 3 | of or belonging to accounts; as a noun (rationalis), an accountant or treasurer
+rationalis | 4 | as a noun (rationale), the oracular breastplate of the Jewish high priest
+rationalis | 5 | in rhetoric, syllogistic, relating to formal argument
