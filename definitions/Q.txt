@@ -150,3 +150,30 @@ quam | 5 | after words of number or quantity, as much as: dimidium quam quod, ha
 quam | 6 | intensive, exceedingly, very, indeed: quam saevus est, he is extremely cruel
 quamdiu | 1 | how long
 quamdiu | 3 | relative, as long as, while, until
+quamlibet | 1 | however
+quamlibet | 3 | as you please, at pleasure, as much as one likes
+quamlibet | 4 | post-classical, for quamvis, although
+quamobrem | 1 | why
+quamobrem | 3 | relative, for which reason, wherefore, on account of which
+quamobrem | 4 | as a transitional particle beginning a sentence, wherefore, for this reason
+quamplures | 1 | many
+quamplures | 3 | very many, a great many
+quamprimum | 1 | promptly
+quamprimum | 3 | as soon as possible, at the earliest opportunity
+quamquam | 1 | although
+quamquam | 3 | as a rhetorical transition particle, however, yet, nevertheless, introducing an objection or reservation
+quamvis | 1 | although
+quamvis | 2 | very
+quamvis | 3 | as an adverb, as much as one likes, to a very high degree: quamvis multos, ever so many
+quamvis | 4 | as a conjunction, usually with the subjunctive, however much, no matter how: quamvis sit prudens, however wise he may be
+quando | 1 | when
+quando | 2 | since
+quando | 3 | indefinite, at any time, ever, some day, especially after num, si, or ne
+quando | 4 | conjunction, temporal, when: quando esurio, tum crepant, when I am hungry, then they growl
+quandocumque | 1 | whenever
+quandocumque | 3 | indefinite, at some time or other, sooner or later
+quandoque1 | 1 | whenever
+quandoque1 | 3 | causal, since, inasmuch as
+quandoque1 | 4 | indefinite, at some time or other
+quandoque1 | 5 | post-classical, now and then, sometimes
+quandoquidem | 1 | since
