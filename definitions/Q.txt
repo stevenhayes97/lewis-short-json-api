@@ -201,3 +201,32 @@ quantusvis | 1 | however great
 quantusvis | 3 | post-classical or poetic, for quamvis, although, albeit
 quapropter | 1 | why
 quapropter | 3 | transferred, in passing to a new thought, wherefore, on which account
+quare | 1 | why
+quare | 3 | relative, by which means, whereby
+quare | 4 | transferred, introducing a consequence, for which reason, therefore
+quartanus | 1 | quartan
+quartanus | 3 | as a noun (quartana), a quartan fever, an ague recurring every fourth day
+quartanus | 4 | of the fourth legion; as a noun (quartani), the soldiers of the fourth legion
+quartarius | 1 | quarter
+quartarius | 3 | especially, a quarter of a sextarius, a gill, a liquid measure
+quartarius | 4 | a muleteer paid a fourth share of the profits
+quartus | 1 | fourth
+quartus | 3 | as a noun (quarta), a fourth part, a quarter, especially of an inherited estate
+quartus | 4 | as an adverb (quartum or quarto), for the fourth time
+quasi | 1 | as if
+quasi | 2 | almost
+quasi | 3 | quasi ... quasi, partly ... partly
+quasillum | 1 | basket
+quasillum | 3 | especially, a wool-basket, used in spinning
+quasso | 1 | shake
+quasso | 3 | to shatter, batter, or break something to pieces: quassata navis, a storm-battered ship
+quasso | 4 | figuratively, to weaken or impair: quassata res publica, the shattered state
+quasso | 5 | of countries or communities, to throw into turmoil, unsettle
+quatenus | 1 | how far
+quatenus | 2 | since
+quatenus | 3 | of time, how long
+quatenus | 4 | post-classical, so that, in order that
+quater | 1 | four times
+quater | 3 | with other numerals, to form compound multiples: quater deni, forty; quater decies, forty times
+quaternarius | 1 | quaternary
+quaternarius | 3 | consisting of four each: scrobes quaternarii, pits four feet square, four on each side
