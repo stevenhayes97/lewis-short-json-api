@@ -177,3 +177,27 @@ quandoque1 | 3 | causal, since, inasmuch as
 quandoque1 | 4 | indefinite, at some time or other
 quandoque1 | 5 | post-classical, now and then, sometimes
 quandoquidem | 1 | since
+quantillus | 1 | how little
+quantillus | 3 | in exclamations and questions, how tiny a bit, how small an amount
+quantitas | 1 | quantity
+quantitas | 3 | a sum, an amount, especially a sum of money
+quantitas | 4 | in logic, the quantity of a proposition, whether universal or particular
+quantopere | 1 | how greatly
+quantopere | 3 | after tanto opere, correspondingly, as much as, in comparisons
+quantulus1 | 1 | how little
+quantulus1 | 3 | as much as, however little: quantulum visum est, as much as seemed enough
+quantuluscumque | 1 | however small
+quantuluscumque | 3 | de hac mea, quantulacumque est, facultate, from this ability of mine, however slight it is
+quantus | 1 | how great
+quantus | 3 | of number or value, how much, how many
+quantus | 4 | with or without a correlative tantus, as great as, as much as
+quantus | 5 | quantum as an adverb, as much as, so much as: quantum potes, as much as you can
+quantus | 6 | quanto as an adverb, by how much, according as, the: quanto gravior, tanto crebriores, the heavier, the more frequent
+quantuscumque | 1 | however great
+quantuscumque | 3 | of whatever size: quantuscumque sum, whatever my worth may be
+quantuslibet | 1 | however great
+quantuslibet | 3 | as great as one likes, to whatever degree
+quantusvis | 1 | however great
+quantusvis | 3 | post-classical or poetic, for quamvis, although, albeit
+quapropter | 1 | why
+quapropter | 3 | transferred, in passing to a new thought, wherefore, on which account
