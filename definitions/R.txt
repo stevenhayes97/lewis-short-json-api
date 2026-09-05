@@ -230,3 +230,35 @@ reciperatio | 1 | recovery
 reciperatio | 3 | in law, the judicial decision of a board of recuperatores
 reciperator | 1 | recoverer
 reciperator | 3 | in law, as recuperatores, a panel of judges, three or five members, for summary trials, originally for cases between Romans and foreigners
+recipero | 1 | recover
+recipero | 3 | figuratively, to win back, regain: reciperare adulescentulos, to win the young men back over
+recipio | 1 | receive
+recipio | 2 | recover
+recipio | 3 | with se, to withdraw, retreat, betake oneself: se recipere, to retreat, to retire
+recipio | 4 | to undertake, take on a task or duty
+recipio | 5 | to promise, guarantee, pledge oneself, warrant something: fidem recipere, to pledge one's word
+recipio | 6 | militarily, to capture, seize, take possession of a place
+recipio | 7 | in business, to keep back, reserve, retain: recipere aliquid sibi, to reserve something for oneself
+recipio | 8 | recipe ferrum!, receive the death-blow!, the crowd's cry to a defeated gladiator
+reciprocatio | 1 | reciprocation
+reciprocatio | 3 | literally, an ebb, a going back the same way: reciprocatio aestus, the ebb of the tide
+reciproco | 1 | reciprocate
+reciproco | 3 | figuratively, in logic, to reverse or convert a proposition
+reciprocus | 1 | reciprocal
+reciprocus | 3 | in grammar, pronomen reciprocum, a reflexive pronoun such as se or sibi
+reciprocus | 4 | a verse that reads the same when its words are reversed, a kind of palindrome
+recitatio | 1 | recitation
+recitatio | 3 | specifically, the public reading aloud of documents in a legal proceeding
+recitatio | 4 | also, a public reading of one's own literary work to an audience
+recito | 1 | recite
+recito | 3 | specifically, to read a document aloud in a legal proceeding
+recito | 4 | to say from memory, to recite by heart
+reclamo | 1 | protest
+reclamo | 3 | poetic, to reverberate, echo back, resound
+reclamo | 4 | to call out to someone repeatedly
+reclinis | 1 | reclining
+reclinis | 3 | of things, projecting or tilted back: tabula reclinis, a slanted shelf or seat
+reclino | 1 | recline
+reclino | 3 | figuratively, to lean on, rest upon, be supported by: onus reclinare in aliquem, to let a burden rest on someone
+reclino | 4 | figuratively, to relieve, release from something: nullum me reclinat otium, no rest relieves me
+reclino | 5 | absolutely, to fall away, become disloyal, revolt
