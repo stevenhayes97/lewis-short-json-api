@@ -588,4 +588,27 @@ religiosus | 5 | as an adverb (religiose), scrupulously, conscientiously, exactl
 religo | 1 | bind fast
 religo | 3 | nautically, to moor a ship to the shore
 religo | 4 | rarely, in the opposite sense, to unbind, untie: religare juga, to loosen the yoke-straps
+relino | 1 | unseal
+relinquo | 1 | leave
+relinquo | 2 | abandon
+relinquo | 3 | to bequeath, leave behind at death: filiam relinquere, to leave behind a daughter as heir
+relinquo | 4 | to leave undone, omit, neglect: nihil reliqui facere, to leave nothing undone
+reliquiae | 1 | remains
+reliquiae | 3 | specifically, the ashes or remains of a cremated body
+reliquiae | 4 | leftover food, scraps
+# review: reliquor 'be in arrears' kept at three words; 'owe' alone loses the technical sense of an outstanding balance left after an accounting
+reliquor | 1 | be in arrears
+reliquor | 3 | to owe an outstanding balance, especially from public office or a contract
+reliquus | 1 | remaining
+reliquus | 3 | reliquum est, ut, it remains that, the next thing is that
+reliquus | 4 | of time, future, still to come: reliqua vita, the rest of one's life
+reliquus | 5 | of debts, outstanding, in arrears
+reliquus | 6 | transferred, as a noun, the rest, the remainder, the others: reliqui, the rest of them
+reluceo | 1 | shine forth
+relucesco | 1 | brighten
+reluctor | 1 | resist
+reluctor | 3 | figuratively, to be reluctant, unwilling, averse to something
+remaneo | 1 | remain
+remedium | 1 | remedy
+remedium | 3 | specifically, a protective charm or amulet
 
