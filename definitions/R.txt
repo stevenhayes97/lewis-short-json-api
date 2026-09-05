@@ -205,3 +205,28 @@ recepto | 1 | retake
 receptor | 1 | harborer
 receptor | 3 | in a good sense, a host, one who shelters or receives guests
 receptor | 4 | a reconqueror: receptor Orientis, the reconqueror of the East
+receptus2 | 1 | retreat
+receptus2 | 3 | figuratively, a retraction, a taking back of a statement
+receptus2 | 4 | transferred, of the sea, the ebb: receptus et recursus maris, the ebb and flow of the sea
+receptus2 | 5 | figuratively, a reconciliation, a return to someone's favor: receptus ad gratiam, restoration to someone's good graces
+recessus2 | 1 | retreat
+recessus2 | 2 | recess
+recessus2 | 3 | figuratively, in rhetoric, a withdrawal or pause for effect: recessus in dicendo, a rhetorical pulling-back
+# review: recharmido is a nonce word coined by Plautus, a burlesque pun on the character name Charmides meaning "to stop being Charmides"; 'unmask' captures the sense of dropping an assumed identity, not a literal translation
+recharmido | 1 | unmask
+recharmido | 3 | literally, to stop being "Charmides," a burlesque coinage on the character's name in Plautus, meaning to drop an assumed identity
+recidivus | 1 | recurring
+recidivus | 3 | especially of an illness, relapsing: febris recidiva, a recurring fever
+recido1 | 1 | relapse
+recido1 | 3 | literally, to fall back down: recidere in terras, to fall back to earth
+recido1 | 4 | to sink or come down to some condition: ad ludum et lacrimas recidere, to fall from joy to tears
+recido2 | 1 | cut off
+recido2 | 3 | figuratively, to shorten, abridge, cut down: orationes recidere, to trim down speeches
+recingo | 1 | ungird
+recingo | 3 | rarely, to gird again, put a belt back on
+recino | 1 | resound
+recino | 3 | to recall or recant something
+reciperatio | 1 | recovery
+reciperatio | 3 | in law, the judicial decision of a board of recuperatores
+reciperator | 1 | recoverer
+reciperator | 3 | in law, as recuperatores, a panel of judges, three or five members, for summary trials, originally for cases between Romans and foreigners
