@@ -399,3 +399,26 @@ quoad | 1 | until
 quoad | 3 | as long as, while
 quoad | 4 | how far, as far as, to what extent
 quoad | 5 | with respect to, as regards
+quocirca | 1 | wherefore
+quocumque | 1 | wherever
+quod1 | 1 | because
+quod1 | 2 | that
+quod1 | 3 | in case that, if so be that: quod si, but if
+quod1 | 4 | although, even if
+quod1 | 5 | with verbs of perceiving or declaring, standing in for an object clause: scio quod amet, I know that he loves
+quodammodo | 1 | somewhat
+quodammodo | 3 | in a certain manner, in a way, so to speak
+quomodo | 1 | how
+quomodo | 3 | relative, corresponding to sic, in the same way as, just as
+quomodo | 4 | indefinite, for quocumque modo, in whatever way
+quomodocumque | 1 | however
+quomodocumque | 3 | transferred, be that as it may, in any case
+quonam | 1 | whither
+quonam | 3 | how far, to what extent, pray
+quondam | 1 | once
+quondam | 3 | at times, occasionally, sometimes
+quondam | 4 | of the future, poetic, one day, some day
+quoniam | 1 | since
+quoniam | 3 | post-classical, introducing an object clause, that
+quoquam | 1 | anywhere
+quoquam | 3 | equivalent to in aliquam rem, in anything, in any respect
