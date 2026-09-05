@@ -1011,4 +1011,27 @@ revereor | 1 | revere
 revereor | 3 | as an adjective (reverens), respectful, deferential
 revereor | 4 | as an adjective (reverendus), venerable, worthy of reverence, awe-inspiring
 reverso | 1 | turn round
+reverto | 1 | return
+reverto | 3 | in particular, in speech, to return to a topic after a digression: ad rem revertar, I will return to the point
+revincio | 1 | bind fast
+revincio | 3 | rarely, in the opposite sense, to unbind, loosen
+revinco | 1 | refute
+revinco | 3 | literally and poetically, to conquer, subdue, overpower
+reviresco | 1 | revive
+reviresco | 3 | literally, of plants, to grow green again, put out new growth
+reviresco | 4 | poetic, of an old person, to become young again, be rejuvenated
+reviso | 1 | revisit
+revivisco | 1 | revive
+revivisco | 3 | transferred, of plants or parts, to grow back, regenerate
+revocabilis | 1 | revocable
+revocatio | 1 | recall
+revocatio | 3 | in rhetoric, a qualifying withdrawal of a repeated word, a figure of speech
+revocatio | 4 | in law, the right to appeal to a court of one's own homeland
+revoco | 1 | recall
+revoco | 2 | revoke
+revoco | 3 | theatrically, to call for an encore, to demand a repeat performance
+revoco | 4 | to bring back from death, revive: revocatum a morte, brought back from the brink of death
+revoco | 5 | pregnantly, to judge or refer something by a standard: omnia ad suam potentiam revocare, to make everything subordinate to one's own power
+revoco | 6 | legally, domum revocare, to appeal to the courts of one's own homeland
+revolo | 1 | fly back
 
