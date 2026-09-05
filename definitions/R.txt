@@ -967,4 +967,28 @@ retineo | 4 | to preserve, maintain, uphold: jus suum retinere, to maintain one'
 retorqueo | 1 | turn back
 retorqueo | 3 | figuratively, to turn back onto its source, to retort: crimen in auctorem retorquere, to turn a charge back on its author
 retorqueo | 4 | in rhetoric, to retort an argument upon one's opponent
+retorridus | 1 | parched
+retorridus | 3 | figuratively, of a person's manner or expression, gloomy, morose, sour
+retractatio | 1 | revision
+retractatio | 3 | without a negative, hesitation, reluctance, refusal: sine ulla retractatione, without any hesitation
+retracto | 1 | reconsider
+retracto | 2 | retract
+retracto | 3 | literally, to handle or take up again: arma retractare, to take up arms again
+retracto | 4 | to be reluctant, hold back, refuse to act: retractans arripi jubet, he orders the reluctant man seized
+retraho | 1 | draw back
+retraho | 3 | in particular, to drag back a fugitive, to force someone's return: retractus, non reversus, dragged back, not having returned willingly
+retraho | 4 | figuratively, to bring back to light, revive: oblitterata monimenta retrahere, to bring forgotten records back to light
+retraho | 5 | as an adjective (retractus), remote, distant, set back
+retribuo | 1 | repay
+retro | 1 | back
+retro | 3 | of time, backward, in the past, formerly: retro usque ad Romulum, back all the way to Romulus
+retro | 4 | in other relations, conversely, in return, vice versa
+retroago | 1 | drive back
+retroago | 3 | figuratively, to reverse the order of something, to go through backwards: litteras retroagere, to read a text backwards
+retroversus | 1 | backward
+retroversus | 3 | of time, earlier, previously, in the past
+retrudo | 1 | thrust back
+retrudo | 3 | specifically, to thrust someone into confinement: in carcerem retrudere, to throw into prison
+retundo | 1 | blunt
+retundo | 3 | figuratively, to deaden, weaken, dull: ingenium retundere, to dull someone's wit
 
