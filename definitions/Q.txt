@@ -346,3 +346,28 @@ quinquennalis | 4 | continuing for five years, of a term of office: censura quin
 quinquennalis | 5 | as a noun (quinquennalis), a magistrate in a municipal town holding office for five years
 quinquennis | 1 | five-year-old
 quinquennis | 3 | also, occurring every fifth year, quinquennial: Olympias quinquennis, the quinquennial Olympic games
+quinqueremis | 1 | quinquereme
+quinqueremis | 3 | as an adjective, having five banks of oars
+quinquertium | 1 | pentathlon
+quinquertium | 3 | the five events: discus, running, jumping, wrestling, and javelin-throwing
+quinquevir | 1 | board member
+quinquevir | 3 | specifically, one of various five-man commissions at Rome: for dividing public land, regulating debt, repairing walls, or assisting the night watch
+# review: quintanus 'of the fifth' kept at three words; 'fifth' alone would collide with the ordinal quintus and lose the sense of 'in a series'
+quintanus | 1 | of the fifth
+quintanus | 3 | as a noun (quintana), the street in a Roman camp separating the fifth from the sixth maniple or squadron
+quintanus | 4 | of the fifth legion; as a noun (quintani), the soldiers of the fifth legion
+quintus1 | 1 | fifth
+quintus1 | 3 | as an adverb (quintum or quinto), for the fifth time
+quintusdecimus | 1 | fifteenth
+quippe | 1 | for
+quippe | 3 | with a relative pronoun, quippe qui, since, inasmuch as, seeing that: quippe qui viderit, since he had seen
+quippe | 4 | as a simple corroborative, certainly, to be sure, indeed
+quippini | 1 | certainly
+quippini | 3 | interrogatively, why not?
+quirito | 1 | wail
+quirito | 3 | originally, to cry out for help as a Roman citizen: civis Romanus sum!, I am a Roman citizen!
+quirito | 4 | to bewail or lament something
+quis1 | 1 | who
+quis1 | 2 | what
+quis1 | 3 | transferred (quid), how, why, wherefore
+quis1 | 4 | quid, with a partitive genitive, what sort of, what kind of: quid mulieris, what sort of woman
