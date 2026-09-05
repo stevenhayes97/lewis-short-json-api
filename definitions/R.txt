@@ -893,4 +893,31 @@ responso | 3 | figuratively, of an echo, to resound, re-echo: ripae responsant, 
 respuo | 1 | spit out
 respuo | 3 | figuratively, to reject, refuse, spurn: consilium respuere, to reject a plan
 restagno | 1 | overflow
+restauro | 1 | restore
+restauro | 3 | figuratively, to renew, resume: bellum restaurare, to renew the war
+restinguo | 1 | extinguish
+restinguo | 3 | transferred, to quench or slake: sitim restinguere, to quench one's thirst
+restinguo | 4 | figuratively, to destroy utterly, wipe out: genus restinguere, to wipe out a family line
+restis | 1 | rope
+restis | 3 | transferred, a braided string of garlic or onions
+restito | 1 | loiter
+restituo | 1 | restore
+restituo | 2 | reinstate
+restituo | 3 | to give back, return something belonging to another: bona restituere, to return goods
+restituo | 4 | legally, to reverse a judgment, to annul, quash: judicium restituere, to reverse a verdict
+restituo | 5 | to compensate for, make good a loss: damnum restituere, to make good a loss
+restitutio | 1 | restitution
+restitutio | 3 | specifically, in law, the reinstatement of someone condemned or banished to their former rights and status
+restitutor | 1 | restorer
+resto | 1 | remain
+resto | 2 | resist
+resto | 3 | with reference to the future, to remain in store for, await someone: quid restat nisi, what remains except
+restringo | 1 | restrain
+restringo | 2 | stingy
+restringo | 3 | literally, to bind fast, tie back tightly: restrictis manibus, with hands bound behind the back
+restringo | 4 | rarely, in a reversed sense, to draw back, bare: dentes restringere, to bare the teeth
+restringo | 5 | as an adjective (restrictus), strict, severe, rigorous
+resulto | 1 | rebound
+resulto | 3 | especially, of sound, to reverberate, echo back: colles resultant clamore, the hills echo with the shout
+resulto | 4 | figuratively, of speech rhythm, to be jerky, to leap and hop
 
