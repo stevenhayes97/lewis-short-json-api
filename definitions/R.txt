@@ -991,4 +991,24 @@ retrudo | 1 | thrust back
 retrudo | 3 | specifically, to thrust someone into confinement: in carcerem retrudere, to throw into prison
 retundo | 1 | blunt
 retundo | 3 | figuratively, to deaden, weaken, dull: ingenium retundere, to dull someone's wit
+reus | 1 | defendant
+reus | 3 | literally, a party to a lawsuit, whether plaintiff or defendant
+reus | 4 | figuratively, one responsible or answerable for something: reus fortunae, one blamed for misfortune
+revalesco | 1 | recover
+revalesco | 3 | figuratively, of an institution, city, or law, to regain its former force or validity
+reveho | 1 | bring back
+reveho | 3 | in the passive, with middle force, to ride, sail, or drive back oneself, to return
+reveho | 4 | figuratively, to go back to an earlier time in discussion: ad superiorem aetatem revecti sumus, we have gone back to an earlier age
+revello | 1 | tear away
+revello | 3 | figuratively, to remove, banish, do away with: injurias revellere, to wipe away insults
+revelo | 1 | reveal
+revelo | 3 | literally, to unveil, uncover physically: caput revelare, to uncover one's head
+revenio | 1 | return
+revenio | 3 | figuratively, to come round to a point or state, to end up: res eo revenit, the matter came to this
+reverbero | 1 | reverberate
+reverentia | 1 | reverence
+revereor | 1 | revere
+revereor | 3 | as an adjective (reverens), respectful, deferential
+revereor | 4 | as an adjective (reverendus), venerable, worthy of reverence, awe-inspiring
+reverso | 1 | turn round
 
