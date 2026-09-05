@@ -179,3 +179,29 @@ recanto | 1 | recant
 recanto | 3 | literally, to echo, sound back
 recanto | 4 | to repeat in singing, sing again
 recanto | 5 | to charm away, dispel by magic: recantatas curas, cares charmed away
+recedo | 1 | withdraw
+recedo | 3 | transferred, of places, to be distant, set back, recede: domus recessit, the house stood back, secluded
+recedo | 4 | to separate from something: caro ab ossibus recedit, the flesh comes away from the bones
+recedo | 5 | figuratively, to desist, depart from a course: a vera ratione recedere, to depart from sound reasoning
+recello | 1 | spring back
+recello | 3 | actively, to bend or throw something backward
+recens | 1 | fresh
+recens | 2 | vigorous
+recens | 3 | with ab, immediately after, fresh from: recens a partu, newly foaled or newly born
+recens | 4 | recenti re, while the matter is fresh, at once, immediately
+recens | 5 | as a noun (recentiores), the moderns, modern writers
+recens | 6 | as an adverb (recens), newly, freshly: recens natus, newborn
+recenseo | 1 | count
+recenseo | 3 | to review or muster: recensere exercitum, to review the troops
+recenseo | 4 | figuratively, to go over in thought or narration, to recount, review
+recensio | 1 | review
+receptaculum | 1 | receptacle
+receptaculum | 3 | in particular, a place of refuge, a shelter, a retreat: castra receptaculum, the camp as a refuge
+recepticius | 1 | reserved
+recepticius | 3 | in law, of property a wife retains as her exclusive possession when handing over her dowry
+receptio | 1 | reception
+receptio | 3 | in law, a reservation, a holding back: a clause reserving something in a sale
+recepto | 1 | retake
+receptor | 1 | harborer
+receptor | 3 | in a good sense, a host, one who shelters or receives guests
+receptor | 4 | a reconqueror: receptor Orientis, the reconqueror of the East
