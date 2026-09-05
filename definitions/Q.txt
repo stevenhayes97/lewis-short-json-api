@@ -1,0 +1,37 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_Q.json (Lewis & Short via Perseus), simplified for learners.
+qua | 1 | where
+qua | 3 | qua ... qua, partly ... partly; also, both ... and
+qua | 4 | as far as, in so far as
+qua | 5 | in what manner, how, to what extent
+quacumque | 1 | wherever
+quacumque | 3 | transferred, from whatever side, whencesoever
+quacumque | 4 | transferred, to whatever place, whithersoever
+quacumque | 5 | by whatever means, in whatever way
+quadantenus | 1 | somewhat
+quadantenus | 3 | to a certain point or limit, so far
+quadantenus | 4 | transferred, to a certain extent, in some measure
+quadra1 | 1 | table
+quadra1 | 2 | morsel
+quadra1 | 3 | broadly, a square shape, the general notion behind the specific uses
+quadra1 | 4 | in architecture, the base or plinth of a pedestal, or a small moulding separating larger members
+quadragenarius | 1 | of forty
+quadragenarius | 3 | consisting of or holding forty: dolium quadragenarium, a cask holding forty congii; fistula quadragenaria, a forty-inch pipe
+quadrageni | 1 | forty each
+quadrageni | 3 | distributive: forty apiece, forty at a time
+quadrageni | 4 | loosely, for quadraginta, forty
+quadragesimus | 1 | fortieth
+quadragesimus | 3 | as a noun (quadragesima), the fortieth part
+quadragesimus | 4 | as a tax, a duty of one fortieth on goods
+quadragesimus | 5 | in ecclesiastical Latin, Lent, the forty-day fast before Easter
+quadrans | 1 | quarter
+quadrans | 3 | of an inheritance or debt, a fourth part; heres ex quadrante, heir to a quarter of the estate
+quadrans | 4 | as a Roman coin, a quarter of an as, the smallest coin, proverbial for a trifling sum
+quadrans | 5 | of interest, four percent
+quadrans | 6 | generally, a quarter of any measure: of land, weight, liquid volume, or length, and (of time) six hours, a quarter of a day
+# review: quadrantarius 'of a quarter' kept at three words; 'quarter' alone would read as the noun, not the adjective
+quadrantarius | 1 | of a quarter
+quadrantarius | 3 | relating to a fourth part: tabulae quadrantariae, accounts reducing debts to a quarter of their value
+quadrantarius | 4 | costing a quarter of an as; res quadrantaria, a public bath, since admission cost a quadrans
+quadratarius | 1 | of stonework
+quadratarius | 3 | as a noun, a stonecutter
