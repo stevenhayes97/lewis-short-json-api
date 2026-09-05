@@ -1140,4 +1140,29 @@ rogo | 6 | to invite someone: aliquem ad cenam rogare, to invite someone to dinn
 rogus | 1 | pyre
 rogus | 3 | rarely, transferred, the grave, the tomb
 rorarii | 1 | skirmishers
+roro | 1 | bedew
+roro | 3 | intransitively, to drip, trickle: rorant pennae, the wings drip with moisture
+ros | 1 | dew
+ros | 3 | poetic, transferred to any liquid, moisture in general
+ros | 4 | ros marinus, rosemary, literally "dew of the sea"
+rosa | 1 | rose
+rosa | 3 | as a term of endearment, my rose, my darling, a Plautine usage
+rosa | 4 | also, the rosebush itself, or oil of roses
+rosarius | 1 | of roses
+rosarius | 3 | as a noun (rosarium), a place planted with roses, a rose-garden
+roscidus | 1 | dewy
+roscidus | 3 | rarely, transferred, moistened, wet, watered in general
+roseus1 | 1 | rosy
+roseus1 | 3 | rarely, made of or covered with roses: roseae convalles, valleys filled with roses
+rostratus | 1 | beaked
+rostrum | 1 | beak
+rostrum | 2 | prow
+rostrum | 3 | as a proper noun (Rostra), the speaker's platform in the Roman Forum, decorated with captured ships' beaks
+rostrum | 4 | familiarly or contemptuously, of persons, one's mug, snout
+rota | 1 | wheel
+rota | 3 | poetic, by synecdoche, a chariot or cart
+rota | 4 | figuratively, fortunae rota, the wheel of Fortune, symbolizing life's ups and downs
+roto | 1 | whirl
+roto | 3 | figuratively, of speech, well-turned, polished, rounded: sermo rotatus, a smoothly turned phrase
+roto | 4 | intransitively, to revolve, roll around: saxa rotantia, boulders tumbling and rolling
 
