@@ -1,0 +1,34 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_R.json (Lewis & Short via Perseus), simplified for learners.
+rabidus | 1 | rabid
+rabidus | 3 | transferred, of things, fierce, raging: rabida ora, raging jaws
+rabidus | 4 | figuratively, impulsive, passionate, impetuous
+rabies | 1 | madness
+rabies | 3 | specifically, of dogs, rabies, canine madness
+rabies | 4 | transferred, of any violent emotion, rage, fury, fierce eagerness
+rabies | 5 | of things, violent force: rabies ventorum, the fury of the winds
+rabiosus | 1 | rabid
+rabiosus | 3 | of a quality carried to a fierce excess: rabiosa fortitudo, a reckless, rabid kind of courage
+rabula | 1 | pettifogger
+rabula | 3 | a loud, wrangling advocate, a shyster
+racemus | 1 | cluster
+racemus | 3 | literally, the stalk of a cluster of grapes or similar fruit
+racemus | 4 | poetic, wine
+radicitus | 1 | radically
+radicitus | 3 | literally, by the roots, uprooting completely: radicitus evellere, to tear out by the roots
+radico | 1 | root
+radico | 3 | figuratively, to become rooted, established, or settled: radicati in caritate, rooted in love
+radio | 1 | radiate
+radio | 3 | rarely, to furnish with spokes: rota radiata, a wheel fitted with spokes
+radio | 4 | figuratively, to shine, be radiant: fortuna radiat, fortune shines forth
+radius | 1 | ray
+radius | 2 | spoke
+radius | 3 | a rod or staff, especially for drawing figures or measuring
+radius | 4 | as a mathematical term, a radius, the semidiameter of a circle
+radius | 5 | in weaving, a shuttle
+radius | 6 | in anatomy, the radius, the outer bone of the forearm
+radius | 7 | in zoology, the spur of a bird, or the sting of a stingray
+radix | 1 | root
+radix | 2 | radish
+radix | 3 | transferred, the foot or base of a hill or mountain: in radicibus montis, at the foot of the mountain
+radix | 4 | figuratively, a root, basis, foundation, origin: radices virtutis, the roots of virtue
