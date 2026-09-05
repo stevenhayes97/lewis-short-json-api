@@ -1034,4 +1034,34 @@ revoco | 4 | to bring back from death, revive: revocatum a morte, brought back f
 revoco | 5 | pregnantly, to judge or refer something by a standard: omnia ad suam potentiam revocare, to make everything subordinate to one's own power
 revoco | 6 | legally, domum revocare, to appeal to the courts of one's own homeland
 revolo | 1 | fly back
+revolvo | 1 | unroll
+revolvo | 2 | revolve
+revolvo | 3 | to read over again, review a text: origines revolvere, to go back over one's history
+revolvo | 4 | figuratively, to dwell upon, brood over: casus revolvere, to relive past misfortunes in the mind
+revomo | 1 | vomit up
+revomo | 3 | figuratively, to give up, disgorge something ill-gotten: victoriam revomere, to vomit up an ill-won victory
+rex1 | 1 | king
+rex1 | 3 | absolutely, "the King," the king of Persia
+rex1 | 4 | transferred, a leader, chief, master: rex gregis, the leader of the herd
+rhombus | 1 | rhombus
+rhombus | 3 | also, a kind of flatfish, the turbot
+rhombus | 4 | a magician's spinning wheel, used in love charms
+rica | 1 | veil
+ricinus2 | 1 | tick
+ricinus2 | 3 | also, the castor-oil plant, called cici or croton
+ricinus2 | 4 | rarely, the bud or germ of the mulberry
+rictus | 1 | rictus
+rictus | 3 | poetic, transferred to the eyes, the opening of the eyelids
+rideo | 1 | laugh
+rideo | 2 | smile
+rideo | 3 | transitively, to laugh at, mock, ridicule someone or something, milder than deridere: ridet amentiam, he laughs at the folly
+rideo | 4 | transferred, of places or things, to look bright, cheerful, pleasant: sedes rident, the dwelling looks cheerful
+ridicularius | 1 | droll
+ridicularius | 3 | as a noun (ridicularia), jests, jokes, witticisms
+ridicularius | 4 | as a noun (ridicularius), a jester, a droll fellow
+ridiculus | 1 | funny
+ridiculus | 2 | absurd
+ridiculus | 3 | as a noun (ridiculus), a jester, buffoon
+ridiculus | 4 | as a noun (ridiculum), a joke, a jest, something funny
+ridiculus | 5 | as an adverb (ridicule), jokingly, humorously; or, ridiculously, absurdly
 
