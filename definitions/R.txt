@@ -156,3 +156,26 @@ reapse | 1 | actually
 reatus | 1 | indictment
 reatus | 3 | metonymically, the charge or offence itself
 reatus | 4 | late Latin, figuratively, guilt: reatus sanguinis, the guilt of bloodshed
+rebellio1 | 1 | rebellion
+rebellis | 1 | rebellious
+rebellis | 3 | figuratively, rebellious, resistant: rebellis amor, unruly love
+rebello | 1 | rebel
+rebello | 3 | figuratively, of an ailment or vice, to break out again, recur
+rebello | 4 | to offer resistance: pudor rebellat, shame resists
+reboo | 1 | resound
+reboo | 3 | actively, to make something resound or echo
+recaleo | 1 | warm
+recaleo | 3 | figuratively, to remain vivid or warm in memory: recalebant in auribus parentis effata, his father's words still rang warm in his ears
+recalesco | 1 | warm
+recalesco | 3 | figuratively, to regain warmth or ardor: mens recalescit, the mind rekindles its enthusiasm
+recalfacio | 1 | rewarm
+recalfacio | 3 | figuratively, to rekindle, revive: recalfacere mentem, to rekindle someone's ardor
+recandesco | 1 | glow
+recandesco | 3 | also, to grow white again: percussa unda recanduit, the struck wave grew white with foam
+recandesco | 4 | figuratively, to blaze up, flare: recanduit ira, anger blazed up
+recano | 1 | sing back
+recano | 3 | to charm away, to undo a magic charm by chanting
+recanto | 1 | recant
+recanto | 3 | literally, to echo, sound back
+recanto | 4 | to repeat in singing, sing again
+recanto | 5 | to charm away, dispel by magic: recantatas curas, cares charmed away
