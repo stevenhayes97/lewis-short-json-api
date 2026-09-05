@@ -791,4 +791,34 @@ repulsa | 1 | rejection
 repulsa | 3 | specifically, political defeat in seeking office: repulsam ferre, to be defeated at the polls
 repulso | 1 | repel repeatedly
 repulso | 3 | transferred, of an echo, to reverberate, echo back: colles verba repulsantes, hills echoing back the words
+repulsus2 | 1 | rebound
+repurgo | 1 | clean again
+repurgo | 3 | transferred, to purge away, to remove for the sake of cleaning
+reputatio | 1 | reflection
+reputatio | 3 | literally, a reckoning, calculation, computation
+reputo | 1 | ponder
+reputo | 3 | literally, to count over, calculate, reckon: solis defectiones reputare, to calculate eclipses of the sun
+reputo | 4 | late Latin, to impute, ascribe, credit: reputatum est ei ad justitiam, it was credited to him as righteousness
+requies | 1 | rest
+requies | 3 | poetic, a place of rest, a resting place: requies laborum, a resting place from toils
+requiesco | 1 | rest
+requiesco | 3 | especially, of the dead, to rest, lie at peace in the grave: requiescat in pace, may he rest in peace
+requiesco | 4 | figuratively, to find rest, take comfort, be consoled: animus requievit, the mind found rest
+requiesco | 5 | as an adjective (requietus), rested, refreshed; also, of food, stale, no longer fresh
+requiro | 1 | require
+requiro | 2 | ask
+requiro | 3 | to miss, feel the absence of, look in vain for: veterem consuetudinem requirunt, they miss the old custom
+res | 1 | thing
+res | 2 | property
+res | 3 | reality, fact, the actual state of things, as opposed to mere talk or appearance: re vera, in fact, in reality
+res | 4 | an affair, business matter: rem transigere, to settle a matter
+res | 5 | a lawsuit, legal case
+res | 6 | military operations, a campaign: res gerere, to conduct a campaign
+res | 7 | res publica, the commonwealth, the state, public affairs
+res | 8 | res novae, a revolution, political upheaval
+resarcio | 1 | mend
+resarcio | 3 | figuratively, to make good, compensate for a loss: damnum resarcire, to make up for a loss
+rescindo | 1 | rescind
+rescindo | 3 | literally, to cut down or break apart: pontem rescindere, to break down a bridge
+rescindo | 4 | to cut open, lay bare: vitia latentia rescindere, to lay bare hidden faults
 
