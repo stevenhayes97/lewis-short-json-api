@@ -1064,4 +1064,30 @@ ridiculus | 2 | absurd
 ridiculus | 3 | as a noun (ridiculus), a jester, buffoon
 ridiculus | 4 | as a noun (ridiculum), a joke, a jest, something funny
 ridiculus | 5 | as an adverb (ridicule), jokingly, humorously; or, ridiculously, absurdly
+rigeo | 1 | stiffen
+rigeo | 3 | poetic, transferred, to stand stiff, upright, rise up: riget Tmolus, Tmolus stands stiff and tall
+rigeo | 4 | as an adjective (rigens), figuratively, stubborn, unyielding
+rigesco | 1 | stiffen
+rigesco | 3 | transferred, of hair, to bristle up, stand on end from fear
+rigidus | 1 | rigid
+rigidus | 3 | figuratively, of character, stern, harsh, unpolished, rugged: Sabini rigidi, the rough, unpolished Sabines
+rigo | 1 | water
+rigo | 3 | poetically, to nourish, suckle: natos rore rigare, to nurse infants with life-giving dew
+rigo | 4 | rarely, to convey or channel a liquid to a place: aquam per agros rigare, to channel water through the fields
+rigor | 1 | rigidity
+rigor | 2 | coldness
+rigor | 3 | technically, in surveying, a straight line or course: rigor fluminis, the straight course of a river
+rigor | 4 | figuratively, harshness, severity, strictness of character or style
+riguus | 1 | well-watered
+riguus | 3 | actively, that irrigates, watering: amnes rigui, streams that irrigate the valleys
+riguus | 4 | transferred, distended, swollen with liquid: bos rigua lacte, a cow full to bursting with milk
+rima | 1 | crack
+rima | 3 | comically, transferred, a leak for secrets: plenus rimarum sum, I'm all cracks, that is, I can't keep a secret
+rimor | 1 | probe
+rimor | 3 | literally, of animals or farmers, to root up, dig into, turn over the ground
+rimor | 4 | figuratively, to investigate thoroughly, to try to find out: rimari unde hoc sit, to try to find out where this comes from
+rimosus | 1 | cracked
+rimosus | 3 | figuratively, of an ear or a person, leaky, unable to keep a secret: rimosa auris, a leaky ear, a gossip
+ringor | 1 | snarl
+ringor | 3 | figuratively, to be vexed, annoyed, to chafe at something: ringeris quoties legeris, you chafe every time you read it
 
