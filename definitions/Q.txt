@@ -86,3 +86,36 @@ quadruplex | 3 | poetic, simply four: stellae quadruplices, four stars
 quadruplex | 4 | as a noun, a fourfold amount
 quadruplico | 1 | quadruple
 quadruplico | 3 | to multiply by four, increase fourfold
+quadruplus | 1 | fourfold
+quadruplus | 3 | as a noun (quadruplum), a fourfold amount, four times as much
+quaerito | 1 | seek
+quaerito | 3 | to seek or search for something earnestly, repeatedly (frequentative of quaero)
+quaerito | 4 | to ask or inquire earnestly, to want to know exactly
+quaero | 1 | seek
+quaero | 2 | ask
+quaero | 3 | to seek to obtain, get, or acquire something: quaerere pecuniam, to make money
+quaero | 4 | with ab, de, or ex and the ablative, to ask someone: quaerere ex aliquo, to ask someone
+quaero | 5 | to require or need, of things: haec res tempus quaerit, this matter needs time
+quaero | 6 | to investigate judicially, to hold an inquiry: quaestionem quaerere, to hold an investigation
+quaero | 7 | quaesitus as an adjective, far-fetched, artificial, studied, of style
+quaero | 8 | quaesitum as a noun, a question
+quaesitio | 1 | search
+quaesitio | 3 | in particular, interrogation under torture, the question
+quaesitor | 1 | investigator
+quaesitor | 3 | in judicial matters, especially in criminal trials, an examining judge, an inquisitor
+quaesitor | 4 | philosophically, an inquirer, a sceptic
+quaeso | 1 | beg
+quaeso | 3 | parenthetically, quaeso!, please!, I beg you! (a common polite interjection)
+quaeso | 4 | archaic, to seek, to seek to obtain something
+quaestio | 1 | question
+quaestio | 2 | court
+quaestio | 3 | a criminal investigation or trial: quaestio de sicariis, a murder trial
+quaestio | 4 | transferred, the matter under discussion, the issue in a case
+quaestio | 5 | rhetorical, the subject of debate: quaestio infinita, a general thesis; quaestio definita, a specific case
+quaestor | 1 | quaestor
+quaestor | 3 | a Roman magistrate in charge of public finances, or in early times of conducting certain criminal trials
+quaestorius | 1 | quaestorian
+quaestorius | 3 | as a noun (quaestorius), an ex-quaestor
+quaestorius | 4 | as a noun (quaestorium), the quaestor's tent in camp, or his residence in a province
+quaestuarius | 1 | mercenary
+quaestuarius | 3 | as a noun (quaestuaria), a prostitute, one hired out for profit
