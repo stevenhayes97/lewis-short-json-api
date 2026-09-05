@@ -1208,4 +1208,25 @@ rufulus | 1 | reddish
 rufulus | 3 | as a noun (rufuli), military tribunes appointed directly by the general, rather than elected by the people
 rufus1 | 1 | red
 rufus1 | 3 | especially, of hair, red, ruddy, sandy: rufus, red-haired
+ruga1 | 1 | wrinkle
+ruga1 | 3 | transferred, any crease or fold, in fabric or other materials
+rugio | 1 | roar
+rugio | 3 | transferred, of the stomach, to rumble, growl
+rugo | 1 | wrinkle
+rugo | 3 | transferred, of fabric, to become rumpled, creased
+rugosus | 1 | wrinkled
+ruina | 1 | ruin
+ruina | 2 | collapse
+ruina | 3 | concretely, the remains of a fallen building, ruins: veteres ruinae, ancient ruins
+ruina | 4 | transferred, of a person who brings destruction, a destroyer: ruina rei publicae, the ruin of the republic
+ruinosus | 1 | ruinous
+ruinosus | 3 | poetic, transferred, already fallen, in ruins: ruinosae domus, houses lying in ruins
+rumen | 1 | gullet
+ruminatio | 1 | rumination
+ruminatio | 3 | figuratively, a mulling over in the mind, reflection: cotidiana ruminatio, daily reflection
+ruminor | 1 | ruminate
+ruminor | 3 | figuratively, to muse upon, ponder, mull over in the mind
+rumor | 1 | rumor
+rumor | 2 | reputation
+rumor | 3 | transferred, poetically, a murmuring sound, as of a stream
 
