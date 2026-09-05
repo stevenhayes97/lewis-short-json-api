@@ -920,4 +920,28 @@ restringo | 5 | as an adjective (restrictus), strict, severe, rigorous
 resulto | 1 | rebound
 resulto | 3 | especially, of sound, to reverberate, echo back: colles resultant clamore, the hills echo with the shout
 resulto | 4 | figuratively, of speech rhythm, to be jerky, to leap and hop
+resumo | 1 | resume
+resumo | 3 | figuratively, to recover, regain: vires resumere, to recover one's strength
+resupino | 1 | throw down
+resupino | 3 | figuratively, to overthrow, ruin, destroy
+resupino | 4 | figuratively, to make proud, puff up: quid te resupinet?, what makes you so puffed up?
+resupinus | 1 | supine
+resupinus | 3 | figuratively, careless, negligent, lazy, effeminate
+resurgo | 1 | rise again
+resurgo | 3 | figuratively, of a nation or state, to be reborn, rise from ruin: res Romana resurgit, the Roman state rises again
+resuscito | 1 | resuscitate
+resuscito | 3 | literally, to rebuild: templum resuscitare, to rebuild a temple
+resuscito | 4 | figuratively, to revive something dormant: iram resuscitare, to rekindle anger
+retardo | 1 | delay
+retardo | 3 | intransitively, to lag behind, tarry, move slowly
+rete | 1 | net
+rete | 3 | figuratively, a snare, a trap: retia amoris, the snares of love
+retego | 1 | uncover
+retego | 3 | figuratively, to disclose, reveal, expose: scelus retegere, to expose a crime
+retego | 4 | rarely, in the opposite sense, to cover again
+retendo | 1 | unbend
+retendo | 3 | figuratively, to relax, ease, let unwind: quiete retenduntur, they are relaxed by rest
+retentio | 1 | retention
+retentio | 3 | philosophically, a withholding of assent, translating the Greek epoche, skeptical suspension of judgment
+retentio | 4 | preservation, maintenance: retentio disciplinae, the maintenance of discipline
 
