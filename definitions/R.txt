@@ -330,3 +330,43 @@ recutio | 1 | rebound
 redamo | 1 | love back
 redarguo | 1 | refute
 redarguo | 3 | with the genitive, to convict of, prove guilty of something: redarguere ignorantiae, to convict of ignorance
+redditio | 1 | return
+redditio | 3 | rationis redditio, the giving of a reason or account
+redditio | 4 | in rhetoric and grammar, the apodosis, the answering clause of a conditional sentence
+reddo | 1 | return
+reddo | 2 | render
+reddo | 3 | to give up, deliver, hand over, grant, pay, yield: reddere epistulam, to deliver a letter
+reddo | 4 | to translate: verbum pro verbo reddere, to translate word for word
+reddo | 5 | to repeat, recite, narrate: reddere quae cogitaverat, to recite what he had thought out
+reddo | 6 | to answer, reply, poetic: talia reddit, thus he replied
+reddo | 7 | to represent, resemble, express: reddere facies hominum, to represent people's faces
+reddo | 8 | legally, judicium reddere, to grant a trial; jus reddere, to administer justice
+redemptio | 1 | ransom
+redemptio | 3 | of a court, bribery, corrupting jurors
+redemptio | 4 | a farming or contracting of public revenue
+redemptio | 5 | in ecclesiastical Latin, redemption from sin
+redemptor | 1 | contractor
+redemptor | 3 | in law, one who pays off a debtor's creditor, thereby taking over the claim
+redemptor | 4 | in ecclesiastical Latin, the Redeemer, Christ as savior from sin
+redeo | 1 | return
+redeo | 3 | to return to a former subject in speaking or writing: ad rem redire, to get back to the point
+redeo | 4 | of revenue, to come in, accrue: fructus ex fundo redit, income comes in from the estate
+redeo | 5 | to be reduced to, come down to, resort to some condition: ad gladios redire, to resort to swords; ad incitas redire, to be brought to a standstill
+redhibeo | 1 | return
+redhibeo | 3 | mercantile term, of a seller, to take back defective merchandise from a buyer, to refund
+redigo | 1 | reduce
+redigo | 2 | collect
+redigo | 3 | to bring back, restore to a former condition: redigere ad pristinam rationem, to restore to the old order
+redigo | 4 | to bring to a certain state or condition, to render: redigere in servitutem, to reduce to slavery
+redigo | 5 | to diminish in number or extent: familiam ad paucos redactam, the household reduced to a few
+redimiculum | 1 | fillet
+redimiculum | 3 | also, a girdle or sash
+redimiculum | 4 | figuratively, a bond, fetter, restraint
+redimio | 1 | wreathe
+redimio | 3 | to bind or wrap something around: mitra redimire capillos, to bind the hair with a headband
+redimo | 1 | ransom
+redimo | 2 | repurchase
+redimo | 3 | to bribe or hire someone: auditores redempti, a bribed audience
+redimo | 4 | to take on contract, to farm out or lease: vectigalia redempta, tax revenues taken on contract
+redimo | 5 | figuratively, to avert or ward off an evil: acerbitatem redimere, to avert a hardship
+redimo | 6 | to atone for, make amends for a wrong: flagitium redimere, to atone for a disgraceful act
