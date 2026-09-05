@@ -659,4 +659,23 @@ removeo | 1 | remove
 removeo | 2 | distant
 removeo | 3 | to deduct or subtract: si uncia remota est, if a twelfth is subtracted
 removeo | 4 | figuratively, as an adjective (remotus), free from, unconnected with, foreign to something: genus remotum a civilibus causis, a kind unconnected with civil cases
+remugio | 1 | bellow back
+remulceo | 1 | soothe
+remulceo | 3 | literally, to stroke or smooth back: caudam remulcere, to droop the tail
+remuneratio | 1 | reward
+remuneror | 1 | reward
+remus1 | 1 | oar
+remus1 | 3 | poetic, transferred to a bird's wings, or a swimmer's limbs
+renascor | 1 | revive
+renascor | 3 | literally, to be born again, to spring up anew: urbs renata, the city risen again from ruin
+renascor | 4 | ecclesiastical Latin, to be born again, spiritually reborn
+renes | 1 | kidneys
+renes | 3 | the loins
+renes | 4 | figuratively, in ecclesiastical Latin, the seat of the emotions, the inmost feelings
+renideo | 1 | glisten
+renideo | 3 | figuratively, to beam with joy, to be cheerful, glad
+renideo | 4 | transferred, to smile, laugh: renidens, smiling
+renitor | 1 | resist
+reno | 1 | swim back
+reno | 3 | as a noun (reno or rheno), a reindeer-skin garment worn by the ancient Germans, a fur cloak
 
