@@ -678,4 +678,27 @@ renideo | 4 | transferred, to smile, laugh: renidens, smiling
 renitor | 1 | resist
 reno | 1 | swim back
 reno | 3 | as a noun (reno or rheno), a reindeer-skin garment worn by the ancient Germans, a fur cloak
+renodo | 1 | tie back
+renodo | 3 | rarely, in the opposite sense, to untie, loosen: renodata pharetris, freed from the quiver-straps
+renovatio | 1 | renewal
+renovatio | 3 | in business, the renewal of interest on a debt, compound interest
+renovo | 1 | renew
+renovo | 3 | to repeat in words, say again: renovare illud quod dixi, to repeat what I said
+renovo | 4 | to restore in strength, refresh, revive: quies renovavit corpora, rest restored their bodies
+renuntiatio | 1 | announcement
+renuntiatio | 3 | specifically, formal notice terminating an agreement or partnership
+renuntio | 1 | announce
+renuntio | 2 | renounce
+renuntio | 3 | politically, to officially declare the result of an election: renuntiari consulem, to be declared elected consul
+renuntio | 4 | renuntiare sibi, to reflect, take stock, remind oneself
+renuo | 1 | decline
+reor | 1 | think
+reor | 2 | ratify
+reor | 3 | pro rata parte, or simply pro rata, proportionally, in proportion
+reor | 4 | as an adjective (ratus), fixed, settled, valid, confirmed
+repagula | 1 | bolts
+repagula | 3 | figuratively, restraints, limits, barriers: repagula juris, the barriers of law
+repandus | 1 | turned up
+reparabilis | 1 | reparable
+reparabilis | 3 | late Latin, always ready, quick to rally or recover: gentis motus reparabiles, a people's ever-renewable unrest
 
