@@ -720,4 +720,30 @@ repenso | 1 | counterbalance
 repentinus | 1 | sudden
 repercussus2 | 1 | repercussion
 repercussus2 | 3 | specifically, an echo of sound, or a reflection of light
+repercutio | 1 | reflect
+repercutio | 3 | figuratively, to retort, cast back, repel an argument: repercutere aliena, to rebut others' points
+reperio | 1 | find
+reperio | 2 | invent
+reperio | 3 | with a double predicate, to find or discover something to be a certain way: reperi eos inimicos, I found them to be enemies
+repertor | 1 | inventor
+repetitio | 1 | repetition
+repetitio | 3 | in law, a formal demand for the return of something
+repetitio | 4 | in rhetoric, anaphora, the repetition of a word at the start of successive clauses
+repeto | 1 | repeat
+repeto | 2 | reclaim
+repeto | 3 | to attack again, strike anew: regem repetitum cuspide, having struck the king again with a spear
+repeto | 4 | to return to, revisit a place: patriam repetere, to return to one's homeland
+repeto | 5 | to recall to mind, remember: repetere memoria, to call something to mind
+repeto | 6 | legally, res repetere, to reclaim one's property in court; pecuniae repetundae, money extorted by a governor, subject to recovery
+repigro | 1 | retard
+repleo | 1 | fill
+repleo | 3 | figuratively, to make up for, supply what is lacking: quod voci deerat plangore replebam, I made up with wailing for what my voice lacked
+replicatio | 1 | unrolling
+replicatio | 3 | in law, a plaintiff's reply to a defendant's plea, a replication
+replicatio | 4 | in rhetoric, anadiplosis, the repetition of a word at the end of one clause and the start of the next
+replico | 1 | unroll
+replico | 2 | reply
+replico | 3 | figuratively, to turn over in the mind, to ponder, reflect upon, go over again: haec identidem replicare, to turn this over again and again
+repo | 1 | creep
+repo | 3 | figuratively, of style, to be low, plain, pedestrian: sermo repens per humum, speech that creeps along the ground
 
