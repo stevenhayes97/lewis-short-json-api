@@ -821,4 +821,24 @@ resarcio | 3 | figuratively, to make good, compensate for a loss: damnum resarci
 rescindo | 1 | rescind
 rescindo | 3 | literally, to cut down or break apart: pontem rescindere, to break down a bridge
 rescindo | 4 | to cut open, lay bare: vitia latentia rescindere, to lay bare hidden faults
+rescisco | 1 | discover
+rescribo | 1 | write back
+rescribo | 3 | politically and legally, of an emperor or jurist, to issue a written ruling, a rescript
+rescribo | 4 | in accounts, to credit, repay: argentum rescribi, to have money repaid
+rescribo | 5 | militarily, to re-enlist, or to transfer between units
+reseco | 1 | cut off
+reseco | 3 | figuratively, to curtail, restrain, check: nimia resecari oportet, excess ought to be pared away
+resecro | 1 | implore
+resecro | 3 | rarely, to release someone from a curse or religious obligation
+resequor | 1 | reply
+resero2 | 1 | unlock
+resero2 | 3 | figuratively, to disclose, reveal something hidden or unknown: oracula mentis reserare, to unlock the oracles of the mind
+reservo | 1 | reserve
+reservo | 3 | rarely, to save from destruction, to preserve, spare: aliquem reservare, to spare someone's life
+reses | 1 | idle
+resideo | 1 | reside
+resideo | 3 | figuratively, to remain, be left behind: nihil residet, nothing remains
+resideo | 4 | rarely, to sit inactive, idle, listless
+resido | 1 | settle
+resido | 3 | figuratively, of winds or emotions, to abate, calm down, subside: ira resedit, anger subsided
 
