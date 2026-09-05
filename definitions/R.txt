@@ -468,4 +468,32 @@ regalis | 3 | transferred, worthy of a king, splendid, magnificent: regalis luxu
 regalis | 4 | in a bad sense, as an adverb (regaliter), despotically, domineeringly
 regelo | 1 | thaw
 regelo | 3 | rarely, in the opposite sense, to air out, cool off: granaria regelare, to air out the granaries
+regenero | 1 | regenerate
+regenero | 3 | transferred, to resemble a forebear, to reproduce a likeness: avum regeneravit, he was the image of his grandfather
+regero | 1 | carry back
+regero | 3 | transferred, of writing, to enter, record, transcribe: regerere in commentarios, to enter into one's notebooks
+regero | 4 | figuratively, to retort, throw back: convicia regerere, to hurl back insults
+regestum1 | 1 | spoil
+regestum1 | 3 | late Latin, a written register, list, or catalogue
+regificus | 1 | sumptuous
+regimen | 1 | guidance
+regimen | 2 | government
+regimen | 3 | poetic, concretely, a rudder: regimen carinae, the ship's rudder
+regimen | 4 | concretely, a ruler, governor: regimen rerum, the ruler of the state
+regina | 1 | queen
+regina | 3 | transferred, a goddess: regina Juno, Queen Juno
+regina | 4 | a princess, a king's daughter
+regina | 5 | figuratively, a leading or foremost thing, a mistress: justitia regina virtutum, justice, the queen of the virtues
+regio | 1 | region
+regio | 3 | a boundary or limit: regionibus terminari, to be bounded by limits
+regio | 4 | e regione, as an adverb, in a straight line, directly, or opposite, over against
+regio | 5 | figuratively, a province, department, sphere of activity: regio astutiarum, the sphere of one's tricks
+regius | 1 | royal
+regius | 3 | as a noun (regia), a royal palace; in particular, the Regia, Numa's former residence on the Sacred Way, later used for priestly rites
+regius | 4 | as a noun (regia), the royal tent in a military camp, or the royal court and family
+regius | 5 | figuratively, royal, splendid, magnificent, distinguished
+regnator | 1 | ruler
+regno | 1 | reign
+regno | 3 | generally, to hold sway, dominate, be supreme in some sphere: regnare in judiciis, to hold sway in the courts
+regno | 4 | figuratively, of a style or quality, to prevail, predominate: oratio regnat, the emotional style predominates
 
