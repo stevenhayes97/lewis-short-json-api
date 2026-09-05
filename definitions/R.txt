@@ -1114,4 +1114,30 @@ rixor | 3 | transferred, of things, to clash, conflict, interfere with each othe
 robigo | 1 | rust
 robigo | 3 | transferred, blight or mildew on crops
 robigo | 4 | figuratively, mental rust, the dulling effect of disuse: ingenium rubigine laesum, talent damaged by rust
+roboro | 1 | strengthen
+robur | 1 | oak
+robur | 2 | strength
+robur | 3 | concretely, the best or strongest part of something, the flower: robur militum, the pick of the troops
+robur | 4 | as a proper name (Robur), the notorious lower dungeon of the Roman state prison
+robustus | 1 | robust
+robustus | 3 | literally, made of oak, oaken: robusta materia, oaken timber
+rodo | 1 | gnaw
+rodo | 3 | transferred, to corrode, eat away, wear down: rivus ripas rodit, the stream gnaws at its banks
+rodo | 4 | figuratively, to backbite, slander, disparage someone
+rogatio | 1 | bill
+rogatio | 3 | rhetorically, a question posed as a figure of speech
+rogatio | 4 | rarely, a request, entreaty
+rogator | 1 | proposer
+rogator | 3 | specifically, a polling official who collected votes in the assembly
+rogator | 4 | transferred, a beggar, one who asks for alms
+rogito | 1 | ask eagerly
+rogo | 1 | ask
+rogo | 2 | request
+rogo | 3 | politically, to propose a law or a candidate to the people: legem rogare, to bring a bill before the people
+rogo | 4 | to administer an oath: milites sacramento rogare, to swear the soldiers in
+rogo | 5 | legally, to ask for a formal promise in making a contract: rogavit Titius, spopondit Maevius, Titius asked, Maevius pledged
+rogo | 6 | to invite someone: aliquem ad cenam rogare, to invite someone to dinner
+rogus | 1 | pyre
+rogus | 3 | rarely, transferred, the grave, the tomb
+rorarii | 1 | skirmishers
 
