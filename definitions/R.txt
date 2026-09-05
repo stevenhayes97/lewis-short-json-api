@@ -841,4 +841,31 @@ resideo | 3 | figuratively, to remain, be left behind: nihil residet, nothing re
 resideo | 4 | rarely, to sit inactive, idle, listless
 resido | 1 | settle
 resido | 3 | figuratively, of winds or emotions, to abate, calm down, subside: ira resedit, anger subsided
+residuus | 1 | residual
+residuus | 3 | in business, of a debt, outstanding, due: pecuniae residuae, outstanding sums
+resigno | 1 | unseal
+resigno | 2 | annul
+resigno | 3 | poetic, to disclose, reveal: venientia fata resignare, to reveal what fate holds
+resigno | 4 | ante-classical, to transfer or assign an entry in accounts
+resilio | 1 | rebound
+resilio | 3 | figuratively, to shrink back from, recoil from: crimen resilit, the charge recoils, fails to stick
+resipio | 1 | taste of
+resipio | 3 | figuratively, to smack of, be reminiscent of: stilum Plautinum resipere, to smack of Plautus's style
+resipisco | 1 | recover
+resipisco | 3 | specifically, to come to one's senses, recover from folly or error, repent
+resolutio | 1 | loosening
+resolutio | 3 | medically, a weakness or slackness of the limbs or bowels
+resolutio | 4 | figuratively, the cancellation of a contract or sale
+resolutio | 5 | a solution to a problem or riddle
+resolvo | 1 | untie
+resolvo | 2 | annul
+resolvo | 3 | to weaken or enfeeble the body: membra resolvit, it relaxed his limbs
+resolvo | 4 | to disclose, reveal, lay open: resolvere periodos, to unpack complex sentences
+resolvo | 5 | as an adjective (resolutus), relaxed, unrestrained, free
+resono | 1 | resound
+resono | 3 | actively, to echo something back, to make something resound: silvae resonant Amaryllida, the woods echo "Amaryllis"
+resorbeo | 1 | suck back
+respecto | 1 | look back
+respecto | 3 | figuratively, to wait for, expect, look forward to: munus respectare, to look forward to a gift
+respecto | 4 | to care for, have regard for, respect: pios respectant numina, the gods regard the pious
 
