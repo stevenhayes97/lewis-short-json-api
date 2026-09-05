@@ -1188,4 +1188,24 @@ rubrica | 3 | transferred, the heading or title of a law, written in red, hence 
 rubrica | 4 | by extension, a law itself: rubricae, the laws
 rubus | 1 | bramble
 rubus | 3 | also, the blackberry, the fruit of the bramble
+ructo | 1 | belch
+ructo | 3 | figuratively, contemptuously, to spew out, blurt out: versus ructare, to belch out verses
+ructus | 1 | belch
+rudens1 | 1 | rope
+rudens1 | 3 | figuratively, in the proverb rudentibus apta fortuna, fortune hanging by a thread, precarious fortune
+rudimentum | 1 | rudiment
+rudimentum | 3 | especially, in military language, a soldier's first experience of service, one's initiation
+rudis1 | 1 | raw
+rudis1 | 2 | inexperienced
+rudis1 | 3 | poetic, transferred, young, untried, new: rudis carina, an untried, maiden ship
+rudis2 | 1 | wooden sword
+rudis2 | 3 | also, a stirring stick or spatula, used in cooking
+rudo | 1 | bray
+rudo | 3 | transferred, of people, to roar or cry out loudly
+rudus1 | 1 | rubble
+rudus1 | 3 | specifically, the debris and rubbish of decayed or demolished buildings
+rufulus | 1 | reddish
+rufulus | 3 | as a noun (rufuli), military tribunes appointed directly by the general, rather than elected by the people
+rufus1 | 1 | red
+rufus1 | 3 | especially, of hair, red, ruddy, sandy: rufus, red-haired
 
