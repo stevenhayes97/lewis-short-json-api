@@ -557,4 +557,35 @@ relator | 1 | proposer
 relator | 3 | generally, a narrator, one who relates a story
 relator | 4 | relator auctionum, a recorder of public auctions
 relaxatio | 1 | relaxation
+relaxo | 1 | relax
+relaxo | 3 | literally, to loosen or slacken something physical: alvus relaxatur, the bowels loosen
+relego1 | 1 | banish
+relego1 | 3 | figuratively, to put aside, reject: dona relegare, to send back gifts, reject them
+relego1 | 4 | to attribute or ascribe something to a source: ad auctores relegare, to refer to one's sources
+relego1 | 5 | in law, to bequeath as a legacy: usum fructum relegare, to bequeath a usufruct
+relego2 | 1 | reread
+relego2 | 3 | literally, to gather up again: filum relectum, the thread wound back up
+relego2 | 4 | of a journey, to travel over or sail through again: litora relegere, to sail along the coast again
+relevatio | 1 | relief
+relevatio | 3 | rarely, in medicine, scum or froth on urine
+relevo | 1 | relieve
+relevo | 3 | literally, to lift up, raise: relevare caput, to lift up one's head
+relevo | 4 | to lighten a physical load: epistulam relevare, to make a letter's weight lighter, easier to bear by reading it
+relictio | 1 | abandonment
+relido | 1 | strike back
+relido | 3 | figuratively, to refuse, reject: infirmata relidunt, they reject what is unproven
+religio | 1 | religion
+religio | 2 | scruple
+religio | 3 | the obligation of an oath, sworn good faith: religio jurisjurandi, the sanctity of an oath
+religio | 4 | the sanctity or holiness inherent in a sacred object, place, or being
+religio | 5 | concretely, a sacred object or place, an object of religious veneration
+religio | 6 | late Latin, a system of religious belief, a religion: religio Christiana, Christianity
+religiosus | 1 | religious
+religiosus | 2 | scrupulous
+religiosus | 3 | of objects, holy, sacred, hallowed: templum religiosum, a sacred temple
+religiosus | 4 | dies religiosus, an unlucky or ill-omened day
+religiosus | 5 | as an adverb (religiose), scrupulously, conscientiously, exactly
+religo | 1 | bind fast
+religo | 3 | nautically, to moor a ship to the shore
+religo | 4 | rarely, in the opposite sense, to unbind, untie: religare juga, to loosen the yoke-straps
 
