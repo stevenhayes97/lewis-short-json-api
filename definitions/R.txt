@@ -1229,4 +1229,25 @@ ruminor | 3 | figuratively, to muse upon, ponder, mull over in the mind
 rumor | 1 | rumor
 rumor | 2 | reputation
 rumor | 3 | transferred, poetically, a murmuring sound, as of a stream
+rumpo | 1 | break
+rumpo | 2 | violate
+rumpo | 3 | to interrupt, cut short: rumpere somnum, to break off sleep; silentium rumpere, to break silence
+runa | 1 | javelin
+runa | 3 | late Latin, transferred, a runic character, a rune
+runco1 | 1 | weed
+runco1 | 3 | transferred, to pluck out hair, or to mow
+ruo | 1 | rush down
+ruo | 2 | hasten
+ruo | 3 | actively, to cast down violently, to hurl to the ground: ruere antennas, to bring down the yardarms
+ruo | 4 | poetic, of wind or waves, to churn up, stir up from the depths: mare ruit harenam, the sea churns up sand
+rupes | 1 | cliff
+ruricola | 1 | rustic
+ruricola | 3 | as a noun, a countryman, a farmer, a tiller of the soil
+ruricola | 4 | poetically, as a noun, an ox or plow-bull
+rursus | 1 | again
+rursus | 3 | on the contrary, on the other hand, conversely
+rus | 1 | country
+rus | 3 | concretely, a country estate, a farm, a country house
+ruspor | 1 | search
+rusticanus | 1 | rustic
 
