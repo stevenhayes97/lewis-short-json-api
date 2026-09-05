@@ -1250,4 +1250,20 @@ rus | 1 | country
 rus | 3 | concretely, a country estate, a farm, a country house
 ruspor | 1 | search
 rusticanus | 1 | rustic
+rusticitas | 1 | rusticity
+rusticitas | 3 | concretely, country people, rustics collectively
+rusticor | 1 | rusticate
+rusticor | 3 | figuratively, to speak in a rustic or countrified manner
+rusticulus | 1 | rustic
+rusticulus | 3 | as a noun, a little countryman, a simple rustic fellow
+rusticulus | 4 | as a feminine noun, a heath-cock, a type of bird
+rusticus | 1 | rustic
+rusticus | 2 | clownish
+rusticus | 3 | as a noun (rusticus), a countryman, a peasant
+rutabulum | 1 | poker
+rutabulum | 3 | also, a wooden spatula or paddle used for stirring food while cooking
+rutilo | 1 | redden
+rutilo | 3 | intransitively, poetic, to glow with a ruddy light: arma rutilant, the weapons gleam red
+rutilus1 | 1 | golden-red
+rutilus1 | 3 | transferred, shining, glittering, gleaming
 
