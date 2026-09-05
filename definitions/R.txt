@@ -496,4 +496,38 @@ regnator | 1 | ruler
 regno | 1 | reign
 regno | 3 | generally, to hold sway, dominate, be supreme in some sphere: regnare in judiciis, to hold sway in the courts
 regno | 4 | figuratively, of a style or quality, to prevail, predominate: oratio regnat, the emotional style predominates
+regnum | 1 | kingship
+regnum | 2 | kingdom
+regnum | 3 | in a bad sense, despotism, tyranny, one-man rule, a term of reproach at Rome
+regnum | 4 | transferred, any territory one controls, one's own domain: in tuo regno, on your own turf
+rego | 1 | guide
+rego | 2 | govern
+rego | 3 | to correct or set right someone who has erred: errantem regere, to set a wandering person right
+rego | 4 | as a noun (regens), a ruler, governor, prince
+rego | 5 | as an adjective (rectus), straight, upright, in a straight line
+rego | 6 | as an adjective (rectus), figuratively, right, correct, proper, fitting
+rego | 7 | as an adjective (rectus), morally right, virtuous, just; as a noun (rectum), virtue, uprightness
+rego | 8 | in grammar, rectus casus, the nominative case
+rego | 9 | as an adverb (recte), rightly, correctly, well; also as a colloquial reply, "all right!", "fine!"
+regrado | 1 | demote
+regrado | 3 | rarely, to restore to a former arrangement, to rearrange as before
+regredior | 1 | retreat
+regredior | 3 | figuratively, to go back in argument or time: in illum annum regredietur, he will go back to that year
+regredior | 4 | in law, to have recourse to someone: ad venditorem regredi, to have recourse to the seller
+regressio | 1 | retreat
+regressio | 3 | in rhetoric, a figure of repetition, epanodos, returning to a previous word or idea
+regressus2 | 1 | retreat
+regressus2 | 3 | figuratively, a chance to reconsider, a way back from a decision: nullus regressus ab ira, no going back once angry
+regressus2 | 4 | in law, a remedy, recourse: regressus adversus venditorem, recourse against the seller
+regula | 1 | ruler
+regula | 2 | rule
+regula | 3 | transferred, a straight bar, rod, or lath of wood or metal
+regularis | 1 | regular
+regularis | 3 | literally, of or belonging to a bar: aes regulare, metal that can be cast into bars
+regulus1 | 1 | chieftain
+regulus1 | 3 | transferred, a king's son, a young prince
+regulus1 | 4 | transferred, a small bird, the kinglet
+regulus1 | 5 | rarely, a kind of serpent, the basilisk
+regusto | 1 | retaste
+regusto | 3 | figuratively, to read over again, to reperuse: regustare litteras, to read a letter again
 
