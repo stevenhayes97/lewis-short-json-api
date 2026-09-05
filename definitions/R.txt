@@ -370,3 +370,29 @@ redimo | 3 | to bribe or hire someone: auditores redempti, a bribed audience
 redimo | 4 | to take on contract, to farm out or lease: vectigalia redempta, tax revenues taken on contract
 redimo | 5 | figuratively, to avert or ward off an evil: acerbitatem redimere, to avert a hardship
 redimo | 6 | to atone for, make amends for a wrong: flagitium redimere, to atone for a disgraceful act
+redintegro | 1 | restore
+reditio | 1 | return
+reditus | 1 | return
+reditus | 2 | revenue
+reditus | 3 | figuratively, a reconciliation: reditus in gratiam, a return to favor
+reditus | 4 | a return to a subject in discourse: reditus ad rem, getting back to the point
+redivivus | 1 | renewed
+redivivus | 3 | rarely, late Latin, living again, come back to life: Christus redivivus, Christ risen again
+redivivus | 4 | specifically, of old building material reused as if new: redivivus lapis, recycled stone
+redoleo | 1 | smell of
+redoleo | 3 | figuratively, to smack of, savor of, show traces of: orationes redolentes antiquitatem, speeches redolent of a bygone age
+reduco | 1 | bring back
+reduco | 3 | in particular, reducere domum, to escort someone home
+reduco | 4 | militarily, to withdraw or draw off troops: exercitum reducere, to withdraw the army
+reduco | 5 | figuratively, to restore, bring back to a former state: in gratiam reducere, to restore to favor
+reduco | 6 | as an adjective (reductus), withdrawn, remote, secluded: sinus reductus, a secluded bay
+reduco | 7 | figuratively, as an adjective, removed from extremes, moderate: virtus est medium et utrimque reductum, virtue is a mean, withdrawn from both extremes
+reductio | 1 | restoration
+redundantia | 1 | excess
+redundantia | 3 | specifically, of language or style, redundancy, excessive wordiness
+redundo | 1 | overflow
+redundo | 3 | transferred, with the ablative, to be overflowing with something: sanguine redundare, to run with blood
+redundo | 4 | figuratively, to abound, be copious, superabound: ingenium redundat, his talent overflows
+redundo | 5 | to be in excess, to be redundant or superfluous
+redux | 1 | returning
+redux | 3 | actively, that leads safely back home, an epithet of gods: Juppiter redux, Jupiter who brings travelers home safely
