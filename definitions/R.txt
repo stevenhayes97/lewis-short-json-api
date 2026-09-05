@@ -868,4 +868,29 @@ resorbeo | 1 | suck back
 respecto | 1 | look back
 respecto | 3 | figuratively, to wait for, expect, look forward to: munus respectare, to look forward to a gift
 respecto | 4 | to care for, have regard for, respect: pios respectant numina, the gods regard the pious
+respectus2 | 1 | regard
+respectus2 | 3 | literally, a looking back: sine respectu fugere, to flee without a backward glance
+respectus2 | 4 | metonymically, a place of refuge, a fallback, a resource: respectum adimere, to take away someone's last resort
+respergo1 | 1 | sprinkle
+respergo1 | 3 | figuratively, to bespatter, sully, defile: infamia respergere, to besmirch with disgrace
+respicio | 1 | look back
+respicio | 2 | care for
+respicio | 3 | figuratively, to pay attention to, take into account: respicere spatium temporis, to consider a span of time
+respicio | 4 | especially, of a protecting deity, to look favorably upon, watch over: di nos respiciunt, the gods watch over us
+respiratio | 1 | respiration
+respiratio | 3 | figuratively, a pause, an intermission, a breathing space: sine respiratione pugnare, to fight without a moment's respite
+respiro | 1 | breathe
+respiro | 2 | recover
+respiro | 3 | transferred, of a struggle or passion, to abate, ease off, subside: oppugnatio respiravit, the siege slackened
+resplendeo | 1 | shine brightly
+respondeo | 1 | answer
+respondeo | 2 | correspond
+respondeo | 3 | especially, of a lawyer, priest, or oracle, to give a formal opinion or ruling: jureconsultus respondit, the jurist gave his legal opinion
+respondeo | 4 | to appear when summoned, especially before a court: reus respondere non ausus, the defendant did not dare appear
+respondeo | 5 | of land, to yield, produce a return: ager cum quarto respondit, the field yielded fourfold
+responso | 1 | answer
+responso | 3 | figuratively, of an echo, to resound, re-echo: ripae responsant, the banks re-echo
+respuo | 1 | spit out
+respuo | 3 | figuratively, to reject, refuse, spurn: consilium respuere, to reject a plan
+restagno | 1 | overflow
 
