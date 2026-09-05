@@ -62,3 +62,40 @@ rapax | 4 | figuratively, with the genitive, eager to seize, avaricious: rapax v
 rapidus | 1 | rapid
 rapidus | 3 | literally and rarely, tearing, seizing, ravenous: rapidae ferae, ravening beasts
 rapidus | 4 | figuratively, hasty, impetuous, vehement: rapidus in consiliis, over-hasty in his decisions
+rapina1 | 1 | plunder
+rapina1 | 3 | concretely, the prey or booty itself
+rapina1 | 4 | rarely, a gathering together, removal
+rapio | 1 | seize
+rapio | 2 | hurry
+rapio | 3 | to carry off by force, to abduct, ravish: raptae Sabinae, the abducted Sabine women
+rapio | 4 | to plunder, ravage, lay waste: rapere urbem, to sack a city
+rapio | 5 | to snatch away by death, to carry off prematurely: mors rapuit, death snatched him away
+rapio | 6 | figuratively, to carry away with passion, to captivate, enthrall
+rapio | 7 | to seize eagerly, to snatch: oscula rapere, to steal kisses
+raptim | 1 | hastily
+raptim | 3 | rarely, violently, greedily, rapaciously
+rapto | 1 | drag
+rapto | 3 | especially, to hurry or hasten something along: raptare iter, to hasten one's journey
+rapto | 4 | to ravage or plunder: raptare arces, to plunder strongholds
+rapto | 5 | figuratively, to hurry along with passion, to agitate, torment: raptat cura, care torments him
+raptor | 1 | plunderer
+raptor | 2 | abductor
+raptor | 3 | as an adjective, lupi raptores, ravening wolves
+raptor | 4 | figuratively, raptores alieni honoris, those who steal another's glory
+raptus2 | 1 | abduction
+raptus2 | 3 | generally, a carrying off by force, plundering
+raptus2 | 4 | rarely, a jerking or cramp in the limbs
+rapum | 1 | turnip
+rapum | 3 | transferred, a knob or lump formed at a tree's roots
+raresco | 1 | thin
+raresco | 3 | transferred, of a place, to grow empty, become depopulated
+raresco | 4 | figuratively, to grow feeble, die away, diminish: sonitus rarescit, the sound fades away
+raresco | 5 | of abstract qualities, to become rare, scarce: justitia rarescit, justice grows scarce
+raritas | 1 | rarity
+raritas | 3 | literally, looseness of texture, the state of not being dense: raritas pulmonum, the sponge-like looseness of the lungs
+raritas | 4 | concretely, a rarity, an uncommon thing
+rarus | 1 | rare
+rarus | 2 | sparse
+rarus | 3 | transferred, scattered, spread out, far apart: rari milites, soldiers spread out in loose order
+rarus | 4 | as an adverb (raro), seldom, rarely
+rarus | 5 | poetic, remarkable, extraordinary, uncommonly fine: rara puella, an extraordinary girl
