@@ -1090,4 +1090,28 @@ rimosus | 1 | cracked
 rimosus | 3 | figuratively, of an ear or a person, leaky, unable to keep a secret: rimosa auris, a leaky ear, a gossip
 ringor | 1 | snarl
 ringor | 3 | figuratively, to be vexed, annoyed, to chafe at something: ringeris quoties legeris, you chafe every time you read it
+ripa | 1 | bank
+ripa | 3 | rarely, transferred, the shore of the sea
+risus | 1 | laughter
+risus | 3 | transferred, an object of ridicule, a laughingstock: deus omnibus risus erat, the god was a laughingstock to all
+risus | 4 | a jest, a practical joke, mockery
+ritualis | 1 | ritual
+ritus | 1 | rite
+ritus | 3 | transferred, a custom, usage, manner, way of doing something
+ritus | 4 | idiomatically, in the ablative with a genitive, in the manner or fashion of: ritu ferarum, in the manner of wild beasts
+rivalis | 1 | rival
+rivalis | 3 | literally, as a noun (rivales), those sharing the same stream, neighbors with a common water source
+rivulus | 1 | rivulet
+rivulus | 3 | figuratively, a small stream, a trickle: rivulus disciplinarum, a trickle of learning
+rivus | 1 | brook
+rivus | 3 | transferred, an artificial channel, a canal, a gutter
+rivus | 4 | poetic, of any liquid, a stream, flow: rivus sanguinis, a stream of blood
+rivus | 5 | figuratively, a stream, flow, of fortune or eloquence: facundiae rivus, a stream of eloquence
+rixa | 1 | quarrel
+rixa | 3 | rarely, a fight or battle, even between beasts
+rixor | 1 | quarrel
+rixor | 3 | transferred, of things, to clash, conflict, interfere with each other: rami inter se rixantur, the branches tangle with one another
+robigo | 1 | rust
+robigo | 3 | transferred, blight or mildew on crops
+robigo | 4 | figuratively, mental rust, the dulling effect of disuse: ingenium rubigine laesum, talent damaged by rust
 
