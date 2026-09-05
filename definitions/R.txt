@@ -773,4 +773,22 @@ reprehensio | 3 | transferred, a fault, the thing blamed itself
 reprehensio | 4 | in rhetoric, a refutation
 reprimo | 1 | repress
 reprimo | 3 | literally, of water, to hold back, dam up: amnem reprimere, to check a river's flow
+reprobo | 1 | reject
+repromitto | 1 | promise back
+repromitto | 3 | to promise again, renew a promise
+repto | 1 | crawl
+repudio | 1 | divorce
+repudio | 2 | reject
+repudio | 3 | legally, to refuse or decline an inheritance: hereditatem repudiare, to decline an inheritance
+repudium | 1 | divorce
+repuerasco | 1 | become childish
+repugnantia1 | 1 | inconsistency
+repugnantia1 | 3 | concretely, a means of defense or resistance: apibus data repugnantia, a means of defense given to bees, that is, the sting
+repugno | 1 | resist
+repugno | 3 | to speak against, object to a proposal: Brutus repugnaverat, Brutus had spoken against it
+repugno | 4 | of ideas or facts, to be inconsistent, contradictory, incompatible with one another
+repulsa | 1 | rejection
+repulsa | 3 | specifically, political defeat in seeking office: repulsam ferre, to be defeated at the polls
+repulso | 1 | repel repeatedly
+repulso | 3 | transferred, of an echo, to reverberate, echo back: colles verba repulsantes, hills echoing back the words
 
