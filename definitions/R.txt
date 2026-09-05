@@ -634,4 +634,29 @@ remissio | 2 | relaxation
 remissio | 3 | mildness, gentleness, leniency of character or treatment
 remissio | 4 | ecclesiastical Latin, the forgiveness of sin
 remissio | 5 | rarely, a repetition: nova ludorum remissio, a fresh round of games
+remissivus | 1 | laxative
+remissivus | 3 | in grammar, remissive, describing adverbs of gradual or moderated degree, like paulatim, "little by little"
+remitto | 1 | release
+remitto | 2 | forgive
+remitto | 3 | to send back, return, restore: remittere pecuniam, to send back money
+remitto | 4 | to slacken or ease something strained: arcum remittere, to unstring or relax a bow
+remitto | 5 | with se, to relax, ease off, recover: remittere se, to relax, unwind
+remitto | 6 | as an adjective (remissus), mild, gentle, indulgent, cheerful
+remitto | 7 | as an adjective (remissus), slack, negligent, remiss
+remolior | 1 | push back
+remolior | 3 | to take up again: arma remoliri, to take up arms once more
+remollesco | 1 | soften
+remollesco | 3 | figuratively, to be moved or touched, to relent: numina remollescunt, the gods' will is softened
+remollio | 1 | soften
+remora1 | 1 | delay
+remordeo | 1 | gnaw
+remordeo | 3 | specifically, of conscience or guilt, to torment, prick, trouble: peccata remordent, sins gnaw at the conscience
+remoror | 1 | delay
+remoror | 3 | intransitively, to linger, tarry, loiter oneself
+remotio | 1 | removal
+remotio | 3 | in rhetoric, the shifting of a charge onto another person or cause
+removeo | 1 | remove
+removeo | 2 | distant
+removeo | 3 | to deduct or subtract: si uncia remota est, if a twelfth is subtracted
+removeo | 4 | figuratively, as an adjective (remotus), free from, unconnected with, foreign to something: genus remotum a civilibus causis, a kind unconnected with civil cases
 
