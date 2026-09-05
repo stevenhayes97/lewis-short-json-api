@@ -530,4 +530,31 @@ regulus1 | 4 | transferred, a small bird, the kinglet
 regulus1 | 5 | rarely, a kind of serpent, the basilisk
 regusto | 1 | retaste
 regusto | 3 | figuratively, to read over again, to reperuse: regustare litteras, to read a letter again
+reicio | 1 | reject
+reicio | 2 | repel
+reicio | 3 | legally, judices reicere, to challenge and set aside jurors
+reicio | 4 | to refer or remand a matter to another authority: reicere ad senatum, to refer to the Senate
+reicio | 5 | to postpone, defer to a later time: in mensem reicere, to put off to next month
+reiculus | 1 | worthless
+reiculus | 3 | figuratively, wasted, spent uselessly: dies reiculus, a wasted day
+rejectaneus | 1 | rejectable
+rejectaneus | 3 | as a Stoic philosophical term coined by Cicero, translating the Greek apoproegmena, things to be set aside though not truly evil
+rejectio | 1 | rejection
+rejectio | 3 | in law, the challenging and rejection of a juror
+rejectio | 4 | in rhetoric, the shifting of blame onto someone else
+relabor | 1 | slide back
+relabor | 3 | figuratively, to relapse, fall back into a former state: in vitia relabi, to relapse into old faults
+relanguesco | 1 | grow faint
+relanguesco | 3 | transferred, of wind, to slacken and die down; of a star, to grow dim
+relanguesco | 4 | figuratively, to lose vigor, grow slack, relax: virtus relanguescit, courage grows slack
+relatio | 1 | report
+relatio | 2 | relation
+relatio | 3 | legally, a retorting of a charge, a counter-accusation: relatio criminis, turning a charge back on the accuser
+relatio | 4 | politically, a motion or proposal brought before the Senate
+relativus | 1 | relative
+relativus | 3 | in grammar, pronomen relativum, a relative pronoun
+relator | 1 | proposer
+relator | 3 | generally, a narrator, one who relates a story
+relator | 4 | relator auctionum, a recorder of public auctions
+relaxatio | 1 | relaxation
 
