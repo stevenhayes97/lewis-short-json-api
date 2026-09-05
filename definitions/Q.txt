@@ -258,3 +258,35 @@ querela | 1 | complaint
 querela | 3 | in law, a formal complaint or accusation
 querela | 4 | transferred, a plaintive song, or a mournful sound made by animals or instruments
 querela | 5 | a bodily ailment, a pain that causes complaint, a malady
+querimonia | 1 | complaint
+querimonia | 3 | a formal complaint or grievance, especially about mistreatment
+queror | 1 | complain
+queror | 3 | with an accusative or de and the ablative, to complain about, to bewail: queri fortunam, to lament one's fate
+queror | 4 | in law, to lodge a formal complaint
+queror | 5 | transferred, of animals or birds, to utter a plaintive sound, to coo, warble
+querquerus | 1 | shivering
+querquerus | 3 | febris querquera, the ague, a fever accompanied by chills
+querquetulanus | 1 | of oak-woods
+querquetulanus | 3 | querquetulanae virae, nymphs presiding over a green oak grove
+querquetulanus | 4 | as a proper noun (Querquetulani), a people of Latium
+querulus | 1 | querulous
+querulus | 3 | poetic, transferred to animals or things, softly murmuring, cooing, or chirping
+questus2 | 1 | complaint
+questus2 | 3 | transferred, the plaintive note of the nightingale or other birds
+qui1 | 1 | who
+qui1 | 2 | which
+qui1 | 3 | interrogative adjective, what kind of, what sort of: qui vir, what kind of man
+qui1 | 4 | with the subjunctive, causal, since, seeing that: qui incommodissime navigassem, since I had had a very rough voyage
+qui1 | 5 | with the subjunctive, final, in order that, to: misit qui viderent, he sent men to see
+qui1 | 6 | quod as a connective, and this, and that: quae res, and this circumstance
+qui1 | 7 | quo as an adverb with comparatives, by how much, the: quo difficilius, hoc praeclarius, the harder, the more splendid
+qui2 | 1 | how
+qui2 | 3 | relative, whereby, wherewith: quo me privem, wherewith I might take my life
+qui2 | 4 | transferred, that, in order that
+qui2 | 5 | indefinite, somehow, in some way
+quia | 1 | because
+quia | 3 | quianam or quia nam, why, wherefore, poetic and archaic
+quia | 4 | post-classical, introducing an object clause, equivalent to quod, that
+quicumque | 1 | whoever
+quicumque | 3 | in particular, for qualiscumque, of whatever kind or nature
+quicumque | 4 | transferred, each or every possible: quocumque modo, in every possible way
