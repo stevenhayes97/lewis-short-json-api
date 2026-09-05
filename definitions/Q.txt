@@ -35,3 +35,29 @@ quadrantarius | 3 | relating to a fourth part: tabulae quadrantariae, accounts r
 quadrantarius | 4 | costing a quarter of an as; res quadrantaria, a public bath, since admission cost a quadrans
 quadratarius | 1 | of stonework
 quadratarius | 3 | as a noun, a stonecutter
+quadriangulus | 1 | quadrangular
+quadriangulus | 3 | as a noun (quadriangulum), a quadrilateral figure
+quadriduum | 1 | four days
+quadriduum | 3 | a period of four days: in hoc triduo aut quadriduo, within the last three or four days
+quadrifariam | 1 | fourfold
+quadrifariam | 3 | into four parts, dividing something in four
+quadrifidus | 1 | quadrifid
+quadrifidus | 3 | split into four parts, four-cleft (poetic)
+quadrifidus | 4 | transferred, generally, divided into four parts
+# review: quadrigae 'four-horse team' kept at three words; 'chariot' alone would blur the team with the vehicle it draws
+quadrigae | 1 | four-horse team
+quadrigae | 3 | especially, the team used in chariot racing
+quadrigae | 4 | transferred, the chariot itself, drawn by four horses
+quadrigae | 5 | poetic, the four-horse team of the Sun, Aurora, or the Moon
+quadrigae | 6 | figuratively, the rapid onward course of something: irarum quadrigae, the headlong rush of anger
+quadrigarius1 | 1 | of chariot-racing
+quadrigarius1 | 3 | quadrigario habitu, in the dress of a chariot-driver
+quadrijugus | 1 | four-horse
+quadrijugus | 3 | of a team of four horses yoked abreast (poetic): curru quadrijugo, in a four-horse chariot
+quadrimus | 1 | four-year-old
+quadrimus | 3 | de quadrimo Catone, of Cato when four years old
+# review: quadringenarius 'of four hundred' kept at three words; hyphenating to 'four-hundred' would misrepresent it as a compound number rather than 'consisting of 400 each'
+quadringenarius | 1 | of four hundred
+quadringenarius | 3 | consisting of four hundred each: quadringenariae cohortes, cohorts of four hundred men each
+quadrini | 1 | four each
+quadrini | 3 | distributive: four apiece, four at a time
