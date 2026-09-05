@@ -1165,4 +1165,27 @@ rota | 4 | figuratively, fortunae rota, the wheel of Fortune, symbolizing life's
 roto | 1 | whirl
 roto | 3 | figuratively, of speech, well-turned, polished, rounded: sermo rotatus, a smoothly turned phrase
 roto | 4 | intransitively, to revolve, roll around: saxa rotantia, boulders tumbling and rolling
+rotunditas | 1 | roundness
+rotunditas | 3 | figuratively, of style, smoothness, polish, roundness of expression
+rotundo | 1 | round
+rotundo | 3 | figuratively, of style, to polish, smooth, round off: elegos rotundatos, polished elegiac verses
+rotundus | 1 | round
+rotundus | 3 | figuratively, of a person's character, complete, self-contained, well-rounded: teres atque rotundus, polished and self-sufficient
+rotundus | 4 | of speech or style, smooth, polished, well turned, elegant
+rubeo | 1 | be red
+rubeo | 3 | specifically, to blush, turn red with shame or embarrassment
+rubeo | 4 | as an adjective (rubens), red, ruddy: rubenti murice, with ruddy purple dye
+ruber | 1 | red
+ruber | 3 | as a proper name, Rubrum Mare, the Red Sea
+rubesco | 1 | redden
+rubicundus | 1 | ruddy
+rubor | 1 | redness
+rubor | 2 | blush
+rubor | 3 | by extension, bashfulness, modesty, a sense of shame
+rubor | 4 | later, by further extension, the cause of shame, disgrace, dishonor
+rubrica | 1 | red-ochre
+rubrica | 3 | transferred, the heading or title of a law, written in red, hence a rubric
+rubrica | 4 | by extension, a law itself: rubricae, the laws
+rubus | 1 | bramble
+rubus | 3 | also, the blackberry, the fruit of the bramble
 
