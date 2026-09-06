@@ -1,0 +1,1269 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_R.json (Lewis & Short via Perseus), simplified for learners.
+rabidus | 1 | rabid
+rabidus | 3 | transferred, of things, fierce, raging: rabida ora, raging jaws
+rabidus | 4 | figuratively, impulsive, passionate, impetuous
+rabies | 1 | madness
+rabies | 3 | specifically, of dogs, rabies, canine madness
+rabies | 4 | transferred, of any violent emotion, rage, fury, fierce eagerness
+rabies | 5 | of things, violent force: rabies ventorum, the fury of the winds
+rabiosus | 1 | rabid
+rabiosus | 3 | of a quality carried to a fierce excess: rabiosa fortitudo, a reckless, rabid kind of courage
+rabula | 1 | pettifogger
+rabula | 3 | a loud, wrangling advocate, a shyster
+racemus | 1 | cluster
+racemus | 3 | literally, the stalk of a cluster of grapes or similar fruit
+racemus | 4 | poetic, wine
+radicitus | 1 | radically
+radicitus | 3 | literally, by the roots, uprooting completely: radicitus evellere, to tear out by the roots
+radico | 1 | root
+radico | 3 | figuratively, to become rooted, established, or settled: radicati in caritate, rooted in love
+radio | 1 | radiate
+radio | 3 | rarely, to furnish with spokes: rota radiata, a wheel fitted with spokes
+radio | 4 | figuratively, to shine, be radiant: fortuna radiat, fortune shines forth
+radius | 1 | ray
+radius | 2 | spoke
+radius | 3 | a rod or staff, especially for drawing figures or measuring
+radius | 4 | as a mathematical term, a radius, the semidiameter of a circle
+radius | 5 | in weaving, a shuttle
+radius | 6 | in anatomy, the radius, the outer bone of the forearm
+radius | 7 | in zoology, the spur of a bird, or the sting of a stingray
+radix | 1 | root
+radix | 2 | radish
+radix | 3 | transferred, the foot or base of a hill or mountain: in radicibus montis, at the foot of the mountain
+radix | 4 | figuratively, a root, basis, foundation, origin: radices virtutis, the roots of virtue
+rado | 1 | shave
+rado | 3 | poetic, to graze or brush past in passing: ripas radentia flumina, rivers grazing their banks
+rado | 4 | to strip off or fleece someone of money
+rado | 5 | figuratively, to grate upon, offend: aures radere, to grate on the ears
+rado | 6 | to satirize or lash with words
+ramenta | 1 | shavings
+ramenta | 3 | transferred, bits, morsels, small pieces of anything
+ramex | 1 | hernia
+ramex | 3 | in the plural, the blood vessels of the lungs
+ramex | 4 | rarely, a staff
+ramosus | 1 | branching
+ramosus | 3 | transferred, of a branching form: cornua ramosa, branching antlers
+ramus | 1 | branch
+ramus | 3 | transferred, of things shaped like a branch: an antler tine, a mountain spur, or the arm of a river
+ramus | 4 | figuratively, a branch or offshoot: ramos miseriarum, the branches of one's troubles
+ramus | 5 | of a family, a branch of kinship or descent
+rana | 1 | frog
+rana | 3 | transferred, rana marina, the frog-fish or angler, a type of sea fish
+rana | 4 | a swelling on the tongue of animals
+rancidus | 1 | rancid
+rancidus | 3 | figuratively, disgusting, loathsome, offensive
+ranunculus | 1 | tadpole
+ranunculus | 3 | jocosely, transferred to marsh-dwelling people: a nickname for the inhabitants of Ulubrae
+ranunculus | 4 | as a plant, crowfoot, ranunculus
+rapax | 1 | rapacious
+rapax | 3 | of things, ravenous, all-consuming: ignis rapax, the ravenous fire; mors rapax, greedy death
+rapax | 4 | figuratively, with the genitive, eager to seize, avaricious: rapax virtutis, eager to seize on virtue
+rapidus | 1 | rapid
+rapidus | 3 | literally and rarely, tearing, seizing, ravenous: rapidae ferae, ravening beasts
+rapidus | 4 | figuratively, hasty, impetuous, vehement: rapidus in consiliis, over-hasty in his decisions
+rapina1 | 1 | plunder
+rapina1 | 3 | concretely, the prey or booty itself
+rapina1 | 4 | rarely, a gathering together, removal
+rapio | 1 | seize
+rapio | 2 | hurry
+rapio | 3 | to carry off by force, to abduct, ravish: raptae Sabinae, the abducted Sabine women
+rapio | 4 | to plunder, ravage, lay waste: rapere urbem, to sack a city
+rapio | 5 | to snatch away by death, to carry off prematurely: mors rapuit, death snatched him away
+rapio | 6 | figuratively, to carry away with passion, to captivate, enthrall
+rapio | 7 | to seize eagerly, to snatch: oscula rapere, to steal kisses
+raptim | 1 | hastily
+raptim | 3 | rarely, violently, greedily, rapaciously
+rapto | 1 | drag
+rapto | 3 | especially, to hurry or hasten something along: raptare iter, to hasten one's journey
+rapto | 4 | to ravage or plunder: raptare arces, to plunder strongholds
+rapto | 5 | figuratively, to hurry along with passion, to agitate, torment: raptat cura, care torments him
+raptor | 1 | plunderer
+raptor | 2 | abductor
+raptor | 3 | as an adjective, lupi raptores, ravening wolves
+raptor | 4 | figuratively, raptores alieni honoris, those who steal another's glory
+raptus2 | 1 | abduction
+raptus2 | 3 | generally, a carrying off by force, plundering
+raptus2 | 4 | rarely, a jerking or cramp in the limbs
+rapum | 1 | turnip
+rapum | 3 | transferred, a knob or lump formed at a tree's roots
+raresco | 1 | thin
+raresco | 3 | transferred, of a place, to grow empty, become depopulated
+raresco | 4 | figuratively, to grow feeble, die away, diminish: sonitus rarescit, the sound fades away
+raresco | 5 | of abstract qualities, to become rare, scarce: justitia rarescit, justice grows scarce
+raritas | 1 | rarity
+raritas | 3 | literally, looseness of texture, the state of not being dense: raritas pulmonum, the sponge-like looseness of the lungs
+raritas | 4 | concretely, a rarity, an uncommon thing
+rarus | 1 | rare
+rarus | 2 | sparse
+rarus | 3 | transferred, scattered, spread out, far apart: rari milites, soldiers spread out in loose order
+rarus | 4 | as an adverb (raro), seldom, rarely
+rarus | 5 | poetic, remarkable, extraordinary, uncommonly fine: rara puella, an extraordinary girl
+rasilis | 1 | polished
+rastrum | 1 | hoe
+rastrum | 3 | a toothed implement for breaking up soil, also called a mattock or rake
+rasura | 1 | scraping
+rasura | 3 | concretely, what is scraped or shaved off, shavings
+rasura | 4 | figuratively, a harsh, grating pronunciation, especially of guttural sounds
+ratio | 1 | reason
+ratio | 2 | account
+ratio | 3 | a method, plan, procedure, way of doing something: ratio belli gerendi, a method of waging war
+ratio | 4 | relation, respect, regard for something: rationem habere alicuius rei, to have regard for something
+ratio | 5 | a motive, ground, cause, reason for something: nulla ratione, for no reason at all
+ratio | 6 | a theory, system, or doctrine based on reasoning: ratio Stoicorum, the Stoic system
+ratio | 7 | rhetorically, an argument, a line of reasoning
+ratio | 8 | one's own interest or advantage: meae rationes, my interests
+ratiocinatio | 1 | reasoning
+ratiocinatio | 3 | in particular, a syllogism, a formal chain of reasoning
+ratiocinatio | 4 | in architecture, theory, as opposed to practical skill
+ratiocinativus | 1 | syllogistic
+ratiocinativus | 3 | in grammar, illative, expressing an inference: conjunctio ratiocinativa, an illative conjunction like ergo or igitur
+ratiocinator | 1 | accountant
+ratiocinor | 1 | calculate
+ratiocinor | 3 | transferred, to consider, deliberate, ponder something
+ratiocinor | 4 | to reason, argue, or infer from the circumstances
+rationabilis | 1 | reasonable
+rationalis | 1 | rational
+rationalis | 3 | of or belonging to accounts; as a noun (rationalis), an accountant or treasurer
+rationalis | 4 | as a noun (rationale), the oracular breastplate of the Jewish high priest
+rationalis | 5 | in rhetoric, syllogistic, relating to formal argument
+ratis | 1 | raft
+ratis | 3 | poetic, metonymy, a boat, ship, vessel in general
+ratiuncula | 1 | account
+ratiuncula | 3 | a slight or trivial reason, ground, or pretext
+ratiuncula | 4 | in dialectics, a petty or trifling syllogism
+raucus | 1 | hoarse
+raucus | 3 | transferred, of things, harsh, rough, grating, deep-sounding
+raucus | 4 | figuratively, of a rumor grown faint, dying away
+raudus | 1 | ingot
+raudus | 3 | in particular, a rough piece of bronze used as a form of money in early Rome
+raudusculum | 1 | pittance
+raudusculum | 3 | literally, a small piece of bronze used as coin
+raudusculum | 4 | transferred, a small sum of money, a trifling debt
+ravus2 | 1 | gray-yellow
+ravus2 | 3 | specifically, of the sea's color, between yellow and blue-gray: ravum mare, the tawny-gray sea at dawn
+re1 | 1 | back
+re1 | 3 | denoting opposition: reclamo, to cry out against; repugno, to fight back
+re1 | 4 | denoting restoration to an original state: reficio, to repair; restituo, to restore
+re1 | 5 | denoting a change into an opposite state: retracto, to retract; revelo, to unveil
+re1 | 6 | denoting repetition of an action: recoquo, to reheat; reviso, to revisit
+re1 | 7 | occasionally intensive: redundo, to overflow
+re3 | 1 | resist
+re3 | 3 | to stand still, halt, stop: resiste!, stop!
+re3 | 4 | to remain, stay behind, continue
+re3 | 5 | rarely, figuratively, to rise again, recover: post ex fluvio fortuna resistet, then fortune will rise again from the flood
+reapse | 1 | actually
+reatus | 1 | indictment
+reatus | 3 | metonymically, the charge or offence itself
+reatus | 4 | late Latin, figuratively, guilt: reatus sanguinis, the guilt of bloodshed
+rebellio1 | 1 | rebellion
+rebellis | 1 | rebellious
+rebellis | 3 | figuratively, rebellious, resistant: rebellis amor, unruly love
+rebello | 1 | rebel
+rebello | 3 | figuratively, of an ailment or vice, to break out again, recur
+rebello | 4 | to offer resistance: pudor rebellat, shame resists
+reboo | 1 | resound
+reboo | 3 | actively, to make something resound or echo
+recaleo | 1 | warm
+recaleo | 3 | figuratively, to remain vivid or warm in memory: recalebant in auribus parentis effata, his father's words still rang warm in his ears
+recalesco | 1 | warm
+recalesco | 3 | figuratively, to regain warmth or ardor: mens recalescit, the mind rekindles its enthusiasm
+recalfacio | 1 | rewarm
+recalfacio | 3 | figuratively, to rekindle, revive: recalfacere mentem, to rekindle someone's ardor
+recandesco | 1 | glow
+recandesco | 3 | also, to grow white again: percussa unda recanduit, the struck wave grew white with foam
+recandesco | 4 | figuratively, to blaze up, flare: recanduit ira, anger blazed up
+recano | 1 | sing back
+recano | 3 | to charm away, to undo a magic charm by chanting
+recanto | 1 | recant
+recanto | 3 | literally, to echo, sound back
+recanto | 4 | to repeat in singing, sing again
+recanto | 5 | to charm away, dispel by magic: recantatas curas, cares charmed away
+recedo | 1 | withdraw
+recedo | 3 | transferred, of places, to be distant, set back, recede: domus recessit, the house stood back, secluded
+recedo | 4 | to separate from something: caro ab ossibus recedit, the flesh comes away from the bones
+recedo | 5 | figuratively, to desist, depart from a course: a vera ratione recedere, to depart from sound reasoning
+recello | 1 | spring back
+recello | 3 | actively, to bend or throw something backward
+recens | 1 | fresh
+recens | 2 | vigorous
+recens | 3 | with ab, immediately after, fresh from: recens a partu, newly foaled or newly born
+recens | 4 | recenti re, while the matter is fresh, at once, immediately
+recens | 5 | as a noun (recentiores), the moderns, modern writers
+recens | 6 | as an adverb (recens), newly, freshly: recens natus, newborn
+recenseo | 1 | count
+recenseo | 3 | to review or muster: recensere exercitum, to review the troops
+recenseo | 4 | figuratively, to go over in thought or narration, to recount, review
+recensio | 1 | review
+receptaculum | 1 | receptacle
+receptaculum | 3 | in particular, a place of refuge, a shelter, a retreat: castra receptaculum, the camp as a refuge
+recepticius | 1 | reserved
+recepticius | 3 | in law, of property a wife retains as her exclusive possession when handing over her dowry
+receptio | 1 | reception
+receptio | 3 | in law, a reservation, a holding back: a clause reserving something in a sale
+recepto | 1 | retake
+receptor | 1 | harborer
+receptor | 3 | in a good sense, a host, one who shelters or receives guests
+receptor | 4 | a reconqueror: receptor Orientis, the reconqueror of the East
+receptus2 | 1 | retreat
+receptus2 | 3 | figuratively, a retraction, a taking back of a statement
+receptus2 | 4 | transferred, of the sea, the ebb: receptus et recursus maris, the ebb and flow of the sea
+receptus2 | 5 | figuratively, a reconciliation, a return to someone's favor: receptus ad gratiam, restoration to someone's good graces
+recessus2 | 1 | retreat
+recessus2 | 2 | recess
+recessus2 | 3 | figuratively, in rhetoric, a withdrawal or pause for effect: recessus in dicendo, a rhetorical pulling-back
+# review: recharmido is a nonce word coined by Plautus, a burlesque pun on the character name Charmides meaning "to stop being Charmides"; 'unmask' captures the sense of dropping an assumed identity, not a literal translation
+recharmido | 1 | unmask
+recharmido | 3 | literally, to stop being "Charmides," a burlesque coinage on the character's name in Plautus, meaning to drop an assumed identity
+recidivus | 1 | recurring
+recidivus | 3 | especially of an illness, relapsing: febris recidiva, a recurring fever
+recido1 | 1 | relapse
+recido1 | 3 | literally, to fall back down: recidere in terras, to fall back to earth
+recido1 | 4 | to sink or come down to some condition: ad ludum et lacrimas recidere, to fall from joy to tears
+recido2 | 1 | cut off
+recido2 | 3 | figuratively, to shorten, abridge, cut down: orationes recidere, to trim down speeches
+recingo | 1 | ungird
+recingo | 3 | rarely, to gird again, put a belt back on
+recino | 1 | resound
+recino | 3 | to recall or recant something
+reciperatio | 1 | recovery
+reciperatio | 3 | in law, the judicial decision of a board of recuperatores
+reciperator | 1 | recoverer
+reciperator | 3 | in law, as recuperatores, a panel of judges, three or five members, for summary trials, originally for cases between Romans and foreigners
+recipero | 1 | recover
+recipero | 3 | figuratively, to win back, regain: reciperare adulescentulos, to win the young men back over
+recipio | 1 | receive
+recipio | 2 | recover
+recipio | 3 | with se, to withdraw, retreat, betake oneself: se recipere, to retreat, to retire
+recipio | 4 | to undertake, take on a task or duty
+recipio | 5 | to promise, guarantee, pledge oneself, warrant something: fidem recipere, to pledge one's word
+recipio | 6 | militarily, to capture, seize, take possession of a place
+recipio | 7 | in business, to keep back, reserve, retain: recipere aliquid sibi, to reserve something for oneself
+recipio | 8 | recipe ferrum!, receive the death-blow!, the crowd's cry to a defeated gladiator
+reciprocatio | 1 | reciprocation
+reciprocatio | 3 | literally, an ebb, a going back the same way: reciprocatio aestus, the ebb of the tide
+reciproco | 1 | reciprocate
+reciproco | 3 | figuratively, in logic, to reverse or convert a proposition
+reciprocus | 1 | reciprocal
+reciprocus | 3 | in grammar, pronomen reciprocum, a reflexive pronoun such as se or sibi
+reciprocus | 4 | a verse that reads the same when its words are reversed, a kind of palindrome
+recitatio | 1 | recitation
+recitatio | 3 | specifically, the public reading aloud of documents in a legal proceeding
+recitatio | 4 | also, a public reading of one's own literary work to an audience
+recito | 1 | recite
+recito | 3 | specifically, to read a document aloud in a legal proceeding
+recito | 4 | to say from memory, to recite by heart
+reclamo | 1 | protest
+reclamo | 3 | poetic, to reverberate, echo back, resound
+reclamo | 4 | to call out to someone repeatedly
+reclinis | 1 | reclining
+reclinis | 3 | of things, projecting or tilted back: tabula reclinis, a slanted shelf or seat
+reclino | 1 | recline
+reclino | 3 | figuratively, to lean on, rest upon, be supported by: onus reclinare in aliquem, to let a burden rest on someone
+reclino | 4 | figuratively, to relieve, release from something: nullum me reclinat otium, no rest relieves me
+reclino | 5 | absolutely, to fall away, become disloyal, revolt
+recludo | 1 | open
+recludo | 3 | figuratively, to disclose, reveal, lay bare: ebrietas recludit, drunkenness reveals the truth
+recludo | 4 | rarely, in a reversed sense, to shut up, close off, confine
+recogito | 1 | reconsider
+recognitio | 1 | review
+recognitio | 3 | mutual acknowledgment, recognition between parties
+recognosco | 1 | recognize
+recognosco | 3 | to review, examine, inspect: recognoscere exercitum, to review the army
+recognosco | 4 | to examine a document for authenticity, to certify, authenticate
+recolligo | 1 | collect
+recolligo | 3 | figuratively, to regain, recover: vires recolligere, to regain one's strength
+recolligo | 4 | to be reconciled, to patch up a friendship
+recolo1 | 1 | cultivate
+recolo1 | 3 | to resume or practice again: artes recolere, to take up one's old skills again
+recolo1 | 4 | to think over, recall to mind, reflect upon: recolere sua facta, to reflect on one's deeds
+recolo1 | 5 | to contemplate, survey: recolens omnem numerum, surveying the whole number
+reconciliatio | 1 | reconciliation
+reconcilio | 1 | reconcile
+reconcilio | 3 | archaic, to bring back, restore: reconciliare aliquem domum, to bring someone back home
+recondo | 1 | hide
+recondo | 3 | to put back or away, to stow, store up: gladium recondere, to sheathe a sword
+recondo | 4 | as an adjective (reconditus), hidden, secret, remote: recondita Aegyptus, hidden, secluded Egypt
+recondo | 5 | as an adjective (reconditus), figuratively, profound, abstruse, recondite: litterae reconditae, abstruse learning
+reconduco | 1 | rehire
+reconduco | 3 | to bring back: reconducere copias, to bring back the troops
+recoquo | 1 | recast
+recoquo | 3 | literally, to boil or cook again: Peliam recoquere, to reboil Pelias, in the myth of restoring youth
+recoquo | 4 | transferred, to melt down and forge anew: enses recoquere, to reforge swords
+recoquo | 5 | figuratively, to remould, reshape: recoquere ingenium, to remould one's character
+recordatio | 1 | recollection
+recordor | 1 | remember
+recordor | 3 | rarely, to think of or ponder something yet to come: quae sum passura recordor, I dwell on what I am to suffer
+recreo | 1 | refresh
+recreo | 3 | rarely, to create anew, remake, restore: lumen recreare, to rekindle light
+recreo | 4 | in the middle voice, to recover, revive, regain one's strength: ex vulnere recreari, to recover from a wound
+recresco | 1 | regrow
+recrudesco | 1 | recrudesce
+recrudesco | 3 | literally, of a wound, to break open afresh
+recrudesco | 4 | figuratively, to break out again: recrudescit seditio, the revolt flares up again
+rector | 1 | ruler
+rector | 3 | literally, of a helmsman, a steersman, pilot
+rector | 4 | figuratively, a governor, guide: rector mundi, the ruler of the universe
+recubo | 1 | recline
+recumbo | 1 | lie down
+recumbo | 3 | especially, to recline at a meal, to take one's place at table
+recumbo | 4 | of things, to sink down, collapse: pons recumbit, the bridge sags down
+recuro | 1 | cure
+recuro | 3 | also, to take care of, prepare carefully: chartam recurare, to prepare paper carefully
+recurro | 1 | return
+recurro | 3 | figuratively, to recur, come round again: aequitas recurrit, the same fairness recurs
+recurro | 4 | rarely, to have recourse to, resort to something: ad rationem recurrere, to resort to an argument
+recurso | 1 | return
+recurso | 3 | figuratively, to keep recurring to the mind: cura recursat, worry keeps coming back
+recursus | 1 | return
+recursus | 3 | of vision, the ability to reflect or bring back an image: acies non habet recursum, the sight cannot form a reflection
+recursus | 4 | in law, recourse: recursus ad judicem, recourse to a judge
+recurvo | 1 | curve
+recurvus | 1 | curved
+recusatio | 1 | refusal
+recusatio | 3 | in law, a formal objection or protest
+recusatio | 4 | in law, a plea or defense against a charge, as opposed to the accuser's petitio
+recuso | 1 | refuse
+recuso | 3 | in law, to object, take exception, or plead in one's defense against a charge
+recuso | 4 | rarely, to refute, disprove: nativitatis mendacium recusare, to disprove the lie about his birth
+recutio | 1 | rebound
+redamo | 1 | love back
+redarguo | 1 | refute
+redarguo | 3 | with the genitive, to convict of, prove guilty of something: redarguere ignorantiae, to convict of ignorance
+redditio | 1 | return
+redditio | 3 | rationis redditio, the giving of a reason or account
+redditio | 4 | in rhetoric and grammar, the apodosis, the answering clause of a conditional sentence
+reddo | 1 | return
+reddo | 2 | render
+reddo | 3 | to give up, deliver, hand over, grant, pay, yield: reddere epistulam, to deliver a letter
+reddo | 4 | to translate: verbum pro verbo reddere, to translate word for word
+reddo | 5 | to repeat, recite, narrate: reddere quae cogitaverat, to recite what he had thought out
+reddo | 6 | to answer, reply, poetic: talia reddit, thus he replied
+reddo | 7 | to represent, resemble, express: reddere facies hominum, to represent people's faces
+reddo | 8 | legally, judicium reddere, to grant a trial; jus reddere, to administer justice
+redemptio | 1 | ransom
+redemptio | 3 | of a court, bribery, corrupting jurors
+redemptio | 4 | a farming or contracting of public revenue
+redemptio | 5 | in ecclesiastical Latin, redemption from sin
+redemptor | 1 | contractor
+redemptor | 3 | in law, one who pays off a debtor's creditor, thereby taking over the claim
+redemptor | 4 | in ecclesiastical Latin, the Redeemer, Christ as savior from sin
+redeo | 1 | return
+redeo | 3 | to return to a former subject in speaking or writing: ad rem redire, to get back to the point
+redeo | 4 | of revenue, to come in, accrue: fructus ex fundo redit, income comes in from the estate
+redeo | 5 | to be reduced to, come down to, resort to some condition: ad gladios redire, to resort to swords; ad incitas redire, to be brought to a standstill
+redhibeo | 1 | return
+redhibeo | 3 | mercantile term, of a seller, to take back defective merchandise from a buyer, to refund
+redigo | 1 | reduce
+redigo | 2 | collect
+redigo | 3 | to bring back, restore to a former condition: redigere ad pristinam rationem, to restore to the old order
+redigo | 4 | to bring to a certain state or condition, to render: redigere in servitutem, to reduce to slavery
+redigo | 5 | to diminish in number or extent: familiam ad paucos redactam, the household reduced to a few
+redimiculum | 1 | fillet
+redimiculum | 3 | also, a girdle or sash
+redimiculum | 4 | figuratively, a bond, fetter, restraint
+redimio | 1 | wreathe
+redimio | 3 | to bind or wrap something around: mitra redimire capillos, to bind the hair with a headband
+redimo | 1 | ransom
+redimo | 2 | repurchase
+redimo | 3 | to bribe or hire someone: auditores redempti, a bribed audience
+redimo | 4 | to take on contract, to farm out or lease: vectigalia redempta, tax revenues taken on contract
+redimo | 5 | figuratively, to avert or ward off an evil: acerbitatem redimere, to avert a hardship
+redimo | 6 | to atone for, make amends for a wrong: flagitium redimere, to atone for a disgraceful act
+redintegro | 1 | restore
+reditio | 1 | return
+reditus | 1 | return
+reditus | 2 | revenue
+reditus | 3 | figuratively, a reconciliation: reditus in gratiam, a return to favor
+reditus | 4 | a return to a subject in discourse: reditus ad rem, getting back to the point
+redivivus | 1 | renewed
+redivivus | 3 | rarely, late Latin, living again, come back to life: Christus redivivus, Christ risen again
+redivivus | 4 | specifically, of old building material reused as if new: redivivus lapis, recycled stone
+redoleo | 1 | smell of
+redoleo | 3 | figuratively, to smack of, savor of, show traces of: orationes redolentes antiquitatem, speeches redolent of a bygone age
+reduco | 1 | bring back
+reduco | 3 | in particular, reducere domum, to escort someone home
+reduco | 4 | militarily, to withdraw or draw off troops: exercitum reducere, to withdraw the army
+reduco | 5 | figuratively, to restore, bring back to a former state: in gratiam reducere, to restore to favor
+reduco | 6 | as an adjective (reductus), withdrawn, remote, secluded: sinus reductus, a secluded bay
+reduco | 7 | figuratively, as an adjective, removed from extremes, moderate: virtus est medium et utrimque reductum, virtue is a mean, withdrawn from both extremes
+reductio | 1 | restoration
+redundantia | 1 | excess
+redundantia | 3 | specifically, of language or style, redundancy, excessive wordiness
+redundo | 1 | overflow
+redundo | 3 | transferred, with the ablative, to be overflowing with something: sanguine redundare, to run with blood
+redundo | 4 | figuratively, to abound, be copious, superabound: ingenium redundat, his talent overflows
+redundo | 5 | to be in excess, to be redundant or superfluous
+redux | 1 | returning
+redux | 3 | actively, that leads safely back home, an epithet of gods: Juppiter redux, Jupiter who brings travelers home safely
+refectio | 1 | repair
+refectio | 3 | figuratively, refreshment, recovery, recuperation
+refello | 1 | refute
+refercio | 1 | stuff
+refercio | 3 | figuratively, to cram or fill something to overflowing: aures refercire sermonibus, to stuff someone's ears with talk
+refercio | 4 | as an adjective (refertus), crammed full, packed, teeming with: referta divitiis, teeming with riches
+referio | 1 | strike back
+refero | 1 | report
+refero | 2 | return
+refero | 3 | referre pedem or gradum, militarily, to retreat, fall back
+refero | 4 | to repay, give back what is owed: par pari referre, to repay like for like
+refero | 5 | to bring formally before the Senate for debate: referre ad senatum, to put a motion to the Senate
+refero | 6 | to trace back or ascribe something to a cause: referre aliquid ad voluptatem, to attribute everything to pleasure
+refero | 7 | to record, note down, register in writing: referre in tabulas, to enter into the public records
+refero | 8 | to reply, answer, rejoin: quid ad haec refers?, what do you say to this?
+refert | 1 | matters
+refert | 3 | with the genitive of value, magni, parvi, or nihil refert, it matters a great deal, a little, or not at all
+refert | 4 | with a possessive, meā, tuā, or suā refert, it is my, your, or his concern
+reficio | 1 | repair
+reficio | 2 | refresh
+reficio | 3 | politically, reficere consulem, to re-elect someone to office
+reficio | 4 | economically, to recoup, get back as a return on investment
+reficio | 5 | of the body or mind, to restore, reinvigorate, revive: exercitum ex labore reficere, to let the army recover from exertion
+refigo | 1 | unfasten
+refigo | 3 | transferred, to annul or abrogate a law: leges refigere, to repeal laws, literally to take down the bronze tablets they were posted on
+reflatus | 1 | headwind
+reflatus | 3 | figuratively, a reaction, a counter-blast
+reflecto | 1 | turn back
+reflecto | 3 | figuratively, to turn someone's resolve or course back: animum reflectere, to turn back one's anger
+reflecto | 4 | intransitively, of an illness, to abate, yield, subside
+reflo | 1 | blow back
+reflo | 3 | figuratively, of fortune, to turn unfavorable: cum reflavit fortuna, when fortune turns against us
+reflo | 4 | actively, to breathe out, exhale: aer reflatur, the air is breathed out
+refluo | 1 | flow back
+refluus | 1 | refluent
+reformido | 1 | dread
+reformo | 1 | transform
+reformo | 2 | reform
+reformo | 3 | to restore, re-establish: pacem reformare, to restore peace
+refoveo | 1 | revive
+refoveo | 3 | literally, to warm again, to cherish: corpus refovere, to warm the body back to life
+refragor | 1 | oppose
+refragor | 3 | specifically, politically, to vote against or thwart a candidate's bid for office
+refreno | 1 | curb
+refrico | 1 | reopen
+refrico | 3 | figuratively, to reopen a memory, to stir up again: memoriam refricare, to revive a memory
+refrico | 4 | intransitively, of an ailment, to recur, break out again
+refrigero | 1 | cool
+refrigero | 3 | figuratively, to lose warmth or enthusiasm, to grow languid, flag: accusatio refrigerata, a prosecution that has lost its steam
+refrigesco | 1 | cool
+refrigesco | 3 | figuratively, of enthusiasm or a case, to grow stale, lose momentum, flag
+refringo | 1 | break open
+refringo | 3 | figuratively, to break down, weaken, destroy: vim fluminis refringere, to break the force of a river
+refugio | 1 | flee
+refugio | 2 | shun
+refugio | 3 | pregnantly, to take refuge, flee for shelter: refugere ad legatos, to take refuge with the envoys
+refugio | 4 | of places, to recede, appear to draw back into the distance: templum refugit ab litore, the temple recedes from the shore
+refugium | 1 | refuge
+refugus | 1 | receding
+refulgeo | 1 | gleam
+refulgeo | 3 | figuratively, of fame, hope, or glory, to shine forth: spes refulsit, hope shone forth
+refundo | 1 | pour back
+refundo | 3 | transferred, of solid things, to throw back, fling back: refunditur alga, seaweed is flung back by the waves
+refundo | 4 | figuratively, to pour forth, shed: fletu ora refuso, with tears streaming down the face
+refuto | 1 | refute
+refuto | 3 | literally, to check, drive back, repel: nationes refutandae, peoples to be driven back
+refuto | 4 | to resist, oppose, restrain: cupiditatem refutare, to resist a desire
+regalis | 1 | royal
+regalis | 3 | transferred, worthy of a king, splendid, magnificent: regalis luxus, royal extravagance
+regalis | 4 | in a bad sense, as an adverb (regaliter), despotically, domineeringly
+regelo | 1 | thaw
+regelo | 3 | rarely, in the opposite sense, to air out, cool off: granaria regelare, to air out the granaries
+regenero | 1 | regenerate
+regenero | 3 | transferred, to resemble a forebear, to reproduce a likeness: avum regeneravit, he was the image of his grandfather
+regero | 1 | carry back
+regero | 3 | transferred, of writing, to enter, record, transcribe: regerere in commentarios, to enter into one's notebooks
+regero | 4 | figuratively, to retort, throw back: convicia regerere, to hurl back insults
+regestum1 | 1 | spoil
+regestum1 | 3 | late Latin, a written register, list, or catalogue
+regificus | 1 | sumptuous
+regimen | 1 | guidance
+regimen | 2 | government
+regimen | 3 | poetic, concretely, a rudder: regimen carinae, the ship's rudder
+regimen | 4 | concretely, a ruler, governor: regimen rerum, the ruler of the state
+regina | 1 | queen
+regina | 3 | transferred, a goddess: regina Juno, Queen Juno
+regina | 4 | a princess, a king's daughter
+regina | 5 | figuratively, a leading or foremost thing, a mistress: justitia regina virtutum, justice, the queen of the virtues
+regio | 1 | region
+regio | 3 | a boundary or limit: regionibus terminari, to be bounded by limits
+regio | 4 | e regione, as an adverb, in a straight line, directly, or opposite, over against
+regio | 5 | figuratively, a province, department, sphere of activity: regio astutiarum, the sphere of one's tricks
+regius | 1 | royal
+regius | 3 | as a noun (regia), a royal palace; in particular, the Regia, Numa's former residence on the Sacred Way, later used for priestly rites
+regius | 4 | as a noun (regia), the royal tent in a military camp, or the royal court and family
+regius | 5 | figuratively, royal, splendid, magnificent, distinguished
+regnator | 1 | ruler
+regno | 1 | reign
+regno | 3 | generally, to hold sway, dominate, be supreme in some sphere: regnare in judiciis, to hold sway in the courts
+regno | 4 | figuratively, of a style or quality, to prevail, predominate: oratio regnat, the emotional style predominates
+regnum | 1 | kingship
+regnum | 2 | kingdom
+regnum | 3 | in a bad sense, despotism, tyranny, one-man rule, a term of reproach at Rome
+regnum | 4 | transferred, any territory one controls, one's own domain: in tuo regno, on your own turf
+rego | 1 | guide
+rego | 2 | govern
+rego | 3 | to correct or set right someone who has erred: errantem regere, to set a wandering person right
+rego | 4 | as a noun (regens), a ruler, governor, prince
+rego | 5 | as an adjective (rectus), straight, upright, in a straight line
+rego | 6 | as an adjective (rectus), figuratively, right, correct, proper, fitting
+rego | 7 | as an adjective (rectus), morally right, virtuous, just; as a noun (rectum), virtue, uprightness
+rego | 8 | in grammar, rectus casus, the nominative case
+rego | 9 | as an adverb (recte), rightly, correctly, well; also as a colloquial reply, "all right!", "fine!"
+regrado | 1 | demote
+regrado | 3 | rarely, to restore to a former arrangement, to rearrange as before
+regredior | 1 | retreat
+regredior | 3 | figuratively, to go back in argument or time: in illum annum regredietur, he will go back to that year
+regredior | 4 | in law, to have recourse to someone: ad venditorem regredi, to have recourse to the seller
+regressio | 1 | retreat
+regressio | 3 | in rhetoric, a figure of repetition, epanodos, returning to a previous word or idea
+regressus2 | 1 | retreat
+regressus2 | 3 | figuratively, a chance to reconsider, a way back from a decision: nullus regressus ab ira, no going back once angry
+regressus2 | 4 | in law, a remedy, recourse: regressus adversus venditorem, recourse against the seller
+regula | 1 | ruler
+regula | 2 | rule
+regula | 3 | transferred, a straight bar, rod, or lath of wood or metal
+regularis | 1 | regular
+regularis | 3 | literally, of or belonging to a bar: aes regulare, metal that can be cast into bars
+regulus1 | 1 | chieftain
+regulus1 | 3 | transferred, a king's son, a young prince
+regulus1 | 4 | transferred, a small bird, the kinglet
+regulus1 | 5 | rarely, a kind of serpent, the basilisk
+regusto | 1 | retaste
+regusto | 3 | figuratively, to read over again, to reperuse: regustare litteras, to read a letter again
+reicio | 1 | reject
+reicio | 2 | repel
+reicio | 3 | legally, judices reicere, to challenge and set aside jurors
+reicio | 4 | to refer or remand a matter to another authority: reicere ad senatum, to refer to the Senate
+reicio | 5 | to postpone, defer to a later time: in mensem reicere, to put off to next month
+reiculus | 1 | worthless
+reiculus | 3 | figuratively, wasted, spent uselessly: dies reiculus, a wasted day
+rejectaneus | 1 | rejectable
+rejectaneus | 3 | as a Stoic philosophical term coined by Cicero, translating the Greek apoproegmena, things to be set aside though not truly evil
+rejectio | 1 | rejection
+rejectio | 3 | in law, the challenging and rejection of a juror
+rejectio | 4 | in rhetoric, the shifting of blame onto someone else
+relabor | 1 | slide back
+relabor | 3 | figuratively, to relapse, fall back into a former state: in vitia relabi, to relapse into old faults
+relanguesco | 1 | grow faint
+relanguesco | 3 | transferred, of wind, to slacken and die down; of a star, to grow dim
+relanguesco | 4 | figuratively, to lose vigor, grow slack, relax: virtus relanguescit, courage grows slack
+relatio | 1 | report
+relatio | 2 | relation
+relatio | 3 | legally, a retorting of a charge, a counter-accusation: relatio criminis, turning a charge back on the accuser
+relatio | 4 | politically, a motion or proposal brought before the Senate
+relativus | 1 | relative
+relativus | 3 | in grammar, pronomen relativum, a relative pronoun
+relator | 1 | proposer
+relator | 3 | generally, a narrator, one who relates a story
+relator | 4 | relator auctionum, a recorder of public auctions
+relaxatio | 1 | relaxation
+relaxo | 1 | relax
+relaxo | 3 | literally, to loosen or slacken something physical: alvus relaxatur, the bowels loosen
+relego1 | 1 | banish
+relego1 | 3 | figuratively, to put aside, reject: dona relegare, to send back gifts, reject them
+relego1 | 4 | to attribute or ascribe something to a source: ad auctores relegare, to refer to one's sources
+relego1 | 5 | in law, to bequeath as a legacy: usum fructum relegare, to bequeath a usufruct
+relego2 | 1 | reread
+relego2 | 3 | literally, to gather up again: filum relectum, the thread wound back up
+relego2 | 4 | of a journey, to travel over or sail through again: litora relegere, to sail along the coast again
+relevatio | 1 | relief
+relevatio | 3 | rarely, in medicine, scum or froth on urine
+relevo | 1 | relieve
+relevo | 3 | literally, to lift up, raise: relevare caput, to lift up one's head
+relevo | 4 | to lighten a physical load: epistulam relevare, to make a letter's weight lighter, easier to bear by reading it
+relictio | 1 | abandonment
+relido | 1 | strike back
+relido | 3 | figuratively, to refuse, reject: infirmata relidunt, they reject what is unproven
+religio | 1 | religion
+religio | 2 | scruple
+religio | 3 | the obligation of an oath, sworn good faith: religio jurisjurandi, the sanctity of an oath
+religio | 4 | the sanctity or holiness inherent in a sacred object, place, or being
+religio | 5 | concretely, a sacred object or place, an object of religious veneration
+religio | 6 | late Latin, a system of religious belief, a religion: religio Christiana, Christianity
+religiosus | 1 | religious
+religiosus | 2 | scrupulous
+religiosus | 3 | of objects, holy, sacred, hallowed: templum religiosum, a sacred temple
+religiosus | 4 | dies religiosus, an unlucky or ill-omened day
+religiosus | 5 | as an adverb (religiose), scrupulously, conscientiously, exactly
+religo | 1 | bind fast
+religo | 3 | nautically, to moor a ship to the shore
+religo | 4 | rarely, in the opposite sense, to unbind, untie: religare juga, to loosen the yoke-straps
+relino | 1 | unseal
+relinquo | 1 | leave
+relinquo | 2 | abandon
+relinquo | 3 | to bequeath, leave behind at death: filiam relinquere, to leave behind a daughter as heir
+relinquo | 4 | to leave undone, omit, neglect: nihil reliqui facere, to leave nothing undone
+reliquiae | 1 | remains
+reliquiae | 3 | specifically, the ashes or remains of a cremated body
+reliquiae | 4 | leftover food, scraps
+# review: reliquor 'be in arrears' kept at three words; 'owe' alone loses the technical sense of an outstanding balance left after an accounting
+reliquor | 1 | be in arrears
+reliquor | 3 | to owe an outstanding balance, especially from public office or a contract
+reliquus | 1 | remaining
+reliquus | 3 | reliquum est, ut, it remains that, the next thing is that
+reliquus | 4 | of time, future, still to come: reliqua vita, the rest of one's life
+reliquus | 5 | of debts, outstanding, in arrears
+reliquus | 6 | transferred, as a noun, the rest, the remainder, the others: reliqui, the rest of them
+reluceo | 1 | shine forth
+relucesco | 1 | brighten
+reluctor | 1 | resist
+reluctor | 3 | figuratively, to be reluctant, unwilling, averse to something
+remaneo | 1 | remain
+remedium | 1 | remedy
+remedium | 3 | specifically, a protective charm or amulet
+remeligo | 1 | dawdler
+remeo | 1 | return
+remeo | 3 | in particular, poetic, to return home victorious, in triumph
+remetior | 1 | remeasure
+remetior | 3 | transferred, to travel back over the same route: iter remetiri, to retrace one's journey
+remetior | 4 | figuratively, to go over again in one's mind, to reflect upon, recall: facta remetiri, to review one's deeds
+remex | 1 | rower
+remex | 3 | collectively, the crew of oarsmen, the ship's rowing complement
+remigium | 1 | rowing
+remigium | 3 | metonymically, the oars of a ship
+remigium | 4 | poetic, of birds, the beating of wings, as if oars: remigium alarum, the oarage of wings
+remigium | 5 | collectively, the crew of oarsmen
+remigo | 1 | row
+remigro | 1 | return
+remigro | 3 | figuratively, to return to a subject, principle, or state: ad justitiam remigrare, to return to justice
+reminiscor | 1 | remember
+reminiscor | 3 | to call to mind, imagine, conceive of something
+remisceo | 1 | remix
+remissio | 1 | remission
+remissio | 2 | relaxation
+remissio | 3 | mildness, gentleness, leniency of character or treatment
+remissio | 4 | ecclesiastical Latin, the forgiveness of sin
+remissio | 5 | rarely, a repetition: nova ludorum remissio, a fresh round of games
+remissivus | 1 | laxative
+remissivus | 3 | in grammar, remissive, describing adverbs of gradual or moderated degree, like paulatim, "little by little"
+remitto | 1 | release
+remitto | 2 | forgive
+remitto | 3 | to send back, return, restore: remittere pecuniam, to send back money
+remitto | 4 | to slacken or ease something strained: arcum remittere, to unstring or relax a bow
+remitto | 5 | with se, to relax, ease off, recover: remittere se, to relax, unwind
+remitto | 6 | as an adjective (remissus), mild, gentle, indulgent, cheerful
+remitto | 7 | as an adjective (remissus), slack, negligent, remiss
+remolior | 1 | push back
+remolior | 3 | to take up again: arma remoliri, to take up arms once more
+remollesco | 1 | soften
+remollesco | 3 | figuratively, to be moved or touched, to relent: numina remollescunt, the gods' will is softened
+remollio | 1 | soften
+remora1 | 1 | delay
+remordeo | 1 | gnaw
+remordeo | 3 | specifically, of conscience or guilt, to torment, prick, trouble: peccata remordent, sins gnaw at the conscience
+remoror | 1 | delay
+remoror | 3 | intransitively, to linger, tarry, loiter oneself
+remotio | 1 | removal
+remotio | 3 | in rhetoric, the shifting of a charge onto another person or cause
+removeo | 1 | remove
+removeo | 2 | distant
+removeo | 3 | to deduct or subtract: si uncia remota est, if a twelfth is subtracted
+removeo | 4 | figuratively, as an adjective (remotus), free from, unconnected with, foreign to something: genus remotum a civilibus causis, a kind unconnected with civil cases
+remugio | 1 | bellow back
+remulceo | 1 | soothe
+remulceo | 3 | literally, to stroke or smooth back: caudam remulcere, to droop the tail
+remuneratio | 1 | reward
+remuneror | 1 | reward
+remus1 | 1 | oar
+remus1 | 3 | poetic, transferred to a bird's wings, or a swimmer's limbs
+renascor | 1 | revive
+renascor | 3 | literally, to be born again, to spring up anew: urbs renata, the city risen again from ruin
+renascor | 4 | ecclesiastical Latin, to be born again, spiritually reborn
+renes | 1 | kidneys
+renes | 3 | the loins
+renes | 4 | figuratively, in ecclesiastical Latin, the seat of the emotions, the inmost feelings
+renideo | 1 | glisten
+renideo | 3 | figuratively, to beam with joy, to be cheerful, glad
+renideo | 4 | transferred, to smile, laugh: renidens, smiling
+renitor | 1 | resist
+reno | 1 | swim back
+reno | 3 | as a noun (reno or rheno), a reindeer-skin garment worn by the ancient Germans, a fur cloak
+renodo | 1 | tie back
+renodo | 3 | rarely, in the opposite sense, to untie, loosen: renodata pharetris, freed from the quiver-straps
+renovatio | 1 | renewal
+renovatio | 3 | in business, the renewal of interest on a debt, compound interest
+renovo | 1 | renew
+renovo | 3 | to repeat in words, say again: renovare illud quod dixi, to repeat what I said
+renovo | 4 | to restore in strength, refresh, revive: quies renovavit corpora, rest restored their bodies
+renuntiatio | 1 | announcement
+renuntiatio | 3 | specifically, formal notice terminating an agreement or partnership
+renuntio | 1 | announce
+renuntio | 2 | renounce
+renuntio | 3 | politically, to officially declare the result of an election: renuntiari consulem, to be declared elected consul
+renuntio | 4 | renuntiare sibi, to reflect, take stock, remind oneself
+renuo | 1 | decline
+reor | 1 | think
+reor | 2 | ratify
+reor | 3 | pro rata parte, or simply pro rata, proportionally, in proportion
+reor | 4 | as an adjective (ratus), fixed, settled, valid, confirmed
+repagula | 1 | bolts
+repagula | 3 | figuratively, restraints, limits, barriers: repagula juris, the barriers of law
+repandus | 1 | turned up
+reparabilis | 1 | reparable
+reparabilis | 3 | late Latin, always ready, quick to rally or recover: gentis motus reparabiles, a people's ever-renewable unrest
+reparco | 1 | spare
+reparo | 1 | restore
+reparo | 3 | mercantile, to acquire by exchange, to purchase with something: vina merce reparata, wine bought with goods
+reparo | 4 | of a loss or damage, to make good, repair: damna reparare, to make good one's losses
+repastino | 1 | dig again
+repastino | 3 | figuratively, to check or restrain: usum divitiarum repastinare, to curb the use of riches
+repedo | 1 | retreat
+repello | 1 | repel
+repello | 3 | figuratively, to exclude or bar from something, to defeat: repelli a consulatu, to be defeated in the race for the consulship
+rependo | 1 | repay
+rependo | 3 | literally, to weigh back, to return something by weight: aurum pro capite rependere, to pay gold equal in weight to a severed head
+rependo | 4 | figuratively, to weigh in the mind, ponder, consider
+repens2 | 1 | sudden
+repens2 | 3 | transferred, in Tacitus, recent, new, as opposed to long-standing: causa repens, a recent cause
+repens2 | 4 | as an adverb (repente), suddenly, all at once
+repenso | 1 | counterbalance
+repentinus | 1 | sudden
+repercussus2 | 1 | repercussion
+repercussus2 | 3 | specifically, an echo of sound, or a reflection of light
+repercutio | 1 | reflect
+repercutio | 3 | figuratively, to retort, cast back, repel an argument: repercutere aliena, to rebut others' points
+reperio | 1 | find
+reperio | 2 | invent
+reperio | 3 | with a double predicate, to find or discover something to be a certain way: reperi eos inimicos, I found them to be enemies
+repertor | 1 | inventor
+repetitio | 1 | repetition
+repetitio | 3 | in law, a formal demand for the return of something
+repetitio | 4 | in rhetoric, anaphora, the repetition of a word at the start of successive clauses
+repeto | 1 | repeat
+repeto | 2 | reclaim
+repeto | 3 | to attack again, strike anew: regem repetitum cuspide, having struck the king again with a spear
+repeto | 4 | to return to, revisit a place: patriam repetere, to return to one's homeland
+repeto | 5 | to recall to mind, remember: repetere memoria, to call something to mind
+repeto | 6 | legally, res repetere, to reclaim one's property in court; pecuniae repetundae, money extorted by a governor, subject to recovery
+repigro | 1 | retard
+repleo | 1 | fill
+repleo | 3 | figuratively, to make up for, supply what is lacking: quod voci deerat plangore replebam, I made up with wailing for what my voice lacked
+replicatio | 1 | unrolling
+replicatio | 3 | in law, a plaintiff's reply to a defendant's plea, a replication
+replicatio | 4 | in rhetoric, anadiplosis, the repetition of a word at the end of one clause and the start of the next
+replico | 1 | unroll
+replico | 2 | reply
+replico | 3 | figuratively, to turn over in the mind, to ponder, reflect upon, go over again: haec identidem replicare, to turn this over again and again
+repo | 1 | creep
+repo | 3 | figuratively, of style, to be low, plain, pedestrian: sermo repens per humum, speech that creeps along the ground
+repono | 1 | replace
+repono | 2 | store
+repono | 3 | to repay, requite, return: injuriam reponere, to repay a wrong
+repono | 4 | to substitute one thing for another: pro Eupoli Aristophanem reponere, to substitute Aristophanes for Eupolis
+repono | 5 | as an adjective (repositus or repostus), remote, distant: gentes repostae, far-off peoples
+reporto | 1 | bring back
+reporto | 3 | especially, as a victor, to carry off, win, gain: victoriam reportare, to win a victory
+reporto | 4 | to bring back a report or message: dicta tristia reportare, to bring back sad news
+reposco1 | 1 | reclaim
+reposco1 | 3 | figuratively, to claim or require as one's due: quod natura reposcit, what nature demands
+repositorium | 1 | tray
+repositorium | 3 | also, a repository, cabinet, storage case
+repotia | 1 | after-drinking
+repotia | 3 | specifically, the celebratory drinking held on the day after a wedding, birth, or similar feast
+repraesentatio | 1 | representation
+repraesentatio | 3 | in commerce, a cash payment, payment in full immediately
+repraesento | 1 | represent
+repraesento | 3 | in commerce, to pay immediately, to pay in cash on the spot
+repraesento | 4 | generally, to do or perform something at once, without delay: repraesentare consilium, to carry out a plan immediately
+reprehendo | 1 | reprehend
+reprehendo | 3 | literally and rarely, to seize, catch, take hold of: reprehendere pallio, to catch someone by the cloak
+reprehendo | 4 | in rhetoric, to refute an argument
+reprehensio | 1 | reprimand
+reprehensio | 3 | transferred, a fault, the thing blamed itself
+reprehensio | 4 | in rhetoric, a refutation
+reprimo | 1 | repress
+reprimo | 3 | literally, of water, to hold back, dam up: amnem reprimere, to check a river's flow
+reprobo | 1 | reject
+repromitto | 1 | promise back
+repromitto | 3 | to promise again, renew a promise
+repto | 1 | crawl
+repudio | 1 | divorce
+repudio | 2 | reject
+repudio | 3 | legally, to refuse or decline an inheritance: hereditatem repudiare, to decline an inheritance
+repudium | 1 | divorce
+repuerasco | 1 | become childish
+repugnantia1 | 1 | inconsistency
+repugnantia1 | 3 | concretely, a means of defense or resistance: apibus data repugnantia, a means of defense given to bees, that is, the sting
+repugno | 1 | resist
+repugno | 3 | to speak against, object to a proposal: Brutus repugnaverat, Brutus had spoken against it
+repugno | 4 | of ideas or facts, to be inconsistent, contradictory, incompatible with one another
+repulsa | 1 | rejection
+repulsa | 3 | specifically, political defeat in seeking office: repulsam ferre, to be defeated at the polls
+repulso | 1 | repel repeatedly
+repulso | 3 | transferred, of an echo, to reverberate, echo back: colles verba repulsantes, hills echoing back the words
+repulsus2 | 1 | rebound
+repurgo | 1 | clean again
+repurgo | 3 | transferred, to purge away, to remove for the sake of cleaning
+reputatio | 1 | reflection
+reputatio | 3 | literally, a reckoning, calculation, computation
+reputo | 1 | ponder
+reputo | 3 | literally, to count over, calculate, reckon: solis defectiones reputare, to calculate eclipses of the sun
+reputo | 4 | late Latin, to impute, ascribe, credit: reputatum est ei ad justitiam, it was credited to him as righteousness
+requies | 1 | rest
+requies | 3 | poetic, a place of rest, a resting place: requies laborum, a resting place from toils
+requiesco | 1 | rest
+requiesco | 3 | especially, of the dead, to rest, lie at peace in the grave: requiescat in pace, may he rest in peace
+requiesco | 4 | figuratively, to find rest, take comfort, be consoled: animus requievit, the mind found rest
+requiesco | 5 | as an adjective (requietus), rested, refreshed; also, of food, stale, no longer fresh
+requiro | 1 | require
+requiro | 2 | ask
+requiro | 3 | to miss, feel the absence of, look in vain for: veterem consuetudinem requirunt, they miss the old custom
+res | 1 | thing
+res | 2 | property
+res | 3 | reality, fact, the actual state of things, as opposed to mere talk or appearance: re vera, in fact, in reality
+res | 4 | an affair, business matter: rem transigere, to settle a matter
+res | 5 | a lawsuit, legal case
+res | 6 | military operations, a campaign: res gerere, to conduct a campaign
+res | 7 | res publica, the commonwealth, the state, public affairs
+res | 8 | res novae, a revolution, political upheaval
+resarcio | 1 | mend
+resarcio | 3 | figuratively, to make good, compensate for a loss: damnum resarcire, to make up for a loss
+rescindo | 1 | rescind
+rescindo | 3 | literally, to cut down or break apart: pontem rescindere, to break down a bridge
+rescindo | 4 | to cut open, lay bare: vitia latentia rescindere, to lay bare hidden faults
+rescisco | 1 | discover
+rescribo | 1 | write back
+rescribo | 3 | politically and legally, of an emperor or jurist, to issue a written ruling, a rescript
+rescribo | 4 | in accounts, to credit, repay: argentum rescribi, to have money repaid
+rescribo | 5 | militarily, to re-enlist, or to transfer between units
+reseco | 1 | cut off
+reseco | 3 | figuratively, to curtail, restrain, check: nimia resecari oportet, excess ought to be pared away
+resecro | 1 | implore
+resecro | 3 | rarely, to release someone from a curse or religious obligation
+resequor | 1 | reply
+resero2 | 1 | unlock
+resero2 | 3 | figuratively, to disclose, reveal something hidden or unknown: oracula mentis reserare, to unlock the oracles of the mind
+reservo | 1 | reserve
+reservo | 3 | rarely, to save from destruction, to preserve, spare: aliquem reservare, to spare someone's life
+reses | 1 | idle
+resideo | 1 | reside
+resideo | 3 | figuratively, to remain, be left behind: nihil residet, nothing remains
+resideo | 4 | rarely, to sit inactive, idle, listless
+resido | 1 | settle
+resido | 3 | figuratively, of winds or emotions, to abate, calm down, subside: ira resedit, anger subsided
+residuus | 1 | residual
+residuus | 3 | in business, of a debt, outstanding, due: pecuniae residuae, outstanding sums
+resigno | 1 | unseal
+resigno | 2 | annul
+resigno | 3 | poetic, to disclose, reveal: venientia fata resignare, to reveal what fate holds
+resigno | 4 | ante-classical, to transfer or assign an entry in accounts
+resilio | 1 | rebound
+resilio | 3 | figuratively, to shrink back from, recoil from: crimen resilit, the charge recoils, fails to stick
+resipio | 1 | taste of
+resipio | 3 | figuratively, to smack of, be reminiscent of: stilum Plautinum resipere, to smack of Plautus's style
+resipisco | 1 | recover
+resipisco | 3 | specifically, to come to one's senses, recover from folly or error, repent
+resolutio | 1 | loosening
+resolutio | 3 | medically, a weakness or slackness of the limbs or bowels
+resolutio | 4 | figuratively, the cancellation of a contract or sale
+resolutio | 5 | a solution to a problem or riddle
+resolvo | 1 | untie
+resolvo | 2 | annul
+resolvo | 3 | to weaken or enfeeble the body: membra resolvit, it relaxed his limbs
+resolvo | 4 | to disclose, reveal, lay open: resolvere periodos, to unpack complex sentences
+resolvo | 5 | as an adjective (resolutus), relaxed, unrestrained, free
+resono | 1 | resound
+resono | 3 | actively, to echo something back, to make something resound: silvae resonant Amaryllida, the woods echo "Amaryllis"
+resorbeo | 1 | suck back
+respecto | 1 | look back
+respecto | 3 | figuratively, to wait for, expect, look forward to: munus respectare, to look forward to a gift
+respecto | 4 | to care for, have regard for, respect: pios respectant numina, the gods regard the pious
+respectus2 | 1 | regard
+respectus2 | 3 | literally, a looking back: sine respectu fugere, to flee without a backward glance
+respectus2 | 4 | metonymically, a place of refuge, a fallback, a resource: respectum adimere, to take away someone's last resort
+respergo1 | 1 | sprinkle
+respergo1 | 3 | figuratively, to bespatter, sully, defile: infamia respergere, to besmirch with disgrace
+respicio | 1 | look back
+respicio | 2 | care for
+respicio | 3 | figuratively, to pay attention to, take into account: respicere spatium temporis, to consider a span of time
+respicio | 4 | especially, of a protecting deity, to look favorably upon, watch over: di nos respiciunt, the gods watch over us
+respiratio | 1 | respiration
+respiratio | 3 | figuratively, a pause, an intermission, a breathing space: sine respiratione pugnare, to fight without a moment's respite
+respiro | 1 | breathe
+respiro | 2 | recover
+respiro | 3 | transferred, of a struggle or passion, to abate, ease off, subside: oppugnatio respiravit, the siege slackened
+resplendeo | 1 | shine brightly
+respondeo | 1 | answer
+respondeo | 2 | correspond
+respondeo | 3 | especially, of a lawyer, priest, or oracle, to give a formal opinion or ruling: jureconsultus respondit, the jurist gave his legal opinion
+respondeo | 4 | to appear when summoned, especially before a court: reus respondere non ausus, the defendant did not dare appear
+respondeo | 5 | of land, to yield, produce a return: ager cum quarto respondit, the field yielded fourfold
+responso | 1 | answer
+responso | 3 | figuratively, of an echo, to resound, re-echo: ripae responsant, the banks re-echo
+respuo | 1 | spit out
+respuo | 3 | figuratively, to reject, refuse, spurn: consilium respuere, to reject a plan
+restagno | 1 | overflow
+restauro | 1 | restore
+restauro | 3 | figuratively, to renew, resume: bellum restaurare, to renew the war
+restinguo | 1 | extinguish
+restinguo | 3 | transferred, to quench or slake: sitim restinguere, to quench one's thirst
+restinguo | 4 | figuratively, to destroy utterly, wipe out: genus restinguere, to wipe out a family line
+restis | 1 | rope
+restis | 3 | transferred, a braided string of garlic or onions
+restito | 1 | loiter
+restituo | 1 | restore
+restituo | 2 | reinstate
+restituo | 3 | to give back, return something belonging to another: bona restituere, to return goods
+restituo | 4 | legally, to reverse a judgment, to annul, quash: judicium restituere, to reverse a verdict
+restituo | 5 | to compensate for, make good a loss: damnum restituere, to make good a loss
+restitutio | 1 | restitution
+restitutio | 3 | specifically, in law, the reinstatement of someone condemned or banished to their former rights and status
+restitutor | 1 | restorer
+resto | 1 | remain
+resto | 2 | resist
+resto | 3 | with reference to the future, to remain in store for, await someone: quid restat nisi, what remains except
+restringo | 1 | restrain
+restringo | 2 | stingy
+restringo | 3 | literally, to bind fast, tie back tightly: restrictis manibus, with hands bound behind the back
+restringo | 4 | rarely, in a reversed sense, to draw back, bare: dentes restringere, to bare the teeth
+restringo | 5 | as an adjective (restrictus), strict, severe, rigorous
+resulto | 1 | rebound
+resulto | 3 | especially, of sound, to reverberate, echo back: colles resultant clamore, the hills echo with the shout
+resulto | 4 | figuratively, of speech rhythm, to be jerky, to leap and hop
+resumo | 1 | resume
+resumo | 3 | figuratively, to recover, regain: vires resumere, to recover one's strength
+resupino | 1 | throw down
+resupino | 3 | figuratively, to overthrow, ruin, destroy
+resupino | 4 | figuratively, to make proud, puff up: quid te resupinet?, what makes you so puffed up?
+resupinus | 1 | supine
+resupinus | 3 | figuratively, careless, negligent, lazy, effeminate
+resurgo | 1 | rise again
+resurgo | 3 | figuratively, of a nation or state, to be reborn, rise from ruin: res Romana resurgit, the Roman state rises again
+resuscito | 1 | resuscitate
+resuscito | 3 | literally, to rebuild: templum resuscitare, to rebuild a temple
+resuscito | 4 | figuratively, to revive something dormant: iram resuscitare, to rekindle anger
+retardo | 1 | delay
+retardo | 3 | intransitively, to lag behind, tarry, move slowly
+rete | 1 | net
+rete | 3 | figuratively, a snare, a trap: retia amoris, the snares of love
+retego | 1 | uncover
+retego | 3 | figuratively, to disclose, reveal, expose: scelus retegere, to expose a crime
+retego | 4 | rarely, in the opposite sense, to cover again
+retendo | 1 | unbend
+retendo | 3 | figuratively, to relax, ease, let unwind: quiete retenduntur, they are relaxed by rest
+retentio | 1 | retention
+retentio | 3 | philosophically, a withholding of assent, translating the Greek epoche, skeptical suspension of judgment
+retentio | 4 | preservation, maintenance: retentio disciplinae, the maintenance of discipline
+retento1 | 1 | hold back
+retento1 | 3 | figuratively, to preserve, maintain, keep safe from harm
+retento2 | 1 | retry
+retexo | 1 | unravel
+retexo | 3 | figuratively, to annul, cancel, undo: consilia retexere, to unravel and undo plans
+retexo | 4 | to renew or repeat: fata retexere, to bring back to life; also, to relate a story again
+retiarius | 1 | retiarius
+retiarius | 3 | a gladiator armed with a net and trident, who fought against the heavily armed secutor
+reticentia | 1 | silence
+reticentia | 3 | in rhetoric, aposiopesis, a deliberate breaking-off in the middle of a speech
+reticeo | 1 | keep silent
+reticeo | 3 | transitively, to keep something secret, conceal, suppress: nihil reticebo, I will conceal nothing
+reticulum | 1 | reticule
+reticulum | 3 | also, a small fishing net
+retinaculum | 1 | tether
+retinaculum | 3 | figuratively, a bond, restraint, tie: retinacula libertatis, the bonds safeguarding liberty
+retineo | 1 | retain
+retineo | 2 | restrain
+retineo | 3 | to remember, keep in mind: non retineo, I don't recall
+retineo | 4 | to preserve, maintain, uphold: jus suum retinere, to maintain one's right
+retorqueo | 1 | turn back
+retorqueo | 3 | figuratively, to turn back onto its source, to retort: crimen in auctorem retorquere, to turn a charge back on its author
+retorqueo | 4 | in rhetoric, to retort an argument upon one's opponent
+retorridus | 1 | parched
+retorridus | 3 | figuratively, of a person's manner or expression, gloomy, morose, sour
+retractatio | 1 | revision
+retractatio | 3 | without a negative, hesitation, reluctance, refusal: sine ulla retractatione, without any hesitation
+retracto | 1 | reconsider
+retracto | 2 | retract
+retracto | 3 | literally, to handle or take up again: arma retractare, to take up arms again
+retracto | 4 | to be reluctant, hold back, refuse to act: retractans arripi jubet, he orders the reluctant man seized
+retraho | 1 | draw back
+retraho | 3 | in particular, to drag back a fugitive, to force someone's return: retractus, non reversus, dragged back, not having returned willingly
+retraho | 4 | figuratively, to bring back to light, revive: oblitterata monimenta retrahere, to bring forgotten records back to light
+retraho | 5 | as an adjective (retractus), remote, distant, set back
+retribuo | 1 | repay
+retro | 1 | back
+retro | 3 | of time, backward, in the past, formerly: retro usque ad Romulum, back all the way to Romulus
+retro | 4 | in other relations, conversely, in return, vice versa
+retroago | 1 | drive back
+retroago | 3 | figuratively, to reverse the order of something, to go through backwards: litteras retroagere, to read a text backwards
+retroversus | 1 | backward
+retroversus | 3 | of time, earlier, previously, in the past
+retrudo | 1 | thrust back
+retrudo | 3 | specifically, to thrust someone into confinement: in carcerem retrudere, to throw into prison
+retundo | 1 | blunt
+retundo | 3 | figuratively, to deaden, weaken, dull: ingenium retundere, to dull someone's wit
+reus | 1 | defendant
+reus | 3 | literally, a party to a lawsuit, whether plaintiff or defendant
+reus | 4 | figuratively, one responsible or answerable for something: reus fortunae, one blamed for misfortune
+revalesco | 1 | recover
+revalesco | 3 | figuratively, of an institution, city, or law, to regain its former force or validity
+reveho | 1 | bring back
+reveho | 3 | in the passive, with middle force, to ride, sail, or drive back oneself, to return
+reveho | 4 | figuratively, to go back to an earlier time in discussion: ad superiorem aetatem revecti sumus, we have gone back to an earlier age
+revello | 1 | tear away
+revello | 3 | figuratively, to remove, banish, do away with: injurias revellere, to wipe away insults
+revelo | 1 | reveal
+revelo | 3 | literally, to unveil, uncover physically: caput revelare, to uncover one's head
+revenio | 1 | return
+revenio | 3 | figuratively, to come round to a point or state, to end up: res eo revenit, the matter came to this
+reverbero | 1 | reverberate
+reverentia | 1 | reverence
+revereor | 1 | revere
+revereor | 3 | as an adjective (reverens), respectful, deferential
+revereor | 4 | as an adjective (reverendus), venerable, worthy of reverence, awe-inspiring
+reverso | 1 | turn round
+reverto | 1 | return
+reverto | 3 | in particular, in speech, to return to a topic after a digression: ad rem revertar, I will return to the point
+revincio | 1 | bind fast
+revincio | 3 | rarely, in the opposite sense, to unbind, loosen
+revinco | 1 | refute
+revinco | 3 | literally and poetically, to conquer, subdue, overpower
+reviresco | 1 | revive
+reviresco | 3 | literally, of plants, to grow green again, put out new growth
+reviresco | 4 | poetic, of an old person, to become young again, be rejuvenated
+reviso | 1 | revisit
+revivisco | 1 | revive
+revivisco | 3 | transferred, of plants or parts, to grow back, regenerate
+revocabilis | 1 | revocable
+revocatio | 1 | recall
+revocatio | 3 | in rhetoric, a qualifying withdrawal of a repeated word, a figure of speech
+revocatio | 4 | in law, the right to appeal to a court of one's own homeland
+revoco | 1 | recall
+revoco | 2 | revoke
+revoco | 3 | theatrically, to call for an encore, to demand a repeat performance
+revoco | 4 | to bring back from death, revive: revocatum a morte, brought back from the brink of death
+revoco | 5 | pregnantly, to judge or refer something by a standard: omnia ad suam potentiam revocare, to make everything subordinate to one's own power
+revoco | 6 | legally, domum revocare, to appeal to the courts of one's own homeland
+revolo | 1 | fly back
+revolvo | 1 | unroll
+revolvo | 2 | revolve
+revolvo | 3 | to read over again, review a text: origines revolvere, to go back over one's history
+revolvo | 4 | figuratively, to dwell upon, brood over: casus revolvere, to relive past misfortunes in the mind
+revomo | 1 | vomit up
+revomo | 3 | figuratively, to give up, disgorge something ill-gotten: victoriam revomere, to vomit up an ill-won victory
+rex1 | 1 | king
+rex1 | 3 | absolutely, "the King," the king of Persia
+rex1 | 4 | transferred, a leader, chief, master: rex gregis, the leader of the herd
+rhombus | 1 | rhombus
+rhombus | 3 | also, a kind of flatfish, the turbot
+rhombus | 4 | a magician's spinning wheel, used in love charms
+rica | 1 | veil
+ricinus2 | 1 | tick
+ricinus2 | 3 | also, the castor-oil plant, called cici or croton
+ricinus2 | 4 | rarely, the bud or germ of the mulberry
+rictus | 1 | rictus
+rictus | 3 | poetic, transferred to the eyes, the opening of the eyelids
+rideo | 1 | laugh
+rideo | 2 | smile
+rideo | 3 | transitively, to laugh at, mock, ridicule someone or something, milder than deridere: ridet amentiam, he laughs at the folly
+rideo | 4 | transferred, of places or things, to look bright, cheerful, pleasant: sedes rident, the dwelling looks cheerful
+ridicularius | 1 | droll
+ridicularius | 3 | as a noun (ridicularia), jests, jokes, witticisms
+ridicularius | 4 | as a noun (ridicularius), a jester, a droll fellow
+ridiculus | 1 | funny
+ridiculus | 2 | absurd
+ridiculus | 3 | as a noun (ridiculus), a jester, buffoon
+ridiculus | 4 | as a noun (ridiculum), a joke, a jest, something funny
+ridiculus | 5 | as an adverb (ridicule), jokingly, humorously; or, ridiculously, absurdly
+rigeo | 1 | stiffen
+rigeo | 3 | poetic, transferred, to stand stiff, upright, rise up: riget Tmolus, Tmolus stands stiff and tall
+rigeo | 4 | as an adjective (rigens), figuratively, stubborn, unyielding
+rigesco | 1 | stiffen
+rigesco | 3 | transferred, of hair, to bristle up, stand on end from fear
+rigidus | 1 | rigid
+rigidus | 3 | figuratively, of character, stern, harsh, unpolished, rugged: Sabini rigidi, the rough, unpolished Sabines
+rigo | 1 | water
+rigo | 3 | poetically, to nourish, suckle: natos rore rigare, to nurse infants with life-giving dew
+rigo | 4 | rarely, to convey or channel a liquid to a place: aquam per agros rigare, to channel water through the fields
+rigor | 1 | rigidity
+rigor | 2 | coldness
+rigor | 3 | technically, in surveying, a straight line or course: rigor fluminis, the straight course of a river
+rigor | 4 | figuratively, harshness, severity, strictness of character or style
+riguus | 1 | well-watered
+riguus | 3 | actively, that irrigates, watering: amnes rigui, streams that irrigate the valleys
+riguus | 4 | transferred, distended, swollen with liquid: bos rigua lacte, a cow full to bursting with milk
+rima | 1 | crack
+rima | 3 | comically, transferred, a leak for secrets: plenus rimarum sum, I'm all cracks, that is, I can't keep a secret
+rimor | 1 | probe
+rimor | 3 | literally, of animals or farmers, to root up, dig into, turn over the ground
+rimor | 4 | figuratively, to investigate thoroughly, to try to find out: rimari unde hoc sit, to try to find out where this comes from
+rimosus | 1 | cracked
+rimosus | 3 | figuratively, of an ear or a person, leaky, unable to keep a secret: rimosa auris, a leaky ear, a gossip
+ringor | 1 | snarl
+ringor | 3 | figuratively, to be vexed, annoyed, to chafe at something: ringeris quoties legeris, you chafe every time you read it
+ripa | 1 | bank
+ripa | 3 | rarely, transferred, the shore of the sea
+risus | 1 | laughter
+risus | 3 | transferred, an object of ridicule, a laughingstock: deus omnibus risus erat, the god was a laughingstock to all
+risus | 4 | a jest, a practical joke, mockery
+ritualis | 1 | ritual
+ritus | 1 | rite
+ritus | 3 | transferred, a custom, usage, manner, way of doing something
+ritus | 4 | idiomatically, in the ablative with a genitive, in the manner or fashion of: ritu ferarum, in the manner of wild beasts
+rivalis | 1 | rival
+rivalis | 3 | literally, as a noun (rivales), those sharing the same stream, neighbors with a common water source
+rivulus | 1 | rivulet
+rivulus | 3 | figuratively, a small stream, a trickle: rivulus disciplinarum, a trickle of learning
+rivus | 1 | brook
+rivus | 3 | transferred, an artificial channel, a canal, a gutter
+rivus | 4 | poetic, of any liquid, a stream, flow: rivus sanguinis, a stream of blood
+rivus | 5 | figuratively, a stream, flow, of fortune or eloquence: facundiae rivus, a stream of eloquence
+rixa | 1 | quarrel
+rixa | 3 | rarely, a fight or battle, even between beasts
+rixor | 1 | quarrel
+rixor | 3 | transferred, of things, to clash, conflict, interfere with each other: rami inter se rixantur, the branches tangle with one another
+robigo | 1 | rust
+robigo | 3 | transferred, blight or mildew on crops
+robigo | 4 | figuratively, mental rust, the dulling effect of disuse: ingenium rubigine laesum, talent damaged by rust
+roboro | 1 | strengthen
+robur | 1 | oak
+robur | 2 | strength
+robur | 3 | concretely, the best or strongest part of something, the flower: robur militum, the pick of the troops
+robur | 4 | as a proper name (Robur), the notorious lower dungeon of the Roman state prison
+robustus | 1 | robust
+robustus | 3 | literally, made of oak, oaken: robusta materia, oaken timber
+rodo | 1 | gnaw
+rodo | 3 | transferred, to corrode, eat away, wear down: rivus ripas rodit, the stream gnaws at its banks
+rodo | 4 | figuratively, to backbite, slander, disparage someone
+rogatio | 1 | bill
+rogatio | 3 | rhetorically, a question posed as a figure of speech
+rogatio | 4 | rarely, a request, entreaty
+rogator | 1 | proposer
+rogator | 3 | specifically, a polling official who collected votes in the assembly
+rogator | 4 | transferred, a beggar, one who asks for alms
+rogito | 1 | ask eagerly
+rogo | 1 | ask
+rogo | 2 | request
+rogo | 3 | politically, to propose a law or a candidate to the people: legem rogare, to bring a bill before the people
+rogo | 4 | to administer an oath: milites sacramento rogare, to swear the soldiers in
+rogo | 5 | legally, to ask for a formal promise in making a contract: rogavit Titius, spopondit Maevius, Titius asked, Maevius pledged
+rogo | 6 | to invite someone: aliquem ad cenam rogare, to invite someone to dinner
+rogus | 1 | pyre
+rogus | 3 | rarely, transferred, the grave, the tomb
+rorarii | 1 | skirmishers
+roro | 1 | bedew
+roro | 3 | intransitively, to drip, trickle: rorant pennae, the wings drip with moisture
+ros | 1 | dew
+ros | 3 | poetic, transferred to any liquid, moisture in general
+ros | 4 | ros marinus, rosemary, literally "dew of the sea"
+rosa | 1 | rose
+rosa | 3 | as a term of endearment, my rose, my darling, a Plautine usage
+rosa | 4 | also, the rosebush itself, or oil of roses
+rosarius | 1 | of roses
+rosarius | 3 | as a noun (rosarium), a place planted with roses, a rose-garden
+roscidus | 1 | dewy
+roscidus | 3 | rarely, transferred, moistened, wet, watered in general
+roseus1 | 1 | rosy
+roseus1 | 3 | rarely, made of or covered with roses: roseae convalles, valleys filled with roses
+rostratus | 1 | beaked
+rostrum | 1 | beak
+rostrum | 2 | prow
+rostrum | 3 | as a proper noun (Rostra), the speaker's platform in the Roman Forum, decorated with captured ships' beaks
+rostrum | 4 | familiarly or contemptuously, of persons, one's mug, snout
+rota | 1 | wheel
+rota | 3 | poetic, by synecdoche, a chariot or cart
+rota | 4 | figuratively, fortunae rota, the wheel of Fortune, symbolizing life's ups and downs
+roto | 1 | whirl
+roto | 3 | figuratively, of speech, well-turned, polished, rounded: sermo rotatus, a smoothly turned phrase
+roto | 4 | intransitively, to revolve, roll around: saxa rotantia, boulders tumbling and rolling
+rotunditas | 1 | roundness
+rotunditas | 3 | figuratively, of style, smoothness, polish, roundness of expression
+rotundo | 1 | round
+rotundo | 3 | figuratively, of style, to polish, smooth, round off: elegos rotundatos, polished elegiac verses
+rotundus | 1 | round
+rotundus | 3 | figuratively, of a person's character, complete, self-contained, well-rounded: teres atque rotundus, polished and self-sufficient
+rotundus | 4 | of speech or style, smooth, polished, well turned, elegant
+rubeo | 1 | be red
+rubeo | 3 | specifically, to blush, turn red with shame or embarrassment
+rubeo | 4 | as an adjective (rubens), red, ruddy: rubenti murice, with ruddy purple dye
+ruber | 1 | red
+ruber | 3 | as a proper name, Rubrum Mare, the Red Sea
+rubesco | 1 | redden
+rubicundus | 1 | ruddy
+rubor | 1 | redness
+rubor | 2 | blush
+rubor | 3 | by extension, bashfulness, modesty, a sense of shame
+rubor | 4 | later, by further extension, the cause of shame, disgrace, dishonor
+rubrica | 1 | red-ochre
+rubrica | 3 | transferred, the heading or title of a law, written in red, hence a rubric
+rubrica | 4 | by extension, a law itself: rubricae, the laws
+rubus | 1 | bramble
+rubus | 3 | also, the blackberry, the fruit of the bramble
+ructo | 1 | belch
+ructo | 3 | figuratively, contemptuously, to spew out, blurt out: versus ructare, to belch out verses
+ructus | 1 | belch
+rudens1 | 1 | rope
+rudens1 | 3 | figuratively, in the proverb rudentibus apta fortuna, fortune hanging by a thread, precarious fortune
+rudimentum | 1 | rudiment
+rudimentum | 3 | especially, in military language, a soldier's first experience of service, one's initiation
+rudis1 | 1 | raw
+rudis1 | 2 | inexperienced
+rudis1 | 3 | poetic, transferred, young, untried, new: rudis carina, an untried, maiden ship
+rudis2 | 1 | wooden sword
+rudis2 | 3 | also, a stirring stick or spatula, used in cooking
+rudo | 1 | bray
+rudo | 3 | transferred, of people, to roar or cry out loudly
+rudus1 | 1 | rubble
+rudus1 | 3 | specifically, the debris and rubbish of decayed or demolished buildings
+rufulus | 1 | reddish
+rufulus | 3 | as a noun (rufuli), military tribunes appointed directly by the general, rather than elected by the people
+rufus1 | 1 | red
+rufus1 | 3 | especially, of hair, red, ruddy, sandy: rufus, red-haired
+ruga1 | 1 | wrinkle
+ruga1 | 3 | transferred, any crease or fold, in fabric or other materials
+rugio | 1 | roar
+rugio | 3 | transferred, of the stomach, to rumble, growl
+rugo | 1 | wrinkle
+rugo | 3 | transferred, of fabric, to become rumpled, creased
+rugosus | 1 | wrinkled
+ruina | 1 | ruin
+ruina | 2 | collapse
+ruina | 3 | concretely, the remains of a fallen building, ruins: veteres ruinae, ancient ruins
+ruina | 4 | transferred, of a person who brings destruction, a destroyer: ruina rei publicae, the ruin of the republic
+ruinosus | 1 | ruinous
+ruinosus | 3 | poetic, transferred, already fallen, in ruins: ruinosae domus, houses lying in ruins
+rumen | 1 | gullet
+ruminatio | 1 | rumination
+ruminatio | 3 | figuratively, a mulling over in the mind, reflection: cotidiana ruminatio, daily reflection
+ruminor | 1 | ruminate
+ruminor | 3 | figuratively, to muse upon, ponder, mull over in the mind
+rumor | 1 | rumor
+rumor | 2 | reputation
+rumor | 3 | transferred, poetically, a murmuring sound, as of a stream
+rumpo | 1 | break
+rumpo | 2 | violate
+rumpo | 3 | to interrupt, cut short: rumpere somnum, to break off sleep; silentium rumpere, to break silence
+runa | 1 | javelin
+runa | 3 | late Latin, transferred, a runic character, a rune
+runco1 | 1 | weed
+runco1 | 3 | transferred, to pluck out hair, or to mow
+ruo | 1 | rush down
+ruo | 2 | hasten
+ruo | 3 | actively, to cast down violently, to hurl to the ground: ruere antennas, to bring down the yardarms
+ruo | 4 | poetic, of wind or waves, to churn up, stir up from the depths: mare ruit harenam, the sea churns up sand
+rupes | 1 | cliff
+ruricola | 1 | rustic
+ruricola | 3 | as a noun, a countryman, a farmer, a tiller of the soil
+ruricola | 4 | poetically, as a noun, an ox or plow-bull
+rursus | 1 | again
+rursus | 3 | on the contrary, on the other hand, conversely
+rus | 1 | country
+rus | 3 | concretely, a country estate, a farm, a country house
+ruspor | 1 | search
+rusticanus | 1 | rustic
+rusticitas | 1 | rusticity
+rusticitas | 3 | concretely, country people, rustics collectively
+rusticor | 1 | rusticate
+rusticor | 3 | figuratively, to speak in a rustic or countrified manner
+rusticulus | 1 | rustic
+rusticulus | 3 | as a noun, a little countryman, a simple rustic fellow
+rusticulus | 4 | as a feminine noun, a heath-cock, a type of bird
+rusticus | 1 | rustic
+rusticus | 2 | clownish
+rusticus | 3 | as a noun (rusticus), a countryman, a peasant
+rutabulum | 1 | poker
+rutabulum | 3 | also, a wooden spatula or paddle used for stirring food while cooking
+rutilo | 1 | redden
+rutilo | 3 | intransitively, poetic, to glow with a ruddy light: arma rutilant, the weapons gleam red
+rutilus1 | 1 | golden-red
+rutilus1 | 3 | transferred, shining, glittering, gleaming
+

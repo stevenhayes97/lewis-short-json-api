@@ -1,0 +1,443 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_Q.json (Lewis & Short via Perseus), simplified for learners.
+qua | 1 | where
+qua | 3 | qua ... qua, partly ... partly; also, both ... and
+qua | 4 | as far as, in so far as
+qua | 5 | in what manner, how, to what extent
+quacumque | 1 | wherever
+quacumque | 3 | transferred, from whatever side, whencesoever
+quacumque | 4 | transferred, to whatever place, whithersoever
+quacumque | 5 | by whatever means, in whatever way
+quadantenus | 1 | somewhat
+quadantenus | 3 | to a certain point or limit, so far
+quadantenus | 4 | transferred, to a certain extent, in some measure
+quadra1 | 1 | table
+quadra1 | 2 | morsel
+quadra1 | 3 | broadly, a square shape, the general notion behind the specific uses
+quadra1 | 4 | in architecture, the base or plinth of a pedestal, or a small moulding separating larger members
+quadragenarius | 1 | of forty
+quadragenarius | 3 | consisting of or holding forty: dolium quadragenarium, a cask holding forty congii; fistula quadragenaria, a forty-inch pipe
+quadrageni | 1 | forty each
+quadrageni | 3 | distributive: forty apiece, forty at a time
+quadrageni | 4 | loosely, for quadraginta, forty
+quadragesimus | 1 | fortieth
+quadragesimus | 3 | as a noun (quadragesima), the fortieth part
+quadragesimus | 4 | as a tax, a duty of one fortieth on goods
+quadragesimus | 5 | in ecclesiastical Latin, Lent, the forty-day fast before Easter
+quadrans | 1 | quarter
+quadrans | 3 | of an inheritance or debt, a fourth part; heres ex quadrante, heir to a quarter of the estate
+quadrans | 4 | as a Roman coin, a quarter of an as, the smallest coin, proverbial for a trifling sum
+quadrans | 5 | of interest, four percent
+quadrans | 6 | generally, a quarter of any measure: of land, weight, liquid volume, or length, and (of time) six hours, a quarter of a day
+# review: quadrantarius 'of a quarter' kept at three words; 'quarter' alone would read as the noun, not the adjective
+quadrantarius | 1 | of a quarter
+quadrantarius | 3 | relating to a fourth part: tabulae quadrantariae, accounts reducing debts to a quarter of their value
+quadrantarius | 4 | costing a quarter of an as; res quadrantaria, a public bath, since admission cost a quadrans
+quadratarius | 1 | of stonework
+quadratarius | 3 | as a noun, a stonecutter
+quadriangulus | 1 | quadrangular
+quadriangulus | 3 | as a noun (quadriangulum), a quadrilateral figure
+quadriduum | 1 | four days
+quadriduum | 3 | a period of four days: in hoc triduo aut quadriduo, within the last three or four days
+quadrifariam | 1 | fourfold
+quadrifariam | 3 | into four parts, dividing something in four
+quadrifidus | 1 | quadrifid
+quadrifidus | 3 | split into four parts, four-cleft (poetic)
+quadrifidus | 4 | transferred, generally, divided into four parts
+# review: quadrigae 'four-horse team' kept at three words; 'chariot' alone would blur the team with the vehicle it draws
+quadrigae | 1 | four-horse team
+quadrigae | 3 | especially, the team used in chariot racing
+quadrigae | 4 | transferred, the chariot itself, drawn by four horses
+quadrigae | 5 | poetic, the four-horse team of the Sun, Aurora, or the Moon
+quadrigae | 6 | figuratively, the rapid onward course of something: irarum quadrigae, the headlong rush of anger
+quadrigarius1 | 1 | of chariot-racing
+quadrigarius1 | 3 | quadrigario habitu, in the dress of a chariot-driver
+quadrijugus | 1 | four-horse
+quadrijugus | 3 | of a team of four horses yoked abreast (poetic): curru quadrijugo, in a four-horse chariot
+quadrimus | 1 | four-year-old
+quadrimus | 3 | de quadrimo Catone, of Cato when four years old
+# review: quadringenarius 'of four hundred' kept at three words; hyphenating to 'four-hundred' would misrepresent it as a compound number rather than 'consisting of 400 each'
+quadringenarius | 1 | of four hundred
+quadringenarius | 3 | consisting of four hundred each: quadringenariae cohortes, cohorts of four hundred men each
+quadrini | 1 | four each
+quadrini | 3 | distributive: four apiece, four at a time
+quadripartio | 1 | quarter
+quadripartio | 3 | to divide something into four parts
+quadriremis | 1 | quadrireme
+quadriremis | 3 | as an adjective, having four banks of oars
+quadrivium | 1 | crossroads
+quadrivium | 3 | transferred, the medieval quadrivium, the four mathematical arts of arithmetic, music, geometry, and astronomy
+quadro | 1 | square
+quadro | 3 | transitively, to make square or shape into a square: quadrare lapides, to square stones
+quadro | 4 | intransitively, to fit, agree, or accord, of facts, accounts, or words
+quadrum | 1 | square
+quadrum | 3 | transferred, fitness or proper order, especially in arranging words: in quadrum redigere sententias, to arrange thoughts into proper form
+quadrupedans | 1 | galloping
+quadrupedans | 3 | as a noun, a galloping horse, a steed
+quadrupes | 1 | four-footed
+quadrupes | 3 | especially, galloping, of horses
+quadrupes | 4 | of persons, on all fours, creeping
+quadrupes | 5 | as a noun, a quadruped, especially a beast of burden
+quadruplator2 | 1 | informer
+quadruplator2 | 3 | one who received a fourth of the property confiscated from those he informed against
+quadruplator2 | 4 | generally, one who cheats or plays tricks, a swindler
+quadruplex | 1 | fourfold
+quadruplex | 3 | poetic, simply four: stellae quadruplices, four stars
+quadruplex | 4 | as a noun, a fourfold amount
+quadruplico | 1 | quadruple
+quadruplico | 3 | to multiply by four, increase fourfold
+quadruplus | 1 | fourfold
+quadruplus | 3 | as a noun (quadruplum), a fourfold amount, four times as much
+quaerito | 1 | seek
+quaerito | 3 | to seek or search for something earnestly, repeatedly (frequentative of quaero)
+quaerito | 4 | to ask or inquire earnestly, to want to know exactly
+quaero | 1 | seek
+quaero | 2 | ask
+quaero | 3 | to seek to obtain, get, or acquire something: quaerere pecuniam, to make money
+quaero | 4 | with ab, de, or ex and the ablative, to ask someone: quaerere ex aliquo, to ask someone
+quaero | 5 | to require or need, of things: haec res tempus quaerit, this matter needs time
+quaero | 6 | to investigate judicially, to hold an inquiry: quaestionem quaerere, to hold an investigation
+quaero | 7 | quaesitus as an adjective, far-fetched, artificial, studied, of style
+quaero | 8 | quaesitum as a noun, a question
+quaesitio | 1 | search
+quaesitio | 3 | in particular, interrogation under torture, the question
+quaesitor | 1 | investigator
+quaesitor | 3 | in judicial matters, especially in criminal trials, an examining judge, an inquisitor
+quaesitor | 4 | philosophically, an inquirer, a sceptic
+quaeso | 1 | beg
+quaeso | 3 | parenthetically, quaeso!, please!, I beg you! (a common polite interjection)
+quaeso | 4 | archaic, to seek, to seek to obtain something
+quaestio | 1 | question
+quaestio | 2 | court
+quaestio | 3 | a criminal investigation or trial: quaestio de sicariis, a murder trial
+quaestio | 4 | transferred, the matter under discussion, the issue in a case
+quaestio | 5 | rhetorical, the subject of debate: quaestio infinita, a general thesis; quaestio definita, a specific case
+quaestor | 1 | quaestor
+quaestor | 3 | a Roman magistrate in charge of public finances, or in early times of conducting certain criminal trials
+quaestorius | 1 | quaestorian
+quaestorius | 3 | as a noun (quaestorius), an ex-quaestor
+quaestorius | 4 | as a noun (quaestorium), the quaestor's tent in camp, or his residence in a province
+quaestuarius | 1 | mercenary
+quaestuarius | 3 | as a noun (quaestuaria), a prostitute, one hired out for profit
+quaestuosus | 1 | profitable
+quaestuosus | 3 | eager for gain, out for one's own profit
+quaestuosus | 4 | having profited greatly, wealthy, rich
+quaestura | 1 | quaestorship
+quaestura | 3 | transferred, the quaestor's chest, the public treasury under his charge
+quaestus | 1 | gain
+quaestus | 3 | transferred, a way of making money, a trade or business: quaestus meretricius, prostitution as a trade
+quaestus | 4 | profit, advantage generally
+qualibet | 1 | anywhere
+qualibet | 3 | as you please, in any way whatever
+# review: qualis 'what kind of' kept at three words; 'such' alone loses the interrogative use, and one word cannot cover both the interrogative and relative senses
+qualis | 1 | what kind of
+qualis | 3 | relative, with or without a correlative talis, such as, of the kind that
+qualis | 4 | in citations, as, for instance
+qualis | 5 | poetic, for qualiter, just as
+qualis | 6 | qualis qualis, of whatever kind, whatsoever
+qualis | 7 | indefinite, of some kind or other
+qualiscumque | 1 | whatever
+qualiscumque | 3 | transferred, any whatever, any without exception
+qualitas | 1 | quality
+qualitas | 3 | a term coined by Cicero to translate the Greek poiotes, quality as a philosophical category
+qualum | 1 | basket
+qualum | 3 | specifically, a fruit-basket, wool-basket, or wine-strainer, according to use
+quam | 1 | how
+quam | 2 | than
+quam | 3 | tam ... quam, as ... as; so ... as
+quam | 4 | quam ... tam, the more ... the more, with comparatives
+quam | 5 | after words of number or quantity, as much as: dimidium quam quod, half as much as
+quam | 6 | intensive, exceedingly, very, indeed: quam saevus est, he is extremely cruel
+quamdiu | 1 | how long
+quamdiu | 3 | relative, as long as, while, until
+quamlibet | 1 | however
+quamlibet | 3 | as you please, at pleasure, as much as one likes
+quamlibet | 4 | post-classical, for quamvis, although
+quamobrem | 1 | why
+quamobrem | 3 | relative, for which reason, wherefore, on account of which
+quamobrem | 4 | as a transitional particle beginning a sentence, wherefore, for this reason
+quamplures | 1 | many
+quamplures | 3 | very many, a great many
+quamprimum | 1 | promptly
+quamprimum | 3 | as soon as possible, at the earliest opportunity
+quamquam | 1 | although
+quamquam | 3 | as a rhetorical transition particle, however, yet, nevertheless, introducing an objection or reservation
+quamvis | 1 | although
+quamvis | 2 | very
+quamvis | 3 | as an adverb, as much as one likes, to a very high degree: quamvis multos, ever so many
+quamvis | 4 | as a conjunction, usually with the subjunctive, however much, no matter how: quamvis sit prudens, however wise he may be
+quando | 1 | when
+quando | 2 | since
+quando | 3 | indefinite, at any time, ever, some day, especially after num, si, or ne
+quando | 4 | conjunction, temporal, when: quando esurio, tum crepant, when I am hungry, then they growl
+quandocumque | 1 | whenever
+quandocumque | 3 | indefinite, at some time or other, sooner or later
+quandoque1 | 1 | whenever
+quandoque1 | 3 | causal, since, inasmuch as
+quandoque1 | 4 | indefinite, at some time or other
+quandoque1 | 5 | post-classical, now and then, sometimes
+quandoquidem | 1 | since
+quantillus | 1 | how little
+quantillus | 3 | in exclamations and questions, how tiny a bit, how small an amount
+quantitas | 1 | quantity
+quantitas | 3 | a sum, an amount, especially a sum of money
+quantitas | 4 | in logic, the quantity of a proposition, whether universal or particular
+quantopere | 1 | how greatly
+quantopere | 3 | after tanto opere, correspondingly, as much as, in comparisons
+quantulus1 | 1 | how little
+quantulus1 | 3 | as much as, however little: quantulum visum est, as much as seemed enough
+quantuluscumque | 1 | however small
+quantuluscumque | 3 | de hac mea, quantulacumque est, facultate, from this ability of mine, however slight it is
+quantus | 1 | how great
+quantus | 3 | of number or value, how much, how many
+quantus | 4 | with or without a correlative tantus, as great as, as much as
+quantus | 5 | quantum as an adverb, as much as, so much as: quantum potes, as much as you can
+quantus | 6 | quanto as an adverb, by how much, according as, the: quanto gravior, tanto crebriores, the heavier, the more frequent
+quantuscumque | 1 | however great
+quantuscumque | 3 | of whatever size: quantuscumque sum, whatever my worth may be
+quantuslibet | 1 | however great
+quantuslibet | 3 | as great as one likes, to whatever degree
+quantusvis | 1 | however great
+quantusvis | 3 | post-classical or poetic, for quamvis, although, albeit
+quapropter | 1 | why
+quapropter | 3 | transferred, in passing to a new thought, wherefore, on which account
+quare | 1 | why
+quare | 3 | relative, by which means, whereby
+quare | 4 | transferred, introducing a consequence, for which reason, therefore
+quartanus | 1 | quartan
+quartanus | 3 | as a noun (quartana), a quartan fever, an ague recurring every fourth day
+quartanus | 4 | of the fourth legion; as a noun (quartani), the soldiers of the fourth legion
+quartarius | 1 | quarter
+quartarius | 3 | especially, a quarter of a sextarius, a gill, a liquid measure
+quartarius | 4 | a muleteer paid a fourth share of the profits
+quartus | 1 | fourth
+quartus | 3 | as a noun (quarta), a fourth part, a quarter, especially of an inherited estate
+quartus | 4 | as an adverb (quartum or quarto), for the fourth time
+quasi | 1 | as if
+quasi | 2 | almost
+quasi | 3 | quasi ... quasi, partly ... partly
+quasillum | 1 | basket
+quasillum | 3 | especially, a wool-basket, used in spinning
+quasso | 1 | shake
+quasso | 3 | to shatter, batter, or break something to pieces: quassata navis, a storm-battered ship
+quasso | 4 | figuratively, to weaken or impair: quassata res publica, the shattered state
+quasso | 5 | of countries or communities, to throw into turmoil, unsettle
+quatenus | 1 | how far
+quatenus | 2 | since
+quatenus | 3 | of time, how long
+quatenus | 4 | post-classical, so that, in order that
+quater | 1 | four times
+quater | 3 | with other numerals, to form compound multiples: quater deni, forty; quater decies, forty times
+quaternarius | 1 | quaternary
+quaternarius | 3 | consisting of four each: scrobes quaternarii, pits four feet square, four on each side
+quaterni | 1 | four each
+quaterni | 3 | distributive, four at a time, by fours
+quatio | 1 | shake
+quatio | 3 | of weapons, to wield, brandish, ply: quatere hastam, to brandish a spear
+quatio | 4 | to beat, strike, or drive: quatere aliquem foras, to drive someone out
+quatio | 5 | to shatter or batter to pieces: quatere muros, to batter the walls
+quatio | 6 | figuratively, to agitate, move, or affect: quatere mentem, to shake someone's resolve
+quatio | 7 | to harass or plague: quatere oppida bello, to harass towns with war
+quattuor | 1 | four
+quattuordecim | 1 | fourteen
+quattuorviri | 1 | four-man board
+quattuorviri | 3 | specifically, at Rome, a board of four magistrates for the upkeep of the roads, or for local government in a municipality
+que | 1 | and
+que | 3 | repeated, que ... que, both ... and
+que | 4 | rarely, equivalent to autem or sed, but, however
+que | 5 | introducing a new clause or explanation, and so, and indeed
+quemadmodum | 1 | how
+quemadmodum | 3 | relative, corresponding to sic or ita, just as, as
+quemadmodum | 4 | introducing an example, as, for instance
+queo | 1 | can
+quercus | 1 | oak
+quercus | 3 | poetic, transferred to things made of oak-wood: a ship, spear-shaft, or drinking-cup
+quercus | 4 | corona quercea, a garland of oak leaves, awarded for saving a citizen's life
+quercus | 5 | rarely, for acorns
+querela | 1 | complaint
+querela | 3 | in law, a formal complaint or accusation
+querela | 4 | transferred, a plaintive song, or a mournful sound made by animals or instruments
+querela | 5 | a bodily ailment, a pain that causes complaint, a malady
+querimonia | 1 | complaint
+querimonia | 3 | a formal complaint or grievance, especially about mistreatment
+queror | 1 | complain
+queror | 3 | with an accusative or de and the ablative, to complain about, to bewail: queri fortunam, to lament one's fate
+queror | 4 | in law, to lodge a formal complaint
+queror | 5 | transferred, of animals or birds, to utter a plaintive sound, to coo, warble
+querquerus | 1 | shivering
+querquerus | 3 | febris querquera, the ague, a fever accompanied by chills
+querquetulanus | 1 | of oak-woods
+querquetulanus | 3 | querquetulanae virae, nymphs presiding over a green oak grove
+querquetulanus | 4 | as a proper noun (Querquetulani), a people of Latium
+querulus | 1 | querulous
+querulus | 3 | poetic, transferred to animals or things, softly murmuring, cooing, or chirping
+questus2 | 1 | complaint
+questus2 | 3 | transferred, the plaintive note of the nightingale or other birds
+qui1 | 1 | who
+qui1 | 2 | which
+qui1 | 3 | interrogative adjective, what kind of, what sort of: qui vir, what kind of man
+qui1 | 4 | with the subjunctive, causal, since, seeing that: qui incommodissime navigassem, since I had had a very rough voyage
+qui1 | 5 | with the subjunctive, final, in order that, to: misit qui viderent, he sent men to see
+qui1 | 6 | quod as a connective, and this, and that: quae res, and this circumstance
+qui1 | 7 | quo as an adverb with comparatives, by how much, the: quo difficilius, hoc praeclarius, the harder, the more splendid
+qui2 | 1 | how
+qui2 | 3 | relative, whereby, wherewith: quo me privem, wherewith I might take my life
+qui2 | 4 | transferred, that, in order that
+qui2 | 5 | indefinite, somehow, in some way
+quia | 1 | because
+quia | 3 | quianam or quia nam, why, wherefore, poetic and archaic
+quia | 4 | post-classical, introducing an object clause, equivalent to quod, that
+quicumque | 1 | whoever
+quicumque | 3 | in particular, for qualiscumque, of whatever kind or nature
+quicumque | 4 | transferred, each or every possible: quocumque modo, in every possible way
+quidam | 1 | certain
+quidam | 3 | substantively, someone, something: quidam ex advocatis, one of the advocates
+quidem | 1 | indeed
+quidem | 3 | ne ... quidem, not even
+quidem | 4 | at least, certainly, in truth
+quidem | 5 | introducing an example, for instance, for example
+quies1 | 1 | rest
+quies1 | 3 | political or military neutrality, a quiet, uninvolved life
+quies1 | 4 | sleep, slumber
+quies1 | 5 | euphemistically, the sleep of death
+quies1 | 6 | transferred, a dream
+quies1 | 7 | a lair or resting place of a wild animal
+quiesco | 1 | rest
+quiesco | 3 | politically, to remain neutral, to keep out of a conflict
+quiesco | 4 | to sleep
+quiesco | 5 | of things, to lie still, be calm: flamma quiescit, the fire dies down
+quiesco | 6 | to cease or desist from something: quiesce hanc rem petere, stop seeking this
+quiesco | 7 | to acquiesce in, to peaceably allow something to happen
+quilibet | 1 | anyone
+quilibet | 3 | with a dismissive tone, just anybody, the first person who happens along
+quin | 1 | why not
+quin | 3 | after negated verbs of doubt or hindrance, that, but that: non dubito quin verum sit, I do not doubt that it is true
+quin | 4 | as a relative particle after a negative, who or that ... not: nemo est quin sciat, there is no one who does not know
+quin | 5 | corroborative, indeed, in fact, truly
+quin | 6 | in corrections, nay rather, indeed
+quinam | 1 | who
+quinam | 3 | an emphatic interrogative, who or what indeed, whoever, pray
+quinarius | 1 | quinary
+quinarius | 3 | quinaria fistula, a pipe five quarter-digits in diameter
+quincuncialis | 1 | five-twelfths
+quincuncialis | 3 | in particular, planted in the arrangement of a quincunx, as the five spots on a die
+quincunx | 1 | five-twelfths
+quincunx | 2 | quincunx
+quincunx | 3 | transferred, trees or objects arranged in this pattern, used especially for orchard planting
+quindecimvir | 1 | board member
+quindecimvir | 3 | specifically, a member of the college of fifteen priests in charge of the Sibylline Books
+quindecimvir | 4 | quindecimviri agris dandis, commissioners for the distribution of public land
+quingenti | 1 | five hundred
+quingenti | 3 | indefinitely, used for a great number, countless
+quini | 1 | five each
+quini | 3 | in general, simply five: bis quinos, twice five, ten
+quinideni | 1 | fifteen each
+quinideni | 3 | in general, simply fifteen
+quinquagenarius | 1 | of fifty
+quinquagenarius | 3 | as a noun, a captain in command of fifty men, in the Israelite army of the Vulgate
+quinquageni | 1 | fifty each
+quinquageni | 3 | in general, simply fifty
+quinquagesimus | 1 | fiftieth
+quinquagesimus | 3 | as a noun (quinquagesima), a fiftieth part, levied as a tax
+quinque1 | 1 | five
+quinquennalis | 1 | quinquennial
+quinquennalis | 3 | as a noun (quinquennalia), games celebrated every five years
+quinquennalis | 4 | continuing for five years, of a term of office: censura quinquennalis, a five-year censorship
+quinquennalis | 5 | as a noun (quinquennalis), a magistrate in a municipal town holding office for five years
+quinquennis | 1 | five-year-old
+quinquennis | 3 | also, occurring every fifth year, quinquennial: Olympias quinquennis, the quinquennial Olympic games
+quinqueremis | 1 | quinquereme
+quinqueremis | 3 | as an adjective, having five banks of oars
+quinquertium | 1 | pentathlon
+quinquertium | 3 | the five events: discus, running, jumping, wrestling, and javelin-throwing
+quinquevir | 1 | board member
+quinquevir | 3 | specifically, one of various five-man commissions at Rome: for dividing public land, regulating debt, repairing walls, or assisting the night watch
+# review: quintanus 'of the fifth' kept at three words; 'fifth' alone would collide with the ordinal quintus and lose the sense of 'in a series'
+quintanus | 1 | of the fifth
+quintanus | 3 | as a noun (quintana), the street in a Roman camp separating the fifth from the sixth maniple or squadron
+quintanus | 4 | of the fifth legion; as a noun (quintani), the soldiers of the fifth legion
+quintus1 | 1 | fifth
+quintus1 | 3 | as an adverb (quintum or quinto), for the fifth time
+quintusdecimus | 1 | fifteenth
+quippe | 1 | for
+quippe | 3 | with a relative pronoun, quippe qui, since, inasmuch as, seeing that: quippe qui viderit, since he had seen
+quippe | 4 | as a simple corroborative, certainly, to be sure, indeed
+quippini | 1 | certainly
+quippini | 3 | interrogatively, why not?
+quirito | 1 | wail
+quirito | 3 | originally, to cry out for help as a Roman citizen: civis Romanus sum!, I am a Roman citizen!
+quirito | 4 | to bewail or lament something
+quis1 | 1 | who
+quis1 | 2 | what
+quis1 | 3 | transferred (quid), how, why, wherefore
+quis1 | 4 | quid, with a partitive genitive, what sort of, what kind of: quid mulieris, what sort of woman
+quis2 | 1 | someone
+quis2 | 2 | something
+quis2 | 3 | chiefly after si, nisi, ne, num, or cum: si quis, if anyone
+quisnam | 1 | who
+quisnam | 3 | neuter quidnam, what indeed, whatever can it be
+quispiam | 1 | someone
+quispiam | 3 | neuter quidpiam or quippiam, something or other
+quisquam | 1 | anyone
+quisquam | 3 | nec or neque quisquam, and no one, and none
+quisquam | 4 | pleonastically with nihil, nothing whatever, nothing at all
+quisque | 1 | each
+quisque | 3 | transferred, for quicumque, whoever, whatsoever, every one who
+quisquiliae | 1 | rubbish
+quisquiliae | 3 | figuratively, of worthless people, riffraff, dregs, trash
+quisquis | 1 | whoever
+quisquis | 3 | neuter quicquid or quidquid, whatever, anything that
+quivis | 1 | anyone
+quivis | 3 | neuter quidvis, anything you like, whatever you please
+quo | 1 | whither
+quo | 3 | tropically, to what end, for what purpose, why: quo tantam pecuniam?, why so much money?
+quo | 4 | transferred, to the end that, in order that, so that
+quo | 5 | less commonly, of rest, where: quo loci, in what place
+quo | 6 | causal, for which reason, because: quo aequior sum, for this reason I am more fair
+quo | 7 | indefinite, with si, to any place, anywhither
+quoad | 1 | until
+quoad | 3 | as long as, while
+quoad | 4 | how far, as far as, to what extent
+quoad | 5 | with respect to, as regards
+quocirca | 1 | wherefore
+quocumque | 1 | wherever
+quod1 | 1 | because
+quod1 | 2 | that
+quod1 | 3 | in case that, if so be that: quod si, but if
+quod1 | 4 | although, even if
+quod1 | 5 | with verbs of perceiving or declaring, standing in for an object clause: scio quod amet, I know that he loves
+quodammodo | 1 | somewhat
+quodammodo | 3 | in a certain manner, in a way, so to speak
+quomodo | 1 | how
+quomodo | 3 | relative, corresponding to sic, in the same way as, just as
+quomodo | 4 | indefinite, for quocumque modo, in whatever way
+quomodocumque | 1 | however
+quomodocumque | 3 | transferred, be that as it may, in any case
+quonam | 1 | whither
+quonam | 3 | how far, to what extent, pray
+quondam | 1 | once
+quondam | 3 | at times, occasionally, sometimes
+quondam | 4 | of the future, poetic, one day, some day
+quoniam | 1 | since
+quoniam | 3 | post-classical, introducing an object clause, that
+quoquam | 1 | anywhere
+quoquam | 3 | equivalent to in aliquam rem, in anything, in any respect
+quoque1 | 1 | also
+quoque1 | 3 | ne ... quoque, not even that
+quoquo | 1 | wherever
+quorsum | 1 | whither
+quorsum | 3 | figuratively, to what purpose, to what end, with what aim: quorsum haec disputo?, to what end am I discussing this?
+quot | 1 | how many
+quot | 3 | transferred, in expressions of time: quot diebus, every day; quot annis, every year
+quotiens | 1 | how often
+quotquot | 1 | however many
+quotquot | 3 | transferred, quotquot annis, every year, annually
+# review: quotumus 'which in number' kept at three words; this rare interrogative asks for a position in a series (the "how-manyeth" day), which English has no single word for
+quotumus | 1 | which in number
+quotumus | 3 | quotumo die, on what day, by number
+# review: quotus 'which in number' kept at three words, matching quotumus; English has no single word asking for a position in a series
+quotus | 1 | which in number
+quotus | 3 | quotus quisque, how few out of every group, how rare a person
+quotus | 4 | quota hora est?, what time is it, literally which hour out of how many
+quousque | 1 | how long
+quousque | 3 | of place, how far, to what extent
