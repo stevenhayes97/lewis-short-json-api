@@ -173,3 +173,27 @@ salus | 2 | health
 salus | 3 | specifically, a greeting, a salutation
 salus | 4 | eccl. Latin, salvation
 salus | 5 | as a proper noun, Salus, the Roman goddess of Safety
+salutaris | 1 | salutary
+salutaris | 3 | salutaris littera, the letter A, marked on a voting tablet for acquittal
+salutatio | 1 | greeting
+salutatio | 3 | specifically, a formal morning visit to a patron
+salutator | 1 | greeter
+salutator | 3 | specifically, one who pays morning visits, a courtier
+salutatorius | 1 | of visiting
+salutatorius | 3 | as a noun, an audience-chamber
+salutatorius | 4 | grammatical, salutatorius casus, the vocative case
+salutatrix | 1 | greeter
+salutatrix | 3 | in apposition, e.g. charta salutatrix, a letter of greeting
+salutatrix | 4 | specifically, turba salutatrix, the crowd of morning clients
+salutifer | 1 | healing
+salutiger | 1 | healing
+salutiger | 3 | that brings a greeting, salutatory
+salutiger | 4 | as a noun, a messenger who delivers a greeting
+saluto | 1 | greet
+saluto | 3 | to bid farewell, to take leave
+saluto | 4 | specifically, to pay a visit of respect, to wait upon a patron
+salvator | 1 | saviour
+salvator | 3 | eccl. Latin, as a title, the Saviour
+salveo | 1 | be well
+salveo | 3 | as a greeting, salve, salvete, hello, good day
+salveo | 4 | with vale, in parting, farewell
