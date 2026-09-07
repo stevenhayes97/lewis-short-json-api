@@ -359,3 +359,25 @@ scaturio | 2 | abound
 scelero | 1 | defile
 scelero | 3 | as an adjective (sceleratus), wicked, impious, accursed
 scelero | 4 | as an adjective (sceleratus), hurtful, unlucky, calamitous
+scelerosus | 1 | wicked
+scelestus | 1 | wicked
+scelestus | 3 | as a noun, a scoundrel, a rogue
+scelestus | 4 | transferred (Plautus), unlucky, unfortunate, calamitous
+scelus | 1 | crime
+scelus | 3 | concretely, as a term of abuse, a scoundrel, a villain
+scelus | 4 | transferred (Plautus, Terence), a misfortune, a calamity
+schistos | 1 | fissile
+scholaris | 1 | scholastic
+scholaris | 3 | as a noun, the imperial guard
+scientia | 1 | knowledge
+scientia | 2 | skill
+scilicet | 1 | clearly
+scilicet | 3 | ironic, of course, forsooth
+scilicet | 4 | transferred, namely, that is to say
+scindo | 1 | tear
+scindo | 3 | to split, divide, separate
+scindo | 4 | figuratively, to distract, agitate, disturb
+scindo | 5 | proverbial, penulam scindere alicui, to press someone to stay
+scintilla | 1 | spark
+scintilla | 3 | figuratively, a glimmer, a faint trace
+scintillo | 1 | sparkle
