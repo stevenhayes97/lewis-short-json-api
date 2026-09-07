@@ -43,3 +43,34 @@ sacrilegium | 1 | sacrilege
 sacrilegium | 3 | specifically, the stealing of sacred objects from a temple
 sacrilegus | 1 | sacrilegious
 sacrilegus | 3 | as a noun, a sacrilegious person, a wretch
+sacro | 1 | consecrate
+sacro | 3 | with a bad sense, to devote to destruction, declare accursed
+sacro | 4 | to render sacred or inviolable by consecration, to hallow
+sacrosanctus | 1 | sacrosanct
+sacrosanctus | 3 | transferred, most holy, venerable
+saecularis | 1 | secular
+saecularis | 3 | ludi saeculares, the secular games, held once each era
+saecularis | 4 | eccl. Latin, worldly, lay, opposed to religious life
+saeculum | 1 | generation
+saeculum | 2 | age
+saeculum | 3 | a century, a period of about a hundred years
+saeculum | 4 | an indefinitely long period, an age
+saeculum | 5 | the times, the spirit of an age
+saeculum | 6 | eccl. Latin, the world, worldliness
+saeculum | 7 | in saecula saeculorum, for ever and ever
+saepe | 1 | often
+saepes | 1 | hedge
+saepes | 3 | transferred, any enclosure, e.g. of rocks or gates
+saepio | 1 | enclose
+saepio | 3 | to cover, wrap, envelop
+saepio | 4 | figuratively, to hedge in, check, impede
+saepio | 5 | memoria saepire, to fix firmly in the memory, to learn by heart
+saeptum | 1 | enclosure
+saeptum | 3 | specifically, a fold for cattle
+saeptum | 4 | plural, the Saepta, the voting enclosure in the Campus Martius
+saeptum | 5 | medical, the diaphragm
+saeta | 1 | bristle
+saeta | 3 | of human hair, coarse or bristly hair
+saeta | 4 | a fishing line
+saeta | 5 | a brush
+saetiger | 1 | bristly
