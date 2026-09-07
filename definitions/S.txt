@@ -485,3 +485,32 @@ secerno | 1 | separate
 secerno | 3 | figuratively, to distinguish, to discern
 secerno | 4 | to set aside, to reject, to exclude
 secerno | 5 | as a participle (secretus), separate, apart; also, secret, hidden, private
+secessio | 1 | secession
+secessio | 3 | general, a withdrawal, a going aside
+secessus | 1 | retirement
+secessus | 3 | transferred, a retreat, a secluded spot
+secessus | 4 | political, a secession
+secessus | 5 | late Latin, a privy, a drain
+secludo | 1 | seclude
+secludo | 3 | in general, to separate, sunder, shut off
+seco | 1 | cut
+seco | 3 | medical, to operate on, to amputate, to excise
+seco | 4 | to castrate
+seco | 5 | of motion, to cut through, e.g. to sail, swim, or fly through
+seco | 6 | figuratively, to censure, to satirize
+secretarium | 1 | retreat
+secretarium | 3 | specifically, a council chamber, of judges
+secretarium | 4 | eccl. Latin, a consistory, a conclave
+secta1 | 1 | way
+secta1 | 2 | sect
+secta1 | 3 | literally, a beaten path, footsteps
+sectator | 1 | follower
+sectator | 3 | specifically, a follower or disciple of a teacher or a school
+sectilis | 1 | cut
+sectilis | 3 | that may be cut, e.g. porrum sectile, cut-leek, chives
+sectio | 1 | auction
+sectio | 3 | literally (post-Aug.), a cutting, a cutting up
+sectio | 4 | geometrical, a section, a division
+sector1 | 1 | cutter
+sector1 | 3 | political, a buyer at a public auction of confiscated goods
+sector1 | 4 | geometrical, a sector of a circle
