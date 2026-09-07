@@ -74,3 +74,29 @@ saeta | 3 | of human hair, coarse or bristly hair
 saeta | 4 | a fishing line
 saeta | 5 | a brush
 saetiger | 1 | bristly
+saetosus | 1 | bristly
+saevio | 1 | rage
+saevio | 3 | transferred, of persons and things, to be furious, violent, raging
+saevitia | 1 | ferocity
+saevitia | 2 | cruelty
+saevus | 1 | fierce
+saevus | 2 | cruel
+sagacitas | 1 | sagacity
+sagacitas | 3 | specifically, keenness of scent in dogs
+sagatus | 1 | cloaked
+sagatus | 3 | wearing the sagum, a soldier's cloak, as opposed to the toga of civil life
+sagatus | 4 | transferred, made of thick, coarse cloth
+sagax | 1 | sagacious
+sagax | 3 | specifically, keen-scented, of dogs
+sagax | 4 | intellectually keen, shrewd, acute
+sagina | 1 | fattening
+sagina | 3 | concretely, food, nourishment
+sagina | 4 | a fatted animal
+sagina | 5 | meton., fatness, corpulence
+sagino | 1 | fatten
+sagino | 3 | of persons, to cram, stuff, feast
+sagino | 4 | transferred, to feed, nourish
+sagitta | 1 | arrow
+sagitta | 3 | meton., the thin tip of a vine-shoot
+sagitta | 4 | a lancet for bloodletting
+sagitta | 5 | as a proper noun, the constellation Sagitta, the Arrow
