@@ -197,3 +197,24 @@ salvator | 3 | eccl. Latin, as a title, the Saviour
 salveo | 1 | be well
 salveo | 3 | as a greeting, salve, salvete, hello, good day
 salveo | 4 | with vale, in parting, farewell
+salvus | 1 | safe
+salvus | 3 | colloquial, salva res est, all is well, it's all right
+salvus | 4 | as a greeting, salvus sis, welcome; also, at parting, farewell
+sancio | 1 | sanction
+sancio | 3 | to consecrate, dedicate, render sacred
+sancio | 4 | to forbid under penalty, to enact a penalty against
+sanctimonia | 1 | sanctity
+sanctimonia | 3 | specifically, chastity, purity of life
+sanctimonialis | 1 | holy
+sanctimonialis | 3 | as a noun, a nun
+sanctio | 1 | sanction
+sanctitas | 1 | sanctity
+sanctitas | 3 | of a person's character, moral purity, integrity, virtue
+sanctitudo | 1 | sanctity
+sandaliarius | 1 | of sandals
+sandaliarius | 3 | as a proper noun, the Vicus Sandaliarius, Sandal Street, a district of Rome
+sanguinarius | 1 | bloodthirsty
+sanguinarius | 3 | literally, of blood, blood-, e.g. sanguinaria herba, a blood-staunching herb
+sanguineus | 1 | bloody
+sanguineus | 3 | of persons, blood-thirsty
+sanguineus | 4 | transferred, blood-red, blood-colored
