@@ -606,3 +606,23 @@ sella | 1 | chair
 sella | 3 | specifically, sella curulis, a magistrate's ceremonial chair
 sella | 4 | specifically, a portable sedan chair
 sella | 5 | euphemistically, sella familiarica, a chamber pot, a close-stool
+sellisternia | 1 | sacred banquet
+sellisternia | 3 | specifically, held for female deities, at which the women sat rather than reclined
+sellularius | 1 | sedentary
+sellularius | 3 | as a noun, a mechanic, a craftsman who works seated
+semel | 1 | once
+semel | 3 | pregnant sense, once for all, but once
+semel | 4 | in a series, first
+semen | 1 | seed
+semen | 3 | transferred, a graft, a cutting for propagation
+semen | 4 | poetic, offspring, progeny
+semen | 5 | figuratively, origin, cause
+sementis | 1 | sowing
+sementis | 3 | transferred, seed-time
+sementis | 4 | transferred (plural), the young, growing crops
+sementivus | 1 | of sowing
+sementivus | 3 | specifically, feriae sementivae, the seed-time festival
+semestris1 | 1 | semiannual
+semesus | 1 | half-eaten
+semi | 1 | half
+semianimis | 1 | half-dead
