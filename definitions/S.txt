@@ -541,3 +541,30 @@ securis | 1 | axe
 securis | 3 | specifically, an executioner's axe, borne in the lictors' fasces
 securis | 4 | figuratively, a deathblow
 securis | 5 | figuratively (usually plural), authority, sovereign power
+securitas | 1 | composure
+securitas | 2 | safety
+securitas | 3 | in a bad sense, carelessness, negligence
+securus | 1 | untroubled
+securus | 2 | safe
+securus | 3 | in a bad sense, careless, negligent, heedless
+secus2 | 1 | otherwise
+secus2 | 3 | pregnant sense, badly, ill
+secus2 | 4 | as a preposition (rare), beside, along
+secutor | 1 | follower
+secutor | 3 | specifically, a type of gladiator who pursued the net-fighter (retiarius)
+sed1 | 1 | but
+sed1 | 3 | non modo (solum) ... sed etiam, not only ... but also
+sedentarius | 1 | sedentary
+sedeo | 1 | sit
+sedeo | 3 | of magistrates, to sit in council, in court, or on the bench
+sedeo | 4 | military, to remain encamped, to besiege passively
+sedeo | 5 | figuratively, to sink, settle, subside
+sedeo | 6 | figuratively, to be fixed, firm, settled
+sedes | 1 | home
+sedes | 2 | seat
+sedes | 3 | of the dead, a burial place
+sedes | 4 | of inanimate things, a base, a foundation
+sedile | 1 | seat
+sedile | 3 | transferred, a sitting still, a period of rest
+seditio | 1 | sedition
+seditio | 3 | transferred (rare), general strife, discord, quarrel
