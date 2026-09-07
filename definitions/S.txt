@@ -147,3 +147,29 @@ salsura | 1 | pickling
 salsura | 3 | concretely, brine, pickle
 salsura | 4 | pickled or salted fish
 salsura | 5 | comic, ita meae animae salsura evenit, I am in such an ill-humor
+saltatio | 1 | dance
+saltatorius | 1 | of dancing
+saltatorius | 3 | ludus saltatorius, a dancing-school
+saltem | 1 | at least
+saltem | 3 | with a negative, not even
+salto | 1 | dance
+salto | 3 | to act out a play through dance and gesture, to perform in pantomime
+salto | 4 | figuratively, of an orator, to speak in a jerky, mannered style
+saltuatim | 1 | by leaps
+saltuatim | 3 | of writing, in a disjointed, skipping manner
+saltus1 | 1 | leap
+saltus1 | 3 | figuratively, a sudden leap, an abrupt rise
+saltus2 | 1 | woodland-pasture
+saltus2 | 3 | especially, a narrow pass, ravine, mountain-valley
+saltus2 | 4 | in law, a tract of public land of four centuriae
+saltus2 | 5 | vulgar, the female genitals
+saltus2 | 6 | figuratively, ex hoc saltu, out of this dangerous predicament
+salubris | 1 | healthy
+salubris | 3 | of the human body itself, sound, vigorous
+salubritas | 1 | healthfulness
+salubritas | 3 | transferred, health, soundness itself
+salus | 1 | safety
+salus | 2 | health
+salus | 3 | specifically, a greeting, a salutation
+salus | 4 | eccl. Latin, salvation
+salus | 5 | as a proper noun, Salus, the Roman goddess of Safety
