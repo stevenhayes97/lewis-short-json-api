@@ -126,3 +126,24 @@ salebra | 3 | of speech, harshness, an awkward or uneven passage
 salebra | 4 | haerere in salebra, to get stuck, to stumble in speaking
 salebrosus | 1 | rugged
 salebrosus | 3 | of speech, harsh, rugged
+salictum | 1 | willow-grove
+salinae | 1 | saltworks
+salinum | 1 | saltcellar
+salio1 | 1 | salt
+salio1 | 3 | eccl. Latin, to sprinkle before sacrifice
+salio2 | 1 | leap
+salio2 | 3 | transferred, of water, to gush, spurt, flow
+salio2 | 4 | of animals, to mate, cover
+saliva | 1 | saliva
+saliva | 3 | transferred, a slimy moisture, slime
+saliva | 4 | figuratively, taste, flavor; longing, appetite
+salivo | 1 | discharge
+salivo | 3 | veterinary, to salivate, treat a sick animal by salivation
+salsamentarius | 1 | of salt-fish
+salsamentarius | 3 | as a noun, a dealer in salted fish
+salsamentum | 1 | salted fish
+salsamentum | 3 | fish-pickle, brine
+salsura | 1 | pickling
+salsura | 3 | concretely, brine, pickle
+salsura | 4 | pickled or salted fish
+salsura | 5 | comic, ita meae animae salsura evenit, I am in such an ill-humor
