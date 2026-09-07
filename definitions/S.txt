@@ -339,3 +339,23 @@ scalpo | 1 | carve
 scalpo | 3 | figuratively, to tickle, titillate
 scalprum | 1 | chisel
 scalprum | 3 | specifically, a penknife
+scamnum | 1 | bench
+scamnum | 3 | agriculture, a ridge of earth left standing in plowing, a balk
+scamnum | 4 | land-surveying, the breadth of a field, as opposed to its length
+scando | 1 | climb
+scando | 3 | figuratively, to rise, ascend
+scansilis | 1 | climbable
+scansilis | 3 | figuratively, lex annorum scansilis, the law of the critical, climacteric years
+scansio | 1 | ascent
+scansio | 3 | grammatical, the scansion of verse
+scapulae | 1 | shoulder-blades
+scapulae | 3 | transferred, the shoulders, the back
+scarifo | 1 | scarify
+scatebra | 1 | spring
+scateo | 1 | gush
+scateo | 2 | abound
+scaturio | 1 | gush
+scaturio | 2 | abound
+scelero | 1 | defile
+scelero | 3 | as an adjective (sceleratus), wicked, impious, accursed
+scelero | 4 | as an adjective (sceleratus), hurtful, unlucky, calamitous
