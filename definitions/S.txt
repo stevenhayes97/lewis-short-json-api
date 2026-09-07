@@ -218,3 +218,32 @@ sanguinarius | 3 | literally, of blood, blood-, e.g. sanguinaria herba, a blood-
 sanguineus | 1 | bloody
 sanguineus | 3 | of persons, blood-thirsty
 sanguineus | 4 | transferred, blood-red, blood-colored
+sanguino | 1 | bleed
+sanguino | 3 | transferred, to be blood-colored
+sanguino | 4 | figuratively, to be blood-thirsty
+sanguinolentus | 1 | bloody
+sanguinolentus | 3 | transferred, blood-red
+sanguinolentus | 4 | figuratively, sanguinary, e.g. littera sanguinolenta, an injurious letter
+sanguis | 1 | blood
+sanguis | 2 | lineage
+sanguis | 3 | concretely, a descendant, offspring
+sanguis | 4 | figuratively, vigor, strength, vitality
+sanguis | 5 | of other fluids (poet.), e.g. Baccheus sanguis, wine
+sanies | 1 | gore
+sanies | 3 | transferred (poet.), venomous slaver, e.g. of a serpent
+sanitas | 1 | health
+sanitas | 2 | sanity
+sanitas | 3 | of style, correctness, purity, propriety
+sano | 1 | heal
+sano | 3 | figuratively, to correct, restore, repair, allay
+sanus | 1 | healthy
+sanus | 2 | sane
+sanus | 3 | of style, sound, correct, sober
+saperda | 1 | herring
+sapientia | 1 | wisdom
+sapientia | 2 | prudence
+sapientia | 3 | specifically, philosophy, knowledge of the world
+sapio | 1 | be wise
+sapio | 3 | literally, to taste, to have a flavor of something
+sapio | 4 | to smell of, to resemble
+sapio | 5 | proverbial, sero sapiunt Phryges, wise too late, after the fact
