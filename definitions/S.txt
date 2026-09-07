@@ -247,3 +247,20 @@ sapio | 1 | be wise
 sapio | 3 | literally, to taste, to have a flavor of something
 sapio | 4 | to smell of, to resemble
 sapio | 5 | proverbial, sero sapiunt Phryges, wise too late, after the fact
+sapor | 1 | flavor
+sapor | 3 | transferred, a sense of taste
+sapor | 4 | concretely, a delicacy, dainty
+sapor | 5 | figuratively, of style, taste, elegance
+sapsa | 1 | own
+sarcina | 1 | pack
+sarcina | 3 | figuratively (Ovid.), a burden of cares, troubles
+sarcinula | 1 | bundle
+sarcio | 1 | mend
+sarcio | 3 | figuratively, to make good, to make amends for a loss
+sarcio | 4 | sarta tecta, well-preserved, safe and sound
+sarculum | 1 | hoe
+sardius | 1 | carnelian
+sarmentum | 1 | brushwood
+sarracum | 1 | wagon
+sarracum | 3 | as a proper noun, the constellation Sarracum, the Wain
+sarrio | 1 | weed
