@@ -292,3 +292,26 @@ satur | 1 | sated
 satur | 3 | transferred, of color, deep, rich
 satur | 4 | in general, abundant, fertile, well-filled
 satur | 5 | per saturam, in the gross, without order, confusedly
+satureia | 1 | savory
+saturitas | 1 | satiety
+saturitas | 3 | transferred, fullness, plenty, abundance
+saturo | 1 | satiate
+saturo | 3 | transferred, to furnish abundantly, to saturate with something
+saturo | 4 | figuratively, to satisfy, content, sate; also, to cause loathing, disgust
+satus2 | 1 | sowing
+satus2 | 2 | stock
+satus2 | 3 | figuratively, seed
+saucio | 1 | wound
+saucio | 3 | pregnant sense, to kill, to deal a mortal blow
+saucio | 4 | of tilling the soil, to dig into, break up; also, to prune a vine
+saucio | 5 | poetic idiom, se sauciare, to get drunk
+saucio | 6 | figuratively, to hurt, injure, damage
+saucius | 1 | wounded
+saucius | 2 | smitten
+saucius | 3 | transferred, of persons and things, sick, injured, damaged
+saucius | 4 | figuratively, hurt, offended
+saxatilis | 1 | rock-dwelling
+saxeus | 1 | stony
+saxeus | 3 | figuratively, hard, unfeeling, obdurate
+saxifragus | 1 | stone-breaking
+saxosus | 1 | rocky
