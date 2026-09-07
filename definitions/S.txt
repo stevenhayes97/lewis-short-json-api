@@ -626,3 +626,21 @@ semestris1 | 1 | semiannual
 semesus | 1 | half-eaten
 semi | 1 | half
 semianimis | 1 | half-dead
+semideus | 1 | half-divine
+semideus | 3 | as a noun, a demigod
+semiermis | 1 | half-armed
+semifer | 1 | half-beast
+semifer | 3 | figuratively, half-wild, half-savage
+semihomo | 1 | half-man
+semihomo | 3 | figuratively, half-wild, savage
+semimas | 1 | hermaphrodite
+semimas | 3 | transferred, castrated, emasculated
+seminalis | 1 | seminal
+seminarius | 1 | nursery
+seminarius | 3 | figuratively (Cicero), a breeding-ground, a source
+seminecis | 1 | half-dead
+semino | 1 | sow
+semino | 3 | transferred, to beget, to engender
+semino | 4 | figuratively, to propagate, to disseminate
+seminudus | 1 | half-naked
+seminudus | 3 | transferred, half-unarmed, almost defenseless
