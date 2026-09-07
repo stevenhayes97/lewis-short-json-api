@@ -568,3 +568,25 @@ sedile | 1 | seat
 sedile | 3 | transferred, a sitting still, a period of rest
 seditio | 1 | sedition
 seditio | 3 | transferred (rare), general strife, discord, quarrel
+seditiosus | 1 | seditious
+seditiosus | 3 | transferred, in general, quarrelsome
+sedo | 1 | calm
+sedo | 3 | as a participle (sedatus), composed, moderate, calm, quiet
+seduco | 1 | lead aside
+seduco | 3 | eccl. Latin, to lead astray, to seduce, to mislead
+seduco | 4 | poetic, to separate, to divide
+seductio | 1 | separation
+seductio | 3 | eccl. Latin, a misleading, a seduction
+seductio | 4 | specifically (legal), a leading aside, e.g. of witnesses
+sedulitas | 1 | diligence
+sedulitas | 3 | with a negative implication, officiousness, obtrusiveness
+sedulus | 1 | diligent
+sedulus | 3 | with a negative implication, officious, obtrusive, meddlesome
+seges | 1 | cornfield
+seges | 2 | crop
+seges | 3 | figuratively (poet.), a yield, a result, a profit
+segestre | 1 | covering
+segmen | 1 | shred
+segmentum | 1 | slice
+segmentum | 3 | specifically, a zone or segment of the earth
+segmentum | 4 | plural, ornamental strips or trimmings sewn onto a dress
