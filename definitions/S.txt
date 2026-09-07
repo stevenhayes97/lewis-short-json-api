@@ -418,3 +418,26 @@ scribo | 1 | write
 scribo | 3 | military, scribere milites, to enlist, enroll, levy soldiers
 scribo | 4 | political, to draw up a law, decree, or treaty
 scribo | 5 | legal, dicam scribere, to bring a written charge against someone
+scrinium | 1 | case
+scrinium | 3 | specifically, a case for books, papers, or letters
+scriptio | 1 | writing
+scriptio | 3 | specifically, literary composition
+scriptio | 4 | a note, a bond
+scriptito | 1 | write often
+scriptito | 3 | specifically, to write or compose on one's own initiative, not officially
+scriptor | 1 | writer
+scriptor | 3 | political and legal, a drafter, a compiler, e.g. of a law or a will
+scriptura | 1 | writing
+scriptura | 3 | political, a tax on the use of public pasture-land
+scriptura | 4 | eccl. Latin, as a proper noun, Scripture, the Scriptures
+scriptura | 5 | legal, a testamentary provision, a will
+scripturarius | 1 | of pasture-tax
+scripturarius | 3 | as a noun, a collector of the pasture-tax
+scriptus2 | 1 | clerkship
+scrobis | 1 | trench
+scrobis | 3 | transferred, a grave
+scrobis | 4 | vulgar, the female genitals
+scrupeus | 1 | rugged
+scrupeus | 3 | figuratively, hard, severe
+scruposus | 1 | rugged
+scruposus | 3 | figuratively, hard, arduous
