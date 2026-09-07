@@ -514,3 +514,30 @@ sectio | 4 | geometrical, a section, a division
 sector1 | 1 | cutter
 sector1 | 3 | political, a buyer at a public auction of confiscated goods
 sector1 | 4 | geometrical, a sector of a circle
+sector2 | 1 | follow
+sector2 | 3 | specifically, to chase, hunt animals
+sector2 | 4 | figuratively, to pursue eagerly, to strive after
+sectura | 1 | cutting
+sectura | 3 | transferred, diggings, a mine
+secubo | 1 | sleep alone
+secubo | 3 | in general, to live alone, in solitude
+secundanus | 1 | second
+secundanus | 3 | as a noun (plural), soldiers of the second legion
+secundarius | 1 | second-rate
+secundarius | 3 | of abstract things (Cicero), a secondary consideration or point
+secundo1 | 1 | secondly
+secundo1 | 3 | for the second time
+secundo1 | 4 | twice
+secundo2 | 1 | favor
+secundo2 | 3 | literally, of wind or weather, to be favorable to, to speed a journey
+secundum | 1 | along
+secundum | 2 | according to
+secundum | 3 | in time, immediately after, next to
+secundum | 4 | legal, in favor of, to the advantage of
+secundus1 | 1 | second
+secundus1 | 2 | favorable
+secundus1 | 3 | nautical, of wind or current, following, fair
+securis | 1 | axe
+securis | 3 | specifically, an executioner's axe, borne in the lictors' fasces
+securis | 4 | figuratively, a deathblow
+securis | 5 | figuratively (usually plural), authority, sovereign power
