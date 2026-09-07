@@ -1,0 +1,25 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_S.json (Lewis & Short via Perseus), simplified for learners.
+sabbatum | 1 | Sabbath
+sabbatum | 3 | transferred, any Jewish holiday
+saburro | 1 | ballast
+saburro | 3 | comic, to be stuffed, crammed full
+saccarius | 1 | of sacks
+saccarius | 3 | as a noun, a sack-carrier, a porter
+sacco | 1 | strain
+sacco | 3 | transferred, of urine, to be filtered through the body
+sacculus | 1 | bag
+sacculus | 2 | purse
+sacellum | 1 | shrine
+sacellum | 3 | a small unroofed place consecrated to a god
+sacer | 1 | sacred
+sacer | 2 | accursed
+sacer | 3 | devoted to a god for destruction, forfeited, outlawed
+sacer | 4 | transferred, detestable, execrable
+sacer | 5 | as a neuter plural noun (sacra), sacred rites, holy objects
+sacerdos1 | 1 | priest
+sacerdos1 | 3 | also used of a priestess
+sacerdotalis | 1 | priestly
+sacerdotalis | 3 | as a noun, one who has held a priestly office
+sacerdotium | 1 | priesthood
+sacerdotium | 3 | eccl. Latin, the mediatorial office of Christ
