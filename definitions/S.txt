@@ -762,3 +762,29 @@ septuageni | 1 | seventy each
 septuageni | 3 | transferred, seventy
 sepulcrum | 1 | tomb
 sepulcrum | 3 | specifically, a place where a corpse is cremated, a funeral pyre site
+sepultura | 1 | burial
+sepultura | 3 | specifically, the burning of the corpse, cremation
+sequax | 1 | pursuing
+sequax | 3 | specifically, of materials, pliable, ductile, flexible
+sequax | 4 | figuratively, tractable, docile
+sequela | 1 | consequence
+sequela | 3 | literally, a follower, an attendant
+sequester | 1 | trustee
+sequester | 3 | specifically, in bribery, a go-between, an agent
+sequester | 4 | post-Aug., a mediator, an intermediary
+sequestro | 1 | sequester
+sequestro | 3 | transferred, to remove, to separate from something
+sequor | 1 | follow
+sequor | 3 | specifically, to follow in a hostile manner, to pursue, chase
+sequor | 4 | of time or order, to come after, to succeed
+sequor | 5 | figuratively, to pursue a goal, to strive for, aim at
+sequor | 6 | figuratively, to follow as a leader, to comply with, conform to
+sera | 1 | bolt
+serenitas | 1 | serenity
+serenitas | 3 | literally, of the weather, clearness, fair weather
+serenitas | 4 | as a title of the Roman emperors, Serenity, Serene Highness
+sereno | 1 | clear
+sereno | 3 | figuratively, to brighten, to cheer
+serenus1 | 1 | clear
+serenus1 | 2 | cheerful
+serenus1 | 3 | as a noun (serenum), a clear sky, fair weather
