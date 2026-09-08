@@ -1065,3 +1065,26 @@ sisto | 3 | legal, to appear in court, to produce in court
 sisto | 4 | to stand firm, to remain fixed
 sisto | 5 | to stop, to halt, to check an advancing motion
 sisto | 6 | to stop, to arrest the flow of blood or water
+sitella | 1 | lottery-urn
+siticulosus | 1 | thirsty
+siticulosus | 3 | transferred, of places, very dry, parched, arid
+sitio | 1 | thirst
+sitio | 2 | covet
+sitio | 3 | transferred, of land or plants, to be parched, dried up
+sitis | 1 | thirst
+sitis | 2 | greed
+sitis | 3 | transferred, of places, dryness, drought
+situla | 1 | bucket
+situla | 3 | specifically, an urn used for drawing lots
+situs2 | 1 | site
+situs2 | 2 | rust
+situs2 | 3 | figuratively, neglect, idleness, disuse
+situs2 | 4 | of the mind, dullness, inactivity, stagnation
+sive | 1 | or if
+sive | 3 | correlative, sive ... sive, whether ... or
+sobrietas | 1 | sobriety
+sobrietas | 3 | in general, moderation, temperance, continence
+sobrietas | 4 | figuratively, reasonableness, prudence
+sobrinus | 1 | cousin
+sobrius | 1 | sober
+sobrius | 2 | prudent
