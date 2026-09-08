@@ -847,3 +847,22 @@ sescenti | 2 | countless
 sescenties | 1 | six-hundred times
 sescuncia | 1 | an eighth
 sescuncia | 3 | literally, one and a half unciae, a twelfth and a half
+sesqui | 1 | one-and-a-half
+sesquipedalis | 1 | foot-and-a-half
+sesquipedalis | 3 | poetic, excessively long, half a yard long, e.g. sesquipedalia verba, long-winded words
+sesquiplaris | 1 | ration-and-a-half soldier
+sessilis | 1 | sessile
+sessilis | 3 | transferred, of plants, low-growing, dwarf, spreading
+sessio | 1 | session
+sessio | 3 | concretely, a seat, a sitting-place
+sessio | 4 | specifically, idle sitting, loitering, tarrying
+sessor | 1 | sitter
+sessor | 3 | specifically, a horseman, a rider
+sessor | 4 | specifically, an inhabitant, a resident
+sestertius | 1 | sesterce
+sestertius | 3 | transferred, for a trifle, for a nominal sum
+sestertius | 4 | in general, money, a sum of money
+severitas | 1 | severity
+severus1 | 1 | severe
+sevir | 1 | sexvir
+sevir | 3 | specifically, sevir Augustalis, a member of the priestly college of Augustus's cult
