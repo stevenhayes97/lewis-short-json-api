@@ -983,3 +983,20 @@ silva | 2 | abundance
 silva | 3 | transferred, a plantation, an orchard, a grove
 silvaticus | 1 | wild
 silvaticus | 3 | literally, of or belonging to a wood
+silvestris | 1 | wooded
+silvestris | 2 | wild
+simia | 1 | ape
+simia | 3 | figuratively, as a term of abuse or of imitators, a mimic, a copycat
+similis | 1 | similar
+similitudo | 1 | resemblance
+similitudo | 3 | rhetorical, a comparison, a simile
+similitudo | 4 | transferred, sameness, uniformity, monotony
+simitu | 1 | together
+simplex | 1 | simple
+simplex | 2 | frank
+simplicitas | 1 | simplicity
+simplicitas | 3 | specifically (moral sense), frankness, openness, artlessness, candor
+simplus | 1 | single
+simplus | 3 | as a noun (simplum), the simple sum, the base amount, as opposed to double
+simpulum | 1 | ladle
+simpuvium | 1 | sacrificial bowl
