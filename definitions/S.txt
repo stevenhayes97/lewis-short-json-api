@@ -926,3 +926,34 @@ sideror | 1 | be star-struck
 sido1 | 1 | settle
 sido1 | 3 | nautical, of a ship, to run aground, to stick fast on shallows
 sido1 | 4 | figuratively, to sink down, to subside
+sidus | 1 | constellation
+sidus | 3 | transferred, the sky, the heavens
+sidus | 4 | transferred, a season of the year
+sidus | 5 | transferred, fate, destiny, through astrological influence
+sigilla | 1 | figurine
+sigilla | 3 | transferred, a seal
+signaculum | 1 | mark
+signaculum | 3 | specifically, a seal, a signet
+signator | 1 | witness
+signator | 3 | specifically, one who stamps money, a coiner
+signifer | 1 | standard-bearer
+signifer | 3 | astronomical, orbis signifer, the zodiac
+signifer | 4 | transferred, a leader, a chief
+significatio | 1 | indication
+significatio | 2 | meaning
+significatio | 3 | pregnant sense, a sign of approval, applause
+significatus | 1 | meaning
+significatus | 3 | specifically, a sign, a prognostic of weather
+significo | 1 | indicate
+significo | 2 | mean
+significo | 3 | specifically, to betoken, to portend, to foreshow
+signo | 1 | mark
+signo | 3 | specifically, to seal, to seal up a document
+signo | 4 | specifically, to stamp, to coin money
+signo | 5 | figuratively, to distinguish, to recognize
+signum | 1 | sign
+signum | 2 | statue
+signum | 3 | military, a standard, an ensign
+signum | 4 | a signal, a watchword
+signum | 5 | a seal, a signet
+signum | 6 | a constellation
