@@ -788,3 +788,22 @@ sereno | 3 | figuratively, to brighten, to cheer
 serenus1 | 1 | clear
 serenus1 | 2 | cheerful
 serenus1 | 3 | as a noun (serenum), a clear sky, fair weather
+seria | 1 | jar
+series | 1 | series
+series | 3 | specifically, an unbroken line of descent, a lineage
+serius1 | 1 | serious
+sermo | 1 | conversation
+sermo | 3 | specifically, everyday speech, the language of conversation
+sermo | 4 | specifically, common talk, report, rumor
+sermo | 5 | transferred, a language, the speech of a nation
+sermocinatio | 1 | dialogue
+sermocinor | 1 | converse
+sermunculus | 1 | gossip
+sero1 | 1 | sow
+sero1 | 3 | transferred, of persons (as a participle), begotten, born, sprung forth
+sero1 | 4 | figuratively, to found, establish, disseminate, cause
+sero2 | 1 | entwine
+sero2 | 3 | as a noun (serta), wreaths of flowers, garlands
+sero2 | 4 | figuratively, to combine, contrive, connect
+serotinus | 1 | late
+serotinus | 3 | specifically, in the evening
