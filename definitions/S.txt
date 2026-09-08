@@ -1131,3 +1131,25 @@ solea | 3 | transferred, a kind of fetter
 solea | 4 | transferred, a horseshoe
 solea | 5 | transferred, a sole, the fish
 soleatus | 1 | sandaled
+soleo | 1 | be accustomed
+soleo | 3 | euphemism, to have intercourse with
+soliditas | 1 | solidity
+solido | 1 | solidify
+solido | 3 | figuratively, to confirm, to establish
+solidus | 1 | solid
+solidus | 2 | genuine
+solidus | 3 | as a noun (solidus), a gold coin
+solitarius | 1 | solitary
+solitudo | 1 | solitude
+solitudo | 2 | wilderness
+solitudo | 3 | specifically, a state of destitution, deprivation, being forsaken
+solium | 1 | throne
+solium | 3 | meton., rule, dominion, sway
+solium | 4 | specifically, a bathtub
+solium | 5 | specifically, a stone coffin, a sarcophagus
+solivagus | 1 | solitary
+sollemnis | 1 | solemn
+sollemnis | 2 | customary
+sollemnis | 3 | as a noun (sollemne), a religious rite, a solemn ceremony, a festival
+sollemnitas | 1 | solemnity
+sollemnitas | 3 | legal, a usage, a formality
