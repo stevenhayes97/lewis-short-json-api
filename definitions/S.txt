@@ -1308,3 +1308,21 @@ specula1 | 1 | watchtower
 specula1 | 3 | idiom, in speculis esse, to be on the watch, on the lookout
 specula1 | 4 | poetic, a height, an eminence, of natural terrain
 specula2 | 1 | faint hope
+speculabundus | 1 | watchful
+specularis | 1 | mirror-like
+specularis | 3 | specifically, specularis lapis, a transparent mineral, mica, used for windows
+speculator | 1 | scout
+speculator | 3 | transferred, a searcher, an investigator, an examiner
+speculatorius | 1 | of scouts
+speculatorius | 3 | as a noun (navis speculatoria), a spy-boat, a scout ship
+speculatrix | 1 | watcher
+speculatrix | 3 | transferred, looking out toward, facing, e.g. the sea
+speculor | 1 | spy
+speculum | 1 | mirror
+speculum | 3 | figuratively, a copy, a reflection, an imitation
+specus | 1 | cave
+specus | 3 | specifically, an artificial channel, a ditch, a drain, a mine shaft
+specus | 4 | transferred (poet.), a hollow, a cavity, e.g. of a wound or a belly
+sperno | 1 | spurn
+spero | 1 | hope
+spero | 3 | rare (mostly poet.), to expect, to apprehend an undesired thing
