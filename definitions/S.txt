@@ -675,3 +675,29 @@ senaculum | 1 | senate-hall
 senarius | 1 | senarius
 senarius | 3 | as an adjective, in general, consisting of six each
 senator | 1 | senator
+senatorius | 1 | senatorial
+senatus | 1 | senate
+senatus | 3 | figuratively (rare), a council, a consultation
+senectus1 | 1 | aged
+senectus1 | 3 | as a noun (senecta), old age
+senectus1 | 4 | as a noun (senecta), an old man
+senectus1 | 5 | as a noun (senecta), in Pliny, the cast-off skin of a serpent
+senectus2 | 1 | old age
+senectus2 | 3 | personified, Old Age, as a goddess
+senectus2 | 4 | transferred, old men, collectively
+senectus2 | 5 | transferred, gray hairs
+senectus2 | 6 | transferred, the cast-off skin of a serpent
+seneo | 1 | be old
+seneo | 3 | transferred, to be weak, feeble
+senesco | 1 | age
+senesco | 2 | decline
+senesco | 3 | of the moon, to wane
+senesco | 4 | to linger too long over something, to grow stale in it
+senex | 1 | old man
+senex | 3 | as an adjective, old, aged
+seni | 1 | six each
+seni | 3 | transferred, six
+senilis | 1 | senile
+senium | 1 | decay
+senium | 2 | moroseness
+senium | 3 | concretely (rare, term of abuse), an old man, an old fellow
