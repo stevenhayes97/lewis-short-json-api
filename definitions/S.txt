@@ -1284,3 +1284,27 @@ specimen | 3 | transferred, a pattern, a model, an ideal
 specio | 1 | look
 speciosus | 1 | handsome
 speciosus | 2 | plausible
+spectabilis | 1 | visible
+spectabilis | 2 | notable
+spectabilis | 3 | late Latin, as a title, Spectabilis, a title of high officers
+spectaculum | 1 | spectacle
+spectaculum | 3 | transferred, the seats of spectators, the theatre
+spectaculum | 4 | specifically (plural), spectacula, the Seven Wonders of the world
+spectamen | 1 | proof
+spectamen | 3 | a sight, a spectacle
+spectatio | 1 | contemplation
+spectatio | 3 | specifically, an examining, a testing, esp. of coin
+spectatio | 4 | figuratively, respect, regard, consideration
+spectator | 1 | observer
+spectator | 3 | specifically, a spectator at a theatre or games
+spectator | 4 | specifically, an examiner, a judge, a critic
+spectatrix | 1 | observer
+specto | 1 | watch
+specto | 3 | of localities, to face, to look toward, to be situated toward
+specto | 4 | specifically, to examine, to test, esp. of coin
+specto | 5 | figuratively, to aim at, to have in view, to tend toward, to pertain to
+spectrum | 1 | apparition
+specula1 | 1 | watchtower
+specula1 | 3 | idiom, in speculis esse, to be on the watch, on the lookout
+specula1 | 4 | poetic, a height, an eminence, of natural terrain
+specula2 | 1 | faint hope
