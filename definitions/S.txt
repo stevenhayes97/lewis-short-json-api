@@ -1041,3 +1041,27 @@ sinister | 1 | left
 sinister | 2 | unlucky
 sinister | 3 | in augury, lucky, favorable, auspicious
 sinistrorsus | 1 | leftward
+sino | 1 | allow
+sino | 3 | colloquial, sine, let it be, granted, agreed
+sino | 4 | as a participle (situs), lying, situated, of places
+sino | 5 | as a participle (situs), of the dead, laid, buried
+sinum | 1 | jug
+sinuo | 1 | curve
+sinuo | 3 | transferred, to hollow out, to excavate
+sinuosus | 1 | sinuous
+sinuosus | 3 | figuratively, of style, full of digressions, diffuse
+sinus1 | 1 | fold
+sinus1 | 2 | bay
+sinus1 | 3 | transferred, the bosom, for love, protection
+sinus1 | 4 | transferred, a purse, carried in the fold of the toga
+siparium | 1 | curtain
+siparium | 3 | meton., comedy, as opposed to tragedy
+siquidem | 1 | if indeed
+siquidem | 3 | causal, since indeed, since
+siquis | 1 | if anyone
+siremps | 1 | same
+sisto | 1 | place
+sisto | 3 | legal, to appear in court, to produce in court
+sisto | 4 | to stand firm, to remain fixed
+sisto | 5 | to stop, to halt, to check an advancing motion
+sisto | 6 | to stop, to arrest the flow of blood or water
