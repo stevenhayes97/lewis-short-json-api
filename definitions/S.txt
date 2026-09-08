@@ -1021,3 +1021,23 @@ sincerus | 2 | sincere
 sinciput | 1 | pig's jowl
 sinciput | 3 | comic, transferred, the brain
 sinciput | 4 | late Latin, transferred, the head in general
+sine | 1 | without
+singillatim | 1 | individually
+singularis | 1 | single
+singularis | 2 | extraordinary
+singularis | 3 | grammatical, singular in number
+singularis | 4 | military, as a noun, a bodyguard, an orderly
+singularitas | 1 | singleness
+singularius | 1 | single
+singularius | 3 | transferred, remarkable, extraordinary
+singuli | 1 | individual
+singuli | 3 | idiom, in dies singulos, day by day, daily
+singulto | 1 | sob
+singulto | 3 | transferred (poet.), of dying persons, to rattle in the throat
+singultus | 1 | sob
+singultus | 3 | transferred, a death-rattle, of dying persons
+singultus | 4 | transferred, the clucking of a hen, the croaking of a raven
+sinister | 1 | left
+sinister | 2 | unlucky
+sinister | 3 | in augury, lucky, favorable, auspicious
+sinistrorsus | 1 | leftward
