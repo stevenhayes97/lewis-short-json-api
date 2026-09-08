@@ -1240,3 +1240,25 @@ sordidatus | 3 | specifically, as a sign of mourning or distress
 sordidus | 1 | dirty
 sordidus | 2 | stingy
 sordidus | 3 | transferred, low, base, mean, of birth or rank
+soror | 1 | sister
+soror | 3 | transferred, a female friend, a companion
+soror | 4 | transferred, a cousin, a father's brother's daughter
+sororius | 1 | sisterly
+sororius | 3 | specifically, Sororium Tigillum, the Sister's Beam, a place in Rome sacred to Juno
+sors | 1 | lot
+sors | 2 | fate
+sors | 3 | specifically, an oracular response, a prophecy
+sors | 4 | mercantile, capital, principal, as opposed to interest
+sortio | 1 | draw lots
+sortior | 1 | draw lots
+sortior | 3 | transferred, to obtain by lot, to be allotted
+sortior | 4 | transferred, to share, to divide, to distribute
+sortior | 5 | transferred, to choose, to select
+sortitio | 1 | drawing lots
+sortitus2 | 1 | drawing lots
+sospes | 1 | safe
+sospes | 3 | archaic (rare), as an active sense, saving, delivering; as a noun, a savior
+sospito | 1 | protect
+spargo1 | 1 | scatter
+spargo1 | 2 | spread
+spargo1 | 3 | specifically, of liquids, to sprinkle, to besprinkle
