@@ -726,3 +726,21 @@ sentio | 3 | to perceive the ill effects of something, to suffer, undergo
 sentio | 4 | political and legal, to give one's opinion, to vote, to declare
 sentis1 | 1 | bramble
 sentis1 | 3 | transferred (Plautus), of thievish hands, briers
+sentus | 1 | thorny
+seorsus | 1 | apart
+seorsus | 3 | as an adjective (rare), separate, sundered
+separatim | 1 | separately
+separatio | 1 | separation
+separo | 1 | separate
+separo | 3 | figuratively, to distinguish, to treat separately, to differentiate
+sepelio | 1 | bury
+sepelio | 3 | figuratively, to overwhelm, destroy, ruin, suppress
+sepelio | 4 | poetic, as a participle (sepultus), buried in deep sleep, fast asleep
+sepono | 1 | set aside
+sepono | 3 | specifically (post-Aug.), to banish, to exile
+sepono | 4 | to reserve, to set apart for a purpose
+sepono | 5 | as a participle (sepositus), distant, remote; also, choice, select
+septem | 1 | seven
+septem | 3 | as a noun, the Seven, the Sages of Greece
+septemplex | 1 | sevenfold
+septemviri | 1 | septemvirs
