@@ -1198,3 +1198,22 @@ somnium | 3 | transferred, an idle fancy, nonsense
 somnus | 1 | sleep
 somnus | 3 | reproachful sense, sloth, idleness, inactivity
 somnus | 4 | poetic, death, as a euphemism
+sonipes | 1 | steed
+sonitus | 1 | sound
+sono | 1 | sound
+sono | 3 | transitive, to utter, to speak, to sing, to give voice to
+sonor | 1 | sound
+sonorus | 1 | sonorous
+sons | 1 | guilty
+sons | 3 | as a noun, a criminal, an offender
+sonticus | 1 | serious
+sonus1 | 1 | sound
+sonus1 | 3 | figuratively, tone, character, style, of language
+sopio | 1 | benumb
+sopio | 3 | poetic, pregnant sense, to lay to rest, i.e. to kill
+sopio | 4 | transferred, of things, to calm, to still, to quiet
+sopor | 1 | sleep
+sopor | 3 | pregnant sense, the sleep of death, death
+sopor | 4 | transferred, stupor, lethargy
+sopor | 5 | transferred, opium, poppy-juice
+sopor | 6 | transferred, a sleeping-draught, a sleeping potion
