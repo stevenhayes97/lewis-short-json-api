@@ -1217,3 +1217,26 @@ sopor | 3 | pregnant sense, the sleep of death, death
 sopor | 4 | transferred, stupor, lethargy
 sopor | 5 | transferred, opium, poppy-juice
 sopor | 6 | transferred, a sleeping-draught, a sleeping potion
+soporifer | 1 | soporific
+soporo | 1 | stupefy
+soporo | 3 | transferred, to lay at rest, to still, to quiet
+soporus | 1 | sleep-bringing
+soporus | 3 | heavy with sleep, drowsy
+sorbeo | 1 | swallow
+sorbeo | 3 | transferred, to suck in, to draw in, to absorb
+sorbeo | 4 | figuratively, to endure, to bear, to stomach
+sorbitio | 1 | broth
+sordeo | 1 | be dirty
+sordeo | 3 | figuratively, to be mean, base, sordid
+sordeo | 4 | transferred, to be despised, slighted, held of no account
+sordes | 1 | filth
+sordes | 2 | stinginess
+sordes | 3 | transferred (plural), mourning garments, mourning
+sordes | 4 | figuratively, lowness of rank, meanness of condition
+sordesco | 1 | get dirty
+sordesco | 3 | figuratively, to be mean, vile
+sordidatus | 1 | shabby
+sordidatus | 3 | specifically, as a sign of mourning or distress
+sordidus | 1 | dirty
+sordidus | 2 | stingy
+sordidus | 3 | transferred, low, base, mean, of birth or rank
