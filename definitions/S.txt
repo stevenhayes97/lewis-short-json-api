@@ -957,3 +957,29 @@ signum | 3 | military, a standard, an ensign
 signum | 4 | a signal, a watchword
 signum | 5 | a seal, a signet
 signum | 6 | a constellation
+silentiarius | 1 | usher
+silentiarius | 3 | later imperial period, a privy-councillor
+silentium | 1 | silence
+silentium | 3 | augural, freedom from disturbance, ritual soundness in taking auspices
+silentium | 4 | transferred, a standstill, cessation, inaction
+sileo | 1 | be silent
+sileo | 3 | transitive, to keep secret about, not to mention
+sileo | 4 | of things (poet.), to be still, calm, quiet
+sileo | 5 | figuratively, to be inactive, to rest, to cease
+silesco | 1 | quiet down
+silex | 1 | flint
+silex | 3 | in general (poet.), a rock, a crag
+silicernium | 1 | funeral feast
+silicernium | 3 | comic, as a term of abuse, an old fogey
+silicernium | 4 | late Latin, a kind of sausage
+siligo | 1 | winter-wheat
+siligo | 3 | transferred, fine wheaten flour
+siliqua | 1 | pod
+siliqua | 3 | transferred, pulse, legumes in general
+siliqua | 4 | siliqua Graeca, the carob tree, carob
+siliqua | 5 | as a coin, one twenty-fourth of a solidus
+silva | 1 | forest
+silva | 2 | abundance
+silva | 3 | transferred, a plantation, an orchard, a grove
+silvaticus | 1 | wild
+silvaticus | 3 | literally, of or belonging to a wood
