@@ -1171,3 +1171,30 @@ solor | 3 | transferred, to soothe, to ease, to relieve, to mitigate
 solox | 1 | coarse
 solstitialis | 1 | solstitial
 solstitialis | 3 | transferred, of or belonging to midsummer heat
+solstitium | 1 | solstice
+solstitium | 3 | transferred, summer time, the heat of summer
+solum1 | 1 | ground
+solum1 | 2 | land
+solum1 | 3 | figuratively (rare), a base, a foundation, e.g. of a throne
+solus1 | 1 | alone
+solus1 | 3 | idiom, non solum ... sed etiam, not only ... but also
+solutio | 1 | payment
+solutio | 3 | literally, a loosening, an unloosing
+solutio | 4 | figuratively, a solution, an explanation
+solvo | 1 | loosen
+solvo | 2 | pay
+solvo | 3 | of ships, navem solvere, to set sail, to weigh anchor
+solvo | 4 | to free, to release, to set free from bonds, obligations, or cares
+solvo | 5 | to break up, to dissolve, to disperse an assembly or army's ranks
+solvo | 6 | to solve, to explain, to refute a riddle or argument
+solvo | 7 | as a participle (solutus), free, unrestrained; also, of style, prose
+somniculosus | 1 | drowsy
+somniculosus | 3 | active sense (rare), causing drowsiness, torpor
+somnifer | 1 | soporific
+somnio | 1 | dream
+somnio | 3 | transferred, to talk foolishly, to think idly, to rave
+somnium | 1 | dream
+somnium | 3 | transferred, an idle fancy, nonsense
+somnus | 1 | sleep
+somnus | 3 | reproachful sense, sloth, idleness, inactivity
+somnus | 4 | poetic, death, as a euphemism
