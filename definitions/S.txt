@@ -883,3 +883,23 @@ sextans | 1 | a sixth
 sextans | 3 | specifically, as a coin, a small copper coin worth a sixth of an as
 sextarius | 1 | pint
 sextarius | 3 | as a dry measure, one-sixteenth of a modius
+sextula | 1 | one seventy-second
+sextus1 | 1 | sixth
+sexus | 1 | sex
+sexus | 3 | transferred, the sexual organs, genitalia
+si | 1 | if
+si | 3 | transferred, in indirect questions, whether, if perchance
+si | 4 | idiom, si ... si, for sive ... sive, whether ... or
+sibilo | 1 | hiss
+sibilo | 3 | transitive, to hiss at, to hiss down a person
+sibilus1 | 1 | hiss
+sibilus1 | 3 | specifically, a contemptuous hissing, a hissing off
+sic | 1 | thus
+sic | 3 | correlative, sic ... ut, so ... that
+sic | 4 | in answers (ante-class.), yes
+sica | 1 | dagger
+sica | 3 | transferred, the edge of a boar's tusk
+sicarius | 1 | assassin
+siccitas | 1 | dryness
+siccitas | 3 | specifically, of weather, drought
+siccitas | 4 | figuratively, of style, dryness, jejuneness, want of ornament
