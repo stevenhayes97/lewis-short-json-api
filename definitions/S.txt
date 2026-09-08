@@ -866,3 +866,20 @@ severitas | 1 | severity
 severus1 | 1 | severe
 sevir | 1 | sexvir
 sevir | 3 | specifically, sevir Augustalis, a member of the priestly college of Augustus's cult
+sevoco | 1 | call aside
+sevoco | 3 | figuratively, to withdraw, to separate, to remove
+sex | 1 | six
+sexagenarius | 1 | sexagenarian
+sexagenarius | 3 | in general, of or containing sixty
+sexageni | 1 | sixty each
+sexageni | 3 | transferred, sixty
+sexagesimus | 1 | sixtieth
+sexaginta | 1 | sixty
+sexaginta | 3 | transferred, an indefinitely large number
+sexennium | 1 | six years
+sexies | 1 | six times
+sexies | 3 | for sextum, for the sixth time
+sextans | 1 | a sixth
+sextans | 3 | specifically, as a coin, a small copper coin worth a sixth of an as
+sextarius | 1 | pint
+sextarius | 3 | as a dry measure, one-sixteenth of a modius
