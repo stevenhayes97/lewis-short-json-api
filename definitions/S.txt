@@ -1262,3 +1262,25 @@ sospito | 1 | protect
 spargo1 | 1 | scatter
 spargo1 | 2 | spread
 spargo1 | 3 | specifically, of liquids, to sprinkle, to besprinkle
+sparteus | 1 | of broom
+sparus1 | 1 | hunting-spear
+spatior | 1 | walk
+spatior | 3 | transferred, of things, to spread out, to expand
+spatiosus | 1 | spacious
+spatiosus | 3 | figuratively, of time, long, prolonged
+spatium | 1 | space
+spatium | 3 | specifically, a distance, an interval
+spatium | 4 | specifically, a walk, a promenade; also, a race-course
+spatium | 5 | figuratively, of time, a space of time, an interval, a period
+spatium | 6 | specifically, time, leisure, opportunity to do something
+specialis | 1 | special
+species | 1 | appearance
+species | 2 | kind
+species | 3 | specifically, a show, a pretence, a semblance, opposed to reality
+species | 4 | philosophical, an idea, a notion
+species | 5 | transferred, a vision, an apparition, in sleep
+specimen | 1 | example
+specimen | 3 | transferred, a pattern, a model, an ideal
+specio | 1 | look
+speciosus | 1 | handsome
+speciosus | 2 | plausible
