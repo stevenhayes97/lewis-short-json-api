@@ -1108,3 +1108,26 @@ socordia | 3 | rare, weak-mindedness, silliness, folly
 socors | 1 | slothful
 socors | 3 | rare, narrow-minded, silly, foolish, stupid
 socrus | 1 | mother-in-law
+sodalicius | 1 | fellowship
+sodalicius | 3 | in a bad sense, an unlawful secret society, esp. for buying votes
+sodalis | 1 | comrade
+sodalis | 3 | specifically, a fellow member of a corporation or college
+sodalis | 4 | in a bad sense, a participant in an unlawful secret society
+sodalitas | 1 | fellowship
+sodalitas | 3 | transferred, a society, an association, esp. religious
+sodalitas | 4 | in a bad sense, an unlawful secret society
+sodes | 1 | please
+sol | 1 | sun
+sol | 3 | as a deity, Sol, the sun-god
+sol | 4 | poetic, a day, time reckoned by the sun
+solacium | 1 | consolation
+solacium | 3 | legal, compensation, indemnification
+solaris | 1 | solar
+solarium1 | 1 | sundial
+solarium1 | 3 | transferred, a clock in general
+solarium1 | 4 | transferred, a terrace, a balcony, a sun-exposed rooftop
+solea | 1 | sandal
+solea | 3 | transferred, a kind of fetter
+solea | 4 | transferred, a horseshoe
+solea | 5 | transferred, a sole, the fish
+soleatus | 1 | sandaled
