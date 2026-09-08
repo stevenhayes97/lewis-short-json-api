@@ -827,3 +827,23 @@ servio | 1 | serve
 servio | 3 | in general, to be devoted to, to comply with, to gratify
 servio | 4 | transferred (of things), to be useful for, serviceable to
 servio | 5 | legal, of land or buildings, to be subject to an easement
+servitium | 1 | slavery
+servitium | 3 | concretely (collective), a body of slaves, servants
+servitus | 1 | slavery
+servitus | 3 | legal, of land or buildings, an easement, a servitude
+servitus | 4 | concretely (poet.), slaves, servants
+servo | 1 | save
+servo | 3 | specifically, to keep, to lay up, to reserve for later use
+servo | 4 | transferred, to watch, to observe, to pay attention to
+servo | 5 | religious, to observe an omen
+servulus | 1 | young slave
+servus1 | 1 | servile
+servus1 | 3 | legal, of land or buildings, subject to an easement
+servus2 | 1 | slave
+servus2 | 3 | figuratively, a slave to a vice or passion
+sescenteni | 1 | six-hundred each
+sescenti | 1 | six hundred
+sescenti | 2 | countless
+sescenties | 1 | six-hundred times
+sescuncia | 1 | an eighth
+sescuncia | 3 | literally, one and a half unciae, a twelfth and a half
