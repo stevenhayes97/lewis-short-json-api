@@ -701,3 +701,28 @@ senilis | 1 | senile
 senium | 1 | decay
 senium | 2 | moroseness
 senium | 3 | concretely (rare, term of abuse), an old man, an old fellow
+sensibilis | 1 | perceptible
+sensibilis | 3 | active sense, capable of feeling, sentient
+sensim | 1 | gradually
+sensus2 | 1 | sense
+sensus2 | 2 | feeling
+sensus2 | 3 | opinion, view, judgment
+sensus2 | 4 | of discourse, meaning, sense of words
+sensus2 | 5 | concretely, a sentence, a period
+sententia | 1 | opinion
+sententia | 2 | verdict
+sententia | 3 | transferred, meaning, sense of words
+sententia | 4 | concretely, a sentence, a maxim, an aphorism
+sententialis | 1 | sententious
+sententiosus | 1 | sententious
+sentina | 1 | bilgewater
+sentina | 2 | rabble
+sentina | 3 | transferred, the hold of a ship
+sentino | 1 | bail out
+sentino | 3 | figuratively (rare), to be in difficulty, danger
+sentio | 1 | feel
+sentio | 2 | think
+sentio | 3 | to perceive the ill effects of something, to suffer, undergo
+sentio | 4 | political and legal, to give one's opinion, to vote, to declare
+sentis1 | 1 | bramble
+sentis1 | 3 | transferred (Plautus), of thievish hands, briers
