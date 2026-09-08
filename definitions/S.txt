@@ -1000,3 +1000,24 @@ simplus | 1 | single
 simplus | 3 | as a noun (simplum), the simple sum, the base amount, as opposed to double
 simpulum | 1 | ladle
 simpuvium | 1 | sacrificial bowl
+simul | 1 | at once
+simul | 3 | correlative, simul ... simul, partly ... partly
+simul | 4 | as a conjunction (simul ac/atque), as soon as
+simulacrum | 1 | image
+simulacrum | 3 | specifically, a statue, esp. of a god
+simulacrum | 4 | specifically, a phantom, an apparition, in a dream or vision
+simulacrum | 5 | in particular, a mere semblance, an empty appearance
+simulatio | 1 | pretense
+simulator | 1 | pretender
+simulator | 3 | literally (poet., rare), a copier, an imitator
+simulo | 1 | feign
+simulo | 3 | in general (poet.), to imitate, to copy, to represent
+simultas | 1 | rivalry
+sin | 1 | but if
+sinceritas | 1 | sincerity
+sinceritas | 3 | literally, cleanness, purity, soundness
+sincerus | 1 | genuine
+sincerus | 2 | sincere
+sinciput | 1 | pig's jowl
+sinciput | 3 | comic, transferred, the brain
+sinciput | 4 | late Latin, transferred, the head in general
