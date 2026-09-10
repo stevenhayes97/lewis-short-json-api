@@ -1611,3 +1611,21 @@ studiosus | 3 | specifically, partial, attached, devoted to someone
 studium | 1 | zeal
 studium | 2 | study
 studium | 3 | specifically, goodwill, affection, attachment, favor toward someone
+stultitia | 1 | folly
+stultus | 1 | foolish
+stupefacio | 1 | stun
+stupeo | 1 | be stunned
+stupeo | 3 | transferred (poet.), of things, to be brought to a standstill, to stop
+stupidus | 1 | stupid
+stupidus | 3 | literally (rare), struck senseless, confounded, amazed
+stupor | 1 | stupor
+stupor | 3 | especially, dullness, stupidity, stolidity of mind
+stupro | 1 | rape
+stupro | 3 | in general (very rare), to defile
+stuprum | 1 | rape
+stuprum | 3 | in general (ante-class. only), defilement, dishonor, disgrace
+suadela | 1 | persuasion
+suadela | 3 | as a proper noun, Suadela, the goddess of Persuasion
+suadeo | 1 | persuade
+suadeo | 3 | transferred (mostly poet.), of things, to urge, to induce, to impel
+suadeo | 4 | political, to advocate, to speak in favor of a proposed law
