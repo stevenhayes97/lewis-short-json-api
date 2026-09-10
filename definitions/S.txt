@@ -1805,3 +1805,20 @@ substo | 1 | be present
 substo | 3 | to stand firm, to hold out
 substringo | 1 | bind up
 substringo | 2 | restrain
+substruo | 1 | underbuild
+subsulto | 1 | hop
+subsulto | 3 | figuratively, of speech, to be uneven, jerky in rhythm
+subsum | 1 | underlie
+subsum | 2 | be near
+subsum | 3 | figuratively, to lie concealed in, to be at the bottom of, e.g. a suspicion
+subtego | 1 | shield
+subtemen | 1 | weft
+subtemen | 3 | meton., thread, yarn, in general
+subter | 1 | beneath
+subterfluo | 1 | underflow
+subterfluo | 3 | figuratively, of fortune, to slip away, to flow past ungratefully
+subterfugio | 1 | evade
+subterfugio | 3 | neuter (very rare), to flee secretly, to get off, to escape by stealth
+subterlabor | 1 | flow under
+subterlabor | 3 | transferred, to slip away, to escape
+subtero | 1 | wear away
