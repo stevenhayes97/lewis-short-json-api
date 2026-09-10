@@ -1452,3 +1452,28 @@ statera | 1 | scale
 statera | 3 | figuratively, the value, the worth of a thing
 statim | 1 | immediately
 statim | 3 | ante-class. (rare), firmly, steadily, steadfastly
+statio | 1 | station
+statio | 3 | military, a guard-post; also, transferred, sentries, sentinels
+statio | 4 | nautical, an anchorage, a roadstead
+stationarius | 1 | of stations
+stationarius | 3 | as a noun, a police officer, a gendarme
+stativus | 1 | stationary
+stativus | 3 | as a noun (stativa), a stationary camp
+stator1 | 1 | orderly
+statua | 1 | statue
+statua | 3 | transferred, a pillar
+statuarius | 1 | of statues
+statuarius | 3 | as a noun, a sculptor, a statue-maker
+statuliber | 1 | conditionally-freed slave
+statuo | 1 | set up
+statuo | 2 | decide
+statuo | 3 | to establish, to found, e.g. a city
+statuo | 4 | to fix, to determine, e.g. a limit, a price, a day
+statuo | 5 | to decree, to order, to prescribe
+statuo | 6 | to judge, to consider, to hold an opinion
+statura | 1 | stature
+status2 | 1 | condition
+status2 | 2 | posture
+status2 | 3 | of countries, the state, public affairs
+status2 | 4 | rhetorical, the main question, the essential point
+status2 | 5 | grammatical, the mood of a verb
