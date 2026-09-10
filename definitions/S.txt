@@ -1722,3 +1722,20 @@ subligo | 1 | bind on
 sublimen | 1 | aloft
 sublimis | 1 | lofty
 sublimis | 2 | sublime
+sublimitas | 1 | loftiness
+sublimitas | 2 | sublimity
+sublimo | 1 | elevate
+sublino | 1 | prime
+sublino | 3 | idiom, sublinere os alicui, to befool, to cheat, to bamboozle
+subluceo | 1 | glimmer
+subluco | 1 | prune
+subluo | 1 | wash
+subluo | 3 | transferred, of rivers, to flow along the base of, to wash the foot of a hill
+subluvies | 1 | filth
+subluvies | 3 | specifically, a foot disease in sheep and humans, foot rot
+subnascor | 1 | sprout
+subnascor | 3 | to follow after, to succeed
+subnecto | 1 | tie under
+subnecto | 3 | figuratively, to add, to subjoin, in speaking
+subnixus | 1 | propped up
+subnixus | 2 | relying
