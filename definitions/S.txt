@@ -1518,3 +1518,19 @@ stipatio | 3 | figuratively, a crowd, a throng, of things
 stipator | 1 | bodyguard
 stipendiarius | 1 | tributary
 stipendiarius | 3 | military, receiving pay, serving for pay, stipendiary
+stipendior | 1 | be paid
+stipendium | 1 | pay
+stipendium | 3 | transferred (plural), military service
+stipendium | 4 | specifically, a year's campaign, a year of military service
+stipes | 1 | trunk
+stipes | 3 | transferred (poet.), a tree
+stipes | 4 | transferred (poet.), a branch
+stipo | 1 | cram
+stipo | 3 | with a personal object, to surround, to attend, to accompany
+stips1 | 1 | donation
+stipula | 1 | stalk
+stipulatio | 1 | stipulation
+stipulo | 1 | stipulate
+stipulor | 1 | stipulate
+stirpitus | 1 | utterly
+stirpitus | 3 | literally (very rare), by the roots, root and branch
