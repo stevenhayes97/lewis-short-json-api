@@ -1573,3 +1573,19 @@ stribligo | 1 | solecism
 strictim | 1 | briefly
 strictim | 3 | literally (rare), straitly, closely
 strictim | 4 | figuratively, in general, slightly, superficially
+strictura | 1 | stricture
+strictura | 3 | concretely, a bar of wrought iron
+strideo | 1 | creak
+stridor | 1 | screech
+stridulus | 1 | creaking
+strigilis | 1 | strigil
+strigilis | 3 | transferred, a surgical instrument for dropping liquid into the ear
+strigosus | 1 | lean
+strigosus | 3 | figuratively, of an orator, dry, tasteless in style
+stringo | 1 | tie tight
+stringo | 2 | graze
+stringo | 3 | to pull off, to strip off, to prune leaves or fruit
+stringo | 4 | figuratively, to wound, to pain, to affect painfully
+strio1 | 1 | groove
+structilis | 1 | structural
+structio | 1 | construction
