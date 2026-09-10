@@ -1645,3 +1645,17 @@ suavior | 1 | kiss
 suavis | 1 | pleasant
 suavitas | 1 | pleasantness
 suavitudo | 1 | pleasantness
+suavium | 1 | kiss
+sub | 1 | under
+sub | 3 | of time, before, toward, about
+sub | 4 | of time, after, immediately after
+subabsurdus | 1 | somewhat absurd
+subactio | 1 | preparation
+subalaris | 1 | underarm
+subausculto | 1 | eavesdrop
+subblandior | 1 | fondle
+subblandior | 3 | literally, to caress or fondle a little, a diminutive sense
+subdialis | 1 | open-air
+subdialis | 3 | as a noun (subdialia), open galleries or terraces
+subdisjunctivus | 1 | subdisjunctive
+subditicius | 1 | counterfeit
