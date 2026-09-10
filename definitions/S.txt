@@ -1348,3 +1348,29 @@ spirabilis | 1 | breathable
 spirabilis | 3 | transferred, that sustains life, vital
 spiramen | 1 | vent
 spiramen | 3 | abstract sense, a breathing, a blowing, of wind
+spiramentum | 1 | vent
+spiramentum | 3 | figuratively, a breathing space, a brief pause, an interval
+spiritalis | 1 | spiritual
+spiritalis | 3 | literally (post-Aug.), of or belonging to breathing, wind, or air
+spiritus | 1 | breath
+spiritus | 2 | pride
+spiritus | 3 | transferred, life, the breath of life
+spiritus | 4 | figuratively (mostly poet./post-Aug.), spirit, soul, mind
+spiritus | 5 | eccl. Latin, Spiritus Sanctus, the Holy Spirit
+spiro | 1 | breathe
+spiro | 3 | transferred, to live, to be alive
+spiro | 4 | active, to breathe out, to exhale, to emit
+spisso | 1 | thicken
+spisso | 3 | figuratively (rare), to hasten, to urge on an action
+spissus | 1 | dense
+spissus | 2 | slow
+spissus | 3 | figuratively (rare), hard, difficult
+splendeo | 1 | shine
+splendeo | 3 | figuratively, to be illustrious, distinguished
+splendesco | 1 | brighten
+splendesco | 3 | figuratively, of style, to become brilliant, polished
+splendidus | 1 | brilliant
+splendidus | 2 | distinguished
+splendidus | 3 | specifically, showy, fine, specious
+splendor | 1 | brilliance
+splendor | 2 | distinction
