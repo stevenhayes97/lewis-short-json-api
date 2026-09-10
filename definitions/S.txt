@@ -1374,3 +1374,23 @@ splendidus | 2 | distinguished
 splendidus | 3 | specifically, showy, fine, specious
 splendor | 1 | brilliance
 splendor | 2 | distinction
+spoliarium | 1 | stripping-room
+spoliarium | 3 | transferred, a den of murderers, a cutthroat place
+spoliatio | 1 | plundering
+spolio | 1 | plunder
+spolio | 3 | in general (rare), to strip, to deprive of covering, to rob of clothing
+spolium | 1 | spoils
+spolium | 3 | literally (poet., rare), the skin or hide of an animal, stripped off
+spondeo | 1 | pledge
+spondeo | 3 | specifically, to become security for someone, to enter bail
+spondeo | 4 | specifically, to betroth, to promise in marriage
+sponsalis | 1 | of betrothal
+sponsalis | 3 | as a noun (sponsalia), a betrothal, an espousal
+sponsio | 1 | guarantee
+sponsio | 3 | specifically (legal), a mutual wager in a civil suit
+sponsio | 4 | in general, a bet, a wager
+sponsor | 1 | surety
+sponsor | 3 | eccl. Latin, a godfather, a godmother
+sponsus3 | 1 | betrothal
+sponsus3 | 3 | legal, bail, suretyship
+spontaneus | 1 | spontaneous
