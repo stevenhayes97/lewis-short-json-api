@@ -1499,3 +1499,22 @@ sternumentum | 1 | sneeze
 sternumentum | 3 | transferred, a sneezing-powder
 sternuo | 1 | sneeze
 sternuo | 3 | transferred, of a light, to sputter, to crackle
+sterto | 1 | snore
+stilla | 1 | drop
+stilla | 3 | transferred, a small quantity
+stillicidium | 1 | dripping
+stillicidium | 3 | specifically, rainwater falling from a house's eaves, a legal easement term
+stillo | 1 | drip
+stillo | 3 | active, to let fall in drops, to distil
+stimulo | 1 | goad
+stimulo | 2 | torment
+stimulo | 3 | to rouse up, to spur on, to incite, to stimulate
+stimulus | 1 | goad
+stimulus | 2 | incentive
+stimulus | 3 | military, a hidden pointed stake, a defensive obstacle
+stinguo | 1 | extinguish
+stipatio | 1 | retinue
+stipatio | 3 | figuratively, a crowd, a throng, of things
+stipator | 1 | bodyguard
+stipendiarius | 1 | tributary
+stipendiarius | 3 | military, receiving pay, serving for pay, stipendiary
