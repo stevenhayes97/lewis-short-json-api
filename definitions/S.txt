@@ -1822,3 +1822,21 @@ subterfugio | 3 | neuter (very rare), to flee secretly, to get off, to escape by
 subterlabor | 1 | flow under
 subterlabor | 3 | transferred, to slip away, to escape
 subtero | 1 | wear away
+subterraneus | 1 | subterranean
+subtexo | 1 | affix
+subtexo | 3 | figuratively, to add, to append, to subjoin, in narrative
+subtilis | 1 | fine
+subtilis | 2 | subtle
+subtilis | 3 | rhetorical, of style, plain, simple, unadorned
+subtilitas | 1 | fineness
+subtilitas | 2 | subtlety
+subtilitas | 3 | rhetorical, plainness, simplicity of style
+subtraho | 1 | withdraw
+subtraho | 3 | figuratively, to remove, to take away an abstract thing
+subtus | 1 | beneath
+subucula | 1 | undershirt
+subulo1 | 1 | flutist
+subulo1 | 3 | specifically, a young hart with pointed horns
+suburbanus | 1 | suburban
+suburbanus | 3 | as a noun (suburbanum), a suburban estate, a villa near Rome
+subvecto | 1 | transport
