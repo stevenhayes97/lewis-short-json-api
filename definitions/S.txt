@@ -1759,3 +1759,29 @@ subseco | 1 | clip
 subsellium | 1 | bench
 subsellium | 3 | specifically, a judge's seat, the bench, in a legal sense
 subsellium | 4 | transferred, a court, a tribunal
+subsequor | 1 | follow
+subsequor | 3 | figuratively, to follow mentally, to adhere to, to imitate
+subservio | 1 | serve
+subservio | 3 | figuratively, to comply with, to humor, to accommodate oneself to
+subsessor | 1 | waylayer
+subsessor | 3 | figuratively, one who lies in wait for another's marriage, a seducer
+subsicivus | 1 | spare
+subsicivus | 3 | as a noun (subsicivum), a remaining patch of land
+subsicivus | 4 | of work, accessory, incidental, done in spare time
+subsidiarius | 1 | reserve
+subsidiarius | 3 | as a noun (plural), the reserve troops
+subsidiarius | 4 | legal, actio subsidiaria, a subsidiary legal action
+subsidium | 1 | reserve
+subsidium | 2 | aid
+subsido | 1 | settle down
+subsido | 2 | ambush
+subsido | 3 | of things, to sink, to settle, to subside
+subsido | 4 | active, to lie in wait for, to waylay someone
+subsigno | 1 | undersign
+subsigno | 3 | transferred, to pledge by signing, e.g. property as security
+subsigno | 4 | figuratively, to pledge, to engage, to warrant
+subsilio | 1 | leap up
+subsisto | 1 | stop
+subsisto | 2 | resist
+subsisto | 3 | to stay, to tarry, to remain in a place
+subsisto | 4 | figuratively, to be adequate to, to sustain, to support, e.g. financially
