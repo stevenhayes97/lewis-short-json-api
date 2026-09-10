@@ -1892,3 +1892,26 @@ sucula3 | 1 | Hyades
 sucus | 1 | juice
 sucus | 2 | vigor
 sucus | 3 | specifically (poet.), a medicinal drink, a potion
+sudatorius | 1 | sudatory
+sudatorius | 3 | as a noun (sudatorium), a sweating-room, a sweat-bath
+sudis | 1 | stake
+sudis | 3 | transferred, a kind of pike, a fish
+sudo | 1 | sweat
+sudo | 2 | toil
+sudo | 3 | active, to exude, to sweat out, e.g. resin or honey
+sudor | 1 | sweat
+sudor | 2 | toil
+sudus | 1 | clear
+sudus | 3 | as a noun (sudum), bright, clear weather
+suesco | 1 | grow accustomed
+suesco | 3 | active (very rare), to accustom, to habituate, to train someone
+suffarcino | 1 | stuff
+suffarcino | 3 | transferred, to deck, to adorn, to enrich
+suffero | 1 | endure
+suffero | 3 | in general, to offer, to proffer
+suffero | 4 | very rare, to hold up, to bear, to support, to sustain
+suffervefacio | 1 | warm
+sufficio | 1 | suffice
+sufficio | 2 | substitute
+sufficio | 3 | to give, to afford, to furnish, to supply
+sufficio | 4 | to dip in, to dye, to impregnate, to tinge
