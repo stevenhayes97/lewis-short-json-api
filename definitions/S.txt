@@ -1394,3 +1394,20 @@ sponsor | 3 | eccl. Latin, a godfather, a godmother
 sponsus3 | 1 | betrothal
 sponsus3 | 3 | legal, bail, suretyship
 spontaneus | 1 | spontaneous
+sponte | 1 | voluntarily
+sportula | 1 | basket
+sportula | 3 | transferred, a gift, a present, esp. a patron's daily gift to clients
+spuma | 1 | foam
+spuma | 3 | specifically, litharge of silver, a metallurgical byproduct
+spumeus | 1 | foaming
+spumo | 1 | foam
+spumo | 3 | active (very rare), to cause to foam, to cover with foam
+spumosus | 1 | foaming
+spumosus | 3 | figuratively, of style, frothy, bombastic
+spuo | 1 | spit
+spurco | 1 | befoul
+spurco | 3 | figuratively, to defile, to corrupt, of character
+spurcus | 1 | dirty
+spurcus | 2 | base
+spurius1 | 1 | bastard
+spurius1 | 3 | figuratively, false, spurious, not genuine
