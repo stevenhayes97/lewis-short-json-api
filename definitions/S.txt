@@ -1477,3 +1477,25 @@ status2 | 2 | posture
 status2 | 3 | of countries, the state, public affairs
 status2 | 4 | rhetorical, the main question, the essential point
 status2 | 5 | grammatical, the mood of a verb
+stella | 1 | star
+stella | 3 | specifically, a meteor, a shooting star
+stella | 4 | transferred, a starfish
+stellionatus | 1 | fraud
+stello | 1 | be starry
+stello | 3 | active (rare), to set with stars, to bestar
+stercoro | 1 | manure
+stercoro | 3 | to cleanse from dung
+stercus | 1 | dung
+stercus | 3 | transferred, dross, slag, of metal
+sterilis | 1 | barren
+sterilis | 2 | useless
+sterilitas | 1 | sterility
+sterilitas | 3 | transferred, poverty, insufficiency, of fortune
+sterno | 1 | spread
+sterno | 2 | prostrate
+sterno | 3 | specifically, to pave, of a road
+sterno | 4 | specifically, to saddle, of a horse
+sternumentum | 1 | sneeze
+sternumentum | 3 | transferred, a sneezing-powder
+sternuo | 1 | sneeze
+sternuo | 3 | transferred, of a light, to sputter, to crackle
