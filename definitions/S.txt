@@ -1629,3 +1629,19 @@ suadela | 3 | as a proper noun, Suadela, the goddess of Persuasion
 suadeo | 1 | persuade
 suadeo | 3 | transferred (mostly poet.), of things, to urge, to induce, to impel
 suadeo | 4 | political, to advocate, to speak in favor of a proposed law
+suadus | 1 | persuasive
+suadus | 3 | as a proper noun, Suada, the goddess of Persuasion
+suarius | 1 | of swine
+suarius | 3 | as a noun, a swineherd
+suasio | 1 | persuasion
+suasio | 3 | political, advocacy of a proposed law
+suasio | 4 | rhetorical, the suasory, hortatory genre of eloquence
+suasor | 1 | adviser
+suasor | 3 | political, one who advocates a proposed law
+suasorius | 1 | persuasive
+suasorius | 3 | rhetorical, as a noun (suasoria), a hortatory speech, a declamation exercise
+suaviloquens | 1 | sweet-spoken
+suavior | 1 | kiss
+suavis | 1 | pleasant
+suavitas | 1 | pleasantness
+suavitudo | 1 | pleasantness
