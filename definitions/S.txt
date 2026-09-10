@@ -1858,3 +1858,21 @@ succenturio1 | 1 | recruit
 succenturio1 | 3 | transferred, to put in the place of another, to receive as a substitute
 succerno | 1 | sift
 succerno | 3 | transferred (rare), to shake up, to agitate
+successio | 1 | succession
+successio | 3 | rare, a good issue, success
+successor | 1 | successor
+successus2 | 1 | success
+successus2 | 3 | literally (very rare), an advance, an approach
+successus2 | 4 | post-class., a continuance, a succession of time
+succidia | 1 | flitch
+succido1 | 1 | sink
+succido1 | 3 | figuratively, of the mind, to sink, to fail
+succido2 | 1 | fell
+succiduus | 1 | sinking
+succiduus | 3 | figuratively, faltering, trembling, of speech
+succingo | 1 | gird
+succingo | 2 | succinct
+succingo | 3 | transferred, to surround, to equip, to furnish with something
+succino | 1 | accompany
+succino | 3 | transferred, to accord, to agree, to chime in
+succlamo | 1 | shout back
