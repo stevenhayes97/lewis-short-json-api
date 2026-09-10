@@ -1785,3 +1785,23 @@ subsisto | 1 | stop
 subsisto | 2 | resist
 subsisto | 3 | to stay, to tarry, to remain in a place
 subsisto | 4 | figuratively, to be adequate to, to sustain, to support, e.g. financially
+subsolanus | 1 | eastern
+subsolanus | 3 | as a noun, subsolanus, the east wind
+subsortior | 1 | substitute
+subsortitio | 1 | substitution
+subsortitio | 3 | specifically (legal), the choosing of substitute judges or jurors by lot
+substantia | 1 | substance
+substantia | 3 | specifically, fortune, property, wealth
+substantialis | 1 | substantial
+substerno | 1 | strew
+substerno | 3 | transferred, to bestrew, to spread over, to cover something
+substerno | 4 | figuratively, to give up, to surrender, to prostitute
+substillus | 1 | dribbling
+substillus | 3 | as a noun (substillum), a slight dropping, a sprinkling
+substituo | 1 | substitute
+substituo | 3 | figuratively, to present to the imagination, to figure to oneself
+substituo | 4 | legal, substituere heredem, to name an alternate heir
+substo | 1 | be present
+substo | 3 | to stand firm, to hold out
+substringo | 1 | bind up
+substringo | 2 | restrain
