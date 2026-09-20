@@ -2194,3 +2194,38 @@ surruo | 1 | undermine
 sursum | 1 | upward
 sursum | 3 | idiom, sursum deorsum, up and down, to and fro
 sursum | 4 | of position, rare, on high, above
+sus | 1 | pig
+sus | 3 | rare, a kind of fish
+susceptio | 1 | undertaking
+susceptio | 3 | ecclesiastical Latin, an acceptance, a reception
+susceptor | 1 | protector
+susceptor | 3 | legal, a contractor, an undertaker of public works
+susceptor | 4 | a tax collector
+susceptor | 5 | one who harbors criminals, a receiver
+suscipio | 1 | undertake
+suscipio | 2 | support
+suscipio | 3 | of feelings or hardships, to submit to, to bear
+suscipio | 4 | to acknowledge a newborn child as one's own
+suscipio | 5 | to beget, to bear children
+suscipio | 6 | to receive under one's protection, to take in
+suscipio | 7 | to resume speaking, to reply
+suscito | 1 | rouse
+suscito | 3 | poetic, to raise up, to lift
+suscito | 4 | rare, to build, to erect
+suspecto1 | 1 | watch
+suspecto1 | 2 | suspect
+suspectus2 | 1 | esteem
+suspectus2 | 3 | literally, a looking upward, an upward view
+suspectus2 | 4 | poetic, transferred, a height
+suspendium | 1 | hanging
+suspendo | 1 | hang
+suspendo | 2 | suspend
+suspendo | 3 | to execute by hanging
+suspendo | 4 | to dedicate, to hang up as an offering
+suspendo | 5 | of buildings, to construct on arches, to vault
+suspendo | 6 | to hold in suspense, to make uncertain
+suspendo | 7 | to interrupt, to check, to stop
+suspendo | 8 | idiom, naso suspendere, to turn up one's nose at, to sneer at
+suspendo | 9 | to suspend from office
+suspicax | 1 | suspicious
+suspicax | 3 | transferred, of things, arousing suspicion
