@@ -1972,3 +1972,26 @@ sui | 3 | reciprocal use, each other, one another
 sui | 4 | idiom, apud se, ad se, at one's house, at home
 suillus | 1 | porcine
 suillus | 3 | as a noun (suilla), pork
+sulcator | 1 | plougher
+sulcator | 3 | transferred, a sailor, one who traverses the sea
+sulco | 1 | plough
+sulco | 3 | transferred (poet.), to sail over, to traverse
+sulcus2 | 1 | furrow
+sulcus2 | 3 | transferred, a ditch, a trench
+sulcus2 | 4 | transferred, the wake cut by a ship
+sulfur | 1 | sulfur
+sulfur | 3 | transferred (poet.), lightning
+sulfuratus | 1 | sulfurous
+sulfuratus | 3 | as a noun (sulfurata), brimstone matches
+sum1 | 1 | be
+sum1 | 3 | with dative, to belong to, to have
+sum1 | 4 | idiom, id est, that is, that is to say
+sumen | 1 | udder
+sumen | 3 | meton., a sow, a hog
+sumen | 4 | transferred, the richest part, the cream, of a region
+summa | 1 | sum
+summa | 2 | gist
+summa | 3 | idiom, ad summam, in summa, on the whole, in short
+summas | 1 | noble
+summatim | 1 | briefly
+summatim | 3 | literally (post-Aug., very rare), on the surface, slightly
