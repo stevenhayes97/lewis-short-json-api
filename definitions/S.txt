@@ -1915,3 +1915,17 @@ sufficio | 1 | suffice
 sufficio | 2 | substitute
 sufficio | 3 | to give, to afford, to furnish, to supply
 sufficio | 4 | to dip in, to dye, to impregnate, to tinge
+suffigo | 1 | affix
+suffimentum | 1 | incense
+suffio | 1 | fumigate
+suffitio | 1 | fumigation
+sufflamen | 1 | brake
+sufflamen | 3 | figuratively (post-class.), a hindrance, an impediment
+sufflamino | 1 | brake
+sufflamino | 3 | figuratively, to check, to repress, in speaking
+sufflo | 1 | inflate
+sufflo | 3 | as a participle (sufflatus), puffed up with anger or pride; of language, bombastic
+suffoco | 1 | suffocate
+suffoco | 3 | transferred, to starve, a city, by cutting off supplies
+suffodio | 1 | undermine
+suffragatio | 1 | support
