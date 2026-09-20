@@ -2017,3 +2017,21 @@ sumptus2 | 1 | expense
 suo | 1 | sew
 suo | 3 | figuratively, to devise, to contrive a plot
 suovetaurilia | 1 | pig-sheep-bull sacrifice
+supellex | 1 | furniture
+supellex | 3 | figuratively, equipment, outfit, qualification, e.g. of skills or friends
+super11 | 1 | overflow
+super11 | 2 | superfluous
+super13 | 1 | surpass
+super13 | 3 | literally, to step over, to walk over
+super2 | 1 | above
+super2 | 3 | adverbial, of that which is left over, moreover, besides, in addition
+super2 | 4 | prepositional, concerning, about, respecting
+super4 | 1 | superabound
+super6 | 1 | overtop
+superabilis | 1 | surmountable
+superabilis | 3 | figuratively, conquerable, able to be subdued, of an enemy
+superabundo | 1 | superabound
+superbia | 1 | arrogance
+superbia | 2 | noble pride
+superbio | 1 | be proud
+superbio | 3 | transferred, of things, in a good sense, to be splendid, magnificent, superb
