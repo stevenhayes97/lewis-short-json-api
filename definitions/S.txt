@@ -2055,3 +2055,29 @@ superfundo | 1 | pour over
 superfundo | 3 | figuratively, to overwhelm, to become too great for
 superillino | 1 | besmear
 superimpono | 1 | superimpose
+superinduco | 1 | cover over
+superinduco | 3 | to bring upon, to cause to befall
+superingero | 1 | heap on
+superinicio | 1 | throw over
+superjacio | 1 | throw over
+superjacio | 3 | figuratively, to exaggerate, to overdo
+superjacio | 4 | to overtop, to rise above
+superlatio | 1 | hyperbole
+superlatio | 3 | grammatical, the superlative degree
+superlino | 1 | smear over
+supernas | 1 | northern
+supernas | 3 | of the upper, Adriatic side of Italy, as opposed to the lower, Tyrrhenian side
+supernus | 1 | upper
+supernus | 2 | celestial
+supernus | 3 | transferred, lofty, standing on high ground
+supero | 1 | surpass
+supero | 2 | conquer
+supero | 3 | to rise above, to surmount, to tower over
+supero | 4 | to exceed, to be in excess, to be abundant
+supero | 5 | to be left over, to remain, to survive
+supero | 6 | nautical, to sail past a point, to double a headland
+superpono | 1 | place over
+superpono | 3 | medical, to apply a plaster to a wound
+superpono | 4 | figuratively, to put in charge of, to set over
+superpono | 5 | to prefer, to rank above
+superpono | 6 | to postpone, to place after
