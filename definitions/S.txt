@@ -2145,3 +2145,26 @@ supplex | 1 | suppliant
 supplex | 3 | transferred, of things, offered in supplication, imploring
 supplicatio | 1 | supplication
 supplicatio | 3 | a day of public prayer decreed by the state, either as thanksgiving or expiation
+supplicium | 1 | punishment
+supplicium | 3 | archaic, religious, a public prayer or supplication, an offering
+supplico | 1 | beseech
+supplico | 3 | to pray to a god, to worship
+supplodo | 1 | stamp
+supplodo | 3 | ecclesiastical Latin, to clap, to applaud
+supplodo | 4 | to tread underfoot, to destroy
+suppono | 1 | place under
+suppono | 2 | substitute
+suppono | 3 | legal, to forge, to counterfeit, to pass off falsely
+suppono | 4 | to add, to append, to subjoin
+suppono | 5 | to subject, to make subordinate
+supporto | 1 | convey
+suppositicius | 1 | spurious
+suppositicius | 3 | substituted, put in the place of another
+supprimo | 1 | suppress
+supprimo | 3 | nautical, rare, to sink a ship
+supprimo | 4 | as a participle (suppressus), of the voice, subdued, low
+suppuro | 1 | suppurate
+suppuro | 3 | figuratively, to fester, to become malignant
+suppus | 1 | supine
+supputo | 1 | reckon
+supputo | 2 | prune
