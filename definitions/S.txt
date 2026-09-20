@@ -2127,3 +2127,21 @@ suppedito | 1 | supply
 suppedito | 2 | suffice
 suppedito | 3 | to be abundant, to be in store
 suppedito | 4 | to abound in, to have plenty of
+suppetiae | 1 | help
+suppetior | 1 | help
+suppeto | 1 | be available
+suppeto | 2 | suffice
+suppeto | 3 | legal, to personate another in a claim
+suppilo | 1 | pilfer
+suppilo | 3 | of a person, to rob, to strip, to fleece
+suppingo1 | 1 | resole
+supplanto | 1 | trip up
+supplanto | 3 | transferred, to throw down, to overthrow
+supplementum | 1 | reinforcements
+supplementum | 3 | a supply, a filling up
+suppleo | 1 | fill up
+suppleo | 3 | military, to recruit, to bring up to full strength
+supplex | 1 | suppliant
+supplex | 3 | transferred, of things, offered in supplication, imploring
+supplicatio | 1 | supplication
+supplicatio | 3 | a day of public prayer decreed by the state, either as thanksgiving or expiation
