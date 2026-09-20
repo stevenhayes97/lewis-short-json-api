@@ -2106,3 +2106,24 @@ superus | 1 | upper
 superus | 3 | as a masculine plural noun, superi, the gods above
 superus | 4 | as a neuter plural noun, supera, the heavens, the upper world
 supervacaneus | 1 | superfluous
+supervacuus | 1 | superfluous
+supervehor | 1 | ride past
+supervehor | 3 | to ride upon, to mount
+supervenio | 1 | supervene
+supervenio | 3 | figuratively, to surpass, to exceed
+supervenio | 4 | of animals, to mate, to cover
+supervivo | 1 | survive
+supino | 1 | supinate
+supinus | 1 | supine
+supinus | 2 | careless
+supinus | 3 | transferred, of localities, sloping, inclined
+supinus | 4 | transferred, with head thrown back, haughty, arrogant
+supinus | 5 | grammatical, as a neuter noun (supinum), the Latin supine
+supo | 1 | scatter
+suppar | 1 | nearly-equal
+supparum | 1 | smock
+supparum | 2 | topsail
+suppedito | 1 | supply
+suppedito | 2 | suffice
+suppedito | 3 | to be abundant, to be in store
+suppedito | 4 | to abound in, to have plenty of
