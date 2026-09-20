@@ -2035,3 +2035,23 @@ superbia | 1 | arrogance
 superbia | 2 | noble pride
 superbio | 1 | be proud
 superbio | 3 | transferred, of things, in a good sense, to be splendid, magnificent, superb
+superbus | 1 | haughty
+superbus | 2 | superb
+superbus | 3 | as a proper noun, Superbus, surname of Tarquin the Proud
+supercilium | 1 | eyebrow
+supercilium | 2 | haughtiness
+supercilium | 3 | transferred, a ridge, a summit, of a hill
+supercresco | 1 | overgrow
+supercresco | 3 | active, to excel, to outdo
+superfero | 1 | carry over
+superfero | 3 | specifically, of a pregnancy, to be carried beyond term, overdue
+superficiarius | 1 | superficiary
+superficies | 1 | surface
+superficies | 3 | legal, a building standing on another's land
+superficies | 4 | mathematical, a superficies, a two-dimensional figure
+superfluus | 1 | superfluous
+superfluus | 3 | literally (rare), running over, overflowing
+superfundo | 1 | pour over
+superfundo | 3 | figuratively, to overwhelm, to become too great for
+superillino | 1 | besmear
+superimpono | 1 | superimpose
