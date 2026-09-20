@@ -2229,3 +2229,27 @@ suspendo | 8 | idiom, naso suspendere, to turn up one's nose at, to sneer at
 suspendo | 9 | to suspend from office
 suspicax | 1 | suspicious
 suspicax | 3 | transferred, of things, arousing suspicion
+suspicio1 | 1 | look up
+suspicio1 | 2 | admire
+suspicio1 | 3 | to mistrust, to suspect
+suspicio2 | 1 | suspicion
+suspicio2 | 3 | transferred, rare, a notion, an inkling
+suspicio2 | 4 | an indication, a sign
+suspiciose | 1 | suspiciously
+suspiciosus | 1 | suspicious
+suspiciosus | 3 | of things, arousing suspicion
+suspicor | 1 | suspect
+suspicor | 2 | surmise
+suspiritus | 1 | sigh
+suspirium | 1 | sigh
+suspirium | 3 | medical, rare, asthma, shortness of breath
+suspirium | 4 | poetic, transferred, breathing, respiration
+suspiro | 1 | sigh
+suspiro | 3 | poetic, to exhale, to breathe out
+suspiro | 4 | poetic, to sigh for, to long for
+suspiro | 5 | poetic, to sigh out, to exclaim with a sigh
+susque deque | 1 | indifferently
+susque deque | 3 | idiom, susque deque ferre/habere, to not care, to be unconcerned
+sustentatio | 1 | delay
+sustentatio | 2 | sustenance
+sustentatio | 3 | rhetorical, a figure delaying the point, keeping the hearer in suspense
