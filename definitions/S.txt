@@ -2081,3 +2081,28 @@ superpono | 3 | medical, to apply a plaster to a wound
 superpono | 4 | figuratively, to put in charge of, to set over
 superpono | 5 | to prefer, to rank above
 superpono | 6 | to postpone, to place after
+supersedeo | 1 | forgo
+supersedeo | 3 | literally (rare), to sit upon or above
+supersedeo | 4 | to preside over
+superstes | 1 | surviving
+superstes | 3 | archaic, a bystander, a witness
+superstes | 4 | poetic, standing over in triumph
+superstitio | 1 | superstition
+superstitio | 3 | transferred, an excessive, obsessive regard for rules
+superstitio | 4 | post-classical, religious awe, sanctity, a religious rite
+superstitiosus | 1 | superstitious
+superstitiosus | 3 | archaic, prophetic, soothsaying
+supersto | 1 | stand over
+supersto | 3 | ecclesiastical Latin, to survive
+superstruo | 1 | build over
+supersum | 1 | remain
+supersum | 2 | survive
+supersum | 3 | to abound, to be plentiful
+supersum | 4 | in a bad sense, to be excessive, to be superfluous
+supersum | 5 | archaic, to assist, to be present, to serve as an advocate
+supersum | 6 | to project, to be prominent
+supertego | 1 | cover over
+superus | 1 | upper
+superus | 3 | as a masculine plural noun, superi, the gods above
+superus | 4 | as a neuter plural noun, supera, the heavens, the upper world
+supervacaneus | 1 | superfluous
