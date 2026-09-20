@@ -1949,3 +1949,26 @@ suffundo | 3 | specifically, of fluids, to tinge, to stain, to color
 suffundo | 4 | specifically, of blushes, to redden
 suffusio | 1 | suffusion
 suffusio | 3 | medical, specifically, opacity of the cornea, a cataract
+suggero | 1 | supply
+suggero | 2 | suggest
+suggero | 3 | to add, to subjoin, to assign
+suggestio | 1 | addition
+suggestio | 3 | rhetorical, a figure where the speaker poses and answers his own question
+suggestio | 4 | late Latin, a hint, an intimation
+suggestum | 1 | platform
+suggestum | 3 | in general, a raised place, a height, a mound
+suggestus2 | 1 | platform
+suggestus2 | 3 | in general, a raised place, a height, an elevation
+suggredior | 1 | approach
+suggredior | 3 | active, to attack
+sugillatio | 1 | bruise
+sugillatio | 3 | figuratively, an affront, an insult
+sugillo | 1 | bruise
+sugillo | 2 | revile
+sugo | 1 | suck
+sugo | 3 | figuratively, to imbibe, to absorb, e.g. an idea from childhood
+sui | 1 | himself
+sui | 3 | reciprocal use, each other, one another
+sui | 4 | idiom, apud se, ad se, at one's house, at home
+suillus | 1 | porcine
+suillus | 3 | as a noun (suilla), pork
