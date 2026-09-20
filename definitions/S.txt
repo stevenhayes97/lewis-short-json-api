@@ -1929,3 +1929,23 @@ suffoco | 1 | suffocate
 suffoco | 3 | transferred, to starve, a city, by cutting off supplies
 suffodio | 1 | undermine
 suffragatio | 1 | support
+suffragator | 1 | supporter
+suffragium | 1 | vote
+suffragium | 3 | transferred, the right to vote, suffrage
+suffragium | 4 | in general, a decision, an opinion, a judgment
+suffrago1 | 1 | hock
+suffrago1 | 3 | transferred, a shoot, a spray of a vine
+suffragor | 1 | vote for
+suffragor | 2 | favor
+suffugio | 1 | flee
+suffugio | 3 | active, to flee from, to shun, to avoid, to escape
+suffugium | 1 | shelter
+suffugium | 3 | figuratively, a refuge, a remedy for troubles
+suffulcio | 1 | prop up
+suffulcio | 3 | figuratively, to sustain, to support, e.g. the body with food
+suffumigo | 1 | fumigate
+suffundo | 1 | suffuse
+suffundo | 3 | specifically, of fluids, to tinge, to stain, to color
+suffundo | 4 | specifically, of blushes, to redden
+suffusio | 1 | suffusion
+suffusio | 3 | medical, specifically, opacity of the cornea, a cataract
