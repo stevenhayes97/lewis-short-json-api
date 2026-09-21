@@ -234,3 +234,28 @@ tenebrae | 1 | darkness
 tenebrae | 3 | the dark of a swoon, a fainting fit
 tenebrae | 4 | transferred, a dark or gloomy place; a prison, dungeon
 tenebrae | 5 | figuratively, obscurity (of mind, birth, or fortune)
+tenebricosus | 1 | dark
+tenebricosus | 3 | figuratively, shady, disreputable
+tenebrosus | 1 | gloomy
+tenellus | 1 | delicate
+teneo | 1 | hold
+teneo | 3 | to possess, control, be master of
+teneo | 4 | to hold fast, occupy, maintain (a position or course)
+teneo | 5 | to hold back, restrain, detain, check
+teneo | 6 | figuratively, to grasp mentally, understand
+teneo | 7 | memoria tenere, to remember, keep in mind
+teneo | 8 | of laws or promises, to bind, be binding on
+teneo | 9 | intransitively, to hold out, last, continue
+tener | 1 | tender
+tener | 3 | young, of tender age
+tener | 4 | of style or feeling, soft, delicate, sentimental
+teneritas | 1 | tenderness
+tenor | 1 | tenor
+tenor | 3 | uno tenore, in one unbroken course, uniformly
+tenor | 4 | legal, the wording or sense (of a law or document)
+tenor | 5 | rhetoric, tone, pitch (of the voice)
+tensa | 1 | processional car
+tensa | 3 | specifically, the car bearing the images of the gods in the Circus games
+tensio | 1 | tension
+tensio | 3 | medical, a cramp or spasm of the nerves
+tentamentum | 1 | attempt
