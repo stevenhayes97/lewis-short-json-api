@@ -728,3 +728,20 @@ translatio | 4 | rhetorical, a metaphor, a figurative use of a word
 translatio | 5 | a transplanting, of plants
 translativus | 1 | translative
 translativus | 3 | as a noun, metalepsis, a rhetorical figure involving a transitional word
+translator | 1 | translator
+translator | 3 | literal, one who hands over, a transferrer, of funds
+transluceo | 1 | shine through
+transmarinus | 1 | overseas
+transmeo | 1 | cross
+transmigro | 1 | migrate
+transmissus2 | 1 | transmission
+transmissus2 | 3 | a passage, a crossing over sea
+transmitto | 1 | transmit
+transmitto | 3 | to cross, pass through, traverse
+transmitto | 4 | to entrust, commit, hand over
+transmitto | 5 | to pass over, disregard, leave untouched
+transmitto | 6 | of time, to pass, spend
+transnato | 1 | swim across
+transnomino | 1 | rename
+transpono | 1 | transfer
+transpono | 3 | of plants, to transplant
