@@ -566,3 +566,31 @@ totidem | 1 | equally many
 totidem | 3 | totidem ... quot, just as many ... as
 totiens | 1 | so often
 totiens | 3 | totiens ... quotiens, as often ... as
+totus1 | 1 | whole
+totus1 | 3 | totus in + ablative, wholly absorbed in, entirely devoted to
+totus1 | 4 | ex toto, in totum, wholly, entirely, completely
+trabalis | 1 | of beams
+trabalis | 3 | poetic, beam-like, massive, stout
+trabea1 | 1 | state-robe
+trabea1 | 3 | transferred, the equestrian order, the knights
+trabea1 | 4 | transferred, the consulship
+trabeatus | 1 | trabea-clad
+trabeatus | 3 | as a noun, feminine (trabeata), a genre of Roman comedy about knights
+trabs | 1 | beam
+trabs | 3 | transferred, a tree
+trabs | 4 | poetic, a ship
+trabs | 5 | a meteor, a fiery phenomenon in the sky
+tractabilis | 1 | tractable
+tractabilis | 3 | of weather or the sea, mild, calm, not stormy
+tractatio | 1 | handling
+tractatio | 3 | conduct, treatment of a person, especially maltreatment
+tractatio | 4 | rhetorical, the treatment or discussion of a subject
+tractator | 1 | masseur
+tractator | 3 | a handler or treater of a subject, especially literary matters
+tractatus | 1 | treatment
+tractatus | 3 | literal, rare, a touching, handling
+tractatus | 4 | reflection, consideration; a discussion, consultation
+tractatus | 5 | transferred, concrete, a treatise, tract
+tractatus | 6 | eccl. Latin, a sermon, homily
+tractim | 1 | gradually
+tractim | 3 | of speech or sound, in a drawling way, slowly, at length
