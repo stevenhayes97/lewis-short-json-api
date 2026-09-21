@@ -907,3 +907,22 @@ tu | 1 | you
 tu | 3 | specifically singular, thou, as opposed to vos, you all
 tuba | 1 | trumpet
 tuba | 3 | figuratively, an instigator, exciter of war or strife
+tuber1 | 1 | swelling
+tuber1 | 3 | transferred, a truffle, a kind of edible fungus
+tubicen | 1 | trumpeter
+tubilustrium | 1 | trumpet-festival
+tuburcinor | 1 | gobble
+tubus | 1 | pipe
+tubus | 3 | transferred, a trumpet used at sacrifices
+tuditans | 1 | pounding
+tueor | 1 | maintain
+tueor | 3 | literal, poetic, to look at, gaze at, watch
+tueor | 4 | military, to guard, defend, a position
+tueor | 5 | as an adjective (tutus), safe, secure, out of danger
+tuitio | 1 | protection
+tum | 1 | then
+tum | 3 | tum ... tum, now ... now, at one time ... at another
+tum | 4 | cum ... tum, not only ... but especially
+tum | 5 | coordinating, besides, moreover, and then
+tumefacio | 1 | swell
+tumefacio | 3 | figuratively, to puff up, inflate with pride
