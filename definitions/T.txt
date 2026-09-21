@@ -357,3 +357,30 @@ teruncius | 1 | farthing
 teruncius | 3 | legal, the fourth part (of an inheritance)
 tesca | 1 | wilds
 tesca | 3 | especially, wild ground consecrated to a god
+tesserarius | 1 | of dice
+tesserarius | 3 | as a noun, a dice-player
+tesserarius | 4 | military, the officer who relays the watchword
+tesserula | 1 | token
+tesserula | 3 | specifically, a ticket for the distribution of grain
+testa | 1 | tile
+testa | 3 | transferred, an earthenware pot, jar, or jug
+testa | 4 | a potsherd, a broken piece of pottery
+testa | 5 | the shell of a shellfish
+testa | 6 | late Latin, the skull
+testaceus | 1 | of brick
+testaceus | 3 | covered with a shell, shelled (of animals)
+testaceus | 4 | brick-colored
+testamentarius | 1 | testamentary
+testamentarius | 3 | as a noun, one who draws up a will
+testamentarius | 4 | in a bad sense, a will-forger
+testamentum | 1 | will
+testamentum | 3 | eccl. Latin, the Testament, Old or New
+testatio | 1 | testimony
+testatio | 3 | a calling upon the gods as witness
+testator | 1 | testator
+testator | 3 | rare, a witness, one who testifies
+testificatio | 1 | testimony
+testificatio | 3 | transferred, proof, evidence (of feelings or service)
+testificor | 1 | testify
+testificor | 3 | transferred, to show, demonstrate, make known
+testificor | 4 | to call upon as a witness, invoke
