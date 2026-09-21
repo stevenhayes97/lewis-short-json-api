@@ -204,3 +204,33 @@ tempestivitas | 1 | timeliness
 tempestivus | 1 | timely
 tempestivus | 3 | ripe, mature (of fruit, or of a person of marriageable age)
 tempestivus | 4 | early, begun betimes, especially of a banquet starting while still day
+templum | 1 | temple
+templum | 3 | technical, in augury, a space marked out for observing omens
+templum | 4 | poetic, transferred, an open expanse (of sky or sea)
+templum | 5 | more broadly, a sanctuary, consecrated precinct
+temporalis | 1 | temporal
+temporalis | 3 | of the temples of the head (as in the temporal veins)
+temporaneus | 1 | timely
+temporarius | 1 | temporary
+temporarius | 3 | changeable, fickle (of character)
+tempus | 1 | time
+tempus | 3 | the right time, opportunity, tempus est, it is time to
+tempus | 4 | in plural (tempora), the temples of the head
+tempus | 5 | transferred, circumstances, conditions, especially difficult or critical ones
+tempus | 6 | grammar, a tense of a verb
+temulentus | 1 | drunk
+temulentus | 3 | transferred, poetic, dripping, saturated
+tenax | 1 | tenacious
+tenax | 3 | stingy, niggardly, with money
+tenax | 4 | in a bad sense, stubborn, obstinate
+tendicula | 1 | snare
+tendicula | 3 | literal, a small stretching-frame (e.g. for clothes)
+tendo | 1 | stretch
+tendo | 3 | to spread a net, or lay a trap
+tendo | 4 | intransitively, to head, make one's way, go (in a direction)
+tendo | 5 | to strive, aim, endeavor
+tendo | 6 | to pitch camp, be encamped
+tenebrae | 1 | darkness
+tenebrae | 3 | the dark of a swoon, a fainting fit
+tenebrae | 4 | transferred, a dark or gloomy place; a prison, dungeon
+tenebrae | 5 | figuratively, obscurity (of mind, birth, or fortune)
