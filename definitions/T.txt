@@ -448,3 +448,29 @@ tinnitus | 3 | transferred, of language, a jingle, empty rhetorical flourish
 tinnulus | 1 | tinkling
 tinnulus | 3 | transferred, of style or speakers, jingling, empty, superficial
 tintinno | 1 | jingle
+tiro1 | 1 | recruit
+tiro1 | 3 | transferred, a beginner, novice, in any activity
+tirocinium | 1 | apprenticeship
+tirocinium | 3 | concretely, young troops, raw recruits
+tirocinium | 4 | transferred, a first attempt, trial, essay, at anything
+tirunculus | 1 | novice
+titillo | 1 | tickle
+titillo | 3 | figuratively, to excite pleasurably, titillate the mind or senses
+titubo | 1 | stagger
+titubo | 3 | figuratively, to hesitate, falter, waver
+titulus | 1 | label
+titulus | 3 | a title of honor, distinction
+titulus | 4 | a pretext, pretence
+titulus | 5 | the title of a book
+toga | 1 | toga
+toga | 3 | transferred, peace, civilian life, as opposed to war
+toga | 4 | poetic, a client
+toga | 5 | poetic, a prostitute
+togatus | 1 | toga-clad
+togatus | 3 | as a noun, a Roman citizen
+togatus | 4 | under the empire, a client, a person of humble station
+togatus | 5 | as a noun, feminine (togata), Roman national drama, comedy on Roman themes
+tolerabilis | 1 | tolerable
+tolerabilis | 3 | rare, active sense, able to endure, hardy
+tolero | 1 | endure
+tolero | 3 | transferred, to support, nourish, maintain a person, with food or money
