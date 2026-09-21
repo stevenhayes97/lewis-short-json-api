@@ -952,3 +952,24 @@ tumulus | 1 | mound
 tumulus | 3 | specifically, a burial mound, a tumulus
 tunc | 1 | then
 tunc | 3 | near-synonym of tum, more frequent in post-Augustan prose
+tundo | 1 | pound
+tundo | 3 | figuratively, to din, pester, importune, by repetition
+tunica | 1 | tunic
+tunica | 3 | transferred, a covering, membrane, husk, peel
+tunico | 1 | clothe
+tunico | 3 | as an adjective (tunicatus), tunic-clad; of the common people
+turarius | 1 | of frankincense
+turarius | 3 | as a noun, a frankincense-dealer
+turbatio | 1 | confusion
+turbator | 1 | troublemaker
+turbidus | 1 | wild
+turbidus | 3 | of fluids, muddy, turbid
+turbidus | 4 | figuratively, troubled, disturbed, agitated, perplexed
+turbo1 | 1 | disturb
+turbo1 | 3 | military, to throw into disorder, break a battle-line
+turbo1 | 4 | of water, to make muddy, roil
+turbo2 | 1 | whirlwind
+turbo2 | 3 | a spinning-top, a toy top
+turbo2 | 4 | transferred, a whirling motion, a whirl, rotation
+turbulentus | 1 | turbulent
+turbulentus | 3 | of persons, causing trouble, factious, seditious
