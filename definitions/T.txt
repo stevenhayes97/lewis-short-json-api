@@ -30,3 +30,31 @@ tabesco | 1 | waste away
 tabesco | 3 | figuratively, to pine away (with grief, longing, or envy)
 tabidus | 1 | wasting
 tabidus | 3 | transferred, corrupting, infectious
+tabificus | 1 | corrupting
+tabificus | 3 | causing wasting, infectious (of poison, disease, or climate)
+tabula | 1 | board
+tabula | 2 | tablet
+tabula | 3 | in plural, a document: a letter, contract, account, or will
+tabula | 4 | an account-book, register
+tabula | 5 | a public record; tabulae publicae, the state archives; the Twelve Tables, the earliest Roman law code
+tabula | 6 | a painting, picture
+tabula | 7 | a list (of votes, or of the proscribed)
+tabularis | 1 | of tablets
+tabularis | 3 | suited for plates or sheets (of bronze)
+tabularius1 | 1 | archivist
+tabularius1 | 3 | a public notary or scrivener
+tabulatus | 1 | floored
+tabulatus | 3 | as a noun (tabulatum), a floor, story of a building
+tabulatus | 4 | transferred, a layer or row (of branches, grapes)
+tabulinum | 1 | terrace
+tabulinum | 3 | a room for family records, archives
+tabulinum | 4 | a picture-gallery
+tabum | 1 | gore
+tabum | 3 | transferred, a plague, pestilence
+taceo | 1 | be silent
+taceo | 3 | to keep something secret, not mention something
+taceo | 4 | transferred (of animals, places, or things), to be still, quiet, motionless
+taciturnitas | 1 | silence
+taciturnitas | 3 | reticence, reserve (as a character trait)
+taciturnus | 1 | taciturn
+taciturnus | 3 | transferred, still, silent (of places)
