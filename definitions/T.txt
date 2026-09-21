@@ -594,3 +594,42 @@ tractatus | 5 | transferred, concrete, a treatise, tract
 tractatus | 6 | eccl. Latin, a sermon, homily
 tractim | 1 | gradually
 tractim | 3 | of speech or sound, in a drawling way, slowly, at length
+tracto | 1 | handle
+tracto | 3 | to conduct, manage, carry on, business, war, or a role
+tracto | 4 | to treat, deal with a person, in some manner
+tracto | 5 | to discuss, treat of, handle a subject in speech or writing
+tracto | 6 | to negotiate
+tractorius | 1 | of hoisting
+tractorius | 3 | as a noun, feminine (tractoria), an official letter of summons or travel-order
+tractus2 | 1 | tract
+tractus2 | 3 | literal, a dragging, hauling, trailing
+tractus2 | 4 | concrete, a train, track, course, of a flame, the moon, or a river
+tractus2 | 5 | figuratively, the flow, course of a speech
+tractus2 | 6 | a lengthening, protraction, of time or of a word in grammar
+traditio | 1 | surrender
+traditio | 3 | legal, a formal transfer of possession, a conveyance
+traditio | 4 | figuratively, a teaching, instruction
+traditio | 5 | a tradition, something handed down
+trado | 1 | hand over
+trado | 3 | to entrust, commit, for protection or safekeeping
+trado | 4 | to betray, give up treacherously
+trado | 5 | to hand down, transmit, a custom, inheritance, or tradition
+trado | 6 | traditur, it is said, it is recorded
+trado | 7 | to teach, propound a doctrine
+traduco | 1 | lead across
+traduco | 3 | to win over, bring over, to a side or opinion
+traduco | 4 | figuratively, to expose to public ridicule, disgrace, traduce
+traduco | 5 | of time, to spend, pass
+traduco | 6 | grammar, to derive a word
+traductio | 1 | transfer
+traductio | 3 | public disgrace, exposure to ridicule
+traductio | 4 | rhetorical, a repetition of the same word, or a metonymy
+tradux | 1 | vine-layer
+tragula | 1 | javelin
+tragula | 3 | figuratively, a snare, trap, plot
+traho | 1 | drag
+traho | 3 | to draw out, extract, withdraw
+traho | 4 | to draw in, inhale, or drink in, breath or liquid
+traho | 5 | figuratively, to attract, allure, influence
+traho | 6 | to derive, obtain a name or origin, from something
+traho | 7 | of time, to protract, drag out, prolong, delay
