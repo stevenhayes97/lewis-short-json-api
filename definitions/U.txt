@@ -166,3 +166,27 @@ uro | 3 | to consume, destroy by fire
 uro | 4 | of cold, to nip, blast, pinch
 uro | 5 | to chafe, rub sore, gall
 uro | 6 | to vex, harass, trouble
+ursa | 1 | she-bear
+ursa | 3 | the constellation Ursa, the Bear
+ursus | 1 | bear
+urtica | 1 | nettle
+urtica | 3 | a sea-nettle, a kind of jellyfish
+urtica | 4 | figuratively, lustful desire, prurience
+urvo | 1 | plough round
+urvo | 3 | to mark out the boundary of a city with a plough
+usio | 1 | use
+usitor | 1 | use often
+usitor | 3 | as a passive participle (usitatus), usual, customary, familiar
+uspiam | 1 | anywhere
+uspiam | 3 | transferred, in any matter, in any affair
+usquam | 1 | anywhere
+usquam | 3 | with a verb of motion, to any place, anywhither
+usquam | 4 | in any respect, in any way, at all
+usque | 1 | continuously
+usque | 3 | usque ad, all the way to, right up to
+usque | 4 | usque a, all the way from, ever since
+usque | 5 | of time, continually, all the while, until
+usque | 6 | usque quaque, everywhere, on every occasion
+ustulo | 1 | scorch
+ustulo | 3 | to burn up, consume by fire
+ustulo | 4 | transferred, to pinch, nip, blast with cold
