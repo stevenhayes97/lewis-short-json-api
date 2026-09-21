@@ -53,3 +53,19 @@ umbra | 5 | shelter, protection
 umbraculum | 1 | bower
 umbraculum | 3 | transferred, a school, a sheltered place of study
 umbraculum | 4 | a parasol, sunshade
+umbraticus | 1 | of shade
+umbraticus | 3 | retired, private, contemplative, as opposed to public life
+umbratilis | 1 | retired
+umbratilis | 3 | of speech, academic, bookish, as opposed to public oratory
+umbrifer | 1 | shady
+umbrifer | 3 | poetic, bearing the shades of the dead
+umbro | 1 | shade
+umbrosus | 1 | shady
+umecto | 1 | moisten
+umecto | 3 | of the eyes, to be tearful, weep
+umectus | 1 | moist
+umeo | 1 | be moist
+umerus | 1 | shoulder
+umerus | 3 | poetic, the upper arm
+umerus | 4 | figuratively, in plural, the shoulders, as bearing a burden or responsibility
+umesco | 1 | grow moist
