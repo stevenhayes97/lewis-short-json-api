@@ -85,3 +85,20 @@ uncus2 | 1 | hooked
 unda | 1 | wave
 unda | 3 | transferred, water, a liquid, fluid, in general
 unda | 4 | figuratively, a surge, stream, tide, throng, of a crowd or of troubles
+unde | 1 | whence
+unde | 3 | transferred, from whom, from which, as a source or cause
+undecumque | 1 | from wherever
+undeni | 1 | eleven each
+undevicesimus | 1 | nineteenth
+undique | 1 | from everywhere
+undique | 3 | utterly, entirely, completely, in all respects
+undo | 1 | surge
+undo | 3 | transferred, to wave, undulate, of hair or drapery
+undo | 4 | figuratively, to waver, fluctuate, be agitated
+ungo | 1 | anoint
+ungo | 3 | as an adjective (unctus), transferred, rich, luxurious, sumptuous
+ungo | 4 | as a noun (unctum), a rich banquet, sumptuous feast
+unguentarius | 1 | of unguents
+unguentarius | 3 | as a noun, a perfumer, a dealer in unguents
+unguento | 1 | perfume
+unguentum | 1 | ointment
