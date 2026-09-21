@@ -134,3 +134,28 @@ tardus | 2 | dull
 tardus | 3 | of speech, measured, deliberate, not rapid
 taureus | 1 | of bulls
 taureus | 3 | as a noun (taurea), a whip made of bull's hide
+taurinus1 | 1 | of bulls
+taxatio | 1 | valuation
+taxatio | 3 | legal, a clause limiting or defining an amount (in a will or contract)
+taxo | 1 | assess
+taxo | 3 | to censure, find fault with, reproach
+taxo | 4 | literal and rare, to touch sharply, handle
+taxus | 1 | yew
+taxus | 3 | poetic, a javelin (made of yew-wood)
+tectorius | 1 | of covering
+tectorius | 3 | as a noun (tectorium), plaster, stucco, fresco-painting (for walls or ceilings)
+tectorius | 4 | figuratively, of speech, flattery, smooth words
+tectum | 1 | roof
+tectum | 2 | house
+tectum | 3 | a ceiling
+tegimen | 1 | covering
+tegimen | 3 | a hide or pelt worn as clothing; also, a husk
+tego | 1 | cover
+tego | 3 | to hide, conceal
+tego | 4 | to shelter, protect, defend
+tego | 5 | figuratively, to conceal, keep secret (a feeling, fault, or plan)
+tego | 6 | poetic, to bury
+tego | 7 | as an adjective (tectus), reserved, secretive, guarded (of a person or manner)
+tegulae | 1 | tiles
+tegumentum | 1 | covering
+tegumentum | 3 | figuratively (rare), a defence, protection
