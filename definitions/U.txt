@@ -247,3 +247,29 @@ uterus | 5 | poetic, the hollow interior of a thing, as of the Trojan horse
 utervis | 1 | either
 utervis | 3 | either one of the two, whichever you wish
 utibilis | 1 | useful
+utilis | 1 | useful
+utilis | 3 | fit, suitable, adapted for a purpose
+utilitas | 1 | usefulness
+utilitas | 3 | often opposed to honestas (moral rightness), self-interest, expediency
+utinam | 1 | would that
+utinam | 3 | with a negative (utinam ne or utinam non), would that not
+utique2 | 1 | certainly
+utique2 | 3 | with a negative, by no means, not at all
+uto | 1 | use
+utor | 1 | use
+utor | 3 | takes an ablative object, not accusative: utitur libris, he uses books
+utor | 4 | to spend, consume, use up
+utor | 5 | to wear
+utor | 6 | to practise, exercise, perform
+utor | 7 | to enjoy, profit by, take advantage of
+utor | 8 | to be intimate with, associate with, be close friends with
+utor | 9 | to have, possess, find someone or something to be a certain way
+utpote | 1 | since
+utpote | 3 | usually with a relative clause or participle, inasmuch as, seeing that
+utriculus2 | 1 | belly
+utriculus2 | 3 | of plants, a husk, or the calycle of a flower
+# review: utrimque adverb meaning "from both sides"; no one-word English equivalent captures the directional sense
+utrimque | 1 | on both sides
+utrimque | 3 | figuratively, of persons or parties, on both sides, both parties
+# review: utrobique adverb meaning "on both sides", a synonym of utrimque; no one-word English equivalent
+utrobique | 1 | on both sides
