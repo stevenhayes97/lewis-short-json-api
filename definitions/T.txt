@@ -474,3 +474,28 @@ tolerabilis | 1 | tolerable
 tolerabilis | 3 | rare, active sense, able to endure, hardy
 tolero | 1 | endure
 tolero | 3 | transferred, to support, nourish, maintain a person, with food or money
+tolleno | 1 | swing-beam
+tollo | 1 | raise
+tollo | 2 | remove
+tollo | 3 | tollere liberos, to acknowledge and raise up a child as one's own
+tollo | 4 | nautical, tollere ancoras, to weigh anchor
+tollo | 5 | pregnant sense, to kill, destroy, do away with
+tollo | 6 | to abolish, annul, do away with a law, custom, or feeling
+tomentum | 1 | stuffing
+tondeo | 1 | shear
+tondeo | 3 | transferred, to prune, trim, lop
+tondeo | 4 | to mow, reap
+tondeo | 5 | poetic, of animals, to graze, browse upon
+tondeo | 6 | rare, to fleece, plunder
+tonitrus | 1 | thunder
+tono | 1 | thunder
+tono | 3 | transferred, to roar, rattle, crash, of any loud noise
+tono | 4 | figuratively, of oratory, to thunder, speak with overpowering force
+tonsa | 1 | oar
+tonsilis | 1 | trimmed
+tonsilis | 3 | literal, capable of being shorn or clipped
+tonsilla | 1 | mooring-post
+tonsilla | 3 | in plural, the tonsils
+tonsor | 1 | barber
+tonsor | 3 | a sheep-shearer
+tonsor | 4 | a pruner of plants
