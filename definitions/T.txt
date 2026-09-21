@@ -339,3 +339,21 @@ terrestris | 3 | of an army or journey, by land, land-, as opposed to by sea
 terribilis | 1 | terrible
 terribilis | 3 | late Latin, demanding reverence, venerable
 terricula | 1 | bugbear
+terrigena | 1 | earth-born
+territo | 1 | frighten
+territorium | 1 | territory
+terror | 1 | terror
+terror | 3 | transferred, concrete, an object of dread, a terror, a person or thing that causes fear
+terrulentus | 1 | earthly
+tertianus | 1 | tertian
+tertianus | 3 | as a noun (tertiani), soldiers of the third legion
+# review: tertio2 no single English verb covers "do again for the third time"; keeping the literal gloss
+tertio2 | 1 | do a third time
+tertio2 | 3 | especially, of a field, to plough a third time
+tertius | 1 | third
+tertius | 3 | as a noun, feminine (tertia pars), a third part
+tertius | 4 | as an adverb (tertio), for the third time; also, in the third place, thirdly
+teruncius | 1 | farthing
+teruncius | 3 | legal, the fourth part (of an inheritance)
+tesca | 1 | wilds
+tesca | 3 | especially, wild ground consecrated to a god
