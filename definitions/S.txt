@@ -1,0 +1,2285 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_S.json (Lewis & Short via Perseus), simplified for learners.
+sabbatum | 1 | Sabbath
+sabbatum | 3 | transferred, any Jewish holiday
+saburro | 1 | ballast
+saburro | 3 | comic, to be stuffed, crammed full
+saccarius | 1 | of sacks
+saccarius | 3 | as a noun, a sack-carrier, a porter
+sacco | 1 | strain
+sacco | 3 | transferred, of urine, to be filtered through the body
+sacculus | 1 | bag
+sacculus | 2 | purse
+sacellum | 1 | shrine
+sacellum | 3 | a small unroofed place consecrated to a god
+sacer | 1 | sacred
+sacer | 2 | accursed
+sacer | 3 | devoted to a god for destruction, forfeited, outlawed
+sacer | 4 | transferred, detestable, execrable
+sacer | 5 | as a neuter plural noun (sacra), sacred rites, holy objects
+sacerdos1 | 1 | priest
+sacerdos1 | 3 | also used of a priestess
+sacerdotalis | 1 | priestly
+sacerdotalis | 3 | as a noun, one who has held a priestly office
+sacerdotium | 1 | priesthood
+sacerdotium | 3 | eccl. Latin, the mediatorial office of Christ
+sacomarius | 1 | of weights
+sacomarius | 3 | as a noun, a maker of weights
+sacomarius | 4 | as a noun (n.), the public weighing-place
+sacramentum | 1 | oath
+sacramentum | 3 | a military oath of allegiance
+sacramentum | 4 | jurid., a sum deposited by both parties in a lawsuit, forfeited by the loser
+sacramentum | 5 | eccl. Latin, a sacred mystery
+sacramentum | 6 | eccl. Latin, a sacrament
+sacrarium | 1 | shrine
+sacrarium | 3 | transferred, a secret hiding place
+sacricola | 1 | sacrificer
+sacrificium | 1 | sacrifice
+sacrifico | 1 | sacrifice
+sacrificulus | 1 | sacrificer
+sacrificulus | 3 | rex sacrificulus, a Roman priestly office kept on after the fall of the monarchy
+sacrificus | 1 | sacrificial
+sacrilegium | 1 | sacrilege
+sacrilegium | 3 | specifically, the stealing of sacred objects from a temple
+sacrilegus | 1 | sacrilegious
+sacrilegus | 3 | as a noun, a sacrilegious person, a wretch
+sacro | 1 | consecrate
+sacro | 3 | with a bad sense, to devote to destruction, declare accursed
+sacro | 4 | to render sacred or inviolable by consecration, to hallow
+sacrosanctus | 1 | sacrosanct
+sacrosanctus | 3 | transferred, most holy, venerable
+saecularis | 1 | secular
+saecularis | 3 | ludi saeculares, the secular games, held once each era
+saecularis | 4 | eccl. Latin, worldly, lay, opposed to religious life
+saeculum | 1 | generation
+saeculum | 2 | age
+saeculum | 3 | a century, a period of about a hundred years
+saeculum | 4 | an indefinitely long period, an age
+saeculum | 5 | the times, the spirit of an age
+saeculum | 6 | eccl. Latin, the world, worldliness
+saeculum | 7 | in saecula saeculorum, for ever and ever
+saepe | 1 | often
+saepes | 1 | hedge
+saepes | 3 | transferred, any enclosure, e.g. of rocks or gates
+saepio | 1 | enclose
+saepio | 3 | to cover, wrap, envelop
+saepio | 4 | figuratively, to hedge in, check, impede
+saepio | 5 | memoria saepire, to fix firmly in the memory, to learn by heart
+saeptum | 1 | enclosure
+saeptum | 3 | specifically, a fold for cattle
+saeptum | 4 | plural, the Saepta, the voting enclosure in the Campus Martius
+saeptum | 5 | medical, the diaphragm
+saeta | 1 | bristle
+saeta | 3 | of human hair, coarse or bristly hair
+saeta | 4 | a fishing line
+saeta | 5 | a brush
+saetiger | 1 | bristly
+saetosus | 1 | bristly
+saevio | 1 | rage
+saevio | 3 | transferred, of persons and things, to be furious, violent, raging
+saevitia | 1 | ferocity
+saevitia | 2 | cruelty
+saevus | 1 | fierce
+saevus | 2 | cruel
+sagacitas | 1 | sagacity
+sagacitas | 3 | specifically, keenness of scent in dogs
+sagatus | 1 | cloaked
+sagatus | 3 | wearing the sagum, a soldier's cloak, as opposed to the toga of civil life
+sagatus | 4 | transferred, made of thick, coarse cloth
+sagax | 1 | sagacious
+sagax | 3 | specifically, keen-scented, of dogs
+sagax | 4 | intellectually keen, shrewd, acute
+sagina | 1 | fattening
+sagina | 3 | concretely, food, nourishment
+sagina | 4 | a fatted animal
+sagina | 5 | meton., fatness, corpulence
+sagino | 1 | fatten
+sagino | 3 | of persons, to cram, stuff, feast
+sagino | 4 | transferred, to feed, nourish
+sagitta | 1 | arrow
+sagitta | 3 | meton., the thin tip of a vine-shoot
+sagitta | 4 | a lancet for bloodletting
+sagitta | 5 | as a proper noun, the constellation Sagitta, the Arrow
+sagittarius | 1 | archer
+sagittarius | 3 | as an adjective, of or belonging to arrows
+sagittarius | 4 | as a proper noun, the constellation Sagittarius
+sagittifer | 1 | arrow-bearing
+sagittifer | 3 | as a proper noun, the constellation Sagittarius
+sagitto | 1 | shoot
+sagitto | 3 | as a past participle, shot or wounded with an arrow
+sagmen | 1 | sacred herbs
+sagmen | 3 | a tuft of sacred herbs, plucked in the citadel, that made an envoy inviolable
+sagus1 | 1 | witch
+sagus1 | 3 | as an adjective, prophetic, presaging
+sagus1 | 4 | transferred, a bawd, procuress
+sal | 1 | salt
+sal | 2 | wit
+sal | 3 | poetic, sea water, brine
+sal | 4 | good taste, elegance
+salarius | 1 | of salt
+salarius | 3 | as a noun, a dealer in salted fish
+salarius | 4 | as a noun (salarium), salt-money, a salary
+salax | 1 | lustful
+salax | 3 | transferred, of things, provoking lust, aphrodisiac
+salebra | 1 | roughness
+salebra | 3 | of speech, harshness, an awkward or uneven passage
+salebra | 4 | haerere in salebra, to get stuck, to stumble in speaking
+salebrosus | 1 | rugged
+salebrosus | 3 | of speech, harsh, rugged
+salictum | 1 | willow-grove
+salinae | 1 | saltworks
+salinum | 1 | saltcellar
+salio1 | 1 | salt
+salio1 | 3 | eccl. Latin, to sprinkle before sacrifice
+salio2 | 1 | leap
+salio2 | 3 | transferred, of water, to gush, spurt, flow
+salio2 | 4 | of animals, to mate, cover
+saliva | 1 | saliva
+saliva | 3 | transferred, a slimy moisture, slime
+saliva | 4 | figuratively, taste, flavor; longing, appetite
+salivo | 1 | discharge
+salivo | 3 | veterinary, to salivate, treat a sick animal by salivation
+salsamentarius | 1 | of salt-fish
+salsamentarius | 3 | as a noun, a dealer in salted fish
+salsamentum | 1 | salted fish
+salsamentum | 3 | fish-pickle, brine
+salsura | 1 | pickling
+salsura | 3 | concretely, brine, pickle
+salsura | 4 | pickled or salted fish
+salsura | 5 | comic, ita meae animae salsura evenit, I am in such an ill-humor
+saltatio | 1 | dance
+saltatorius | 1 | of dancing
+saltatorius | 3 | ludus saltatorius, a dancing-school
+saltem | 1 | at least
+saltem | 3 | with a negative, not even
+salto | 1 | dance
+salto | 3 | to act out a play through dance and gesture, to perform in pantomime
+salto | 4 | figuratively, of an orator, to speak in a jerky, mannered style
+saltuatim | 1 | by leaps
+saltuatim | 3 | of writing, in a disjointed, skipping manner
+saltus1 | 1 | leap
+saltus1 | 3 | figuratively, a sudden leap, an abrupt rise
+saltus2 | 1 | woodland-pasture
+saltus2 | 3 | especially, a narrow pass, ravine, mountain-valley
+saltus2 | 4 | in law, a tract of public land of four centuriae
+saltus2 | 5 | vulgar, the female genitals
+saltus2 | 6 | figuratively, ex hoc saltu, out of this dangerous predicament
+salubris | 1 | healthy
+salubris | 3 | of the human body itself, sound, vigorous
+salubritas | 1 | healthfulness
+salubritas | 3 | transferred, health, soundness itself
+salus | 1 | safety
+salus | 2 | health
+salus | 3 | specifically, a greeting, a salutation
+salus | 4 | eccl. Latin, salvation
+salus | 5 | as a proper noun, Salus, the Roman goddess of Safety
+salutaris | 1 | salutary
+salutaris | 3 | salutaris littera, the letter A, marked on a voting tablet for acquittal
+salutatio | 1 | greeting
+salutatio | 3 | specifically, a formal morning visit to a patron
+salutator | 1 | greeter
+salutator | 3 | specifically, one who pays morning visits, a courtier
+salutatorius | 1 | of visiting
+salutatorius | 3 | as a noun, an audience-chamber
+salutatorius | 4 | grammatical, salutatorius casus, the vocative case
+salutatrix | 1 | greeter
+salutatrix | 3 | in apposition, e.g. charta salutatrix, a letter of greeting
+salutatrix | 4 | specifically, turba salutatrix, the crowd of morning clients
+salutifer | 1 | healing
+salutiger | 1 | healing
+salutiger | 3 | that brings a greeting, salutatory
+salutiger | 4 | as a noun, a messenger who delivers a greeting
+saluto | 1 | greet
+saluto | 3 | to bid farewell, to take leave
+saluto | 4 | specifically, to pay a visit of respect, to wait upon a patron
+salvator | 1 | saviour
+salvator | 3 | eccl. Latin, as a title, the Saviour
+salveo | 1 | be well
+salveo | 3 | as a greeting, salve, salvete, hello, good day
+salveo | 4 | with vale, in parting, farewell
+salvus | 1 | safe
+salvus | 3 | colloquial, salva res est, all is well, it's all right
+salvus | 4 | as a greeting, salvus sis, welcome; also, at parting, farewell
+sancio | 1 | sanction
+sancio | 3 | to consecrate, dedicate, render sacred
+sancio | 4 | to forbid under penalty, to enact a penalty against
+sanctimonia | 1 | sanctity
+sanctimonia | 3 | specifically, chastity, purity of life
+sanctimonialis | 1 | holy
+sanctimonialis | 3 | as a noun, a nun
+sanctio | 1 | sanction
+sanctitas | 1 | sanctity
+sanctitas | 3 | of a person's character, moral purity, integrity, virtue
+sanctitudo | 1 | sanctity
+sandaliarius | 1 | of sandals
+sandaliarius | 3 | as a proper noun, the Vicus Sandaliarius, Sandal Street, a district of Rome
+sanguinarius | 1 | bloodthirsty
+sanguinarius | 3 | literally, of blood, blood-, e.g. sanguinaria herba, a blood-staunching herb
+sanguineus | 1 | bloody
+sanguineus | 3 | of persons, blood-thirsty
+sanguineus | 4 | transferred, blood-red, blood-colored
+sanguino | 1 | bleed
+sanguino | 3 | transferred, to be blood-colored
+sanguino | 4 | figuratively, to be blood-thirsty
+sanguinolentus | 1 | bloody
+sanguinolentus | 3 | transferred, blood-red
+sanguinolentus | 4 | figuratively, sanguinary, e.g. littera sanguinolenta, an injurious letter
+sanguis | 1 | blood
+sanguis | 2 | lineage
+sanguis | 3 | concretely, a descendant, offspring
+sanguis | 4 | figuratively, vigor, strength, vitality
+sanguis | 5 | of other fluids (poet.), e.g. Baccheus sanguis, wine
+sanies | 1 | gore
+sanies | 3 | transferred (poet.), venomous slaver, e.g. of a serpent
+sanitas | 1 | health
+sanitas | 2 | sanity
+sanitas | 3 | of style, correctness, purity, propriety
+sano | 1 | heal
+sano | 3 | figuratively, to correct, restore, repair, allay
+sanus | 1 | healthy
+sanus | 2 | sane
+sanus | 3 | of style, sound, correct, sober
+saperda | 1 | herring
+sapientia | 1 | wisdom
+sapientia | 2 | prudence
+sapientia | 3 | specifically, philosophy, knowledge of the world
+sapio | 1 | be wise
+sapio | 3 | literally, to taste, to have a flavor of something
+sapio | 4 | to smell of, to resemble
+sapio | 5 | proverbial, sero sapiunt Phryges, wise too late, after the fact
+sapor | 1 | flavor
+sapor | 3 | transferred, a sense of taste
+sapor | 4 | concretely, a delicacy, dainty
+sapor | 5 | figuratively, of style, taste, elegance
+sapsa | 1 | own
+sarcina | 1 | pack
+sarcina | 3 | figuratively (Ovid.), a burden of cares, troubles
+sarcinula | 1 | bundle
+sarcio | 1 | mend
+sarcio | 3 | figuratively, to make good, to make amends for a loss
+sarcio | 4 | sarta tecta, well-preserved, safe and sound
+sarculum | 1 | hoe
+sardius | 1 | carnelian
+sarmentum | 1 | brushwood
+sarracum | 1 | wagon
+sarracum | 3 | as a proper noun, the constellation Sarracum, the Wain
+sarrio | 1 | weed
+satelles | 1 | bodyguard
+satelles | 3 | transferred (poet.), an attendant thing, e.g. Jupiter's eagle, the evening star
+satelles | 4 | figuratively, an assistant, attendant
+satias | 1 | abundance
+satias | 3 | subjectively, satiety, a loathing, disgust
+satietas | 1 | satiety
+satietas | 3 | rare, abundance, a sufficiency
+satio1 | 1 | satiate
+satio1 | 3 | transferred, to saturate, to furnish abundantly with something
+satio1 | 4 | figuratively, to satisfy a desire; passive, to be cloyed, disgusted
+satiricus | 1 | satirical
+satiricus | 3 | as a noun, a satirist
+satis | 1 | enough
+satis | 3 | comparative, satius (est), preferable, better
+satis | 4 | satis agere, to have one's hands full, to be busy or troubled
+satis | 5 | satisfacere, to satisfy, to give satisfaction, to make amends
+satisdatio | 1 | security
+satisdatio | 3 | specifically, satisdatio capitalis, a pledging of one's own life as surety
+satisfactio | 1 | apology
+satisfactio | 3 | specifically, a giving of security to a creditor
+satisfactio | 4 | later, satisfaction, reparation, amends for an injury
+sator | 1 | sower
+sator | 2 | father
+sator | 3 | figuratively, an author, instigator, e.g. sator scelerum, an instigator of crimes
+satur | 1 | sated
+satur | 3 | transferred, of color, deep, rich
+satur | 4 | in general, abundant, fertile, well-filled
+satur | 5 | per saturam, in the gross, without order, confusedly
+satureia | 1 | savory
+saturitas | 1 | satiety
+saturitas | 3 | transferred, fullness, plenty, abundance
+saturo | 1 | satiate
+saturo | 3 | transferred, to furnish abundantly, to saturate with something
+saturo | 4 | figuratively, to satisfy, content, sate; also, to cause loathing, disgust
+satus2 | 1 | sowing
+satus2 | 2 | stock
+satus2 | 3 | figuratively, seed
+saucio | 1 | wound
+saucio | 3 | pregnant sense, to kill, to deal a mortal blow
+saucio | 4 | of tilling the soil, to dig into, break up; also, to prune a vine
+saucio | 5 | poetic idiom, se sauciare, to get drunk
+saucio | 6 | figuratively, to hurt, injure, damage
+saucius | 1 | wounded
+saucius | 2 | smitten
+saucius | 3 | transferred, of persons and things, sick, injured, damaged
+saucius | 4 | figuratively, hurt, offended
+saxatilis | 1 | rock-dwelling
+saxeus | 1 | stony
+saxeus | 3 | figuratively, hard, unfeeling, obdurate
+saxifragus | 1 | stone-breaking
+saxosus | 1 | rocky
+saxum | 1 | rock
+saxum | 3 | proverbial, saxum volvere, to labor in vain, like Sisyphus
+saxum | 4 | specifically, Saxum Tarpeium, the Tarpeian Rock
+saxum | 5 | transferred (plural), saxa, stony ground, rocky places
+scabellum | 1 | footstool
+scabellum | 3 | transferred, a foot-operated castanet, used to keep time on stage
+scaber | 1 | rough
+scaber | 3 | specifically, of animals, scabby, mangy
+scabies | 1 | mange
+scabies | 3 | in general, roughness, scurf
+scabies | 4 | figuratively, an itching, a longing, pruriency
+scabo | 1 | scratch
+scabritia | 1 | roughness
+scabritia | 3 | the scab, the itch
+scaena | 1 | stage
+scaena | 3 | figuratively, the public eye, the public
+scaena | 4 | figuratively, outward show, pretext, parade
+scala | 1 | ladder
+scala | 2 | stairs
+scala | 3 | specifically, Scalae Gemoniae, the Stairs of Mourning, where executed criminals' bodies were exposed
+scalpo | 1 | carve
+scalpo | 3 | figuratively, to tickle, titillate
+scalprum | 1 | chisel
+scalprum | 3 | specifically, a penknife
+scamnum | 1 | bench
+scamnum | 3 | agriculture, a ridge of earth left standing in plowing, a balk
+scamnum | 4 | land-surveying, the breadth of a field, as opposed to its length
+scando | 1 | climb
+scando | 3 | figuratively, to rise, ascend
+scansilis | 1 | climbable
+scansilis | 3 | figuratively, lex annorum scansilis, the law of the critical, climacteric years
+scansio | 1 | ascent
+scansio | 3 | grammatical, the scansion of verse
+scapulae | 1 | shoulder-blades
+scapulae | 3 | transferred, the shoulders, the back
+scarifo | 1 | scarify
+scatebra | 1 | spring
+scateo | 1 | gush
+scateo | 2 | abound
+scaturio | 1 | gush
+scaturio | 2 | abound
+scelero | 1 | defile
+scelero | 3 | as an adjective (sceleratus), wicked, impious, accursed
+scelero | 4 | as an adjective (sceleratus), hurtful, unlucky, calamitous
+scelerosus | 1 | wicked
+scelestus | 1 | wicked
+scelestus | 3 | as a noun, a scoundrel, a rogue
+scelestus | 4 | transferred (Plautus), unlucky, unfortunate, calamitous
+scelus | 1 | crime
+scelus | 3 | concretely, as a term of abuse, a scoundrel, a villain
+scelus | 4 | transferred (Plautus, Terence), a misfortune, a calamity
+schistos | 1 | fissile
+scholaris | 1 | scholastic
+scholaris | 3 | as a noun, the imperial guard
+scientia | 1 | knowledge
+scientia | 2 | skill
+scilicet | 1 | clearly
+scilicet | 3 | ironic, of course, forsooth
+scilicet | 4 | transferred, namely, that is to say
+scindo | 1 | tear
+scindo | 3 | to split, divide, separate
+scindo | 4 | figuratively, to distract, agitate, disturb
+scindo | 5 | proverbial, penulam scindere alicui, to press someone to stay
+scintilla | 1 | spark
+scintilla | 3 | figuratively, a glimmer, a faint trace
+scintillo | 1 | sparkle
+scio | 1 | know
+scio | 3 | as a participle (sciens), knowingly, purposely, intentionally
+scio | 4 | as a participle (sciens) + genitive, skilled, versed, expert in something
+scirpeus | 1 | of rushes
+scirpeus | 3 | as a noun (scirpea), a rush basket-work cart-body, used for manure
+scirpiculus | 1 | rush-basket
+scirpus | 1 | rush
+scirpus | 3 | proverbial, nodum in scirpo quaerere, to look for a knot in a bulrush, to invent a difficulty
+scirpus | 4 | transferred, a riddle, an enigma
+sciscitor | 1 | inquire
+scisco | 1 | enact
+scisco | 3 | literally (rare), to inquire, to seek to know
+scisco | 4 | figuratively, of nature, to decree, establish
+scissura | 1 | rent
+scissura | 3 | figuratively, a schism, a division
+scitamenta | 1 | dainties
+scitamenta | 3 | figuratively, of style, niceties, prettinesses
+scitor | 1 | inquire
+scitulus | 1 | pretty
+scius | 1 | knowing
+scobis | 1 | sawdust
+scopa1 | 1 | broom
+scopa1 | 3 | literally (rare), twigs, thin branches
+scopa1 | 4 | proverbial, scopas dissolvere, to untie a broom, to throw into confusion
+scopulosus | 1 | rocky
+scopulus | 1 | reef
+scopulus | 2 | danger
+scorteus | 1 | leather
+scortor | 1 | whore
+scortum | 1 | harlot
+scortum | 3 | literally (rare), a skin, a hide
+scriba | 1 | scribe
+scriba | 3 | eccl. Latin, a doctor of the Jewish law
+scribo | 1 | write
+scribo | 3 | military, scribere milites, to enlist, enroll, levy soldiers
+scribo | 4 | political, to draw up a law, decree, or treaty
+scribo | 5 | legal, dicam scribere, to bring a written charge against someone
+scrinium | 1 | case
+scrinium | 3 | specifically, a case for books, papers, or letters
+scriptio | 1 | writing
+scriptio | 3 | specifically, literary composition
+scriptio | 4 | a note, a bond
+scriptito | 1 | write often
+scriptito | 3 | specifically, to write or compose on one's own initiative, not officially
+scriptor | 1 | writer
+scriptor | 3 | political and legal, a drafter, a compiler, e.g. of a law or a will
+scriptura | 1 | writing
+scriptura | 3 | political, a tax on the use of public pasture-land
+scriptura | 4 | eccl. Latin, as a proper noun, Scripture, the Scriptures
+scriptura | 5 | legal, a testamentary provision, a will
+scripturarius | 1 | of pasture-tax
+scripturarius | 3 | as a noun, a collector of the pasture-tax
+scriptus2 | 1 | clerkship
+scrobis | 1 | trench
+scrobis | 3 | transferred, a grave
+scrobis | 4 | vulgar, the female genitals
+scrupeus | 1 | rugged
+scrupeus | 3 | figuratively, hard, severe
+scruposus | 1 | rugged
+scruposus | 3 | figuratively, hard, arduous
+scrupulosus | 1 | scrupulous
+scrupulosus | 3 | literally (rare), rough, rugged, jagged
+scrupulus | 1 | scruple
+scrupulus | 3 | literally, a small sharp stone
+scrupulus | 4 | as a unit, the twenty-fourth part of an ounce, a scruple
+scrupus | 1 | anxiety
+scrupus | 3 | literally (rare), a rough or sharp stone
+scrutarius | 1 | ragman
+scrutarius | 3 | as an adjective, of or belonging to trumpery, secondhand goods
+scrutator | 1 | searcher
+scrutator | 3 | figuratively, an examiner, an investigator
+scrutor | 1 | search
+scrutor | 3 | figuratively, to examine thoroughly, to investigate, to explore
+sculpo | 1 | carve
+sculpo | 3 | figuratively, sculpta, elaborated, finely wrought works
+sculptilis | 1 | carved
+sculptilis | 3 | as a noun (sculptile), a carved image, a statue
+sculptor | 1 | sculptor
+sculptura | 1 | sculpture
+sculptura | 3 | concretely (plural), works of plastic art, marbles
+scurra | 1 | jester
+scurra | 3 | originally, a fashionable town-dweller, a dandy
+scurra | 4 | late Latin, a soldier of the imperial guard
+scurrilis | 1 | scurrilous
+scurrilis | 3 | in general, jesting, facetious, ludicrous
+scurror | 1 | clown
+scutarius | 1 | shield-maker
+scutarius | 3 | as an adjective, of or belonging to a shield
+scutarius | 4 | late Latin, as a noun, a guardsman armed with a shield
+scutatus | 1 | shield-bearing
+scutatus | 3 | as a noun (plural), shield-bearing troops
+scutula1 | 1 | platter
+scutula1 | 3 | transferred, a diamond- or lozenge-shaped figure
+scutulatus | 1 | checkered
+scutum | 1 | shield
+scutum | 2 | defense
+scutum | 3 | late Latin, transferred, heavy-armed soldiers, shield-bearers
+secedo | 1 | withdraw
+secedo | 3 | specifically, to retire from public into private life
+secedo | 4 | political, to secede, to revolt
+secerno | 1 | separate
+secerno | 3 | figuratively, to distinguish, to discern
+secerno | 4 | to set aside, to reject, to exclude
+secerno | 5 | as a participle (secretus), separate, apart; also, secret, hidden, private
+secessio | 1 | secession
+secessio | 3 | general, a withdrawal, a going aside
+secessus | 1 | retirement
+secessus | 3 | transferred, a retreat, a secluded spot
+secessus | 4 | political, a secession
+secessus | 5 | late Latin, a privy, a drain
+secludo | 1 | seclude
+secludo | 3 | in general, to separate, sunder, shut off
+seco | 1 | cut
+seco | 3 | medical, to operate on, to amputate, to excise
+seco | 4 | to castrate
+seco | 5 | of motion, to cut through, e.g. to sail, swim, or fly through
+seco | 6 | figuratively, to censure, to satirize
+secretarium | 1 | retreat
+secretarium | 3 | specifically, a council chamber, of judges
+secretarium | 4 | eccl. Latin, a consistory, a conclave
+secta1 | 1 | way
+secta1 | 2 | sect
+secta1 | 3 | literally, a beaten path, footsteps
+sectator | 1 | follower
+sectator | 3 | specifically, a follower or disciple of a teacher or a school
+sectilis | 1 | cut
+sectilis | 3 | that may be cut, e.g. porrum sectile, cut-leek, chives
+sectio | 1 | auction
+sectio | 3 | literally (post-Aug.), a cutting, a cutting up
+sectio | 4 | geometrical, a section, a division
+sector1 | 1 | cutter
+sector1 | 3 | political, a buyer at a public auction of confiscated goods
+sector1 | 4 | geometrical, a sector of a circle
+sector2 | 1 | follow
+sector2 | 3 | specifically, to chase, hunt animals
+sector2 | 4 | figuratively, to pursue eagerly, to strive after
+sectura | 1 | cutting
+sectura | 3 | transferred, diggings, a mine
+secubo | 1 | sleep alone
+secubo | 3 | in general, to live alone, in solitude
+secundanus | 1 | second
+secundanus | 3 | as a noun (plural), soldiers of the second legion
+secundarius | 1 | second-rate
+secundarius | 3 | of abstract things (Cicero), a secondary consideration or point
+secundo1 | 1 | secondly
+secundo1 | 3 | for the second time
+secundo1 | 4 | twice
+secundo2 | 1 | favor
+secundo2 | 3 | literally, of wind or weather, to be favorable to, to speed a journey
+secundum | 1 | along
+secundum | 2 | according to
+secundum | 3 | in time, immediately after, next to
+secundum | 4 | legal, in favor of, to the advantage of
+secundus1 | 1 | second
+secundus1 | 2 | favorable
+secundus1 | 3 | nautical, of wind or current, following, fair
+securis | 1 | axe
+securis | 3 | specifically, an executioner's axe, borne in the lictors' fasces
+securis | 4 | figuratively, a deathblow
+securis | 5 | figuratively (usually plural), authority, sovereign power
+securitas | 1 | composure
+securitas | 2 | safety
+securitas | 3 | in a bad sense, carelessness, negligence
+securus | 1 | untroubled
+securus | 2 | safe
+securus | 3 | in a bad sense, careless, negligent, heedless
+secus2 | 1 | otherwise
+secus2 | 3 | pregnant sense, badly, ill
+secus2 | 4 | as a preposition (rare), beside, along
+secutor | 1 | follower
+secutor | 3 | specifically, a type of gladiator who pursued the net-fighter (retiarius)
+sed1 | 1 | but
+sed1 | 3 | non modo (solum) ... sed etiam, not only ... but also
+sedentarius | 1 | sedentary
+sedeo | 1 | sit
+sedeo | 3 | of magistrates, to sit in council, in court, or on the bench
+sedeo | 4 | military, to remain encamped, to besiege passively
+sedeo | 5 | figuratively, to sink, settle, subside
+sedeo | 6 | figuratively, to be fixed, firm, settled
+sedes | 1 | home
+sedes | 2 | seat
+sedes | 3 | of the dead, a burial place
+sedes | 4 | of inanimate things, a base, a foundation
+sedile | 1 | seat
+sedile | 3 | transferred, a sitting still, a period of rest
+seditio | 1 | sedition
+seditio | 3 | transferred (rare), general strife, discord, quarrel
+seditiosus | 1 | seditious
+seditiosus | 3 | transferred, in general, quarrelsome
+sedo | 1 | calm
+sedo | 3 | as a participle (sedatus), composed, moderate, calm, quiet
+seduco | 1 | lead aside
+seduco | 3 | eccl. Latin, to lead astray, to seduce, to mislead
+seduco | 4 | poetic, to separate, to divide
+seductio | 1 | separation
+seductio | 3 | eccl. Latin, a misleading, a seduction
+seductio | 4 | specifically (legal), a leading aside, e.g. of witnesses
+sedulitas | 1 | diligence
+sedulitas | 3 | with a negative implication, officiousness, obtrusiveness
+sedulus | 1 | diligent
+sedulus | 3 | with a negative implication, officious, obtrusive, meddlesome
+seges | 1 | cornfield
+seges | 2 | crop
+seges | 3 | figuratively (poet.), a yield, a result, a profit
+segestre | 1 | covering
+segmen | 1 | shred
+segmentum | 1 | slice
+segmentum | 3 | specifically, a zone or segment of the earth
+segmentum | 4 | plural, ornamental strips or trimmings sewn onto a dress
+segnis | 1 | sluggish
+segnitia | 1 | sluggishness
+segrego | 1 | segregate
+segrego | 3 | literally, of animals, to separate from the flock
+sejugis1 | 1 | six-horse team
+sejugo | 1 | separate
+sejungo | 1 | separate
+selectio | 1 | selection
+seligo | 1 | select
+seligo | 3 | specifically, judices selecti, judges selected by the praetor for criminal trials
+seligo | 4 | specifically, di selecti, the twenty principal Roman gods
+seliquastrum | 1 | stool
+sella | 1 | chair
+sella | 3 | specifically, sella curulis, a magistrate's ceremonial chair
+sella | 4 | specifically, a portable sedan chair
+sella | 5 | euphemistically, sella familiarica, a chamber pot, a close-stool
+sellisternia | 1 | sacred banquet
+sellisternia | 3 | specifically, held for female deities, at which the women sat rather than reclined
+sellularius | 1 | sedentary
+sellularius | 3 | as a noun, a mechanic, a craftsman who works seated
+semel | 1 | once
+semel | 3 | pregnant sense, once for all, but once
+semel | 4 | in a series, first
+semen | 1 | seed
+semen | 3 | transferred, a graft, a cutting for propagation
+semen | 4 | poetic, offspring, progeny
+semen | 5 | figuratively, origin, cause
+sementis | 1 | sowing
+sementis | 3 | transferred, seed-time
+sementis | 4 | transferred (plural), the young, growing crops
+sementivus | 1 | of sowing
+sementivus | 3 | specifically, feriae sementivae, the seed-time festival
+semestris1 | 1 | semiannual
+semesus | 1 | half-eaten
+semi | 1 | half
+semianimis | 1 | half-dead
+semideus | 1 | half-divine
+semideus | 3 | as a noun, a demigod
+semiermis | 1 | half-armed
+semifer | 1 | half-beast
+semifer | 3 | figuratively, half-wild, half-savage
+semihomo | 1 | half-man
+semihomo | 3 | figuratively, half-wild, savage
+semimas | 1 | hermaphrodite
+semimas | 3 | transferred, castrated, emasculated
+seminalis | 1 | seminal
+seminarius | 1 | nursery
+seminarius | 3 | figuratively (Cicero), a breeding-ground, a source
+seminecis | 1 | half-dead
+semino | 1 | sow
+semino | 3 | transferred, to beget, to engender
+semino | 4 | figuratively, to propagate, to disseminate
+seminudus | 1 | half-naked
+seminudus | 3 | transferred, half-unarmed, almost defenseless
+semipes | 1 | half-foot
+semipes | 3 | prosodic, half a metrical foot
+semipes | 4 | as an adjective (rare), half-lame
+semiplenus | 1 | half-full
+semirutus | 1 | half-ruined
+semis | 1 | half
+semis | 3 | specifically, as a coin, half an as
+semis | 4 | specifically, as a rate, six percent annual interest
+semisomnus | 1 | drowsy
+semita | 1 | path
+semita | 3 | figuratively (rare), a way, a course
+semivir | 1 | half-man
+semivir | 2 | effeminate
+semivir | 3 | transferred, castrated, emasculated
+semivivus | 1 | half-dead
+semivocalis | 1 | semivowel
+semivocalis | 3 | literally (rare), of cattle, half-sounding, as opposed to speaking slaves and silent tools
+semoveo | 1 | remove
+semper | 1 | always
+sempervivus | 1 | ever-living
+sempervivus | 3 | as a noun, the houseleek plant
+sempiternus | 1 | eternal
+semuncia | 1 | half-ounce
+semuncia | 3 | transferred, a trifle, a small amount
+semunciarius | 1 | half-ounce
+semustulo | 1 | half-burn
+semustus | 1 | half-burned
+senaculum | 1 | senate-hall
+senarius | 1 | senarius
+senarius | 3 | as an adjective, in general, consisting of six each
+senator | 1 | senator
+senatorius | 1 | senatorial
+senatus | 1 | senate
+senatus | 3 | figuratively (rare), a council, a consultation
+senectus1 | 1 | aged
+senectus1 | 3 | as a noun (senecta), old age
+senectus1 | 4 | as a noun (senecta), an old man
+senectus1 | 5 | as a noun (senecta), in Pliny, the cast-off skin of a serpent
+senectus2 | 1 | old age
+senectus2 | 3 | personified, Old Age, as a goddess
+senectus2 | 4 | transferred, old men, collectively
+senectus2 | 5 | transferred, gray hairs
+senectus2 | 6 | transferred, the cast-off skin of a serpent
+seneo | 1 | be old
+seneo | 3 | transferred, to be weak, feeble
+senesco | 1 | age
+senesco | 2 | decline
+senesco | 3 | of the moon, to wane
+senesco | 4 | to linger too long over something, to grow stale in it
+senex | 1 | old man
+senex | 3 | as an adjective, old, aged
+seni | 1 | six each
+seni | 3 | transferred, six
+senilis | 1 | senile
+senium | 1 | decay
+senium | 2 | moroseness
+senium | 3 | concretely (rare, term of abuse), an old man, an old fellow
+sensibilis | 1 | perceptible
+sensibilis | 3 | active sense, capable of feeling, sentient
+sensim | 1 | gradually
+sensus2 | 1 | sense
+sensus2 | 2 | feeling
+sensus2 | 3 | opinion, view, judgment
+sensus2 | 4 | of discourse, meaning, sense of words
+sensus2 | 5 | concretely, a sentence, a period
+sententia | 1 | opinion
+sententia | 2 | verdict
+sententia | 3 | transferred, meaning, sense of words
+sententia | 4 | concretely, a sentence, a maxim, an aphorism
+sententialis | 1 | sententious
+sententiosus | 1 | sententious
+sentina | 1 | bilgewater
+sentina | 2 | rabble
+sentina | 3 | transferred, the hold of a ship
+sentino | 1 | bail out
+sentino | 3 | figuratively (rare), to be in difficulty, danger
+sentio | 1 | feel
+sentio | 2 | think
+sentio | 3 | to perceive the ill effects of something, to suffer, undergo
+sentio | 4 | political and legal, to give one's opinion, to vote, to declare
+sentis1 | 1 | bramble
+sentis1 | 3 | transferred (Plautus), of thievish hands, briers
+sentus | 1 | thorny
+seorsus | 1 | apart
+seorsus | 3 | as an adjective (rare), separate, sundered
+separatim | 1 | separately
+separatio | 1 | separation
+separo | 1 | separate
+separo | 3 | figuratively, to distinguish, to treat separately, to differentiate
+sepelio | 1 | bury
+sepelio | 3 | figuratively, to overwhelm, destroy, ruin, suppress
+sepelio | 4 | poetic, as a participle (sepultus), buried in deep sleep, fast asleep
+sepono | 1 | set aside
+sepono | 3 | specifically (post-Aug.), to banish, to exile
+sepono | 4 | to reserve, to set apart for a purpose
+sepono | 5 | as a participle (sepositus), distant, remote; also, choice, select
+septem | 1 | seven
+septem | 3 | as a noun, the Seven, the Sages of Greece
+septemplex | 1 | sevenfold
+septemviri | 1 | septemvirs
+septenarius | 1 | septenary
+septendecim | 1 | seventeen
+septeni | 1 | seven each
+septeni | 3 | transferred, seven
+septentrionalis | 1 | northern
+septentriones | 1 | north
+septentriones | 3 | literally, the constellation of the Bear, the seven stars near the pole
+septentriones | 4 | transferred, the north wind
+septimanus | 1 | seventh
+septimanus | 3 | as a noun (plural), soldiers of the seventh legion
+septimanus | 4 | late Latin, as a noun (feminine), a week
+septimus | 1 | seventh
+septimus | 3 | grammatical, septimus casus, the seventh case
+septingenti | 1 | seven hundred
+septuageni | 1 | seventy each
+septuageni | 3 | transferred, seventy
+sepulcrum | 1 | tomb
+sepulcrum | 3 | specifically, a place where a corpse is cremated, a funeral pyre site
+sepultura | 1 | burial
+sepultura | 3 | specifically, the burning of the corpse, cremation
+sequax | 1 | pursuing
+sequax | 3 | specifically, of materials, pliable, ductile, flexible
+sequax | 4 | figuratively, tractable, docile
+sequela | 1 | consequence
+sequela | 3 | literally, a follower, an attendant
+sequester | 1 | trustee
+sequester | 3 | specifically, in bribery, a go-between, an agent
+sequester | 4 | post-Aug., a mediator, an intermediary
+sequestro | 1 | sequester
+sequestro | 3 | transferred, to remove, to separate from something
+sequor | 1 | follow
+sequor | 3 | specifically, to follow in a hostile manner, to pursue, chase
+sequor | 4 | of time or order, to come after, to succeed
+sequor | 5 | figuratively, to pursue a goal, to strive for, aim at
+sequor | 6 | figuratively, to follow as a leader, to comply with, conform to
+sera | 1 | bolt
+serenitas | 1 | serenity
+serenitas | 3 | literally, of the weather, clearness, fair weather
+serenitas | 4 | as a title of the Roman emperors, Serenity, Serene Highness
+sereno | 1 | clear
+sereno | 3 | figuratively, to brighten, to cheer
+serenus1 | 1 | clear
+serenus1 | 2 | cheerful
+serenus1 | 3 | as a noun (serenum), a clear sky, fair weather
+seria | 1 | jar
+series | 1 | series
+series | 3 | specifically, an unbroken line of descent, a lineage
+serius1 | 1 | serious
+sermo | 1 | conversation
+sermo | 3 | specifically, everyday speech, the language of conversation
+sermo | 4 | specifically, common talk, report, rumor
+sermo | 5 | transferred, a language, the speech of a nation
+sermocinatio | 1 | dialogue
+sermocinor | 1 | converse
+sermunculus | 1 | gossip
+sero1 | 1 | sow
+sero1 | 3 | transferred, of persons (as a participle), begotten, born, sprung forth
+sero1 | 4 | figuratively, to found, establish, disseminate, cause
+sero2 | 1 | entwine
+sero2 | 3 | as a noun (serta), wreaths of flowers, garlands
+sero2 | 4 | figuratively, to combine, contrive, connect
+serotinus | 1 | late
+serotinus | 3 | specifically, in the evening
+serperastra | 1 | leg-splints
+serperastra | 3 | transferred, humorously, officers who restrain unruly soldiers
+serpo | 1 | creep
+serpo | 3 | figuratively, to spread gradually, to increase, to prevail
+serra | 1 | saw
+serra | 3 | transferred, a sawfish
+serra | 4 | military, a serrated, zigzag battle formation
+serratus | 1 | serrated
+serum | 1 | whey
+serum | 3 | transferred, the watery part of other substances, e.g. resin
+serus | 1 | late
+serus | 2 | overdue
+servator | 1 | savior
+servator | 3 | literally (rare), a watcher, an observer
+servatrix | 1 | savior
+servilis | 1 | servile
+servio | 1 | serve
+servio | 3 | in general, to be devoted to, to comply with, to gratify
+servio | 4 | transferred (of things), to be useful for, serviceable to
+servio | 5 | legal, of land or buildings, to be subject to an easement
+servitium | 1 | slavery
+servitium | 3 | concretely (collective), a body of slaves, servants
+servitus | 1 | slavery
+servitus | 3 | legal, of land or buildings, an easement, a servitude
+servitus | 4 | concretely (poet.), slaves, servants
+servo | 1 | save
+servo | 3 | specifically, to keep, to lay up, to reserve for later use
+servo | 4 | transferred, to watch, to observe, to pay attention to
+servo | 5 | religious, to observe an omen
+servulus | 1 | young slave
+servus1 | 1 | servile
+servus1 | 3 | legal, of land or buildings, subject to an easement
+servus2 | 1 | slave
+servus2 | 3 | figuratively, a slave to a vice or passion
+sescenteni | 1 | six-hundred each
+sescenti | 1 | six hundred
+sescenti | 2 | countless
+sescenties | 1 | six-hundred times
+sescuncia | 1 | an eighth
+sescuncia | 3 | literally, one and a half unciae, a twelfth and a half
+sesqui | 1 | one-and-a-half
+sesquipedalis | 1 | foot-and-a-half
+sesquipedalis | 3 | poetic, excessively long, half a yard long, e.g. sesquipedalia verba, long-winded words
+sesquiplaris | 1 | ration-and-a-half soldier
+sessilis | 1 | sessile
+sessilis | 3 | transferred, of plants, low-growing, dwarf, spreading
+sessio | 1 | session
+sessio | 3 | concretely, a seat, a sitting-place
+sessio | 4 | specifically, idle sitting, loitering, tarrying
+sessor | 1 | sitter
+sessor | 3 | specifically, a horseman, a rider
+sessor | 4 | specifically, an inhabitant, a resident
+sestertius | 1 | sesterce
+sestertius | 3 | transferred, for a trifle, for a nominal sum
+sestertius | 4 | in general, money, a sum of money
+severitas | 1 | severity
+severus1 | 1 | severe
+sevir | 1 | sexvir
+sevir | 3 | specifically, sevir Augustalis, a member of the priestly college of Augustus's cult
+sevoco | 1 | call aside
+sevoco | 3 | figuratively, to withdraw, to separate, to remove
+sex | 1 | six
+sexagenarius | 1 | sexagenarian
+sexagenarius | 3 | in general, of or containing sixty
+sexageni | 1 | sixty each
+sexageni | 3 | transferred, sixty
+sexagesimus | 1 | sixtieth
+sexaginta | 1 | sixty
+sexaginta | 3 | transferred, an indefinitely large number
+sexennium | 1 | six years
+sexies | 1 | six times
+sexies | 3 | for sextum, for the sixth time
+sextans | 1 | a sixth
+sextans | 3 | specifically, as a coin, a small copper coin worth a sixth of an as
+sextarius | 1 | pint
+sextarius | 3 | as a dry measure, one-sixteenth of a modius
+sextula | 1 | one seventy-second
+sextus1 | 1 | sixth
+sexus | 1 | sex
+sexus | 3 | transferred, the sexual organs, genitalia
+si | 1 | if
+si | 3 | transferred, in indirect questions, whether, if perchance
+si | 4 | idiom, si ... si, for sive ... sive, whether ... or
+sibilo | 1 | hiss
+sibilo | 3 | transitive, to hiss at, to hiss down a person
+sibilus1 | 1 | hiss
+sibilus1 | 3 | specifically, a contemptuous hissing, a hissing off
+sic | 1 | thus
+sic | 3 | correlative, sic ... ut, so ... that
+sic | 4 | in answers (ante-class.), yes
+sica | 1 | dagger
+sica | 3 | transferred, the edge of a boar's tusk
+sicarius | 1 | assassin
+siccitas | 1 | dryness
+siccitas | 3 | specifically, of weather, drought
+siccitas | 4 | figuratively, of style, dryness, jejuneness, want of ornament
+sicco | 1 | dry
+sicco | 3 | specifically, to drain, to dry up land or marshes
+sicco | 4 | poetic, to exhaust, to milk dry
+siccus | 1 | dry
+siccus | 2 | sober
+siccus | 3 | figuratively, of style, dry, insipid, jejune
+sicilicus | 1 | one forty-eighth
+sicilicus | 3 | transferred (later grammarians), a comma; also, a mark for a doubled consonant
+sicine | 1 | thus
+sicubi | 1 | if anywhere
+sicut | 1 | just as
+sicut | 3 | pregnant sense, as indeed it is, as is really the fact
+sicut | 4 | for introducing an example, as, for instance
+sideratio | 1 | blight
+sideratio | 3 | literally (rare), a grouping of stars, a constellation
+sideratio | 4 | of animals, numbness, palsy
+sidereus | 1 | starry
+sidereus | 2 | radiant
+sidereus | 3 | transferred, heavenly, divine
+sideror | 1 | be star-struck
+sido1 | 1 | settle
+sido1 | 3 | nautical, of a ship, to run aground, to stick fast on shallows
+sido1 | 4 | figuratively, to sink down, to subside
+sidus | 1 | constellation
+sidus | 3 | transferred, the sky, the heavens
+sidus | 4 | transferred, a season of the year
+sidus | 5 | transferred, fate, destiny, through astrological influence
+sigilla | 1 | figurine
+sigilla | 3 | transferred, a seal
+signaculum | 1 | mark
+signaculum | 3 | specifically, a seal, a signet
+signator | 1 | witness
+signator | 3 | specifically, one who stamps money, a coiner
+signifer | 1 | standard-bearer
+signifer | 3 | astronomical, orbis signifer, the zodiac
+signifer | 4 | transferred, a leader, a chief
+significatio | 1 | indication
+significatio | 2 | meaning
+significatio | 3 | pregnant sense, a sign of approval, applause
+significatus | 1 | meaning
+significatus | 3 | specifically, a sign, a prognostic of weather
+significo | 1 | indicate
+significo | 2 | mean
+significo | 3 | specifically, to betoken, to portend, to foreshow
+signo | 1 | mark
+signo | 3 | specifically, to seal, to seal up a document
+signo | 4 | specifically, to stamp, to coin money
+signo | 5 | figuratively, to distinguish, to recognize
+signum | 1 | sign
+signum | 2 | statue
+signum | 3 | military, a standard, an ensign
+signum | 4 | a signal, a watchword
+signum | 5 | a seal, a signet
+signum | 6 | a constellation
+silentiarius | 1 | usher
+silentiarius | 3 | later imperial period, a privy-councillor
+silentium | 1 | silence
+silentium | 3 | augural, freedom from disturbance, ritual soundness in taking auspices
+silentium | 4 | transferred, a standstill, cessation, inaction
+sileo | 1 | be silent
+sileo | 3 | transitive, to keep secret about, not to mention
+sileo | 4 | of things (poet.), to be still, calm, quiet
+sileo | 5 | figuratively, to be inactive, to rest, to cease
+silesco | 1 | quiet down
+silex | 1 | flint
+silex | 3 | in general (poet.), a rock, a crag
+silicernium | 1 | funeral feast
+silicernium | 3 | comic, as a term of abuse, an old fogey
+silicernium | 4 | late Latin, a kind of sausage
+siligo | 1 | winter-wheat
+siligo | 3 | transferred, fine wheaten flour
+siliqua | 1 | pod
+siliqua | 3 | transferred, pulse, legumes in general
+siliqua | 4 | siliqua Graeca, the carob tree, carob
+siliqua | 5 | as a coin, one twenty-fourth of a solidus
+silva | 1 | forest
+silva | 2 | abundance
+silva | 3 | transferred, a plantation, an orchard, a grove
+silvaticus | 1 | wild
+silvaticus | 3 | literally, of or belonging to a wood
+silvestris | 1 | wooded
+silvestris | 2 | wild
+simia | 1 | ape
+simia | 3 | figuratively, as a term of abuse or of imitators, a mimic, a copycat
+similis | 1 | similar
+similitudo | 1 | resemblance
+similitudo | 3 | rhetorical, a comparison, a simile
+similitudo | 4 | transferred, sameness, uniformity, monotony
+simitu | 1 | together
+simplex | 1 | simple
+simplex | 2 | frank
+simplicitas | 1 | simplicity
+simplicitas | 3 | specifically (moral sense), frankness, openness, artlessness, candor
+simplus | 1 | single
+simplus | 3 | as a noun (simplum), the simple sum, the base amount, as opposed to double
+simpulum | 1 | ladle
+simpuvium | 1 | sacrificial bowl
+simul | 1 | at once
+simul | 3 | correlative, simul ... simul, partly ... partly
+simul | 4 | as a conjunction (simul ac/atque), as soon as
+simulacrum | 1 | image
+simulacrum | 3 | specifically, a statue, esp. of a god
+simulacrum | 4 | specifically, a phantom, an apparition, in a dream or vision
+simulacrum | 5 | in particular, a mere semblance, an empty appearance
+simulatio | 1 | pretense
+simulator | 1 | pretender
+simulator | 3 | literally (poet., rare), a copier, an imitator
+simulo | 1 | feign
+simulo | 3 | in general (poet.), to imitate, to copy, to represent
+simultas | 1 | rivalry
+sin | 1 | but if
+sinceritas | 1 | sincerity
+sinceritas | 3 | literally, cleanness, purity, soundness
+sincerus | 1 | genuine
+sincerus | 2 | sincere
+sinciput | 1 | pig's jowl
+sinciput | 3 | comic, transferred, the brain
+sinciput | 4 | late Latin, transferred, the head in general
+sine | 1 | without
+singillatim | 1 | individually
+singularis | 1 | single
+singularis | 2 | extraordinary
+singularis | 3 | grammatical, singular in number
+singularis | 4 | military, as a noun, a bodyguard, an orderly
+singularitas | 1 | singleness
+singularius | 1 | single
+singularius | 3 | transferred, remarkable, extraordinary
+singuli | 1 | individual
+singuli | 3 | idiom, in dies singulos, day by day, daily
+singulto | 1 | sob
+singulto | 3 | transferred (poet.), of dying persons, to rattle in the throat
+singultus | 1 | sob
+singultus | 3 | transferred, a death-rattle, of dying persons
+singultus | 4 | transferred, the clucking of a hen, the croaking of a raven
+sinister | 1 | left
+sinister | 2 | unlucky
+sinister | 3 | in augury, lucky, favorable, auspicious
+sinistrorsus | 1 | leftward
+sino | 1 | allow
+sino | 3 | colloquial, sine, let it be, granted, agreed
+sino | 4 | as a participle (situs), lying, situated, of places
+sino | 5 | as a participle (situs), of the dead, laid, buried
+sinum | 1 | jug
+sinuo | 1 | curve
+sinuo | 3 | transferred, to hollow out, to excavate
+sinuosus | 1 | sinuous
+sinuosus | 3 | figuratively, of style, full of digressions, diffuse
+sinus1 | 1 | fold
+sinus1 | 2 | bay
+sinus1 | 3 | transferred, the bosom, for love, protection
+sinus1 | 4 | transferred, a purse, carried in the fold of the toga
+siparium | 1 | curtain
+siparium | 3 | meton., comedy, as opposed to tragedy
+siquidem | 1 | if indeed
+siquidem | 3 | causal, since indeed, since
+siquis | 1 | if anyone
+siremps | 1 | same
+sisto | 1 | place
+sisto | 3 | legal, to appear in court, to produce in court
+sisto | 4 | to stand firm, to remain fixed
+sisto | 5 | to stop, to halt, to check an advancing motion
+sisto | 6 | to stop, to arrest the flow of blood or water
+sitella | 1 | lottery-urn
+siticulosus | 1 | thirsty
+siticulosus | 3 | transferred, of places, very dry, parched, arid
+sitio | 1 | thirst
+sitio | 2 | covet
+sitio | 3 | transferred, of land or plants, to be parched, dried up
+sitis | 1 | thirst
+sitis | 2 | greed
+sitis | 3 | transferred, of places, dryness, drought
+situla | 1 | bucket
+situla | 3 | specifically, an urn used for drawing lots
+situs2 | 1 | site
+situs2 | 2 | rust
+situs2 | 3 | figuratively, neglect, idleness, disuse
+situs2 | 4 | of the mind, dullness, inactivity, stagnation
+sive | 1 | or if
+sive | 3 | correlative, sive ... sive, whether ... or
+sobrietas | 1 | sobriety
+sobrietas | 3 | in general, moderation, temperance, continence
+sobrietas | 4 | figuratively, reasonableness, prudence
+sobrinus | 1 | cousin
+sobrius | 1 | sober
+sobrius | 2 | prudent
+soccus | 1 | slipper
+soccus | 3 | meton., comedy, as opposed to tragedy
+socer | 1 | father-in-law
+socer | 3 | transferred, a co-father-in-law, the father-in-law of one's child
+sociabilis | 1 | sociable
+socialis | 1 | allied
+socialis | 3 | in general, sociable, companionable
+socialis | 4 | in Ovid (poet.), of marriage, conjugal, nuptial
+societas | 1 | association
+societas | 3 | specifically, a business partnership
+societas | 4 | specifically, a political alliance, a league
+socio | 1 | unite
+socius | 1 | companion
+socius | 3 | specifically, a business partner
+socius | 4 | political, an ally, a confederate
+socordia | 1 | sloth
+socordia | 3 | rare, weak-mindedness, silliness, folly
+socors | 1 | slothful
+socors | 3 | rare, narrow-minded, silly, foolish, stupid
+socrus | 1 | mother-in-law
+sodalicius | 1 | fellowship
+sodalicius | 3 | in a bad sense, an unlawful secret society, esp. for buying votes
+sodalis | 1 | comrade
+sodalis | 3 | specifically, a fellow member of a corporation or college
+sodalis | 4 | in a bad sense, a participant in an unlawful secret society
+sodalitas | 1 | fellowship
+sodalitas | 3 | transferred, a society, an association, esp. religious
+sodalitas | 4 | in a bad sense, an unlawful secret society
+sodes | 1 | please
+sol | 1 | sun
+sol | 3 | as a deity, Sol, the sun-god
+sol | 4 | poetic, a day, time reckoned by the sun
+solacium | 1 | consolation
+solacium | 3 | legal, compensation, indemnification
+solaris | 1 | solar
+solarium1 | 1 | sundial
+solarium1 | 3 | transferred, a clock in general
+solarium1 | 4 | transferred, a terrace, a balcony, a sun-exposed rooftop
+solea | 1 | sandal
+solea | 3 | transferred, a kind of fetter
+solea | 4 | transferred, a horseshoe
+solea | 5 | transferred, a sole, the fish
+soleatus | 1 | sandaled
+soleo | 1 | be accustomed
+soleo | 3 | euphemism, to have intercourse with
+soliditas | 1 | solidity
+solido | 1 | solidify
+solido | 3 | figuratively, to confirm, to establish
+solidus | 1 | solid
+solidus | 2 | genuine
+solidus | 3 | as a noun (solidus), a gold coin
+solitarius | 1 | solitary
+solitudo | 1 | solitude
+solitudo | 2 | wilderness
+solitudo | 3 | specifically, a state of destitution, deprivation, being forsaken
+solium | 1 | throne
+solium | 3 | meton., rule, dominion, sway
+solium | 4 | specifically, a bathtub
+solium | 5 | specifically, a stone coffin, a sarcophagus
+solivagus | 1 | solitary
+sollemnis | 1 | solemn
+sollemnis | 2 | customary
+sollemnis | 3 | as a noun (sollemne), a religious rite, a solemn ceremony, a festival
+sollemnitas | 1 | solemnity
+sollemnitas | 3 | legal, a usage, a formality
+sollers | 1 | skillful
+sollertia | 1 | ingenuity
+sollicitatio | 1 | instigation
+sollicitatio | 3 | rare, vexation, anxiety
+sollicito | 1 | disturb
+sollicito | 2 | incite
+sollicito | 3 | in general, without an evil implication, to induce, to invite, to urge
+sollicitudo | 1 | anxiety
+sollicitudo | 3 | late Latin, transferred, care, forethought, responsibility
+sollicitus | 1 | anxious
+sollicitus | 2 | attentive
+sollicitus | 3 | of physical motion (poet., rare), agitated, restless
+sollistimus | 1 | most favorable
+solor | 1 | console
+solor | 3 | transferred, to soothe, to ease, to relieve, to mitigate
+solox | 1 | coarse
+solstitialis | 1 | solstitial
+solstitialis | 3 | transferred, of or belonging to midsummer heat
+solstitium | 1 | solstice
+solstitium | 3 | transferred, summer time, the heat of summer
+solum1 | 1 | ground
+solum1 | 2 | land
+solum1 | 3 | figuratively (rare), a base, a foundation, e.g. of a throne
+solus1 | 1 | alone
+solus1 | 3 | idiom, non solum ... sed etiam, not only ... but also
+solutio | 1 | payment
+solutio | 3 | literally, a loosening, an unloosing
+solutio | 4 | figuratively, a solution, an explanation
+solvo | 1 | loosen
+solvo | 2 | pay
+solvo | 3 | of ships, navem solvere, to set sail, to weigh anchor
+solvo | 4 | to free, to release, to set free from bonds, obligations, or cares
+solvo | 5 | to break up, to dissolve, to disperse an assembly or army's ranks
+solvo | 6 | to solve, to explain, to refute a riddle or argument
+solvo | 7 | as a participle (solutus), free, unrestrained; also, of style, prose
+somniculosus | 1 | drowsy
+somniculosus | 3 | active sense (rare), causing drowsiness, torpor
+somnifer | 1 | soporific
+somnio | 1 | dream
+somnio | 3 | transferred, to talk foolishly, to think idly, to rave
+somnium | 1 | dream
+somnium | 3 | transferred, an idle fancy, nonsense
+somnus | 1 | sleep
+somnus | 3 | reproachful sense, sloth, idleness, inactivity
+somnus | 4 | poetic, death, as a euphemism
+sonipes | 1 | steed
+sonitus | 1 | sound
+sono | 1 | sound
+sono | 3 | transitive, to utter, to speak, to sing, to give voice to
+sonor | 1 | sound
+sonorus | 1 | sonorous
+sons | 1 | guilty
+sons | 3 | as a noun, a criminal, an offender
+sonticus | 1 | serious
+sonus1 | 1 | sound
+sonus1 | 3 | figuratively, tone, character, style, of language
+sopio | 1 | benumb
+sopio | 3 | poetic, pregnant sense, to lay to rest, i.e. to kill
+sopio | 4 | transferred, of things, to calm, to still, to quiet
+sopor | 1 | sleep
+sopor | 3 | pregnant sense, the sleep of death, death
+sopor | 4 | transferred, stupor, lethargy
+sopor | 5 | transferred, opium, poppy-juice
+sopor | 6 | transferred, a sleeping-draught, a sleeping potion
+soporifer | 1 | soporific
+soporo | 1 | stupefy
+soporo | 3 | transferred, to lay at rest, to still, to quiet
+soporus | 1 | sleep-bringing
+soporus | 3 | heavy with sleep, drowsy
+sorbeo | 1 | swallow
+sorbeo | 3 | transferred, to suck in, to draw in, to absorb
+sorbeo | 4 | figuratively, to endure, to bear, to stomach
+sorbitio | 1 | broth
+sordeo | 1 | be dirty
+sordeo | 3 | figuratively, to be mean, base, sordid
+sordeo | 4 | transferred, to be despised, slighted, held of no account
+sordes | 1 | filth
+sordes | 2 | stinginess
+sordes | 3 | transferred (plural), mourning garments, mourning
+sordes | 4 | figuratively, lowness of rank, meanness of condition
+sordesco | 1 | get dirty
+sordesco | 3 | figuratively, to be mean, vile
+sordidatus | 1 | shabby
+sordidatus | 3 | specifically, as a sign of mourning or distress
+sordidus | 1 | dirty
+sordidus | 2 | stingy
+sordidus | 3 | transferred, low, base, mean, of birth or rank
+soror | 1 | sister
+soror | 3 | transferred, a female friend, a companion
+soror | 4 | transferred, a cousin, a father's brother's daughter
+sororius | 1 | sisterly
+sororius | 3 | specifically, Sororium Tigillum, the Sister's Beam, a place in Rome sacred to Juno
+sors | 1 | lot
+sors | 2 | fate
+sors | 3 | specifically, an oracular response, a prophecy
+sors | 4 | mercantile, capital, principal, as opposed to interest
+sortio | 1 | draw lots
+sortior | 1 | draw lots
+sortior | 3 | transferred, to obtain by lot, to be allotted
+sortior | 4 | transferred, to share, to divide, to distribute
+sortior | 5 | transferred, to choose, to select
+sortitio | 1 | drawing lots
+sortitus2 | 1 | drawing lots
+sospes | 1 | safe
+sospes | 3 | archaic (rare), as an active sense, saving, delivering; as a noun, a savior
+sospito | 1 | protect
+spargo1 | 1 | scatter
+spargo1 | 2 | spread
+spargo1 | 3 | specifically, of liquids, to sprinkle, to besprinkle
+sparteus | 1 | of broom
+sparus1 | 1 | hunting-spear
+spatior | 1 | walk
+spatior | 3 | transferred, of things, to spread out, to expand
+spatiosus | 1 | spacious
+spatiosus | 3 | figuratively, of time, long, prolonged
+spatium | 1 | space
+spatium | 3 | specifically, a distance, an interval
+spatium | 4 | specifically, a walk, a promenade; also, a race-course
+spatium | 5 | figuratively, of time, a space of time, an interval, a period
+spatium | 6 | specifically, time, leisure, opportunity to do something
+specialis | 1 | special
+species | 1 | appearance
+species | 2 | kind
+species | 3 | specifically, a show, a pretence, a semblance, opposed to reality
+species | 4 | philosophical, an idea, a notion
+species | 5 | transferred, a vision, an apparition, in sleep
+specimen | 1 | example
+specimen | 3 | transferred, a pattern, a model, an ideal
+specio | 1 | look
+speciosus | 1 | handsome
+speciosus | 2 | plausible
+spectabilis | 1 | visible
+spectabilis | 2 | notable
+spectabilis | 3 | late Latin, as a title, Spectabilis, a title of high officers
+spectaculum | 1 | spectacle
+spectaculum | 3 | transferred, the seats of spectators, the theatre
+spectaculum | 4 | specifically (plural), spectacula, the Seven Wonders of the world
+spectamen | 1 | proof
+spectamen | 3 | a sight, a spectacle
+spectatio | 1 | contemplation
+spectatio | 3 | specifically, an examining, a testing, esp. of coin
+spectatio | 4 | figuratively, respect, regard, consideration
+spectator | 1 | observer
+spectator | 3 | specifically, a spectator at a theatre or games
+spectator | 4 | specifically, an examiner, a judge, a critic
+spectatrix | 1 | observer
+specto | 1 | watch
+specto | 3 | of localities, to face, to look toward, to be situated toward
+specto | 4 | specifically, to examine, to test, esp. of coin
+specto | 5 | figuratively, to aim at, to have in view, to tend toward, to pertain to
+spectrum | 1 | apparition
+specula1 | 1 | watchtower
+specula1 | 3 | idiom, in speculis esse, to be on the watch, on the lookout
+specula1 | 4 | poetic, a height, an eminence, of natural terrain
+specula2 | 1 | faint hope
+speculabundus | 1 | watchful
+specularis | 1 | mirror-like
+specularis | 3 | specifically, specularis lapis, a transparent mineral, mica, used for windows
+speculator | 1 | scout
+speculator | 3 | transferred, a searcher, an investigator, an examiner
+speculatorius | 1 | of scouts
+speculatorius | 3 | as a noun (navis speculatoria), a spy-boat, a scout ship
+speculatrix | 1 | watcher
+speculatrix | 3 | transferred, looking out toward, facing, e.g. the sea
+speculor | 1 | spy
+speculum | 1 | mirror
+speculum | 3 | figuratively, a copy, a reflection, an imitation
+specus | 1 | cave
+specus | 3 | specifically, an artificial channel, a ditch, a drain, a mine shaft
+specus | 4 | transferred (poet.), a hollow, a cavity, e.g. of a wound or a belly
+sperno | 1 | spurn
+spero | 1 | hope
+spero | 3 | rare (mostly poet.), to expect, to apprehend an undesired thing
+spes | 1 | hope
+spes | 3 | transferred, concretely, that in which hope is placed, esp. of children
+spes | 4 | as a proper noun, Spes, a Roman goddess
+spica | 1 | ear
+spica | 3 | transferred, a tuft, a head, of other plants
+spica | 4 | as a proper noun, Spica, the brightest star in Virgo
+spiceus | 1 | of grain-ears
+spico | 1 | spike
+spiculum | 1 | sting
+spiculum | 3 | specifically, the point of a missile weapon, e.g. a dart or arrow
+spiculum | 4 | meton., a dart, an arrow, the whole weapon
+spina | 1 | thorn
+spina | 2 | spine
+spina | 3 | transferred, a fish-bone
+spina | 4 | figuratively (plural), difficulties, subtleties, cares
+spinosus | 1 | thorny
+spinosus | 2 | crabbed
+spinter | 1 | armlet
+spirabilis | 1 | breathable
+spirabilis | 3 | transferred, that sustains life, vital
+spiramen | 1 | vent
+spiramen | 3 | abstract sense, a breathing, a blowing, of wind
+spiramentum | 1 | vent
+spiramentum | 3 | figuratively, a breathing space, a brief pause, an interval
+spiritalis | 1 | spiritual
+spiritalis | 3 | literally (post-Aug.), of or belonging to breathing, wind, or air
+spiritus | 1 | breath
+spiritus | 2 | pride
+spiritus | 3 | transferred, life, the breath of life
+spiritus | 4 | figuratively (mostly poet./post-Aug.), spirit, soul, mind
+spiritus | 5 | eccl. Latin, Spiritus Sanctus, the Holy Spirit
+spiro | 1 | breathe
+spiro | 3 | transferred, to live, to be alive
+spiro | 4 | active, to breathe out, to exhale, to emit
+spisso | 1 | thicken
+spisso | 3 | figuratively (rare), to hasten, to urge on an action
+spissus | 1 | dense
+spissus | 2 | slow
+spissus | 3 | figuratively (rare), hard, difficult
+splendeo | 1 | shine
+splendeo | 3 | figuratively, to be illustrious, distinguished
+splendesco | 1 | brighten
+splendesco | 3 | figuratively, of style, to become brilliant, polished
+splendidus | 1 | brilliant
+splendidus | 2 | distinguished
+splendidus | 3 | specifically, showy, fine, specious
+splendor | 1 | brilliance
+splendor | 2 | distinction
+spoliarium | 1 | stripping-room
+spoliarium | 3 | transferred, a den of murderers, a cutthroat place
+spoliatio | 1 | plundering
+spolio | 1 | plunder
+spolio | 3 | in general (rare), to strip, to deprive of covering, to rob of clothing
+spolium | 1 | spoils
+spolium | 3 | literally (poet., rare), the skin or hide of an animal, stripped off
+spondeo | 1 | pledge
+spondeo | 3 | specifically, to become security for someone, to enter bail
+spondeo | 4 | specifically, to betroth, to promise in marriage
+sponsalis | 1 | of betrothal
+sponsalis | 3 | as a noun (sponsalia), a betrothal, an espousal
+sponsio | 1 | guarantee
+sponsio | 3 | specifically (legal), a mutual wager in a civil suit
+sponsio | 4 | in general, a bet, a wager
+sponsor | 1 | surety
+sponsor | 3 | eccl. Latin, a godfather, a godmother
+sponsus3 | 1 | betrothal
+sponsus3 | 3 | legal, bail, suretyship
+spontaneus | 1 | spontaneous
+sponte | 1 | voluntarily
+sportula | 1 | basket
+sportula | 3 | transferred, a gift, a present, esp. a patron's daily gift to clients
+spuma | 1 | foam
+spuma | 3 | specifically, litharge of silver, a metallurgical byproduct
+spumeus | 1 | foaming
+spumo | 1 | foam
+spumo | 3 | active (very rare), to cause to foam, to cover with foam
+spumosus | 1 | foaming
+spumosus | 3 | figuratively, of style, frothy, bombastic
+spuo | 1 | spit
+spurco | 1 | befoul
+spurco | 3 | figuratively, to defile, to corrupt, of character
+spurcus | 1 | dirty
+spurcus | 2 | base
+spurius1 | 1 | bastard
+spurius1 | 3 | figuratively, false, spurious, not genuine
+sputo | 1 | spit
+squaleo | 1 | be squalid
+squaleo | 3 | specifically, to be dry, parched, from drought
+squaleo | 4 | transferred, to mourn in filthy garments
+squalidus | 1 | squalid
+squalidus | 3 | figuratively, of speech, rude, unadorned
+squalor | 1 | squalor
+squalor | 3 | figuratively, of language or style, roughness, crudeness
+squama | 1 | scale
+squama | 3 | transferred, scale-armor
+squama | 4 | transferred, scales of metal, struck off by a hammer
+squamosus | 1 | scaly
+st | 1 | hush
+stabilimentum | 1 | support
+stabilimentum | 3 | figuratively, a mainstay, a strategic bulwark
+stabilio | 1 | stabilize
+stabilis | 1 | stable
+stabilis | 3 | idiom, stabile est, it is settled, it is decided
+stabilitas | 1 | stability
+stabularius | 1 | innkeeper
+stabularius | 3 | specifically, a stable-boy, a hostler
+stabulor | 1 | roost
+stabulor | 3 | active, to stable or house cattle
+stabulum | 1 | stable
+stabulum | 3 | specifically, a public-house, a tavern, an inn
+stabulum | 4 | specifically, a brothel
+stagno1 | 1 | stagnate
+stagno1 | 3 | transferred, to be overflowed, inundated, of places
+stagno1 | 4 | active, to overflow, to inundate a place
+stagnum1 | 1 | pool
+stagnum1 | 3 | poetic, transferred, waters in general, the sea
+stamen | 1 | thread
+stamen | 3 | specifically, the warp, in an upright loom
+stamen | 4 | pars pro toto, a cloth made of threads, e.g. a priest's fillet or a garment
+statarius | 1 | stationary
+statarius | 3 | transferred, of an orator, calm, tranquil in style
+statarius | 4 | as a noun (feminine plural), statariae, a quiet-paced genre of comedy
+statera | 1 | scale
+statera | 3 | figuratively, the value, the worth of a thing
+statim | 1 | immediately
+statim | 3 | ante-class. (rare), firmly, steadily, steadfastly
+statio | 1 | station
+statio | 3 | military, a guard-post; also, transferred, sentries, sentinels
+statio | 4 | nautical, an anchorage, a roadstead
+stationarius | 1 | of stations
+stationarius | 3 | as a noun, a police officer, a gendarme
+stativus | 1 | stationary
+stativus | 3 | as a noun (stativa), a stationary camp
+stator1 | 1 | orderly
+statua | 1 | statue
+statua | 3 | transferred, a pillar
+statuarius | 1 | of statues
+statuarius | 3 | as a noun, a sculptor, a statue-maker
+statuliber | 1 | conditionally-freed slave
+statuo | 1 | set up
+statuo | 2 | decide
+statuo | 3 | to establish, to found, e.g. a city
+statuo | 4 | to fix, to determine, e.g. a limit, a price, a day
+statuo | 5 | to decree, to order, to prescribe
+statuo | 6 | to judge, to consider, to hold an opinion
+statura | 1 | stature
+status2 | 1 | condition
+status2 | 2 | posture
+status2 | 3 | of countries, the state, public affairs
+status2 | 4 | rhetorical, the main question, the essential point
+status2 | 5 | grammatical, the mood of a verb
+stella | 1 | star
+stella | 3 | specifically, a meteor, a shooting star
+stella | 4 | transferred, a starfish
+stellionatus | 1 | fraud
+stello | 1 | be starry
+stello | 3 | active (rare), to set with stars, to bestar
+stercoro | 1 | manure
+stercoro | 3 | to cleanse from dung
+stercus | 1 | dung
+stercus | 3 | transferred, dross, slag, of metal
+sterilis | 1 | barren
+sterilis | 2 | useless
+sterilitas | 1 | sterility
+sterilitas | 3 | transferred, poverty, insufficiency, of fortune
+sterno | 1 | spread
+sterno | 2 | prostrate
+sterno | 3 | specifically, to pave, of a road
+sterno | 4 | specifically, to saddle, of a horse
+sternumentum | 1 | sneeze
+sternumentum | 3 | transferred, a sneezing-powder
+sternuo | 1 | sneeze
+sternuo | 3 | transferred, of a light, to sputter, to crackle
+sterto | 1 | snore
+stilla | 1 | drop
+stilla | 3 | transferred, a small quantity
+stillicidium | 1 | dripping
+stillicidium | 3 | specifically, rainwater falling from a house's eaves, a legal easement term
+stillo | 1 | drip
+stillo | 3 | active, to let fall in drops, to distil
+stimulo | 1 | goad
+stimulo | 2 | torment
+stimulo | 3 | to rouse up, to spur on, to incite, to stimulate
+stimulus | 1 | goad
+stimulus | 2 | incentive
+stimulus | 3 | military, a hidden pointed stake, a defensive obstacle
+stinguo | 1 | extinguish
+stipatio | 1 | retinue
+stipatio | 3 | figuratively, a crowd, a throng, of things
+stipator | 1 | bodyguard
+stipendiarius | 1 | tributary
+stipendiarius | 3 | military, receiving pay, serving for pay, stipendiary
+stipendior | 1 | be paid
+stipendium | 1 | pay
+stipendium | 3 | transferred (plural), military service
+stipendium | 4 | specifically, a year's campaign, a year of military service
+stipes | 1 | trunk
+stipes | 3 | transferred (poet.), a tree
+stipes | 4 | transferred (poet.), a branch
+stipo | 1 | cram
+stipo | 3 | with a personal object, to surround, to attend, to accompany
+stips1 | 1 | donation
+stipula | 1 | stalk
+stipulatio | 1 | stipulation
+stipulo | 1 | stipulate
+stipulor | 1 | stipulate
+stirpitus | 1 | utterly
+stirpitus | 3 | literally (very rare), by the roots, root and branch
+stirps | 1 | stock
+stirps | 2 | origin
+stirps | 3 | transferred (poet.), offspring, a descendant, progeny
+stlata | 1 | broad-beamed ship
+sto | 1 | stand
+sto | 2 | endure
+sto | 3 | military, to stand one's ground, to fight
+sto | 4 | nautical, to lie at anchor
+sto | 5 | idiom, stare aliqua re, to abide by, to adhere to, to rest on something
+sto | 6 | of price, to cost, to come to a price
+stolatus | 1 | stola-clad
+stolatus | 3 | as a noun (stolatae), noble matrons
+stolidus | 1 | stolid
+stolo1 | 1 | sucker
+stomachor | 1 | fume
+stomachosus | 1 | irritable
+strages | 1 | carnage
+strages | 3 | in general, an overthrow, a confused heap or mass
+strages | 4 | figuratively, ruin, destruction
+stragulus | 1 | coverlet
+stragulus | 3 | specifically (feminine, stragula), a pall, a covering for a corpse
+stramen | 1 | straw
+stramentum | 1 | straw
+stramentum | 3 | rare, a covering, a rug, a housing
+strebula | 1 | haunch-meat
+strena | 1 | omen
+strena | 3 | transferred, a New Year's gift, given for good luck
+strenuus | 1 | vigorous
+strenuus | 3 | post-Aug., restless, turbulent
+strepito | 1 | rustle
+strepitus | 1 | din
+strepitus | 3 | poetic, transferred, a measured, regular sound, e.g. of music
+strepo | 1 | rumble
+strepo | 3 | figuratively, to ring, to resound with praise or glory
+strepo | 4 | active (very rare), to bawl out, to vociferate
+stribligo | 1 | solecism
+strictim | 1 | briefly
+strictim | 3 | literally (rare), straitly, closely
+strictim | 4 | figuratively, in general, slightly, superficially
+strictura | 1 | stricture
+strictura | 3 | concretely, a bar of wrought iron
+strideo | 1 | creak
+stridor | 1 | screech
+stridulus | 1 | creaking
+strigilis | 1 | strigil
+strigilis | 3 | transferred, a surgical instrument for dropping liquid into the ear
+strigosus | 1 | lean
+strigosus | 3 | figuratively, of an orator, dry, tasteless in style
+stringo | 1 | tie tight
+stringo | 2 | graze
+stringo | 3 | to pull off, to strip off, to prune leaves or fruit
+stringo | 4 | figuratively, to wound, to pain, to affect painfully
+strio1 | 1 | groove
+structilis | 1 | structural
+structio | 1 | construction
+structor | 1 | builder
+structor | 3 | specifically (post-Aug.), a carver, a table-server
+structura | 1 | structure
+structura | 3 | figuratively, of language, an arrangement, an order
+strues | 1 | heap
+strues | 3 | specifically, religious, a heap of small offering-cakes
+struix | 1 | heap
+struma1 | 1 | tumor
+struo | 1 | build
+struo | 2 | contrive
+struo | 3 | military, to set in order, to arrange, e.g. troops in battle line
+struo | 4 | figuratively, of speech, to arrange, to compose, to order
+struppus | 1 | strap
+studeo | 1 | strive
+studeo | 2 | study
+studeo | 3 | specifically, to be partial to, to favor, to be attached to someone
+studiosus | 1 | eager
+studiosus | 2 | studious
+studiosus | 3 | specifically, partial, attached, devoted to someone
+studium | 1 | zeal
+studium | 2 | study
+studium | 3 | specifically, goodwill, affection, attachment, favor toward someone
+stultitia | 1 | folly
+stultus | 1 | foolish
+stupefacio | 1 | stun
+stupeo | 1 | be stunned
+stupeo | 3 | transferred (poet.), of things, to be brought to a standstill, to stop
+stupidus | 1 | stupid
+stupidus | 3 | literally (rare), struck senseless, confounded, amazed
+stupor | 1 | stupor
+stupor | 3 | especially, dullness, stupidity, stolidity of mind
+stupro | 1 | rape
+stupro | 3 | in general (very rare), to defile
+stuprum | 1 | rape
+stuprum | 3 | in general (ante-class. only), defilement, dishonor, disgrace
+suadela | 1 | persuasion
+suadela | 3 | as a proper noun, Suadela, the goddess of Persuasion
+suadeo | 1 | persuade
+suadeo | 3 | transferred (mostly poet.), of things, to urge, to induce, to impel
+suadeo | 4 | political, to advocate, to speak in favor of a proposed law
+suadus | 1 | persuasive
+suadus | 3 | as a proper noun, Suada, the goddess of Persuasion
+suarius | 1 | of swine
+suarius | 3 | as a noun, a swineherd
+suasio | 1 | persuasion
+suasio | 3 | political, advocacy of a proposed law
+suasio | 4 | rhetorical, the suasory, hortatory genre of eloquence
+suasor | 1 | adviser
+suasor | 3 | political, one who advocates a proposed law
+suasorius | 1 | persuasive
+suasorius | 3 | rhetorical, as a noun (suasoria), a hortatory speech, a declamation exercise
+suaviloquens | 1 | sweet-spoken
+suavior | 1 | kiss
+suavis | 1 | pleasant
+suavitas | 1 | pleasantness
+suavitudo | 1 | pleasantness
+suavium | 1 | kiss
+sub | 1 | under
+sub | 3 | of time, before, toward, about
+sub | 4 | of time, after, immediately after
+subabsurdus | 1 | somewhat absurd
+subactio | 1 | preparation
+subalaris | 1 | underarm
+subausculto | 1 | eavesdrop
+subblandior | 1 | fondle
+subblandior | 3 | literally, to caress or fondle a little, a diminutive sense
+subdialis | 1 | open-air
+subdialis | 3 | as a noun (subdialia), open galleries or terraces
+subdisjunctivus | 1 | subdisjunctive
+subditicius | 1 | counterfeit
+subditivus | 1 | counterfeit
+subdo | 1 | put under
+subdo | 2 | substitute
+subdo | 3 | specifically, to forge, to counterfeit, something spurious in place of the genuine
+subdolus | 1 | crafty
+subduco | 1 | withdraw
+subduco | 2 | calculate
+subduco | 3 | nautical, to haul a ship up on land
+subduco | 4 | to take away secretly, to steal
+subeo | 1 | approach
+subeo | 2 | undergo
+subeo | 3 | figuratively, to come to mind, to occur, to suggest itself
+subeo | 4 | as a noun (subitum), a sudden or unexpected thing
+suber | 1 | cork-oak
+suber | 3 | transferred, cork, the material
+subices | 1 | underlayers
+subicio | 1 | place under
+subicio | 2 | subject
+subicio | 3 | to forge, to counterfeit, e.g. a will
+subicio | 4 | to append, to subjoin, in speech or writing
+subicio | 5 | of places, to lie under or near, to be adjacent, to border upon
+subicio | 6 | grammatical, as a noun (subjectum), the subject of a proposition
+subigito | 1 | fornicate
+subigito | 3 | figuratively (post-class.), to work upon, to incite
+subigo | 1 | subdue
+subigo | 2 | cultivate
+subigo | 3 | to force, to compel, to constrain to something
+subinde | 1 | presently
+subinde | 2 | repeatedly
+subinvideo | 1 | envy slightly
+subirascor | 1 | be miffed
+subitarius | 1 | hasty
+subjaceo | 1 | underlie
+subjaceo | 3 | figuratively, to be subject to, to belong to, to be connected with
+subjectio | 1 | placing under
+subjectio | 3 | specifically, a forging, of documents
+subjectio | 4 | figuratively, subjugation, reduction to obedience
+subjectio | 5 | rhetorical, an answer an orator supplies to his own question
+subjecto | 1 | place under
+subjugo | 1 | subjugate
+subjugus | 1 | yoked
+subjugus | 3 | as a noun (subjugum), the name of an unidentified animal, in Pliny
+subjungo | 1 | yoke
+subjungo | 2 | subjugate
+subjungo | 3 | to join, to add, to annex, to subjoin
+sublabor | 1 | sink
+sublabor | 3 | figuratively, of hope or memory, to decline, to fail gradually
+sublatio | 1 | elevation
+sublatio | 3 | specifically, a removal; also, an abrogation, an annulling
+sublego | 1 | gather up
+sublego | 3 | specifically, to kidnap, catching children up by stealth
+sublego | 4 | specifically, to overhear, catching words by stealth
+sublego | 5 | to choose in place of another, to substitute
+sublestus | 1 | slight
+sublevo | 1 | support
+sublevo | 2 | alleviate
+sublica | 1 | pile
+sublicius | 1 | pile-built
+sublicius | 3 | specifically, Pons Sublicius, the wooden pile-bridge over the Tiber, built by Ancus Marcius
+subligo | 1 | bind on
+sublimen | 1 | aloft
+sublimis | 1 | lofty
+sublimis | 2 | sublime
+sublimitas | 1 | loftiness
+sublimitas | 2 | sublimity
+sublimo | 1 | elevate
+sublino | 1 | prime
+sublino | 3 | idiom, sublinere os alicui, to befool, to cheat, to bamboozle
+subluceo | 1 | glimmer
+subluco | 1 | prune
+subluo | 1 | wash
+subluo | 3 | transferred, of rivers, to flow along the base of, to wash the foot of a hill
+subluvies | 1 | filth
+subluvies | 3 | specifically, a foot disease in sheep and humans, foot rot
+subnascor | 1 | sprout
+subnascor | 3 | to follow after, to succeed
+subnecto | 1 | tie under
+subnecto | 3 | figuratively, to add, to subjoin, in speaking
+subnixus | 1 | propped up
+subnixus | 2 | relying
+subnoto | 1 | note down
+subnoto | 3 | to note secretly, to watch, to observe
+suboleo | 1 | sense
+suboles | 1 | offspring
+suboles | 3 | literally (very rare), of plants, a sprout, a shoot
+suborno | 1 | equip
+suborno | 2 | suborn
+subscribo | 1 | subscribe
+subscribo | 2 | assent
+subscribo | 3 | legal, to sign an accusation, as a prosecutor
+subscriptio | 1 | subscription
+subscriptio | 3 | legal, a subscription to an accusation
+subscriptio | 4 | in general, a list, a register
+subscriptor | 1 | co-signer
+subscriptor | 3 | post-class., one who assents to something, a favorer, an approver
+subscus | 1 | tenon
+subseco | 1 | clip
+subsellium | 1 | bench
+subsellium | 3 | specifically, a judge's seat, the bench, in a legal sense
+subsellium | 4 | transferred, a court, a tribunal
+subsequor | 1 | follow
+subsequor | 3 | figuratively, to follow mentally, to adhere to, to imitate
+subservio | 1 | serve
+subservio | 3 | figuratively, to comply with, to humor, to accommodate oneself to
+subsessor | 1 | waylayer
+subsessor | 3 | figuratively, one who lies in wait for another's marriage, a seducer
+subsicivus | 1 | spare
+subsicivus | 3 | as a noun (subsicivum), a remaining patch of land
+subsicivus | 4 | of work, accessory, incidental, done in spare time
+subsidiarius | 1 | reserve
+subsidiarius | 3 | as a noun (plural), the reserve troops
+subsidiarius | 4 | legal, actio subsidiaria, a subsidiary legal action
+subsidium | 1 | reserve
+subsidium | 2 | aid
+subsido | 1 | settle down
+subsido | 2 | ambush
+subsido | 3 | of things, to sink, to settle, to subside
+subsido | 4 | active, to lie in wait for, to waylay someone
+subsigno | 1 | undersign
+subsigno | 3 | transferred, to pledge by signing, e.g. property as security
+subsigno | 4 | figuratively, to pledge, to engage, to warrant
+subsilio | 1 | leap up
+subsisto | 1 | stop
+subsisto | 2 | resist
+subsisto | 3 | to stay, to tarry, to remain in a place
+subsisto | 4 | figuratively, to be adequate to, to sustain, to support, e.g. financially
+subsolanus | 1 | eastern
+subsolanus | 3 | as a noun, subsolanus, the east wind
+subsortior | 1 | substitute
+subsortitio | 1 | substitution
+subsortitio | 3 | specifically (legal), the choosing of substitute judges or jurors by lot
+substantia | 1 | substance
+substantia | 3 | specifically, fortune, property, wealth
+substantialis | 1 | substantial
+substerno | 1 | strew
+substerno | 3 | transferred, to bestrew, to spread over, to cover something
+substerno | 4 | figuratively, to give up, to surrender, to prostitute
+substillus | 1 | dribbling
+substillus | 3 | as a noun (substillum), a slight dropping, a sprinkling
+substituo | 1 | substitute
+substituo | 3 | figuratively, to present to the imagination, to figure to oneself
+substituo | 4 | legal, substituere heredem, to name an alternate heir
+substo | 1 | be present
+substo | 3 | to stand firm, to hold out
+substringo | 1 | bind up
+substringo | 2 | restrain
+substruo | 1 | underbuild
+subsulto | 1 | hop
+subsulto | 3 | figuratively, of speech, to be uneven, jerky in rhythm
+subsum | 1 | underlie
+subsum | 2 | be near
+subsum | 3 | figuratively, to lie concealed in, to be at the bottom of, e.g. a suspicion
+subtego | 1 | shield
+subtemen | 1 | weft
+subtemen | 3 | meton., thread, yarn, in general
+subter | 1 | beneath
+subterfluo | 1 | underflow
+subterfluo | 3 | figuratively, of fortune, to slip away, to flow past ungratefully
+subterfugio | 1 | evade
+subterfugio | 3 | neuter (very rare), to flee secretly, to get off, to escape by stealth
+subterlabor | 1 | flow under
+subterlabor | 3 | transferred, to slip away, to escape
+subtero | 1 | wear away
+subterraneus | 1 | subterranean
+subtexo | 1 | affix
+subtexo | 3 | figuratively, to add, to append, to subjoin, in narrative
+subtilis | 1 | fine
+subtilis | 2 | subtle
+subtilis | 3 | rhetorical, of style, plain, simple, unadorned
+subtilitas | 1 | fineness
+subtilitas | 2 | subtlety
+subtilitas | 3 | rhetorical, plainness, simplicity of style
+subtraho | 1 | withdraw
+subtraho | 3 | figuratively, to remove, to take away an abstract thing
+subtus | 1 | beneath
+subucula | 1 | undershirt
+subulo1 | 1 | flutist
+subulo1 | 3 | specifically, a young hart with pointed horns
+suburbanus | 1 | suburban
+suburbanus | 3 | as a noun (suburbanum), a suburban estate, a villa near Rome
+subvecto | 1 | transport
+subveho | 1 | transport
+subvenio | 1 | help
+subvenio | 3 | figuratively (rare), to come to mind, to occur to one
+subverto | 1 | overturn
+subverto | 2 | subvert
+subvolo | 1 | fly up
+succedaneus | 1 | substitute
+succedo | 1 | succeed
+succedo | 2 | prosper
+succedo | 3 | military, to advance, to march up to
+succedo | 4 | literally (mostly poet.), to go under, to enter, to come under
+succendo | 1 | kindle
+succendo | 3 | figuratively (poet.), to inflame with passion, e.g. love
+succenseo | 1 | be angry
+succenturio1 | 1 | recruit
+succenturio1 | 3 | transferred, to put in the place of another, to receive as a substitute
+succerno | 1 | sift
+succerno | 3 | transferred (rare), to shake up, to agitate
+successio | 1 | succession
+successio | 3 | rare, a good issue, success
+successor | 1 | successor
+successus2 | 1 | success
+successus2 | 3 | literally (very rare), an advance, an approach
+successus2 | 4 | post-class., a continuance, a succession of time
+succidia | 1 | flitch
+succido1 | 1 | sink
+succido1 | 3 | figuratively, of the mind, to sink, to fail
+succido2 | 1 | fell
+succiduus | 1 | sinking
+succiduus | 3 | figuratively, faltering, trembling, of speech
+succingo | 1 | gird
+succingo | 2 | succinct
+succingo | 3 | transferred, to surround, to equip, to furnish with something
+succino | 1 | accompany
+succino | 3 | transferred, to accord, to agree, to chime in
+succlamo | 1 | shout back
+succollo | 1 | shoulder
+succresco | 1 | grow up
+succresco | 3 | figuratively, to grow up after someone, to succeed generationally
+succrotillus | 1 | delicate
+succumbo | 1 | succumb
+succumbo | 3 | euphemism, of a woman, to lie with a man, to cohabit
+succurro | 1 | help
+succurro | 3 | figuratively, to come into the mind, to occur to one
+succutio | 1 | toss up
+sucidus | 1 | juicy
+sucosus | 1 | succulent
+sucosus | 3 | transferred, rich in money, wealthy
+sucula3 | 1 | Hyades
+sucus | 1 | juice
+sucus | 2 | vigor
+sucus | 3 | specifically (poet.), a medicinal drink, a potion
+sudatorius | 1 | sudatory
+sudatorius | 3 | as a noun (sudatorium), a sweating-room, a sweat-bath
+sudis | 1 | stake
+sudis | 3 | transferred, a kind of pike, a fish
+sudo | 1 | sweat
+sudo | 2 | toil
+sudo | 3 | active, to exude, to sweat out, e.g. resin or honey
+sudor | 1 | sweat
+sudor | 2 | toil
+sudus | 1 | clear
+sudus | 3 | as a noun (sudum), bright, clear weather
+suesco | 1 | grow accustomed
+suesco | 3 | active (very rare), to accustom, to habituate, to train someone
+suffarcino | 1 | stuff
+suffarcino | 3 | transferred, to deck, to adorn, to enrich
+suffero | 1 | endure
+suffero | 3 | in general, to offer, to proffer
+suffero | 4 | very rare, to hold up, to bear, to support, to sustain
+suffervefacio | 1 | warm
+sufficio | 1 | suffice
+sufficio | 2 | substitute
+sufficio | 3 | to give, to afford, to furnish, to supply
+sufficio | 4 | to dip in, to dye, to impregnate, to tinge
+suffigo | 1 | affix
+suffimentum | 1 | incense
+suffio | 1 | fumigate
+suffitio | 1 | fumigation
+sufflamen | 1 | brake
+sufflamen | 3 | figuratively (post-class.), a hindrance, an impediment
+sufflamino | 1 | brake
+sufflamino | 3 | figuratively, to check, to repress, in speaking
+sufflo | 1 | inflate
+sufflo | 3 | as a participle (sufflatus), puffed up with anger or pride; of language, bombastic
+suffoco | 1 | suffocate
+suffoco | 3 | transferred, to starve, a city, by cutting off supplies
+suffodio | 1 | undermine
+suffragatio | 1 | support
+suffragator | 1 | supporter
+suffragium | 1 | vote
+suffragium | 3 | transferred, the right to vote, suffrage
+suffragium | 4 | in general, a decision, an opinion, a judgment
+suffrago1 | 1 | hock
+suffrago1 | 3 | transferred, a shoot, a spray of a vine
+suffragor | 1 | vote for
+suffragor | 2 | favor
+suffugio | 1 | flee
+suffugio | 3 | active, to flee from, to shun, to avoid, to escape
+suffugium | 1 | shelter
+suffugium | 3 | figuratively, a refuge, a remedy for troubles
+suffulcio | 1 | prop up
+suffulcio | 3 | figuratively, to sustain, to support, e.g. the body with food
+suffumigo | 1 | fumigate
+suffundo | 1 | suffuse
+suffundo | 3 | specifically, of fluids, to tinge, to stain, to color
+suffundo | 4 | specifically, of blushes, to redden
+suffusio | 1 | suffusion
+suffusio | 3 | medical, specifically, opacity of the cornea, a cataract
+suggero | 1 | supply
+suggero | 2 | suggest
+suggero | 3 | to add, to subjoin, to assign
+suggestio | 1 | addition
+suggestio | 3 | rhetorical, a figure where the speaker poses and answers his own question
+suggestio | 4 | late Latin, a hint, an intimation
+suggestum | 1 | platform
+suggestum | 3 | in general, a raised place, a height, a mound
+suggestus2 | 1 | platform
+suggestus2 | 3 | in general, a raised place, a height, an elevation
+suggredior | 1 | approach
+suggredior | 3 | active, to attack
+sugillatio | 1 | bruise
+sugillatio | 3 | figuratively, an affront, an insult
+sugillo | 1 | bruise
+sugillo | 2 | revile
+sugo | 1 | suck
+sugo | 3 | figuratively, to imbibe, to absorb, e.g. an idea from childhood
+sui | 1 | himself
+sui | 3 | reciprocal use, each other, one another
+sui | 4 | idiom, apud se, ad se, at one's house, at home
+suillus | 1 | porcine
+suillus | 3 | as a noun (suilla), pork
+sulcator | 1 | plougher
+sulcator | 3 | transferred, a sailor, one who traverses the sea
+sulco | 1 | plough
+sulco | 3 | transferred (poet.), to sail over, to traverse
+sulcus2 | 1 | furrow
+sulcus2 | 3 | transferred, a ditch, a trench
+sulcus2 | 4 | transferred, the wake cut by a ship
+sulfur | 1 | sulfur
+sulfur | 3 | transferred (poet.), lightning
+sulfuratus | 1 | sulfurous
+sulfuratus | 3 | as a noun (sulfurata), brimstone matches
+sum1 | 1 | be
+sum1 | 3 | with dative, to belong to, to have
+sum1 | 4 | idiom, id est, that is, that is to say
+sumen | 1 | udder
+sumen | 3 | meton., a sow, a hog
+sumen | 4 | transferred, the richest part, the cream, of a region
+summa | 1 | sum
+summa | 2 | gist
+summa | 3 | idiom, ad summam, in summa, on the whole, in short
+summas | 1 | noble
+summatim | 1 | briefly
+summatim | 3 | literally (post-Aug., very rare), on the surface, slightly
+summergo | 1 | submerge
+summergo | 3 | figuratively (post-class., rare), to suppress
+sumministro | 1 | supply
+summitas | 1 | summit
+summitto | 1 | lower
+summitto | 2 | submissive
+summitto | 3 | economic, to rear, to raise, animals or plants
+summitto | 4 | to send secretly, to dispatch
+summoveo | 1 | remove
+summoveo | 2 | banish
+summoveo | 3 | specifically, of a lictor, to clear a crowd, to make way
+sumo | 1 | take
+sumo | 2 | assume
+sumo | 3 | to choose, to select
+sumo | 4 | to undertake, to begin, e.g. a war
+sumo | 5 | to buy, to purchase
+sumptuosus | 1 | expensive
+sumptuosus | 2 | extravagant
+sumptus2 | 1 | expense
+suo | 1 | sew
+suo | 3 | figuratively, to devise, to contrive a plot
+suovetaurilia | 1 | pig-sheep-bull sacrifice
+supellex | 1 | furniture
+supellex | 3 | figuratively, equipment, outfit, qualification, e.g. of skills or friends
+super11 | 1 | overflow
+super11 | 2 | superfluous
+super13 | 1 | surpass
+super13 | 3 | literally, to step over, to walk over
+super2 | 1 | above
+super2 | 3 | adverbial, of that which is left over, moreover, besides, in addition
+super2 | 4 | prepositional, concerning, about, respecting
+super4 | 1 | superabound
+super6 | 1 | overtop
+superabilis | 1 | surmountable
+superabilis | 3 | figuratively, conquerable, able to be subdued, of an enemy
+superabundo | 1 | superabound
+superbia | 1 | arrogance
+superbia | 2 | noble pride
+superbio | 1 | be proud
+superbio | 3 | transferred, of things, in a good sense, to be splendid, magnificent, superb
+superbus | 1 | haughty
+superbus | 2 | superb
+superbus | 3 | as a proper noun, Superbus, surname of Tarquin the Proud
+supercilium | 1 | eyebrow
+supercilium | 2 | haughtiness
+supercilium | 3 | transferred, a ridge, a summit, of a hill
+supercresco | 1 | overgrow
+supercresco | 3 | active, to excel, to outdo
+superfero | 1 | carry over
+superfero | 3 | specifically, of a pregnancy, to be carried beyond term, overdue
+superficiarius | 1 | superficiary
+superficies | 1 | surface
+superficies | 3 | legal, a building standing on another's land
+superficies | 4 | mathematical, a superficies, a two-dimensional figure
+superfluus | 1 | superfluous
+superfluus | 3 | literally (rare), running over, overflowing
+superfundo | 1 | pour over
+superfundo | 3 | figuratively, to overwhelm, to become too great for
+superillino | 1 | besmear
+superimpono | 1 | superimpose
+superinduco | 1 | cover over
+superinduco | 3 | to bring upon, to cause to befall
+superingero | 1 | heap on
+superinicio | 1 | throw over
+superjacio | 1 | throw over
+superjacio | 3 | figuratively, to exaggerate, to overdo
+superjacio | 4 | to overtop, to rise above
+superlatio | 1 | hyperbole
+superlatio | 3 | grammatical, the superlative degree
+superlino | 1 | smear over
+supernas | 1 | northern
+supernas | 3 | of the upper, Adriatic side of Italy, as opposed to the lower, Tyrrhenian side
+supernus | 1 | upper
+supernus | 2 | celestial
+supernus | 3 | transferred, lofty, standing on high ground
+supero | 1 | surpass
+supero | 2 | conquer
+supero | 3 | to rise above, to surmount, to tower over
+supero | 4 | to exceed, to be in excess, to be abundant
+supero | 5 | to be left over, to remain, to survive
+supero | 6 | nautical, to sail past a point, to double a headland
+superpono | 1 | place over
+superpono | 3 | medical, to apply a plaster to a wound
+superpono | 4 | figuratively, to put in charge of, to set over
+superpono | 5 | to prefer, to rank above
+superpono | 6 | to postpone, to place after
+supersedeo | 1 | forgo
+supersedeo | 3 | literally (rare), to sit upon or above
+supersedeo | 4 | to preside over
+superstes | 1 | surviving
+superstes | 3 | archaic, a bystander, a witness
+superstes | 4 | poetic, standing over in triumph
+superstitio | 1 | superstition
+superstitio | 3 | transferred, an excessive, obsessive regard for rules
+superstitio | 4 | post-classical, religious awe, sanctity, a religious rite
+superstitiosus | 1 | superstitious
+superstitiosus | 3 | archaic, prophetic, soothsaying
+supersto | 1 | stand over
+supersto | 3 | ecclesiastical Latin, to survive
+superstruo | 1 | build over
+supersum | 1 | remain
+supersum | 2 | survive
+supersum | 3 | to abound, to be plentiful
+supersum | 4 | in a bad sense, to be excessive, to be superfluous
+supersum | 5 | archaic, to assist, to be present, to serve as an advocate
+supersum | 6 | to project, to be prominent
+supertego | 1 | cover over
+superus | 1 | upper
+superus | 3 | as a masculine plural noun, superi, the gods above
+superus | 4 | as a neuter plural noun, supera, the heavens, the upper world
+supervacaneus | 1 | superfluous
+supervacuus | 1 | superfluous
+supervehor | 1 | ride past
+supervehor | 3 | to ride upon, to mount
+supervenio | 1 | supervene
+supervenio | 3 | figuratively, to surpass, to exceed
+supervenio | 4 | of animals, to mate, to cover
+supervivo | 1 | survive
+supino | 1 | supinate
+supinus | 1 | supine
+supinus | 2 | careless
+supinus | 3 | transferred, of localities, sloping, inclined
+supinus | 4 | transferred, with head thrown back, haughty, arrogant
+supinus | 5 | grammatical, as a neuter noun (supinum), the Latin supine
+supo | 1 | scatter
+suppar | 1 | nearly-equal
+supparum | 1 | smock
+supparum | 2 | topsail
+suppedito | 1 | supply
+suppedito | 2 | suffice
+suppedito | 3 | to be abundant, to be in store
+suppedito | 4 | to abound in, to have plenty of
+suppetiae | 1 | help
+suppetior | 1 | help
+suppeto | 1 | be available
+suppeto | 2 | suffice
+suppeto | 3 | legal, to personate another in a claim
+suppilo | 1 | pilfer
+suppilo | 3 | of a person, to rob, to strip, to fleece
+suppingo1 | 1 | resole
+supplanto | 1 | trip up
+supplanto | 3 | transferred, to throw down, to overthrow
+supplementum | 1 | reinforcements
+supplementum | 3 | a supply, a filling up
+suppleo | 1 | fill up
+suppleo | 3 | military, to recruit, to bring up to full strength
+supplex | 1 | suppliant
+supplex | 3 | transferred, of things, offered in supplication, imploring
+supplicatio | 1 | supplication
+supplicatio | 3 | a day of public prayer decreed by the state, either as thanksgiving or expiation
+supplicium | 1 | punishment
+supplicium | 3 | archaic, religious, a public prayer or supplication, an offering
+supplico | 1 | beseech
+supplico | 3 | to pray to a god, to worship
+supplodo | 1 | stamp
+supplodo | 3 | ecclesiastical Latin, to clap, to applaud
+supplodo | 4 | to tread underfoot, to destroy
+suppono | 1 | place under
+suppono | 2 | substitute
+suppono | 3 | legal, to forge, to counterfeit, to pass off falsely
+suppono | 4 | to add, to append, to subjoin
+suppono | 5 | to subject, to make subordinate
+supporto | 1 | convey
+suppositicius | 1 | spurious
+suppositicius | 3 | substituted, put in the place of another
+supprimo | 1 | suppress
+supprimo | 3 | nautical, rare, to sink a ship
+supprimo | 4 | as a participle (suppressus), of the voice, subdued, low
+suppuro | 1 | suppurate
+suppuro | 3 | figuratively, to fester, to become malignant
+suppus | 1 | supine
+supputo | 1 | reckon
+supputo | 2 | prune
+supra | 1 | above
+supra | 3 | of time, earlier, previously (in what was said above)
+supra | 4 | with numbers, more than, over
+sura1 | 1 | calf
+sura1 | 3 | anatomical, the smaller bone of the leg
+surculus | 1 | shoot
+surculus | 3 | horticultural, a graft, a cutting for planting
+surculus | 4 | a sapling, a small tree
+surdus | 1 | deaf
+surdus | 3 | figuratively, unwilling to listen, inattentive, insensible
+surdus | 4 | of sounds, dull, muffled
+surdus | 5 | poetic, unheard, silent, mute
+surdus | 6 | of scent, colour, etc., faint, indistinct
+surgo | 1 | rise
+surgo | 3 | of plants and buildings, to grow up, to spring up
+surgo | 4 | figuratively, to arise, to occur
+surgo | 5 | poetic, to rise up against, to attack
+surgo | 6 | active, rare, to raise, to erect
+surrepo | 1 | creep up
+surripio | 1 | steal
+surripio | 3 | figuratively, to steal away, to snatch by stealth
+surrogo | 1 | substitute
+surruo | 1 | undermine
+sursum | 1 | upward
+sursum | 3 | idiom, sursum deorsum, up and down, to and fro
+sursum | 4 | of position, rare, on high, above
+sus | 1 | pig
+sus | 3 | rare, a kind of fish
+susceptio | 1 | undertaking
+susceptio | 3 | ecclesiastical Latin, an acceptance, a reception
+susceptor | 1 | protector
+susceptor | 3 | legal, a contractor, an undertaker of public works
+susceptor | 4 | a tax collector
+susceptor | 5 | one who harbors criminals, a receiver
+suscipio | 1 | undertake
+suscipio | 2 | support
+suscipio | 3 | of feelings or hardships, to submit to, to bear
+suscipio | 4 | to acknowledge a newborn child as one's own
+suscipio | 5 | to beget, to bear children
+suscipio | 6 | to receive under one's protection, to take in
+suscipio | 7 | to resume speaking, to reply
+suscito | 1 | rouse
+suscito | 3 | poetic, to raise up, to lift
+suscito | 4 | rare, to build, to erect
+suspecto1 | 1 | watch
+suspecto1 | 2 | suspect
+suspectus2 | 1 | esteem
+suspectus2 | 3 | literally, a looking upward, an upward view
+suspectus2 | 4 | poetic, transferred, a height
+suspendium | 1 | hanging
+suspendo | 1 | hang
+suspendo | 2 | suspend
+suspendo | 3 | to execute by hanging
+suspendo | 4 | to dedicate, to hang up as an offering
+suspendo | 5 | of buildings, to construct on arches, to vault
+suspendo | 6 | to hold in suspense, to make uncertain
+suspendo | 7 | to interrupt, to check, to stop
+suspendo | 8 | idiom, naso suspendere, to turn up one's nose at, to sneer at
+suspendo | 9 | to suspend from office
+suspicax | 1 | suspicious
+suspicax | 3 | transferred, of things, arousing suspicion
+suspicio1 | 1 | look up
+suspicio1 | 2 | admire
+suspicio1 | 3 | to mistrust, to suspect
+suspicio2 | 1 | suspicion
+suspicio2 | 3 | transferred, rare, a notion, an inkling
+suspicio2 | 4 | an indication, a sign
+suspiciose | 1 | suspiciously
+suspiciosus | 1 | suspicious
+suspiciosus | 3 | of things, arousing suspicion
+suspicor | 1 | suspect
+suspicor | 2 | surmise
+suspiritus | 1 | sigh
+suspirium | 1 | sigh
+suspirium | 3 | medical, rare, asthma, shortness of breath
+suspirium | 4 | poetic, transferred, breathing, respiration
+suspiro | 1 | sigh
+suspiro | 3 | poetic, to exhale, to breathe out
+suspiro | 4 | poetic, to sigh for, to long for
+suspiro | 5 | poetic, to sigh out, to exclaim with a sigh
+susque deque | 1 | indifferently
+susque deque | 3 | idiom, susque deque ferre/habere, to not care, to be unconcerned
+sustentatio | 1 | delay
+sustentatio | 2 | sustenance
+sustentatio | 3 | rhetorical, a figure delaying the point, keeping the hearer in suspense
+sustento | 1 | support
+sustento | 2 | endure
+sustento | 3 | to sustain, to provide for financially
+sustento | 4 | to keep in check, to hold back, to restrain
+sustento | 5 | to put off, to delay
+sustineo | 1 | support
+sustineo | 2 | endure
+sustineo | 3 | to hold back, to restrain, to check
+sustineo | 4 | to sustain, to provide for financially
+sustineo | 5 | with a negative, to bring oneself to, to venture to
+sustollo | 1 | raise
+sustollo | 2 | destroy
+sustollo | 3 | rare, to build, to erect
+susurro1 | 1 | whisper
+susurro1 | 3 | of bees, wind, etc., to hum, to murmur
+susurrus1 | 1 | whisper
+sutilis | 1 | stitched
+sutor | 1 | cobbler
+sutor | 3 | figuratively, a bungler, a patcher-up
+sutorius | 1 | shoemaker's
+sutrinus1 | 1 | shoemaker's
+sutrinus1 | 3 | as a feminine noun (sutrina), a shoemaker's shop
+sutrinus1 | 4 | as a neuter noun (sutrinum), the shoemaker's trade
+suus | 1 | his/her/its/their own
+suus | 3 | as a plural noun (sui), one's own people, family, or followers
+suus | 4 | as a noun (suum, sua), one's own property
+suus | 5 | idiom, sua sponte, of one's own accord
+suus | 6 | idiom, suum cuique, to each his own
+symphoniacus | 1 | musical
+symphoniacus | 3 | as a noun, an alternate name for the plant henbane
