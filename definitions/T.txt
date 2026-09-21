@@ -781,3 +781,23 @@ trepido | 4 | of things, water or flame, to quiver, flicker, waver
 trepidus | 1 | anxious
 trepidus | 3 | in re trepida, in a critical or perilous situation
 tres | 1 | three
+tresviri | 1 | triumvirs
+triangulus | 1 | triangular
+triangulus | 3 | as a noun (triangulum), a triangle
+triarii | 1 | veteran reserves
+triarii | 3 | technical, the third battle-line of a Roman legion, made up of veteran soldiers
+tribulis | 1 | tribesman
+tribulis | 3 | in general, rare, a common or poor person
+tribulum | 1 | threshing-sledge
+tribulus | 1 | caltrop
+tribulus | 3 | transferred, a thorny plant, a thistle
+tribulus | 4 | a water-plant with a prickly nut, the water-chestnut
+tribunal | 1 | tribunal
+tribunal | 3 | the raised platform in a military camp from which the general addressed the troops
+tribunal | 4 | transferred, a mound, embankment
+tribunatus | 1 | tribuneship
+tribunicius | 1 | tribunician
+tribunicius | 3 | as a noun, an ex-tribune
+tribunus | 1 | tribune
+tribunus | 3 | tribuni militum, military tribunes, the senior officers of a legion
+tribunus | 4 | tribuni plebis, tribunes of the people, defenders of plebeian rights
