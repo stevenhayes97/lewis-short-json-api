@@ -190,3 +190,40 @@ usque | 6 | usque quaque, everywhere, on every occasion
 ustulo | 1 | scorch
 ustulo | 3 | to burn up, consume by fire
 ustulo | 4 | transferred, to pinch, nip, blast with cold
+usuarius | 1 | of use
+usuarius | 3 | legal, as a noun, one who has the use of a thing without owning it
+# review: usucapio1 legal term for acquiring ownership through long possession; no single English verb exists
+usucapio1 | 1 | acquire by prescription
+usucapio2 | 1 | usucaption
+usura | 1 | use
+usura | 2 | interest
+usura | 3 | transferred, a return, a recompense, as interest on anything given or invested
+usurarius | 1 | of use
+usurarius | 3 | that bears interest, at interest
+usurpatio | 1 | use
+usurpatio | 2 | usurpation
+usurpatio | 3 | legal, an interruption of a usucaption by another's use
+usurpativus | 1 | improper
+usurpativus | 3 | of words or usage, wrongly employed, unusual
+usurpo | 1 | use
+usurpo | 2 | usurp
+usurpo | 3 | to perceive, observe, take note of, through the senses
+usurpo | 4 | to name, call, speak of habitually
+usurpo | 5 | legal, to acquire, gain possession of
+usus2 | 1 | use
+usus2 | 2 | custom
+usus2 | 3 | experience, skill gained through practice
+usus2 | 4 | usus est or usus venit, with dative and ablative, there is need of, it is necessary
+usus2 | 5 | usu venit, it happens, it occurs
+usus2 | 6 | usui esse or ex usu esse, to be useful, to be of service
+usus2 | 7 | legal, ususfructus, the right to use and enjoy another's property, usufruct
+usus2 | 8 | intercourse, familiarity, intimate association
+ut | 1 | as
+ut | 2 | that
+ut | 3 | exclamatory, how...!
+ut | 4 | of time, when, as soon as
+ut | 5 | with the subjunctive, expressing purpose, in order that, so that
+ut | 6 | with the subjunctive, expressing result, so that, with the result that
+ut | 7 | concessive, granting that, even if, although
+ut | 8 | ut non, without doing something
+ut | 9 | after verbs of fearing, that, lest
