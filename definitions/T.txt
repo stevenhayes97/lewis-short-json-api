@@ -765,3 +765,19 @@ treceni | 1 | three hundred each
 treceni | 3 | transferred, poetic, simply three hundred
 trecenti | 1 | three hundred
 tredecim | 1 | thirteen
+tremebundus | 1 | trembling
+tremefacio | 1 | shake
+tremesco | 1 | start trembling
+tremo | 1 | tremble
+tremo | 3 | transitively, to tremble at, be afraid of something
+tremor | 1 | tremor
+tremor | 3 | specifically, an earthquake
+tremor | 4 | transferred, a terror, a dread, something that causes trembling
+tremulus | 1 | tremulous
+trepidatio | 1 | agitation
+trepido | 1 | panic
+trepido | 3 | transitively, rare, to tremble at, be afraid of
+trepido | 4 | of things, water or flame, to quiver, flicker, waver
+trepidus | 1 | anxious
+trepidus | 3 | in re trepida, in a critical or perilous situation
+tres | 1 | three
