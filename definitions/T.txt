@@ -85,3 +85,28 @@ talea | 4 | a small beam used to bind together the joints of a wall
 talentum | 1 | talent
 talentum | 3 | a Greek unit of weight
 talentum | 4 | a sum of money (the Attic talent = 60 minae)
+talio | 1 | retaliation
+talio | 3 | legal, a punishment equal to the injury inflicted, an eye for an eye
+talis | 1 | such
+talis | 3 | talis ... qualis, such ... as
+talis | 4 | emphatic, so great, so excellent, so distinguished
+talus | 1 | ankle
+talus | 2 | die
+talus | 3 | transferred, the heel
+tam | 1 | so
+tam | 3 | tam ... quam, as ... as
+tamdiu | 1 | so long
+tamdiu | 3 | tam diu ... quam diu, for as long as
+tamen | 1 | nevertheless
+tamen | 3 | sed tamen, but nevertheless (resuming a point after a digression)
+tametsi | 1 | although
+tametsi | 3 | tametsi ... tamen, although ... yet nevertheless
+tamquam | 1 | as
+tamquam | 3 | tamquam si, as if, just as if
+tandem | 1 | finally
+tandem | 3 | in questions, an intensifier: pray, then, in the world (quid tandem, what in the world)
+tango | 1 | touch
+tango | 3 | of places, to reach, arrive at; to border on, be adjacent to
+tango | 4 | figuratively, to move, affect (the feelings)
+tango | 5 | of speech, to touch upon, mention
+tango | 6 | de caelo tactus, struck by lightning
