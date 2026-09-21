@@ -58,3 +58,30 @@ taciturnitas | 1 | silence
 taciturnitas | 3 | reticence, reserve (as a character trait)
 taciturnus | 1 | taciturn
 taciturnus | 3 | transferred, still, silent (of places)
+tactio | 1 | touch
+tactio | 3 | transferred, the sense of touch
+tactus2 | 1 | touch
+tactus2 | 3 | transferred, influence, effect
+tactus2 | 4 | the sense of touch, feeling
+taeda | 1 | torch
+taeda | 3 | resinous pine wood, pitch-pine
+taeda | 4 | poetic, a wedding, marriage (from the wedding torch)
+taedet | 1 | weary
+taedet | 3 | taedet me + genitive, I am sick of, tired of (something)
+taedium | 1 | weariness
+taedium | 2 | disgust
+taedium | 3 | transferred, a loathsome or tiresome thing, a nuisance
+taeter | 1 | foul
+taeter | 3 | morally, shameful, abominable, disgraceful
+taetricus | 1 | stern
+taetricus | 3 | of things, harsh, severe (e.g. a severe fever, a fierce trumpet-blast)
+talaris | 1 | of ankles
+talaris | 3 | as a noun (talaria), winged sandals (of Mercury or Perseus)
+talaris | 4 | a robe reaching to the ankles
+talaris | 5 | of dice-playing
+talea | 1 | rod
+talea | 3 | a cutting or slip (for planting)
+talea | 4 | a small beam used to bind together the joints of a wall
+talentum | 1 | talent
+talentum | 3 | a Greek unit of weight
+talentum | 4 | a sum of money (the Attic talent = 60 minae)
