@@ -183,3 +183,24 @@ temno | 1 | scorn
 temo1 | 1 | pole
 temo1 | 3 | poetic, a wagon, cart (the whole named for its pole)
 temo1 | 4 | the constellation of the Wain (Charles's Wain, part of Ursa Major)
+temperamentum | 1 | balance
+temperamentum | 3 | a compromise, a middle course
+temperantia | 1 | temperance
+temperatio | 1 | constitution
+temperatio | 3 | of the state, organization, constitution, form of government
+temperatio | 4 | the ordering or organizing principle (of the universe)
+temperator | 1 | moderator
+temperatura | 1 | composition
+temperies | 1 | temperature
+temperies | 3 | figuratively, moderation, a proper balance (of character or conduct)
+tempero | 1 | temper
+tempero | 3 | transferred, to rule, govern, regulate
+tempero | 4 | intransitively, to restrain oneself, refrain, abstain, from something
+tempestas | 1 | storm
+tempestas | 2 | weather
+tempestas | 3 | archaic, a time, season, period
+tempestas | 4 | figuratively, a storm, commotion, calamity (of misfortune or political upheaval)
+tempestivitas | 1 | timeliness
+tempestivus | 1 | timely
+tempestivus | 3 | ripe, mature (of fruit, or of a person of marriageable age)
+tempestivus | 4 | early, begun betimes, especially of a banquet starting while still day
