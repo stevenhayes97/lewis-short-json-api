@@ -1,0 +1,32 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_T.json (Lewis & Short via Perseus), simplified for learners.
+tabefacio | 1 | melt
+tabefacio | 3 | transferred, to weaken, wear down
+tabella | 1 | tablet
+tabella | 2 | letter
+tabella | 3 | a small writing tablet; in plural, a letter, document, or will
+tabella | 4 | a voting tablet, ballot
+tabella | 5 | a small painted panel, picture
+tabella | 6 | a votive tablet hung in a temple
+tabellarius | 1 | of letters
+tabellarius | 2 | courier
+tabellarius | 3 | relating to voting-tablets; lex tabellaria, a law regulating voting by ballot
+tabeo | 1 | waste away
+tabeo | 3 | of the body, melt, drip, or waste away (poetic); figuratively, to vanish, die down
+taberna | 1 | shop
+taberna | 3 | a hut or shed; also an inn or tavern
+taberna | 4 | a stall or arcade in the circus
+tabernaculum | 1 | tent
+tabernaculum | 3 | tabernaculum capere, to choose an augural site for a tent (before taking auspices)
+tabernaculum | 4 | (Biblical) the tabernacle
+tabernarius | 1 | of shops
+tabernarius | 2 | vulgar
+tabernarius | 3 | as a noun (tabernarii), shopkeepers, small tradesmen
+tabes | 1 | decay
+tabes | 3 | a wasting disease, consumption, or plague
+tabes | 4 | figuratively, moral decay, corruption
+tabes | 5 | the ooze or moisture of something melting or decaying (e.g. melted snow, blood, poison)
+tabesco | 1 | waste away
+tabesco | 3 | figuratively, to pine away (with grief, longing, or envy)
+tabidus | 1 | wasting
+tabidus | 3 | transferred, corrupting, infectious
