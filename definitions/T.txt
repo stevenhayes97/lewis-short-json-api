@@ -700,3 +700,31 @@ transgredior | 1 | cross over
 transgredior | 3 | to go over to another party
 transgredior | 4 | figuratively, to go beyond, exceed, surpass
 transgredior | 5 | eccl. Latin, to transgress a command
+transgressio | 1 | crossing
+transgressio | 3 | rhetorical, a transposition of words
+transgressio | 4 | late Latin, a transgression of a law or command
+transgressus2 | 1 | crossing
+transigo | 1 | transact
+transigo | 3 | literal, poetic, to thrust a weapon through, transfix
+transigo | 4 | to settle a dispute, come to an agreement
+transigo | 5 | of time, to spend, pass
+transilio | 1 | leap over
+transilio | 3 | figuratively, to pass over, omit, skip, in speaking
+transitio | 1 | crossing
+transitio | 3 | desertion, going over to another party
+transitio | 4 | infection, contagion, of disease passing between persons
+transitorius | 1 | transitory
+transitorius | 3 | literal, having a passage-way through, affording passage
+transitus2 | 1 | crossing
+transitus2 | 3 | desertion, going over to another party
+transitus2 | 4 | figuratively, a transition, change, from one state to another
+transitus2 | 5 | in transitu, in passing, by the way
+translaticius | 1 | customary
+translaticius | 3 | usual, common, ordinary
+translaticius | 4 | rare, figurative, metaphorical
+translatio | 1 | transfer
+translatio | 3 | a translation, into another language
+translatio | 4 | rhetorical, a metaphor, a figurative use of a word
+translatio | 5 | a transplanting, of plants
+translativus | 1 | translative
+translativus | 3 | as a noun, metalepsis, a rhetorical figure involving a transitional word
