@@ -384,3 +384,26 @@ testificatio | 3 | transferred, proof, evidence (of feelings or service)
 testificor | 1 | testify
 testificor | 3 | transferred, to show, demonstrate, make known
 testificor | 4 | to call upon as a witness, invoke
+testimonium | 1 | testimony
+testimonium | 3 | transferred, proof, evidence in general
+testis1 | 1 | witness
+testis1 | 3 | transferred, an eye-witness, onlooker
+testis2 | 1 | testicle
+testor | 1 | attest
+testor | 3 | to invoke, call upon (a person or god) as witness
+testor | 4 | legal, to make a will
+testu | 1 | cooking-lid
+testu | 3 | transferred, an earthen pot
+testudineus | 1 | of tortoise-shell
+testudo | 1 | tortoise
+testudo | 3 | transferred, tortoise-shell as a material
+testudo | 4 | poetic, a lyre
+testudo | 5 | architectural, an arch, vault
+testudo | 6 | military, the testudo, a protective shelter of overlapping shields or timber
+texo | 1 | weave
+texo | 3 | transferred, to plait, braid; to build or construct, especially of wickerwork
+texo | 4 | figuratively, to compose, contrive (a speech, plan, or piece of writing)
+textilis | 1 | woven
+textilis | 3 | as a noun (textile), a fabric, piece of cloth
+textorius | 1 | of weaving
+textorius | 3 | figuratively, entangling, intricate
