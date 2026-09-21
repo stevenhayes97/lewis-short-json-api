@@ -1,0 +1,17 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_U.json (Lewis & Short via Perseus), simplified for learners.
+uber1 | 1 | udder
+uber1 | 3 | transferred, richness, fruitfulness, fertility, of the earth
+uber2 | 1 | fruitful
+uber2 | 3 | figuratively, of style, rich, copious, abundant
+ubertas | 1 | abundance
+ubertas | 3 | figuratively, of style or mind, richness, copiousness
+ubi | 1 | where
+ubi | 3 | transferred, very frequently, of time: when, as soon as
+ubicumque | 1 | wherever
+ubiquaque | 1 | wherever
+ubique | 1 | everywhere
+ubivis | 1 | anywhere
+udus | 1 | wet
+ulcero | 1 | ulcerate
+ulcero | 3 | figuratively, to wound, with love or grief
