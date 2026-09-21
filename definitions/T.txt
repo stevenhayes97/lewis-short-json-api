@@ -926,3 +926,29 @@ tum | 4 | cum ... tum, not only ... but especially
 tum | 5 | coordinating, besides, moreover, and then
 tumefacio | 1 | swell
 tumefacio | 3 | figuratively, to puff up, inflate with pride
+tumeo | 1 | swell
+tumeo | 3 | figuratively, to be excited, seething, on the verge of bursting out, with anger
+tumeo | 4 | figuratively, to be puffed up with pride
+tumeo | 5 | of speech, to be inflated, pompous, bombastic
+tumesco | 1 | swell up
+tumesco | 3 | figuratively, to become excited, agitated
+tumesco | 4 | to be puffed up with pride
+tumidus | 1 | swollen
+tumidus | 3 | figuratively, puffed up, elated, haughty, arrogant
+tumidus | 4 | of style, bombastic, pompous, inflated
+tumor | 1 | swelling
+tumor | 3 | figuratively, commotion, excitement of the mind, from passion
+tumor | 4 | a ferment, commotion in public affairs
+tumor | 5 | of speech, bombast, pompous style
+tumultuarius | 1 | hasty
+tumultuarius | 3 | military, of troops, hastily levied, raised in an emergency
+tumultuor | 1 | riot
+tumultuor | 3 | of oratory, to rant, talk at random, without order
+tumultuosus | 1 | tumultuous
+tumultus | 1 | tumult
+tumultus | 3 | technical, a sudden domestic uprising or civil emergency, as distinct from a foreign war
+tumultus | 4 | figuratively, disturbance, agitation of mind
+tumulus | 1 | mound
+tumulus | 3 | specifically, a burial mound, a tumulus
+tunc | 1 | then
+tunc | 3 | near-synonym of tum, more frequent in post-Augustan prose
