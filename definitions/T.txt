@@ -427,3 +427,24 @@ tignum | 1 | beam
 tignum | 3 | legal, broadly, building material of any kind
 tilia | 1 | linden
 tilia | 3 | transferred, the inner bark of the linden, used for cords or bands
+timeo | 1 | fear
+timeo | 3 | timeo ne, I am afraid that something will happen; timeo ut, I am afraid that something will not happen
+timiditas | 1 | timidity
+timidus | 1 | timid
+timidus | 3 | in a good sense, cautious, wary
+timor | 1 | fear
+timor | 3 | poetic, in a good sense, awe, reverence
+timor | 4 | transferred, an object that causes fear, a terror
+tinea | 1 | moth
+tinea | 3 | more generally, any gnawing grub or larva, in wood, hives, or fruit
+tingo | 1 | dip
+tingo | 3 | in particular, to dye, color, tinge
+tingo | 4 | figuratively, to tincture, imbue with a quality or with knowledge
+tinnio | 1 | tinkle
+tinnio | 3 | colloquial, to pay out money, literally to make coins jingle
+tinnio | 4 | to have a shrill voice, to sing or cry out
+tinnitus | 1 | ringing
+tinnitus | 3 | transferred, of language, a jingle, empty rhetorical flourish
+tinnulus | 1 | tinkling
+tinnulus | 3 | transferred, of style or speakers, jingling, empty, superficial
+tintinno | 1 | jingle
