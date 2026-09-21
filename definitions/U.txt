@@ -227,3 +227,23 @@ ut | 6 | with the subjunctive, expressing result, so that, with the result that
 ut | 7 | concessive, granting that, even if, although
 ut | 8 | ut non, without doing something
 ut | 9 | after verbs of fearing, that, lest
+utcumque | 1 | however
+utcumque | 3 | at whatever time, whenever
+utensilis | 1 | useful
+utensilis | 3 | as a noun (utensilia), utensils, necessary equipment
+uter1 | 1 | wineskin
+uter1 | 3 | poetic, transferred, a bloated or pompous person
+uter3 | 1 | which
+uter3 | 3 | of two, which one, which of the two
+utercumque | 1 | whichever
+uterlibet | 1 | whichever
+uterlibet | 3 | either one of the two, whichever you like
+uterque | 1 | each
+uterque | 3 | in utramque partem, on both sides, for and against, in either direction
+uterus | 1 | womb
+uterus | 3 | transferred, a fetus, an unborn child
+uterus | 4 | in general, the belly, the stomach
+uterus | 5 | poetic, the hollow interior of a thing, as of the Trojan horse
+utervis | 1 | either
+utervis | 3 | either one of the two, whichever you wish
+utibilis | 1 | useful
