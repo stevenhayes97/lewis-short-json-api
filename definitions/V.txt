@@ -782,3 +782,27 @@ vitulus | 3 | vitulus marinus, or simply vitulus, a seal
 vituperatio | 1 | blame
 vitupero1 | 1 | blame
 vitupero1 | 3 | in religious language, spoil an omen, render it defective
+vivacitas | 1 | longevity
+vivacitas | 2 | liveliness
+vivarius | 1 | living
+vivarius | 3 | as a noun, vivarium, a game preserve or fish pond
+vivax | 1 | long-lived
+vivax | 2 | lively
+vivesco | 1 | come alive
+vivesco | 2 | thrive
+vividus | 1 | vivid
+vividus | 2 | lively
+vivo | 1 | live
+vivo | 2 | survive
+vivo | 3 | live well, live at ease, enjoy life
+vivo | 4 | live on something, subsist, support oneself, with ablative
+vivo | 5 | reside, dwell, in a place
+vivus | 1 | alive
+vivus | 3 | ad vivum, to the quick, cutting into living flesh
+vivus | 4 | de vivo, from the principal, a financial metaphor
+vix | 1 | scarcely
+vix | 3 | vix ... cum, scarcely had ... when, denoting immediate succession
+vocabulum | 1 | name
+vocabulum | 3 | grammatical, a common noun, a substantive
+vocalis | 1 | vocal
+vocalis | 2 | vowel
