@@ -425,7 +425,7 @@ refigo | 3 | transferred, to annul or abrogate a law: leges refigere, to repeal 
 reflatus | 1 | headwind
 reflatus | 3 | figuratively, a reaction, a counter-blast
 reflecto | 1 | turn back
-reflecto | 3 | figuratively, to turn someone's resolve or course back: animum reflectere, to turn back one's anger
+reflecto | 3 | figuratively, to turn back or check the mind: animum reflectere, to hold back one's impulse, change one's mind
 reflecto | 4 | intransitively, of an illness, to abate, yield, subside
 reflo | 1 | blow back
 reflo | 3 | figuratively, of fortune, to turn unfavourable: cum reflavit fortuna, when fortune turns against us
