@@ -226,7 +226,7 @@ ut | 5 | with the subjunctive, expressing purpose, in order that, so that
 ut | 6 | with the subjunctive, expressing result, so that, with the result that
 ut | 7 | concessive, granting that, even if, although
 ut | 8 | ut non, without doing something
-ut | 9 | after verbs of fearing, that, lest
+ut | 9 | after verbs of fearing, that ... not: timeo ut veniat, I am afraid he will not come
 utcumque | 1 | however
 utcumque | 3 | at whatever time, whenever
 utensilis | 1 | useful
