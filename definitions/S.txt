@@ -1335,7 +1335,8 @@ spero | 3 | rare (mostly poetic), to expect, to apprehend an undesired thing
 spes | 1 | hope
 spes | 3 | transferred, concretely, that in which hope is placed, especially of children
 spes | 4 | as a proper noun, Spes, a Roman goddess
-spica | 1 | ear
+# review: spica "ear" alone reads as the body part; kept at three words
+spica | 1 | ear of grain
 spica | 3 | transferred, a tuft, a head, of other plants
 spica | 4 | as a proper noun, Spica, the brightest star in Virgo
 spiceus | 1 | of grain-ears
