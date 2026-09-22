@@ -2292,10 +2292,11 @@ sutorius | 1 | shoemaker's
 sutrinus1 | 1 | shoemaker's
 sutrinus1 | 3 | as a feminine noun (sutrina), a shoemaker's shop
 sutrinus1 | 4 | as a neuter noun (sutrinum), the shoemaker's trade
-suus | 1 | his/her/its/their own
+suus | 1 | one's own
 suus | 3 | as a plural noun (sui), one's own people, family, or followers
 suus | 4 | as a noun (suum, sua), one's own property
 suus | 5 | idiom, sua sponte, of one's own accord
 suus | 6 | idiom, suum cuique, to each his own
 symphoniacus | 1 | musical
-symphoniacus | 3 | as a noun, an alternate name for the plant henbane
+symphoniacus | 3 | symphoniaci pueri or servi, a household band of singers and musicians
+symphoniacus | 4 | symphoniaca herba, henbane
