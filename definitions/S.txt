@@ -1004,7 +1004,7 @@ simplus | 1 | single
 simplus | 3 | as a noun (simplum), the simple sum, the base amount, as opposed to double
 simpulum | 1 | ladle
 simpuvium | 1 | sacrificial bowl
-# review: simul "at once" reads as \"immediately\" in British English; "at the same time" kept at four words
+# review: simul "at once" reads as "immediately" in British English; "at the same time" kept at four words
 simul | 1 | at the same time
 simul | 3 | correlative, simul ... simul, partly ... partly
 simul | 4 | as a conjunction (simul ac/atque), as soon as
