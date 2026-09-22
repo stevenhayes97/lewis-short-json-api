@@ -299,19 +299,20 @@ quidem | 3 | ne ... quidem, not even
 quidem | 4 | at least, certainly, in truth
 quidem | 5 | introducing an example, for instance, for example
 quies1 | 1 | rest
-quies1 | 3 | political or military neutrality, a quiet, uninvolved life
-quies1 | 4 | sleep, slumber
+quies1 | 3 | sleep, slumber
+quies1 | 4 | political or military neutrality, a quiet, uninvolved life
 quies1 | 5 | euphemistically, the sleep of death
 quies1 | 6 | transferred, a dream
 quies1 | 7 | a lair or resting place of a wild animal
 quiesco | 1 | rest
-quiesco | 3 | politically, to remain neutral, to keep out of a conflict
-quiesco | 4 | to sleep
+quiesco | 3 | to sleep
+quiesco | 4 | politically, to remain neutral, to keep out of a conflict
 quiesco | 5 | of things, to lie still, be calm: flamma quiescit, the fire dies down
 quiesco | 6 | to cease or desist from something: quiesce hanc rem petere, stop seeking this
 quiesco | 7 | to acquiesce in, to peaceably allow something to happen
 quilibet | 1 | anyone
 quilibet | 3 | with a dismissive tone, just anybody, the first person who happens along
+# review: quin "why not" is the original direct question; learners mostly meet quin as "that, but that" after negated doubt (rank 3) — consider which leads
 quin | 1 | why not
 quin | 3 | after negated verbs of doubt or hindrance, that, but that: non dubito quin verum sit, I do not doubt that it is true
 quin | 4 | as a relative particle after a negative, who or that ... not: nemo est quin sciat, there is no one who does not know
@@ -326,7 +327,7 @@ quincuncialis | 3 | in particular, planted in the arrangement of a quincunx, as 
 quincunx | 1 | five-twelfths
 quincunx | 2 | quincunx
 quincunx | 3 | transferred, trees or objects arranged in this pattern, used especially for orchard planting
-quindecimvir | 1 | board member
+quindecimvir | 1 | quindecimvir
 quindecimvir | 3 | specifically, a member of the college of fifteen priests in charge of the Sibylline Books
 quindecimvir | 4 | quindecimviri agris dandis, commissioners for the distribution of public land
 quingenti | 1 | five hundred
@@ -352,7 +353,7 @@ quinqueremis | 1 | quinquereme
 quinqueremis | 3 | as an adjective, having five banks of oars
 quinquertium | 1 | pentathlon
 quinquertium | 3 | the five events: discus, running, jumping, wrestling, and javelin-throwing
-quinquevir | 1 | board member
+quinquevir | 1 | quinquevir
 quinquevir | 3 | specifically, one of various five-man commissions at Rome: for dividing public land, regulating debt, repairing walls, or assisting the night watch
 # review: quintanus 'of the fifth' kept at three words; 'fifth' alone would collide with the ordinal quintus and lose the sense of 'in a series'
 quintanus | 1 | of the fifth
