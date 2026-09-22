@@ -926,7 +926,7 @@ sideratio | 4 | of animals, numbness, palsy
 sidereus | 1 | starry
 sidereus | 2 | radiant
 sidereus | 3 | transferred, heavenly, divine
-sideror | 1 | be star-struck
+sideror | 1 | be sunstruck
 sido1 | 1 | settle
 sido1 | 3 | nautical, of a ship, to run aground, to stick fast on shallows
 sido1 | 4 | figuratively, to sink down, to subside
