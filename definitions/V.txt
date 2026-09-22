@@ -55,3 +55,32 @@ vagitus | 1 | wailing
 vago | 1 | wander
 vagor1 | 1 | wander
 vagor1 | 3 | be unsettled or inconstant; spread or circulate widely, of rumour or fame
+vagus | 1 | wandering
+vagus | 2 | vague
+vah | 1 | oh
+valentia1 | 1 | strength
+valentia1 | 3 | capacity, endowment
+valeo | 1 | be strong
+valeo | 2 | be well
+valeo | 3 | with infinitive, be able to do something
+valeo | 4 | have force, power, or influence; prevail
+valeo | 5 | vale, farewell, goodbye, used in greeting or leave-taking
+valeo | 6 | be valid or in effect, of laws, arguments, or contracts
+valeo | 7 | of money, be worth
+valeo | 8 | of words, mean, signify
+valesco | 1 | strengthen
+valetudinarius | 1 | sickly
+valetudinarius | 3 | as a noun, an invalid, a person in poor health
+valetudinarius | 4 | as a neuter noun, a hospital, infirmary, especially for the army
+valetudo | 1 | health
+valetudo | 3 | good health, soundness of body
+valetudo | 4 | ill health, sickness, infirmity
+valetudo | 5 | transferred, of the mind, soundness, sanity
+valgus | 1 | bow-legged
+valgus | 3 | transferred, of a mouth, wry, twisted
+validus | 1 | strong
+validus | 2 | healthy
+validus | 3 | of medicine, potent, effective
+valles | 1 | valley
+valles | 3 | vallis plorationis, valley of tears
+valles | 4 | poetic, a hollow, a cavity, such as of the armpit
