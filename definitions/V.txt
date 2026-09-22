@@ -84,3 +84,27 @@ validus | 3 | of medicine, potent, effective
 valles | 1 | valley
 valles | 3 | vallis plorationis, valley of tears
 valles | 4 | poetic, a hollow, a cavity, such as of the armpit
+vallo | 1 | fortify
+vallo | 3 | surround with a rampart and palisade, entrench, military
+vallum | 1 | rampart
+vallum | 3 | transferred, a wall, a fortification
+vallus1 | 1 | stake
+vallus1 | 3 | collectively, a palisaded rampart
+vallus1 | 4 | transferred, a point or spike, such as the tooth of a comb
+valva | 1 | folding door
+vanesco | 1 | vanish
+vanitas | 1 | emptiness
+vanitas | 2 | vanity
+vanitas | 3 | falsehood, deception, untrustworthiness
+vanus | 1 | vain
+vanus | 2 | false
+vanus | 3 | boastful, vainglorious, conceited
+vanus | 4 | literally, empty, void, containing nothing
+vapidus | 1 | flat
+vapidus | 3 | transferred, spoiled, bad
+vapor | 1 | steam
+vapor | 2 | warmth
+vapor | 3 | figuratively, ardour, the warmth of love
+vaporo | 1 | steam
+vaporo | 2 | heat
+vaporo | 3 | fumigate, perfume with smoke
