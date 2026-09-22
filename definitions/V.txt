@@ -254,3 +254,29 @@ vendo | 2 | betray
 vendo | 3 | cry up, praise, promote, as if for sale
 veneficium | 1 | poisoning
 veneficium | 2 | sorcery
+veneficus | 1 | poisonous
+veneficus | 2 | magic
+veneficus | 3 | as a noun, a poisoner, sorcerer, or witch
+veneno | 1 | poison
+veneno | 2 | dye
+veneno | 3 | figuratively, harm, injure, with words
+venenum | 1 | poison
+venenum | 2 | charm
+venenum | 3 | dye, colouring material
+veneo | 1 | be sold
+venerabilis | 1 | venerable
+venerabilis | 3 | post-classical, showing veneration, reverential
+veneratio | 1 | veneration
+veneratio | 3 | venerableness, the quality that commands reverence
+veneror | 1 | worship
+veneror | 2 | beseech
+veneror | 3 | revere, honour, pay homage to a person
+venia | 1 | favour
+venia | 2 | pardon
+venia | 3 | permission, leave, especially veniam dare, to grant permission
+venia | 4 | bona venia, by your leave, with kind permission
+venio | 1 | come
+venio | 3 | venire in aliquid, to come into or fall into a state or condition
+venio | 4 | in speaking, to come to a topic, turn to a subject
+venor | 1 | hunt
+venor | 3 | figuratively, hunt after, pursue an abstract goal, such as praise or votes
