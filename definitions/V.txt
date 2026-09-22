@@ -129,3 +129,27 @@ varus1 | 1 | bent inward
 varus1 | 3 | of legs, knock-kneed
 varus1 | 4 | poetic, different, diverse from another
 vas1 | 1 | surety
+vas2 | 1 | vessel
+vas2 | 3 | plural, military equipment, baggage
+vasarium | 1 | furniture allowance
+vasarium | 3 | archives, records, post-classical
+vasculum | 1 | small vessel
+vasculum | 3 | transferred, the seed-pod of a plant
+vastatio | 1 | devastation
+vastitas | 1 | wasteland
+vastitas | 2 | vastness
+vastitas | 3 | transferred, devastation, destruction, ruin
+vastitudo | 1 | destruction
+vastitudo | 2 | immensity
+vasto | 1 | devastate
+vasto | 3 | literally, empty, leave deserted or uninhabited
+vastus | 1 | vast
+vastus | 2 | desolate
+vastus | 3 | of manner or speech, rude, rough, uncultivated
+vastus | 4 | laid waste, ravaged, devastated
+vates | 1 | seer
+vates | 2 | poet
+vates | 3 | an authority or master in an art or profession
+vaticinor | 1 | prophesy
+vaticinor | 2 | rave
+vaticinor | 3 | sing or celebrate as a poet
