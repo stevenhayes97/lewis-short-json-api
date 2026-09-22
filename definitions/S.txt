@@ -2129,14 +2129,14 @@ supervenio | 1 | supervene
 supervenio | 3 | figuratively, to surpass, to exceed
 supervenio | 4 | of animals, to mate, to cover
 supervivo | 1 | survive
-supino | 1 | supinate
+supino | 1 | bend back
 supinus | 1 | supine
 supinus | 2 | careless
 supinus | 3 | transferred, of localities, sloping, inclined
 supinus | 4 | transferred, with head thrown back, haughty, arrogant
 supinus | 5 | grammatical, as a neuter noun (supinum), the Latin supine
 supo | 1 | scatter
-suppar | 1 | nearly-equal
+suppar | 1 | nearly equal
 supparum | 1 | smock
 supparum | 2 | topsail
 suppedito | 1 | supply
