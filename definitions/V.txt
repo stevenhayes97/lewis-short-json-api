@@ -513,8 +513,8 @@ vibro | 3 | hurl, launch, throw with vibratory force
 vibro | 4 | glimmer, glitter, gleam
 vicanus | 1 | village
 vicanus | 3 | as a noun, villagers, peasants
-vicarius | 1 | vicarious
-vicarius | 2 | substitute
+vicarius | 1 | substitute
+vicarius | 3 | as a noun, a substitute, deputy, proxy: succedam ego vicarius tuo muneri, I will take over your duty as your deputy
 vicenarius | 1 | twenty
 vicenarius | 3 | as a noun, a youth of twenty years old
 viceni | 1 | twenty each
