@@ -1,0 +1,1015 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_T.json (Lewis & Short via Perseus), simplified for learners.
+tabefacio | 1 | melt
+tabefacio | 3 | transferred, to weaken, wear down
+tabella | 1 | tablet
+tabella | 2 | letter
+tabella | 3 | a small writing tablet; in plural, a letter, document, or will
+tabella | 4 | a voting tablet, ballot
+tabella | 5 | a small painted panel, picture
+tabella | 6 | a votive tablet hung in a temple
+tabellarius | 1 | of letters
+tabellarius | 2 | courier
+tabellarius | 3 | relating to voting-tablets; lex tabellaria, a law regulating voting by ballot
+tabeo | 1 | waste away
+tabeo | 3 | of the body, melt, drip, or waste away (poetic); figuratively, to vanish, die down
+taberna | 1 | shop
+taberna | 3 | a hut or shed; also an inn or tavern
+taberna | 4 | a stall or arcade in the circus
+tabernaculum | 1 | tent
+tabernaculum | 3 | tabernaculum capere, to choose an augural site for a tent (before taking auspices)
+tabernaculum | 4 | (Biblical) the tabernacle
+tabernarius | 1 | of shops
+tabernarius | 2 | vulgar
+tabernarius | 3 | as a noun (tabernarii), shopkeepers, small tradesmen
+tabes | 1 | decay
+tabes | 3 | a wasting disease, consumption, or plague
+tabes | 4 | figuratively, moral decay, corruption
+tabes | 5 | the ooze or moisture of something melting or decaying (e.g. melted snow, blood, poison)
+tabesco | 1 | waste away
+tabesco | 3 | figuratively, to pine away (with grief, longing, or envy)
+tabidus | 1 | wasting
+tabidus | 3 | transferred, corrupting, infectious
+tabificus | 1 | corrupting
+tabificus | 3 | causing wasting, infectious (of poison, disease, or climate)
+tabula | 1 | board
+tabula | 2 | tablet
+tabula | 3 | in plural, a document: a letter, contract, account, or will
+tabula | 4 | an account-book, register
+tabula | 5 | a public record; tabulae publicae, the state archives; the Twelve Tables, the earliest Roman law code
+tabula | 6 | a painting, picture
+tabula | 7 | a list (of votes, or of the proscribed)
+tabularis | 1 | of tablets
+tabularis | 3 | suited for plates or sheets (of bronze)
+tabularius1 | 1 | archivist
+tabularius1 | 3 | a public notary or scrivener
+tabulatus | 1 | floored
+tabulatus | 3 | as a noun (tabulatum), a floor, story of a building
+tabulatus | 4 | transferred, a layer or row (of branches, grapes)
+tabulinum | 1 | terrace
+tabulinum | 3 | a room for family records, archives
+tabulinum | 4 | a picture-gallery
+tabum | 1 | gore
+tabum | 3 | transferred, a plague, pestilence
+taceo | 1 | be silent
+taceo | 3 | to keep something secret, not mention something
+taceo | 4 | transferred (of animals, places, or things), to be still, quiet, motionless
+taciturnitas | 1 | silence
+taciturnitas | 3 | reticence, reserve (as a character trait)
+taciturnus | 1 | taciturn
+taciturnus | 3 | transferred, still, silent (of places)
+tactio | 1 | touch
+tactio | 3 | transferred, the sense of touch
+tactus2 | 1 | touch
+tactus2 | 3 | transferred, influence, effect
+tactus2 | 4 | the sense of touch, feeling
+taeda | 1 | torch
+taeda | 3 | resinous pine wood, pitch-pine
+taeda | 4 | poetic, a wedding, marriage (from the wedding torch)
+taedet | 1 | weary
+taedet | 3 | taedet me + genitive, I am sick of, tired of (something)
+taedium | 1 | weariness
+taedium | 2 | disgust
+taedium | 3 | transferred, a loathsome or tiresome thing, a nuisance
+taeter | 1 | foul
+taeter | 3 | morally, shameful, abominable, disgraceful
+taetricus | 1 | stern
+taetricus | 3 | of things, harsh, severe (e.g. a severe fever, a fierce trumpet-blast)
+talaris | 1 | of ankles
+talaris | 3 | as a noun (talaria), winged sandals (of Mercury or Perseus)
+talaris | 4 | a robe reaching to the ankles
+talaris | 5 | of dice-playing
+talea | 1 | rod
+talea | 3 | a cutting or slip (for planting)
+talea | 4 | a small beam used to bind together the joints of a wall
+talentum | 1 | talent
+talentum | 3 | a Greek unit of weight
+talentum | 4 | a sum of money (the Attic talent = 60 minae)
+talio | 1 | retaliation
+talio | 3 | legal, a punishment equal to the injury inflicted, an eye for an eye
+talis | 1 | such
+talis | 3 | talis ... qualis, such ... as
+talis | 4 | emphatic, so great, so excellent, so distinguished
+talus | 1 | ankle
+talus | 2 | die
+talus | 3 | transferred, the heel
+tam | 1 | so
+tam | 3 | tam ... quam, as ... as
+tamdiu | 1 | so long
+tamdiu | 3 | tam diu ... quam diu, for as long as
+tamen | 1 | nevertheless
+tamen | 3 | sed tamen, but nevertheless (resuming a point after a digression)
+tametsi | 1 | although
+tametsi | 3 | tametsi ... tamen, although ... yet nevertheless
+tamquam | 1 | as
+tamquam | 3 | tamquam si, as if, just as if
+tandem | 1 | finally
+tandem | 3 | in questions, an intensifier: pray, then, in the world (quid tandem, what in the world)
+tango | 1 | touch
+tango | 3 | of places, to reach, arrive at; to border on, be adjacent to
+tango | 4 | figuratively, to move, affect (the feelings)
+tango | 5 | of speech, to touch upon, mention
+tango | 6 | de caelo tactus, struck by lightning
+tantillus | 1 | tiny
+tantillus | 3 | so small a thing (used substantively, in neuter, for "such a trifle")
+tantisper | 1 | meanwhile
+tantisper | 3 | tantisper dum, for just as long as, until
+tantulus | 1 | paltry
+tantulus | 3 | so small a thing (substantive, neuter): such a trifle
+tantus | 1 | so great
+tantus | 3 | tantus ... quantus, as great ... as
+tantus | 4 | as an adverb (tantum), only, merely
+tantus | 5 | tanto opere (tantopere), so greatly, exceedingly
+tantus | 6 | genitive tanti, worth so much, of such value or importance
+tantusdem | 1 | as much
+tantusdem | 3 | tantundem, just so much, exactly as much (neuter substantive)
+tapete | 1 | carpet
+tapete | 3 | more generally, a rich cloth covering or hanging, for couches, tables, or walls
+tarditas | 1 | slowness
+tarditas | 2 | dullness
+tardo | 1 | delay
+tardo | 3 | intransitively (rare), to tarry, linger
+tardus | 1 | slow
+tardus | 2 | dull
+tardus | 3 | of speech, measured, deliberate, not rapid
+taureus | 1 | of bulls
+taureus | 3 | as a noun (taurea), a whip made of bull's hide
+taurinus1 | 1 | of bulls
+taxatio | 1 | valuation
+taxatio | 3 | legal, a clause limiting or defining an amount (in a will or contract)
+taxo | 1 | assess
+taxo | 3 | to censure, find fault with, reproach
+taxo | 4 | literal and rare, to touch sharply, handle
+taxus | 1 | yew
+taxus | 3 | poetic, a javelin (made of yew-wood)
+tectorius | 1 | of covering
+tectorius | 3 | as a noun (tectorium), plaster, stucco, fresco-painting (for walls or ceilings)
+tectorius | 4 | figuratively, of speech, flattery, smooth words
+tectum | 1 | roof
+tectum | 2 | house
+tectum | 3 | a ceiling
+tegimen | 1 | covering
+tegimen | 3 | a hide or pelt worn as clothing; also, a husk
+tego | 1 | cover
+tego | 3 | to hide, conceal
+tego | 4 | to shelter, protect, defend
+tego | 5 | figuratively, to conceal, keep secret (a feeling, fault, or plan)
+tego | 6 | poetic, to bury
+tego | 7 | as an adjective (tectus), reserved, secretive, guarded (of a person or manner)
+tegulae | 1 | tiles
+tegumentum | 1 | covering
+tegumentum | 3 | figuratively (rare), a defence, protection
+tela | 1 | web
+tela | 3 | the warp (threads on a loom)
+tela | 4 | a loom
+tela | 5 | figuratively, a plan, scheme, design
+tellus | 1 | earth
+tellus | 3 | as a personified goddess, Tellus, goddess of the earth
+tellus | 4 | transferred, poetic, a land, country, region
+telum | 1 | missile
+telum | 3 | transferred, any weapon (sword, axe, dagger)
+telum | 4 | poetic, a sunbeam; also, a lightning-bolt
+telum | 5 | figuratively, a weapon, shaft (of misfortune, wit, or the like)
+temerarius | 1 | rash
+temerarius | 3 | rare, accidental, happening by chance
+temere | 1 | rashly
+temere | 3 | non temere, not without reason, not for nothing
+temeritas | 1 | rashness
+temeritas | 3 | rare, chance, accident
+temero | 1 | defile
+temero | 3 | especially, to violate a sacred place, a marriage-bed, or an oath
+temetum | 1 | strong drink
+temno | 1 | scorn
+temo1 | 1 | pole
+temo1 | 3 | poetic, a wagon, cart (the whole named for its pole)
+temo1 | 4 | the constellation of the Wain (Charles's Wain, part of Ursa Major)
+temperamentum | 1 | balance
+temperamentum | 3 | a compromise, a middle course
+temperantia | 1 | temperance
+temperatio | 1 | constitution
+temperatio | 3 | of the state, organization, constitution, form of government
+temperatio | 4 | the ordering or organizing principle (of the universe)
+temperator | 1 | moderator
+temperatura | 1 | composition
+temperies | 1 | temperature
+temperies | 3 | figuratively, moderation, a proper balance (of character or conduct)
+tempero | 1 | temper
+tempero | 3 | transferred, to rule, govern, regulate
+tempero | 4 | intransitively, to restrain oneself, refrain, abstain, from something
+tempestas | 1 | storm
+tempestas | 2 | weather
+tempestas | 3 | archaic, a time, season, period
+tempestas | 4 | figuratively, a storm, commotion, calamity (of misfortune or political upheaval)
+tempestivitas | 1 | timeliness
+tempestivus | 1 | timely
+tempestivus | 3 | ripe, mature (of fruit, or of a person of marriageable age)
+tempestivus | 4 | early, begun betimes, especially of a banquet starting while still day
+templum | 1 | temple
+templum | 3 | technical, in augury, a space marked out for observing omens
+templum | 4 | poetic, transferred, an open expanse (of sky or sea)
+templum | 5 | more broadly, a sanctuary, consecrated precinct
+temporalis | 1 | temporal
+temporalis | 3 | of the temples of the head (as in the temporal veins)
+temporaneus | 1 | timely
+temporarius | 1 | temporary
+temporarius | 3 | changeable, fickle (of character)
+tempus | 1 | time
+tempus | 3 | the right time, opportunity, tempus est, it is time to
+tempus | 4 | in plural (tempora), the temples of the head
+tempus | 5 | transferred, circumstances, conditions, especially difficult or critical ones
+tempus | 6 | grammar, a tense of a verb
+temulentus | 1 | drunk
+temulentus | 3 | transferred, poetic, dripping, saturated
+tenax | 1 | tenacious
+tenax | 3 | stingy, niggardly, with money
+tenax | 4 | in a bad sense, stubborn, obstinate
+tendicula | 1 | snare
+tendicula | 3 | literal, a small stretching-frame (e.g. for clothes)
+tendo | 1 | stretch
+tendo | 3 | to spread a net, or lay a trap
+tendo | 4 | intransitively, to head, make one's way, go (in a direction)
+tendo | 5 | to strive, aim, endeavor
+tendo | 6 | to pitch camp, be encamped
+tenebrae | 1 | darkness
+tenebrae | 3 | the dark of a swoon, a fainting fit
+tenebrae | 4 | transferred, a dark or gloomy place; a prison, dungeon
+tenebrae | 5 | figuratively, obscurity (of mind, birth, or fortune)
+tenebricosus | 1 | dark
+tenebricosus | 3 | figuratively, shady, disreputable
+tenebrosus | 1 | gloomy
+tenellus | 1 | delicate
+teneo | 1 | hold
+teneo | 3 | to possess, control, be master of
+teneo | 4 | to hold fast, occupy, maintain (a position or course)
+teneo | 5 | to hold back, restrain, detain, check
+teneo | 6 | figuratively, to grasp mentally, understand
+teneo | 7 | memoria tenere, to remember, keep in mind
+teneo | 8 | of laws or promises, to bind, be binding on
+teneo | 9 | intransitively, to hold out, last, continue
+tener | 1 | tender
+tener | 3 | young, of tender age
+tener | 4 | of style or feeling, soft, delicate, sentimental
+teneritas | 1 | tenderness
+tenor | 1 | tenor
+tenor | 3 | uno tenore, in one unbroken course, uniformly
+tenor | 4 | legal, the wording or sense (of a law or document)
+tenor | 5 | rhetoric, tone, pitch (of the voice)
+tensa | 1 | processional car
+tensa | 3 | specifically, the car bearing the images of the gods in the Circus games
+tensio | 1 | tension
+tensio | 3 | medical, a cramp or spasm of the nerves
+tentamentum | 1 | attempt
+tentipellium | 1 | hide-stretcher
+tentipellium | 3 | figuratively, a wrinkle-remover, a cosmetic to smooth the skin
+tento | 1 | try
+tento | 3 | literal, to touch, feel, handle
+tento | 4 | to attack, assail; of disease, to afflict
+tento | 5 | to tempt, incite, sound out (a person)
+tenuis | 1 | thin
+tenuis | 3 | transferred, slight, trifling, meager
+tenuis | 4 | of rank or means, low, humble, poor
+tenuis | 5 | of style, plain, precise, subtle
+tenuitas | 1 | thinness
+tenuitas | 3 | transferred, poverty, scantiness, insignificance
+tenuitas | 4 | of style, precision, subtlety
+tenuo | 1 | thin
+tenuo | 3 | figuratively, to lessen, diminish, weaken
+tenus2 | 1 | up to
+tenus2 | 3 | verbo tenus, nomine tenus, in name only, nominally
+tepefacio | 1 | warm
+tepeo | 1 | be warm
+tepeo | 3 | figuratively, to be in love, glow with passion
+tepeo | 4 | figuratively, by contrast, to be lukewarm, unenthusiastic, indifferent in love
+tepesco | 1 | grow warm
+tepesco | 3 | rare, to grow cool
+tepesco | 4 | figuratively, to cool off, lose ardor, wane
+tepidus | 1 | tepid
+tepidus | 3 | figuratively, lukewarm, faint, languid (of passion or ardor)
+tepor | 1 | warmth
+tepor | 3 | rare, coolness (as opposed to heat)
+tepor | 4 | figuratively, coldness, languor (of style)
+ter | 1 | thrice
+ter | 3 | transferred, often, repeatedly, an indefinite intensifier
+terebra | 1 | drill
+terebra | 3 | a siege engine for boring through walls
+terebro | 1 | bore
+terebro | 3 | figuratively, rare, to coax, wheedle, insinuate oneself
+teres | 1 | rounded
+teres | 3 | figuratively, of style, polished, elegant, well-turned
+tergeo | 1 | wipe
+tergeo | 3 | to rub off, polish, burnish
+tergeo | 4 | as an adjective (tersus), clean, neat; of style, terse, polished
+tergiversor | 1 | tergiversate
+tergum | 1 | back
+tergum | 3 | terga vertere or dare, to turn tail, flee
+tergum | 4 | transferred, the rear (of an army or position); a tergo, from behind
+tergum | 5 | poetic, hide, skin, leather
+tergum | 6 | poetic (pars pro toto), the body of an animal
+terminalis | 1 | of boundaries
+terminalis | 3 | as a noun (Terminalia), the festival of Terminus, the god of boundaries
+terminalis | 4 | final, concluding
+terminatio | 1 | demarcation
+terminatio | 3 | figuratively, a determination, decision (in rhetoric or philosophy)
+termino | 1 | limit
+termino | 3 | to define, determine (a concept, quantity, or amount)
+termino | 4 | to end, close, conclude (a period, sentence, or matter)
+terminus | 1 | boundary
+terminus | 3 | as a personified god, Terminus, the god of boundaries
+terminus | 4 | transferred, a limit, end, term (of life, of a dispute)
+terni | 1 | three each
+terni | 3 | poetic, simply three, in place of tres
+tero | 1 | rub
+tero | 3 | to thresh (grain)
+tero | 4 | to wear out, wear away (by use)
+tero | 5 | to frequent, tread often (a path or place)
+tero | 6 | figuratively, to spend, pass, or waste (time)
+tero | 7 | of language, to wear out by use, make common or trite
+terra | 1 | earth
+terra | 3 | as a personified goddess, Terra, the Earth
+terra | 4 | a land, country, region
+terra | 5 | terra marique, by land and sea
+terra | 6 | orbis terrarum, the whole world
+terrenus | 1 | earthen
+terrenus | 3 | of or belonging to the earth, earthly, terrestrial, as opposed to heavenly
+terreo | 1 | frighten
+terreo | 3 | transferred, to scare away, drive off by fright
+terreo | 4 | to deter, scare off from doing something
+terrestris | 1 | terrestrial
+terrestris | 3 | of an army or journey, by land, land-, as opposed to by sea
+terribilis | 1 | terrible
+terribilis | 3 | late Latin, demanding reverence, venerable
+terricula | 1 | bugbear
+terrigena | 1 | earth-born
+territo | 1 | frighten
+territorium | 1 | territory
+terror | 1 | terror
+terror | 3 | transferred, concrete, an object of dread, a terror, a person or thing that causes fear
+terrulentus | 1 | earthly
+tertianus | 1 | tertian
+tertianus | 3 | as a noun (tertiani), soldiers of the third legion
+# review: tertio2 no single English verb covers "do again for the third time"; keeping the literal gloss
+tertio2 | 1 | do a third time
+tertio2 | 3 | especially, of a field, to plough a third time
+tertius | 1 | third
+tertius | 3 | as a noun, feminine (tertia pars), a third part
+tertius | 4 | as an adverb (tertio), for the third time; also, in the third place, thirdly
+teruncius | 1 | farthing
+teruncius | 3 | legal, the fourth part (of an inheritance)
+tesca | 1 | wilds
+tesca | 3 | especially, wild ground consecrated to a god
+tesserarius | 1 | of dice
+tesserarius | 3 | as a noun, a dice-player
+tesserarius | 4 | military, the officer who relays the watchword
+tesserula | 1 | token
+tesserula | 3 | specifically, a ticket for the distribution of grain
+testa | 1 | tile
+testa | 3 | transferred, an earthenware pot, jar, or jug
+testa | 4 | a potsherd, a broken piece of pottery
+testa | 5 | the shell of a shellfish
+testa | 6 | late Latin, the skull
+testaceus | 1 | of brick
+testaceus | 3 | covered with a shell, shelled (of animals)
+testaceus | 4 | brick-colored
+testamentarius | 1 | testamentary
+testamentarius | 3 | as a noun, one who draws up a will
+testamentarius | 4 | in a bad sense, a will-forger
+testamentum | 1 | will
+testamentum | 3 | eccl. Latin, the Testament, Old or New
+testatio | 1 | testimony
+testatio | 3 | a calling upon the gods as witness
+testator | 1 | testator
+testator | 3 | rare, a witness, one who testifies
+testificatio | 1 | testimony
+testificatio | 3 | transferred, proof, evidence (of feelings or service)
+testificor | 1 | testify
+testificor | 3 | transferred, to show, demonstrate, make known
+testificor | 4 | to call upon as a witness, invoke
+testimonium | 1 | testimony
+testimonium | 3 | transferred, proof, evidence in general
+testis1 | 1 | witness
+testis1 | 3 | transferred, an eye-witness, onlooker
+testis2 | 1 | testicle
+testor | 1 | attest
+testor | 3 | to invoke, call upon (a person or god) as witness
+testor | 4 | legal, to make a will
+testu | 1 | cooking-lid
+testu | 3 | transferred, an earthen pot
+testudineus | 1 | of tortoise-shell
+testudo | 1 | tortoise
+testudo | 3 | transferred, tortoise-shell as a material
+testudo | 4 | poetic, a lyre
+testudo | 5 | architectural, an arch, vault
+testudo | 6 | military, the testudo, a protective shelter of overlapping shields or timber
+texo | 1 | weave
+texo | 3 | transferred, to plait, braid; to build or construct, especially of wickerwork
+texo | 4 | figuratively, to compose, contrive (a speech, plan, or piece of writing)
+textilis | 1 | woven
+textilis | 3 | as a noun (textile), a fabric, piece of cloth
+textorius | 1 | of weaving
+textorius | 3 | figuratively, entangling, intricate
+textrinus | 1 | of weaving
+textrinus | 3 | as a noun (textrinum), a weaver's workshop
+textrinus | 4 | as a noun (textrinum), a shipyard, dockyard
+textus2 | 1 | texture
+textus2 | 3 | figuratively, of language, structure, context, wording
+theatralis | 1 | theatrical
+thema | 1 | theme
+thema | 3 | astrology, a horoscope, nativity
+tibia | 1 | flute
+tibia | 2 | shinbone
+tibialis | 1 | of shins
+tibialis | 3 | as a noun (tibiale), a legging, a warm wrapping for the shins
+tibialis | 4 | of or belonging to the flute
+tibicen | 1 | flutist
+tibicen | 3 | transferred, a supporting pillar, prop of a building
+tigillum | 1 | beam
+tignum | 1 | beam
+tignum | 3 | legal, broadly, building material of any kind
+tilia | 1 | linden
+tilia | 3 | transferred, the inner bark of the linden, used for cords or bands
+timeo | 1 | fear
+timeo | 3 | timeo ne, I am afraid that something will happen; timeo ut, I am afraid that something will not happen
+timiditas | 1 | timidity
+timidus | 1 | timid
+timidus | 3 | in a good sense, cautious, wary
+timor | 1 | fear
+timor | 3 | poetic, in a good sense, awe, reverence
+timor | 4 | transferred, an object that causes fear, a terror
+tinea | 1 | moth
+tinea | 3 | more generally, any gnawing grub or larva, in wood, hives, or fruit
+tingo | 1 | dip
+tingo | 3 | in particular, to dye, color, tinge
+tingo | 4 | figuratively, to tincture, imbue with a quality or with knowledge
+tinnio | 1 | tinkle
+tinnio | 3 | colloquial, to pay out money, literally to make coins jingle
+tinnio | 4 | to have a shrill voice, to sing or cry out
+tinnitus | 1 | ringing
+tinnitus | 3 | transferred, of language, a jingle, empty rhetorical flourish
+tinnulus | 1 | tinkling
+tinnulus | 3 | transferred, of style or speakers, jingling, empty, superficial
+tintinno | 1 | jingle
+tiro1 | 1 | recruit
+tiro1 | 3 | transferred, a beginner, novice, in any activity
+tirocinium | 1 | apprenticeship
+tirocinium | 3 | concretely, young troops, raw recruits
+tirocinium | 4 | transferred, a first attempt, trial, essay, at anything
+tirunculus | 1 | novice
+titillo | 1 | tickle
+titillo | 3 | figuratively, to excite pleasurably, titillate the mind or senses
+titubo | 1 | stagger
+titubo | 3 | figuratively, to hesitate, falter, waver
+titulus | 1 | label
+titulus | 3 | a title of honor, distinction
+titulus | 4 | a pretext, pretence
+titulus | 5 | the title of a book
+toga | 1 | toga
+toga | 3 | transferred, peace, civilian life, as opposed to war
+toga | 4 | poetic, a client
+toga | 5 | poetic, a prostitute
+togatus | 1 | toga-clad
+togatus | 3 | as a noun, a Roman citizen
+togatus | 4 | under the empire, a client, a person of humble station
+togatus | 5 | as a noun, feminine (togata), Roman national drama, comedy on Roman themes
+tolerabilis | 1 | tolerable
+tolerabilis | 3 | rare, active sense, able to endure, hardy
+tolero | 1 | endure
+tolero | 3 | transferred, to support, nourish, maintain a person, with food or money
+tolleno | 1 | swing-beam
+tollo | 1 | raise
+tollo | 2 | remove
+tollo | 3 | tollere liberos, to acknowledge and raise up a child as one's own
+tollo | 4 | nautical, tollere ancoras, to weigh anchor
+tollo | 5 | pregnant sense, to kill, destroy, do away with
+tollo | 6 | to abolish, annul, do away with a law, custom, or feeling
+tomentum | 1 | stuffing
+tondeo | 1 | shear
+tondeo | 3 | transferred, to prune, trim, lop
+tondeo | 4 | to mow, reap
+tondeo | 5 | poetic, of animals, to graze, browse upon
+tondeo | 6 | rare, to fleece, plunder
+tonitrus | 1 | thunder
+tono | 1 | thunder
+tono | 3 | transferred, to roar, rattle, crash, of any loud noise
+tono | 4 | figuratively, of oratory, to thunder, speak with overpowering force
+tonsa | 1 | oar
+tonsilis | 1 | trimmed
+tonsilis | 3 | literal, capable of being shorn or clipped
+tonsilla | 1 | mooring-post
+tonsilla | 3 | in plural, the tonsils
+tonsor | 1 | barber
+tonsor | 3 | a sheep-shearer
+tonsor | 4 | a pruner of plants
+tonsorius | 1 | of shaving
+tonsura | 1 | shearing
+tonsura | 3 | a pruning, trimming (of vines or plants)
+topazos | 1 | chrysolite
+topiarius | 1 | of topiary
+topiarius | 3 | as a noun, an ornamental gardener
+topiarius | 4 | as a noun, feminine (topiaria), the topiary art, ornamental gardening
+topper | 1 | speedily
+torcularius | 1 | of presses
+torcularius | 3 | as a noun, a press-worker
+torcularius | 4 | as a noun (torcularium), a press for oil or wine
+torculus | 1 | of presses
+torculus | 3 | as a noun (torculum), a press
+tormentum | 1 | torment
+tormentum | 3 | literal, an instrument of torture, a rack
+tormentum | 4 | military, a siege engine for hurling missiles, a catapult
+tormentum | 5 | a twisted cord or rope
+tormina | 1 | colic
+tormina | 3 | tormina urinae, strangury, painful difficult urination
+torno | 1 | round off
+torno | 3 | transferred, rare, to shape, smooth, polish
+torosus | 1 | muscular
+torpedo | 1 | numbness
+torpedo | 3 | transferred, the torpedo fish, an electric ray
+torpeo | 1 | be numb
+torpeo | 3 | figuratively, to be dull, listless, inactive, stupefied
+torpesco | 1 | grow numb
+torpesco | 3 | figuratively, to become listless, dull, indolent
+torpor | 1 | numbness
+torpor | 3 | figuratively, sluggishness, listlessness, inactivity
+torquatus1 | 1 | collared
+torqueo | 1 | twist
+torqueo | 3 | to hurl, fling (a weapon)
+torqueo | 4 | literal, to put on the rack, torture
+torqueo | 5 | figuratively, to torment, torture, with worry, anxiety, or desire
+torqueo | 6 | figuratively, to wrest, distort, pervert, words or meaning
+torquis | 1 | necklace
+torquis | 3 | specifically, a twisted metal neck-band, a torque
+torquis | 4 | transferred, a coupling-collar for oxen; more generally, a wreath, ring
+torreo | 1 | roast
+torreo | 3 | of fever or thirst, to parch, dry up, burn
+torreo | 4 | poetic, of love, to inflame, burn with passion
+torreo | 5 | as an adjective (torrens), rushing, roaring, of a stream
+torreo | 6 | as a noun (torrens), a torrent; figuratively, a rushing flow of eloquence
+torridus | 1 | parched
+torridus | 3 | transferred, of cold, pinched, nipped, shriveled
+tortor | 1 | torturer
+tortuosus | 1 | tortuous
+tortuosus | 3 | figuratively, entangled, involved, complicated, confused
+tortus2 | 1 | coil
+tortus2 | 3 | a whirling, hurling motion
+torulus | 1 | tuft
+torulus | 3 | the fleshy or muscular part of the body
+torulus | 4 | transferred, the sapwood of a tree
+torus | 1 | couch
+torus | 2 | muscle
+torus | 3 | transferred, marriage, the marriage-bed
+torus | 4 | architectural, a torus, a rounded moulding at the base of a column
+torus | 5 | general, a knot, bulge, protuberance
+torvitas | 1 | sternness
+torvus | 1 | grim
+torvus | 3 | of wine, harsh, sharp, tart
+tot | 1 | so many
+totidem | 1 | equally many
+totidem | 3 | totidem ... quot, just as many ... as
+totiens | 1 | so often
+totiens | 3 | totiens ... quotiens, as often ... as
+totus1 | 1 | whole
+totus1 | 3 | totus in + ablative, wholly absorbed in, entirely devoted to
+totus1 | 4 | ex toto, in totum, wholly, entirely, completely
+trabalis | 1 | of beams
+trabalis | 3 | poetic, beam-like, massive, stout
+trabea1 | 1 | state-robe
+trabea1 | 3 | transferred, the equestrian order, the knights
+trabea1 | 4 | transferred, the consulship
+trabeatus | 1 | trabea-clad
+trabeatus | 3 | as a noun, feminine (trabeata), a genre of Roman comedy about knights
+trabs | 1 | beam
+trabs | 3 | transferred, a tree
+trabs | 4 | poetic, a ship
+trabs | 5 | a meteor, a fiery phenomenon in the sky
+tractabilis | 1 | tractable
+tractabilis | 3 | of weather or the sea, mild, calm, not stormy
+tractatio | 1 | handling
+tractatio | 3 | conduct, treatment of a person, especially maltreatment
+tractatio | 4 | rhetorical, the treatment or discussion of a subject
+tractator | 1 | masseur
+tractator | 3 | a handler or treater of a subject, especially literary matters
+tractatus | 1 | treatment
+tractatus | 3 | literal, rare, a touching, handling
+tractatus | 4 | reflection, consideration; a discussion, consultation
+tractatus | 5 | transferred, concrete, a treatise, tract
+tractatus | 6 | eccl. Latin, a sermon, homily
+tractim | 1 | gradually
+tractim | 3 | of speech or sound, in a drawling way, slowly, at length
+tracto | 1 | handle
+tracto | 3 | to conduct, manage, carry on, business, war, or a role
+tracto | 4 | to treat, deal with a person, in some manner
+tracto | 5 | to discuss, treat of, handle a subject in speech or writing
+tracto | 6 | to negotiate
+tractorius | 1 | of hoisting
+tractorius | 3 | as a noun, feminine (tractoria), an official letter of summons or travel-order
+tractus2 | 1 | tract
+tractus2 | 3 | literal, a dragging, hauling, trailing
+tractus2 | 4 | concrete, a train, track, course, of a flame, the moon, or a river
+tractus2 | 5 | figuratively, the flow, course of a speech
+tractus2 | 6 | a lengthening, protraction, of time or of a word in grammar
+traditio | 1 | surrender
+traditio | 3 | legal, a formal transfer of possession, a conveyance
+traditio | 4 | figuratively, a teaching, instruction
+traditio | 5 | a tradition, something handed down
+trado | 1 | hand over
+trado | 3 | to entrust, commit, for protection or safekeeping
+trado | 4 | to betray, give up treacherously
+trado | 5 | to hand down, transmit, a custom, inheritance, or tradition
+trado | 6 | traditur, it is said, it is recorded
+trado | 7 | to teach, propound a doctrine
+traduco | 1 | lead across
+traduco | 3 | to win over, bring over, to a side or opinion
+traduco | 4 | figuratively, to expose to public ridicule, disgrace, traduce
+traduco | 5 | of time, to spend, pass
+traduco | 6 | grammar, to derive a word
+traductio | 1 | transfer
+traductio | 3 | public disgrace, exposure to ridicule
+traductio | 4 | rhetorical, a repetition of the same word, or a metonymy
+tradux | 1 | vine-layer
+tragula | 1 | javelin
+tragula | 3 | figuratively, a snare, trap, plot
+traho | 1 | drag
+traho | 3 | to draw out, extract, withdraw
+traho | 4 | to draw in, inhale, or drink in, breath or liquid
+traho | 5 | figuratively, to attract, allure, influence
+traho | 6 | to derive, obtain a name or origin, from something
+traho | 7 | of time, to protract, drag out, prolong, delay
+traicio | 1 | throw across
+traicio | 3 | to transport, convey across, especially troops over a river
+traicio | 4 | to pierce, stab through, transfix
+traicio | 5 | to cross over, pass over a river or sea
+trajectio | 1 | crossing
+trajectio | 3 | concretely, a shooting star, meteor
+trajectio | 4 | rhetorical, a transposition of words; also, exaggeration, hyperbole
+trajectus2 | 1 | crossing
+trajectus2 | 3 | concretely, a ford, ferry-passage
+trama | 1 | weft
+trama | 3 | transferred, trifles, worthless things
+trames | 1 | path
+trames | 3 | figuratively, a way of life, course, method
+trano | 1 | swim across
+trano | 3 | transferred, to pass through, penetrate, permeate
+tranquillitas | 1 | calm
+tranquillitas | 3 | figuratively, calmness, serenity of mind
+tranquillo2 | 1 | calm
+tranquillus | 1 | calm
+tranquillus | 3 | as a noun (tranquillum), a calm, calm weather or a peaceful situation
+trans | 1 | across
+trans | 3 | in compounds, also through, or beyond
+transabeo | 1 | pass by
+transabeo | 3 | of a weapon, to pierce through, transfix
+transadigo | 1 | pierce through
+transcendo | 1 | cross over
+transcendo | 3 | figuratively, to overstep, transgress
+transcendo | 4 | figuratively, to excel, surpass, exceed
+transcribo | 1 | transcribe
+transcribo | 3 | legal, to make over, assign, convey property
+transcribo | 4 | to transfer, remove, to another place or station
+transcurro | 1 | run past
+transcurro | 3 | to traverse, run or pass through
+transcurro | 4 | of time, to pass by, elapse
+transcurro | 5 | figuratively, of speech, to touch on briefly, treat cursorily
+transcursus2 | 1 | dash
+transcursus2 | 3 | figuratively, of speech, a cursory or brief mention; in transcursu, in passing
+transenna | 1 | snare
+transenna | 3 | a lattice, netting, as a screen or window covering
+transeo | 1 | cross
+transeo | 3 | to go over to a party or side, defect
+transeo | 4 | to be changed, transformed into something
+transeo | 5 | to pass over, omit, leave untouched, in speaking or writing
+transeo | 6 | of time, to pass, elapse; to spend time
+transeo | 7 | to pass away, come to an end
+transfero | 1 | transfer
+transfero | 3 | botanical, to transplant
+transfero | 4 | to translate, into another language
+transfero | 5 | rhetorical, to use figuratively, apply metaphorically
+transfero | 6 | of time, to put off, postpone, defer
+transfigo | 1 | transfix
+transfiguro | 1 | transform
+transfodio | 1 | stab through
+transformo | 1 | transform
+transfreto | 1 | sail across
+transfuga | 1 | deserter
+transfuga | 3 | transferred, one who abandons a cause, party, or way of life
+transfugio | 1 | desert
+transfugium | 1 | desertion
+transfundo | 1 | decant
+transfundo | 3 | figuratively, to transfer feelings or qualities
+transfusio | 1 | transfusion
+transfusio | 3 | transferred, a migration of a people
+transgredior | 1 | cross over
+transgredior | 3 | to go over to another party
+transgredior | 4 | figuratively, to go beyond, exceed, surpass
+transgredior | 5 | eccl. Latin, to transgress a command
+transgressio | 1 | crossing
+transgressio | 3 | rhetorical, a transposition of words
+transgressio | 4 | late Latin, a transgression of a law or command
+transgressus2 | 1 | crossing
+transigo | 1 | transact
+transigo | 3 | literal, poetic, to thrust a weapon through, transfix
+transigo | 4 | to settle a dispute, come to an agreement
+transigo | 5 | of time, to spend, pass
+transilio | 1 | leap over
+transilio | 3 | figuratively, to pass over, omit, skip, in speaking
+transitio | 1 | crossing
+transitio | 3 | desertion, going over to another party
+transitio | 4 | infection, contagion, of disease passing between persons
+transitorius | 1 | transitory
+transitorius | 3 | literal, having a passage-way through, affording passage
+transitus2 | 1 | crossing
+transitus2 | 3 | desertion, going over to another party
+transitus2 | 4 | figuratively, a transition, change, from one state to another
+transitus2 | 5 | in transitu, in passing, by the way
+translaticius | 1 | customary
+translaticius | 3 | usual, common, ordinary
+translaticius | 4 | rare, figurative, metaphorical
+translatio | 1 | transfer
+translatio | 3 | a translation, into another language
+translatio | 4 | rhetorical, a metaphor, a figurative use of a word
+translatio | 5 | a transplanting, of plants
+translativus | 1 | translative
+translativus | 3 | as a noun, metalepsis, a rhetorical figure involving a transitional word
+translator | 1 | translator
+translator | 3 | literal, one who hands over, a transferrer, of funds
+transluceo | 1 | shine through
+transmarinus | 1 | overseas
+transmeo | 1 | cross
+transmigro | 1 | migrate
+transmissus2 | 1 | transmission
+transmissus2 | 3 | a passage, a crossing over sea
+transmitto | 1 | transmit
+transmitto | 3 | to cross, pass through, traverse
+transmitto | 4 | to entrust, commit, hand over
+transmitto | 5 | to pass over, disregard, leave untouched
+transmitto | 6 | of time, to pass, spend
+transnato | 1 | swim across
+transnomino | 1 | rename
+transpono | 1 | transfer
+transpono | 3 | of plants, to transplant
+transporto | 1 | transport
+transtrum | 1 | crossbeam
+transtrum | 3 | specifically, a rower's bench, a thwart, in a ship
+transvectio | 1 | crossing
+transvectio | 3 | publicists' term, the review of Roman knights riding past the censor
+transveho | 1 | convey across
+transveho | 3 | mid./passive, to ride or sail across, pass by
+transveho | 4 | to carry along in a triumphal procession
+transverbero | 1 | pierce through
+transverto | 1 | turn aside
+transverto | 3 | as an adjective (transversus), crosswise, athwart, transverse
+transverto | 4 | de transverso, e transverso, unexpectedly, from an unexpected quarter
+transvolo | 1 | fly across
+transvolo | 3 | transferred, to pass by quickly, hasten across
+transvolo | 4 | figuratively, to pass over, neglect, disregard
+# review: treceni no two-word English phrase captures the distributive "three hundred each"
+treceni | 1 | three hundred each
+treceni | 3 | transferred, poetic, simply three hundred
+trecenti | 1 | three hundred
+tredecim | 1 | thirteen
+tremebundus | 1 | trembling
+tremefacio | 1 | shake
+tremesco | 1 | start trembling
+tremo | 1 | tremble
+tremo | 3 | transitively, to tremble at, be afraid of something
+tremor | 1 | tremor
+tremor | 3 | specifically, an earthquake
+tremor | 4 | transferred, a terror, a dread, something that causes trembling
+tremulus | 1 | tremulous
+trepidatio | 1 | agitation
+trepido | 1 | panic
+trepido | 3 | transitively, rare, to tremble at, be afraid of
+trepido | 4 | of things, water or flame, to quiver, flicker, waver
+trepidus | 1 | anxious
+trepidus | 3 | in re trepida, in a critical or perilous situation
+tres | 1 | three
+tresviri | 1 | triumvirs
+triangulus | 1 | triangular
+triangulus | 3 | as a noun (triangulum), a triangle
+triarii | 1 | veteran reserves
+triarii | 3 | technical, the third battle-line of a Roman legion, made up of veteran soldiers
+tribulis | 1 | tribesman
+tribulis | 3 | in general, rare, a common or poor person
+tribulum | 1 | threshing-sledge
+tribulus | 1 | caltrop
+tribulus | 3 | transferred, a thorny plant, a thistle
+tribulus | 4 | a water-plant with a prickly nut, the water-chestnut
+tribunal | 1 | tribunal
+tribunal | 3 | the raised platform in a military camp from which the general addressed the troops
+tribunal | 4 | transferred, a mound, embankment
+tribunatus | 1 | tribuneship
+tribunicius | 1 | tribunician
+tribunicius | 3 | as a noun, an ex-tribune
+tribunus | 1 | tribune
+tribunus | 3 | tribuni militum, military tribunes, the senior officers of a legion
+tribunus | 4 | tribuni plebis, tribunes of the people, defenders of plebeian rights
+tribuo | 1 | grant
+tribuo | 3 | to concede, allow, yield
+tribuo | 4 | to ascribe, attribute, a cause
+tribuo | 5 | to divide, distribute
+tribuo | 6 | of time, to devote, spend
+tribus | 1 | tribe
+tribus | 3 | transferred, the common people, the masses
+tributarius | 1 | tributary
+tributim | 1 | by tribes
+tributio | 1 | distribution
+tributio | 3 | a paying of tribute, a contribution
+tricae | 1 | nonsense
+tricae | 3 | transferred, troubles, annoyances, complications; also, tricks, subterfuges
+triceni | 1 | thirty each
+triceni | 3 | transferred, simply thirty
+tricesimus | 1 | thirtieth
+trichila | 1 | bower
+tricies | 1 | thirty times
+tricliniaris | 1 | of dining
+tricliniaris | 3 | as a noun (tricliniaria), a dining-room; also, table-couch coverings
+tricor | 1 | shuffle
+tridens | 1 | three-pronged
+tridens | 3 | as a noun, a trident
+triduum | 1 | three days
+triennium | 1 | three years
+triens | 1 | third
+triens | 3 | specifically, a coin worth one third of an as
+trifariam | 1 | threefold
+trifariam | 3 | in three places, at three points at once
+trifidus | 1 | three-forked
+triformis | 1 | triform
+trigarius | 1 | charioteer
+trigarius | 3 | as a noun (trigarium), a place for training chariot-horses
+trigeminus | 1 | triplet
+trigeminus | 3 | transferred, poetic, threefold, triple, triform
+triginta | 1 | thirty
+trilinguis | 1 | three-tongued
+trilinguis | 3 | speaking three languages, trilingual
+trimestris | 1 | three-month
+trimus | 1 | three-year-old
+trini | 1 | three each
+trini | 3 | transferred, threefold, triple
+tripartitus | 1 | tripartite
+triplex | 1 | triple
+triplex | 3 | as a noun, a threefold amount, a triple portion
+triplex | 4 | as a noun (triplices), a three-leaved writing tablet
+tripudio | 1 | dance
+tripudio | 3 | especially, religious, to perform a ritual stamping dance
+tripudium | 1 | dance
+tripudium | 3 | augury, technical, a favorable omen from the sacred chickens' feeding
+triquetrus | 1 | triangular
+triquetrus | 3 | as a poetic epithet, Sicilian, from Sicily's triangular shape
+triremis | 1 | trireme
+triremis | 3 | as an adjective, having three banks of oars
+tristis | 1 | sad
+tristis | 3 | of taste, harsh, bitter
+tristis | 4 | stern, harsh, severe, of character or judgment
+tristis | 5 | transferred, gloomy, dismal, unhappy, of things or events
+tristitia | 1 | sadness
+tristitia | 3 | moroseness, sourness, of demeanor or character
+tristities | 1 | sadness
+trisulcus | 1 | three-forked
+tritor | 1 | grinder
+tritor | 3 | figuratively, as abuse, one who wears out chains or whips, i.e., a constantly punished slave
+triumphalis | 1 | triumphal
+triumphalis | 3 | as a noun (triumphalia), the triumphal insignia
+triumphalis | 4 | as a noun, one honored with a triumph
+triumphator | 1 | triumpher
+triumpho | 1 | triumph
+triumpho | 3 | figuratively, to exult, rejoice exceedingly
+triumpho | 4 | transitively, to triumph over, conquer, lead in triumph
+triumphus | 1 | triumph
+triumphus | 3 | figuratively, a victory, success in general
+triumviralis | 1 | triumviral
+triumviratus | 1 | triumvirate
+triumviri | 1 | triumvirs
+triumviri | 3 | specifically, triumviri reipublicae constituendae, the Second Triumvirate: Antony, Octavian, and Lepidus
+trivialis | 1 | trivial
+trivium | 1 | crossroads
+trivium | 3 | transferred, the public street, highway in general
+trivius | 1 | of crossroads
+trivius | 3 | as a name, Trivia, Diana or Hecate, goddess of crossroads
+trochlea | 1 | pulley
+trucidatio | 1 | massacre
+trucidatio | 3 | transferred, a cutting up, cutting off, as in lopping branches
+trucido | 1 | butcher
+trucido | 3 | transferred, to destroy, ruin, as by usury or debt
+truculentus | 1 | ferocious
+trudo | 1 | push
+trudo | 3 | of plants, to put forth, send forth, buds or shoots
+trudo | 4 | figuratively, to drive, impel, hurry on
+trulla | 1 | ladle
+trulla | 3 | a mason's trowel
+trulla | 4 | a wash-basin
+trunco | 1 | mutilate
+truncus1 | 1 | mutilated
+truncus1 | 3 | transferred, imperfect, undeveloped, incomplete
+truncus2 | 1 | trunk
+truncus2 | 3 | as a term of abuse, a blockhead, dolt, dunce
+trutina | 1 | balance
+trutina | 3 | figuratively, a standard, measure of judgment
+trux | 1 | savage
+tu | 1 | you
+tu | 3 | specifically singular, thou, as opposed to vos, you all
+tuba | 1 | trumpet
+tuba | 3 | figuratively, an instigator, exciter of war or strife
+tuber1 | 1 | swelling
+tuber1 | 3 | transferred, a truffle, a kind of edible fungus
+tubicen | 1 | trumpeter
+tubilustrium | 1 | trumpet-festival
+tuburcinor | 1 | gobble
+tubus | 1 | pipe
+tubus | 3 | transferred, a trumpet used at sacrifices
+tuditans | 1 | pounding
+tueor | 1 | maintain
+tueor | 3 | literal, poetic, to look at, gaze at, watch
+tueor | 4 | military, to guard, defend, a position
+tueor | 5 | as an adjective (tutus), safe, secure, out of danger
+tuitio | 1 | protection
+tum | 1 | then
+tum | 3 | tum ... tum, now ... now, at one time ... at another
+tum | 4 | cum ... tum, not only ... but especially
+tum | 5 | coordinating, besides, moreover, and then
+tumefacio | 1 | swell
+tumefacio | 3 | figuratively, to puff up, inflate with pride
+tumeo | 1 | swell
+tumeo | 3 | figuratively, to be excited, seething, on the verge of bursting out, with anger
+tumeo | 4 | figuratively, to be puffed up with pride
+tumeo | 5 | of speech, to be inflated, pompous, bombastic
+tumesco | 1 | swell up
+tumesco | 3 | figuratively, to become excited, agitated
+tumesco | 4 | to be puffed up with pride
+tumidus | 1 | swollen
+tumidus | 3 | figuratively, puffed up, elated, haughty, arrogant
+tumidus | 4 | of style, bombastic, pompous, inflated
+tumor | 1 | swelling
+tumor | 3 | figuratively, commotion, excitement of the mind, from passion
+tumor | 4 | a ferment, commotion in public affairs
+tumor | 5 | of speech, bombast, pompous style
+tumultuarius | 1 | hasty
+tumultuarius | 3 | military, of troops, hastily levied, raised in an emergency
+tumultuor | 1 | riot
+tumultuor | 3 | of oratory, to rant, talk at random, without order
+tumultuosus | 1 | tumultuous
+tumultus | 1 | tumult
+tumultus | 3 | technical, a sudden domestic uprising or civil emergency, as distinct from a foreign war
+tumultus | 4 | figuratively, disturbance, agitation of mind
+tumulus | 1 | mound
+tumulus | 3 | specifically, a burial mound, a tumulus
+tunc | 1 | then
+tunc | 3 | near-synonym of tum, more frequent in post-Augustan prose
+tundo | 1 | pound
+tundo | 3 | figuratively, to din, pester, importune, by repetition
+tunica | 1 | tunic
+tunica | 3 | transferred, a covering, membrane, husk, peel
+tunico | 1 | clothe
+tunico | 3 | as an adjective (tunicatus), tunic-clad; of the common people
+turarius | 1 | of frankincense
+turarius | 3 | as a noun, a frankincense-dealer
+turbatio | 1 | confusion
+turbator | 1 | troublemaker
+turbidus | 1 | wild
+turbidus | 3 | of fluids, muddy, turbid
+turbidus | 4 | figuratively, troubled, disturbed, agitated, perplexed
+turbo1 | 1 | disturb
+turbo1 | 3 | military, to throw into disorder, break a battle-line
+turbo1 | 4 | of water, to make muddy, roil
+turbo2 | 1 | whirlwind
+turbo2 | 3 | a spinning-top, a toy top
+turbo2 | 4 | transferred, a whirling motion, a whirl, rotation
+turbulentus | 1 | turbulent
+turbulentus | 3 | of persons, causing trouble, factious, seditious
+turdus | 1 | thrush
+turdus | 3 | transferred, a kind of fish, a sea-bream
+turgeo | 1 | swell
+turgeo | 3 | figuratively, to swell with anger, be enraged
+turgeo | 4 | of speech, to be inflated, turgid, bombastic
+turgesco | 1 | swell up
+turgesco | 3 | figuratively, to swell with passion or anger
+turgidus | 1 | swollen
+turgidus | 3 | of speech, inflated, turgid, bombastic
+turifer | 1 | incense-bearing
+turifico | 1 | burn incense
+turma | 1 | squadron
+turma | 3 | transferred, a troop, crowd, throng, band, in general
+turmalis | 1 | of squadrons
+turmalis | 3 | as a noun (turmales), members of one's own troop or squadron
+turmatim | 1 | by squadrons
+turpis | 1 | shameful
+turpis | 3 | literal, ugly, unsightly, foul
+turpitudo | 1 | disgrace
+turpitudo | 3 | literal, very rare, ugliness, unsightliness
+turpo | 1 | disfigure
+turpo | 3 | figuratively, to dishonor, disgrace
+turriger | 1 | turreted
+turriger | 3 | as an epithet of Cybele, turret-crowned
+turritus | 1 | turreted
+turritus | 3 | transferred, towering, lofty, high
+turtur | 1 | turtledove
+tus | 1 | incense
+tussis | 1 | cough
+tutela | 1 | protection
+tutela | 3 | legal, guardianship, the office of a guardian
+tutela | 4 | concretely, a guardian, protector, a person or a tutelary deity
+tutela | 5 | a ward, a person or thing under guardianship
+tutelaris | 1 | tutelary
+tutor1 | 1 | guardian
+tutor1 | 3 | in general, rare, a protector, defender
+tutor2 | 1 | guard
+tutor2 | 3 | transferred, to ward off, avert an evil
+tuus | 1 | your
+tuus | 3 | pregnant sense, favorable, auspicious, right for you, of time or occasion
