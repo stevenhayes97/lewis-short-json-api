@@ -253,7 +253,7 @@ sapor | 4 | concretely, a delicacy, dainty
 sapor | 5 | figuratively, of style, taste, elegance
 sapsa | 1 | own
 sarcina | 1 | pack
-sarcina | 3 | figuratively (Ovid.), a burden of cares, troubles
+sarcina | 3 | figuratively, a burden of cares, troubles
 sarcinula | 1 | bundle
 sarcio | 1 | mend
 sarcio | 3 | figuratively, to make good, to make amends for a loss
@@ -362,10 +362,10 @@ scelero | 4 | as an adjective (sceleratus), hurtful, unlucky, calamitous
 scelerosus | 1 | wicked
 scelestus | 1 | wicked
 scelestus | 3 | as a noun, a scoundrel, a rogue
-scelestus | 4 | transferred (Plautus), unlucky, unfortunate, calamitous
+scelestus | 4 | transferred, unlucky, unfortunate, calamitous
 scelus | 1 | crime
 scelus | 3 | concretely, as a term of abuse, a scoundrel, a villain
-scelus | 4 | transferred (Plautus, Terence), a misfortune, a calamity
+scelus | 4 | transferred, a misfortune, a calamity
 schistos | 1 | fissile
 scholaris | 1 | scholastic
 scholaris | 3 | as a noun, the imperial guard
@@ -524,7 +524,7 @@ secubo | 3 | in general, to live alone, in solitude
 secundanus | 1 | second
 secundanus | 3 | as a noun (plural), soldiers of the second legion
 secundarius | 1 | second-rate
-secundarius | 3 | of abstract things (Cicero), a secondary consideration or point
+secundarius | 3 | of abstract things, a secondary consideration or point
 secundo1 | 1 | secondly
 secundo1 | 3 | for the second time
 secundo1 | 4 | twice
@@ -637,7 +637,7 @@ semimas | 1 | hermaphrodite
 semimas | 3 | transferred, castrated, emasculated
 seminalis | 1 | seminal
 seminarius | 1 | nursery
-seminarius | 3 | figuratively (Cicero), a breeding-ground, a source
+seminarius | 3 | figuratively, a breeding-ground, a source
 seminecis | 1 | half-dead
 semino | 1 | sow
 semino | 3 | transferred, to beget, to engender
@@ -681,7 +681,7 @@ senatus | 3 | figuratively (rare), a council, a consultation
 senectus1 | 1 | aged
 senectus1 | 3 | as a noun (senecta), old age
 senectus1 | 4 | as a noun (senecta), an old man
-senectus1 | 5 | as a noun (senecta), in Pliny, the cast-off skin of a serpent
+senectus1 | 5 | as a noun (senecta), the cast-off skin of a serpent
 senectus2 | 1 | old age
 senectus2 | 3 | personified, Old Age, as a goddess
 senectus2 | 4 | transferred, old men, collectively
@@ -725,7 +725,7 @@ sentio | 2 | think
 sentio | 3 | to perceive the ill effects of something, to suffer, undergo
 sentio | 4 | political and legal, to give one's opinion, to vote, to declare
 sentis1 | 1 | bramble
-sentis1 | 3 | transferred (Plautus), of thievish hands, briers
+sentis1 | 3 | transferred, of thievish hands, briers
 sentus | 1 | thorny
 seorsus | 1 | apart
 seorsus | 3 | as an adjective (rare), separate, sundered
@@ -1095,7 +1095,7 @@ socer | 3 | transferred, a co-father-in-law, the father-in-law of one's child
 sociabilis | 1 | sociable
 socialis | 1 | allied
 socialis | 3 | in general, sociable, companionable
-socialis | 4 | in Ovid (poetic), of marriage, conjugal, nuptial
+socialis | 4 | poetic, of marriage, conjugal, nuptial
 societas | 1 | association
 societas | 3 | specifically, a business partnership
 societas | 4 | specifically, a political alliance, a league
@@ -1700,7 +1700,7 @@ subjectio | 5 | rhetorical, an answer an orator supplies to his own question
 subjecto | 1 | place under
 subjugo | 1 | subjugate
 subjugus | 1 | yoked
-subjugus | 3 | as a noun (subjugum), the name of an unidentified animal, in Pliny
+subjugus | 3 | as a noun (subjugum), the name of an unidentified animal
 subjungo | 1 | yoke
 subjungo | 2 | subjugate
 subjungo | 3 | to join, to add, to annex, to subjoin
