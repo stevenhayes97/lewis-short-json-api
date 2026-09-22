@@ -546,7 +546,7 @@ torreo | 4 | poetic, of love, to inflame, burn with passion
 torreo | 5 | as an adjective (torrens), rushing, roaring, of a stream
 torreo | 6 | as a noun (torrens), a torrent; figuratively, a rushing flow of eloquence
 torridus | 1 | parched
-torridus | 3 | transferred, of cold, pinched, nipped, shriveled
+torridus | 3 | transferred, of cold, pinched, nipped, shrivelled
 tortor | 1 | torturer
 tortuosus | 1 | tortuous
 tortuosus | 3 | figuratively, entangled, involved, complicated, confused
