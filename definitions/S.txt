@@ -698,7 +698,7 @@ senex | 1 | old man
 senex | 3 | as an adjective, old, aged
 seni | 1 | six each
 seni | 3 | transferred, six
-senilis | 1 | senile
+senilis | 1 | aged
 senium | 1 | decay
 senium | 2 | moroseness
 senium | 3 | concretely (rare, term of abuse), an old man, an old fellow
