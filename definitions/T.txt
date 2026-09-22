@@ -46,6 +46,7 @@ tabularius1 | 3 | a public notary or scrivener
 tabulatus | 1 | floored
 tabulatus | 3 | as a noun (tabulatum), a floor, story of a building
 tabulatus | 4 | transferred, a layer or row (of branches, grapes)
+# review: tabulinum "terrace" follows L&S's order (one Varro cite); a reader meets the tablinum as the record-room of a Roman house, rank 3 — consider leading with it
 tabulinum | 1 | terrace
 tabulinum | 3 | a room for family records, archives
 tabulinum | 4 | a picture-gallery
