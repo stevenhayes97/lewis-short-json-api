@@ -85,7 +85,8 @@ uncus2 | 1 | hooked
 unda | 1 | wave
 unda | 3 | transferred, water, a liquid, fluid, in general
 unda | 4 | figuratively, a surge, stream, tide, throng, of a crowd or of troubles
-unde | 1 | whence
+unde | 1 | from where
+unde | 2 | whence
 unde | 3 | transferred, from whom, from which, as a source or cause
 undecumque | 1 | from wherever
 undeni | 1 | eleven each

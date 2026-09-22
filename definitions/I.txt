@@ -148,7 +148,8 @@ illigo | 1 | bind
 illigo | 3 | to fetter, entangle, impede, hinder free movement
 illigo | 4 | figurative, to attach, connect, or bind together, as words or ideas
 illigo | 5 | figurative, to bind someone under obligation, to entangle in debt or difficulty
-illinc | 1 | thence
+illinc | 1 | from there
+illinc | 2 | thence
 illinc | 3 | transferred, from that person or thing, from that quarter, on that side
 illino | 1 | smear
 illino | 3 | to apply an ointment or medicine to a surface
@@ -969,7 +970,8 @@ indago1 | 4 | trop., to hunt for, strive to obtain something
 indago2 | 1 | encirclement
 indago2 | 3 | transferred, a military encirclement of the enemy
 indago2 | 4 | trop., an investigation, a searching into
-inde | 1 | thence
+inde | 1 | from there
+inde | 2 | thence
 inde | 3 | of things or causes, from that, hence
 inde | 4 | of time, from that time onward, since then
 inde | 5 | of time, after that, thereupon, then
@@ -1001,9 +1003,10 @@ indico2 | 3 | especially, to appoint a place or date for a gathering
 indico2 | 4 | to impose, enjoin, inflict, as a tax or penalty
 indictus2 | 1 | unsaid
 indictus2 | 3 | post-classical, unspeakable, ineffable
-indidem | 1 | thence
-indidem | 3 | from that same place, previously mentioned
-indidem | 4 | from that same source or matter
+# review: indidem "thence" dropped the sameness that is the whole word; "from the same place" kept at four words
+indidem | 1 | from the same place
+indidem | 2 | thence
+indidem | 3 | from that same source or matter
 indifferens | 1 | indifferent
 indifferens | 3 | philosophical term, of Stoic ethics, neither good nor evil, morally neutral
 indifferens | 4 | grammatical, of a syllable, doubtful, able to be long or short
@@ -2336,12 +2339,15 @@ iste | 3 | often with scorn or contempt, that wretched, that so-called
 istic1 | 1 | that
 istic2 | 1 | there
 istic2 | 3 | transferred, in this matter, in this affair
-istim | 1 | thither
+istim | 1 | there
+istim | 2 | thither
 istinc | 1 | from there
 istinc | 3 | transferred, of that thing, from that matter
 istiusmodi | 1 | such
-isto | 1 | thither
-istuc | 1 | thither
+isto | 1 | there
+isto | 2 | thither
+istuc | 1 | there
+istuc | 2 | thither
 istuc | 3 | transferred, to that point, to that subject
 ita | 1 | thus
 ita | 2 | yes

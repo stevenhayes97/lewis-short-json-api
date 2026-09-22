@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 85 of 113 settled.
+Progress: 85 of 114 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -151,6 +151,10 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `perendinus` r1 "after tomorrow" — tightened to "after tomorrow", L&S's own gloss, and flag dropped; "occurring" was padding
 - [x] `pollingo` r1 "lay out" — tightened to "lay out" and flag dropped; laying out is exactly preparing a corpse in English, and the washing is at rank 3
 - [x] `pridie` r1 "the day before" — accepted, and ranks 3-4 added for the accusative and pridie quam constructions; an adverb with no shorter English
+
+## I.txt, added with the archaic-adverb change (1)
+
+- [ ] `indidem` r1 "from the same place" — "thence" dropped the sameness that is the whole word; "from the same place" kept at four words
 
 ## Q.txt (10)
 
