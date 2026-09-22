@@ -240,7 +240,7 @@ venator | 1 | hunter
 venator | 3 | one who fights wild beasts in the arena
 venatus | 1 | hunting
 venatus | 3 | transferred, game
-vendibilis | 1 | salable
+vendibilis | 1 | saleable
 vendibilis | 2 | popular
 venditatio | 1 | boasting
 venditio | 1 | sale
