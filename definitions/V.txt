@@ -877,3 +877,28 @@ vomica | 1 | abscess
 vomica | 2 | plague
 vomitio | 1 | vomiting
 vomitio | 2 | vomit
+vomitorius | 1 | emetic
+vomitorius | 3 | as a plural noun, vomitoria, the entrance passages of a theatre or amphitheatre
+vomitus | 1 | vomiting
+vomitus | 2 | vomit
+vomo | 1 | vomit
+vomo | 2 | pour forth
+vorago | 1 | abyss
+vorago | 3 | figuratively, a person who squanders wealth, a spendthrift
+vorax | 1 | voracious
+vorax | 2 | destructive
+voro | 1 | devour
+voro | 2 | squander
+voro | 3 | figuratively, pursue eagerly, devour with enthusiasm, such as reading
+votivus | 1 | votive
+votivus | 2 | longed-for
+votum | 1 | vow
+votum | 2 | wish
+votum | 3 | a votive offering, something dedicated in fulfilment of a vow
+votum | 4 | post-classical, a marriage vow, a betrothal
+voveo | 1 | vow
+voveo | 2 | wish
+vox | 1 | voice
+vox | 2 | word
+vox | 3 | speech, language in general
+vox | 4 | accent, pronunciation
