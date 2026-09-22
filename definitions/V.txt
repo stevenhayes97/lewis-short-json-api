@@ -347,3 +347,23 @@ vermino | 2 | ache
 verna | 1 | native slave
 verna | 3 | transferred, a native of a place, not necessarily a slave
 verna | 4 | as an adjective, native, local, home-grown
+vernaculus | 1 | native
+vernaculus | 3 | as a noun, a household jester or buffoon
+vernilis | 1 | servile
+vernilis | 2 | waggish
+verno | 1 | bloom
+verno | 3 | figuratively, be young, fresh, or vigorous
+vernula | 1 | young slave
+vernula | 3 | transferred, native, indigenous, home-grown
+vernus2 | 1 | spring
+verres1 | 1 | boar-pig
+verro | 1 | sweep
+verro | 3 | sweep along, drive, impel, of wind or waves
+verro | 4 | sweep away, carry off, drag away
+verruca | 1 | wart
+verruca | 3 | archaic, a steep place, a height
+verruca | 4 | figuratively, a slight fault, a minor blemish
+versabilis | 1 | movable
+versabilis | 2 | changeable
+versatilis | 1 | revolving
+versatilis | 2 | versatile
