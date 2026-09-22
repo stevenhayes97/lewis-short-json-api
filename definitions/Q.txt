@@ -148,6 +148,7 @@ quam | 3 | tam ... quam, as ... as; so ... as
 quam | 4 | quam ... tam, the more ... the more, with comparatives
 quam | 5 | after words of number or quantity, as much as: dimidium quam quod, half as much as
 quam | 6 | intensive, exceedingly, very, indeed: quam saevus est, he is extremely cruel
+quam | 7 | with a superlative, as ... as possible: quam celerrime, as quickly as possible
 quamdiu | 1 | how long
 quamdiu | 3 | relative, as long as, while, until
 quamlibet | 1 | however
