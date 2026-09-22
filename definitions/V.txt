@@ -497,3 +497,25 @@ vexillum | 3 | transferred, the troop of soldiers belonging to a standard, a com
 vexo | 1 | harass
 vexo | 2 | damage
 vexo | 3 | literally, rare, shake, jolt, toss violently
+via | 1 | road
+via | 2 | way
+via | 3 | a march, a journey
+viaticus | 1 | travel funds
+viaticus | 3 | money saved by a soldier, prize money from military service
+viator | 1 | traveller
+viator | 2 | summoner
+viatorius | 1 | travel
+viatorius | 3 | of or belonging to summoners, official messengers
+vibro | 1 | brandish
+vibro | 2 | vibrate
+vibro | 3 | hurl, launch, throw with vibratory force
+vibro | 4 | glimmer, glitter, gleam
+vicanus | 1 | village
+vicanus | 3 | as a noun, villagers, peasants
+vicarius | 1 | vicarious
+vicarius | 2 | substitute
+vicenarius | 1 | twenty
+vicenarius | 3 | as a noun, a youth of twenty years old
+viceni | 1 | twenty each
+vicesimus | 1 | twentieth
+vicesimus | 3 | as a noun, the twentieth part, a five percent tax
