@@ -602,3 +602,27 @@ vimen | 1 | withe
 vimen | 3 | woven work, especially a basket
 viminalis | 1 | osier
 viminalis | 3 | Viminalis Collis, the Viminal Hill, one of the seven hills of Rome
+vinaceus | 1 | grape
+vinaceus | 3 | as a noun, a grape-stone or grape-skin
+vinalis | 1 | wine
+vinalis | 3 | as a plural noun, Vinalia, the Roman wine festival
+vinarius | 1 | wine
+vinarius | 3 | as a noun, a wine-dealer, a vintner
+vinarius | 4 | as a neuter noun, a wine-flask or wine-jar
+vincio | 1 | bind
+vincio | 3 | figuratively, fetter, restrain, hold fast, emotionally or morally
+vinco | 1 | conquer
+vinco | 2 | surpass
+vinco | 3 | in a lawsuit, win, be successful
+vinco | 4 | prove, demonstrate conclusively
+vinco | 5 | outlast, survive
+vinculum | 1 | bond
+vinculum | 3 | plural, chains, fetters, hence imprisonment
+vindemia | 1 | vintage
+vindemia | 3 | transferred, the harvest of other things, such as olives or honey
+vindemiator | 1 | vintager
+vindemiator | 3 | astronomical, a star in the constellation Virgo
+vindex | 1 | defender
+vindex | 2 | avenger
+vindicatio | 1 | legal claim
+vindicatio | 2 | vindication
