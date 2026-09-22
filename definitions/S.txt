@@ -1886,8 +1886,8 @@ succido2 | 1 | fell
 succiduus | 1 | sinking
 succiduus | 3 | figuratively, faltering, trembling, of speech
 succingo | 1 | gird
-succingo | 2 | succinct
 succingo | 3 | transferred, to surround, to equip, to furnish with something
+succingo | 4 | as a participle (succinctus), girded up, ready for action; also brief, concise
 succino | 1 | accompany
 succino | 3 | transferred, to accord, to agree, to chime in
 succlamo | 1 | shout back
