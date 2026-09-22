@@ -449,3 +449,27 @@ vestio | 1 | clothe
 vestio | 2 | cover
 vestio | 3 | figuratively, adorn or embellish, of plain thoughts with rich language
 vestio | 4 | rare, invest with the imperial purple, make emperor
+vestis | 1 | clothing
+vestis | 2 | tapestry
+vestis | 3 | mutare vestem, to put on mourning clothes
+vestis | 4 | poetic, any covering, such as a serpent's skin or a spider's web
+vestitus2 | 1 | clothing
+vestitus2 | 3 | transferred, covering, of inanimate things
+vestitus2 | 4 | figuratively, of oratory, style, verbal dress
+veteranus | 1 | veteran
+veteranus | 2 | experienced
+veterasco | 1 | age
+veterator | 1 | expert
+veterator | 2 | old fox
+veterator | 3 | an old slave, as opposed to a newly bought one
+veteratorius | 1 | crafty
+veterinarius | 1 | veterinary
+veterinarius | 3 | as a noun, a veterinarian, an animal doctor
+veterinus | 1 | draught
+veterinus | 3 | as a noun, draught-cattle, beasts of burden
+veternosus | 1 | lethargic
+veternosus | 3 | figuratively, languid, spiritless, sluggish
+veternus1 | 1 | lethargy
+veternus1 | 2 | sloth
+veternus1 | 3 | post-classical, as an adjective, old, ancient
+veternus1 | 4 | rarely, old age; also, old filth or dirt
