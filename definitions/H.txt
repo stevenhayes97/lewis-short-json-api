@@ -46,7 +46,8 @@ habitus2 | 4 | dress, attire, costume, Augustan and later
 habitus2 | 5 | trop., quality, nature, character
 habitus2 | 6 | a disposition of feeling, friendly or hostile, toward someone
 habitus2 | 7 | in philosophy, an acquired settled condition or trait
-hactenus | 1 | hitherto
+hactenus | 1 | so far
+hactenus | 2 | hitherto
 hactenus | 3 | of space, to this point, thus far
 hactenus | 4 | of a discourse, thus far, no further than this, a formula of transition
 hactenus | 5 | of time, up to now, until now
@@ -228,8 +229,9 @@ hillae | 3 | specifically, the smaller intestines of animals
 hillae | 4 | a kind of smoked sausage
 hilum | 1 | trifle
 hilum | 3 | usually with a negative: nihil...hilum, not the least bit, nothing at all
-hinc | 1 | hence
-hinc | 3 | of space, from this place, from here
+hinc | 1 | from here
+hinc | 2 | hence
+hinc | 3 | of space, from this place, away from here
 hinc | 4 | of cause, from this source, on this account, hence
 hinc | 5 | of time, from this time on, hereafter, post-Augustan
 hinc | 6 | for abhinc, ago, since: hinc ducentos annos, two hundred years ago
@@ -405,7 +407,8 @@ hostis | 1 | enemy
 hostis | 3 | originally, a stranger, a foreigner
 hostis | 4 | a public enemy, an enemy of the state, as opposed to inimicus, a personal enemy
 hostis | 5 | transferred, poetic, of an animal or thing, a foe, a destroyer
-huc | 1 | hither
+huc | 1 | here
+huc | 2 | hither
 huc | 3 | transferred, to this point, so far, to such an extent
 huc | 4 | huc illuc, hither and thither, this way and that
 huc | 5 | huc usque, hucusque, hitherto, thus far

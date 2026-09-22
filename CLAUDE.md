@@ -193,6 +193,15 @@ rediscovered each chunk. None is a defect in an individual line.
   equivalent. Precedent is to pick the closest single word and carry the real
   sense at rank 3 — `advesperascit | 1 | darkens`, `adusque | 1 | unto`,
   `acervatim | 1 | wholesale`.
+- **Archaic adverbs go to rank 2, not rank 1.** Where a plain modern English
+  equivalent exists, it takes rank 1 and the archaic word (*whither*, *whence*,
+  *thither*, *hither*, *thence*, *hence*, *hitherto*) sits at rank 2:
+  `quo | 1 | where to`, `quo | 2 | whither`; `unde | 1 | from where`,
+  `unde | 2 | whence`. This is a deliberate exception to "rank 2 must be a
+  distinct meaning": the archaic word keeps the direction that the modern
+  gloss can blur (*here* for `huc` does not say "to here"). Keep the archaic
+  word at rank 1 only when no modern equivalent is better; *thus* (`ita`,
+  `sic`) is still current English and stays.
 - **Spelling and orthography.** The definition text is British English
   (`honour`, `colour`, `recognise`). Latin illustrations follow the source's
   `j` convention, matching the keys: `injuria`, `jus`, `adjicere` — not

@@ -68,7 +68,7 @@ valeo | 5 | vale, farewell, goodbye, used in greeting or leave-taking
 valeo | 6 | be valid or in effect, of laws, arguments, or contracts
 valeo | 7 | of money, be worth
 valeo | 8 | of words, mean, signify
-valesco | 1 | strengthen
+valesco | 1 | grow strong
 valetudinarius | 1 | sickly
 valetudinarius | 3 | as a noun, an invalid, a person in poor health
 valetudinarius | 4 | as a neuter noun, a hospital, infirmary, especially for the army
@@ -240,7 +240,7 @@ venator | 1 | hunter
 venator | 3 | one who fights wild beasts in the arena
 venatus | 1 | hunting
 venatus | 3 | transferred, game
-vendibilis | 1 | salable
+vendibilis | 1 | saleable
 vendibilis | 2 | popular
 venditatio | 1 | boasting
 venditio | 1 | sale
@@ -418,6 +418,7 @@ vesanus | 1 | mad
 vesanus | 2 | raging
 vescor | 1 | eat
 vescor | 2 | enjoy
+vescor | 3 | usually with the ablative of the food, to feed on, live on
 vesculus | 1 | trifling
 vescus | 1 | weak
 vescus | 2 | corroding
@@ -512,8 +513,8 @@ vibro | 3 | hurl, launch, throw with vibratory force
 vibro | 4 | glimmer, glitter, gleam
 vicanus | 1 | village
 vicanus | 3 | as a noun, villagers, peasants
-vicarius | 1 | vicarious
-vicarius | 2 | substitute
+vicarius | 1 | substitute
+vicarius | 3 | as a noun, a substitute, deputy, proxy: succedam ego vicarius tuo muneri, I will take over your duty as your deputy
 vicenarius | 1 | twenty
 vicenarius | 3 | as a noun, a youth of twenty years old
 viceni | 1 | twenty each
@@ -580,8 +581,8 @@ vigilia | 4 | a religious vigil, a nightly festival watch
 vigilo | 1 | stay awake
 vigilo | 2 | be vigilant
 viginti | 1 | twenty
-# review: vigintiviri a specific Roman board of twenty officials; no shorter accurate gloss exists
-vigintiviri | 1 | a board of twenty officials
+# review: vigintiviri a Roman board of twenty officials; "board of twenty" kept at three words, English having no name for it
+vigintiviri | 1 | board of twenty
 vigor | 1 | vigour
 vilico1 | 1 | oversee
 vilico1 | 3 | transferred, live or reside in the country

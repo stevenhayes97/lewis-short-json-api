@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 85 of 85 settled.
+Progress: 85 of 114 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -151,6 +151,56 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `perendinus` r1 "after tomorrow" — tightened to "after tomorrow", L&S's own gloss, and flag dropped; "occurring" was padding
 - [x] `pollingo` r1 "lay out" — tightened to "lay out" and flag dropped; laying out is exactly preparing a corpse in English, and the washing is at rank 3
 - [x] `pridie` r1 "the day before" — accepted, and ranks 3-4 added for the accusative and pridie quam constructions; an adverb with no shorter English
+
+## I.txt, added with the archaic-adverb change (1)
+
+- [ ] `indidem` r1 "from the same place" — "thence" dropped the sameness that is the whole word; "from the same place" kept at four words
+
+## Q.txt (10)
+
+- [ ] `quadrantarius` r1 "of a quarter" — 'of a quarter' kept at three words; 'quarter' alone would read as the noun, not the adjective
+- [ ] `quadrigae` r1 "four-horse team" — 'four-horse team' kept at three words; 'chariot' alone would blur the team with the vehicle it draws
+- [ ] `quadringenarius` r1 "of four hundred" — 'of four hundred' kept at three words; hyphenating to 'four-hundred' would misrepresent it as a compound number rather than 'consisting of 400 each'
+- [ ] `qualis` r1 "what kind of" — 'what kind of' kept at three words; 'such' alone loses the interrogative use, and one word cannot cover both the interrogative and relative senses
+- [ ] `quamprimum` r1 "as soon as possible" — "promptly" was vaguer than the word; English has no shorter equivalent
+- [ ] `quin` r1 "why not" — "why not" is the original direct question; learners mostly meet quin as "that, but that" after negated doubt (rank 3) — consider which leads
+- [ ] `quintanus` r1 "of the fifth" — 'of the fifth' kept at three words; 'fifth' alone would collide with the ordinal quintus and lose the sense of 'in a series'
+- [ ] `quodammodo` r1 "in a way" — "somewhat" suggested degree where the word means manner; "in a way" kept at three words
+- [ ] `quotumus` r1 "which in number" — 'which in number' kept at three words; this rare interrogative asks for a position in a series (the "how-manyeth" day), which English has no single word for
+- [ ] `quotus` r1 "which in number" — 'which in number' kept at three words, matching quotumus; English has no single word asking for a position in a series
+
+## R.txt (4)
+
+- [ ] `recharmido` r1 "unmask" — is a nonce word coined by Plautus, a burlesque pun on the character name Charmides meaning "to stop being Charmides"; 'unmask' captures the sense of dropping an assumed identity, not a literal translation
+- [ ] `reliquor` r1 "be in arrears" — 'be in arrears' kept at three words; 'owe' alone loses the technical sense of an outstanding balance left after an accounting
+- [ ] `repeto` r1 "repeat" — "repeat" is the English cognate, but a reader mostly meets repeto as return to, demand back, or recall (ranks 2, 4, 5) — consider which leads
+- [ ] `repromitto` r1 "promise in return" — "promise back" was not idiomatic English; "promise in return" is the entry's own gloss, kept at three words
+
+## S.txt (7)
+
+- [ ] `sescenteni` r1 "six hundred each" — distributive; "six hundred each" kept at three words, matching treceni
+- [ ] `sescenties` r1 "six hundred times" — "six hundred times" kept at three words; the hyphen in "six-hundred" was only hiding the count
+- [ ] `sesquiplaris` r1 "ration-and-a-half soldier" — a soldier on pay and a half; the hyphenated compound reads as two words but English has no name for the rank
+- [ ] `simul` r1 "at the same time" — "at once" reads as "immediately" in British English; "at the same time" kept at four words
+- [ ] `spica` r1 "ear of grain" — "ear" alone reads as the body part; kept at three words
+- [ ] `statuliber` r1 "conditionally-freed slave" — a slave freed under a will once a condition is met; "conditionally-freed slave" is three words hyphenated into two
+- [ ] `suovetaurilia` r1 "pig-sheep-bull sacrifice" — a sacrifice of a pig, a sheep and a bull; the hyphenated compound is really four words, and English has no name for the rite
+
+## T.txt (3)
+
+- [ ] `tabulinum` r1 "terrace" — "terrace" follows L&S's order (one Varro cite); a reader meets the tablinum as the record-room of a Roman house, rank 3 — consider leading with it
+- [ ] `tertio2` r1 "do a third time" — no single English verb covers "do again for the third time"; keeping the literal gloss
+- [ ] `treceni` r1 "three hundred each" — no two-word English phrase captures the distributive "three hundred each"
+
+## U.txt (3)
+
+- [ ] `usucapio1` r1 "acquire by prescription" — legal term for acquiring ownership through long possession; no single English verb exists
+- [ ] `utrimque` r1 "on both sides" — adverb meaning "from both sides"; no one-word English equivalent captures the directional sense
+- [ ] `utrobique` r1 "on both sides" — adverb meaning "on both sides", a synonym of utrimque; no one-word English equivalent
+
+## V.txt (1)
+
+- [ ] `vigintiviri` r1 "board of twenty" — a Roman board of twenty officials; "board of twenty" kept at three words, English having no name for it
 
 ## Wider problems found in the scan, not yet fixed
 

@@ -3937,7 +3937,9 @@ cudo1 | 1 | pound
 cudo1 | 2 | mint
 cudo1 | 3 | trop., to concoct or contrive, as a deception
 cuicuimodi | 1 | whatsoever
-cujas | 1 | whence
+cujas | 1 | from where
+cujas | 2 | whence
+cujas | 3 | of what country, town, or family, asking someone's origin
 cujus1 | 1 | whose
 cujus2 | 1 | whose
 culcita | 1 | cushion

@@ -43,7 +43,7 @@ ululo | 3 | transitively, to wail over, bewail; to fill a place with howling
 umbilicus | 1 | navel
 umbilicus | 3 | transferred, the middle, centre
 umbilicus | 4 | the roller-end of a papyrus scroll; ad umbilicum, to the end of a book
-umbo | 1 | boss
+umbo | 1 | shield-boss
 umbo | 3 | transferred, a shield
 umbo | 4 | the elbow
 umbra | 1 | shadow
@@ -85,7 +85,8 @@ uncus2 | 1 | hooked
 unda | 1 | wave
 unda | 3 | transferred, water, a liquid, fluid, in general
 unda | 4 | figuratively, a surge, stream, tide, throng, of a crowd or of troubles
-unde | 1 | whence
+unde | 1 | from where
+unde | 2 | whence
 unde | 3 | transferred, from whom, from which, as a source or cause
 undecumque | 1 | from wherever
 undeni | 1 | eleven each
@@ -113,9 +114,9 @@ unicus | 3 | figuratively, singular, unparalleled, unique
 uniformis | 1 | uniform
 unigena | 1 | only-begotten
 unigena | 3 | poetic, born of the same parent, a sibling
-unio2 | 1 | unity
-unio2 | 3 | transferred, concretely, a single large pearl
-unio2 | 4 | transferred, concretely, a kind of onion
+unio2 | 1 | pearl
+unio2 | 3 | late and ecclesiastical Latin, oneness, unity, union
+unio2 | 4 | a kind of single onion
 unitas | 1 | unity
 unitas | 3 | figuratively, agreement, concord, of sentiment
 universitas | 1 | totality
@@ -226,7 +227,7 @@ ut | 5 | with the subjunctive, expressing purpose, in order that, so that
 ut | 6 | with the subjunctive, expressing result, so that, with the result that
 ut | 7 | concessive, granting that, even if, although
 ut | 8 | ut non, without doing something
-ut | 9 | after verbs of fearing, that, lest
+ut | 9 | after verbs of fearing, that ... not: timeo ut veniat, I am afraid he will not come
 utcumque | 1 | however
 utcumque | 3 | at whatever time, whenever
 utensilis | 1 | useful

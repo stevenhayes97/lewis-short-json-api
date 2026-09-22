@@ -466,12 +466,13 @@ eo1 | 5 | mercant: to sell for, fetch (a price)
 eo1 | 6 | of time: to pass, go by
 eo1 | 7 | to turn out, happen, result
 eo1 | 8 | with a supine: to be about to, set about to (do something)
-eo2 | 1 | thither
+eo2 | 1 | there
 eo2 | 2 | therefore
-eo2 | 3 | rare, of place where: there, in that place
-eo2 | 4 | to that end, for that purpose
-eo2 | 5 | to that degree, so far (with comparatives)
-eo2 | 6 | besides, in addition to that
+eo2 | 3 | of motion, to that place, thither
+eo2 | 4 | rare, of place where: there, in that place
+eo2 | 5 | to that end, for that purpose
+eo2 | 6 | to that degree, so far (with comparatives)
+eo2 | 7 | besides, in addition to that
 # review: eodem is the old dat/abl of idem used adverbially; no single word covers "to that same place"
 eodem | 1 | to the same place
 eodem | 3 | of place where (rare): in the same place

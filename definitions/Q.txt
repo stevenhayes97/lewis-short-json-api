@@ -13,7 +13,7 @@ quadantenus | 3 | to a certain point or limit, so far
 quadantenus | 4 | transferred, to a certain extent, in some measure
 quadra1 | 1 | table
 quadra1 | 2 | morsel
-quadra1 | 3 | broadly, a square shape, the general notion behind the specific uses
+quadra1 | 3 | broadly, a square, a square piece or shape
 quadra1 | 4 | in architecture, the base or plinth of a pedestal, or a small moulding separating larger members
 quadragenarius | 1 | of forty
 quadragenarius | 3 | consisting of or holding forty: dolium quadragenarium, a cask holding forty congii; fistula quadragenaria, a forty-inch pipe
@@ -148,6 +148,7 @@ quam | 3 | tam ... quam, as ... as; so ... as
 quam | 4 | quam ... tam, the more ... the more, with comparatives
 quam | 5 | after words of number or quantity, as much as: dimidium quam quod, half as much as
 quam | 6 | intensive, exceedingly, very, indeed: quam saevus est, he is extremely cruel
+quam | 7 | with a superlative, as ... as possible: quam celerrime, as quickly as possible
 quamdiu | 1 | how long
 quamdiu | 3 | relative, as long as, while, until
 quamlibet | 1 | however
@@ -158,8 +159,9 @@ quamobrem | 3 | relative, for which reason, wherefore, on account of which
 quamobrem | 4 | as a transitional particle beginning a sentence, wherefore, for this reason
 quamplures | 1 | many
 quamplures | 3 | very many, a great many
-quamprimum | 1 | promptly
-quamprimum | 3 | as soon as possible, at the earliest opportunity
+# review: quamprimum "promptly" was vaguer than the word; English has no shorter equivalent
+quamprimum | 1 | as soon as possible
+quamprimum | 3 | at the earliest opportunity, immediately
 quamquam | 1 | although
 quamquam | 3 | as a rhetorical transition particle, however, yet, nevertheless, introducing an objection or reservation
 quamvis | 1 | although
@@ -297,19 +299,20 @@ quidem | 3 | ne ... quidem, not even
 quidem | 4 | at least, certainly, in truth
 quidem | 5 | introducing an example, for instance, for example
 quies1 | 1 | rest
-quies1 | 3 | political or military neutrality, a quiet, uninvolved life
-quies1 | 4 | sleep, slumber
+quies1 | 3 | sleep, slumber
+quies1 | 4 | political or military neutrality, a quiet, uninvolved life
 quies1 | 5 | euphemistically, the sleep of death
 quies1 | 6 | transferred, a dream
 quies1 | 7 | a lair or resting place of a wild animal
 quiesco | 1 | rest
-quiesco | 3 | politically, to remain neutral, to keep out of a conflict
-quiesco | 4 | to sleep
+quiesco | 3 | to sleep
+quiesco | 4 | politically, to remain neutral, to keep out of a conflict
 quiesco | 5 | of things, to lie still, be calm: flamma quiescit, the fire dies down
 quiesco | 6 | to cease or desist from something: quiesce hanc rem petere, stop seeking this
 quiesco | 7 | to acquiesce in, to peaceably allow something to happen
 quilibet | 1 | anyone
 quilibet | 3 | with a dismissive tone, just anybody, the first person who happens along
+# review: quin "why not" is the original direct question; learners mostly meet quin as "that, but that" after negated doubt (rank 3) — consider which leads
 quin | 1 | why not
 quin | 3 | after negated verbs of doubt or hindrance, that, but that: non dubito quin verum sit, I do not doubt that it is true
 quin | 4 | as a relative particle after a negative, who or that ... not: nemo est quin sciat, there is no one who does not know
@@ -324,7 +327,7 @@ quincuncialis | 3 | in particular, planted in the arrangement of a quincunx, as 
 quincunx | 1 | five-twelfths
 quincunx | 2 | quincunx
 quincunx | 3 | transferred, trees or objects arranged in this pattern, used especially for orchard planting
-quindecimvir | 1 | board member
+quindecimvir | 1 | quindecimvir
 quindecimvir | 3 | specifically, a member of the college of fifteen priests in charge of the Sibylline Books
 quindecimvir | 4 | quindecimviri agris dandis, commissioners for the distribution of public land
 quingenti | 1 | five hundred
@@ -350,7 +353,7 @@ quinqueremis | 1 | quinquereme
 quinqueremis | 3 | as an adjective, having five banks of oars
 quinquertium | 1 | pentathlon
 quinquertium | 3 | the five events: discus, running, jumping, wrestling, and javelin-throwing
-quinquevir | 1 | board member
+quinquevir | 1 | quinquevir
 quinquevir | 3 | specifically, one of various five-man commissions at Rome: for dividing public land, regulating debt, repairing walls, or assisting the night watch
 # review: quintanus 'of the fifth' kept at three words; 'fifth' alone would collide with the ordinal quintus and lose the sense of 'in a series'
 quintanus | 1 | of the fifth
@@ -389,31 +392,34 @@ quisquis | 1 | whoever
 quisquis | 3 | neuter quicquid or quidquid, whatever, anything that
 quivis | 1 | anyone
 quivis | 3 | neuter quidvis, anything you like, whatever you please
-quo | 1 | whither
+quo | 1 | where to
+quo | 2 | whither
 quo | 3 | tropically, to what end, for what purpose, why: quo tantam pecuniam?, why so much money?
 quo | 4 | transferred, to the end that, in order that, so that
 quo | 5 | less commonly, of rest, where: quo loci, in what place
 quo | 6 | causal, for which reason, because: quo aequior sum, for this reason I am more fair
-quo | 7 | indefinite, with si, to any place, anywhither
+quo | 7 | indefinite, with si, to any place, anywhere
 quoad | 1 | until
 quoad | 3 | as long as, while
 quoad | 4 | how far, as far as, to what extent
 quoad | 5 | with respect to, as regards
-quocirca | 1 | wherefore
+quocirca | 1 | therefore
 quocumque | 1 | wherever
 quod1 | 1 | because
 quod1 | 2 | that
 quod1 | 3 | in case that, if so be that: quod si, but if
 quod1 | 4 | although, even if
 quod1 | 5 | with verbs of perceiving or declaring, standing in for an object clause: scio quod amet, I know that he loves
-quodammodo | 1 | somewhat
-quodammodo | 3 | in a certain manner, in a way, so to speak
+# review: quodammodo "somewhat" suggested degree where the word means manner; "in a way" kept at three words
+quodammodo | 1 | in a way
+quodammodo | 3 | in a certain manner, so to speak
 quomodo | 1 | how
 quomodo | 3 | relative, corresponding to sic, in the same way as, just as
 quomodo | 4 | indefinite, for quocumque modo, in whatever way
 quomodocumque | 1 | however
 quomodocumque | 3 | transferred, be that as it may, in any case
-quonam | 1 | whither
+quonam | 1 | where to
+quonam | 2 | whither
 quonam | 3 | how far, to what extent, pray
 quondam | 1 | once
 quondam | 3 | at times, occasionally, sometimes
@@ -425,7 +431,8 @@ quoquam | 3 | equivalent to in aliquam rem, in anything, in any respect
 quoque1 | 1 | also
 quoque1 | 3 | ne ... quoque, not even that
 quoquo | 1 | wherever
-quorsum | 1 | whither
+quorsum | 1 | where to
+quorsum | 2 | whither
 quorsum | 3 | figuratively, to what purpose, to what end, with what aim: quorsum haec disputo?, to what end am I discussing this?
 quot | 1 | how many
 quot | 3 | transferred, in expressions of time: quot diebus, every day; quot annis, every year
