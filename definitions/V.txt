@@ -739,3 +739,30 @@ visus2 | 1 | sight
 visus2 | 2 | apparition
 visus2 | 3 | the organ of sight, the eyes
 visus2 | 4 | appearance, semblance, probability
+vita | 1 | life
+vita | 2 | lifestyle
+vita | 3 | the living, mankind, poetic
+vita | 4 | a biography, an account of someone's life
+vita | 5 | mea vita, my darling, a term of endearment
+vitabundus | 1 | evasive
+vitalis | 1 | vital
+vitalis | 3 | as a plural noun, vitalia, the vital organs
+vitalis | 4 | as a plural noun, vitalia, graveclothes
+vitellus | 1 | yolk
+vitellus | 3 | as a term of endearment, little calf, dear one
+vitilis | 1 | wicker
+vitilis | 3 | as a plural noun, vitilia, wickerwork
+vitio | 1 | corrupt
+vitio | 2 | violate
+vitio | 3 | invalidate, make legally void
+vitiositas | 1 | viciousness
+vitiosus | 1 | faulty
+vitiosus | 2 | vicious
+vitis | 1 | vine
+vitis | 2 | centurion's staff
+vitis | 3 | by extension, the rank or office of centurion
+vitis | 4 | a vine-branch
+vitium | 1 | fault
+vitium | 2 | vice
+vitium | 3 | a defect in the auspices or auguries, invalidating an act
+vitium | 4 | a violation of chastity
