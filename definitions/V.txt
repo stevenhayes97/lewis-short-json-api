@@ -33,3 +33,25 @@ vado1 | 1 | go
 vado1 | 2 | rush
 vado1 | 3 | of a river, flow, run
 vado1 | 4 | transferred, of feelings or fortune, advance, proceed
+vador | 1 | bind over
+vador | 3 | bind someone over by bail to appear in court
+vadosus | 1 | shallow
+vadum | 1 | shallows
+vadum | 2 | ford
+vadum | 3 | transferred, a body of water, the sea
+vadum | 4 | the depths, the bottom of a body of water
+vadum | 5 | in vado esse, to be in a safe position, out of danger
+vadum | 6 | figuratively, shallows as a danger, treacherous ground
+vae | 1 | alas
+vae | 3 | vae misero mihi, woe is me, with dative of the person
+vafer | 1 | crafty
+vagina | 1 | sheath
+vagina | 3 | transferred, the covering or casing of anything
+vagina | 4 | the husk of an ear of grain
+vagina | 5 | the vagina, anatomical
+vagio | 1 | wail
+vagio | 3 | transferred, of loud sounds generally, resound
+vagitus | 1 | wailing
+vago | 1 | wander
+vagor1 | 1 | wander
+vagor1 | 3 | be unsettled or inconstant; spread or circulate widely, of rumour or fame
