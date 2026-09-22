@@ -684,3 +684,30 @@ virgo | 4 | the constellation Virgo
 virgo | 5 | as an adjective, unwedded, pure, untouched, of things
 virgula | 1 | wand
 virgula | 3 | virgula divina, a divining rod
+virgultum | 1 | thicket
+virgultum | 3 | cuttings or slips of trees, for planting
+viridis | 1 | green
+viridis | 2 | youthful
+viriditas | 1 | greenness
+viriditas | 2 | vigour
+virido | 1 | make green
+virido | 3 | intransitive, chiefly as the participle viridans, growing green, verdant
+virilis | 1 | manly
+virilis | 2 | male
+virilis | 3 | virilis pars, an equal share, especially in an inheritance
+virilis | 4 | grammatical, of the masculine gender
+virilitas | 1 | manhood
+virilitas | 3 | manly vigour, manliness of character
+virilitas | 4 | concretely, the male genitals
+viritim | 1 | individually
+virosus2 | 1 | slimy
+virosus2 | 2 | poisonous
+virosus2 | 3 | having a bad odour, stinking, fetid
+virtus | 1 | courage
+virtus | 2 | virtue
+virtus | 3 | excellence, worth, or value, of a person, animal, or thing
+virtus | 4 | personified, Virtue, a Roman deity
+virus | 1 | poison
+virus | 2 | slime
+virus | 3 | an offensive odour, a stench
+virus | 4 | a sharp, salty taste, such as of seawater
