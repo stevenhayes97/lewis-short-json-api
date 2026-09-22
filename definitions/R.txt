@@ -243,7 +243,8 @@ recipio | 8 | recipe ferrum!, receive the death-blow!, the crowd's cry to a defe
 reciprocatio | 1 | reciprocation
 reciprocatio | 3 | literally, an ebb, a going back the same way: reciprocatio aestus, the ebb of the tide
 reciproco | 1 | reciprocate
-reciproco | 3 | figuratively, in logic, to reverse or convert a proposition
+reciproco | 3 | to move back and forth, of the tide, to ebb and flow: fretum reciprocat, the strait rises and falls
+reciproco | 4 | figuratively, in logic, to reverse or convert a proposition
 reciprocus | 1 | reciprocal
 reciprocus | 3 | in grammar, pronomen reciprocum, a reflexive pronoun such as se or sibi
 reciprocus | 4 | a verse that reads the same when its words are reversed, a kind of palindrome
