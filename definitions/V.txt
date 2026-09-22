@@ -833,3 +833,26 @@ volo1 | 3 | intend, mean, purpose
 volo1 | 4 | si vis, please, if you would be so kind
 volo1 | 5 | as an adjective, volens, willing, voluntary
 volo1 | 6 | require, demand, be of the opinion that something should be
+volo2 | 1 | fly
+volo2 | 2 | speed
+volo3 | 1 | volunteer
+volsella | 1 | tweezers
+volubilis | 1 | revolving
+volubilis | 2 | fluent
+volubilis | 3 | of fate or fortune, changeable, fickle
+volubilitas | 1 | whirling
+volubilitas | 2 | fluency
+volubilitas | 3 | of fate, changeableness, fickleness
+volucer | 1 | winged
+volucer | 2 | fleeting
+volucer | 3 | as a noun, volucris, a bird
+volumen | 1 | scroll
+volumen | 2 | coil
+volumen | 3 | a book, a division of a larger work
+voluntarius | 1 | voluntary
+voluntarius | 3 | as a noun, a volunteer, a volunteer soldier
+voluntas | 1 | will
+voluntas | 2 | goodwill
+voluntas | 3 | a last will, a testament
+voluntas | 4 | the meaning or sense of words, post-Augustan
+volup | 1 | pleasantly
