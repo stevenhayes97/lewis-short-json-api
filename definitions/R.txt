@@ -919,10 +919,9 @@ resto | 1 | remain
 resto | 2 | resist
 resto | 3 | with reference to the future, to remain in store for, await someone: quid restat nisi, what remains except
 restringo | 1 | restrain
-restringo | 2 | stingy
 restringo | 3 | literally, to bind fast, tie back tightly: restrictis manibus, with hands bound behind the back
 restringo | 4 | rarely, in a reversed sense, to draw back, bare: dentes restringere, to bare the teeth
-restringo | 5 | as an adjective (restrictus), strict, severe, rigorous
+restringo | 5 | as an adjective (restrictus), close-fisted, stingy; also strict, severe, rigorous
 resulto | 1 | rebound
 resulto | 3 | especially, of sound, to reverberate, echo back: colles resultant clamore, the hills echo with the shout
 resulto | 4 | figuratively, of speech rhythm, to be jerky, to leap and hop
