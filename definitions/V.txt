@@ -188,3 +188,27 @@ vehiculum | 1 | vehicle
 vehiculum | 3 | specifically, a wagon, cart, or rarely a ship
 veho | 1 | carry
 veho | 2 | ride
+vel | 1 | or
+vel | 2 | even
+vel | 3 | vel ... vel, either ... or
+vel | 4 | with superlatives, the very, the utmost
+velamentum | 1 | covering
+velamentum | 2 | pretext
+velamentum | 3 | plural, olive branches bound with wool, carried by suppliants
+veles | 1 | skirmisher
+velifico | 1 | sail
+velificor | 1 | sail
+velificor | 2 | strive
+velificor | 3 | velificari alicui rei, work to achieve or secure something
+velitatio | 1 | bickering
+velitor | 1 | skirmish
+velitor | 3 | figuratively, attack with jests, gibes, or taunts
+velivolus | 1 | sail-winged
+velivolus | 3 | absolutely, of the sea, covered with ships under sail
+vellico | 1 | pinch
+vellico | 2 | taunt
+vellico | 3 | wake up, rouse, stir, of the mind
+vello | 1 | pluck
+vello | 3 | pull or tear down, such as a rampart
+vello | 4 | pick or gather, of fruit
+vello | 5 | pull, twitch, such as an ear
