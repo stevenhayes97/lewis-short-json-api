@@ -2036,7 +2036,7 @@ suovetaurilia | 1 | pig-sheep-bull sacrifice
 supellex | 1 | furniture
 supellex | 3 | figuratively, equipment, outfit, qualification, e.g. of skills or friends
 super11 | 1 | overflow
-super11 | 2 | superfluous
+super11 | 2 | be superfluous
 super13 | 1 | surpass
 super13 | 3 | literally, to step over, to walk over
 super2 | 1 | above
