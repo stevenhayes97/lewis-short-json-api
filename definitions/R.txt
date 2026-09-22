@@ -512,14 +512,17 @@ rego | 8 | in grammar, rectus casus, the nominative case
 rego | 9 | as an adverb (recte), rightly, correctly, well; also as a colloquial reply, "all right!", "fine!"
 regrado | 1 | demote
 regrado | 3 | rarely, to restore to a former arrangement, to rearrange as before
-regredior | 1 | retreat
-regredior | 3 | figuratively, to go back in argument or time: in illum annum regredietur, he will go back to that year
-regredior | 4 | in law, to have recourse to someone: ad venditorem regredi, to have recourse to the seller
-regressio | 1 | retreat
-regressio | 3 | in rhetoric, a figure of repetition, epanodos, returning to a previous word or idea
-regressus2 | 1 | retreat
-regressus2 | 3 | figuratively, a chance to reconsider, a way back from a decision: nullus regressus ab ira, no going back once angry
-regressus2 | 4 | in law, a remedy, recourse: regressus adversus venditorem, recourse against the seller
+regredior | 1 | go back
+regredior | 3 | militarily, to march back, withdraw, retreat
+regredior | 4 | figuratively, to go back in argument or time: in illum annum regredietur, he will go back to that year
+regredior | 5 | in law, to have recourse to someone: ad venditorem regredi, to have recourse to the seller
+regressio | 1 | return
+regressio | 3 | a withdrawal, retreat
+regressio | 4 | in rhetoric, a figure of repetition, epanodos, returning to a previous word or idea
+regressus2 | 1 | return
+regressus2 | 3 | militarily, a retreat
+regressus2 | 4 | figuratively, a chance to reconsider, a way back from a decision: nullus regressus ab ira, no going back once angry
+regressus2 | 5 | in law, a remedy, recourse: regressus adversus venditorem, recourse against the seller
 regula | 1 | ruler
 regula | 2 | rule
 regula | 3 | transferred, a straight bar, rod, or lath of wood or metal
