@@ -171,3 +171,20 @@ vector | 1 | passenger
 vector | 2 | carrier
 vectura | 1 | transport
 vectura | 2 | fare
+vegeo | 1 | quicken
+vegeo | 3 | be lively, active, intransitive
+vegeto | 1 | invigorate
+vegetus | 1 | lively
+vegrandis | 1 | small
+vegrandis | 3 | in one disputed citation, very great
+vehemens | 1 | vehement
+vehemens | 2 | powerful
+vehementer | 1 | vehemently
+vehementer | 2 | very
+vehementia | 1 | vehemence
+vehementia | 2 | strength
+vehes | 1 | cartload
+vehiculum | 1 | vehicle
+vehiculum | 3 | specifically, a wagon, cart, or rarely a ship
+veho | 1 | carry
+veho | 2 | ride
