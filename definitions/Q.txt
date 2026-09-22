@@ -13,7 +13,7 @@ quadantenus | 3 | to a certain point or limit, so far
 quadantenus | 4 | transferred, to a certain extent, in some measure
 quadra1 | 1 | table
 quadra1 | 2 | morsel
-quadra1 | 3 | broadly, a square shape, the general notion behind the specific uses
+quadra1 | 3 | broadly, a square, a square piece or shape
 quadra1 | 4 | in architecture, the base or plinth of a pedestal, or a small moulding separating larger members
 quadragenarius | 1 | of forty
 quadragenarius | 3 | consisting of or holding forty: dolium quadragenarium, a cask holding forty congii; fistula quadragenaria, a forty-inch pipe
