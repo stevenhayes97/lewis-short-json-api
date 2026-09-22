@@ -1438,9 +1438,10 @@ stabilis | 1 | stable
 stabilis | 3 | idiom, stabile est, it is settled, it is decided
 stabilitas | 1 | stability
 stabularius | 1 | innkeeper
-stabularius | 3 | specifically, a stable-boy, a hostler
-stabulor | 1 | roost
-stabulor | 3 | active, to stable or house cattle
+stabularius | 3 | specifically, a stable-boy, an ostler
+stabulor | 1 | be stabled
+stabulor | 3 | in general, of animals, to have one's lair or roost, to dwell: pecudes in antris stabulantur, the flocks shelter in caves
+stabulor | 4 | active, to stable or house cattle
 stabulum | 1 | stable
 stabulum | 3 | specifically, a public-house, a tavern, an inn
 stabulum | 4 | specifically, a brothel
@@ -1471,6 +1472,7 @@ statua | 1 | statue
 statua | 3 | transferred, a pillar
 statuarius | 1 | of statues
 statuarius | 3 | as a noun, a sculptor, a statue-maker
+# review: statuliber a slave freed under a will once a condition is met; "conditionally-freed slave" is three words hyphenated into two
 statuliber | 1 | conditionally-freed slave
 statuo | 1 | set up
 statuo | 2 | decide
