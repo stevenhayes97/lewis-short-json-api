@@ -187,8 +187,8 @@ temperamentum | 1 | balance
 temperamentum | 3 | a compromise, a middle course
 temperantia | 1 | temperance
 temperatio | 1 | constitution
-temperatio | 3 | of the state, organization, constitution, form of government
-temperatio | 4 | the ordering or organizing principle (of the universe)
+temperatio | 3 | of the state, organisation, constitution, form of government
+temperatio | 4 | the ordering or organising principle (of the universe)
 temperator | 1 | moderator
 temperatura | 1 | composition
 temperies | 1 | temperature
@@ -228,7 +228,7 @@ tendicula | 3 | literal, a small stretching-frame (e.g. for clothes)
 tendo | 1 | stretch
 tendo | 3 | to spread a net, or lay a trap
 tendo | 4 | intransitively, to head, make one's way, go (in a direction)
-tendo | 5 | to strive, aim, endeavor
+tendo | 5 | to strive, aim, endeavour
 tendo | 6 | to pitch camp, be encamped
 tenebrae | 1 | darkness
 tenebrae | 3 | the dark of a swoon, a fainting fit
@@ -266,7 +266,7 @@ tento | 3 | literal, to touch, feel, handle
 tento | 4 | to attack, assail; of disease, to afflict
 tento | 5 | to tempt, incite, sound out (a person)
 tenuis | 1 | thin
-tenuis | 3 | transferred, slight, trifling, meager
+tenuis | 3 | transferred, slight, trifling, meagre
 tenuis | 4 | of rank or means, low, humble, poor
 tenuis | 5 | of style, plain, precise, subtle
 tenuitas | 1 | thinness
@@ -282,9 +282,9 @@ tepeo | 3 | figuratively, to be in love, glow with passion
 tepeo | 4 | figuratively, by contrast, to be lukewarm, unenthusiastic, indifferent in love
 tepesco | 1 | grow warm
 tepesco | 3 | rare, to grow cool
-tepesco | 4 | figuratively, to cool off, lose ardor, wane
+tepesco | 4 | figuratively, to cool off, lose ardour, wane
 tepidus | 1 | tepid
-tepidus | 3 | figuratively, lukewarm, faint, languid (of passion or ardor)
+tepidus | 3 | figuratively, lukewarm, faint, languid (of passion or ardour)
 tepor | 1 | warmth
 tepor | 3 | rare, coolness (as opposed to heat)
 tepor | 4 | figuratively, coldness, languor (of style)
@@ -369,7 +369,7 @@ testa | 5 | the shell of a shellfish
 testa | 6 | late Latin, the skull
 testaceus | 1 | of brick
 testaceus | 3 | covered with a shell, shelled (of animals)
-testaceus | 4 | brick-colored
+testaceus | 4 | brick-coloured
 testamentarius | 1 | testamentary
 testamentarius | 3 | as a noun, one who draws up a will
 testamentarius | 4 | in a bad sense, a will-forger
@@ -438,7 +438,7 @@ timor | 4 | transferred, an object that causes fear, a terror
 tinea | 1 | moth
 tinea | 3 | more generally, any gnawing grub or larva, in wood, hives, or fruit
 tingo | 1 | dip
-tingo | 3 | in particular, to dye, color, tinge
+tingo | 3 | in particular, to dye, colour, tinge
 tingo | 4 | figuratively, to tincture, imbue with a quality or with knowledge
 tinnio | 1 | tinkle
 tinnio | 3 | colloquial, to pay out money, literally to make coins jingle
@@ -459,7 +459,7 @@ titillo | 3 | figuratively, to excite pleasurably, titillate the mind or senses
 titubo | 1 | stagger
 titubo | 3 | figuratively, to hesitate, falter, waver
 titulus | 1 | label
-titulus | 3 | a title of honor, distinction
+titulus | 3 | a title of honour, distinction
 titulus | 4 | a pretext, pretence
 titulus | 5 | the title of a book
 toga | 1 | toga
@@ -850,7 +850,7 @@ triplex | 4 | as a noun (triplices), a three-leaved writing tablet
 tripudio | 1 | dance
 tripudio | 3 | especially, religious, to perform a ritual stamping dance
 tripudium | 1 | dance
-tripudium | 3 | augury, technical, a favorable omen from the sacred chickens' feeding
+tripudium | 3 | augury, technical, a favourable omen from the sacred chickens' feeding
 triquetrus | 1 | triangular
 triquetrus | 3 | as a poetic epithet, Sicilian, from Sicily's triangular shape
 triremis | 1 | trireme
@@ -867,7 +867,7 @@ tritor | 1 | grinder
 tritor | 3 | figuratively, as abuse, one who wears out chains or whips, i.e., a constantly punished slave
 triumphalis | 1 | triumphal
 triumphalis | 3 | as a noun (triumphalia), the triumphal insignia
-triumphalis | 4 | as a noun, one honored with a triumph
+triumphalis | 4 | as a noun, one honoured with a triumph
 triumphator | 1 | triumpher
 triumpho | 1 | triumph
 triumpho | 3 | figuratively, to exult, rejoice exceedingly
@@ -994,7 +994,7 @@ turpis | 3 | literal, ugly, unsightly, foul
 turpitudo | 1 | disgrace
 turpitudo | 3 | literal, very rare, ugliness, unsightliness
 turpo | 1 | disfigure
-turpo | 3 | figuratively, to dishonor, disgrace
+turpo | 3 | figuratively, to dishonour, disgrace
 turriger | 1 | turreted
 turriger | 3 | as an epithet of Cybele, turret-crowned
 turritus | 1 | turreted
@@ -1012,4 +1012,4 @@ tutor1 | 3 | in general, rare, a protector, defender
 tutor2 | 1 | guard
 tutor2 | 3 | transferred, to ward off, avert an evil
 tuus | 1 | your
-tuus | 3 | pregnant sense, favorable, auspicious, right for you, of time or occasion
+tuus | 3 | pregnant sense, favourable, auspicious, right for you, of time or occasion
