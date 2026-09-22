@@ -594,7 +594,8 @@ segnis | 1 | sluggish
 segnitia | 1 | sluggishness
 segrego | 1 | segregate
 segrego | 3 | literally, of animals, to separate from the flock
-sejugis1 | 1 | six-horse team
+sejugis1 | 1 | six-horse
+sejugis1 | 3 | as a noun (sejuges), a six-horse chariot
 sejugo | 1 | separate
 sejungo | 1 | separate
 selectio | 1 | selection
@@ -622,7 +623,7 @@ sementis | 3 | transferred, seed-time
 sementis | 4 | transferred (plural), the young, growing crops
 sementivus | 1 | of sowing
 sementivus | 3 | specifically, feriae sementivae, the seed-time festival
-semestris1 | 1 | semiannual
+semestris1 | 1 | half-yearly
 semesus | 1 | half-eaten
 semi | 1 | half
 semianimis | 1 | half-dead
