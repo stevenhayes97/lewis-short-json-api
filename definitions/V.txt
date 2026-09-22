@@ -233,3 +233,24 @@ venalis | 1 | for sale
 venalis | 2 | venal
 venalis | 3 | as a noun, a slave offered for sale
 venaticus | 1 | hunting
+venatio | 1 | hunting
+venatio | 2 | game
+venatio | 3 | a public hunting spectacle, a beast-combat in the arena
+venator | 1 | hunter
+venator | 3 | one who fights wild beasts in the arena
+venatus | 1 | hunting
+venatus | 3 | transferred, game
+vendibilis | 1 | salable
+vendibilis | 2 | popular
+venditatio | 1 | boasting
+venditio | 1 | sale
+vendito | 1 | hawk
+vendito | 2 | praise
+vendito | 3 | se venditare alicui, to curry favour with someone
+vendito | 4 | betray
+venditor | 1 | seller
+vendo | 1 | sell
+vendo | 2 | betray
+vendo | 3 | cry up, praise, promote, as if for sale
+veneficium | 1 | poisoning
+veneficium | 2 | sorcery
