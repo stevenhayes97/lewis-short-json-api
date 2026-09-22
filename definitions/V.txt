@@ -711,3 +711,31 @@ virus | 1 | poison
 virus | 2 | slime
 virus | 3 | an offensive odour, a stench
 virus | 4 | a sharp, salty taste, such as of seawater
+vis | 1 | force
+vis | 2 | violence
+vis | 3 | plural vires, strength, physical power of a person
+vis | 4 | abundance, a great quantity or number, with genitive
+vis | 5 | plural vires, military forces, troops
+vis | 6 | of words or abstract things, meaning, sense, essence
+viscatus | 1 | limed
+viscatus | 3 | figuratively, entangling, ensnaring
+viscum | 1 | mistletoe
+viscum | 2 | birdlime
+viscus1 | 1 | viscera
+viscus1 | 2 | offspring
+viscus1 | 3 | figuratively, the depths or inmost part of something
+visibilis | 1 | visible
+visibilis | 3 | rare, active sense, able to see, seeing
+visio | 1 | vision
+visio | 2 | idea
+visito | 1 | visit
+visito | 2 | see
+visito | 3 | ecclesiastical, punish
+viso | 1 | view
+viso | 2 | visit
+visum | 1 | vision
+visum | 3 | philosophical term translating Greek phantasia, a sense-impression
+visus2 | 1 | sight
+visus2 | 2 | apparition
+visus2 | 3 | the organ of sight, the eyes
+visus2 | 4 | appearance, semblance, probability
