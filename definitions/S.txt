@@ -1759,10 +1759,12 @@ suboles | 1 | offspring
 suboles | 3 | literally (very rare), of plants, a sprout, a shoot
 suborno | 1 | equip
 suborno | 2 | suborn
-subscribo | 1 | subscribe
+subscribo | 1 | write underneath
 subscribo | 2 | assent
 subscribo | 3 | legal, to sign an accusation, as a prosecutor
-subscriptio | 1 | subscription
+subscribo | 4 | to sign, set one's name to a document
+subscriptio | 1 | inscription
+subscriptio | 2 | signature
 subscriptio | 3 | legal, a subscription to an accusation
 subscriptio | 4 | in general, a list, a register
 subscriptor | 1 | co-signer
