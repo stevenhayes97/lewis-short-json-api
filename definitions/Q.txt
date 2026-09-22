@@ -159,8 +159,9 @@ quamobrem | 3 | relative, for which reason, wherefore, on account of which
 quamobrem | 4 | as a transitional particle beginning a sentence, wherefore, for this reason
 quamplures | 1 | many
 quamplures | 3 | very many, a great many
-quamprimum | 1 | promptly
-quamprimum | 3 | as soon as possible, at the earliest opportunity
+# review: quamprimum "promptly" was vaguer than the word; English has no shorter equivalent
+quamprimum | 1 | as soon as possible
+quamprimum | 3 | at the earliest opportunity, immediately
 quamquam | 1 | although
 quamquam | 3 | as a rhetorical transition particle, however, yet, nevertheless, introducing an objection or reservation
 quamvis | 1 | although
