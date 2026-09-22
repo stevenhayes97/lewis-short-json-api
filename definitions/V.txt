@@ -153,3 +153,21 @@ vates | 3 | an authority or master in an art or profession
 vaticinor | 1 | prophesy
 vaticinor | 2 | rave
 vaticinor | 3 | sing or celebrate as a poet
+vatius | 1 | bow-legged
+ve1 | 1 | or
+vecordia | 1 | folly
+vecordia | 2 | madness
+vecors | 1 | foolish
+vecors | 2 | mad
+vectigal | 1 | tax
+vectigal | 2 | revenue
+vectigal | 3 | an honorarium or contribution paid to a magistrate
+vectigalis | 1 | tributary
+vectigalis | 2 | profitable
+vectis1 | 1 | lever
+vectis1 | 2 | bolt
+vecto | 1 | carry
+vector | 1 | passenger
+vector | 2 | carrier
+vectura | 1 | transport
+vectura | 2 | fare
