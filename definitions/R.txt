@@ -574,7 +574,7 @@ relevatio | 1 | relief
 relevatio | 3 | rarely, in medicine, scum or froth on urine
 relevo | 1 | relieve
 relevo | 3 | literally, to lift up, raise: relevare caput, to lift up one's head
-relevo | 4 | to lighten a physical load: epistulam relevare, to make a letter's weight lighter, easier to bear by reading it
+relevo | 4 | to make lighter, lighten a load
 relictio | 1 | abandonment
 relido | 1 | strike back
 relido | 3 | figuratively, to refuse, reject: infirmata relidunt, they reject what is unproven
