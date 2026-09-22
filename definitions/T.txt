@@ -422,7 +422,7 @@ tibia | 2 | shinbone
 tibialis | 1 | of shins
 tibialis | 3 | as a noun (tibiale), a legging, a warm wrapping for the shins
 tibialis | 4 | of or belonging to the flute
-tibicen | 1 | flutist
+tibicen | 1 | flautist
 tibicen | 3 | transferred, a supporting pillar, prop of a building
 tigillum | 1 | beam
 tignum | 1 | beam
