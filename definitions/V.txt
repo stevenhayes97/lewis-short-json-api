@@ -766,3 +766,19 @@ vitium | 1 | fault
 vitium | 2 | vice
 vitium | 3 | a defect in the auspices or auguries, invalidating an act
 vitium | 4 | a violation of chastity
+vito | 1 | avoid
+vitreus | 1 | glass
+vitreus | 2 | glassy
+vitricus | 1 | stepfather
+vitrum | 1 | glass
+vitrum | 2 | woad
+vitta | 1 | fillet
+vitta | 3 | specifically, a sacrificial or priestly headband
+vitulinus | 1 | veal
+vitulinus | 3 | as an adjective, of a calf, veal-
+vitulor | 1 | rejoice
+vitulus | 1 | calf
+vitulus | 3 | vitulus marinus, or simply vitulus, a seal
+vituperatio | 1 | blame
+vitupero1 | 1 | blame
+vitupero1 | 3 | in religious language, spoil an omen, render it defective
