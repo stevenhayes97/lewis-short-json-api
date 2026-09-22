@@ -396,3 +396,31 @@ vertex | 5 | figuratively, the highest degree, the greatest of something
 vertigo | 1 | dizziness
 vertigo | 2 | rotation
 vertigo | 3 | figuratively, a revolution, a change, an upheaval
+verto | 1 | turn
+verto | 2 | change
+verto | 3 | of literary works, translate, render into another language
+verto | 4 | overturn, overthrow, destroy
+verto | 5 | exchange, interchange
+verto | 6 | intransitive, turn oneself, turn about, change direction
+veru | 1 | spit
+veru | 2 | javelin
+veru | 3 | plural, a paling or railing around an altar or tomb
+verumtamen | 1 | nevertheless
+verus | 1 | true
+verus | 2 | right
+verus | 3 | as a noun, verum, the truth, reality
+verus | 4 | as an adverb, vero, in truth, certainly, indeed
+verus | 5 | as an adverb, vero, but, however, always second word in a clause
+verus | 6 | as a particle, verum, but, however, in a transition
+verus | 7 | as an adverb, vere, truly, really, rightly
+verutum | 1 | javelin
+vesanus | 1 | mad
+vesanus | 2 | raging
+vescor | 1 | eat
+vescor | 2 | enjoy
+vesculus | 1 | trifling
+vescus | 1 | weak
+vescus | 2 | corroding
+vesica | 1 | bladder
+vesica | 2 | bombast
+vesica | 3 | a blister, a bladder-like swelling
