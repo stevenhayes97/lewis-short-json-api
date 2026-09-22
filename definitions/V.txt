@@ -300,3 +300,27 @@ venustas | 1 | charm
 venustas | 2 | beauty
 venustus | 1 | charming
 venustus | 2 | beautiful
+vepres | 1 | bramble
+ver | 1 | spring
+ver | 3 | poetic, the springtime of life, youth
+ver | 4 | ver sacrum, a spring offering of firstlings to the gods
+verax | 1 | truthful
+verbena | 1 | sacred boughs
+verbena | 3 | medicinal herbs, such as olive, myrtle, or ivy
+verber | 1 | lash
+verber | 2 | blow
+verber | 3 | figuratively, blows or lashes, of harsh words or misfortune
+verberatio | 1 | beating
+verberatio | 3 | chastisement, punishment
+verbero1 | 1 | flog
+verbero1 | 2 | strike
+verbero1 | 3 | figuratively, harass, torment with words
+verbosus | 1 | verbose
+verbum | 1 | word
+verbum | 2 | verb
+verbum | 3 | ad verbum, word for word, literally
+verbum | 4 | verbi causa, for example
+verbum | 5 | mere talk, empty words, as opposed to fact
+verecundia | 1 | modesty
+verecundia | 3 | excessive shyness, timidity, with an implication of blame
+verecundia | 4 | a sense of shame, a disgrace
