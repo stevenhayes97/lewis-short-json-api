@@ -446,7 +446,7 @@ refrico | 3 | figuratively, to reopen a memory, to stir up again: memoriam refri
 refrico | 4 | intransitively, of an ailment, to recur, break out again
 refrigero | 1 | cool
 refrigero | 3 | figuratively, to lose warmth or enthusiasm, to grow languid, flag: accusatio refrigerata, a prosecution that has lost its steam
-refrigesco | 1 | cool
+refrigesco | 1 | grow cold
 refrigesco | 3 | figuratively, of enthusiasm or a case, to grow stale, lose momentum, flag
 refringo | 1 | break open
 refringo | 3 | figuratively, to break down, weaken, destroy: vim fluminis refringere, to break the force of a river
@@ -474,7 +474,7 @@ regenero | 3 | transferred, to resemble a forebear, to reproduce a likeness: avu
 regero | 1 | carry back
 regero | 3 | transferred, of writing, to enter, record, transcribe: regerere in commentarios, to enter into one's notebooks
 regero | 4 | figuratively, to retort, throw back: convicia regerere, to hurl back insults
-regestum1 | 1 | spoil
+regestum1 | 1 | excavated earth
 regestum1 | 3 | late Latin, a written register, list, or catalogue
 regificus | 1 | sumptuous
 regimen | 1 | guidance
