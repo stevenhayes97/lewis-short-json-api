@@ -697,7 +697,6 @@ renuntio | 3 | politically, to officially declare the result of an election: ren
 renuntio | 4 | renuntiare sibi, to reflect, take stock, remind oneself
 renuo | 1 | decline
 reor | 1 | think
-reor | 2 | ratify
 reor | 3 | pro rata parte, or simply pro rata, proportionally, in proportion
 reor | 4 | as an adjective (ratus), fixed, settled, valid, confirmed
 repagula | 1 | bolts
@@ -733,6 +732,7 @@ repertor | 1 | inventor
 repetitio | 1 | repetition
 repetitio | 3 | in law, a formal demand for the return of something
 repetitio | 4 | in rhetoric, anaphora, the repetition of a word at the start of successive clauses
+# review: repeto "repeat" is the English cognate, but a reader mostly meets repeto as return to, demand back, or recall (ranks 2, 4, 5) — consider which leads
 repeto | 1 | repeat
 repeto | 2 | reclaim
 repeto | 3 | to attack again, strike anew: regem repetitum cuspide, having struck the king again with a spear
