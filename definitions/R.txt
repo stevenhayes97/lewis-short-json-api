@@ -841,9 +841,10 @@ resero2 | 3 | figuratively, to disclose, reveal something hidden or unknown: ora
 reservo | 1 | reserve
 reservo | 3 | rarely, to save from destruction, to preserve, spare: aliquem reservare, to spare someone's life
 reses | 1 | idle
-resideo | 1 | reside
-resideo | 3 | figuratively, to remain, be left behind: nihil residet, nothing remains
-resideo | 4 | rarely, to sit inactive, idle, listless
+resideo | 1 | remain
+resideo | 3 | literally, to sit, stay seated, stay behind: tergo aselli residebat, he sat on the donkey's back
+resideo | 4 | figuratively, to be left, remain: nihil residet, nothing remains
+resideo | 5 | rarely, to sit inactive, idle, listless
 resido | 1 | settle
 resido | 3 | figuratively, of winds or emotions, to abate, calm down, subside: ira resedit, anger subsided
 residuus | 1 | residual
