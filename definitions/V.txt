@@ -473,3 +473,27 @@ veternus1 | 1 | lethargy
 veternus1 | 2 | sloth
 veternus1 | 3 | post-classical, as an adjective, old, ancient
 veternus1 | 4 | rarely, old age; also, old filth or dirt
+veto | 1 | forbid
+veto | 3 | veto, I forbid it, I protest, the tribunes' formula for blocking a measure
+veto | 4 | as a noun, vetitum, a prohibition, a forbidden thing
+vetulus | 1 | old
+vetulus | 3 | as a noun, a little old man or woman
+vetus | 1 | old
+vetus | 3 | as a noun, veteres, the ancients, forefathers
+vetus | 4 | as a neuter noun, vetera, old things, the past, antiquity
+vetustas | 1 | age
+vetustas | 2 | antiquity
+vetustas | 3 | posterity, future generations
+vetustus | 1 | ancient
+vexatio | 1 | vexation
+vexatio | 3 | literally, a violent shaking or movement, rare
+vexatio | 4 | persecution
+vexillarius | 1 | standard-bearer
+vexillarius | 3 | transferred, a leader or captain, such as of a band of robbers
+vexillatio | 1 | detachment
+vexillatio | 3 | specifically, a division of cavalry, a squadron
+vexillum | 1 | standard
+vexillum | 3 | transferred, the troop of soldiers belonging to a standard, a company
+vexo | 1 | harass
+vexo | 2 | damage
+vexo | 3 | literally, rare, shake, jolt, toss violently
