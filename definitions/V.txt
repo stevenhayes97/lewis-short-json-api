@@ -626,3 +626,23 @@ vindex | 1 | defender
 vindex | 2 | avenger
 vindicatio | 1 | legal claim
 vindicatio | 2 | vindication
+vindiciae | 1 | legal claim
+vindico | 1 | claim
+vindico | 2 | avenge
+vindico | 3 | in libertatem vindicare, to set free, emancipate
+vindico | 4 | defend, protect, deliver
+vindicta | 1 | vengeance
+vindicta | 3 | literally, the ceremonial rod used to free a slave in manumission
+vindicta | 4 | a vindication, a means of protection or defence, especially of freedom
+vinetum | 1 | vineyard
+vineus | 1 | vineyard
+vineus | 2 | siege shed
+vineus | 3 | a vine, the plant itself
+vinolentus | 1 | drunk
+vinosus | 1 | drunk
+vinosus | 2 | winebibbing
+vinum | 1 | wine
+vinum | 3 | transferred, rarely, grapes or the vine itself
+vio | 1 | travel
+viola | 1 | violet
+viola | 3 | a violet or purple colour
