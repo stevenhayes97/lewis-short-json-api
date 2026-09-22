@@ -319,8 +319,8 @@ recurso | 3 | figuratively, to keep recurring to the mind: cura recursat, worry 
 recursus | 1 | return
 recursus | 3 | of vision, the ability to reflect or bring back an image: acies non habet recursum, the sight cannot form a reflection
 recursus | 4 | in law, recourse: recursus ad judicem, recourse to a judge
-recurvo | 1 | curve
-recurvus | 1 | curved
+recurvo | 1 | bend back
+recurvus | 1 | bent back
 recusatio | 1 | refusal
 recusatio | 3 | in law, a formal objection or protest
 recusatio | 4 | in law, a plea or defence against a charge, as opposed to the accuser's petitio
@@ -348,7 +348,7 @@ redemptio | 4 | a farming or contracting of public revenue
 redemptio | 5 | in ecclesiastical Latin, redemption from sin
 redemptor | 1 | contractor
 redemptor | 3 | in law, one who pays off a debtor's creditor, thereby taking over the claim
-redemptor | 4 | in ecclesiastical Latin, the Redeemer, Christ as savior from sin
+redemptor | 4 | in ecclesiastical Latin, the Redeemer, Christ as saviour from sin
 redeo | 1 | return
 redeo | 3 | to return to a former subject in speaking or writing: ad rem redire, to get back to the point
 redeo | 4 | of revenue, to come in, accrue: fructus ex fundo redit, income comes in from the estate

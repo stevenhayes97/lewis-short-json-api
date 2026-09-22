@@ -819,9 +819,9 @@ serum | 1 | whey
 serum | 3 | transferred, the watery part of other substances, e.g. resin
 serus | 1 | late
 serus | 2 | overdue
-servator | 1 | savior
+servator | 1 | saviour
 servator | 3 | literally (rare), a watcher, an observer
-servatrix | 1 | savior
+servatrix | 1 | saviour
 servilis | 1 | servile
 servio | 1 | serve
 servio | 3 | in general, to be devoted to, to comply with, to gratify
@@ -1257,7 +1257,7 @@ sortior | 5 | transferred, to choose, to select
 sortitio | 1 | drawing lots
 sortitus2 | 1 | drawing lots
 sospes | 1 | safe
-sospes | 3 | archaic (rare), as an active sense, saving, delivering; as a noun, a savior
+sospes | 3 | archaic (rare), as an active sense, saving, delivering; as a noun, a saviour
 sospito | 1 | protect
 spargo1 | 1 | scatter
 spargo1 | 2 | spread
