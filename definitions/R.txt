@@ -947,11 +947,11 @@ retego | 4 | rarely, in the opposite sense, to cover again
 retendo | 1 | unbend
 retendo | 3 | figuratively, to relax, ease, let unwind: quiete retenduntur, they are relaxed by rest
 retentio | 1 | retention
-retentio | 3 | philosophically, a withholding of assent, translating the Greek epoche, skeptical suspension of judgment
+retentio | 3 | philosophically, a withholding of assent, translating the Greek epoche, sceptical suspension of judgment
 retentio | 4 | preservation, maintenance: retentio disciplinae, the maintenance of discipline
 retento1 | 1 | hold back
 retento1 | 3 | figuratively, to preserve, maintain, keep safe from harm
-retento2 | 1 | retry
+retento2 | 1 | try again
 retexo | 1 | unravel
 retexo | 3 | figuratively, to annul, cancel, undo: consilia retexere, to unravel and undo plans
 retexo | 4 | to renew or repeat: fata retexere, to bring back to life; also, to relate a story again
@@ -975,7 +975,7 @@ retorqueo | 4 | in rhetoric, to retort an argument upon one's opponent
 retorridus | 1 | parched
 retorridus | 3 | figuratively, of a person's manner or expression, gloomy, morose, sour
 retractatio | 1 | revision
-retractatio | 3 | without a negative, hesitation, reluctance, refusal: sine ulla retractatione, without any hesitation
+retractatio | 3 | hesitation, reluctance, only after sine: sine ulla retractatione, without any hesitation
 retracto | 1 | reconsider
 retracto | 2 | retract
 retracto | 3 | literally, to handle or take up again: arma retractare, to take up arms again
