@@ -842,15 +842,18 @@ servus1 | 1 | servile
 servus1 | 3 | legal, of land or buildings, subject to an easement
 servus2 | 1 | slave
 servus2 | 3 | figuratively, a slave to a vice or passion
-sescenteni | 1 | six-hundred each
+# review: sescenteni distributive; "six hundred each" kept at three words, matching treceni
+sescenteni | 1 | six hundred each
 sescenti | 1 | six hundred
 sescenti | 2 | countless
-sescenties | 1 | six-hundred times
+# review: sescenties "six hundred times" kept at three words; the hyphen in "six-hundred" was only hiding the count
+sescenties | 1 | six hundred times
 sescuncia | 1 | an eighth
 sescuncia | 3 | literally, one and a half unciae, a twelfth and a half
 sesqui | 1 | one-and-a-half
 sesquipedalis | 1 | foot-and-a-half
 sesquipedalis | 3 | poetic, excessively long, half a yard long, e.g. sesquipedalia verba, long-winded words
+# review: sesquiplaris a soldier on pay and a half; the hyphenated compound reads as two words but English has no name for the rank
 sesquiplaris | 1 | ration-and-a-half soldier
 sessilis | 1 | sessile
 sessilis | 3 | transferred, of plants, low-growing, dwarf, spreading
