@@ -474,7 +474,7 @@ scutatus | 1 | shield-bearing
 scutatus | 3 | as a noun (plural), shield-bearing troops
 scutula1 | 1 | platter
 scutula1 | 3 | transferred, a diamond- or lozenge-shaped figure
-scutulatus | 1 | checkered
+scutulatus | 1 | chequered
 scutum | 1 | shield
 scutum | 2 | defence
 scutum | 3 | late Latin, transferred, heavy-armed soldiers, shield-bearers
