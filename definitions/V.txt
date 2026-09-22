@@ -424,3 +424,28 @@ vescus | 2 | corroding
 vesica | 1 | bladder
 vesica | 2 | bombast
 vesica | 3 | a blister, a bladder-like swelling
+vesper | 1 | evening
+vesper | 2 | west
+vesper | 3 | the evening star, Venus
+vespera | 1 | evening
+vespera | 2 | west
+vespertinus | 1 | evening
+vespertinus | 2 | western
+vester | 1 | your
+vestiarius | 1 | clothes
+vestiarius | 3 | as a noun, a clothes-dealer
+vestiarius | 4 | as a neuter noun, a wardrobe or clothes-press
+vestibulum | 1 | vestibule
+vestibulum | 3 | transferred, an entrance to something
+vestibulum | 4 | figuratively, a beginning, an opening
+vestigium | 1 | footprint
+vestigium | 2 | trace
+vestigium | 3 | e vestigio, instantly, on the spot
+vestigium | 4 | a moment, an instant of time
+vestigo | 1 | track
+vestigo | 2 | investigate
+vestimentum | 1 | garment
+vestio | 1 | clothe
+vestio | 2 | cover
+vestio | 3 | figuratively, adorn or embellish, of plain thoughts with rich language
+vestio | 4 | rare, invest with the imperial purple, make emperor
