@@ -1765,7 +1765,7 @@ subscribo | 3 | legal, to sign an accusation, as a prosecutor
 subscribo | 4 | to sign, set one's name to a document
 subscriptio | 1 | inscription
 subscriptio | 2 | signature
-subscriptio | 3 | legal, a subscription to an accusation
+subscriptio | 3 | legal, the signing of an accusation, joining it as a prosecutor
 subscriptio | 4 | in general, a list, a register
 subscriptor | 1 | co-signer
 subscriptor | 3 | post-classical, one who assents to something, a favourer, an approver
@@ -1850,7 +1850,7 @@ subtraho | 1 | withdraw
 subtraho | 3 | figuratively, to remove, to take away an abstract thing
 subtus | 1 | beneath
 subucula | 1 | undershirt
-subulo1 | 1 | flutist
+subulo1 | 1 | flautist
 subulo1 | 3 | specifically, a young hart with pointed horns
 suburbanus | 1 | suburban
 suburbanus | 3 | as a noun (suburbanum), a suburban estate, a villa near Rome
