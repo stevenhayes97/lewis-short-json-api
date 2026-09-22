@@ -902,3 +902,25 @@ vox | 1 | voice
 vox | 2 | word
 vox | 3 | speech, language in general
 vox | 4 | accent, pronunciation
+vulgaris | 1 | common
+vulgo2 | 1 | publish
+vulgo2 | 2 | prostitute
+vulgus | 1 | populace
+vulgus | 2 | mob
+vulnero | 1 | wound
+vulnero | 3 | figuratively, hurt, pain, injure, such as with words
+vulnus | 1 | wound
+vulnus | 3 | figuratively, a blow, misfortune, calamity, or defeat
+vulpes | 1 | fox
+vulpes | 3 | figuratively, cunning, craftiness, as a quality
+vulpes | 4 | vulpes marina, a kind of shark
+vultuosus | 1 | grimacing
+vultur1 | 1 | vulture
+vultur1 | 3 | figuratively, a grasping, avaricious person
+vulturius | 1 | vulture
+vulturius | 3 | figuratively, a rapacious or greedy person, an extortioner
+vulturius | 4 | an unlucky throw at dice
+vultus | 1 | expression
+vultus | 2 | face
+vultus | 3 | a portrait, a painted likeness
+vultus | 4 | poetic, a look, an appearance, also of things
