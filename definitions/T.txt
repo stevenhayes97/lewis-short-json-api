@@ -918,7 +918,8 @@ tuburcinor | 1 | gobble
 tubus | 1 | pipe
 tubus | 3 | transferred, a trumpet used at sacrifices
 tuditans | 1 | pounding
-tueor | 1 | maintain
+tueor | 1 | protect
+tueor | 2 | maintain
 tueor | 3 | literal, poetic, to look at, gaze at, watch
 tueor | 4 | military, to guard, defend, a position
 tueor | 5 | as an adjective (tutus), safe, secure, out of danger
@@ -929,7 +930,7 @@ tum | 4 | cum ... tum, not only ... but especially
 tum | 5 | coordinating, besides, moreover, and then
 tumefacio | 1 | swell
 tumefacio | 3 | figuratively, to puff up, inflate with pride
-tumeo | 1 | swell
+tumeo | 1 | be swollen
 tumeo | 3 | figuratively, to be excited, seething, on the verge of bursting out, with anger
 tumeo | 4 | figuratively, to be puffed up with pride
 tumeo | 5 | of speech, to be inflated, pompous, bombastic
