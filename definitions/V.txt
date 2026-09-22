@@ -565,3 +565,21 @@ viduo | 1 | bereave
 viduus | 1 | widowed
 viduus | 2 | bereft
 viduus | 3 | as a noun, vidua, a widow
+vieo | 1 | weave
+vigeo | 1 | thrive
+vigeo | 2 | be alive
+vigesco | 1 | flourish
+vigil | 1 | watchful
+vigil | 3 | as a noun, a watchman, a sentinel
+vigilantia | 1 | vigilance
+vigilantia | 3 | literally, wakefulness, sleeplessness, rare
+vigilia | 1 | wakefulness
+vigilia | 2 | watch
+vigilia | 3 | one of the four three-hour periods of the Roman night
+vigilia | 4 | a religious vigil, a nightly festival watch
+vigilo | 1 | stay awake
+vigilo | 2 | be vigilant
+viginti | 1 | twenty
+# review: vigintiviri a specific Roman board of twenty officials; no shorter accurate gloss exists
+vigintiviri | 1 | a board of twenty officials
+vigor | 1 | vigour
