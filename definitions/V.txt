@@ -806,3 +806,30 @@ vocabulum | 1 | name
 vocabulum | 3 | grammatical, a common noun, a substantive
 vocalis | 1 | vocal
 vocalis | 2 | vowel
+vocatus | 1 | summons
+vocatus | 3 | specifically, an invitation to dinner
+vociferor | 1 | shout
+vocito | 1 | call
+voco | 1 | call
+voco | 2 | name
+voco | 3 | invite, to dinner or as a guest
+voco | 4 | summon, into court, before a magistrate
+voco | 5 | bring into or expose to a condition, such as vocare in invidiam, to expose to ill will
+vocula | 1 | feeble voice
+vocula | 3 | transferred, a petty speech, or a minor word or particle
+volaticus | 1 | winged
+volaticus | 2 | flighty
+volaticus | 3 | as a noun, volatica, a witch, sorceress
+volatilis | 1 | winged
+volatilis | 2 | fleeting
+volatus | 1 | flight
+volatus | 3 | poetic, any swift motion, rapid course, velocity
+volito | 1 | flit
+volito | 2 | hover
+volito | 3 | figuratively, be widely talked of, live on in fame
+volo1 | 1 | want
+volo1 | 2 | be willing
+volo1 | 3 | intend, mean, purpose
+volo1 | 4 | si vis, please, if you would be so kind
+volo1 | 5 | as an adjective, volens, willing, voluntary
+volo1 | 6 | require, demand, be of the opinion that something should be
