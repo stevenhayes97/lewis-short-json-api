@@ -1,0 +1,35 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_V.json (Lewis & Short via Perseus), simplified for learners.
+vacatio | 1 | exemption
+vacatio | 3 | exemption from military service
+vacatio | 4 | a sum paid to be exempted from military service
+vacillo | 1 | stagger
+vacillo | 2 | waver
+vacillo | 3 | hesitate, be unsteady or unreliable, of things or arguments
+vacivus | 1 | empty
+vaco | 1 | be empty
+vaco | 2 | have leisure
+vaco | 3 | be free from or without something, with ablative
+vaco | 4 | vacare alicui rei, to devote oneself to something
+vaco | 5 | of an office or position, be vacant, unfilled
+vaco | 6 | of a woman, be unmarried
+vacue2 | 1 | empty
+vacue2 | 3 | abolish, do away with
+vacuitas | 1 | emptiness
+vacuitas | 2 | freedom
+vacuitas | 3 | freedom or immunity from something, with genitive
+vacuitas | 4 | a vacancy in an office
+vacuo | 1 | empty
+vacuus | 1 | empty
+vacuus | 2 | free
+vacuus | 3 | free from or without something, with ablative or ab and ablative
+vacuus | 4 | at leisure, unoccupied, having free time
+vacuus | 5 | of a woman, unmarried, single
+vacuus | 6 | of property, unclaimed, without an owner
+vadimonium | 1 | bail
+vadimonium | 3 | a promise, secured by bail, to appear in court on a set day
+vadimonium | 4 | transferred, an appointment, a fixed time
+vado1 | 1 | go
+vado1 | 2 | rush
+vado1 | 3 | of a river, flow, run
+vado1 | 4 | transferred, of feelings or fortune, advance, proceed
