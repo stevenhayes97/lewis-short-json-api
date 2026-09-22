@@ -1593,8 +1593,9 @@ strigosus | 1 | lean
 strigosus | 3 | figuratively, of an orator, dry, tasteless in style
 stringo | 1 | tie tight
 stringo | 2 | graze
-stringo | 3 | to pull off, to strip off, to prune leaves or fruit
-stringo | 4 | figuratively, to wound, to pain, to affect painfully
+stringo | 3 | to draw a weapon from its sheath: gladios stringere, to draw swords
+stringo | 4 | to pull off, to strip off, to prune leaves or fruit
+stringo | 5 | figuratively, to wound, to pain, to affect painfully
 strio1 | 1 | groove
 structilis | 1 | structural
 structio | 1 | construction
@@ -1629,15 +1630,18 @@ stupidus | 1 | stupid
 stupidus | 3 | literally (rare), struck senseless, confounded, amazed
 stupor | 1 | stupor
 stupor | 3 | especially, dullness, stupidity, stolidity of mind
-stupro | 1 | rape
-stupro | 3 | in general (very rare), to defile
-stuprum | 1 | rape
-stuprum | 3 | in general (ante-classical only), defilement, dishonour, disgrace
+stupro | 1 | debauch
+stupro | 3 | to violate, ravish; in general (very rare), to defile
+stuprum | 1 | debauchery
+stuprum | 2 | violation
+stuprum | 3 | any unchaste act that dishonours the other party, whether seduction, adultery or rape
+stuprum | 4 | in general (ante-classical only), defilement, dishonour, disgrace
 suadela | 1 | persuasion
 suadela | 3 | as a proper noun, Suadela, the goddess of Persuasion
-suadeo | 1 | persuade
-suadeo | 3 | transferred (mostly poetic), of things, to urge, to induce, to impel
-suadeo | 4 | political, to advocate, to speak in favour of a proposed law
+suadeo | 1 | advise
+suadeo | 3 | with dative of the person and ut or an infinitive: suadeo tibi ut, I advise you to
+suadeo | 4 | transferred (mostly poetic), of things, to urge, to induce, to impel
+suadeo | 5 | political, to advocate, to speak in favour of a proposed law
 suadus | 1 | persuasive
 suadus | 3 | as a proper noun, Suada, the goddess of Persuasion
 suarius | 1 | of swine
