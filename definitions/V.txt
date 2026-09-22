@@ -418,6 +418,7 @@ vesanus | 1 | mad
 vesanus | 2 | raging
 vescor | 1 | eat
 vescor | 2 | enjoy
+vescor | 3 | usually with the ablative of the food, to feed on, live on
 vesculus | 1 | trifling
 vescus | 1 | weak
 vescus | 2 | corroding
