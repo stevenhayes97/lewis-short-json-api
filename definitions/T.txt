@@ -374,7 +374,7 @@ testamentarius | 1 | testamentary
 testamentarius | 3 | as a noun, one who draws up a will
 testamentarius | 4 | in a bad sense, a will-forger
 testamentum | 1 | will
-testamentum | 3 | eccl. Latin, the Testament, Old or New
+testamentum | 3 | ecclesiastical Latin, the Testament, Old or New
 testatio | 1 | testimony
 testatio | 3 | a calling upon the gods as witness
 testator | 1 | testator
@@ -591,7 +591,7 @@ tractatus | 1 | treatment
 tractatus | 3 | literal, rare, a touching, handling
 tractatus | 4 | reflection, consideration; a discussion, consultation
 tractatus | 5 | transferred, concrete, a treatise, tract
-tractatus | 6 | eccl. Latin, a sermon, homily
+tractatus | 6 | ecclesiastical Latin, a sermon, homily
 tractim | 1 | gradually
 tractim | 3 | of speech or sound, in a drawling way, slowly, at length
 tracto | 1 | handle
@@ -699,7 +699,7 @@ transfusio | 3 | transferred, a migration of a people
 transgredior | 1 | cross over
 transgredior | 3 | to go over to another party
 transgredior | 4 | figuratively, to go beyond, exceed, surpass
-transgredior | 5 | eccl. Latin, to transgress a command
+transgredior | 5 | ecclesiastical Latin, to transgress a command
 transgressio | 1 | crossing
 transgressio | 3 | rhetorical, a transposition of words
 transgressio | 4 | late Latin, a transgression of a law or command
