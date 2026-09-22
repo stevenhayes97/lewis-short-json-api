@@ -1241,8 +1241,8 @@ runa | 1 | javelin
 runa | 3 | late Latin, transferred, a runic character, a rune
 runco1 | 1 | weed
 runco1 | 3 | transferred, to pluck out hair, or to mow
-ruo | 1 | rush down
-ruo | 2 | hasten
+ruo | 1 | rush
+ruo | 2 | collapse
 ruo | 3 | actively, to cast down violently, to hurl to the ground: ruere antennas, to bring down the yardarms
 ruo | 4 | poetic, of wind or waves, to churn up, stir up from the depths: mare ruit harenam, the sea churns up sand
 rupes | 1 | cliff
