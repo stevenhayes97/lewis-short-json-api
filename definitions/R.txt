@@ -739,7 +739,7 @@ repeto | 3 | to attack again, strike anew: regem repetitum cuspide, having struc
 repeto | 4 | to return to, revisit a place: patriam repetere, to return to one's homeland
 repeto | 5 | to recall to mind, remember: repetere memoria, to call something to mind
 repeto | 6 | legally, res repetere, to reclaim one's property in court; pecuniae repetundae, money extorted by a governor, subject to recovery
-repigro | 1 | retard
+repigro | 1 | slow
 repleo | 1 | fill
 repleo | 3 | figuratively, to make up for, supply what is lacking: quod voci deerat plangore replebam, I made up with wailing for what my voice lacked
 replicatio | 1 | unrolling
@@ -778,7 +778,8 @@ reprehensio | 4 | in rhetoric, a refutation
 reprimo | 1 | repress
 reprimo | 3 | literally, of water, to hold back, dam up: amnem reprimere, to check a river's flow
 reprobo | 1 | reject
-repromitto | 1 | promise back
+# review: repromitto "promise back" was not idiomatic English; "promise in return" is the entry's own gloss, kept at three words
+repromitto | 1 | promise in return
 repromitto | 3 | to promise again, renew a promise
 repto | 1 | crawl
 repudio | 1 | divorce
