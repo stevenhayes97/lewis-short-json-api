@@ -664,3 +664,23 @@ vir | 3 | a real man, a man of courage or honour
 vir | 4 | military, a soldier
 vir | 5 | manhood, virility, rare
 virago | 1 | female warrior
+virectum | 1 | greensward
+vireo1 | 1 | be green
+vireo1 | 2 | flourish
+viresco | 1 | turn green
+viresco | 2 | flourish
+virga | 1 | twig
+virga | 2 | rod
+virga | 3 | a stripe or streak, such as in a garment or the sky
+virga | 4 | a branch of a family or genealogical tree
+virgatus | 1 | wicker
+virgatus | 2 | striped
+virginalis | 1 | virginal
+virgineus | 1 | virginal
+virginitas | 1 | virginity
+virgo | 1 | virgin
+virgo | 3 | a Vestal Virgin, a priestess of Vesta
+virgo | 4 | the constellation Virgo
+virgo | 5 | as an adjective, unwedded, pure, untouched, of things
+virgula | 1 | wand
+virgula | 3 | virgula divina, a divining rod
