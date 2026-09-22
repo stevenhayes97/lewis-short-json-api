@@ -1982,7 +1982,7 @@ sugillo | 1 | bruise
 sugillo | 2 | revile
 sugo | 1 | suck
 sugo | 3 | figuratively, to imbibe, to absorb, e.g. an idea from childhood
-sui | 1 | himself
+sui | 1 | oneself
 sui | 3 | reciprocal use, each other, one another
 sui | 4 | idiom, apud se, ad se, at one's house, at home
 suillus | 1 | porcine
@@ -2015,9 +2015,9 @@ summergo | 3 | figuratively (post-classical, rare), to suppress
 sumministro | 1 | supply
 summitas | 1 | summit
 summitto | 1 | lower
-summitto | 2 | submissive
 summitto | 3 | economic, to rear, to raise, animals or plants
 summitto | 4 | to send secretly, to dispatch
+summitto | 5 | as a participle (summissus), low, lowered; of manner, humble, submissive
 summoveo | 1 | remove
 summoveo | 2 | banish
 summoveo | 3 | specifically, of a lictor, to clear a crowd, to make way
@@ -2031,6 +2031,7 @@ sumptuosus | 2 | extravagant
 sumptus2 | 1 | expense
 suo | 1 | sew
 suo | 3 | figuratively, to devise, to contrive a plot
+# review: suovetaurilia a sacrifice of a pig, a sheep and a bull; the hyphenated compound is really four words, and English has no name for the rite
 suovetaurilia | 1 | pig-sheep-bull sacrifice
 supellex | 1 | furniture
 supellex | 3 | figuratively, equipment, outfit, qualification, e.g. of skills or friends
