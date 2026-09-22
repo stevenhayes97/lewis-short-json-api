@@ -632,7 +632,7 @@ remigro | 1 | return
 remigro | 3 | figuratively, to return to a subject, principle, or state: ad justitiam remigrare, to return to justice
 reminiscor | 1 | remember
 reminiscor | 3 | to call to mind, imagine, conceive of something
-remisceo | 1 | remix
+remisceo | 1 | mix
 remissio | 1 | remission
 remissio | 2 | relaxation
 remissio | 3 | mildness, gentleness, leniency of character or treatment
@@ -649,7 +649,7 @@ remitto | 6 | as an adjective (remissus), mild, gentle, indulgent, cheerful
 remitto | 7 | as an adjective (remissus), slack, negligent, remiss
 remolior | 1 | push back
 remolior | 3 | to take up again: arma remoliri, to take up arms once more
-remollesco | 1 | soften
+remollesco | 1 | grow soft
 remollesco | 3 | figuratively, to be moved or touched, to relent: numina remollescunt, the gods' will is softened
 remollio | 1 | soften
 remora1 | 1 | delay
@@ -660,9 +660,9 @@ remoror | 3 | intransitively, to linger, tarry, loiter oneself
 remotio | 1 | removal
 remotio | 3 | in rhetoric, the shifting of a charge onto another person or cause
 removeo | 1 | remove
-removeo | 2 | distant
 removeo | 3 | to deduct or subtract: si uncia remota est, if a twelfth is subtracted
 removeo | 4 | figuratively, as an adjective (remotus), free from, unconnected with, foreign to something: genus remotum a civilibus causis, a kind unconnected with civil cases
+removeo | 5 | as an adjective (remotus), distant, remote, far removed
 remugio | 1 | bellow back
 remulceo | 1 | soothe
 remulceo | 3 | literally, to stroke or smooth back: caudam remulcere, to droop the tail
