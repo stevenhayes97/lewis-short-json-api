@@ -856,3 +856,24 @@ voluntas | 2 | goodwill
 voluntas | 3 | a last will, a testament
 voluntas | 4 | the meaning or sense of words, post-Augustan
 volup | 1 | pleasantly
+voluptarius | 1 | pleasurable
+voluptarius | 2 | sensual
+voluptas | 1 | pleasure
+voluptas | 2 | darling
+voluptas | 3 | plural, public shows, spectacles
+voluptas | 4 | personified, Voluptas, the goddess of pleasure
+voluptuosus | 1 | pleasurable
+volutatio | 1 | wallowing
+volutatio | 2 | restlessness
+voluto | 1 | roll
+voluto | 2 | ponder
+volva | 1 | covering
+volva | 2 | womb
+volvo | 1 | roll
+volvo | 2 | ponder
+vomer | 1 | ploughshare
+vomer | 3 | rarely, a stylus for writing
+vomica | 1 | abscess
+vomica | 2 | plague
+vomitio | 1 | vomiting
+vomitio | 2 | vomit
