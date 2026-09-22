@@ -367,3 +367,32 @@ versabilis | 1 | movable
 versabilis | 2 | changeable
 versatilis | 1 | revolving
 versatilis | 2 | versatile
+versicolor | 1 | multicoloured
+versiculus | 1 | short line
+versiculus | 3 | specifically, of poetry, a line of verse
+versifico | 1 | versify
+versipellis | 1 | shape-shifting
+versipellis | 2 | cunning
+versipellis | 3 | as a noun, a werewolf
+verso | 1 | turn
+verso | 2 | ponder
+verso | 3 | as a deponent, versor, dwell, live, stay in a place
+verso | 4 | as a deponent, versari in aliqua re, be engaged in or occupied with something
+verso | 5 | disturb, agitate, trouble
+versura | 1 | loan
+versura | 3 | literally, a turning or rotation
+versura | 4 | a corner or angle, such as of a wall
+versus3 | 1 | verse
+versus3 | 2 | row
+versus3 | 3 | a land measure, a plethron
+versus3 | 4 | a step or turn in a dance
+versutus | 1 | shrewd
+versutus | 2 | crafty
+vertex | 1 | summit
+vertex | 2 | whirlpool
+vertex | 3 | the crown or top of the head
+vertex | 4 | the pole of the heavens
+vertex | 5 | figuratively, the highest degree, the greatest of something
+vertigo | 1 | dizziness
+vertigo | 2 | rotation
+vertigo | 3 | figuratively, a revolution, a change, an upheaval
