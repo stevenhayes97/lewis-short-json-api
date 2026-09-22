@@ -280,3 +280,23 @@ venio | 3 | venire in aliquid, to come into or fall into a state or condition
 venio | 4 | in speaking, to come to a topic, turn to a subject
 venor | 1 | hunt
 venor | 3 | figuratively, hunt after, pursue an abstract goal, such as praise or votes
+venter | 1 | belly
+venter | 2 | womb
+venter | 3 | transferred, a swelling or bulge, of things
+ventilo | 1 | fan
+ventilo | 2 | winnow
+ventilo | 3 | figuratively, stir up, agitate, disquiet
+ventito | 1 | frequent
+ventosus | 1 | windy
+ventosus | 2 | fickle
+ventosus | 3 | windy, puffed up, vain, conceited
+ventriosus | 1 | pot-bellied
+ventus | 1 | wind
+ventus | 3 | figuratively, wind as a symbol of shifting fortune or popular favour
+ventus | 4 | verba dare in ventos, to waste words, break one's promise
+venumdo | 1 | sell
+venus2 | 1 | sale
+venustas | 1 | charm
+venustas | 2 | beauty
+venustus | 1 | charming
+venustus | 2 | beautiful
