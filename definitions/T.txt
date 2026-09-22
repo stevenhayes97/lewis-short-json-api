@@ -300,7 +300,8 @@ teres | 3 | figuratively, of style, polished, elegant, well-turned
 tergeo | 1 | wipe
 tergeo | 3 | to rub off, polish, burnish
 tergeo | 4 | as an adjective (tersus), clean, neat; of style, terse, polished
-tergiversor | 1 | tergiversate
+tergiversor | 1 | evade
+tergiversor | 3 | to turn one's back on a matter, shuffle, make excuses, hold back
 tergum | 1 | back
 tergum | 3 | terga vertere or dare, to turn tail, flee
 tergum | 4 | transferred, the rear (of an army or position); a tergo, from behind
