@@ -1830,7 +1830,7 @@ subtego | 1 | shield
 subtemen | 1 | weft
 subtemen | 3 | by metonymy, thread, yarn, in general
 subter | 1 | beneath
-subterfluo | 1 | underflow
+subterfluo | 1 | flow beneath
 subterfluo | 3 | figuratively, of fortune, to slip away, to flow past ungratefully
 subterfugio | 1 | evade
 subterfugio | 3 | neuter (very rare), to flee secretly, to get off, to escape by stealth
