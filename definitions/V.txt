@@ -581,8 +581,8 @@ vigilia | 4 | a religious vigil, a nightly festival watch
 vigilo | 1 | stay awake
 vigilo | 2 | be vigilant
 viginti | 1 | twenty
-# review: vigintiviri a specific Roman board of twenty officials; no shorter accurate gloss exists
-vigintiviri | 1 | a board of twenty officials
+# review: vigintiviri a Roman board of twenty officials; "board of twenty" kept at three words, English having no name for it
+vigintiviri | 1 | board of twenty
 vigor | 1 | vigour
 vilico1 | 1 | oversee
 vilico1 | 3 | transferred, live or reside in the country
