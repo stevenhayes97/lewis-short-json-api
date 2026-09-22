@@ -212,3 +212,24 @@ vello | 1 | pluck
 vello | 3 | pull or tear down, such as a rampart
 vello | 4 | pick or gather, of fruit
 vello | 5 | pull, twitch, such as an ear
+vellus | 1 | fleece
+vellus | 3 | transferred, the hide or pelt of an animal
+vellus | 4 | poetic, fleecy clouds or snowflakes
+velo | 1 | veil
+velo | 2 | hide
+velocitas | 1 | speed
+velox | 1 | swift
+velum | 1 | sail
+velum | 2 | covering
+velum | 3 | vela dare, to set sail, figuratively to give free rein to
+velut | 1 | like
+velut | 2 | as if
+vena | 1 | vein
+vena | 3 | strength, vigour
+vena | 4 | a person's natural talent, disposition, or bent
+venalicius | 1 | for sale
+venalicius | 3 | as a noun, a slave-dealer
+venalis | 1 | for sale
+venalis | 2 | venal
+venalis | 3 | as a noun, a slave offered for sale
+venaticus | 1 | hunting
