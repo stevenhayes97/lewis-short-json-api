@@ -646,3 +646,21 @@ vinum | 3 | transferred, rarely, grapes or the vine itself
 vio | 1 | travel
 viola | 1 | violet
 viola | 3 | a violet or purple colour
+violator | 1 | violator
+violenter | 1 | violently
+violentia | 1 | violence
+violentus | 1 | violent
+violo | 1 | violate
+violo | 2 | profane
+vipera | 1 | viper
+vipera | 3 | as a term of abuse, a dangerous or treacherous person
+vipereus | 1 | viperous
+viperinus | 1 | viperous
+viperinus | 2 | serpent-like
+viperinus | 3 | as a noun, dragonwort, a plant
+vir | 1 | man
+vir | 2 | husband
+vir | 3 | a real man, a man of courage or honour
+vir | 4 | military, a soldier
+vir | 5 | manhood, virility, rare
+virago | 1 | female warrior
