@@ -979,7 +979,7 @@ turbulentus | 1 | turbulent
 turbulentus | 3 | of persons, causing trouble, factious, seditious
 turdus | 1 | thrush
 turdus | 3 | transferred, a kind of fish, a sea-bream
-turgeo | 1 | swell
+turgeo | 1 | be swollen
 turgeo | 3 | figuratively, to swell with anger, be enraged
 turgeo | 4 | of speech, to be inflated, turgid, bombastic
 turgesco | 1 | swell up
