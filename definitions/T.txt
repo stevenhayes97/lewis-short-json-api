@@ -863,7 +863,7 @@ tristis | 3 | of taste, harsh, bitter
 tristis | 4 | stern, harsh, severe, of character or judgment
 tristis | 5 | transferred, gloomy, dismal, unhappy, of things or events
 tristitia | 1 | sadness
-tristitia | 3 | moroseness, sourness, of demeanor or character
+tristitia | 3 | moroseness, sourness, of demeanour or character
 tristities | 1 | sadness
 trisulcus | 1 | three-forked
 tritor | 1 | grinder
@@ -881,7 +881,7 @@ triumviralis | 1 | triumviral
 triumviratus | 1 | triumvirate
 triumviri | 1 | triumvirs
 triumviri | 3 | specifically, triumviri reipublicae constituendae, the Second Triumvirate: Antony, Octavian, and Lepidus
-trivialis | 1 | trivial
+trivialis | 1 | commonplace
 trivium | 1 | crossroads
 trivium | 3 | transferred, the public street, highway in general
 trivius | 1 | of crossroads
