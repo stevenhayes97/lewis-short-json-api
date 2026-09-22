@@ -752,7 +752,7 @@ transporto | 1 | transport
 transtrum | 1 | crossbeam
 transtrum | 3 | specifically, a rower's bench, a thwart, in a ship
 transvectio | 1 | crossing
-transvectio | 3 | publicists' term, the review of Roman knights riding past the censor
+transvectio | 3 | political, the review of Roman knights riding past the censor
 transveho | 1 | convey across
 transveho | 3 | mid./passive, to ride or sail across, pass by
 transveho | 4 | to carry along in a triumphal procession
