@@ -736,8 +736,9 @@ transluceo | 1 | shine through
 transmarinus | 1 | overseas
 transmeo | 1 | cross
 transmigro | 1 | migrate
-transmissus2 | 1 | transmission
-transmissus2 | 3 | a passage, a crossing over sea
+transmissus2 | 1 | passage
+transmissus2 | 3 | a crossing over, especially by sea: transmissus ex Gallia in Britanniam, the crossing from Gaul to Britain
+transmissus2 | 4 | rarely, a handing over, transfer
 transmitto | 1 | transmit
 transmitto | 3 | to cross, pass through, traverse
 transmitto | 4 | to entrust, commit, hand over
