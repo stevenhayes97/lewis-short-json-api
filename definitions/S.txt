@@ -1555,7 +1555,7 @@ sto | 5 | idiom, stare aliqua re, to abide by, to adhere to, to rest on somethin
 sto | 6 | of price, to cost, to come to a price
 stolatus | 1 | stola-clad
 stolatus | 3 | as a noun (stolatae), noble matrons
-stolidus | 1 | stolid
+stolidus | 1 | obtuse
 stolo1 | 1 | sucker
 stomachor | 1 | fume
 stomachosus | 1 | irritable
