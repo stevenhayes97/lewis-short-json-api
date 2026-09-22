@@ -402,15 +402,16 @@ quoad | 1 | until
 quoad | 3 | as long as, while
 quoad | 4 | how far, as far as, to what extent
 quoad | 5 | with respect to, as regards
-quocirca | 1 | wherefore
+quocirca | 1 | therefore
 quocumque | 1 | wherever
 quod1 | 1 | because
 quod1 | 2 | that
 quod1 | 3 | in case that, if so be that: quod si, but if
 quod1 | 4 | although, even if
 quod1 | 5 | with verbs of perceiving or declaring, standing in for an object clause: scio quod amet, I know that he loves
-quodammodo | 1 | somewhat
-quodammodo | 3 | in a certain manner, in a way, so to speak
+# review: quodammodo "somewhat" suggested degree where the word means manner; "in a way" kept at three words
+quodammodo | 1 | in a way
+quodammodo | 3 | in a certain manner, so to speak
 quomodo | 1 | how
 quomodo | 3 | relative, corresponding to sic, in the same way as, just as
 quomodo | 4 | indefinite, for quocumque modo, in whatever way
