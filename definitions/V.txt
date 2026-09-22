@@ -583,3 +583,22 @@ viginti | 1 | twenty
 # review: vigintiviri a specific Roman board of twenty officials; no shorter accurate gloss exists
 vigintiviri | 1 | a board of twenty officials
 vigor | 1 | vigour
+vilico1 | 1 | oversee
+vilico1 | 3 | transferred, live or reside in the country
+vilicus | 1 | steward
+vilicus | 3 | transferred, an overseer or superintendent generally
+vilis | 1 | cheap
+vilis | 2 | worthless
+vilis | 3 | poetic, abundant, plentiful, common
+vilitas | 1 | cheapness
+vilitas | 2 | worthlessness
+vilitas | 3 | low esteem, disregard, contempt, for oneself or something
+villa | 1 | villa
+villa | 3 | rarely, a village
+villaticus | 1 | villa
+villosus | 1 | shaggy
+villus | 1 | tuft
+vimen | 1 | withe
+vimen | 3 | woven work, especially a basket
+viminalis | 1 | osier
+viminalis | 3 | Viminalis Collis, the Viminal Hill, one of the seven hills of Rome
