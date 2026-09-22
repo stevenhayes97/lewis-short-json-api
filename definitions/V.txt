@@ -1,0 +1,926 @@
+# key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
+# Source: ls_V.json (Lewis & Short via Perseus), simplified for learners.
+vacatio | 1 | exemption
+vacatio | 3 | exemption from military service
+vacatio | 4 | a sum paid to be exempted from military service
+vacillo | 1 | stagger
+vacillo | 2 | waver
+vacillo | 3 | hesitate, be unsteady or unreliable, of things or arguments
+vacivus | 1 | empty
+vaco | 1 | be empty
+vaco | 2 | have leisure
+vaco | 3 | be free from or without something, with ablative
+vaco | 4 | vacare alicui rei, to devote oneself to something
+vaco | 5 | of an office or position, be vacant, unfilled
+vaco | 6 | of a woman, be unmarried
+vacue2 | 1 | empty
+vacue2 | 3 | abolish, do away with
+vacuitas | 1 | emptiness
+vacuitas | 2 | freedom
+vacuitas | 3 | freedom or immunity from something, with genitive
+vacuitas | 4 | a vacancy in an office
+vacuo | 1 | empty
+vacuus | 1 | empty
+vacuus | 2 | free
+vacuus | 3 | free from or without something, with ablative or ab and ablative
+vacuus | 4 | at leisure, unoccupied, having free time
+vacuus | 5 | of a woman, unmarried, single
+vacuus | 6 | of property, unclaimed, without an owner
+vadimonium | 1 | bail
+vadimonium | 3 | a promise, secured by bail, to appear in court on a set day
+vadimonium | 4 | transferred, an appointment, a fixed time
+vado1 | 1 | go
+vado1 | 2 | rush
+vado1 | 3 | of a river, flow, run
+vado1 | 4 | transferred, of feelings or fortune, advance, proceed
+vador | 1 | bind over
+vador | 3 | bind someone over by bail to appear in court
+vadosus | 1 | shallow
+vadum | 1 | shallows
+vadum | 2 | ford
+vadum | 3 | transferred, a body of water, the sea
+vadum | 4 | the depths, the bottom of a body of water
+vadum | 5 | in vado esse, to be in a safe position, out of danger
+vadum | 6 | figuratively, shallows as a danger, treacherous ground
+vae | 1 | alas
+vae | 3 | vae misero mihi, woe is me, with dative of the person
+vafer | 1 | crafty
+vagina | 1 | sheath
+vagina | 3 | transferred, the covering or casing of anything
+vagina | 4 | the husk of an ear of grain
+vagina | 5 | the vagina, anatomical
+vagio | 1 | wail
+vagio | 3 | transferred, of loud sounds generally, resound
+vagitus | 1 | wailing
+vago | 1 | wander
+vagor1 | 1 | wander
+vagor1 | 3 | be unsettled or inconstant; spread or circulate widely, of rumour or fame
+vagus | 1 | wandering
+vagus | 2 | vague
+vah | 1 | oh
+valentia1 | 1 | strength
+valentia1 | 3 | capacity, endowment
+valeo | 1 | be strong
+valeo | 2 | be well
+valeo | 3 | with infinitive, be able to do something
+valeo | 4 | have force, power, or influence; prevail
+valeo | 5 | vale, farewell, goodbye, used in greeting or leave-taking
+valeo | 6 | be valid or in effect, of laws, arguments, or contracts
+valeo | 7 | of money, be worth
+valeo | 8 | of words, mean, signify
+valesco | 1 | strengthen
+valetudinarius | 1 | sickly
+valetudinarius | 3 | as a noun, an invalid, a person in poor health
+valetudinarius | 4 | as a neuter noun, a hospital, infirmary, especially for the army
+valetudo | 1 | health
+valetudo | 3 | good health, soundness of body
+valetudo | 4 | ill health, sickness, infirmity
+valetudo | 5 | transferred, of the mind, soundness, sanity
+valgus | 1 | bow-legged
+valgus | 3 | transferred, of a mouth, wry, twisted
+validus | 1 | strong
+validus | 2 | healthy
+validus | 3 | of medicine, potent, effective
+valles | 1 | valley
+valles | 3 | vallis plorationis, valley of tears
+valles | 4 | poetic, a hollow, a cavity, such as of the armpit
+vallo | 1 | fortify
+vallo | 3 | surround with a rampart and palisade, entrench, military
+vallum | 1 | rampart
+vallum | 3 | transferred, a wall, a fortification
+vallus1 | 1 | stake
+vallus1 | 3 | collectively, a palisaded rampart
+vallus1 | 4 | transferred, a point or spike, such as the tooth of a comb
+valva | 1 | folding door
+vanesco | 1 | vanish
+vanitas | 1 | emptiness
+vanitas | 2 | vanity
+vanitas | 3 | falsehood, deception, untrustworthiness
+vanus | 1 | vain
+vanus | 2 | false
+vanus | 3 | boastful, vainglorious, conceited
+vanus | 4 | literally, empty, void, containing nothing
+vapidus | 1 | flat
+vapidus | 3 | transferred, spoiled, bad
+vapor | 1 | steam
+vapor | 2 | warmth
+vapor | 3 | figuratively, ardour, the warmth of love
+vaporo | 1 | steam
+vaporo | 2 | heat
+vaporo | 3 | fumigate, perfume with smoke
+vappa | 1 | flat wine
+vappa | 3 | transferred, a good-for-nothing, a worthless person
+vapulo | 1 | be flogged
+vapulo | 3 | of troops, be beaten, be defeated
+vapulo | 4 | of property, be squandered, wasted
+vapulo | 5 | figuratively, be attacked, be assailed
+varico | 1 | straddle
+varicosus | 1 | varicose
+variego | 1 | variegate
+varietas | 1 | variety
+varietas | 3 | transferred, varied or colourful clothing
+vario | 1 | vary
+vario | 3 | waver, fluctuate, be inconsistent, of fortune or feeling
+varius1 | 1 | varied
+varius1 | 2 | mottled
+varius1 | 3 | of a person's abilities, versatile
+varius1 | 4 | of a person's character, fickle, inconstant, untrustworthy
+varus1 | 1 | bent inward
+varus1 | 3 | of legs, knock-kneed
+varus1 | 4 | poetic, different, diverse from another
+vas1 | 1 | surety
+vas2 | 1 | vessel
+vas2 | 3 | plural, military equipment, baggage
+vasarium | 1 | furniture allowance
+vasarium | 3 | archives, records, post-classical
+vasculum | 1 | small vessel
+vasculum | 3 | transferred, the seed-pod of a plant
+vastatio | 1 | devastation
+vastitas | 1 | wasteland
+vastitas | 2 | vastness
+vastitas | 3 | transferred, devastation, destruction, ruin
+vastitudo | 1 | destruction
+vastitudo | 2 | immensity
+vasto | 1 | devastate
+vasto | 3 | literally, empty, leave deserted or uninhabited
+vastus | 1 | vast
+vastus | 2 | desolate
+vastus | 3 | of manner or speech, rude, rough, uncultivated
+vastus | 4 | laid waste, ravaged, devastated
+vates | 1 | seer
+vates | 2 | poet
+vates | 3 | an authority or master in an art or profession
+vaticinor | 1 | prophesy
+vaticinor | 2 | rave
+vaticinor | 3 | sing or celebrate as a poet
+vatius | 1 | bow-legged
+ve1 | 1 | or
+vecordia | 1 | folly
+vecordia | 2 | madness
+vecors | 1 | foolish
+vecors | 2 | mad
+vectigal | 1 | tax
+vectigal | 2 | revenue
+vectigal | 3 | an honorarium or contribution paid to a magistrate
+vectigalis | 1 | tributary
+vectigalis | 2 | profitable
+vectis1 | 1 | lever
+vectis1 | 2 | bolt
+vecto | 1 | carry
+vector | 1 | passenger
+vector | 2 | carrier
+vectura | 1 | transport
+vectura | 2 | fare
+vegeo | 1 | quicken
+vegeo | 3 | be lively, active, intransitive
+vegeto | 1 | invigorate
+vegetus | 1 | lively
+vegrandis | 1 | small
+vegrandis | 3 | in one disputed citation, very great
+vehemens | 1 | vehement
+vehemens | 2 | powerful
+vehementer | 1 | vehemently
+vehementer | 2 | very
+vehementia | 1 | vehemence
+vehementia | 2 | strength
+vehes | 1 | cartload
+vehiculum | 1 | vehicle
+vehiculum | 3 | specifically, a wagon, cart, or rarely a ship
+veho | 1 | carry
+veho | 2 | ride
+vel | 1 | or
+vel | 2 | even
+vel | 3 | vel ... vel, either ... or
+vel | 4 | with superlatives, the very, the utmost
+velamentum | 1 | covering
+velamentum | 2 | pretext
+velamentum | 3 | plural, olive branches bound with wool, carried by suppliants
+veles | 1 | skirmisher
+velifico | 1 | sail
+velificor | 1 | sail
+velificor | 2 | strive
+velificor | 3 | velificari alicui rei, work to achieve or secure something
+velitatio | 1 | bickering
+velitor | 1 | skirmish
+velitor | 3 | figuratively, attack with jests, gibes, or taunts
+velivolus | 1 | sail-winged
+velivolus | 3 | absolutely, of the sea, covered with ships under sail
+vellico | 1 | pinch
+vellico | 2 | taunt
+vellico | 3 | wake up, rouse, stir, of the mind
+vello | 1 | pluck
+vello | 3 | pull or tear down, such as a rampart
+vello | 4 | pick or gather, of fruit
+vello | 5 | pull, twitch, such as an ear
+vellus | 1 | fleece
+vellus | 3 | transferred, the hide or pelt of an animal
+vellus | 4 | poetic, fleecy clouds or snowflakes
+velo | 1 | veil
+velo | 2 | hide
+velocitas | 1 | speed
+velox | 1 | swift
+velum | 1 | sail
+velum | 2 | covering
+velum | 3 | vela dare, to set sail, figuratively to give free rein to
+velut | 1 | like
+velut | 2 | as if
+vena | 1 | vein
+vena | 3 | strength, vigour
+vena | 4 | a person's natural talent, disposition, or bent
+venalicius | 1 | for sale
+venalicius | 3 | as a noun, a slave-dealer
+venalis | 1 | for sale
+venalis | 2 | venal
+venalis | 3 | as a noun, a slave offered for sale
+venaticus | 1 | hunting
+venatio | 1 | hunting
+venatio | 2 | game
+venatio | 3 | a public hunting spectacle, a beast-combat in the arena
+venator | 1 | hunter
+venator | 3 | one who fights wild beasts in the arena
+venatus | 1 | hunting
+venatus | 3 | transferred, game
+vendibilis | 1 | salable
+vendibilis | 2 | popular
+venditatio | 1 | boasting
+venditio | 1 | sale
+vendito | 1 | hawk
+vendito | 2 | praise
+vendito | 3 | se venditare alicui, to curry favour with someone
+vendito | 4 | betray
+venditor | 1 | seller
+vendo | 1 | sell
+vendo | 2 | betray
+vendo | 3 | cry up, praise, promote, as if for sale
+veneficium | 1 | poisoning
+veneficium | 2 | sorcery
+veneficus | 1 | poisonous
+veneficus | 2 | magic
+veneficus | 3 | as a noun, a poisoner, sorcerer, or witch
+veneno | 1 | poison
+veneno | 2 | dye
+veneno | 3 | figuratively, harm, injure, with words
+venenum | 1 | poison
+venenum | 2 | charm
+venenum | 3 | dye, colouring material
+veneo | 1 | be sold
+venerabilis | 1 | venerable
+venerabilis | 3 | post-classical, showing veneration, reverential
+veneratio | 1 | veneration
+veneratio | 3 | venerableness, the quality that commands reverence
+veneror | 1 | worship
+veneror | 2 | beseech
+veneror | 3 | revere, honour, pay homage to a person
+venia | 1 | favour
+venia | 2 | pardon
+venia | 3 | permission, leave, especially veniam dare, to grant permission
+venia | 4 | bona venia, by your leave, with kind permission
+venio | 1 | come
+venio | 3 | venire in aliquid, to come into or fall into a state or condition
+venio | 4 | in speaking, to come to a topic, turn to a subject
+venor | 1 | hunt
+venor | 3 | figuratively, hunt after, pursue an abstract goal, such as praise or votes
+venter | 1 | belly
+venter | 2 | womb
+venter | 3 | transferred, a swelling or bulge, of things
+ventilo | 1 | fan
+ventilo | 2 | winnow
+ventilo | 3 | figuratively, stir up, agitate, disquiet
+ventito | 1 | frequent
+ventosus | 1 | windy
+ventosus | 2 | fickle
+ventosus | 3 | windy, puffed up, vain, conceited
+ventriosus | 1 | pot-bellied
+ventus | 1 | wind
+ventus | 3 | figuratively, wind as a symbol of shifting fortune or popular favour
+ventus | 4 | verba dare in ventos, to waste words, break one's promise
+venumdo | 1 | sell
+venus2 | 1 | sale
+venustas | 1 | charm
+venustas | 2 | beauty
+venustus | 1 | charming
+venustus | 2 | beautiful
+vepres | 1 | bramble
+ver | 1 | spring
+ver | 3 | poetic, the springtime of life, youth
+ver | 4 | ver sacrum, a spring offering of firstlings to the gods
+verax | 1 | truthful
+verbena | 1 | sacred boughs
+verbena | 3 | medicinal herbs, such as olive, myrtle, or ivy
+verber | 1 | lash
+verber | 2 | blow
+verber | 3 | figuratively, blows or lashes, of harsh words or misfortune
+verberatio | 1 | beating
+verberatio | 3 | chastisement, punishment
+verbero1 | 1 | flog
+verbero1 | 2 | strike
+verbero1 | 3 | figuratively, harass, torment with words
+verbosus | 1 | verbose
+verbum | 1 | word
+verbum | 2 | verb
+verbum | 3 | ad verbum, word for word, literally
+verbum | 4 | verbi causa, for example
+verbum | 5 | mere talk, empty words, as opposed to fact
+verecundia | 1 | modesty
+verecundia | 3 | excessive shyness, timidity, with an implication of blame
+verecundia | 4 | a sense of shame, a disgrace
+verecundor | 1 | be bashful
+verecundus | 1 | modest
+verecundus | 3 | late Latin, worthy of reverence, venerable
+vereor | 1 | fear
+vereor | 2 | revere
+vereor | 3 | with infinitive, hesitate or be reluctant to do something
+vereor | 4 | vereor ne, fear that something bad may happen
+vergo | 1 | incline
+vergo | 3 | of places, lie or face in a direction
+vergo | 4 | figuratively, tend or incline toward something
+veridicus | 1 | truthful
+veridicus | 3 | transferred, of a thing, true, veritable
+veritas | 1 | truth
+veritas | 2 | integrity
+veritas | 3 | reality, the true nature of something, especially in art
+vermiculor | 1 | become wormy
+vermiculus | 1 | grub
+vermiculus | 3 | biblical, the scarlet worm, source of a red dye
+vermino | 1 | have worms
+vermino | 2 | ache
+verna | 1 | native slave
+verna | 3 | transferred, a native of a place, not necessarily a slave
+verna | 4 | as an adjective, native, local, home-grown
+vernaculus | 1 | native
+vernaculus | 3 | as a noun, a household jester or buffoon
+vernilis | 1 | servile
+vernilis | 2 | waggish
+verno | 1 | bloom
+verno | 3 | figuratively, be young, fresh, or vigorous
+vernula | 1 | young slave
+vernula | 3 | transferred, native, indigenous, home-grown
+vernus2 | 1 | spring
+verres1 | 1 | boar-pig
+verro | 1 | sweep
+verro | 3 | sweep along, drive, impel, of wind or waves
+verro | 4 | sweep away, carry off, drag away
+verruca | 1 | wart
+verruca | 3 | archaic, a steep place, a height
+verruca | 4 | figuratively, a slight fault, a minor blemish
+versabilis | 1 | movable
+versabilis | 2 | changeable
+versatilis | 1 | revolving
+versatilis | 2 | versatile
+versicolor | 1 | multicoloured
+versiculus | 1 | short line
+versiculus | 3 | specifically, of poetry, a line of verse
+versifico | 1 | versify
+versipellis | 1 | shape-shifting
+versipellis | 2 | cunning
+versipellis | 3 | as a noun, a werewolf
+verso | 1 | turn
+verso | 2 | ponder
+verso | 3 | as a deponent, versor, dwell, live, stay in a place
+verso | 4 | as a deponent, versari in aliqua re, be engaged in or occupied with something
+verso | 5 | disturb, agitate, trouble
+versura | 1 | loan
+versura | 3 | literally, a turning or rotation
+versura | 4 | a corner or angle, such as of a wall
+versus3 | 1 | verse
+versus3 | 2 | row
+versus3 | 3 | a land measure, a plethron
+versus3 | 4 | a step or turn in a dance
+versutus | 1 | shrewd
+versutus | 2 | crafty
+vertex | 1 | summit
+vertex | 2 | whirlpool
+vertex | 3 | the crown or top of the head
+vertex | 4 | the pole of the heavens
+vertex | 5 | figuratively, the highest degree, the greatest of something
+vertigo | 1 | dizziness
+vertigo | 2 | rotation
+vertigo | 3 | figuratively, a revolution, a change, an upheaval
+verto | 1 | turn
+verto | 2 | change
+verto | 3 | of literary works, translate, render into another language
+verto | 4 | overturn, overthrow, destroy
+verto | 5 | exchange, interchange
+verto | 6 | intransitive, turn oneself, turn about, change direction
+veru | 1 | spit
+veru | 2 | javelin
+veru | 3 | plural, a paling or railing around an altar or tomb
+verumtamen | 1 | nevertheless
+verus | 1 | true
+verus | 2 | right
+verus | 3 | as a noun, verum, the truth, reality
+verus | 4 | as an adverb, vero, in truth, certainly, indeed
+verus | 5 | as an adverb, vero, but, however, always second word in a clause
+verus | 6 | as a particle, verum, but, however, in a transition
+verus | 7 | as an adverb, vere, truly, really, rightly
+verutum | 1 | javelin
+vesanus | 1 | mad
+vesanus | 2 | raging
+vescor | 1 | eat
+vescor | 2 | enjoy
+vesculus | 1 | trifling
+vescus | 1 | weak
+vescus | 2 | corroding
+vesica | 1 | bladder
+vesica | 2 | bombast
+vesica | 3 | a blister, a bladder-like swelling
+vesper | 1 | evening
+vesper | 2 | west
+vesper | 3 | the evening star, Venus
+vespera | 1 | evening
+vespera | 2 | west
+vespertinus | 1 | evening
+vespertinus | 2 | western
+vester | 1 | your
+vestiarius | 1 | clothes
+vestiarius | 3 | as a noun, a clothes-dealer
+vestiarius | 4 | as a neuter noun, a wardrobe or clothes-press
+vestibulum | 1 | vestibule
+vestibulum | 3 | transferred, an entrance to something
+vestibulum | 4 | figuratively, a beginning, an opening
+vestigium | 1 | footprint
+vestigium | 2 | trace
+vestigium | 3 | e vestigio, instantly, on the spot
+vestigium | 4 | a moment, an instant of time
+vestigo | 1 | track
+vestigo | 2 | investigate
+vestimentum | 1 | garment
+vestio | 1 | clothe
+vestio | 2 | cover
+vestio | 3 | figuratively, adorn or embellish, of plain thoughts with rich language
+vestio | 4 | rare, invest with the imperial purple, make emperor
+vestis | 1 | clothing
+vestis | 2 | tapestry
+vestis | 3 | mutare vestem, to put on mourning clothes
+vestis | 4 | poetic, any covering, such as a serpent's skin or a spider's web
+vestitus2 | 1 | clothing
+vestitus2 | 3 | transferred, covering, of inanimate things
+vestitus2 | 4 | figuratively, of oratory, style, verbal dress
+veteranus | 1 | veteran
+veteranus | 2 | experienced
+veterasco | 1 | age
+veterator | 1 | expert
+veterator | 2 | old fox
+veterator | 3 | an old slave, as opposed to a newly bought one
+veteratorius | 1 | crafty
+veterinarius | 1 | veterinary
+veterinarius | 3 | as a noun, a veterinarian, an animal doctor
+veterinus | 1 | draught
+veterinus | 3 | as a noun, draught-cattle, beasts of burden
+veternosus | 1 | lethargic
+veternosus | 3 | figuratively, languid, spiritless, sluggish
+veternus1 | 1 | lethargy
+veternus1 | 2 | sloth
+veternus1 | 3 | post-classical, as an adjective, old, ancient
+veternus1 | 4 | rarely, old age; also, old filth or dirt
+veto | 1 | forbid
+veto | 3 | veto, I forbid it, I protest, the tribunes' formula for blocking a measure
+veto | 4 | as a noun, vetitum, a prohibition, a forbidden thing
+vetulus | 1 | old
+vetulus | 3 | as a noun, a little old man or woman
+vetus | 1 | old
+vetus | 3 | as a noun, veteres, the ancients, forefathers
+vetus | 4 | as a neuter noun, vetera, old things, the past, antiquity
+vetustas | 1 | age
+vetustas | 2 | antiquity
+vetustas | 3 | posterity, future generations
+vetustus | 1 | ancient
+vexatio | 1 | vexation
+vexatio | 3 | literally, a violent shaking or movement, rare
+vexatio | 4 | persecution
+vexillarius | 1 | standard-bearer
+vexillarius | 3 | transferred, a leader or captain, such as of a band of robbers
+vexillatio | 1 | detachment
+vexillatio | 3 | specifically, a division of cavalry, a squadron
+vexillum | 1 | standard
+vexillum | 3 | transferred, the troop of soldiers belonging to a standard, a company
+vexo | 1 | harass
+vexo | 2 | damage
+vexo | 3 | literally, rare, shake, jolt, toss violently
+via | 1 | road
+via | 2 | way
+via | 3 | a march, a journey
+viaticus | 1 | travel funds
+viaticus | 3 | money saved by a soldier, prize money from military service
+viator | 1 | traveller
+viator | 2 | summoner
+viatorius | 1 | travel
+viatorius | 3 | of or belonging to summoners, official messengers
+vibro | 1 | brandish
+vibro | 2 | vibrate
+vibro | 3 | hurl, launch, throw with vibratory force
+vibro | 4 | glimmer, glitter, gleam
+vicanus | 1 | village
+vicanus | 3 | as a noun, villagers, peasants
+vicarius | 1 | vicarious
+vicarius | 2 | substitute
+vicenarius | 1 | twenty
+vicenarius | 3 | as a noun, a youth of twenty years old
+viceni | 1 | twenty each
+vicesimus | 1 | twentieth
+vicesimus | 3 | as a noun, the twentieth part, a five percent tax
+viciens | 1 | twenty times
+vicinia | 1 | neighbourhood
+vicinia | 2 | resemblance
+vicinitas | 1 | neighbourhood
+vicinitas | 2 | resemblance
+vicinus | 1 | neighbouring
+vicinus | 2 | similar
+vicinus | 3 | as a noun, a neighbour
+vicis | 1 | turn
+vicis | 2 | place
+vicis | 3 | vice, with genitive, instead of, in the place of, or like, after the manner of
+vicis | 4 | in vicem, by turns, alternately, reciprocally
+vicis | 5 | fate, lot, condition, fortune of a person
+vicissim | 1 | in turn
+vicissitudo | 1 | alternation
+victima | 1 | sacrifice
+victima | 2 | victim
+victimarius | 1 | sacrificial
+victimarius | 3 | as a noun, an assistant at sacrifices
+victimarius | 4 | as a noun, a dealer in sacrificial animals
+victito | 1 | subsist
+victor1 | 1 | victor
+victor1 | 2 | victorious
+victoria | 1 | victory
+victoria | 3 | personified, Victoria, the Roman goddess of Victory
+victoria | 4 | a battle-cry, a shout of victory
+victoriatus1 | 1 | victory coin
+victoriatus1 | 3 | as a weight, an apothecaries' measure
+victrix | 1 | victorious
+victrix | 3 | as a noun, a female conqueror, a victress
+victus2 | 1 | sustenance
+victus2 | 2 | lifestyle
+vicus | 1 | street
+vicus | 2 | village
+videlicet | 1 | namely
+videlicet | 2 | evidently
+videlicet | 3 | ironically, of course, forsooth
+video | 1 | see
+video | 2 | seem
+video | 3 | understand, perceive mentally, realise
+video | 4 | see to it, take care, make sure, often with ut and the subjunctive
+video | 5 | visit, go to see, colloquial
+viduo | 1 | bereave
+viduus | 1 | widowed
+viduus | 2 | bereft
+viduus | 3 | as a noun, vidua, a widow
+vieo | 1 | weave
+vigeo | 1 | thrive
+vigeo | 2 | be alive
+vigesco | 1 | flourish
+vigil | 1 | watchful
+vigil | 3 | as a noun, a watchman, a sentinel
+vigilantia | 1 | vigilance
+vigilantia | 3 | literally, wakefulness, sleeplessness, rare
+vigilia | 1 | wakefulness
+vigilia | 2 | watch
+vigilia | 3 | one of the four three-hour periods of the Roman night
+vigilia | 4 | a religious vigil, a nightly festival watch
+vigilo | 1 | stay awake
+vigilo | 2 | be vigilant
+viginti | 1 | twenty
+# review: vigintiviri a specific Roman board of twenty officials; no shorter accurate gloss exists
+vigintiviri | 1 | a board of twenty officials
+vigor | 1 | vigour
+vilico1 | 1 | oversee
+vilico1 | 3 | transferred, live or reside in the country
+vilicus | 1 | steward
+vilicus | 3 | transferred, an overseer or superintendent generally
+vilis | 1 | cheap
+vilis | 2 | worthless
+vilis | 3 | poetic, abundant, plentiful, common
+vilitas | 1 | cheapness
+vilitas | 2 | worthlessness
+vilitas | 3 | low esteem, disregard, contempt, for oneself or something
+villa | 1 | villa
+villa | 3 | rarely, a village
+villaticus | 1 | villa
+villosus | 1 | shaggy
+villus | 1 | tuft
+vimen | 1 | withe
+vimen | 3 | woven work, especially a basket
+viminalis | 1 | osier
+viminalis | 3 | Viminalis Collis, the Viminal Hill, one of the seven hills of Rome
+vinaceus | 1 | grape
+vinaceus | 3 | as a noun, a grape-stone or grape-skin
+vinalis | 1 | wine
+vinalis | 3 | as a plural noun, Vinalia, the Roman wine festival
+vinarius | 1 | wine
+vinarius | 3 | as a noun, a wine-dealer, a vintner
+vinarius | 4 | as a neuter noun, a wine-flask or wine-jar
+vincio | 1 | bind
+vincio | 3 | figuratively, fetter, restrain, hold fast, emotionally or morally
+vinco | 1 | conquer
+vinco | 2 | surpass
+vinco | 3 | in a lawsuit, win, be successful
+vinco | 4 | prove, demonstrate conclusively
+vinco | 5 | outlast, survive
+vinculum | 1 | bond
+vinculum | 3 | plural, chains, fetters, hence imprisonment
+vindemia | 1 | vintage
+vindemia | 3 | transferred, the harvest of other things, such as olives or honey
+vindemiator | 1 | vintager
+vindemiator | 3 | astronomical, a star in the constellation Virgo
+vindex | 1 | defender
+vindex | 2 | avenger
+vindicatio | 1 | legal claim
+vindicatio | 2 | vindication
+vindiciae | 1 | legal claim
+vindico | 1 | claim
+vindico | 2 | avenge
+vindico | 3 | in libertatem vindicare, to set free, emancipate
+vindico | 4 | defend, protect, deliver
+vindicta | 1 | vengeance
+vindicta | 3 | literally, the ceremonial rod used to free a slave in manumission
+vindicta | 4 | a vindication, a means of protection or defence, especially of freedom
+vinetum | 1 | vineyard
+vineus | 1 | vineyard
+vineus | 2 | siege shed
+vineus | 3 | a vine, the plant itself
+vinolentus | 1 | drunk
+vinosus | 1 | drunk
+vinosus | 2 | winebibbing
+vinum | 1 | wine
+vinum | 3 | transferred, rarely, grapes or the vine itself
+vio | 1 | travel
+viola | 1 | violet
+viola | 3 | a violet or purple colour
+violator | 1 | violator
+violenter | 1 | violently
+violentia | 1 | violence
+violentus | 1 | violent
+violo | 1 | violate
+violo | 2 | profane
+vipera | 1 | viper
+vipera | 3 | as a term of abuse, a dangerous or treacherous person
+vipereus | 1 | viperous
+viperinus | 1 | viperous
+viperinus | 2 | serpent-like
+viperinus | 3 | as a noun, dragonwort, a plant
+vir | 1 | man
+vir | 2 | husband
+vir | 3 | a real man, a man of courage or honour
+vir | 4 | military, a soldier
+vir | 5 | manhood, virility, rare
+virago | 1 | female warrior
+virectum | 1 | greensward
+vireo1 | 1 | be green
+vireo1 | 2 | flourish
+viresco | 1 | turn green
+viresco | 2 | flourish
+virga | 1 | twig
+virga | 2 | rod
+virga | 3 | a stripe or streak, such as in a garment or the sky
+virga | 4 | a branch of a family or genealogical tree
+virgatus | 1 | wicker
+virgatus | 2 | striped
+virginalis | 1 | virginal
+virgineus | 1 | virginal
+virginitas | 1 | virginity
+virgo | 1 | virgin
+virgo | 3 | a Vestal Virgin, a priestess of Vesta
+virgo | 4 | the constellation Virgo
+virgo | 5 | as an adjective, unwedded, pure, untouched, of things
+virgula | 1 | wand
+virgula | 3 | virgula divina, a divining rod
+virgultum | 1 | thicket
+virgultum | 3 | cuttings or slips of trees, for planting
+viridis | 1 | green
+viridis | 2 | youthful
+viriditas | 1 | greenness
+viriditas | 2 | vigour
+virido | 1 | make green
+virido | 3 | intransitive, chiefly as the participle viridans, growing green, verdant
+virilis | 1 | manly
+virilis | 2 | male
+virilis | 3 | virilis pars, an equal share, especially in an inheritance
+virilis | 4 | grammatical, of the masculine gender
+virilitas | 1 | manhood
+virilitas | 3 | manly vigour, manliness of character
+virilitas | 4 | concretely, the male genitals
+viritim | 1 | individually
+virosus2 | 1 | slimy
+virosus2 | 2 | poisonous
+virosus2 | 3 | having a bad odour, stinking, fetid
+virtus | 1 | courage
+virtus | 2 | virtue
+virtus | 3 | excellence, worth, or value, of a person, animal, or thing
+virtus | 4 | personified, Virtue, a Roman deity
+virus | 1 | poison
+virus | 2 | slime
+virus | 3 | an offensive odour, a stench
+virus | 4 | a sharp, salty taste, such as of seawater
+vis | 1 | force
+vis | 2 | violence
+vis | 3 | plural vires, strength, physical power of a person
+vis | 4 | abundance, a great quantity or number, with genitive
+vis | 5 | plural vires, military forces, troops
+vis | 6 | of words or abstract things, meaning, sense, essence
+viscatus | 1 | limed
+viscatus | 3 | figuratively, entangling, ensnaring
+viscum | 1 | mistletoe
+viscum | 2 | birdlime
+viscus1 | 1 | viscera
+viscus1 | 2 | offspring
+viscus1 | 3 | figuratively, the depths or inmost part of something
+visibilis | 1 | visible
+visibilis | 3 | rare, active sense, able to see, seeing
+visio | 1 | vision
+visio | 2 | idea
+visito | 1 | visit
+visito | 2 | see
+visito | 3 | ecclesiastical, punish
+viso | 1 | view
+viso | 2 | visit
+visum | 1 | vision
+visum | 3 | philosophical term translating Greek phantasia, a sense-impression
+visus2 | 1 | sight
+visus2 | 2 | apparition
+visus2 | 3 | the organ of sight, the eyes
+visus2 | 4 | appearance, semblance, probability
+vita | 1 | life
+vita | 2 | lifestyle
+vita | 3 | the living, mankind, poetic
+vita | 4 | a biography, an account of someone's life
+vita | 5 | mea vita, my darling, a term of endearment
+vitabundus | 1 | evasive
+vitalis | 1 | vital
+vitalis | 3 | as a plural noun, vitalia, the vital organs
+vitalis | 4 | as a plural noun, vitalia, graveclothes
+vitellus | 1 | yolk
+vitellus | 3 | as a term of endearment, little calf, dear one
+vitilis | 1 | wicker
+vitilis | 3 | as a plural noun, vitilia, wickerwork
+vitio | 1 | corrupt
+vitio | 2 | violate
+vitio | 3 | invalidate, make legally void
+vitiositas | 1 | viciousness
+vitiosus | 1 | faulty
+vitiosus | 2 | vicious
+vitis | 1 | vine
+vitis | 2 | centurion's staff
+vitis | 3 | by extension, the rank or office of centurion
+vitis | 4 | a vine-branch
+vitium | 1 | fault
+vitium | 2 | vice
+vitium | 3 | a defect in the auspices or auguries, invalidating an act
+vitium | 4 | a violation of chastity
+vito | 1 | avoid
+vitreus | 1 | glass
+vitreus | 2 | glassy
+vitricus | 1 | stepfather
+vitrum | 1 | glass
+vitrum | 2 | woad
+vitta | 1 | fillet
+vitta | 3 | specifically, a sacrificial or priestly headband
+vitulinus | 1 | veal
+vitulinus | 3 | as an adjective, of a calf, veal-
+vitulor | 1 | rejoice
+vitulus | 1 | calf
+vitulus | 3 | vitulus marinus, or simply vitulus, a seal
+vituperatio | 1 | blame
+vitupero1 | 1 | blame
+vitupero1 | 3 | in religious language, spoil an omen, render it defective
+vivacitas | 1 | longevity
+vivacitas | 2 | liveliness
+vivarius | 1 | living
+vivarius | 3 | as a noun, vivarium, a game preserve or fish pond
+vivax | 1 | long-lived
+vivax | 2 | lively
+vivesco | 1 | come alive
+vivesco | 2 | thrive
+vividus | 1 | vivid
+vividus | 2 | lively
+vivo | 1 | live
+vivo | 2 | survive
+vivo | 3 | live well, live at ease, enjoy life
+vivo | 4 | live on something, subsist, support oneself, with ablative
+vivo | 5 | reside, dwell, in a place
+vivus | 1 | alive
+vivus | 3 | ad vivum, to the quick, cutting into living flesh
+vivus | 4 | de vivo, from the principal, a financial metaphor
+vix | 1 | scarcely
+vix | 3 | vix ... cum, scarcely had ... when, denoting immediate succession
+vocabulum | 1 | name
+vocabulum | 3 | grammatical, a common noun, a substantive
+vocalis | 1 | vocal
+vocalis | 2 | vowel
+vocatus | 1 | summons
+vocatus | 3 | specifically, an invitation to dinner
+vociferor | 1 | shout
+vocito | 1 | call
+voco | 1 | call
+voco | 2 | name
+voco | 3 | invite, to dinner or as a guest
+voco | 4 | summon, into court, before a magistrate
+voco | 5 | bring into or expose to a condition, such as vocare in invidiam, to expose to ill will
+vocula | 1 | feeble voice
+vocula | 3 | transferred, a petty speech, or a minor word or particle
+volaticus | 1 | winged
+volaticus | 2 | flighty
+volaticus | 3 | as a noun, volatica, a witch, sorceress
+volatilis | 1 | winged
+volatilis | 2 | fleeting
+volatus | 1 | flight
+volatus | 3 | poetic, any swift motion, rapid course, velocity
+volito | 1 | flit
+volito | 2 | hover
+volito | 3 | figuratively, be widely talked of, live on in fame
+volo1 | 1 | want
+volo1 | 2 | be willing
+volo1 | 3 | intend, mean, purpose
+volo1 | 4 | si vis, please, if you would be so kind
+volo1 | 5 | as an adjective, volens, willing, voluntary
+volo1 | 6 | require, demand, be of the opinion that something should be
+volo2 | 1 | fly
+volo2 | 2 | speed
+volo3 | 1 | volunteer
+volsella | 1 | tweezers
+volubilis | 1 | revolving
+volubilis | 2 | fluent
+volubilis | 3 | of fate or fortune, changeable, fickle
+volubilitas | 1 | whirling
+volubilitas | 2 | fluency
+volubilitas | 3 | of fate, changeableness, fickleness
+volucer | 1 | winged
+volucer | 2 | fleeting
+volucer | 3 | as a noun, volucris, a bird
+volumen | 1 | scroll
+volumen | 2 | coil
+volumen | 3 | a book, a division of a larger work
+voluntarius | 1 | voluntary
+voluntarius | 3 | as a noun, a volunteer, a volunteer soldier
+voluntas | 1 | will
+voluntas | 2 | goodwill
+voluntas | 3 | a last will, a testament
+voluntas | 4 | the meaning or sense of words, post-Augustan
+volup | 1 | pleasantly
+voluptarius | 1 | pleasurable
+voluptarius | 2 | sensual
+voluptas | 1 | pleasure
+voluptas | 2 | darling
+voluptas | 3 | plural, public shows, spectacles
+voluptas | 4 | personified, Voluptas, the goddess of pleasure
+voluptuosus | 1 | pleasurable
+volutatio | 1 | wallowing
+volutatio | 2 | restlessness
+voluto | 1 | roll
+voluto | 2 | ponder
+volva | 1 | covering
+volva | 2 | womb
+volvo | 1 | roll
+volvo | 2 | ponder
+vomer | 1 | ploughshare
+vomer | 3 | rarely, a stylus for writing
+vomica | 1 | abscess
+vomica | 2 | plague
+vomitio | 1 | vomiting
+vomitio | 2 | vomit
+vomitorius | 1 | emetic
+vomitorius | 3 | as a plural noun, vomitoria, the entrance passages of a theatre or amphitheatre
+vomitus | 1 | vomiting
+vomitus | 2 | vomit
+vomo | 1 | vomit
+vomo | 2 | pour forth
+vorago | 1 | abyss
+vorago | 3 | figuratively, a person who squanders wealth, a spendthrift
+vorax | 1 | voracious
+vorax | 2 | destructive
+voro | 1 | devour
+voro | 2 | squander
+voro | 3 | figuratively, pursue eagerly, devour with enthusiasm, such as reading
+votivus | 1 | votive
+votivus | 2 | longed-for
+votum | 1 | vow
+votum | 2 | wish
+votum | 3 | a votive offering, something dedicated in fulfilment of a vow
+votum | 4 | post-classical, a marriage vow, a betrothal
+voveo | 1 | vow
+voveo | 2 | wish
+vox | 1 | voice
+vox | 2 | word
+vox | 3 | speech, language in general
+vox | 4 | accent, pronunciation
+vulgaris | 1 | common
+vulgo2 | 1 | publish
+vulgo2 | 2 | prostitute
+vulgus | 1 | populace
+vulgus | 2 | mob
+vulnero | 1 | wound
+vulnero | 3 | figuratively, hurt, pain, injure, such as with words
+vulnus | 1 | wound
+vulnus | 3 | figuratively, a blow, misfortune, calamity, or defeat
+vulpes | 1 | fox
+vulpes | 3 | figuratively, cunning, craftiness, as a quality
+vulpes | 4 | vulpes marina, a kind of shark
+vultuosus | 1 | grimacing
+vultur1 | 1 | vulture
+vultur1 | 3 | figuratively, a grasping, avaricious person
+vulturius | 1 | vulture
+vulturius | 3 | figuratively, a rapacious or greedy person, an extortioner
+vulturius | 4 | an unlucky throw at dice
+vultus | 1 | expression
+vultus | 2 | face
+vultus | 3 | a portrait, a painted likeness
+vultus | 4 | poetic, a look, an appearance, also of things
