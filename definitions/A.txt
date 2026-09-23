@@ -12,19 +12,19 @@ ab | 9 | after verbs of freeing, defending or guarding: liberare a metu, to free
 ab | 10 | in compounds, away or off: abducere, to lead away; abicere, to throw down; abuti, to use up
 abalieno | 1 | alienate
 abalieno | 2 | transfer
-abalieno | 3 | to make over property to someone else by legal transfer, to convey or sell it
-abalieno | 4 | to estrange someone, to turn them against you and lose their goodwill
+abalieno | 3 | to estrange someone, to turn them against you and lose their goodwill
+abalieno | 4 | to make over property to someone else by legal transfer, to convey or sell it
 abalieno | 5 | to separate or remove one thing from another
 abalieno | 6 | of limbs or the senses, to deaden, to make numb or unconscious
-abdicatio | 1 | disowning
-abdicatio | 2 | abdication
-abdicatio | 3 | the disowning or disinheriting of a child, as a legal act
-abdicatio | 4 | the giving up of a public office before its term has run
-abdico1 | 1 | disown
-abdico1 | 2 | resign
-abdico1 | 3 | to refuse to acknowledge something, to deny or reject it
-abdico1 | 4 | to disinherit a son, to cast him off in law
-abdico1 | 5 | se abdicare magistratu, to lay down an office, to abdicate
+abdicatio | 1 | abdication
+abdicatio | 2 | disowning
+abdicatio | 3 | the giving up of a public office before its term has run
+abdicatio | 4 | the disowning or disinheriting of a child, as a legal act
+abdico1 | 1 | resign
+abdico1 | 2 | disown
+abdico1 | 3 | se abdicare magistratu, to lay down an office, to abdicate
+abdico1 | 4 | to refuse to acknowledge something, to deny or reject it
+abdico1 | 5 | to disinherit a son, to cast him off in law
 abdo | 1 | hide
 abdo | 2 | remove
 abdo | 3 | to put something away out of sight, to conceal it
@@ -34,22 +34,23 @@ abdo | 6 | abditus as an adjective: hidden, secret, remote
 abdomen | 1 | belly
 abdomen | 3 | the fat lower part of the belly, the paunch, in people and animals
 abdomen | 4 | greed or gluttony, the belly standing for the appetite it serves
-abduco | 1 | remove
+abduco | 1 | lead away
 abduco | 2 | abduct
 abduco | 3 | to lead or take someone away from a place or a person
 abduco | 4 | to carry off by force, to kidnap or to steal cattle
 abduco | 5 | to draw troops away from their commander, to seduce them from their allegiance
 abduco | 6 | to divert someone from a duty or a pursuit, to distract them from it
-abduco | 7 | to take someone aside, or to carry them off home to dinner
+abduco | 7 | to take someone home with one as a dinner guest
+abduco | 8 | to take a woman off to one's room, for sex
 abeo | 1 | depart
 abeo | 2 | vanish
-abeo | 3 | to go away, to leave a place: abi in malam rem, go and be hanged
+abeo | 3 | to go away, to leave a place: abin e conspectu meo?, will you get out of my sight?
 abeo | 4 | of time, to pass, to go by, to elapse
 abeo | 5 | of a person, to pass away, to die
 abeo | 6 | to be changed into something else, to turn into it (with in and the accusative)
 abeo | 7 | to retire from an office, with the ablative: consulatu abire, to lay down the consulship
 abeo | 8 | of an affair, to turn out or end a certain way: non posse ista sic abire, that cannot be allowed to pass
-abeo | 9 | abi as an exclamation: off with you, get away, as often teasing as angry
+abeo | 9 | abi as an exclamation: off with you, get away, as often teasing as angry; abi in malam rem, go and be hanged
 aberro | 1 | stray
 aberro | 3 | to wander off the road, to lose one's way, to go astray
 aberro | 4 | to deviate from a subject, a rule, or a purpose
