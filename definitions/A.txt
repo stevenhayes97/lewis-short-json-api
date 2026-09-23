@@ -58,7 +58,7 @@ aberro | 5 | to take one's mind off a trouble, to find distraction from it
 abhinc | 1 | ago
 abhinc | 3 | of past time, ago, back, with the accusative or ablative: abhinc annos sedecim, sixteen years ago
 abhinc | 4 | in early Latin, of future time, from now on, hereafter
-abhorreo | 1 | shudder
+abhorreo | 1 | recoil
 abhorreo | 2 | differ
 abhorreo | 3 | to shrink back from something in horror, to abhor it (usually with ab)
 abhorreo | 4 | to be disinclined to something, to want no part in it
@@ -66,28 +66,28 @@ abhorreo | 5 | to be inconsistent with something, to be out of keeping with it, 
 abhorreo | 6 | to be free or clear of something, such as a suspicion
 abicio | 1 | discard
 abicio | 2 | abandon
-abicio | 3 | to throw something away or throw it down: scutum abicere, to throw away one's shield
+abicio | 3 | to throw something away or throw it down: scutum abicere, to throw away one's shield; se ad pedes alicujus abicere, to throw oneself at someone's feet
 abicio | 4 | to give up or let go a hope, a plan, or a claim
 abicio | 5 | to bring someone low, to degrade them or lower their standing
 abicio | 6 | se abicere, to throw oneself away, to lose all self-respect
 abicio | 7 | abiectus as an adjective: downcast and dispirited; or low, mean, contemptible
 # review: abiegnus English has no adjective for 'of fir'; three words kept, confirmed
 abiegnus | 1 | made of fir
-abiegnus | 3 | made of fir wood or deal
-abiegnus | 4 | in poetry of a ship or of the Trojan horse, both being built of fir
+abiegnus | 3 | in poetry of a ship or of the Trojan horse, both being built of fir
 abies | 1 | fir
 abies | 3 | the silver fir, both the tree and its timber
 abies | 4 | in poetry, anything made of fir: a ship, a spear shaft, a writing tablet
-abigo | 1 | expel
+abigo | 1 | drive away
 abigo | 3 | to drive someone or something away, to send it packing
 abigo | 4 | to drive off cattle, to rustle livestock
 abigo | 5 | to get rid of a trouble, an illness, or a mood
 abigo | 6 | to bring on an abortion, to force a birth with drugs
 abitus | 1 | departure
-abitus | 3 | a going away, a departure
-abitus | 4 | the way out, the exit, the place one leaves by
-abjudico | 1 | disallow
-abjudico | 3 | to take something from someone by a court's decision, to rule that it is not theirs (the opposite of adiudico)
+abitus | 2 | exit
+abitus | 3 | the way out, a passage one leaves by: omnem abitum custode coronant, they ring every way out with guards
+# review: abjudico a court taking something away; 'disallow' was vague and English has no short verb
+abjudico | 1 | deny by verdict
+abjudico | 3 | to take something from someone by a court's decision, to rule that it is not theirs (the opposite of adjudico)
 # review: abjuro 'disavow' loses the oath, which is the whole point of the word
 abjuro | 1 | deny on oath
 abjuro | 3 | to deny on oath that you hold something, especially money left in your keeping
@@ -95,8 +95,8 @@ ablego | 1 | dismiss
 ablego | 3 | to send someone away, to get them out of the way
 ablego | 4 | to pack someone off on an errand or a posting so they will not be present
 abligurrio | 1 | squander
-abligurrio | 3 | to lick or eat something up
-abligurrio | 4 | to squander a fortune on fine living
+abligurrio | 3 | to squander a fortune on fine living
+abligurrio | 4 | to lick or eat something up
 abluo | 1 | wash
 abluo | 3 | to wash something off or away, to rinse it clean
 abluo | 4 | to wash away guilt or to calm a passion, in a figure drawn from ritual washing

@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 85 of 114 settled.
+Progress: 86 of 115 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -25,9 +25,10 @@ To resolve an item: accept the gloss as-is and tick it here with a one-line
 verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 `# review:` line, re-run `check`, and tick it here saying what changed.
 
-## A.txt (22)
+## A.txt (23)
 
 - [x] `abiegnus` r1 "made of fir" — accepted; English has no adjective for fir, and "fir" alone reads as the noun
+- [x] `abjudico` r1 "deny by verdict" — accepted in review; "disallow" was vague, and the word is a court ruling that something is not yours
 - [x] `abjuro` r1 "deny on oath" — accepted; "abjure" and "forswear" both mean renounce in modern English, and the oath-denial of a debt is the whole word
 - [x] `admolior` r1 "lay hands on" — accepted; the verb is all but confined to manus admoliri, and the general sense is carried at rank 3
 - [x] `adusque` r1 "as far as" — accepted; a three-word preposition gloss is fine here, and CLAUDE.md cites this very word as the model ("as far as", not "unto")
