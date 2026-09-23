@@ -98,11 +98,11 @@ abligurrio | 1 | squander
 abligurrio | 3 | to squander a fortune on fine living
 abligurrio | 4 | to lick or eat something up
 abluo | 1 | wash
-abluo | 3 | to wash something off or away, to rinse it clean
+abluo | 3 | to wash something off or away, to rinse it clean: donec me flumine vivo abluero, until I have washed myself in running water
 abluo | 4 | to wash away guilt or to calm a passion, in a figure drawn from ritual washing
 abnego | 1 | refuse
 abnego | 2 | deny
-abnego | 3 | to refuse someone something, to turn down their request
+abnego | 3 | to refuse someone something, to turn down their request: conjugium alicui abnegare, to refuse someone marriage
 abnuo | 1 | refuse
 abnuo | 2 | deny
 abnuo | 3 | to say no by a gesture, to refuse with a shake of the head
@@ -116,7 +116,7 @@ aboleo | 3 | to do away with something, to wipe it out or efface it
 aboleo | 4 | to repeal a law or cancel an office
 aboleo | 5 | to blot out a memory or a disgrace
 abolesco | 1 | fade
-abolesco | 3 | to decay little by little, to die out, to fall out of use
+abolesco | 3 | to decay little by little, to die out, to fall out of use: memoria aboleverat, the memory had died out
 abolitio | 1 | abolition
 abolitio | 2 | amnesty
 abolitio | 3 | the annulling or repeal of a law, a tax, or a sentence
@@ -124,12 +124,13 @@ abolitio | 4 | an amnesty, or the dropping of a prosecution already begun
 abolla | 1 | cloak
 abolla | 3 | a thick woollen cloak, worn by soldiers and, as a badge of the trade, by philosophers
 abominor | 1 | abhor
-abominor | 3 | to pray away a bad omen, to avert an ill-omened word
+abominor | 3 | to pray away a bad omen, to avert an ill-omened word: quod abominor, which heaven forbid
 abominor | 4 | to loathe or detest something, to want nothing to do with it
 abominor | 5 | abominandus as an adjective: abominable, detestable
-aborior | 1 | set
+aborior | 1 | miscarry
+aborior | 2 | set
 aborior | 3 | of the sun or stars, to set, to disappear, to pass away (the opposite of orior)
-aborior | 4 | to miscarry, to be born before term
+aborior | 4 | of the voice, to fail, to die away
 abortivus | 1 | premature
 abortivus | 3 | born prematurely, born before term
 abortivus | 4 | of herbs and drugs, causing miscarriage
