@@ -136,14 +136,13 @@ abortivus | 3 | born prematurely, born before term
 abortivus | 4 | of herbs and drugs, causing miscarriage
 abortivus | 5 | as a noun, abortivum, a drug that brings on a miscarriage
 abortus | 1 | miscarriage
-abortus | 3 | a miscarriage or premature birth
-abortus | 4 | of a piece of writing, an unfinished thing, a work born dead
+abortus | 3 | abortum facere, to have a miscarriage: Tertullae nollem abortum, I wish Tertulla had not miscarried
+abortus | 4 | of a piece of writing, an unfinished work, brought out before it was ready
 abrado | 1 | scrape
 abrado | 2 | shave
 abrado | 3 | to scrape or rub something off; of a beard, to shave it away
 abrado | 4 | to squeeze money out of someone, to extort or wring it from them
 abripio | 1 | snatch
-abripio | 2 | drag
 abripio | 3 | to drag or tear someone away by force, a stronger word than abduco or abstraho
 abripio | 4 | to carry someone off as plunder, to kidnap them
 abripio | 5 | of a storm or a current, to sweep something away
@@ -154,7 +153,7 @@ abrogo | 4 | to strip someone of an office, to recall their command
 abrogo | 5 | to take something away from a person: fidem abrogare, to destroy someone's credit
 abrumpo | 1 | sever
 abrumpo | 3 | to break or tear something off by force, to snap it
-abrumpo | 4 | to break something off short: vitam abrumpere, to end one's life; sermonem, to cut a conversation dead
+abrumpo | 4 | to break something off short: vitam abrumpere, to end one's life; medium sermonem abrumpere, to break off in mid-speech
 abrumpo | 5 | abruptus of ground: sheer, steep, precipitous
 abrumpo | 6 | abruptus of speech or temper: abrupt, disjointed, brusque
 abscedo | 1 | withdraw
@@ -162,12 +161,12 @@ abscedo | 3 | to go away, to depart from a place or a person
 abscedo | 4 | of soldiers, to march off, to raise a siege and retire
 abscedo | 5 | to disappear, to pass out of sight
 abscedo | 6 | of landscape, to recede, to fall away into the distance
-abscedo | 7 | to give up an attempt, to desist from something
-abscido | 1 | sever
-abscido | 3 | to cut something off with a blade, where abscindo tears it off by hand
+abscedo | 7 | to give up an attempt, to desist from something: abscedere irrito incepto, to give up a failed attempt
+abscido | 1 | cut off
+abscido | 3 | to cut something off with a blade, where abscindo tears it off by hand: caput abscidere, to cut off the head
 abscido | 4 | to cut someone off from something, to deprive them of hope or of a hearing
 abscido | 5 | abscisus of ground: sheer and steep; of speech: abrupt and curt
-abscindo | 1 | tear
+abscindo | 1 | tear off
 abscindo | 3 | to tear or rend something away with the hands
 abscindo | 4 | to cut one thing off from another: abscindere reditus, to cut off any way back
 abscondo | 1 | conceal
