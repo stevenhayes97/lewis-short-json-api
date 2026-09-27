@@ -690,7 +690,7 @@ adigo | 2 | compel
 adigo | 3 | to drive cattle or people to a place
 adigo | 4 | to drive a weapon home, to force it in
 adigo | 5 | to force someone into a state or an act against their will
-adigo | 6 | adigere aliquem ad ius iurandum or sacramento, to put someone on oath, to swear troops in
+adigo | 6 | adigere aliquem ad jus jurandum or sacramento, to put someone on oath, to swear troops in
 adimo | 1 | remove
 adimo | 2 | deprive
 adimo | 3 | to take something away from someone, with the dative of the person
@@ -734,7 +734,7 @@ adjicio | 5 | to turn the mind or the eye to a thing: oculos adjicere, to cast a
 adjicio | 6 | of a speaker, to add a further remark
 adjicio | 7 | at an auction, to raise a bid, to outbid
 adjudico | 1 | adjudge
-adjudico | 3 | as a judge, to award something to someone, the opposite of abiudico
+adjudico | 3 | as a judge, to award something to someone, the opposite of abjudico
 adjudico | 4 | to assign or credit a thing to someone
 adjugo | 1 | yoke
 adjugo | 3 | in gardening, to tie a vine shoot to its support
@@ -749,12 +749,12 @@ adjungo | 1 | attach
 adjungo | 3 | to yoke or harness animals
 adjungo | 4 | to join one person or thing to another (with ad or the dative)
 adjungo | 5 | to win someone over, to attach them to you as an ally or friend
-adjungo | 6 | to apply the mind to something: animum adiungere ad studium
+adjungo | 6 | to apply the mind to something: animum adjungere ad studium
 adjungo | 7 | to add something as an accompaniment, to subjoin it
-adjungo | 8 | adiuncta as a noun, the attendant circumstances of a case
+adjungo | 8 | adjuncta as a noun, the attendant circumstances of a case
 adjuro1 | 1 | swear
 adjuro1 | 3 | to swear to something, to confirm it on oath
-adjuro1 | 4 | to swear by a person or a god: per omnes deos adiuro
+adjuro1 | 4 | to swear by a person or a god: per omnes deos adjuro
 adjuro1 | 5 | to add a further oath to one already sworn
 adjuro1 | 6 | in later Latin, to entreat someone earnestly, and in the Church Fathers, to adjure a demon
 adjuto | 1 | help
@@ -764,11 +764,11 @@ adjutor2 | 3 | one who helps, a supporter or backer
 adjutor2 | 4 | an official assistant: an adjutant, deputy, or secretary
 adjutrix | 1 | helper
 adjutrix | 3 | a woman or a thing that helps, a female assistant
-adjutrix | 4 | legiones adiutrices, legions raised to reinforce the regular army
+adjutrix | 4 | legiones adjutrices, legions raised to reinforce the regular army
 adjuvo | 1 | help
 adjuvo | 3 | to help or assist someone, taking a plain accusative where most such verbs take the dative
 adjuvo | 4 | to feed or sustain a state of mind: adjuvare insaniam, to encourage someone's madness
-adjuvo | 5 | with no object, to be of use, to do some good: adiuvat, it helps
+adjuvo | 5 | with no object, to be of use, to do some good: adjuvat, it helps
 adminiculo | 1 | prop
 adminiculo | 3 | to prop a vine up, to stake it
 adminiculo | 4 | to support or help someone
@@ -1216,7 +1216,7 @@ aequus | 3 | of ground, flat and even: locus aequus, level ground good to fight 
 aequus | 4 | favourable, convenient, well suited to a purpose
 aequus | 5 | of a person, kindly disposed, friendly, well inclined, with the dative
 aequus | 6 | equal to another, the same in size or amount: aequis portionibus, in equal shares
-aequus | 7 | of a person, fair and impartial towards others, where iustus is just by law
+aequus | 7 | of a person, fair and impartial towards others, where justus is just by law
 aequus | 8 | of things, fair, right, reasonable: aequum est, it is only fair
 aequus | 9 | aequum as a noun, what is fair: aequum et bonum, equity and fairness
 aequus | 10 | of the mind, even and calm: aequo animo ferre, to bear a thing patiently
