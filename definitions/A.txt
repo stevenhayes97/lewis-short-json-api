@@ -176,16 +176,16 @@ abscondo | 5 | in sailing, to lose sight of a coast as it sinks below the horizo
 abscondo | 6 | absconditus as an adjective: hidden, secret, and so abstruse
 absisto | 1 | desist
 absisto | 3 | to move away from a place, to stand off from it
-absisto | 4 | to leave off doing something, to give it up (with the ablative or an infinitive)
+absisto | 4 | to leave off doing something, to give it up (with the ablative or an infinitive): obsidione absistere, to give up a siege
 absolutio | 1 | acquittal
 absolutio | 2 | completeness
-absolutio | 3 | an acquittal in court, a verdict of not guilty
-absolutio | 4 | completeness, perfection, the finished state of a thing
+absolutio | 3 | acquittal on a particular charge, with the genitive: absolutio majestatis, acquittal on a charge of treason
+absolutio | 4 | finish, perfection: virtus rationis absolutio definitur, virtue is defined as the perfection of reason
 absolvo | 1 | acquit
 absolvo | 2 | finish
 absolvo | 3 | to acquit someone of a charge, to find them innocent (with the genitive or ablative of the charge)
 absolvo | 4 | to bring a task to completion, to get it finished
-absolvo | 5 | to loose or release something from its bonds, to untie it
+absolvo | 5 | to free or release someone from something, a bond, a lawsuit, a war: longo bello absolvere, to free from a long war
 absolvo | 6 | to pay someone off, to settle with them
 absolvo | 7 | to get through a story quickly, to be done with it briefly
 absolvo | 8 | absolutus as an adjective: complete in itself, unqualified, absolute
@@ -206,16 +206,16 @@ abstemius | 4 | moderate and sparing in general, self-denying
 abstemius | 5 | in late Latin, still fasting, not yet having eaten
 abstergeo | 1 | wipe
 abstergeo | 3 | to wipe something off, to clean or dry it: sudorem abstergere, to wipe away the sweat
-abstergeo | 4 | to drive away something unwelcome, to banish a care or a grief
+abstergeo | 4 | to drive away something unwelcome, to banish a care or a grief: dolorem abstergere, to banish grief
 absterreo | 1 | deter
 absterreo | 3 | to frighten someone away, to scare them off
-absterreo | 4 | to deter someone from doing something, to put them off it
+absterreo | 4 | to deter someone from doing something, to put them off it: homines a pecuniis capiendis absterrere, to deter men from taking bribes
 absterreo | 5 | to take something away or withhold it
 abstinentia | 1 | restraint
 abstinentia | 2 | integrity
 abstinentia | 3 | self-restraint, the holding back from what one ought not to do
 abstinentia | 4 | integrity in money matters, keeping one's hands off what is not yours
-abstinentia | 5 | in later Latin, going without food, fasting or starvation
+abstinentia | 5 | in later Latin, going without food, fasting or starvation: vitam abstinentia finivit, he starved himself to death
 abstineo | 1 | abstain
 abstineo | 2 | withhold
 abstineo | 3 | to hold something or someone back, to keep them away from a thing
