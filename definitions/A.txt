@@ -1130,7 +1130,7 @@ aegritudo | 3 | grief, sorrow, distress of mind, one of the four passions in Sto
 aegritudo | 4 | after Augustus, illness of the body, sickness
 aegrotatio | 1 | illness
 aegrotatio | 3 | sickness or disease of the body, where aegritudo covers the mind as well
-aegroto | 1 | ail
+aegroto | 1 | be ill
 aegroto | 3 | to be ill, to be sick: graviter aegrotare, to be seriously ill
 aegroto | 4 | of the mind, to be sick, to suffer from a fault
 aegroto | 5 | of things, to languish, to be in a poor way
@@ -1145,11 +1145,11 @@ aemulator | 1 | imitator
 aemulator | 3 | a zealous imitator of someone, an emulator in a good sense
 aemulor | 1 | rival
 aemulor | 2 | envy
-aemulor | 3 | with the accusative, to try to equal or outdo someone, to vie with them
+aemulor | 3 | with the accusative, to try to equal or outdo someone, to vie with them: Pindarum quisquis studet aemulari, whoever strives to rival Pindar
 aemulor | 4 | with the dative, to be jealous of someone, to grudge them what they have
 aemulus | 1 | rival
 aemulus | 3 | striving to equal someone, emulous of them, with the genitive: laudis aemulus, a rival for glory
-aemulus | 4 | in a bad sense, jealous, grudging, envious
+aemulus | 4 | in a bad sense, jealous, grudging, envious: Carthago aemula imperii Romani, Carthage, the jealous rival of Roman power
 aemulus | 5 | as a noun, a rival, and especially a rival in love
 aeneus | 1 | of bronze
 aeneus | 3 | made of copper or bronze: statua aenea, a bronze statue
