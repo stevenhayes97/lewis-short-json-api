@@ -269,8 +269,8 @@ abusque | 1 | right from
 abusque | 3 | all the way from, even from, a strengthened ab with the ablative: Siculo abusque Pachyno, all the way from Sicilian Pachynus
 abutor | 1 | misuse
 abutor | 2 | exhaust
-abutor | 3 | to use something up, to spend or consume it entirely
-abutor | 4 | to misuse or abuse something, to take advantage of it (with the ablative)
+abutor | 3 | to use something up, to spend or consume it entirely; with the ablative, to make full use of: otio abuti, to make full use of one's leisure
+abutor | 4 | to misuse or abuse something, to take advantage of it (with the ablative): quousque tandem abutere, Catilina, patientia nostra?, how long, Catiline, will you abuse our patience?
 abutor | 5 | in rhetoric, to use a word improperly, to strain its sense
 accedo | 1 | approach
 accedo | 2 | agree
@@ -286,9 +286,9 @@ accelero | 3 | to hurry something on, to speed it up: gradum accelerare, to quic
 accelero | 4 | with no object, to make haste, to hurry
 accendo2 | 1 | kindle
 accendo2 | 2 | inflame
-accendo2 | 3 | to set something alight, to light a fire or a lamp from above
+accendo2 | 3 | to set something alight, to light a fire, a torch, or a lamp
 accendo2 | 4 | to light up, to make bright: luna radiis solis accensa, the moon lit by the sun's rays
-accendo2 | 5 | to rouse someone's feelings, to fire them with anger, hope, or desire
+accendo2 | 5 | to rouse someone's feelings, to fire them with anger, hope, or desire: ira accensus, burning with anger
 accendo2 | 6 | to make a thing worse, to inflame a quarrel or a war
 accenseo | 1 | reckon
 accenseo | 3 | to count someone or something in with a group, to add them to a number
@@ -299,7 +299,7 @@ accentus | 3 | in grammar, the accent or tone of a word, what the Greeks call pr
 accentus | 4 | a blast or signal on a horn (late Latin)
 accentus | 5 | intensity or violence: doloris accentus, a stab of pain
 acceptio | 1 | acceptance
-acceptio | 3 | the taking or receiving of something
+acceptio | 3 | the taking or receiving of something: frumenti acceptio, the receipt of grain
 acceptio | 4 | regard shown to a person: personarum acceptio, partiality, respect of persons
 acceptor1 | 1 | receiver
 acceptor1 | 3 | one who takes or receives something, a collector
@@ -311,7 +311,7 @@ accessio | 4 | an addition to something, and also the thing added
 accessio | 5 | in medicine, the onset or fit of a fever
 accessio | 6 | an extra charge added to a tax or a fee
 accessus2 | 1 | approach
-accessus2 | 3 | a coming near, an approach, the opposite of recessus
+accessus2 | 3 | a coming near, an approach, the opposite of recessus; of the tide, its flow, as recessus is its ebb
 accessus2 | 4 | leave to approach someone, admittance to their presence
 accessus2 | 5 | the way in, the passage or entrance by which one comes
 accidens | 1 | accident
