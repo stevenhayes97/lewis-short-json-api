@@ -672,7 +672,7 @@ adhibeo | 7 | to bring a thing to bear, to make use of it: vim adhibere, to use 
 adhibeo | 8 | to show or exercise a quality: diligentiam adhibere, to take pains
 adhinnio | 1 | neigh
 adhinnio | 3 | to neigh at or after another horse
-adhinnio | 4 | of a man, to whinny after something in lust, to be in heat for it
+adhinnio | 4 | of a person, to whinny after something in lust or eager delight: ad illius orationem adhinnivit, he whinnied with delight at the man's speech
 adhortatio | 1 | encouragement
 adhortatio | 3 | an exhortation, a speech urging people on
 adhortor | 1 | encourage
