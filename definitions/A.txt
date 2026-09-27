@@ -1018,7 +1018,7 @@ adventor | 1 | visitor
 adventor | 3 | someone who arrives, a guest
 adventor | 4 | a customer at an inn or a shop
 adventus | 1 | arrival
-adventus | 3 | a coming, an approach, an arrival
+adventus | 3 | a coming, an approach, an arrival: ut me levarat tuus adventus, sic discessus afflixit, as your arrival cheered me, so your leaving cast me down
 adventus | 4 | the state of being there after arriving, one's presence
 adventus | 5 | of troubles or of mental images, their onset, their coming upon one
 adverbialis | 1 | adverbial
@@ -1056,7 +1056,7 @@ advivo | 4 | to live alongside someone: cum quo advixit, with whom she lived
 advocatio | 1 | counsel
 advocatio | 3 | legal help given to a party in a suit
 advocatio | 4 | the whole body of counsel supporting someone, the bar
-advocatio | 5 | the time allowed for finding legal help, and so an adjournment or delay
+advocatio | 5 | the time allowed for finding legal help, and so an adjournment or delay: ratio advocationem sibi petit, ira festinat, reason asks for time, anger is in a hurry
 advocatio | 6 | in later Latin, comfort or consolation
 advoco | 1 | summon
 advoco | 2 | consult
