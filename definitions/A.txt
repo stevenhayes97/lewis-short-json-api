@@ -473,24 +473,23 @@ acidus | 1 | sour
 acidus | 3 | sour, tart, acid to the taste
 acidus | 4 | of sound, harsh or shrill
 acidus | 5 | of speech or temper, sharp, biting, disagreeable: homo acidae linguae, a man with a sharp tongue
-acies | 1 | edge
-acies | 2 | line
-acies | 3 | the sharp edge or point of a blade
-acies | 4 | an army drawn up for battle, a battle line: aciem instruere, to draw up the line
-acies | 5 | the engagement itself, the battle fought in that formation
+acies | 1 | battle line
+acies | 2 | edge
+acies | 3 | an army drawn up for battle, a battle line: aciem instruere, to draw up the line
+acies | 4 | the engagement itself, the battle fought in that formation: in acie vincere, to win in pitched battle
+acies | 5 | the sharp edge or point of a blade; acies ferri, steel, iron given a cutting edge
 acies | 6 | keenness of sight, the power of vision; and concretely, the pupil of the eye
 acies | 7 | a fixed look, a gaze held on something
-acies | 8 | sharpness of mind, mental penetration
-acies | 9 | brightness or sheen, said of the stars
-acies | 10 | acies ferri, steel, iron given a cutting edge
+acies | 8 | sharpness of mind, mental penetration: acies ingenii, keenness of intellect
+acies | 9 | a verbal contest, a debate: in aciem prodire, to come out into the fray of argument
+acies | 10 | brightness or sheen, said of the stars
 acquiesco | 1 | rest
 acquiesco | 2 | acquiesce
 acquiesco | 3 | to come to rest physically, to settle down, to sleep
-acquiesco | 4 | to find peace or comfort in something, to take pleasure in it
+acquiesco | 4 | to find peace or comfort in something, to take pleasure in it: senes in adulescentium caritate acquiescimus, we old men find comfort in the affection of the young
 acquiesco | 5 | to be satisfied with something, to assent and let it stand
 acquiro | 1 | acquire
-acquiro | 2 | gain
-acquiro | 3 | to get something in addition, to add it to what one has (with ad or the dative)
+acquiro | 3 | to get something in addition, to add it to what one has (with ad or the dative): viresque acquirit eundo, and gathers strength as she goes
 acquiro | 4 | to obtain or secure a thing: famam acquirere, to win a name
 acquiro | 5 | in later Latin, with no object, to make money, to amass wealth
 acrimonia | 1 | pungency
