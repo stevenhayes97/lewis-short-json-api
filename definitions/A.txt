@@ -962,8 +962,9 @@ adulterinus | 4 | false or forged: signum adulterinum, a forged seal
 adulterium | 1 | adultery
 adulterium | 3 | adultery, relations with another man's wife: in adulterio deprehendi, to be caught in adultery
 adulterium | 4 | the adulteration of goods, the faking of honey or of merchandise
-adultero | 1 | adulterate
-adultero | 2 | defile
+# review: adultero English has no one-word verb for committing adultery; "adulterate" now means only to falsify
+adultero | 1 | commit adultery
+adultero | 2 | adulterate
 adultero | 3 | to commit adultery, to defile a marriage
 adultero | 4 | to falsify or adulterate a thing, to counterfeit it
 adumbratio | 1 | sketch

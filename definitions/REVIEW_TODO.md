@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 86 of 115 settled.
+Progress: 87 of 116 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -25,13 +25,14 @@ To resolve an item: accept the gloss as-is and tick it here with a one-line
 verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 `# review:` line, re-run `check`, and tick it here saying what changed.
 
-## A.txt (23)
+## A.txt (24)
 
 - [x] `abiegnus` r1 "made of fir" — accepted; English has no adjective for fir, and "fir" alone reads as the noun
 - [x] `abjudico` r1 "deny by verdict" — accepted in review; "disallow" was vague, and the word is a court ruling that something is not yours
 - [x] `abjuro` r1 "deny on oath" — accepted; "abjure" and "forswear" both mean renounce in modern English, and the oath-denial of a debt is the whole word
 - [x] `admolior` r1 "lay hands on" — accepted; the verb is all but confined to manus admoliri, and the general sense is carried at rank 3
 - [x] `adusque` r1 "as far as" — accepted; a three-word preposition gloss is fine here, and CLAUDE.md cites this very word as the model ("as far as", not "unto")
+- [x] `adultero` r1 "commit adultery" — accepted in review; the literal sense of the word, which "adulterate" and "defile" both missed, with "adulterate" kept at rank 2
 - [x] `aestivo` r1 "spend the summer" — accepted; English has no verb for it, and CLAUDE.md uses this word as the model flag
 - [x] `agninus` r1 "of a lamb" — accepted; three words kept to match arietinus and aprugnus, and "lamb" alone reads as the noun
 - [x] `amburbium` r1 "procession round Rome" — accepted; a named rite with no English name, and "procession" alone loses that it circled the city
