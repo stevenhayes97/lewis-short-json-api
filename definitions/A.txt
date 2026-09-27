@@ -1429,7 +1429,7 @@ affinis | 2 | related
 affinis | 3 | bordering on something, lying next to it: ager affinis, the adjoining land
 affinis | 4 | related by marriage; as a noun, a connection by marriage such as a son-in-law
 affinis | 5 | mixed up in something, privy to it, with the dative or genitive: affinis culpae, party to the crime
-affinitas | 1 | kinship
+affinitas | 1 | marriage ties
 affinitas | 3 | relationship by marriage, the tie between a father and a son-in-law
 affinitas | 4 | any close connection or affinity between things
 affirmatio | 1 | assertion
@@ -1570,7 +1570,7 @@ agnascor | 3 | of a child, to be born after the father has made his will, which 
 agnascor | 4 | of an adopted child, to come into a family
 agnascor | 5 | of plants, teeth, or limbs, to grow on afterwards
 agnascor | 6 | agnatus as a noun, a relation on the father's side
-agnatio | 1 | kinship
+agnatio | 1 | male-line kinship
 agnatio | 3 | relationship on the father's side, agnatic descent
 agnatio | 4 | the being born after a father's will was made or after his death
 agnatio | 5 | a growing on to something
