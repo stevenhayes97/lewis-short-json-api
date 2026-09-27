@@ -833,7 +833,7 @@ admolior | 3 | to bring or move one thing up to another: manus admoliri, to lay 
 admolior | 4 | to struggle or push one's way towards a place
 admoneo | 1 | remind
 admoneo | 2 | warn
-admoneo | 3 | to put someone in mind of something, in a friendly way, with the genitive or de
+admoneo | 3 | to put someone in mind of something, in a friendly way, with the genitive or de: admonere aliquem foederis, to remind someone of the treaty
 admoneo | 4 | to advise or caution someone, to warn them off
 admoneo | 5 | to call a thing back to memory, to bring it to mind again
 admoneo | 6 | of a creditor, to remind a debtor of the debt, to dun them
