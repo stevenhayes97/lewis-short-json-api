@@ -754,7 +754,7 @@ adjungo | 7 | to add something as an accompaniment, to subjoin it
 adjungo | 8 | adjuncta as a noun, the attendant circumstances of a case
 adjuro1 | 1 | swear
 adjuro1 | 3 | to swear to something, to confirm it on oath
-adjuro1 | 4 | to swear by a person or a god: per omnes deos adjuro
+adjuro1 | 4 | to swear by a person or a god: per omnes deos adjuro, I swear by all the gods
 adjuro1 | 5 | to add a further oath to one already sworn
 adjuro1 | 6 | in later Latin, to entreat someone earnestly, and in the Church Fathers, to adjure a demon
 adjuto | 1 | help
@@ -781,13 +781,13 @@ administer | 3 | one at hand to help, a servant or attendant
 administer | 4 | an agent or instrument in an affair, often in a bad sense: an accomplice
 administratio | 1 | administration
 administratio | 2 | help
-administratio | 3 | help or service given, a lending of hands
-administratio | 4 | the management or direction of a thing: administratio rei publicae, the running of the state
+administratio | 3 | the management or direction of a thing: administratio rei publicae, the running of the state
+administratio | 4 | help or service given, a lending of hands
 administro | 1 | manage
 administro | 2 | serve
-administro | 3 | to be at hand to help, to wait on someone
-administro | 4 | to manage, direct, or carry on a thing: bellum administrare, to conduct a war
-administro | 5 | to carry something out, to get it done
+administro | 3 | to manage, direct, or carry on a thing: bellum administrare, to conduct a war
+administro | 4 | to carry something out, to get it done
+administro | 5 | to be at hand to help, to wait on someone
 admirabilis | 1 | admirable
 admirabilis | 2 | astonishing
 admirabilis | 3 | worthy of admiration, fine, remarkable
