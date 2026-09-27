@@ -1124,10 +1124,10 @@ aegresco | 4 | to grow worse, to become more violent: aegrescit medendo, it grow
 aegresco | 5 | to be troubled or grieved, to pine with care
 aegrimonia | 1 | sorrow
 aegrimonia | 3 | grief or anxiety of mind, a trouble that gnaws at one
-aegritudo | 1 | sickness
-aegritudo | 2 | grief
-aegritudo | 3 | illness of the body, sickness
-aegritudo | 4 | grief, sorrow, distress of mind, one of the four passions in Stoic ethics
+aegritudo | 1 | grief
+aegritudo | 2 | sickness
+aegritudo | 3 | grief, sorrow, distress of mind, one of the four passions in Stoic ethics: ut aegrotatio in corpore, sic aegritudo in animo, as sickness is in the body, so grief is in the mind
+aegritudo | 4 | after Augustus, illness of the body, sickness
 aegrotatio | 1 | illness
 aegrotatio | 3 | sickness or disease of the body, where aegritudo covers the mind as well
 aegroto | 1 | ail
