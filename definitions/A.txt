@@ -437,7 +437,7 @@ acer2 | 9 | of things, intense and vigorous: acer impetus, a fierce charge
 acerbitas | 1 | bitterness
 acerbitas | 2 | harshness
 acerbitas | 3 | the sour, sharp taste of unripe fruit
-acerbitas | 4 | harshness or severity of character, moroseness, the opposite of comitas
+acerbitas | 4 | harshness or severity of character, moroseness, the opposite of comitas: severitatem probo, acerbitatem nullo modo, I approve of strictness, but not at all of harshness
 acerbitas | 5 | the bitterness of grief, the pain of a hard lot
 acerbo | 1 | embitter
 acerbo | 3 | to make something harsh or bitter
@@ -448,8 +448,9 @@ acerbus | 3 | sour or sharp to the taste, especially of unripe fruit
 acerbus | 4 | of sounds, harsh, hoarse, grating
 acerbus | 5 | of cold or pain, biting, keen
 acerbus | 6 | of a person, rough, morose, severe, hard to deal with
-acerbus | 7 | of events, grievous, painful, sad: acerba funera, untimely deaths
-acerra | 1 | censer
+acerbus | 7 | of events, grievous, painful, sad: acerbissimum supplicium, the cruellest punishment
+acerbus | 8 | unripe, and so of death, untimely, premature: funus acerbum, an untimely death
+acerra | 1 | incense box
 acerra | 3 | a casket holding the incense used at sacrifices and at funerals
 acervatim | 1 | in heaps
 acervatim | 3 | in heaps, by piling up: acervatim mors accumulabat, death piled them up in heaps
@@ -458,7 +459,6 @@ acervo | 1 | heap
 acervo | 3 | to pile things into a heap, to stack them up
 acervo | 4 | to pile up things not physical: leges acervare, to heap law on law
 acervus | 1 | heap
-acervus | 2 | mass
 acervus | 3 | a heap of things of one kind: acervus frumenti, a heap of grain
 acervus | 4 | a great number of anything: acervus facinorum, a pile of crimes
 acervus | 5 | in logic, the sorites, an argument built by piling one small step on another
@@ -468,11 +468,11 @@ acetabulum | 4 | in anatomy, the socket of the hip bone
 acetabulum | 5 | the sucker on the arm of an octopus, or the cup of a flower
 acetum | 1 | vinegar
 acetum | 3 | sour wine, wine vinegar
-acetum | 4 | sharpness of wit, a biting humour, much as sal is used of wit
+acetum | 4 | sharpness of wit, a biting humour, much as sal is used of wit: ecquid habet aceti in pectore?, has he any sharpness in him?
 acidus | 1 | sour
 acidus | 3 | sour, tart, acid to the taste
 acidus | 4 | of sound, harsh or shrill
-acidus | 5 | of speech or temper, sharp, biting, disagreeable
+acidus | 5 | of speech or temper, sharp, biting, disagreeable: homo acidae linguae, a man with a sharp tongue
 acies | 1 | edge
 acies | 2 | line
 acies | 3 | the sharp edge or point of a blade
