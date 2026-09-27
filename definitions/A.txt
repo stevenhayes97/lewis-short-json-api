@@ -218,21 +218,21 @@ abstinentia | 4 | integrity in money matters, keeping one's hands off what is no
 abstinentia | 5 | in later Latin, going without food, fasting or starvation: vitam abstinentia finivit, he starved himself to death
 abstineo | 1 | abstain
 abstineo | 2 | withhold
-abstineo | 3 | to hold something or someone back, to keep them away from a thing
+abstineo | 3 | to hold something or someone back, to keep them away from a thing: manus ab aliquo abstinere, to keep one's hands off someone
 abstineo | 4 | to abstain from something, with the ablative or ab: injuria abstinere, to do no wrong
 abstineo | 5 | se abstinere, to restrain oneself, to keep clear of something
 abstineo | 6 | to keep off food, to go without eating
-abstraho | 1 | detach
-abstraho | 2 | drag
-abstraho | 3 | to drag or pull someone away from a place or a person
+abstraho | 1 | drag away
+abstraho | 2 | divert
+abstraho | 3 | to drag or pull someone away from a place or a person: aliquem de matris complexu abstrahere, to tear someone from their mother's arms
 abstraho | 4 | to draw troops away from a commander, to detach a force
-abstraho | 5 | to divert someone's mind from something, to draw them off it
+abstraho | 5 | to divert someone's mind from something, to draw them off it: a rebus gerendis senectus abstrahit, old age draws men away from public affairs
 abstrudo | 1 | hide
 abstrudo | 3 | to thrust something out of the way and so conceal it
 abstrudo | 4 | to bury a feeling, to push down grief or fear
 abstrudo | 5 | abstrusus as an adjective: hidden away; of a subject, abstruse and hard to get at
 absum | 1 | be absent
-absum | 2 | lack
+absum | 2 | be missing
 absum | 3 | to be away from a place or person, not to be there
 absum | 4 | to be a given distance off: castra aberant bidui, the camp was two days away
 absum | 5 | to be missing or wanting: unum a praetura tua abest, one thing is lacking to your praetorship
@@ -244,7 +244,7 @@ absumo | 1 | consume
 absumo | 2 | destroy
 absumo | 3 | to use something up entirely, to spend or exhaust it
 absumo | 4 | to make an end of someone, to destroy or kill them
-absumo | 5 | of time, to spend it or waste it
+absumo | 5 | of time, to spend it or waste it: ne dicendo tempus absumam, so as not to waste time talking
 absurdus | 1 | absurd
 absurdus | 2 | harsh
 absurdus | 3 | out of tune, harsh and grating to the ear
@@ -257,7 +257,7 @@ abundantia | 4 | riches, more money than one needs
 abundantia | 5 | in style, excess, overloading, too much of a good thing
 abunde | 1 | abundantly
 abunde | 3 | in plenty, amply, more than enough
-abunde | 4 | with an adjective or adverb, exceedingly, thoroughly: abunde magna, amply great
+abunde | 4 | with an adjective or adverb, exceedingly, thoroughly: abunde magna, quite large enough
 abunde | 5 | with the genitive, enough of: terrorum abunde est, there is terror enough
 abundo | 1 | abound
 abundo | 2 | overflow
@@ -265,8 +265,8 @@ abundo | 3 | of a river, to overflow its banks, to run over
 abundo | 4 | to be there in excess, to be more than is needed
 abundo | 5 | to abound in something, to be well supplied with it, with the ablative: divitiis abundare, to be rich
 abundo | 6 | abundans as an adjective: copious, plentiful, full; of a person, wealthy
-abusque | 1 | from
-abusque | 3 | all the way from, even from, a strengthened ab with the ablative
+abusque | 1 | right from
+abusque | 3 | all the way from, even from, a strengthened ab with the ablative: Siculo abusque Pachyno, all the way from Sicilian Pachynus
 abutor | 1 | misuse
 abutor | 2 | exhaust
 abutor | 3 | to use something up, to spend or consume it entirely
