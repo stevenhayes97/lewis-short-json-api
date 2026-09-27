@@ -1183,21 +1183,21 @@ aequalitas | 5 | equality of age between people
 aequalitas | 6 | the evenness of a surface: aequalitas maris, a calm sea
 aequanimitas | 1 | equanimity
 aequanimitas | 2 | goodwill
-aequanimitas | 3 | in early Latin, kindly feeling, goodwill towards someone
-aequanimitas | 4 | in later Latin, calmness under trouble, patience, equanimity
+aequanimitas | 3 | in later Latin, calmness under trouble, patience, equanimity
+aequanimitas | 4 | in early Latin, kindly feeling, goodwill towards someone
 aequidici | 1 | balanced verses
 aequidici | 3 | verses built out of balanced, matching expressions, what the Greeks call antithetic
 aequinoctium | 1 | equinox
 aequinoctium | 3 | the time when day and night are of equal length, the equinox
 aequiparo | 1 | equal
 aequiparo | 2 | compare
-aequiparo | 3 | to put one thing on a level with another, to compare them, with ad, cum, or the dative
-aequiparo | 4 | to make oneself equal to someone, to match them or come up to them
+aequiparo | 3 | to make oneself equal to someone, to match them or come up to them: nemo est qui factis me aequiperare queat, there is no one who can match me in deeds
+aequiparo | 4 | to put one thing on a level with another, to compare them, with ad, cum, or the dative
 aequitas | 1 | fairness
 aequitas | 2 | calmness
-aequitas | 3 | evenness or symmetry, the equal relation of one thing to another
-aequitas | 4 | fair dealing towards others, equity, what is right as against the bare letter of the law
-aequitas | 5 | evenness of temper, composure, calmness under trouble
+aequitas | 3 | fair dealing towards others, equity, what is right as against the bare letter of the law: pro aequitate contra jus dicere, to argue for equity against the letter of the law
+aequitas | 4 | evenness of temper, composure, calmness under trouble
+aequitas | 5 | evenness or symmetry, the equal relation of one thing to another
 aequo | 1 | equal
 aequo | 2 | level
 aequo | 3 | to make one thing equal to another, with cum or the dative
@@ -1207,9 +1207,9 @@ aequo | 6 | in the army, aequare frontem, to bring the line up even
 aequo | 7 | to become equal to someone, to match or rival them
 aequor | 1 | sea
 aequor | 2 | plain
-aequor | 3 | any even, level surface
-aequor | 4 | the level surface of the sea, and so the sea itself, especially when calm
-aequor | 5 | a level plain of land
+aequor | 3 | the level surface of the sea, and so the sea itself, especially when calm
+aequor | 4 | a level plain of land
+aequor | 5 | any even, level surface
 aequus | 1 | level
 aequus | 2 | fair
 aequus | 3 | of ground, flat and even: locus aequus, level ground good to fight on
