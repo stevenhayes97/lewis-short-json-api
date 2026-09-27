@@ -802,7 +802,7 @@ admiror | 1 | admire
 admiror | 2 | wonder
 admiror | 3 | to regard something with admiration, to think highly of it
 admiror | 4 | to be astonished at something, to wonder at it
-admiror | 5 | to gaze at a thing longingly, to covet it
+admiror | 5 | to gaze at a thing longingly, to covet it: nil admirari, to be dazzled by nothing
 admisceo | 1 | mix
 admisceo | 3 | to mix one thing in with another, with the ablative of what it is mixed into
 admisceo | 4 | to add people to a body of others: milites admiscere, to mix troops in
@@ -819,7 +819,7 @@ admitto | 2 | commit
 admitto | 3 | to let someone in, to grant them access or an audience
 admitto | 4 | to allow something to happen, to permit it
 admitto | 5 | to commit a crime, to be guilty of it: facinus admittere, to do a wicked deed
-admitto | 6 | of a horse, to give it its head, to let it go at a gallop
+admitto | 6 | of a horse, to give it its head, to let it go at a gallop: admisso equo, at full gallop
 admitto | 7 | of words and prayers, to let them in, to give them a hearing
 admodum | 1 | very
 admodum | 2 | quite
