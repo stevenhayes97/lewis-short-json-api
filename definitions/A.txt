@@ -1416,14 +1416,14 @@ afficio | 5 | in a bad sense, to afflict or weaken: morbo affectus, stricken wit
 afficio | 6 | affectus as an adjective: in a certain state, disposed or minded in some way
 afficio | 7 | affectus also worn down, weakened, in a bad way; and of a task, nearly done
 affigo | 1 | fasten
-affigo | 3 | to fix or fasten one thing to another, with ad or the dative
+affigo | 3 | to fix or fasten one thing to another, with ad or the dative: Prometheus affixus Caucaso, Prometheus pinned to the Caucasus
 affigo | 4 | to impress something on the mind: animo affigere, to fix it in the memory
 affigo | 5 | affixus as an adjective: attached to a person, glued to their side
 affingo | 1 | invent
 affingo | 2 | add
-affingo | 3 | of an artist, to model or form one part onto another
+affingo | 3 | to make up a detail and attach it falsely: multa affingere, to add much that is untrue
 affingo | 4 | to add something to a thing, to attach it
-affingo | 5 | to make up a detail and attach it falsely: multa affingere, to add much that is untrue
+affingo | 5 | of an artist, to model or form one part onto another
 affinis | 1 | neighbouring
 affinis | 2 | related
 affinis | 3 | bordering on something, lying next to it: ager affinis, the adjoining land
@@ -1433,7 +1433,7 @@ affinitas | 1 | kinship
 affinitas | 3 | relationship by marriage, the tie between a father and a son-in-law
 affinitas | 4 | any close connection or affinity between things
 affirmatio | 1 | assertion
-affirmatio | 3 | a firm statement, a declaration that a thing is so
+affirmatio | 3 | a firm statement, a declaration that a thing is so: jus jurandum est affirmatio religiosa, an oath is a solemn affirmation
 affirmo | 1 | assert
 affirmo | 2 | confirm
 affirmo | 3 | to state something as certain, to maintain or declare it
@@ -1441,7 +1441,7 @@ affirmo | 4 | to confirm or strengthen a thing: spem affirmare, to make a hope f
 afflatus2 | 1 | breath
 afflatus2 | 2 | inspiration
 afflatus2 | 3 | a blowing or breathing on something, a blast of air
-afflatus2 | 4 | divine inspiration: sine afflatu divino, with no breath of the god in him
+afflatus2 | 4 | divine inspiration: nemo vir magnus sine aliquo afflatu divino umquam fuit, no great man was ever without some divine inspiration
 afflicto | 1 | batter
 afflicto | 2 | distress
 afflicto | 3 | to knock something about, to damage it: naves afflictare, to batter the ships
