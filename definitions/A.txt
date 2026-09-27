@@ -365,7 +365,7 @@ acclinis | 4 | of ground, sloping
 acclinis | 5 | inclined or disposed towards something: acclinis falsis, prone to falsehood
 acclino | 1 | lean
 acclino | 3 | to lean or rest one thing against another
-acclino | 4 | se acclinare, to incline towards a side or a party
+acclino | 4 | se acclinare, to incline towards a side or a party: se ad causam senatus acclinare, to lean to the senate's side
 accola | 1 | neighbour
 accola | 3 | someone living near a place, a neighbour, where incola is one living in it
 accola | 4 | as an adjective, neighbouring, dwelling alongside
@@ -387,13 +387,14 @@ accredo | 3 | to take someone's word without question, to believe them outright 
 accresco | 1 | grow
 accresco | 3 | to grow bigger, to increase in size
 accresco | 4 | to be added to something by way of increase, to accrue to it
-accresco | 5 | in law, to fall to someone as an addition to their property: jus accrescendi, the right of survivorship
+accresco | 5 | in law, to fall to someone as an addition to their property: jus accrescendi, the right of accrual, by which a lapsed share passes to the other heirs
 accubitio | 1 | reclining
 accubitio | 3 | the reclining at table in the Roman manner
 accubitio | 4 | a dining couch
 accubo | 1 | recline
 accubo | 3 | to lie down beside something or someone
 accubo | 4 | to recline at table, to be at dinner
+accubo | 5 | to lie with someone, to sleep with them
 accumbo | 1 | recline
 accumbo | 3 | to lay oneself down somewhere
 accumbo | 4 | to take one's place at table, to sit down to dinner in the Roman fashion
