@@ -1060,7 +1060,6 @@ advocatio | 4 | the whole body of counsel supporting someone, the bar
 advocatio | 5 | the time allowed for finding legal help, and so an adjournment or delay: ratio advocationem sibi petit, ira festinat, reason asks for time, anger is in a hurry
 advocatio | 6 | in later Latin, comfort or consolation
 advoco | 1 | summon
-advoco | 2 | consult
 advoco | 3 | to call someone to a place, especially for advice or help
 advoco | 4 | to call someone in as counsel or a witness in a suit
 advoco | 5 | to turn the mind to a thing: animum ad se advocare, to call one's thoughts home
@@ -1086,14 +1085,14 @@ aedificatio | 3 | the act of building, construction
 aedificatio | 4 | a building itself, a structure
 aedificatio | 5 | in Christian Latin, edification, the building up of the faithful
 aedificator | 1 | builder
-aedificator | 3 | one who builds, a builder
+aedificator | 3 | one who builds, a builder: mundi aedificator, the architect of the universe
 aedificator | 4 | someone with a passion for building, given to putting things up
 aedificium | 1 | building
 aedificium | 3 | a building of any kind, even one not meant to be lived in, where aedes is a dwelling
 aedifico | 1 | build
 aedifico | 3 | to build a house, to put a building up
 aedifico | 4 | to construct anything at all: navem aedificare, to build a ship
-aedifico | 5 | to build up or establish something abstract: rem publicam aedificare
+aedifico | 5 | to build up or establish something abstract: rem publicam aedificare, to build up the state
 aedifico | 6 | in Christian Latin, to build someone up in faith, to edify
 aedilicius | 1 | aedilician
 aedilicius | 3 | belonging to an aedile: munus aedilicium, an aedile's public duty
