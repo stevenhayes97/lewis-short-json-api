@@ -621,13 +621,13 @@ addo | 7 | to set someone over another as a watcher or a tormentor
 addubito | 1 | doubt
 addubito | 3 | to begin to doubt, to waver about something (with de or in)
 addubito | 4 | to call a thing into question, to be unsure of it
-adduco | 1 | lead
+adduco | 1 | bring
 adduco | 2 | persuade
 adduco | 3 | to lead or bring someone to a place, usually in one's own company
 adduco | 4 | to draw something tight, to pull it towards oneself: adducere tormenta, to wind the artillery taut
 adduco | 5 | of skin, to draw up, to wrinkle or shrivel
 adduco | 6 | to bring someone into a state: in periculum adducere, to bring into danger
-adduco | 7 | to induce or persuade someone to do or believe something (with ut and the subjunctive)
+adduco | 7 | to induce or persuade someone to do or believe something (with ut and the subjunctive): adducor ut credam, I am led to believe
 adduco | 8 | adductus as an adjective: taut and tight; of character, strict and severe
 adedo | 1 | gnaw
 adedo | 3 | to bite at something, to nibble or gnaw it
@@ -635,7 +635,7 @@ adedo | 4 | to eat away or consume, of fire, of rust, and of a squandered fortun
 adeo1 | 1 | approach
 adeo1 | 2 | undertake
 adeo1 | 3 | to go up to a place or a person (with ad, in, or the accusative)
-adeo1 | 4 | to approach someone to ask, consult, or petition: adire praetorem, to apply to the praetor
+adeo1 | 4 | to approach someone to ask, consult, or petition: adire praetorem, to apply to the praetor; in jus adire, to go to law
 adeo1 | 5 | to visit a place in order to see or inspect it
 adeo1 | 6 | to come at someone in a hostile way, to attack them
 adeo1 | 7 | to enter upon something, to take it on: adire periculum, to face a danger; hereditatem adire, to enter on an inheritance
@@ -649,9 +649,9 @@ adeo2 | 7 | bringing in a reason, and indeed, for in fact
 adeo2 | 8 | nay rather, correcting or strengthening what was just said
 adeps | 1 | fat
 adeps | 3 | the soft fat of an animal, lard or grease
-adeps | 4 | of a person, corpulence, flabbiness
+adeps | 4 | of a person, corpulence, flabbiness: Cassii adipes, the fat Cassius
 adeps | 5 | the soft sappy wood beneath the bark, or rich marly soil
-adequito | 1 | ride
+adequito | 1 | ride up
 adequito | 3 | to ride up to a place, to gallop up (with ad or the dative)
 adequito | 4 | to ride alongside someone or past them
 adhaereo | 1 | cling
