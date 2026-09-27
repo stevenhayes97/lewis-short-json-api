@@ -1341,7 +1341,7 @@ aeternus | 4 | undying, immortal, everlasting
 aeternus | 5 | of things the ancients thought fixed, such as the stars, everlasting
 aeternus | 6 | lasting a very long time, enduring, perpetual
 aeternus | 7 | in aeternum, for ever, for always
-aeternus | 8 | aeternum as an adverb, for ever; and of what keeps recurring, again and again
+aeternus | 8 | aeternum as an adverb, for ever; and of what keeps recurring, again and again: janitor aeternum latrans, the doorkeeper forever barking
 aether | 1 | sky
 aether | 3 | the upper, purer air, the ether, as against aer, the lower air we breathe
 aether | 4 | heaven, the dwelling of the gods
