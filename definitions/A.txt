@@ -871,7 +871,7 @@ admutilo | 4 | to fleece someone of their money, a joke of Plautus
 adnepos | 1 | great-great-great-grandson
 adnepos | 3 | the son of an abnepos, that is, a great-great-great-grandson
 adoleo1 | 1 | burn
-adoleo1 | 3 | in sacrifice, to burn an offering on the altar, and so to honour or worship a god
+adoleo1 | 3 | in sacrifice, to burn an offering on the altar, and so to honour or worship a god: flammis adolere Penates, to honour the household gods with fire
 adoleo1 | 4 | in later Latin, simply to burn something up
 adolesco | 1 | grow
 adolesco | 3 | to grow up towards full size, of people, animals, plants, and seasons
@@ -883,15 +883,15 @@ adoperio | 3 | to cover something over, most often in the perfect participle: ca
 adoptatio | 1 | adoption
 adoptatio | 3 | the taking of someone as one's own child
 adoptio | 1 | adoption
-adoptio | 3 | the taking of someone into the family in place of a son or a grandson
+adoptio | 3 | the taking of someone into the family in place of a son or a grandson; properly of one still under a father's power, where arrogatio adopts a man independent at law
 adoptio | 4 | of plants, grafting; of bees, admission into a new hive
 adoptivus | 1 | adoptive
 adoptivus | 3 | belonging to or gained by adoption: filius adoptivus, an adopted son
 adoptivus | 4 | of a plant, grafted onto another stock
 adopto | 1 | adopt
 adopto | 2 | choose
-adopto | 3 | to take something to oneself by choice, to pick or select it
-adopto | 4 | to adopt someone as a son or grandson, a formal act at law
+adopto | 3 | to adopt someone as a son or grandson, a formal act at law
+adopto | 4 | to take something to oneself by choice, to pick or select it: aliquem sibi patronum adoptare, to choose someone as one's patron
 adopto | 5 | in gardening, to graft a shoot onto another tree
 ador | 1 | spelt
 ador | 3 | a kind of grain, spelt, used in the oldest Roman sacrifices
@@ -900,9 +900,9 @@ adoreus1 | 3 | made of spelt, of spelt: far adoreum, spelt grain
 adoreus1 | 4 | adorea as a noun, a reward for valour and so glory in war, from the grain once given as a prize
 adorior | 1 | attack
 adorior | 2 | undertake
-adorior | 3 | to go up to someone in order to speak, to accost them
-adorior | 4 | to come at someone with hostile intent, to assault them
-adorior | 5 | to set about something hard or dangerous, to attempt it
+adorior | 3 | to come at someone with hostile intent, to assault them: a tergo Milonem adoriri, to attack Milo from behind
+adorior | 4 | to set about something hard or dangerous, to attempt it
+adorior | 5 | to go up to someone in order to speak, to accost them
 adorno | 1 | equip
 adorno | 2 | adorn
 adorno | 3 | to get something ready for a purpose, to fit it out or provide it
