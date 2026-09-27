@@ -324,16 +324,15 @@ accido1 | 4 | to cripple or weaken something: accisae res, broken fortunes
 accido2 | 1 | happen
 accido2 | 2 | fall
 accido2 | 3 | to fall down at or upon something: ad genua accidere, to fall at someone's knees as a suppliant
-accido2 | 4 | to happen or come about; with the dative, to happen to someone
+accido2 | 4 | to happen or come about, usually of something unexpected or unwelcome, where contingo is used of good fortune; with the dative, to happen to someone
 accido2 | 5 | of a sound or a report, to reach someone, to strike the ear
 accido2 | 6 | si quid ei acciderit, a polite way of saying if he should die
 accido2 | 7 | to turn out a certain way: si secus acciderit, if it goes otherwise
-accido2 | 8 | usually of something unwelcome, where contingo is used of good fortune
 accingo | 1 | gird
 accingo | 2 | equip
 accingo | 3 | to gird something on, especially a sword at the side
 accingo | 4 | to arm or equip someone, to fit them out
-accingo | 5 | se accingere or accingi, to gird oneself up, to get ready for a task
+accingo | 5 | se accingere or accingi, to gird oneself up, to get ready for a task: accingunt omnes operi, all set to the work
 accingo | 6 | accinctus as an adjective: ready for action, alert, on duty
 accio | 1 | summon
 accio | 3 | to call someone to you, to send for them or fetch them
@@ -359,7 +358,7 @@ acclamo | 1 | shout
 acclamo | 3 | to shout at someone, in praise or in protest (with the dative)
 acclamo | 4 | in earlier usage, to shout someone down, to jeer at them
 acclamo | 5 | after Augustus, to cheer, to applaud loudly
-acclamo | 6 | to hail someone as something by shouting it out
+acclamo | 6 | to hail someone as something by shouting it out: servatorem liberatoremque acclamare, to hail someone as saviour and liberator
 acclinis | 1 | leaning
 acclinis | 3 | leaning on or against something, with the dative
 acclinis | 4 | of ground, sloping
