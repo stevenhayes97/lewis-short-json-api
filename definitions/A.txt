@@ -582,7 +582,7 @@ adaeque | 1 | equally
 adaeque | 3 | in like manner, just as much, mostly early and late Latin and usually with a negative
 adaequo | 1 | equal
 adaequo | 2 | level
-adaequo | 3 | to make one thing equal to another, to level it with something (with cum or the dative)
+adaequo | 3 | to make one thing equal to another, to level it with something (with cum or the dative): tecta solo adaequare, to level the houses with the ground
 adaequo | 4 | to compare one thing with another
 adaequo | 5 | to come up to something, to match or rival it
 adaequo | 6 | with no object, to be equal, to come out even
@@ -597,26 +597,26 @@ adaugeo | 3 | to make something greater by adding to it, to augment it
 adaugeo | 4 | in sacrifice, to devote or offer something up
 adbibo | 1 | drink
 adbibo | 3 | to drink up, to take a drink
-adbibo | 4 | to drink in what is said, to take words in eagerly
+adbibo | 4 | to drink in what is said, to take words in eagerly: adbibe puro pectore verba, drink in my words with an open heart
 addecet | 1 | befits
 addecet | 3 | impersonal: it is fitting, it becomes one to do something, found only in early Latin
 addico | 1 | award
 addico | 2 | consign
-addico | 3 | of birds and omens, to be favourable, to give approval
-addico | 4 | at an auction, to knock a lot down to the highest bidder
-addico | 5 | as a judge, to make something over to someone, to adjudge it to them
-addico | 6 | to hand a debtor over to his creditor as a bondsman
-addico | 7 | to devote or dedicate oneself to a cause
-addico | 8 | to give someone up, to sacrifice or abandon them
-addico | 9 | addictus as an adjective: bound over, pledged, enslaved to a person or a doctrine
+addico | 3 | at an auction, to knock a lot down to the highest bidder
+addico | 4 | as a judge, to make something over to someone, to adjudge it to them
+addico | 5 | to hand a debtor over to his creditor as a bondsman
+addico | 6 | to devote or dedicate oneself to a cause: senatus, cui me semper addixi, the senate, to which I have always devoted myself
+addico | 7 | to give someone up, to sacrifice or abandon them: morti addicere, to consign to death
+addico | 8 | of birds and omens, to be favourable, to give approval
+addico | 9 | addictus as an adjective: bound over, pledged, enslaved to a person or a doctrine: nullius addictus jurare in verba magistri, bound to swear by no master's words
 addisco | 1 | learn
-addisco | 3 | to learn something further, to go on learning
+addisco | 3 | to learn something further, to go on learning: senem se fieri cotidie aliquid addiscentem, that he grew old learning something new every day
 addisco | 4 | to be told something, to hear or find it out
 addo | 1 | add
 addo | 3 | to put or place one thing beside another
 addo | 4 | to add to a thing so as to increase it (with the dative or ad)
 addo | 5 | to impart a quality: animum addere, to give courage
-addo | 6 | adde, or adde huc, add to this, used to bring in a further point
+addo | 6 | adde, adde huc, or adde quod, add to this, used to bring in a further point
 addo | 7 | to set someone over another as a watcher or a tormentor
 addubito | 1 | doubt
 addubito | 3 | to begin to doubt, to waver about something (with de or in)
