@@ -398,9 +398,10 @@ accubo | 5 | to lie with someone, to sleep with them
 accumbo | 1 | recline
 accumbo | 3 | to lay oneself down somewhere
 accumbo | 4 | to take one's place at table, to sit down to dinner in the Roman fashion
+accumbo | 5 | to lie with someone, to sleep with them
 accumulo | 1 | accumulate
 accumulo | 3 | to heap something up, to pile it higher
-accumulo | 4 | to increase something by adding to it, to pile on honour or grief
+accumulo | 4 | to increase something by adding to it, to pile on honour or grief: caedem caede accumulare, to heap slaughter on slaughter
 accumulo | 5 | in farming, to bank earth up round the roots of a plant
 accuro | 1 | do carefully
 accuro | 3 | to do something with care, to see to it properly
