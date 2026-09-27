@@ -960,7 +960,7 @@ adulterinus | 2 | adulterous
 adulterinus | 3 | born of adultery; of animals, not full-blooded
 adulterinus | 4 | false or forged: signum adulterinum, a forged seal
 adulterium | 1 | adultery
-adulterium | 3 | adultery, relations with another man's wife
+adulterium | 3 | adultery, relations with another man's wife: in adulterio deprehendi, to be caught in adultery
 adulterium | 4 | the adulteration of goods, the faking of honey or of merchandise
 adultero | 1 | adulterate
 adultero | 2 | defile
@@ -975,7 +975,7 @@ adumbro | 2 | shade
 adumbro | 3 | to cast a shadow over something, to overshadow it
 adumbro | 4 | in painting, to shade, to work in light and shade
 adumbro | 5 | to represent a thing in outline only, and so imperfectly
-adumbro | 6 | adumbratus as an adjective: counterfeit, feigned, apparent only
+adumbro | 6 | adumbratus as an adjective: counterfeit, feigned, apparent only: comitia adumbrata, a sham assembly
 aduncus | 1 | hooked
 aduncus | 3 | bent like a hook, curved: nasus aduncus, an aquiline nose
 aduno | 1 | unite
