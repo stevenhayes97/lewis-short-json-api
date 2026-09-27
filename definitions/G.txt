@@ -287,7 +287,7 @@ gladius | 1 | sword
 gladius | 3 | the short two-edged thrusting sword of a Roman soldier, worn on the right hip
 gladius | 4 | violence, bloodshed, or murder, with the sword standing for armed force
 gladius | 5 | a gladiatorial fight, or the arena as a sentence: ad gladium damnari, to be condemned to the sword
-gladius | 6 | proverbial: suo sibi gladio iugulare, to cut a man's throat with his own sword, to beat him with his own argument
+gladius | 6 | proverbial: suo sibi gladio jugulare, to cut a man's throat with his own sword, to beat him with his own argument
 gladius | 7 | the blade of a ploughshare
 gladius | 8 | the swordfish
 glaeba | 1 | clod
