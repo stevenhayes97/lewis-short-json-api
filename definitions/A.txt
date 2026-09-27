@@ -909,17 +909,17 @@ adorno | 3 | to get something ready for a purpose, to fit it out or provide it
 adorno | 4 | to decorate or embellish something, to dress it up
 adoro | 1 | worship
 adoro | 2 | entreat
-adoro | 3 | in the earliest Latin, to speak to someone, to address them or treat with them
+adoro | 3 | to reverence and worship a god, to adore
 adoro | 4 | to entreat a god, to pray for something
-adoro | 5 | to reverence and worship a god, to adore
-adoro | 6 | to admire or esteem someone highly, with no religious sense
-adoro | 7 | under the emperors, to pay a ruler divine honours in the eastern manner
+adoro | 5 | to admire or esteem someone highly, with no religious sense
+adoro | 6 | under the emperors, to pay a ruler divine honours in the eastern manner
+adoro | 7 | in the earliest Latin, to speak to someone, to address them or treat with them
 adrado | 1 | shave
 adrado | 3 | to scrape or shave something close, to pare it down
 adrado | 4 | of a piece of writing, to trim it back, to prune it
-adsum | 1 | attend
+adsum | 1 | be present
 adsum | 2 | support
-adsum | 3 | to be present, to be there, the opposite of absum
+adsum | 3 | to be present, to be there, the opposite of absum: adsum, here I am
 adsum | 4 | of time, to be at hand, to have come: Vesper adest, evening is here
 adsum | 5 | to stand by someone and help them, to support them, with the dative
 adsum | 6 | to appear before a court, to answer a summons
@@ -928,13 +928,13 @@ adsum | 8 | to arrive, to turn up, to come on the scene
 adsum | 9 | of the senate, to attend, to be in session
 adulatio | 1 | flattery
 adulatio | 3 | the fawning of a dog, its wagging welcome
-adulatio | 4 | cringing flattery, servile adulation
+adulatio | 4 | cringing flattery, servile adulation: in amicitiis nullam pestem esse majorem quam adulationem, in friendship there is no plague worse than flattery
 adulatio | 5 | the eastern custom of prostrating oneself before a king
 adulator | 1 | flatterer
 adulator | 3 | a cringing flatterer, a sycophant
 adulescens | 1 | youth
-adulescens | 3 | as an adjective, growing up, not yet come to full growth
-adulescens | 4 | a young man or a young woman, roughly between fifteen and thirty
+adulescens | 3 | a young man or a young woman, roughly between fifteen and thirty, though sometimes older
+adulescens | 4 | as an adjective, growing up, not yet come to full growth
 adulescentia | 1 | youth
 adulescentia | 3 | the time of life between boyhood and full manhood, roughly from fifteen to thirty
 adulescentula | 1 | girl
