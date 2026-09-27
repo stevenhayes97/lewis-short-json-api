@@ -1361,18 +1361,18 @@ aevitas | 4 | time without end, immortality
 aevitas | 5 | of the past, the time of long ago
 aevum | 1 | age
 aevum | 2 | eternity
-aevum | 3 | unending time, eternity: per aevum, for ever
-aevum | 4 | a lifetime, one's span of years: aevum agere, to live out one's life
+aevum | 3 | a lifetime, one's span of years: aevum agere, to live out one's life; ter aevo functus, who had lived three lifetimes
+aevum | 4 | unending time, eternity: per aevum, for ever
 aevum | 5 | an age or generation of people
 aevum | 6 | the people living at one time
 aevum | 7 | time in general: vitiata dentibus aevi, worn away by the teeth of time
 affaber | 1 | ingenious
-affaber | 3 | made with art and skill, cleverly wrought
+affaber | 3 | made with art and skill, cleverly wrought; the adverb affabre, skilfully: affabre factus, skilfully made
 affaber | 4 | of a person, skilled, with a hand for a craft
 affabilis | 1 | affable
 affabilis | 3 | easy to speak to, approachable, courteous and kind
 affatim | 1 | amply
-affatim | 3 | to one's satisfaction, enough and more, as much as anyone could want
+affatim | 3 | to one's satisfaction, enough and more, as much as anyone could want: affatim edi, bibi, lusi, I have eaten, drunk and played my fill
 affatim | 4 | in later Latin before an adjective, thoroughly, fully
 affatus2 | 1 | address
 affatus2 | 3 | a speaking to someone, an address, chiefly a word of poetry
