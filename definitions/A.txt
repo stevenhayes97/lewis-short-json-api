@@ -534,7 +534,7 @@ actus2 | 2 | motion
 actus2 | 3 | the driving or moving of a thing, its impulse
 actus2 | 4 | the right of driving cattle across another's land, and the track used for it
 actus2 | 5 | a cart road running between fields
-actus2 | 6 | a measure of land, a furrow's length of 120 feet
+actus2 | 6 | a measure of land, properly 120 Roman feet square, half a jugerum; also a strip 120 feet long, a furrow's length
 actus2 | 7 | the doing of a thing, a deed or performance
 actus2 | 8 | public business, especially the administration of justice
 actus2 | 9 | an act of a play, or an actor's rendering of a part
@@ -570,8 +570,8 @@ acus3 | 1 | garfish
 acus3 | 3 | a sea fish with a long pointed snout, the garfish or hornpike
 ad | 1 | to
 ad | 2 | at
-ad | 3 | towards, in the direction of, of motion to a place: ad urbem ire, to go to the city
-ad | 4 | at, by, near, of position without motion: ad portas, at the gates; ad me, at my house
+ad | 3 | towards, in the direction of, of motion to a place: ad urbem ire, to go to the city; ad me, to my house
+ad | 4 | at, by, near, of position without motion: ad portas, at the gates
 ad | 5 | of time, towards or about: ad vesperum, towards evening; and up to, until: ad hanc diem, to this day
 ad | 6 | of number, about, nearly: ad ducentos, some two hundred
 ad | 7 | with regard to, as far as concerns: ad hanc rem, in this respect
