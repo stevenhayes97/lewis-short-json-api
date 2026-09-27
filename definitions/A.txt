@@ -1237,10 +1237,10 @@ aerarius | 5 | as a noun, a coppersmith
 aerarius | 6 | a citizen of the lowest class, who paid a poll tax and had no vote
 aerarius | 7 | aerarium as a noun, the public treasury, kept in the temple of Saturn
 aerarius | 8 | aeraria as a noun, a mine, a smelting house, or a furnace
-aeratus | 1 | bronzed
+aeratus | 1 | bronze-clad
 aeratus | 3 | fitted or covered with bronze: aerata navis, a bronze-beaked ship
 aeratus | 4 | made of bronze: catenae aeratae, chains of bronze
-aeratus | 5 | in a joke of Cicero's, well furnished with money, moneyed
+aeratus | 5 | in a joke of Cicero's, well furnished with money, moneyed: tribuni non tam aerati quam aerarii, tribunes not so much well-heeled as paid off
 aereus1 | 1 | of bronze
 aereus1 | 3 | made of copper or bronze
 aereus1 | 4 | fitted or plated with bronze: clipeus aereus, a bronze-faced shield
@@ -1255,10 +1255,10 @@ aerugo | 1 | rust
 aerugo | 2 | envy
 aerugo | 3 | the rust of copper, verdigris
 aerugo | 4 | the tarnish on gold and silver, and in poetry money itself
-aerugo | 5 | envy and ill-will, which eat at a man as rust eats metal
+aerugo | 5 | envy and ill-will, which eat at a man as rust eats metal: haec est aerugo mera, this is pure malice
 aerugo | 6 | greed for money, the avarice that clings to the mind like rust
 aerumna | 1 | hardship
-aerumna | 3 | trouble, toil, hardship, a burden laid on one from outside
+aerumna | 3 | trouble, toil, hardship, a burden laid on one from outside: animus aequus optimum est aerumnae condimentum, a calm mind is the best seasoning for hardship
 aerumna | 4 | calamity or tribulation, and in later Latin the defeat of an army
 aerumnosus | 1 | wretched
 aerumnosus | 3 | full of trouble and misery, sorely tried, hard pressed
