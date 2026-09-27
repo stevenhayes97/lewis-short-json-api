@@ -730,7 +730,7 @@ adjicio | 1 | add
 adjicio | 2 | throw
 adjicio | 3 | to throw or set one thing near another
 adjicio | 4 | to add something to what is there, to increase it
-adjicio | 5 | to turn the mind or the eye to a thing: oculos adjicere, to cast an eye on
+adjicio | 5 | to turn the mind or the eye to a thing: oculos adjicere, to cast an eye on; ad virginem animum adjicere, to set one's heart on a girl
 adjicio | 6 | of a speaker, to add a further remark
 adjicio | 7 | at an auction, to raise a bid, to outbid
 adjudico | 1 | adjudge
@@ -740,7 +740,7 @@ adjugo | 1 | yoke
 adjugo | 3 | in gardening, to tie a vine shoot to its support
 adjugo | 4 | to join or add one thing to another
 adjumentum | 1 | help
-adjumentum | 3 | a means of help, an aid or support
+adjumentum | 3 | a means of help, an aid or support: magno adjumento esse ad victoriam, to be a great help towards victory
 adjunctio | 1 | joining
 adjunctio | 3 | a joining or binding together, a union
 adjunctio | 4 | an addition made to something
