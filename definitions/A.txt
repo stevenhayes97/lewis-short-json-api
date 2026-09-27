@@ -1283,7 +1283,7 @@ aestimatio | 4 | a judgment of a thing's real worth, where existimatio is the op
 aestimatio | 5 | the worth or value a thing actually has
 aestimator | 1 | valuer
 aestimator | 3 | one who appraises a thing's money value, an assessor
-aestimator | 4 | one who judges a thing's true worth
+aestimator | 4 | one who judges a thing's true worth: immodicus aestimator sui, a man with too high an opinion of himself
 aestimo | 1 | value
 aestimo | 2 | judge
 aestimo | 3 | to set a money value on something, to appraise it, with the genitive or ablative of price
@@ -1307,7 +1307,7 @@ aestuo | 3 | of fire, to blaze and roar
 aestuo | 4 | to be hot, to burn or glow; and of a person, to feel the heat, to swelter
 aestuo | 5 | of the sea, to heave and surge, to run high
 aestuo | 6 | to burn with a passion, to be on fire with love, envy, or desire
-aestuo | 7 | to waver, to be unable to settle on a course, to be at a loss
+aestuo | 7 | to waver, to be unable to settle on a course, to be at a loss: dubitatione aestuare, to be tossed about by doubt
 aestuosus | 1 | sweltering
 aestuosus | 3 | very hot, burning: via aestuosa, a road baking in the sun
 aestuosus | 4 | of water, seething and tossing, in violent motion
