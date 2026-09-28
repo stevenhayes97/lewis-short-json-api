@@ -1817,7 +1817,6 @@ aliunde | 1 | from elsewhere
 aliunde | 3 | from another place, person, or thing
 aliunde | 4 | aliunde ... aliunde, from one source ... from another
 alius2 | 1 | other
-alius2 | 2 | another
 alius2 | 3 | another out of many, where alter is the other of two
 alius2 | 4 | alius ... alius, one ... another; in the plural, some ... others
 alius2 | 5 | alius with its own case repeated: alius alium hortantur, they urge one another on
