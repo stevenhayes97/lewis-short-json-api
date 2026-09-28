@@ -3841,8 +3841,8 @@ auceps | 4 | figuratively, an eavesdropper or spy: ne quis nostro sermoni auceps
 auctarium | 1 | makeweight
 auctarium | 3 | something thrown in over and above the true measure or weight
 auctio | 1 | auction
-auctio | 3 | an increase or growth: auctio frumenti, an increase in the corn levy
-auctio | 4 | a sale to the highest bidder, held in the open or in an auction hall
+auctio | 3 | a sale to the highest bidder, held in the open or in an auction hall
+auctio | 4 | an increase or growth: auctio frumenti, an increase in the corn levy
 auctio | 5 | by extension, the goods put up for sale
 auctionor | 1 | auction
 auctionor | 3 | to hold a public sale: in atriis auctionariis auctionari, to auction goods in the sale rooms
@@ -3994,7 +3994,7 @@ aureus | 3 | made of gold: patera aurea, a gold bowl
 aureus | 4 | fitted or worked with gold, gilded: sella aurea, a gilded chair
 aureus | 5 | of the colour or gleam of gold: barbae color aureus, a golden beard
 aureus | 6 | figuratively, lovely and splendid: aurea Venus, golden Venus; aurea mediocritas, the golden mean
-auricula | 1 | earlobe
+auricula | 1 | outer ear
 auricula | 3 | the outer ear, as against auris, the ear as the organ of hearing: prendere auriculis, to take someone by the ears
 auricula | 4 | more loosely, the ear itself: avidum auricularum, itching for news
 aurifer | 1 | gold-bearing
