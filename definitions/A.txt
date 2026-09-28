@@ -1582,7 +1582,7 @@ agnitio | 1 | recognition
 agnitio | 2 | knowledge
 agnitio | 3 | a recognising or acknowledging of a thing, its formal acceptance
 agnitio | 4 | knowledge or grasp of a thing: agnitio animi, understanding of the soul's nature
-agnomen | 1 | nickname
+agnomen | 1 | honorific name
 agnomen | 3 | a name won by an achievement, such as Africanus, as against the inherited cognomen
 agnominatio | 1 | wordplay
 agnominatio | 3 | the figure of setting together words alike in sound but different in sense, paronomasia
