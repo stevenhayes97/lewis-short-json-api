@@ -37,8 +37,8 @@ facetia | 3 | in the plural, wit, witticisms, pleasantries
 facetus | 1 | witty
 facetus | 3 | of behaviour, courteous, polite, refined
 facetus | 4 | of speech, elegant, fine
-facies | 1 | shape
-facies | 2 | face
+facies | 1 | face
+facies | 2 | shape
 facies | 3 | figuratively, appearance, look, aspect (in general)
 facies | 4 | a pretence, a pretext, outward show masking the reality
 facilis | 1 | easy
@@ -55,7 +55,7 @@ facinus | 4 | by extension, in poetry, an instrument of crime (e.g. a poisoned c
 facio | 1 | make
 facio | 2 | do
 facio | 3 | with two accusatives, to render, turn into (something)
-facio | 4 | to value, esteem, regard (with gen. of price: magni facere, to think highly of)
+facio | 4 | with a genitive of value, to value, esteem: magni facere, to think highly of
 facio | 5 | to represent, feign, pretend, assert (that something is the case)
 facio | 6 | in business, to practise, follow (a trade or profession)
 facio | 7 | in religion, to perform a rite, offer a sacrifice
@@ -130,7 +130,7 @@ familia | 2 | estate
 familia | 3 | in respect to lineage, a family, a clan (within a gens)
 familia | 4 | a school, a sect (of philosophers)
 familiaricus | 1 | servants'
-familiaricus | 3 | of the house or family (in gen.)
+familiaricus | 3 | in general, of the house or family
 familiaris | 1 | domestic
 familiaris | 2 | intimate
 familiaris | 3 | as a noun, a close friend, an intimate
@@ -140,7 +140,7 @@ familiaritas | 1 | intimacy
 familiaritas | 3 | by extension, in the plural, close friends, intimates
 famosus | 1 | famous
 famosus | 3 | in a bad sense, infamous, notorious
-famosus | 4 | transitively, defamatory, slanderous (of a libel)
+famosus | 4 | in an active sense, defamatory, slanderous (of a libel)
 famularis | 1 | servile
 famulitium | 1 | servitude
 famulitium | 3 | concretely, the household slaves, the domestic staff
@@ -182,7 +182,7 @@ fastidio | 1 | loathe
 fastidio | 2 | disdain
 fastidio | 3 | figuratively, to scorn, be too proud for (something)
 fastidiosus | 1 | squeamish
-fastidiosus | 3 | transitively, rarely, disgusting, loathsome, distasteful
+fastidiosus | 3 | in an active sense, rarely, disgusting, loathsome, distasteful
 fastidium | 1 | distaste
 fastidium | 3 | especially, fussiness, daintiness (of a pampered taste)
 fastidium | 4 | figuratively, disdain, scornful contempt, haughtiness
@@ -262,9 +262,9 @@ feles | 3 | by extension, a marten, a polecat
 feles | 4 | figuratively, rarely, a seducer, a thief (of virgins)
 felicitas1 | 1 | happiness
 felicitas1 | 3 | rarely, fruitfulness, fertility (of soil)
-felix1 | 1 | fruitful
-felix1 | 2 | lucky
-felix1 | 3 | transitively, auspicious, of good omen, bringing good luck
+felix1 | 1 | lucky
+felix1 | 2 | fruitful
+felix1 | 3 | in an active sense, auspicious, of good omen, bringing good luck
 felix1 | 4 | as an adverb feliciter, fortunately, successfully, happily
 femina | 1 | woman
 femina | 3 | of animals, a female
@@ -355,7 +355,7 @@ ferruumino | 1 | solder
 ferruumino | 3 | in comedy, to glue together (of lips, i.e. to kiss)
 fertilis | 1 | fertile
 fertilis | 3 | figuratively, productive, fruitful (of talent)
-fertilis | 4 | transitively, fertilising, making fruitful
+fertilis | 4 | in an active sense, fertilising, making fruitful
 fertilitas | 1 | fertility
 fertilitas | 3 | figuratively, rarely, productiveness (of an artist's talent)
 ferula | 1 | fennel
