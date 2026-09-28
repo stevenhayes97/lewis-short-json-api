@@ -1625,8 +1625,7 @@ circumfundo | 5 | of a crowd, in the middle voice, to press round and swarm abou
 circumfundo | 6 | to surround or overwhelm: praesidiorum copiis circumfusus, ringed about by the forces of the guard
 circumfundo | 7 | figuratively: undique circumfusae molestiae, troubles crowding in on every side; circumfusae tenebrae, darkness wrapped about one
 circumgredior | 1 | outflank
-circumgredior | 3 | to go or march round, and usually with hostile intent: terga circumgredi, to work round to the rear
-circumgredior | 4 | a word later than Augustus, used several times by Tacitus and rare elsewhere
+circumgredior | 3 | to go or march round, and usually with hostile intent, a word later than Augustus and a favourite of Tacitus: terga circumgredi, to work round to the rear
 circumicio | 1 | throw around
 circumicio | 3 | to cast or set a thing round another: vallum circumicere, to throw up a rampart round
 circumicio | 4 | with an ablative, to encompass a thing with something: extremitatem caeli rotundo ambitu circumicere, to bound the edge of heaven with a round sweep
@@ -1655,7 +1654,6 @@ circumlitio | 3 | an anointing or spreading over: circumlitio oris, a smearing o
 circumlitio | 4 | in painting, the tint given to marble by rubbing it with oil and wax
 circummunio | 1 | wall around
 circummunio | 3 | to build a wall round a place, to fortify or secure it
-circummunio | 4 | common in the historians, and often confused with circumvenire in the manuscripts
 circumnecto | 1 | bind around
 circumnecto | 3 | to wrap or bind round, a late word: flammis circumnexi, wrapped round in flames
 circumnecto | 4 | of the membrane that encloses the belly
@@ -1678,8 +1676,7 @@ circumrodo | 3 | to nibble all round a thing: escam circumrodere, to nibble at t
 circumrodo | 4 | figuratively to hang back from saying a thing: dudum circumrodo quod devorandum est, I have long been nibbling at what I must swallow whole
 circumrodo | 5 | also to backbite: dente Theonino circumrodi, to be gnawed at by a Theonine tooth
 circumsaepio | 1 | fence around
-circumsaepio | 3 | to hedge or fence a thing about: loca parietibus circumsepta, places walled about
-circumsaepio | 4 | not found before the Augustan age
+circumsaepio | 3 | to hedge or fence a thing about, not found before Augustus: loca parietibus circumsepta, places walled about
 circumscribo | 1 | limit
 circumscribo | 3 | literally to draw a line round: orbem circumscribere, to draw a circle; virgula stantem circumscribere, to draw a line round a man where he stands
 circumscribo | 4 | to mark out the bounds of a thing, to define it: nullis terminis circumscribere, to hedge a thing within no limits
@@ -1737,7 +1734,6 @@ circumsto | 3 | to take one's stand round a person or thing: senatum circumstare
 circumsto | 4 | as a noun, circumstantes, the bystanders
 circumsto | 5 | in a hostile sense, to beset or besiege: tribunal praetoris circumstare, to besiege the praetor's tribunal
 circumsto | 6 | figuratively of what hems a man in: omnia nos undique fata circumstent, when all fates hem us in on every side
-circumsto | 7 | its perfect forms are the same as those of circumsisto, so that a form is sometimes hard to assign
 circumstrepo | 1 | din around
 circumstrepo | 3 | to make a noise round about, a word later than Augustus: clamore seditiosorum circumstrepitur, he is shouted down by the din of the mutineers
 circumstrepo | 4 | to shout clamorously round: ceteri circumstrepunt, the rest clamour about him
@@ -1783,8 +1779,7 @@ circumvolo | 3 | to fly round a thing, and not found before Augustus: praedam ci
 circumvolo | 4 | figuratively: mors atris circumvolat alis, death hovers round on black wings
 circumvolo | 5 | more generally to hurry round: ordines exercitus circumvolare, to dash along the ranks of the army
 circumvolvo | 1 | roll around
-circumvolvo | 3 | used only with se or in the middle voice, to roll or wind oneself round: magnum sol circumvolvitur annum, the sun rolls round through the great year
-circumvolvo | 4 | probably no older than Augustus
+circumvolvo | 3 | used only with se or in the middle voice, to roll or wind oneself round, probably no older than Augustus: magnum sol circumvolvitur annum, the sun rolls round through the great year
 circus | 1 | circus
 circus | 3 | a circle, chiefly in astronomy, where circulus is the commoner word: circus lacteus, the Milky Way
 circus | 4 | the Circus Maximus at Rome, built by Tarquinius Priscus between the Palatine and the Aventine, and holding more than a hundred thousand people
@@ -1851,7 +1846,6 @@ civitas | 7 | in later writers simply a city, though not in Cicero or Caesar
 civitas | 8 | in Tacitus, the City, that is Rome and its people
 clabulare | 1 | transport wagon
 clabulare | 3 | a large open wagon, probably with wicker sides, used for carrying soldiers
-clabulare | 4 | its adjectives are clabularis and clabularius
 clades | 1 | disaster
 clades | 3 | at bottom a breaking or shattering, and so any ruin, loss or harm
 clades | 4 | above all a defeat in war: cladem facere, to inflict a slaughter; magna clade castigare, to punish someone with a heavy defeat
@@ -1887,10 +1881,9 @@ clamor | 5 | a hostile shout: clamoribus maximis corripere, to shout someone dow
 clamor | 6 | in the poets of the cries of animals: clamor gruum, the clangour of cranes; clamor apum, the hum of bees
 clamor | 7 | of things, a noise or din: scopuli clamorem dedere, the rocks gave back a roar
 clamosus | 1 | noisy
-clamosus | 3 | actively, for ever bawling: clamosus altercator, a shouting wrangler; clamosus magister, a bawling schoolmaster
+clamosus | 3 | actively, for ever bawling, mostly a word later than Augustus: clamosus altercator, a shouting wrangler; clamosus magister, a bawling schoolmaster
 clamosus | 4 | passively, full of noise: clamosa urbs, a noisy city; clamosus circus, the roaring circus
 clamosus | 5 | of what is done with noise: clamosa actio, a delivery full of shouting
-clamosus | 6 | mostly a word later than Augustus
 clanculum | 1 | secretly
 clanculum | 3 | a diminutive of clam, on the quiet, and common in the early writers: clanculum abire, to slip away unnoticed
 clanculum | 4 | also a preposition with the accusative: clanculum patres, without the fathers knowing
@@ -1925,9 +1918,8 @@ claritas1 | 4 | to the ear, clearness of sound: claritas in voce, clearness in t
 claritas1 | 5 | of thought or style, plainness: claritas orationis, lucidity of expression
 claritas1 | 6 | of a man's standing, fame and high repute, which is the commonest sense; Cicero uses claritas and never claritudo
 claritudo | 1 | renown
-claritudo | 3 | a form standing beside claritas, and very rare in the literal sense: claritudo lunae, the brightness of the moon
+claritudo | 3 | a form standing beside claritas, and very rare in the literal sense, favoured by Sallust and Tacitus where Cicero and Caesar say claritas: claritudo lunae, the brightness of the moon
 claritudo | 4 | usually fame or repute: artes quibus summa claritudo paratur, the accomplishments that win the highest fame
-claritudo | 5 | Sallust uses only claritudo and Tacitus favours it, while Cicero, Caesar, Quintilian and Suetonius avoid it
 claro | 1 | make bright
 claro | 3 | to light up or illuminate, a rare poetic word: iter longae clarat limite flammae, it lights the way with a long trail of fire
 claro | 4 | also to make a thing show or stand out
@@ -1967,12 +1959,11 @@ claudico | 4 | in Lucretius of other unsteady motions, of a bird's crippled wing
 claudico | 5 | figuratively to be defective or incomplete: tota res vacillat et claudicat, the whole thing totters and limps
 claudo1 | 1 | shut
 claudo1 | 3 | to close what is open, the opposite of aperire: fores claudere, to shut the doors; portus claudere, to close the harbour
-claudo1 | 4 | it also appears as cludo, and always so in the compounds: Janum ter clusit, three times he closed the temple of Janus
-claudo1 | 5 | figuratively to close a thing against someone: domus clausa cupiditati, a house shut against greed
-claudo1 | 6 | to bring to an end: opus claudere, to finish a work; epistulam claudere, to close a letter
-claudo1 | 7 | in the army, agmen claudere, to bring up the rear
-claudo1 | 8 | with an ablative, to shut a thing in or surround it: terra marique claudi, to be hemmed in by land and sea; stabulis armenta claudere, to pen the cattle in their stalls
-claudo1 | 9 | of rhythm, to round a sentence off: numeris sententias claudere, to close one's periods in measure
+claudo1 | 4 | figuratively to close a thing against someone: domus clausa cupiditati, a house shut against greed
+claudo1 | 5 | to bring to an end: opus claudere, to finish a work; epistulam claudere, to close a letter
+claudo1 | 6 | in the army, agmen claudere, to bring up the rear
+claudo1 | 7 | with an ablative, to shut a thing in or surround it: terra marique claudi, to be hemmed in by land and sea; stabulis armenta claudere, to pen the cattle in their stalls
+claudo1 | 8 | of rhythm, to round a sentence off: numeris sententias claudere, to close one's periods in measure
 claudus | 1 | lame
 claudus | 3 | limping or halting: claudus altero pede, lame in one foot
 claudus | 4 | proverbially: claudus pilam, a lame man with a ball, said of one who cannot make right use of a thing
@@ -1985,7 +1976,6 @@ claustra | 4 | figuratively a bar or barrier: claustra naturae effringere, to br
 claustra | 5 | a door or gate, a dam, and by transfer the place that is shut in
 claustra | 6 | in the army a barrier or bulwark, and so the key to a position: claustra loci, the key of the ground
 claustra | 7 | figuratively: claustra nobilitatis refringere, to break down the barriers the nobility had set up
-claustra | 8 | it is usually plural, though a singular claustrum is found
 clausula1 | 1 | ending
 clausula1 | 3 | the close or conclusion of anything: bonam clausulam imponere, to put a good ending to it
 clausula1 | 4 | in rhetoric the cadence that closes a period, set against the initium
