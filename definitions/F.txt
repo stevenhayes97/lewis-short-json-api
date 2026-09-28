@@ -549,7 +549,7 @@ firmo | 3 | figuratively, to encourage, hearten, embolden
 firmo | 4 | to confirm, affirm, assert (as true)
 firmus | 1 | firm
 firmus | 3 | figuratively, steadfast, constant, faithful, true
-firmus | 4 | in poetry, with inf, able, capable (of enduring)
+firmus | 4 | in poetry, with an infinitive, able, capable (of enduring)
 fiscalis | 1 | fiscal
 fiscella | 1 | basket
 fiscina | 1 | basket
@@ -618,8 +618,8 @@ flaveo | 1 | be yellow
 flavesco | 1 | turn yellow
 flavus | 1 | golden
 flebilis | 1 | lamentable
-flebilis | 3 | transitively, causing tears, tear-inducing
-flebilis | 4 | transitively, tearful, doleful, weeping
+flebilis | 3 | in an active sense, causing tears, tear-inducing
+flebilis | 4 | in an active sense, tearful, doleful, weeping
 flecto | 1 | bend
 flecto | 2 | persuade
 flecto | 3 | at sea, to round, double (a promontory)
@@ -752,12 +752,15 @@ for | 1 | speak
 for | 3 | in particular, to foretell, prophesy
 for | 4 | in poetry, to sing of, celebrate (in verse)
 foramen | 1 | hole
-foras | 1 | outdoors
-foras | 3 | in later Latin, abroad (away from home)
+foras | 1 | out
+foras | 3 | with verbs of motion, out of doors, forth: exire foras, to go out
+foras | 4 | in later Latin, abroad, away from home
 forceps | 1 | tongs
 forceps | 3 | in the army, by extension, a wedge formation (with diverging wings)
 fordus | 1 | pregnant
-forensis | 1 | forensic
+# review: forensis "forensic" now reads as crime-lab science; the Latin means of the forum and its public business
+forensis | 1 | of the forum
+forensis | 3 | public, of the law courts: oratio forensis, a speech delivered in the forum
 forfex | 1 | shears
 forfex | 3 | by extension, a claw (of a crab or beetle)
 forinsecus | 1 | outwardly
@@ -1114,7 +1117,7 @@ furia | 1 | frenzy
 furia | 3 | personified as Furia, a Fury, a goddess of vengeance
 furia | 4 | by extension, a fiend, a menace (of a destructive person)
 furialis | 1 | furious
-furialis | 3 | transitively, rarely, maddening, infuriating
+furialis | 3 | in an active sense, rarely, maddening, infuriating
 furibundus | 1 | raging
 furibundus | 3 | especially, inspired, prophetically frenzied
 furio1 | 1 | madden
