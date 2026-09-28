@@ -241,11 +241,10 @@ caldarius | 4 | as a neuter noun caldarium, the hot bath, or the room that holds
 caldarius | 5 | as a feminine noun caldaria, a warm bath, and also a boiling pot
 caldarius | 6 | caldarium aes, bronze got ready by melting
 calefacio | 1 | warm
-calefacio | 3 | to make warm or hot: ad calefaciendum corpus, to warm the body; igne focum calefacere, to heat the hearth with fire
-calefacio | 4 | it has a contracted form calfacio, which by Quintilian's day was the commoner of the two
-calefacio | 5 | in everyday talk, to make things hot for someone: calface hominem, give the fellow a warming
-calefacio | 6 | in the poets of the passions, to fire or rouse: calefacta corda tumultu, hearts fired by the uproar
-calefacio | 7 | to push a thing on hotly: forum aleatorium calfecimus, we kept the gaming table warm
+calefacio | 3 | to make warm or hot, with a contracted form calfacio: ad calefaciendum corpus, to warm the body; igne focum calefacere, to heat the hearth with fire
+calefacio | 4 | in everyday talk, to make things hot for someone: calface hominem, give the fellow a warming
+calefacio | 5 | in the poets of the passions, to fire or rouse: calefacta corda tumultu, hearts fired by the uproar
+calefacio | 6 | to push a thing on hotly: forum aleatorium calfecimus, we kept the gaming table warm
 caleo | 1 | be hot
 caleo | 3 | to be warm or hot, the opposite of frigere: calet aqua, the water is hot; ture calent arae, the altars are warm with incense
 caleo | 4 | figuratively, to glow with feeling: admirando irridendo calebat, he warmed to it, now admiring and now mocking
@@ -259,13 +258,11 @@ calesco | 4 | of the mind, to catch fire, and above all with love: flamma propio
 calesco | 5 | agitante calescimus illo, we glow when the god stirs within us
 calidus | 1 | hot
 calidus | 2 | rash
-calidus | 3 | warm or hot: calidus fons, a hot spring; calida lavacra, hot baths
-calidus | 4 | it has a contracted form caldus, which Quintilian says was the usual one in the Augustan age
-calidus | 5 | as a feminine noun calida, hot water, and as a neuter calidum, a hot drink of wine and boiling water
-calidus | 6 | of living things, fiery and spirited: equus calidus animis, a horse of fiery mettle; calidus juventa, hot with youth
-calidus | 7 | of plans, hasty and ill-considered: calida consilia, rash counsels
-calidus | 8 | sometimes quick and ready instead: calidum consilium, a plan struck out on the spot
-calidus | 9 | Caldus was used as a Roman name, meaning hot-head
+calidus | 3 | warm or hot, with a contracted form caldus: calidus fons, a hot spring; calida lavacra, hot baths
+calidus | 4 | as a feminine noun calida, hot water, and as a neuter calidum, a hot drink of wine and boiling water
+calidus | 5 | of living things, fiery and spirited: equus calidus animis, a horse of fiery mettle; calidus juventa, hot with youth
+calidus | 6 | of plans, hasty and ill-considered: calida consilia, rash counsels
+calidus | 7 | sometimes quick and ready instead: calidum consilium, a plan struck out on the spot
 caliendrum | 1 | headdress
 caliendrum | 3 | a tall headdress built up of false hair and worn by Roman women, a very rare word
 caliga | 1 | soldier's boot
@@ -302,9 +299,8 @@ calleo | 5 | literally, to be thick-skinned or callous: plagis costae callent, h
 calleo | 6 | figuratively, to be hardened and past feeling
 calleo | 7 | its participle callens, versed in a thing: callens utriusque linguae, at home in both languages
 calliditas | 1 | cunning
-calliditas | 3 | in the bad sense, craft and slyness: scientia remota ab justitia calliditas potius quam sapientia, knowledge parted from justice deserves the name of cunning rather than wisdom
+calliditas | 3 | in the bad sense, craft and slyness, much the commoner sense: scientia remota ab justitia calliditas potius quam sapientia, knowledge parted from justice deserves the name of cunning rather than wisdom
 calliditas | 4 | in the good sense, shrewdness or skill: calliditas ingenii, quickness of wit
-calliditas | 5 | the bad sense is much the commoner and the more classical
 callidus | 1 | shrewd
 callidus | 2 | cunning
 callidus | 3 | made wise by practice, expert and adroit; Cicero explains it from callum, a mind grown hard with use
@@ -317,7 +313,6 @@ callis | 1 | track
 callis | 3 | a narrow footpath, above all one through woods or over hills: per calles silvestres, along the forest tracks
 callis | 4 | a mountain pasture, or a pass through the hills: per aestivos saltus deviasque calles, through the summer glades and the byways
 callis | 5 | more widely, any path or road
-callis | 6 | it may be either masculine or feminine
 callosus | 1 | hard-skinned
 callosus | 3 | with a thick or hardened skin: callosior cutis, a thicker and harder hide; callosum ulcus, a callous sore
 callosus | 4 | more widely solid, hard or thick: callosa ova, hard-boiled eggs
@@ -330,7 +325,6 @@ callum | 7 | figuratively hardness and want of feeling: labor callum obducit dol
 calo2 | 1 | camp servant
 calo2 | 3 | a soldier's servant with the army, said to be named from the wooden staves such men carried
 calo2 | 4 | more widely any menial or drudge
-calo2 | 5 | Isidore says some gave the name to the tragic buskin, as being made of willow
 calor1 | 1 | heat
 calor1 | 3 | warmth or heat, the opposite of frigus: calorem vitare, to keep out of the heat
 calor1 | 4 | the vital heat of a living body: calor vitalis, the warmth of life
