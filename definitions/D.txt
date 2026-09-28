@@ -53,7 +53,7 @@ deauro | 1 | gild
 debacchor | 1 | rave
 debello | 1 | conquer
 debello | 3 | to bring a war to a close, finish a war (intransitive)
-debello | 4 | parcere subjectis et debellare superbos, to spare the humbled and crush the proud (Virgil)
+debello | 4 | to crush utterly: parcere subjectis et debellare superbos, to spare the humbled and crush the proud
 debeo | 1 | owe
 debeo | 2 | must
 debeo | 3 | to be indebted to someone, to have to thank someone for something (debeo tibi hoc, I owe this to you)
@@ -1259,7 +1259,7 @@ dispando | 3 | figuratively, (of speech) to amplify, expand
 dispar | 1 | unequal
 disparilis | 1 | dissimilar
 disparo | 1 | separate
-disparo | 3 | in logic, as adj. (disparatum), a term opposed to another by simple negation, e.g. wise vs not-wise
+disparo | 3 | in logic, disparatum, a term opposed to another by simple negation, e.g. wise vs not-wise
 dispello | 1 | disperse
 dispello | 3 | figuratively, to dispel, drive away (fear, darkness, or care)
 dispendium | 1 | expense
@@ -1352,7 +1352,7 @@ dissolutio | 4 | in rhetoric, asyndeton, lack of connecting words
 dissolvo | 1 | dissolve
 dissolvo | 2 | discharge
 dissolvo | 3 | figuratively, to abolish, annul, put an end to (a friendship, alliance, or law)
-dissolvo | 4 | rhet/philos: to refute, answer (an argument or charge)
+dissolvo | 4 | in rhetoric and philosophy, to refute, answer (an argument or charge)
 dissolvo | 5 | to release, free, disengage (someone)
 dissolvo | 6 | dissolutus as an adjective, lax, negligent, careless; licentious, dissolute
 dissono | 1 | clash
@@ -1408,8 +1408,8 @@ disturbo | 2 | thwart
 disturbo | 3 | to throw into disorder, disturb (a crowd or assembly)
 dito | 1 | enrich
 diu | 1 | long
-diu | 3 | mostly ante-class: long since, a great while ago
-diu | 4 | rarely, of place (Mela), a long way, far
+diu | 3 | in early Latin, long since, a great while ago
+diu | 4 | rarely, of place, a long way, far
 diurnus | 1 | daily
 diurnus | 2 | diurnal
 diurnus | 3 | as a noun diurnum, a day-book, journal
@@ -1428,12 +1428,13 @@ diverbero | 1 | cleave
 diverbero | 3 | by extension, in everyday speech, to cudgel soundly, thrash
 diversitas | 1 | diversity
 diversitas | 2 | contradiction
-diverto | 1 | different
-diverto | 2 | opposite
-diverto | 3 | rarely, to lodge, stop, sojourn (of travellers)
-diverto | 4 | rarely, (of a wife) to leave her husband, divorce
-diverto | 5 | diversus as an adjective, hostile, opposed, unfriendly
-diverto | 6 | diversus as an adjective, divided, hesitating, inconsistent
+diverto | 1 | diverge
+diverto | 3 | diversus as an adjective, different, diverse, conflicting
+diverto | 4 | diversus, turned different ways, opposite: in diversum, in opposite directions
+diverto | 5 | diversus, hostile, opposed, unfriendly
+diverto | 6 | diversus, divided, hesitating, inconsistent
+diverto | 7 | in later Latin, of travellers, to turn aside to lodge
+diverto | 8 | in law, of a wife, to leave her husband, divorce
 dives | 1 | rich
 dives | 3 | by extension, (of things) sumptuous, costly, splendid
 dives | 4 | in poetry, abundant, plentiful
@@ -1585,8 +1586,9 @@ dossennus1 | 3 | by extension, ironically, a fool, clown, jester
 dotalis | 1 | dotal
 doto1 | 1 | endow
 doto1 | 3 | by extension, to enrich, endow (something) with a quality
-dracunculus | 1 | dragonet
-dracunculus | 3 | the plant tarragon
+dracunculus | 1 | small serpent
+dracunculus | 3 | a kind of fish, the dragonet
+dracunculus | 4 | the plant tarragon
 dubitatio | 1 | doubt
 dubitatio | 3 | in rhetoric, dubitatio, a figure feigning hesitation for rhetorical effect
 dubitatio | 4 | hesitancy, irresolution, delay (in acting)
@@ -1598,7 +1600,9 @@ dubius | 2 | precarious
 ducatus | 1 | leadership
 ducatus | 3 | in Christian Latin, guidance
 ducatus | 4 | by extension, authority
-ducenarius | 1 | two-hundred
+# review: ducenarius English has no one-word adjective for "of two hundred"
+ducenarius | 1 | of two hundred
+ducenarius | 3 | of an official, paid two hundred thousand sesterces a year
 ducenti | 1 | two hundred
 ducenti | 3 | by extension, (used indefinitely) a great many, a large number
 duco | 1 | lead
