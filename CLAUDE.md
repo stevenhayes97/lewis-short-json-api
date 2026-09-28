@@ -129,7 +129,8 @@ is against *vagueness*, not against precision that happens to be unfamiliar.
 Rank 2 is the only rank that may be skipped — a `1 → 3` jump is legal, any
 other gap is an error. Cap is 10 ranks per word; most words want 4–8, and a
 narrow word wanting only 3 should have only 3. Padding out to 10 is worse than
-stopping early.
+stopping early. An entry with only ranks 1–2 is complete when the word has
+nothing further worth teaching; do not add ranks 3+ just to fill it out.
 
 ## Writing the English
 
