@@ -66,6 +66,18 @@ key | rank | simplified modern English definition
   archaic citations, which is the opposite of what a learner needs first.
 - **definition** — plain modern English.
 
+**The classical meaning takes precedence.** When a word's senses differ by
+period, the meaning it has in classical Latin (Cicero, Caesar, the Augustan
+poets, Livy) takes ranks 1–2. That holds even when L&S lists an early or late
+sense first, and however vivid that sense is. Senses found only in early Latin
+(Plautus, Terence), in later Latin or in Christian Latin go to rank 3 or below,
+and name their period in the line: "in early Latin", "in later Latin", "in
+Christian Latin". For example, `differo | 1 | postpone`, the classical sense,
+comes first, and Plautus's "to distract" sits low as `in early Latin, to
+distract`. `decanus` is late Latin throughout, so its rank 1 is its literal
+sense `chief of ten`. The narrower monastic "dean" goes at rank 3. A word
+attested only outside the classical period keeps its own meaning at rank 1.
+
 Each file opens with two `#` comment lines (format legend, source note). Lines
 are grouped by key, ranks ascending, keys in alphabetical order — `check`
 enforces all three.
