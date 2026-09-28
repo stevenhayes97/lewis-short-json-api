@@ -798,7 +798,7 @@ desumo | 1 | select
 desumo | 2 | undertake
 desuper | 1 | above
 detego | 1 | uncover
-detego | 2 | detect
+detego | 2 | reveal
 detego | 3 | in comedy, to strip off, take off clothing
 detergeo | 1 | wipe
 detergeo | 3 | to strip off, break off, or shatter, e.g. of oars sheared off in a ramming attack
@@ -831,7 +831,7 @@ detondeo | 3 | by extension, to strip off, crop (leaves, grass, etc.)
 detondeo | 4 | by extension, to lay waste, ravage (fields, crops)
 detono | 1 | thunder
 detono | 3 | figuratively, to thunder forth, storm, rage (in speech or attack)
-detono | 4 | to cease thundering; trop: to cease raging, spend itself
+detono | 4 | to cease thundering, and figuratively, to cease raging, spend itself
 detorqueo | 1 | deflect
 detorqueo | 2 | distort
 detorqueo | 3 | figuratively, to turn away, divert (someone) from a course, e.g. from virtue
@@ -980,11 +980,12 @@ diffarreatio | 1 | divorce
 diffarreatio | 3 | the ancient religious ceremony that formally dissolved a marriage contracted by confarreatio
 differentia | 1 | difference
 differentia | 3 | in logic, a differentia, the specific feature distinguishing a species within a genus
-differo | 1 | scatter
+differo | 1 | postpone
 differo | 2 | differ
-differo | 3 | to defer, postpone, put off (a matter or decision)
-differo | 4 | to defame, spread damaging reports about (someone)
-differo | 5 | figuratively, rarely, to distract, disturb, harass (someone)
+differo | 3 | to scatter, spread abroad, disperse
+differo | 4 | to put someone off, as with promises
+differo | 5 | to defame, spread damaging reports about (someone)
+differo | 6 | in early Latin, to distract, disturb, harass (someone)
 differtus | 1 | crammed
 difficilis | 1 | difficult
 difficilis | 3 | of character, hard to please, obstinate, morose
@@ -1036,7 +1037,7 @@ dignor | 1 | deem worthy
 dignor | 3 | with an infinitive, to deign to do something, think it fitting
 dignor | 4 | with a negative, to disdain, refuse as beneath oneself
 dignus | 1 | worthy
-dignus | 3 | dignus qui + subj., worthy to do something, deserving that
+dignus | 3 | dignus qui with the subjunctive, worthy to do something, deserving that
 digredior | 1 | depart
 digredior | 2 | digress
 digredior | 3 | figuratively, to deviate, depart (from a principle or duty)
@@ -1062,7 +1063,8 @@ dilato | 1 | dilate
 dilato | 3 | figuratively, to amplify, expand (a speech or argument)
 diligentia | 1 | diligence
 diligentia | 3 | in particular, economy, frugality (in household management)
-diligo | 1 | esteem
+diligo | 1 | love
+diligo | 2 | esteem
 diligo | 3 | by extension, to value, prize (an inanimate thing, quality, or policy)
 diligo | 4 | diligens as an adjective, careful, attentive, diligent, accurate
 diligo | 5 | diligens as an adjective, of domestic affairs, frugal, thrifty, economical
@@ -1164,10 +1166,10 @@ discepto | 4 | (of things) to be at stake, hang in the balance
 discerno | 1 | separate
 discerno | 2 | discern
 discerno | 3 | to determine, settle (a dispute or case)
-discerpo | 1 | mangle
-discerpo | 2 | revile
-discerpo | 3 | by extension, to scatter, disperse, destroy
-discerpo | 4 | figuratively, to dissect, pick apart (an argument or subject)
+discerpo | 1 | tear apart
+discerpo | 3 | figuratively, to dissect, pick apart (an argument or subject)
+discerpo | 4 | by extension, to scatter, disperse, destroy
+discerpo | 5 | to tear someone to pieces with words, to revile
 discessio | 1 | division
 discessio | 2 | separation
 discessio | 3 | in Christian Latin, schism
@@ -1185,8 +1187,9 @@ discingo | 1 | ungird
 discingo | 3 | figuratively, rarely, to neglect, loosen one's hold on (a friendship or alliance)
 discingo | 4 | discinctus as an adjective, dissolute, reckless, slovenly
 disciplina | 1 | instruction
-disciplina | 2 | custom
+disciplina | 2 | discipline
 disciplina | 3 | by extension, learning, knowledge, a branch of science or a system of doctrine
+disciplina | 4 | a habit or way of life: eadem nos disciplina utimur, we keep the same habit
 discipulus | 1 | pupil
 discipulus | 3 | a learner of a trade, an apprentice
 discipulus | 4 | in Christian Latin, a disciple of Christ
