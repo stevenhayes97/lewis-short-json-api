@@ -1084,7 +1084,7 @@ experior | 4 | in law, to go to law, bring a lawsuit
 experior | 5 | experiens as an adjective, enterprising, active, industrious
 experior | 6 | expertus as an adjective, tried, tested, proven
 expers | 1 | devoid
-expers | 3 | rarely, having no share in, not privy to
+expers | 3 | with a genitive, having no share in, not privy to
 expetesso | 1 | crave
 expeto | 1 | desire
 expeto | 3 | to reach, attain to (a goal)
@@ -1202,7 +1202,7 @@ exseco | 1 | excise
 exseco | 3 | in particular, to castrate, geld
 exseco | 4 | figuratively, in poetry, to deduct, cut out (interest on a debt)
 exsecrabilis | 1 | accursed
-exsecrabilis | 3 | transitively, rarely, cursing, imprecatory
+exsecrabilis | 3 | in an active sense, rarely, cursing, imprecatory
 exsecratio | 1 | curse
 exsecratio | 3 | by extension, a solemn oath (sworn under imprecation)
 exsecratio | 4 | in later Latin, an abomination, a detestable thing
@@ -1300,7 +1300,7 @@ exsultatio | 3 | figuratively, exultation, excessive rejoicing
 exsulto | 1 | frolic
 exsulto | 2 | exult
 exsulto | 3 | figuratively, to run riot, revel, boast
-exsulto | 4 | as an adjective, of style, diffuse, prolix, unrestrained
+exsulto | 4 | exsultans as an adjective, of style, diffuse, prolix, unrestrained
 exsupero | 1 | surpass
 exsupero | 3 | to overpower, overwhelm (a difficulty or opponent)
 exsupero | 4 | literally, to rise above, tower over, surmount
