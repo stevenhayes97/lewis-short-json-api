@@ -1458,13 +1458,13 @@ afflo | 3 | to blow or breathe on something
 afflo | 4 | to waft something to someone: auram voluntatis afflare, to bring a breath of goodwill
 afflo | 5 | to be favourable to someone, to smile on them
 affluentia | 1 | abundance
-affluentia | 3 | a flowing towards, an inflow
-affluentia | 4 | abundance, plenty, profusion
+affluentia | 3 | abundance, plenty, profusion: rerum omnium affluentia, a profusion of everything
+affluentia | 4 | a flowing towards, an inflow
 affluo | 1 | abound
 affluo | 2 | flow
-affluo | 3 | of water, to flow towards or past a place
-affluo | 4 | of people, to stream in, to come flocking
-affluo | 5 | with the ablative, to overflow with something, to have it in abundance
+affluo | 3 | with the ablative, to overflow with something, to have it in abundance
+affluo | 4 | of water, to flow towards or past a place
+affluo | 5 | of people, to stream in, to come flocking
 affor | 1 | address
 affor | 3 | to speak to someone, to address them, a poetic verb defective in its forms
 affor | 4 | in augury, to mark out the limits of a sacred space in words
@@ -1519,10 +1519,10 @@ aggredio | 1 | approach
 aggredio | 3 | the rare active form of aggredior, to go up to something
 aggredior | 1 | attack
 aggredior | 2 | undertake
-aggredior | 3 | to go up to a person or a place, to approach
-aggredior | 4 | to approach someone to ask or persuade, to work on them
-aggredior | 5 | to attack or assault, of an open attack where adorior suggests a surprise
-aggredior | 6 | to set about a task, to undertake or begin it, with an infinitive or ad
+aggredior | 3 | to attack or assault, of an open attack where adorior suggests a surprise
+aggredior | 4 | to set about a task, to undertake or begin it, with an infinitive or ad
+aggredior | 5 | to go up to a person or a place, to approach
+aggredior | 6 | to approach someone to ask or persuade, to work on them
 aggrego | 1 | gather
 aggrego | 3 | to add something to a flock or a group
 aggrego | 4 | se aggregare, to attach oneself to a party or a person, to join them
