@@ -1689,7 +1689,7 @@ alcyoneus | 4 | alcyoneum as a noun, sea foam used as a salve for blemishes on t
 alea | 1 | dice
 alea | 2 | risk
 alea | 3 | a game of dice, and more widely any game of chance
-alea | 4 | anything uncertain, a hazard or venture: alea belli, the gamble of war
+alea | 4 | anything uncertain, a hazard or venture: alea belli, the gamble of war; jacta alea est, the die is cast
 aleatorius | 1 | gambling
 aleatorius | 3 | belonging to a gambler or to dicing: aleatoria damna, losses at play
 alec | 1 | fish-sauce
@@ -1738,8 +1738,8 @@ alienitas | 3 | in the medical writers, matter foreign to the body and so causin
 alienitas | 4 | also used for alienatio, derangement of mind
 alieno | 1 | estrange
 alieno | 2 | transfer
-alieno | 3 | to make property over to another, to sell or convey it
-alieno | 4 | to turn someone against you, to lose their goodwill
+alieno | 3 | to turn someone against you, to lose their goodwill
+alieno | 4 | to make property over to another, to sell or convey it
 alieno | 5 | mentem alienare, to drive someone out of their senses
 alieno | 6 | in the passive, of parts of the body, to die or mortify
 alieno | 7 | alienari ab aliqua re, to shrink from a thing, to want no part in it
