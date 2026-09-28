@@ -3449,8 +3449,8 @@ contionalis | 3 | suited to a public meeting, of speech or behaviour: contionali
 contionor | 1 | harangue
 contionor | 3 | in general, to declare or make known publicly
 contorqueo | 1 | twist
-contorqueo | 2 | vehement
-contorqueo | 3 | involved or intricate, as an argument
+contorqueo | 2 | hurl
+contorqueo | 3 | contortus as an adjective, vehement, or of an argument involved and intricate
 contra | 1 | against
 contra | 2 | opposite
 contra | 3 | on the contrary, conversely
@@ -3496,7 +3496,7 @@ contrucido | 3 | figuratively, to destroy utterly, as a state by its own leaders
 contrudo | 1 | crowd
 contrudo | 3 | to thrust or push into, as grapes into vats
 contrunco | 1 | cut down
-contrunco | 3 | facete, to carve up, as food
+contrunco | 3 | in jest, to carve up, as food
 contubernalis | 1 | tentmate
 contubernalis | 2 | comrade
 contubernalis | 3 | the husband or wife of a fellow slave
@@ -3556,7 +3556,7 @@ conventus2 | 3 | a trading company or corporation, in a province
 conventus2 | 4 | union or conjunction, as of atoms or stars
 converro | 1 | sweep
 converro | 3 | by extension, to scrape together, as an inheritance greedily
-converro | 4 | facete, to beat someone soundly
+converro | 4 | in jest, to beat someone soundly
 conversatio | 1 | conversation
 conversatio | 3 | frequent residence, dwelling in a place
 conversio | 1 | revolution
@@ -3631,8 +3631,8 @@ coquus | 1 | cook
 cor | 1 | heart
 cor | 2 | mind
 cor | 3 | cordi est, it is pleasing or dear to someone
-coram | 1 | personally
-coram | 3 | prep. with abl., in the presence of, before
+coram | 1 | in person
+coram | 3 | as a preposition with the ablative, in the presence of, before
 corbis | 1 | basket
 corbitus | 1 | basket-rigged
 corbitus | 3 | as a noun corbita, a slow cargo ship
@@ -3640,7 +3640,7 @@ cordatus | 1 | wise
 corium | 1 | hide
 corium | 2 | rind
 corium | 3 | by extension, a leather whip or strap
-corium | 4 | building, a layer or coat, as of plaster
+corium | 4 | in building, a layer or coat, as of plaster
 corneus1 | 1 | horny
 corneus1 | 3 | of the colour of horn
 corneus1 | 4 | figuratively, hard-hearted or unfeeling
@@ -3661,7 +3661,7 @@ cornutus1 | 1 | horned
 cornutus1 | 3 | as a noun, a kind of horned sea-fish
 cornutus1 | 4 | cornutus syllogismus, a horned syllogism, a logical dilemma
 corollarium | 1 | gratuity
-corollarium | 3 | later philos., a corollary or logical deduction
+corollarium | 3 | in later philosophy, a corollary or logical deduction
 # review: coronarius "of a wreath" needs the article to be accurate; no shorter English phrasing fits
 coronarius | 1 | of a wreath
 coronarius | 3 | as a noun, a garland-maker or -seller
@@ -3675,7 +3675,7 @@ corporo | 1 | embody
 corporo | 3 | to kill, literally to reduce to a lifeless body
 corporo | 4 | as a noun corporatus, a member of a guild or corporation
 corpulentus | 1 | corpulent
-corpulentus | 3 | archaic, great or large
+corpulentus | 3 | in early Latin, great or large
 corpulentus | 4 | in later Latin, physical or corporeal
 corpus | 1 | body
 corpus | 2 | corpse
