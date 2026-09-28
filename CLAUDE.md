@@ -66,6 +66,18 @@ key | rank | simplified modern English definition
   archaic citations, which is the opposite of what a learner needs first.
 - **definition** — plain modern English.
 
+**The classical meaning takes precedence.** When a word's senses differ by
+period, the meaning it has in classical Latin (Cicero, Caesar, the Augustan
+poets, Livy) takes ranks 1–2. That holds even when L&S lists an early or late
+sense first, and however vivid that sense is. Senses found only in early Latin
+(Plautus, Terence), in later Latin or in Christian Latin go to rank 3 or below,
+and name their period in the line: "in early Latin", "in later Latin", "in
+Christian Latin". For example, `differo | 1 | postpone`, the classical sense,
+comes first, and Plautus's "to distract" sits low as `in early Latin, to
+distract`. `decanus` is late Latin throughout, so its rank 1 is its literal
+sense `chief of ten`. The narrower monastic "dean" goes at rank 3. A word
+attested only outside the classical period keeps its own meaning at rank 1.
+
 Each file opens with two `#` comment lines (format legend, source note). Lines
 are grouped by key, ranks ascending, keys in alphabetical order — `check`
 enforces all three.
@@ -129,7 +141,8 @@ is against *vagueness*, not against precision that happens to be unfamiliar.
 Rank 2 is the only rank that may be skipped — a `1 → 3` jump is legal, any
 other gap is an error. Cap is 10 ranks per word; most words want 4–8, and a
 narrow word wanting only 3 should have only 3. Padding out to 10 is worse than
-stopping early.
+stopping early. An entry with only ranks 1–2 is complete when the word has
+nothing further worth teaching; do not add ranks 3+ just to fill it out.
 
 ## Writing the English
 
@@ -143,6 +156,14 @@ stopping early.
   `gratia` after a genitive meaning "for the sake of", `se gerere` + adverb.
   Illustrate with a bare Latin phrase and its English, no citation:
   `bellum gerere cum aliquo, to make war on someone`.
+- **No grammar-only notes.** A rank is a meaning. Notes on inflected or
+  variant forms (`its genitive plural is boum`, `better spelt adnitor`,
+  `with a contracted form caldus`, grammatical gender, which comparative it
+  takes) do not get a rank or a clause: search matches a headword or one of
+  its case forms, and the forms live in the source data, not the curated
+  gloss. A note on usage or register that says something about a sense
+  (`poetic`, `a favourite word of Ovid`) folds into that sense's line
+  instead of taking a rank of its own.
 - **Never invent a sense.** Everything must be defensible against the entry.
   Distilling and reordering is the job; adding meanings is not.
 - Keep the register plain and modern. "unwholesome", not "noxious of humours".

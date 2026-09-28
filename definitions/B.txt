@@ -98,12 +98,10 @@ battuo | 3 | to strike or hit, a rare and colloquial word
 battuo | 4 | of preparing food, to bruise in a mortar or pound meat before cooking
 battuo | 5 | of fencing, to fight with weapons: battuere pugnatoriis armis, to fence with real weapons rather than foils
 beatitas | 1 | happiness
-beatitas | 3 | the state of being beatus, a blessed and prosperous life
-beatitas | 4 | one of two words Cicero coined for it beside beatitudo, and he called both of them harsh
+beatitas | 3 | the state of being beatus, a blessed and prosperous life; one of two words Cicero coined for it beside beatitudo, and he called both harsh
 beatitudo | 1 | happiness
-beatitudo | 3 | blessedness, a condition of complete well-being
-beatitudo | 4 | coined by Cicero alongside beatitas, and the commoner of the two in later writers
-beatitudo | 5 | in Christian Latin, beatitude, the blessedness of the saved
+beatitudo | 3 | blessedness, a condition of complete well-being; coined by Cicero alongside beatitas, and the commoner of the two in later writers
+beatitudo | 4 | in Christian Latin, beatitude, the blessedness of the saved
 bellaria | 1 | dessert
 bellaria | 3 | the last course of a meal, used in the plural only: fruit, nuts, sweets and sweet wine
 bellaria | 4 | so anything served as a delicacy or titbit
@@ -128,9 +126,8 @@ bellicus | 4 | as a neuter noun bellicum, the trumpet call to battle: bellicum c
 bellicus | 5 | so figuratively of speech that rouses people, to sound the alarm
 bellicus | 6 | in the poets the same as bellicosus, warlike: bellica virgo, the warrior maiden Pallas
 belliger | 1 | warlike
-belliger | 3 | waging war, which is what the word literally says: belligerae gentes, warring nations
+belliger | 3 | waging war, which is what the word literally says, a poetic word commonest after Augustus: belligerae gentes, warring nations
 belliger | 4 | of things used in war: belliger ensis, the sword of battle
-belliger | 5 | poetic, and commonest in writers after Augustus
 belligero | 1 | wage war
 belligero | 3 | to carry on a war, with cum or adversus and the enemy: belligerare cum Gallis, to make war on the Gauls
 belligero | 4 | figuratively, to struggle against something: cum fortuna belligerare, to fight it out with fortune
@@ -157,11 +154,10 @@ bellum | 8 | of time, the locative belli and the ablative bello: domi bellique, 
 bellum | 9 | set phrases: justum bellum, a war lawfully declared; jus belli, the law of war; fortuna belli, the chances of war
 bellum | 10 | figuratively, a feud or quarrel with anything at all: bellum indicere philosophiae, to declare war on philosophy
 bellus | 1 | pretty
-bellus | 3 | of people, good-looking or charming, a word of everyday speech: bella puella, a pretty girl
+bellus | 3 | of people, good-looking or charming, a word of everyday speech, commonest in Plautus, Catullus and Cicero's letters: bella puella, a pretty girl
 bellus | 4 | of manner, polite and agreeable: homo bellus, a pleasant fellow
 bellus | 5 | of things and places, nice, fine, first-rate: vinum bellissimum, excellent wine
-bellus | 6 | commonest in Plautus, Catullus and Cicero's letters rather than in formal prose
-bellus | 7 | as an adverb belle, nicely or neatly: belle negare, to refuse politely; belle se habere, to be in good health
+bellus | 6 | as an adverb belle, nicely or neatly: belle negare, to refuse politely; belle se habere, to be in good health
 belua | 1 | beast
 belua | 3 | a large or fierce animal, an elephant, lion, boar or whale, against the smaller bestia
 belua | 4 | on its own very often the elephant: belua Inda, the beast of India
@@ -188,9 +184,7 @@ benedictio | 3 | a word of Christian Latin: the praising or extolling of God
 benedictio | 4 | a blessing pronounced over someone
 benedictio | 5 | by transfer a consecrated object, such as a relic
 beneficentia | 1 | beneficence
-beneficentia | 3 | the quality of a beneficus man, doing good to others in practice
-beneficentia | 4 | Cicero says the same thing may be called benignitas or liberalitas
-beneficentia | 5 | the opposite of maleficentia, the doing of harm
+beneficentia | 3 | the quality of a beneficus man, doing good to others in practice, the opposite of maleficentia; Cicero says it may also be called benignitas or liberalitas
 beneficiarius | 1 | privileged
 beneficiarius | 3 | as an adjective, granted by way of favour, and attested only once
 beneficiarius | 4 | usually a noun in the plural, beneficiarii, soldiers excused the fatigue duties of camp by their commander's favour
@@ -203,12 +197,10 @@ beneficium | 6 | especially a military promotion granted by a commander
 beneficium | 7 | in the lawyers a privilege or right: beneficium liberorum, release from jury service earned by having children
 beneficus | 1 | beneficent
 beneficus | 3 | ready to do good to others, obliging and open-handed: beneficus in amicum, generous towards a friend
-beneficus | 4 | its comparative and superlative are beneficentior and beneficentissimus
-beneficus | 5 | as an adverb benefice, beneficently
+beneficus | 4 | as an adverb benefice, beneficently
 benevolens | 1 | well-wishing
 benevolens | 3 | kindly disposed towards someone, the early form of benevolus and very common in Plautus
 benevolens | 4 | as a noun, a well-wisher or friend
-benevolens | 5 | it borrows its comparative and superlative from benevolus
 benevolentia | 1 | goodwill
 benevolentia | 3 | kindly feeling towards someone, weaker than amor: benevolentiam alicujus consequi, to win someone's goodwill
 benevolentia | 4 | in oratory, the favourable feeling a speaker sets out to win from his hearers
@@ -298,13 +290,11 @@ bidens | 2 | mattock
 bidens | 3 | as an adjective, having two teeth, or two prongs or points: bidens ancora, a two-fluked anchor
 bidens | 4 | as a masculine noun, a heavy hoe with two iron teeth: glaebam frangere bidentibus, to break the clod with mattocks
 bidens | 5 | so by transfer, farming itself: bidentis amans, a lover of the hoe
-bidens | 6 | as a feminine noun, a beast for sacrifice, most often a sheep: mactant lectas de more bidentis, they sacrifice chosen victims in due form
-bidens | 7 | the name is explained from the two rows of full-grown teeth that mark the animal's age
+bidens | 6 | as a feminine noun, a beast for sacrifice, most often a sheep, named from the full-grown teeth that mark its age: mactant lectas de more bidentis, they sacrifice chosen victims in due form
 # review: bidental English has no word for a spot struck by lightning and then consecrated; 'shrine' is close but not exact
 bidental | 1 | lightning shrine
-bidental | 3 | a place struck by lightning, which the haruspices then consecrated and fenced off
-bidental | 4 | named from the bidens, the sheep offered there to appease the stroke
-bidental | 5 | it was an offence to disturb one: triste bidental movere, to meddle with the grim enclosure
+bidental | 3 | a place struck by lightning, which the haruspices then consecrated with a sheep, a bidens, and fenced off
+bidental | 4 | it was an offence to disturb one: triste bidental movere, to meddle with the grim enclosure
 biduus | 1 | two-day
 biduus | 3 | lasting two days, and as an adjective found only once
 biduus | 4 | its neuter noun biduum is the usual form, a space of two days: biduum supererat, two days were left
@@ -339,12 +329,10 @@ bifurcus | 4 | as a neuter noun bifurcum, a fork, the point where two branches p
 bifurcus | 5 | of the body, the cleft where the neck meets the shoulders: sudor per bifurcum volabat, the sweat streamed down his neck
 # review: bigae the pair of horses and the car they draw are one word in Latin; 'chariot' alone loses the pair
 bigae | 1 | two-horse chariot
-bigae | 3 | a pair of horses yoked together, and so also the car they draw
-bigae | 4 | plural in every writer before Augustus, and singular biga only later
-bigae | 5 | of the teams of gods and of night: roseae Aurorae bigae, the rosy pair of Dawn
-bigae | 6 | Hector raptatus bigis, Hector dragged behind a chariot
-bigae | 7 | also of a ploughing team of oxen: bigae cornutae, a horned pair
-bigae | 8 | the figure stamped on the silver coin called a bigatus
+bigae | 3 | a pair of horses yoked together, and so also the car they draw: Hector raptatus bigis, Hector dragged behind a chariot
+bigae | 4 | of the teams of gods and of night: roseae Aurorae bigae, the rosy pair of Dawn
+bigae | 5 | also of a ploughing team of oxen: bigae cornutae, a horned pair
+bigae | 6 | the figure stamped on the silver coin called a bigatus
 # review: bigatus 'stamped with a two-horse chariot' is the whole word; English has neither the adjective nor a name for the coin
 bigatus | 1 | stamped with a chariot
 bigatus | 3 | of silver, bearing the stamp of a two-horse chariot: argentum bigatum, chariot-stamped silver
@@ -380,8 +368,7 @@ bilis | 6 | atra or nigra bilis, black bile, and so melancholy and low spirits
 bilis | 7 | black bile also stands for madness: atra bili percita est, she is out of her mind
 # review: bimaris English has no one-word adjective for 'lying between two seas'
 bimaris | 1 | between two seas
-bimaris | 3 | lying between two seas, and almost always of Corinth on its isthmus: bimaris Corinthi moenia, the walls of Corinth between its two seas
-bimaris | 4 | a favourite word of Ovid
+bimaris | 3 | lying between two seas, almost always of Corinth on its isthmus, and a favourite word of Ovid: bimaris Corinthi moenia, the walls of Corinth between its two seas
 # review: bimatus a noun for 'the age of two years'; English has no noun that carries it
 bimatus | 1 | age of two
 bimatus | 3 | the age of two years, used of animals and plants: ante bimatum, before its second year
@@ -417,18 +404,16 @@ bipartio | 4 | commonest in its participle: bipartita divisio, a division into t
 bipartio | 5 | its adverb bipartito, in two parts or in two directions: bipartito signa inferre, to attack in two columns
 # review: bipatens of double doors that open both ways; English has no adjective, and 'folding' misses the being thrown open
 bipatens | 1 | opening both ways
-bipatens | 3 | of double doors that swing open on two leaves: portis bipatentibus, at the gates flung wide
+bipatens | 3 | of double doors that swing open on two leaves, an Ennian word kept alive by Virgil: portis bipatentibus, at the gates flung wide
 bipatens | 4 | of the halls of the gods: tectis bipatentibus, in halls open on either side
-bipatens | 5 | an Ennian word, kept alive by two passages of Virgil
 bipedalis | 1 | two-foot
 bipedalis | 3 | two feet long, broad or thick: bipedales trabes, beams two feet thick
 bipedalis | 4 | of a person's height, and so in mockery: adulescentulus bipedali minor, a youngster under two feet high
 bipedalis | 5 | as a neuter noun bipedale, a tile or flagstone two feet across
 bipennis2 | 1 | battle-axe
 bipennis2 | 3 | as an adjective, two-edged: bipennis securis, an axe with an edge each side
-bipennis2 | 4 | far more often a feminine noun, the axe itself: correpta dura bipenni, catching up the heavy axe
+bipennis2 | 4 | far more often a feminine noun, the axe itself, named from penna in its old sense of point: correpta dura bipenni, catching up the heavy axe
 bipennis2 | 5 | used both as a weapon and for felling: duris ut ilex tonsa bipennibus, like a holm oak lopped by hard axes
-bipennis2 | 6 | the name is explained from penna in its old sense of point, one on each side
 bipes | 1 | two-footed
 bipes | 3 | going on two feet, of creatures and of things with two legs: bipes mensa, a two-legged table
 bipes | 4 | as a noun, and usually with contempt, of men: omnium bipedum nequissimus, the worst rogue that walks on two legs
@@ -449,7 +434,6 @@ bis | 9 | bis terve, two or three times; bis terque, over and over again
 bis | 10 | bis tanto or bis tantum, twice as much; and proverbially bis ad eundem, to trip twice over the same stone
 bisextus | 1 | leap day
 bisextus | 3 | the day added every fourth year, so called because the sixth day before the Kalends of March was counted twice
-bisextus | 4 | sometimes written as two words, bis sextus
 bisulcus | 1 | cloven
 bisulcus | 3 | split in two: bisulca lingua, a forked tongue; bisulca ungula, a cloven hoof
 bisulcus | 4 | as a neuter plural noun bisulca, the cloven-footed animals, against the solidipedes with undivided hooves
@@ -505,8 +489,7 @@ boa | 5 | a disease that brings out red pustules, perhaps measles
 boa | 6 | in the form bova, a swelling of the legs brought on by hard travelling
 boarius | 1 | of cattle
 boarius | 3 | belonging to oxen or cattle, and also spelt bovarius
-boarius | 4 | forum boarium, the cattle market at Rome, beside the Circus Maximus
-boarius | 5 | its name was put down to the great bronze ox that stood there, or to the herd Hercules pastured there after taking it from Cacus
+boarius | 4 | forum boarium, the cattle market at Rome, beside the Circus Maximus, where a great bronze ox stood
 boiae | 1 | collar
 boiae | 3 | a collar for the neck, at first of leather, which is where the name comes from, and later of wood or iron
 boiae | 4 | used on prisoners and slaves: attrita boiis colla, necks chafed by the collar
@@ -535,12 +518,10 @@ bonus | 4 | of anyone in a role, good at the job: bonus consul, a good consul
 bonus | 5 | of things, sound or of high quality: bona valetudo, good health; bona aetas, the prime of life
 bonus | 6 | favourable or lucky: bona fama, a good name; bonis temporibus, in prosperous times
 bonus | 7 | of amount, considerable, and of birth, noble: bona pars, a large part; bono genere natus, born of good family
-bonus | 8 | its comparative is melior and its superlative optimus, both in constant use
-bonus | 9 | set phrases: bona fide, in good faith; bona venia, by your leave; bona pax, without a quarrel; bonae artes, honourable conduct, and also the liberal studies
-bonus | 10 | as a title of the gods: Juppiter Optimus Maximus; Bona Dea, the Good Goddess, whose rites no man might attend; and di boni, good heavens
+bonus | 8 | set phrases: bona fide, in good faith; bona venia, by your leave; bona pax, without a quarrel; bonae artes, honourable conduct, and also the liberal studies
+bonus | 9 | as a title of the gods: Juppiter Optimus Maximus; Bona Dea, the Good Goddess, whose rites no man might attend; and di boni, good heavens
 boo | 1 | roar
 boo | 3 | to cry aloud or bellow, chiefly an early and poetic word: boat caelum fremitu, the sky rings with the din
-boo | 4 | it has the older forms bovo and boere beside the usual boare
 boreas | 1 | north wind
 boreas | 3 | the north wind, for which the native Latin word is aquilo: Boreae frigus, the chill of the north wind
 boreas | 4 | by transfer the north itself: Boreae finitimum latus, the side that borders on the north
@@ -550,8 +531,7 @@ bos | 1 | ox
 bos | 2 | cow
 bos | 3 | the animal of the plough and the herd, bull, ox or cow: bos est enectus arando, the ox is worn out with ploughing
 bos | 4 | in the feminine, a cow: bove eximia capta de grege, a splendid cow taken from the herd
-bos | 5 | its genitive plural is boum and its dative and ablative plural bubus or bobus
-bos | 6 | a kind of flatfish of the turbot family
+bos | 5 | a kind of flatfish of the turbot family
 botulus | 1 | sausage
 botulus | 3 | a sausage, counted a low word beside the proper farcimen
 botulus | 4 | by transfer, a stomach stuffed with good things
@@ -634,7 +614,6 @@ brutus1 | 6 | of things, blind or senseless: bruta fulmina, thunderbolts that st
 bubo1 | 1 | owl
 bubo1 | 3 | the horned or eagle owl, whose cry was counted a bad omen: ignavus bubo, the sluggish owl
 bubo1 | 4 | a bird of ill omen in the poets: funereus bubo, the owl of funerals; bubone sinistro, with an owl on the left
-bubo1 | 5 | masculine, except once in Virgil where it is feminine
 bubulcus1 | 1 | ploughman
 bubulcus1 | 3 | strictly one who ploughs with oxen, the same as arator, and distinct from the pastor or armentarius who tends the herd
 bubulcus1 | 4 | in later writers more loosely, a herdsman
@@ -649,9 +628,7 @@ bucca | 5 | quod in buccam venit dicere, to say whatever comes into one's head
 bucca | 6 | by transfer a ranter, a man who only puffs his cheeks: Curtius et Matho buccae, Curtius and Matho, that pair of windbags
 bucca | 7 | so also of a trumpeter, known about town by his blown-out cheeks
 bucco | 1 | babbler
-bucco | 3 | a chatterer who outdoes everyone in talk but not in sense, and so a fool
-bucco | 4 | it turns up in a comic string of insults: stulti stolidi fatui fungi bardi blenni buccones
-bucco | 5 | named alongside the macci, comic types of the same stamp
+bucco | 3 | a chatterer who outdoes everyone in talk but not in sense, and so a fool, a stock comic type: stulti stolidi fatui fungi bardi blenni buccones, fools, dolts, idiots, dunces, blockheads, ninnies and babblers
 buccula | 1 | little cheek
 buccula | 2 | cheekpiece
 buccula | 3 | a diminutive of bucca, a small cheek or mouth
@@ -665,8 +642,7 @@ bucino | 3 | to blow the bucina, to give the signal on it, and mostly used imper
 bucino | 4 | of the hours it marked off: ter bucinavit, the trumpet sounded three times while he declaimed
 buculus | 1 | bullock
 buculus | 3 | a young bullock or steer
-buculus | 4 | its feminine bucula is commoner and classical, a heifer
-buculus | 5 | Myron's bronze heifer at Athens was the famous example
+buculus | 4 | its feminine bucula is commoner and classical, a heifer, as in Myron's famous bronze heifer at Athens
 bulbus1 | 1 | bulb
 bulbus1 | 2 | onion
 bulbus1 | 3 | a bulbous root, as of the tulip, hyacinth or lily
