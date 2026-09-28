@@ -985,7 +985,7 @@ cauda | 4 | proverbially: caudam jactare popello, to wag the tail at the crowd, 
 cauda | 5 | in a pun, the tail end of a word: coda Verrina, that Verrine tail, of the name Verrucius
 caudex1 | 1 | tree trunk
 caudex1 | 2 | book
-caudex1 | 3 | the trunk or stem of a tree, also spelt codex
+caudex1 | 3 | the trunk or stem of a tree
 caudex1 | 4 | the block of wood a man was tied to for punishment
 caudex1 | 5 | as abuse, blockhead or dolt
 caudex1 | 6 | wooden tablets fastened together, from which the sense of book comes, its leaves lying flat rather than rolled like a volumen
@@ -994,19 +994,17 @@ caudex1 | 8 | in late Latin a code of laws, as the Codex Theodosianus
 # review: caudicarius used almost only of barges built from rough tree trunks; English has no adjective for it
 caudicarius | 1 | of tree trunks
 caudicarius | 3 | made of rough tree trunks: naves caudicariae, barges built of stout logs
-caudicarius | 4 | also spelt codicarius
 caulae | 1 | opening
 caulae | 3 | a hole or passage, a favourite word of Lucretius: caulae corporis, the pores of the body
 caulae | 4 | a sheepfold or pen
 caulae | 5 | any enclosure
 cauliculus | 1 | little stalk
-cauliculus | 3 | the small stalk or stem of a plant, the diminutive of caulis, also spelt coliculus
+cauliculus | 3 | the small stalk or stem of a plant, the diminutive of caulis
 cauliculus | 4 | in architecture, a stalk carved as an ornament on the capital of a column
 caulis | 1 | stalk
 caulis | 3 | the stalk or stem of a plant: caulis brassicae, a cabbage stalk; caulis fabarum, a bean stem
 caulis | 4 | of the vine, its tendrils
 caulis | 5 | of things of like shape: the quill of a feather, the bony core of an ox's tail, and the tube an insect lays its eggs through
-caulis | 6 | it is also spelt colis or coles
 caupo | 1 | innkeeper
 caupo | 3 | a petty tradesman or huckster, and above all the keeper of an inn
 caupo | 4 | it has a shorter form copo
@@ -1241,8 +1239,7 @@ centenarius | 4 | centenariae ballistae, catapults that throw hundred-pound ston
 centenarius | 5 | as a noun in late Latin, a centurion
 centeni | 1 | hundred each
 centeni | 3 | the distributive numeral, a hundred apiece or simply a hundred: centeni juvenes, a hundred young men to each
-centeni | 4 | it has a shortened genitive plural centenum
-centeni | 5 | as a neuter noun centenum, rye, so called because it yields a hundredfold
+centeni | 4 | as a neuter noun centenum, rye, so called because it yields a hundredfold
 centesimus | 1 | hundredth
 centesimus | 3 | the ordinal numeral: pars centesima, the hundredth part; centesima lux, the hundredth day
 centesimus | 4 | as a feminine noun centesima, a tax of one per cent on goods sold
@@ -1397,7 +1394,7 @@ cetarius | 3 | having to do with fish, and found only as a noun
 cetarius | 4 | as a masculine noun cetarius, a dealer in fish
 cetarius | 5 | as a neuter noun cetarium, a fishpond or tank for the larger fish
 ceteroqui | 1 | otherwise
-ceteroqui | 3 | for the rest or in other respects, also spelt ceteroquin and formed like alioqui and alioquin
+ceteroqui | 3 | for the rest or in other respects
 ceteroqui | 4 | a rare word: ceteroquin recte, right enough in other ways
 ceterus | 1 | remaining
 ceterus | 3 | the rest of a thing, what is left over beyond what has been named; its nominative singular masculine is not in use
@@ -1555,7 +1552,6 @@ circulus | 5 | in geography a zone of the earth, which the Greeks call a paralle
 circulus | 6 | of time: artiore circulo praecingi, to be bound within a narrower round
 circulus | 7 | any round object, a ring, a necklace or a hoop
 circulus | 8 | a knot of people gathered to talk: in circulis vellicant, in their little groups they pick a man to pieces
-circulus | 9 | it has a contracted form circlus
 circum | 1 | around
 circum | 3 | as an adverb, round about on every side: circum undique, from all sides round
 circum | 4 | as a preposition with the accusative, right round a thing: terra circum axem se convertit, the earth turns round its axis
@@ -1678,7 +1674,7 @@ circumlitio | 1 | smearing over
 circumlitio | 3 | an anointing or spreading over: circumlitio oris, a smearing of the face
 circumlitio | 4 | in painting, the tint given to marble by rubbing it with oil and wax
 circummunio | 1 | wall around
-circummunio | 3 | to build a wall round a place, to fortify or secure it; an old spelling is circummoenio
+circummunio | 3 | to build a wall round a place, to fortify or secure it
 circummunio | 4 | common in the historians, and often confused with circumvenire in the manuscripts
 circumnecto | 1 | bind around
 circumnecto | 3 | to wrap or bind round, a late word: flammis circumnexi, wrapped round in flames
@@ -1703,7 +1699,7 @@ circumrodo | 4 | figuratively to hang back from saying a thing: dudum circumrodo
 circumrodo | 5 | also to backbite: dente Theonino circumrodi, to be gnawed at by a Theonine tooth
 circumsaepio | 1 | fence around
 circumsaepio | 3 | to hedge or fence a thing about: loca parietibus circumsepta, places walled about
-circumsaepio | 4 | not found before the Augustan age, and also spelt circumsepio
+circumsaepio | 4 | not found before the Augustan age
 circumscribo | 1 | limit
 circumscribo | 3 | literally to draw a line round: orbem circumscribere, to draw a circle; virgula stantem circumscribere, to draw a line round a man where he stands
 circumscribo | 4 | to mark out the bounds of a thing, to define it: nullis terminis circumscribere, to hedge a thing within no limits
@@ -1796,7 +1792,6 @@ circumvenio | 7 | to get round someone, to cheat or defraud: circumventum esse i
 circumverto | 1 | turn round
 circumverto | 3 | to turn a thing about, a rare word not found in Cicero: citius quam rotula circumvortitur, quicker than a little wheel goes round
 circumverto | 4 | rota circumvertitur axem, the wheel turns about its axle
-circumverto | 5 | it is also spelt circumvorto
 circumvestio | 1 | clothe around
 circumvestio | 3 | to cover a thing all over, a very rare word: arborem circumvestire, to wrap a tree about
 circumvestio | 4 | in the poets of a man who hides his meaning: se circumvestire dictis, to muffle oneself up in words
@@ -2063,7 +2058,6 @@ cliens | 3 | a client, retainer or follower, the dependant of a Roman patron
 cliens | 4 | of whole peoples, the allies or vassals of a stronger nation
 cliens | 5 | a companion or a favourite
 cliens | 6 | figuratively one under a god's protection: cliens Bacchi, a client of Bacchus
-cliens | 7 | its genitive plural is usually clientium, though clientum is found
 clientela | 1 | clientship
 clientela | 3 | the bond between patron and client, with duties running both ways
 clientela | 4 | mostly plural and concrete, a man's clients or dependants: amplissimas clientelas confirmare, to make good the great following one has inherited
@@ -2151,18 +2145,18 @@ coarto | 3 | of time or discourse, to abridge or condense: tempus coartare, to s
 coccineus | 1 | scarlet
 coccineus | 3 | as a substantive plural (coccina), scarlet clothing
 coclea | 1 | snail
-coclea | 3 | meton., a snail shell
-coclea | 4 | meton., a screw of a wine or oil press
-coclea | 5 | meton., a water-screw, a machine for raising water
-coclea | 6 | meton., a revolving door that turns on a spiral
+coclea | 3 | by extension, a snail shell
+coclea | 4 | by extension, a screw of a wine or oil press
+coclea | 5 | by extension, a water-screw, a machine for raising water
+coclea | 6 | by extension, a revolving door that turns on a spiral
 coclear | 1 | spoon
 coclear | 3 | as a liquid measure, a spoonful
 coctilis | 1 | baked
 coctilis | 3 | of brick, kiln-fired: lateres coctiles, baked bricks; muri coctiles, walls built of baked brick
 coctilis | 4 | as a substantive (coctilia), dry firewood that burns without smoke
 coctura | 1 | cooking
-coctura | 3 | meton., a temperature suited to ripening fruit
-coctura | 4 | meton., a boiling liquid
+coctura | 3 | by extension, a temperature suited to ripening fruit
+coctura | 4 | by extension, a boiling liquid
 codicilli | 1 | note
 codicilli | 2 | codicil
 codicilli | 3 | in the imperial period, an official document from the emperor granting a privilege, a diploma
@@ -2193,7 +2187,7 @@ coercitio | 2 | authority
 coercitio | 3 | coercitio magistratus, the coercive power of a magistrate
 cogitatio | 1 | thought
 cogitatio | 2 | plan
-cogitatio | 3 | meton., the faculty or power of thinking, reason
+cogitatio | 3 | by extension, the faculty or power of thinking, reason
 cogitatio | 4 | cogitatione aliquid complecti, to grasp something in thought
 cogito | 1 | think
 cogito | 2 | intend
@@ -2275,10 +2269,10 @@ coitus2 | 2 | intercourse
 coitus2 | 3 | of syllables, sounds, or fluids, a joining or coalescing: coitus syllabarum, the joining of syllables
 coitus2 | 4 | of plants, union by grafting
 collabefio | 1 | collapse
-collabefio | 3 | trop., to be overthrown or supplanted: a Themistocle collabefactus, brought down by Themistocles
+collabefio | 3 | figuratively, to be overthrown or supplanted: a Themistocle collabefactus, brought down by Themistocles
 collabor | 1 | collapse
-collabor | 3 | transf., of body parts, to sink in or waste away: collapsa tempora, sunken temples
-collabor | 4 | trop., to sink or subside into something: ira in se ipsa collapsa, his anger subsided of its own accord
+collabor | 3 | by extension, of body parts, to sink in or waste away: collapsa tempora, sunken temples
+collabor | 4 | figuratively, to sink or subside into something: ira in se ipsa collapsa, his anger subsided of its own accord
 collacrimo | 1 | weep
 collacrimo | 3 | with an accusative, to weep over or bewail something: casum suum collacrimare, to weep over one's misfortune
 collaticius | 1 | pooled
@@ -2291,7 +2285,7 @@ collativus | 1 | combined
 collativus | 3 | as a substantive (collativum), a monetary contribution
 collator | 1 | contributor
 collator | 2 | comparer
-collator | 3 | trop., a giver or bestower: collator salutis, the giver of salvation
+collator | 3 | figuratively, a giver or bestower: collator salutis, the giver of salvation
 collatus2 | 1 | encounter
 collatus2 | 2 | contribution
 collatus2 | 3 | in collatu, in the affray, amid a clash of weapons
@@ -2329,10 +2323,10 @@ colligo1 | 4 | to gain or incur: odium colligere, to incur hatred
 colligo1 | 5 | of things contracting, to coil or draw together: in spiram se colligere, to coil into a spiral, of a snake
 colligo2 | 1 | bind
 colligo2 | 2 | restrain
-colligo2 | 3 | trop., to unite or connect: officia inter se colligata, duties bound up with one another
+colligo2 | 3 | figuratively, to unite or connect: officia inter se colligata, duties bound up with one another
 colligo2 | 4 | to keep someone confined or held back: Brutum in Graecia colligare, to keep Brutus stationed in Greece
 collineo | 1 | aim
-collineo | 3 | absol., to hit the mark, to aim correctly
+collineo | 3 | used alone, to hit the mark, to aim correctly
 collino | 1 | besmear
 collino | 3 | figuratively, to sully or disgrace: turpes mores collinunt ornatum, base character sullies fine adornment
 collinus | 1 | of hills
@@ -2347,29 +2341,29 @@ collocatio | 4 | filiae collocatio, the giving of a daughter in marriage
 colloco | 1 | place
 colloco | 2 | invest
 colloco | 3 | collocare filiam, to give a daughter in marriage
-colloco | 4 | trop., beneficium bene collocare, to bestow a kindness wisely, as though investing it well
+colloco | 4 | figuratively, beneficium bene collocare, to bestow a kindness wisely, as though investing it well
 collocutio | 1 | conversation
 colloquium | 1 | conference
-colloquium | 3 | transf., of animals, chirping or calling to one another: alitum colloquia, the calls of birds
+colloquium | 3 | by extension, of animals, chirping or calling to one another: alitum colloquia, the calls of birds
 colloquor | 1 | converse
 colloquor | 3 | usually with cum and the ablative: cum aliquo colloqui, to have a conversation with someone
 colluceo | 1 | blaze
-colluceo | 3 | trop., to be conspicuous, to blaze forth: collucere furtis, to be ablaze with evidence of theft
+colluceo | 3 | figuratively, to be conspicuous, to blaze forth: collucere furtis, to be ablaze with evidence of theft
 colluco | 1 | thin
 colluco | 3 | of a forest, to clear undergrowth or thin trees to let in light
 colluctatio | 1 | struggle
-colluctatio | 3 | trop., of speech, a stumbling or floundering over words
+colluctatio | 3 | figuratively, of speech, a stumbling or floundering over words
 colluctor | 1 | wrestle
-colluctor | 3 | trop., cum agro colluctari, to struggle with difficult soil, of hard farming
+colluctor | 3 | figuratively, cum agro colluctari, to struggle with difficult soil, of hard farming
 colludo | 1 | play
 colludo | 2 | collude
-colludo | 3 | jurid., to have a secret understanding with someone to the injury of a third party
+colludo | 3 | in law, to have a secret understanding with someone to the injury of a third party
 collum | 1 | neck
 collum | 3 | as a symbol of servitude, collum dare, to bow the neck, to submit
 collum | 4 | obtorto collo trahere aliquem, to seize someone by the neck and drag him off, to court or prison
-collum | 5 | meton., the neck of a flask or bottle
+collum | 5 | by extension, the neck of a flask or bottle
 colluo | 1 | rinse
-colluo | 3 | absol., of waves, to erode or wash away land
+colluo | 3 | used alone, of waves, to erode or wash away land
 collusio | 1 | collusion
 collusor | 1 | playmate
 collusor | 2 | accomplice
@@ -2379,7 +2373,7 @@ collustro | 2 | survey
 collustro | 3 | omnia oculis collustrare, to survey everything with one's eyes, to take it all in
 colluvio | 1 | filth
 colluvio | 2 | rabble
-colluvio | 3 | trop., a degraded mixture or medley of people: colluvio omnium scelerum, a cesspool of every crime
+colluvio | 3 | figuratively, a degraded mixture or medley of people: colluvio omnium scelerum, a cesspool of every crime
 colo1 | 1 | cultivate
 colo1 | 2 | worship
 colo1 | 3 | without reference to farming, to dwell or inhabit a place: hanc urbem colere, to dwell in this city
@@ -2388,40 +2382,40 @@ colo1 | 5 | with abstract objects, to practise or devote oneself to: amicitiam c
 colo1 | 6 | of a period of time, to live through, to spend: vitam colere, to pass one's life
 colo1 | 7 | colere aliquem, to honour or pay respect to a person, not only a god
 colo2 | 1 | strain
-colo2 | 3 | trop., of dreams, colatiora somniari, to have clearer, more refined dreams
+colo2 | 3 | figuratively, of dreams, colatiora somniari, to have clearer, more refined dreams
 colon | 1 | colon
 colon | 2 | colic
-colon | 3 | transf., in rhetoric or prosody, a clause, a member of a verse or sentence
+colon | 3 | by extension, in rhetoric or prosody, a clause, a member of a verse or sentence
 colonia1 | 1 | colony
 colonia1 | 2 | farm
-colonia1 | 3 | meton., the colonists themselves sent to found a settlement: coloniam deducere, to lead out a colony
-colonia1 | 4 | transf., of bees, a colony or swarm
+colonia1 | 3 | by extension, the colonists themselves sent to found a settlement: coloniam deducere, to lead out a colony
+colonia1 | 4 | by extension, of bees, a colony or swarm
 colonicus | 1 | of husbandry
 colonicus | 2 | of colonies
 colonicus | 3 | as a substantive (colonica), a farmhouse
 colonicus | 4 | cohortes colonicae, troops levied from Roman colonies
 colonus | 1 | farmer
 colonus | 2 | colonist
-colonus | 3 | esp., a tenant farmer who works another's land for rent
+colonus | 3 | especially, a tenant farmer who works another's land for rent
 color | 1 | colour
 color | 2 | pretext
 color | 3 | specif., the natural colour of the skin, the complexion
-color | 4 | trop., external form, character, or style, especially of diction: color orationis, the tone or style of a speech
+color | 4 | figuratively, external form, character, or style, especially of diction: color orationis, the tone or style of a speech
 color | 5 | pregn., splendour, brilliance, embellishment of style
 coloro | 1 | colour
 coloro | 2 | tan
-coloro | 3 | trop., to imbue thoroughly, as opposed to a merely superficial stain: sapientia non coloravit sed infecit, wisdom did not truly dye the mind but only tainted it
+coloro | 3 | figuratively, to imbue thoroughly, as opposed to a merely superficial stain: sapientia non coloravit sed infecit, wisdom did not truly dye the mind but only tainted it
 coloro | 4 | of style, to gloss over or palliate a fault
 coluber | 1 | snake
-coluber | 3 | esp., of the snaky hair of Medusa, the Furies, or the Hydra
+coluber | 3 | especially, of the snaky hair of Medusa, the Furies, or the Hydra
 colubra | 1 | snake
 colubra | 3 | specifically, a female snake, as distinguished from the male coluber
 colum1 | 1 | strainer
-colum1 | 3 | poet., a wicker fish-net, a weir
+colum1 | 3 | in poetry, a wicker fish-net, a weir
 columba | 1 | dove
 columbarius | 1 | dove-keeper
 columbarius | 2 | dovecote
-columbarius | 3 | transf., in architecture, a mortise cut to hold a rafter, or a rowlock hole in a ship's side
+columbarius | 3 | by extension, in architecture, a mortise cut to hold a rafter, or a rowlock hole in a ship's side
 columbarius | 4 | a subterranean tomb with niches in its walls for funerary urns
 columbinus | 1 | of doves
 columbinus | 2 | dove-grey
@@ -2429,25 +2423,25 @@ columbinus | 3 | pulli columbini, young pigeons; ovum columbinum, a dove's egg
 columen | 1 | summit
 columen | 2 | mainstay
 columen | 3 | of a building, the ridge or gable-top: columen tecti, the ridge of a roof
-columen | 4 | trop., the height or culmination of something: pervenire ad columen, to reach the pinnacle
+columen | 4 | figuratively, the height or culmination of something: pervenire ad columen, to reach the pinnacle
 columna | 1 | column
 columna | 2 | waterspout
-columna | 3 | trop., a support or pillar of strength, said of a person
-columna | 4 | poet., the vault of heaven
+columna | 3 | figuratively, a support or pillar of strength, said of a person
+columna | 4 | in poetry, the vault of heaven
 columnarius | 1 | debtor
 columnarius | 2 | pillar-tax
 columnarius | 3 | one condemned and publicly humiliated at the Columna Maenia in the Forum
 columnatus | 1 | pillared
 columnatus | 3 | humorously, in Plautus, os columnatum, a chin propped on a fist
 colus | 1 | distaff
-colus | 3 | meton., the thread spun on a distaff
+colus | 3 | by extension, the thread spun on a distaff
 combibo1 | 1 | absorb
 combibo1 | 2 | carouse
-combibo1 | 3 | trop., to absorb or imbibe skills or qualities: artes combibere, to soak up various skills
+combibo1 | 3 | figuratively, to absorb or imbibe skills or qualities: artes combibere, to soak up various skills
 comburo | 1 | burn
 comburo | 2 | ruin
 comburo | 3 | comburere aliquem judicio, to destroy someone through a lawsuit
-comburo | 4 | poet., to be consumed by love; also diem comburere, to burn away a day in revelry
+comburo | 4 | in poetry, to be consumed by love; also diem comburere, to burn away a day in revelry
 comedo1 | 1 | eat up
 comedo1 | 2 | squander
 comedo1 | 3 | comedere aliquem oculis, to devour someone with one's eyes, i.e. to gaze at them with longing
@@ -2515,7 +2509,7 @@ commereo | 3 | to commit an offence, be guilty of wrongdoing
 commigro | 1 | migrate
 commilitium | 1 | comradeship
 commilito1 | 1 | fellow-soldier
-commilito1 | 3 | transf., a comrade or companion in general
+commilito1 | 3 | by extension, a comrade or companion in general
 comminatio | 1 | threat
 commingo | 1 | befoul
 comminiscor | 1 | invent
@@ -2523,21 +2517,21 @@ comminiscor | 3 | in general, to devise or contrive, without necessarily implyin
 comminor | 1 | threaten
 comminuo | 1 | crush
 comminuo | 2 | diminish
-comminuo | 3 | trop., to weaken or impair someone's spirit or resolve
+comminuo | 3 | figuratively, to weaken or impair someone's spirit or resolve
 comminus | 1 | hand-to-hand
 comminus | 2 | nearby
-comminus | 3 | transf. of time, immediately
+comminus | 3 | of time, immediately
 commisceo | 1 | mix
 commiseresco | 1 | pity
 commiseror | 1 | pity
-commiseror | 3 | absol., of an orator, to excite compassion in a speech
+commiseror | 3 | used alone, of an orator, to excite compassion in a speech
 commissio | 1 | engagement
-commissio | 3 | meton., an opening speech or prize declamation at the games
-commissio | 4 | jurid., a perpetration or commission of an offence
+commissio | 3 | by extension, an opening speech or prize declamation at the games
+commissio | 4 | in law, a perpetration or commission of an offence
 commissorius | 1 | of forfeiture
 commissorius | 3 | lex commissoria, a clause letting a seller rescind an unpaid sale
 commissura | 1 | joint
-commissura | 3 | transf., in rhetoric, a connection or transition in a speech
+commissura | 3 | by extension, in rhetoric, a connection or transition in a speech
 committo | 1 | commit
 committo | 2 | entrust
 committo | 3 | proelium committere, to join battle, engage in combat
@@ -2560,24 +2554,24 @@ commonitorius | 1 | reminding
 commonitorius | 3 | as a substantive commonitorium, a memorandum or letter of instructions
 commonstro | 1 | point out
 commoratio | 1 | delay
-commoratio | 3 | rhet., a dwelling on a point, a rhetorical figure of emphasis
+commoratio | 3 | in rhetoric, a dwelling on a point, a rhetorical figure of emphasis
 commorior | 1 | die together
 commoror | 1 | stay
 commoror | 3 | rarely, act., to detain or delay someone
 commotio | 1 | agitation
-commotio | 3 | lit., a physical shaking or movement, post-classical
+commotio | 3 | literally, a physical shaking or movement, post-classical
 commoveo | 1 | move
 commoveo | 2 | excite
 commoveo | 3 | to dislodge or shake something physically
 commoveo | 4 | to stir up trouble or passions
 communicatio | 1 | communication
-communicatio | 3 | rhet., a figure in which the speaker turns to the audience as if sharing the inquiry with them
+communicatio | 3 | in rhetoric, a figure in which the speaker turns to the audience as if sharing the inquiry with them
 communico | 1 | share
 communico | 3 | to partake in or receive a share of something
 communio1 | 1 | fortify
-communio1 | 3 | trop., to strengthen or confirm, as an argument or authority
+communio1 | 3 | figuratively, to strengthen or confirm, as an argument or authority
 communio2 | 1 | fellowship
-communio2 | 3 | eccl., the sacrament of the Lord's Supper
+communio2 | 3 | in Christian Latin, the sacrament of the Lord's Supper
 communis | 1 | common
 communis | 3 | of manners, affable or courteous
 communis | 4 | in commune, for the common good, in general
@@ -2585,37 +2579,37 @@ communis | 5 | as a substantive commune, a community or state
 communitas | 1 | community
 communitas | 3 | rarely, courtesy or affability
 communitio | 1 | preparation
-communitio | 3 | rhet., the preparing of an approach to one's subject
+communitio | 3 | in rhetoric, the preparing of an approach to one's subject
 communitio | 4 | concr., a fortification
 commurmuro | 1 | murmur
 commutabilis | 1 | changeable
 commutatio | 1 | change
 commutatio | 3 | an exchange, as of prisoners
-commutatio | 4 | rhet., a figure of reciprocal antithesis
+commutatio | 4 | in rhetoric, a figure of reciprocal antithesis
 commuto | 1 | change
 commuto | 2 | exchange
-commuto | 3 | rhet., to vary one's style or manner of expression
+commuto | 3 | in rhetoric, to vary one's style or manner of expression
 como1 | 1 | comb
 como1 | 2 | adorn
-como1 | 3 | rhet., of style, to embellish or polish
+como1 | 3 | in rhetoric, of style, to embellish or polish
 como2 | 1 | be hairy
-como2 | 3 | transf., of a comet or plant, to have a trailing, hair-like plume
+como2 | 3 | by extension, of a comet or plant, to have a trailing, hair-like plume
 compaciscor | 1 | agree
 compages | 1 | framework
-compages | 3 | trop., an embrace, or the confines of the body
+compages | 3 | figuratively, an embrace, or the confines of the body
 compar | 1 | equal
 compar | 3 | as a substantive, a comrade or companion
-compar | 4 | esp., a spouse or mate
-compar | 5 | rhet., a figure with an equal number of syllables in corresponding clauses
+compar | 4 | especially, a spouse or mate
+compar | 5 | in rhetoric, a figure with an equal number of syllables in corresponding clauses
 comparatio1 | 1 | comparison
 comparatio1 | 3 | a contest or trial of skill
-comparatio1 | 4 | gram., the comparative degree
+comparatio1 | 4 | in grammar, the comparative degree
 comparatio2 | 1 | preparation
 comparatio2 | 2 | procurement
 comparatio2 | 3 | in later Latin, a purchase
 comparativus | 1 | comparative
 comparco | 1 | save
-comparco | 3 | trop., to refrain or abstain from something
+comparco | 3 | figuratively, to refrain or abstain from something
 compareo | 1 | appear
 comparo1 | 1 | compare
 comparo1 | 2 | pair
@@ -2625,12 +2619,12 @@ comparo2 | 2 | procure
 compasco | 1 | pasture
 compasco | 3 | pregn., to consume or destroy by grazing
 compedio | 1 | fetter
-compedio | 3 | trop., to hamper or restrict
+compedio | 3 | figuratively, to hamper or restrict
 compello1 | 1 | compel
 compello1 | 2 | assemble
 compello2 | 1 | rebuke
 compello2 | 2 | accost
-compello2 | 3 | jurid., to summon before a tribunal, arraign
+compello2 | 3 | in law, to summon before a tribunal, arraign
 compendiarius | 1 | short
 compendiarius | 3 | as a substantive (via) compendiaria, a short cut or shortcut method
 compendiosus | 1 | brief
@@ -2648,12 +2642,12 @@ comperio | 1 | ascertain
 comperior | 1 | ascertain
 compes1 | 1 | fetter
 compesco | 1 | curb
-compesco | 3 | lit., to prune or clip, as branches
+compesco | 3 | literally, to prune or clip, as branches
 competo | 1 | coincide
 competo | 3 | to belong or be due to someone
 competo | 4 | as a participle competens, appropriate or competent
 compilo | 1 | plunder
-compilo | 3 | trop., to plagiarise or pilfer, as another's writings
+compilo | 3 | figuratively, to plagiarise or pilfer, as another's writings
 compingo1 | 1 | join
 compingo1 | 2 | confine
 compitalis | 1 | of crossroads
@@ -2661,20 +2655,20 @@ compitalis | 3 | as a substantive Compitalia, a festival held at crossroads hono
 compitum | 1 | crossroads
 complaceo | 1 | please
 complano | 1 | level
-complano | 3 | trop., to smooth over or make tolerable
+complano | 3 | figuratively, to smooth over or make tolerable
 complector | 1 | embrace
 complector | 2 | comprehend
 complector | 3 | to comprise or include, as in a speech or account
 complector | 4 | to value or cherish someone
 compleo | 1 | fill
 compleo | 2 | complete
-compleo | 3 | milit., to bring a legion or army up to full strength
+compleo | 3 | in the army, to bring a legion or army up to full strength
 compleo | 4 | to man, as a fleet with crews
 complexio | 1 | combination
-complexio | 3 | rhet., a period, a complete rounded sentence
+complexio | 3 | in rhetoric, a period, a complete rounded sentence
 complexio | 4 | philos., the conclusion of a syllogism, or a dilemma
 complexus2 | 1 | embrace
-complexus2 | 3 | trop., a connection or coherence in discourse
+complexus2 | 3 | figuratively, a connection or coherence in discourse
 complexus2 | 4 | as a measure, an arm's reach or span
 complico | 1 | fold
 comploratio | 1 | lamentation
@@ -2685,7 +2679,7 @@ compluvium | 3 | the quadrangular opening above a Roman atrium that channelled r
 compono | 1 | compose
 compono | 2 | settle
 compono | 3 | to bury or lay to rest, as the dead
-compono | 4 | milit., to draw up or arrange in position
+compono | 4 | in the army, to draw up or arrange in position
 compono | 5 | to contrive or invent, as a plot or a fiction
 comporto | 1 | collect
 compos | 1 | possessing
@@ -2693,7 +2687,7 @@ compos | 3 | compos mentis, of sound mind, sane
 compos | 4 | rarely, sharing in or guilty of a wrongdoing
 compositio | 1 | arrangement
 compositio | 2 | settlement
-compositio | 3 | rhet., the arrangement of words in style
+compositio | 3 | in rhetoric, the arrangement of words in style
 compositio | 4 | a matching of combatants, as gladiators
 compositor | 1 | composer
 compotio | 1 | grant
@@ -2707,7 +2701,7 @@ comprehensibilis | 1 | graspable
 comprehensibilis | 3 | philos., conceivable or intelligible, translating the Stoic term katalepton
 comprehensio | 1 | seizure
 comprehensio | 2 | comprehension
-comprehensio | 3 | rhet., a period, a complete rounded sentence
+comprehensio | 3 | in rhetoric, a period, a complete rounded sentence
 compressio | 1 | compression
 compressio | 3 | an embrace, or euphemistically, copulation
 compressio | 4 | a repression or suppression, as of a rebellion
@@ -2721,19 +2715,19 @@ comprobo | 2 | confirm
 compromitto | 1 | compromise
 compromitto | 3 | rarely, to promise at the same time
 compungo | 1 | prick
-compungo | 3 | trop., to needle or sting with words
+compungo | 3 | figuratively, to needle or sting with words
 compungo | 4 | in later Latin, to feel remorse or compunction
 computatio | 1 | computation
 computatio | 3 | of misers, niggardliness or stinginess
 computo | 1 | calculate
-computo | 3 | jurid., to reckon something in addition, include in a reckoning
+computo | 3 | in law, to reckon something in addition, include in a reckoning
 conamen | 1 | effort
 conamen | 3 | concr., a support or prop
 conatus | 1 | attempt
-conatus | 3 | trop., a natural impulse or inclination
+conatus | 3 | figuratively, a natural impulse or inclination
 concalefacio | 1 | warm
 concalesco | 1 | warm up
-concalesco | 3 | trop., to glow with love
+concalesco | 3 | figuratively, to glow with love
 concallesco | 1 | harden
 concallesco | 3 | of the mind, to grow shrewd through practice
 concallesco | 4 | of feelings, to grow insensible or unfeeling
@@ -2749,9 +2743,9 @@ concelebro | 3 | to pursue or practise something vigorously, as one's studies
 concelebro | 4 | to publish or make widely known
 concenturio | 1 | assemble
 concentus | 1 | harmony
-concentus | 3 | trop., concord or unanimity, as among people
+concentus | 3 | figuratively, concord or unanimity, as among people
 conceptio | 1 | conception
-conceptio | 3 | jurid., the drafting of legal formulas
+conceptio | 3 | in law, the drafting of legal formulas
 conceptio | 4 | a reservoir or collection, as of water
 conceptivus | 1 | movable
 conceptivus | 3 | feriae conceptivae, movable festivals set annually by the priests, as opposed to fixed ones
@@ -2759,25 +2753,25 @@ conceptus2 | 1 | conception
 conceptus2 | 3 | concr., the foetus, an unborn child
 conceptus2 | 4 | a gathering or collection, as of water
 concerpo | 1 | tear up
-concerpo | 3 | trop., to abuse or revile someone in speech
+concerpo | 3 | figuratively, to abuse or revile someone in speech
 concertatio | 1 | dispute
 concerto | 1 | contend
 concerto | 3 | to dispute or debate, as in argument
 concessio | 1 | concession
-concessio | 3 | rhet., a figure admitting a point while arguing mitigation
-concessio | 4 | jurid., a plea that admits the act but pleads for pardon
+concessio | 3 | in rhetoric, a figure admitting a point while arguing mitigation
+concessio | 4 | in law, a plea that admits the act but pleads for pardon
 concesso | 1 | cease
 concessus2 | 1 | permission
 conchylium | 1 | shellfish
 conchylium | 3 | specif., an oyster, or a purple-dye murex
-conchylium | 4 | meton., purple dye, or purple garments
+conchylium | 4 | by extension, purple dye, or purple garments
 concido1 | 1 | collapse
 concido1 | 2 | perish
 concido1 | 3 | to fall dead, or fall in battle
 concido2 | 1 | cut up
 concido2 | 2 | slaughter
 concido2 | 3 | to cudgel or beat severely
-concido2 | 4 | trop., to ruin or destroy, as an argument or reputation
+concido2 | 4 | figuratively, to ruin or destroy, as an argument or reputation
 concieo | 1 | summon
 concieo | 2 | rouse
 conciliabulum | 1 | meeting-place
@@ -2794,11 +2788,11 @@ concilio | 2 | procure
 concilio | 3 | to bring about or produce, as peace or goodwill
 concilio | 4 | to unite or connect physically, as parts into a whole
 concilium | 1 | assembly
-concilium | 3 | esp., a deliberative council
+concilium | 3 | especially, a deliberative council
 concilium | 4 | a close union or connection, as of atoms
 concinnator | 1 | arranger
 concinnitas | 1 | elegance
-concinnitas | 3 | rhet., a graceful, balanced style of arranging words and clauses
+concinnitas | 3 | in rhetoric, a graceful, balanced style of arranging words and clauses
 concinno | 1 | arrange
 concinno | 2 | cause
 concinnus | 1 | elegant
@@ -2809,7 +2803,7 @@ concino | 4 | rarely, to prophesy or foretell
 concipio | 1 | conceive
 concipio | 2 | imagine
 concipio | 3 | to harbour or adopt, as a feeling or passion
-concipio | 4 | jurid., to draw up or compose formally, as an oath
+concipio | 4 | in law, to draw up or compose formally, as an oath
 concitatio | 1 | agitation
 concitatio | 3 | concr., a sedition or popular uprising
 concitator | 1 | instigator
@@ -2823,17 +2817,17 @@ conclamo | 4 | to mourn the dead, calling on them by name
 conclave | 1 | room
 concludo | 1 | enclose
 concludo | 2 | conclude
-concludo | 3 | rhet., to round off a sentence rhythmically
+concludo | 3 | in rhetoric, to round off a sentence rhythmically
 concludo | 4 | philos., to infer or deduce, as in an argument
 conclusio | 1 | conclusion
-conclusio | 3 | milit., a siege or blockade
-conclusio | 4 | rhet., a period, a complete rounded sentence
+conclusio | 3 | in the army, a siege or blockade
+conclusio | 4 | in rhetoric, a period, a complete rounded sentence
 concolor | 1 | same-coloured
 concolor | 3 | similar or alike, in general
 concomitor | 1 | accompany
 concoquo | 1 | digest
-concoquo | 3 | trop., to endure or put up with something
-concoquo | 4 | trop., to ponder or weigh something maturely in mind
+concoquo | 3 | figuratively, to endure or put up with something
+concoquo | 4 | figuratively, to ponder or weigh something maturely in mind
 concordia1 | 1 | harmony
 concordo | 1 | agree
 concorporo | 1 | incorporate
@@ -2843,7 +2837,7 @@ concremo | 1 | burn up
 concrepo | 1 | rattle
 concrepo | 3 | act., to strike or clap, causing a sound
 concresco | 1 | congeal
-concresco | 3 | meton., to take form, grow, or increase
+concresco | 3 | by extension, to take form, grow, or increase
 concretio | 1 | condensation
 concretio | 3 | philos., materiality, corporeal matter as opposed to pure mind
 concubinatus | 1 | concubinage
@@ -2859,44 +2853,44 @@ concupio | 1 | desire
 concupisco | 1 | covet
 concurro | 1 | assemble
 concurro | 2 | clash
-concurro | 3 | milit., to engage in battle, join combat
+concurro | 3 | in the army, to engage in battle, join combat
 concurro | 4 | to coincide or happen simultaneously, of events
 concursatio | 1 | bustle
-concursatio | 3 | milit., the skirmishing of light-armed troops
-concursatio | 4 | trop., anxious restlessness or agitation of mind
+concursatio | 3 | in the army, the skirmishing of light-armed troops
+concursatio | 4 | figuratively, anxious restlessness or agitation of mind
 concursio | 1 | concurrence
-concursio | 3 | rhet., a figure repeating the same words at the end of successive clauses
+concursio | 3 | in rhetoric, a figure repeating the same words at the end of successive clauses
 concurso | 1 | rush about
-concurso | 3 | milit., to skirmish
+concurso | 3 | in the army, to skirmish
 concursus | 1 | gathering
 concursus | 2 | charge
 concursus | 3 | an uproar or tumult
-concursus | 4 | jurid., an equal or competing claim, as joint heirship
+concursus | 4 | in law, an equal or competing claim, as joint heirship
 concussio | 1 | shaking
-concussio | 3 | jurid., extortion by threats
+concussio | 3 | in law, extortion by threats
 concutio | 1 | shake
 concutio | 2 | alarm
 concutio | 3 | to shatter or weaken, as the power of a state
-concutio | 4 | jurid., to terrify someone by threats in order to extort money
+concutio | 4 | in law, to terrify someone by threats in order to extort money
 condecet | 1 | befit
 condecoro | 1 | adorn
 condemnatio | 1 | condemnation
 condemno | 1 | condemn
-condemno | 3 | transf., to blame or disapprove of, in general
+condemno | 3 | by extension, to blame or disapprove of, in general
 condenso | 1 | condense
 condensus | 1 | dense
 condicio | 1 | terms
 condicio | 2 | situation
-condicio | 3 | esp., a marriage or match, or the person to be married
+condicio | 3 | especially, a marriage or match, or the person to be married
 condicionalis | 1 | conditional
 condico | 1 | arrange
-condico | 3 | jurid., to make a formal claim for the return of something
+condico | 3 | in law, to make a formal claim for the return of something
 condico | 4 | condicere ad cenam, to accept an invitation to dinner
 condictio | 1 | claim
 condictio | 3 | in religious language, a formal proclamation of a festival date
 condignus | 1 | deserving
 condimentum | 1 | seasoning
-condimentum | 3 | trop., the crowning touch or embellishment of something
+condimentum | 3 | figuratively, the crowning touch or embellishment of something
 condio | 1 | season
 condio | 2 | embellish
 condio | 3 | to preserve or pickle, as fruit
@@ -2948,7 +2942,7 @@ confectio | 3 | a wearing down or diminishing, as of one's health
 confector | 1 | finisher
 confector | 2 | destroyer
 confercio | 1 | cram
-confercio | 3 | milit., of troops, in close, compact order
+confercio | 3 | in the army, of troops, in close, compact order
 confero | 1 | collect
 confero | 2 | compare
 confero | 3 | conferre se, to betake oneself, to go somewhere
@@ -2956,7 +2950,7 @@ confero | 4 | to bestow or grant, as a favour
 confero | 5 | to contribute, as money or effort
 confero | 6 | neutr., to be useful or profitable
 confervesco | 1 | heat up
-confervesco | 3 | trop., to boil or seethe with anger
+confervesco | 3 | figuratively, to boil or seethe with anger
 confervesco | 4 | medic., of broken bones, to knit together, heal
 confessio | 1 | confession
 confestim | 1 | immediately
@@ -2970,111 +2964,111 @@ confidentia | 2 | impudence
 confido | 1 | trust
 configo | 1 | pierce
 configo | 2 | fasten
-configo | 3 | trop., to render powerless or paralyse, as with arguments
+configo | 3 | figuratively, to render powerless or paralyse, as with arguments
 configuro | 1 | shape
 confingo | 1 | fabricate
-confingo | 3 | lit., to build or fashion, as a nest
+confingo | 3 | literally, to build or fashion, as a nest
 confinis | 1 | adjoining
 confinis | 3 | as a substantive, a neighbour
-confinis | 4 | trop., nearly related or similar
+confinis | 4 | figuratively, nearly related or similar
 confinium | 1 | border
-confinium | 3 | trop., a close connection or near relation between two things
+confinium | 3 | figuratively, a close connection or near relation between two things
 confirmatio | 1 | confirmation
 confirmatio | 2 | encouragement
-confirmatio | 3 | rhet., an adducing of proofs
+confirmatio | 3 | in rhetoric, an adducing of proofs
 confirmativus | 1 | confirmative
 confirmo | 1 | strengthen
 confirmo | 2 | encourage
 confirmo | 3 | to confirm or corroborate, as a fact or assertion
 confirmo | 4 | to assert or affirm as true
 confisco | 1 | confiscate
-confisco | 3 | lit., to store away, as in a chest
+confisco | 3 | literally, to store away, as in a chest
 confiteor | 1 | confess
 confiteor | 2 | reveal
 confiteor | 3 | ex confesso, confessedly, beyond doubt
 conflagro | 1 | burn
-conflagro | 3 | trop., to be consumed, as by envy or passion
+conflagro | 3 | figuratively, to be consumed, as by envy or passion
 conflictatio | 1 | collision
 conflictatio | 3 | of verbal strife, a dispute
 conflictio | 1 | collision
-conflictio | 3 | trop., a conflict or clash of opposing arguments
+conflictio | 3 | figuratively, a conflict or clash of opposing arguments
 conflicto | 1 | struggle
 conflicto | 3 | conflictari aliqua re, to be afflicted or harassed by something, as illness or misfortune
 conflicto | 4 | to strike down or ruin
 conflictus2 | 1 | collision
-conflictus2 | 3 | trop., the pressure of circumstance
+conflictus2 | 3 | figuratively, the pressure of circumstance
 confligo | 1 | fight
-confligo | 3 | trop., to clash or conflict, as opposing arguments
+confligo | 3 | figuratively, to clash or conflict, as opposing arguments
 conflo | 1 | kindle
 conflo | 2 | contrive
 conflo | 3 | invidiam alicui conflare, to stir up ill will against someone
 conflo | 4 | to melt down, as metal or coin
 confluo | 1 | converge
-confluo | 3 | trop., to flock together, as a crowd
+confluo | 3 | figuratively, to flock together, as a crowd
 confodio | 1 | dig
 confodio | 2 | stab
-confodio | 3 | trop., to pierce or wound, as with accusations or misfortune
+confodio | 3 | figuratively, to pierce or wound, as with accusations or misfortune
 conformatio | 1 | shape
 conformatio | 2 | expression
-conformatio | 3 | rhet., a figure of speech
+conformatio | 3 | in rhetoric, a figure of speech
 conformo | 1 | shape
-conformo | 3 | trop., to mould or train, as character or mind
+conformo | 3 | figuratively, to mould or train, as character or mind
 confragosus | 1 | rough
-confragosus | 3 | trop., hard or difficult, as conditions
+confragosus | 3 | figuratively, hard or difficult, as conditions
 confrico | 1 | rub
 confrico | 3 | confricare genua, to touch someone's knees in earnest entreaty
 confringo | 1 | break
-confringo | 3 | trop., to destroy or bring to naught, as plans or power
+confringo | 3 | figuratively, to destroy or bring to naught, as plans or power
 confugio | 1 | flee
 confugio | 3 | confugere ad aliquem, to seek refuge with someone
-confugio | 4 | trop., to have recourse to, as to help or mercy
+confugio | 4 | figuratively, to have recourse to, as to help or mercy
 confundo | 1 | mix
 confundo | 2 | confuse
-confundo | 3 | trop., to disconcert or perplex, as the mind
+confundo | 3 | figuratively, to disconcert or perplex, as the mind
 confusio | 1 | mixture
 confusio | 2 | confusion
 confusio | 3 | oris confusio, a blushing or reddening of the face
 confuto | 1 | refute
 confuto | 2 | suppress
 congelo | 1 | freeze
-congelo | 3 | trop., to become inactive or stagnant
+congelo | 3 | figuratively, to become inactive or stagnant
 congemino | 1 | double
 congemo | 1 | groan
 congemo | 2 | lament
 congenero | 1 | beget
 congenero | 3 | to connect by kinship or affinity
 congeries | 1 | heap
-congeries | 3 | rhet., a figure of speech piling up expressions
+congeries | 3 | in rhetoric, a figure of speech piling up expressions
 congero1 | 1 | heap
-congero1 | 3 | trop., to compile, as material for a speech
+congero1 | 3 | figuratively, to compile, as material for a speech
 congero1 | 4 | to heap upon someone, to ascribe or impute, as blame or praise
 congestio | 1 | accumulation
 congestio | 2 | heap
 congestus2 | 1 | accumulation
 congestus2 | 2 | heap
-congestus2 | 3 | trop., an undigested mass of material, as in a speech
+congestus2 | 3 | figuratively, an undigested mass of material, as in a speech
 # review: congiarius "of a congius" needs the article to be accurate; no shorter English phrasing fits
 congiarius | 1 | of a congius
 congiarius | 3 | as a substantive (congiarium), a donative of oil, grain, or money given to the people
 congius | 1 | liquid measure
 congius | 3 | a Roman measure for liquids of about six pints, the eighth part of an amphora
 conglacio | 1 | freeze
-conglacio | 3 | trop., to become inactive or stagnant
+conglacio | 3 | figuratively, to become inactive or stagnant
 conglobo | 1 | cluster
-conglobo | 3 | trop., to heap together, as arguments or definitions
+conglobo | 3 | figuratively, to heap together, as arguments or definitions
 conglomero | 1 | conglomerate
-conglomero | 3 | trop., to heap together, as troubles upon someone
+conglomero | 3 | figuratively, to heap together, as troubles upon someone
 conglutino | 1 | glue
-conglutino | 3 | trop., to bind or unite firmly
+conglutino | 3 | figuratively, to bind or unite firmly
 conglutino | 4 | to contrive or devise, as a scheme
 congratulor | 1 | congratulate
 congredior | 1 | meet
 congredior | 2 | fight
-congredior | 3 | trop., to contend or dispute in words, as in a lawsuit
+congredior | 3 | figuratively, to contend or dispute in words, as in a lawsuit
 congregatio | 1 | gathering
-congregatio | 3 | rhet., a recapitulation, as of arguments or facts
+congregatio | 3 | in rhetoric, a recapitulation, as of arguments or facts
 congrego | 1 | assemble
-congrego | 3 | trop., to accumulate, as arguments or words
+congrego | 3 | figuratively, to accumulate, as arguments or words
 congressio | 1 | meeting
 congressio | 2 | intercourse
 congressio | 3 | a hostile encounter or attack
@@ -3082,20 +3076,20 @@ congressus2 | 1 | meeting
 congressus2 | 2 | fight
 congressus2 | 3 | intercourse, carnal union
 congrex | 1 | gregarious
-congrex | 3 | trop., close or intimate
+congrex | 3 | figuratively, close or intimate
 congruo | 1 | agree
 congruo | 3 | to coincide, as in time or circumstance
 congruus | 1 | fitting
 conicio | 1 | throw
 conicio | 2 | infer
 conicio | 3 | se conicere, to throw oneself, betake oneself hastily somewhere
-conicio | 4 | trop., to drive or urge into a state, as of fear or joy
+conicio | 4 | figuratively, to drive or urge into a state, as of fear or joy
 conicio | 5 | of augury, to interpret an omen or divine from signs
 conitor | 1 | strive
 conitor | 3 | to struggle in labour, as in childbirth
 coniveo | 1 | blink
 coniveo | 2 | connive
-coniveo | 3 | trop., to be dull or drowsy
+coniveo | 3 | figuratively, to be dull or drowsy
 conjectio | 1 | throwing
 conjectio | 2 | conjecture
 conjectio | 3 | conjectio causae, the outline or draft of a law case
@@ -3106,49 +3100,49 @@ conjector | 3 | a diviner or soothsayer, interpreter of dreams
 conjectura | 1 | conjecture
 conjectura | 3 | t.t. of augury, a divining or interpreting of omens
 conjecturalis | 1 | conjectural
-conjecturalis | 3 | rhet., status conjecturalis, the issue of fact in a legal case
+conjecturalis | 3 | in rhetoric, status conjecturalis, the issue of fact in a legal case
 conjectus2 | 1 | throw
 conjectus2 | 3 | teli conjectus, the range of a weapon
-conjectus2 | 4 | trop., a turning or directing, as of the eyes or mind
+conjectus2 | 4 | figuratively, a turning or directing, as of the eyes or mind
 conjugalis | 1 | conjugal
 conjugatio | 1 | combination
-conjugatio | 3 | rhet., the etymological relationship between words
-conjugatio | 4 | gram., conjugation, the inflection of a verb
+conjugatio | 3 | in rhetoric, the etymological relationship between words
+conjugatio | 4 | in grammar, conjugation, the inflection of a verb
 conjugium | 1 | marriage
-conjugium | 3 | meton., a husband or wife, one's spouse
+conjugium | 3 | by extension, a husband or wife, one's spouse
 conjugo | 1 | unite
-conjugo | 3 | rhet., conjugata verba, etymologically related words
+conjugo | 3 | in rhetoric, conjugata verba, etymologically related words
 conjunctim | 1 | jointly
 conjunctio | 1 | connection
-conjunctio | 3 | gram., a conjunction, a connecting particle
+conjunctio | 3 | in grammar, a conjunction, a connecting particle
 conjungo | 1 | join
 conjungo | 2 | marry
 conjungo | 3 | conjunctus, bordering upon or near, as of places
 conjungo | 4 | conjunctus, related or intimate, as by kinship or friendship
 conjunx | 1 | wife
 conjunx | 2 | husband
-conjunx | 3 | poet., a bride or betrothed
+conjunx | 3 | in poetry, a bride or betrothed
 conjuratio | 1 | conspiracy
-conjuratio | 3 | meton., the band of conspirators themselves
+conjuratio | 3 | by extension, the band of conspirators themselves
 conjuro | 1 | conspire
-conjuro | 3 | poet., of things, to be united or joined, as if by oath
+conjuro | 3 | in poetry, of things, to be united or joined, as if by oath
 connascor | 1 | originate
 connascor | 3 | to be born at the same time as, to be innate in
 conor | 1 | try
 conquasso | 1 | shake
 conquasso | 2 | shatter
-conquasso | 3 | trop., to disturb or throw into confusion, as a state or mind
+conquasso | 3 | figuratively, to disturb or throw into confusion, as a state or mind
 conqueror | 1 | complain
 conquestio | 1 | complaint
-conquestio | 3 | rhet., a plea for the audience's pity
-conquestio | 4 | transf., of birds, a plaintive song
+conquestio | 3 | in rhetoric, a plea for the audience's pity
+conquestio | 4 | by extension, of birds, a plaintive song
 conquiesco | 1 | rest
 conquiesco | 3 | to find pleasure or contentment in something
 conquiro | 1 | collect
 conquiro | 2 | hunt down
 conquiro | 3 | conquisitus, chosen or select, of high quality
 conquisitio | 1 | search
-conquisitio | 3 | milit., a levy or conscription
+conquisitio | 3 | in the army, a levy or conscription
 consaepio | 1 | enclose
 consaepio | 3 | as a substantive, a fence or hedge
 consaluto | 1 | greet
@@ -3156,7 +3150,7 @@ consaluto | 3 | consalutare aliquem regem, to hail someone as king
 consanguineus | 1 | related
 consanguineus | 3 | as a substantive (plur.), kindred, relations
 consanguinitas | 1 | blood kinship
-consanguinitas | 3 | trop., an affinity or resemblance, as between subjects of study
+consanguinitas | 3 | figuratively, an affinity or resemblance, as between subjects of study
 conscelero | 1 | defile
 conscendo | 1 | climb
 conscendo | 2 | embark
@@ -3165,7 +3159,7 @@ conscientia | 1 | conscience
 conscientia | 2 | complicity
 conscientia | 3 | self-awareness, as of one's own strength or weakness
 conscindo | 1 | tear
-conscindo | 3 | trop., to abuse or slander, tear to pieces with words
+conscindo | 3 | figuratively, to abuse or slander, tear to pieces with words
 conscisco | 1 | decree
 conscisco | 3 | mortem sibi consciscere, to kill oneself
 conscius | 1 | aware
@@ -3175,34 +3169,34 @@ conscribo | 1 | enrol
 conscribo | 2 | compose
 conscribo | 3 | of physicians, to prescribe, as a remedy
 conscriptio | 1 | composition
-conscriptio | 3 | milit., a levy or enlistment of troops
+conscriptio | 3 | in the army, a levy or enlistment of troops
 conseco | 1 | cut up
 conseco | 3 | to lop or prune, as branches
 consecratio | 1 | consecration
 consecratio | 3 | in law, a formal execration or curse
 consecro | 1 | consecrate
 consecro | 2 | deify
-consecro | 3 | trop., to immortalise, as fame or memory
+consecro | 3 | figuratively, to immortalise, as fame or memory
 consector | 1 | pursue
 consector | 2 | persecute
-consector | 3 | trop., to strive after or emulate, as an example
+consector | 3 | figuratively, to strive after or emulate, as an example
 consecutio | 1 | consequence
-consecutio | 3 | rhet., a sequence or ordering, as of tenses
+consecutio | 3 | in rhetoric, a sequence or ordering, as of tenses
 consenesco | 1 | age
-consenesco | 3 | trop., to decline or waste away, as strength or reputation
+consenesco | 3 | figuratively, to decline or waste away, as strength or reputation
 consensio | 1 | agreement
 consensio | 2 | conspiracy
 consensio | 3 | in concreto, the conspirators themselves
 consensus2 | 1 | agreement
 consensus2 | 3 | consensu, unanimously, by common consent
-consensus2 | 4 | trop., harmony or sympathy, as among all parts of nature
+consensus2 | 4 | figuratively, harmony or sympathy, as among all parts of nature
 consentaneus | 1 | fitting
 consentaneus | 3 | consentaneum est, it is reasonable or fitting
 consentes | 1 | united
 consentes | 3 | di consentes, the twelve major gods of the Roman council
 consentio | 1 | agree
 consentio | 2 | conspire
-consentio | 3 | trop., to be consistent or match, as words with actions
+consentio | 3 | figuratively, to be consistent or match, as words with actions
 consequentia | 1 | consequence
 consequentia | 3 | per consequentiam, consequently, as a result
 consequor | 1 | follow
@@ -3215,7 +3209,7 @@ consero1 | 1 | plant
 consero1 | 3 | consitus senectute, weighed down with old age
 consero2 | 1 | link
 consero2 | 3 | manum conserere, to join in close combat
-consero2 | 4 | trop., to connect or link, as day to day or virtue to virtue
+consero2 | 4 | figuratively, to connect or link, as day to day or virtue to virtue
 conserva | 1 | fellow-slave
 conservatio | 1 | preservation
 conservator | 1 | preserver
@@ -3232,10 +3226,10 @@ consido | 1 | sit
 consido | 2 | encamp
 consido | 3 | to settle permanently, take up one's abode
 consido | 4 | of things, to sink or subside
-consido | 5 | trop., to subside or abate, as anger or passion
+consido | 5 | figuratively, to subside or abate, as anger or passion
 consigno | 1 | seal
 consigno | 2 | record
-consigno | 3 | trop., to attest or vouch for, as historical record
+consigno | 3 | figuratively, to attest or vouch for, as historical record
 consiliarius | 1 | of counsel
 consiliarius | 3 | as a substantive, an assessor or adviser in a court
 consilior | 1 | consult
@@ -3243,7 +3237,7 @@ consilior | 2 | advise
 consilium | 1 | plan
 consilium | 2 | judgment
 consilium | 3 | consilium capere, to form a plan or resolve
-consilium | 4 | milit., a stratagem or tactical device
+consilium | 4 | in the army, a stratagem or tactical device
 consilium | 5 | in concr., a council, the body of those deliberating
 consimilis | 1 | similar
 consisto | 1 | stand
@@ -3251,56 +3245,56 @@ consisto | 2 | halt
 consisto | 3 | to consist in or of something, to depend upon
 consisto | 4 | to freeze or harden, as a river or blood
 consisto | 5 | to stand one's ground, to endure or persist
-consisto | 6 | jurid., to appear in court as accuser
+consisto | 6 | in law, to appear in court as accuser
 consistorium | 1 | council chamber
-consistorium | 3 | esp., the emperor's privy council or cabinet
+consistorium | 3 | especially, the emperor's privy council or cabinet
 consobrinus | 1 | cousin
 consocio | 1 | unite
 consocius | 1 | united
 consocius | 3 | as a substantive, a partner or companion
 consolatio | 1 | comfort
 consolatio | 2 | encouragement
-consolatio | 3 | meton., a consolatory speech or treatise
+consolatio | 3 | by extension, a consolatory speech or treatise
 consolido | 1 | solidify
-consolido | 3 | jurid., to consolidate a legal right of possession
+consolido | 3 | in law, to consolidate a legal right of possession
 consolo | 1 | console
 consolor | 1 | console
 consolor | 2 | alleviate
 consono | 1 | resound
 consono | 2 | agree
-consono | 3 | gram., a consonant, a letter
+consono | 3 | in grammar, a consonant, a letter
 consonus | 1 | harmonious
-consonus | 3 | as a substantive (gram.), a consonant
+consonus | 3 | in grammar as a noun, a consonant
 consopio | 1 | stupefy
-consopio | 3 | trop., of laws, to become obsolete or fall into disuse
+consopio | 3 | figuratively, of laws, to become obsolete or fall into disuse
 consors | 1 | sharing
 consors | 2 | partner
 consors | 3 | as a substantive, a brother or sister as joint heir
 consortio | 1 | fellowship
-consortio | 3 | transf., a sympathetic connection, as between organs of the body
+consortio | 3 | by extension, a sympathetic connection, as between organs of the body
 consortium | 1 | partnership
 consortium | 3 | fellowship or participation in common with others
 conspectus2 | 1 | sight
 conspectus2 | 2 | presence
-conspectus2 | 3 | trop., a mental survey or overview
+conspectus2 | 3 | figuratively, a mental survey or overview
 conspergo | 1 | sprinkle
-conspergo | 3 | trop., to adorn a speech, as if strewing it with flowers
+conspergo | 3 | figuratively, to adorn a speech, as if strewing it with flowers
 conspicio1 | 1 | notice
 conspicio1 | 2 | understand
 conspicio1 | 3 | pass., conspici, to attract attention, be conspicuous
 conspicor | 1 | spot
 conspicuus | 1 | conspicuous
-conspicuus | 3 | lit., visible or in view, as opposed to hidden
+conspicuus | 3 | literally, visible or in view, as opposed to hidden
 conspiratio | 1 | harmony
 conspiratio | 2 | conspiracy
-conspiratio | 3 | meton., the conspirators themselves
+conspiratio | 3 | by extension, the conspirators themselves
 conspiro1 | 1 | harmonise
 conspiro1 | 2 | conspire
-conspiro1 | 3 | lit., to sound together, as instruments
+conspiro1 | 3 | literally, to sound together, as instruments
 conspondeo | 1 | pledge
 conspuo | 1 | spit
-conspuo | 3 | esp., to spit upon in contempt or scorn
-conspuo | 4 | poet., to besprinkle or cover, as snow covering mountains
+conspuo | 3 | especially, to spit upon in contempt or scorn
+conspuo | 4 | in poetry, to besprinkle or cover, as snow covering mountains
 constantia1 | 1 | constancy
 constantia1 | 2 | consistency
 constantia1 | 3 | firmness of character, self-possession
@@ -3314,12 +3308,12 @@ consterno2 | 3 | of animals, to frighten or make shy, as a startled horse
 consterno2 | 4 | to incite to revolt or mutiny
 constituo | 1 | establish
 constituo | 2 | decide
-constituo | 3 | milit., to station or draw up troops
+constituo | 3 | in the army, to station or draw up troops
 constituo | 4 | to fix or settle, as a price or date
 constituo | 5 | as a substantive (constitutum), an agreement or appointment
 constitutio | 1 | constitution
 constitutio | 2 | definition
-constitutio | 3 | rhet., the point at issue in a legal case
+constitutio | 3 | in rhetoric, the point at issue in a legal case
 constitutio | 4 | an imperial edict or decree
 constitutor | 1 | founder
 consto | 1 | agree
@@ -3328,17 +3322,17 @@ consto | 3 | to consist of or in something
 consto | 4 | constat, it is well known or established
 consto | 5 | to stand firm, to endure or hold up
 constrepo | 1 | resound
-constrepo | 3 | trop., to ring or resound with, as testimony and evidence
+constrepo | 3 | figuratively, to ring or resound with, as testimony and evidence
 constringo | 1 | bind
 constringo | 2 | fetter
-constringo | 3 | trop., to restrain or hold in check, as the passions
+constringo | 3 | figuratively, to restrain or hold in check, as the passions
 constringo | 4 | of discourse, to compress or condense
 constructio | 1 | construction
-constructio | 3 | gram., the syntactic arrangement of words in a sentence
+constructio | 3 | in grammar, the syntactic arrangement of words in a sentence
 construo | 1 | build
-construo | 3 | gram., to construct or arrange grammatically
+construo | 3 | in grammar, to construct or arrange grammatically
 constupro | 1 | violate
-constupro | 3 | trop., to corrupt or pollute, as a court by bribery
+constupro | 3 | figuratively, to corrupt or pollute, as a court by bribery
 consuadeo | 1 | urge
 consuefacio | 1 | accustom
 consuesco | 1 | accustom
@@ -3349,7 +3343,7 @@ consuetudo | 2 | companionship
 consuetudo | 3 | a love affair, an illicit relationship
 consuetudo | 4 | legal, customary law or established usage
 consul | 1 | consul
-consul | 3 | meton., a proconsul or governor of a province
+consul | 3 | by extension, a proconsul or governor of a province
 consul | 4 | the chief magistrate of a foreign city or state
 consularis | 1 | consular
 consularis | 3 | as a substantive, an ex-consul or man of consular rank
@@ -3361,7 +3355,7 @@ consulo | 3 | to resolve or determine
 consulo | 4 | senatus consultum, a decree of the senate
 consulo | 5 | juris consultus, one learned in the law
 consultatio | 1 | deliberation
-consultatio | 3 | rhet., a case proposed for judgment or advice
+consultatio | 3 | in rhetoric, a case proposed for judgment or advice
 consulto2 | 1 | deliberate
 consulto2 | 2 | consult
 consulto2 | 3 | to care for or look after someone
@@ -3371,10 +3365,10 @@ consum | 1 | coexist
 consum | 3 | to be or to happen
 consummatio | 1 | summation
 consummatio | 2 | completion
-consummatio | 3 | rhet., a bringing together of arguments to one conclusion
+consummatio | 3 | in rhetoric, a bringing together of arguments to one conclusion
 consummo | 1 | sum up
 consummo | 2 | complete
-consummo | 3 | trop., to perfect or bring to the highest degree, as skill or character
+consummo | 3 | figuratively, to perfect or bring to the highest degree, as skill or character
 consumo | 1 | consume
 consumo | 2 | destroy
 consumo | 3 | to spend or use up, as time or money on something
@@ -3391,16 +3385,16 @@ contactus2 | 1 | touch
 contactus2 | 2 | contagion
 contagio | 1 | contact
 contagio | 2 | contagion
-contagio | 3 | trop., corrupting influence or contamination, as from bad company
+contagio | 3 | figuratively, corrupting influence or contamination, as from bad company
 contamino | 1 | contaminate
 contamino | 2 | blend
-contamino | 3 | trop., to mar or spoil, as joy with grief
+contamino | 3 | figuratively, to mar or spoil, as joy with grief
 contego | 1 | cover
 contego | 2 | conceal
 contego | 3 | to preserve or keep safe, by covering
 contemno | 1 | despise
 contemno | 2 | disparage
-contemno | 3 | poet., to defy or be unaffected by, as danger or hardship
+contemno | 3 | in poetry, to defy or be unaffected by, as danger or hardship
 contemplatio | 1 | contemplation
 contemplatio | 3 | an aiming or taking aim, as with a weapon
 contemplatio | 4 | legal, regard or consideration, as of someone's rank
@@ -3421,14 +3415,14 @@ contendo | 4 | to assert or maintain, as an argument
 contendo | 5 | to compare or contrast
 contentio | 1 | effort
 contentio | 2 | dispute
-contentio | 3 | rhet., a comparison or antithesis of one thing with another
+contentio | 3 | in rhetoric, a comparison or antithesis of one thing with another
 contentiosus | 1 | contentious
 conterminus | 1 | bordering
 conterminus | 3 | as a substantive, a neighbouring region or a neighbour
 contero | 1 | grind
 contero | 2 | wear out
 contero | 3 | to spend or pass, as time
-contero | 4 | trop., to obliterate or erase, as from memory
+contero | 4 | figuratively, to obliterate or erase, as from memory
 conterreo | 1 | terrify
 contestatio | 1 | testimony
 contestatio | 3 | an earnest entreaty or appeal
@@ -3438,13 +3432,13 @@ contexo | 1 | weave
 contexo | 2 | compose
 contexo | 3 | contexere de aliqua re, to treat of or discuss a subject
 contextus2 | 1 | connection
-contextus2 | 3 | trop., coherence, as of a speech or argument
+contextus2 | 3 | figuratively, coherence, as of a speech or argument
 conticesco | 1 | fall silent
-conticesco | 3 | trop., to die down or abate, as grief or uproar
+conticesco | 3 | figuratively, to die down or abate, as grief or uproar
 contiguus | 1 | adjacent
 contiguus | 3 | pass., within reach, as of a spear
 continentia1 | 1 | self-restraint
-continentia1 | 3 | late Lat., the contents of a written work
+continentia1 | 3 | in later Latin, the contents of a written work
 continentia1 | 4 | contiguity or proximity
 contineo | 1 | contain
 contineo | 2 | restrain
@@ -3458,9 +3452,9 @@ contingo1 | 3 | contingit, it happens or falls to one's lot
 contingo1 | 4 | to attain or reach, as a goal
 contingo1 | 5 | to pollute or defile
 contingo2 | 1 | moisten
-contingo2 | 3 | trop., to tinge or touch, as with charm or grace
+contingo2 | 3 | figuratively, to tinge or touch, as with charm or grace
 continuatio | 1 | succession
-continuatio | 3 | rhet., a rhetorical period, a complex sentence
+continuatio | 3 | in rhetoric, a rhetorical period, a complex sentence
 continuo2 | 1 | connect
 continuo2 | 2 | continue
 continuor | 1 | join
@@ -3485,7 +3479,7 @@ contra | 3 | on the contrary, conversely
 contra | 4 | contra atque, otherwise than, differently from what
 contractio | 1 | contraction
 contractio | 2 | shortening
-contractio | 3 | trop., dejection or despondency of spirit
+contractio | 3 | figuratively, dejection or despondency of spirit
 contractus2 | 1 | contract
 contractus2 | 3 | a shrinking or wrinkling, as of grapes drying
 contradictio | 1 | objection
@@ -3493,7 +3487,7 @@ contraho | 1 | gather
 contraho | 2 | incur
 contraho | 3 | to shrink or narrow, as a muscle or space
 contraho | 4 | to make a contract or bargain
-contraho | 5 | trop., to restrain or check, as fear or grief
+contraho | 5 | figuratively, to restrain or check, as fear or grief
 contrapono | 1 | oppose
 contrapono | 3 | as a substantive (contrapositum), an antithesis
 contrarius | 1 | opposite
@@ -3501,15 +3495,15 @@ contrarius | 2 | hostile
 contrarius | 3 | as a substantive (contrarium), the opposite or reverse
 contrarius | 4 | ex contrario, on the contrary, on the other hand
 contrectatio | 1 | touch
-contrectatio | 3 | jurid., an illegal taking, theft
+contrectatio | 3 | in law, an illegal taking, theft
 contrecto | 1 | handle
 contrecto | 2 | violate
-contrecto | 3 | jurid., to steal or purloin
-contrecto | 4 | trop., to dwell upon or contemplate, as in thought
+contrecto | 3 | in law, to steal or purloin
+contrecto | 4 | figuratively, to dwell upon or contemplate, as in thought
 contremisco | 1 | tremble
 contremisco | 3 | to dread or be afraid of something
 contribulo | 1 | crush
-contribulo | 3 | trop., to afflict or distress greatly
+contribulo | 3 | figuratively, to afflict or distress greatly
 contribuo | 1 | unite
 contribuo | 2 | annex
 contribuo | 3 | to arrange or classify
@@ -3520,7 +3514,7 @@ controversia | 1 | dispute
 controversus | 1 | disputed
 controversus | 3 | repugnant, at variance with itself
 contrucido | 1 | slaughter
-contrucido | 3 | trop., to destroy utterly, as a state by its own leaders
+contrucido | 3 | figuratively, to destroy utterly, as a state by its own leaders
 contrudo | 1 | crowd
 contrudo | 3 | to thrust or push into, as grapes into vats
 contrunco | 1 | cut down
@@ -3536,16 +3530,16 @@ contueor | 1 | gaze
 contueor | 2 | ponder
 contueor | 3 | to catch sight of, to spot
 contumacia | 1 | obstinacy
-contumacia | 3 | jurid., contempt of court, refusal to appear when summoned
+contumacia | 3 | in law, contempt of court, refusal to appear when summoned
 contumax | 1 | obstinate
-contumax | 3 | jurid., in contempt of court, refusing a summons
+contumax | 3 | in law, in contempt of court, refusing a summons
 contumelia | 1 | insult
 contumelia | 2 | violence
 contumeliosus | 1 | abusive
 contundo | 1 | crush
-contundo | 3 | trop., to subdue or break, as an enemy's strength
+contundo | 3 | figuratively, to subdue or break, as an enemy's strength
 conturbatio | 1 | confusion
-conturbatio | 3 | trop., mental disquiet or perturbation
+conturbatio | 3 | figuratively, mental disquiet or perturbation
 conturbo | 1 | confuse
 conturbo | 2 | disturb
 conturbo | 3 | conturbare rationes, to go bankrupt
@@ -3554,8 +3548,8 @@ conubium | 1 | marriage
 conubium | 3 | jus conubii, the legal right to intermarry
 conubium | 4 | of plants, a grafting together
 convalesco | 1 | recover
-convalesco | 3 | trop., to gain strength or power, as a state or faction
-convalesco | 4 | jurid., to become legally valid, as a will
+convalesco | 3 | figuratively, to gain strength or power, as a state or faction
+convalesco | 4 | in law, to become legally valid, as a will
 convallis | 1 | valley
 conveho | 1 | convey
 conveho | 3 | of the harvest, to gather in
@@ -3577,30 +3571,30 @@ conventiculum | 1 | gathering
 conventiculum | 3 | a meeting place, as of early Christians
 conventio | 1 | agreement
 conventio | 3 | in manum conventio, a wife's passing into her husband's legal power
-conventio | 4 | jurid., an indictment or charge
+conventio | 4 | in law, an indictment or charge
 conventus2 | 1 | assembly
 conventus2 | 2 | court
 conventus2 | 3 | a trading company or corporation, in a province
 conventus2 | 4 | union or conjunction, as of atoms or stars
 converro | 1 | sweep
-converro | 3 | meton., to scrape together, as an inheritance greedily
+converro | 3 | by extension, to scrape together, as an inheritance greedily
 converro | 4 | facete, to beat someone soundly
 conversatio | 1 | conversation
 conversatio | 3 | frequent residence, dwelling in a place
 conversio | 1 | revolution
 conversio | 2 | change
-conversio | 3 | late Lat., a moral conversion
-conversio | 4 | rhet., the repetition of a word at the end of successive clauses
+conversio | 3 | in later Latin, a moral conversion
+conversio | 4 | in rhetoric, the repetition of a word at the end of successive clauses
 converso | 1 | dwell
 converso | 2 | associate
 converso | 3 | to live or pass one's life, in a certain manner
 converto | 1 | turn
 converto | 2 | transform
 converto | 3 | to translate, as a Greek work into Latin
-converto | 4 | milit., to wheel about, as troops changing direction
+converto | 4 | in the army, to wheel about, as troops changing direction
 converto | 5 | to turn into, to become, as one thing changing into another
 convestio | 1 | clothe
-convestio | 3 | transf., to cover or surround, as ivy covering a wall
+convestio | 3 | by extension, to cover or surround, as ivy covering a wall
 convexitas | 1 | convexity
 convexo | 1 | squeeze
 convexus1 | 1 | convex
@@ -3609,7 +3603,7 @@ convexus1 | 3 | as a substantive (convexa), the vault or arch, as of the sky
 convicior | 1 | revile
 convicium | 1 | clamour
 convicium | 2 | abuse
-convicium | 3 | meton., the target or butt of reproach
+convicium | 3 | by extension, the target or butt of reproach
 convictus2 | 1 | intimacy
 convictus2 | 3 | a banquet or feast
 convinco | 1 | convict
@@ -3623,16 +3617,16 @@ convivium | 2 | guests
 convivor | 1 | feast
 convivor | 3 | to consume or eat, as food
 convoco | 1 | convene
-convoco | 3 | trop., to gather or collect, as one's thoughts
+convoco | 3 | figuratively, to gather or collect, as one's thoughts
 convolo | 1 | flock together
-convolo | 3 | trop., to rush to, as to a second marriage
+convolo | 3 | figuratively, to rush to, as to a second marriage
 convolvo | 1 | roll up
 convolvo | 2 | interweave
 convolvo | 3 | to unroll and read through, as a book
 convulnero | 1 | wound
-convulnero | 3 | trop., to injure or damage, as reputation
+convulnero | 3 | figuratively, to injure or damage, as reputation
 cooperio | 1 | cover
-cooperio | 3 | trop., overwhelmed or buried in, as debt or vice
+cooperio | 3 | figuratively, overwhelmed or buried in, as debt or vice
 cooperor | 1 | cooperate
 coopto | 1 | co-opt
 coorior | 1 | arise
@@ -3645,16 +3639,16 @@ copiosus | 1 | abundant
 copiosus | 3 | of an orator, eloquent or fluent
 copis1 | 1 | well-supplied
 copula | 1 | tie
-copula | 3 | trop., a bond, as of love or marriage
+copula | 3 | figuratively, a bond, as of love or marriage
 copulatio | 1 | union
-copulatio | 3 | gram., the connection of words in a sentence
+copulatio | 3 | in grammar, the connection of words in a sentence
 copulo | 1 | join
 copulo | 2 | associate
-copulo | 3 | trop., to unite or combine, as ideas or qualities
+copulo | 3 | figuratively, to unite or combine, as ideas or qualities
 coquo | 1 | cook
 coquo | 2 | ripen
-coquo | 3 | trop., to plan or contrive, as a scheme
-coquo | 4 | trop., to torment or vex, as worry gnawing at the mind
+coquo | 3 | figuratively, to plan or contrive, as a scheme
+coquo | 4 | figuratively, to torment or vex, as worry gnawing at the mind
 coquus | 1 | cook
 cor | 1 | heart
 cor | 2 | mind
@@ -3667,13 +3661,13 @@ corbitus | 3 | as a substantive (corbita), a slow cargo ship
 cordatus | 1 | wise
 corium | 1 | hide
 corium | 2 | rind
-corium | 3 | meton., a leather whip or strap
+corium | 3 | by extension, a leather whip or strap
 corium | 4 | building, a layer or coat, as of plaster
 corneus1 | 1 | horny
 corneus1 | 3 | of the colour of horn
-corneus1 | 4 | trop., hard-hearted or unfeeling
+corneus1 | 4 | figuratively, hard-hearted or unfeeling
 cornicularius | 1 | adjutant
-cornicularius | 3 | transf., a civil assistant or secretary
+cornicularius | 3 | by extension, a civil assistant or secretary
 corniculum1 | 1 | horn
 corniculum1 | 3 | a horn-shaped ornament awarded for bravery, worn on a helmet
 corniger | 1 | horned
@@ -3684,7 +3678,7 @@ cornu | 1 | horn
 cornu | 2 | wing
 cornu | 3 | the horns or crescent of the moon
 cornu | 4 | a bugle or war-trumpet
-cornu | 5 | trop., power or strength, symbolised by the horn
+cornu | 5 | figuratively, power or strength, symbolised by the horn
 cornutus1 | 1 | horned
 cornutus1 | 3 | as a substantive, a kind of horned sea-fish
 cornutus1 | 4 | cornutus syllogismus, a horned syllogism, a logical dilemma
@@ -3694,8 +3688,8 @@ corollarium | 3 | later philos., a corollary or logical deduction
 coronarius | 1 | of a wreath
 coronarius | 3 | as a substantive, a garland-maker or -seller
 corono | 1 | crown
-corono | 3 | trop., to win as a prize of victory
-corono | 4 | meton., to surround or encircle, as a camp
+corono | 3 | figuratively, to win as a prize of victory
+corono | 4 | by extension, to surround or encircle, as a camp
 corporalis | 1 | corporeal
 corporeus | 1 | corporeal
 corporeus | 3 | fleshly, made of flesh
@@ -3704,15 +3698,15 @@ corporo | 3 | to kill, literally to reduce to a lifeless body
 corporo | 4 | as a substantive (corporatus), a member of a guild or corporation
 corpulentus | 1 | corpulent
 corpulentus | 3 | archaic, great or large
-corpulentus | 4 | late Lat., physical or corporeal
+corpulentus | 4 | in later Latin, physical or corporeal
 corpus | 1 | body
 corpus | 2 | corpse
 corpus | 3 | flesh, as of an animal
-corpus | 4 | meton., a body or corporation, as an organised community
+corpus | 4 | by extension, a body or corporation, as an organised community
 corrado | 1 | scrape together
-corrado | 3 | trop., to obtain with difficulty, as credibility
+corrado | 3 | figuratively, to obtain with difficulty, as credibility
 correctio | 1 | correction
-correctio | 3 | rhet., the rhetorical figure of replacing a word with a stronger one
+correctio | 3 | in rhetoric, the rhetorical figure of replacing a word with a stronger one
 corrector | 1 | corrector
 corrector | 3 | under the empire, the title of a provincial governor
 correpo | 1 | creep
@@ -3727,7 +3721,7 @@ corrivo | 1 | channel
 corroboro | 1 | strengthen
 corrogo | 1 | muster
 corrotundo | 1 | round off
-corrotundo | 3 | transf., to make up a round sum of money
+corrotundo | 3 | by extension, to make up a round sum of money
 corrugo | 1 | wrinkle
 corrugo | 3 | corrugare nares, to wrinkle one's nose in disgust
 corrumpo | 1 | corrupt
@@ -3735,38 +3729,38 @@ corrumpo | 2 | bribe
 corrumpo | 3 | to destroy or ruin utterly
 corrumpo | 4 | to seduce or mislead, as a person
 corruo | 1 | collapse
-corruo | 3 | trop., to fall or be ruined, as a state's power
+corruo | 3 | figuratively, to fall or be ruined, as a state's power
 corruo | 4 | act., to overthrow or bring to the ground
 corruptela | 1 | corruption
-corruptela | 3 | meton., a seducer or corrupter
+corruptela | 3 | by extension, a seducer or corrupter
 corruptio | 1 | corrupting
 corruptio | 2 | corruption
 corruptor | 1 | corrupter
 cortex | 1 | bark
 cortex | 2 | cork
-cortex | 3 | trop., the body, as the outward husk of the soul
+cortex | 3 | figuratively, the body, as the outward husk of the soul
 cortina | 1 | cauldron
 cortina | 2 | tripod
-cortina | 3 | meton., a vault or dome, as of the sky or a theatre
+cortina | 3 | by extension, a vault or dome, as of the sky or a theatre
 corusco | 1 | brandish
 corusco | 2 | flash
 corusco | 3 | to butt, as with horns
 coruscus | 1 | quivering
 coruscus | 2 | flashing
 corvus | 1 | raven
-corvus | 3 | meton., a grappling hook, a military implement
+corvus | 3 | by extension, a grappling hook, a military implement
 cos1 | 1 | flint
 cos1 | 2 | whetstone
-cos1 | 3 | trop., a spur or stimulus, as anger sharpening courage
+cos1 | 3 | figuratively, a spur or stimulus, as anger sharpening courage
 costa | 1 | rib
-costa | 3 | transf., a side or plank, as of a ship or wall
+costa | 3 | by extension, a side or plank, as of a ship or wall
 cothurnatus | 1 | tragic
-cothurnatus | 3 | lit., wearing the buskin, as a tragic actor
+cothurnatus | 3 | literally, wearing the buskin, as a tragic actor
 cottidianus | 1 | daily
-cottidianus | 3 | meton., ordinary or commonplace
+cottidianus | 3 | by extension, ordinary or commonplace
 cottidie | 1 | daily
 cras | 1 | tomorrow
-cras | 3 | poet., the future, time to come
+cras | 3 | in poetry, the future, time to come
 crassesco | 1 | thicken
 crassitudo | 1 | thickness
 crassitudo | 3 | concr., dregs or sediment
@@ -3777,11 +3771,11 @@ crastinus1 | 1 | tomorrow's
 crastinus1 | 3 | in crastinum, for tomorrow, on the morrow
 cratis | 1 | hurdle
 cratis | 2 | harrow
-cratis | 3 | milit., fascines, bundled sticks for siegeworks
-cratis | 4 | transf., a joint or rib, as of the body or a honeycomb
+cratis | 3 | in the army, fascines, bundled sticks for siegeworks
+cratis | 4 | by extension, a joint or rib, as of the body or a honeycomb
 creator | 1 | creator
-creator | 3 | eccl., God, the creator of the world
-creator | 4 | jurid., one who elects or appoints to office
+creator | 3 | in Christian Latin, God, the creator of the world
+creator | 4 | in law, one who elects or appoints to office
 creatrix | 1 | mother
 creber | 1 | frequent
 creber | 2 | abounding
@@ -3796,18 +3790,18 @@ credo | 3 | trust or entrust, as to someone's care
 credo | 4 | credo, I suppose, I dare say
 credulitas | 1 | credulity
 credulus | 1 | credulous
-credulus | 3 | transf., trusting or hopeful, as feelings or expectations
+credulus | 3 | by extension, trusting or hopeful, as feelings or expectations
 cremo | 1 | burn
 cremo | 3 | to cremate, as a corpse
 cremo | 4 | to burn as a sacrifice, as a victim
 creo1 | 1 | create
 creo1 | 2 | elect
-creo1 | 3 | trop., to cause or occasion, as trouble or delay
+creo1 | 3 | figuratively, to cause or occasion, as trouble or delay
 creper | 1 | uncertain
-creper | 3 | lit., dark or dusky
+creper | 3 | literally, dark or dusky
 crepido | 1 | pedestal
 crepido | 2 | embankment
-crepido | 3 | trop., a support or basis, as for an argument
+crepido | 3 | figuratively, a support or basis, as for an argument
 crepito | 1 | rattle
 crepitus | 1 | rattling
 crepitus | 3 | crepitus ventris, a noisy breaking of wind
@@ -3821,17 +3815,17 @@ crepusculum | 3 | in gen., darkness or gloom
 cresco | 1 | grow
 cresco | 2 | increase
 cresco | 3 | to rise in rank or distinction, to prosper
-cresco | 4 | poet., to come into being, to arise
+cresco | 4 | in poetry, to come into being, to arise
 creta2 | 1 | chalk
-creta2 | 3 | trop., something favourable or lucky, as opposed to ill-omened
+creta2 | 3 | figuratively, something favourable or lucky, as opposed to ill-omened
 cretatus | 1 | chalked
-cretatus | 3 | transf., clothed in white, as a candidate for office
+cretatus | 3 | by extension, clothed in white, as a candidate for office
 cretio | 1 | formal acceptance
-cretio | 3 | meton., an inheritance itself
+cretio | 3 | by extension, an inheritance itself
 cribrum | 1 | sieve
 crimen | 1 | crime
 crimen | 2 | accusation
-crimen | 3 | meton., the cause of a crime, a criminal person
+crimen | 3 | by extension, the cause of a crime, a criminal person
 criminatio | 1 | accusation
 crimino | 1 | accuse
 criminosus | 1 | slanderous
@@ -3839,9 +3833,9 @@ criminosus | 1 | slanderous
 crinalis | 1 | of the hair
 crinalis | 3 | crinalis vitta, a hair-band; crinalis acus, or crinale as a noun, a hair-pin
 crinio | 1 | hairy
-crinio | 3 | transf., trailing or maned, as a comet or a crested helmet
+crinio | 3 | by extension, trailing or maned, as a comet or a crested helmet
 crinis | 1 | hair
-crinis | 3 | meton., the tail of a comet
+crinis | 3 | by extension, the tail of a comet
 crispo | 1 | curl
 crispo | 2 | brandish
 crispo | 3 | neutr., to tremble or quiver, as in an earthquake
@@ -3852,7 +3846,7 @@ crista1 | 1 | crest
 crista1 | 3 | the plume of a helmet
 cristatus | 1 | crested
 croceus | 1 | saffron
-croceus | 3 | transf., golden or yellow in colour
+croceus | 3 | by extension, golden or yellow in colour
 cruciabilis | 1 | excruciating
 cruciabilis | 3 | capable of being tortured
 cruciarius | 1 | of torture
@@ -3860,7 +3854,7 @@ cruciarius | 3 | as a substantive, one who is being crucified
 cruciarius | 4 | facete, a gallows-bird, a scoundrel
 cruciatus | 1 | torture
 cruciatus | 2 | anguish
-cruciatus | 3 | transf., instruments of torture
+cruciatus | 3 | by extension, instruments of torture
 crucio | 1 | torture
 crucio | 2 | torment
 crucio | 3 | medial, to grieve or be afflicted, to worry oneself
@@ -3872,18 +3866,18 @@ cruditas | 3 | undigested food
 crudus | 1 | raw
 crudus | 2 | unripe
 crudus | 3 | cruda senectus, a vigorous old age
-crudus | 4 | poet., harsh or cruel
+crudus | 4 | in poetry, harsh or cruel
 cruento | 1 | bloody
-cruento | 3 | trop., to wound, as with cutting words
+cruento | 3 | figuratively, to wound, as with cutting words
 cruento | 4 | to dye red, tinge with red
 cruentus | 1 | bloody
 cruentus | 2 | bloodthirsty
 cruentus | 3 | blood-red, deep red in colour
 cruor | 1 | blood
 cruor | 2 | bloodshed
-cruor | 3 | poet., blood in the body generally
+cruor | 3 | in poetry, blood in the body generally
 crus | 1 | leg
-crus | 3 | transf., the stalk or lower stem of a plant
+crus | 3 | by extension, the stalk or lower stem of a plant
 crusta | 1 | crust
 crusta | 2 | veneer
 crusta | 3 | art, ornamental inlay or mosaic work on walls
@@ -3899,11 +3893,11 @@ cubiculum | 3 | the emperor's raised seat in a theatre
 cubiculum | 4 | arch., the joint or bed of a stone
 cubile | 1 | bed
 cubile | 2 | den
-cubile | 3 | trop., the lair or hiding place, as of vice
+cubile | 3 | figuratively, the lair or hiding place, as of vice
 cubito | 1 | recline habitually
 cubitum | 1 | elbow
 cubitum | 2 | cubit
-cubitum | 3 | meton., a bend or curve, as of a shoreline
+cubitum | 3 | by extension, a bend or curve, as of a shoreline
 cubo | 1 | recline
 cubo | 2 | sleep
 cubo | 3 | to lie with, to have sexual intercourse
@@ -3917,7 +3911,7 @@ cucurbita | 3 | medic., a cupping-glass
 cucurbita | 4 | facete, a blockhead, a numbskull
 cudo1 | 1 | pound
 cudo1 | 2 | mint
-cudo1 | 3 | trop., to concoct or contrive, as a deception
+cudo1 | 3 | figuratively, to concoct or contrive, as a deception
 cuicuimodi | 1 | whatsoever
 cujas | 1 | from where
 cujas | 2 | whence
@@ -3927,7 +3921,7 @@ cujus2 | 1 | whose
 culcita | 1 | cushion
 culex1 | 1 | gnat
 culina | 1 | kitchen
-culina | 3 | meton., food or fare
+culina | 3 | by extension, food or fare
 culpa | 1 | fault
 culpa | 2 | negligence
 culpa | 3 | euphemism, an illicit love affair
@@ -3936,19 +3930,19 @@ culpo | 1 | blame
 culpo | 3 | P.a. (culpatus), worthy of blame, blameworthy
 culpo | 4 | of wine, corrupted or spoiled
 culter | 1 | knife
-culter | 3 | lit., a ploughshare or coulter
+culter | 3 | literally, a ploughshare or coulter
 cultio | 1 | cultivation
 cultio | 3 | veneration or reverence
 cultor | 1 | cultivator
 cultor | 2 | worshipper
-cultor | 3 | meton., an inhabitant or dweller
+cultor | 3 | by extension, an inhabitant or dweller
 cultrix | 1 | caretaker
 cultrix | 2 | inhabitant
-cultrix | 3 | trop., a female worshipper
+cultrix | 3 | figuratively, a female worshipper
 cultura | 1 | cultivation
 cultura | 2 | culture
 cultura | 3 | an honouring or courting, as of a powerful friend
-cultura | 4 | late Lat., religious worship
+cultura | 4 | in later Latin, religious worship
 cultus2 | 1 | cultivation
 cultus2 | 2 | worship
 cultus2 | 3 | refinement, as of manners or style
@@ -3958,28 +3952,28 @@ cum1 | 3 | cum primis, especially, particularly
 cumque | 1 | -ever
 cumulo | 1 | heap up
 cumulo | 2 | overwhelm
-cumulo | 3 | trop., to complete or perfect, as happiness
+cumulo | 3 | figuratively, to complete or perfect, as happiness
 cumulus | 1 | heap
 cumulus | 2 | crowning addition
-cumulus | 3 | rhet., the peroration, the climax of a speech
+cumulus | 3 | in rhetoric, the peroration, the climax of a speech
 cunabula | 1 | cradle
-cunabula | 3 | meton., the birthplace or earliest home, as of a nation
+cunabula | 3 | by extension, the birthplace or earliest home, as of a nation
 cunae | 1 | cradle
-cunae | 3 | meton., birth or earliest childhood
+cunae | 3 | by extension, birth or earliest childhood
 cunctatio | 1 | delay
 cunctator1 | 1 | delayer
 cunctator1 | 3 | in a good sense, one cautiously deliberate, as a wise general
 cunctor | 1 | hesitate
 cunctor | 2 | linger
-cunctor | 3 | poet., of things, to move slowly or sluggishly
+cunctor | 3 | in poetry, of things, to move slowly or sluggishly
 cunctus | 1 | all
 cuneo | 1 | wedge
 cuneo | 3 | to shape like a wedge, as a peninsula
 cuneus1 | 1 | wedge
-cuneus1 | 3 | milit., troops arrayed in a wedge formation
+cuneus1 | 3 | in the army, troops arrayed in a wedge formation
 cuneus1 | 4 | a wedge-shaped block of seats in a theatre
 cunnus | 1 | vulva
-cunnus | 3 | transf., an unchaste woman, a strumpet
+cunnus | 3 | by extension, an unchaste woman, a strumpet
 cupa1 | 1 | cask
 cupiditas | 1 | desire
 cupiditas | 2 | greed
@@ -4002,7 +3996,7 @@ cura | 1 | care
 cura | 2 | anxiety
 cura | 3 | guardianship, as of a ward or minor
 cura | 4 | medic., medical treatment, a cure
-cura | 5 | poet., the object of one's love, a sweetheart
+cura | 5 | in poetry, the object of one's love, a sweetheart
 cura | 6 | administration, oversight, as of public affairs
 curatio | 1 | management
 curatio | 2 | guardianship
@@ -4010,8 +4004,8 @@ curatio | 3 | medic., healing or treatment
 curator | 1 | overseer
 curator | 2 | guardian
 curia | 1 | curia
-curia | 3 | meton., the senate-house
-curia | 4 | meton., the Senate itself, the assembled body
+curia | 3 | by extension, the senate-house
+curia | 4 | by extension, the Senate itself, the assembled body
 # review: curialis "of a curia" needs the article to be accurate; no shorter English phrasing fits
 curialis | 1 | of a curia
 curialis | 3 | as a substantive, a fellow member of a curia
@@ -4022,7 +4016,7 @@ curiatus | 3 | comitia curiata, the assembly voting by curiae
 curiosus | 1 | careful
 curiosus | 2 | curious
 curiosus | 3 | as a substantive, a spy or informer
-curiosus | 4 | transf., emaciated or wasted away with worry
+curiosus | 4 | by extension, emaciated or wasted away with worry
 curo | 1 | care for
 curo | 2 | commission
 curo | 3 | medic., to heal or cure
@@ -4033,10 +4027,10 @@ curriculum | 3 | curriculum vitae, the course of one's life
 curriculum | 4 | a race-chariot
 curro | 1 | run
 curro | 2 | flow
-curro | 3 | trop., to flow smoothly, as a speech
+curro | 3 | figuratively, to flow smoothly, as a speech
 currus | 1 | chariot
 currus | 2 | triumph
-currus | 3 | poet., a team of horses drawing a chariot
+currus | 3 | in poetry, a team of horses drawing a chariot
 cursim | 1 | swiftly
 cursito | 1 | run about
 cursito | 3 | to race, to run in competition
@@ -4051,24 +4045,24 @@ cursorius | 4 | as a substantive (cursorium), the public post or mail service
 cursus | 1 | course
 cursus | 2 | journey
 cursus | 3 | cursus publicus, the imperial post system
-cursus | 4 | trop., the course or direction, as of events
+cursus | 4 | figuratively, the course or direction, as of events
 curtus | 1 | shortened
-curtus | 3 | trop., defective or incomplete, as an argument or fortune
+curtus | 3 | figuratively, defective or incomplete, as an argument or fortune
 curulis | 1 | curule
 curulis | 3 | sella curulis, the curule chair, seat of a high magistrate
 curvo | 1 | bend
-curvo | 3 | trop., to move or soften, as to pity
+curvo | 3 | figuratively, to move or soften, as to pity
 curvus | 1 | curved
 curvus | 2 | crooked
 curvus | 3 | as a substantive (curvum), that which is wrong, as opposed to right
 cuspis | 1 | point
 cuspis | 2 | spear
-cuspis | 3 | meton., a sting, as of a bee or scorpion
+cuspis | 3 | by extension, a sting, as of a bee or scorpion
 custodela | 1 | guardianship
 custodia | 1 | guard
 custodia | 2 | custody
-custodia | 3 | meton., a prison or place of confinement
-custodia | 4 | meton., the guards themselves, a garrison
+custodia | 3 | by extension, a prison or place of confinement
+custodia | 4 | by extension, the guards themselves, a garrison
 custodio | 1 | guard
 custodio | 2 | observe
 custodio | 3 | to hold captive, to keep in custody
@@ -4078,4 +4072,4 @@ custos | 3 | jailer, keeper of a prison
 cutis | 1 | skin
 cutis | 2 | rind
 cutis | 3 | curare cutem, to pamper oneself
-cutis | 4 | trop., surface appearance, as opposed to substance
+cutis | 4 | figuratively, surface appearance, as opposed to substance
