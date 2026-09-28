@@ -1245,8 +1245,7 @@ centum | 3 | the numeral, and indeclinable: centum dies, a hundred days
 centum | 4 | in the poets for any large number: si linguae centum sint, if I had a hundred tongues; centum clavibus servata, guarded by a hundred keys
 # review: centumviri the name of a Roman civil court; there is no English name for it, and a translation has to spell the number out
 centumviri | 1 | court of a hundred
-centumviri | 3 | a bench of judges chosen each year for civil suits, and above all for cases about inheritance
-centumviri | 4 | it numbered a hundred and five members, and a hundred and eighty under the emperors
+centumviri | 3 | a bench of judges chosen each year for civil suits, and above all for cases about inheritance, numbering a hundred and five, and a hundred and eighty under the emperors
 # review: centuplico English has no one-word verb for increasing a thing a hundredfold
 centuplico | 1 | increase a hundredfold
 centuplico | 3 | to multiply a thing by a hundred, a late word
@@ -1288,7 +1287,7 @@ cerarius | 4 | as a masculine noun cerarius, a wax dealer, or a clerk who writes
 cerarius | 5 | as a neuter noun cerarium, a fee for wax, or perhaps for affixing a seal
 cerasus1 | 1 | cherry tree
 cerasus1 | 3 | the cherry tree, which Lucullus brought to Italy from Cerasus in Pontus
-cerasus1 | 4 | also the cherry itself, though prose prefers the neuter cerasum
+cerasus1 | 4 | also the cherry itself
 cerebrum | 1 | brain
 cerebrum | 3 | the brain
 cerebrum | 4 | by transfer, understanding or sense
@@ -1312,7 +1311,6 @@ cerno | 9 | to settle a thing by fighting, an old use that certare displaced: fe
 cerno | 10 | in law of inheritances, to resolve to enter on one, to declare that resolve, and so to take it up
 cernuus1 | 1 | stooping
 cernuus1 | 3 | bent forward with the face towards the ground, a very rare and poetic word
-cernuus1 | 4 | the old grammarians explain it as one who looks at the earth, from cernere
 cero | 1 | wax
 cero | 3 | to smear or coat with wax: dolia cerare, to wax the jars
 cero | 4 | commonest in its participle: cerata tabula, a waxed tablet; ceratae pennae, wings waxed together
@@ -1384,25 +1382,22 @@ cetarius | 3 | having to do with fish, and found only as a noun
 cetarius | 4 | as a masculine noun cetarius, a dealer in fish
 cetarius | 5 | as a neuter noun cetarium, a fishpond or tank for the larger fish
 ceteroqui | 1 | otherwise
-ceteroqui | 3 | for the rest or in other respects
-ceteroqui | 4 | a rare word: ceteroquin recte, right enough in other ways
+ceteroqui | 3 | for the rest or in other respects, a rare word
 ceterus | 1 | remaining
-ceterus | 3 | the rest of a thing, what is left over beyond what has been named; its nominative singular masculine is not in use
+ceterus | 3 | the rest of a thing, what is left over beyond what has been named
 ceterus | 4 | in the plural, the rest or the others: ceteri, the others; et cetera, and so on
 ceterus | 5 | its neuter ceterum as an adverb, for the rest or otherwise, and often simply but or still
 ceterus | 6 | the plural cetera as an adverb, in other respects: cetera laetus, happy enough in all else
-ceterus | 7 | Pliny uses cetero in the same way
 ceu | 1 | as
-ceu | 3 | a particle of comparison, contracted from ce and ve as neu is from neve: ceu fumus in auras, like smoke into the air
+ceu | 3 | a particle of comparison, a word of elevated poetry until prose took it up after Augustus: ceu fumus in auras, like smoke into the air
 ceu | 4 | in poetic comparisons, often answered by haud aliter or by sic
 ceu | 5 | with cum or si: ceu cum, as when
 ceu | 6 | sometimes conditionally, as if or as it were
-ceu | 7 | it belongs to elevated poetry before the Augustan age, and comes into prose later, above all in the elder Pliny
 ceveo | 1 | waggle
 ceveo | 3 | to move the haunches, a coarse word of the satirists
 ceveo | 4 | figuratively, from a dog wagging its tail, to fawn and flatter
 chordus1 | 1 | late-born
-chordus1 | 3 | born late in the season, a very old farming word, also spelt cordus: agni chordi, lambs dropped out of season
+chordus1 | 3 | born late in the season, a very old farming word: agni chordi, lambs dropped out of season
 chorea | 1 | dance
 chorea | 3 | a dance in a ring, and commonest in the plural
 chorea | 4 | by transfer, of the circling of the stars: choreae astricae, the dances of the stars
@@ -1434,16 +1429,15 @@ cicatrix | 4 | of plants the mark left by a cut, and of statues the marks of the
 cicatrix | 5 | in jest, the seam of a patched shoe
 cicatrix | 6 | figuratively: obductam cicatricem refricare, to rub open a scar that had healed over
 cicer | 1 | chickpea
-cicer | 3 | the chickpea, used only in the singular according to Varro
+cicer | 3 | the chickpea
 ciconia | 1 | stork
 ciconia | 3 | the stork
 ciconia | 4 | a mocking gesture, the fingers bent into the shape of a stork's bill
 ciconia | 5 | a T-shaped tool farmers used to measure the depth of a furrow
 ciconia | 6 | a swing beam on an upright post for drawing water, the same as a tolleno
 cicur | 1 | tame
-cicur | 3 | tame, the opposite of ferus: cicures bestiae, tame beasts
+cicur | 3 | tame, the opposite of ferus, a word not used after Cicero: cicures bestiae, tame beasts
 cicur | 4 | figuratively mild or gentle: cicur ingenium, a gentle nature
-cicur | 5 | it seems not to be used after Cicero
 cicuta1 | 1 | hemlock
 cicuta1 | 3 | hemlock, the poison given to criminals and the draught Socrates drank
 cicuta1 | 4 | by transfer a pipe made from hemlock stalks, a shepherd's pipe
@@ -1490,18 +1484,16 @@ cinis | 3 | ashes, where favilla is usually the light dust of ash, or ash that s
 cinis | 4 | the ashes of a burnt corpse, common in both numbers: cineri atque ossibus, to a man's ashes and bones
 cinis | 5 | the ruins of a city burnt to the ground: cineres patriae, the ashes of one's country
 cinis | 6 | figuratively a token of ruin: in fumum et cinerem vertere, to turn a thing to smoke and ashes, that is to squander it
-cinis | 7 | it is sometimes feminine
 cippus | 1 | post
 cippus | 3 | a stake, pale or pillar
 cippus | 4 | above all a gravestone or tombstone
 cippus | 5 | among the land surveyors, a boundary stone
 cippus | 6 | in the army, in the plural cippi, a barrier of sharpened stakes
 circa1 | 1 | around
-circa1 | 3 | a later form beside circum, not common before the Augustan age and commonest in Livy and Quintilian
-circa1 | 4 | as an adverb, round about or in the neighbourhood: gramen erat circa, there was grass all round
-circa1 | 5 | circa esse, to be in the parts about, to be at hand: qui circa erant, those who stood by
-circa1 | 6 | as a preposition with the accusative, about or around a place
-circa1 | 7 | of motion, round to a series of places: legatos circa vicinas gentes mittere, to send envoys round to the neighbouring peoples
+circa1 | 3 | as an adverb, round about or in the neighbourhood: gramen erat circa, there was grass all round
+circa1 | 4 | circa esse, to be in the parts about, to be at hand: qui circa erant, those who stood by
+circa1 | 5 | as a preposition with the accusative, about or around a place
+circa1 | 6 | of motion, round to a series of places: legatos circa vicinas gentes mittere, to send envoys round to the neighbouring peoples
 circino | 1 | make round
 circino | 3 | to shape a thing into a circle, and probably no older than Augustus: arbores quae ramos circinant, trees that bring their branches round in a ring
 circino | 4 | its participle circinatus, rounded: folia circinatae rotunditatis, leaves perfectly round
@@ -1530,7 +1522,7 @@ circulatim | 1 | circularly
 circulatim | 3 | in a circle, a rare word later than Augustus
 circulatim | 4 | figuratively in groups or knots of people: circulatim lamentari, to mourn in little gatherings
 circulo | 1 | make round
-circulo | 3 | to shape into a circle, a late form standing beside circulor
+circulo | 3 | to shape into a circle
 circulo | 4 | to encircle or ring about
 circulor | 1 | gather round
 circulor | 3 | to form a ring of people about oneself, or to stand about in knots talking: milites circulari, for the soldiers to gather in groups
@@ -1549,7 +1541,6 @@ circum | 5 | of a partial circuit, about or near: circum caput rejectus, thrown 
 circum | 6 | of motion round to several places, from one to another
 circum | 7 | of nearness, in the neighbourhood of: circum haec loca, hereabouts
 circum | 8 | of the people about one, one's attendants or friends: circum se habere, to keep about oneself
-circum | 9 | in compounds it keeps its m before consonants, and carries now one and now another of these senses
 circumago | 1 | turn round
 circumago | 3 | to drive or turn in a circle: aratro sulcum circumagere, to draw a furrow round with the plough
 circumago | 4 | as a legal term, to free a slave by turning him round, since the master took him by the right hand and turned him about
@@ -1601,7 +1592,6 @@ circumeo | 5 | to go round from one person to another, canvassing or urging
 circumeo | 6 | figuratively to hem in: belli fluctibus circumiri, to be caught round by the waves of war
 circumeo | 7 | to take someone in, to circumvent: aliquem arte dolosa circumire, to get round a man by a crafty trick
 circumeo | 8 | of speech, to express a thing by going round it, to use a circumlocution
-circumeo | 9 | it also appears in the shorter form circueo
 circumfero | 1 | carry around
 circumfero | 3 | to carry a thing round, and above all at table: circumfer mulsum, pass the honey wine round
 circumfero | 4 | figuratively to spread abroad: bellum circumferre, to carry the war round from place to place
