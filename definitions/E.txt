@@ -744,7 +744,7 @@ exacuo | 4 | figuratively, to incite, spur on, stimulate (a person)
 exadversum | 1 | opposite
 exaedifico | 1 | build
 exaedifico | 3 | figuratively, to finish, complete (a task or work)
-exaedifico | 4 | rarely, to turn out of doors, evict
+exaedifico | 4 | in early Latin, in jest, to turn out of doors, evict
 exaequo | 1 | level
 exaequo | 3 | figuratively, to place on a level with, treat as equal
 exaequo | 4 | to equal, match, be equal to
@@ -770,8 +770,8 @@ examino | 4 | rarely, to swarm (of bees)
 examussim | 1 | exactly
 exanclo | 1 | drain
 exanclo | 3 | figuratively, to endure, suffer through (hardship)
-exanimatio | 1 | suffocation
-exanimatio | 3 | figuratively, terror, fright, panic
+exanimatio | 1 | terror
+exanimatio | 3 | literally, a loss of breath, suffocation
 exanimis | 1 | lifeless
 exanimis | 3 | by extension, rarely, terrified, half dead with fear
 exanimo | 1 | exhaust
@@ -854,8 +854,8 @@ excipio | 4 | to follow, succeed (in time or order)
 excipio | 5 | to overhear, catch (words spoken)
 excipio | 6 | in law, to make a legal exception (as defendant)
 excito | 1 | rouse
-excito | 3 | to build, erect, construct
-excito | 4 | figuratively, to arouse, stir up, incite, stimulate
+excito | 3 | figuratively, to arouse, stir up, incite, stimulate
+excito | 4 | to build, erect, construct
 excito | 5 | to cite, appeal to (as a witness or authority)
 exclamatio | 1 | outcry
 exclamatio | 3 | in rhetoric, an exclamation (a rhetorical figure)
@@ -913,9 +913,9 @@ exdorsuo | 1 | debone
 exedo | 1 | devour
 exedo | 3 | by extension, to eat away, corrode, destroy
 exedo | 4 | figuratively, to prey upon, consume, corrode (the mind)
-exemplar | 1 | copy
+exemplar | 1 | model
+exemplar | 2 | copy
 exemplar | 3 | figuratively, a likeness, an image, an impression
-exemplar | 4 | a model, a pattern, an exemplar
 exemplum | 1 | example
 exemplum | 3 | a copy, a transcript
 exemplum | 4 | exempli causa, for instance, for example
@@ -1008,15 +1008,16 @@ exitus2 | 4 | figuratively, an end, a conclusion, a close
 exitus2 | 5 | in particular, death, the end of life
 exitus2 | 6 | figuratively, an outcome, a result, an issue
 exlex | 1 | lawless
-exolesco | 1 | mature
-exolesco | 3 | by extension, to become obsolete, fall out of use, fade away
-exolesco | 4 | exoletus as an adjective, in a bad sense, a male prostitute (of ripe age)
+exolesco | 1 | fade
+exolesco | 3 | to grow out of use, become obsolete, pass away
+exolesco | 4 | exoletus as an adjective, grown up, mature
+exolesco | 5 | as a noun exoletus, in a bad sense, a male prostitute
 exonero | 1 | unload
 exonero | 3 | figuratively, to relieve, free (from worry or duty)
 exopto | 1 | crave
 exopto | 3 | exoptatus as an adjective, greatly longed for, welcome
 exorabilis | 1 | persuadable
-exorabilis | 3 | transitively, rarely, persuasive, moving (of speech)
+exorabilis | 3 | in an active sense, rarely, persuasive, moving (of speech)
 exorbito | 1 | deviate
 exorbito | 3 | transitively, rarely, to turn aside, divert (the mind)
 exordior | 1 | begin
@@ -1025,7 +1026,7 @@ exordium | 1 | beginning
 exordium | 3 | in rhetoric, the introduction, the opening (of a speech)
 exordium | 4 | rarely, literally, the warp of a web
 exorior | 1 | rise
-exorior | 2 | arise
+
 exorior | 3 | as a noun exoriens, the east, the point of sunrise
 exorior | 4 | figuratively, to spring up, break out, originate
 exornatio | 1 | embellishment
