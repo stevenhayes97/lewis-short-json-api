@@ -672,9 +672,7 @@ caprinus | 1 | of goats
 caprinus | 3 | belonging to goats: caprinus grex, a flock of goats; caprina pellis, goatskin
 caprinus | 4 | as a feminine noun caprina, goat's flesh
 capronae | 1 | forelock
-capronae | 3 | the hair hanging over the forehead, of men and of animals, matching antiae
-capronae | 4 | explained from caput and pronus, as the hair that hangs forward from the head
-capronae | 5 | an old and rare word
+capronae | 3 | the hair hanging over the forehead, of men and of animals, matching antiae; an old and rare word
 captator | 1 | legacy-hunter
 captator | 3 | one who reaches eagerly after a thing: captator aurae popularis, a man who courts the popular breeze
 captator | 4 | above all one who angles for legacies, a stock figure with the satirists
@@ -772,7 +770,6 @@ careo | 1 | lack
 careo | 3 | to be without a thing, with the ablative: carere culpa, to be free of blame; carere febri, to be rid of the fever
 careo | 4 | so of going without by choice, to abstain: carere temeto, to keep off strong drink
 careo | 5 | to be deprived of what one wants, and so to miss it, the opposite of frui
-careo | 6 | its present participle has a genitive plural carentum
 caries | 1 | decay
 caries | 3 | a dry rot rather than a wet one, of timber and of walls
 caries | 4 | in mockery of shrivelled old people: nemo illa vivit carie cariosior, nobody alive is more worm-eaten than she is
