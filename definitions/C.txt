@@ -611,10 +611,9 @@ capillatus | 5 | arbor capillata, the tree on which the Vestals hung their shorn
 capillatus | 6 | of plants, made up of slender fibres: radices capillatae, thread-like roots
 capillus | 1 | hair
 capillus | 3 | the hair of the head, where crinis is hair of any kind: capillus passus, hair let down loose
-capillus | 4 | usually collective in the singular, though the plural is common in the poets
-capillus | 5 | the hair of the beard as well: barbam et capillum adurere, to singe beard and hair
-capillus | 6 | the hair or coat of animals: capillus cuniculi, a rabbit's fur
-capillus | 7 | the threads or fibres of plants: capillus Veneris, the plant maidenhair
+capillus | 4 | the hair of the beard as well: barbam et capillum adurere, to singe beard and hair
+capillus | 5 | the hair or coat of animals: capillus cuniculi, a rabbit's fur
+capillus | 6 | the threads or fibres of plants: capillus Veneris, the plant maidenhair
 capio1 | 1 | take
 capio1 | 3 | to take hold of, grasp or seize: cape hoc flabellum, take this fan; fustem capere, to pick up a cudgel
 capio1 | 4 | of people, to take prisoner, and of animals, to catch: legiones vi pugnando cepimus, we took the legions by force of fighting
