@@ -74,8 +74,9 @@ decanto | 1 | repeat
 decanto | 2 | enchant
 decanto | 3 | to recite or rehearse, without any unfavourable sense (miserabiles elegos decantare, to recite mournful elegies)
 decanto | 4 | intransitively, to leave off singing or lamenting
-decanus | 1 | dean
-decanus | 3 | a superior set over ten people, such as soldiers or monks (late Latin administrative and religious use)
+# review: decanus "chief of ten" is the literal sense; "dean" fits only the monastic use
+decanus | 1 | chief of ten
+decanus | 3 | in later Latin, an officer set over ten soldiers, or over ten monks, a dean
 decanus | 4 | in astrology, a decan, the ruler of one of the three ten-degree divisions of a zodiac sign
 decedo | 1 | depart
 decedo | 2 | die
@@ -125,7 +126,7 @@ decido2 | 2 | settle
 decido2 | 3 | to cut down or reduce an amount (ad tertiam partem vectigal decidere, to reduce the tax by two-thirds)
 decido2 | 4 | to cudgel, beat soundly (rare)
 deciduus | 1 | deciduous
-decies | 1 | tenfold
+decies | 1 | ten times
 decies | 3 | an indefinitely large number or sum (colloquial exaggeration)
 decimanus | 1 | of tithes
 decimanus | 3 | as a noun, a tithe-farmer or tax-collector
@@ -135,8 +136,8 @@ decimo | 1 | decimate
 decimo | 3 | to tithe someone, to collect a tenth from them as tax
 decimo | 4 | to offer a tenth of something as a religious tithe
 decimus1 | 1 | tenth
-decimus1 | 3 | decimum (adv.), for the tenth time
-decimus1 | 4 | decima (noun), a tithe or tenth part, especially as a religious offering or a tax on provincial land
+decimus1 | 3 | as an adverb, decimum, for the tenth time
+decimus1 | 4 | as a noun, decima, a tithe or tenth part, especially as a religious offering or a tax on provincial land
 decimus1 | 5 | by extension, immense, huge, of a wave (poetic use)
 decipio | 1 | deceive
 decipio | 3 | to elude, to escape the notice of (custodes decipere, to slip past the guards)
@@ -179,8 +180,8 @@ decoquo | 1 | reduce
 decoquo | 2 | go bankrupt
 decoquo | 3 | to boil or cook something (a general culinary sense)
 decoquo | 4 | figuratively, to consume, waste away, diminish gradually
-decoquo | 5 | decocta (noun), a chilled boiled-water drink invented by Nero
-decoquo | 6 | decoctum (noun), a medicinal potion or infusion
+decoquo | 5 | as a noun, decocta, a chilled boiled-water drink invented by Nero
+decoquo | 6 | as a noun, decoctum, a medicinal potion or infusion
 decor | 1 | grace
 decoris | 1 | elegant
 decoro | 1 | adorn
@@ -200,11 +201,12 @@ decuria | 3 | one of the panels of jurors at Rome (decuriae judicum)
 decurio1 | 1 | decuriate
 decurio1 | 3 | especially, to organise people into groups for bribery or political corruption
 decurio2 | 1 | decurion
-decurro | 1 | charge
+decurro | 1 | run down
 decurro | 2 | resort
 decurro | 3 | of a racer or vehicle, to run down or through a course (decurso spatio, having completed the course)
-decurro | 4 | figuratively, to run through or over a subject in speech
-decurro | 5 | of stars or heavenly bodies, to complete their course, to set
+decurro | 4 | in the army, to go through manoeuvres, or to charge down on the enemy
+decurro | 5 | figuratively, to run through or over a subject in speech
+decurro | 6 | of stars or heavenly bodies, to complete their course, to set
 decursio | 1 | manoeuvre
 decursio | 3 | a running or flowing down, as of water
 decursio | 4 | a ceremonial running in armour at a festival
@@ -240,7 +242,7 @@ dediticius | 3 | as a noun, one who has surrendered, a captive under Roman rule 
 deditio | 1 | surrender
 dedo | 1 | surrender
 dedo | 2 | devote
-dedo | 3 | dedita opera (adv.), on purpose, deliberately
+dedo | 3 | dedita opera, on purpose, deliberately
 dedo | 4 | dare or dedere manus, to give up, to yield (an idiom)
 dedoceo | 1 | unteach
 dedolo | 1 | hew
@@ -258,8 +260,8 @@ deductio | 3 | the founding or settling of a colony
 deductio | 4 | a leading away of the bride, to her husband's house
 deductio | 5 | in law, a formal ejection from a disputed property, or the act that established one's claim to it
 deductus1 | 1 | drawn-in
-deductus1 | 2 | weak
-deductus1 | 3 | of a voice, weak, subdued (ante-classical usage)
+deductus1 | 2 | slender
+deductus1 | 3 | of a voice, weak, subdued; of a poem, finely spun, modest
 deerro | 1 | stray
 defaeco | 1 | purify
 defatigo | 1 | exhaust
@@ -268,8 +270,8 @@ defectio | 2 | failure
 defectio | 3 | especially, of the sun or moon, an eclipse
 defectio | 4 | exhaustion, fainting, a swoon (post-Augustan prose)
 defectio | 5 | in grammar, an ellipsis
-defectus2 | 1 | defection
-defectus2 | 2 | failure
+defectus2 | 1 | failure
+defectus2 | 2 | defection
 defectus2 | 3 | a swoon, a fainting fit
 defendo | 1 | defend
 defendo | 2 | maintain
@@ -375,7 +377,7 @@ deicio | 6 | to deprive someone of an expectation or hope (de honore deici, to b
 deinceps | 1 | successively
 deinceps | 3 | as an adjective, following next, the next in a series
 deinde | 1 | then
-deinde | 3 | in local succession, next, after that (rare)
+deinde | 3 | of place, next, after that (rare)
 dejectio | 1 | expulsion
 dejectio | 3 | in medicine, a purging of the bowels
 dejectio | 4 | in law, ejection, the turning out of someone from their property
