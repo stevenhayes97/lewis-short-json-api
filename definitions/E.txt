@@ -201,7 +201,7 @@ egestas | 1 | poverty
 egestio | 1 | emptying
 egestio | 3 | especially, excretion, evacuation (of the bowels or bladder)
 ego | 1 | I
-ego | 3 | egomet, I myself (emphatic)
+
 egredior | 1 | go out
 egredior | 2 | disembark
 egredior | 3 | in the army, to march out, leave (camp)
@@ -224,13 +224,12 @@ eho | 3 | in a vehement question, eho tu, hey you, tell me
 eho | 4 | in a command, eho, come here
 eia | 1 | ah
 eia | 3 | in exhortation, come on, up then (eia age)
-eia | 4 | ironic, with vero: pshaw, indeed (expressing doubt)
+eia | 4 | ironically, with vero, pshaw, indeed (expressing doubt)
 eicio | 1 | eject
-eicio | 2 | expel
-eicio | 3 | at sea, to run aground, wreck (a ship)
-eicio | 4 | at sea, to bring a ship to land
-eicio | 5 | figuratively, to banish, drive out (a feeling, a fault)
-eicio | 6 | to reject, dismiss (disapprovingly, of an argument or theory)
+eicio | 3 | figuratively, to banish, drive out (a feeling, a fault)
+eicio | 4 | to reject, dismiss (disapprovingly, of an argument or theory)
+eicio | 5 | at sea, to run aground, wreck (a ship)
+eicio | 6 | at sea, to bring a ship to land
 ejaculor | 1 | shoot out
 ejecto | 1 | throw up
 ejulo | 1 | wail
@@ -242,7 +241,6 @@ ejuro | 5 | in business, to swear oneself insolvent
 ejusmodi | 1 | such
 ejusmodi | 3 | as an adverb, in such a manner, thus
 elabor | 1 | slip away
-elabor | 2 | escape
 elabor | 3 | of joints, to be dislocated, slip out of place
 elabor | 4 | figuratively, to escape punishment, get off
 elabor | 5 | figuratively, to pass away, vanish, fade (of hope, memory, or time)
@@ -255,7 +253,7 @@ elatio | 3 | pride, arrogance, self-exaltation
 elatio | 4 | transport, passion (of joy)
 elatio | 5 | rarely, a carrying out, a burial
 elavo | 1 | wash out
-elavo | 3 | transf, idiom: elavari in mari, to be shipwrecked, ruined
+elavo | 3 | by extension, elavari in mari, to be shipwrecked, ruined
 electio | 1 | choice
 elegans | 1 | tasteful
 elegans | 3 | in early Latin, in a bad sense, fussy, over-nice, fastidious
@@ -319,7 +317,7 @@ eluctor | 3 | transitively, to overcome, surmount (a difficulty)
 eludo | 1 | elude
 eludo | 2 | mock
 eludo | 3 | to deceive, cheat, frustrate
-eludo | 4 | gladiatorial: to parry, dodge (a blow)
+eludo | 4 | in gladiatorial combat, to parry, dodge (a blow)
 elugeo | 1 | mourn
 elumbis | 1 | hip-shot
 elumbis | 3 | figuratively, of style, feeble, enervated, nerveless
