@@ -2178,7 +2178,7 @@ amicus2 | 7 | in the feminine, amica, a woman friend, and often a mistress
 amissio | 1 | loss
 amissio | 3 | the losing of a thing: amissio oppidorum, the loss of the towns
 amissio | 4 | loss of a quality or a standing: dignitatis amissio, loss of position
-amita | 1 | father's sister
+amita | 1 | paternal aunt
 amita | 3 | a paternal aunt, as against matertera, the mother's sister
 amita | 4 | amita magna, a grandfather's sister, a great-aunt, with amita major and amita maxima reaching a generation further back each time
 amitto | 1 | lose
@@ -4110,7 +4110,7 @@ avena | 5 | in the poets, a shepherd's reed pipe: tenui avena meditari, to pract
 aveo1 | 1 | crave
 aveo1 | 3 | to long for something (with the infinitive or the accusative): te imitari aveo, I long to be like you
 aveo1 | 4 | avens as an adjective, eager, and the adverb aventer, eagerly
-aveo2 | 1 | fare well
+aveo2 | 1 | hail
 aveo2 | 3 | found almost only in the imperative ave, avete, used as a greeting, hail or good day
 aveo2 | 4 | as a morning greeting, where vale served for the evening
 aveo2 | 5 | as a farewell to the dead: ave atque vale, hail and farewell
@@ -4169,7 +4169,7 @@ avoco | 7 | in the lawyers, to recall or reclaim something
 avolo | 1 | fly away
 avolo | 3 | of birds, to fly off: pullos avolasse, that the chickens had flown
 avolo | 4 | of people, to hurry off, to be gone in a moment
-avunculus | 1 | uncle
+avunculus | 1 | maternal uncle
 avunculus | 3 | a mother's brother, where a father's brother is patruus
 avunculus | 4 | avunculus magnus, a grandmother's brother, a great-uncle
 avunculus | 5 | also of the husband of a mother's sister
