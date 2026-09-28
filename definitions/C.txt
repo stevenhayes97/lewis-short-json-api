@@ -13,8 +13,7 @@ caco | 1 | defecate
 caco | 3 | to empty the bowels, a coarse word of the satirists and epigrammatists
 caco | 4 | transitively, to void something, and so to foul with excrement: cacata charta, a befouled sheet, said of a worthless book
 cacula | 1 | soldier's servant
-cacula | 3 | a servant, and above all the one who waited on a soldier: caculam militarem me futurum, that I am to be a soldier's man
-cacula | 4 | an old word, which the later grammarians gloss as servus militis
+cacula | 3 | a servant, and above all the one who waited on a soldier, an old word: caculam militarem me futurum, that I am to be a soldier's man
 cacumen | 1 | tip
 cacumen | 3 | the extreme point of anything, whether it runs up or along, where culmen is a height alone
 cacumen | 4 | most often a treetop: umbrosa cacumina, shady treetops
@@ -42,7 +41,6 @@ caduceator | 5 | in late writers also an attendant on a priest
 caduceum | 1 | herald's staff
 caduceum | 3 | the staff carried as the sign of a peaceful embassy, first an olive branch hung with fillets, later worked into serpents: caduceo ornatus, carrying the herald's staff
 caduceum | 4 | also the staff of Mercury as messenger of the gods
-caduceum | 5 | it appears both as a neuter caduceum and a masculine caduceus
 caducus | 1 | falling
 caducus | 2 | perishable
 caducus | 3 | that falls or has fallen: caducae frondes, falling leaves; glans caduca, an acorn that has dropped
@@ -106,12 +104,10 @@ caelestis | 1 | heavenly
 caelestis | 3 | divine, belonging to the gods: caeleste numen, divine power; caelestis ira, the anger of heaven
 caelestis | 4 | as a masculine noun a god, and in the plural caelestes, the gods: in concilio caelestium, in the council of the gods
 caelestis | 5 | as a neuter plural caelestia, the things of heaven set against human affairs: haec caelestia semper spectato, keep your eyes always on these heavenly things
-caelestis | 6 | of anything splendid or outstanding, godlike: caeleste ingenium, a divine talent
-caelestis | 7 | commonest as a compliment paid to great men from the Augustan age on, and used so only once by Cicero
+caelestis | 6 | of anything splendid or outstanding, godlike, a compliment to great men chiefly from the Augustan age on: caeleste ingenium, a divine talent
 caelicola | 1 | heaven-dweller
 caelicola | 3 | one who dwells in heaven, a poetic word for a god
-caelicola | 4 | the poets favour its genitive plural caelicolum
-caelicola | 5 | in late Latin, a worshipper of the heavens
+caelicola | 4 | in late Latin, a worshipper of the heavens
 caelo | 1 | engrave
 caelo | 3 | to work a design in relief on metal, above all on silver, or on ivory
 caelo | 4 | also on other materials, on wood, marble or glass: caelatum divini opus Alcimedontis, a carved work of the peerless Alcimedon
@@ -144,8 +140,7 @@ caepa | 4 | the Egyptians held it a sacred plant, which the Roman satirists thou
 caerimonia | 1 | ceremony
 caerimonia | 3 | most often in the plural, religious rites and observances: maximis caerimoniis contineri, to be hedged about with the greatest ceremonies
 caerimonia | 4 | the sacredness of a thing: caerimonia legationis, the inviolability of an embassy
-caerimonia | 5 | awe felt towards the gods, the outward reverence, where religio takes in the inward feeling as well
-caerimonia | 6 | where ritus covers everyday usages too, caerimonia belongs to the gods alone
+caerimonia | 5 | awe felt towards the gods, the outward reverence, where religio takes in the inward feeling as well; unlike ritus it belongs to the gods alone
 caeruleus1 | 1 | dark-blue
 caeruleus1 | 3 | the poets' colour for sky and sea: caeli caerula templa, the blue vaults of heaven; caerula aequora, the dark blue seas
 caeruleus1 | 4 | as a neuter plural caerula, the blue expanse of sky or of sea
@@ -153,7 +148,6 @@ caeruleus1 | 5 | of rivers and their gods: caeruleus Thybris, dark-flowing Tiber
 caeruleus1 | 6 | of other dark blue things, such as the woad the Britons stained themselves with, and dyes used on the hair
 caeruleus1 | 7 | more widely dark or gloomy, the poets' word for death, night and rain: caeruleus imber, a black rainstorm
 caeruleus1 | 8 | sometimes dark green: caerulea coma, green tresses; arbor Palladis, the grey-green olive
-caeruleus1 | 9 | it has a shorter form caerulus, just as common in the poets
 caesariatus | 1 | long-haired
 caesariatus | 3 | wearing the hair long: miles usque caesariatus, a soldier with his hair right down his back
 caesariatus | 4 | of a helmet plumed with horsehair
@@ -177,8 +171,7 @@ caespes | 6 | grassy ground, greensward: de caespite se levare, to rise up from 
 caespes | 7 | a clump of plants, or any knob of that shape
 caespes | 8 | in late Latin simply the ground
 caestus | 1 | cestus
-caestus | 3 | a strap of bull's hide weighted with lead or iron, wound round a boxer's hands and arms
-caestus | 4 | worn by the pugiles at the games, and far more dangerous than any glove
+caestus | 3 | a strap of bull's hide weighted with lead or iron, wound round a boxer's hands and arms, far more dangerous than any glove
 caesura | 1 | cutting
 caesura | 3 | the cutting or felling of timber: caesura ligni, the felling of wood
 caesura | 4 | what has been cut off, the cuttings
@@ -193,7 +186,6 @@ calamitas | 1 | disaster
 calamitas | 3 | in its first sense damage to crops, the farmers using the word of hail and of blight
 calamitas | 4 | loss, misfortune or ruin of any kind: nostri fundi calamitas, the blight of my farm, said of a girl
 calamitas | 5 | in the historians above all, a defeat in war: calamitatem accipere, to suffer a disaster
-calamitas | 6 | its metre shuts it out of hexameter verse, so it belongs to prose and to iambics
 calamitosus | 1 | disastrous
 calamitosus | 2 | unfortunate
 calamitosus | 3 | actively, bringing ruin on others: calamitosissimum bellum, a most ruinous war
