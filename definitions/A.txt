@@ -1998,12 +1998,12 @@ alveolus | 4 | a small board for playing dice on
 alveolus | 5 | the narrow channel of a river; also a weaver's shuttle
 alveus | 1 | hollow
 alveus | 2 | channel
-alveus | 3 | any hollow or cavity
-alveus | 4 | a trough, tub, or basket, and also a bathing tub
-alveus | 5 | the hull of a ship, and so the ship itself
-alveus | 6 | a board hollowed out for dice
-alveus | 7 | a beehive
-alveus | 8 | the bed or channel of a river
+alveus | 3 | the bed or channel of a river: fluminis alveo, in the bed of the river
+alveus | 4 | any hollow or cavity
+alveus | 5 | a trough, tub, or basket, and also a bathing tub
+alveus | 6 | the hull of a ship, and so the ship itself
+alveus | 7 | a board hollowed out for dice
+alveus | 8 | a beehive
 alvus | 1 | belly
 alvus | 2 | bowels
 alvus | 3 | the belly and the bowels: purgatio alvi, a clearing of the bowels
