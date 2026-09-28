@@ -176,7 +176,7 @@ gentilis | 1 | clansman
 gentilis | 3 | of or belonging to the same clan, stock, or race
 gentilis | 4 | transferred, of the same nation, a fellow-countryman (post-classical)
 gentilis | 5 | in ecclesiastical Latin, a heathen, pagan, gentile
-gentilitas | 1 | kinship
+gentilitas | 1 | clanship
 gentilitas | 3 | the relationship between members of the same gens
 gentilitas | 4 | transferred, concretely, one's kindred, relatives bearing the same name
 gentilitas | 5 | in ecclesiastical Latin, heathenism, paganism
@@ -287,7 +287,7 @@ gladius | 1 | sword
 gladius | 3 | the short two-edged thrusting sword of a Roman soldier, worn on the right hip
 gladius | 4 | violence, bloodshed, or murder, with the sword standing for armed force
 gladius | 5 | a gladiatorial fight, or the arena as a sentence: ad gladium damnari, to be condemned to the sword
-gladius | 6 | proverbial: suo sibi gladio iugulare, to cut a man's throat with his own sword, to beat him with his own argument
+gladius | 6 | proverbial: suo sibi gladio jugulare, to cut a man's throat with his own sword, to beat him with his own argument
 gladius | 7 | the blade of a ploughshare
 gladius | 8 | the swordfish
 glaeba | 1 | clod

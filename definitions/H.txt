@@ -177,7 +177,7 @@ hereditas | 3 | the legal right of succession to an estate
 hereditas | 4 | concretely, the property or estate inherited
 hereditas | 5 | figurative, a legacy, something handed down: hereditas gloriae, a legacy of glory
 heredium | 1 | homestead
-heredium | 3 | a small hereditary landholding, originally a fixed allotment of two iugera
+heredium | 3 | a small hereditary landholding, originally a fixed allotment of two jugera
 heres | 1 | heir
 heres | 3 | transferred, ante-classical, an owner, possessor, master
 heres | 4 | poetic, a successor, a new growth replacing what was cut away
