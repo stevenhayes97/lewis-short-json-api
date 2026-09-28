@@ -811,10 +811,10 @@ fortasse | 1 | perhaps
 fortasse | 3 | of numbers, about, roughly
 fortassean | 1 | perhaps
 fortis | 1 | brave
-fortis | 3 | physically, rarely, strong, powerful, robust
+fortis | 3 | physically, strong, powerful, robust
 fortis | 4 | as an adverb fortiter, bravely, valiantly, vigorously
 fortitudo | 1 | courage
-fortitudo | 3 | physically, rarely, bodily strength
+fortitudo | 3 | physically, bodily strength
 fortuitus | 1 | accidental
 fortuna | 1 | fortune
 fortuna | 3 | personified as Fortuna, the goddess of fortune
@@ -880,7 +880,7 @@ fraudulentia | 1 | deceitfulness
 fraudulentus | 1 | deceitful
 fraus1 | 1 | deceit
 fraus1 | 3 | concretely, in a bad sense, a cheat, a swindler (as a term of abuse)
-fraus1 | 4 | in the passive, self-deception, delusion, a mistake
+fraus1 | 4 | in a passive sense, self-deception, delusion, a mistake
 fraus1 | 5 | in phrases (sine fraude, fraudi esse), harm, injury, detriment
 fraxinus1 | 1 | ash-tree
 fraxinus1 | 3 | by extension, an ashen spear, a javelin
@@ -907,12 +907,12 @@ fretum | 1 | strait
 fretum | 3 | in poetry, by extension, the sea
 fretum | 4 | figuratively, a raging, a turbulent surge (of passion or age)
 fretus1 | 1 | relying
-fretus1 | 3 | in poetry, with inf, daring, venturing (to do something)
+fretus1 | 3 | in poetry, with an infinitive, daring, venturing (to do something)
 frico | 1 | rub
 frigeo | 1 | be cold
 frigeo | 3 | figuratively, to languish, stagnate, be inactive
 frigeo | 4 | figuratively, to be coldly received, be out of favour
-frigesco | 1 | chill
+frigesco | 1 | grow cold
 frigesco | 3 | figuratively, to grow languid, become listless
 frigidarius | 1 | cooling
 frigidarius | 3 | as a noun frigidarium, the cooling-room (in a bath)
@@ -952,7 +952,7 @@ fructuosus | 1 | fruitful
 fructuosus | 3 | figuratively, profitable, beneficial, rewarding
 fructus2 | 1 | fruit
 fructus2 | 2 | profit
-fructus2 | 3 | rarely, abstractly, enjoyment, use
+fructus2 | 3 | abstractly, enjoyment, use
 fructus2 | 4 | figuratively, result, reward, return (of an action)
 frugalis | 1 | frugal
 frugalitas | 1 | frugality
@@ -992,7 +992,7 @@ fuco | 4 | figuratively, to embellish, gloss over, disguise
 fucosus | 1 | counterfeit
 fucosus | 3 | of colour, painted, showy, gaudy
 fugax | 1 | fleeting
-fugax | 3 | with gen, shunning, avoiding (something)
+fugax | 3 | with a genitive, shunning, avoiding (something)
 fugio | 1 | flee
 fugio | 2 | avoid
 fugio | 3 | to vanish, pass away, perish
@@ -1037,7 +1037,7 @@ fulmen | 3 | figuratively, a crushing blow, a devastating force
 fulmentum | 1 | prop
 fulmentum | 3 | in particular, a bedpost
 fulminatus | 1 | thunderbolt-bearing
-fulmineus | 1 | fulminous
+fulmineus | 1 | of lightning
 fulmineus | 3 | figuratively, destructive, deadly, murderous
 fulmino | 1 | lighten
 fulmino | 3 | figuratively, to thunder, rage furiously (in battle or speech)
@@ -1091,7 +1091,7 @@ funero | 3 | funeratus as an adjective, killed, destroyed
 funesto | 1 | defile
 funesto | 3 | by extension, to dishonour, disgrace (in gen.)
 funestus | 1 | deadly
-funestus | 3 | intransitively, mournful, grief-stricken, sorrowful
+funestus | 3 | in a passive sense, mournful, grief-stricken, sorrowful
 fungor | 1 | perform
 fungor | 3 | in particular, to pay, discharge (a due or obligation)
 fungus | 1 | mushroom
