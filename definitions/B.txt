@@ -614,7 +614,6 @@ brutus1 | 6 | of things, blind or senseless: bruta fulmina, thunderbolts that st
 bubo1 | 1 | owl
 bubo1 | 3 | the horned or eagle owl, whose cry was counted a bad omen: ignavus bubo, the sluggish owl
 bubo1 | 4 | a bird of ill omen in the poets: funereus bubo, the owl of funerals; bubone sinistro, with an owl on the left
-bubo1 | 5 | masculine, except once in Virgil where it is feminine
 bubulcus1 | 1 | ploughman
 bubulcus1 | 3 | strictly one who ploughs with oxen, the same as arator, and distinct from the pastor or armentarius who tends the herd
 bubulcus1 | 4 | in later writers more loosely, a herdsman
@@ -629,9 +628,7 @@ bucca | 5 | quod in buccam venit dicere, to say whatever comes into one's head
 bucca | 6 | by transfer a ranter, a man who only puffs his cheeks: Curtius et Matho buccae, Curtius and Matho, that pair of windbags
 bucca | 7 | so also of a trumpeter, known about town by his blown-out cheeks
 bucco | 1 | babbler
-bucco | 3 | a chatterer who outdoes everyone in talk but not in sense, and so a fool
-bucco | 4 | it turns up in a comic string of insults: stulti stolidi fatui fungi bardi blenni buccones
-bucco | 5 | named alongside the macci, comic types of the same stamp
+bucco | 3 | a chatterer who outdoes everyone in talk but not in sense, and so a fool, a stock comic type: stulti stolidi fatui fungi bardi blenni buccones, fools, dolts, idiots, dunces, blockheads, ninnies and babblers
 buccula | 1 | little cheek
 buccula | 2 | cheekpiece
 buccula | 3 | a diminutive of bucca, a small cheek or mouth
@@ -645,8 +642,7 @@ bucino | 3 | to blow the bucina, to give the signal on it, and mostly used imper
 bucino | 4 | of the hours it marked off: ter bucinavit, the trumpet sounded three times while he declaimed
 buculus | 1 | bullock
 buculus | 3 | a young bullock or steer
-buculus | 4 | its feminine bucula is commoner and classical, a heifer
-buculus | 5 | Myron's bronze heifer at Athens was the famous example
+buculus | 4 | its feminine bucula is commoner and classical, a heifer, as in Myron's famous bronze heifer at Athens
 bulbus1 | 1 | bulb
 bulbus1 | 2 | onion
 bulbus1 | 3 | a bulbous root, as of the tulip, hyacinth or lily
