@@ -946,7 +946,6 @@ catellus1 | 4 | used as a term of endearment: mi catella, my little pet
 catellus2 | 1 | little chain
 catellus2 | 3 | a small chain, the diminutive of catena, and commoner in the feminine catella
 catellus2 | 4 | vaginae catellis crepitant, the scabbards rattle with their chains
-catellus2 | 5 | Plautus plays on its likeness to catellus, a puppy
 catena | 1 | chain
 catena | 3 | a chain, most often plural and used as a fetter: catenis vincire aliquem, to bind someone in chains; in catenas conicere, to throw into irons
 catena | 4 | a chain barring the mouth of a harbour
@@ -1007,8 +1006,7 @@ caulis | 4 | of the vine, its tendrils
 caulis | 5 | of things of like shape: the quill of a feather, the bony core of an ox's tail, and the tube an insect lays its eggs through
 caupo | 1 | innkeeper
 caupo | 3 | a petty tradesman or huckster, and above all the keeper of an inn
-caupo | 4 | it has a shorter form copo
-caupo | 5 | figuratively, a man who sells wisdom and eloquence over a counter
+caupo | 4 | figuratively, a man who sells wisdom and eloquence over a counter
 caupona | 1 | inn
 caupona | 3 | a retail shop, an inn or tavern, matching taberna: cauponam exercere, to keep an inn
 caupona | 4 | also the woman who keeps one, a landlady or hostess
@@ -1038,10 +1036,9 @@ causidicus | 1 | pleader
 causidicus | 3 | an advocate who argues cases, said with some contempt beside the fuller word orator
 causidicus | 4 | causidici causas agere, for the pleaders to argue their cases
 causor | 1 | plead
-causor | 3 | to give something as one's reason, and usually a pretended one: causari aves aut omina dira, to plead birds or ill omens as an excuse
+causor | 3 | to give something as one's reason, and usually a pretended one, a word not found in Cicero: causari aves aut omina dira, to plead birds or ill omens as an excuse
 causor | 4 | absolutely, to make excuses: causando nostros in longum ducis amores, with your excuses you drag our love out
 causor | 5 | in the early writers, to argue a matter out on both sides
-causor | 6 | it is not found in Cicero, and comes into use from the Augustan age on
 cautela | 1 | caution
 cautela | 3 | care or precaution, and mostly a late word: cum cura aut cautela, with care and caution
 cautela | 4 | in the lawyers, the same as cautio, a security or guarantee
@@ -1114,7 +1111,6 @@ celeber | 3 | of a place, much frequented and full of people, the opposite of de
 celeber | 4 | of an occasion, kept by a great gathering, and so solemn and festive: dies celeberrimi, high days of festival
 celeber | 5 | renowned: celeber triumphis, famous for his triumphs; celeber fama, of great repute
 celeber | 6 | rarely often repeated or frequent: verba celeberrima, words for ever on people's lips
-celeber | 7 | its masculine sometimes appears as celebris
 celebratio | 1 | gathering
 celebratio | 3 | a large concourse of people: hominum coetus et celebrationes, the meetings and gatherings of men
 celebratio | 4 | the keeping of a festival in great numbers: celebratio ludorum, the holding of the games
@@ -1137,14 +1133,11 @@ celer1 | 1 | swift
 celer1 | 3 | quick in movement: celeris sagitta, a swift arrow; celeres aves, swift birds
 celer1 | 4 | of the mind and of things: mens qua nihil est celerius, the mind, than which nothing is quicker; oratio celeris et concitata, rapid and excited speech
 celer1 | 5 | in reproach, hasty and rash: celeria consilia, headlong plans; celeris victoria, a victory too quickly won
-celer1 | 6 | its adverb is celeriter, and it also has an old neuter form celere
 celeritas | 1 | speed
-celeritas | 3 | swiftness or quickness, the opposite of tarditas: celeritas equorum, the speed of horses
-celeritas | 4 | Cicero notes that swiftness of body goes by the name celeritas, and that the same quality in the mind counts as a merit
+celeritas | 3 | swiftness or quickness, the opposite of tarditas, of mind as well as of body: celeritas equorum, the speed of horses
 celero | 1 | hasten
-celero | 3 | transitively, to quicken or speed a thing up: celerare gradum, to quicken one's pace; celerare fugam, to hurry one's flight
+celero | 3 | transitively, to quicken or speed a thing up, mostly poetic: celerare gradum, to quicken one's pace; celerare fugam, to hurry one's flight
 celero | 4 | intransitively, to make haste
-celero | 5 | mostly poetic, or found in prose later than Augustus
 cella | 1 | storeroom
 cella | 3 | on the farm, a place for storing produce or housing animals: cella olearia, the oil store; cella vinaria, the wine store
 cella | 4 | a small plain living room, and above all a servant's: cella ostiarii, the porter's lodge
@@ -1156,13 +1149,11 @@ cellarius | 3 | belonging to a storeroom: cellaria sagina, food out of the store
 cellarius | 4 | as a masculine noun cellarius, the slave in charge of provisions, a steward or butler
 celo | 1 | hide
 celo | 3 | with two accusatives, to keep something from someone, as the Greek does: aliquem aliquid celare, to keep a person in the dark about a thing
-celo | 4 | with one accusative of the thing, to conceal it: celare sententiam, to keep one's opinion dark; celare iras, to hide one's anger
+celo | 4 | with one accusative of the thing, to conceal it, which is more than keeping quiet about it: celare sententiam, to keep one's opinion dark; celare iras, to hide one's anger
 celo | 5 | with an accusative of a person, to hide them: se tenebris celare, to hide oneself in the dark
-celo | 6 | Cicero notes that concealing is not merely keeping quiet, but keeping people ignorant of what they have an interest in knowing
-celo | 7 | as a neuter plural noun celata, secrets
+celo | 6 | as a neuter plural noun celata, secrets
 celox | 1 | cutter
 celox | 3 | a swift light ship, a cutter or yacht
-celox | 4 | originally an adjective meaning swift, standing to celer as atrox does to ater
 celsus1 | 1 | lofty
 celsus1 | 3 | raised high, tall and upright: celsus status, an upright bearing
 celsus1 | 4 | figuratively high-minded, above what is common: celsus et erectus, lofty and upright in spirit
@@ -1178,9 +1169,8 @@ cena | 7 | a course at dinner: prima cena, the first course
 cena | 8 | the company at table: ingens cena sedet, a huge dinner party is seated
 cena | 9 | and also the place where a meal is held
 cenaculum | 1 | upper room
-cenaculum | 3 | properly a dining room, usually upstairs, and so an upper storey, a garret or attic
+cenaculum | 3 | properly a dining room, usually upstairs, and so an upper storey, a garret or attic, named as the room one dined in, as the cubiculum was the room one slept in
 cenaculum | 4 | in later times the lodging of poorer people
-cenaculum | 5 | the old writers explain the name: where they slept was a cubiculum, where they dined a cenaculum
 cenaticus | 1 | of dinner
 cenaticus | 3 | belonging to dinner, a very rare word: spes cenatica, the hope of a dinner
 cenaticus | 4 | in late Latin as a noun cenaticum, an allowance of money given in place of food
