@@ -3074,7 +3074,7 @@ conjecto | 3 | to conclude from signs or omens, to augur
 conjector | 1 | interpreter
 conjector | 3 | a diviner or soothsayer, interpreter of dreams
 conjectura | 1 | conjecture
-conjectura | 3 | t.t. of augury, a divining or interpreting of omens
+conjectura | 3 | in augury, a divining or interpreting of omens
 conjecturalis | 1 | conjectural
 conjecturalis | 3 | in rhetoric, status conjecturalis, the issue of fact in a legal case
 conjectus2 | 1 | throw
@@ -3164,7 +3164,7 @@ consenesco | 1 | age
 consenesco | 3 | figuratively, to decline or waste away, as strength or reputation
 consensio | 1 | agreement
 consensio | 2 | conspiracy
-consensio | 3 | in concreto, the conspirators themselves
+consensio | 3 | concretely, the conspirators themselves
 consensus2 | 1 | agreement
 consensus2 | 3 | consensu, unanimously, by common consent
 consensus2 | 4 | figuratively, harmony or sympathy, as among all parts of nature
@@ -3197,7 +3197,7 @@ conservus | 1 | fellow-slave
 consessor | 1 | assessor
 consessor | 3 | at a feast, a fellow guest or table companion
 consessus | 1 | assembly
-consessus | 3 | abstr., the act or right of sitting together with someone
+consessus | 3 | the act or right of sitting together with someone
 considero | 1 | consider
 considero | 2 | examine
 consido | 1 | sit
@@ -3313,13 +3313,13 @@ constupro | 1 | violate
 constupro | 3 | figuratively, to corrupt or pollute, as a court by bribery
 consuadeo | 1 | urge
 consuefacio | 1 | accustom
-consuesco | 1 | accustom
+consuesco | 1 | grow used
 consuesco | 2 | cohabit
 consuesco | 3 | consuevi, I am accustomed, I am wont
 consuetudo | 1 | custom
 consuetudo | 2 | companionship
 consuetudo | 3 | a love affair, an illicit relationship
-consuetudo | 4 | legal, customary law or established usage
+consuetudo | 4 | in law, customary law or established usage
 consul | 1 | consul
 consul | 3 | by extension, a proconsul or governor of a province
 consul | 4 | the chief magistrate of a foreign city or state
@@ -3375,7 +3375,7 @@ contemno | 2 | disparage
 contemno | 3 | in poetry, to defy or be unaffected by, as danger or hardship
 contemplatio | 1 | contemplation
 contemplatio | 3 | an aiming or taking aim, as with a weapon
-contemplatio | 4 | legal, regard or consideration, as of someone's rank
+contemplatio | 4 | in law, regard or consideration, as of someone's rank
 contemplo | 1 | contemplate
 contemplor | 1 | gaze
 contemplor | 2 | contemplate
@@ -3868,7 +3868,7 @@ cubicularius | 1 | of a bedroom
 cubicularius | 3 | as a noun, a chamber-servant or valet
 cubiculum | 1 | bedroom
 cubiculum | 3 | the emperor's raised seat in a theatre
-cubiculum | 4 | arch., the joint or bed of a stone
+cubiculum | 4 | in architecture, the joint or bed of a stone
 cubile | 1 | bed
 cubile | 2 | den
 cubile | 3 | figuratively, the lair or hiding place, as of vice
@@ -3965,7 +3965,7 @@ cupidus | 3 | biased or partial, favouring one side
 cupio | 1 | desire
 cupio | 2 | favour
 cuppedia | 1 | daintiness
-cuppedia | 3 | plur., delicacies, fancy dishes
+cuppedia | 3 | in the plural, delicacies, fancy dishes
 cuppedium | 1 | tidbit
 cuppedo2 | 1 | delicacy
 cuppes | 1 | dainty
