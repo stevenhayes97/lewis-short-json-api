@@ -2,642 +2,642 @@
 # Source: ls_E.json (Lewis & Short via Perseus), simplified for learners.
 # review: eadem an ablative of idem used as an adverb; "by the same way" is the classical sense and has no one-word English
 eadem | 1 | the same way
-eadem | 3 | by the same route: eadem revertens, returning the way he came
+eadem | 3 | by the same route, eadem revertens, returning the way he came
 eadem | 4 | in early Latin, at the same time, likewise
 eadem | 5 | eadem ... eadem, at one time ... at another
 # review: eatenus is a correlative adverb of extent; English needs a phrase
 eatenus | 1 | so far
 eatenus | 3 | to the extent that, insofar as, usually answered by quatenus or quoad
 ebibo | 1 | drink up
-ebibo | 3 | transf: to suck in, absorb, drain (of things)
+ebibo | 3 | by extension, to suck in, absorb, drain (of things)
 ebibo | 4 | to squander in drink
 eblandior | 1 | wheedle
 eblandior | 3 | to obtain by flattery or coaxing: eblandita suffragia, votes wheedled out of people
 ebrietas | 1 | drunkenness
-ebrietas | 3 | transf: excess, an overabundance (of juice or liquid)
+ebrietas | 3 | by extension, excess, an overabundance (of juice or liquid)
 ebriosus | 1 | drunken
-ebriosus | 3 | as subst.: a drunkard, a sot
+ebriosus | 3 | as a noun, a drunkard, a sot
 ebrius | 1 | drunk
-ebrius | 3 | trop: intoxicated, flushed (with success or passion)
-ebrius | 4 | in gen: filled to the brim, sated
+ebrius | 3 | figuratively, intoxicated, flushed (with success or passion)
+ebrius | 4 | in general, filled to the brim, sated
 ebullio | 1 | bubble up
 ebullio | 3 | to breathe out, give up (the ghost)
-ebullio | 4 | trop: to boast of, brag about
+ebullio | 4 | figuratively, to boast of, brag about
 ebur | 1 | ivory
-ebur | 3 | meton: a thing made of ivory (a statue, flute, sword-hilt)
-ebur | 4 | meton: an elephant
+ebur | 3 | by extension, a thing made of ivory (a statue, flute, sword-hilt)
+ebur | 4 | by extension, an elephant
 eburneus | 1 | of ivory
-eburneus | 3 | poet: white as ivory
+eburneus | 3 | in poetry, white as ivory
 ecce | 1 | behold
 ecce | 3 | here is, here comes (pointing something out)
 ecce | 4 | introducing something sudden or unexpected: ecce Apollo mihi imperat, look, Apollo commands me
 eclogarius | 1 | excerpted
-eclogarius | 3 | as subst. (eclogarium): a collection of selected poems
-eclogarius | 4 | as subst. (eclogarii): selected passages from a work
+eclogarius | 3 | as a noun eclogarium, a collection of selected poems
+eclogarius | 4 | as a noun eclogarii, selected passages from a work
 ecquando | 1 | ever
-ecquando | 3 | interrog: is there ever a time when...? (indignant question)
+ecquando | 3 | in questions, is there ever a time when...? (indignant question)
 ecqui1 | 1 | any
-ecqui1 | 3 | interrog: is there any...? (in an impassioned question)
+ecqui1 | 3 | in questions, is there any...? (in an impassioned question)
 ecquis | 1 | anyone
 ecquis | 2 | anything
-ecquis | 3 | interrog: is there anyone who...? (in an impassioned question)
-ecquis | 4 | as adverb (ecquid): at all, whether: ecquid audis, do you hear at all
-ecquis | 5 | as adverb (ecquo): anywhere at all
+ecquis | 3 | in questions, is there anyone who...? (in an impassioned question)
+ecquis | 4 | as an adverb ecquid, at all, whether: ecquid audis, do you hear at all
+ecquis | 5 | as an adverb ecquo, anywhere at all
 edax | 1 | gluttonous
-edax | 3 | poet, transf: devouring, consuming (of fire, time, or the sea)
+edax | 3 | in poetry, by extension, devouring, consuming (of fire, time, or the sea)
 edico | 1 | proclaim
 edico | 3 | to decree, ordain by public proclamation
-edico | 4 | of a magistrate: to publish an edict on taking office
-edico | 5 | in gen: to declare, appoint, order
+edico | 4 | of a magistrate, to publish an edict on taking office
+edico | 5 | in general, to declare, appoint, order
 edictum | 1 | edict
-edictum | 3 | transf: an order, command (in gen.)
-edictum | 4 | transf: a public notice, bill (e.g. of games)
+edictum | 3 | by extension, an order or command in general
+edictum | 4 | by extension, a public notice, bill (e.g. of games)
 edisco | 1 | memorise
-edisco | 3 | in gen: to learn thoroughly, study
+edisco | 3 | in general, to learn thoroughly, study
 edissero | 1 | expound
 edissero | 3 | to set forth in detail, explain fully, relate
 edisserto | 1 | expound
 edisserto | 3 | to set forth in detail, explain fully, relate
 editio | 1 | publication
-editio | 3 | concr: an edition (of a text)
-editio | 4 | jurid: a declaration, statement (of the form of an action)
+editio | 3 | concretely, an edition (of a text)
+editio | 4 | in law, a declaration, statement (of the form of an action)
 editio | 5 | an exhibition, giving (of public games)
-editio | 6 | late: a birth, bringing forth
+editio | 6 | in later Latin, a birth, bringing forth
 edo1 | 1 | eat
-edo1 | 3 | transf: to squander, dissipate (property)
-edo1 | 4 | poet: to consume, destroy, eat away (of decay, flame, or disease)
-edo1 | 5 | trop: to corrode, prey upon, consume (the mind)
+edo1 | 3 | by extension, to squander, dissipate (property)
+edo1 | 4 | in poetry, to consume, destroy, eat away (of decay, flame, or disease)
+edo1 | 5 | figuratively, to corrode, prey upon, consume (the mind)
 edo2 | 1 | give forth
 edo2 | 2 | publish
 edo2 | 3 | to give birth to, bring forth (young)
 edo2 | 4 | to utter, proclaim, declare (an oracle's response, a decree)
 edo2 | 5 | to produce, cause, bring about
-edo2 | 6 | p. a. (editus): elevated, high, lofty (of places)
+edo2 | 6 | editus as an adjective, elevated, high, lofty (of places)
 edoceo | 1 | instruct
-edoceo | 3 | to teach fully, explain in detail (with acc. of person and thing)
-edoceo | 4 | transf: to inform clearly, make evident (of circumstances or facts)
+edoceo | 3 | to teach fully, explain in detail (with an accusative of person and thing)
+edoceo | 4 | by extension, to inform clearly, make evident (of circumstances or facts)
 edolo | 1 | hew out
-edolo | 3 | trop: to work out, finish, complete (a piece of writing)
+edolo | 3 | figuratively, to work out, finish, complete (a piece of writing)
 edomo | 1 | subdue
-edomo | 3 | transf: to soften, melt, break in (metal, soil, or wild nature)
+edomo | 3 | by extension, to soften, melt, break in (metal, soil, or wild nature)
 edormio | 1 | sleep off
-edormio | 3 | poet: to sleep through (an event, a performance)
+edormio | 3 | in poetry, to sleep through (an event, a performance)
 educatio | 1 | upbringing
-educatio | 3 | transf: the rearing, breeding (of animals or plants)
+educatio | 3 | by extension, the rearing, breeding (of animals or plants)
 educo1 | 1 | lead out
-educo1 | 3 | pub. law: to bring, summon before a court
-educo1 | 4 | milit: to lead out, march out (troops)
-educo1 | 5 | naut: to bring a ship out of harbour, put to sea
-educo1 | 6 | of a child: to bring up, rear
-educo1 | 7 | since Aug: to raise up, erect, build
-educo1 | 8 | of time: to pass, spend
+educo1 | 3 | in public law, to bring, summon before a court
+educo1 | 4 | in the army, to lead out, march out (troops)
+educo1 | 5 | at sea, to bring a ship out of harbour, put to sea
+educo1 | 6 | of a child, to bring up, rear
+educo1 | 7 | after Augustus, to raise up, erect, build
+educo1 | 8 | of time, to pass, spend
 educo2 | 1 | educate
-educo2 | 3 | transf: to train, foster, cultivate (talents, character, or an art)
-educo2 | 4 | poet: to nourish, sustain (of plants or animals)
+educo2 | 3 | by extension, to train, foster, cultivate (talents, character, or an art)
+educo2 | 4 | in poetry, to nourish, sustain (of plants or animals)
 edulis | 1 | edible
-edulis | 3 | as subst. (edulia): food, eatables
+edulis | 3 | as a noun edulia, food, eatables
 effarcio | 1 | stuff
 effectus2 | 1 | execution
 effectus2 | 3 | the result, effect (of an action or operation)
 effemino | 1 | enervate
-effemino | 3 | lit: to make feminine (rare, of air)
-effemino | 4 | p. a. (effeminatus): womanish, effeminate, unmanly
-effemino | 5 | p. a., in mal. part.: passive, submitting to unnatural lust
+effemino | 3 | literally, to make feminine (rare, of air)
+effemino | 4 | effeminatus as an adjective, womanish, effeminate, unmanly
+effemino | 5 | effeminatus as an adjective, in a bad sense, of a man who takes the passive part in sex
 effero1 | 1 | carry out
 effero1 | 2 | bury
-effero1 | 3 | of soil: to bring forth, produce, yield (fruit)
+effero1 | 3 | of soil, to bring forth, produce, yield (fruit)
 effero1 | 4 | to lift up, raise, elevate
 effero1 | 5 | to utter, proclaim, publish
-effero1 | 6 | pass: to be carried away, transported (by passion or emotion)
-effero1 | 7 | with se: to rise, distinguish oneself
-effero1 | 8 | with se, in a bad sense: to be puffed up, grow arrogant
+effero1 | 6 | in the passive, to be carried away, transported (by passion or emotion)
+effero1 | 7 | with se, to rise, distinguish oneself
+effero1 | 8 | with se, in a bad sense, to be puffed up, grow arrogant
 effero2 | 1 | make wild
-effero2 | 3 | mentally: to brutalise, make fierce, savage (a person's temper)
+effero2 | 3 | of the mind, to brutalise, make fierce, savage (a person's temper)
 efferus | 1 | savage
 effervesco | 1 | boil over
-effervesco | 3 | trop: to grow violent, rage, seethe (of passion or unrest)
-effervesco | 4 | transf, poet: to blaze out, shine forth (of stars)
+effervesco | 3 | figuratively, to grow violent, rage, seethe (of passion or unrest)
+effervesco | 4 | by extension, in poetry, to blaze out, shine forth (of stars)
 effervesco | 5 | to boil away, subside, die down (of anger)
 effervo | 1 | boil over
 effetus | 1 | worn out
-effetus | 3 | lit: that has just given birth or laid eggs
-effetus | 4 | transf: exhausted, spent, worked out (of soil, strength, or age)
+effetus | 3 | literally, that has just given birth or laid eggs
+effetus | 4 | by extension, exhausted, spent, worked out (of soil, strength, or age)
 efficax | 1 | effective
 efficio | 1 | accomplish
 efficio | 2 | cause
-efficio | 3 | with ut: to bring it about that...: effecit ut veniret, he brought it about that he came
-efficio | 4 | econom: to yield, produce (crops, income)
-efficio | 5 | of numbers: to amount to, add up to
-efficio | 6 | philos: to prove, demonstrate, show
-efficio | 7 | p. a. (efficiens): effective, productive; as subst.: an efficient cause
-efficio | 8 | p. a. (effectus): completed, finished; as subst. (effectum): an effect, result
+efficio | 3 | with ut, to bring it about that...: effecit ut veniret, he brought it about that he came
+efficio | 4 | in business, to yield, produce (crops, income)
+efficio | 5 | of numbers, to amount to, add up to
+efficio | 6 | in philosophy, to prove, demonstrate, show
+efficio | 7 | efficiens as an adjective, effective, productive; as a noun, an efficient cause
+efficio | 8 | effectus as an adjective, completed, finished; as a noun effectum, an effect, result
 effigies | 1 | likeness
 effigies | 3 | a statue, image (a plastic or pictorial representation)
-effigies | 4 | trop: an imitation, semblance, copy
+effigies | 4 | figuratively, an imitation, semblance, copy
 effingo | 1 | fashion
-effingo | 3 | trop: to portray, represent, express (in words or art)
+effingo | 3 | figuratively, to portray, represent, express (in words or art)
 effingo | 4 | to wipe clean, wipe off
 effingo | 5 | to stroke, rub gently
 efflagito | 1 | demand urgently
 effligo | 1 | kill
-effligo | 3 | adv (efflictim): desperately, to death (esp. with amare, to love desperately)
+effligo | 3 | as an adverb efflictim, desperately, to death (especially with amare, to love desperately)
 efflo | 1 | breathe out
 efflo | 3 | animam efflare, to breathe one's last, die
-efflo | 4 | transf, of wounds: to be deadly, let out life
+efflo | 4 | by extension, of wounds, to be deadly, let out life
 effloresco | 1 | blossom
-effloresco | 3 | trop: to flourish, spring up, come to full bloom (of talent or reputation)
+effloresco | 3 | figuratively, to flourish, spring up, come to full bloom (of talent or reputation)
 effluo | 1 | flow out
-effluo | 3 | transf: to issue forth, escape (of non-fluid things)
+effluo | 3 | by extension, to issue forth, escape (of non-fluid things)
 effluo | 4 | to vanish, disappear
-effluo | 5 | trop: to become known, leak out, get abroad
-effluo | 6 | trop: to pass away, slip by (of time)
+effluo | 5 | figuratively, to become known, leak out, get abroad
+effluo | 6 | figuratively, to pass away, slip by (of time)
 effodio | 1 | dig out
-effodio | 3 | esp: to gouge out, put out (eyes)
+effodio | 3 | especially, to gouge out, put out (eyes)
 effor | 1 | utter
-effor | 3 | of augurs: to consecrate, mark out (a sacred space)
-effor | 4 | in dialectics: to state (a proposition)
-effor | 5 | as subst. (effatum): an axiom, a dialectical proposition
+effor | 3 | of augurs, to consecrate, mark out (a sacred space)
+effor | 4 | in logic, to state (a proposition)
+effor | 5 | as a noun effatum, an axiom, a dialectical proposition
 effreno | 1 | unbridle
-effreno | 3 | p. a. (effrenatus): unbridled, without a rein (of horses)
-effreno | 4 | p. a., transf: ungoverned, unrestrained, unruly (of persons or passions)
+effreno | 3 | effrenatus as an adjective, unbridled, without a rein (of horses)
+effreno | 4 | as an adjective, by extension, ungoverned, unrestrained, unruly (of persons or passions)
 effrenus | 1 | unbridled
-effrenus | 3 | trop: unrestrained, ungoverned (of passion or people)
+effrenus | 3 | figuratively, unrestrained, ungoverned (of passion or people)
 effringo | 1 | break open
-effringo | 3 | neutr: to break out, burst forth
+effringo | 3 | intransitively, to break out, burst forth
 effugio | 1 | escape
 effugio | 2 | avoid
 effugium | 1 | flight
-effugium | 3 | concr: a means of escape, a way out
+effugium | 3 | concretely, a means of escape, a way out
 effulgeo | 1 | gleam
-effulgeo | 3 | trop: to shine forth, stand out, distinguish itself
+effulgeo | 3 | figuratively, to shine forth, stand out, distinguish itself
 effundo | 1 | pour out
 effundo | 2 | squander
-effundo | 3 | with se: to pour out, rush out in a crowd
-effundo | 4 | trop: to give vent to, pour forth freely (words, feelings)
-effundo | 5 | with se: to give oneself up to, indulge in
-effundo | 6 | to relax, loosen, give free rein (esp. habenas effundere, to slacken the reins)
-effundo | 7 | p. a. (effusus): spread out, extensive, vast
-effundo | 8 | p. a. (effusus): straggling, disorderly, scattered (of a crowd or army)
-effundo | 9 | p. a. (effusus): profuse, lavish, extravagant
+effundo | 3 | with se, to pour out, rush out in a crowd
+effundo | 4 | figuratively, to give vent to, pour forth freely (words, feelings)
+effundo | 5 | with se, to give oneself up to, indulge in
+effundo | 6 | to relax, loosen, give free rein (especially habenas effundere, to slacken the reins)
+effundo | 7 | effusus as an adjective, spread out, extensive, vast
+effundo | 8 | effusus as an adjective, straggling, disorderly, scattered (of a crowd or army)
+effundo | 9 | effusus as an adjective, profuse, lavish, extravagant
 effusio | 1 | outpouring
-effusio | 3 | transf: a rushing out, a crowd pouring forth
+effusio | 3 | by extension, a rushing out, a crowd pouring forth
 effusio | 4 | profusion, extravagance, prodigality
 effutio | 1 | blab
-effutio | 3 | absol: to let slip a secret
-effutio | 4 | absol: to talk idly, ramble
+effutio | 3 | used alone, to let slip a secret
+effutio | 4 | used alone, to talk idly, ramble
 egelidus | 1 | lukewarm
-egelidus | 3 | intens: chilly, cold (the opposite sense, context-dependent)
+egelidus | 3 | as an intensive, chilly, cold (the opposite sense, context-dependent)
 egenus | 1 | needy
-egenus | 3 | as subst. (egenus): a poor man
-egenus | 4 | as subst. (egenum): poor soil
+egenus | 3 | as a noun egenus, a poor man
+egenus | 4 | as a noun egenum, poor soil
 egeo | 1 | need
-egeo | 3 | absol: to be poor, be in want
-egeo | 4 | transf: to be without, lack (in gen.)
+egeo | 3 | used alone, to be poor, be in want
+egeo | 4 | by extension, to be without or lack in general
 egeo | 5 | to desire, wish for, long for
 egero | 1 | carry out
-egero | 3 | poet: to carry to the grave, bury
-egero | 4 | trop: to pour forth, vent, utter (feelings, complaints)
+egero | 3 | in poetry, to carry to the grave, bury
+egero | 4 | figuratively, to pour forth, vent, utter (feelings, complaints)
 egestas | 1 | poverty
 egestio | 1 | emptying
-egestio | 3 | esp: excretion, evacuation (of the bowels or bladder)
+egestio | 3 | especially, excretion, evacuation (of the bowels or bladder)
 ego | 1 | I
 ego | 3 | egomet, I myself (emphatic)
 egredior | 1 | go out
 egredior | 2 | disembark
-egredior | 3 | milit: to march out, leave (camp)
+egredior | 3 | in the army, to march out, leave (camp)
 egredior | 4 | to climb, ascend, mount
-egredior | 5 | trop, in speech: to digress, wander from the subject
-egredior | 6 | act: to leave, pass beyond (a place or boundary)
-egredior | 7 | trop: to exceed, surpass, overstep
+egredior | 5 | figuratively, in speech, to digress, wander from the subject
+egredior | 6 | transitively, to leave, pass beyond (a place or boundary)
+egredior | 7 | figuratively, to exceed, surpass, overstep
 egregius | 1 | outstanding
-egregius | 3 | of rank: distinguished, illustrious, honourable
-egregius | 4 | adv (egregie), as exclamation: well done, bravo
+egregius | 3 | of rank, distinguished, illustrious, honourable
+egregius | 4 | as an adverb egregie, as exclamation, well done, bravo
 egressio | 1 | departure
-egressio | 3 | rhet: a digression (in a speech)
+egressio | 3 | in rhetoric, a digression (in a speech)
 egressus2 | 1 | departure
-egressus2 | 3 | concr: an exit, a way out
-egressus2 | 4 | naut: a disembarking, a landing
-egressus2 | 5 | rhet: a digression (in a speech)
+egressus2 | 3 | concretely, an exit, a way out
+egressus2 | 4 | at sea, a disembarking, a landing
+egressus2 | 5 | in rhetoric, a digression (in a speech)
 eheu | 1 | alas
 eho | 1 | hey
-eho | 3 | in a vehement question: eho tu, hey you, tell me
-eho | 4 | in a command: eho, come here
+eho | 3 | in a vehement question, eho tu, hey you, tell me
+eho | 4 | in a command, eho, come here
 eia | 1 | ah
-eia | 3 | in exhortation: come on, up then (eia age)
+eia | 3 | in exhortation, come on, up then (eia age)
 eia | 4 | ironic, with vero: pshaw, indeed (expressing doubt)
 eicio | 1 | eject
 eicio | 2 | expel
-eicio | 3 | naut: to run aground, wreck (a ship)
-eicio | 4 | naut: to bring a ship to land
-eicio | 5 | trop: to banish, drive out (a feeling, a fault)
+eicio | 3 | at sea, to run aground, wreck (a ship)
+eicio | 4 | at sea, to bring a ship to land
+eicio | 5 | figuratively, to banish, drive out (a feeling, a fault)
 eicio | 6 | to reject, dismiss (disapprovingly, of an argument or theory)
 ejaculor | 1 | shoot out
 ejecto | 1 | throw up
 ejulo | 1 | wail
-ejulo | 3 | act: to bewail, lament over (a person or thing)
+ejulo | 3 | transitively, to bewail, lament over (a person or thing)
 ejuro | 1 | renounce
-ejuro | 3 | jurid: to reject on oath (a judge or court) as unfair
-ejuro | 4 | polit: to resign, abdicate (an office), swearing to have held it lawfully
-ejuro | 5 | mercant: to swear oneself insolvent
+ejuro | 3 | in law, to reject on oath (a judge or court) as unfair
+ejuro | 4 | in politics, to resign, abdicate (an office), swearing to have held it lawfully
+ejuro | 5 | in business, to swear oneself insolvent
 ejusmodi | 1 | such
-ejusmodi | 3 | as adverb: in such a manner, thus
+ejusmodi | 3 | as an adverb, in such a manner, thus
 elabor | 1 | slip away
 elabor | 2 | escape
-elabor | 3 | of joints: to be dislocated, slip out of place
-elabor | 4 | trop: to escape punishment, get off
-elabor | 5 | trop, pregn: to pass away, vanish, fade (of hope, memory, or time)
+elabor | 3 | of joints, to be dislocated, slip out of place
+elabor | 4 | figuratively, to escape punishment, get off
+elabor | 5 | figuratively, to pass away, vanish, fade (of hope, memory, or time)
 elaboro | 1 | strive
-elaboro | 3 | act: to work out, produce with care, elaborate
-elaboro | 4 | p. a. (elaboratus): laboured, elaborate (sometimes overwrought)
+elaboro | 3 | transitively, to work out, produce with care, elaborate
+elaboro | 4 | elaboratus as an adjective, laboured, elaborate (sometimes overwrought)
 elanguesco | 1 | grow faint
 elatio | 1 | elevation
 elatio | 3 | pride, arrogance, self-exaltation
 elatio | 4 | transport, passion (of joy)
-elatio | 5 | rare: a carrying out, a burial
+elatio | 5 | rarely, a carrying out, a burial
 elavo | 1 | wash out
 elavo | 3 | transf, idiom: elavari in mari, to be shipwrecked, ruined
 electio | 1 | choice
 elegans | 1 | tasteful
-elegans | 3 | ante-class., pejorative: fussy, over-nice, fastidious
+elegans | 3 | in early Latin, in a bad sense, fussy, over-nice, fastidious
 elegantia | 1 | refinement
-elegantia | 3 | ante-class., pejorative: fastidiousness, excessive nicety
+elegantia | 3 | in early Latin, in a bad sense, fastidiousness, excessive nicety
 elementum | 1 | element
-elementum | 3 | plur: the alphabet, the letters
-elementum | 4 | plur: the rudiments, first principles (of an art or subject)
-elementum | 5 | meton, plur: beginners, elementary students
+elementum | 3 | in the plural, the alphabet, the letters
+elementum | 4 | in the plural, the rudiments, first principles (of an art or subject)
+elementum | 5 | by extension, in the plural, beginners, elementary students
 elementum | 6 | the beginnings, origins (of anything)
 elephantus | 1 | elephant
-elephantus | 3 | transf: ivory
-elephantus | 4 | transf: elephantiasis (a disease)
-elephantus | 5 | transf: a kind of sea-fish
+elephantus | 3 | by extension, ivory
+elephantus | 4 | by extension, elephantiasis (a disease)
+elephantus | 5 | by extension, a kind of sea-fish
 elevatio | 1 | lifting
-elevatio | 3 | rhet: disparagement, belittling (a form of irony)
-elevatio | 4 | gram: the raised stress (of the voice), the arsis
+elevatio | 3 | in rhetoric, disparagement, belittling (a form of irony)
+elevatio | 4 | in grammar, the raised stress (of the voice), the arsis
 elevo | 1 | lift up
-elevo | 3 | trop: to lighten, ease, alleviate (grief or worry)
-elevo | 4 | trop, esp: to make light of, disparage, belittle
+elevo | 3 | figuratively, to lighten, ease, alleviate (grief or worry)
+elevo | 4 | figuratively, especially, to make light of, disparage, belittle
 elicio | 1 | draw out
-elicio | 3 | relig: to conjure up, call down (a god or spirit)
-elicio | 4 | trop: to evoke, elicit, provoke (a response or feeling)
+elicio | 3 | in religion, to conjure up, call down (a god or spirit)
+elicio | 4 | figuratively, to evoke, elicit, provoke (a response or feeling)
 elido | 1 | force out
 elido | 2 | shatter
-elido | 3 | trop: to destroy, crush, break down (courage, an agreement)
+elido | 3 | figuratively, to destroy, crush, break down (courage, an agreement)
 eligo | 1 | choose
-eligo | 3 | p. a. (electus): select, choice, excellent
-eligo | 4 | eccl: chosen by God, elect (destined for salvation)
+eligo | 3 | electus as an adjective, select, choice, excellent
+eligo | 4 | in Christian Latin, chosen by God, elect (destined for salvation)
 elimino | 1 | expel
-elimino | 3 | trop: to blab, let slip (a secret)
+elimino | 3 | figuratively, to blab, let slip (a secret)
 elimo | 1 | polish
 elimo | 3 | to perfect, refine, finish (a piece of writing)
 elimo | 4 | to lessen, diminish (strength)
 elinguis | 1 | tongueless
-elinguis | 3 | transf: speechless, mute
-elinguis | 4 | pregn: inarticulate, lacking eloquence
+elinguis | 3 | by extension, speechless, mute
+elinguis | 4 | inarticulate, lacking eloquence
 eliquo | 1 | strain
-eliquo | 3 | trop: to sift, examine thoroughly
-eliquo | 4 | trop: to drawl, recite without energy
+eliquo | 3 | figuratively, to sift, examine thoroughly
+eliquo | 4 | figuratively, to drawl, recite without energy
 elixus | 1 | boiled
-elixus | 3 | transf: soaked, drenched, wet through
+elixus | 3 | by extension, soaked, drenched, wet through
 elocutio | 1 | utterance
-elocutio | 3 | rhet: style, delivery (of a speech)
+elocutio | 3 | in rhetoric, style, delivery (of a speech)
 elogium | 1 | saying
 elogium | 3 | an epitaph, a tombstone inscription
-elogium | 4 | legal: a clause in a will (esp. one disinheriting an heir)
-elogium | 5 | legal: a judicial record (of a criminal charge or sentence)
+elogium | 4 | in law, a clause in a will (especially one disinheriting an heir)
+elogium | 5 | in law, a judicial record (of a criminal charge or sentence)
 elongo | 1 | remove
 elongo | 3 | to prolong, protract (time)
-elongo | 4 | neutr: to withdraw, depart
+elongo | 4 | intransitively, to withdraw, depart
 eloquium | 1 | eloquence
-eloquium | 3 | late: a declaration, a saying, an utterance
+eloquium | 3 | in later Latin, a declaration, a saying, an utterance
 eloquor | 1 | declare
-eloquor | 3 | absol: to speak eloquently, in an oratorical style
-eloquor | 4 | p. a. (eloquens): eloquent, fluent
+eloquor | 3 | used alone, to speak eloquently, in an oratorical style
+eloquor | 4 | eloquens as an adjective, eloquent, fluent
 eluceo | 1 | shine out
-eluceo | 3 | trop: to show itself, be evident, be apparent (of talent or character)
+eluceo | 3 | figuratively, to show itself, be evident, be apparent (of talent or character)
 eluctor | 1 | struggle out
-eluctor | 3 | act: to overcome, surmount (a difficulty)
+eluctor | 3 | transitively, to overcome, surmount (a difficulty)
 eludo | 1 | elude
 eludo | 2 | mock
 eludo | 3 | to deceive, cheat, frustrate
 eludo | 4 | gladiatorial: to parry, dodge (a blow)
 elugeo | 1 | mourn
 elumbis | 1 | hip-shot
-elumbis | 3 | trop, of style: feeble, enervated, nerveless
+elumbis | 3 | figuratively, of style, feeble, enervated, nerveless
 eluo | 1 | wash out
-eluo | 3 | transf: to squander, get rid of (property)
-eluo | 4 | trop: to wash away, clear, remove (guilt, a stain)
-eluo | 5 | trop: to purify, cleanse (the mind)
+eluo | 3 | by extension, to squander, get rid of (property)
+eluo | 4 | figuratively, to wash away, clear, remove (guilt, a stain)
+eluo | 5 | figuratively, to purify, cleanse (the mind)
 eluvies | 1 | discharge
 eluvies | 3 | an overflow, a flood, an inundation
-eluvies | 4 | meton: a ravine, a chasm (cut by flooding)
-eluvies | 5 | trop: a ruinous flood, a corrupting torrent (of a state's morals)
+eluvies | 4 | by extension, a ravine, a chasm (cut by flooding)
+eluvies | 5 | figuratively, a ruinous flood, a corrupting torrent (of a state's morals)
 emancipatio | 1 | emancipation
-emancipatio | 3 | transf: a formal surrender, a conveyance (of property)
+emancipatio | 3 | by extension, a formal surrender, a conveyance (of property)
 emancipo | 1 | emancipate
 emancipo | 3 | to hand over, give up (from one's power into another's)
-emancipo | 4 | transf: to surrender, sell, give up entirely
+emancipo | 4 | by extension, to surrender, sell, give up entirely
 emano | 1 | flow out
-emano | 3 | trop: to arise from, spring from, originate
-emano | 4 | trop, esp: to become known, spread abroad, leak out (of news)
+emano | 3 | figuratively, to arise from, spring from, originate
+emano | 4 | figuratively, especially, to become known, spread abroad, leak out (of news)
 emarcesco | 1 | wither
-emarcesco | 3 | trop: to dwindle away, fade, disappear (of authority or hope)
+emarcesco | 3 | figuratively, to dwindle away, fade, disappear (of authority or hope)
 emendo | 1 | correct
-emendo | 3 | post-class: to chastise, punish (as correction)
+emendo | 3 | in later Latin, to chastise, punish (as correction)
 ementior | 1 | fabricate
 emercor | 1 | bribe
 emercor | 3 | to buy up, purchase completely
 emereo | 1 | earn
 emereo | 3 | to gain the favour of, deserve well of (someone)
-emereo | 4 | milit: to serve out, complete (one's term of service)
+emereo | 4 | in the army, to serve out, complete (one's term of service)
 emergo | 1 | emerge
-emergo | 3 | trop: to extricate oneself, get clear (of trouble or disgrace)
-emergo | 4 | of plants: to spring up, come forth
+emergo | 3 | figuratively, to extricate oneself, get clear (of trouble or disgrace)
+emergo | 4 | of plants, to spring up, come forth
 emeticus | 1 | emetic
 emetior | 1 | measure out
-emetior | 3 | transf: to pass through, traverse (a distance or journey)
-emetior | 4 | transf: to impart, bestow, give out
+emetior | 3 | by extension, to pass through, traverse (a distance or journey)
+emetior | 4 | by extension, to impart, bestow, give out
 emico | 1 | spring forth
-emico | 3 | trop: to stand out, become conspicuous, catch attention
+emico | 3 | figuratively, to stand out, become conspicuous, catch attention
 emigro | 1 | emigrate
-emigro | 3 | act, rare: to remove, take away
+emigro | 3 | transitively, rarely, to remove, take away
 eminentia | 1 | prominence
 eminentia | 3 | painting: the highlights, the light parts (of a picture)
-eminentia | 4 | trop: excellence, distinction
+eminentia | 4 | figuratively, excellence, distinction
 emineo | 1 | project
-emineo | 3 | trop: to stand out, be conspicuous
-emineo | 4 | trop, esp: to excel, distinguish oneself (through talent or virtue)
+emineo | 3 | figuratively, to stand out, be conspicuous
+emineo | 4 | figuratively, especially, to excel, distinguish oneself (through talent or virtue)
 eminus | 1 | afar
-eminus | 3 | milit: at a distance, with missiles (not hand-to-hand), opp. comminus
+eminus | 3 | in the army, at a distance, with missiles (not hand-to-hand), as against comminus
 emissarius | 1 | spy
-emissarius | 3 | eccl: an attendant, a guard
-emissarius | 4 | eccl: the scapegoat (caper emissarius)
-emissarius | 5 | botany: a shoot, a young branch
+emissarius | 3 | in Christian Latin, an attendant, a guard
+emissarius | 4 | in Christian Latin, the scapegoat (caper emissarius)
+emissarius | 5 | in botany, a shoot, a young branch
 emissio | 1 | release
-emissio | 3 | meton: the power of hurling, projecting (missiles)
+emissio | 3 | by extension, the power of hurling, projecting (missiles)
 emitto | 1 | send out
-emitto | 3 | esp: manu emittere, to set free, emancipate (a slave)
-emitto | 4 | trop: to let slip, let go (from one's control)
+emitto | 3 | especially, manu emittere, to set free, emancipate (a slave)
+emitto | 4 | figuratively, to let slip, let go (from one's control)
 emo | 1 | buy
-emo | 3 | trop: to buy off, bribe, procure (through payment)
+emo | 3 | figuratively, to buy off, bribe, procure (through payment)
 emolior | 1 | dislodge
 emollio | 1 | soften
-emollio | 3 | trop: to mollify, calm, make gentle
-emollio | 4 | trop, pejorative: to enervate, weaken, make soft (an army or a people)
+emollio | 3 | figuratively, to mollify, calm, make gentle
+emollio | 4 | figuratively, in a bad sense, to enervate, weaken, make soft (an army or a people)
 emolumentum | 1 | benefit
-emolumentum | 3 | rare: effort, exertion, labour
-emolumentum | 4 | concr, rare: a work, a structure
+emolumentum | 3 | rarely, effort, exertion, labour
+emolumentum | 4 | concretely, rarely, a work, a structure
 emorior | 1 | die
-emorior | 3 | transf: to die out, go out (of fire), wither (of plants)
-emorior | 4 | trop: to perish, pass away, cease (of fame, hope, or love)
+emorior | 3 | by extension, to die out, go out (of fire), wither (of plants)
+emorior | 4 | figuratively, to perish, pass away, cease (of fame, hope, or love)
 emoveo | 1 | remove
-emoveo | 3 | trop: to drive away, banish, expel (fear, cares)
+emoveo | 3 | figuratively, to drive away, banish, expel (fear, cares)
 emptio | 1 | purchase
-emptio | 3 | transf: a thing purchased, an acquisition
-emptio | 4 | legal: a bill of sale, a deed of purchase
+emptio | 3 | by extension, a thing purchased, an acquisition
+emptio | 4 | in law, a bill of sale, a deed of purchase
 emptor | 1 | buyer
 emundo | 1 | cleanse
-emundo | 3 | eccl: to purify from sin
+emundo | 3 | in Christian Latin, to purify from sin
 emungo | 1 | wipe
 emungo | 3 | idiom (naris emunctae): keen, discerning, of nice judgement
-emungo | 4 | comic: to cheat, fleece (someone of money)
+emungo | 4 | in comedy, to cheat, fleece (someone of money)
 emunio | 1 | fortify
-emunio | 3 | transf: to strengthen, make secure, reinforce
-emunio | 4 | transf: to clear, make passable (a road, a forest)
+emunio | 3 | by extension, to strengthen, make secure, reinforce
+emunio | 4 | by extension, to clear, make passable (a road, a forest)
 en | 1 | behold
-en | 3 | with an imperative, as encouragement: come, here
+en | 3 | with an imperative, as encouragement, come, here
 enarratio | 1 | exposition
-enarratio | 3 | esp: the scanning of a verse (in metre)
+enarratio | 3 | especially, the scanning of a verse (in metre)
 enarro | 1 | expound
 enascor | 1 | sprout
 enato | 1 | swim away
-enato | 3 | trop: to extricate oneself, get off, escape (from a difficulty)
+enato | 3 | figuratively, to extricate oneself, get off, escape (from a difficulty)
 enavigo | 1 | sail away
-enavigo | 3 | act: to sail across, traverse by sea
-enavigo | 4 | trop: to escape, get clear (of a difficulty)
+enavigo | 3 | transitively, to sail across, traverse by sea
+enavigo | 4 | figuratively, to escape, get clear (of a difficulty)
 eneco | 1 | kill
-eneco | 3 | transf: to exhaust utterly, wear out, wear down
-eneco | 4 | colloq: to torment, plague, pester to death
+eneco | 3 | by extension, to exhaust utterly, wear out, wear down
+eneco | 4 | in everyday speech, to torment, plague, pester to death
 enervis | 1 | feeble
 enervo | 1 | weaken
-enervo | 3 | lit, rare: to cut the sinews, hamstring
+enervo | 3 | literally, rarely, to cut the sinews, hamstring
 enim | 1 | for
 enim | 3 | corroborative: indeed, in fact, truly
 enim | 4 | explanatory: for instance, namely
 eniteo | 1 | shine
-eniteo | 3 | trop: to be eminent, distinguished, outstanding
+eniteo | 3 | figuratively, to be eminent, distinguished, outstanding
 enitesco | 1 | brighten
-enitesco | 3 | trop: to become distinguished, come to prominence
+enitesco | 3 | figuratively, to become distinguished, come to prominence
 enitor | 1 | strive
 enitor | 2 | climb
 enitor | 3 | to give birth to, bear (children)
-enitor | 4 | p. a. (enixus): strenuous, earnest, zealous
-enitor | 5 | adv (enixe): earnestly, zealously
+enitor | 4 | enixus as an adjective, strenuous, earnest, zealous
+enitor | 5 | as an adverb enixe, earnestly, zealously
 eno | 1 | swim away
-eno | 3 | poet, transf: to fly out, fly away
-eno | 4 | act: to traverse by swimming, cross (a strait)
+eno | 3 | in poetry, by extension, to fly out, fly away
+eno | 4 | transitively, to traverse by swimming, cross (a strait)
 enodis | 1 | knotless
-enodis | 3 | trop, of speech: clear, plain, straightforward
+enodis | 3 | figuratively, of speech, clear, plain, straightforward
 enodo | 1 | unknot
-enodo | 3 | trop, of speech: to explain, elucidate, make plain
+enodo | 3 | figuratively, of speech, to explain, elucidate, make plain
 enormis | 1 | huge
 enormis | 3 | irregular, unusual, out of the ordinary
 enoto | 1 | note down
 ensis | 1 | sword
-ensis | 3 | meton, poet: war, slaughter
-ensis | 4 | meton: royal power, sovereignty
+ensis | 3 | by extension, in poetry, war, slaughter
+ensis | 4 | by extension, royal power, sovereignty
 ensis | 5 | astron: the constellation Orion
 enucleo | 1 | shell
-enucleo | 3 | trop: to explain clearly, elucidate
-enucleo | 4 | p. a. (enucleatus): pure, unadulterated, genuine
-enucleo | 5 | p. a., of speech: plain, unadorned
+enucleo | 3 | figuratively, to explain clearly, elucidate
+enucleo | 4 | enucleatus as an adjective, pure, unadulterated, genuine
+enucleo | 5 | as an adjective, of speech, plain, unadorned
 enumeratio | 1 | enumeration
-enumeratio | 3 | rhet: a recapitulation, a summing-up (of a speech)
+enumeratio | 3 | in rhetoric, a recapitulation, a summing-up (of a speech)
 enumero | 1 | count up
-enumero | 3 | in speaking: to enumerate, recount, list out
+enumero | 3 | in speaking, to enumerate, recount, list out
 enuntio | 1 | disclose
-enuntio | 3 | transf: to express, state, declare
-enuntio | 4 | gram: to pronounce, utter (a sound)
+enuntio | 3 | by extension, to express, state, declare
+enuntio | 4 | in grammar, to pronounce, utter (a sound)
 enutrio | 1 | nurture
-enutrio | 3 | trop: to foster, promote, cultivate (talent, an institution)
+enutrio | 3 | figuratively, to foster, promote, cultivate (talent, an institution)
 eo1 | 1 | go
-eo1 | 3 | milit: to march against, advance on (with hostile intent)
-eo1 | 4 | polit: ire in sententiam, to vote for, accede to (an opinion)
-eo1 | 5 | mercant: to sell for, fetch (a price)
-eo1 | 6 | of time: to pass, go by
+eo1 | 3 | in the army, to march against, advance on (with hostile intent)
+eo1 | 4 | in politics, ire in sententiam, to vote for, accede to (an opinion)
+eo1 | 5 | in business, to sell for, fetch (a price)
+eo1 | 6 | of time, to pass, go by
 eo1 | 7 | to turn out, happen, result
-eo1 | 8 | with a supine: to be about to, set about to (do something)
+eo1 | 8 | with a supine, to be about to, set about to (do something)
 eo2 | 1 | there
 eo2 | 2 | therefore
 eo2 | 3 | of motion, to that place, thither
-eo2 | 4 | rare, of place where: there, in that place
+eo2 | 4 | rarely, of place where, there, in that place
 eo2 | 5 | to that end, for that purpose
 eo2 | 6 | to that degree, so far (with comparatives)
 eo2 | 7 | besides, in addition to that
 # review: eodem is the old dat/abl of idem used adverbially; no single word covers "to that same place"
 eodem | 1 | to the same place
-eodem | 3 | of place where (rare): in the same place
-eodem | 4 | transf: to the same point, purpose, or person
+eodem | 3 | of place where (rare), in the same place
+eodem | 4 | by extension, to the same point, purpose, or person
 epistularis | 1 | epistolary
-epistularis | 3 | as subst. (epistulares): state secretaries, letter-officials
+epistularis | 3 | as a noun epistulares, state secretaries, letter-officials
 epoto | 1 | drink up
 epularis | 1 | convivial
 epulo1 | 1 | feaster
-epulo1 | 3 | relig: an Epulo, a member of the priestly college in charge of sacred banquets
+epulo1 | 3 | in religion, an Epulo, a member of the priestly college in charge of sacred banquets
 epulor | 1 | feast
-epulor | 3 | act: to eat, feast upon, devour
+epulor | 3 | transitively, to eat, feast upon, devour
 epulum | 1 | banquet
-epulum | 3 | trop: a feast, delight (for the eyes or mind)
+epulum | 3 | figuratively, a feast, delight (for the eyes or mind)
 equa | 1 | mare
 eques | 1 | horseman
 eques | 2 | knight
-eques | 3 | milit: a cavalryman, trooper (opp. foot-soldier)
+eques | 3 | in the army, a cavalryman, trooper (as against foot-soldier)
 eques | 4 | collect: cavalry, horse-soldiers
 eques | 5 | the equestrian order (the Roman social class between senators and plebs)
 equester | 1 | equestrian
-equester | 3 | milit: of cavalry, cavalry- (proelium equestre, a cavalry battle)
+equester | 3 | in the army, of cavalry, cavalry- (proelium equestre, a cavalry battle)
 equester | 4 | of the equestrian order, of knightly rank
-equester | 5 | as subst. (equestria): the knights' seats in the theatre
+equester | 5 | as a noun equestria, the knights' seats in the theatre
 equidem | 1 | indeed
 equidem | 3 | concessive: certainly, to be sure, by all means
-equidem | 4 | with pregn. ref. to speaker: for my part, as far as I'm concerned
+equidem | 4 | with stress on the speaker, for my part, as far as I'm concerned
 equinus | 1 | equine
 equitatus1 | 1 | cavalry
-equitatus1 | 3 | abstr, rare: riding, horsemanship
-equitatus1 | 4 | rare: the equestrian order
+equitatus1 | 3 | abstractly, rarely, riding, horsemanship
+equitatus1 | 4 | rarely, the equestrian order
 equito | 1 | ride
-equito | 3 | transf: to skirmish, manoeuvre (on horseback)
-equito | 4 | poet, of wind: to blow violently, rush
+equito | 3 | by extension, to skirmish, manoeuvre (on horseback)
+equito | 4 | in poetry, of wind, to blow violently, rush
 equuleus | 1 | colt
 equuleus | 3 | a rack (an instrument of torture shaped like a horse)
 equus | 1 | horse
 equus | 3 | idiom (equis virisque): with horse and foot, with might and main
-equus | 4 | meton: a battering-ram
-equus | 5 | meton: the constellation Pegasus
-equus | 6 | meton, poet: a ship (equus ligneus)
+equus | 4 | by extension, a battering-ram
+equus | 5 | by extension, the constellation Pegasus
+equus | 6 | by extension, in poetry, a ship (equus ligneus)
 era | 1 | mistress
-era | 3 | of goddesses: a divine mistress, a patroness
-era | 4 | poet: a sweetheart, a lady-love
+era | 3 | of goddesses, a divine mistress, a patroness
+era | 4 | in poetry, a sweetheart, a lady-love
 eradico | 1 | uproot
-eradico | 3 | transf: to destroy utterly, wipe out (a person)
-eradico | 4 | trop: to wear out, pester (with talk)
+eradico | 3 | by extension, to destroy utterly, wipe out (a person)
+eradico | 4 | figuratively, to wear out, pester (with talk)
 erado | 1 | scrape off
-erado | 3 | esp: to strike off, erase (a name from a list)
-erado | 4 | trop: to abolish, root out, remove entirely
+erado | 3 | especially, to strike off, erase (a name from a list)
+erado | 4 | figuratively, to abolish, root out, remove entirely
 erepo | 1 | crawl out
 erepo | 3 | to climb, clamber up
-erepo | 4 | trop: to emerge slowly, work one's way out (of poverty)
+erepo | 4 | figuratively, to emerge slowly, work one's way out (of poverty)
 erga | 1 | towards
-erga | 3 | lit, rare: opposite, over against (of place)
-erga | 4 | of unfriendly feelings: against
+erga | 3 | literally, rarely, opposite, over against (of place)
+erga | 4 | of unfriendly feelings, against
 ergastulum | 1 | workhouse
-ergastulum | 3 | transf, plur: the convicts, inmates of a workhouse
+ergastulum | 3 | by extension, in the plural, the convicts, inmates of a workhouse
 ergo | 1 | therefore
 ergo | 3 | archaic, with gen: on account of, for the sake of
-ergo | 4 | in resuming a thought: as I was saying, well then
+ergo | 4 | in resuming a thought, as I was saying, well then
 ericius | 1 | hedgehog
-ericius | 3 | milit, transf: a spiked barricade, a chevaux-de-frise
+ericius | 3 | in the army, by extension, a spiked barricade, a chevaux-de-frise
 erigo | 1 | raise up
 erigo | 2 | encourage
 erigo | 3 | to build, construct, erect (a building)
-erigo | 4 | trop: to arouse, excite (attention)
-erigo | 5 | p. a. (erectus): upright, erect (in posture)
-erigo | 6 | p. a., trop: elevated, lofty, noble
-erigo | 7 | p. a., trop: attentive, intent, on the stretch
-erigo | 8 | p. a., pejorative: haughty, arrogant
+erigo | 4 | figuratively, to arouse, excite (attention)
+erigo | 5 | erectus as an adjective, upright, erect (in posture)
+erigo | 6 | as an adjective, figuratively, elevated, lofty, noble
+erigo | 7 | as an adjective, figuratively, attentive, intent, on the stretch
+erigo | 8 | as an adjective, in a bad sense, haughty, arrogant
 erilis | 1 | master's
-erilis | 3 | of the master or mistress of the house (poet., esp. in Plautus)
+erilis | 3 | of the master or mistress of the house (in poetry, especially in Plautus)
 eripio | 1 | snatch away
-eripio | 3 | with se: to escape, flee, tear oneself free
-eripio | 4 | pregn: eripi, to be snatched away by death, die suddenly
-eripio | 5 | trop: to take away, deprive of (rights, speech)
+eripio | 3 | with se, to escape, flee, tear oneself free
+eripio | 4 | eripi, to be snatched away by death, die suddenly
+eripio | 5 | figuratively, to take away, deprive of (rights, speech)
 erodo | 1 | gnaw away
-erodo | 3 | transf: to corrode, eat away (metal, wood)
-erodo | 4 | medic: to act as a caustic, an erosive remedy
+erodo | 3 | by extension, to corrode, eat away (metal, wood)
+erodo | 4 | in medicine, to act as a caustic, an erosive remedy
 erogatio | 1 | disbursement
-erogatio | 3 | legal: a repeal, an abrogation (of a law)
+erogatio | 3 | in law, a repeal, an abrogation (of a law)
 erogo | 1 | disburse
-erogo | 3 | eccl., trop: to expose to death, destroy
-erogo | 4 | rare: to prevail on by entreaty
+erogo | 3 | in Christian Latin, figuratively, to expose to death, destroy
+erogo | 4 | rarely, to prevail on by entreaty
 errabundus | 1 | wandering
 erraticus | 1 | roving
-erraticus | 3 | botany: wild, growing untended
+erraticus | 3 | in botany, wild, growing untended
 erro1 | 1 | wander
 erro1 | 2 | err
-erro1 | 3 | act, poet: to wander over, roam through (a place)
-erro1 | 4 | as subst. (erratum): a mistake, an error
+erro1 | 3 | transitively, in poetry, to wander over, roam through (a place)
+erro1 | 4 | as a noun erratum, a mistake, an error
 erro2 | 1 | vagabond
-erro2 | 3 | esp: a runaway slave
+erro2 | 3 | especially, a runaway slave
 error | 1 | wandering
-error | 3 | trop: uncertainty, wavering, indecision
-error | 4 | trop: a mistake, a delusion, a misconception
-error | 5 | esp: a solecism, an error in language
+error | 3 | figuratively, uncertainty, wavering, indecision
+error | 4 | figuratively, a mistake, a delusion, a misconception
+error | 5 | especially, a solecism, an error in language
 erubesco | 1 | blush
-erubesco | 3 | act: to feel shame at, be ashamed of, respect (something)
+erubesco | 3 | transitively, to feel shame at, be ashamed of, respect (something)
 eruca | 1 | caterpillar
-eruca | 3 | botany: rocket (a pungent cole-wort, Brassica eruca)
+eruca | 3 | in botany, rocket (a pungent cole-wort, Brassica eruca)
 eructo | 1 | belch
-eructo | 3 | trop: to blurt out, blab (esp. while drunk)
+eructo | 3 | figuratively, to blurt out, blab (especially while drunk)
 eructo | 4 | gen: to emit, exhale, cast forth
 erudio | 1 | educate
-erudio | 3 | transf: to train, cultivate, develop (a skill or an art)
-erudio | 4 | p. a. (eruditus): learned, cultivated, refined
+erudio | 3 | by extension, to train, cultivate, develop (a skill or an art)
+erudio | 4 | eruditus as an adjective, learned, cultivated, refined
 eruditio | 1 | erudition
-eruditio | 3 | rare: instruction, teaching (the act itself)
+eruditio | 3 | rarely, instruction, teaching (the act itself)
 erumpo | 1 | burst forth
-erumpo | 3 | milit: to break out, sally forth (from a besieged position)
-erumpo | 4 | trop: to vent, unleash (anger or emotion) on someone
-erumpo | 5 | of plants: to sprout, shoot up
-erumpo | 6 | trop: to come to light, be disclosed
+erumpo | 3 | in the army, to break out, sally forth (from a besieged position)
+erumpo | 4 | figuratively, to vent, unleash (anger or emotion) on someone
+erumpo | 5 | of plants, to sprout, shoot up
+erumpo | 6 | figuratively, to come to light, be disclosed
 eruo | 1 | dig out
-eruo | 3 | trop: to elicit, draw out (information, an idea)
-eruo | 4 | trop: to overthrow, destroy (a city or state)
-eruo | 5 | trop, rare: to rescue, extricate
+eruo | 3 | figuratively, to elicit, draw out (information, an idea)
+eruo | 4 | figuratively, to overthrow, destroy (a city or state)
+eruo | 5 | figuratively, rarely, to rescue, extricate
 eruptio | 1 | outbreak
-eruptio | 3 | milit: a sally, a sortie (from a besieged place)
-eruptio | 4 | medic: an eruption, a breaking out (of a rash or sore)
-eruptio | 5 | of a volcano: an eruption
+eruptio | 3 | in the army, a sally, a sortie (from a besieged place)
+eruptio | 4 | in medicine, an eruption, a breaking out (of a rash or sore)
+eruptio | 5 | of a volcano, an eruption
 erus | 1 | master
-erus | 3 | poet: an owner, a lord (of property)
-erus | 4 | poet, plur.: the gods (as lords, eri)
+erus | 3 | in poetry, an owner, a lord (of property)
+erus | 4 | in poetry, in the plural, the gods (as lords, eri)
 esca | 1 | food
 esca | 3 | bait (for catching animals)
-esca | 4 | trop: a lure, an enticement (esp. to vice)
+esca | 4 | figuratively, a lure, an enticement (especially to vice)
 escarius | 1 | culinary
-escarius | 3 | of bait: for fishing, angling
+escarius | 3 | of bait, for fishing, angling
 escendo | 1 | climb up
-escendo | 3 | act: to mount, ascend (a chariot, a platform)
-escendo | 4 | trop: to rise (to a level), reach a height
+escendo | 3 | transitively, to mount, ascend (a chariot, a platform)
+escendo | 4 | figuratively, to rise (to a level), reach a height
 escensio | 1 | ascent
-escensio | 3 | esp: a disembarkation, a landing (from ships)
+escensio | 3 | especially, a disembarkation, a landing (from ships)
 esculentus | 1 | edible
 essedarius | 1 | chariot-fighter
-essedarius | 3 | of a chariot: relating to a war-chariot
-essedarius | 4 | in the circus: a chariot-gladiator
+essedarius | 3 | of a chariot, relating to a war-chariot
+essedarius | 4 | in the circus, a chariot-gladiator
 essentia | 1 | essence
 esurio1 | 1 | hunger
-esurio1 | 3 | trop: to crave, hunger for (riches)
+esurio1 | 3 | figuratively, to crave, hunger for (riches)
 et | 1 | and
-et | 3 | after aeque, idem, par, etc.: as, than
+et | 3 | after aeque, idem or par, as, than
 et | 4 | et ... et: both ... and
 etenim | 1 | for
 etiam | 1 | also
 etiam | 2 | still
-etiam | 3 | as affirmative: yes, certainly, granted
+etiam | 3 | as affirmative, yes, certainly, granted
 etiam | 4 | to add emphasis: even, nay
 etiam | 5 | idiom (etiam atque etiam): again and again, repeatedly
 etiamdum | 1 | still
 etiamnum | 1 | still
-etiamnum | 3 | of past time: till then, up to that point
+etiamnum | 3 | of past time, till then, up to that point
 etiamnum | 4 | post-Aug: also, besides, moreover
 etiamsi | 1 | although
 etiamtum | 1 | still
 etsi | 1 | although
-etsi | 3 | transf: and yet, however (restricting a previous statement)
+etsi | 3 | by extension, and yet, however (restricting a previous statement)
 euripus | 1 | strait
-euripus | 3 | transf: a canal, a conduit, an aqueduct
-euripus | 4 | in partic: the trench around the Roman circus
+euripus | 3 | by extension, a canal, a conduit, an aqueduct
+euripus | 4 | in particular, the trench around the Roman circus
 evacuo | 1 | empty
-evacuo | 3 | trop: to make void, cancel, annul (an obligation)
+evacuo | 3 | figuratively, to make void, cancel, annul (an obligation)
 evado | 1 | escape
 evado | 2 | turn out
 evado | 3 | act: to pass beyond, get over (an obstacle or distance)
@@ -662,8 +662,8 @@ evello | 3 | trop: to root out, eradicate, erase (a memory or fear)
 evenio | 1 | happen
 evenio | 3 | lit, rare: to come forth, spring up, grow
 evenio | 4 | to turn out, result, end up (in some way)
-evenio | 5 | as subst. (eventum): an occurrence, an event
-evenio | 6 | as subst. (eventus): the outcome, result, consequence
+evenio | 5 | as a noun eventum, an occurrence, an event
+evenio | 6 | as a noun eventus, the outcome, result, consequence
 eventilo | 1 | fan
 eventilo | 3 | to winnow (grain)
 eventilo | 4 | trop: to scatter, dissipate (wealth)
@@ -822,7 +822,7 @@ excello | 1 | excel
 excello | 3 | p. a. (excellens): distinguished, superior, outstanding
 excello | 4 | p. a. (excelsus): elevated, lofty, high
 excello | 5 | p. a. (excelsus), trop: noble, distinguished, high-minded
-excello | 6 | as subst. (excelsum): a height, an elevated place
+excello | 6 | as a noun excelsum, a height, an elevated place
 exceptio | 1 | exception
 exceptio | 3 | jurid: a defendant's formal plea, an exception (to a claim)
 excepto | 1 | catch
@@ -974,8 +974,8 @@ exigo | 6 | to determine, ascertain, find out
 exigo | 7 | p. a. (exactus): precise, accurate, exact
 exiguitas | 1 | scantiness
 exiguus | 1 | scanty
-exiguus | 3 | as subst. (exiguum): a small amount, a trifle
-exiguus | 4 | as subst. (exiguus): a poor man
+exiguus | 3 | as a noun exiguum, a small amount, a trifle
+exiguus | 4 | as a noun exiguus, a poor man
 exiguus | 5 | adv (exigue): sparingly, scantily, briefly
 exilis | 1 | thin
 exilis | 3 | transf, of style: dry, meagre, inadequate
@@ -1028,7 +1028,7 @@ exordium | 3 | rhet: the introduction, the opening (of a speech)
 exordium | 4 | rare, lit: the warp of a web
 exorior | 1 | rise
 exorior | 2 | arise
-exorior | 3 | as subst. (exoriens): the east, the point of sunrise
+exorior | 3 | as a noun exoriens, the east, the point of sunrise
 exorior | 4 | trop: to spring up, break out, originate
 exornatio | 1 | embellishment
 exornatio | 3 | rhet: a figure of speech, a rhetorical ornament
@@ -1067,7 +1067,7 @@ expello | 3 | trop: to banish, remove, drive away (a vice or fear)
 expendo | 1 | pay out
 expendo | 2 | ponder
 expendo | 3 | to suffer, undergo (a penalty or punishment)
-expendo | 4 | as subst. (expensum): a payment, an expenditure
+expendo | 4 | as a noun expensum, a payment, an expenditure
 expergefacio | 1 | awaken
 expergefacio | 3 | transf: to stir up, arouse, excite
 expergiscor | 1 | awaken
@@ -1329,11 +1329,11 @@ extenuo | 1 | thin
 extenuo | 3 | medic: to alleviate, reduce (a disease or symptom)
 extenuo | 4 | trop: to diminish, lessen, downplay (an achievement)
 exter | 1 | foreign
-exter | 3 | comp. (exterior): outer, exterior
-exter | 4 | sup. (extremus): outermost, last, final
-exter | 5 | sup. (extremus), trop: the utmost, greatest, highest degree
-exter | 6 | sup. (extremus), pejor: the lowest, meanest, most wretched
-exter | 7 | sup. (extimus): the outermost, farthest, most remote
+exter | 3 | the comparative exterior, outer, exterior
+exter | 4 | the superlative extremus, outermost, last, final
+exter | 5 | extremus figuratively, the utmost, greatest, highest degree
+exter | 6 | extremus in a bad sense, the lowest, meanest, most wretched
+exter | 7 | the superlative extimus, the outermost, farthest, most remote
 extergeo | 1 | wipe
 extergeo | 3 | transf: to strip clean, plunder entirely
 extermino | 1 | expel
@@ -1354,20 +1354,20 @@ extorqueo | 2 | extort
 extorqueo | 3 | of limbs: to dislocate, put out of joint
 extorris | 1 | banished
 extra | 1 | outside
-extra | 3 | with acc.: outside of, beyond (a place)
+extra | 3 | with an accusative, outside of, beyond (a place)
 extra | 4 | idiom (extra quam): except, unless (in conditional clauses)
-extra | 5 | with acc.: except, excepting (a person)
+extra | 5 | with an accusative, except, excepting (a person)
 extra | 6 | besides, in addition to
 extraho | 1 | draw out
 extraho | 2 | protract
 extraho | 3 | medic: to extract (a tooth)
 extraho | 4 | trop: to extricate, rescue (from danger)
 extraneus | 1 | external
-extraneus | 3 | as subst.: a stranger, an outsider
+extraneus | 3 | as a noun, a stranger, an outsider
 extraneus | 4 | legal: unrelated by blood (of an heir)
 extraordinarius | 1 | extraordinary
 extrarius | 1 | external
-extrarius | 3 | as subst.: a stranger, an outsider (unrelated by family)
+extrarius | 3 | as a noun, a stranger, an outsider (unrelated by family)
 extremitas | 1 | extremity
 extrico | 1 | disentangle
 extrico | 3 | transf: to clear (land for farming)
