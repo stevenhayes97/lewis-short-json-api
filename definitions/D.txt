@@ -455,7 +455,7 @@ demens | 1 | insane
 demens | 3 | by extension, wild, frenzied (of things: demens discordia, frenzied strife)
 dementia | 1 | insanity
 dementio | 1 | rave
-demento | 1 | craze
+demento | 1 | madden
 demento | 3 | to bewitch, delude
 demento | 4 | intransitively, to rave, to be out of one's mind
 demereo | 1 | deserve
@@ -482,8 +482,8 @@ demissio | 4 | in medicine, abatement, mitigation of a disease
 demitto | 1 | lower
 demitto | 3 | in the army, to lead troops down to lower ground
 demitto | 4 | figuratively, to cast down the eyes or head, to be downcast
-demitto | 5 | of a place, low-lying, sunken
-demitto | 6 | of lineage, descended, derived (demissum genus ab Aenea, a line descended from Aeneas)
+demitto | 5 | demissus as an adjective, of a place, low-lying, sunken
+demitto | 6 | demissus, of lineage, descended, derived (demissum genus ab Aenea, a line descended from Aeneas)
 demo | 1 | remove
 demolior | 1 | demolish
 demonstratio | 1 | demonstration
@@ -506,8 +506,9 @@ demum | 3 | after pronouns or adverbs, for emphasis, precisely, just: id demum, 
 demum | 4 | tum demum, nunc demum, only then, not until then
 demuto | 1 | alter
 demuto | 3 | intransitively, to change one's mind
-denarius | 1 | of ten
-denarius | 3 | as a noun (denarius), a Roman silver coin, originally worth ten asses
+denarius | 1 | denarius
+denarius | 3 | a Roman silver coin, originally worth ten asses
+denarius | 4 | as an adjective, containing ten
 denarro | 1 | recount
 denego | 1 | refuse
 denego | 3 | to deny that something is so
@@ -521,7 +522,7 @@ denigro | 1 | blacken
 denigro | 3 | figuratively, to blacken someone's reputation, to defame
 denique | 1 | finally
 denique | 3 | in enumerations, in short, in a word, in fact
-denique | 4 | postAug: therefore, accordingly, as a result
+denique | 4 | after Augustus, therefore, accordingly, as a result
 denominatio | 1 | metonymy
 denomino | 1 | name
 denoto | 1 | mark
@@ -785,7 +786,7 @@ desubito | 1 | suddenly
 desudo | 1 | sweat
 desudo | 3 | figuratively, to exert oneself, toil hard
 desudo | 4 | to sweat out, exude (something)
-desuesco | 1 | disuse
+desuesco | 1 | disaccustom
 desuesco | 3 | intransitively, to become unaccustomed to, grow out of the habit of
 desuesco | 4 | desuetus as an adjective, unaccustomed, out of practice
 desultor | 1 | vaulter
