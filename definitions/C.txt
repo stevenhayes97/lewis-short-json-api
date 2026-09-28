@@ -3150,7 +3150,9 @@ consaluto | 3 | consalutare aliquem regem, to hail someone as king
 consanguineus | 1 | related
 consanguineus | 3 | as a substantive (plur.), kindred, relations
 consanguinitas | 1 | blood kinship
-consanguinitas | 3 | figuratively, an affinity or resemblance, as between subjects of study
+consanguinitas | 3 | relationship by blood, and in the lawyers especially between brothers and sisters
+consanguinitas | 4 | more widely, kinship of any kind: consanguinitate propinquus, a near relative
+consanguinitas | 5 | figuratively, an affinity or resemblance, as between subjects of study
 conscelero | 1 | defile
 conscendo | 1 | climb
 conscendo | 2 | embark
