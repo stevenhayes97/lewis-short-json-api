@@ -73,7 +73,7 @@ debitor | 4 | one indebted or obliged to someone for something (figurative use)
 decanto | 1 | repeat
 decanto | 2 | enchant
 decanto | 3 | to recite or rehearse, without any unfavourable sense (miserabiles elegos decantare, to recite mournful elegies)
-decanto | 4 | intransitive: to leave off singing or lamenting
+decanto | 4 | intransitively, to leave off singing or lamenting
 decanus | 1 | dean
 decanus | 3 | a superior set over ten people, such as soldiers or monks (late Latin administrative and religious use)
 decanus | 4 | in astrology, a decan, the ruler of one of the three ten-degree divisions of a zodiac sign
@@ -109,7 +109,7 @@ decessio | 2 | decrease
 decessio | 3 | a magistrate's retirement from his province at the end of his term
 decessio | 4 | decease, death (rare)
 decessor | 1 | predecessor
-decessor | 3 | specifically: an outgoing provincial governor, as viewed by his successor
+decessor | 3 | especially, an outgoing provincial governor, as seen by his successor
 decessus | 1 | departure
 decessus | 2 | decrease
 decessus | 3 | a magistrate's retirement from his province at the end of his term
@@ -159,10 +159,10 @@ declinatio | 1 | deviation
 declinatio | 2 | declension
 declinatio | 3 | figuratively, an avoidance, a turning away from something (a malis declinatio, avoidance of evils)
 declinatio | 4 | in rhetoric, a short digression from the subject
-declinatio | 5 | geog: a region or climate zone of the earth (translating Greek klima)
+declinatio | 5 | in geography, a region or climate zone of the earth
 declino | 1 | deviate
 declino | 2 | avoid
-declino | 3 | grammar: to inflect or decline a part of speech
+declino | 3 | in grammar, to inflect or decline a word
 declino | 4 | with an accusative, to turn something aside, to divert (declinare agmen, to divert the marching column)
 declivis | 1 | sloping
 declivis | 3 | figuratively, declining, in the decline of life (mulier aetate declivis, a woman in the decline of life)
@@ -216,7 +216,7 @@ decursus2 | 5 | in rhetoric, the rhythmical flow of a verse or sentence
 decurto | 1 | curtail
 decus1 | 1 | glory
 decus1 | 2 | virtue
-decus1 | 3 | plural, decora: honourable achievements, valiant deeds
+decus1 | 3 | in the plural, decora, honourable achievements, valiant deeds
 decus1 | 4 | renowned ancestors (a transferred, poetic use)
 decussis | 1 | ten
 decussis | 3 | the X-shaped mark denoting the number ten, or the intersection of two lines
@@ -232,7 +232,7 @@ dedecus | 3 | concretely, a thing that causes shame, a blot, a blemish
 dedico | 1 | dedicate
 dedico | 3 | to declare, to announce something formally (an early, rare sense)
 dedico | 4 | to dedicate or inscribe a literary work to someone
-dedico | 5 | law: to register one's property for the census
+dedico | 5 | in law, to register one's property for the census
 dedignor | 1 | disdain
 dedisco | 1 | unlearn
 dediticius | 1 | surrendered
@@ -280,7 +280,7 @@ defensio | 3 | concretely, a written or spoken defence, a speech in defence
 defensio | 4 | in law, the legal maintenance of a right, or the prosecution of a crime
 defenso | 1 | shield
 defensor | 1 | defender
-defensor | 3 | plural, defensores: the garrison of a besieged place
+defensor | 3 | in the plural, defensores, the garrison of a besieged place
 defensor | 4 | defensor civitatis, a late-imperial magistrate who protected provincial townspeople from oppression
 defero | 1 | carry
 defero | 2 | report
@@ -292,7 +292,7 @@ defervesco | 1 | cool
 defetiscor | 1 | tire
 deficio | 1 | fail
 deficio | 2 | revolt
-deficio | 3 | passive: to be weakened, exhausted, worn out (viribus defici, to be exhausted of strength)
+deficio | 3 | in the passive, to be weakened or worn out: viribus defici, to be exhausted of strength
 deficio | 4 | of the sun or moon, to be eclipsed
 defigo | 1 | fix
 defigo | 2 | curse
@@ -311,7 +311,7 @@ deflagro | 2 | perish
 deflagro | 3 | of a fire of passion, to abate, to be allayed (deflagrare iras, for anger to burn itself out)
 deflecto | 1 | swerve
 deflecto | 3 | figuratively, to divert someone from their pursuits or a particular direction (aliquem ab institutis studiis deflectere, to divert someone from their chosen studies)
-deflecto | 4 | grammar, in late Latin: to inflect a word
+deflecto | 4 | in later Latin grammar, to inflect a word
 defleo | 1 | lament
 defloresco | 1 | wither
 defluo | 1 | flow down
@@ -361,7 +361,7 @@ degusto | 3 | figuratively, to try, to sample, to make oneself acquainted with s
 degusto | 4 | to touch briefly upon a subject, to treat cursorily
 dehinc | 1 | then
 dehinc | 3 | of place, from here, hence (rare, post-Augustan)
-dehinc | 4 | of time, looking forward: henceforth, from now on
+dehinc | 4 | of time looking forward, henceforth, from now on
 dehisco | 1 | gape
 dehonestamentum | 1 | blemish
 dehonesto | 1 | disgrace
@@ -393,7 +393,7 @@ delectabilis | 1 | delightful
 delectatio | 1 | delight
 delectatio | 3 | in medicine, straining, a painful urging (late Latin)
 delecto | 1 | delight
-delecto | 3 | archaic: to entice away, to seduce from the right path
+delecto | 3 | in early Latin, to entice away, to lead astray
 delectus2 | 1 | choice
 delectus2 | 3 | in the army, a levy, a recruiting of soldiers
 delectus2 | 4 | by extension, the men levied, a body of recruits
@@ -425,7 +425,7 @@ delicatus | 2 | spoiled
 delicatus | 3 | of a place or lifestyle, luxurious
 delicatus | 4 | fastidious, overly particular
 deliciae | 1 | delight
-deliciae | 3 | a term of endearment: darling, sweetheart
+deliciae | 3 | as a term of endearment, darling, sweetheart
 delictum | 1 | offence
 deligo1 | 1 | select
 deligo1 | 3 | of fruit, to pick, to gather
@@ -500,8 +500,8 @@ demoveo | 3 | figuratively, to divert or dislodge someone from a position or opi
 demulceo | 1 | stroke
 demulceo | 3 | figuratively, to soothe, charm, win over
 demum | 1 | finally
-demum | 3 | enclitic with pronouns or adverbs, for emphasis: precisely, just, exactly (id demum, that very thing)
-demum | 4 | tum demum, nunc demum: only then, not until then
+demum | 3 | after pronouns or adverbs, for emphasis, precisely, just: id demum, that very thing
+demum | 4 | tum demum, nunc demum, only then, not until then
 demuto | 1 | alter
 demuto | 3 | intransitively, to change one's mind
 denarius | 1 | of ten
@@ -531,7 +531,7 @@ dens | 4 | figuratively, dens invidiae, the tooth of envy, malicious spite
 denso | 1 | condense
 densus | 1 | dense
 densus | 3 | of time, frequent, continuous, following in close succession
-densus | 4 | trop of speech: condensed, concise
+densus | 4 | figuratively, of style, condensed, concise
 dentale | 1 | share-beam
 dentale | 3 | by extension, a ploughshare
 dentatus | 1 | toothed
@@ -551,7 +551,7 @@ denuo | 1 | again
 deonero | 1 | unload
 deonero | 3 | figuratively, to relieve someone of a burden or blame
 deorsum | 1 | down
-deorsum | 3 | sursum deorsum: up and down, back and forth
+deorsum | 3 | sursum deorsum, up and down, back and forth
 deosculor | 1 | kiss
 deosculor | 3 | by extension, to praise highly, to laud
 depango | 1 | fix
@@ -693,13 +693,13 @@ deses | 1 | idle
 deses | 3 | by extension, of things or places, sluggish, unwarlike, torpid
 desideo | 1 | idle
 desideo | 3 | to sit long, remain seated
-desideo | 4 | euphemism: to relieve oneself
+desideo | 4 | as a euphemism, to relieve oneself
 desiderabilis | 1 | desirable
 desiderium | 1 | longing
 desiderium | 2 | grief
 desiderium | 3 | as a term of endearment, darling, sweetheart
 desiderium | 4 | by extension, want, need
-desiderium | 5 | later: a request, petition
+desiderium | 5 | in later Latin, a request, petition
 desidero | 1 | desire
 desidero | 2 | miss
 desidero | 3 | in the army, in the passive, to be missing, lost, or killed in battle
@@ -765,7 +765,7 @@ destino | 1 | destine
 destino | 3 | literally, to make fast, bind, secure
 destino | 4 | to determine, resolve, decide upon
 destino | 5 | in the army, (of archers, slingers) to aim at, take aim
-destino | 6 | trade: to mark out for purchase, intend to buy
+destino | 6 | in business, to mark out for purchase, intend to buy
 destino | 7 | destinatus as an adjective, fixed, resolved, determined
 destino | 8 | as a noun destinatum, a mark, target; a plan, design
 destituo | 1 | abandon
@@ -796,7 +796,7 @@ desumo | 2 | undertake
 desuper | 1 | above
 detego | 1 | uncover
 detego | 2 | detect
-detego | 3 | comic transf: to strip off, take off (clothing)
+detego | 3 | in comedy, to strip off, take off clothing
 detergeo | 1 | wipe
 detergeo | 3 | to strip off, break off, or shatter, e.g. of oars sheared off in a ramming attack
 detergeo | 4 | figuratively, to remove, take away, get rid of
@@ -816,7 +816,7 @@ detestor | 1 | curse
 detestor | 2 | detest
 detestor | 3 | to call down (evil or curses) upon someone, invoking a deity
 detestor | 4 | by extension, to avert by entreaty, ward off, deprecate
-detestor | 5 | judic: to renounce solemnly under oath
+detestor | 5 | in law, to renounce solemnly under oath
 detexo | 1 | weave
 detexo | 3 | in comedy, to filch, steal
 detexo | 4 | figuratively, to complete, finish (a narrative or account)
@@ -894,7 +894,7 @@ devolo | 1 | fly down
 devolo | 3 | by extension, to hasten down, rush, hurry away
 devolvo | 1 | roll
 devolvo | 3 | in the passive, to tumble down, fall headlong
-devolvo | 4 | trop, mid: to sink down, fall into (a state), e.g. devolvi ad inertiam, to sink into idleness
+devolvo | 4 | figuratively, in the passive, to sink or fall into a state: devolvi ad inertiam, to sink into idleness
 devoro | 1 | devour
 devoro | 2 | squander
 devoro | 3 | by extension, to engulf, swallow up (of the earth, sea, etc.)
@@ -1089,7 +1089,7 @@ dimico | 3 | by extension, to struggle, strive, contend (in a non-military sense
 dimidio | 1 | halve
 dimidius | 1 | half
 dimidius | 3 | as a noun dimidium, the half, half of a quantity
-dimidius | 4 | prov: dimidium facti qui coepit habet, well begun is half done
+dimidius | 4 | as a proverb, dimidium facti qui coepit habet, well begun is half done
 diminuo | 1 | shatter
 diminuo | 3 | to violate, corrupt, destroy by outrage (of texts or truths)
 dimissio | 1 | dismissal
@@ -1218,7 +1218,7 @@ discriptio | 1 | apportionment
 discrucio | 1 | torture
 discrucio | 3 | of the mind, to torment oneself, fret, agonise
 discumbo | 1 | recline
-discumbo | 3 | rarely: to lie down to sleep
+discumbo | 3 | rarely, to lie down to sleep
 discurro | 1 | run about
 discurro | 3 | by extension, to traverse, run through or over
 discurro | 4 | figuratively, in later Latin, to discourse on, speak at length about
@@ -1493,7 +1493,7 @@ docilis | 1 | docile
 docilis | 3 | by extension, (of things) pliant, easily worked, receptive
 doctrina | 1 | instruction
 doctrina | 2 | learning
-doctrina | 3 | subj: a principle, a settled way of thinking instilled by training
+doctrina | 3 | a principle, a settled way of thinking instilled by training
 documentum | 1 | lesson
 documentum | 2 | proof
 # skip: dodona is a place name (a city in Epirus, site of an oracle of Jupiter), not a common word
@@ -1530,7 +1530,7 @@ dominatio | 4 | in Christian Latin, in the plural, Dominions, an order of angels
 dominatus | 1 | tyranny
 dominatus | 3 | by extension, mastery, control (of the mind or desires)
 dominicus | 1 | master's
-dominicus | 3 | transf, imperial period: imperial
+dominicus | 3 | by extension, in the imperial period, imperial
 dominicus | 4 | in Christian Latin, dominica dies, the Lord's Day, Sunday
 dominium | 1 | ownership
 dominium | 3 | rarely, a feast, banquet
@@ -1542,7 +1542,7 @@ dominus | 2 | Lord
 dominus | 3 | in particular, the host, master of a feast
 dominus | 4 | title of the Roman emperors (imperial period)
 dominus | 5 | in poetry, as endearment, my lord, my love (addressing a lover)
-dominus | 6 | respectful address: sir
+dominus | 6 | as a respectful address, sir
 domitor | 1 | tamer
 domitor | 2 | conqueror
 domo | 1 | tame
@@ -1568,14 +1568,14 @@ dormio | 1 | sleep
 dormio | 3 | to sleep the sleep of death, be dead
 dormio | 4 | figuratively, to be idle, inactive, careless, unconcerned
 dormito | 1 | doze
-dormito | 3 | poet transf: (of a lamp) to flicker low, be going out
+dormito | 3 | in poetry, of a lamp, to flicker low, be going out
 dormito | 4 | figuratively, to be sluggish, dull, slow to act
 dorsum | 1 | back
 dorsum | 3 | by extension, a ridge, summit (of a hill or mountain range)
 dos | 1 | dowry
 dos | 2 | talent
 dossennus1 | 1 | soothsayer
-dossennus1 | 3 | transf, ironic: a fool, clown, jester
+dossennus1 | 3 | by extension, ironically, a fool, clown, jester
 dotalis | 1 | dotal
 doto1 | 1 | endow
 doto1 | 3 | by extension, to enrich, endow (something) with a quality

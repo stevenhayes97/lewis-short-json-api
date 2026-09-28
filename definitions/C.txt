@@ -3829,13 +3829,13 @@ cruciabilis | 1 | excruciating
 cruciabilis | 3 | capable of being tortured
 cruciarius | 1 | of torture
 cruciarius | 3 | as a noun, one who is being crucified
-cruciarius | 4 | facete, a gallows-bird, a scoundrel
+cruciarius | 4 | in jest, a gallows-bird, a scoundrel
 cruciatus | 1 | torture
 cruciatus | 2 | anguish
 cruciatus | 3 | by extension, instruments of torture
 crucio | 1 | torture
 crucio | 2 | torment
-crucio | 3 | medial, to grieve or be afflicted, to worry oneself
+crucio | 3 | reflexively or in the passive, to grieve or be afflicted, to worry oneself
 crudelis | 1 | cruel
 crudelitas | 1 | cruelty
 crudesco | 1 | worsen
@@ -3858,11 +3858,11 @@ crus | 1 | leg
 crus | 3 | by extension, the stalk or lower stem of a plant
 crusta | 1 | crust
 crusta | 2 | veneer
-crusta | 3 | art, ornamental inlay or mosaic work on walls
+crusta | 3 | in art, ornamental inlay or mosaic work on walls
 crusto | 1 | incrust
 crux | 1 | cross
 crux | 2 | torment
-crux | 3 | facete, a gallows-bird, a rascal
+crux | 3 | in jest, a gallows-bird, a rascal
 # review: cubicularius "of a bedroom" needs the article to be accurate; no shorter English phrasing fits
 cubicularius | 1 | of a bedroom
 cubicularius | 3 | as a noun, a chamber-servant or valet
@@ -3886,7 +3886,7 @@ cuculus | 3 | as a term of abuse, a fool or simpleton
 cucumis | 1 | cucumber
 cucurbita | 1 | gourd
 cucurbita | 3 | in medicine, a cupping-glass
-cucurbita | 4 | facete, a blockhead, a numbskull
+cucurbita | 4 | in jest, a blockhead, a numbskull
 cudo1 | 1 | pound
 cudo1 | 2 | mint
 cudo1 | 3 | figuratively, to concoct or contrive, as a deception
@@ -3902,13 +3902,13 @@ culina | 1 | kitchen
 culina | 3 | by extension, food or fare
 culpa | 1 | fault
 culpa | 2 | negligence
-culpa | 3 | euphemism, an illicit love affair
+culpa | 3 | as a euphemism, an illicit love affair
 culpabilis | 1 | culpable
 culpo | 1 | blame
-culpo | 3 | P.a. (culpatus), worthy of blame, blameworthy
+culpo | 3 | as an adjective, culpatus, blameworthy
 culpo | 4 | of wine, corrupted or spoiled
 culter | 1 | knife
-culter | 3 | literally, a ploughshare or coulter
+culter | 3 | originally, a ploughshare or coulter
 cultio | 1 | cultivation
 cultio | 3 | veneration or reverence
 cultor | 1 | cultivator
@@ -3963,7 +3963,7 @@ cupidus | 1 | eager
 cupidus | 2 | greedy
 cupidus | 3 | biased or partial, favouring one side
 cupio | 1 | desire
-cupio | 2 | favour
+cupio | 3 | cupere alicui, to wish someone well, to favour someone
 cuppedia | 1 | daintiness
 cuppedia | 3 | in the plural, delicacies, fancy dishes
 cuppedium | 1 | tidbit
@@ -3996,9 +3996,10 @@ curiosus | 2 | curious
 curiosus | 3 | as a noun, a spy or informer
 curiosus | 4 | by extension, emaciated or wasted away with worry
 curo | 1 | care for
-curo | 2 | commission
-curo | 3 | in medicine, to heal or cure
-curo | 4 | to pay or settle, as a debt
+curo | 2 | arrange
+curo | 3 | with a gerundive, to have something done: pontem faciundum curare, to have a bridge built
+curo | 4 | in medicine, to heal or cure
+curo | 5 | to pay or settle, as a debt
 curriculum | 1 | race
 curriculum | 2 | course
 curriculum | 3 | curriculum vitae, the course of one's life
@@ -4045,8 +4046,8 @@ custodio | 1 | guard
 custodio | 2 | observe
 custodio | 3 | to hold captive, to keep in custody
 custos | 1 | guardian
-custos | 2 | spy
-custos | 3 | jailer, keeper of a prison
+custos | 3 | a jailer, keeper of a prison
+custos | 4 | a watcher set over someone, a spy
 cutis | 1 | skin
 cutis | 2 | rind
 cutis | 3 | curare cutem, to pamper oneself
