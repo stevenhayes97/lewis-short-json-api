@@ -404,18 +404,16 @@ bipartio | 4 | commonest in its participle: bipartita divisio, a division into t
 bipartio | 5 | its adverb bipartito, in two parts or in two directions: bipartito signa inferre, to attack in two columns
 # review: bipatens of double doors that open both ways; English has no adjective, and 'folding' misses the being thrown open
 bipatens | 1 | opening both ways
-bipatens | 3 | of double doors that swing open on two leaves: portis bipatentibus, at the gates flung wide
+bipatens | 3 | of double doors that swing open on two leaves, an Ennian word kept alive by Virgil: portis bipatentibus, at the gates flung wide
 bipatens | 4 | of the halls of the gods: tectis bipatentibus, in halls open on either side
-bipatens | 5 | an Ennian word, kept alive by two passages of Virgil
 bipedalis | 1 | two-foot
 bipedalis | 3 | two feet long, broad or thick: bipedales trabes, beams two feet thick
 bipedalis | 4 | of a person's height, and so in mockery: adulescentulus bipedali minor, a youngster under two feet high
 bipedalis | 5 | as a neuter noun bipedale, a tile or flagstone two feet across
 bipennis2 | 1 | battle-axe
 bipennis2 | 3 | as an adjective, two-edged: bipennis securis, an axe with an edge each side
-bipennis2 | 4 | far more often a feminine noun, the axe itself: correpta dura bipenni, catching up the heavy axe
+bipennis2 | 4 | far more often a feminine noun, the axe itself, named from penna in its old sense of point: correpta dura bipenni, catching up the heavy axe
 bipennis2 | 5 | used both as a weapon and for felling: duris ut ilex tonsa bipennibus, like a holm oak lopped by hard axes
-bipennis2 | 6 | the name is explained from penna in its old sense of point, one on each side
 bipes | 1 | two-footed
 bipes | 3 | going on two feet, of creatures and of things with two legs: bipes mensa, a two-legged table
 bipes | 4 | as a noun, and usually with contempt, of men: omnium bipedum nequissimus, the worst rogue that walks on two legs
@@ -435,8 +433,7 @@ bis | 8 | in the poets with cardinals as well: bis mille sagittae, two thousand 
 bis | 9 | bis terve, two or three times; bis terque, over and over again
 bis | 10 | bis tanto or bis tantum, twice as much; and proverbially bis ad eundem, to trip twice over the same stone
 bisextus | 1 | leap day
-bisextus | 3 | the day added every fourth year, so called because the sixth day before the Kalends of March was counted twice
-bisextus | 4 | sometimes written as two words, bis sextus
+bisextus | 3 | the day added every fourth year, so called because the sixth day before the Kalends of March was counted twice; sometimes written bis sextus
 bisulcus | 1 | cloven
 bisulcus | 3 | split in two: bisulca lingua, a forked tongue; bisulca ungula, a cloven hoof
 bisulcus | 4 | as a neuter plural noun bisulca, the cloven-footed animals, against the solidipedes with undivided hooves
@@ -492,8 +489,7 @@ boa | 5 | a disease that brings out red pustules, perhaps measles
 boa | 6 | in the form bova, a swelling of the legs brought on by hard travelling
 boarius | 1 | of cattle
 boarius | 3 | belonging to oxen or cattle, and also spelt bovarius
-boarius | 4 | forum boarium, the cattle market at Rome, beside the Circus Maximus
-boarius | 5 | its name was put down to the great bronze ox that stood there, or to the herd Hercules pastured there after taking it from Cacus
+boarius | 4 | forum boarium, the cattle market at Rome, beside the Circus Maximus, where a great bronze ox stood
 boiae | 1 | collar
 boiae | 3 | a collar for the neck, at first of leather, which is where the name comes from, and later of wood or iron
 boiae | 4 | used on prisoners and slaves: attrita boiis colla, necks chafed by the collar
@@ -517,17 +513,15 @@ bonum2 | 8 | with a dative, good for or serviceable to: alicui bono est, it is t
 bonum2 | 9 | cui bono, who stood to gain by it, the standing question in a Roman prosecution
 bonum2 | 10 | di meliora, heaven forbid, literally may the gods grant better than that
 bonus | 1 | good
-bonus | 3 | of a person, morally good and honest: vir bonus, a good man, and in law a man of standing whose judgment settles a matter
+bonus | 3 | of a person, morally good and honest, with the comparative melior and superlative optimus: vir bonus, a good man, and in law a man of standing whose judgment settles a matter
 bonus | 4 | of anyone in a role, good at the job: bonus consul, a good consul
 bonus | 5 | of things, sound or of high quality: bona valetudo, good health; bona aetas, the prime of life
 bonus | 6 | favourable or lucky: bona fama, a good name; bonis temporibus, in prosperous times
 bonus | 7 | of amount, considerable, and of birth, noble: bona pars, a large part; bono genere natus, born of good family
-bonus | 8 | its comparative is melior and its superlative optimus, both in constant use
-bonus | 9 | set phrases: bona fide, in good faith; bona venia, by your leave; bona pax, without a quarrel; bonae artes, honourable conduct, and also the liberal studies
-bonus | 10 | as a title of the gods: Juppiter Optimus Maximus; Bona Dea, the Good Goddess, whose rites no man might attend; and di boni, good heavens
+bonus | 8 | set phrases: bona fide, in good faith; bona venia, by your leave; bona pax, without a quarrel; bonae artes, honourable conduct, and also the liberal studies
+bonus | 9 | as a title of the gods: Juppiter Optimus Maximus; Bona Dea, the Good Goddess, whose rites no man might attend; and di boni, good heavens
 boo | 1 | roar
 boo | 3 | to cry aloud or bellow, chiefly an early and poetic word: boat caelum fremitu, the sky rings with the din
-boo | 4 | it has the older forms bovo and boere beside the usual boare
 boreas | 1 | north wind
 boreas | 3 | the north wind, for which the native Latin word is aquilo: Boreae frigus, the chill of the north wind
 boreas | 4 | by transfer the north itself: Boreae finitimum latus, the side that borders on the north
@@ -537,8 +531,7 @@ bos | 1 | ox
 bos | 2 | cow
 bos | 3 | the animal of the plough and the herd, bull, ox or cow: bos est enectus arando, the ox is worn out with ploughing
 bos | 4 | in the feminine, a cow: bove eximia capta de grege, a splendid cow taken from the herd
-bos | 5 | its genitive plural is boum and its dative and ablative plural bubus or bobus
-bos | 6 | a kind of flatfish of the turbot family
+bos | 5 | a kind of flatfish of the turbot family
 botulus | 1 | sausage
 botulus | 3 | a sausage, counted a low word beside the proper farcimen
 botulus | 4 | by transfer, a stomach stuffed with good things
