@@ -3372,8 +3372,8 @@ arx | 8 | figuratively, the head or chief point of a thing: caput atque arx bell
 # review: as ranked by what a reader meets: the coin first, then the unit of any divided whole that underlies it
 as | 1 | copper coin
 as | 2 | unit
-as | 3 | the unit of a whole divided into twelve parts, used alike of coin, weight and measure
-as | 4 | the as, a copper coin, at first a pound of bronze and later much reduced
+as | 3 | the as, a copper coin, at first a pound of bronze and later much reduced
+as | 4 | the unit of a whole divided into twelve parts, used alike of coin, weight and measure
 as | 5 | in inheritance, the estate as a whole: haeres ex asse, sole heir; haeres ex semisse, heir to a half
 as | 6 | as a measure, an acre, a foot or a pound according to what is being measured
 as | 7 | assem habeas, assem valeas, you are worth what you have, a proverb on money and standing
