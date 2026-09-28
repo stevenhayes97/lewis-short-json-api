@@ -2296,7 +2296,6 @@ an1 | 4 | where the first half is left to be supplied, or rather, or can it be t
 an1 | 5 | an non, written annon, or not: isne est quem quaero an non, is he the man I want or not?
 an1 | 6 | after verbs of doubting and asking, whether: quaesivi an misisset, I asked whether he had sent them
 an1 | 7 | haud scio an and nescio an lean towards the clause after an, so they mean I rather think, very likely: haud scio an ita sit, I am inclined to think it is so
-an1 | 8 | anne is a fuller form of the same word
 anancites | 1 | diamond
 anancites | 3 | a name given to the diamond as a stone that drives away fear and gloom, recorded once by Pliny
 anas1 | 1 | duck
@@ -2470,24 +2469,20 @@ annalis | 6 | more widely, annals or history: annales priorum temporum, the reco
 annato | 1 | swim to
 annato | 3 | to swim towards something, also with ad: ad manum hominis adnatare, to swim up to a man's hand
 annato | 4 | to swim along beside: comes lateri adnatat, it swims at his side like a companion
-annato | 5 | better spelt adnato
 annecto | 1 | attach
 annecto | 3 | to tie one thing on to another: scapham adnexam trahere, to tow a boat made fast behind
 annecto | 4 | figuratively, to link one thing to another in thought or in speech: rebus praesentibus futuras adnectere, to tie the future on to the present
-annecto | 5 | better spelt adnecto
 anniculus | 1 | year-old
 anniculus | 3 | a year old, of animals and of anything kept a year: agnus anniculus, a yearling lamb
 anniculus | 4 | as a noun, a yearling
 annitor | 1 | strive
 annitor | 3 | literally, to lean or press against something: stant longis adnixi hastis, they stand propped on their long spears
 annitor | 4 | to take pains over a thing, with ut or ne: omni ope adniti ut, to strain every nerve to
-annitor | 5 | better spelt adnitor
 anniversarius | 1 | annual
 anniversarius | 3 | coming round every year: sacra anniversaria, yearly rites
 anno1 | 1 | swim to
 anno1 | 3 | to swim towards, with the dative, with ad, or with the accusative: terrae adnare, to swim ashore
 anno1 | 4 | to swim alongside: pedites adnantes equis, foot-soldiers swimming beside the horses
-anno1 | 5 | better spelt adno
 annona | 1 | grain supply
 annona | 2 | price
 annona | 3 | the year's produce of anything: annona lactis, the year's yield of milk
@@ -2500,28 +2495,23 @@ annosus | 3 | full of years, of old men, trees and wine: annosa robora, oaks of 
 annotatio | 1 | note
 annotatio | 3 | a remark written against a passage, an annotation
 annotatio | 4 | in law, the entering of a person's name among the accused, and an emperor's rescript signed in his own hand
-annotatio | 5 | better spelt adnotatio
 annoto | 1 | note
 annoto | 3 | to write a note against something, to comment on it: adnotare quaedam ut tumida, to mark certain passages as overblown
 annoto | 4 | to observe or take notice of a thing
 annoto | 5 | in law, to enter an absent man among the accused, or mark a condemned man out for punishment
-annoto | 6 | better spelt adnoto
 annumero | 1 | count
 annumero | 2 | include
 annumero | 3 | to count money out to someone, and so to pay it: mihi talentum argenti adnumerat, he counts out a talent of silver to me
 annumero | 4 | to reckon a person or thing in with others, with the dative, in or inter: in grege adnumeror, I am counted one of the crowd
-annumero | 5 | better spelt adnumero
 annuntio | 1 | announce
 annuntio | 3 | to make a thing known, to report it: adnuntiare veritatem, to declare the truth
 annuntio | 4 | in Christian Latin, to preach: adnuntia regnum Dei, preach the kingdom of God
-annuntio | 5 | better spelt adnuntio
 annuo | 1 | nod
 annuo | 2 | grant
 annuo | 3 | to nod, as a signal: simul ac adnuisset, at his first nod
 annuo | 4 | to nod assent, to agree to something, the opposite of abnuo
 annuo | 5 | in poetry, to grant a thing to someone: caeli quibus adnuis arcem, those to whom you grant the heights of heaven
 annuo | 6 | to point a person or thing out by a nod, a wink or a movement of the hand: adnuens manu ut tacerent, motioning with his hand for silence
-annuo | 7 | better spelt adnuo
 annus | 1 | year
 annus | 3 | the year thought of as a circuit of time, from midwinter round to midwinter
 annus | 4 | in adverbial phrases: anno, a year ago, or in each year; annum, for a year together; ad annum, a year hence; in annum, for the coming year; per annos, year by year
@@ -2606,7 +2596,6 @@ antelucanus | 3 | happening before daylight: antelucana industria, work done bef
 antelucanus | 4 | of a dinner that runs on until daybreak: cenae antelucanae, all-night dinners
 antenna | 1 | yardarm
 antenna | 3 | the yard set across a mast to carry the sail: antemnae gemunt, the yards groan
-antenna | 4 | also spelt antemna
 antepono | 1 | prefer
 antepono | 3 | to set one thing in front of another: propugnacula anteposita, defences thrown up in front
 antepono | 4 | in comedy, to set food before someone: prandium pransoribus anteponere, to serve the lunchers their lunch
@@ -2618,7 +2607,6 @@ antesignanus | 4 | figuratively, a leader or ringleader: antesignanus in acie Ph
 antesto | 1 | excel
 antesto | 3 | to stand out above others, with the dative or accusative: brassica omnibus holeribus antistat, cabbage beats every other vegetable
 antesto | 4 | used alone, to be outstanding: quanto antestaret eloquentia innocentiae, how far eloquence stood above honesty
-antesto | 5 | also spelt antisto
 # review: antestor the sense is to call a bystander as witness at the opening of a suit; English has no verb for it
 antestor | 1 | call to witness
 antestor | 3 | a term of legal procedure: before hauling an opponent to court a man asked a bystander licet antestari, may I call you to witness?
@@ -2990,7 +2978,6 @@ arbitror | 3 | to hold an opinion, to consider that something is so (with the ac
 arbitror | 4 | to suppose, as against knowing for certain: arbitror, certum non scimus, I suppose so, we do not know for sure
 arbitror | 5 | in early Latin, to be a witness of something, to watch or overhear it
 arbitror | 6 | in law, to give judgment as an arbitrator
-arbitror | 7 | occasionally in an active form arbitro, and sometimes passive in sense
 arbor1 | 1 | tree
 arbor1 | 3 | a tree of any kind, often with the species in the genitive: arbor fici, a fig tree
 arbor1 | 4 | of things made of wood, a ship's mast: arbore mali, at the mast
@@ -3051,7 +3038,6 @@ arcesso | 3 | to send for someone, to have them fetched: obstetricem arcesse, se
 arcesso | 4 | in law, to summon someone before a court, and so to accuse them (with the genitive of the charge): capitis arcessere, to charge with a capital crime
 arcesso | 5 | to fetch or derive something from a source: a capite arcessere, to fetch an argument from first principles
 arcesso | 6 | to bring something on oneself: somnum medicamentis arcessere, to court sleep with drugs
-arcesso | 7 | also spelt accerso, a form Sallust favoured
 architector | 1 | build
 architector | 3 | to construct or lay out a building as an architect does
 architector | 4 | figuratively, to devise or contrive: voluptates architectari, to engineer one's pleasures
@@ -3521,7 +3507,6 @@ assentator | 1 | flatterer
 assentator | 3 | one who agrees with everything in order to please: assentatoribus aures patefacere, to open one's ears to flatterers
 assentior | 1 | agree
 assentior | 3 | to give one's assent to a person or a proposal (with the dative): alicui assentiri, to agree with someone
-assentior | 4 | the active form assentio had already gone out of use in Varro's day
 assentor | 1 | flatter
 assentor | 3 | to agree with someone in everything, to fall in with whatever they say
 assentor | 4 | sibi assentari, to flatter oneself, to think too well of one's own case
@@ -3711,8 +3696,7 @@ at | 4 | introducing a new turn in the narrative, but meanwhile: at regina, but 
 at | 5 | introducing an objection someone might raise, but it may be said: at enim, ah but, you will say
 at | 6 | after a negative, but at least: si non, at tamen, if not, then at any rate
 at | 7 | in appeals and curses: at te di perdant, but may the gods destroy you; at vos miserescite, but do you take pity
-at | 8 | the older form ast, kept especially before vowels and in legal language
-at | 9 | after si or quoniam, introducing what follows, then at least
+at | 8 | after si or quoniam, introducing what follows, then at least
 atavus | 1 | great-great-great-grandfather
 atavus | 3 | the father of an abavus, five generations back, and the counterpart of adnepos
 atavus | 4 | more loosely, an ancestor or forefather: avis atavisque potens, strong in grandfathers and forefathers
@@ -3913,9 +3897,8 @@ audentia | 3 | courage in a good sense, marked off from audacia, which is rashne
 audentia | 4 | in Pliny, boldness in the use of words, licence
 audeo | 1 | dare
 audeo | 3 | to venture on something (usually with the infinitive, sometimes with the accusative): tantum facinus audere, to dare so great a crime
-audeo | 4 | the syncopated subjunctive ausim, I would venture, is common in the poets
-audeo | 5 | audens as an adjective, daring and intrepid: audentes deus juvat, god helps the bold
-audeo | 6 | ausum as a noun, a daring venture or exploit
+audeo | 4 | audens as an adjective, daring and intrepid: audentes deus juvat, god helps the bold
+audeo | 5 | ausum as a noun, a daring venture or exploit
 audientia | 1 | attention
 audientia | 3 | a hearing given to someone: audientiam facere, to get silence and a hearing for a speaker
 audientia | 4 | in later Latin, the faculty of hearing, or the ears themselves

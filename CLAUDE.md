@@ -143,6 +143,14 @@ stopping early.
   `gratia` after a genitive meaning "for the sake of", `se gerere` + adverb.
   Illustrate with a bare Latin phrase and its English, no citation:
   `bellum gerere cum aliquo, to make war on someone`.
+- **No grammar-only notes.** A rank is a meaning. Notes on inflected or
+  variant forms (`its genitive plural is boum`, `better spelt adnitor`,
+  `with a contracted form caldus`, grammatical gender, which comparative it
+  takes) do not get a rank or a clause: search matches a headword or one of
+  its case forms, and the forms live in the source data, not the curated
+  gloss. A note on usage or register that says something about a sense
+  (`poetic`, `a favourite word of Ovid`) folds into that sense's line
+  instead of taking a rank of its own.
 - **Never invent a sense.** Everything must be defensible against the entry.
   Distilling and reordering is the job; adding meanings is not.
 - Keep the register plain and modern. "unwholesome", not "noxious of humours".

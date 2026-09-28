@@ -241,7 +241,7 @@ caldarius | 4 | as a neuter noun caldarium, the hot bath, or the room that holds
 caldarius | 5 | as a feminine noun caldaria, a warm bath, and also a boiling pot
 caldarius | 6 | caldarium aes, bronze got ready by melting
 calefacio | 1 | warm
-calefacio | 3 | to make warm or hot, with a contracted form calfacio: ad calefaciendum corpus, to warm the body; igne focum calefacere, to heat the hearth with fire
+calefacio | 3 | to make warm or hot: ad calefaciendum corpus, to warm the body; igne focum calefacere, to heat the hearth with fire
 calefacio | 4 | in everyday talk, to make things hot for someone: calface hominem, give the fellow a warming
 calefacio | 5 | in the poets of the passions, to fire or rouse: calefacta corda tumultu, hearts fired by the uproar
 calefacio | 6 | to push a thing on hotly: forum aleatorium calfecimus, we kept the gaming table warm
@@ -258,7 +258,7 @@ calesco | 4 | of the mind, to catch fire, and above all with love: flamma propio
 calesco | 5 | agitante calescimus illo, we glow when the god stirs within us
 calidus | 1 | hot
 calidus | 2 | rash
-calidus | 3 | warm or hot, with a contracted form caldus: calidus fons, a hot spring; calida lavacra, hot baths
+calidus | 3 | warm or hot: calidus fons, a hot spring; calida lavacra, hot baths
 calidus | 4 | as a feminine noun calida, hot water, and as a neuter calidum, a hot drink of wine and boiling water
 calidus | 5 | of living things, fiery and spirited: equus calidus animis, a horse of fiery mettle; calidus juventa, hot with youth
 calidus | 6 | of plans, hasty and ill-considered: calida consilia, rash counsels

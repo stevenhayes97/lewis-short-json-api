@@ -196,7 +196,7 @@ beneficium | 5 | in public life a mark of favour: an office, promotion or distin
 beneficium | 6 | especially a military promotion granted by a commander
 beneficium | 7 | in the lawyers a privilege or right: beneficium liberorum, release from jury service earned by having children
 beneficus | 1 | beneficent
-beneficus | 3 | ready to do good to others, obliging and open-handed, with the comparative beneficentior: beneficus in amicum, generous towards a friend
+beneficus | 3 | ready to do good to others, obliging and open-handed: beneficus in amicum, generous towards a friend
 beneficus | 4 | as an adverb benefice, beneficently
 benevolens | 1 | well-wishing
 benevolens | 3 | kindly disposed towards someone, the early form of benevolus and very common in Plautus
@@ -329,7 +329,7 @@ bifurcus | 4 | as a neuter noun bifurcum, a fork, the point where two branches p
 bifurcus | 5 | of the body, the cleft where the neck meets the shoulders: sudor per bifurcum volabat, the sweat streamed down his neck
 # review: bigae the pair of horses and the car they draw are one word in Latin; 'chariot' alone loses the pair
 bigae | 1 | two-horse chariot
-bigae | 3 | a pair of horses yoked together, and so also the car they draw; plural before Augustus, singular biga only later: Hector raptatus bigis, Hector dragged behind a chariot
+bigae | 3 | a pair of horses yoked together, and so also the car they draw: Hector raptatus bigis, Hector dragged behind a chariot
 bigae | 4 | of the teams of gods and of night: roseae Aurorae bigae, the rosy pair of Dawn
 bigae | 5 | also of a ploughing team of oxen: bigae cornutae, a horned pair
 bigae | 6 | the figure stamped on the silver coin called a bigatus
@@ -433,7 +433,7 @@ bis | 8 | in the poets with cardinals as well: bis mille sagittae, two thousand 
 bis | 9 | bis terve, two or three times; bis terque, over and over again
 bis | 10 | bis tanto or bis tantum, twice as much; and proverbially bis ad eundem, to trip twice over the same stone
 bisextus | 1 | leap day
-bisextus | 3 | the day added every fourth year, so called because the sixth day before the Kalends of March was counted twice; sometimes written bis sextus
+bisextus | 3 | the day added every fourth year, so called because the sixth day before the Kalends of March was counted twice
 bisulcus | 1 | cloven
 bisulcus | 3 | split in two: bisulca lingua, a forked tongue; bisulca ungula, a cloven hoof
 bisulcus | 4 | as a neuter plural noun bisulca, the cloven-footed animals, against the solidipedes with undivided hooves
@@ -513,7 +513,7 @@ bonum2 | 8 | with a dative, good for or serviceable to: alicui bono est, it is t
 bonum2 | 9 | cui bono, who stood to gain by it, the standing question in a Roman prosecution
 bonum2 | 10 | di meliora, heaven forbid, literally may the gods grant better than that
 bonus | 1 | good
-bonus | 3 | of a person, morally good and honest, with the comparative melior and superlative optimus: vir bonus, a good man, and in law a man of standing whose judgment settles a matter
+bonus | 3 | of a person, morally good and honest: vir bonus, a good man, and in law a man of standing whose judgment settles a matter
 bonus | 4 | of anyone in a role, good at the job: bonus consul, a good consul
 bonus | 5 | of things, sound or of high quality: bona valetudo, good health; bona aetas, the prime of life
 bonus | 6 | favourable or lucky: bona fama, a good name; bonis temporibus, in prosperous times
