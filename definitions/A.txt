@@ -3793,11 +3793,11 @@ attexo | 3 | to weave or fasten one thing onto another: loricae ex cratibus atte
 attexo | 4 | more widely, to add something on: partem mortalem attexere, to add on a mortal part
 attineo | 1 | concern
 attineo | 2 | detain
-attineo | 3 | to hold something fast or keep it back: testes vinctos attinere, to keep the witnesses in irons
-attineo | 4 | to keep hold of a place, to occupy it: ripam Danubii attinere, to hold the Danube bank
-attineo | 5 | of places, to stretch as far as something
-attineo | 6 | in the third person, to concern or belong to someone: quod ad me attinet, so far as I am concerned
-attineo | 7 | impersonal attinet, it matters, it is to the purpose: nihil attinet, there is no point in it
+attineo | 3 | in the third person, to concern or belong to someone: quod ad me attinet, so far as I am concerned
+attineo | 4 | impersonal attinet, it matters, it is to the purpose: nihil attinet, there is no point in it
+attineo | 5 | to hold something fast or keep it back: testes vinctos attinere, to keep the witnesses in irons
+attineo | 6 | to keep hold of a place, to occupy it: ripam Danubii attinere, to hold the Danube bank
+attineo | 7 | of places, to stretch as far as something
 attingo | 1 | touch
 attingo | 3 | to lay a hand on a person or thing: ne me attingas, keep your hands off me
 attingo | 4 | to touch in eating, to taste: nec graminis attigit herbam, nor did it crop a blade of grass
