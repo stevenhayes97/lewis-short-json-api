@@ -1200,6 +1200,8 @@ smaragdus | 1 | emerald
 smaragdus | 3 | a bright green precious stone, the emerald, and other green gems
 smegma | 1 | cleanser
 smegma | 3 | a cleansing ointment or skin lotion
+smilax | 1 | bindweed
+smilax | 3 | a climbing plant, rough bindweed; also the name given to the yew and a kind of oak
 sobrietas | 1 | sobriety
 sobrietas | 3 | in general, moderation, temperance, continence
 sobrietas | 4 | figuratively, reasonableness, prudence
@@ -1284,6 +1286,9 @@ sollicitus | 1 | anxious
 sollicitus | 2 | attentive
 sollicitus | 3 | of physical motion (poetic, rare), agitated, restless
 sollistimus | 1 | most favourable
+soloecismus | 1 | solecism
+soloecismus | 3 | an error of grammar in putting words together, as opposed to a barbarism in a single word
+soloecismus | 4 | any blunder or fault
 solor | 1 | console
 solor | 3 | transferred, to soothe, to ease, to relieve, to mitigate
 solox | 1 | coarse
@@ -1327,6 +1332,10 @@ sons | 3 | as a noun, a criminal, an offender
 sonticus | 1 | serious
 sonus1 | 1 | sound
 sonus1 | 3 | figuratively, tone, character, style, of language
+sophistes | 1 | sophist
+sophistes | 3 | a sophist, one who taught philosophy for show or for money
+sophisticus | 1 | sophistical
+sophisticus | 3 | outside classical Latin, of sophists, captious: captio sophistica, a sophistical trap
 sopio | 1 | lull
 sopio | 3 | poetic, pregnant sense, to lay to rest, i.e. to kill
 sopio | 4 | transferred, of things, to calm, to still, to quiet
@@ -1377,11 +1386,25 @@ sortitus2 | 1 | drawing lots
 sospes | 1 | safe
 sospes | 3 | archaic (rare), as an active sense, saving, delivering; as a noun, a saviour
 sospito | 1 | protect
+spadix | 1 | chestnut
+spadix | 3 | of horses, chestnut-coloured, bay: spadices glaucique, bays and greys
+spadix | 4 | a palm branch torn off with its fruit
+spadix | 5 | a kind of stringed instrument
+spado | 1 | eunuch
+spado | 3 | a eunuch; in law, any man unable to father children
+spado | 4 | of plants, seedless, barren
 spargo1 | 1 | scatter
 spargo1 | 2 | spread
 spargo1 | 3 | specifically, of liquids, to sprinkle, to besprinkle
 sparteus | 1 | of broom
+spartum | 1 | esparto
+spartum | 3 | Spanish broom, a grass from which ropes, mats and nets were made; a rope of it
 sparus1 | 1 | hunting-spear
+spatha | 1 | broadsword
+spatha | 2 | spatula
+spatha | 3 | in later Latin, a long, broad two-edged sword
+spatha | 4 | a flat wooden blade for stirring, a spatula; a weaver's batten
+spatha | 5 | the sheath of a palm blossom
 spatior | 1 | walk
 spatior | 3 | transferred, of things, to spread out, to expand
 spatiosus | 1 | spacious
@@ -1441,12 +1464,20 @@ speculum | 3 | figuratively, a copy, a reflection, an imitation
 specus | 1 | cave
 specus | 3 | specifically, an artificial channel, a ditch, a drain, a mine shaft
 specus | 4 | transferred (poetic), a hollow, a cavity, e.g. of a wound or a belly
+spelaeum | 1 | cave
+spelaeum | 3 | in poetry, a cave or den: spelaea ferarum, the dens of wild beasts
+spelunca | 1 | cave
+spelunca | 3 | a cave, cavern or den: Philocteta in spelunca jacet, Philoctetes lies in a cave
 sperno | 1 | spurn
 spero | 1 | hope
 spero | 3 | rare (mostly poetic), to expect, to apprehend an undesired thing
 spes | 1 | hope
 spes | 3 | transferred, concretely, that in which hope is placed, especially of children
 spes | 4 | as a proper noun, Spes, a Roman goddess
+sphaera | 1 | sphere
+sphaera | 3 | a ball, a sphere
+sphaera | 4 | a celestial globe, a model of the heavens; one of the heavenly spheres: habent suam sphaeram stellae inerrantes, the fixed stars have their own sphere
+sphaera | 5 | in later Latin, a playing ball
 # review: spica "ear" alone reads as the body part; kept at three words
 spica | 1 | ear of grain
 spica | 3 | transferred, a tuft, a head, of other plants
@@ -1463,6 +1494,11 @@ spina | 4 | figuratively (plural), difficulties, subtleties, cares
 spinosus | 1 | thorny
 spinosus | 2 | crabbed
 spinter | 1 | armlet
+spira | 1 | coil
+spira | 3 | a coil or twist, especially of a snake
+spira | 4 | the base of a column
+spira | 5 | a coil of rope; a braid of hair; a twisted cake
+spira | 6 | in early Latin, a crowd of men
 spirabilis | 1 | breathable
 spirabilis | 3 | transferred, that sustains life, vital
 spiramen | 1 | vent
