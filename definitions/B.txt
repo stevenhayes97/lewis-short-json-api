@@ -57,6 +57,9 @@ balteus | 6 | anything that runs round like a band: a rim, edge or border
 balteus | 7 | the belt of the heavens, the zodiac
 balteus | 8 | the flat walkway dividing the tiers of seats in a theatre
 balteus | 9 | a blow with a belt, a strapping
+baptisma | 1 | baptism
+baptisma | 3 | a dipping or washing, an ablution
+baptizo | 1 | baptise
 barba1 | 1 | beard
 barba1 | 3 | the beard of a man: barbam tondere, to trim the beard; barbam ponere, to have it taken off
 barba1 | 4 | letting the beard grow was a sign of mourning, and the old Romans wore it long before shaving came in
