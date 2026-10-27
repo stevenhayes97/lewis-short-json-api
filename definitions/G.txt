@@ -41,6 +41,8 @@ gannio | 4 | by extension, of persons, to snarl, growl, or grumble
 gannitus | 1 | yelp
 gannitus | 3 | by extension, of birds, a chirping or twittering
 gannitus | 4 | by extension, of persons, a snarling, grumbling, or whining
+gargarizo | 1 | gargle
+gargarizo | 3 | to gargle, or use something as a gargle
 garrio | 1 | chatter
 garrio | 3 | to talk idly, prattle, gossip
 garrio | 4 | by extension, of frogs croaking or birds singing
@@ -61,6 +63,9 @@ gaudium | 1 | joy
 gaudium | 3 | inward joy or gladness, as opposed to laetitia, joy that shows itself outwardly
 gaudium | 4 | in the plural gaudia, outward expressions of joy, or sensual pleasure and enjoyment
 gaudium | 5 | by extension, a cause or source of joy, a delight
+gausapa | 1 | frieze
+gausapa | 3 | a thick shaggy woollen cloth, and a garment or cover made of it
+gausapa | 4 | in jest, a shaggy beard
 gelidus | 1 | icy
 gelidus | 3 | very cold, colder than frigidus; of water, ice-cold
 gelidus | 4 | in poetry, cold and stiff with death, old age, or fear
@@ -127,6 +132,13 @@ generosus | 3 | of noble birth or descent
 generosus | 4 | by extension, of animals or plants, of good stock, superior in kind
 generosus | 5 | of persons, noble-minded, magnanimous
 generosus | 6 | of things, dignified, honourable
+genesis | 1 | birth
+genesis | 2 | horoscope
+genesis | 3 | the star rising at one's birth, a nativity: genesim habere imperatoriam, to have a horoscope that promises empire
+genesis | 4 | creation, generation; in Christian Latin, Genesis, the first book of the Bible
+genethliacus | 1 | natal
+genethliacus | 3 | of the hour of one's birth; as a noun, a caster of horoscopes
+genethliacus | 4 | genethliacon, a birthday poem
 genetivus | 1 | genitive
 genetivus | 3 | of or belonging to generation or birth (rare, poetic)
 genetivus | 4 | in grammar, casus genetivus, the genitive case
@@ -199,6 +211,13 @@ genus1 | 7 | a descendant, child, or offspring; collectively, posterity (poetic)
 genus1 | 8 | a manner, style, or way of doing something: genus dicendi, a style of speaking
 genus1 | 9 | in logic, a genus: the general class that contains the particular species beneath it
 genus1 | 10 | in grammar, gender
+geometres | 1 | geometer
+geometres | 3 | a geometrician, a mathematician
+geometricus | 1 | geometric
+geometricus | 3 | of geometry: geometricae rationes, geometrical proofs
+geometricus | 4 | geometrica, geometry: geometrica discere, to learn geometry
+georgicus | 1 | agricultural
+georgicus | 3 | of farming; Georgica, Virgil's poem on farming, the Georgics
 germanitas | 1 | siblinghood
 germanitas | 3 | the relationship between full brothers and sisters
 germanitas | 4 | by extension, close kinship between colony and mother-city, or resemblance between things
@@ -226,8 +245,13 @@ gero1 | 7 | se gerere with an adverb or phrase: to behave, act, conduct oneself 
 gero1 | 8 | of soil, plants, or animals: to bear, bring forth, produce
 gero1 | 9 | of time: to pass, spend, live out (aetatem gerere, to spend one's life)
 gero1 | 10 | res gestae, from the perfect participle: things done, deeds, exploits, achievements
+gerrae | 1 | nonsense
+gerrae | 3 | in early Latin, trifles, rubbish, nonsense, as an exclamation: gerrae!, rubbish!
 gerulus | 1 | carrier
 gerulus | 3 | one who does or performs something, a doer (rare)
+gerusia | 1 | council house
+gerusia | 3 | the meeting house of the council of elders in a Greek city
+gerusia | 4 | a home for old men who had served their city well
 gesta | 1 | deeds
 gestamen | 1 | burden
 gestamen | 2 | conveyance
@@ -304,6 +328,7 @@ glans | 3 | any acorn-shaped nut, such as a beechnut or chestnut
 glans | 4 | by extension, an acorn-shaped sling-bullet of lead or clay
 glans | 5 | in anatomy, the glans penis
 glarea | 1 | gravel
+# skip: glaucopis a doubtful conjectural reading in one line of Martial, nothing to teach
 glis | 1 | dormouse
 glisco | 1 | swell
 glisco | 3 | of fire, to blaze up, kindle, spread
