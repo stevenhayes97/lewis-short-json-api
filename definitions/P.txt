@@ -2862,6 +2862,9 @@ pronus | 3 | downward, sloping, inclined (of a place or thing)
 pronus | 4 | in poetry, (of stars, time) setting, sinking, declining
 pronus | 5 | after Augustus, favourable, well-disposed toward someone
 pronus | 6 | mostly after Augustus, easy, without difficulty
+prooemium | 1 | preface
+prooemium | 3 | an introduction or preface to a speech or book
+prooemium | 4 | in poetry, a beginning, a prelude: prooemia rixae, the opening of a brawl
 propagatio | 1 | propagation
 propagatio | 3 | figuratively, extension, enlargement, prolongation
 propages | 1 | layer
@@ -2899,6 +2902,10 @@ propheta | 4 | a pagan seer or interpreter of oracles, especially an Egyptian pr
 propheto | 1 | prophesy
 propinatio | 1 | toast
 propinatio | 3 | by extension, rarely, a funeral banquet
+propino | 1 | toast
+propino | 3 | to drink to someone, to pledge them, passing on the cup: propino hoc pulchro Critiae, I drink this to the handsome Critias
+propino | 4 | in later Latin, to give someone a drink, to administer a medicine
+propino | 5 | outside classical Latin, to hand something over: hunc vobis deridendum propino, I hand him over to you to laugh at
 propinquitas | 1 | proximity
 propinquitas | 2 | kinship
 propinquitas | 3 | in early Latin, rarely, intimacy, friendship
@@ -2918,6 +2925,10 @@ propitiatorius | 3 | as a noun, propitiatorium, a means of atonement, propitiati
 propitiatorius | 4 | as a noun, (propitiatorium, biblical) the mercy seat, place of atonement
 propitio | 1 | propitiate
 propitius | 1 | propitious
+propola | 1 | retailer
+propola | 3 | a dealer who buys up goods to sell them on, a huckster
+propolis | 1 | propolis
+propolis | 3 | the gum bees use to seal the openings of their hive, bee-glue
 propono | 1 | propose
 propono | 3 | literally, display, exhibit, put on view
 propono | 4 | imagine, picture to oneself, conceive
@@ -2953,7 +2964,12 @@ propugno | 1 | defend
 propugno | 3 | sally forth, make an attack (to fight)
 propulso | 1 | repel
 propulso | 3 | figuratively, avert, ward off (danger, suspicion)
+propylaeum | 1 | gateway
+propylaeum | 3 | a monumental entrance; Propylaea, the great gateway of the Acropolis at Athens
 proquaestore | 1 | proquaestor
+prora | 1 | prow
+prora | 3 | the front of a ship, the prow, as opposed to the stern
+prora | 4 | in poetry, a ship
 prorepo | 1 | creep
 prorepo | 3 | by extension, (of plants) put forth gradually, sprout, ooze out
 proripio | 1 | snatch
@@ -2980,6 +2996,8 @@ proruo | 1 | demolish
 proruo | 3 | intransitively, rush forward, charge (an enemy)
 proruo | 4 | intransitively, after Augustus, collapse, tumble down
 prosapia | 1 | lineage
+proscaenium | 1 | stage
+proscaenium | 3 | the front of the stage where the actors performed
 proscindo | 1 | rend
 proscindo | 3 | in farming, plough up, break ground for the first time
 proscindo | 4 | figuratively, revile, censure, satirise with words
@@ -2993,6 +3011,9 @@ proseco | 1 | excise
 proseco | 3 | in religion, cut off the parts of a victim to be offered in sacrifice
 prosecutio | 1 | attendance
 prosecutio | 3 | figuratively, a continuation
+proselytus | 1 | proselyte
+proselytus | 3 | in Christian Latin, a convert to Judaism
+proselytus | 4 | in Christian Latin, a stranger or foreigner living in the land
 prosemino | 1 | sow
 prosemino | 3 | figuratively, disseminate, propagate, spread
 prosequor | 1 | accompany
@@ -3134,6 +3155,16 @@ pruina | 4 | in poetry, by extension, winter
 prurio | 1 | itch
 prurio | 3 | by extension, long for, be eager for something, e.g. a fight
 prurio | 4 | by extension, be wanton, lustful
+prytaneum | 1 | town-hall
+prytaneum | 3 | the town hall of a Greek city, where honoured citizens dined at public expense
+psallo | 1 | play
+psallo | 3 | to play a stringed instrument, to sing to the lyre: psallere et saltare, to play and dance
+psallo | 4 | in Christian Latin, to sing psalms
+psalterium | 1 | psaltery
+psalterium | 3 | a stringed instrument like a lute
+psalterium | 4 | in Christian Latin, the Psalter, the Psalms of David
+pseudothyrum | 1 | back door
+pseudothyrum | 3 | figuratively, a secret way in: per pseudothyrum, by the back door, underhand
 pte | 1 | own
 pte | 3 | an enclitic suffix meaning 'own, self', attached to possessive pronouns, e.g. meopte 'by my very own'
 pubens | 1 | pubescent
