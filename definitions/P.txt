@@ -3155,7 +3155,7 @@ pruina | 4 | in poetry, by extension, winter
 prurio | 1 | itch
 prurio | 3 | by extension, long for, be eager for something, e.g. a fight
 prurio | 4 | by extension, be wanton, lustful
-prytaneum | 1 | town-hall
+prytaneum | 1 | town hall
 prytaneum | 3 | the town hall of a Greek city, where honoured citizens dined at public expense
 psallo | 1 | play
 psallo | 3 | to play a stringed instrument, to sing to the lyre: psallere et saltare, to play and dance
@@ -3165,8 +3165,16 @@ psalterium | 3 | a stringed instrument like a lute
 psalterium | 4 | in Christian Latin, the Psalter, the Psalms of David
 pseudothyrum | 1 | back door
 pseudothyrum | 3 | figuratively, a secret way in: per pseudothyrum, by the back door, underhand
+psythius | 1 | psythian
+psythius | 3 | of a kind of vine grown for raisins and sweet wine: psythia vitis, the psythian vine
 pte | 1 | own
 pte | 3 | an enclitic suffix meaning 'own, self', attached to possessive pronouns, e.g. meopte 'by my very own'
+pterygium | 1 | eye film
+pterygium | 3 | a film of tissue growing over the eye
+pterygium | 4 | a growth of flesh over the nails; a cloudy flaw in a beryl
+ptisana | 1 | barley
+ptisana | 3 | hulled crushed barley, pearl barley
+ptisana | 4 | barley-water, a drink made from it
 pubens | 1 | pubescent
 pubens | 3 | by extension, (of plants) flourishing, luxuriant, in full vigour
 pubertas | 1 | puberty
@@ -3354,6 +3362,8 @@ purpuratus | 3 | as a noun, a courtier, a high officer at a king's court
 purpureus | 1 | purple
 purpureus | 3 | by extension, in poetry, clothed in purple, of royal or noble rank
 purpureus | 4 | in poetry, brilliant, radiant, beautiful
+purpurissum | 1 | rouge
+purpurissum | 3 | a dark red colour used as a dye and as rouge
 purpuro | 1 | purple
 purpuro | 3 | intransitively, be purple, glow with purple colour
 purulentus | 1 | purulent
@@ -3400,3 +3410,14 @@ putresco | 3 | become loose, friable, crumbly
 putresco | 4 | figuratively, fall into contempt, become disgraced
 putus1 | 1 | pure
 putus1 | 3 | (usually paired with purus) utterly pure, thoroughly clean, an emphatic doublet
+pycta | 1 | boxer
+pycta | 3 | a boxer, a prize fighter
+pyra | 1 | pyre
+pyra | 3 | a funeral pyre
+pyra | 4 | in Christian Latin, a fire
+pyramis | 1 | pyramid
+pyramis | 3 | a pyramid, as of the Egyptian kings; a pyramid in geometry
+pythaules | 1 | flute player
+pythaules | 3 | a flute player who accompanied the solo songs of the stage
+pyxis | 1 | box
+pyxis | 3 | a small box, especially for ointment or medicine: pyxis veneni, a box of poison
