@@ -2424,6 +2424,9 @@ ancora | 3 | ancoram jacere, to cast anchor; in ancoris consistere, to ride at a
 ancora | 4 | figuratively, a support, refuge or hope: ultima ancora, a last hope
 andabata | 1 | blindfolded gladiator
 andabata | 3 | a gladiator whose helmet had no eye-holes, so that he fought blind for the crowd's amusement: more andabatarum, in the manner of the blindfold gladiators
+andron | 1 | corridor
+andron | 3 | in a Roman house, a passage between two walls or courtyards
+andron | 4 | in a Greek house, the men's quarters
 anfractus1 | 1 | winding
 anfractus1 | 3 | of roads and spaces, bending and curving: spatia anfracta, winding stretches
 anfractus1 | 4 | as a noun, anfractum, a bend or curve, an early form of the classical anfractus
@@ -2727,6 +2730,8 @@ anteverto | 2 | precede
 anteverto | 3 | to put oneself in front, to go on ahead: stella antevertens, the planet running ahead
 anteverto | 4 | to be beforehand with someone or something: damnationem veneno antevertere, to forestall condemnation by poison
 anteverto | 5 | to give a thing precedence over others: omnibus consiliis antevertendum, this must come before every other plan
+antibacchius | 1 | antibacchius
+antibacchius | 3 | in metre, a foot of two long syllables and one short, or the reverse; a verse made of such feet
 anticipatio | 1 | preconception
 anticipatio | 3 | in Cicero, the notion of a thing formed in the mind before any teaching, the Greek prolepsis: anticipatio deorum, the inborn idea of gods
 anticipatio | 4 | in rhetoric, anticipation, meeting an objection before it is raised
@@ -2734,6 +2739,9 @@ anticipo | 1 | anticipate
 anticipo | 3 | to take or do a thing before its time: vigilias anticipare, to be awake ahead of the watches
 anticipo | 4 | in the participle, known in advance, inborn: anticipatum mentibus nostris, already fixed in our minds
 anticipo | 5 | rarely, to outdo someone
+antidotum | 1 | antidote
+antidotum | 3 | a remedy against poison, or any remedy
+antidotum | 4 | figuratively, a safeguard against a danger: antidotum adversus Caesarem, an antidote against Caesar
 antiquarius | 1 | antiquarian
 antiquarius | 3 | fond of old things, and as a noun an antiquary: nec quemquam adeo antiquarium puto, I do not think anyone so devoted to the old
 antiquarius | 4 | in later Latin, a copyist of old manuscripts
@@ -2753,12 +2761,16 @@ antiquus | 5 | in the comparative and superlative, taking first place, of more w
 antiquus | 6 | old-fashioned in the good sense, plain and honest: antiquis moribus, of the old school
 antiquus | 7 | venerable, time-honoured: terra antiqua potens armis, an ancient land strong in arms
 antiquus | 8 | the adverb antiquitus, in old times and from old times; and antique, in the old style
+# skip: antisigma a critical sign and a letter Claudius tried to introduce, nothing a learner can use
 antistes | 1 | high priest
 antistes | 2 | master
 antistes | 3 | an overseer or president of anything: vindemiatorum antistes, the foreman of the grape-pickers
 antistes | 4 | the overseer of a temple, a chief priest, and in Christian writers a bishop: antistes sacrorum, the priest in charge of the rites
 antistes | 5 | in the feminine, antistes or antistita, a chief priestess: Cybeles antistita, priestess of Cybele
 antistes | 6 | figuratively, a master of an art or a study: artis dicendi antistes, a high priest of the art of speaking
+antrum | 1 | cave
+antrum | 3 | in poetry, a cave or grotto: Pierio antro, in the Muses' grotto
+antrum | 4 | any hollow, as of a tree, or a closed litter
 anularius | 1 | of rings
 anularius | 3 | belonging to a signet-ring: creta anularia, the chalk ring-makers used
 anularius | 4 | as a noun, a ring-maker
@@ -2778,6 +2790,8 @@ anxius | 3 | troubled and uneasy as a lasting frame of mind, with a genitive, an
 anxius | 4 | in an active sense, of the things that cause the worry: anxiae curae, harassing cares
 anxius | 5 | of work, done with anxious care: elegantia neque morosa neque anxia, an elegance neither fussy nor laboured
 anxius | 6 | the adverb anxie, anxiously
+apage | 1 | begone
+apage | 3 | in early Latin and comedy, away with you!, away with it!: apage te a me, get away from me; apage sis, be off, please
 aper1 | 1 | boar
 aper1 | 3 | the wild boar, the great quarry of the hunt: aper Erymanthius, the Erymanthian boar
 aper1 | 4 | proverbially: uno saltu duos apros capere, to take two boars at one leap, our two birds with one stone; apros immittere fontibus, to let boars into clear springs, of a senseless act
@@ -2802,6 +2816,8 @@ apex | 5 | any cap or helmet, and of a king a crown; of a bird, its crest
 apex | 6 | the crowning honour or highest ornament of something: apex est senectutis auctoritas, the crown of old age is the weight it carries
 apex | 7 | in grammar, the long mark written over a vowel
 apex | 8 | the smallest stroke of a letter, and so the least detail of a thing
+aphractus | 1 | open-ship
+aphractus | 3 | a long ship without a deck, an open galley
 apiarius | 1 | of bees
 apiarius | 3 | as a noun, apiarius, a bee-keeper
 apiarius | 4 | as a noun, apiarium, a bee-house or hive
@@ -2830,6 +2846,14 @@ apo | 6 | aptus, bound and held together, of things that make one connected whol
 apo | 7 | aptus as an adjective, fit and suited to something (with ad or the dative): locus ad insidias aptus, a place suited to an ambush
 apo | 8 | of speech, apt and appropriate to its subject
 apo | 9 | the adverb apte, closely and tightly; and figuratively, fitly and properly: apte dicere, to speak to the point
+apocolocyntosis | 1 | pumpkinification
+apocolocyntosis | 3 | the title of Seneca's satire on Claudius, who is turned into a pumpkin instead of a god
+apologus | 1 | fable
+apologus | 3 | a fable in the manner of Aesop
+apologus | 4 | in early Latin, a story, a tale
+# review: apophoreta English has no single word for presents a guest takes home
+apophoreta | 1 | take-home presents
+apophoreta | 3 | presents given to guests to carry home, especially at the Saturnalia; also the title of Martial's fourteenth book
 apostolus | 1 | apostle
 apostolus | 3 | in law, a notice sent up to a higher court on appeal
 apparatus2 | 1 | preparation
