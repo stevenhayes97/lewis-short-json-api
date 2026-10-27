@@ -2528,3 +2528,10 @@ symphoniacus | 4 | symphoniaca herba, henbane
 synodicus | 1 | synodic
 synodicus | 3 | in astronomy, of the moon in conjunction with the sun
 synodicus | 4 | in Christian Latin, according to the decrees of a synod
+synthesis | 1 | dinner gown
+synthesis | 3 | a loose gown worn at dinner parties
+synthesis | 4 | a set of clothes; a set of dishes or plate
+synthesis | 5 | in medicine, a compound
+syrma | 1 | train
+syrma | 3 | a robe with a long train, worn especially by tragic actors
+syrma | 4 | in poetry, tragedy
