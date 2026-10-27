@@ -1,5 +1,7 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_L.json (Lewis & Short via Perseus), simplified for learners.
+labarum | 1 | labarum
+labarum | 3 | in later Latin, the imperial military standard, on which Constantine set the cross and the monogram of Christ
 labasco | 1 | totter
 labasco | 3 | figuratively, waver, give way (of resolve or feelings)
 labefacio | 1 | shake
@@ -145,6 +147,11 @@ laevus | 1 | left
 laevus | 2 | unlucky
 laevus | 3 | figuratively, awkward, foolish, silly
 laevus | 4 | lucky, favourable (in augural language, since the augur faced south)
+lagena | 1 | flask
+lagena | 3 | a large earthenware bottle with a neck and handles, for wine
+laicus | 1 | lay
+laicus | 3 | in Christian Latin, of the people, not of the clergy; as a noun, a layman
+laicus | 4 | not consecrated: laici panes, ordinary bread
 lama | 1 | bog
 lambo | 1 | lick
 lambo | 3 | by extension, flow past, wash (of a river)
@@ -155,9 +162,18 @@ lamentatio | 1 | lamentation
 lamentor | 1 | lament
 lamentor | 3 | bewail, weep over (a person or thing)
 lamentum | 1 | lamentation
+lamia1 | 1 | witch
+lamia1 | 3 | a witch who was said to suck children's blood, a bogey of nursery tales
+lamia1 | 4 | a kind of shark or flatfish
 lamina | 1 | plate
 lamina | 3 | red-hot iron plates (an instrument of torture)
 lamina | 4 | by extension, coin, money
+lampas | 1 | torch
+lampas | 2 | lamp
+lampas | 3 | a torch, especially in poetry: lampada tradere, to hand on the torch, as in the relay race
+lampas | 4 | a lamp: lampades cum oleo, lamps with oil
+lampas | 5 | in poetry, brightness, light, as of the sun or moon; and so a day
+lampas | 6 | a meteor like a torch
 lana | 1 | wool
 lana | 3 | by extension, wool-working, spinning
 lana | 4 | by extension, down, soft fluff (of feathers or hair)
@@ -201,6 +217,7 @@ lanugo | 3 | by extension, sawdust
 lanx | 1 | platter
 lanx | 3 | the pan of a balance (scale)
 lanx | 4 | figuratively, aequa lance, with equal weight, impartially
+lapathum | 1 | sorrel
 lapicidinae | 1 | quarries
 lapidarius | 1 | of stone
 lapidarius | 3 | stony, full of stones
@@ -415,7 +432,16 @@ legulus | 1 | gatherer
 legulus | 3 | especially, olive-picker (one who gathers fallen olives)
 legumen | 1 | pulse
 legumen | 3 | in particular, bean
+lembus | 1 | skiff
+lembus | 3 | a small, fast boat with a sharp prow, a cutter
+lemma | 1 | theme
+lemma | 3 | the subject of a piece of writing
+lemma | 4 | the heading of an epigram; and the epigram itself
+lemma | 5 | in logic, the premise of an argument
 lemniscatus | 1 | beribboned
+lemniscus | 1 | ribbon
+lemniscus | 3 | a ribbon hanging from a victor's crown, a mark of the highest honour
+lemniscus | 4 | in medicine, a roll of lint soaked in a remedy
 lena | 1 | procuress
 lena | 3 | by extension, seductress, enticer
 lenio | 1 | soothe
@@ -461,6 +487,8 @@ leo2 | 1 | lion
 leo2 | 3 | the constellation Leo
 leoninus1 | 1 | leonine
 leoninus1 | 3 | figuratively, leonina societas, a one-sided partnership (where one party takes all the gain)
+leontice | 1 | leontice
+leontice | 3 | a plant, also called cacalia
 lepidus1 | 1 | charming
 lepidus1 | 3 | in particular, witty, facetious (of speech)
 lepor | 1 | charm
