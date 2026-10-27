@@ -390,9 +390,19 @@ scansio | 1 | ascent
 scansio | 3 | grammatical, the scansion of verse
 scapha | 1 | skiff
 scapha | 3 | a light boat, a ship's boat: de navi in scapham desilire, to jump from the ship into the boat
+scaphium | 1 | bowl
+scaphium | 3 | a boat-shaped drinking cup or bowl
+scaphium | 4 | a chamber pot
+scaphium | 5 | a bowl-shaped sundial; the vessel of a water clock
 scapulae | 1 | shoulder-blades
 scapulae | 3 | transferred, the shoulders, the back
+scapus | 1 | shaft
+scapus | 3 | a stem or stalk; the shaft of a column
+scapus | 4 | the rod on which a papyrus roll was wound; a sheet of papyrus
+scapus | 5 | the beam of a balance; a weaver's beam; the upright of a door or a staircase
 scarifo | 1 | scarify
+scarus | 1 | parrotfish
+scarus | 3 | a sea fish much prized by the Romans, the parrot wrasse
 scatebra | 1 | spring
 scateo | 1 | gush
 scateo | 2 | abound
@@ -408,14 +418,43 @@ scelestus | 4 | transferred, unlucky, unfortunate, calamitous
 scelus | 1 | crime
 scelus | 3 | concretely, as a term of abuse, a scoundrel, a villain
 scelus | 4 | transferred, a misfortune, a calamity
+sceptrum | 1 | sceptre
+sceptrum | 3 | a royal staff: sedens cum purpura et sceptro, sitting in purple with a sceptre
+sceptrum | 4 | in poetry, kingship, rule, dominion: sceptra mihi liquit Pelops, Pelops left me his kingdom
+sceptrum | 5 | in jest, a schoolmaster's cane
+schedius | 1 | improvised
+schedius | 3 | schedium, a poem made on the spur of the moment
+schedius | 4 | schedia, a raft hastily put together
+schema | 1 | figure
+schema | 3 | in rhetoric, a figure of speech
+schema | 4 | in early Latin, a shape, a manner of dress, a posture: cum servili schema, in the guise of a slave
+schema | 5 | in geometry, a figure or diagram
 schistos | 1 | fissile
+schoenus | 1 | rush
+schoenus | 3 | an aromatic rush used to flavour wine, and a cheap perfume made from it
+schoenus | 4 | a Persian measure of distance, about forty stades
+schola | 1 | school
+schola | 2 | lecture
+schola | 3 | a learned discussion or lecture: scholas Graecorum more habere, to give lectures in the Greek manner
+schola | 4 | a place of teaching, a school
+schola | 5 | the followers of a teacher, a school of thought: omnes philosophorum scholae, all the schools of philosophy
+schola | 6 | a waiting area in a bathhouse; a hall for showing works of art
+schola | 7 | in later Latin, a guild or corps, and its meeting hall
 scholaris | 1 | scholastic
 scholaris | 3 | as a noun, the imperial guard
+scholasticus | 1 | academic
+scholasticus | 2 | rhetorician
+scholasticus | 3 | of the schools of rhetoric: controversiae scholasticae, practice debates in the schools
+scholasticus | 4 | as a noun, a teacher or student of rhetoric, as opposed to a working orator
+scholasticus | 5 | in later Latin, a learned man, a scholar
 scientia | 1 | knowledge
 scientia | 2 | skill
 scilicet | 1 | clearly
 scilicet | 3 | ironic, of course, forsooth
 scilicet | 4 | transferred, namely, that is to say
+scilla | 1 | squill
+scilla | 3 | the sea onion, a bulb used in medicine
+scilla | 4 | a prawn or shrimp, more often spelled squilla
 scindo | 1 | tear
 scindo | 3 | to split, divide, separate
 scindo | 4 | figuratively, to distract, agitate, disturb
@@ -426,6 +465,8 @@ scintillo | 1 | sparkle
 scio | 1 | know
 scio | 3 | as a participle (sciens), knowingly, purposely, intentionally
 scio | 4 | as a participle, sciens, with the genitive, skilled, versed, expert in something
+scipio1 | 1 | staff
+scipio1 | 3 | a staff carried by men of rank: scipio eburneus, the ivory staff of men who had celebrated a triumph
 scirpeus | 1 | of rushes
 scirpeus | 3 | as a noun (scirpea), a rush basket-work cart-body, used for manure
 scirpiculus | 1 | rush-basket
@@ -447,6 +488,7 @@ scobis | 1 | sawdust
 scopa1 | 1 | broom
 scopa1 | 3 | literally (rare), twigs, thin branches
 scopa1 | 4 | proverbial, scopas dissolvere, to untie a broom, to throw into confusion
+# skip: scopelismos an Arabian crime known from one passage of the Digest, nothing to teach
 scopulosus | 1 | rocky
 scopulus | 1 | reef
 scopulus | 2 | danger
