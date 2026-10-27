@@ -1944,6 +1944,8 @@ allocutio | 1 | address
 allocutio | 3 | a speaking to someone, an address
 allocutio | 4 | words of comfort, consolation
 allocutio | 5 | a general's speech to his troops
+allophylus | 1 | foreign
+allophylus | 3 | of another race or stock; as a plural noun, foreigners, aliens
 alloquium | 1 | address
 alloquium | 3 | a speaking to someone, and so encouragement or consolation
 alloquor | 1 | address
@@ -1981,6 +1983,10 @@ alo | 3 | to feed or nourish someone, to keep them fed
 alo | 4 | to bring a child up, to raise it
 alo | 5 | to maintain an army or a household, to keep it going
 alo | 6 | to foster or strengthen a thing: honos alit artes, honour nourishes the arts
+alpha | 1 | alpha
+alpha | 3 | the first letter of the Greek alphabet: ante alpha et beta, before learning one's letters
+alpha | 4 | figuratively, the first or best of anything
+alpha | 5 | in Christian Latin, ego sum alpha et omega, I am the beginning and the end
 alsius1 | 1 | chilly
 alsius1 | 3 | cold, chilly, a rare word
 altaria | 1 | altar
@@ -2162,6 +2168,15 @@ ambo | 1 | both
 ambo | 3 | both of a natural pair: ambas manus, both hands
 ambo | 4 | the two of them taken together, as against uterque, which is each of the two separately: consules ambo, the two consuls acting as one
 ambo | 5 | in poetry, simply two: via se findit in ambas partes, the road divides into two
+ambrosia1 | 1 | ambrosia
+ambrosia1 | 3 | the food of the gods, as nectar was their drink
+ambrosia1 | 4 | the fragrant ointment of the gods
+ambrosia1 | 5 | orator ambrosia alendus, an orator fit to be fed on ambrosia, a godlike speaker
+ambrosia1 | 6 | the name of several plants, especially a kind of mugwort
+ambrosia1 | 7 | an antidote to poison
+ambrosius1 | 1 | ambrosial
+ambrosius1 | 2 | divine
+ambrosius1 | 3 | in poetry, belonging to the gods, and so lovely, fragrant or sweet: ambrosiae comae, ambrosial locks
 ambulacrum | 1 | avenue
 ambulacrum | 3 | a walk planted with trees beside a house, an early word for what classical Latin calls ambulatio
 ambulatio | 1 | walk
@@ -2289,6 +2304,8 @@ amolior | 3 | to shift something heavy or awkward out of the way: obstantia silv
 amolior | 4 | amoliri se, to take oneself off: hinc vos amolimini, clear off out of here
 amolior | 5 | figuratively, to put away or ward off: invidiam ab aliquo amoliri, to turn ill will away from someone
 amolior | 6 | in argument, to dispose of a point, to refute it
+amomum | 1 | amomum
+amomum | 3 | an aromatic shrub from which a costly fragrant balsam was made: Assyrium amomum, Assyrian amomum
 amor | 1 | love
 amor | 3 | love felt for friends and family, warmer than caritas, which is regard: amore aliquem amplecti, to hold someone in affection
 amor | 4 | passionate or sexual love, often in the plural: amore saucia, wounded by love
@@ -2302,6 +2319,8 @@ amoveo | 4 | amovere se, to withdraw, to retire: te hinc amove, off with you
 amoveo | 5 | of feelings and abstractions, to put aside: amoto metu, with fear removed; amoto ludo, jesting aside
 amoveo | 6 | politely, to make off with, to steal: boves per dolum amotae, cattle spirited away by a trick
 amoveo | 7 | in Tacitus, to banish to an island
+amphitheatrum | 1 | amphitheatre
+amphitheatrum | 3 | an oval building with tiers of seats all round, used for gladiatorial shows and fights with wild beasts
 amphora | 1 | jar
 amphora | 3 | a tall two-handled clay jar for wine, oil or honey, and by extension the wine in it
 amphora | 4 | as a liquid measure, about six and a half gallons
@@ -2367,8 +2386,15 @@ an1 | 6 | after verbs of doubting and asking, whether: quaesivi an misisset, I a
 an1 | 7 | haud scio an and nescio an lean towards the clause after an, so they mean I rather think, very likely: haud scio an ita sit, I am inclined to think it is so
 anancites | 1 | diamond
 anancites | 3 | a name given to the diamond as a stone that drives away fear and gloom, recorded once by Pliny
+anaphora | 1 | anaphora
+anaphora | 3 | in rhetoric, the repetition of a word at the start of successive clauses
+anaphora | 4 | the rising of the stars
 anas1 | 1 | duck
 anas1 | 3 | the duck, wild or kept on the farm: greges anatum, flocks of ducks
+anathema2 | 1 | curse
+anathema2 | 3 | in Christian Latin, something devoted to destruction, an accursed thing
+anathema2 | 4 | in Christian Latin, the curse of excommunication
+anathema2 | 5 | in Christian Latin, the person cursed or excommunicated: anathema esse, to be accursed
 anceps | 1 | doubtful
 anceps | 2 | double
 anceps | 3 | literally two-headed, and of a mountain with two peaks: anceps Janus, two-faced Janus
@@ -2388,6 +2414,14 @@ ancillula | 3 | a young slave girl, a double diminutive of ancilla
 ancillula | 4 | figuratively of one branch of knowledge made the handmaid of another: juris scientiam eloquentiae ancillulam adjungere, to attach legal knowledge to oratory as its handmaid
 anclo | 1 | serve
 anclo | 3 | an old word for ministrare, to wait on or serve out, used of the meat and wine at a libation and found only in Livius Andronicus
+ancon1 | 1 | bracket
+ancon1 | 3 | a projecting stone in a wall that supports something, a console
+ancon1 | 4 | the arm of a carpenter's square
+ancon1 | 5 | a forked pole for spreading nets
+ancon1 | 6 | the arm of a chair
+ancora | 1 | anchor
+ancora | 3 | ancoram jacere, to cast anchor; in ancoris consistere, to ride at anchor; ancoram tollere, to weigh anchor
+ancora | 4 | figuratively, a support, refuge or hope: ultima ancora, a last hope
 andabata | 1 | blindfolded gladiator
 andabata | 3 | a gladiator whose helmet had no eye-holes, so that he fought blind for the crowd's amusement: more andabatarum, in the manner of the blindfold gladiators
 anfractus1 | 1 | winding
