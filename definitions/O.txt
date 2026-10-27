@@ -31,6 +31,9 @@ obduresco | 3 | become hardened, callous, or unmoved (the classical use; the lit
 obduro | 1 | persevere
 obduro | 3 | perfer et obdura, be strong and hold firm
 obedo | 1 | devour
+obeliscus | 1 | obelisk
+obeliscus | 3 | a tall, tapering stone pillar, sacred to the Sun in Egypt
+obeliscus | 4 | in later Latin, a critical mark against a doubtful passage; a rosebud
 obeo | 1 | die
 obeo | 2 | attend to
 obeo | 3 | travel through, traverse
@@ -146,6 +149,8 @@ oboedio | 2 | yield
 oboedio | 3 | (of things) be manageable, pliant, easily worked
 oboleo | 1 | smell
 oboleo | 3 | oboluisti allium, you reek of garlic
+obolus | 1 | obol
+obolus | 3 | a small Greek coin, a sixth of a drachma; as a weight, a sixth of a drachm
 oborior | 1 | arise
 obrepo | 1 | creep up
 obrepo | 2 | surprise
@@ -163,6 +168,9 @@ obruo | 2 | bury
 obruo | 3 | sink, submerge (in water)
 obruo | 4 | overload, surfeit (with something, e.g. wine, criticism)
 obruo | 5 | outdo, eclipse, surpass
+obrussa | 1 | assay
+obrussa | 3 | the testing of gold in fire: aurum ad obrussam, gold of tested purity
+obrussa | 4 | figuratively, a touchstone: adhibenda tamquam obrussa ratio, reason must be applied as a touchstone
 obsaepio | 1 | enclose
 obsaepio | 2 | block
 obsaepio | 3 | figuratively, obsaepire viam, to block off a path or route (of an opportunity)
@@ -237,6 +245,8 @@ obsisto | 3 | obsistere alicui rei, to stand in the way of something, oppose it 
 obsolefacio | 1 | degrade
 obsolesco | 1 | become obsolete
 obsolesco | 3 | become shabby, worn out, or common (of clothing, style, or quality)
+obsonium | 1 | provisions
+obsonium | 3 | food eaten with bread, especially fish and meat bought at market
 obsono1 | 1 | cater
 obsono1 | 3 | obsonare famem ambulando, to work up an appetite by taking a walk
 obsorbeo | 1 | gulp
@@ -443,6 +453,18 @@ odoror | 3 | figuratively, search out, investigate (of plots or hidden informati
 odorus | 1 | fragrant
 odorus | 2 | keen-scented
 odorus | 3 | odora canum vis, the keen-scented pack of hounds (a famous Virgilian phrase)
+oeconomia | 1 | arrangement
+oeconomia | 3 | the ordering of a speech or play; household management
+oeconomicus | 1 | orderly
+oeconomicus | 3 | of good arrangement, methodical: oeconomica dispositio, an orderly plan
+oeconomicus | 4 | Oeconomicus, Xenophon's book on running a household
+oeconomus | 1 | steward
+oeconomus | 3 | in later Latin, a steward or manager of a household or a church
+oenanthe | 1 | dropwort
+oenanthe | 3 | a plant, dropwort; also the grape of the wild vine, and a bird
+oestrus | 1 | gadfly
+oestrus | 3 | the gadfly that maddens cattle
+oestrus | 4 | in later poetry, frenzy, inspiration
 offa | 1 | morsel
 offa | 2 | lump
 offendo1 | 1 | offend
@@ -491,6 +513,9 @@ offundo | 3 | figuratively, caligo animis offusa, a darkness or confusion spread
 oggannio | 1 | growl
 oggannio | 3 | nag, grumble at repeatedly (of tiresome scolding)
 oh | 1 | oh
+olea | 1 | olive
+olea | 3 | the olive, the fruit: oleas legere, to gather olives
+olea | 4 | the olive tree
 oleagineus | 1 | olive
 oleagineus | 3 | olive-colored (of a shade or hue)
 olearius | 1 | oil
@@ -498,6 +523,11 @@ olearius | 3 | as a noun, an oil merchant or oil-seller
 oleo1 | 1 | smell
 oleo1 | 2 | betray
 oleo1 | 3 | figuratively, quid olet?, what does it smack of?, what does this suggest? (detecting something by its telltale sign)
+oleum | 1 | oil
+oleum | 3 | olive oil: instillare oleum lumini, to put oil in a lamp
+oleum | 4 | oleum et operam perdere, to waste oil and effort, to labour in vain
+oleum | 5 | the wrestling school, from the oil athletes used; and the school exercises of rhetoric
+oleum | 6 | in Christian Latin, the oil of anointing: oleum exultationis, the oil of gladness
 olfacio | 1 | smell
 olfacio | 2 | surmise
 olfacto | 1 | sniff
@@ -546,6 +576,12 @@ onus | 3 | cargo, freight (of goods or baggage)
 onus | 4 | in poetry, unborn child, the burden of the womb
 onustus | 1 | laden
 onustus | 3 | by extension, full, abounding in (filled with something)
+onychinus | 1 | onyx
+onychinus | 3 | of onyx; of the colour of a fingernail, yellowish
+onyx | 1 | onyx
+onyx | 3 | onyx, a yellowish marble used for vessels and floors
+onyx | 4 | a box or jar of onyx for ointment: nardi parvus onyx, a small onyx jar of nard
+onyx | 5 | a yellowish precious stone
 opaco | 1 | shade
 opacus | 1 | shady
 opacus | 2 | dark
@@ -584,6 +620,8 @@ opinio | 3 | by extension, rumor, report (a circulating story)
 opinor | 1 | suppose
 opinor | 3 | (parenthetically) I suppose, I should think
 opiparus | 1 | sumptuous
+opisthotonos | 1 | tetanus
+opisthotonos | 3 | a spasm that bends the body violently backwards
 opitulor | 1 | help
 opitulor | 3 | opitulari alicui, to come to someone's aid (with the dative)
 oportet | 1 | ought
@@ -677,6 +715,9 @@ orbus | 3 | orbus alicuius rei, deprived or devoid of something, especially some
 orca1 | 1 | whale
 orca1 | 2 | jar
 orca1 | 3 | in poetry, dice-box (a specific gaming implement)
+orchestra | 1 | orchestra
+orchestra | 3 | the front seats in the theatre, reserved for the senators
+orchestra | 4 | in poetry, the senate itself
 ordinarius | 1 | ordinary
 ordinarius | 3 | consul ordinarius, a regularly elected consul (as opposed to a consul suffectus, appointed to fill a vacancy)
 ordinatim | 1 | in order
@@ -691,6 +732,15 @@ ordo | 1 | order
 ordo | 2 | class
 ordo | 3 | rank, line (military, of soldiers in formation)
 ordo | 4 | ordo senatorius, the senatorial order (one of Rome's formal social classes)
+organicus | 1 | mechanical
+organicus | 3 | of instruments and machines; of musical instruments
+organicus | 4 | organicus as a noun, a musician
+organum | 1 | instrument
+organum | 2 | organ
+organum | 3 | any tool or implement, a machine
+organum | 4 | a musical instrument; in later Latin, an organ
+orichalcum | 1 | brass
+orichalcum | 3 | yellow copper ore, and the brass made from it, highly prized
 orientalis | 1 | eastern
 originalis | 1 | original
 origo1 | 1 | origin
@@ -707,6 +757,8 @@ ornamentum | 2 | equipment
 ornamentum | 3 | figuratively, ornamentum rei publicae, the pride and glory of the state (of a distinguished person)
 ornatus2 | 1 | adornment
 ornatus2 | 2 | attire
+ornithias | 1 | bird-wind
+ornithias | 3 | the spring wind that brings the birds of passage
 orno | 1 | adorn
 orno | 2 | equip
 orno | 3 | figuratively, praise, honor, extol (of commending someone's achievements)
@@ -715,6 +767,8 @@ oro | 3 | oro te, I beg you, please (a common parenthetical formula of politenes
 oro | 4 | plead, argue a case (as an advocate or ambassador)
 orsa | 1 | beginning
 orsa | 2 | speech
+orthius | 1 | high-pitched
+orthius | 3 | in music, high and loud: carmen orthium, a stirring high-pitched song
 ortus2 | 1 | rising
 ortus2 | 2 | origin
 os1 | 1 | mouth
@@ -756,6 +810,11 @@ ostiatim | 3 | from house to house, visiting each one in turn
 ostium | 1 | door
 ostium | 2 | mouth
 ostium | 3 | ostium fluminis, the mouth of a river (a common geographic use)
+ostrea | 1 | oyster
+ostrea | 3 | an oyster or other shellfish
+ostrum | 1 | purple
+ostrum | 3 | the purple dye from the murex shellfish
+ostrum | 4 | purple cloth, a purple robe or coverlet: strato super discumbitur ostro, they recline on purple coverlets
 otiosus | 1 | idle
 otiosus | 2 | calm
 otiosus | 3 | as a noun, a private citizen, someone not holding public office
@@ -772,3 +831,5 @@ ovo | 1 | exult
 ovo | 3 | celebrate an ovation, triumph in the lesser triumphal procession (see ovatio)
 ovum | 1 | egg
 ovum | 2 | oval
+oxymorus | 1 | paradoxical
+oxymorus | 3 | oxymora verba, phrases that seem absurd but hide a point, as cum tacent clamant, their silence is a shout

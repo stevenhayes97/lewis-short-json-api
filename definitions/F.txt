@@ -100,6 +100,8 @@ faenus | 4 | in general, gain, profit, advantage (in a non-financial sense)
 faex | 1 | dregs
 faex | 3 | figuratively, the dregs, the lowest class (of a people)
 faex | 4 | by extension, rouge, cosmetic paint (for the face)
+fagus | 1 | beech
+fagus | 3 | the beech tree: sub tegmine fagi, under the shade of a beech
 fala | 1 | scaffold
 fala | 3 | in the army, a siege-tower (for throwing missiles)
 fala | 4 | at the circus, one of the turning-posts (pillars in the spina)
@@ -294,6 +296,8 @@ fere | 3 | with a negative, scarcely, hardly
 fere | 4 | of time, habitually, generally, usually
 ferentarius | 1 | skirmisher
 ferentarius | 3 | by extension, a ready helper, one quick to assist
+feretrum | 1 | bier
+feretrum | 3 | a frame or litter for carrying the dead, or the spoils and images in a triumph
 feriae | 1 | holidays
 feriae | 3 | by extension, in general, rest, peace, leisure
 ferinus | 1 | wild
@@ -991,6 +995,14 @@ fuco | 3 | in particular, to rouge, paint (the face)
 fuco | 4 | figuratively, to embellish, gloss over, disguise
 fucosus | 1 | counterfeit
 fucosus | 3 | of colour, painted, showy, gaudy
+fuga | 1 | flight
+fuga | 2 | exile
+fuga | 3 | running away, flight: in fugam se dare, to take flight; hostes in fugam conicere, to put the enemy to flight
+fuga | 4 | flight from one's country, exile, banishment
+fuga | 5 | avoiding something, aversion: fuga laboris, shirking of work
+fuga | 6 | in poetry, swift motion, speed: volucrem fuga praevertere Hebrum, to outrun the swift Hebrus
+fuga | 7 | a place of refuge or exile
+fuga | 8 | a means of escape: fugam dare, to give a way of escape
 fugax | 1 | fleeting
 fugax | 3 | with a genitive, shunning, avoiding (something)
 fugio | 1 | flee

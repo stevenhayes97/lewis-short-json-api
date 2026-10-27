@@ -1,11 +1,23 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_I.json (Lewis & Short via Perseus), simplified for learners.
+iambus | 1 | iamb
+iambus | 3 | in metre, an iambic foot, a short syllable followed by a long
+iambus | 4 | an iambic poem, especially a satirical one: Archilochi iambi, the lampoons of Archilochus
+iaspis | 1 | jasper
+iaspis | 3 | a green precious stone; in poetry, a yellow one
 ibi | 1 | there
 ibi | 3 | of time, then, thereupon
 ibi | 4 | of other relations, in that matter, on that occasion, in that condition
 ibidem | 1 | right there
 ibidem | 3 | of time, at that very moment
 ibidem | 4 | of other relations, in the same matter
+ibis | 1 | ibis
+ibis | 3 | the ibis, a sacred bird of Egypt; Ibis, the title of Ovid's poem of curses
+icas | 1 | twentieth
+icas | 3 | the twentieth day of the month, kept as a feast by the Epicureans
+ichneumon | 1 | ichneumon
+ichneumon | 3 | the Egyptian mongoose, which hunts crocodile eggs
+ichneumon | 4 | a wasp that preys on spiders
 ictus2 | 1 | blow
 ictus2 | 3 | in particular, a beat, in prosody or music
 ictus2 | 4 | a beat of the pulse
@@ -17,6 +29,11 @@ idem | 4 | connecting contrasting predicates: nevertheless, yet, and still
 idem | 5 | as a term of comparison, with et, ac, quam, or the dative: the same as, identical with
 identidem | 1 | repeatedly
 ideo | 1 | therefore
+idiota | 1 | layman
+idiota | 3 | an untrained, ordinary person, not an expert; an ignorant person
+idolum | 1 | apparition
+idolum | 3 | an image or form; a ghost, phantom
+idolum | 4 | in Christian Latin, an idol: cultor idolorum, an idol-worshipper
 idoneus | 1 | suitable
 idoneus | 3 | fit, apt, or capable for a particular task, often with ad or the dative
 idoneus | 4 | of a witness or authority, sufficient, credible, reliable
@@ -2281,6 +2298,8 @@ invulgo | 1 | publish
 io1 | 1 | hurrah
 io1 | 3 | expressing pain, oh, ah
 io1 | 4 | as an urgent call, look out, quick
+iota | 1 | iota
+iota | 3 | the Greek letter iota; figuratively, the smallest thing: unum iota tollere, to change a single letter
 ipse | 1 | himself
 ipse | 3 | for emphasis, precisely, exactly, in person
 ipse | 4 | of one's own accord, of oneself, spontaneously
@@ -2290,6 +2309,8 @@ iracundia | 1 | irascibility
 iracundus | 1 | irascible
 irascor | 1 | be angry
 irascor | 3 | transferred, of things such as the sea or wind, to rage, be violent
+ironia | 1 | irony
+ironia | 3 | saying the opposite of what one means; in Socrates, pretended ignorance: sine ulla ironia, in all seriousness
 irradio | 1 | illuminate
 irrationabilis | 1 | irrational
 irrationalis | 1 | irrational
@@ -2333,6 +2354,8 @@ irruptio | 1 | irruption
 irruptio | 3 | in the army, an incursion, a sally, a raid
 is | 1 | he
 is | 3 | such, of such a kind or sort
+iselasticus | 1 | triumphal
+iselasticus | 3 | certamen iselasticum, a contest whose victor rode home in triumph; iselasticum, the prize given him
 istac | 1 | that way
 iste | 1 | that
 iste | 3 | often with scorn or contempt, that wretched, that so-called
@@ -2361,6 +2384,8 @@ iteratio | 3 | in farming, a second ploughing
 itero1 | 1 | repeat
 itero1 | 3 | in farming, to plough a second time
 iterum | 1 | again
+ithyphallus | 1 | phallus
+ithyphallus | 3 | an image of an erect phallus carried in the festivals of Bacchus; ithyphallicus, of the verse used in hymns to Priapus
 itidem | 1 | likewise
 itinerarius | 1 | itinerary
 itus | 1 | departure

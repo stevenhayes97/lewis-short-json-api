@@ -666,6 +666,9 @@ removeo | 5 | as an adjective (remotus), distant, remote, far removed
 remugio | 1 | bellow back
 remulceo | 1 | soothe
 remulceo | 3 | literally, to stroke or smooth back: caudam remulcere, to droop the tail
+remulcum | 1 | towrope
+remulcum | 3 | a towing line: navem remulco trahere, to take a ship in tow
+remulcum | 4 | non contis et remulco, sed velificatione, not by poles and towing but under full sail
 remuneratio | 1 | reward
 remuneror | 1 | reward
 remus1 | 1 | oar
@@ -1048,9 +1051,22 @@ revomo | 3 | figuratively, to give up, disgorge something ill-gotten: victoriam 
 rex1 | 1 | king
 rex1 | 3 | absolutely, "the King," the king of Persia
 rex1 | 4 | transferred, a leader, chief, master: rex gregis, the leader of the herd
+rhetor | 1 | rhetorician
+rhetor | 3 | a teacher of public speaking: in rhetorum scholis, in the schools of the rhetoricians
+rhetor | 4 | an orator in the Greek style; scornfully, a mere speechmaker
+rhetoricus | 1 | rhetorical
+rhetoricus | 2 | rhetoric
+rhetoricus | 3 | of rhetoric or rhetoricians: doctores rhetorici, teachers of rhetoric
+rhetoricus | 4 | rhetorica, the art of public speaking
+rhetoricus | 5 | rhetorici, books on rhetoric; rhetorice, in the manner of an orator
+rhinoceros | 1 | rhinoceros
+rhinoceros | 3 | a vessel made of rhinoceros horn
+rhinoceros | 4 | nasum rhinocerotis habere, to have a rhinoceros nose, to turn one's nose up at everything
 rhombus | 1 | rhombus
 rhombus | 3 | also, a kind of flatfish, the turbot
 rhombus | 4 | a magician's spinning wheel, used in love charms
+rhomphaea | 1 | broadsword
+rhomphaea | 3 | a long Thracian weapon, a two-edged sword or spear
 rica | 1 | veil
 ricinus2 | 1 | tick
 ricinus2 | 3 | also, the castor-oil plant, called cici or croton
@@ -1265,6 +1281,9 @@ rusticulus | 4 | as a feminine noun, a heath-cock, a type of bird
 rusticus | 1 | rustic
 rusticus | 2 | clownish
 rusticus | 3 | as a noun (rusticus), a countryman, a peasant
+ruta2 | 1 | rue
+ruta2 | 3 | rue, a bitter herb
+ruta2 | 4 | figuratively, bitterness: ad cujus rutam pulegio tui sermonis utendum est, his bitterness needs the mint of your talk
 rutabulum | 1 | poker
 rutabulum | 3 | also, a wooden spatula or paddle used for stirring food while cooking
 rutilo | 1 | redden

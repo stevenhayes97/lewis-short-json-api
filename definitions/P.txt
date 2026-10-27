@@ -24,6 +24,12 @@ paco2 | 3 | by extension, pacare silvas, to clear and tame forests (of land brou
 pactio | 1 | agreement
 pactio | 2 | collusion
 pactio | 3 | truce, peace settlement
+paedagogium | 1 | pages' school
+paedagogium | 3 | the hall where slave boys were trained as pages; and the pages themselves
+paedagogus | 1 | tutor
+paedagogus | 3 | the slave who took children to school and looked after them at home: nutrices et paedagogi, nurses and tutors
+paedagogus | 4 | figuratively, a guide or mentor: humani generis paedagogus, the tutor of the human race
+paedagogus | 5 | in early Latin, a pedant
 paedidus | 1 | filthy
 paedor | 1 | filth
 paelex | 1 | concubine
@@ -38,6 +44,8 @@ paenula1 | 3 | by extension, covering, wrapping (any protective envelope)
 paenularius | 1 | cloak-maker
 paenultimus | 1 | penultimate
 paenultimus | 3 | as a noun, paenultima, the penultimate syllable (a grammatical term)
+paeon | 1 | paeon
+paeon | 3 | in metre, a foot of three short syllables and one long, in any order
 paetus1 | 1 | squinting
 paetus1 | 3 | having a charming, slightly averted gaze (as an epithet of Venus, a positive trait)
 paganicus | 1 | rural
@@ -51,6 +59,15 @@ pagus | 1 | district
 pagus | 3 | the country folk, villagers (of a rural district, by metonymy)
 pala | 1 | spade
 pala | 3 | by extension, bezel, the flat setting of a ring (by shape)
+palaestra | 1 | wrestling school
+palaestra | 2 | wrestling
+palaestra | 3 | a place for wrestling and exercise, where young men trained naked and oiled
+palaestra | 4 | wrestling, gymnastic exercise: didicisse palaestram, to have learned wrestling
+palaestra | 5 | figuratively, the school exercises of rhetoric; skill, training: utemur ea palaestra, we will use that skill
+palaestra | 6 | in comedy, a brothel
+palaestricus | 1 | gymnastic
+palaestricus | 3 | of the wrestling school: palaestrici motus, the studied movements of an athlete
+palaestricus | 4 | as a noun, a wrestling master
 palam | 1 | openly
 palam | 2 | before
 palam | 3 | palam est, it is publicly known, it is common knowledge
@@ -81,6 +98,14 @@ pallium | 3 | figuratively, ad pallium reverti, to return to philosophy (since t
 pallor | 1 | pallor
 pallor | 2 | terror
 pallor | 3 | personified as the god of fear (alongside Pavor, in Roman religion)
+palma1 | 1 | palm
+palma1 | 2 | victory
+palma1 | 3 | the palm of the hand; and the hand itself: passis palmis, with outstretched hands
+palma1 | 4 | the palm tree; its fruit, the date; a broom of palm twigs
+palma1 | 5 | a palm branch or wreath given to the victor, and so the prize, victory, glory: palmam ferre, to win the prize
+palma1 | 6 | in poetry, the victor himself
+palma1 | 7 | the blade of an oar
+palma1 | 8 | a shoot or branch, especially of a vine
 palmaris | 1 | excellent
 palmaris | 3 | a hand's-breadth or palm in size (a unit of measurement)
 palmaris | 4 | full of palm trees (of a grove or place)
@@ -120,11 +145,25 @@ pampineus | 1 | vine-leaved
 pampino | 1 | prune
 pampinus | 1 | tendril
 pampinus | 2 | vine-leaf
+panacea1 | 1 | panacea
+panacea1 | 3 | a herb believed to heal all diseases, all-heal
+pancarpius | 1 | mixed
+pancarpius | 3 | made of every kind of fruit or flower: pancarpiae coronae, garlands of mixed flowers
+panchrestus | 1 | all-purpose
+panchrestus | 3 | good for everything: panchrestum medicamentum, a cure-all; ironically in Cicero, money
+pancratium | 1 | pancratium
+pancratium | 3 | an athletic contest combining boxing and wrestling
+pancratium | 4 | the name of several plants
+pandectes | 1 | encyclopedia
+pandectes | 3 | a book containing everything, a title given to compendia; Pandectae, Justinian's digest of Roman law
 pando1 | 1 | bend
 pando2 | 1 | spread
 pando2 | 2 | reveal
 pando2 | 3 | velis passis, with sails spread, under full sail (of the participle passus)
 pandus | 1 | curved
+panegyricus | 1 | panegyric
+panegyricus | 3 | a speech of praise, a eulogy; Panegyricus, the festival speech of Isocrates
+panegyricus | 4 | as an adjective, laudatory
 pango | 1 | fasten
 pango | 2 | compose
 pango | 3 | in classical Latin, agree, covenant, settle by agreement (only in the perfect-tense forms, related to pactum, paciscor)
@@ -142,6 +181,11 @@ pannus | 2 | rag
 pannus | 3 | in the plural, swaddling-clothes (of an infant)
 pantex | 1 | belly
 pantex | 3 | (comically) sausages, stuffed guts (of food, a Vergilian jest)
+panthera1 | 1 | panther
+panthera1 | 3 | the panther or leopard
+panus | 1 | bobbin
+panus | 3 | the thread wound on the bobbin in a shuttle
+panus | 4 | a swelling or tumour; an ear of millet
 papaver | 1 | poppy
 papaver | 3 | by extension, seed, kernel (of small seeds generally, by analogy with poppy-seed)
 papilio | 1 | butterfly
@@ -149,12 +193,37 @@ papilio | 2 | tent
 papilla | 1 | nipple
 papilla | 2 | breast
 papilla | 3 | in poetry, rose-bud (by resemblance of shape)
+pappus | 1 | old man
+pappus | 3 | an old man; a grandfather
+pappus | 4 | the downy seed-tuft of certain plants, thistledown
 papula | 1 | pimple
+papyrus | 1 | papyrus
+papyrus | 2 | paper
+papyrus | 3 | the papyrus reed of the Nile marshes
+papyrus | 4 | paper made from papyrus; a garment made of its bark
 par | 1 | equal
 par | 2 | pair
 par | 3 | par est, it is fitting, right, proper (an impersonal idiom, like oportet)
 par | 4 | pariter, equally, likewise, at the same time (the common adverbial form)
 parabilis | 1 | attainable
+parabola | 1 | comparison
+parabola | 3 | a comparison or illustration in rhetoric
+parabola | 4 | in Christian Latin, a parable; a proverb; a speech or discourse
+paradisus | 1 | park
+paradisus | 3 | an enclosed park or garden; an orchard
+paradisus | 4 | in Christian Latin, Paradise, the Garden of Eden
+paradisus | 5 | in Christian Latin, Paradise, the dwelling of the blessed
+paradoxus | 1 | paradoxical
+paradoxus | 3 | paradoxa, the surprising doctrines of the Stoics
+paradoxus | 4 | paradoxum, a figure of speech ending with something unexpected
+paralyticus | 1 | paralysed
+paralyticus | 3 | as a noun, a paralytic, a palsied person
+parasitus | 1 | parasite
+parasitus | 2 | guest
+parasitus | 3 | a sponger who lives at another's table by flattery and joking, a stock character of comedy
+parasitus | 4 | a guest; parasitus Phoebi, an actor
+parastaticus | 1 | pilaster
+parastaticus | 3 | parastatica, a square pillar set into a wall
 paratus2 | 1 | preparation
 parcitas | 1 | frugality
 parcitas | 2 | mercy
@@ -163,6 +232,8 @@ parco | 2 | refrain
 parco | 3 | parcere alicui, to spare someone, show mercy (with the dative)
 parcus | 1 | frugal
 parcus | 2 | scanty
+pardus | 1 | leopard
+pardus | 3 | the male panther, a leopard
 parens2 | 1 | parent
 parens2 | 2 | founder
 parens2 | 3 | by extension, ancestors, forebears (plural, of more remote generations)
@@ -175,6 +246,8 @@ pareo | 1 | obey
 pareo | 2 | appear
 pareo | 3 | si paret, if it is proven, if it appears (evident) -- a legal formula
 pareo | 4 | parere alicui, to obey someone, be subject to them (with the dative)
+pariambus | 1 | pariambus
+pariambus | 3 | a name for several metrical feet, especially the pyrrhic of two short syllables
 paries | 1 | wall
 paries | 3 | figuratively, partition, barrier (something that separates)
 parietarius | 1 | wall
@@ -192,6 +265,11 @@ parma1 | 3 | a Thracian-style gladiator (armed with the parma, as opposed to the
 paro1 | 1 | prepare
 paro1 | 2 | acquire
 paro1 | 3 | as an adjective, paratus, ready, prepared
+paroecia | 1 | parish
+paroecia | 3 | in Christian Latin, a church district, a parish, and the area under its care
+parotis | 1 | parotid swelling
+parotis | 3 | a swelling of the glands below the ear
+parotis | 4 | in architecture, a bracket under a cornice
 parra1 | 1 | owl
 parra1 | 3 | a bird of ill omen (exact species disputed -- perhaps the owl, woodpecker, or lapwing)
 parricida | 1 | parricide
@@ -207,6 +285,8 @@ pars | 3 | by extension, role, function, duty (of a theatrical part or a person'
 pars | 4 | pars...pars, some...others (a common partitive construction)
 pars | 5 | magna pars, the majority, a good many
 parsimonia | 1 | frugality
+parthenium | 1 | feverfew
+parthenium | 3 | the name of several plants, among them feverfew and pellitory
 partiarius | 1 | shared
 partiarius | 3 | colonus partiarius, a sharecropper, a tenant farmer who pays rent with a portion of the crop
 particeps | 1 | participant
@@ -234,6 +314,11 @@ parturitio | 3 | by extension, parturition, childbirth (the actual delivery)
 partus2 | 1 | birth
 partus2 | 2 | offspring
 partus2 | 3 | figuratively, beginnings, origins (of the sources of something)
+parum | 1 | too little
+parum | 3 | as a noun with the genitive, too little of something: satis eloquentiae, sapientiae parum, eloquence enough, too little wisdom
+parum | 4 | with verbs and adjectives, insufficiently, not very: parum diligenter, with too little care; si parum intellexisti, if you did not quite understand
+parum | 5 | parum est, it is not enough: parum habere, to think something not enough
+parum | 6 | non parum, not a little, a good deal: non parum multi, a good many
 parumper | 1 | briefly
 parvitas | 1 | smallness
 parvulus | 1 | tiny
@@ -277,6 +362,8 @@ pastor | 3 | figuratively, pastor populi, shepherd of the people (of a leader or
 pastoralis | 1 | pastoral
 pastus2 | 1 | fodder
 pastus2 | 3 | figuratively, sustenance, nourishment (of anything that feeds or sustains)
+patagium | 1 | border
+patagium | 3 | a gold border sewn on a woman's tunic
 patefacio | 1 | open
 patefacio | 2 | reveal
 patella1 | 1 | dish
@@ -365,6 +452,9 @@ paupero | 2 | deprive
 paupertas | 1 | poverty
 paupertas | 3 | paupertas vs egestas: paupertas is modest means, not the desperate destitution of egestas or inopia
 paupertas | 4 | figuratively, poverty of language, a lack of vocabulary or expressiveness (a rhetorical criticism)
+pausa | 1 | pause
+pausa | 3 | in early Latin, a stop, an end: pausam facere, to make an end
+pausa | 4 | in later Latin, a halt in a religious procession for singing hymns
 pausarius | 1 | boatswain
 pausarius | 3 | a rowing-master who signals the stroke with a hammer
 pauso | 1 | pause
@@ -460,8 +550,14 @@ pedisequus | 3 | figuratively, follower, attendant (of something subordinate to 
 pedulis | 1 | foot
 pedulis | 3 | as a noun, pedule, a sole
 pedum1 | 1 | crook
+pegma | 1 | stage lift
+pegma | 3 | a wooden stage machine that rose and fell, lifting actors into the air
+pegma | 4 | a wooden fixture in a house; a bookcase
 pejero | 1 | perjure
 pejero | 2 | lie
+pelagus | 1 | sea
+pelagus | 3 | in poetry and later prose, the open sea, the deep: pelagus tenuere rates, the ships held to the open sea
+pelagus | 4 | figuratively, a vast mass: pelagus sermonis, the ocean of everyday language
 pelicatus | 1 | concubinage
 pellacia | 1 | allurement
 pellacia | 3 | in later Latin, seduction (a narrower specific sense)
@@ -529,9 +625,14 @@ pensito | 2 | pay
 penso | 1 | weigh
 penso | 2 | compensate
 penso | 3 | figuratively, ponder, consider, weigh mentally
+pentathlos | 1 | pentathlete
+pentathlos | 3 | an athlete in the five events of discus, running, jumping, wrestling and javelin
 penuria | 1 | scarcity
 penus | 1 | provisions
 penus | 2 | sanctuary
+peplum | 1 | robe
+peplum | 3 | the robe of state of Athena, carried to her statue at the Panathenaea
+peplum | 4 | in later Latin, any splendid robe of state; a broad outer garment
 per1 | 1 | through
 per1 | 2 | via
 per1 | 3 | during, throughout (of time)
@@ -738,6 +839,11 @@ perimo | 1 | destroy
 perimo | 2 | kill
 perinde | 1 | equally
 perinde | 3 | perinde ac or quasi, just as, just as if (a common comparative construction)
+periodus | 1 | period
+periodus | 3 | in rhetoric, a complete, rounded sentence
+periodus | 4 | the circuit of the four great Greek games: periodon vincere, to win at all four
+peripneumonia | 1 | pneumonia
+peripneumonia | 3 | inflammation of the lungs
 peritia | 1 | expertise
 peritus | 1 | skilled
 peritus | 3 | peritus alicuius rei, skilled or experienced in something (with the genitive)
@@ -826,6 +932,10 @@ perpello | 2 | move deeply
 perpendiculum | 1 | plumb-line
 perpendiculum | 3 | figuratively, ad perpendiculum, by the plumb-line, i.e. with strict accuracy or moral rectitude
 perpendo | 1 | ponder
+perperus | 1 | wrong
+perperus | 3 | perperam as an adverb, wrongly, falsely: perperam loqui, to say what is untrue
+perperus | 4 | perperam, by mistake, in error: perperam pronuntiavit, he announced it by mistake
+perperus | 5 | as an adjective, outside classical Latin, faulty, defective
 perpes | 1 | continual
 perpes | 3 | noctem perpetem, through the whole night, all night long
 perpessio | 1 | endurance
@@ -1017,6 +1127,8 @@ pestilentia | 1 | plague
 pestis | 1 | plague
 pestis | 2 | bane
 pestis | 3 | by extension, destruction, ruin, death (in a general abstract sense)
+petaurista | 1 | acrobat
+petaurista | 3 | a tumbler or vaulter; of animals, a high jumper
 petesso | 1 | pursue eagerly
 petimen | 1 | saddle sore
 petimen | 3 | a sore on a draft animal's shoulder, caused by its harness
@@ -1032,20 +1144,71 @@ peto | 1 | seek
 peto | 2 | attack
 peto | 3 | run for office, be a candidate (political sense)
 peto | 4 | woo, court (of romantic pursuit)
+petra1 | 1 | rock
+petra1 | 3 | a rock or crag, especially one jutting into the sea
 petulans | 1 | impudent
 petulans | 2 | wanton
 petulantia | 1 | impudence
 petulantia | 2 | exuberance
 petulcus | 1 | butting
 petulcus | 2 | frisky
+phalangae | 1 | rollers
+phalangae | 3 | wooden rollers for moving ships and siege engines
+phalangae | 4 | poles for carrying loads
 phalangarius1 | 1 | porter
 phalanx | 1 | phalanx
 phalanx | 3 | the Macedonian phalanx, a compact battle formation fifty men wide and sixteen deep
+phalerae | 1 | medals
+phalerae | 2 | trappings
+phalerae | 3 | metal discs worn on the chest as military decorations: phaleris et torquibus donati, rewarded with medals and collars
+phalerae | 4 | ornamental trappings for a horse's head and chest
+phalerae | 5 | figuratively, mere outward show: ad populum phaleras!, keep your finery for the crowd!
 phalero | 1 | bedeck
 phalero | 3 | deck out, set off (of speech), display ostentatiously
+phantasia | 1 | fancy
+phantasia | 3 | in later Latin, an idea or notion, a fancy
+phantasia | 4 | in later Latin, a phantom, an apparition seen in dreams
+phantasma | 1 | ghost
+phantasma | 3 | in later Latin, an apparition, a phantom: esse phantasmata, that there are ghosts
+phantasma | 4 | in later Latin, a mental image of something
+pharetra | 1 | quiver
+pharetra | 3 | in poetry, a quiver for arrows: succincta pharetra, with a quiver at her side
+pharetra | 4 | a sundial shaped like a quiver
+phaselus | 1 | bean
+phaselus | 2 | yacht
+phaselus | 3 | a bean with an edible pod, the kidney bean
+phaselus | 4 | a light, fast boat shaped like a bean pod: phaselus ille, quem videtis, hospites, that yacht you see, my friends
+philologia | 1 | scholarship
+philologia | 3 | love of learning, literary study: opera et oleum philologiae, the toil of my studies
+philologia | 4 | the explanation of texts, philology
+philologus | 1 | scholar
+philologus | 2 | learned
+philologus | 3 | as a noun, a man of letters, a scholar of literature and history
+philosophia | 1 | philosophy
+philosophia | 3 | philosophy, the pursuit of wisdom: studium sapientiae, the study of wisdom
+philosophia | 4 | a philosophical subject or discussion; in the plural, the schools of philosophy
+philosophicus | 1 | philosophical
 philosophor | 1 | philosophise
+philosophus | 1 | philosopher
+philosophus | 2 | philosophical
+philosophus | 3 | as a noun, a philosopher, a lover of wisdom
+philosophus | 4 | philosopha, a woman philosopher; in jest, of a villa, philosophically plain
+philyra1 | 1 | lime-tree
+philyra1 | 3 | the inner bark of the lime tree, used for binding garlands: nexae philyris coronae, garlands tied with bast
+philyra1 | 4 | a sheet of bark prepared for writing on
+phoca | 1 | seal
+phoca | 3 | a seal, a sea calf; in poetry, the seals herded by Proteus
 phoenix3 | 1 | phoenix
 phoenix3 | 3 | a fabulous bird said to live five hundred years and rise renewed from its own ashes
+phrenesis | 1 | frenzy
+phrenesis | 3 | madness, delirium
+phylacterium | 1 | amulet
+phylacterium | 3 | in Christian Latin, a phylactery, the slips of scripture worn by Jews on the forehead and arm
+physicus | 1 | physical
+physicus | 2 | naturalist
+physicus | 3 | of natural philosophy, of the nature of things: ratio physica, the scientific explanation
+physicus | 4 | as a noun, a natural philosopher: physicus Anaxagoras, the natural philosopher Anaxagoras
+physicus | 5 | physica, natural philosophy, physics
 piacularis | 1 | expiatory
 piacularis | 3 | of a sacrifice: offered to atone for sin or a bad omen
 piaculum | 1 | sin-offering
@@ -1130,6 +1293,8 @@ pilus1 | 3 | the slightest bit, a trifle (usually with a negative: not a whit)
 pilus2 | 1 | company
 pilus2 | 3 | primus pilus: the first company of the triarii (veteran legionaries)
 pilus2 | 4 | (as primipilus) the senior centurion of the legion
+pinacotheca | 1 | gallery
+pinacotheca | 3 | a picture gallery
 pineus | 1 | of pine
 pineus | 3 | as a noun, a pine-cone or pine-nut
 pingo | 1 | paint
@@ -1175,6 +1340,11 @@ piperatus | 3 | peppery, pungent (of style or wit)
 piperatus | 4 | sharp, thievish (of a person's touch)
 pipulum | 1 | outcry
 pipulum | 3 | a whimpering, crying (of children)
+pirata | 1 | pirate
+pirata | 3 | a sea robber: pirata est communis hostis omnium, a pirate is the common enemy of all
+piraticus | 1 | piratical
+piraticus | 3 | of pirates: bellum piraticum, the war against the pirates
+piraticus | 4 | piratica as a noun, piracy: piraticam facere, to practise piracy
 piscarius | 1 | of fish
 piscarius | 3 | as a noun, a fish-monger
 piscarius | 4 | as a noun, a fish-market
@@ -1196,6 +1366,12 @@ pistor | 3 | Jupiter Pistor: an epithet of Jupiter as protector in a siege
 pistrinum | 1 | mill
 pistrinum | 3 | bakery
 pistrinum | 4 | drudgery, wearisome toil
+pistris | 1 | sea monster
+pistris | 3 | in poetry, a sea monster, a whale or shark
+pistris | 4 | the constellation of the Whale; a kind of fast ship
+pittacium | 1 | label
+pittacium | 3 | a slip of parchment, a label on a wine jar
+pittacium | 4 | a small plaster; a patch on a garment
 pituita | 1 | phlegm
 pituita | 3 | (of trees) a viscous sap or resin that oozes out
 pius | 1 | dutiful
@@ -1229,6 +1405,8 @@ plagula | 3 | a breadth, a strip of cloth sewn into a garment
 plagula | 4 | after Augustus, a sheet of paper
 planctus | 1 | lamentation
 planctus | 3 | in poetry, a beating, banging, loud noise (of wings, etc.)
+planeta | 1 | planet
+planeta | 3 | in later Latin, a wandering star, a planet
 plango | 1 | lament
 plango | 3 | in poetry, strike, beat with a noise (of waves, etc.)
 plango | 4 | beat one's breast (as a sign of grief)
@@ -1246,6 +1424,15 @@ planus1 | 2 | clear
 planus1 | 3 | as a noun, planum, level ground, a plain
 planus1 | 4 | after Augustus, lowly, humble (of rank or status)
 planus1 | 5 | easy, safe, free from danger
+plasma | 1 | figure
+plasma | 3 | in Christian Latin, a creature, something formed
+plasma | 4 | an affected, sing-song way of reading aloud
+plasma | 5 | in later Latin, a fiction
+platanus | 1 | plane tree
+platanus | 3 | the oriental plane tree, prized for its shade: sub platano umbrifera, under the shady plane tree
+platea1 | 1 | street
+platea1 | 3 | a broad street in a city: in plateam ingredi, to come out into the street
+platea1 | 4 | in later Latin, a courtyard
 plaudo | 1 | applaud
 plaudo | 3 | in poetry, strike, beat, flap (of wings)
 plaudo | 4 | approve, express approval (of a person or thing)
@@ -1271,6 +1458,10 @@ plecto1 | 4 | as an adjective, plexus, intricate, entangled, ambiguous
 plecto2 | 1 | punish
 plecto2 | 3 | in the passive, (usual construction) be punished, suffer for
 plecto2 | 4 | by extension, blame
+plectrum | 1 | plectrum
+plectrum | 3 | the quill with which the strings of a lyre were struck
+plectrum | 4 | in poetry, the lyre itself, lyric poetry: aureo plectro, with golden lyre
+plectrum | 5 | in poetry, a ship's rudder
 plenitudo | 1 | fullness
 plenitudo | 3 | completeness
 plenitudo | 4 | abundance, plenty
@@ -1286,7 +1477,12 @@ plenus | 9 | (of style, oratory) ample, copious
 plerus | 1 | most
 plerusque | 1 | most
 plerusque | 3 | in the singular, the greatest part of, most of (a group)
+pleuriticus | 1 | pleuritic
+pleuriticus | 3 | suffering from pleurisy; as a noun, a patient with pleurisy
 plico | 1 | fold
+plinthus | 1 | plinth
+plinthus | 3 | in architecture, the square slab under the base of a column
+plinthus | 4 | in land surveying, a square plot of land
 ploratus | 1 | wailing
 ploratus | 3 | (of trees) weeping, oozing sap
 ploro | 1 | weep
@@ -1335,7 +1531,26 @@ poculum | 1 | cup
 poculum | 3 | in poetry, a drink, draught, potion
 poculum | 4 | a drinking-bout, carouse
 poculum | 5 | a draught of poison
+podium | 1 | balcony
+podium | 3 | the raised platform round the arena, where the emperor and leading men sat
+podium | 4 | a raised projection in a building, a balcony
+poema | 1 | poem
+poema | 3 | a composition in verse: poema facere, to write a poem
+poema | 4 | poemata, poetry, as opposed to prose
+poena | 1 | punishment
+poena | 3 | punishment, retribution: poenas dare, to pay the penalty, to be punished; poenas ab aliquo petere, to seek to punish someone
+poena | 4 | a fine, a compensation: poena nummaria, a money fine
+poena | 5 | Poena, the goddess of vengeance; Poenae, the Furies
+poena | 6 | in later Latin, hardship, suffering, pain
 poenalis | 1 | penal
+poesis | 1 | poetry
+poesis | 3 | a poem, or poetry as a whole: ut pictura poesis, poetry is like painting
+poeta | 1 | poet
+poeta | 3 | a poet: oratores et poetae, orators and poets
+poeta | 4 | in early Latin, a maker, a contriver of tricks
+poeticus | 1 | poetic
+poeticus | 3 | of poets or poetry: verbum poeticum, a poetic word; di poetici, the gods as the poets portray them
+poeticus | 4 | poetica as a noun, the art of poetry
 poetor | 1 | poetise
 polio1 | 1 | polish
 polio1 | 3 | by extension, adorn, embellish (of fields, etc.)
@@ -1369,6 +1584,13 @@ pollucibilis | 1 | sumptuous
 polluo | 1 | pollute
 polluo | 3 | violate, desecrate (something sacred)
 polluo | 4 | after Augustus, violate, dishonour (a woman)
+polus1 | 1 | pole
+polus1 | 2 | sky
+polus1 | 3 | the end of the earth's axis, a pole
+polus1 | 4 | in poetry, the sky, the heavens; the pole star
+polypus | 1 | octopus
+polypus | 3 | the octopus
+polypus | 4 | a polyp, a growth in the nose
 pomarius | 1 | of fruit
 pomarius | 3 | as a noun, a fruit-seller, fruiterer
 pomarius | 4 | as a noun, an orchard, fruit-garden
@@ -1413,6 +1635,9 @@ pontifex | 3 | (Jewish, or later Christian) a high priest; a bishop
 pontificius | 1 | pontifical
 pontificius | 3 | as a noun, pontificium, the office or dignity of a pontiff or bishop
 pontificius | 4 | by extension, the power or right of doing something
+pontus1 | 1 | sea
+pontus1 | 3 | in poetry, the sea: caelum undique et undique pontus, sky everywhere and everywhere sea
+pontus1 | 4 | in poetry, a great wave
 popa | 1 | acolyte
 popa | 3 | an inferior priest's assistant who led the sacrificial victim to the altar and felled it
 popina | 1 | cookshop
@@ -1786,6 +2011,8 @@ praefulcio | 1 | prop
 praefulcio | 3 | figuratively, secure, safeguard, support (a plan or position)
 praefulgeo | 1 | glitter
 praefulgeo | 3 | figuratively, be conspicuous, shine, be pre-eminent
+praefundo | 1 | pour over
+praefundo | 3 | in later Latin, to wet or sprinkle with something
 praegnans | 1 | pregnant
 praegnans | 3 | by extension, (of plants) budding, swollen with growth
 praegnans | 4 | in general, full of, swollen with something
@@ -2127,11 +2354,17 @@ praeverto | 6 | attend to first, give priority to (a task)
 praevideo | 1 | foresee
 praevideo | 3 | in later Latin, provide for, make provision against
 praevius | 1 | leading
+pragmaticus | 1 | experienced
+pragmaticus | 3 | skilled in affairs, especially in law: pragmatici homines, men of affairs
+pragmaticus | 4 | as a noun, a legal expert who supplied advocates with points of law
+pragmaticus | 5 | in later Latin, pragmatica sanctio, an imperial decree on public affairs
 prandeo | 1 | lunch
 prandium | 1 | lunch
 prandium | 3 | in poetry, by extension, a meal in general
 prandium | 4 | by extension, fodder, feed (for animals)
 pransito | 1 | lunch
+prasinus | 1 | green
+prasinus | 3 | leek-green; factio prasina, the Greens, one of the racing factions of the circus
 pratum | 1 | meadow
 pratum | 3 | in poetry, by extension, meadow-grass, hay
 pratum | 4 | in poetry, by extension, figuratively, a broad plain (of the sea)
@@ -2169,6 +2402,8 @@ premo | 7 | prune, keep in check (of plants)
 premo | 8 | in poetry, rule, govern
 premo | 9 | surpass, exceed
 premo | 10 | as an adjective, pressus, (of style) concise, terse, without ornament
+presbyter | 1 | elder
+presbyter | 3 | a presbyter or priest of the Church, ranking below a bishop
 presso | 1 | press
 pressulus | 1 | compressed
 pressura | 1 | pressure
@@ -2177,6 +2412,9 @@ pressura | 4 | by extension, a throng, crush, crowd of people
 pressura | 5 | in poetry, juice, that which is pressed out
 pressura | 6 | figuratively, in Christian Latin, oppression, affliction, distress
 pressus2 | 1 | pressure
+prester | 1 | whirlwind
+prester | 3 | a fiery whirlwind or waterspout
+prester | 4 | a snake whose bite causes burning thirst
 pretiosus | 1 | precious
 pretiosus | 3 | by extension, costly, expensive, dear
 pretiosus | 4 | extravagant, lavish (of a spender)
@@ -2280,6 +2518,8 @@ pro1 | 6 | in exchange for, in return for (of price)
 pro1 | 7 | in proportion to, according to, by virtue of
 pro1 | 8 | on account of, for the sake of
 pro2 | 1 | oh!
+proapodosis | 1 | proapodosis
+proapodosis | 3 | in rhetoric, a figure in which a clause ends with the same word it began with
 proavus | 1 | great-grandfather
 proavus | 3 | by extension, a forefather, ancestor (in general)
 probabilis | 1 | probable
@@ -2290,6 +2530,8 @@ probatio | 4 | after Augustus, proof, demonstration
 probatio | 5 | in rhetoric, the proof section of a speech, where arguments are presented
 probator | 1 | approver
 probitas | 1 | honesty
+problema | 1 | problem
+problema | 3 | a question set for solving, a puzzle or riddle
 probo | 1 | approve
 probo | 3 | test, examine, try (the quality of something)
 probo | 4 | prove, demonstrate, establish (a fact)
@@ -2540,6 +2782,8 @@ prolato | 1 | extend
 prolato | 3 | (of time) defer, postpone, put off
 prolecto | 1 | entice
 prolecto | 3 | provoke, incite (to anger)
+prolepsis | 1 | anticipation
+prolepsis | 3 | in rhetoric, answering an objection in advance; naming something before it existed
 proles | 1 | offspring
 proles | 3 | by extension, youth, young men (collectively)
 proletarius | 1 | proletarian
@@ -2548,6 +2792,9 @@ prolixus | 1 | long
 prolixus | 3 | (of speech) prolix, wordy
 prolixus | 4 | favourable, fortunate (of circumstances)
 prolixus | 5 | obliging, courteous, well-disposed (of character)
+prologus | 1 | prologue
+prologus | 3 | the prologue of a play
+prologus | 4 | the actor who speaks the prologue
 proloquium | 1 | preamble
 proloquium | 3 | (logic) a proposition, axiom
 proloquium | 4 | a judicial sentence, verdict
@@ -2615,6 +2862,9 @@ pronus | 3 | downward, sloping, inclined (of a place or thing)
 pronus | 4 | in poetry, (of stars, time) setting, sinking, declining
 pronus | 5 | after Augustus, favourable, well-disposed toward someone
 pronus | 6 | mostly after Augustus, easy, without difficulty
+prooemium | 1 | preface
+prooemium | 3 | an introduction or preface to a speech or book
+prooemium | 4 | in poetry, a beginning, a prelude: prooemia rixae, the opening of a brawl
 propagatio | 1 | propagation
 propagatio | 3 | figuratively, extension, enlargement, prolongation
 propages | 1 | layer
@@ -2646,9 +2896,16 @@ propero | 4 | as an adjective, properatus, hurried, rapid, speedy
 properus | 1 | speedy
 properus | 3 | as an adverb, propere, hastily, quickly, speedily
 propexus | 1 | combed-forward
+propheta | 1 | prophet
+propheta | 3 | one of the prophets of the Hebrew scriptures
+propheta | 4 | a pagan seer or interpreter of oracles, especially an Egyptian priest
 propheto | 1 | prophesy
 propinatio | 1 | toast
 propinatio | 3 | by extension, rarely, a funeral banquet
+propino | 1 | toast
+propino | 3 | to drink to someone, to pledge them, passing on the cup: propino hoc pulchro Critiae, I drink this to the handsome Critias
+propino | 4 | in later Latin, to give someone a drink, to administer a medicine
+propino | 5 | outside classical Latin, to hand something over: hunc vobis deridendum propino, I hand him over to you to laugh at
 propinquitas | 1 | proximity
 propinquitas | 2 | kinship
 propinquitas | 3 | in early Latin, rarely, intimacy, friendship
@@ -2668,6 +2925,10 @@ propitiatorius | 3 | as a noun, propitiatorium, a means of atonement, propitiati
 propitiatorius | 4 | as a noun, (propitiatorium, biblical) the mercy seat, place of atonement
 propitio | 1 | propitiate
 propitius | 1 | propitious
+propola | 1 | retailer
+propola | 3 | a dealer who buys up goods to sell them on, a huckster
+propolis | 1 | propolis
+propolis | 3 | the gum bees use to seal the openings of their hive, bee-glue
 propono | 1 | propose
 propono | 3 | literally, display, exhibit, put on view
 propono | 4 | imagine, picture to oneself, conceive
@@ -2703,7 +2964,12 @@ propugno | 1 | defend
 propugno | 3 | sally forth, make an attack (to fight)
 propulso | 1 | repel
 propulso | 3 | figuratively, avert, ward off (danger, suspicion)
+propylaeum | 1 | gateway
+propylaeum | 3 | a monumental entrance; Propylaea, the great gateway of the Acropolis at Athens
 proquaestore | 1 | proquaestor
+prora | 1 | prow
+prora | 3 | the front of a ship, the prow, as opposed to the stern
+prora | 4 | in poetry, a ship
 prorepo | 1 | creep
 prorepo | 3 | by extension, (of plants) put forth gradually, sprout, ooze out
 proripio | 1 | snatch
@@ -2730,6 +2996,8 @@ proruo | 1 | demolish
 proruo | 3 | intransitively, rush forward, charge (an enemy)
 proruo | 4 | intransitively, after Augustus, collapse, tumble down
 prosapia | 1 | lineage
+proscaenium | 1 | stage
+proscaenium | 3 | the front of the stage where the actors performed
 proscindo | 1 | rend
 proscindo | 3 | in farming, plough up, break ground for the first time
 proscindo | 4 | figuratively, revile, censure, satirise with words
@@ -2743,6 +3011,9 @@ proseco | 1 | excise
 proseco | 3 | in religion, cut off the parts of a victim to be offered in sacrifice
 prosecutio | 1 | attendance
 prosecutio | 3 | figuratively, a continuation
+proselytus | 1 | proselyte
+proselytus | 3 | in Christian Latin, a convert to Judaism
+proselytus | 4 | in Christian Latin, a stranger or foreigner living in the land
 prosemino | 1 | sow
 prosemino | 3 | figuratively, disseminate, propagate, spread
 prosequor | 1 | accompany
@@ -2884,8 +3155,26 @@ pruina | 4 | in poetry, by extension, winter
 prurio | 1 | itch
 prurio | 3 | by extension, long for, be eager for something, e.g. a fight
 prurio | 4 | by extension, be wanton, lustful
+prytaneum | 1 | town hall
+prytaneum | 3 | the town hall of a Greek city, where honoured citizens dined at public expense
+psallo | 1 | play
+psallo | 3 | to play a stringed instrument, to sing to the lyre: psallere et saltare, to play and dance
+psallo | 4 | in Christian Latin, to sing psalms
+psalterium | 1 | psaltery
+psalterium | 3 | a stringed instrument like a lute
+psalterium | 4 | in Christian Latin, the Psalter, the Psalms of David
+pseudothyrum | 1 | back door
+pseudothyrum | 3 | figuratively, a secret way in: per pseudothyrum, by the back door, underhand
+psythius | 1 | psythian
+psythius | 3 | of a kind of vine grown for raisins and sweet wine: psythia vitis, the psythian vine
 pte | 1 | own
 pte | 3 | an enclitic suffix meaning 'own, self', attached to possessive pronouns, e.g. meopte 'by my very own'
+pterygium | 1 | eye film
+pterygium | 3 | a film of tissue growing over the eye
+pterygium | 4 | a growth of flesh over the nails; a cloudy flaw in a beryl
+ptisana | 1 | barley
+ptisana | 3 | hulled crushed barley, pearl barley
+ptisana | 4 | barley-water, a drink made from it
 pubens | 1 | pubescent
 pubens | 3 | by extension, (of plants) flourishing, luxuriant, in full vigour
 pubertas | 1 | puberty
@@ -3073,6 +3362,8 @@ purpuratus | 3 | as a noun, a courtier, a high officer at a king's court
 purpureus | 1 | purple
 purpureus | 3 | by extension, in poetry, clothed in purple, of royal or noble rank
 purpureus | 4 | in poetry, brilliant, radiant, beautiful
+purpurissum | 1 | rouge
+purpurissum | 3 | a dark red colour used as a dye and as rouge
 purpuro | 1 | purple
 purpuro | 3 | intransitively, be purple, glow with purple colour
 purulentus | 1 | purulent
@@ -3119,3 +3410,14 @@ putresco | 3 | become loose, friable, crumbly
 putresco | 4 | figuratively, fall into contempt, become disgraced
 putus1 | 1 | pure
 putus1 | 3 | (usually paired with purus) utterly pure, thoroughly clean, an emphatic doublet
+pycta | 1 | boxer
+pycta | 3 | a boxer, a prize fighter
+pyra | 1 | pyre
+pyra | 3 | a funeral pyre
+pyra | 4 | in Christian Latin, a fire
+pyramis | 1 | pyramid
+pyramis | 3 | a pyramid, as of the Egyptian kings; a pyramid in geometry
+pythaules | 1 | flute player
+pythaules | 3 | a flute player who accompanied the solo songs of the stage
+pyxis | 1 | box
+pyxis | 3 | a small box, especially for ointment or medicine: pyxis veneni, a box of poison

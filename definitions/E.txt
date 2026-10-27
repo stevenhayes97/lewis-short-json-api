@@ -31,6 +31,24 @@ eburneus | 3 | in poetry, white as ivory
 ecce | 1 | behold
 ecce | 3 | here is, here comes (pointing something out)
 ecce | 4 | introducing something sudden or unexpected: ecce Apollo mihi imperat, look, Apollo commands me
+ecclesia | 1 | church
+ecclesia | 3 | a Christian congregation, the local body of believers
+ecclesia | 4 | the Church, all believers together: Christus dilexit ecclesiam, Christ loved the Church
+ecclesia | 5 | a church building, the place where Christians meet
+ecclesia | 6 | in classical Latin, the assembly of the people in a Greek city: bule et ecclesia, council and assembly
+ecclesia | 7 | in later Latin, any assembly or meeting
+echidna | 1 | viper
+echidna | 3 | in poetry, a viper or adder, such as the Furies twined in their hair
+echinus1 | 1 | sea urchin
+echinus1 | 2 | hedgehog
+echinus1 | 3 | the edible sea urchin, a delicacy
+echinus1 | 4 | a copper bowl for rinsing cups
+echinus1 | 5 | the prickly husk of a chestnut
+echinus1 | 6 | in architecture, the rounded moulding under the top of a column
+ecloga | 1 | selection
+ecloga | 2 | eclogue
+ecloga | 3 | a short poem; Eclogae, Virgil's pastoral poems
+ecloga | 4 | a selection of choice passages from a longer work
 eclogarius | 1 | excerpted
 eclogarius | 3 | as a noun eclogarium, a collection of selected poems
 eclogarius | 4 | as a noun eclogarii, selected passages from a work
@@ -247,6 +265,8 @@ elabor | 5 | figuratively, to pass away, vanish, fade (of hope, memory, or time)
 elaboro | 1 | strive
 elaboro | 3 | transitively, to work out, produce with care, elaborate
 elaboro | 4 | elaboratus as an adjective, laboured, elaborate (sometimes overwrought)
+elacatenes | 1 | tunny
+elacatenes | 3 | a large sea fish shaped like a spindle, a kind of tunny
 elanguesco | 1 | grow faint
 elatio | 1 | elevation
 elatio | 3 | pride, arrogance, self-exaltation
@@ -255,15 +275,26 @@ elatio | 5 | rarely, a carrying out, a burial
 elavo | 1 | wash out
 elavo | 3 | by extension, elavari in mari, to be shipwrecked, ruined
 electio | 1 | choice
+electrum | 1 | amber
+electrum | 2 | electrum
+electrum | 3 | amber; an amber ball carried by Roman ladies to keep their hands cool
+electrum | 4 | an alloy of gold and silver the colour of amber
 elegans | 1 | tasteful
 elegans | 3 | in early Latin, in a bad sense, fussy, over-nice, fastidious
 elegantia | 1 | refinement
 elegantia | 3 | in early Latin, in a bad sense, fastidiousness, excessive nicety
+elegia | 1 | elegy
+elegia | 3 | an elegy, a poem in elegiac couplets
+elegia | 4 | a kind of low-growing reed
 elementum | 1 | element
 elementum | 3 | in the plural, the alphabet, the letters
 elementum | 4 | in the plural, the rudiments, first principles (of an art or subject)
 elementum | 5 | by extension, in the plural, beginners, elementary students
 elementum | 6 | the beginnings, origins (of anything)
+elenchus | 1 | pendant
+elenchus | 3 | a pear-shaped pearl worn as an earring
+elephantiasis | 1 | elephantiasis
+elephantiasis | 3 | a severe form of leprosy
 elephantus | 1 | elephant
 elephantus | 3 | by extension, ivory
 elephantus | 4 | by extension, elephantiasis (a disease)
@@ -296,6 +327,8 @@ eliquo | 3 | figuratively, to sift, examine thoroughly
 eliquo | 4 | figuratively, to drawl, recite without energy
 elixus | 1 | boiled
 elixus | 3 | by extension, soaked, drenched, wet through
+elleborus | 1 | hellebore
+elleborus | 3 | a plant used as a remedy for madness and epilepsy, and so for anyone thought to be mad
 elocutio | 1 | utterance
 elocutio | 3 | in rhetoric, style, delivery (of a speech)
 elogium | 1 | saying
@@ -339,6 +372,9 @@ emano | 3 | figuratively, to arise from, spring from, originate
 emano | 4 | figuratively, especially, to become known, spread abroad, leak out (of news)
 emarcesco | 1 | wither
 emarcesco | 3 | figuratively, to dwindle away, fade, disappear (of authority or hope)
+emblema | 1 | inlay
+emblema | 3 | raised decoration set on a vessel
+emblema | 4 | inlaid work, a mosaic; figuratively, words set in like a mosaic
 emendo | 1 | correct
 emendo | 3 | in later Latin, to chastise, punish (as correction)
 ementior | 1 | fabricate
@@ -389,6 +425,13 @@ emorior | 3 | by extension, to die out, go out (of fire), wither (of plants)
 emorior | 4 | figuratively, to perish, pass away, cease (of fame, hope, or love)
 emoveo | 1 | remove
 emoveo | 3 | figuratively, to drive away, banish, expel (fear, cares)
+empirice | 1 | empiricism
+empirice | 3 | in medicine, the system of treatment based only on experience; empiricus, a doctor of that school
+emplastrum | 1 | plaster
+emplastrum | 3 | in medicine, a plaster or poultice
+emplastrum | 4 | in gardening, the patch of bark round the bud in grafting
+emprosthotonia | 1 | spasm
+emprosthotonia | 3 | a disease that draws the body forward in a rigid cramp
 emptio | 1 | purchase
 emptio | 3 | by extension, a thing purchased, an acquisition
 emptio | 4 | in law, a bill of sale, a deed of purchase
@@ -412,6 +455,9 @@ enato | 3 | figuratively, to extricate oneself, get off, escape (from a difficul
 enavigo | 1 | sail away
 enavigo | 3 | transitively, to sail across, traverse by sea
 enavigo | 4 | figuratively, to escape, get clear (of a difficulty)
+encaustus | 1 | encaustic
+encaustus | 3 | burned in: genus pingendi encaustum, the art of painting in hot wax
+encaustus | 4 | in later Latin, encaustum, the purple-red ink of the emperors
 eneco | 1 | kill
 eneco | 3 | by extension, to exhaust utterly, wear out, wear down
 eneco | 4 | in everyday speech, to torment, plague, pester to death
@@ -475,8 +521,28 @@ eo2 | 7 | besides, in addition to that
 eodem | 1 | to the same place
 eodem | 3 | of place where (rare), in the same place
 eodem | 4 | by extension, to the same point, purpose, or person
+ephebus | 1 | youth
+ephebus | 3 | a Greek youth between eighteen and twenty, in military and athletic training
+ephemeris | 1 | diary
+ephemeris | 3 | a daybook, a journal of each day's business or events
+ephippium | 1 | saddle cloth
+ephippium | 3 | a horse-cloth or saddle: optat ephippia bos piger, the lazy ox longs for a saddle, everyone wants another's lot
+epigramma | 1 | epigram
+epigramma | 2 | inscription
+epigramma | 3 | an inscription on a statue, an offering or a tomb
+epigramma | 4 | a short poem, an epigram, as those of Martial
+episcopus | 1 | bishop
+episcopus | 3 | an overseer or superintendent, as a civic official
+epistula | 1 | letter
+epistula | 3 | a written message, a letter: epistulam dare, to send a letter; ab epistulis, a private secretary
+epistula | 4 | in later Latin, an emperor's letter or rescript, having the force of law
 epistularis | 1 | epistolary
 epistularis | 3 | as a noun epistulares, state secretaries, letter-officials
+epitritos | 1 | epitrite
+epitritos | 3 | in metre, a foot of three long syllables and one short
+epitritos | 4 | in the ratio of four to three
+epodos | 1 | epode
+epodos | 3 | a lyric metre in which a longer line is followed by a shorter; Epodi, Horace's Epodes
 epoto | 1 | drink up
 epularis | 1 | convivial
 epulo1 | 1 | feaster
@@ -618,6 +684,8 @@ et | 1 | and
 et | 3 | after aeque, idem or par, as, than
 et | 4 | et ... et, both ... and
 etenim | 1 | for
+etesiae | 1 | Etesians
+etesiae | 3 | the Etesian winds, which blow from the north for forty days each summer
 etiam | 1 | also
 etiam | 2 | still
 etiam | 3 | in answers, yes, certainly, granted
@@ -631,9 +699,17 @@ etiamsi | 1 | although
 etiamtum | 1 | still
 etsi | 1 | although
 etsi | 3 | by extension, and yet, however (restricting a previous statement)
+eu | 1 | well done
+eu | 3 | an exclamation of approval: well done!, good!: eu hercle!, good, by Hercules!
+euge | 1 | bravo
+euge | 3 | an exclamation of approval, frequent in comedy: well done!, splendid!
+euge | 4 | ironically, excellent!, wonderful!
 euripus | 1 | strait
 euripus | 3 | by extension, a canal, a conduit, an aqueduct
 euripus | 4 | in particular, the trench around the Roman circus
+eurus | 1 | east wind
+eurus | 3 | the south-east wind; in poetry, the east wind
+eurus | 4 | in poetry, the east; or any wind
 evacuo | 1 | empty
 evacuo | 3 | figuratively, to make void, cancel, annul (an obligation)
 evado | 1 | escape
@@ -649,6 +725,8 @@ evalesco | 3 | by extension, to be able, have the power (to do something)
 evalesco | 4 | of a word, to prevail, come into common use
 evanesco | 1 | vanish
 evanesco | 3 | figuratively, to sink into oblivion, be forgotten
+evangelium | 1 | gospel
+evangelium | 3 | good news, glad tidings
 evangelizo | 1 | evangelise
 evanidus | 1 | fading
 eveho | 1 | carry out
@@ -913,6 +991,9 @@ exdorsuo | 1 | debone
 exedo | 1 | devour
 exedo | 3 | by extension, to eat away, corrode, destroy
 exedo | 4 | figuratively, to prey upon, consume, corrode (the mind)
+exedra | 1 | hall
+exedra | 3 | a hall with seats, used for conversation and debate
+exedra | 4 | an aviary
 exemplar | 1 | model
 exemplar | 2 | copy
 exemplar | 3 | figuratively, a likeness, an image, an impression
@@ -991,6 +1072,10 @@ exinde | 1 | thereafter
 exinde | 3 | rarely, of space, thence, from there
 exinde | 4 | in enumeration, then, next, furthermore
 exinde | 5 | in later Latin, from that time, ever since
+exintero | 1 | disembowel
+exintero | 3 | outside classical Latin, to gut an animal or fish
+exintero | 4 | in early Latin, in jest, to empty someone's purse: exinterare marsupium, to clean out a purse
+exintero | 5 | in early Latin, to torment
 existimatio | 1 | judgment
 existimatio | 3 | by extension, reputation, good name, character
 existimator | 1 | critic
@@ -1008,6 +1093,9 @@ exitus2 | 4 | figuratively, an end, a conclusion, a close
 exitus2 | 5 | in particular, death, the end of life
 exitus2 | 6 | figuratively, an outcome, a result, an issue
 exlex | 1 | lawless
+exodium | 1 | farce
+exodium | 3 | a short comic piece performed after a tragedy or an Atellan play
+exodium | 4 | outside classical Latin, the end, the conclusion
 exolesco | 1 | fade
 exolesco | 3 | to grow out of use, become obsolete, pass away
 exolesco | 4 | exoletus as an adjective, grown up, mature
@@ -1044,8 +1132,13 @@ exossis | 1 | boneless
 exossis | 3 | by extension, supple, limber, pliant
 exossis | 4 | by extension, of style, loose, slack, negligent
 exosso | 1 | debone
+exostra | 1 | stage machine
+exostra | 3 | a theatre machine that wheeled out the hidden part of the stage; in exostra, in full public view
+exostra | 4 | a bridge thrown from a siege tower onto the walls
 exosus | 1 | detesting
 exosus | 3 | in the passive, in later Latin, hateful, odious, loathed
+exoticus | 1 | foreign
+exoticus | 3 | in early and later Latin, foreign, exotic: unguenta exotica, foreign perfumes
 expallesco | 1 | pale
 expalpo | 1 | coax
 expando | 1 | spread out

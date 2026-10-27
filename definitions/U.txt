@@ -75,12 +75,21 @@ umor | 3 | a specific fluid, such as tears, saliva, or wine, depending on contex
 umquam | 1 | ever
 unanimis | 1 | unanimous
 unanimus | 1 | unanimous
+uncia | 1 | twelfth
+uncia | 2 | ounce
+uncia | 3 | a twelfth part, especially of an inheritance: heres ex uncia, heir to a twelfth
+uncia | 4 | an ounce, a twelfth of a pound; an inch, a twelfth of a foot
+uncia | 5 | a trifle, a bit: nulla uncia, not a scrap
 unciarius | 1 | one-twelfth
 unciarius | 3 | especially, fenus unciarium, interest at one-twelfth of the principal annually
 unciatim | 1 | by ounces
 unciatim | 3 | transferred, little by little, bit by bit
 unctio | 1 | anointing
 unctio | 3 | transferred, an ointment, unguent
+uncus1 | 1 | hook
+uncus1 | 3 | a hook or barb
+uncus1 | 4 | the hook by which executed criminals were dragged to the Tiber
+uncus1 | 5 | a surgical hook
 uncus2 | 1 | hooked
 unda | 1 | wave
 unda | 3 | transferred, water, a liquid, fluid, in general

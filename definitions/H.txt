@@ -61,6 +61,12 @@ haereo | 4 | to remain attached, to adhere closely, to persist
 haereo | 5 | to keep close to or follow someone
 haereo | 6 | to remain or abide in a place, to stay fixed there
 haereo | 7 | to be brought to a standstill, to be perplexed, at a loss, embarrassed
+haeresis | 1 | sect
+haeresis | 3 | a school of thought in philosophy: Pythagorae haeresim sequi, to follow the school of Pythagoras
+haeresis | 4 | in Christian Latin, a heretical doctrine, a heresy
+haeresis | 5 | in later Latin, a calling or profession
+haereticus | 1 | heretical
+haereticus | 3 | in Christian Latin, as a noun, a heretic: adversus haereticos, against the heretics
 haesitatio | 1 | hesitation
 haesitatio | 3 | a stammering, hesitation in speech
 haesitatio | 4 | mental uncertainty, irresolution, perplexity
@@ -75,6 +81,8 @@ hallelujah | 1 | hallelujah
 halo | 1 | exhale
 halo | 3 | to give off fragrance, to be fragrant
 halo | 4 | to breathe out, emit, as a scent
+halos | 1 | halo
+halos | 3 | a ring of light round the sun or moon
 hamatus | 1 | hooked
 hamatus | 3 | shaped like a hook, crooked
 hamatus | 4 | figurative, alluring, baited, catching, like a hook
@@ -101,6 +109,15 @@ harenosus | 1 | sandy
 hariolor | 1 | prophesy
 hariolor | 3 | transferred, bad sense, to talk nonsense, babble foolishly, early Latin
 hariolus | 1 | soothsayer
+harmonia1 | 1 | harmony
+harmonia1 | 3 | a pleasing agreement of sounds, harmony in music
+harmonia1 | 4 | in philosophy, the harmony of parts, as of the body or the heavens: ad harmoniam canere mundum, that the universe sings in harmony
+harmonia1 | 5 | in Christian Latin, a song, singing
+harpago2 | 1 | grappling-hook
+harpago2 | 3 | a hook for seizing ships or pulling down walls
+harpago2 | 4 | in early Latin, a grasping person, a robber
+harpax1 | 1 | rapacious
+harpax1 | 3 | drawing things to itself; of amber, which attracts straws and threads
 harundo | 1 | reed
 harundo | 3 | a cane or reed plant
 harundo | 4 | by extension, a fishing rod
@@ -152,12 +169,21 @@ hebeto | 3 | to dull, dim, or weaken something physically, such as a blade or th
 hebeto | 4 | figurative, to dull the mind, to make dull or stupid
 hedera | 1 | ivy
 hei | 1 | alas
+helice | 1 | willow
+helice | 3 | a slender, flexible kind of willow
+helice | 4 | Helice, the Great Bear, and in poetry the north
+heliotropium | 1 | heliotrope
+heliotropium | 3 | the heliotrope, a plant that turns towards the sun
+heliotropium | 4 | a precious stone with green and red streaks, bloodstone
 helluor | 1 | gorge
 helluor | 3 | to gormandise, to eat and drink to excess
 helluor | 4 | figurative, to devour eagerly, to squander: helluari libris, to devour books voraciously
 hem | 1 | well
 hem | 3 | an exclamation of surprise: oho! indeed!
 hem | 4 | an exclamation of pain or grief: alas!
+hemicyclium | 1 | semicircle
+hemicyclium | 3 | a semicircular recess or bench with seats, for conversation
+hemicyclium | 4 | a semicircular sundial
 herba | 1 | grass
 herba | 2 | herb
 herba | 3 | growing greenery, grass, or herbage in general
@@ -184,11 +210,23 @@ heres | 4 | poetic, a successor, a new growth replacing what was cut away
 heres | 5 | figurative, a successor or inheritor of something abstract: heres laudis, an heir to someone's glory
 heri | 1 | yesterday
 heri | 3 | transferred, a short time ago, lately, rare
+hermaphroditus | 1 | hermaphrodite
+hermaphroditus | 3 | a person of both sexes, named after the son of Hermes and Aphrodite, who grew into one body with Salmacis
 heroicus | 1 | heroic
+heros | 1 | hero
+heros | 3 | a demigod, a hero of legend: magnanimi heroes, great-hearted heroes
+heros | 4 | figuratively, a great man: heros ille noster Cato, our great Cato
+herous2 | 1 | heroic
+herous2 | 3 | of heroes; of verse, epic: versus herous, the epic hexameter
+herous2 | 4 | herous as a noun, a hexameter line
+herpes | 1 | shingles
+herpes | 3 | a creeping, spreading rash on the skin
 hesternus | 1 | yesterday's
 heu! | 1 | alas
 heu! | 3 | rarely, an exclamation of surprise or admiration: oh!
 heus! | 1 | hey
+hexameter | 1 | hexameter
+hexameter | 3 | a line of verse of six feet: versus hexametri, hexameters
 hiatus | 1 | opening
 hiatus | 2 | hiatus
 hiatus | 3 | an opening, aperture, gap, or cleft
@@ -221,7 +259,15 @@ hiems | 2 | storm
 hiems | 3 | the winter season, wintertime
 hiems | 4 | transferred, poetic, stormy or rainy weather, a tempest
 hiems | 5 | figurative, cold, distress, or turmoil: hiems rerum, the storm of war
+hieraticus | 1 | sacred
+hieraticus | 3 | for sacred use: charta hieratica, the finest papyrus, kept for sacred books
+hierophanta | 1 | hierophant
+hierophanta | 3 | a high priest who taught the sacred rites of the mysteries
 hieto | 1 | yawn
+hilaris | 1 | cheerful
+hilaris | 3 | merry, lively, in good spirits: vultu hilari atque laeto, with a cheerful and happy face
+hilaris | 4 | hilare as an adverb, cheerfully: hilare vivere, to live merrily
+hilaris | 5 | hilaria as a noun, a joyful festival of Cybele at the spring equinox
 hilaritas | 1 | cheerfulness
 hilaro | 1 | cheer
 hillae | 1 | entrails
@@ -237,12 +283,17 @@ hinc | 5 | after Augustus, of time, from this time on, hereafter
 hinc | 6 | for abhinc, ago, since: hinc ducentos annos, two hundred years ago
 hinnio | 1 | neigh
 hinnulus | 1 | young mule
+hinnus | 1 | hinny
+hinnus | 3 | the offspring of a stallion and a she-ass, smaller than a mule
 hio | 1 | gape
 hio | 3 | to open wide, to stand open, of the earth or a chasm
 hio | 4 | to open the mouth, to yawn
 hio | 5 | of speech, to leave an awkward gap between vowels, a hiatus
 hio | 6 | figurative, to gape with longing or desire, to be eager for something
 hio | 7 | active, poetic, to spew out, emit; also to sing or utter loudly
+hippomanes | 1 | hippomanes
+hippomanes | 3 | a fluid from a mare in heat, used in love potions
+hippomanes | 4 | a membrane on the forehead of a newborn foal, also used in love potions
 hircinus | 1 | goat's
 hircosus | 1 | goatish
 hircus | 1 | he-goat
@@ -264,6 +315,16 @@ hisco | 3 | to open the mouth, to mutter, to speak up
 hisco | 4 | active, poetic, to say, utter, relate
 hispidus | 1 | bristly
 hispidus | 3 | figurative, rude, coarse, insensible
+historia | 1 | history
+historia | 2 | story
+historia | 3 | an account of past events, history: historia magistra vitae, history the teacher of life
+historia | 4 | a written history, a historical work
+historia | 5 | any narrative or tale; something worth telling
+historia | 6 | in poetry, a subject of talk: nobilis historia, a famous tale
+historicus | 1 | historical
+historicus | 2 | historian
+historicus | 3 | of history: genus historicum, the historical style
+historicus | 4 | as a noun, a historian, a writer of history
 histrio | 1 | actor
 histrio | 3 | transferred, a boaster, one who exaggerates
 hiulcus | 1 | gaping
@@ -445,3 +506,14 @@ humo | 3 | transferred, to perform funeral rites for someone
 humus | 1 | ground
 humus | 3 | transferred, land, a country, a region
 humus | 4 | adverbial form humi, on the ground, to the ground
+hydrus1 | 1 | water snake
+hydrus1 | 3 | a water snake, or any serpent; in poetry, the snakes in the hair of the Furies or Medusa
+hydrus1 | 4 | Hydrus, the constellation of the Water-snake
+hymnus | 1 | hymn
+hymnus | 3 | a song of praise to a god
+hypaethrus | 1 | open-air
+hypaethrus | 3 | open to the sky, unroofed; hypaethros, a temple without a roof
+hypotheca | 1 | mortgage
+hypotheca | 3 | in law, a pledge of property as security for a debt
+hysopum | 1 | hyssop
+hysopum | 3 | the hyssop plant, used in medicine; in Christian Latin, used for sprinkling in purification

@@ -1,5 +1,12 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_D.json (Lewis & Short via Perseus), simplified for learners.
+dactylus | 1 | dactyl
+dactylus | 3 | in metre, a dactyl, a long syllable followed by two shorts
+dactylus | 4 | the date, the fruit of the palm
+dactylus | 5 | the name of a shellfish, a grape, a grass and a precious stone
+daemon1 | 1 | spirit
+daemon1 | 3 | in later Latin, a spirit or guardian genius
+daemon1 | 4 | in Christian Latin, an evil spirit, a demon
 damma | 1 | deer
 damma | 3 | venison, the meat of a deer
 damnabilis | 1 | damnable
@@ -19,6 +26,10 @@ damnum | 1 | loss
 damnum | 2 | fine
 damnum | 3 | damnum injuria datum, injury done to another's property or slave, actionable under the lex Aquilia
 damnum | 4 | damnum infectum, threatened but not yet inflicted damage, against which security could be demanded
+danista | 1 | moneylender
+danista | 3 | in early Latin, a moneylender, a usurer
+daphne | 1 | laurel
+daphne | 3 | the laurel or bay tree
 daps | 1 | feast
 daps | 2 | offering
 dapsilis | 1 | lavish
@@ -445,6 +456,12 @@ deliro | 3 | literally, to swerve or deviate from a straight line (rare, of a pl
 delirus | 1 | crazy
 delitesco | 1 | hide
 delitesco | 3 | figuratively, to shelter behind, to take refuge under someone's authority
+delphinus | 1 | dolphin
+delphinus | 3 | the Dolphin, a constellation
+delphinus | 4 | an ornament or fitting shaped like a dolphin
+delta | 1 | delta
+delta | 3 | the fourth letter of the Greek alphabet
+delta | 4 | the Delta, the land at the mouths of the Nile
 delubrum | 1 | shrine
 deludo | 1 | deceive
 deludo | 3 | to finish playing, to stop a performance (rare)
@@ -510,6 +527,9 @@ denarius | 1 | denarius
 denarius | 3 | a Roman silver coin, originally worth ten asses
 denarius | 4 | as an adjective, containing ten
 denarro | 1 | recount
+dendrophorus | 1 | branch bearer
+dendrophorus | 3 | a member of a guild that carried branches in religious processions
+dendrophorus | 4 | in later Latin, a woodworker
 denego | 1 | refuse
 denego | 3 | to deny that something is so
 deni | 1 | ten each
@@ -926,6 +946,29 @@ dextera | 2 | pledge
 dextera | 3 | by extension, the right side, right-hand direction
 dextera | 4 | in poetry, the hand (in general)
 dextrorsum | 1 | rightward
+diabolus | 1 | devil
+diabolus | 3 | the Devil, Satan
+diaconus | 1 | deacon
+diaeta | 1 | diet
+diaeta | 2 | room
+diaeta | 3 | a way of life prescribed by a doctor, a diet: diaeta curari, to be treated by diet
+diaeta | 4 | a living room or summer-house in a villa
+dialecticus | 1 | dialectical
+dialecticus | 2 | logician
+dialecticus | 3 | of logic and argument: captiones dialecticae, logical tricks; dialectice, logically
+dialecticus | 4 | dialectica, logic, the art of reasoning
+dialogus | 1 | dialogue
+dialogus | 3 | a philosophical conversation, especially one written as a dialogue
+diapason | 1 | octave
+diapason | 3 | in music, the whole octave; similarly diapente, a fifth, and diatessaron, a fourth
+diatonus | 1 | diatonic
+diatonus | 3 | in music, diatonum, the diatonic scale
+diatonus | 4 | in architecture, lateres diatoni, bonding stones that run through a wall
+dibaphus | 1 | double-dyed
+dibaphus | 3 | dyed twice, first in scarlet and then in purple
+dibaphus | 4 | as a noun, the purple-striped robe of a high magistrate, and so high office itself
+dica | 1 | lawsuit
+dica | 3 | a lawsuit, an action at law: dicam scribere alicui, to bring an action against someone
 dicacitas | 1 | banter
 dicaculus | 1 | talkative
 dicaculus | 2 | witty
@@ -1010,6 +1053,9 @@ diffundo | 1 | diffuse
 diffundo | 2 | cheer
 diffundo | 3 | figuratively, to spread, extend (fame, power, or influence)
 diffundo | 4 | of style or writing, diffuse, prolix, verbose
+digammon | 1 | digamma
+digammon | 3 | the Aeolic letter digamma, written like F
+digammon | 4 | in jest, an account book of rents
 digero | 1 | arrange
 digero | 2 | digest
 digero | 3 | in medicine, to dissolve, dissipate (morbid matter)
@@ -1113,6 +1159,9 @@ dinumeratio | 3 | in rhetoric, enumeration as a rhetorical figure, listing point
 dinumero | 1 | enumerate
 dinumero | 3 | in business, to count out, pay out (money)
 # skip: dio is a proper name (Dion of Syracuse, and others), not a common word
+diploma | 1 | permit
+diploma | 3 | an official pass issued to travellers on state business, letting them use the public post
+diploma | 4 | any document from a magistrate granting a right or privilege
 directio | 1 | direction
 directio | 3 | concretely, a straight line
 directio | 4 | in Christian Latin, righteousness, uprightness
@@ -1234,6 +1283,10 @@ discurso | 3 | transitively, in later Latin, to traverse
 discursus2 | 1 | running about
 discursus2 | 3 | by extension, a spreading, ramification (of roots or veins)
 discursus2 | 4 | in later Latin, a discourse, conversation
+discus1 | 1 | discus
+discus1 | 3 | a quoit or discus thrown in athletic exercise
+discus1 | 4 | a dish or plate
+discus1 | 5 | the face of a sundial
 discussio | 1 | discussion
 discussio | 3 | a revision, audit (of public accounts, late empire)
 discutio | 1 | shatter
@@ -1373,6 +1426,9 @@ distendo | 3 | by extension, to torture by racking, stretch on the rack
 distendo | 4 | figuratively, to distract, perplex, divide (the mind or attention)
 distermino | 1 | demarcate
 distermino | 3 | figuratively, to limit, regulate
+distichus | 1 | two-rowed
+distichus | 3 | distichon as a noun, a couplet, a hexameter and a pentameter
+distichus | 4 | of barley, having two rows of grain
 distinctio | 1 | distinction
 distinctio | 3 | in rhetoric and grammar, a mark of punctuation, a pause in speech
 distinctio | 4 | rarely, an ornament, an adornment
@@ -1508,6 +1564,9 @@ documentum | 2 | proof
 dodrans | 1 | three-quarters
 dodrans | 3 | as a measure of length, nine inches
 dodrans | 4 | as a measure of time, three quarters of an hour
+dogma | 1 | doctrine
+dogma | 3 | a philosophical teaching, a tenet
+dogma | 4 | in Christian Latin, a decree, an order
 dolabra | 1 | pickaxe
 doleo | 1 | grieve
 doleo | 2 | ache
@@ -1522,6 +1581,12 @@ dolor | 2 | resentment
 dolor | 3 | by extension, a grief, a cause of sorrow
 dolor | 4 | in rhetoric, pathos, passionate expression
 dolosus | 1 | deceitful
+dolus | 1 | trick
+dolus | 3 | a scheme or stratagem: dolis capere, to take by trickery
+dolus | 4 | dolus malus, in law, fraud, wilful wrongdoing
+dolus | 5 | guile, cunning, deception: sine dolo, honestly
+dolus | 6 | in poetry, a snare or trap
+dolus | 7 | fault: dolo suo, by his own fault
 domesticus | 1 | domestic
 domesticus | 2 | personal
 domesticus | 3 | as a noun domestici, the members of a household; household slaves
@@ -1587,9 +1652,22 @@ dossennus1 | 3 | by extension, ironically, a fool, clown, jester
 dotalis | 1 | dotal
 doto1 | 1 | endow
 doto1 | 3 | by extension, to enrich, endow (something) with a quality
+drachma | 1 | drachma
+drachma | 3 | a Greek silver coin, worth about a Roman denarius
+drachma | 4 | as a weight, a drachm, an eighth of an ounce
+draco1 | 1 | serpent
+draco1 | 2 | dragon
+draco1 | 3 | a large snake; some tame kinds were kept as pets
+draco1 | 4 | in myth, a dragon guarding a treasure
+draco1 | 5 | Draco, the constellation of the Dragon
+draco1 | 6 | in later Latin, a dragon standard carried by a cohort
+draco1 | 7 | a sea fish, the weever
+draco1 | 8 | in Christian Latin, the Serpent, the Devil
 dracunculus | 1 | small serpent
 dracunculus | 3 | a kind of fish, the dragonet
 dracunculus | 4 | the plant tarragon
+dromos | 1 | racecourse
+dromos | 3 | a running track; the plain near Sparta where the young men trained
 dubitatio | 1 | doubt
 dubitatio | 3 | in rhetoric, dubitatio, a figure feigning hesitation for rhetorical effect
 dubitatio | 4 | hesitancy, irresolution, delay (in acting)

@@ -11,6 +11,15 @@ maceria | 3 | rarely, affliction, distress (a pun on macer)
 macero | 1 | steep
 macero | 2 | torment
 macesco | 1 | grow lean
+machaera1 | 1 | sword
+machaera1 | 3 | in early and later Latin, a sword, a sabre
+machina | 1 | machine
+machina | 2 | scheme
+machina | 3 | any mechanical contrivance, a crane, hoist or windlass: machina apposita, by applying a machine
+machina | 4 | a siege engine: machinis oppidum expugnare, to storm a town with siege engines
+machina | 5 | a device, a plan; a trick or stratagem: machinas disturbare, to wreck someone's schemes
+machina | 6 | a frame or structure: machina mundi, the fabric of the world
+machina | 7 | a builder's scaffold; a painter's easel; a platform where slaves were sold
 machinamentum | 1 | machine
 machinamentum | 3 | figuratively, trick, stratagem
 machinarius | 1 | of machines
@@ -58,6 +67,10 @@ maestitudo | 1 | sadness
 maestus | 1 | sad
 maestus | 3 | by extension, gloomy, severe (of temperament)
 maestus | 4 | in general, mournful, funereal (of garments or rites)
+magicus | 1 | magic
+magicus | 3 | of magic and magicians, a word of poetry and later prose: magicae artes, the magic arts
+magis2 | 1 | platter
+magis2 | 3 | a dish or platter; in later Latin, a kneading trough
 magister | 1 | master
 magister | 2 | teacher
 magisterium | 1 | directorship
@@ -70,6 +83,8 @@ magistratus | 2 | magistrate
 magmentarius | 1 | supplementary
 magnanimitas | 1 | magnanimity
 magnanimus | 1 | magnanimous
+magnes1 | 1 | magnet
+magnes1 | 3 | the magnet, the lodestone, named from Magnesia: magnes lapis, the magnetic stone
 magnificentia | 1 | magnificence
 magnificentia | 3 | by extension, grandeur, splendour (of things)
 magnificentia | 4 | in rhetoric, in a bad sense, pomposity, bombast
@@ -97,6 +112,11 @@ majestas | 3 | by extension, in general, dignity, splendour
 majusculus | 1 | rather large
 mala | 1 | jawbone
 mala | 3 | by extension, cheek (the external part of the face)
+malacia | 1 | calm
+malacia | 3 | a dead calm at sea: tanta malacia exstitit, so great a calm set in
+malacia | 4 | loss of appetite, nausea
+malacus | 1 | soft
+malacus | 3 | in early Latin, soft, supple; delicate, effeminate: pallium malacum, a soft cloak
 maledico | 1 | revile
 maledico | 3 | in Christian Latin, curse
 maledictio | 1 | abuse
@@ -133,6 +153,13 @@ malleus | 1 | hammer
 malleus | 3 | by extension, glanders (a disease of animals)
 malo | 1 | prefer
 malo | 3 | in particular, favour (be more inclined towards someone)
+malobathron | 1 | malobathrum
+malobathron | 3 | an Indian plant, perhaps a kind of cinnamon, and the costly oil made from it
+maltha | 1 | tar
+maltha | 3 | a thick mineral pitch; a cement of lime and lard
+malum2 | 1 | apple
+malum2 | 3 | an apple, or any similar fruit, as a quince, pomegranate or peach
+malum2 | 4 | ab ovo usque ad mala, from the egg to the apples, from start to finish of a meal, from beginning to end
 malus1 | 1 | bad
 malus1 | 3 | ugly, ill-looking (of appearance)
 malus1 | 4 | as a noun, malum, harm, misfortune (an evil)
@@ -162,6 +189,9 @@ mando1 | 1 | commission
 mando1 | 2 | entrust
 mando2 | 1 | chew
 mando2 | 3 | by extension, devour
+mandra | 1 | pen
+mandra | 3 | in poetry, a stall or pen for animals; a string of pack animals
+mandra | 4 | the squares of a gaming board
 manduco1 | 1 | chew
 manducus | 1 | glutton
 manducus | 3 | by extension, a chewing-mask (a comic theatrical figure)
@@ -181,6 +211,9 @@ manipulatim | 1 | in bundles
 manipulatim | 3 | in the army, by maniples
 manipulus | 1 | handful
 manipulus | 2 | maniple
+manna | 1 | grain
+manna | 3 | a grain of gum or resin: manna turis, grains of frankincense
+manna | 4 | in Christian Latin, manna, the food of the Israelites in the desert
 mannulus | 1 | pony
 mano | 1 | flow
 mano | 3 | by extension, spread, extend
@@ -231,6 +264,8 @@ marcor | 3 | by extension, languor, indolence
 marculus1 | 1 | small hammer
 mare | 1 | sea
 mare | 3 | by extension, sea-water
+margarita | 1 | pearl
+margarita | 3 | a pearl: linea margaritarum, a string of pearls
 margaritarius | 1 | of pearls
 margaritarius | 3 | as a noun, a pearl-dealer
 margo | 1 | edge
@@ -246,18 +281,34 @@ marito | 3 | by extension, mate, pair (of animals)
 marito | 4 | by extension, train, prop up (of a vine tied to a tree)
 maritus1 | 1 | matrimonial
 maritus1 | 2 | husband
+marmor | 1 | marble
+marmor | 3 | marble: templum de marmore, a temple of marble
+marmor | 4 | a marble statue or monument; a marble pavement
+marmor | 5 | in poetry, the smooth, gleaming surface of the sea: lento luctantur marmore tonsae, the oars struggle with the sluggish sea
+marmor | 6 | marble dust; a marble milestone
 marmoreus | 1 | marble
 marmoreus | 3 | by extension, marble-white, marble-smooth
 marmoro | 1 | marble
 marra | 1 | hoe
 marra | 3 | by extension, fishing-hook
+martyr | 1 | martyr
+martyr | 3 | a witness, especially one who bears witness to the faith by dying for it
+martyrium | 1 | martyrdom
+martyrium | 3 | in Christian Latin, a martyr's tomb, or a church built over it
 mas | 1 | male
 mas | 3 | by extension, manly, brave
 masculinus | 1 | male
 masculinus | 3 | in grammar, masculine (of grammatical gender)
 masculus | 1 | male
 masculus | 3 | by extension, manly, vigorous, bold
+massa1 | 1 | lump
+massa1 | 3 | a lump or mass of something sticky: massa picis, a lump of pitch; massa lactis coacti, a cheese
+massa1 | 4 | a mass of metal, an ingot
 massalis | 1 | of mass
+mastiche | 1 | mastic
+mastiche | 3 | the fragrant resin of the mastic tree
+mastigia | 1 | scoundrel
+mastigia | 3 | in early Latin, a rascal who deserves a whipping, a rogue
 matella | 1 | pot
 matella | 3 | in particular, chamber-pot
 mater | 1 | mother
@@ -269,6 +320,13 @@ materiarius | 1 | of timber
 materiarius | 3 | as a noun, a timber-merchant
 maternus1 | 1 | maternal
 matertera | 1 | maternal aunt
+mathematicus | 1 | mathematical
+mathematicus | 2 | mathematician
+mathematicus | 3 | as a noun, a mathematician
+mathematicus | 4 | in later Latin, an astrologer: mathematici, genus hominum potentibus infidum, astrologers, a breed untrustworthy to the powerful
+mathematicus | 5 | mathematica, mathematics; later, astrology
+mathesis | 1 | mathematics
+mathesis | 3 | in later Latin, mathematics; astrology
 matralis | 1 | maternal
 matralis | 3 | especially, Matralia, the festival of Mater Matuta
 matrimonium | 1 | marriage
@@ -296,6 +354,8 @@ matutinus | 3 | by extension, sober, serious (frons matutina)
 maxilla | 1 | jawbone
 meatus | 1 | course
 meatus | 3 | by extension, concretely, passage, channel
+mechanicus | 1 | mechanical
+mechanicus | 3 | outside classical Latin, as a noun, an engineer, a mechanic
 meddix | 1 | Oscan magistrate
 medela | 1 | remedy
 medeor | 1 | heal
@@ -324,6 +384,8 @@ medicus1 | 1 | medical
 medicus1 | 2 | physician
 medietas | 1 | middle
 medietas | 3 | by extension, half, moiety
+medimnum | 1 | medimnus
+medimnum | 3 | a Greek corn measure of six modii, a bushel: medimnum tritici, a medimnus of wheat
 mediocris | 1 | middling
 mediocritas | 1 | moderation
 mediocritas | 2 | insignificance
@@ -345,12 +407,18 @@ medullitus | 1 | thoroughly
 meio | 1 | urinate
 mel | 1 | honey
 mel | 3 | figuratively, sweetness, charm (of speech)
+melimela | 1 | honey apples
+melimela | 3 | a sweet early apple, earlier called mustea mala
+melinus3 | 1 | quince
+melinus3 | 3 | melinum as a noun, oil or ointment of quinces; in early Latin, a quince-yellow garment
 meliusculus | 1 | somewhat better
 melleus | 1 | honeyed
 melleus | 3 | by extension, delightful, charming
 mellitus | 1 | honeyed
 mellitus | 3 | figuratively, darling, lovely
 mellum | 1 | dog-collar
+melos1 | 1 | song
+melos1 | 3 | in early Latin and poetry, a tune, a melody, a song
 membrana | 1 | membrane
 membrana | 2 | parchment
 membrana | 3 | figuratively, surface, outward show
@@ -409,6 +477,8 @@ mensura | 1 | measure
 mensura | 3 | figuratively, extent, degree (capacity or proportion)
 mensuralis | 1 | measuring
 mensuro | 1 | measure
+menta | 1 | mint
+menta | 3 | mint, said to be the nymph Minthe transformed
 mentio1 | 1 | mention
 mentior | 1 | lie
 mentior | 2 | feign
@@ -461,6 +531,7 @@ merus | 1 | pure
 merus | 2 | mere
 merx | 1 | goods
 merx | 3 | by extension, in early Latin, a piece of goods (term of abuse for a person)
+# skip: mesa one technical grade of hemp in Pliny, nothing to teach
 messis | 1 | harvest
 messis | 3 | by extension, the standing crop (yet to be harvested)
 messis | 4 | in poetry, by extension, a year
@@ -469,20 +540,41 @@ messor | 3 | figuratively, destroyer (a 'reaper' of men)
 meta | 1 | goal
 meta | 2 | cone
 meta | 3 | by extension, limit, boundary (of life or a journey)
+metalepsis | 1 | metalepsis
+metalepsis | 3 | in rhetoric, putting one word for another that it suggests by association, often in two steps
 metallicus | 1 | metallic
 metallicus | 3 | as a noun, miner
+metallum | 1 | mine
+metallum | 2 | metal
+metallum | 3 | a mine or quarry: metalla instituere, to open mines; damnare in metallum, to condemn to the mines
+metallum | 4 | a metal, as gold, silver or iron
+metallum | 5 | anything dug from the earth, as marble or precious stones
+metamorphosis | 1 | transformation
+metamorphosis | 3 | Metamorphoses, the title of Ovid's poem of transformations
 metator | 1 | surveyor
 metior | 1 | measure
 metior | 3 | in poetry, by extension, traverse (a distance)
 metior | 4 | figuratively, estimate, judge
 meto2 | 1 | reap
 meto2 | 3 | in particular, mow down, cut down (in battle)
+metoecus | 1 | resident alien
+metoecus | 3 | in later Latin, a foreigner living in a city without citizen rights
 metor | 1 | mark out
 metor | 3 | in particular, encamp, pitch camp
+metreta | 1 | metretes
+metreta | 3 | an Athenian liquid measure of about nine gallons
+metreta | 4 | a large jar for oil or wine
+metrum | 1 | metre
+metrum | 3 | a measure; in poetry, metre or a line of verse
 metuo | 1 | fear
 metuo | 3 | in Christian Latin, revere, hold in awe
 metus | 1 | fear
 metus | 3 | by extension, concretely, a terror (a thing that causes fear)
+meus | 1 | my
+meus | 3 | my, belonging to me: domus mea, my house; mea sponte, of my own accord
+meus | 4 | as a term of affection: mi fili, my son; Lolli meus, my dear Lollius
+meus | 5 | mei, my family or friends; meum, my property: fundite quae mea sunt, throw overboard what is mine
+meus | 6 | meus est, he is in my power, I have him
 mica | 1 | crumb
 mica | 3 | by extension, a small dining-room
 mico | 1 | quiver
@@ -514,6 +606,16 @@ miluinus | 1 | of kites
 miluinus | 3 | by extension, rapacious, thieving
 miluus | 1 | kite
 miluus | 3 | by extension, gurnard (a fish)
+mimicus | 1 | farcical
+mimicus | 3 | of mimes, like a farce, extravagant: jocus mimicus, a farcical joke
+mimicus | 4 | feigned, pretended: mors mimica, a sham death
+mimus | 1 | mime
+mimus | 2 | farce
+mimus | 3 | an actor in mime, a mimic
+mimus | 4 | a mime, a coarse farce: mimum agere, to act a farce
+mimus | 5 | figuratively, a sham, a pretence: mimus vitae humanae, the farce of human life
+mina1 | 1 | mina
+mina1 | 3 | a Greek weight and a sum of money, a hundred drachmas: mina argenti, a mina of silver
 mina2 | 1 | smooth
 mina2 | 3 | as a noun, a dry breast (obscure gloss)
 minae | 1 | threats
@@ -590,6 +692,8 @@ missus2 | 3 | by extension, a heat, round (in public games)
 missus2 | 4 | by extension, a course (at a meal)
 mistura | 1 | mixture
 mistura | 3 | in particular, carnal intercourse
+misy | 1 | copperas
+misy | 3 | a mineral, perhaps a copper or iron ore; also a kind of truffle
 mitella | 1 | headband
 mitella | 3 | by extension, arm-bandage, sling
 mitesco | 1 | ripen
@@ -600,6 +704,8 @@ mitigo | 1 | soften
 mitigo | 3 | figuratively, appease, pacify
 mitis | 1 | mild
 mitis | 3 | figuratively, gentle, calm (of temperament or speech)
+mitra | 1 | turban
+mitra | 3 | an Eastern headband or turban, worn at Rome only by women or effeminate men
 mitto | 1 | send
 mitto | 2 | hurl
 mitto | 3 | especially, omit, pass over (in speaking)
@@ -693,6 +799,10 @@ monitum | 1 | advice
 monitum | 3 | prophecy, prediction
 monitus2 | 1 | warning
 monitus2 | 3 | in particular, omen, portent (divine warning)
+monochordos | 1 | one-stringed
+monogrammus | 1 | shadowy
+monogrammus | 3 | sketched in outline only; of Epicurus' gods, insubstantial: monogrammi dei, shadowy gods
+monogrammus | 4 | in jest, as a noun, a living skeleton, a man worn to a shadow
 mons | 1 | mountain
 mons | 3 | by extension, heap, mass (of things)
 mons | 4 | in poetry, rock
@@ -752,6 +862,8 @@ moribundus | 1 | dying
 moribundus | 3 | in the active, in poetry, deadly, fatal (causing death)
 morigeror | 1 | comply
 morigerus | 1 | obedient
+morion | 1 | nightshade
+morion | 3 | a narcotic plant, nightshade; also the male mandrake
 morior | 1 | die
 morior | 3 | by extension, decay, wither away (of things)
 morior | 4 | as an adjective, mortuus, dead
@@ -785,6 +897,8 @@ morticinus | 3 | by extension, dead (of things generally)
 mortifer | 1 | deadly
 mortualia | 1 | grave-clothes
 mortualia | 3 | funeral dirges (of songs sung for the dead)
+morus1 | 1 | foolish
+morus1 | 3 | in early Latin, silly; as a noun, a fool: morus es, you're a fool
 mos | 1 | custom
 mos | 3 | in particular, in the plural, mores, conduct, character (moral behaviour, morals)
 mos | 4 | by extension, quality, nature, manner (of things)
@@ -808,6 +922,8 @@ moveo | 7 | dance, perform a gesture (of ritual dance)
 mox | 1 | soon
 mox | 3 | then, next (in a narrative sequence)
 mox | 4 | after Augustus, afterwards, later (for post)
+mu | 1 | mum
+mu | 3 | in early Latin, the least sound: neque mu facere audet, he dare not say a word
 mucro | 1 | point
 mucro | 3 | by extension, in poetry, sword
 mucro | 4 | figuratively, edge, sharpness (of wit or authority)
@@ -939,6 +1055,10 @@ murmur | 3 | roar, rumble (of louder or harsher sounds, e.g. the sea or a crowd)
 murmuro | 1 | murmur
 murmuro | 3 | grumble, mutter (of discontent)
 murmuro | 4 | in the active, by extension, grumble at, complain about (with the accusative)
+murra1 | 1 | myrrh
+murra1 | 3 | the myrrh tree of Arabia, and its fragrant gum, used to flavour wine and scent the hair
+murra3 | 1 | murra
+murra3 | 3 | a precious stone, perhaps fluorspar, from which costly cups were made; in poetry, a murrine cup
 murreus2 | 1 | murrine
 murrinus1 | 1 | myrrh
 murrinus1 | 3 | as a noun, murrina, spiced wine flavoured with myrrh
@@ -948,6 +1068,9 @@ murus | 1 | wall
 murus | 3 | by extension, dam, embankment
 murus | 4 | rim, side (of a vessel, e.g. a pot)
 murus | 5 | figuratively, safeguard, defence
+mus1 | 1 | mouse
+mus1 | 3 | a mouse or rat: parturient montes, nascetur ridiculus mus, mountains will labour and a silly mouse be born
+mus1 | 4 | mus marinus, a kind of sea creature
 musca1 | 1 | fly
 musca1 | 3 | by extension, busybody, meddler (of an annoying person)
 muscarius | 1 | fly
@@ -957,6 +1080,17 @@ musculus | 3 | in medicine, muscle (of the body)
 musculus | 4 | by extension, mussel (a sea-mussel)
 musculus | 5 | in the army, shed, mantelet (a protective siege shelter)
 musculus | 6 | rarely, in later Latin, a small boat
+musica | 1 | music
+musica | 3 | music, and in the ancient sense the arts of the Muses generally, poetry and learning
+musicus | 1 | musical
+musicus | 2 | musician
+musicus | 3 | of music: leges musicae, the rules of music; musica, music
+musicus | 4 | as a noun, a musician
+musicus | 5 | in early Latin, of poetry: studium musicum, the art of poetry
+musimo | 1 | mouflon
+musimo | 3 | a wild sheep of Sardinia
+musivus | 1 | mosaic
+musivus | 3 | in later Latin, musivum, mosaic work: opere musivo, in mosaic
 mussito | 1 | mutter
 mussito | 3 | in the active, be silent about, disregard (to take no notice of a thing)
 musso | 1 | mutter
@@ -1000,3 +1134,13 @@ mutuus | 4 | as an adverb, mutuo, mutue, mutuiter, mutually, in return
 myrtetum | 1 | myrtle-grove
 myrteus | 1 | myrtle
 myrteus | 3 | by extension, myrtle-coloured, chestnut-brown (of colour)
+myrtus | 1 | myrtle
+myrtus | 3 | the myrtle tree, sacred to Venus: myrto caput impedire, to wreathe one's head with myrtle
+myrtus | 4 | in poetry, a spear of myrtle wood
+mysterium | 1 | mystery
+mysterium | 3 | secret rites, the mysteries of a god: mysteria Eleusinia, the Eleusinian mysteries
+mysterium | 4 | any secret: epistulae nostrae tantum habent mysteriorum, our letters hold so many secrets
+mysterium | 5 | in Christian Latin, a divine mystery beyond understanding: mysterium evangelii, the mystery of the gospel
+mysterium | 6 | in Christian Latin, the Eucharist
+mysticus | 1 | mystic
+mysticus | 3 | in poetry, of secret rites, mystical: mystica vannus Iacchi, the mystic winnowing-fan of Bacchus

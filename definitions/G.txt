@@ -41,6 +41,8 @@ gannio | 4 | by extension, of persons, to snarl, growl, or grumble
 gannitus | 1 | yelp
 gannitus | 3 | by extension, of birds, a chirping or twittering
 gannitus | 4 | by extension, of persons, a snarling, grumbling, or whining
+gargarizo | 1 | gargle
+gargarizo | 3 | to gargle, or use something as a gargle
 garrio | 1 | chatter
 garrio | 3 | to talk idly, prattle, gossip
 garrio | 4 | by extension, of frogs croaking or birds singing
@@ -61,6 +63,9 @@ gaudium | 1 | joy
 gaudium | 3 | inward joy or gladness, as opposed to laetitia, joy that shows itself outwardly
 gaudium | 4 | in the plural gaudia, outward expressions of joy, or sensual pleasure and enjoyment
 gaudium | 5 | by extension, a cause or source of joy, a delight
+gausapa | 1 | frieze
+gausapa | 3 | a thick shaggy woollen cloth, and a garment or cover made of it
+gausapa | 4 | in jest, a shaggy beard
 gelidus | 1 | icy
 gelidus | 3 | very cold, colder than frigidus; of water, ice-cold
 gelidus | 4 | in poetry, cold and stiff with death, old age, or fear
@@ -127,6 +132,13 @@ generosus | 3 | of noble birth or descent
 generosus | 4 | by extension, of animals or plants, of good stock, superior in kind
 generosus | 5 | of persons, noble-minded, magnanimous
 generosus | 6 | of things, dignified, honourable
+genesis | 1 | birth
+genesis | 2 | horoscope
+genesis | 3 | the star rising at one's birth, a nativity: genesim habere imperatoriam, to have a horoscope that promises empire
+genesis | 4 | creation, generation; in Christian Latin, Genesis, the first book of the Bible
+genethliacus | 1 | natal
+genethliacus | 3 | of the hour of one's birth; as a noun, a caster of horoscopes
+genethliacus | 4 | genethliacon, a birthday poem
 genetivus | 1 | genitive
 genetivus | 3 | of or belonging to generation or birth (rare, poetic)
 genetivus | 4 | in grammar, casus genetivus, the genitive case
@@ -199,6 +211,13 @@ genus1 | 7 | a descendant, child, or offspring; collectively, posterity (poetic)
 genus1 | 8 | a manner, style, or way of doing something: genus dicendi, a style of speaking
 genus1 | 9 | in logic, a genus: the general class that contains the particular species beneath it
 genus1 | 10 | in grammar, gender
+geometres | 1 | geometer
+geometres | 3 | a geometrician, a mathematician
+geometricus | 1 | geometric
+geometricus | 3 | of geometry: geometricae rationes, geometrical proofs
+geometricus | 4 | geometrica, geometry: geometrica discere, to learn geometry
+georgicus | 1 | agricultural
+georgicus | 3 | of farming; Georgica, Virgil's poem on farming, the Georgics
 germanitas | 1 | siblinghood
 germanitas | 3 | the relationship between full brothers and sisters
 germanitas | 4 | by extension, close kinship between colony and mother-city, or resemblance between things
@@ -226,8 +245,13 @@ gero1 | 7 | se gerere with an adverb or phrase: to behave, act, conduct oneself 
 gero1 | 8 | of soil, plants, or animals: to bear, bring forth, produce
 gero1 | 9 | of time: to pass, spend, live out (aetatem gerere, to spend one's life)
 gero1 | 10 | res gestae, from the perfect participle: things done, deeds, exploits, achievements
+gerrae | 1 | nonsense
+gerrae | 3 | in early Latin, trifles, rubbish, nonsense, as an exclamation: gerrae!, rubbish!
 gerulus | 1 | carrier
 gerulus | 3 | one who does or performs something, a doer (rare)
+gerusia | 1 | council house
+gerusia | 3 | the meeting house of the council of elders in a Greek city
+gerusia | 4 | a home for old men who had served their city well
 gesta | 1 | deeds
 gestamen | 1 | burden
 gestamen | 2 | conveyance
@@ -304,6 +328,7 @@ glans | 3 | any acorn-shaped nut, such as a beechnut or chestnut
 glans | 4 | by extension, an acorn-shaped sling-bullet of lead or clay
 glans | 5 | in anatomy, the glans penis
 glarea | 1 | gravel
+# skip: glaucopis a doubtful conjectural reading in one line of Martial, nothing to teach
 glis | 1 | dormouse
 glisco | 1 | swell
 glisco | 3 | of fire, to blaze up, kindle, spread
@@ -343,6 +368,13 @@ gloriosus | 2 | boastful
 gloriosus | 3 | full of glory, famous, renowned
 gloriosus | 4 | vainglorious, bragging, ostentatious, conceited
 gloriosus | 5 | Miles Gloriosus, the title of a comedy by Plautus, "The Braggart Soldier"
+glossa | 1 | gloss
+glossa | 3 | an obscure or foreign word that needs explaining; glossae, collections of such words with their meanings
+glossema | 1 | gloss
+glossema | 3 | an old or rare word needing explanation: glossemata interpretari, to explain obscure words
+glubo | 1 | peel
+glubo | 3 | in early Latin, to strip the bark off: salictum glubere, to peel willow
+glubo | 4 | in Catullus, obscenely, to fleece or strip someone
 gluten | 1 | glue
 gluten | 3 | by extension, a connecting tie or band
 gluten | 4 | figuratively, a bond, a tie that unites
@@ -354,6 +386,10 @@ gnarus | 1 | knowing
 gnarus | 2 | skilled
 gnarus | 3 | acquainted or familiar with something, usually with the genitive: loci gnarus, familiar with the place
 gnarus | 4 | in a passive sense, known, well-known (after Augustus, rarely)
+gnomonicus | 1 | gnomonic
+gnomonicus | 3 | of sundials; gnomonice, the art of making sundials
+grabatus | 1 | cot
+grabatus | 3 | a low, simple bed, a camp bed
 gracilis | 1 | slender
 gracilis | 3 | by extension, meagre, scanty, thin, of soil or resources
 gracilis | 4 | of style, simple, plain, unadorned
@@ -386,6 +422,11 @@ gramen | 3 | by extension, a plant or herb generally
 gramen | 4 | in particular, couch-grass, dog's-grass, a weed
 gramineus | 1 | grassy
 gramineus | 3 | of Indian reed, made of bamboo
+grammaticus1 | 1 | grammarian
+grammaticus1 | 2 | grammatical
+grammaticus1 | 3 | a teacher of grammar and literature, a scholar and critic
+grammaticus1 | 4 | of grammar: ars grammatica, grammar
+grammaticus1 | 5 | grammatica, the study of language and literature, philology
 granarium | 1 | granary
 grandaevus | 1 | aged
 grandesco | 1 | grow
@@ -405,6 +446,13 @@ grando | 1 | hail
 grando | 3 | in poetry, by extension, a shower, a great quantity or multitude
 grando | 4 | figuratively, of copious, torrential speech
 granum | 1 | grain
+graphicus | 1 | fine
+graphicus | 3 | in early Latin, of people, perfect, masterly, a fine specimen of: graphicus fur, a consummate thief
+graphicus | 4 | picturesque; graphice, the art of drawing
+graphicus | 5 | graphice as an adverb, finely, exactly
+graphis | 1 | stylus
+graphis | 3 | a drawing pencil
+graphis | 4 | drawing, the art of design: graphidos scientia, a knowledge of drawing
 grassator | 1 | street-robber
 grassator | 3 | one who roams about at night causing disorder, a rioter
 grassator | 4 | in early Latin, an idler, one with no fixed occupation
@@ -517,6 +565,8 @@ grunnio | 1 | grunt
 grunnio | 3 | by extension, of other animals, to make a grunting sound
 grus | 1 | crane
 grus | 3 | by extension, a siege engine, a battering-ram shaped like a crane's beak
+gryps | 1 | griffin
+gryps | 3 | a fabulous four-footed bird with a hooked beak
 gubernaculum | 1 | rudder
 gubernaculum | 3 | by extension, guidance, direction
 gubernaculum | 4 | especially, the helm of state, government: gubernacula rei publicae tractare, to be at the helm of the republic
@@ -527,6 +577,11 @@ gubernator | 1 | pilot
 gubernator | 2 | governor
 gubernator | 3 | a steersman, one who pilots a ship
 gubernator | 4 | by extension, a director, ruler, one who governs
+guberno | 1 | steer
+guberno | 2 | govern
+guberno | 3 | to steer or pilot a ship: navem gubernare, to steer a ship
+guberno | 4 | to direct, manage, govern: rem publicam gubernare, to guide the state
+guberno | 5 | gubernare e terra, to steer from land, to give advice from safety
 gula | 1 | throat
 gula | 2 | gluttony
 gula | 3 | the gullet, weasand
@@ -557,7 +612,18 @@ gutta1 | 5 | figuratively, a little bit, a small amount
 guttur | 1 | throat
 guttur | 3 | by extension, gluttony
 gutus | 1 | cruet
+gymnasium1 | 1 | gymnasium
+gymnasium1 | 2 | school
+gymnasium1 | 3 | a Greek public building for athletic exercise
+gymnasium1 | 4 | a place where philosophers taught and debated, a school: gymnasia et philosophorum scholae, the gymnasia and schools of the philosophers
+gynaeceum | 1 | women's quarters
+gynaeceum | 3 | in a Greek house, the inner rooms where the women lived
+gynaeceum | 4 | in later Latin, the imperial weaving house, where women made garments for the emperor
 gypso | 1 | plaster
 gyro | 1 | circle
 gyro | 3 | to go around something
 gyro | 4 | intransitively, to turn around, revolve
+gyrus | 1 | circle
+gyrus | 3 | a circle, especially the ring in which a horse is trained: gyros variare, to wheel in circles
+gyrus | 4 | in poetry, a riding ring, a course
+gyrus | 5 | figuratively, a circuit or course: angustissimum habet dies gyrum, the day runs the shortest course
