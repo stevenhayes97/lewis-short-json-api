@@ -61,6 +61,19 @@ FLAG_AT_WORDS = 3
 # distinct core meaning -- so a 1 -> 3 jump is legal and nothing else is.
 OPTIONAL_RANK = 2
 
+# Image tags live in definitions/tags.txt as "key | tag": at most one tag per
+# word, naming the picture shown beside it. Most words carry none. Each tag
+# below will map to an image; add a tag here before using it in the file.
+TAGS_FILE = "tags.txt"
+TAGS = {
+    "roman",     # the Roman state, its offices, army units and public life
+    "war",       # warfare in general: battle, weapons, armour
+    "religion",  # classical worship: gods, priests, temples, sacrifice
+    "catholic",  # Christian and church words
+    "sea",       # ships and sailing
+    "animal",
+}
+
 
 def source_path(letter: str) -> Path:
     return ROOT / f"ls_{letter.upper()}.json"
@@ -231,6 +244,41 @@ def check_letter(letter: str) -> list[str]:
     return errors
 
 
+def check_tags() -> list[str]:
+    """Validate definitions/tags.txt: known tag, defined key, one line per key."""
+    path = DEFINITIONS_DIR / TAGS_FILE
+    if not path.exists():
+        return []
+
+    errors: list[str] = []
+    defined = {key for letter in _written_letters() for _, key, _, _ in parse_definitions(letter)[0]}
+    keys: list[str] = []
+    for line_no, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        parts = [p.strip() for p in line.split("|")]
+        if len(parts) != 2:
+            errors.append(f"{path.name}:{line_no}: expected 'key | tag'")
+            continue
+        key, tag = parts
+        if tag not in TAGS:
+            errors.append(f"{path.name}:{line_no}: unknown tag {tag!r} -- add it to TAGS first")
+        if key not in defined:
+            errors.append(f"{path.name}:{line_no}: key {key!r} has no curated definition")
+        keys.append(key)
+
+    if len(set(keys)) != len(keys):
+        errors.append(f"{path.name}: a key is tagged twice; one tag per word")
+    elif keys != sorted(keys):
+        first = next(i for i in range(1, len(keys)) if keys[i] < keys[i - 1])
+        errors.append(f"{path.name}: keys out of alphabetical order at {keys[first]!r}")
+
+    if not errors:
+        print(f"{path.name}: {len(keys)} words tagged, all checks passed.")
+    return errors
+
+
 def cmd_check(args) -> int:
     letters = [args.letter] if args.letter else _written_letters()
     if not letters:
@@ -240,6 +288,8 @@ def cmd_check(args) -> int:
     errors = []
     for letter in letters:
         errors += check_letter(letter)
+    if not args.letter:
+        errors += check_tags()
 
     for error in errors:
         print(f"  {error}")

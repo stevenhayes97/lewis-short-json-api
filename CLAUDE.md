@@ -13,6 +13,7 @@ material sits on top of it.
 | --- | --- |
 | `ls_A.json` … `ls_Z.json` | the L&S source data, one file per letter, a top-level JSON array of entry objects |
 | `definitions/<LETTER>.txt` | **the curated definitions** — the recurring task below |
+| `definitions/tags.txt` | optional image tag per word, `key \| tag`; the allowed tags are `TAGS` in `tools/definitions.py` |
 | `tools/definitions.py` | chunk helper for that task (`next`, `check`, `status`) |
 | `tools/ls_db.py`, `tools/lookup.py` | load the JSON into SQL, read it back out — see `tools/README.md` |
 | `json-schemas/` | draft API request/response shapes, still evolving |
