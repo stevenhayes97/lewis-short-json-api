@@ -926,6 +926,9 @@ dextera | 2 | pledge
 dextera | 3 | by extension, the right side, right-hand direction
 dextera | 4 | in poetry, the hand (in general)
 dextrorsum | 1 | rightward
+diabolus | 1 | devil
+diabolus | 3 | the Devil, Satan
+diaconus | 1 | deacon
 dicacitas | 1 | banter
 dicaculus | 1 | talkative
 dicaculus | 2 | witty
