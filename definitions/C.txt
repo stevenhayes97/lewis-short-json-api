@@ -3008,6 +3008,12 @@ concessio | 3 | in rhetoric, a figure admitting a point while arguing mitigation
 concessio | 4 | in law, a plea that admits the act but pleads for pardon
 concesso | 1 | cease
 concessus2 | 1 | permission
+concha | 1 | shellfish
+concha | 2 | shell
+concha | 3 | a mussel or other bivalve; especially the pearl-oyster, and in poetry a pearl
+concha | 4 | a shell; in poetry, the conch blown by Triton as a trumpet
+concha | 5 | a shell-shaped dish for oil, ointment or salt
+concha | 6 | the purple-fish, which gives purple dye
 conchylium | 1 | shellfish
 conchylium | 3 | specifically, an oyster, or a purple-dye murex
 conchylium | 4 | by extension, purple dye, or purple garments
@@ -3374,6 +3380,8 @@ conjuro | 1 | conspire
 conjuro | 3 | in poetry, of things, to be united or joined, as if by oath
 connascor | 1 | originate
 connascor | 3 | to be born at the same time as, to be innate in
+conopeum | 1 | mosquito-net
+conopeum | 3 | a canopy of fine gauze round a bed against gnats
 conor | 1 | try
 conquasso | 1 | shake
 conquasso | 2 | shatter
@@ -3791,10 +3799,16 @@ conturbatio | 3 | figuratively, mental disquiet or perturbation
 conturbo | 1 | confuse
 conturbo | 2 | disturb
 conturbo | 3 | conturbare rationes, to go bankrupt
+contus | 1 | pole
+contus | 3 | a long pole for pushing a boat along
+contus | 4 | a pike or lance, as a weapon
 conubialis | 1 | connubial
 conubium | 1 | marriage
 conubium | 3 | jus conubii, the legal right to intermarry
 conubium | 4 | of plants, a grafting together
+conus | 1 | cone
+conus | 3 | the cone-shaped peak of a helmet
+conus | 4 | a pine or cypress cone; a cone-shaped sundial
 convalesco | 1 | recover
 convalesco | 3 | figuratively, to gain strength or power, as a state or faction
 convalesco | 4 | in law, to become legally valid, as a will
@@ -3907,6 +3921,9 @@ corbis | 1 | basket
 corbitus | 1 | basket-rigged
 corbitus | 3 | as a noun corbita, a slow cargo ship
 cordatus | 1 | wise
+cordax | 1 | cordax
+cordax | 3 | the wild, indecent dance of Greek comedy
+cordax | 4 | of the trochaic rhythm, as tripping and dance-like
 corium | 1 | hide
 corium | 2 | rind
 corium | 3 | by extension, a leather whip or strap
@@ -3932,6 +3949,15 @@ cornutus1 | 3 | as a noun, a kind of horned sea-fish
 cornutus1 | 4 | cornutus syllogismus, a horned syllogism, a logical dilemma
 corollarium | 1 | gratuity
 corollarium | 3 | in later philosophy, a corollary or logical deduction
+corona | 1 | crown
+corona | 2 | garland
+corona | 3 | a wreath or garland of flowers or leaves, worn at feasts and sacrifices or given as an honour
+corona | 4 | a crown awarded for bravery: corona civica, the civic crown for saving a citizen's life
+corona | 5 | a ring of people, a crowd of listeners, especially round a court
+corona | 6 | a ring of troops round a place under siege
+corona | 7 | sub corona vendere, to sell prisoners as slaves
+corona | 8 | in architecture, a cornice; a halo round the sun; Corona, the constellation of the Crown
+corona | 9 | in Christian Latin, the crown of martyrdom
 # review: coronarius "of a wreath" needs the article to be accurate; no shorter English phrasing fits
 coronarius | 1 | of a wreath
 coronarius | 3 | as a noun, a garland-maker or -seller
@@ -3997,16 +4023,29 @@ coruscus | 1 | quivering
 coruscus | 2 | flashing
 corvus | 1 | raven
 corvus | 3 | by extension, a grappling hook, a military implement
+corymbus | 1 | cluster
+corymbus | 3 | a cluster of berries or flowers, especially of ivy
+corymbus | 4 | a carved ornament on a ship's stern
 cos1 | 1 | flint
 cos1 | 2 | whetstone
 cos1 | 3 | figuratively, a spur or stimulus, as anger sharpening courage
 costa | 1 | rib
 costa | 3 | by extension, a side or plank, as of a ship or wall
+costum | 1 | costus
+costum | 3 | an aromatic Eastern plant used in costly ointments and offerings
 cothurnatus | 1 | tragic
 cothurnatus | 3 | literally, wearing the buskin, as a tragic actor
+cothurnus | 1 | boot
+cothurnus | 2 | tragedy
+cothurnus | 3 | a high laced hunting boot
+cothurnus | 4 | the high boot worn by tragic actors, as opposed to the comic sock
+cothurnus | 5 | figuratively, tragedy, or the lofty style of tragic poetry
 cottidianus | 1 | daily
 cottidianus | 3 | by extension, ordinary or commonplace
 cottidie | 1 | daily
+crapula | 1 | drunkenness
+crapula | 2 | hangover
+crapula | 3 | the after-effects of drinking too much: crapulam edormire, to sleep off a hangover
 cras | 1 | tomorrow
 cras | 3 | in poetry, the future, time to come
 crassesco | 1 | thicken
