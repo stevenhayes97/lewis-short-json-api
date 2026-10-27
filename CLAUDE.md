@@ -186,12 +186,15 @@ nothing further worth teaching; do not add ranks 3+ just to fill it out.
 
 `next` applies these rules (constants live at the top of `tools/definitions.py`):
 
-- `entry_type` is `main` — drops `greek`, `foreign`, `hapax`, `gloss`, `spur`
+- `entry_type` is `main` or `greek` — drops `foreign`, `hapax`, `gloss`, `spur`.
+  `greek` marks Greek *origin*, and covers core words like `poeta`,
+  `philosophia`, `schola`; a technical transliteration that slips through
+  (`diapason`, `antibacchius`) gets a `# skip:` line.
 - key starts lowercase — drops proper nouns (`Gabali`, `Gabaon`)
 - `senses` is non-empty — drops stubs like `genus2`
 - sense text is ≥ 250 characters — drops one-gloss-and-a-citation entries
 
-For G that is 172 words out of 892 entries; about 11,000 across the dictionary.
+For G that is 196 words out of 892 entries; about 11,800 across the dictionary.
 The `CHURCH_WORDS` allowlist (see the period rule above) bypasses the
 `entry_type` and length rules; it is the only hand-picked exception.
 Widen or narrow the net by changing `MIN_SENSE_CHARS`, not by picking around it.

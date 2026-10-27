@@ -40,7 +40,7 @@ DEFINITIONS_DIR = ROOT / "definitions"
 # 892 entries, but 452 of those are proper nouns, Greek transliterations,
 # hapax legomena and one-citation curiosities. The rules below cut G to 172.
 #
-# entry_type must be "main"        drops greek/foreign/hapax/gloss/spur
+# entry_type in ENTRY_TYPES        drops foreign/hapax/gloss/spur
 # key must start lowercase         drops proper nouns (Gabali, Gabaon, ...)
 # senses must be non-empty         drops stubs such as genus2
 # sense text >= MIN_SENSE_CHARS    drops entries that are one gloss and a cite
@@ -48,12 +48,18 @@ DEFINITIONS_DIR = ROOT / "definitions"
 # CHURCH_WORDS below is the one exception to the first and last rules.
 MIN_SENSE_CHARS = 250
 
+# "greek" marks an entry of Greek origin, not a word outside Latin: poeta,
+# philosophia, schola, theatrum and epistula all carry it. Those are core
+# vocabulary, so the tag is admitted; the length rule still screens out the
+# technical transliterations, and a survivor not worth teaching gets a
+# "# skip:" line like any other word.
+ENTRY_TYPES = {"main", "greek"}
+
 # CHURCH_WORDS -- core Christian Latin vocabulary, admitted by hand.
 #
-# These are Greek loans (tagged "greek", so the entry_type rule drops them) and
-# L&S often gives them a single Vulgate citation, so many fall under
-# MIN_SENSE_CHARS too. A word listed here bypasses both rules; lowercase and
-# non-empty senses still apply.
+# L&S often gives these a single Vulgate citation, so many fall under
+# MIN_SENSE_CHARS. A word listed here bypasses that rule and the entry_type
+# rule; lowercase and non-empty senses still apply.
 #
 # It is also the only list of words whose Christian sense may take rank 1
 # ahead of a classical one: ecclesia is "church", not "assembly". Every other
@@ -146,7 +152,7 @@ def eligible_keys(letter: str) -> list[str]:
         and e.get("senses")
         and (
             e["key"] in CHURCH_WORDS
-            or (e.get("entry_type") == "main" and sense_chars(e["senses"]) >= MIN_SENSE_CHARS)
+            or (e.get("entry_type") in ENTRY_TYPES and sense_chars(e["senses"]) >= MIN_SENSE_CHARS)
         )
     )
 
