@@ -1590,6 +1590,11 @@ chorus | 3 | a dance in a ring with song: choros agere, to lead the dance
 chorus | 4 | a band of dancers and singers, a chorus, a choir
 chorus | 5 | any band or crowd: chorus juventutis, a band of young men; chorus philosophorum, the company of philosophers
 chorus | 6 | in poetry, the harmonious movement of the stars
+chroma | 1 | chromatic
+chroma | 3 | in music, the chromatic scale
+chronicus | 1 | chronological
+chronicus | 3 | relating to time: libri chronici or chronica, chronicles
+chronicus | 4 | in later Latin, of illness, chronic, lingering
 cibarius | 1 | of food
 cibarius | 3 | belonging to food or fit for it: leges cibariae, sumptuary laws about eating; uva cibaria, a grape good to eat but not for wine
 cibarius | 4 | as a neuter plural cibaria, provisions or rations, and fodder for animals
@@ -1617,6 +1622,8 @@ cicatrix | 3 | the scar a wound leaves: cicatrices adversae, scars in front, got
 cicatrix | 4 | of plants the mark left by a cut, and of statues the marks of the tools
 cicatrix | 5 | in jest, the seam of a patched shoe
 cicatrix | 6 | figuratively: obductam cicatricem refricare, to rub open a scar that had healed over
+ciccus | 1 | trifle
+ciccus | 3 | in early Latin, the thin skin between pomegranate seeds, and so a worthless thing: ciccum non interduim, I would not give a straw
 cicer | 1 | chickpea
 cicer | 3 | the chickpea
 ciconia | 1 | stork
@@ -1630,6 +1637,9 @@ cicur | 4 | figuratively mild or gentle: cicur ingenium, a gentle nature
 cicuta1 | 1 | hemlock
 cicuta1 | 3 | hemlock, the poison given to criminals and the draught Socrates drank
 cicuta1 | 4 | by transfer a pipe made from hemlock stalks, a shepherd's pipe
+cidaris | 1 | tiara
+cidaris | 3 | the royal headdress of the Persian kings
+cidaris | 4 | in Christian Latin, the headdress of the Jewish high priest
 cieo | 1 | rouse
 cieo | 3 | to set in motion, to stir or shake: calcem ciere, to make a move at draughts
 cieo | 4 | to stir up or disturb: mare venti cient, the winds stir the sea
@@ -1641,9 +1651,16 @@ cieo | 9 | to set a thing going or bring it on: bellum ciere, to stir up a war
 cieo | 10 | its participle citus does duty as an adjective, quick or swift, and its adverb is cito, quickly
 cimex | 1 | bug
 cimex | 3 | the bedbug
+cinaedus1 | 1 | catamite
+cinaedus1 | 3 | an effeminate man who takes the passive part in sex with men, used as a term of abuse
+cinaedus1 | 4 | as an adjective, shameless, wanton: cinaeda frons, a brazen face
+cinaedus1 | 5 | in early Latin, a dancer of lewd dances
 cincinnatus1 | 1 | curly-haired
 cincinnatus1 | 3 | with the hair in ringlets, taken as a mark of soft living: cincinnatus consul, a consul with his hair in curls
 cincinnatus1 | 4 | of comets, with streaming hair
+cincinnus | 1 | curl
+cincinnus | 3 | a curl or lock of hair
+cincinnus | 4 | figuratively, over-elaborate ornament in style: cincinni ac fucus, curls and make-up
 cinctus2 | 1 | girdle
 cinctus2 | 3 | the act of girding: cottidiani cinctus, the daily girding of one's clothes
 cinctus2 | 4 | cinctus Gabinus, the Gabine gird, in which the toga was tucked up and a corner thrown over the left shoulder
@@ -1673,6 +1690,11 @@ cinis | 3 | ashes, where favilla is usually the light dust of ash, or ash that s
 cinis | 4 | the ashes of a burnt corpse, common in both numbers: cineri atque ossibus, to a man's ashes and bones
 cinis | 5 | the ruins of a city burnt to the ground: cineres patriae, the ashes of one's country
 cinis | 6 | figuratively a token of ruin: in fumum et cinerem vertere, to turn a thing to smoke and ashes, that is to squander it
+cinnabaris | 1 | dragon's-blood
+cinnabaris | 3 | a red pigment from the resin of the dragon's-blood tree; sometimes wrongly used of vermilion
+cinnamomum | 1 | cinnamon
+cinnamomum | 3 | in poetry, cinnamon twigs, cinnama, used in spices and on pyres
+cinnamomum | 4 | in early Latin, a term of endearment: tu mihi cinnamomum, you are my cinnamon
 cippus | 1 | post
 cippus | 3 | a stake, pale or pillar
 cippus | 4 | above all a gravestone or tombstone
@@ -1985,6 +2007,12 @@ cis | 1 | on this side
 cis | 3 | a preposition with the accusative, set against uls, ultra and trans, and much rarer than citra: cis Tiberim, on this side of the Tiber
 cis | 4 | Gallia cis Rhenum, the Gaul on this side of the Rhine
 cis | 5 | of time, within: cis dies paucos, within a few days
+cista | 1 | box
+cista | 3 | a wooden or wicker box for money, clothes, books or fruit
+cista | 4 | a casket holding the sacred objects in mystery rites
+cista | 5 | a ballot box in the voting assemblies
+cistophorus | 1 | cistophorus
+cistophorus | 3 | a silver coin of Asia stamped with a sacred box, worth about four drachmas
 citer | 1 | nearer
 citer | 3 | on this side, and commonest in the comparative citerior: citerior provincia, the nearer province, that is Cisalpine Gaul
 citer | 4 | its superlative citimus, nearest: citima terris, nearest to the earth
