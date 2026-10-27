@@ -649,6 +649,9 @@ totiens | 3 | totiens ... quotiens, as often ... as
 totus1 | 1 | whole
 totus1 | 3 | totus in with the ablative, wholly absorbed in, entirely devoted to
 totus1 | 4 | ex toto, in totum, wholly, entirely, completely
+toxicum | 1 | poison
+toxicum | 3 | poison for smearing on arrows
+toxicum | 4 | any poison: toxica bibere, to drink poison
 trabalis | 1 | of beams
 trabalis | 3 | poetic, beam-like, massive, stout
 trabea1 | 1 | state-robe
@@ -705,6 +708,15 @@ traductio | 1 | transfer
 traductio | 3 | public disgrace, exposure to ridicule
 traductio | 4 | rhetorical, a repetition of the same word, or a metonymy
 tradux | 1 | vine-layer
+tragicus | 1 | tragic
+tragicus | 3 | of tragedy: carmen tragicum, tragedy; actor tragicus, a tragic actor
+tragicus | 4 | as a noun, a tragic poet; a tragic actor
+tragicus | 5 | lofty, grand, in the tragic style: tragicus orator, a grand orator
+tragicus | 6 | dreadful, terrible: scelus tragicum, a crime fit for tragedy
+tragoedia | 1 | tragedy
+tragoedia | 3 | a tragedy, a tragic play; the art of tragedy
+tragoedia | 4 | figuratively, a fuss, a scene: tragoedias agere in nugis, to make a scene over trifles
+tragoedia | 5 | a lofty, high-flown style
 tragula | 1 | javelin
 tragula | 3 | figuratively, a snare, trap, plot
 traho | 1 | drag
@@ -841,6 +853,8 @@ transverto | 4 | de transverso, e transverso, unexpectedly, from an unexpected q
 transvolo | 1 | fly across
 transvolo | 3 | transferred, to pass by quickly, hasten across
 transvolo | 4 | figuratively, to pass over, neglect, disregard
+trapetus | 1 | olive mill
+trapetus | 3 | a mill for crushing olives
 # review: treceni no two-word English phrase captures the distributive "three hundred each"
 treceni | 1 | three hundred each
 treceni | 3 | transferred, poetic, simply three hundred
@@ -902,6 +916,10 @@ trichila | 1 | bower
 tricies | 1 | thirty times
 tricliniaris | 1 | of dining
 tricliniaris | 3 | as a noun (tricliniaria), a dining-room; also, table-couch coverings
+triclinium | 1 | dining room
+triclinium | 2 | couch
+triclinium | 3 | a dining couch running round three sides of a table: triclinium sternere, to lay the dining couches
+triclinium | 4 | a dining room: triclinium hibernum, the winter dining room
 tricor | 1 | shuffle
 tridens | 1 | three-pronged
 tridens | 3 | as a noun, a trident
@@ -909,6 +927,10 @@ triduum | 1 | three days
 triennium | 1 | three years
 triens | 1 | third
 triens | 3 | specifically, a coin worth one third of an as
+trieris | 1 | trireme
+trieris | 3 | a ship with three banks of oars
+trietericus | 1 | triennial
+trietericus | 3 | held every third year; trieterica, the festival of Bacchus
 trifariam | 1 | threefold
 trifariam | 3 | in three places, at three points at once
 trifidus | 1 | three-forked
@@ -918,12 +940,18 @@ trigarius | 3 | as a noun (trigarium), a place for training chariot-horses
 trigeminus | 1 | triplet
 trigeminus | 3 | transferred, poetic, threefold, triple, triform
 triginta | 1 | thirty
+trigonus1 | 1 | triangular
+trigonus1 | 3 | trigonum, a triangle
 trilinguis | 1 | three-tongued
 trilinguis | 3 | speaking three languages, trilingual
 trimestris | 1 | three-month
+trimetros | 1 | trimeter
+trimetros | 3 | in metre, a line of three double feet, as the iambic trimeter
 trimus | 1 | three-year-old
 trini | 1 | three each
 trini | 3 | transferred, threefold, triple
+triobolus | 1 | half drachma
+triobolus | 3 | in early Latin, a coin of three obols, and so a trifle: negare se debere tibi triobolum, to deny owing you a penny
 tripartitus | 1 | tripartite
 triplex | 1 | triple
 triplex | 3 | as a noun, a threefold amount, a triple portion
@@ -932,6 +960,9 @@ tripudio | 1 | dance
 tripudio | 3 | especially, religious, to perform a ritual stamping dance
 tripudium | 1 | dance
 tripudium | 3 | augury, technical, a favourable omen from the sacred chickens' feeding
+tripus | 1 | tripod
+tripus | 3 | a three-legged stand or cauldron, given as a prize
+tripus | 4 | the tripod of the priestess at Delphi, and so the oracle of Apollo
 triquetrus | 1 | triangular
 triquetrus | 3 | as a poetic epithet, Sicilian, from Sicily's triangular shape
 triremis | 1 | trireme
@@ -964,7 +995,19 @@ trivium | 1 | crossroads
 trivium | 3 | transferred, the public street, highway in general
 trivius | 1 | of crossroads
 trivius | 3 | as a name, Trivia, Diana or Hecate, goddess of crossroads
+trochaeus | 1 | trochee
+trochaeus | 3 | in metre, a foot of a long syllable and a short; also used for a tribrach of three shorts
 trochlea | 1 | pulley
+tropaeum | 1 | trophy
+tropaeum | 2 | victory
+tropaeum | 3 | a monument of victory, a tree trunk hung with the arms of the beaten enemy: tropaeum statuere, to set up a trophy
+tropaeum | 4 | a victory: nova tropaea Augusti, the new victories of Augustus
+tropaeum | 5 | figuratively, a token or memorial
+tropicus | 1 | tropical
+tropicus | 3 | relating to a turning point, as of the sun at the solstice
+tropicus | 4 | in later Latin, figurative, metaphorical
+tropologicus | 1 | figurative
+tropologicus | 3 | in later Latin, figurative, metaphorical: interpretatio tropologica, a figurative interpretation
 trucidatio | 1 | massacre
 trucidatio | 3 | transferred, a cutting up, cutting off, as in lopping branches
 trucido | 1 | butcher
@@ -1042,6 +1085,12 @@ tunico | 1 | clothe
 tunico | 3 | as an adjective (tunicatus), tunic-clad; of the common people
 turarius | 1 | of frankincense
 turarius | 3 | as a noun, a frankincense-dealer
+turba | 1 | crowd
+turba | 2 | uproar
+turba | 3 | a crowd, a throng, a mob: in foro turbaque, in the forum and the crowd
+turba | 4 | a great number of anything: turba ignotorum deorum, a crowd of unknown gods
+turba | 5 | an uproar, commotion, disorder: turbas facere, to cause trouble
+turba | 6 | a quarrel, a row
 turbatio | 1 | confusion
 turbator | 1 | troublemaker
 turbidus | 1 | wild
@@ -1079,6 +1128,11 @@ turpo | 1 | disfigure
 turpo | 3 | figuratively, to dishonour, disgrace
 turriger | 1 | turreted
 turriger | 3 | as an epithet of Cybele, turret-crowned
+turris | 1 | tower
+turris | 3 | a tower; a siege tower, or a tower on a wall or camp: turrim adgredi ferro, to attack a tower with steel
+turris | 4 | a high building, a palace: regum turres, the towers of kings
+turris | 5 | a dovecote
+turris | 6 | a battle formation in a square
 turritus | 1 | turreted
 turritus | 3 | transferred, towering, lofty, high
 turtur | 1 | turtledove
@@ -1095,3 +1149,19 @@ tutor2 | 1 | guard
 tutor2 | 3 | transferred, to ward off, avert an evil
 tuus | 1 | your
 tuus | 3 | pregnant sense, favourable, auspicious, right for you, of time or occasion
+tympanum | 1 | drum
+tympanum | 3 | a tambourine or kettledrum, as beaten in the rites of Cybele
+tympanum | 4 | a drum or wheel in a machine
+tympanum | 5 | in architecture, the triangular face of a pediment; a door panel
+typhon1 | 1 | whirlwind
+typhon1 | 3 | a violent whirlwind, a typhoon
+typhon1 | 4 | a kind of comet
+tyrannicus | 1 | tyrannical
+tyrannicus | 3 | of a tyrant, despotic: leges tyrannicae, a tyrant's laws
+tyrannis | 1 | tyranny
+tyrannis | 3 | the rule of a tyrant, despotism: vivit tyrannis, tyrannus occidit, the tyranny lives on, though the tyrant is dead
+tyrannis | 4 | the realm of a tyrant
+tyrannus | 1 | tyrant
+tyrannus | 2 | ruler
+tyrannus | 3 | a despot, a cruel and lawless ruler
+tyrannus | 4 | in poetry, a monarch, a king, a lord
