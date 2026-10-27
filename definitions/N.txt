@@ -1,5 +1,7 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_N.json (Lewis & Short via Perseus), simplified for learners.
+nacca | 1 | fuller
+nacca | 3 | a fuller, one who cleans and finishes woollen cloth
 naevus | 1 | mole
 naevus | 3 | figuratively, in later Latin, blemish, fault
 nam | 1 | for
@@ -8,6 +10,13 @@ nam | 4 | but why, but what (in questions, expressing surprise)
 namque | 1 | for
 nanciscor | 1 | obtain
 nanciscor | 3 | by extension, light upon, meet with, find (by chance)
+nanus | 1 | dwarf
+nanus | 3 | a dwarf, kept as an entertainer by the rich
+nanus | 4 | a small horse, a pony; a low water jug
+naphtha | 1 | naphtha
+naphtha | 3 | liquid bitumen, a highly flammable oil found near Babylon
+nardinus | 1 | of nard
+nardinus | 3 | made of or smelling of nard; nardinum, wine flavoured with nard
 naris | 1 | nostril
 naris | 3 | by extension, opening, vent (of a canal or pipe)
 narratio | 1 | narrative
@@ -61,6 +70,10 @@ naturalis | 1 | natural
 naturalis | 3 | by birth, biological (of a father, as against adoptive)
 natus2 | 1 | age
 natus2 | 3 | rarely, growth (of plants)
+nauclericus | 1 | skipper's
+nauclericus | 3 | in early Latin, of a ship's master: ornatus nauclericus, a skipper's outfit
+nauclerus | 1 | skipper
+nauclerus | 3 | a shipowner or ship's master
 naucum | 1 | trifle
 naufragium | 1 | shipwreck
 naufragium | 3 | figuratively, wreck, ruin (of one's fortune or estate)
@@ -68,11 +81,23 @@ naufragium | 4 | by extension, wreckage, debris (of a physical wreck)
 naufragus | 1 | shipwrecked
 naufragus | 3 | figuratively, ruined (of a person's fortune)
 naufragus | 4 | in poetry, by extension, causing shipwreck, hazardous (of a sea or storm)
+naumachia | 1 | sea-fight
+naumachia | 3 | a mock sea battle staged as a show: naumachiam edere, to put on a sea battle
+naumachia | 4 | the basin where such shows were staged
+nausea | 1 | seasickness
+nausea | 2 | nausea
+nausea | 3 | seasickness: navigavimus sine nausea, we sailed without seasickness
+nausea | 4 | sickness, vomiting; figuratively, disgust
 nauseo | 1 | be seasick
 nauseo | 3 | by extension, in general, vomit, feel queasy
 nauseo | 4 | figuratively, talk nonsense (to belch out silly words)
 nauseo | 5 | figuratively, disgust, sicken (to cause revulsion in others)
 nauta | 1 | sailor
+nautea | 1 | bilge-water
+nautea | 3 | in early Latin, foul water from a ship's bilge; nausea
+nauticus | 1 | nautical
+nauticus | 3 | of ships or sailors: verbum nauticum, a sailor's word; res nauticae, seamanship
+nauticus | 4 | nautici as a noun, sailors
 navalis | 1 | naval
 navalis | 3 | as a noun, navale, dockyard (navalia)
 navalis | 4 | as a noun, rigging, tackle (the fittings of a ship)
