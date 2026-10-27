@@ -932,6 +932,10 @@ perpello | 2 | move deeply
 perpendiculum | 1 | plumb-line
 perpendiculum | 3 | figuratively, ad perpendiculum, by the plumb-line, i.e. with strict accuracy or moral rectitude
 perpendo | 1 | ponder
+perperus | 1 | wrong
+perperus | 3 | perperam as an adverb, wrongly, falsely: perperam loqui, to say what is untrue
+perperus | 4 | perperam, by mistake, in error: perperam pronuntiavit, he announced it by mistake
+perperus | 5 | as an adjective, outside classical Latin, faulty, defective
 perpes | 1 | continual
 perpes | 3 | noctem perpetem, through the whole night, all night long
 perpessio | 1 | endurance
@@ -1123,6 +1127,8 @@ pestilentia | 1 | plague
 pestis | 1 | plague
 pestis | 2 | bane
 pestis | 3 | by extension, destruction, ruin, death (in a general abstract sense)
+petaurista | 1 | acrobat
+petaurista | 3 | a tumbler or vaulter; of animals, a high jumper
 petesso | 1 | pursue eagerly
 petimen | 1 | saddle sore
 petimen | 3 | a sore on a draft animal's shoulder, caused by its harness
@@ -1138,17 +1144,49 @@ peto | 1 | seek
 peto | 2 | attack
 peto | 3 | run for office, be a candidate (political sense)
 peto | 4 | woo, court (of romantic pursuit)
+petra1 | 1 | rock
+petra1 | 3 | a rock or crag, especially one jutting into the sea
 petulans | 1 | impudent
 petulans | 2 | wanton
 petulantia | 1 | impudence
 petulantia | 2 | exuberance
 petulcus | 1 | butting
 petulcus | 2 | frisky
+phalangae | 1 | rollers
+phalangae | 3 | wooden rollers for moving ships and siege engines
+phalangae | 4 | poles for carrying loads
 phalangarius1 | 1 | porter
 phalanx | 1 | phalanx
 phalanx | 3 | the Macedonian phalanx, a compact battle formation fifty men wide and sixteen deep
+phalerae | 1 | medals
+phalerae | 2 | trappings
+phalerae | 3 | metal discs worn on the chest as military decorations: phaleris et torquibus donati, rewarded with medals and collars
+phalerae | 4 | ornamental trappings for a horse's head and chest
+phalerae | 5 | figuratively, mere outward show: ad populum phaleras!, keep your finery for the crowd!
 phalero | 1 | bedeck
 phalero | 3 | deck out, set off (of speech), display ostentatiously
+phantasia | 1 | fancy
+phantasia | 3 | in later Latin, an idea or notion, a fancy
+phantasia | 4 | in later Latin, a phantom, an apparition seen in dreams
+phantasma | 1 | ghost
+phantasma | 3 | in later Latin, an apparition, a phantom: esse phantasmata, that there are ghosts
+phantasma | 4 | in later Latin, a mental image of something
+pharetra | 1 | quiver
+pharetra | 3 | in poetry, a quiver for arrows: succincta pharetra, with a quiver at her side
+pharetra | 4 | a sundial shaped like a quiver
+phaselus | 1 | bean
+phaselus | 2 | yacht
+phaselus | 3 | a bean with an edible pod, the kidney bean
+phaselus | 4 | a light, fast boat shaped like a bean pod: phaselus ille, quem videtis, hospites, that yacht you see, my friends
+philologia | 1 | scholarship
+philologia | 3 | love of learning, literary study: opera et oleum philologiae, the toil of my studies
+philologia | 4 | the explanation of texts, philology
+philologus | 1 | scholar
+philologus | 2 | learned
+philologus | 3 | as a noun, a man of letters, a scholar of literature and history
+philosophia | 1 | philosophy
+philosophia | 3 | philosophy, the pursuit of wisdom: studium sapientiae, the study of wisdom
+philosophia | 4 | a philosophical subject or discussion; in the plural, the schools of philosophy
 philosophor | 1 | philosophise
 phoenix3 | 1 | phoenix
 phoenix3 | 3 | a fabulous bird said to live five hundred years and rise renewed from its own ashes
