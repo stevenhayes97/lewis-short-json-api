@@ -425,6 +425,13 @@ emorior | 3 | by extension, to die out, go out (of fire), wither (of plants)
 emorior | 4 | figuratively, to perish, pass away, cease (of fame, hope, or love)
 emoveo | 1 | remove
 emoveo | 3 | figuratively, to drive away, banish, expel (fear, cares)
+empirice | 1 | empiricism
+empirice | 3 | in medicine, the system of treatment based only on experience; empiricus, a doctor of that school
+emplastrum | 1 | plaster
+emplastrum | 3 | in medicine, a plaster or poultice
+emplastrum | 4 | in gardening, the patch of bark round the bud in grafting
+emprosthotonia | 1 | spasm
+emprosthotonia | 3 | a disease that draws the body forward in a rigid cramp
 emptio | 1 | purchase
 emptio | 3 | by extension, a thing purchased, an acquisition
 emptio | 4 | in law, a bill of sale, a deed of purchase
@@ -448,6 +455,9 @@ enato | 3 | figuratively, to extricate oneself, get off, escape (from a difficul
 enavigo | 1 | sail away
 enavigo | 3 | transitively, to sail across, traverse by sea
 enavigo | 4 | figuratively, to escape, get clear (of a difficulty)
+encaustus | 1 | encaustic
+encaustus | 3 | burned in: genus pingendi encaustum, the art of painting in hot wax
+encaustus | 4 | in later Latin, encaustum, the purple-red ink of the emperors
 eneco | 1 | kill
 eneco | 3 | by extension, to exhaust utterly, wear out, wear down
 eneco | 4 | in everyday speech, to torment, plague, pester to death
@@ -511,10 +521,26 @@ eo2 | 7 | besides, in addition to that
 eodem | 1 | to the same place
 eodem | 3 | of place where (rare), in the same place
 eodem | 4 | by extension, to the same point, purpose, or person
+ephebus | 1 | youth
+ephebus | 3 | a Greek youth between eighteen and twenty, in military and athletic training
+ephemeris | 1 | diary
+ephemeris | 3 | a daybook, a journal of each day's business or events
+ephippium | 1 | saddle-cloth
+ephippium | 3 | a horse-cloth or saddle: optat ephippia bos piger, the lazy ox longs for a saddle, everyone wants another's lot
+epigramma | 1 | epigram
+epigramma | 2 | inscription
+epigramma | 3 | an inscription on a statue, an offering or a tomb
+epigramma | 4 | a short poem, an epigram, as those of Martial
 episcopus | 1 | bishop
 episcopus | 3 | an overseer or superintendent, as a civic official
+epistula | 1 | letter
+epistula | 3 | a written message, a letter: epistulam dare, to send a letter; ab epistulis, a private secretary
+epistula | 4 | in later Latin, an emperor's letter or rescript, having the force of law
 epistularis | 1 | epistolary
 epistularis | 3 | as a noun epistulares, state secretaries, letter-officials
+epitritos | 1 | epitrite
+epitritos | 3 | in metre, a foot of three long syllables and one short
+epitritos | 4 | in the ratio of four to three
 epoto | 1 | drink up
 epularis | 1 | convivial
 epulo1 | 1 | feaster
