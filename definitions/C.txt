@@ -2592,6 +2592,9 @@ collustro | 3 | omnia oculis collustrare, to survey everything with one's eyes, 
 colluvio | 1 | filth
 colluvio | 2 | rabble
 colluvio | 3 | figuratively, a degraded mixture or medley of people: colluvio omnium scelerum, a cesspool of every crime
+collyrium | 1 | eye-salve
+collyrium | 3 | a liquid salve for the eyes
+collyrium | 4 | in medicine, a suppository or pessary
 colo1 | 1 | cultivate
 colo1 | 2 | worship
 colo1 | 3 | without reference to farming, to dwell or inhabit a place: hanc urbem colere, to dwell in this city
@@ -2601,6 +2604,8 @@ colo1 | 6 | of a period of time, to live through, to spend: vitam colere, to pas
 colo1 | 7 | colere aliquem, to honour or pay respect to a person, not only a god
 colo2 | 1 | strain
 colo2 | 3 | figuratively, of dreams, colatiora somniari, to have clearer, more refined dreams
+colocasia | 1 | lotus
+colocasia | 3 | the Egyptian bean or lotus, a water plant whose roots and stems were eaten as a delicacy
 colon | 1 | colon
 colon | 2 | colic
 colon | 3 | by extension, in rhetoric or prosody, a clause, a member of a verse or sentence
@@ -2624,6 +2629,8 @@ coloro | 1 | colour
 coloro | 2 | tan
 coloro | 3 | figuratively, to imbue thoroughly, as opposed to a merely superficial stain: sapientia non coloravit sed infecit, wisdom did not truly dye the mind but only tainted it
 coloro | 4 | of style, to gloss over or palliate a fault
+colossus | 1 | colossus
+colossus | 3 | a gigantic statue, especially the Colossus of the sun at Rhodes
 coluber | 1 | snake
 coluber | 3 | especially, of the snaky hair of Medusa, the Furies, or the Hydra
 colubra | 1 | snake
@@ -2651,8 +2658,16 @@ columnarius | 2 | pillar-tax
 columnarius | 3 | one condemned and publicly humiliated at the Columna Maenia in the Forum
 columnatus | 1 | pillared
 columnatus | 3 | humorously, in Plautus, os columnatum, a chin propped on a fist
+colurus | 1 | colure
+colurus | 3 | in astronomy, coluri circuli, the two great circles through the poles and the equinoxes and solstices
 colus | 1 | distaff
 colus | 3 | by extension, the thread spun on a distaff
+coma | 1 | hair
+coma | 2 | foliage
+coma | 3 | the hair of the head, especially long or dressed hair: comam pectere, to comb one's hair
+coma | 4 | in poetry, an animal's mane or fleece; the crest of a helmet
+coma | 5 | in poetry, the leaves of a tree, the blades of grass or ears of grain
+coma | 6 | in poetry, rays of light, a flame's streaming tail
 combibo1 | 1 | absorb
 combibo1 | 2 | carouse
 combibo1 | 3 | figuratively, to absorb or imbibe skills or qualities: artes combibere, to soak up various skills
@@ -2667,10 +2682,18 @@ comedo1 | 4 | se comedere, to waste away with grief
 comes | 1 | companion
 comes | 3 | an attendant or escort of a magistrate or dignitary
 comes | 4 | in late Latin, an imperial officer or courtier, source of the English word count
+cometes1 | 1 | comet
+comicus | 1 | comic
+comicus | 3 | of comedy: poeta comicus, a writer of comedy; comice, in the manner of comedy
+comicus | 4 | as found in comedy: comici servi, the slaves of comedy
+comicus | 5 | as a noun, a comic poet; sometimes a comic actor
 comis | 1 | courteous
 comissabundus | 1 | revelling
 comissatio | 1 | revelry
 comissator | 1 | reveller
+comissor | 1 | revel
+comissor | 3 | to go about in a noisy, drunken procession with music after a feast, to make merry
+comissor | 4 | to join someone for a revel: comissatum ad aliquem ire, to go to someone's house to carouse
 comitas | 1 | courteousness
 comitas | 3 | too great liberality, prodigality
 comitatus2 | 1 | retinue
@@ -2812,6 +2835,11 @@ como1 | 2 | adorn
 como1 | 3 | in rhetoric, of style, to embellish or polish
 como2 | 1 | be hairy
 como2 | 3 | by extension, of a comet or plant, to have a trailing, hair-like plume
+comoedia | 1 | comedy
+comoedia | 3 | a comedy, a comic play: comoediam facere, to write a comedy
+comoedus | 1 | comedian
+comoedus | 3 | an actor in comedy
+comoedus | 4 | as an adjective, comic, given to acting: natio comoeda, a nation of actors
 compaciscor | 1 | agree
 compages | 1 | framework
 compages | 3 | figuratively, an embrace, or the confines of the body
