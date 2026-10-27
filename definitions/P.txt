@@ -24,6 +24,12 @@ paco2 | 3 | by extension, pacare silvas, to clear and tame forests (of land brou
 pactio | 1 | agreement
 pactio | 2 | collusion
 pactio | 3 | truce, peace settlement
+paedagogium | 1 | pages' school
+paedagogium | 3 | the hall where slave boys were trained as pages; and the pages themselves
+paedagogus | 1 | tutor
+paedagogus | 3 | the slave who took children to school and looked after them at home: nutrices et paedagogi, nurses and tutors
+paedagogus | 4 | figuratively, a guide or mentor: humani generis paedagogus, the tutor of the human race
+paedagogus | 5 | in early Latin, a pedant
 paedidus | 1 | filthy
 paedor | 1 | filth
 paelex | 1 | concubine
@@ -38,6 +44,8 @@ paenula1 | 3 | by extension, covering, wrapping (any protective envelope)
 paenularius | 1 | cloak-maker
 paenultimus | 1 | penultimate
 paenultimus | 3 | as a noun, paenultima, the penultimate syllable (a grammatical term)
+paeon | 1 | paeon
+paeon | 3 | in metre, a foot of three short syllables and one long, in any order
 paetus1 | 1 | squinting
 paetus1 | 3 | having a charming, slightly averted gaze (as an epithet of Venus, a positive trait)
 paganicus | 1 | rural
@@ -51,6 +59,15 @@ pagus | 1 | district
 pagus | 3 | the country folk, villagers (of a rural district, by metonymy)
 pala | 1 | spade
 pala | 3 | by extension, bezel, the flat setting of a ring (by shape)
+palaestra | 1 | wrestling-school
+palaestra | 2 | wrestling
+palaestra | 3 | a place for wrestling and exercise, where young men trained naked and oiled
+palaestra | 4 | wrestling, gymnastic exercise: didicisse palaestram, to have learned wrestling
+palaestra | 5 | figuratively, the school exercises of rhetoric; skill, training: utemur ea palaestra, we will use that skill
+palaestra | 6 | in comedy, a brothel
+palaestricus | 1 | gymnastic
+palaestricus | 3 | of the wrestling school: palaestrici motus, the studied movements of an athlete
+palaestricus | 4 | as a noun, a wrestling master
 palam | 1 | openly
 palam | 2 | before
 palam | 3 | palam est, it is publicly known, it is common knowledge
@@ -81,6 +98,14 @@ pallium | 3 | figuratively, ad pallium reverti, to return to philosophy (since t
 pallor | 1 | pallor
 pallor | 2 | terror
 pallor | 3 | personified as the god of fear (alongside Pavor, in Roman religion)
+palma1 | 1 | palm
+palma1 | 2 | victory
+palma1 | 3 | the palm of the hand; and the hand itself: passis palmis, with outstretched hands
+palma1 | 4 | the palm tree; its fruit, the date; a broom of palm twigs
+palma1 | 5 | a palm branch or wreath given to the victor, and so the prize, victory, glory: palmam ferre, to win the prize
+palma1 | 6 | in poetry, the victor himself
+palma1 | 7 | the blade of an oar
+palma1 | 8 | a shoot or branch, especially of a vine
 palmaris | 1 | excellent
 palmaris | 3 | a hand's-breadth or palm in size (a unit of measurement)
 palmaris | 4 | full of palm trees (of a grove or place)
@@ -120,11 +145,25 @@ pampineus | 1 | vine-leaved
 pampino | 1 | prune
 pampinus | 1 | tendril
 pampinus | 2 | vine-leaf
+panacea1 | 1 | panacea
+panacea1 | 3 | a herb believed to heal all diseases, all-heal
+pancarpius | 1 | mixed
+pancarpius | 3 | made of every kind of fruit or flower: pancarpiae coronae, garlands of mixed flowers
+panchrestus | 1 | all-purpose
+panchrestus | 3 | good for everything: panchrestum medicamentum, a cure-all; ironically in Cicero, money
+pancratium | 1 | pancratium
+pancratium | 3 | an athletic contest combining boxing and wrestling
+pancratium | 4 | the name of several plants
+pandectes | 1 | encyclopedia
+pandectes | 3 | a book containing everything, a title given to compendia; Pandectae, Justinian's digest of Roman law
 pando1 | 1 | bend
 pando2 | 1 | spread
 pando2 | 2 | reveal
 pando2 | 3 | velis passis, with sails spread, under full sail (of the participle passus)
 pandus | 1 | curved
+panegyricus | 1 | panegyric
+panegyricus | 3 | a speech of praise, a eulogy; Panegyricus, the festival speech of Isocrates
+panegyricus | 4 | as an adjective, laudatory
 pango | 1 | fasten
 pango | 2 | compose
 pango | 3 | in classical Latin, agree, covenant, settle by agreement (only in the perfect-tense forms, related to pactum, paciscor)
