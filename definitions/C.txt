@@ -1552,11 +1552,44 @@ charta | 6 | a thin sheet of metal: charta plumbea, a sheet of lead
 chasma | 1 | chasm
 chasma | 3 | an opening in the earth, an abyss
 chasma | 4 | a kind of meteor, a glowing gap in the sky
+chele | 1 | claws
+chele | 3 | in astronomy, Chelae, the Claws of the Scorpion, and so the sign Libra
+chele | 4 | the trigger of a ballista
+chelidonius | 1 | of swallows
+chelidonius | 3 | of the swallow: lapilli chelidonii, swallow-stones found in young swallows' crops
+chelidonius | 4 | chelidonia as a noun, the plant celandine
+chelys | 1 | lyre
+chelys | 3 | in poetry, the lyre, first made from a tortoise shell
+chelys | 4 | a tortoise
+chirographum | 1 | handwriting
+chirographum | 2 | bond
+chirographum | 3 | one's own handwriting: neque utar meo chirographo, I shall not write in my own hand
+chirographum | 4 | something written in one's own hand, a signed note or assurance
+chirographum | 5 | in law, a written promise to pay, a bond signed by the debtor
+chlamys | 1 | cloak
+chlamys | 3 | a broad Greek woollen cloak, often purple and gold, worn especially by military men
+choragium | 1 | stage-props
+choragium | 3 | the equipment of a chorus or a play, scenery and costumes
+choragium | 4 | any splendid equipment or display: choragium nuptiarum, the trappings of a wedding
+choragium | 5 | the room where the chorus rehearsed
+choraules | 1 | piper
+choraules | 3 | a flute player who accompanied the chorus dance
+chorda | 1 | string
+chorda | 3 | the gut string of a musical instrument
+chorda | 4 | in early Latin, a rope for tying up a slave
 chordus1 | 1 | late-born
 chordus1 | 3 | born late in the season, a very old farming word: agni chordi, lambs dropped out of season
 chorea | 1 | dance
 chorea | 3 | a dance in a ring, and commonest in the plural
 chorea | 4 | by transfer, of the circling of the stars: choreae astricae, the dances of the stars
+choriambus | 1 | choriamb
+choriambus | 3 | in metre, a foot of a long, two shorts and a long
+chorus | 1 | dance
+chorus | 2 | chorus
+chorus | 3 | a dance in a ring with song: choros agere, to lead the dance
+chorus | 4 | a band of dancers and singers, a chorus, a choir
+chorus | 5 | any band or crowd: chorus juventutis, a band of young men; chorus philosophorum, the company of philosophers
+chorus | 6 | in poetry, the harmonious movement of the stars
 cibarius | 1 | of food
 cibarius | 3 | belonging to food or fit for it: leges cibariae, sumptuary laws about eating; uva cibaria, a grape good to eat but not for wine
 cibarius | 4 | as a neuter plural cibaria, provisions or rations, and fodder for animals
