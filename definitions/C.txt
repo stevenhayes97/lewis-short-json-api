@@ -1229,6 +1229,9 @@ cedo2 | 3 | an old imperative form, with a plural cette, belonging to lively fam
 cedo2 | 4 | in asking for information, out with it, tell me: cedo istuc tuum consilium, let us hear this plan of yours
 cedo2 | 5 | asking leave to do a thing: cedo ut bibam, let me have a drink
 cedo2 | 6 | calling attention, come now, just look: cedo mihi leges Atinias, produce me the Atinian laws
+cedrus | 1 | cedar
+cedrus | 3 | the cedar or juniper tree, and its fragrant wood
+cedrus | 4 | cedar oil, rubbed on books to protect them: carmina linenda cedro, poems worth preserving
 celeber | 1 | crowded
 celeber | 2 | famous
 celeber | 3 | of a place, much frequented and full of people, the opposite of desertus: celeber locus, a busy spot
@@ -1364,6 +1367,9 @@ cento1 | 3 | a covering made of scraps stitched together, a rag quilt
 cento1 | 4 | a cap worn under the helmet
 cento1 | 5 | proverbially: centones sarcire alicui, to stitch patchwork for someone, that is to fob them off with lies
 cento1 | 6 | a poem pieced together out of another poet's lines, a cento
+centrum | 1 | centre
+centrum | 3 | the centre of a circle; the fixed point of a pair of compasses
+centrum | 4 | a hard knot in the heart of wood or a gem
 centum | 1 | hundred
 centum | 3 | the numeral, and indeclinable: centum dies, a hundred days
 centum | 4 | in the poets for any large number: si linguae centum sint, if I had a hundred tongues; centum clavibus servata, guarded by a hundred keys
@@ -1409,9 +1415,15 @@ cerarius | 1 | of wax
 cerarius | 3 | having to do with wax, and found only as a noun
 cerarius | 4 | as a masculine noun cerarius, a wax dealer, or a clerk who writes on wax tablets
 cerarius | 5 | as a neuter noun cerarium, a fee for wax, or perhaps for affixing a seal
+cerastes | 1 | horned-viper
+cerastes | 3 | a horned snake; in poetry, one of the snakes in the Furies' hair
+cerastes | 4 | a horned grub that damages trees
 cerasus1 | 1 | cherry tree
 cerasus1 | 3 | the cherry tree, which Lucullus brought to Italy from Cerasus in Pontus
 cerasus1 | 4 | also the cherry itself
+ceraunius | 1 | thunderstone
+ceraunius | 3 | a precious stone, perhaps a meteorite or a kind of onyx
+ceraunius | 4 | of vines and grapes, red
 cerebrum | 1 | brain
 cerebrum | 3 | the brain
 cerebrum | 4 | by transfer, understanding or sense
@@ -1438,6 +1450,9 @@ cernuus1 | 3 | bent forward with the face towards the ground, a very rare and po
 cero | 1 | wax
 cero | 3 | to smear or coat with wax: dolia cerare, to wax the jars
 cero | 4 | commonest in its participle: cerata tabula, a waxed tablet; ceratae pennae, wings waxed together
+ceroma | 1 | oil
+ceroma | 3 | an ointment of oil and wax used by wrestlers
+ceroma | 4 | the wrestling ground, and the wrestling itself
 certamen | 1 | contest
 certamen | 3 | a struggle of any kind, friendly or hostile: certamen gymnicum, a contest in the games
 certamen | 4 | the prize contended for: certamina ponere, to set up the prizes
@@ -1520,6 +1535,23 @@ ceu | 6 | sometimes conditionally, as if or as it were
 ceveo | 1 | waggle
 ceveo | 3 | to move the haunches, a coarse word of the satirists
 ceveo | 4 | figuratively, from a dog wagging its tail, to fawn and flatter
+ceyx | 1 | kingfisher
+chalybs1 | 1 | steel
+chalybs1 | 3 | in poetry, steel as the type of hardness: ferro durior et chalybe, harder than iron and steel
+chalybs1 | 4 | in poetry, things made of steel, a sword, a bit or an arrowhead
+character | 1 | brand
+character | 3 | a mark branded or stamped on something, especially on animals
+character | 4 | a branding iron
+character | 5 | outside classical Latin, a distinctive style or character: Luciliano charactere libelli, books in the style of Lucilius
+charta | 1 | paper
+charta | 2 | writing
+charta | 3 | a sheet of papyrus, paper
+charta | 4 | something written, a letter, a poem, a book: chartae Arpinae, Cicero's writings
+charta | 5 | the papyrus plant
+charta | 6 | a thin sheet of metal: charta plumbea, a sheet of lead
+chasma | 1 | chasm
+chasma | 3 | an opening in the earth, an abyss
+chasma | 4 | a kind of meteor, a glowing gap in the sky
 chordus1 | 1 | late-born
 chordus1 | 3 | born late in the season, a very old farming word: agni chordi, lambs dropped out of season
 chorea | 1 | dance
