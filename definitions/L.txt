@@ -1061,5 +1061,13 @@ lympha | 3 | in poetry, a water-nymph (personified)
 lymphaticus | 1 | frantic
 lympho | 1 | dilute
 lympho | 3 | madden, drive out of one's senses
+lyncurion | 1 | lyncurium
+lyncurion | 3 | a hard, clear gem thought to form from the urine of a lynx
+lynx | 1 | lynx
+lynx | 3 | the lynx, sacred to Bacchus, whose chariot it drew
+lyra | 1 | lyre
+lyra | 3 | the lyre, said to be invented by Mercury and given to Apollo
+lyra | 4 | lyric poetry, song: Aeolia lyra, the lyric poetry of Lesbos
+lyra | 5 | the constellation of the Lyre
 lyricus | 1 | lyric
 lyricus | 3 | as a noun, a lyric poet
