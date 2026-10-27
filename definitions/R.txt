@@ -345,10 +345,10 @@ reddo | 8 | legally, judicium reddere, to grant a trial; jus reddere, to adminis
 redemptio | 1 | ransom
 redemptio | 3 | of a court, bribery, corrupting jurors
 redemptio | 4 | a farming or contracting of public revenue
-redemptio | 5 | in ecclesiastical Latin, redemption from sin
+redemptio | 5 | in Christian Latin, redemption from sin
 redemptor | 1 | contractor
 redemptor | 3 | in law, one who pays off a debtor's creditor, thereby taking over the claim
-redemptor | 4 | in ecclesiastical Latin, the Redeemer, Christ as saviour from sin
+redemptor | 4 | in Christian Latin, the Redeemer, Christ as saviour from sin
 redeo | 1 | return
 redeo | 3 | to return to a former subject in speaking or writing: ad rem redire, to get back to the point
 redeo | 4 | of revenue, to come in, accrue: fructus ex fundo redit, income comes in from the estate
@@ -636,7 +636,7 @@ remisceo | 1 | mix
 remissio | 1 | remission
 remissio | 2 | relaxation
 remissio | 3 | mildness, gentleness, leniency of character or treatment
-remissio | 4 | ecclesiastical Latin, the forgiveness of sin
+remissio | 4 | in Christian Latin, the forgiveness of sin
 remissio | 5 | rarely, a repetition: nova ludorum remissio, a fresh round of games
 remissivus | 1 | laxative
 remissivus | 3 | in grammar, remissive, describing adverbs of gradual or moderated degree, like paulatim, "little by little"
@@ -672,10 +672,10 @@ remus1 | 1 | oar
 remus1 | 3 | poetic, transferred to a bird's wings, or a swimmer's limbs
 renascor | 1 | revive
 renascor | 3 | literally, to be born again, to spring up anew: urbs renata, the city risen again from ruin
-renascor | 4 | ecclesiastical Latin, to be born again, spiritually reborn
+renascor | 4 | in Christian Latin, to be born again, spiritually reborn
 renes | 1 | kidneys
 renes | 3 | the loins
-renes | 4 | figuratively, in ecclesiastical Latin, the seat of the emotions, the inmost feelings
+renes | 4 | figuratively, in Christian Latin, the seat of the emotions, the inmost feelings
 renideo | 1 | glisten
 renideo | 3 | figuratively, to beam with joy, to be cheerful, glad
 renideo | 4 | transferred, to smile, laugh: renidens, smiling
@@ -852,7 +852,7 @@ residuus | 3 | in business, of a debt, outstanding, due: pecuniae residuae, outs
 resigno | 1 | unseal
 resigno | 2 | annul
 resigno | 3 | poetic, to disclose, reveal: venientia fata resignare, to reveal what fate holds
-resigno | 4 | ante-classical, to transfer or assign an entry in accounts
+resigno | 4 | in early Latin, to transfer or assign an entry in accounts
 resilio | 1 | rebound
 resilio | 3 | figuratively, to shrink back from, recoil from: crimen resilit, the charge recoils, fails to stick
 resipio | 1 | taste of

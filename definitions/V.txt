@@ -132,7 +132,7 @@ vas1 | 1 | surety
 vas2 | 1 | vessel
 vas2 | 3 | plural, military equipment, baggage
 vasarium | 1 | furniture allowance
-vasarium | 3 | archives, records, post-classical
+vasarium | 3 | in later Latin, archives, records
 vasculum | 1 | small vessel
 vasculum | 3 | transferred, the seed-pod of a plant
 vastatio | 1 | devastation
@@ -265,7 +265,7 @@ venenum | 2 | charm
 venenum | 3 | dye, colouring material
 veneo | 1 | be sold
 venerabilis | 1 | venerable
-venerabilis | 3 | post-classical, showing veneration, reverential
+venerabilis | 3 | in later Latin, showing veneration, reverential
 veneratio | 1 | veneration
 veneratio | 3 | venerableness, the quality that commands reverence
 veneror | 1 | worship
@@ -472,7 +472,7 @@ veternosus | 1 | lethargic
 veternosus | 3 | figuratively, languid, spiritless, sluggish
 veternus1 | 1 | lethargy
 veternus1 | 2 | sloth
-veternus1 | 3 | post-classical, as an adjective, old, ancient
+veternus1 | 3 | in later Latin, as an adjective, old, ancient
 veternus1 | 4 | rarely, old age; also, old filth or dirt
 veto | 1 | forbid
 veto | 3 | veto, I forbid it, I protest, the tribunes' formula for blocking a measure
@@ -731,7 +731,7 @@ visio | 1 | vision
 visio | 2 | idea
 visito | 1 | visit
 visito | 2 | see
-visito | 3 | ecclesiastical, punish
+visito | 3 | in Christian Latin, punish
 viso | 1 | view
 viso | 2 | visit
 visum | 1 | vision
@@ -855,7 +855,7 @@ voluntarius | 3 | as a noun, a volunteer, a volunteer soldier
 voluntas | 1 | will
 voluntas | 2 | goodwill
 voluntas | 3 | a last will, a testament
-voluntas | 4 | the meaning or sense of words, post-Augustan
+voluntas | 4 | after Augustus, the meaning or sense of words
 volup | 1 | pleasantly
 voluptarius | 1 | pleasurable
 voluptarius | 2 | sensual
@@ -896,7 +896,7 @@ votivus | 2 | longed-for
 votum | 1 | vow
 votum | 2 | wish
 votum | 3 | a votive offering, something dedicated in fulfilment of a vow
-votum | 4 | post-classical, a marriage vow, a betrothal
+votum | 4 | in later Latin, a marriage vow, a betrothal
 voveo | 1 | vow
 voveo | 2 | wish
 vox | 1 | voice

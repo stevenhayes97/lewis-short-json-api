@@ -22,15 +22,15 @@ sacerdos1 | 3 | also used of a priestess
 sacerdotalis | 1 | priestly
 sacerdotalis | 3 | as a noun, one who has held a priestly office
 sacerdotium | 1 | priesthood
-sacerdotium | 3 | ecclesiastical Latin, the mediatorial office of Christ
+sacerdotium | 3 | in Christian Latin, the mediatorial office of Christ
 sacomarius | 1 | of weights
 sacomarius | 3 | as a noun, a maker of weights
 sacomarius | 4 | as a neuter noun (sacomarium), the public weighing-place
 sacramentum | 1 | oath
 sacramentum | 3 | a military oath of allegiance
 sacramentum | 4 | in law, a sum deposited by both parties in a lawsuit, forfeited by the loser
-sacramentum | 5 | ecclesiastical Latin, a sacred mystery
-sacramentum | 6 | ecclesiastical Latin, a sacrament
+sacramentum | 5 | in Christian Latin, a sacred mystery
+sacramentum | 6 | in Christian Latin, a sacrament
 sacrarium | 1 | shrine
 sacrarium | 3 | transferred, a secret hiding place
 sacricola | 1 | sacrificer
@@ -50,13 +50,13 @@ sacrosanctus | 1 | sacrosanct
 sacrosanctus | 3 | transferred, most holy, venerable
 saecularis | 1 | secular
 saecularis | 3 | ludi saeculares, the secular games, held once each era
-saecularis | 4 | ecclesiastical Latin, worldly, lay, opposed to religious life
+saecularis | 4 | in Christian Latin, worldly, lay, opposed to religious life
 saeculum | 1 | generation
 saeculum | 2 | age
 saeculum | 3 | a century, a period of about a hundred years
 saeculum | 4 | an indefinitely long period, an age
 saeculum | 5 | the times, the spirit of an age
-saeculum | 6 | ecclesiastical Latin, the world, worldliness
+saeculum | 6 | in Christian Latin, the world, worldliness
 saeculum | 7 | in saecula saeculorum, for ever and ever
 saepe | 1 | often
 saepes | 1 | hedge
@@ -130,7 +130,7 @@ salictum | 1 | willow-grove
 salinae | 1 | saltworks
 salinum | 1 | saltcellar
 salio1 | 1 | salt
-salio1 | 3 | ecclesiastical Latin, to sprinkle before sacrifice
+salio1 | 3 | in Christian Latin, to sprinkle before sacrifice
 salio2 | 1 | leap
 salio2 | 3 | transferred, of water, to gush, spurt, flow
 salio2 | 4 | of animals, to mate, cover
@@ -171,7 +171,7 @@ salubritas | 3 | transferred, health, soundness itself
 salus | 1 | safety
 salus | 2 | health
 salus | 3 | specifically, a greeting, a salutation
-salus | 4 | ecclesiastical Latin, salvation
+salus | 4 | in Christian Latin, salvation
 salus | 5 | as a proper noun, Salus, the Roman goddess of Safety
 salutaris | 1 | salutary
 salutaris | 3 | salutaris littera, the letter A, marked on a voting tablet for acquittal
@@ -193,7 +193,7 @@ saluto | 1 | greet
 saluto | 3 | to bid farewell, to take leave
 saluto | 4 | specifically, to pay a visit of respect, to wait upon a patron
 salvator | 1 | saviour
-salvator | 3 | ecclesiastical Latin, as a title, the Saviour
+salvator | 3 | in Christian Latin, as a title, the Saviour
 salveo | 1 | be well
 salveo | 3 | as a greeting, salve, salvete, hello, good day
 salveo | 4 | with vale, in parting, farewell
@@ -383,7 +383,7 @@ scintilla | 3 | figuratively, a glimmer, a faint trace
 scintillo | 1 | sparkle
 scio | 1 | know
 scio | 3 | as a participle (sciens), knowingly, purposely, intentionally
-scio | 4 | as a participle (sciens) + genitive, skilled, versed, expert in something
+scio | 4 | as a participle, sciens, with the genitive, skilled, versed, expert in something
 scirpeus | 1 | of rushes
 scirpeus | 3 | as a noun (scirpea), a rush basket-work cart-body, used for manure
 scirpiculus | 1 | rush-basket
@@ -413,7 +413,7 @@ scortor | 1 | whore
 scortum | 1 | harlot
 scortum | 3 | literally (rare), a skin, a hide
 scriba | 1 | scribe
-scriba | 3 | ecclesiastical Latin, a doctor of the Jewish law
+scriba | 3 | in Christian Latin, a doctor of the Jewish law
 scribo | 1 | write
 scribo | 3 | military, scribere milites, to enlist, enroll, levy soldiers
 scribo | 4 | political, to draw up a law, decree, or treaty
@@ -429,7 +429,7 @@ scriptor | 1 | writer
 scriptor | 3 | political and legal, a drafter, a compiler, e.g. of a law or a will
 scriptura | 1 | writing
 scriptura | 3 | political, a tax on the use of public pasture-land
-scriptura | 4 | ecclesiastical Latin, as a proper noun, Scripture, the Scriptures
+scriptura | 4 | in Christian Latin, as a proper noun, Scripture, the Scriptures
 scriptura | 5 | legal, a testamentary provision, a will
 scripturarius | 1 | of pasture-tax
 scripturarius | 3 | as a noun, a collector of the pasture-tax
@@ -500,7 +500,7 @@ seco | 5 | of motion, to cut through, e.g. to sail, swim, or fly through
 seco | 6 | figuratively, to censure, to satirise
 secretarium | 1 | retreat
 secretarium | 3 | specifically, a council chamber, of judges
-secretarium | 4 | ecclesiastical Latin, a consistory, a conclave
+secretarium | 4 | in Christian Latin, a consistory, a conclave
 secta1 | 1 | way
 secta1 | 2 | sect
 secta1 | 3 | literally, a beaten path, footsteps
@@ -509,7 +509,7 @@ sectator | 3 | specifically, a follower or disciple of a teacher or a school
 sectilis | 1 | cut
 sectilis | 3 | that may be cut, e.g. porrum sectile, cut-leek, chives
 sectio | 1 | auction
-sectio | 3 | literally (post-Augustan), a cutting, a cutting up
+sectio | 3 | literally, after Augustus, a cutting, a cutting up
 sectio | 4 | geometrical, a section, a division
 sector1 | 1 | cutter
 sector1 | 3 | political, a buyer at a public auction of confiscated goods
@@ -573,10 +573,10 @@ seditiosus | 3 | transferred, in general, quarrelsome
 sedo | 1 | calm
 sedo | 3 | as a participle (sedatus), composed, moderate, calm, quiet
 seduco | 1 | lead aside
-seduco | 3 | ecclesiastical Latin, to lead astray, to seduce, to mislead
+seduco | 3 | in Christian Latin, to lead astray, to seduce, to mislead
 seduco | 4 | poetic, to separate, to divide
 seductio | 1 | separation
-seductio | 3 | ecclesiastical Latin, a misleading, a seduction
+seductio | 3 | in Christian Latin, a misleading, a seduction
 seductio | 4 | specifically (legal), a leading aside, e.g. of witnesses
 sedulitas | 1 | diligence
 sedulitas | 3 | with a negative implication, officiousness, obtrusiveness
@@ -738,7 +738,7 @@ sepelio | 1 | bury
 sepelio | 3 | figuratively, to overwhelm, destroy, ruin, suppress
 sepelio | 4 | poetic, as a participle (sepultus), buried in deep sleep, fast asleep
 sepono | 1 | set aside
-sepono | 3 | specifically (post-Augustan), to banish, to exile
+sepono | 3 | specifically, after Augustus, to banish, to exile
 sepono | 4 | to reserve, to set apart for a purpose
 sepono | 5 | as a participle (sepositus), distant, remote; also, choice, select
 septem | 1 | seven
@@ -772,7 +772,7 @@ sequela | 1 | consequence
 sequela | 3 | literally, a follower, an attendant
 sequester | 1 | trustee
 sequester | 3 | specifically, in bribery, a go-between, an agent
-sequester | 4 | post-Augustan, a mediator, an intermediary
+sequester | 4 | after Augustus, a mediator, an intermediary
 sequestro | 1 | sequester
 sequestro | 3 | transferred, to remove, to separate from something
 sequor | 1 | follow
@@ -900,7 +900,7 @@ sibilus1 | 1 | hiss
 sibilus1 | 3 | specifically, a contemptuous hissing, a hissing off
 sic | 1 | thus
 sic | 3 | correlative, sic ... ut, so ... that
-sic | 4 | in answers (ante-classical), yes
+sic | 4 | in early Latin, in answers, yes
 sica | 1 | dagger
 sica | 3 | transferred, the edge of a boar's tusk
 sicarius | 1 | assassin
@@ -1358,12 +1358,12 @@ spiramen | 3 | abstract sense, a breathing, a blowing, of wind
 spiramentum | 1 | vent
 spiramentum | 3 | figuratively, a breathing space, a brief pause, an interval
 spiritalis | 1 | spiritual
-spiritalis | 3 | literally (post-Augustan), of or belonging to breathing, wind, or air
+spiritalis | 3 | literally, after Augustus, of or belonging to breathing, wind, or air
 spiritus | 1 | breath
 spiritus | 2 | pride
 spiritus | 3 | transferred, life, the breath of life
-spiritus | 4 | figuratively (mostly poetic or post-Augustan), spirit, soul, mind
-spiritus | 5 | ecclesiastical Latin, Spiritus Sanctus, the Holy Spirit
+spiritus | 4 | figuratively, mostly in poetry or after Augustus, spirit, soul, mind
+spiritus | 5 | in Christian Latin, Spiritus Sanctus, the Holy Spirit
 spiro | 1 | breathe
 spiro | 3 | transferred, to live, to be alive
 spiro | 4 | active, to breathe out, to exhale, to emit
@@ -1397,7 +1397,7 @@ sponsio | 1 | guarantee
 sponsio | 3 | specifically (legal), a mutual wager in a civil suit
 sponsio | 4 | in general, a bet, a wager
 sponsor | 1 | surety
-sponsor | 3 | ecclesiastical Latin, a godfather, a godmother
+sponsor | 3 | in Christian Latin, a godfather, a godmother
 sponsus3 | 1 | betrothal
 sponsus3 | 3 | legal, bail, suretyship
 spontaneus | 1 | spontaneous
@@ -1459,7 +1459,7 @@ statarius | 4 | as a noun (feminine plural), statariae, a quiet-paced genre of c
 statera | 1 | scale
 statera | 3 | figuratively, the value, the worth of a thing
 statim | 1 | immediately
-statim | 3 | ante-classical (rare), firmly, steadily, steadfastly
+statim | 3 | rarely, in early Latin, firmly, steadily, steadfastly
 statio | 1 | station
 statio | 3 | military, a guard-post; also, transferred, sentries, sentinels
 statio | 4 | nautical, an anchorage, a roadstead
@@ -1571,7 +1571,7 @@ strebula | 1 | haunch-meat
 strena | 1 | omen
 strena | 3 | transferred, a New Year's gift, given for good luck
 strenuus | 1 | vigorous
-strenuus | 3 | post-Augustan, restless, turbulent
+strenuus | 3 | after Augustus, restless, turbulent
 strepito | 1 | rustle
 strepitus | 1 | din
 strepitus | 3 | poetic, transferred, a measured, regular sound, e.g. of music
@@ -1600,7 +1600,7 @@ strio1 | 1 | groove
 structilis | 1 | structural
 structio | 1 | construction
 structor | 1 | builder
-structor | 3 | specifically (post-Augustan), a carver, a table-server
+structor | 3 | specifically, after Augustus, a carver, a table-server
 structura | 1 | structure
 structura | 3 | figuratively, of language, an arrangement, an order
 strues | 1 | heap
@@ -1635,7 +1635,7 @@ stupro | 3 | to violate, ravish; in general (very rare), to defile
 stuprum | 1 | debauchery
 stuprum | 2 | violation
 stuprum | 3 | any unchaste act that dishonours the other party, whether seduction, adultery or rape
-stuprum | 4 | in general (ante-classical only), defilement, dishonour, disgrace
+stuprum | 4 | in general, only in early Latin, defilement, dishonour, disgrace
 suadela | 1 | persuasion
 suadela | 3 | as a proper noun, Suadela, the goddess of Persuasion
 suadeo | 1 | advise
@@ -1695,7 +1695,7 @@ subicio | 4 | to append, to subjoin, in speech or writing
 subicio | 5 | of places, to lie under or near, to be adjacent, to border upon
 subicio | 6 | grammatical, as a noun (subjectum), the subject of a proposition
 subigito | 1 | fornicate
-subigito | 3 | figuratively (post-classical), to work upon, to incite
+subigito | 3 | figuratively, in later Latin, to work upon, to incite
 subigo | 1 | subdue
 subigo | 2 | cultivate
 subigo | 3 | to force, to compel, to constrain to something
@@ -1768,7 +1768,7 @@ subscriptio | 2 | signature
 subscriptio | 3 | legal, the signing of an accusation, joining it as a prosecutor
 subscriptio | 4 | in general, a list, a register
 subscriptor | 1 | co-signer
-subscriptor | 3 | post-classical, one who assents to something, a favourer, an approver
+subscriptor | 3 | in later Latin, one who assents to something, a favourer, an approver
 subscus | 1 | tenon
 subseco | 1 | clip
 subsellium | 1 | bench
@@ -1878,7 +1878,7 @@ successio | 3 | rare, a good issue, success
 successor | 1 | successor
 successus2 | 1 | success
 successus2 | 3 | literally (very rare), an advance, an approach
-successus2 | 4 | post-classical, a continuance, a succession of time
+successus2 | 4 | in later Latin, a continuance, a succession of time
 succidia | 1 | flitch
 succido1 | 1 | sink
 succido1 | 3 | figuratively, of the mind, to sink, to fail
@@ -1935,7 +1935,7 @@ suffimentum | 1 | incense
 suffio | 1 | fumigate
 suffitio | 1 | fumigation
 sufflamen | 1 | brake
-sufflamen | 3 | figuratively (post-classical), a hindrance, an impediment
+sufflamen | 3 | figuratively, in later Latin, a hindrance, an impediment
 sufflamino | 1 | brake
 sufflamino | 3 | figuratively, to check, to repress, in speaking
 sufflo | 1 | inflate
@@ -2009,9 +2009,9 @@ summa | 2 | gist
 summa | 3 | idiom, ad summam, in summa, on the whole, in short
 summas | 1 | noble
 summatim | 1 | briefly
-summatim | 3 | literally (post-Augustan, very rare), on the surface, slightly
+summatim | 3 | literally, very rarely, after Augustus, on the surface, slightly
 summergo | 1 | submerge
-summergo | 3 | figuratively (post-classical, rare), to suppress
+summergo | 3 | figuratively, rarely, in later Latin, to suppress
 sumministro | 1 | supply
 summitas | 1 | summit
 summitto | 1 | lower
@@ -2105,11 +2105,11 @@ superstes | 3 | archaic, a bystander, a witness
 superstes | 4 | poetic, standing over in triumph
 superstitio | 1 | superstition
 superstitio | 3 | transferred, an excessive, obsessive regard for rules
-superstitio | 4 | post-classical, religious awe, sanctity, a religious rite
+superstitio | 4 | in later Latin, religious awe, sanctity, a religious rite
 superstitiosus | 1 | superstitious
 superstitiosus | 3 | archaic, prophetic, soothsaying
 supersto | 1 | stand over
-supersto | 3 | ecclesiastical Latin, to survive
+supersto | 3 | in Christian Latin, to survive
 superstruo | 1 | build over
 supersum | 1 | remain
 supersum | 2 | survive
@@ -2166,7 +2166,7 @@ supplicium | 3 | archaic, religious, a public prayer or supplication, an offerin
 supplico | 1 | beseech
 supplico | 3 | to pray to a god, to worship
 supplodo | 1 | stamp
-supplodo | 3 | ecclesiastical Latin, to clap, to applaud
+supplodo | 3 | in Christian Latin, to clap, to applaud
 supplodo | 4 | to tread underfoot, to destroy
 suppono | 1 | place under
 suppono | 2 | substitute
@@ -2213,7 +2213,7 @@ sursum | 4 | of position, rare, on high, above
 sus | 1 | pig
 sus | 3 | rare, a kind of fish
 susceptio | 1 | undertaking
-susceptio | 3 | ecclesiastical Latin, an acceptance, a reception
+susceptio | 3 | in Christian Latin, an acceptance, a reception
 susceptor | 1 | protector
 susceptor | 3 | legal, a contractor, an undertaker of public works
 susceptor | 4 | a tax collector

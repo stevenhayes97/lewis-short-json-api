@@ -68,7 +68,7 @@ taeda | 1 | torch
 taeda | 3 | resinous pine wood, pitch-pine
 taeda | 4 | poetic, a wedding, marriage (from the wedding torch)
 taedet | 1 | weary
-taedet | 3 | taedet me + genitive, I am sick of, tired of (something)
+taedet | 3 | taedet me with the genitive, I am sick of, tired of (something)
 taedium | 1 | weariness
 taedium | 2 | disgust
 taedium | 3 | transferred, a loathsome or tiresome thing, a nuisance
@@ -376,7 +376,7 @@ testamentarius | 1 | testamentary
 testamentarius | 3 | as a noun, one who draws up a will
 testamentarius | 4 | in a bad sense, a will-forger
 testamentum | 1 | will
-testamentum | 3 | ecclesiastical Latin, the Testament, Old or New
+testamentum | 3 | in Christian Latin, the Testament, Old or New
 testatio | 1 | testimony
 testatio | 3 | a calling upon the gods as witness
 testator | 1 | testator
@@ -569,7 +569,7 @@ totidem | 3 | totidem ... quot, just as many ... as
 totiens | 1 | so often
 totiens | 3 | totiens ... quotiens, as often ... as
 totus1 | 1 | whole
-totus1 | 3 | totus in + ablative, wholly absorbed in, entirely devoted to
+totus1 | 3 | totus in with the ablative, wholly absorbed in, entirely devoted to
 totus1 | 4 | ex toto, in totum, wholly, entirely, completely
 trabalis | 1 | of beams
 trabalis | 3 | poetic, beam-like, massive, stout
@@ -593,7 +593,7 @@ tractatus | 1 | treatment
 tractatus | 3 | literal, rare, a touching, handling
 tractatus | 4 | reflection, consideration; a discussion, consultation
 tractatus | 5 | transferred, concrete, a treatise, tract
-tractatus | 6 | ecclesiastical Latin, a sermon, homily
+tractatus | 6 | in Christian Latin, a sermon, homily
 tractim | 1 | gradually
 tractim | 3 | of speech or sound, in a drawling way, slowly, at length
 tracto | 1 | handle
@@ -701,7 +701,7 @@ transfusio | 3 | transferred, a migration of a people
 transgredior | 1 | cross over
 transgredior | 3 | to go over to another party
 transgredior | 4 | figuratively, to go beyond, exceed, surpass
-transgredior | 5 | ecclesiastical Latin, to transgress a command
+transgredior | 5 | in Christian Latin, to transgress a command
 transgressio | 1 | crossing
 transgressio | 3 | rhetorical, a transposition of words
 transgressio | 4 | late Latin, a transgression of a law or command
@@ -754,7 +754,7 @@ transtrum | 3 | specifically, a rower's bench, a thwart, in a ship
 transvectio | 1 | crossing
 transvectio | 3 | political, the review of Roman knights riding past the censor
 transveho | 1 | convey across
-transveho | 3 | mid./passive, to ride or sail across, pass by
+transveho | 3 | in the passive, to ride or sail across, pass by
 transveho | 4 | to carry along in a triumphal procession
 transverbero | 1 | pierce through
 transverto | 1 | turn aside
@@ -955,7 +955,7 @@ tumultus | 4 | figuratively, disturbance, agitation of mind
 tumulus | 1 | mound
 tumulus | 3 | specifically, a burial mound, a tumulus
 tunc | 1 | then
-tunc | 3 | near-synonym of tum, more frequent in post-Augustan prose
+tunc | 3 | near-synonym of tum, more frequent in prose after Augustus
 tundo | 1 | pound
 tundo | 3 | figuratively, to din, pester, importune, by repetition
 tunica | 1 | tunic

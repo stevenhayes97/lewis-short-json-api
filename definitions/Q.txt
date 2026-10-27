@@ -23,7 +23,7 @@ quadrageni | 4 | loosely, for quadraginta, forty
 quadragesimus | 1 | fortieth
 quadragesimus | 3 | as a noun (quadragesima), the fortieth part
 quadragesimus | 4 | as a tax, a duty of one fortieth on goods
-quadragesimus | 5 | in ecclesiastical Latin, Lent, the forty-day fast before Easter
+quadragesimus | 5 | in Christian Latin, Lent, the forty-day fast before Easter
 quadrans | 1 | quarter
 quadrans | 3 | of an inheritance or debt, a fourth part; heres ex quadrante, heir to a quarter of the estate
 quadrans | 4 | as a Roman coin, a quarter of an as, the smallest coin, proverbial for a trifling sum
@@ -153,7 +153,7 @@ quamdiu | 1 | how long
 quamdiu | 3 | relative, as long as, while, until
 quamlibet | 1 | however
 quamlibet | 3 | as you please, at pleasure, as much as one likes
-quamlibet | 4 | post-classical, for quamvis, although
+quamlibet | 4 | in later Latin, for quamvis, although
 quamobrem | 1 | why
 quamobrem | 3 | relative, for which reason, wherefore, on account of which
 quamobrem | 4 | as a transitional particle beginning a sentence, wherefore, for this reason
@@ -177,7 +177,7 @@ quandocumque | 3 | indefinite, at some time or other, sooner or later
 quandoque1 | 1 | whenever
 quandoque1 | 3 | causal, since, inasmuch as
 quandoque1 | 4 | indefinite, at some time or other
-quandoque1 | 5 | post-classical, now and then, sometimes
+quandoque1 | 5 | in later Latin, now and then, sometimes
 quandoquidem | 1 | since
 quantillus | 1 | how little
 quantillus | 3 | in exclamations and questions, how tiny a bit, how small an amount
@@ -200,7 +200,7 @@ quantuscumque | 3 | of whatever size: quantuscumque sum, whatever my worth may b
 quantuslibet | 1 | however great
 quantuslibet | 3 | as great as one likes, to whatever degree
 quantusvis | 1 | however great
-quantusvis | 3 | post-classical or poetic, for quamvis, although, albeit
+quantusvis | 3 | in later Latin or in poetry, for quamvis, although, albeit
 quapropter | 1 | why
 quapropter | 3 | transferred, in passing to a new thought, wherefore, on which account
 quare | 1 | why
@@ -227,7 +227,7 @@ quasso | 5 | of countries or communities, to throw into turmoil, unsettle
 quatenus | 1 | how far
 quatenus | 2 | since
 quatenus | 3 | of time, how long
-quatenus | 4 | post-classical, so that, in order that
+quatenus | 4 | in later Latin, so that, in order that
 quater | 1 | four times
 quater | 3 | with other numerals, to form compound multiples: quater deni, forty; quater decies, forty times
 quaternarius | 1 | quaternary
@@ -288,7 +288,7 @@ qui2 | 4 | transferred, that, in order that
 qui2 | 5 | indefinite, somehow, in some way
 quia | 1 | because
 quia | 3 | quianam or quia nam, why, wherefore, poetic and archaic
-quia | 4 | post-classical, introducing an object clause, equivalent to quod, that
+quia | 4 | in later Latin, introducing an object clause, equivalent to quod, that
 quicumque | 1 | whoever
 quicumque | 3 | in particular, for qualiscumque, of whatever kind or nature
 quicumque | 4 | transferred, each or every possible: quocumque modo, in every possible way
@@ -425,7 +425,7 @@ quondam | 1 | once
 quondam | 3 | at times, occasionally, sometimes
 quondam | 4 | of the future, poetic, one day, some day
 quoniam | 1 | since
-quoniam | 3 | post-classical, introducing an object clause, that
+quoniam | 3 | in later Latin, introducing an object clause, that
 quoquam | 1 | anywhere
 quoquam | 3 | equivalent to in aliquam rem, in anything, in any respect
 quoque1 | 1 | also

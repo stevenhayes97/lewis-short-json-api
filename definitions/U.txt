@@ -115,7 +115,7 @@ uniformis | 1 | uniform
 unigena | 1 | only-begotten
 unigena | 3 | poetic, born of the same parent, a sibling
 unio2 | 1 | pearl
-unio2 | 3 | late and ecclesiastical Latin, oneness, unity, union
+unio2 | 3 | in later and Christian Latin, oneness, unity, union
 unio2 | 4 | a kind of single onion
 unitas | 1 | unity
 unitas | 3 | figuratively, agreement, concord, of sentiment

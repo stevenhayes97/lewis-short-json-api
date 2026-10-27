@@ -43,7 +43,7 @@ habitus2 | 1 | condition
 habitus2 | 2 | attire
 habitus2 | 3 | the state, plight, or appearance of the body
 habitus2 | 4 | dress, attire, costume, Augustan and later
-habitus2 | 5 | trop., quality, nature, character
+habitus2 | 5 | figuratively, quality, nature, character
 habitus2 | 6 | a disposition of feeling, friendly or hostile, toward someone
 habitus2 | 7 | in philosophy, an acquired settled condition or trait
 hactenus | 1 | so far
@@ -103,11 +103,11 @@ hariolor | 3 | transferred, bad sense, to talk nonsense, babble foolishly, early
 hariolus | 1 | soothsayer
 harundo | 1 | reed
 harundo | 3 | a cane or reed plant
-harundo | 4 | meton., a fishing rod
-harundo | 5 | meton., an arrow, or the shaft of an arrow
-harundo | 6 | meton., a reed pen, for writing
-harundo | 7 | meton., a shepherd's pipe, a set of pan-pipes
-harundo | 8 | meton., other things made of reed: a bird-lime twig, a measuring-rod, a rod for beating, a child's hobbyhorse
+harundo | 4 | by extension, a fishing rod
+harundo | 5 | by extension, an arrow, or the shaft of an arrow
+harundo | 6 | by extension, a reed pen, for writing
+harundo | 7 | by extension, a shepherd's pipe, a set of pan-pipes
+harundo | 8 | by extension, other things made of reed: a bird-lime twig, a measuring-rod, a rod for beating, a child's hobbyhorse
 haruspex | 1 | haruspex
 haruspex | 3 | poetic, a prophet or seer in general
 haruspicinus | 1 | of divination
@@ -143,7 +143,7 @@ hebes | 1 | blunt
 hebes | 2 | stupid
 hebes | 3 | not sharp or pointed, blunt
 hebes | 4 | of the senses, dull, dim, faint
-hebes | 5 | trop., dull-witted, obtuse, sluggish, stupid
+hebes | 5 | figuratively, dull-witted, obtuse, sluggish, stupid
 hebesco | 1 | dull
 hebesco | 3 | to become blunt, dim, or faint, of the senses or edges
 hebesco | 4 | figurative, of the mind, to grow dull or feeble
@@ -165,7 +165,7 @@ herba | 4 | transferred, a weed, a useless plant
 herbidus | 1 | grassy
 herbidus | 3 | grass-coloured, green like grass
 herbosus | 1 | grassy
-herbosus | 3 | grass-coloured, grass-green, post-classical
+herbosus | 3 | in later Latin, grass-coloured, grass-green
 hercisco | 1 | partition
 hercisco | 3 | to divide an inheritance among heirs
 hercisco | 4 | transferred, to dispute about a course or way to take
@@ -179,7 +179,7 @@ hereditas | 5 | figurative, a legacy, something handed down: hereditas gloriae, 
 heredium | 1 | homestead
 heredium | 3 | a small hereditary landholding, originally a fixed allotment of two jugera
 heres | 1 | heir
-heres | 3 | transferred, ante-classical, an owner, possessor, master
+heres | 3 | transferred, in early Latin, an owner, possessor, master
 heres | 4 | poetic, a successor, a new growth replacing what was cut away
 heres | 5 | figurative, a successor or inheritor of something abstract: heres laudis, an heir to someone's glory
 heri | 1 | yesterday
@@ -210,12 +210,12 @@ hic | 4 | hoc est, that is to say, namely, introducing an explanation
 hic | 5 | of time, now, at this point, hereupon
 hic | 6 | adverbial hic, locative, in this place, here; hac, this way, on this side
 hiemalis | 1 | wintry
-hiemalis | 3 | as a noun, hiemalia, winter-quarters, rare, post-classical
+hiemalis | 3 | rarely, in later Latin, as a noun, hiemalia, winter-quarters
 hiemo | 1 | winter
 hiemo | 3 | military, to be in winter quarters
 hiemo | 4 | of weather, to be stormy, wintry, cold
 hiemo | 5 | impersonal, hiemat, it is wintry, cold weather
-hiemo | 6 | active, to freeze, turn to ice, post-Augustan
+hiemo | 6 | after Augustus, active, to freeze, turn to ice
 hiems | 1 | winter
 hiems | 2 | storm
 hiems | 3 | the winter season, wintertime
@@ -233,7 +233,7 @@ hinc | 1 | from here
 hinc | 2 | hence
 hinc | 3 | of space, from this place, away from here
 hinc | 4 | of cause, from this source, on this account, hence
-hinc | 5 | of time, from this time on, hereafter, post-Augustan
+hinc | 5 | after Augustus, of time, from this time on, hereafter
 hinc | 6 | for abhinc, ago, since: hinc ducentos annos, two hundred years ago
 hinnio | 1 | neigh
 hinnulus | 1 | young mule
@@ -344,12 +344,12 @@ horribilis | 3 | causing fear or dread, horrible, dreadful
 horribilis | 4 | colloquial, in a good sense, astonishing, tremendous
 horridulus | 1 | rough
 horridulus | 3 | standing up, projecting, protuberant
-horridulus | 4 | trop., of style, rude, unpolished, simple, unadorned
+horridulus | 4 | figuratively, of style, rude, unpolished, simple, unadorned
 horridus | 1 | bristling
 horridus | 2 | uncouth
 horridus | 3 | standing on end, rough, shaggy, prickly, literal
 horridus | 4 | transferred, rough, rude, wild, savage; with dishevelled hair
-horridus | 5 | trop., of character or manners, blunt, stern, unpolished
+horridus | 5 | figuratively, of character or manners, blunt, stern, unpolished
 horridus | 6 | rare, poetic, terrible, frightful, horrid, equal to horribilis
 horrifer | 1 | terrifying
 horrifico | 1 | terrify
@@ -371,9 +371,9 @@ hortor | 1 | urge
 hortor | 3 | to incite, instigate, encourage someone to do something
 hortor | 4 | military, to exhort soldiers before battle
 hortulanus | 1 | gardener
-hortulanus | 3 | as an adjective, of or belonging to a garden, post-classical
+hortulanus | 3 | in later Latin, as an adjective, of or belonging to a garden
 hortulus | 1 | little garden
-hortulus | 3 | trop., a school of philosophy or its teachings, referring to Epicurus's Garden
+hortulus | 3 | figuratively, a school of philosophy or its teachings, referring to Epicurus's Garden
 hortus | 1 | garden
 hortus | 3 | transferred, a country estate, a villa
 hortus | 4 | transferred, garden produce, vegetables, greens
@@ -439,7 +439,7 @@ humilitas | 2 | humility
 humilitas | 3 | physical lowness, shortness, low height
 humilitas | 4 | of rank or birth, lowness, meanness, insignificance
 humilitas | 5 | littleness of mind, meanness, baseness
-humilitas | 6 | ecclesiastical, in a good sense, humility, opposed to pride
+humilitas | 6 | in Christian Latin, in a good sense, humility, opposed to pride
 humo | 1 | bury
 humo | 3 | transferred, to perform funeral rites for someone
 humus | 1 | ground
