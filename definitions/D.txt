@@ -527,7 +527,7 @@ denarius | 1 | denarius
 denarius | 3 | a Roman silver coin, originally worth ten asses
 denarius | 4 | as an adjective, containing ten
 denarro | 1 | recount
-dendrophorus | 1 | branch-bearer
+dendrophorus | 1 | branch bearer
 dendrophorus | 3 | a member of a guild that carried branches in religious processions
 dendrophorus | 4 | in later Latin, a woodworker
 denego | 1 | refuse

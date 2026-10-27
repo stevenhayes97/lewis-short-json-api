@@ -11,7 +11,7 @@ ab | 8 | of origin or descent, coming from, of: Turnus ab Aricia, Turnus of Aric
 ab | 9 | after verbs of freeing, defending or guarding: liberare a metu, to free from fear
 ab | 10 | in compounds, away or off: abducere, to lead away; abicere, to throw down; abuti, to use up
 abacus | 1 | sideboard
-abacus | 2 | counting-board
+abacus | 2 | counting board
 abacus | 3 | a display table, often of marble or precious metal, for showing off gold and silver plate
 abacus | 4 | a counting table spread with sand or dust, used for doing sums
 abacus | 5 | a gaming board divided into squares, for dice or counters
@@ -1161,7 +1161,7 @@ aeger | 5 | of the state, weak and failing, in a bad way
 aeger | 6 | as a noun, a sick person, a patient
 aeger | 7 | the adverb aegre: with difficulty, hardly, scarcely
 aeger | 8 | aegre ferre, to take a thing badly, to be put out by it
-aegilops | 1 | eye-tumour
+aegilops | 1 | eye tumour
 aegilops | 3 | a swelling or fistula in the inner corner of the eye
 aegilops | 4 | a kind of oak with edible acorns
 aegilops | 5 | a weed growing among barley, wild oats
@@ -1700,7 +1700,7 @@ ala | 4 | in a person the armpit, in an animal the hollow of the shoulder
 ala | 5 | in a plant, the fork where a branch leaves the stem
 ala | 6 | in a house, the side rooms or wings off the main hall
 ala | 7 | in an army, the wing, made up chiefly of cavalry and allied troops
-alabaster | 1 | perfume-box
+alabaster | 1 | perfume box
 alabaster | 3 | a slender box or flask for perfumed ointment, pointed at the top: alabaster plenus unguenti, a box full of ointment
 alabaster | 4 | the pointed shape of a rosebud
 alabastrites | 1 | alabaster
@@ -2816,7 +2816,7 @@ apex | 5 | any cap or helmet, and of a king a crown; of a bird, its crest
 apex | 6 | the crowning honour or highest ornament of something: apex est senectutis auctoritas, the crown of old age is the weight it carries
 apex | 7 | in grammar, the long mark written over a vowel
 apex | 8 | the smallest stroke of a letter, and so the least detail of a thing
-aphractus | 1 | open-ship
+aphractus | 1 | open galley
 aphractus | 3 | a long ship without a deck, an open galley
 apiarius | 1 | of bees
 apiarius | 3 | as a noun, apiarius, a bee-keeper

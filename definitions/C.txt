@@ -716,7 +716,7 @@ capitulum1 | 5 | of plants, a small head or bulb
 capitulum1 | 6 | in architecture, the capital of a column
 capitulum1 | 7 | the crossbeam of a siege engine
 capitulum1 | 8 | in late Latin a chapter or section of a writing, and a clause of a law
-capnias | 1 | smoky-stone
+capnias | 1 | smoky stone
 capnias | 3 | a smoky-coloured precious stone, a kind of jasper or topaz
 capnias | 4 | a kind of wine
 capra | 1 | she-goat
@@ -1163,7 +1163,7 @@ causticus | 3 | burning, corrosive: spuma caustica, a soap the Germans used to d
 cautela | 1 | caution
 cautela | 3 | care or precaution, and mostly a late word: cum cura aut cautela, with care and caution
 cautela | 4 | in the lawyers, the same as cautio, a security or guarantee
-cauterium | 1 | branding-iron
+cauterium | 1 | branding iron
 cauterium | 3 | a hot iron for branding; in medicine, a cautery
 cauterium | 4 | a tool for burning in the wax in encaustic painting
 cautes | 1 | crag
@@ -1415,7 +1415,7 @@ cerarius | 1 | of wax
 cerarius | 3 | having to do with wax, and found only as a noun
 cerarius | 4 | as a masculine noun cerarius, a wax dealer, or a clerk who writes on wax tablets
 cerarius | 5 | as a neuter noun cerarium, a fee for wax, or perhaps for affixing a seal
-cerastes | 1 | horned-viper
+cerastes | 1 | horned viper
 cerastes | 3 | a horned snake; in poetry, one of the snakes in the Furies' hair
 cerastes | 4 | a horned grub that damages trees
 cerasus1 | 1 | cherry tree
@@ -1568,7 +1568,7 @@ chirographum | 4 | something written in one's own hand, a signed note or assuran
 chirographum | 5 | in law, a written promise to pay, a bond signed by the debtor
 chlamys | 1 | cloak
 chlamys | 3 | a broad Greek woollen cloak, often purple and gold, worn especially by military men
-choragium | 1 | stage-props
+choragium | 1 | stage props
 choragium | 3 | the equipment of a chorus or a play, scenery and costumes
 choragium | 4 | any splendid equipment or display: choragium nuptiarum, the trappings of a wedding
 choragium | 5 | the room where the chorus rehearsed
@@ -1690,7 +1690,7 @@ cinis | 3 | ashes, where favilla is usually the light dust of ash, or ash that s
 cinis | 4 | the ashes of a burnt corpse, common in both numbers: cineri atque ossibus, to a man's ashes and bones
 cinis | 5 | the ruins of a city burnt to the ground: cineres patriae, the ashes of one's country
 cinis | 6 | figuratively a token of ruin: in fumum et cinerem vertere, to turn a thing to smoke and ashes, that is to squander it
-cinnabaris | 1 | dragon's-blood
+cinnabaris | 1 | dragon's blood
 cinnabaris | 3 | a red pigment from the resin of the dragon's-blood tree; sometimes wrongly used of vermilion
 cinnamomum | 1 | cinnamon
 cinnamomum | 3 | in poetry, cinnamon twigs, cinnama, used in spices and on pyres
@@ -2022,7 +2022,7 @@ citer | 7 | from it comes citra, on this side, used both as adverb and as prepos
 cithara | 1 | lyre
 cithara | 3 | the cithara, a large stringed instrument like a lyre, especially in the poets
 cithara | 4 | the music of the cithara, the art of playing it
-citharista | 1 | lyre-player
+citharista | 1 | lyre player
 citharista | 3 | one who plays the cithara without singing
 citharoedus | 1 | singer
 citharoedus | 3 | one who sings and accompanies himself on the cithara: non omnes qui habent citharam sunt citharoedi, not all who own a lyre can play it
@@ -2592,7 +2592,7 @@ collustro | 3 | omnia oculis collustrare, to survey everything with one's eyes, 
 colluvio | 1 | filth
 colluvio | 2 | rabble
 colluvio | 3 | figuratively, a degraded mixture or medley of people: colluvio omnium scelerum, a cesspool of every crime
-collyrium | 1 | eye-salve
+collyrium | 1 | eye salve
 collyrium | 3 | a liquid salve for the eyes
 collyrium | 4 | in medicine, a suppository or pessary
 colo1 | 1 | cultivate
@@ -3380,7 +3380,7 @@ conjuro | 1 | conspire
 conjuro | 3 | in poetry, of things, to be united or joined, as if by oath
 connascor | 1 | originate
 connascor | 3 | to be born at the same time as, to be innate in
-conopeum | 1 | mosquito-net
+conopeum | 1 | mosquito net
 conopeum | 3 | a canopy of fine gauze round a bed against gnats
 conor | 1 | try
 conquasso | 1 | shake
@@ -4056,7 +4056,7 @@ crassus1 | 2 | dull
 crassus1 | 3 | crassa Minerva, with rough native wit, without refinement
 crastinus1 | 1 | tomorrow's
 crastinus1 | 3 | in crastinum, for tomorrow, on the morrow
-cratera | 1 | mixing-bowl
+cratera | 1 | mixing bowl
 cratera | 3 | a large bowl in which wine was mixed with water
 cratera | 4 | the mouth of a volcano, a crater
 cratera | 5 | a basin; a vessel for oil or water

@@ -39,7 +39,7 @@ ecclesia | 6 | in classical Latin, the assembly of the people in a Greek city: b
 ecclesia | 7 | in later Latin, any assembly or meeting
 echidna | 1 | viper
 echidna | 3 | in poetry, a viper or adder, such as the Furies twined in their hair
-echinus1 | 1 | sea-urchin
+echinus1 | 1 | sea urchin
 echinus1 | 2 | hedgehog
 echinus1 | 3 | the edible sea urchin, a delicacy
 echinus1 | 4 | a copper bowl for rinsing cups
@@ -525,7 +525,7 @@ ephebus | 1 | youth
 ephebus | 3 | a Greek youth between eighteen and twenty, in military and athletic training
 ephemeris | 1 | diary
 ephemeris | 3 | a daybook, a journal of each day's business or events
-ephippium | 1 | saddle-cloth
+ephippium | 1 | saddle cloth
 ephippium | 3 | a horse-cloth or saddle: optat ephippia bos piger, the lazy ox longs for a saddle, everyone wants another's lot
 epigramma | 1 | epigram
 epigramma | 2 | inscription
@@ -699,7 +699,7 @@ etiamsi | 1 | although
 etiamtum | 1 | still
 etsi | 1 | although
 etsi | 3 | by extension, and yet, however (restricting a previous statement)
-eu | 1 | well-done
+eu | 1 | well done
 eu | 3 | an exclamation of approval: well done!, good!: eu hercle!, good, by Hercules!
 euge | 1 | bravo
 euge | 3 | an exclamation of approval, frequent in comedy: well done!, splendid!
@@ -707,7 +707,7 @@ euge | 4 | ironically, excellent!, wonderful!
 euripus | 1 | strait
 euripus | 3 | by extension, a canal, a conduit, an aqueduct
 euripus | 4 | in particular, the trench around the Roman circus
-eurus | 1 | east-wind
+eurus | 1 | east wind
 eurus | 3 | the south-east wind; in poetry, the east wind
 eurus | 4 | in poetry, the east; or any wind
 evacuo | 1 | empty
@@ -1132,7 +1132,7 @@ exossis | 1 | boneless
 exossis | 3 | by extension, supple, limber, pliant
 exossis | 4 | by extension, of style, loose, slack, negligent
 exosso | 1 | debone
-exostra | 1 | stage-machine
+exostra | 1 | stage machine
 exostra | 3 | a theatre machine that wheeled out the hidden part of the stage; in exostra, in full public view
 exostra | 4 | a bridge thrown from a siege tower onto the walls
 exosus | 1 | detesting
