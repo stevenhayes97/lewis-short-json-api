@@ -690,6 +690,8 @@ capio1 | 7 | of places, to occupy, storm, or simply reach: castris locum capere,
 capio1 | 8 | of money and property, to receive or get, and in a bad sense to take a bribe: pecuniam capere, to take money corruptly; hereditatem capere, to come into an inheritance
 capio1 | 9 | of plans, profits, occasions and feelings, to conceive or take up: conjecturam capere, to draw an inference; fructum capere, to reap the profit; occasionem capere, to seize the chance; laborem capere, to take trouble
 capio1 | 10 | to hold or have room for: aedes nostrae vix capient, our house will barely hold them
+capis | 1 | bowl
+capis | 3 | a bowl with one handle, used especially in sacrifices
 capistrum | 1 | halter
 capistrum | 3 | a halter, or a leather muzzle for animals
 capistrum | 4 | figuratively: maritale capistrum, the halter of matrimony
@@ -714,6 +716,9 @@ capitulum1 | 5 | of plants, a small head or bulb
 capitulum1 | 6 | in architecture, the capital of a column
 capitulum1 | 7 | the crossbeam of a siege engine
 capitulum1 | 8 | in late Latin a chapter or section of a writing, and a clause of a law
+capnias | 1 | smoky-stone
+capnias | 3 | a smoky-coloured precious stone, a kind of jasper or topaz
+capnias | 4 | a kind of wine
 capra | 1 | she-goat
 capra | 3 | the female goat: capra fera, a wild she-goat, that is a roe
 capra | 4 | as a nickname for a man with bristly hair
@@ -799,6 +804,11 @@ caput | 10 | in writings, a section or chapter: a primo capite legis, from the f
 carbaseus | 1 | of linen
 carbaseus | 3 | made of carbasus, a fine linen: carbasea vela, sails of fine linen; carbaseus sinus, a linen awning
 carbaseus | 4 | as a neuter noun carbasinum, a linen garment
+carbasus | 1 | linen
+carbasus | 2 | sail
+carbasus | 3 | fine flax, and the fine linen woven from it
+carbasus | 4 | a linen garment; a linen awning or curtain
+carbasus | 5 | in poetry, a sail, canvas: carbasa ventis dare, to spread sail to the winds
 carbo1 | 1 | coal
 carbo1 | 3 | a coal or charcoal, whether dead or still glowing
 carbo1 | 4 | from its blackness, of marking: carbone notare, to mark with charcoal, that is to set down as bad, against creta for good
@@ -823,6 +833,11 @@ carcer | 6 | figuratively of the body as the soul's prison
 carcer | 7 | for the prisoners themselves, and as abuse, gaolbird
 carcer | 8 | usually plural carceres, the starting stalls of a racecourse, against the meta or calx at the far end
 carcer | 9 | so figuratively the start of anything: ad carceres a calce revocari, to be called back from the finish to the starting gate, that is to begin life over
+carchesium | 1 | goblet
+carchesium | 3 | a Greek drinking cup, narrow in the middle, with handles from rim to foot
+carchesium | 4 | the masthead, the cup-shaped top of a mast
+cardiacus | 1 | cardiac
+cardiacus | 3 | of the heart or stomach: morbus cardiacus, heartburn; as a noun, one who suffers from it
 cardinalis | 1 | chief
 cardinalis | 3 | belonging to a hinge: scapi cardinales, the hinge posts of a door
 cardinalis | 4 | figuratively, that on which a thing turns, and so principal: venti cardinales, the cardinal winds; virtutes cardinales, the cardinal virtues
@@ -917,6 +932,8 @@ carus1 | 3 | dear and precious, held in esteem, the opposite of vilis and contem
 carus1 | 4 | costly, at a high price: cara omnia, everything dear; agnina cara, lamb fetching a high price
 carus1 | 5 | actively in the poets, loving or affectionate
 carus1 | 6 | as an adverb care, dearly: care venire, to be sold dear; carius aestimare, to value more highly
+caryota | 1 | date
+caryota | 3 | a nut-shaped date, sent as a present at the Saturnalia and New Year
 casa | 1 | hut
 casa | 3 | any plain or poorly built house, a cottage, cabin or shed
 casa | 4 | casa Romuli, the thatched cottage of Romulus on the Capitol, kept as a relic
@@ -926,6 +943,9 @@ cascus | 1 | old
 cascus | 3 | ancient, a Sabine word which Ennius uses of the earliest Latins: prisci casci populi Latini, the old Latin peoples of long ago
 caseus | 1 | cheese
 caseus | 3 | cheese: caseum facere, to make cheese; caseum premere, to press cheese
+casia | 1 | cassia
+casia | 3 | a tree with fragrant bark like cinnamon, wild cinnamon
+casia | 4 | in poetry, a sweet-smelling shrub, daphne
 casses | 1 | hunting-net
 casses | 3 | nets or toils for hunting, a poetic word where prose has plaga or retia
 casses | 4 | a spider's web
@@ -933,12 +953,16 @@ casses | 5 | figuratively snares or plots: casses tendere alicui, to spread nets
 cassis1 | 1 | helmet
 cassis1 | 3 | a helmet, usually of metal, where galea was of leather, though the two words are often used loosely for each other
 cassis1 | 4 | by transfer war itself: aetas patiens cassidis, an age fit to bear the helmet
+cassiterum | 1 | tin
+cassiterum | 3 | an alloy of lead and other metals, and later tin itself
 cassus | 1 | empty
 cassus | 2 | vain
 cassus | 3 | hollow or empty: cassa nux, an empty nut
 cassus | 4 | with an ablative, devoid of a thing: cassus lumine, without light, and so dead; virgo dote cassa, a girl with no dowry
 cassus | 5 | figuratively fruitless or useless: cassa vota, prayers that came to nothing
 cassus | 6 | in cassum, to no purpose, in vain
+castanea | 1 | chestnut
+castanea | 3 | the chestnut tree, or its nut: castaneae nuces, chestnuts
 castellum | 1 | fort
 castellum | 3 | a fortified post, a castle or stronghold, the diminutive of castrum
 castellum | 4 | in engineering, the reservoir where an aqueduct's water is gathered before being piped away
@@ -1007,6 +1031,8 @@ casus1 | 7 | whatever happens unlooked for, an event or accident: fors, fortuna,
 casus1 | 8 | an opportunity or occasion: mortis durae casus, the chance of a hard death
 casus1 | 9 | above all a misfortune or disaster, and by a softer usage death itself: casum civitatis dolere, to grieve at the calamity of the state
 casus1 | 10 | in grammar, a case in the inflection of a word
+cataphractus | 1 | armoured
+cataphractus | 3 | clad in mail, of soldiers and their horses; cataphracti, heavy armoured cavalry
 catellus1 | 1 | puppy
 catellus1 | 3 | a little dog, the diminutive of catulus
 catellus1 | 4 | used as a term of endearment: mi catella, my little pet
