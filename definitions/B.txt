@@ -127,6 +127,19 @@ bardus | 4 | of work rather than of people, lifeless or clumsy: pictor bardior, 
 bardus | 5 | a separate word bardus, a Gallic poet who sings the praises of brave men, a bard
 baro | 1 | blockhead
 baro | 3 | a dolt or simpleton, too dull to follow what is said: nos barones stupemus, we dunces sit gaping
+basilicus | 1 | royal
+basilicus | 2 | basilica
+basilicus | 3 | basilica as a noun, a public hall in the forum with colonnades, used for law courts and business
+basilicus | 4 | in early Latin, kingly, princely, splendid: basilice exornatus, dressed like a prince
+basilicus | 5 | basilicus as a noun, the king's throw, the best throw at dice
+basiliscus | 1 | basilisk
+basiliscus | 3 | a kind of serpent or lizard whose look was said to kill
+basis | 1 | pedestal
+basis | 2 | base
+basis | 3 | the pedestal of a statue: in basi statuarum, on the pedestals of the statues
+basis | 4 | in mathematics, the base of a triangle
+basis | 5 | the lowest part of a column, the base of its shaft
+basis | 6 | figuratively, a foundation, a support
 basium | 1 | kiss
 basium | 3 | a kiss, mostly poetic and a favourite word of Catullus: da mi basia mille, give me a thousand kisses
 basium | 4 | a kiss blown from the hand: basia jactare, to throw kisses
@@ -137,6 +150,8 @@ battuo | 1 | beat
 battuo | 3 | to strike or hit, a rare and colloquial word
 battuo | 4 | of preparing food, to bruise in a mortar or pound meat before cooking
 battuo | 5 | of fencing, to fight with weapons: battuere pugnatoriis armis, to fence with real weapons rather than foils
+bdellium | 1 | bdellium
+bdellium | 3 | a fragrant gum from an Asian tree, and the tree itself
 beatitas | 1 | happiness
 beatitas | 3 | the state of being beatus, a blessed and prosperous life; one of two words Cicero coined for it beside beatitudo, and he called both harsh
 beatitudo | 1 | happiness
@@ -274,6 +289,8 @@ beo | 7 | beatus also of outward prosperity, well off or wealthy
 beo | 8 | of things, rich or splendid: beatae gazae, magnificent treasures
 beo | 9 | in later Latin blessed in the sense of dead: beatae memoriae, of blessed memory
 beo | 10 | as an adverb beate, happily: beate vivere, to live a happy life
+beryllus | 1 | beryl
+beryllus | 3 | a sea-green precious stone from India; a ring set with one
 bes | 1 | two-thirds
 bes | 3 | two thirds of the as, that is eight of its twelve unciae
 bes | 4 | as a rate of interest, two thirds of one per cent a month, so eight per cent a year
@@ -297,6 +314,8 @@ betaceus | 4 | as a masculine noun betaceus, a beetroot
 beto | 1 | go
 beto | 3 | to go, an old word found only before the classical period, also spelt baeto or bito: ad portum ne bitas, do not go to the harbour
 beto | 4 | it survives chiefly in its compounds, abito, ebito, perbito and the rest
+bibliotheca | 1 | library
+bibliotheca | 3 | a library, both a room for books and a collection of books
 bibo1 | 1 | drink
 bibo1 | 3 | to drink, properly from thirst, where poto is drinking for pleasure or habit: aquam bibere, to drink water
 bibo1 | 4 | with the cup or measure as object: quot cyathos bibimus, how many measures have we drunk
@@ -481,6 +500,8 @@ bivius | 1 | two-way
 bivius | 3 | having two ways in or out: biviae fauces, a pass open at either end
 bivius | 4 | as a neuter noun bivium, a place where two roads meet: ad bivia consistere, to halt where the roads divide
 bivius | 5 | figuratively a twofold road: bivium ad culturam, two paths to cultivation, practice and imitation
+blaesus1 | 1 | lisping
+blaesus1 | 3 | speaking indistinctly, stammering; of a parrot, babbling
 blandimentum | 1 | blandishment
 blandimentum | 3 | flattering words and coaxing talk, usually in the plural: blandimentis capi, to be won over by flattery
 blandimentum | 4 | concessions made to win people round: blandimenta plebi dare, to offer the commons sweeteners
@@ -533,6 +554,14 @@ boarius | 4 | forum boarium, the cattle market at Rome, beside the Circus Maximu
 boiae | 1 | collar
 boiae | 3 | a collar for the neck, at first of leather, which is where the name comes from, and later of wood or iron
 boiae | 4 | used on prisoners and slaves: attrita boiis colla, necks chafed by the collar
+boletus | 1 | mushroom
+boletus | 3 | the finest kind of mushroom, much prized by the Romans; Claudius was said to have been poisoned with one
+bolus | 1 | throw
+bolus | 2 | haul
+bolus | 3 | a throw of the dice; a cast of the net and the catch it brings in
+bolus | 4 | in early Latin, figuratively, a profit, a windfall, a tasty morsel: bolum eripere e faucibus, to snatch the morsel from someone's jaws
+bombus | 1 | boom
+bombus | 3 | a deep hollow sound, a humming or buzzing, as of bees, a horn or applause
 bombycinus | 1 | silken
 bombycinus | 3 | made of silk: bombycina vestis, a silk dress
 bombycinus | 4 | as a neuter plural noun bombycina, silk clothes
