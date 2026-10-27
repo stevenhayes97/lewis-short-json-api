@@ -811,6 +811,11 @@ ostiatim | 3 | from house to house, visiting each one in turn
 ostium | 1 | door
 ostium | 2 | mouth
 ostium | 3 | ostium fluminis, the mouth of a river (a common geographic use)
+ostrea | 1 | oyster
+ostrea | 3 | an oyster or other shellfish
+ostrum | 1 | purple
+ostrum | 3 | the purple dye from the murex shellfish
+ostrum | 4 | purple cloth, a purple robe or coverlet: strato super discumbitur ostro, they recline on purple coverlets
 otiosus | 1 | idle
 otiosus | 2 | calm
 otiosus | 3 | as a noun, a private citizen, someone not holding public office
@@ -827,3 +832,5 @@ ovo | 1 | exult
 ovo | 3 | celebrate an ovation, triumph in the lesser triumphal procession (see ovatio)
 ovum | 1 | egg
 ovum | 2 | oval
+oxymorus | 1 | paradoxical
+oxymorus | 3 | oxymora verba, phrases that seem absurd but hide a point, as cum tacent clamant, their silence is a shout
