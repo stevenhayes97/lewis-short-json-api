@@ -4056,6 +4056,11 @@ crassus1 | 2 | dull
 crassus1 | 3 | crassa Minerva, with rough native wit, without refinement
 crastinus1 | 1 | tomorrow's
 crastinus1 | 3 | in crastinum, for tomorrow, on the morrow
+cratera | 1 | mixing-bowl
+cratera | 3 | a large bowl in which wine was mixed with water
+cratera | 4 | the mouth of a volcano, a crater
+cratera | 5 | a basin; a vessel for oil or water
+cratera | 6 | the constellation of the Bowl
 cratis | 1 | hurdle
 cratis | 2 | harrow
 cratis | 3 | in the army, fascines, bundled sticks for siegeworks
@@ -4086,6 +4091,8 @@ creo1 | 2 | elect
 creo1 | 3 | figuratively, to cause or occasion, as trouble or delay
 creper | 1 | uncertain
 creper | 3 | literally, dark or dusky
+crepida | 1 | sandal
+crepida | 3 | a Greek sandal, worn by Romans who affected Greek ways
 crepido | 1 | pedestal
 crepido | 2 | embankment
 crepido | 3 | figuratively, a support or basis, as for an argument
@@ -4132,8 +4139,17 @@ crispus1 | 3 | trembling or quivering
 crista1 | 1 | crest
 crista1 | 3 | the plume of a helmet
 cristatus | 1 | crested
+criticus | 1 | critic
+criticus | 3 | a literary critic, a judge of writing
+criticus | 4 | in medicine, decisive, critical: accessio critica, the critical onset of a fever
 croceus | 1 | saffron
 croceus | 3 | by extension, golden or yellow in colour
+crocinus | 1 | saffron
+crocinus | 3 | of saffron, saffron-yellow: tunica crocina, a saffron tunic
+crocinus | 4 | crocinum as a noun, saffron oil
+crocum | 1 | saffron
+crocum | 3 | the saffron crocus and the spice and dye made from it, used in food, medicine and perfume
+crocum | 4 | saffron colour, yellow: picta croco vestis, a robe dyed with saffron
 cruciabilis | 1 | excruciating
 cruciabilis | 3 | capable of being tortured
 cruciarius | 1 | of torture
@@ -4172,6 +4188,14 @@ crusto | 1 | incrust
 crux | 1 | cross
 crux | 2 | torment
 crux | 3 | in jest, a gallows-bird, a rascal
+crypta | 1 | vault
+crypta | 3 | an underground passage or vault, a covered gallery
+crypta | 4 | crypta Neapolitana, the tunnel between Naples and Puteoli
+crystallinus | 1 | crystal
+crystallinus | 3 | made of crystal: calices crystallini, crystal cups; crystallina, crystal vases
+crystallum | 1 | crystal
+crystallum | 3 | rock crystal; and a crystal cup or vase
+crystallum | 4 | anything clear like crystal; in poetry, ice
 # review: cubicularius "of a bedroom" needs the article to be accurate; no shorter English phrasing fits
 cubicularius | 1 | of a bedroom
 cubicularius | 3 | as a noun, a chamber-servant or valet
@@ -4209,6 +4233,11 @@ culcita | 1 | cushion
 culex1 | 1 | gnat
 culina | 1 | kitchen
 culina | 3 | by extension, food or fare
+culleus | 1 | sack
+culleus | 3 | a leather bag for liquids
+culleus | 4 | the sack in which parricides were sewn up and drowned
+culleus | 5 | a large liquid measure of twenty amphorae
+culleus | 6 | the scrotum
 culpa | 1 | fault
 culpa | 2 | negligence
 culpa | 3 | as a euphemism, an illicit love affair
@@ -4278,6 +4307,9 @@ cuppedia | 3 | in the plural, delicacies, fancy dishes
 cuppedium | 1 | tidbit
 cuppedo2 | 1 | delicacy
 cuppes | 1 | dainty
+cupressus | 1 | cypress
+cupressus | 3 | the cypress tree, sacred to the gods of the underworld and planted by graves
+cupressus | 4 | a box of cypress wood
 cur | 1 | why
 cura | 1 | care
 cura | 2 | anxiety
