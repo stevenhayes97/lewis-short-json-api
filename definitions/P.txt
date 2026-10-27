@@ -1187,9 +1187,28 @@ philologus | 3 | as a noun, a man of letters, a scholar of literature and histor
 philosophia | 1 | philosophy
 philosophia | 3 | philosophy, the pursuit of wisdom: studium sapientiae, the study of wisdom
 philosophia | 4 | a philosophical subject or discussion; in the plural, the schools of philosophy
+philosophicus | 1 | philosophical
 philosophor | 1 | philosophise
+philosophus | 1 | philosopher
+philosophus | 2 | philosophical
+philosophus | 3 | as a noun, a philosopher, a lover of wisdom
+philosophus | 4 | philosopha, a woman philosopher; in jest, of a villa, philosophically plain
+philyra1 | 1 | lime-tree
+philyra1 | 3 | the inner bark of the lime tree, used for binding garlands: nexae philyris coronae, garlands tied with bast
+philyra1 | 4 | a sheet of bark prepared for writing on
+phoca | 1 | seal
+phoca | 3 | a seal, a sea calf; in poetry, the seals herded by Proteus
 phoenix3 | 1 | phoenix
 phoenix3 | 3 | a fabulous bird said to live five hundred years and rise renewed from its own ashes
+phrenesis | 1 | frenzy
+phrenesis | 3 | madness, delirium
+phylacterium | 1 | amulet
+phylacterium | 3 | in Christian Latin, a phylactery, the slips of scripture worn by Jews on the forehead and arm
+physicus | 1 | physical
+physicus | 2 | naturalist
+physicus | 3 | of natural philosophy, of the nature of things: ratio physica, the scientific explanation
+physicus | 4 | as a noun, a natural philosopher: physicus Anaxagoras, the natural philosopher Anaxagoras
+physicus | 5 | physica, natural philosophy, physics
 piacularis | 1 | expiatory
 piacularis | 3 | of a sacrifice: offered to atone for sin or a bad omen
 piaculum | 1 | sin-offering
@@ -1274,6 +1293,8 @@ pilus1 | 3 | the slightest bit, a trifle (usually with a negative: not a whit)
 pilus2 | 1 | company
 pilus2 | 3 | primus pilus: the first company of the triarii (veteran legionaries)
 pilus2 | 4 | (as primipilus) the senior centurion of the legion
+pinacotheca | 1 | gallery
+pinacotheca | 3 | a picture gallery
 pineus | 1 | of pine
 pineus | 3 | as a noun, a pine-cone or pine-nut
 pingo | 1 | paint
@@ -1319,6 +1340,11 @@ piperatus | 3 | peppery, pungent (of style or wit)
 piperatus | 4 | sharp, thievish (of a person's touch)
 pipulum | 1 | outcry
 pipulum | 3 | a whimpering, crying (of children)
+pirata | 1 | pirate
+pirata | 3 | a sea robber: pirata est communis hostis omnium, a pirate is the common enemy of all
+piraticus | 1 | piratical
+piraticus | 3 | of pirates: bellum piraticum, the war against the pirates
+piraticus | 4 | piratica as a noun, piracy: piraticam facere, to practise piracy
 piscarius | 1 | of fish
 piscarius | 3 | as a noun, a fish-monger
 piscarius | 4 | as a noun, a fish-market
@@ -1340,6 +1366,12 @@ pistor | 3 | Jupiter Pistor: an epithet of Jupiter as protector in a siege
 pistrinum | 1 | mill
 pistrinum | 3 | bakery
 pistrinum | 4 | drudgery, wearisome toil
+pistris | 1 | sea monster
+pistris | 3 | in poetry, a sea monster, a whale or shark
+pistris | 4 | the constellation of the Whale; a kind of fast ship
+pittacium | 1 | label
+pittacium | 3 | a slip of parchment, a label on a wine jar
+pittacium | 4 | a small plaster; a patch on a garment
 pituita | 1 | phlegm
 pituita | 3 | (of trees) a viscous sap or resin that oozes out
 pius | 1 | dutiful
