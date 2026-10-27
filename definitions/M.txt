@@ -408,7 +408,7 @@ medullitus | 1 | thoroughly
 meio | 1 | urinate
 mel | 1 | honey
 mel | 3 | figuratively, sweetness, charm (of speech)
-melimela | 1 | honey-apples
+melimela | 1 | honey apples
 melimela | 3 | a sweet early apple, earlier called mustea mala
 melinus3 | 1 | quince
 melinus3 | 3 | melinum as a noun, oil or ointment of quinces; in early Latin, a quince-yellow garment
@@ -558,12 +558,25 @@ metior | 3 | in poetry, by extension, traverse (a distance)
 metior | 4 | figuratively, estimate, judge
 meto2 | 1 | reap
 meto2 | 3 | in particular, mow down, cut down (in battle)
+metoecus | 1 | resident alien
+metoecus | 3 | in later Latin, a foreigner living in a city without citizen rights
 metor | 1 | mark out
 metor | 3 | in particular, encamp, pitch camp
+metreta | 1 | metretes
+metreta | 3 | an Athenian liquid measure of about nine gallons
+metreta | 4 | a large jar for oil or wine
+metrum | 1 | metre
+metrum | 3 | a measure; in poetry, metre or a line of verse
 metuo | 1 | fear
 metuo | 3 | in Christian Latin, revere, hold in awe
 metus | 1 | fear
 metus | 3 | by extension, concretely, a terror (a thing that causes fear)
+meus | 1 | my
+meus | 2 | mine
+meus | 3 | my, belonging to me: domus mea, my house; mea sponte, of my own accord
+meus | 4 | as a term of affection: mi fili, my son; Lolli meus, my dear Lollius
+meus | 5 | mei, my family or friends; meum, my property: fundite quae mea sunt, throw overboard what is mine
+meus | 6 | meus est, he is in my power, I have him
 mica | 1 | crumb
 mica | 3 | by extension, a small dining-room
 mico | 1 | quiver
@@ -595,6 +608,16 @@ miluinus | 1 | of kites
 miluinus | 3 | by extension, rapacious, thieving
 miluus | 1 | kite
 miluus | 3 | by extension, gurnard (a fish)
+mimicus | 1 | farcical
+mimicus | 3 | of mimes, like a farce, extravagant: jocus mimicus, a farcical joke
+mimicus | 4 | feigned, pretended: mors mimica, a sham death
+mimus | 1 | mime
+mimus | 2 | farce
+mimus | 3 | an actor in mime, a mimic
+mimus | 4 | a mime, a coarse farce: mimum agere, to act a farce
+mimus | 5 | figuratively, a sham, a pretence: mimus vitae humanae, the farce of human life
+mina1 | 1 | mina
+mina1 | 3 | a Greek weight and a sum of money, a hundred drachmas: mina argenti, a mina of silver
 mina2 | 1 | smooth
 mina2 | 3 | as a noun, a dry breast (obscure gloss)
 minae | 1 | threats
@@ -671,6 +694,8 @@ missus2 | 3 | by extension, a heat, round (in public games)
 missus2 | 4 | by extension, a course (at a meal)
 mistura | 1 | mixture
 mistura | 3 | in particular, carnal intercourse
+misy | 1 | copperas
+misy | 3 | a mineral, perhaps a copper or iron ore; also a kind of truffle
 mitella | 1 | headband
 mitella | 3 | by extension, arm-bandage, sling
 mitesco | 1 | ripen
@@ -681,6 +706,8 @@ mitigo | 1 | soften
 mitigo | 3 | figuratively, appease, pacify
 mitis | 1 | mild
 mitis | 3 | figuratively, gentle, calm (of temperament or speech)
+mitra | 1 | turban
+mitra | 3 | an Eastern headband or turban, worn at Rome only by women or effeminate men
 mitto | 1 | send
 mitto | 2 | hurl
 mitto | 3 | especially, omit, pass over (in speaking)
@@ -774,6 +801,7 @@ monitum | 1 | advice
 monitum | 3 | prophecy, prediction
 monitus2 | 1 | warning
 monitus2 | 3 | in particular, omen, portent (divine warning)
+monochordos | 1 | one-stringed
 mons | 1 | mountain
 mons | 3 | by extension, heap, mass (of things)
 mons | 4 | in poetry, rock
