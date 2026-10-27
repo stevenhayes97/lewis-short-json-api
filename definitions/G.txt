@@ -612,7 +612,18 @@ gutta1 | 5 | figuratively, a little bit, a small amount
 guttur | 1 | throat
 guttur | 3 | by extension, gluttony
 gutus | 1 | cruet
+gymnasium1 | 1 | gymnasium
+gymnasium1 | 2 | school
+gymnasium1 | 3 | a Greek public building for athletic exercise
+gymnasium1 | 4 | a place where philosophers taught and debated, a school: gymnasia et philosophorum scholae, the gymnasia and schools of the philosophers
+gynaeceum | 1 | women's quarters
+gynaeceum | 3 | in a Greek house, the inner rooms where the women lived
+gynaeceum | 4 | in later Latin, the imperial weaving house, where women made garments for the emperor
 gypso | 1 | plaster
 gyro | 1 | circle
 gyro | 3 | to go around something
 gyro | 4 | intransitively, to turn around, revolve
+gyrus | 1 | circle
+gyrus | 3 | a circle, especially the ring in which a horse is trained: gyros variare, to wheel in circles
+gyrus | 4 | in poetry, a riding ring, a course
+gyrus | 5 | figuratively, a circuit or course: angustissimum habet dies gyrum, the day runs the shortest course
