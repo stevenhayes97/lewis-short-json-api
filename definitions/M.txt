@@ -11,6 +11,15 @@ maceria | 3 | rarely, affliction, distress (a pun on macer)
 macero | 1 | steep
 macero | 2 | torment
 macesco | 1 | grow lean
+machaera1 | 1 | sword
+machaera1 | 3 | in early and later Latin, a sword, a sabre
+machina | 1 | machine
+machina | 2 | scheme
+machina | 3 | any mechanical contrivance, a crane, hoist or windlass: machina apposita, by applying a machine
+machina | 4 | a siege engine: machinis oppidum expugnare, to storm a town with siege engines
+machina | 5 | a device, a plan; a trick or stratagem: machinas disturbare, to wreck someone's schemes
+machina | 6 | a frame or structure: machina mundi, the fabric of the world
+machina | 7 | a builder's scaffold; a painter's easel; a platform where slaves were sold
 machinamentum | 1 | machine
 machinamentum | 3 | figuratively, trick, stratagem
 machinarius | 1 | of machines
@@ -58,6 +67,10 @@ maestitudo | 1 | sadness
 maestus | 1 | sad
 maestus | 3 | by extension, gloomy, severe (of temperament)
 maestus | 4 | in general, mournful, funereal (of garments or rites)
+magicus | 1 | magic
+magicus | 3 | of magic and magicians, a word of poetry and later prose: magicae artes, the magic arts
+magis2 | 1 | platter
+magis2 | 3 | a dish or platter; in later Latin, a kneading trough
 magister | 1 | master
 magister | 2 | teacher
 magisterium | 1 | directorship
@@ -70,6 +83,8 @@ magistratus | 2 | magistrate
 magmentarius | 1 | supplementary
 magnanimitas | 1 | magnanimity
 magnanimus | 1 | magnanimous
+magnes1 | 1 | magnet
+magnes1 | 3 | the magnet, the lodestone, named from Magnesia: magnes lapis, the magnetic stone
 magnificentia | 1 | magnificence
 magnificentia | 3 | by extension, grandeur, splendour (of things)
 magnificentia | 4 | in rhetoric, in a bad sense, pomposity, bombast
@@ -97,6 +112,11 @@ majestas | 3 | by extension, in general, dignity, splendour
 majusculus | 1 | rather large
 mala | 1 | jawbone
 mala | 3 | by extension, cheek (the external part of the face)
+malacia | 1 | calm
+malacia | 3 | a dead calm at sea: tanta malacia exstitit, so great a calm set in
+malacia | 4 | loss of appetite, nausea
+malacus | 1 | soft
+malacus | 3 | in early Latin, soft, supple; delicate, effeminate: pallium malacum, a soft cloak
 maledico | 1 | revile
 maledico | 3 | in Christian Latin, curse
 maledictio | 1 | abuse
@@ -133,6 +153,13 @@ malleus | 1 | hammer
 malleus | 3 | by extension, glanders (a disease of animals)
 malo | 1 | prefer
 malo | 3 | in particular, favour (be more inclined towards someone)
+malobathron | 1 | malobathrum
+malobathron | 3 | an Indian plant, perhaps a kind of cinnamon, and the costly oil made from it
+maltha | 1 | tar
+maltha | 3 | a thick mineral pitch; a cement of lime and lard
+malum2 | 1 | apple
+malum2 | 3 | an apple, or any similar fruit, as a quince, pomegranate or peach
+malum2 | 4 | ab ovo usque ad mala, from the egg to the apples, from start to finish of a meal, from beginning to end
 malus1 | 1 | bad
 malus1 | 3 | ugly, ill-looking (of appearance)
 malus1 | 4 | as a noun, malum, harm, misfortune (an evil)
@@ -162,6 +189,9 @@ mando1 | 1 | commission
 mando1 | 2 | entrust
 mando2 | 1 | chew
 mando2 | 3 | by extension, devour
+mandra | 1 | pen
+mandra | 3 | in poetry, a stall or pen for animals; a string of pack animals
+mandra | 4 | the squares of a gaming board
 manduco1 | 1 | chew
 manducus | 1 | glutton
 manducus | 3 | by extension, a chewing-mask (a comic theatrical figure)
