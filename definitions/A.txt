@@ -2854,8 +2854,14 @@ apologus | 4 | in early Latin, a story, a tale
 # review: apophoreta English has no single word for presents a guest takes home
 apophoreta | 1 | take-home presents
 apophoreta | 3 | presents given to guests to carry home, especially at the Saturnalia; also the title of Martial's fourteenth book
+apostolicus | 1 | apostolic
+apostolicus | 3 | in Christian Latin, of or relating to an apostle: doctrina apostolica, the teaching of the apostles
+apostolicus | 4 | as a plural noun, the disciples and friends of the apostles
 apostolus | 1 | apostle
 apostolus | 3 | in law, a notice sent up to a higher court on appeal
+apotheca | 1 | storehouse
+apotheca | 3 | a store-room or warehouse where goods are put away
+apotheca | 4 | especially a store-room for wine, kept in the upper part of the house
 apparatus2 | 1 | preparation
 apparatus2 | 2 | equipment
 apparatus2 | 3 | the getting of something ready, the making of preparations for it
@@ -3170,9 +3176,22 @@ arcesso | 3 | to send for someone, to have them fetched: obstetricem arcesse, se
 arcesso | 4 | in law, to summon someone before a court, and so to accuse them (with the genitive of the charge): capitis arcessere, to charge with a capital crime
 arcesso | 5 | to fetch or derive something from a source: a capite arcessere, to fetch an argument from first principles
 arcesso | 6 | to bring something on oneself: somnum medicamentis arcessere, to court sleep with drugs
+archetypus | 1 | original
+archetypus | 3 | first made, not a copy: archetypae nugae, the author's own copies of his trifles
+archetypus | 4 | archetypum as a noun, an original, the first copy of something
 architector | 1 | build
 architector | 3 | to construct or lay out a building as an architect does
 architector | 4 | figuratively, to devise or contrive: voluptates architectari, to engineer one's pleasures
+architectus | 1 | architect
+architectus | 3 | a master-builder: Philo architectus, Philo the architect
+architectus | 4 | figuratively, the inventor or contriver of something: architectus sceleris, the mastermind of the crime
+arctos | 1 | Bear
+arctos | 3 | the constellations of the Great and Little Bear: geminae arctoi, the twin Bears
+arctos | 4 | in poetry, the north, the north pole or the north wind
+arctos | 5 | the peoples of the north
+arcturus | 1 | Arcturus
+arcturus | 3 | the brightest star in Bootes, whose rising and setting were thought to bring storms
+arcturus | 4 | the whole constellation of Bootes; the rising of Arcturus as a season
 arcula | 1 | casket
 arcula | 3 | a small box for perfumes or jewels: arculae muliebres, women's dressing cases
 arcula | 4 | figuratively of a speaker's box of ornaments: discipulorum arculae, the pupils' little paint-boxes
@@ -3254,6 +3273,8 @@ argentum | 3 | silver as a metal: argenti metalla, silver mines
 argentum | 4 | wrought silver, silver plate: ridet argento domus, the house gleams with silver
 argentum | 5 | silver coin, and so money in general
 argentum | 6 | argentum vivum, quicksilver
+argilla | 1 | clay
+argilla | 3 | white clay, potter's clay: homulus ex argilla et luto fictus, a manikin made of clay and mud
 argumentatio | 1 | argument
 argumentatio | 3 | the bringing forward of proof, the working out of an argument
 argumentatio | 4 | the proof itself
@@ -3361,6 +3382,9 @@ armo | 4 | to fit out or equip a thing, especially ships and walls: naves armare
 armo | 5 | figuratively, to equip someone with a resource: aliquem ad omnia armare, to arm someone for anything
 armo | 6 | to stir someone up against another: regem adversus Romanos armare, to set a king on against Rome
 armo | 7 | armatus as adjective and noun, armed, and armati, armed men
+armus | 1 | shoulder
+armus | 3 | the shoulder or forequarter of an animal, as umerus is a man's
+armus | 4 | in poetry, an animal's flank or side: equi fodere calcaribus armos, to dig spurs into a horse's flanks
 aro | 1 | plough
 aro | 3 | to plough or till the land: terram arare, to plough the ground
 aro | 4 | on its own, to farm, to live by husbandry
@@ -3368,12 +3392,17 @@ aro | 5 | of a ship, to plough the sea: arare aequor, to furrow the water
 aro | 6 | of old age, to furrow the body with wrinkles: rugae quae corpus arent, wrinkles that plough the flesh
 aro | 7 | litus arare, to plough the shore, proverbial for labour thrown away
 aro | 8 | to raise a crop by tillage: decem medimna ex jugero arare, to get ten measures out of an acre
+aroma | 1 | spice
 arquatus | 1 | jaundiced
 arquatus | 3 | morbus arquatus, jaundice, named from the rainbow yellow the skin turns
 arquatus | 4 | as a noun, a sufferer from jaundice
 arrepo | 1 | creep up
 arrepo | 3 | to creep slowly up to something (with ad or the dative): ad columbaria arrepere, to steal up to the dovecotes
 arrepo | 4 | figuratively, to worm one's way in: ad amicitiam arrepere, to insinuate oneself into a friendship
+arrha | 1 | deposit
+arrha | 2 | pledge
+arrha | 3 | earnest-money, a part of the price paid to seal a bargain
+arrha | 4 | figuratively, a pledge or token of something to come: arrabo amoris, a pledge of love
 arrideo | 1 | smile
 arrideo | 2 | please
 arrideo | 3 | to smile at or upon someone, usually in approval (with the dative, sometimes the accusative): arridere omnibus, to smile on everyone
