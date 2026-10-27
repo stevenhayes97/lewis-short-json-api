@@ -461,6 +461,27 @@ thesaurus | 3 | a hoard, a store of valuables: thesaurum defodere, to bury a tre
 thesaurus | 4 | a storehouse, a treasure chamber, a strongbox
 thesaurus | 5 | figuratively, a store or treasure-house: thesaurus rerum omnium, memoria, memory, the treasury of all things
 thesaurus | 6 | in comedy, of a person, a treasure, a darling
+theta | 1 | theta
+theta | 3 | the Greek letter theta, written on voting tablets as the sign of a death sentence
+tholus | 1 | dome
+tholus | 3 | a domed roof, a rotunda, where votive offerings were hung
+thorax | 1 | breastplate
+thorax | 2 | chest
+thorax | 3 | a breastplate, a cuirass
+thorax | 4 | in medicine, the chest
+thronus | 1 | throne
+thronus | 3 | a raised seat, a throne: thronus Jovis, the throne of Jupiter
+thronus | 4 | in Christian Latin, Thrones, one of the orders of angels
+thymelicus | 1 | theatrical
+thymelicus | 3 | thymelici, the musicians of the theatre; in later Latin, actors
+thymum | 1 | thyme
+thymum | 3 | thyme, loved by bees
+thyrsus | 1 | thyrsus
+thyrsus | 3 | the staff wreathed with ivy and vine leaves carried by Bacchus and his followers
+thyrsus | 4 | a stalk or stem of a plant
+thyrsus | 5 | in poetry, a goad: acri thyrso laudis spes percussit cor meum, the hope of fame has struck my heart with a sharp goad
+tiara | 1 | tiara
+tiara | 3 | an Eastern headdress, a turban, worn by Persian and Phrygian kings
 tibia | 1 | flute
 tibia | 2 | shinbone
 tibialis | 1 | of shins
@@ -471,6 +492,9 @@ tibicen | 3 | transferred, a supporting pillar, prop of a building
 tigillum | 1 | beam
 tignum | 1 | beam
 tignum | 3 | legal, broadly, building material of any kind
+tigris1 | 1 | tiger
+tigris1 | 3 | the tiger
+tigris1 | 4 | in poetry, a tiger skin
 tilia | 1 | linden
 tilia | 3 | transferred, the inner bark of the linden, used for cords or bands
 timeo | 1 | fear
@@ -528,6 +552,9 @@ tollo | 4 | nautical, tollere ancoras, to weigh anchor
 tollo | 5 | pregnant sense, to kill, destroy, do away with
 tollo | 6 | to abolish, annul, do away with a law, custom, or feeling
 tomentum | 1 | stuffing
+tomus | 1 | volume
+tomus | 3 | a piece cut off; a roll of papyrus
+tomus | 4 | in later Latin, a volume of a larger work, a tome
 tondeo | 1 | shear
 tondeo | 3 | transferred, to prune, trim, lop
 tondeo | 4 | to mow, reap
@@ -548,6 +575,10 @@ tonsor | 4 | a pruner of plants
 tonsorius | 1 | of shaving
 tonsura | 1 | shearing
 tonsura | 3 | a pruning, trimming (of vines or plants)
+tonus | 1 | tone
+tonus | 3 | the tone or pitch of a note; the accent of a syllable
+tonus | 4 | the tension of a rope; in painting, a tone of colour
+tonus | 5 | thunder
 topazos | 1 | chrysolite
 topiarius | 1 | of topiary
 topiarius | 3 | as a noun, an ornamental gardener
@@ -566,6 +597,9 @@ tormina | 1 | colic
 tormina | 3 | tormina urinae, strangury, painful difficult urination
 torno | 1 | round off
 torno | 3 | transferred, rare, to shape, smooth, polish
+tornus | 1 | lathe
+tornus | 3 | a turner's lathe: torno formam accipere, to be shaped on the lathe
+tornus | 4 | in poetry, figuratively, polishing: versus angusto torno includere, to turn verses in a narrow lathe
 torosus | 1 | muscular
 torpedo | 1 | numbness
 torpedo | 3 | transferred, the torpedo fish, an electric ray
