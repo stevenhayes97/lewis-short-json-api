@@ -1,5 +1,12 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_D.json (Lewis & Short via Perseus), simplified for learners.
+dactylus | 1 | dactyl
+dactylus | 3 | in metre, a dactyl, a long syllable followed by two shorts
+dactylus | 4 | the date, the fruit of the palm
+dactylus | 5 | the name of a shellfish, a grape, a grass and a precious stone
+daemon1 | 1 | spirit
+daemon1 | 3 | in later Latin, a spirit or guardian genius
+daemon1 | 4 | in Christian Latin, an evil spirit, a demon
 damma | 1 | deer
 damma | 3 | venison, the meat of a deer
 damnabilis | 1 | damnable
@@ -19,6 +26,10 @@ damnum | 1 | loss
 damnum | 2 | fine
 damnum | 3 | damnum injuria datum, injury done to another's property or slave, actionable under the lex Aquilia
 damnum | 4 | damnum infectum, threatened but not yet inflicted damage, against which security could be demanded
+danista | 1 | moneylender
+danista | 3 | in early Latin, a moneylender, a usurer
+daphne | 1 | laurel
+daphne | 3 | the laurel or bay tree
 daps | 1 | feast
 daps | 2 | offering
 dapsilis | 1 | lavish
@@ -445,6 +456,12 @@ deliro | 3 | literally, to swerve or deviate from a straight line (rare, of a pl
 delirus | 1 | crazy
 delitesco | 1 | hide
 delitesco | 3 | figuratively, to shelter behind, to take refuge under someone's authority
+delphinus | 1 | dolphin
+delphinus | 3 | the Dolphin, a constellation
+delphinus | 4 | an ornament or fitting shaped like a dolphin
+delta | 1 | delta
+delta | 3 | the fourth letter of the Greek alphabet
+delta | 4 | the Delta, the land at the mouths of the Nile
 delubrum | 1 | shrine
 deludo | 1 | deceive
 deludo | 3 | to finish playing, to stop a performance (rare)
@@ -510,6 +527,9 @@ denarius | 1 | denarius
 denarius | 3 | a Roman silver coin, originally worth ten asses
 denarius | 4 | as an adjective, containing ten
 denarro | 1 | recount
+dendrophorus | 1 | branch-bearer
+dendrophorus | 3 | a member of a guild that carried branches in religious processions
+dendrophorus | 4 | in later Latin, a woodworker
 denego | 1 | refuse
 denego | 3 | to deny that something is so
 deni | 1 | ten each
@@ -929,6 +949,16 @@ dextrorsum | 1 | rightward
 diabolus | 1 | devil
 diabolus | 3 | the Devil, Satan
 diaconus | 1 | deacon
+diaeta | 1 | diet
+diaeta | 2 | room
+diaeta | 3 | a way of life prescribed by a doctor, a diet: diaeta curari, to be treated by diet
+diaeta | 4 | a living room or summer-house in a villa
+dialecticus | 1 | dialectical
+dialecticus | 2 | logician
+dialecticus | 3 | of logic and argument: captiones dialecticae, logical tricks; dialectice, logically
+dialecticus | 4 | dialectica, logic, the art of reasoning
+dialogus | 1 | dialogue
+dialogus | 3 | a philosophical conversation, especially one written as a dialogue
 dicacitas | 1 | banter
 dicaculus | 1 | talkative
 dicaculus | 2 | witty
