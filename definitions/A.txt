@@ -3894,6 +3894,15 @@ ater1 | 3 | dull or dead black, as against niger, a glossy black: atrum vinum, d
 ater1 | 4 | dark and dismal, of what bodes ill: ater dies, a black day; atra formido, black dread
 ater1 | 5 | of feeling, spiteful and malicious: atro dente petere, to bite with a black tooth
 ater1 | 6 | of what is hard to make out, obscure: latebrae Lycophronis atri, the dark recesses of Lycophron
+athleta | 1 | athlete
+athleta | 3 | a wrestler or prize-fighter, a competitor in the games
+athleta | 4 | figuratively, a skilled practitioner, a champion: athletae comitiorum, veterans of the elections
+athleticus | 1 | athletic
+athleticus | 3 | of athletes: victus athleticus, an athlete's diet; athletica, the athletic art
+atomus | 1 | atom
+atomus | 3 | in philosophy, one of the indivisible particles of which all things are made, in the teaching of Democritus and Epicurus
+atomus | 4 | as an adjective, uncut, indivisible
+atomus | 5 | in Christian Latin, in atomo, in a moment, in the twinkling of an eye
 atque | 1 | and
 atque | 3 | and, joining both words and clauses; ac stands only before consonants, atque before vowels and consonants alike
 atque | 4 | adding something weightier, and indeed, and what is more: atque adeo, and what is more; atque etiam, and even
@@ -4152,6 +4161,23 @@ auguror | 4 | to foretell or forebode something: mortem alicui augurari, to fore
 auguror | 5 | of one's own mind, to guess or surmise: hoc conjectura auguror, this is my guess at it
 augustus1 | 1 | majestic
 augustus1 | 3 | venerable and worthy of honour, often paired with sanctus
+aula1 | 1 | courtyard
+aula1 | 2 | palace
+aula1 | 3 | the forecourt or inner hall of a house; also a yard for cattle
+aula1 | 4 | a royal palace or court: illa se jactet in aula Aeolus, let Aeolus lord it in that hall
+aula1 | 5 | royal power and influence, life at court
+aula1 | 6 | the people of the court, courtiers
+aulaeum | 1 | curtain
+aulaeum | 3 | a rich embroidered hanging, tapestry, a canopy
+aulaeum | 4 | the theatre curtain, lowered at the start and raised at the end: aulaeum tollitur, the play is over
+aulaeum | 5 | a rich covering for couches
+aura | 1 | breeze
+aura | 2 | air
+aura | 3 | a breath of air, a gentle breeze, and in poetry any wind: aura secunda, a favourable breeze
+aura | 4 | the air, the sky: auras vitales carpere, to breathe the air of life, to be alive
+aura | 5 | the upper world, as opposed to the underworld: superas ad auras, to the world above
+aura | 6 | figuratively, a breath of favour or rumour: aura popularis, the breeze of popular favour
+aura | 7 | in poetry, a gleam of light, a scent or an echo carried on the air
 aurarius1 | 1 | of gold
 aurarius1 | 3 | belonging to gold: aurariae metallae, gold mines; fornax auraria, a furnace for smelting gold
 aurarius1 | 4 | as a noun, a goldsmith; and auraria, a gold mine
@@ -4189,6 +4215,10 @@ auritus | 5 | testis auritus, a witness who has only heard a thing, not seen it
 auro | 1 | gild
 auro | 3 | to overlay a thing with gold
 auro | 4 | auratus as an adjective, gilded or made of gold: aurata tecta, gilded ceilings
+aurora | 1 | dawn
+aurora | 3 | daybreak, early morning: ad primam auroram, at first light
+aurora | 4 | Aurora, the goddess of the dawn, wife of Tithonus
+aurora | 5 | in poetry, the east and the peoples of the east
 aurugo | 1 | jaundice
 aurugo | 3 | the disease, named from the yellow it turns the skin, and so a sickly pallor
 aurugo | 4 | of plants, mildew or blight
@@ -4227,6 +4257,12 @@ austeritas | 1 | harshness
 austeritas | 3 | of taste, sourness or sharpness: austeritas vini, the dryness of the wine
 austeritas | 4 | of colour, darkness or dinginess
 austeritas | 5 | of character, severity and sternness: austeritas magistri, a schoolmaster's severity
+austerus | 1 | harsh
+austerus | 2 | stern
+austerus | 3 | of taste, sour, tart, rough: vinum austerum, a dry rough wine
+austerus | 4 | of character, severe, strict, austere: illo austero more, in that strict old way
+austerus | 5 | of things, grim, gloomy, troublesome: labor austerus, hard work
+austerus | 6 | of colour, deep, dark; of smell, pungent
 australis | 1 | southern
 australis | 3 | lying to the south: australis cingulus, the torrid zone
 austrinus | 1 | southern
@@ -4244,6 +4280,8 @@ autem | 4 | marking a simple transition, moreover, and now
 autem | 5 | resuming a train of thought after a parenthesis, or introducing one
 autem | 6 | in a syllogism, adding the minor premiss, now
 autem | 7 | in questions, giving an edge of surprise or rebuke: tuam autem, yours, did you say?
+authenticus | 1 | original
+authenticus | 3 | in later Latin, coming from the author himself, genuine: testamentum authenticum, the original will
 autumo | 1 | assert
 autumo | 3 | to say yes to something, to affirm it, as against nego, to say no
 autumo | 4 | to name or call something, mostly in early Latin
@@ -4355,3 +4393,6 @@ axis | 4 | the axis of the earth, and so the pole, especially the north pole
 axis | 5 | the sky as a whole, or a quarter of it: boreus axis, the northern sky
 axis | 6 | a pin or hook a hinge turns on
 axis | 7 | a board or plank
+azymus | 1 | unleavened
+azymus | 3 | azyma, the feast of unleavened bread, the Passover
+azymus | 4 | figuratively, pure and uncorrupted
