@@ -1,6 +1,6 @@
 # Low-confidence definitions awaiting review
 
-Progress: 87 of 116 settled.
+Progress: 87 of 117 settled.
 
 Every rank 1/2 gloss that needed three or more words carries a `# review:`
 comment above it (see `CLAUDE.md`, "The rank contract"), explaining why the
@@ -100,11 +100,12 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - [x] `denicalis` r1 "purifying from death" — accepted, and a rank 3 added for feriae denicales, the only phrase the word occurs in
 - [x] `dicis` r1 "for form's sake" — accepted; a genitive with no life outside dicis causa, which rank 3 gives
 
-## E.txt (4)
+## E.txt (5)
 
 - [x] `eadem` r1 "the same way" — re-ranked: "the same way" first, since that is the Cicero and Livy sense, with the Plautine "likewise" moved to rank 4; flag kept, no one-word English
 - [x] `eatenus` r1 "so far" — accepted; "so far" is L&S's own gloss, and the correlative is explained at rank 3
 - [x] `eblandior` r1 "wheedle" — tightened to "wheedle" and flag dropped; wheedle means precisely to obtain by flattery, and rank 3 adds eblandita suffragia
+- [ ] `exsulo` r1 "be in exile" — was "exile", which reads as banish, the later-Latin transitive sense; the classical verb is intransitive and English has no one-word equivalent
 - [x] `eodem` r1 "to the same place" — accepted; an adverb of place with no one-word English, like the prepositions
 
 ## F.txt (1)
@@ -206,9 +207,8 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 
 ## Wider problems found in the scan, not yet fixed
 
-- **L&S shorthand in ranks 3+.** `CLAUDE.md` says to drop the apparatus, but
-  C, D, E, F, I and P (written later than A and B) lead roughly 3,000 lines
-  with `trop.`, `transf.`, `meton.`, `milit.`, `jurid.`, `post-Aug.` and the
-  like, either as `trop:` or `(trop.)`. A and B spell these out ("figuratively",
-  "of soldiers", "in late Latin"). Fixing it is a rewrite of those files,
-  not a review item, so it is recorded here rather than done piecemeal.
+- **L&S shorthand in ranks 3+.** `CLAUDE.md` says to drop the apparatus.
+  L, M, N, O and P have been rewritten to the labels G uses ("figuratively",
+  "by extension", "in poetry", "as a noun", "in later Latin", "after
+  Augustus"). I still carries about 230 lines of `trop.`, `transf.`,
+  `post-Aug.` and the like, with a handful more in H, J, Q and S.

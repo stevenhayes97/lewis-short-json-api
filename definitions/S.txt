@@ -408,7 +408,7 @@ scopa1 | 4 | proverbial, scopas dissolvere, to untie a broom, to throw into conf
 scopulosus | 1 | rocky
 scopulus | 1 | reef
 scopulus | 2 | danger
-scorteus | 1 | leather
+scorteus | 1 | of leather
 scortor | 1 | whore
 scortum | 1 | harlot
 scortum | 3 | literally (rare), a skin, a hide

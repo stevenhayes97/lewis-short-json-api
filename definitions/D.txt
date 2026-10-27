@@ -1171,9 +1171,10 @@ discerpo | 3 | figuratively, to dissect, pick apart (an argument or subject)
 discerpo | 4 | by extension, to scatter, disperse, destroy
 discerpo | 5 | to tear someone to pieces with words, to revile
 discessio | 1 | division
-discessio | 2 | separation
-discessio | 3 | in Christian Latin, schism
+discessio | 3 | in the Senate, a vote taken by members moving to one side of the house: discessionem facere, to put a motion to a division
 discessio | 4 | rarely, departure, a going away
+discessio | 5 | very rarely, a separation, of a married couple or of the people into factions
+discessio | 6 | in Christian Latin, schism
 discessus2 | 1 | departure
 discessus2 | 2 | separation
 discessus2 | 3 | in the army, a marching away, decamping

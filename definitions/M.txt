@@ -839,7 +839,7 @@ mulio1 | 3 | by extension, a kind of gnat (an enemy to bees)
 mulleus | 1 | purple-red shoe
 mulleus | 3 | in particular, worn only by consuls, praetors, and curule aediles (a mark of high magistracy)
 multa1 | 1 | fine
-multicius | 1 | sheer
+multicius | 1 | diaphanous
 multicius | 3 | as a noun, fine, transparent garments (soft luxurious clothing)
 multifacio | 1 | esteem
 multifarius | 1 | manifold

@@ -1293,8 +1293,10 @@ exsufflo | 3 | in Christian Latin, to blow upon, exorcise (as a charm against ev
 exsugo | 1 | suck out
 exsul | 1 | exile
 exsul | 3 | by extension, in poetry, deprived of, cut off from (something)
-exsulo | 1 | exile
-exsulo | 3 | transitively, in later Latin, to banish, exile (someone)
+# review: exsulo the classical verb is intransitive; "exile" reads as banish, which is only the later-Latin sense
+exsulo | 1 | be in exile
+exsulo | 3 | by extension, to be shut out or absent from something: animo exsulare, to be absent in mind
+exsulo | 4 | transitively, in later Latin, to banish, exile (someone)
 exsultatio | 1 | leaping
 exsultatio | 3 | figuratively, exultation, excessive rejoicing
 exsulto | 1 | frolic
