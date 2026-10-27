@@ -1405,6 +1405,8 @@ plagula | 3 | a breadth, a strip of cloth sewn into a garment
 plagula | 4 | after Augustus, a sheet of paper
 planctus | 1 | lamentation
 planctus | 3 | in poetry, a beating, banging, loud noise (of wings, etc.)
+planeta | 1 | planet
+planeta | 3 | in later Latin, a wandering star, a planet
 plango | 1 | lament
 plango | 3 | in poetry, strike, beat with a noise (of waves, etc.)
 plango | 4 | beat one's breast (as a sign of grief)
@@ -1422,6 +1424,15 @@ planus1 | 2 | clear
 planus1 | 3 | as a noun, planum, level ground, a plain
 planus1 | 4 | after Augustus, lowly, humble (of rank or status)
 planus1 | 5 | easy, safe, free from danger
+plasma | 1 | figure
+plasma | 3 | in Christian Latin, a creature, something formed
+plasma | 4 | an affected, sing-song way of reading aloud
+plasma | 5 | in later Latin, a fiction
+platanus | 1 | plane tree
+platanus | 3 | the oriental plane tree, prized for its shade: sub platano umbrifera, under the shady plane tree
+platea1 | 1 | street
+platea1 | 3 | a broad street in a city: in plateam ingredi, to come out into the street
+platea1 | 4 | in later Latin, a courtyard
 plaudo | 1 | applaud
 plaudo | 3 | in poetry, strike, beat, flap (of wings)
 plaudo | 4 | approve, express approval (of a person or thing)
@@ -1447,6 +1458,10 @@ plecto1 | 4 | as an adjective, plexus, intricate, entangled, ambiguous
 plecto2 | 1 | punish
 plecto2 | 3 | in the passive, (usual construction) be punished, suffer for
 plecto2 | 4 | by extension, blame
+plectrum | 1 | plectrum
+plectrum | 3 | the quill with which the strings of a lyre were struck
+plectrum | 4 | in poetry, the lyre itself, lyric poetry: aureo plectro, with golden lyre
+plectrum | 5 | in poetry, a ship's rudder
 plenitudo | 1 | fullness
 plenitudo | 3 | completeness
 plenitudo | 4 | abundance, plenty
@@ -1462,7 +1477,12 @@ plenus | 9 | (of style, oratory) ample, copious
 plerus | 1 | most
 plerusque | 1 | most
 plerusque | 3 | in the singular, the greatest part of, most of (a group)
+pleuriticus | 1 | pleuritic
+pleuriticus | 3 | suffering from pleurisy; as a noun, a patient with pleurisy
 plico | 1 | fold
+plinthus | 1 | plinth
+plinthus | 3 | in architecture, the square slab under the base of a column
+plinthus | 4 | in land surveying, a square plot of land
 ploratus | 1 | wailing
 ploratus | 3 | (of trees) weeping, oozing sap
 ploro | 1 | weep
@@ -1511,7 +1531,23 @@ poculum | 1 | cup
 poculum | 3 | in poetry, a drink, draught, potion
 poculum | 4 | a drinking-bout, carouse
 poculum | 5 | a draught of poison
+podium | 1 | balcony
+podium | 3 | the raised platform round the arena, where the emperor and leading men sat
+podium | 4 | a raised projection in a building, a balcony
+poema | 1 | poem
+poema | 3 | a composition in verse: poema facere, to write a poem
+poema | 4 | poemata, poetry, as opposed to prose
+poena | 1 | punishment
+poena | 3 | punishment, retribution: poenas dare, to pay the penalty, to be punished; poenas ab aliquo petere, to seek to punish someone
+poena | 4 | a fine, a compensation: poena nummaria, a money fine
+poena | 5 | Poena, the goddess of vengeance; Poenae, the Furies
+poena | 6 | in later Latin, hardship, suffering, pain
 poenalis | 1 | penal
+poesis | 1 | poetry
+poesis | 3 | a poem, or poetry as a whole: ut pictura poesis, poetry is like painting
+poeta | 1 | poet
+poeta | 3 | a poet: oratores et poetae, orators and poets
+poeta | 4 | in early Latin, a maker, a contriver of tricks
 poetor | 1 | poetise
 polio1 | 1 | polish
 polio1 | 3 | by extension, adorn, embellish (of fields, etc.)
