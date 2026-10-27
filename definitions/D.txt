@@ -959,6 +959,16 @@ dialecticus | 3 | of logic and argument: captiones dialecticae, logical tricks; 
 dialecticus | 4 | dialectica, logic, the art of reasoning
 dialogus | 1 | dialogue
 dialogus | 3 | a philosophical conversation, especially one written as a dialogue
+diapason | 1 | octave
+diapason | 3 | in music, the whole octave; similarly diapente, a fifth, and diatessaron, a fourth
+diatonus | 1 | diatonic
+diatonus | 3 | in music, diatonum, the diatonic scale
+diatonus | 4 | in architecture, lateres diatoni, bonding stones that run through a wall
+dibaphus | 1 | double-dyed
+dibaphus | 3 | dyed twice, first in scarlet and then in purple
+dibaphus | 4 | as a noun, the purple-striped robe of a high magistrate, and so high office itself
+dica | 1 | lawsuit
+dica | 3 | a lawsuit, an action at law: dicam scribere alicui, to bring an action against someone
 dicacitas | 1 | banter
 dicaculus | 1 | talkative
 dicaculus | 2 | witty
@@ -1043,6 +1053,9 @@ diffundo | 1 | diffuse
 diffundo | 2 | cheer
 diffundo | 3 | figuratively, to spread, extend (fame, power, or influence)
 diffundo | 4 | of style or writing, diffuse, prolix, verbose
+digammon | 1 | digamma
+digammon | 3 | the Aeolic letter digamma, written like F
+digammon | 4 | in jest, an account book of rents
 digero | 1 | arrange
 digero | 2 | digest
 digero | 3 | in medicine, to dissolve, dissipate (morbid matter)
@@ -1146,6 +1159,9 @@ dinumeratio | 3 | in rhetoric, enumeration as a rhetorical figure, listing point
 dinumero | 1 | enumerate
 dinumero | 3 | in business, to count out, pay out (money)
 # skip: dio is a proper name (Dion of Syracuse, and others), not a common word
+diploma | 1 | permit
+diploma | 3 | an official pass issued to travellers on state business, letting them use the public post
+diploma | 4 | any document from a magistrate granting a right or privilege
 directio | 1 | direction
 directio | 3 | concretely, a straight line
 directio | 4 | in Christian Latin, righteousness, uprightness
@@ -1267,6 +1283,10 @@ discurso | 3 | transitively, in later Latin, to traverse
 discursus2 | 1 | running about
 discursus2 | 3 | by extension, a spreading, ramification (of roots or veins)
 discursus2 | 4 | in later Latin, a discourse, conversation
+discus1 | 1 | discus
+discus1 | 3 | a quoit or discus thrown in athletic exercise
+discus1 | 4 | a dish or plate
+discus1 | 5 | the face of a sundial
 discussio | 1 | discussion
 discussio | 3 | a revision, audit (of public accounts, late empire)
 discutio | 1 | shatter
@@ -1406,6 +1426,9 @@ distendo | 3 | by extension, to torture by racking, stretch on the rack
 distendo | 4 | figuratively, to distract, perplex, divide (the mind or attention)
 distermino | 1 | demarcate
 distermino | 3 | figuratively, to limit, regulate
+distichus | 1 | two-rowed
+distichus | 3 | distichon as a noun, a couplet, a hexameter and a pentameter
+distichus | 4 | of barley, having two rows of grain
 distinctio | 1 | distinction
 distinctio | 3 | in rhetoric and grammar, a mark of punctuation, a pause in speech
 distinctio | 4 | rarely, an ornament, an adornment
@@ -1541,6 +1564,9 @@ documentum | 2 | proof
 dodrans | 1 | three-quarters
 dodrans | 3 | as a measure of length, nine inches
 dodrans | 4 | as a measure of time, three quarters of an hour
+dogma | 1 | doctrine
+dogma | 3 | a philosophical teaching, a tenet
+dogma | 4 | in Christian Latin, a decree, an order
 dolabra | 1 | pickaxe
 doleo | 1 | grieve
 doleo | 2 | ache
@@ -1555,6 +1581,13 @@ dolor | 2 | resentment
 dolor | 3 | by extension, a grief, a cause of sorrow
 dolor | 4 | in rhetoric, pathos, passionate expression
 dolosus | 1 | deceitful
+dolus | 1 | trick
+dolus | 2 | deceit
+dolus | 3 | a scheme or stratagem: dolis capere, to take by trickery
+dolus | 4 | dolus malus, in law, fraud, wilful wrongdoing
+dolus | 5 | guile, cunning, deception: sine dolo, honestly
+dolus | 6 | in poetry, a snare or trap
+dolus | 7 | fault: dolo suo, by his own fault
 domesticus | 1 | domestic
 domesticus | 2 | personal
 domesticus | 3 | as a noun domestici, the members of a household; household slaves
