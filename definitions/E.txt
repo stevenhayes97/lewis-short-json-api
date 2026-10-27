@@ -37,6 +37,18 @@ ecclesia | 4 | the Church, all believers together: Christus dilexit ecclesiam, C
 ecclesia | 5 | a church building, the place where Christians meet
 ecclesia | 6 | in classical Latin, the assembly of the people in a Greek city: bule et ecclesia, council and assembly
 ecclesia | 7 | in later Latin, any assembly or meeting
+echidna | 1 | viper
+echidna | 3 | in poetry, a viper or adder, such as the Furies twined in their hair
+echinus1 | 1 | sea-urchin
+echinus1 | 2 | hedgehog
+echinus1 | 3 | the edible sea urchin, a delicacy
+echinus1 | 4 | a copper bowl for rinsing cups
+echinus1 | 5 | the prickly husk of a chestnut
+echinus1 | 6 | in architecture, the rounded moulding under the top of a column
+ecloga | 1 | selection
+ecloga | 2 | eclogue
+ecloga | 3 | a short poem; Eclogae, Virgil's pastoral poems
+ecloga | 4 | a selection of choice passages from a longer work
 eclogarius | 1 | excerpted
 eclogarius | 3 | as a noun eclogarium, a collection of selected poems
 eclogarius | 4 | as a noun eclogarii, selected passages from a work
@@ -253,6 +265,8 @@ elabor | 5 | figuratively, to pass away, vanish, fade (of hope, memory, or time)
 elaboro | 1 | strive
 elaboro | 3 | transitively, to work out, produce with care, elaborate
 elaboro | 4 | elaboratus as an adjective, laboured, elaborate (sometimes overwrought)
+elacatenes | 1 | tunny
+elacatenes | 3 | a large sea fish shaped like a spindle, a kind of tunny
 elanguesco | 1 | grow faint
 elatio | 1 | elevation
 elatio | 3 | pride, arrogance, self-exaltation
@@ -261,15 +275,26 @@ elatio | 5 | rarely, a carrying out, a burial
 elavo | 1 | wash out
 elavo | 3 | by extension, elavari in mari, to be shipwrecked, ruined
 electio | 1 | choice
+electrum | 1 | amber
+electrum | 2 | electrum
+electrum | 3 | amber; an amber ball carried by Roman ladies to keep their hands cool
+electrum | 4 | an alloy of gold and silver the colour of amber
 elegans | 1 | tasteful
 elegans | 3 | in early Latin, in a bad sense, fussy, over-nice, fastidious
 elegantia | 1 | refinement
 elegantia | 3 | in early Latin, in a bad sense, fastidiousness, excessive nicety
+elegia | 1 | elegy
+elegia | 3 | an elegy, a poem in elegiac couplets
+elegia | 4 | a kind of low-growing reed
 elementum | 1 | element
 elementum | 3 | in the plural, the alphabet, the letters
 elementum | 4 | in the plural, the rudiments, first principles (of an art or subject)
 elementum | 5 | by extension, in the plural, beginners, elementary students
 elementum | 6 | the beginnings, origins (of anything)
+elenchus | 1 | pendant
+elenchus | 3 | a pear-shaped pearl worn as an earring
+elephantiasis | 1 | elephantiasis
+elephantiasis | 3 | a severe form of leprosy
 elephantus | 1 | elephant
 elephantus | 3 | by extension, ivory
 elephantus | 4 | by extension, elephantiasis (a disease)
@@ -302,6 +327,8 @@ eliquo | 3 | figuratively, to sift, examine thoroughly
 eliquo | 4 | figuratively, to drawl, recite without energy
 elixus | 1 | boiled
 elixus | 3 | by extension, soaked, drenched, wet through
+elleborus | 1 | hellebore
+elleborus | 3 | a plant used as a remedy for madness and epilepsy, and so for anyone thought to be mad
 elocutio | 1 | utterance
 elocutio | 3 | in rhetoric, style, delivery (of a speech)
 elogium | 1 | saying
@@ -345,6 +372,9 @@ emano | 3 | figuratively, to arise from, spring from, originate
 emano | 4 | figuratively, especially, to become known, spread abroad, leak out (of news)
 emarcesco | 1 | wither
 emarcesco | 3 | figuratively, to dwindle away, fade, disappear (of authority or hope)
+emblema | 1 | inlay
+emblema | 3 | raised decoration set on a vessel
+emblema | 4 | inlaid work, a mosaic; figuratively, words set in like a mosaic
 emendo | 1 | correct
 emendo | 3 | in later Latin, to chastise, punish (as correction)
 ementior | 1 | fabricate
