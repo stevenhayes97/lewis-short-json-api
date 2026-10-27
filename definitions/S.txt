@@ -1539,6 +1539,13 @@ spolium | 3 | literally (poetic, rare), the skin or hide of an animal, stripped 
 spondeo | 1 | pledge
 spondeo | 3 | specifically, to become security for someone, to enter bail
 spondeo | 4 | specifically, to betroth, to promise in marriage
+spondylus | 1 | vertebra
+spondylus | 3 | a joint of the spine
+spondylus | 4 | a kind of shellfish, the thorny oyster; the muscle of a bivalve
+spongia1 | 1 | sponge
+spongia1 | 3 | a sponge
+spongia1 | 4 | a coat of mail of open work
+spongia1 | 5 | anything spongy: the root of asparagus, pumice stone, a kind of moss
 sponsalis | 1 | of betrothal
 sponsalis | 3 | as a noun (sponsalia), a betrothal, an espousal
 sponsio | 1 | guarantee
@@ -1593,6 +1600,13 @@ stabulor | 4 | active, to stable or house cattle
 stabulum | 1 | stable
 stabulum | 3 | specifically, a public-house, a tavern, an inn
 stabulum | 4 | specifically, a brothel
+stacta | 1 | myrrh oil
+stacta | 3 | the oil that drips from myrrh, a costly perfume
+stadium | 1 | stade
+stadium | 2 | racecourse
+stadium | 3 | a Greek measure of distance, about an eighth of a Roman mile
+stadium | 4 | a footrace course of that length: qui stadium currit, he who runs in the stadium
+stadium | 5 | figuratively, a contest: in stadium artis rhetoricae prodire, to enter the lists of rhetoric
 stagno1 | 1 | stagnate
 stagno1 | 3 | transferred, to be overflowed, inundated, of places
 stagno1 | 4 | active, to overflow, to inundate a place
@@ -1640,6 +1654,10 @@ stella | 4 | transferred, a starfish
 stellionatus | 1 | fraud
 stello | 1 | be starry
 stello | 3 | active (rare), to set with stars, to bestar
+stemma | 1 | pedigree
+stemma | 3 | a family tree, a genealogy
+stemma | 4 | a garland hung on an ancestral portrait
+stemma | 5 | figuratively, nobility, great age
 stercoro | 1 | manure
 stercoro | 3 | to cleanse from dung
 stercus | 1 | dung
@@ -1657,12 +1675,24 @@ sternumentum | 3 | transferred, a sneezing-powder
 sternuo | 1 | sneeze
 sternuo | 3 | transferred, of a light, to sputter, to crackle
 sterto | 1 | snore
+stibium | 1 | kohl
+stibium | 3 | antimony powder, used by women to darken the brows and lashes, and as an eye salve
+stigma | 1 | brand
+stigma | 3 | a mark branded on slaves or criminals: stigmata fugitivo scribere, to brand a runaway
+stigma | 4 | figuratively, a mark of disgrace
+stigma | 5 | a nick made by a clumsy barber
 stilla | 1 | drop
 stilla | 3 | transferred, a small quantity
 stillicidium | 1 | dripping
 stillicidium | 3 | specifically, rainwater falling from a house's eaves, a legal easement term
 stillo | 1 | drip
 stillo | 3 | active, to let fall in drops, to distil
+stilus | 1 | stylus
+stilus | 2 | style
+stilus | 3 | the pointed instrument for writing on wax tablets: stilum vertere, to turn the stylus, to erase
+stilus | 4 | writing, composition, the practice of writing: stilus optimus dicendi magister, writing is the best teacher of speaking
+stilus | 5 | a manner of writing or speaking, style
+stilus | 6 | a stake; stili caeci, hidden stakes in a trap
 stimulo | 1 | goad
 stimulo | 2 | torment
 stimulo | 3 | to rouse up, to spur on, to incite, to stimulate
@@ -1701,12 +1731,26 @@ sto | 3 | military, to stand one's ground, to fight
 sto | 4 | nautical, to lie at anchor
 sto | 5 | idiom, stare aliqua re, to abide by, to adhere to, to rest on something
 sto | 6 | of price, to cost, to come to a price
+stola | 1 | stola
+stola | 3 | the long robe of a Roman married woman, reaching to the ankles
+stola | 4 | a married woman, a lady
+stola | 5 | in early Latin, any long robe
+stola | 6 | in Christian Latin, a ceremonial robe
 stolatus | 1 | stola-clad
 stolatus | 3 | as a noun (stolatae), noble matrons
 stolidus | 1 | obtuse
 stolo1 | 1 | sucker
 stomachor | 1 | fume
 stomachosus | 1 | irritable
+stomachus | 1 | stomach
+stomachus | 2 | irritation
+stomachus | 3 | the gullet; the stomach
+stomachus | 4 | taste, liking: non tui stomachi, not to your taste
+stomachus | 5 | annoyance, irritation, anger: stomachum facere alicui, to annoy someone
+stomachus | 6 | bonus stomachus, good humour, patience
+strabo1 | 1 | squinter
+strabo1 | 3 | one who squints
+strabo1 | 4 | in early Latin, one who looks askance, an envious person
 strages | 1 | carnage
 strages | 3 | in general, an overthrow, a confused heap or mass
 strages | 4 | figuratively, ruin, destruction
@@ -1715,6 +1759,10 @@ stragulus | 3 | specifically (feminine, stragula), a pall, a covering for a corp
 stramen | 1 | straw
 stramentum | 1 | straw
 stramentum | 3 | rare, a covering, a rug, a housing
+strangulo | 1 | strangle
+strangulo | 3 | to throttle, choke, strangle: strangulatus in carcere, strangled in prison
+strangulo | 4 | of plants, to choke, to stifle
+strangulo | 5 | in poetry, to torment: strangulat inclusus dolor, pent-up grief chokes me
 strebula | 1 | haunch-meat
 strena | 1 | omen
 strena | 3 | transferred, a New Year's gift, given for good luck
