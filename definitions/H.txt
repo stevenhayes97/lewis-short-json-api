@@ -506,7 +506,7 @@ humo | 3 | transferred, to perform funeral rites for someone
 humus | 1 | ground
 humus | 3 | transferred, land, a country, a region
 humus | 4 | adverbial form humi, on the ground, to the ground
-hydrus1 | 1 | water-snake
+hydrus1 | 1 | water snake
 hydrus1 | 3 | a water snake, or any serpent; in poetry, the snakes in the hair of the Furies or Medusa
 hydrus1 | 4 | Hydrus, the constellation of the Water-snake
 hymnus | 1 | hymn
