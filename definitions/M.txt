@@ -251,6 +251,8 @@ marmoreus | 3 | by extension, marble-white, marble-smooth
 marmoro | 1 | marble
 marra | 1 | hoe
 marra | 3 | by extension, fishing-hook
+martyr | 1 | martyr
+martyr | 3 | a witness, especially one who bears witness to the faith by dying for it
 mas | 1 | male
 mas | 3 | by extension, manly, brave
 masculinus | 1 | male
