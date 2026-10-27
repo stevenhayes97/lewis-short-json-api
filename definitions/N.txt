@@ -81,7 +81,7 @@ naufragium | 4 | by extension, wreckage, debris (of a physical wreck)
 naufragus | 1 | shipwrecked
 naufragus | 3 | figuratively, ruined (of a person's fortune)
 naufragus | 4 | in poetry, by extension, causing shipwreck, hazardous (of a sea or storm)
-naumachia | 1 | sea-fight
+naumachia | 1 | sea fight
 naumachia | 3 | a mock sea battle staged as a show: naumachiam edere, to put on a sea battle
 naumachia | 4 | the basin where such shows were staged
 nausea | 1 | seasickness
@@ -93,7 +93,7 @@ nauseo | 3 | by extension, in general, vomit, feel queasy
 nauseo | 4 | figuratively, talk nonsense (to belch out silly words)
 nauseo | 5 | figuratively, disgust, sicken (to cause revulsion in others)
 nauta | 1 | sailor
-nautea | 1 | bilge-water
+nautea | 1 | bilge water
 nautea | 3 | in early Latin, foul water from a ship's bilge; nausea
 nauticus | 1 | nautical
 nauticus | 3 | of ships or sailors: verbum nauticum, a sailor's word; res nauticae, seamanship
@@ -155,6 +155,9 @@ necopinans | 1 | unaware
 necopinatus | 1 | unexpected
 necopinus | 1 | unexpected
 necopinus | 3 | in the active, unsuspecting, off guard (of the one caught unaware)
+nectar | 1 | nectar
+nectar | 3 | the drink of the gods
+nectar | 4 | in poetry, anything sweet and delicious, as honey, milk or wine
 nectareus | 1 | nectarous
 nectareus | 3 | by extension, delicious, sweet (as sweet as nectar)
 necto | 1 | bind
@@ -162,6 +165,8 @@ necto | 3 | in particular, fetter, enslave (for debt)
 necto | 4 | figuratively, attach, link (of causes or ideas)
 necto | 5 | figuratively, bind, oblige (by an obligation)
 necubi | 1 | nowhere
+necydalus | 1 | chrysalis
+necydalus | 3 | the silkworm at the stage before it becomes a moth
 nedum | 1 | much less
 nedum | 3 | by extension, after Augustus, much more, not to say (in affirmative statements)
 nefandus | 1 | unspeakable
@@ -204,11 +209,18 @@ nemorosus | 1 | wooded
 nemorosus | 3 | by extension, leafy, shady (full of foliage)
 nempe | 1 | certainly
 nempe | 3 | you mean (in questions, asking for confirmation of another's meaning)
+nemus | 1 | grove
+nemus | 2 | wood
+nemus | 3 | a wood with open glades and pasture; in poetry any wood or forest
+nemus | 4 | a grove sacred to a god: nemus Dianae, Diana's grove at Aricia
+nemus | 5 | in poetry, a tree, or timber
 nenia | 1 | dirge
 nenia | 3 | in particular, incantation, magic song
 nenia | 4 | in particular, lullaby, nursery song
 neo1 | 1 | spin
 neo1 | 3 | by extension, weave, entwine
+neocorus | 1 | temple keeper
+neocorus | 3 | in later Latin, the keeper of a temple, who oversaw its sacrifices
 nepos1 | 1 | grandson
 nepos1 | 3 | by extension, after Augustus, nephew (a brother's or sister's son)
 nepos1 | 4 | in poetry, in general, descendant
@@ -328,6 +340,8 @@ nitor2 | 3 | by extension, good looks, comeliness (of the body)
 nitor2 | 4 | by extension, elegance, refinement (of external appearance)
 nitor2 | 5 | figuratively, polish, elegance (of speech or style)
 nitor2 | 6 | figuratively, excellence, distinction (of character or lineage)
+nitrum | 1 | soda
+nitrum | 3 | natron, a natural soda used for washing
 nivalis | 1 | snowy
 nivalis | 3 | by extension, cold, wintry (of a day)
 nivarius | 1 | snow
@@ -386,6 +400,8 @@ nomino | 1 | name
 nomino | 3 | in particular, make famous, celebrate
 nomino | 4 | in particular, nominate (to an office)
 nomino | 5 | in particular, from Augustus on, accuse, denounce
+nomisma | 1 | coin
+nomisma | 3 | a coin, money; a medal or token
 non | 1 | not
 nonagenarius | 1 | ninety
 nonagenarius | 3 | in particular, ninety years old (of age)
@@ -427,6 +443,10 @@ notatio | 4 | in particular, choice, selection (of judges)
 notatio | 5 | in general, observation, remark
 notatio | 6 | in particular, etymology (the derivation of a word's meaning)
 notesco | 1 | become known
+nothus | 1 | illegitimate
+nothus | 2 | spurious
+nothus | 3 | of people, born out of wedlock; of animals, of mixed breed, mongrel
+nothus | 4 | in poetry, not genuine, borrowed: lumen nothum, the moon's borrowed light
 notio | 1 | acquaintance
 notio | 3 | in particular, inquiry, investigation (judicial cognizance by a magistrate)
 notio | 4 | by extension, idea, notion (a concept)
@@ -598,6 +618,9 @@ nuperus | 1 | recent
 nuptiae | 1 | wedding
 nuptiae | 3 | by extension, intercourse (euphemistic)
 nuptialis | 1 | nuptial
+nurus | 1 | daughter-in-law
+nurus | 3 | a son's wife: socrus oderunt nurus, mothers-in-law hate their daughters-in-law
+nurus | 4 | in poetry, a young married woman: nurus Latinae, the young wives of Latium
 nusquam | 1 | nowhere
 nusquam | 3 | by extension, in nothing, on no occasion
 nusquam | 4 | as an idiom, nusquam esse, to not exist, to be no more
@@ -627,3 +650,11 @@ nutus | 3 | by extension, gravity, downward tendency (physics, of falling bodies
 nutus | 4 | figuratively, will, command
 nux | 1 | nut
 nux | 3 | by extension, nut-tree
+nyctalops | 1 | night-blind
+nyctalops | 3 | unable to see in dim light
+nympha | 1 | nymph
+nympha | 2 | bride
+nympha | 3 | a nymph, a goddess of the sea, rivers, springs, woods or mountains
+nympha | 4 | in poetry, a bride or a young woman
+nympha | 5 | in poetry, water, a spring
+nympha | 6 | the pupa of an insect
