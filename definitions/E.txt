@@ -31,6 +31,12 @@ eburneus | 3 | in poetry, white as ivory
 ecce | 1 | behold
 ecce | 3 | here is, here comes (pointing something out)
 ecce | 4 | introducing something sudden or unexpected: ecce Apollo mihi imperat, look, Apollo commands me
+ecclesia | 1 | church
+ecclesia | 3 | a Christian congregation, the local body of believers
+ecclesia | 4 | the Church, all believers together: Christus dilexit ecclesiam, Christ loved the Church
+ecclesia | 5 | a church building, the place where Christians meet
+ecclesia | 6 | in classical Latin, the assembly of the people in a Greek city: bule et ecclesia, council and assembly
+ecclesia | 7 | in later Latin, any assembly or meeting
 eclogarius | 1 | excerpted
 eclogarius | 3 | as a noun eclogarium, a collection of selected poems
 eclogarius | 4 | as a noun eclogarii, selected passages from a work
@@ -475,6 +481,8 @@ eo2 | 7 | besides, in addition to that
 eodem | 1 | to the same place
 eodem | 3 | of place where (rare), in the same place
 eodem | 4 | by extension, to the same point, purpose, or person
+episcopus | 1 | bishop
+episcopus | 3 | an overseer or superintendent, as a civic official
 epistularis | 1 | epistolary
 epistularis | 3 | as a noun epistulares, state secretaries, letter-officials
 epoto | 1 | drink up
@@ -649,6 +657,8 @@ evalesco | 3 | by extension, to be able, have the power (to do something)
 evalesco | 4 | of a word, to prevail, come into common use
 evanesco | 1 | vanish
 evanesco | 3 | figuratively, to sink into oblivion, be forgotten
+evangelium | 1 | gospel
+evangelium | 3 | good news, glad tidings
 evangelizo | 1 | evangelise
 evanidus | 1 | fading
 eveho | 1 | carry out
