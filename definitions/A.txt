@@ -2331,6 +2331,9 @@ anfractus2 | 5 | of speech, a roundabout way of putting a thing: quid opus est c
 angario | 1 | compel
 angario | 3 | in law, to exact transport service or forced labour from someone
 angario | 4 | in Christian Latin, to press a man into service: quicumque te angariaverit mille passus, whoever compels you to go a mile
+angelus | 1 | angel
+angelus | 3 | a fallen angel, a demon: diabolus et angeli ejus, the devil and his angels
+angelus | 4 | a messenger
 angina | 1 | quinsy
 angina | 3 | a disease that closes the throat and chokes, quinsy
 angina | 4 | figuratively, angina mentis, a choking of the mind, distress
@@ -2724,6 +2727,8 @@ apo | 6 | aptus, bound and held together, of things that make one connected whol
 apo | 7 | aptus as an adjective, fit and suited to something (with ad or the dative): locus ad insidias aptus, a place suited to an ambush
 apo | 8 | of speech, apt and appropriate to its subject
 apo | 9 | the adverb apte, closely and tightly; and figuratively, fitly and properly: apte dicere, to speak to the point
+apostolus | 1 | apostle
+apostolus | 3 | in law, a notice sent up to a higher court on appeal
 apparatus2 | 1 | preparation
 apparatus2 | 2 | equipment
 apparatus2 | 3 | the getting of something ready, the making of preparations for it
