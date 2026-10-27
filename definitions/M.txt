@@ -211,6 +211,9 @@ manipulatim | 1 | in bundles
 manipulatim | 3 | in the army, by maniples
 manipulus | 1 | handful
 manipulus | 2 | maniple
+manna | 1 | grain
+manna | 3 | a grain of gum or resin: manna turis, grains of frankincense
+manna | 4 | in Christian Latin, manna, the food of the Israelites in the desert
 mannulus | 1 | pony
 mano | 1 | flow
 mano | 3 | by extension, spread, extend
@@ -261,6 +264,8 @@ marcor | 3 | by extension, languor, indolence
 marculus1 | 1 | small hammer
 mare | 1 | sea
 mare | 3 | by extension, sea-water
+margarita | 1 | pearl
+margarita | 3 | a pearl: linea margaritarum, a string of pearls
 margaritarius | 1 | of pearls
 margaritarius | 3 | as a noun, a pearl-dealer
 margo | 1 | edge
@@ -276,6 +281,11 @@ marito | 3 | by extension, mate, pair (of animals)
 marito | 4 | by extension, train, prop up (of a vine tied to a tree)
 maritus1 | 1 | matrimonial
 maritus1 | 2 | husband
+marmor | 1 | marble
+marmor | 3 | marble: templum de marmore, a temple of marble
+marmor | 4 | a marble statue or monument; a marble pavement
+marmor | 5 | in poetry, the smooth, gleaming surface of the sea: lento luctantur marmore tonsae, the oars struggle with the sluggish sea
+marmor | 6 | marble dust; a marble milestone
 marmoreus | 1 | marble
 marmoreus | 3 | by extension, marble-white, marble-smooth
 marmoro | 1 | marble
@@ -283,13 +293,23 @@ marra | 1 | hoe
 marra | 3 | by extension, fishing-hook
 martyr | 1 | martyr
 martyr | 3 | a witness, especially one who bears witness to the faith by dying for it
+martyrium | 1 | martyrdom
+martyrium | 3 | in Christian Latin, a martyr's tomb, or a church built over it
 mas | 1 | male
 mas | 3 | by extension, manly, brave
 masculinus | 1 | male
 masculinus | 3 | in grammar, masculine (of grammatical gender)
 masculus | 1 | male
 masculus | 3 | by extension, manly, vigorous, bold
+massa1 | 1 | lump
+massa1 | 2 | mass
+massa1 | 3 | a lump or mass of something sticky: massa picis, a lump of pitch; massa lactis coacti, a cheese
+massa1 | 4 | a mass of metal, an ingot
 massalis | 1 | of mass
+mastiche | 1 | mastic
+mastiche | 3 | the fragrant resin of the mastic tree
+mastigia | 1 | scoundrel
+mastigia | 3 | in early Latin, a rascal who deserves a whipping, a rogue
 matella | 1 | pot
 matella | 3 | in particular, chamber-pot
 mater | 1 | mother
@@ -301,6 +321,13 @@ materiarius | 1 | of timber
 materiarius | 3 | as a noun, a timber-merchant
 maternus1 | 1 | maternal
 matertera | 1 | maternal aunt
+mathematicus | 1 | mathematical
+mathematicus | 2 | mathematician
+mathematicus | 3 | as a noun, a mathematician
+mathematicus | 4 | in later Latin, an astrologer: mathematici, genus hominum potentibus infidum, astrologers, a breed untrustworthy to the powerful
+mathematicus | 5 | mathematica, mathematics; later, astrology
+mathesis | 1 | mathematics
+mathesis | 3 | in later Latin, mathematics; astrology
 matralis | 1 | maternal
 matralis | 3 | especially, Matralia, the festival of Mater Matuta
 matrimonium | 1 | marriage
