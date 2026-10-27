@@ -210,5 +210,5 @@ verdict, or edit `definitions/<L>.txt` to tighten the gloss, drop its
 - **L&S shorthand in ranks 3+.** `CLAUDE.md` says to drop the apparatus.
   L, M, N, O and P have been rewritten to the labels G uses ("figuratively",
   "by extension", "in poetry", "as a noun", "in later Latin", "after
-  Augustus"). I still carries about 230 lines of `trop.`, `transf.`,
-  `post-Aug.` and the like, with a handful more in H, J, Q and S.
+  Augustus"), and I to the same wording. A handful of lines in H, J, Q and
+  S still carry `trop.`, `transf.`, `post-Aug.` and the like.

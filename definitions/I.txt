@@ -9,7 +9,7 @@ ibidem | 4 | of other relations, in the same matter
 ictus2 | 1 | blow
 ictus2 | 3 | in particular, a beat, in prosody or music
 ictus2 | 4 | a beat of the pulse
-ictus2 | 5 | figurative, a blow, attack, shock
+ictus2 | 5 | figuratively, a blow, attack, shock
 idcirco | 1 | therefore
 idem | 1 | same
 idem | 3 | connecting two predicates of the same subject: also, likewise, at the same time
@@ -37,22 +37,22 @@ ignavus | 3 | inactive, idle, sluggish, listless
 ignavus | 4 | transferred, of things, unproductive, causing inactivity or sloth
 ignesco | 1 | kindle
 ignesco | 3 | transferred, of colour, to glow, to break into flame
-ignesco | 4 | figurative, to burn with passion, to glow with anger
+ignesco | 4 | figuratively, to burn with passion, to glow with anger
 igneus | 1 | fiery
 igneus | 3 | of colour, flaming, resplendent, glowing
-igneus | 4 | figurative, ardent, vehement, passionate
+igneus | 4 | figuratively, ardent, vehement, passionate
 igniculus | 1 | spark
 igniculus | 3 | transferred, of colour, a glittering, sparkling
-igniculus | 4 | figurative, a spark of passion or feeling
+igniculus | 4 | figuratively, a spark of passion or feeling
 ignio | 1 | ignite
 ignis | 1 | fire
 ignis | 2 | passion
 ignis | 3 | in particular, sacer ignis, St. Anthony's fire, a skin disease
 ignis | 4 | transferred, brightness, splendour, glow
 ignis | 5 | firewood, fuel
-ignis | 6 | figurative, the fire of passion: love, anger, or rage
-ignis | 7 | poetic, a beloved person, a flame, a sweetheart
-ignis | 8 | figurative, that which brings destruction, a conflagration: war as a smouldering fire
+ignis | 6 | figuratively, the fire of passion: love, anger, or rage
+ignis | 7 | in poetry, a beloved person, a flame, a sweetheart
+ignis | 8 | figuratively, that which brings destruction, a conflagration: war as a smouldering fire
 ignobilis | 1 | obscure
 ignobilis | 2 | lowborn
 ignobilis | 3 | unknown to fame, undistinguished
@@ -71,13 +71,13 @@ ignoro | 1 | not know
 ignoro | 2 | ignore
 ignoro | 3 | to have no knowledge of a person or thing, to be unacquainted with, unaware
 ignoro | 4 | to mistake, misunderstand, fail to recognise
-ignoro | 5 | rare, to take no notice of, disregard, pay no attention to
+ignoro | 5 | rarely, to take no notice of, disregard, pay no attention to
 ignosco | 1 | forgive
 ignosco | 3 | to pardon or excuse a fault, usually with the dative of the person and accusative of the offence
 ignotus2 | 1 | unknown
 ignotus2 | 2 | lowborn
 ignotus2 | 3 | not known, unrecognised
-ignotus2 | 4 | pregnant sense, poetic, of low birth or condition, base, vulgar
+ignotus2 | 4 | in poetry, of low birth or condition, base, vulgar
 ignotus2 | 5 | active, rare, unacquainted with, ignorant of something
 ile | 1 | flank
 ile | 3 | transferred, the entrails of animals
@@ -90,29 +90,29 @@ ilicet | 4 | transferred, let us go, let us be gone
 ilicet | 5 | transferred, all is over, it's all up, of something lost or failed
 ilicet | 6 | through the notion of hastening, straightway, immediately, instantly
 ilico | 1 | instantly
-ilico | 3 | literally, on the spot, in that very place, ante-classical
+ilico | 3 | in early Latin, literally, on the spot, in that very place
 ilico | 4 | of time, instantly, immediately, directly
 illabor | 1 | glide
 illabor | 3 | to flow, slide, or sink into something
-illabor | 4 | figurative, to penetrate, to steal into: illapsa pernicies, ruin creeping in
+illabor | 4 | figuratively, to penetrate, to steal into: illapsa pernicies, ruin creeping in
 illaboratus | 1 | effortless
 illacrimo | 1 | weep
 illacrimo | 3 | to weep over, mourn for, usually with the dative
-illacrimo | 4 | poetic, transferred, of things, to drip, ooze, distil
+illacrimo | 4 | in poetry, transferred, of things, to drip, ooze, distil
 illaesus | 1 | unharmed
 illaqueo | 1 | ensnare
-illaqueo | 3 | figurative, to entrap, entangle, catch in difficulty
+illaqueo | 3 | figuratively, to entrap, entangle, catch in difficulty
 illatio | 1 | bringing in
 illatio | 3 | in particular, a tax, an impost
-illatio | 4 | figurative, a causing or committing of an act
+illatio | 4 | figuratively, a causing or committing of an act
 illatio | 5 | in logic, an inference, a conclusion
 illaudatus | 1 | unpraised
 illaudatus | 2 | detestable
 illaudatus | 3 | not praised, without fame, obscure
-illaudatus | 4 | poetic, unworthy of praise, blamable, detestable
+illaudatus | 4 | in poetry, unworthy of praise, blamable, detestable
 ille | 1 | that
 ille | 3 | opposed to hic, indicating the more remote object: that, the former
-ille | 4 | pregnant sense, indicating something well-known or celebrated: that famous, the well-known
+ille | 4 | indicating something well-known or celebrated: that famous, the well-known
 ille | 5 | ille quidem...sed, to be sure, indeed...but still
 ille | 6 | adverbial illo, to that place, thither; ex illo, from that time, since then
 illecebra | 1 | allurement
@@ -128,7 +128,7 @@ illiberalis | 1 | ungenerous
 illiberalis | 3 | unworthy of a free person, ignoble, sordid, mean, disobliging
 illiberalis | 4 | niggardly, stingy, grasping, especially with money
 illic1 | 1 | that
-illic1 | 3 | ante-classical pronoun: he, she, or it yonder
+illic1 | 3 | in early Latin, a pronoun, he, she, or it yonder
 illic1 | 4 | adverbial illac, that way, on that side, there
 illic1 | 5 | adverbial illuc or illoc, to that place, thither
 illic1 | 6 | transferred, illuc, to that point, to such an extent
@@ -146,45 +146,45 @@ illido | 3 | to strike or dash something against a surface
 illido | 4 | transferred, to dash to pieces, rare
 illigo | 1 | bind
 illigo | 3 | to fetter, entangle, impede, hinder free movement
-illigo | 4 | figurative, to attach, connect, or bind together, as words or ideas
-illigo | 5 | figurative, to bind someone under obligation, to entangle in debt or difficulty
+illigo | 4 | figuratively, to attach, connect, or bind together, as words or ideas
+illigo | 5 | figuratively, to bind someone under obligation, to entangle in debt or difficulty
 illinc | 1 | from there
 illinc | 2 | thence
 illinc | 3 | transferred, from that person or thing, from that quarter, on that side
 illino | 1 | smear
 illino | 3 | to apply an ointment or medicine to a surface
 illino | 4 | transferred, to besmear, bedaub, or anoint with something
-illino | 5 | figurative, to stain, taint, sully
+illino | 5 | figuratively, to stain, taint, sully
 illitteratus | 1 | illiterate
-illitteratus | 3 | unwritten, not drawn up in writing, post-classical, rare
+illitteratus | 3 | in later Latin, rarely, unwritten, not drawn up in writing
 illitteratus | 4 | inarticulate, of sounds or interjections
 illotus | 1 | unwashed
-illotus | 3 | trop., of speech, coarse, unrefined
+illotus | 3 | figuratively, of speech, coarse, unrefined
 illucesco | 1 | dawn
 illucesco | 3 | impersonal illuxit, it grew light, day broke
-illucesco | 4 | figurative, to shine forth, become clear or illustrious
+illucesco | 4 | figuratively, to shine forth, become clear or illustrious
 illucesco | 5 | active, rare, to shine upon, give light to
 illudo | 1 | mock
 illudo | 2 | squander
 illudo | 3 | to jest, mock, or ridicule someone, usually with the dative
 illudo | 4 | to sport or fool away something, to squander or destroy through carelessness
-illudo | 5 | poetic, to violate, abuse, ruin
+illudo | 5 | in poetry, to violate, abuse, ruin
 illumino | 1 | illuminate
 illumino | 3 | transferred, to embellish or adorn with something bright
-illumino | 4 | figurative, to set in a clear light, to make conspicuous, especially of style in rhetoric
+illumino | 4 | figuratively, to set in a clear light, to make conspicuous, especially of style in rhetoric
 illustris | 1 | bright
 illustris | 2 | illustrious
 illustris | 3 | lighted up, clear, bright, literal
-illustris | 4 | trop., clear, plain, evident, manifest
+illustris | 4 | figuratively, clear, plain, evident, manifest
 illustris | 5 | distinguished, famous, honourable, illustrious
 illustro | 1 | illuminate
 illustro | 2 | glorify
 illustro | 3 | to light up, make bright, literal
-illustro | 4 | trop., to make clear, elucidate, explain
-illustro | 5 | trop., to render famous, renowned, illustrious
+illustro | 4 | figuratively, to make clear, elucidate, explain
+illustro | 5 | figuratively, to render famous, renowned, illustrious
 illuvies | 1 | filth
 illuvies | 3 | dirt, uncleanness of the body
-illuvies | 4 | post-classical, an overflowing, a flood
+illuvies | 4 | in later Latin, an overflowing, a flood
 imaginarius | 1 | imaginary
 imaginarius | 3 | of or belonging to images; as a noun, the bearer of the emperor's image, a standard-bearer
 imaginarius | 4 | existing only in appearance, seeming, nominal, fancied
@@ -196,7 +196,7 @@ imago | 3 | a representation, likeness, statue, bust, or picture
 imago | 4 | a phantom, apparition, spirit of the dead
 imago | 5 | in particular, an ancestral wax mask of a distinguished Roman, displayed in the atrium and carried in funerals
 imago | 6 | transferred, an echo, a reverberation of sound
-imago | 7 | trop., an idea, conception, or mental picture of something
+imago | 7 | figuratively, an idea, conception, or mental picture of something
 imago | 8 | in rhetoric, a figurative comparison, a simile
 imago | 9 | a mere semblance, appearance, or shadow, as opposed to the real thing
 imbecillitas | 1 | weakness
@@ -211,11 +211,11 @@ imbellis | 3 | peaceful, fond of peace, avoiding war
 imbellis | 4 | of things, weak, ineffective, powerless: telum imbelle, a weak, harmless weapon
 imber | 1 | rain
 imber | 3 | transferred, a rain-cloud, storm-cloud
-imber | 4 | poetic, water or liquid in general
-imber | 5 | figurative, a shower of things falling like rain: ferreus imber, a shower of iron weapons
+imber | 4 | in poetry, water or liquid in general
+imber | 5 | figuratively, a shower of things falling like rain: ferreus imber, a shower of iron weapons
 imberbis | 1 | beardless
 imbibo | 1 | imbibe
-imbibo | 3 | figurative, to conceive or take in, of an idea, opinion, or feeling
+imbibo | 3 | figuratively, to conceive or take in, of an idea, opinion, or feeling
 imbibo | 4 | in particular, to resolve, determine to do something
 imbrex | 1 | roof tile
 imbrex | 3 | transferred, a gutter or trough for watering animals
@@ -225,11 +225,11 @@ imbrico | 3 | to shape or curve like a gutter-tile
 imbuo | 1 | imbue
 imbuo | 2 | instruct
 imbuo | 3 | literally, to wet, moisten, dip, or tinge with a liquid
-imbuo | 4 | figurative, to fill, stain, or taint with a quality: imbutus religione, imbued with religious feeling
+imbuo | 4 | figuratively, to fill, stain, or taint with a quality: imbutus religione, imbued with religious feeling
 imbuo | 5 | in particular, to instruct or train early, to accustom, initiate
-imbuo | 6 | poetic, to be the first to do or try something: to explore, to break new ground
+imbuo | 6 | in poetry, to be the first to do or try something: to explore, to break new ground
 imitabilis | 1 | imitable
-imitabilis | 3 | rare, imitative, inclined to imitate
+imitabilis | 3 | rarely, imitative, inclined to imitate
 imitamen | 1 | imitation
 imitamentum | 1 | imitation
 imitatio | 1 | imitation
@@ -243,7 +243,7 @@ imitor | 4 | to act like, resemble, or counterfeit someone or something
 immanis | 1 | huge
 immanis | 2 | savage
 immanis | 3 | monstrous in size, enormous, vast
-immanis | 4 | trop., monstrous in character, fierce, savage, inhuman
+immanis | 4 | figuratively, monstrous in character, fierce, savage, inhuman
 immanitas | 1 | hugeness
 immanitas | 2 | savagery
 immanitas | 3 | monstrous size, vastness, excess, rare
@@ -255,38 +255,38 @@ immemor | 1 | forgetful
 immemor | 3 | unmindful of, forgetful of, usually with the genitive
 immemor | 4 | transferred, poetic, that causes forgetfulness: an epithet of the river Lethe
 immensus | 1 | immense
-immensus | 3 | trop., vast, measureless, boundless
+immensus | 3 | figuratively, vast, measureless, boundless
 immensus | 4 | as a noun, immensum, a boundless extent, immensity
 immensus | 5 | adverbial immensum, without end, exceedingly, immensely
 immerens | 1 | undeserving
 immergo | 1 | immerse
 immergo | 3 | transferred, se immergere, to plunge or throw oneself into a place
-immergo | 4 | figurative, se immergere, to immerse oneself in an activity or pursuit
+immergo | 4 | figuratively, se immergere, to immerse oneself in an activity or pursuit
 immeritus | 1 | undeserving
 immeritus | 2 | undeserved
 immeritus | 3 | active, that has not deserved something, guiltless, innocent
 immeritus | 4 | passive, not deserved, unmerited, of a thing
 immigro | 1 | immigrate
 immigro | 3 | to move or go into a place, a house
-immigro | 4 | figurative, of words, to pass into their proper or natural place
+immigro | 4 | figuratively, of words, to pass into their proper or natural place
 immineo | 1 | overhang
 immineo | 2 | threaten
 immineo | 3 | to project over, hang over, overhang, literally
 immineo | 4 | to be near to, border upon, adjoin
 immineo | 5 | in a hostile sense, to threaten, menace, by nearness or position
-immineo | 6 | figurative, to be eager for, long for, be intent upon something
+immineo | 6 | figuratively, to be eager for, long for, be intent upon something
 immineo | 7 | to be imminent, to impend, to be near at hand
 imminuo | 1 | lessen
 imminuo | 2 | impair
 imminuo | 3 | to lessen, diminish, reduce something in size or amount
 imminuo | 4 | pregnant, to weaken, impair, enfeeble
-imminuo | 5 | trop., to encroach upon, violate, injure, subvert, destroy
+imminuo | 5 | figuratively, to encroach upon, violate, injure, subvert, destroy
 imminutio | 1 | diminution
 imminutio | 3 | a weakening, impairing, injury
 imminutio | 4 | in rhetoric, litotes, the use of a weaker expression for a stronger one
 immisceo | 1 | intermix
 immisceo | 3 | especially, se immiscere, to join or associate with someone
-immisceo | 4 | figurative, se immiscere alicui rei, to meddle with, interfere in, concern oneself with
+immisceo | 4 | figuratively, se immiscere alicui rei, to meddle with, interfere in, concern oneself with
 immisericors | 1 | merciless
 immitis | 1 | harsh
 immitis | 3 | of fruit, unripe, sour, not mellow
@@ -301,44 +301,44 @@ immo | 4 | strengthening what precedes: yes indeed, certainly, by all means
 immo | 5 | correcting or adding emphasis mid-sentence: nay rather, or rather
 immobilis | 1 | immovable
 immobilis | 3 | as a legal term, res immobiles, immovable property, real estate
-immobilis | 4 | trop., unmoved, unalterable, steadfast
+immobilis | 4 | figuratively, unmoved, unalterable, steadfast
 immoderatio | 1 | excess
 immoderatus | 1 | immoderate
-immoderatus | 3 | poetic, literally, without measure, boundless
-immoderatus | 4 | trop., unrestrained, unbridled, excessive
+immoderatus | 3 | in poetry, literally, without measure, boundless
+immoderatus | 4 | figuratively, unrestrained, unbridled, excessive
 immodestus | 1 | unrestrained
 immodestus | 3 | immoderately, extravagantly, impudently
 immodestus | 4 | unjustly, rare
 immodicus | 1 | excessive
 immodicus | 3 | literally, rare, beyond measure, huge, unrestrained
-immodicus | 4 | trop., excessive, extravagant, immoderate, often with the genitive
+immodicus | 4 | figuratively, excessive, extravagant, immoderate, often with the genitive
 immolo | 1 | sacrifice
 immolo | 3 | originally, to sprinkle a victim with sacrificial meal before slaying it
-immolo | 4 | poetic, more generally, to slay, to kill as a sacrifice
-immolo | 5 | ecclesiastical, to present as an offering, to render
+immolo | 4 | in poetry, more generally, to slay, to kill as a sacrifice
+immolo | 5 | in Christian Latin, to present as an offering, to render
 immordeo | 1 | bite into
 immorior | 1 | die
 immorior | 3 | to die upon or in the midst of something, usually with the dative
-immorior | 4 | figurative, to pine away, to waste oneself over a task
+immorior | 4 | figuratively, to pine away, to waste oneself over a task
 immoror | 1 | linger
 immoror | 3 | to dwell on or linger over a subject in speech or thought
 immortalis | 1 | immortal
 immortalis | 3 | transferred, imperishable, eternal, everlasting
-immortalis | 4 | poetic, blessed, exceedingly happy, like the gods
+immortalis | 4 | in poetry, blessed, exceedingly happy, like the gods
 immortalitas | 1 | immortality
 immortalitas | 3 | transferred, imperishable fame, undying renown
-immortalitas | 4 | poetic, blessedness, the height of happiness
+immortalitas | 4 | in poetry, blessedness, the height of happiness
 immotus | 1 | motionless
 immotus | 2 | steadfast
 immotus | 3 | unmoved, immovable, still
-immotus | 4 | trop., unshaken, undisturbed, steadfast, firm
+immotus | 4 | figuratively, unshaken, undisturbed, steadfast, firm
 immundus | 1 | unclean
 immunis | 1 | exempt
 immunis | 3 | free or exempt from a public duty, burden, or tax
 immunis | 4 | transferred, free from, contributing nothing, inactive
-immunis | 5 | trop., not sharing in, devoid of, free from something, often with the genitive
+immunis | 5 | figuratively, not sharing in, devoid of, free from something, often with the genitive
 immunitas | 1 | immunity
-immunitas | 3 | trop., freedom or exemption from something in general
+immunitas | 3 | figuratively, freedom or exemption from something in general
 immurmuro | 1 | murmur
 immutabilis1 | 1 | immutable
 immutatio | 1 | substitution
@@ -357,7 +357,7 @@ imparilitas | 3 | in grammar, a solecism, faulty agreement
 impatiens | 1 | impatient
 impatiens | 3 | of persons, unable to endure or bear something, usually with the genitive
 impatiens | 4 | of things, unable to withstand something
-impatiens | 5 | rare, insensible, apathetic, unfeeling
+impatiens | 5 | rarely, insensible, apathetic, unfeeling
 impatientia | 1 | impatience
 impatientia | 3 | insensibility, impassibility, apathy, a translation of the Greek apatheia
 impavidus | 1 | fearless
@@ -368,19 +368,19 @@ impedimentum | 4 | in particular, plural impedimenta, luggage, travelling equipm
 impedio | 1 | hinder
 impedio | 2 | entangle
 impedio | 3 | literally, to entangle the feet, to ensnare, shackle
-impedio | 4 | transferred, to clasp, encircle, embrace, poetic
-impedio | 5 | trop., to entangle, confuse, embarrass
+impedio | 4 | in poetry, transferred, to clasp, encircle, embrace
+impedio | 5 | figuratively, to entangle, confuse, embarrass
 impedio | 6 | most frequently, to hinder, obstruct, prevent, detain someone from doing something
 impello | 1 | push
 impello | 2 | incite
 impello | 3 | to strike or drive against something, literal
 impello | 4 | to set in motion, drive forward, urge on
-impello | 5 | trop., to instigate, persuade, urge someone to do something
-impello | 6 | rare, to overthrow, subdue, destroy
+impello | 5 | figuratively, to instigate, persuade, urge someone to do something
+impello | 6 | rarely, to overthrow, subdue, destroy
 impendeo | 1 | overhang
 impendeo | 2 | threaten
 impendeo | 3 | literally, to hang over, overhang something
-impendeo | 4 | trop., especially frequent, to impend, threaten, be imminent, hang over someone
+impendeo | 4 | figuratively, especially frequent, to impend, threaten, be imminent, hang over someone
 impendium | 1 | expense
 impendium | 3 | in particular, interest paid on a loan
 impendium | 4 | adverbial impendio, at great expense or loss; also, as an intensive, greatly, very much
@@ -389,7 +389,7 @@ impendo | 3 | transferred, to devote, employ, or apply, as time or effort, to a 
 impendo | 4 | participial impensus, ample, considerable, great; of price, dear, costly
 impendo | 5 | as a noun, impensa, outlay, cost, expense
 impenetrabilis | 1 | impenetrable
-impenetrabilis | 3 | trop., unconquerable, unyielding, that cannot be overcome
+impenetrabilis | 3 | figuratively, unconquerable, unyielding, that cannot be overcome
 imperator | 1 | general
 imperator | 2 | emperor
 imperator | 3 | originally, a commander-in-chief, a general
@@ -418,13 +418,13 @@ imperium | 3 | an order, a command, a direction
 imperium | 4 | the right or power to command, authority, control
 imperium | 5 | in particular, supreme power, sovereignty, dominion
 imperium | 6 | concretely, a realm, a dominion, an empire
-imperium | 7 | legal, the jurisdiction or discretion of a magistrate
-imperium | 8 | military, the chief command
+imperium | 7 | in law, the jurisdiction or discretion of a magistrate
+imperium | 8 | in the army, the chief command
 impero | 1 | command
 impero | 3 | in particular, to requisition, to order supplies or provisions
 impero | 4 | to govern, rule over, be in command of
 impero | 5 | transferred, to master, control: imperare sibi, to control oneself
-impero | 6 | medical, to prescribe
+impero | 6 | in medicine, to prescribe
 impertio | 1 | impart
 impertio | 3 | transferred, to make someone a partaker in something, to present with
 impervius | 1 | impassable
@@ -444,17 +444,17 @@ impetro | 4 | especially, like impetrio, to obtain a favourable omen
 impetus | 1 | attack
 impetus | 2 | impulse
 impetus | 3 | an assault, an onset, physical
-impetus | 4 | medical, an attack or fit of a disease
+impetus | 4 | in medicine, an attack or fit of a disease
 impetus | 5 | transferred, violent or rapid motion, force, vehemence
 impetus | 6 | mental, an impulse, urge, or passion
 impexus | 1 | uncombed
-impexus | 3 | trop., unpolished, rude, unrefined
+impexus | 3 | figuratively, unpolished, rude, unrefined
 impietas | 1 | impiety
 impiger | 1 | energetic
 impingo | 1 | thrust
 impingo | 3 | to strike or dash something against a surface
 impingo | 4 | in general, to force something upon someone
-impingo | 5 | trop., to drive or force someone into a situation or course of action
+impingo | 5 | figuratively, to drive or force someone into a situation or course of action
 impio | 1 | defile
 impius | 1 | impious
 impius | 3 | disloyal, undutiful, unpatriotic, lacking respect for family or country
@@ -462,12 +462,12 @@ impius | 4 | transferred, of things, unholy, accursed
 impius | 5 | as a noun, impii, wicked or abandoned men
 implacabilis | 1 | implacable
 implecto | 1 | entwine
-implecto | 3 | trop., to entangle, involve, implicate
+implecto | 3 | figuratively, to entangle, involve, implicate
 impleo | 1 | fill
 impleo | 2 | fulfil
 impleo | 3 | to fill something with something else, literally
 impleo | 4 | to fill with food, to satisfy, satiate
-impleo | 5 | trop., to fill with a feeling or quality: implere aliquem spei, to fill someone with hope
+impleo | 5 | figuratively, to fill with a feeling or quality: implere aliquem spei, to fill someone with hope
 impleo | 6 | to complete a period of time or a number, to finish, to reach a certain age
 impleo | 7 | to fulfil, discharge, or execute a duty or promise
 implicatio | 1 | entanglement
@@ -475,7 +475,7 @@ impliciscor | 1 | become confused
 implico | 1 | entwine
 implico | 2 | implicate
 implico | 3 | to infold, wind around, envelop, embrace
-implico | 4 | trop., to entangle, involve, engage in something
+implico | 4 | figuratively, to entangle, involve, engage in something
 implico | 5 | in particular, to attach closely, connect intimately, unite
 imploro | 1 | implore
 implumis | 1 | unfledged
@@ -492,12 +492,12 @@ impono | 1 | place
 impono | 2 | deceive
 impono | 3 | to put or lay something upon something else
 impono | 4 | nautical, to put on board, to embark
-impono | 5 | trop., to impose, to set over as overseer or commander
-impono | 6 | trop., to lay upon as a burden or tax
+impono | 5 | figuratively, to impose, to set over as overseer or commander
+impono | 6 | figuratively, to lay upon as a burden or tax
 impono | 7 | alicui, to trick or defraud someone, taking advantage of their trust
 importabilis | 1 | unbearable
 importo | 1 | import
-importo | 3 | trop., to introduce, bring about, occasion, cause
+importo | 3 | figuratively, to introduce, bring about, occasion, cause
 importunitas | 1 | rudeness
 importunitas | 3 | unsuitableness, unfitness, rare
 importunitas | 4 | in particular, of character, incivility, impoliteness, insolence
@@ -509,8 +509,8 @@ importunus | 5 | of character, uncivil, rude, morose, harsh, cruel
 impos | 1 | powerless
 impos | 3 | not master of something, especially of one's own mind: animi impos, out of one's senses
 impositicius | 1 | applied
-impositicius | 3 | trop., of names, arbitrarily given or applied, as opposed to natural
-impositicius | 4 | trop., of a cause, ascribed rather than inherent
+impositicius | 3 | figuratively, of names, arbitrarily given or applied, as opposed to natural
+impositicius | 4 | figuratively, of a cause, ascribed rather than inherent
 impossibilis | 1 | impossible
 impotens | 1 | powerless
 impotens | 2 | unbridled
@@ -520,20 +520,20 @@ impotens | 5 | in particular, not master of oneself, headstrong, violent, insole
 impotentia | 1 | fury
 impotentia | 2 | poverty
 impotentia | 3 | want of moderation or self-restraint, ungovernableness, violent passion
-impotentia | 4 | rare, inability, want of means, poverty
+impotentia | 4 | rarely, inability, want of means, poverty
 impraesentiarum | 1 | currently
 imprecatio | 1 | curse
-imprecatio | 3 | late Latin, in a good sense, a prayer
+imprecatio | 3 | in later Latin, in a good sense, a prayer
 imprecor | 1 | curse
-imprecor | 3 | rare, of good wishes, to invoke blessings upon someone
-imprecor | 4 | post-classical, to pray to, call upon, invoke a deity
+imprecor | 3 | rarely, of good wishes, to invoke blessings upon someone
+imprecor | 4 | in later Latin, to pray to, call upon, invoke a deity
 impressio | 1 | impression
 impressio | 3 | in particular, military, an onset, an attack, an assault
-impressio | 4 | trop., of speech, a rhythmic beat or division
+impressio | 4 | figuratively, of speech, a rhythmic beat or division
 impressio | 5 | the impression made on the mind by what is perceived
 imprimo | 1 | imprint
 imprimo | 3 | transferred, to engrave, stamp, or mark something
-imprimo | 4 | trop., to impress or engrave something on the mind
+imprimo | 4 | figuratively, to impress or engrave something on the mind
 improbabilis | 1 | objectionable
 improbitas | 1 | wickedness
 improbitas | 3 | transferred, of animals, boldness, impudence, audacity
@@ -564,16 +564,16 @@ impudicitia | 3 | transferred, equal to impudentia, shamelessness
 impudicus | 1 | lewd
 impudicus | 2 | shameless
 impudicus | 3 | unchaste, immodest, lewd, the predominant sense
-impudicus | 4 | rare, shameless, impudent, equal to impudens
+impudicus | 4 | rarely, shameless, impudent, equal to impudens
 impugno | 1 | attack
 impugno | 3 | transferred, to attack, oppose, or impugn something, such as an argument or policy
 impulsio | 1 | impulse
 impulsio | 3 | external pressure or force
-impulsio | 4 | trop., incitement, instigation
+impulsio | 4 | figuratively, incitement, instigation
 impulsio | 5 | in rhetoric, a jest or witticism used to provoke laughter
 impulsor | 1 | instigator
 impulsus2 | 1 | impulse
-impulsus2 | 3 | trop., incitement, instigation, influence
+impulsus2 | 3 | figuratively, incitement, instigation, influence
 impunis | 1 | unpunished
 impunis | 3 | adverbial impune, without punishment, safely, with impunity
 impunitas | 1 | impunity
@@ -583,22 +583,22 @@ impuratus | 1 | vile
 impurus | 1 | depraved
 impurus | 2 | filthy
 impurus | 3 | unclean, filthy, foul, literal, very rare
-impurus | 4 | trop., morally impure, defiled, infamous, abandoned, vile
+impurus | 4 | figuratively, morally impure, defiled, infamous, abandoned, vile
 imputo | 1 | impute
 imputo | 3 | literally, to enter into the reckoning, to charge to an account
-imputo | 4 | trop., to attribute something to someone as a merit or a fault, to take credit for
+imputo | 4 | figuratively, to attribute something to someone as a merit or a fault, to take credit for
 in1 | 1 | in
 in1 | 3 | with the ablative, indicating place or time: in, within, on, during
 in1 | 4 | with the accusative, indicating motion or direction: into, onto, towards
 in1 | 5 | with the accusative, indicating purpose, result, or hostile or friendly disposition: against, for, toward
 in1 | 6 | in composition, this preposition becomes assimilated before l, m, r, and the labials: illabor, immitto, impello
 in11 | 1 | unsated
-in11 | 3 | trop., of grief, love, or slaughter, insatiable, incessant
+in11 | 3 | figuratively, of grief, love, or slaughter, insatiable, incessant
 in12 | 1 | inexplicable
 in12 | 2 | inextricable
 in12 | 3 | literally, that cannot be untangled or unfastened, intricate
 in12 | 4 | transferred, of roads, impassable
-in12 | 5 | trop., that cannot be explained or resolved, baffling
+in12 | 5 | figuratively, that cannot be explained or resolved, baffling
 in14 | 1 | unexplored
 in14 | 3 | adverbial inexplorato, without previous examination or reconnaissance
 in2 | 1 | un-
@@ -609,19 +609,19 @@ in5 | 1 | uneven
 in5 | 3 | unequal, unlike, differing in size
 ina | 1 | fibre
 inaccessus | 1 | inaccessible
-inaccessus | 3 | trop., unattainable
+inaccessus | 3 | figuratively, unattainable
 inacesco | 1 | sour
-inacesco | 3 | trop., to sour, embitter, cause resentment
+inacesco | 3 | figuratively, to sour, embitter, cause resentment
 inaedifico | 1 | build
 inaedifico | 3 | transferred, to wall up, to block off with a structure
-inaedifico | 4 | trop., to burden, to load down
+inaedifico | 4 | figuratively, to burden, to load down
 inaequalitas | 1 | inequality
 inaequalitas | 3 | in grammar, irregularity, anomaly
 inaestimabilis | 1 | inestimable
 inaestimabilis | 2 | valueless
 inaestimabilis | 3 | that cannot be estimated or judged, uncertain
 inaestimabilis | 4 | in particular, priceless, invaluable, incalculable
-inaestimabilis | 5 | rare, opposite sense, not worthy of esteem, valueless
+inaestimabilis | 5 | rarely, opposite sense, not worthy of esteem, valueless
 inalbo | 1 | whiten
 inamabilis | 1 | hateful
 inambulatio | 1 | pacing
@@ -633,12 +633,12 @@ inanis | 1 | empty
 inanis | 2 | vain
 inanis | 3 | physically empty, void, hollow
 inanis | 4 | as a noun, inane, an empty space, a void
-inanis | 5 | trop., empty, useless, worthless, unprofitable
+inanis | 5 | figuratively, empty, useless, worthless, unprofitable
 inanis | 6 | of persons, vain, conceited, petty
 inanitas | 1 | emptiness
-inanitas | 3 | trop., uselessness, inanity, vapidity
+inanitas | 3 | figuratively, uselessness, inanity, vapidity
 inardesco | 1 | kindle
-inardesco | 3 | trop., to be inflamed or kindled with passion, desire, or anger
+inardesco | 3 | figuratively, to be inflamed or kindled with passion, desire, or anger
 inaresco | 1 | dry up
 inaro | 1 | plough in
 inaro | 3 | transferred, to plough, till, or cultivate land generally
@@ -649,21 +649,21 @@ inaudio | 1 | overhear
 inauditus2 | 1 | unprecedented
 inauditus2 | 2 | undefended
 inauditus2 | 3 | unheard-of, unusual, strange, new, the frequent classical sense
-inauditus2 | 4 | legal, of an accused person, without a hearing, not given a chance to speak
+inauditus2 | 4 | in law, of an accused person, without a hearing, not given a chance to speak
 inauditus2 | 5 | literally, not heard, inaudible
 inauguro | 1 | inaugurate
 inauguro | 3 | literally, to take omens from the flight of birds, to practise augury
 inauguro | 4 | transferred, to consecrate or install a place or official with the sanction of augury
 inauguro | 5 | in general, to install someone in office
 inauro | 1 | gild
-inauro | 3 | trop., to enrich, to make wealthy
+inauro | 3 | figuratively, to enrich, to make wealthy
 inauspicatus | 1 | inauspicious
 inauspicatus | 3 | literally, at which no auspices were taken, without augury
-inauspicatus | 4 | of bad omen, unlucky, post-Augustan
-inauspicatus | 5 | late Latin, unhoped for, unexpected
+inauspicatus | 4 | after Augustus, of bad omen, unlucky
+inauspicatus | 5 | in later Latin, unhoped for, unexpected
 inausus | 1 | unattempted
 incalesco | 1 | warm
-incalesco | 3 | trop., to glow, kindle, or grow ardent with passion, especially love
+incalesco | 3 | figuratively, to glow, kindle, or grow ardent with passion, especially love
 incallidus | 1 | unskilful
 incandesco | 1 | glow
 incanesco | 1 | grey
@@ -677,8 +677,8 @@ incautus | 4 | passive, not guarded against, unforeseen, unexpected, dangerous
 incedo | 1 | march
 incedo | 2 | befall
 incedo | 3 | to walk or march at a measured, stately pace
-incedo | 4 | military, to advance, move forward
-incedo | 5 | trop., to triumph over, exult over someone, with the dative
+incedo | 4 | in the army, to advance, move forward
+incedo | 5 | figuratively, to triumph over, exult over someone, with the dative
 incedo | 6 | of abstract things, to come upon, befall, seize, or attack someone
 incenatus | 1 | fasting
 incendiarius | 1 | incendiary
@@ -688,29 +688,29 @@ incendium | 2 | passion
 incendium | 3 | a conflagration, a destructive fire
 incendium | 4 | transferred, heat, burning, in general
 incendium | 5 | concretely, poetic, a firebrand, a torch
-incendium | 6 | trop., vehemence, a consuming passion or emotion
+incendium | 6 | figuratively, vehemence, a consuming passion or emotion
 incendo | 1 | kindle
 incendo | 2 | incense
 incendo | 3 | literally, to set on fire, to burn
 incendo | 4 | to make bright or shining, to illumine
-incendo | 5 | trop., to inflame, rouse, incite, excite someone
+incendo | 5 | figuratively, to inflame, rouse, incite, excite someone
 incendo | 6 | to enhance or raise, of price: incendere annonam, to drive up the price of grain
 incendo | 7 | to destroy, ruin, lay waste
 incensum | 1 | incense
-incensum | 3 | ecclesiastical, the act of lighting a fire or offering
+incensum | 3 | in Christian Latin, the act of lighting a fire or offering
 incensum | 4 | in general, a sacrifice
 incensus2 | 1 | unregistered
 incentivus | 1 | leading
-incentivus | 3 | trop., that provokes or incites
+incentivus | 3 | figuratively, that provokes or incites
 incentivus | 4 | as a noun, incentivum, an incentive, a stimulus
 incentor | 1 | precentor
-incentor | 3 | trop., an inciter, an instigator
+incentor | 3 | figuratively, an inciter, an instigator
 inceptio | 1 | undertaking
 incepto | 1 | attempt
 incepto | 3 | especially, incepto cum aliquo, to pick a quarrel with someone
 incerno | 1 | sift
 incero | 1 | wax
-incero | 3 | poetic, transferred, genua incerare, to cling persistently to someone's knees in supplication
+incero | 3 | in poetry, transferred, genua incerare, to cling persistently to someone's knees in supplication
 incerto2 | 1 | unsettle
 incertus | 1 | uncertain
 incertus | 3 | of things, unsettled, doubtful, untrustworthy, not firm
@@ -718,7 +718,7 @@ incertus | 4 | of perceptions or convictions, undetermined, dubious
 incertus | 5 | as a noun, incertum, an uncertainty
 incertus | 6 | of a person, hesitating, doubtful, unsure what to do
 incesso | 1 | assail
-incesso | 3 | trop., to attack with words, to reproach, accuse
+incesso | 3 | figuratively, to attack with words, to reproach, accuse
 incessus | 1 | gait
 incessus | 3 | in particular, rare, a hostile incursion, an invasion
 incessus | 4 | transferred, concretely, an entrance, an approach
@@ -733,15 +733,15 @@ incido1 | 1 | fall
 incido1 | 2 | happen
 incido1 | 3 | literally, to fall into or onto something
 incido1 | 4 | to meet or come upon someone or something unexpectedly, to fall in with
-incido1 | 5 | trop., to fall into a condition, such as illness or misfortune
+incido1 | 5 | figuratively, to fall into a condition, such as illness or misfortune
 incido1 | 6 | to occur to the mind, to come to mind
 incido1 | 7 | to fall out, to occur, to come to pass
 incido2 | 1 | cut
 incido2 | 2 | engrave
 incido2 | 3 | to cut into, cut open, cut through
 incido2 | 4 | transferred, to carve, engrave, or inscribe on a surface
-incido2 | 5 | trop., to break off, interrupt, put an end to
-incido2 | 6 | trop., to cut off, cut short, remove
+incido2 | 5 | figuratively, to break off, interrupt, put an end to
+incido2 | 6 | figuratively, to cut off, cut short, remove
 incido2 | 7 | in rhetoric, as a noun, incisum, a short clause or division of a sentence
 incilis | 1 | ditch
 incilis | 3 | as an adjective, cut into, rare
@@ -751,7 +751,7 @@ incipisso | 1 | begin
 incisio | 1 | incision
 incisio | 3 | in rhetoric, a clause or division of a sentence
 incisio | 4 | in grammar, a caesura
-incisio | 5 | medical, a griping pain, colic
+incisio | 5 | in medicine, a griping pain, colic
 incisura | 1 | incision
 incisura | 3 | in particular, a natural indentation, as in a hand or a leaf
 incisura | 4 | in painting, the boundary between light and shadow
@@ -765,8 +765,8 @@ incito | 1 | hasten
 incito | 2 | incite
 incito | 3 | literally, to set in rapid motion, to urge forward, to speed up
 incito | 4 | to augment, increase, cause to grow larger
-incito | 5 | trop., to encourage, stimulate, rouse, spur on
-incito | 6 | trop., in a bad sense, to stir up, provoke, incite to wrongdoing
+incito | 5 | figuratively, to encourage, stimulate, rouse, spur on
+incito | 6 | figuratively, in a bad sense, to stir up, provoke, incite to wrongdoing
 incitus2 | 1 | immovable
 incitus2 | 3 | of a chess piece, unable to be moved
 incitus2 | 4 | in the phrase ad incitas redigere, to bring to a standstill, to reduce to extremity
@@ -778,26 +778,26 @@ inclamo | 3 | good sense, to call upon for help, to invoke
 inclamo | 4 | bad sense, to call out against, to scold, revile
 inclaresco | 1 | brighten
 inclaresco | 2 | become famous
-inclaresco | 3 | literally, to become clear or bright, late Latin
-inclaresco | 4 | trop., to become famous, renowned
+inclaresco | 3 | in later Latin, literally, to become clear or bright
+inclaresco | 4 | figuratively, to become famous, renowned
 inclemens | 1 | harsh
 inclementia | 1 | harshness
 inclinatio | 1 | inclination
 inclinatio | 3 | literally, a leaning or bending to one side
-inclinatio | 4 | trop., a tendency, a leaning toward something
+inclinatio | 4 | figuratively, a tendency, a leaning toward something
 inclinatio | 5 | in particular, favour, bias, partiality
 inclinatio | 6 | transferred, a change, an alteration
 inclino | 1 | incline
 inclino | 2 | decline
 inclino | 3 | literally, to bend, lean, or turn something in a direction
-inclino | 4 | military, to cause to fall back, or, neuter, to give way, retreat
-inclino | 5 | trop., to be favourably disposed toward something, to lean toward
-inclino | 6 | trop., to change for the worse, to bring down, to fail
+inclino | 4 | in the army, to cause to fall back, or, intransitively, to give way, retreat
+inclino | 5 | figuratively, to be favourably disposed toward something, to lean toward
+inclino | 6 | figuratively, to change for the worse, to bring down, to fail
 includo | 1 | enclose
 includo | 2 | include
 includo | 3 | to shut up, confine, imprison
 includo | 4 | transferred, to obstruct, block, stop up
-includo | 5 | trop., to include, insert, incorporate into something
+includo | 5 | figuratively, to include, insert, incorporate into something
 includo | 6 | of time, to close, finish, end
 inclutus | 1 | renowned
 incoctus2 | 1 | raw
@@ -812,11 +812,11 @@ incognitus | 1 | unknown
 incognitus | 3 | not examined, not investigated, untried
 incoho | 1 | begin
 incoho | 3 | participial incohatus, only begun, unfinished, incomplete
-incoho | 4 | neuter, to begin to speak
+incoho | 4 | intransitively, to begin to speak
 incola | 1 | inhabitant
 incola | 3 | transferred, of animals or things, a native, a dweller
 incolo1 | 1 | inhabit
-incolo1 | 3 | rare, late Latin, to cultivate land
+incolo1 | 3 | rarely, in later Latin, to cultivate land
 incolumis | 1 | unharmed
 incolumitas | 1 | safety
 incomitatus | 1 | unaccompanied
@@ -832,13 +832,13 @@ incommutabilis | 1 | unchangeable
 incomparabilis | 1 | incomparable
 incompertus | 1 | unknown
 incompositus | 1 | disordered
-incompositus | 3 | rare, not compounded, simple
+incompositus | 3 | rarely, not compounded, simple
 incompositus | 4 | transferred, of style, irregular, unpolished
 incomprehensibilis | 1 | incomprehensible
 incomprehensibilis | 3 | literally, that cannot be seized or caught
-incomprehensibilis | 4 | trop., of a debater, elusive, hard to pin down
+incomprehensibilis | 4 | figuratively, of a debater, elusive, hard to pin down
 incomptus | 1 | unkempt
-incomptus | 3 | trop., of speech, artless, unpolished, yet pleasing in its simplicity
+incomptus | 3 | figuratively, of speech, artless, unpolished, yet pleasing in its simplicity
 inconcilio | 1 | dupe
 inconcilio | 3 | in particular, to embarrass, entangle in difficulties, make trouble for someone
 inconcinnus | 1 | awkward
@@ -864,51 +864,51 @@ incontinens | 4 | usually, unrestrained, immoderate, lacking self-control
 inconveniens | 1 | unsuitable
 incoquo | 1 | boil in
 incoquo | 3 | transferred, to dip in, to dye or colour
-incoquo | 4 | trop., poetic, to imbue, fill with a quality
+incoquo | 4 | figuratively, in poetry, to imbue, fill with a quality
 incoram | 1 | openly
 incoram | 3 | with the genitive, in the presence of someone
 incorporalis | 1 | incorporeal
-incorporalis | 3 | legal, of rights or abstractions not perceptible by the senses, as opposed to physical things
+incorporalis | 3 | in law, of rights or abstractions not perceptible by the senses, as opposed to physical things
 incorporatio | 1 | embodiment
-incorporatio | 3 | especially, incorporation into the public treasury, late Latin
+incorporatio | 3 | in later Latin, especially, incorporation into the public treasury
 incorporo | 1 | embody
-incorporo | 3 | trop., to incorporate, unite as one body
-incorporo | 4 | especially, to pay into the public treasury, late Latin
+incorporo | 3 | figuratively, to incorporate, unite as one body
+incorporo | 4 | in later Latin, especially, to pay into the public treasury
 incorruptus | 1 | uncorrupted
 incorruptus | 3 | literally, unspoiled, uninjured, undamaged
-incorruptus | 4 | trop., unbribed, incorruptible, of a person's integrity
+incorruptus | 4 | figuratively, unbribed, incorruptible, of a person's integrity
 increbresco | 1 | spread
 incredibilis | 1 | incredible
 incredibilis | 3 | active, rare, unbelieving, incredulous
 incrementum | 1 | growth
 incrementum | 3 | transferred, poetic, offspring, progeny
-incrementum | 4 | trop., an increase, an addition, augmentation
+incrementum | 4 | figuratively, an increase, an addition, augmentation
 increpito | 1 | chide
-increpito | 3 | encouragingly, to call upon, to challenge, poetic
+increpito | 3 | in poetry, encouragingly, to call upon, to challenge
 increpito | 4 | transferred, rare, to beat, strike
 increpo | 1 | resound
 increpo | 2 | rebuke
 increpo | 3 | literally, to make a noise, to resound, rustle, rattle
 increpo | 4 | active, to utter aloud, to sound forth
-increpo | 5 | trop., to exclaim loudly against, to blame, chide, reprove someone
+increpo | 5 | figuratively, to exclaim loudly against, to blame, chide, reprove someone
 incresco | 1 | grow
-incresco | 3 | trop., to grow or increase in, of a feeling: irae increscunt, angers grow
+incresco | 3 | figuratively, to grow or increase in, of a feeling: irae increscunt, angers grow
 incresco | 4 | in general, to increase, augment
 incruentus | 1 | bloodless
 incrusto | 1 | encrust
 incubatio | 1 | incubation
-incubatio | 3 | trop., unlawful possession, occupying something without right
+incubatio | 3 | figuratively, unlawful possession, occupying something without right
 incubo1 | 1 | lie upon
 incubo1 | 3 | in particular, to sit on eggs, to brood, to hatch
-incubo1 | 4 | trop., to brood over, to jealously guard or covet something
-incubo1 | 5 | trop., to press upon, weigh upon, be a burden to
+incubo1 | 4 | figuratively, to brood over, to jealously guard or covet something
+incubo1 | 5 | figuratively, to press upon, weigh upon, be a burden to
 incubo2 | 1 | incubus
 incubo2 | 3 | a spirit believed to guard buried treasure
 incubo2 | 4 | the nightmare, a demon thought to cause bad dreams
 inculco | 1 | inculcate
 inculco | 3 | literally, to tread down, to ram down
-inculco | 4 | trop., to stuff, press, or force something in, such as foreign words
-inculco | 5 | trop., to force upon, impress on, drum into someone's mind
+inculco | 4 | figuratively, to stuff, press, or force something in, such as foreign words
+inculco | 5 | figuratively, to force upon, impress on, drum into someone's mind
 inculpatus | 1 | blameless
 incultus1 | 1 | uncultivated
 incultus1 | 3 | transferred, unadorned, unpolished, neglected, rude, of appearance or style
@@ -917,13 +917,13 @@ incumbo | 1 | lean
 incumbo | 2 | endeavour
 incumbo | 3 | literally, to lean or recline upon something
 incumbo | 4 | transferred, to lean toward, incline, overhang
-incumbo | 5 | trop., to press upon, weigh upon, burden
-incumbo | 6 | trop., to apply oneself to, devote oneself to a task
-incumbo | 7 | to be incumbent upon someone as a duty, post-classical
+incumbo | 5 | figuratively, to press upon, weigh upon, burden
+incumbo | 6 | figuratively, to apply oneself to, devote oneself to a task
+incumbo | 7 | in later Latin, to be incumbent upon someone as a duty
 incunabula | 1 | swaddling clothes
 incunabula | 3 | transferred, the cradle, or one's birthplace
 incunabula | 4 | transferred, childhood, earliest years
-incunabula | 5 | trop., the origin, beginning, or infancy of something
+incunabula | 5 | figuratively, the origin, beginning, or infancy of something
 incunctans | 1 | unhesitating
 incuria | 1 | negligence
 incuriosus | 1 | careless
@@ -932,44 +932,44 @@ incuriosus | 4 | passive, of a thing, done carelessly, without care
 incurro | 1 | attack
 incurro | 2 | incur
 incurro | 3 | literally, to run against, rush upon, assail
-incurro | 4 | military, to make an inroad, to invade
-incurro | 5 | trop., to strike the eye or attention, to meet the sight
+incurro | 4 | in the army, to make an inroad, to invade
+incurro | 5 | figuratively, to strike the eye or attention, to meet the sight
 incurro | 6 | of events, to befall, happen, occur to someone
 incursio | 1 | assault
 incursio | 3 | in particular, a hostile inroad, an incursion
 incursito | 1 | assail
-incursito | 3 | trop., to clash or collide with, throughout life
+incursito | 3 | figuratively, to clash or collide with, throughout life
 incurso | 1 | assail
 incurso | 3 | transferred, of sensory impressions, to strike upon the eyes or ears
-incurso | 4 | trop., to assail, of an emotion such as grief
+incurso | 4 | figuratively, to assail, of an emotion such as grief
 incursus2 | 1 | assault
 incursus2 | 3 | transferred, poetic, of things, a rushing or dashing against
-incursus2 | 4 | trop., an impulse, an inclination
+incursus2 | 4 | figuratively, an impulse, an inclination
 incurvo | 1 | bend
-incurvo | 3 | trop., to bend, cast down, disturb someone's spirit
+incurvo | 3 | figuratively, to bend, cast down, disturb someone's spirit
 incurvus | 1 | bent
 incus | 1 | anvil
-incus | 3 | figurative, something being worked on or prepared, as on an anvil
+incus | 3 | figuratively, something being worked on or prepared, as on an anvil
 incuso | 1 | blame
 incustoditus | 1 | unguarded
 incustoditus | 2 | heedless
 incustoditus | 3 | passive, literally, not watched, unguarded
-incustoditus | 4 | passive, trop., unconcealed, undisguised
+incustoditus | 4 | figuratively, in a passive sense, unconcealed, undisguised
 incustoditus | 5 | active, heedless, imprudent, incautious
 incutio | 1 | strike
 incutio | 2 | inspire
 incutio | 3 | literally, to strike upon or against something
 incutio | 4 | transferred, to throw, cast, hurl
-incutio | 5 | trop., to strike into, to inspire someone with fear, terror, or awe
+incutio | 5 | figuratively, to strike into, to inspire someone with fear, terror, or awe
 incutio | 6 | to shake, cause to tremble
 indagator | 1 | tracker
 indagator | 3 | transferred, an investigator, a searcher
 indago1 | 1 | track
-indago1 | 3 | trop., to investigate, search into, explore
-indago1 | 4 | trop., to hunt for, strive to obtain something
+indago1 | 3 | figuratively, to investigate, search into, explore
+indago1 | 4 | figuratively, to hunt for, strive to obtain something
 indago2 | 1 | encirclement
 indago2 | 3 | transferred, a military encirclement of the enemy
-indago2 | 4 | trop., an investigation, a searching into
+indago2 | 4 | figuratively, an investigation, a searching into
 inde | 1 | from there
 inde | 2 | thence
 inde | 3 | of things or causes, from that, hence
@@ -1002,14 +1002,14 @@ indico2 | 1 | proclaim
 indico2 | 3 | especially, to appoint a place or date for a gathering
 indico2 | 4 | to impose, enjoin, inflict, as a tax or penalty
 indictus2 | 1 | unsaid
-indictus2 | 3 | post-classical, unspeakable, ineffable
+indictus2 | 3 | in later Latin, unspeakable, ineffable
 # review: indidem "thence" dropped the sameness that is the whole word; "from the same place" kept at four words
 indidem | 1 | from the same place
 indidem | 2 | thence
 indidem | 3 | from that same source or matter
 indifferens | 1 | indifferent
 indifferens | 3 | philosophical term, of Stoic ethics, neither good nor evil, morally neutral
-indifferens | 4 | grammatical, of a syllable, doubtful, able to be long or short
+indifferens | 4 | in grammar, of a syllable, doubtful, able to be long or short
 indigena | 1 | native
 indigentia | 1 | need
 indigentia | 2 | craving
@@ -1028,13 +1028,13 @@ indigitamenta | 1 | ritual books
 indignatio | 1 | indignation
 indignatio | 3 | in rhetoric, a speech designed to provoke indignation against someone
 indignatio | 4 | transferred, poetic, a provocation, an occasion for outrage
-indignatio | 5 | post-classical, a wound, a sore
+indignatio | 5 | in later Latin, a wound, a sore
 indignitas | 1 | unworthiness
 indignitas | 2 | indignity
 indignitas | 3 | unworthy or degrading treatment, insult, indignity
 indignitas | 4 | indignation felt as a result of unworthy treatment
 indignor | 1 | resent
-indignor | 3 | poetic, of things, to disdain, resist, chafe against
+indignor | 3 | in poetry, of things, to disdain, resist, chafe against
 indignor | 4 | of wounds, to become inflamed or irritated
 indignus | 1 | unworthy
 indignus | 2 | undeserved
@@ -1051,7 +1051,7 @@ indipiscor | 3 | transferred, rare, to begin, commence
 indiscretus | 1 | undivided
 indiscretus | 2 | indistinguishable
 indiscretus | 3 | closely connected, unseparated
-indiscretus | 4 | trop., undistinguishable, impossible to tell apart
+indiscretus | 4 | figuratively, undistinguishable, impossible to tell apart
 indiscretus | 5 | active, rare, not distinguishing, indiscriminate, random
 indissolubilis | 1 | indissoluble
 indissolubilis | 3 | transferred, of persons, indestructible, imperishable
@@ -1059,12 +1059,12 @@ indistinctus | 1 | indistinct
 indistinctus | 3 | especially, obscure, unclear
 indistinctus | 4 | of style, devoid of ostentation, restrained, unassuming
 individuus | 1 | indivisible
-individuus | 3 | trop., inseparable, undivided, of a shared quality or company
+individuus | 3 | figuratively, inseparable, undivided, of a shared quality or company
 indivisus | 1 | undivided
 indivisus | 3 | transferred, held in common, jointly, pro indiviso
 indo | 1 | place
-indo | 3 | trop., to introduce, bring in
-indo | 4 | trop., to impart, apply, or impose something on someone
+indo | 3 | figuratively, to introduce, bring in
+indo | 4 | figuratively, to impart, apply, or impose something on someone
 indo | 5 | especially, to give a name to, to name after: nomen indere, to give a name
 indocilis | 1 | unteachable
 indocilis | 3 | transferred, untaught, unlearned, ignorant, rude
@@ -1074,37 +1074,37 @@ indoles | 2 | talent
 indoles | 3 | an inborn or natural quality, in general
 indoles | 4 | in particular, natural ability, talent, disposition, character
 indolesco | 1 | ache
-indolesco | 3 | trop., to feel grief or distress at something
+indolesco | 3 | figuratively, to feel grief or distress at something
 indomitus | 1 | untamed
 indormio | 1 | doze
 indormio | 3 | transferred, of a limb, to be numb, asleep
-indormio | 4 | trop., to be negligent or careless about a matter
+indormio | 4 | figuratively, to be negligent or careless about a matter
 indotatus | 1 | portionless
 indotatus | 3 | transferred, poetic, of the dead, denied proper funeral honours
-indotatus | 4 | trop., unadorned, plain, poor, of style
+indotatus | 4 | figuratively, unadorned, plain, poor, of style
 indubitatus | 1 | undoubted
 induco | 1 | lead in
 induco | 2 | persuade
 induco | 3 | literally, to lead, bring, or conduct into a place
 induco | 4 | in particular, to exhibit or bring forward on the stage or in the arena
 induco | 5 | transferred, to put on an article of clothing; to overlay, spread over
-induco | 6 | trop., to introduce, bring in, establish, such as a custom
-induco | 7 | trop., to mislead, delude, deceive
+induco | 6 | figuratively, to introduce, bring in, establish, such as a custom
+induco | 7 | figuratively, to mislead, delude, deceive
 induco | 8 | animum inducere, to resolve, determine, or to suppose, imagine
 inductio | 1 | introduction
-inductio | 3 | trop., a purpose, resolution, inclination
+inductio | 3 | figuratively, a purpose, resolution, inclination
 inductio | 4 | in rhetoric and logic, induction, reasoning from particulars to a general conclusion
 indulgentia | 1 | indulgence
 indulgentia | 3 | transferred, of weather or fortune, mildness, favour
-indulgentia | 4 | post-classical, a remission of punishment or taxation
+indulgentia | 4 | in later Latin, a remission of punishment or taxation
 indulgeo | 1 | indulge
-indulgeo | 3 | neuter, to be kind, tender, or indulgent toward someone, with the dative
+indulgeo | 3 | intransitively, to be kind, tender, or indulgent toward someone, with the dative
 indulgeo | 4 | to give oneself up to, be addicted to something
 indulgeo | 5 | active, to grant, concede, allow, bestow as a favour
 induo | 1 | don
-induo | 3 | trop., to put on, assume, take up: to adopt a role or quality
+induo | 3 | figuratively, to put on, assume, take up: to adopt a role or quality
 induresco | 1 | harden
-induresco | 3 | trop., to become firmly set, unyielding, in loyalty or vice
+induresco | 3 | figuratively, to become firmly set, unyielding, in loyalty or vice
 induro | 1 | harden
 industria1 | 1 | diligence
 industriosus | 1 | industrious
@@ -1114,49 +1114,49 @@ indutiae | 3 | transferred, a pause, a lull, a respite in general
 indutus2 | 1 | donning
 inebrio | 1 | intoxicate
 inebrio | 3 | transferred, of colour, to saturate deeply
-inebrio | 4 | trop., to fill someone's ear with talk
+inebrio | 4 | figuratively, to fill someone's ear with talk
 inedia | 1 | fasting
 inefficax | 1 | ineffective
 inelegans | 1 | inelegant
-inelegans | 3 | transferred, late Latin, unreasonable, inconsistent
+inelegans | 3 | transferred, in later Latin, unreasonable, inconsistent
 inenarrabilis | 1 | indescribable
 ineo | 1 | enter
 ineo | 2 | begin
 ineo | 3 | literally, to go into, enter a place
 ineo | 4 | in particular, euphemistic, to mate with, have intercourse with
-ineo | 5 | trop., to enter upon, begin a business, office, or enterprise
+ineo | 5 | figuratively, to enter upon, begin a business, office, or enterprise
 ineptia | 1 | folly
 ineptia | 3 | plural ineptiae, fooleries, trifles, nonsense
 ineptus | 1 | inept
 inequito | 1 | ride over
-inequito | 3 | trop., to insult, to ride roughshod over someone
+inequito | 3 | figuratively, to insult, to ride roughshod over someone
 inermis | 1 | unarmed
 inermis | 3 | transferred, toothless, or weak, powerless
-inermis | 4 | trop., harmless, that wounds no one
-inermis | 5 | trop., unprepared, not well versed in a subject
+inermis | 4 | figuratively, harmless, that wounds no one
+inermis | 5 | figuratively, unprepared, not well versed in a subject
 inerro | 1 | wander
-inerro | 3 | trop., to float or hover before the eyes or memory
+inerro | 3 | figuratively, to float or hover before the eyes or memory
 iners | 1 | unskilled
 iners | 2 | idle
 iners | 3 | without skill or art, unskilful
 iners | 4 | in general, inactive, idle, indolent, sluggish
 inertia | 1 | idleness
 inertia | 2 | unskilfulness
-inertia | 3 | rare, want of skill or art, ignorance
+inertia | 3 | rarely, want of skill or art, ignorance
 inertia | 4 | in general, inactivity, laziness, sluggishness
 ineruditus | 1 | unlearned
 inesco | 1 | entice
-inesco | 3 | trop., to deceive by means of a lure
-inesco | 4 | rare, to fill with food, satiate
+inesco | 3 | figuratively, to deceive by means of a lure
+inesco | 4 | rarely, to fill with food, satiate
 inevitabilis | 1 | inevitable
 inexcusabilis | 1 | inexcusable
 inexercitatus | 1 | untrained
-inexercitatus | 3 | rare, unemployed, not busy
+inexercitatus | 3 | rarely, unemployed, not busy
 inexorabilis | 1 | inexorable
 inexorabilis | 3 | of things, inexorably severe, harsh, unyielding
 inexorabilis | 4 | that cannot be obtained by entreaty, rare
 inexpeditus | 1 | entangled
-inexpeditus | 3 | post-classical, of persons, not ready, slow at something
+inexpeditus | 3 | in later Latin, of persons, not ready, slow at something
 inexpeditus | 4 | of things, not easy, difficult
 inexpertus | 1 | inexperienced
 inexpertus | 2 | untested
@@ -1166,20 +1166,20 @@ inexpiabilis | 1 | inexpiable
 inexpiabilis | 3 | transferred, implacable, irreconcilable, obstinate
 inexplebilis | 1 | insatiable
 inexplebilis | 3 | literally, of hunger or thirst, unable to be satisfied
-inexplebilis | 4 | trop., of desire or ambition, insatiable
+inexplebilis | 4 | figuratively, of desire or ambition, insatiable
 inexpugnabilis | 1 | impregnable
-inexpugnabilis | 3 | trop., unconquerable, invincible, safe from attack
+inexpugnabilis | 3 | figuratively, unconquerable, invincible, safe from attack
 inexspectatus | 1 | unexpected
 inexsuperabilis | 1 | insurmountable
-inexsuperabilis | 3 | trop., unconquerable, invincible, unsurpassable
+inexsuperabilis | 3 | figuratively, unconquerable, invincible, unsurpassable
 inextricabilis | 1 | inextricable
-inextricabilis | 3 | trop., incurable, or inexplicable
+inextricabilis | 3 | figuratively, incurable, or inexplicable
 infabre | 1 | unskilfully
 infacetus | 1 | coarse
 infamia | 1 | infamy
 infamis | 1 | infamous
 infamo | 1 | defame
-infamo | 3 | transferred, post-Augustan, to accuse, charge, blame
+infamo | 3 | transferred, after Augustus, to accuse, charge, blame
 infandus | 1 | unspeakable
 infans | 1 | speechless
 infans | 2 | infant
@@ -1197,7 +1197,7 @@ infantia | 4 | in particular, want of eloquence, in rhetoric
 infantia | 5 | transferred, early childhood, one's earliest years
 infantia | 6 | collectively, the young, children
 infarcio | 1 | stuff
-infarcio | 3 | trop., to pack in words densely, of style
+infarcio | 3 | figuratively, to pack in words densely, of style
 infatuo | 1 | infatuate
 infatuo | 3 | transferred, to deprive of flavour, make flat or tasteless
 infaustus | 1 | unlucky
@@ -1215,13 +1215,13 @@ inferiae | 1 | funeral offerings
 infernus | 1 | lower
 infernus | 2 | infernal
 infernus | 3 | of or belonging to the Lower World, the underworld
-infernus | 4 | as a noun, eccl. Latin, hell
+infernus | 4 | as a noun, in Christian Latin, hell
 infero | 1 | bring in
 infero | 2 | infer
 infero | 3 | literally, to carry, bring, or throw into a place
 infero | 4 | in particular, to bury, to bring for burial
-infero | 5 | military, signa inferre, to attack, to bear the standards against the enemy
-infero | 6 | trop., to bring forward, introduce, cause, inflict
+infero | 5 | in the army, signa inferre, to attack, to bear the standards against the enemy
+infero | 6 | figuratively, to bring forward, introduce, cause, inflict
 infero | 7 | in particular, to conclude, to draw an inference
 inferus | 1 | lower
 inferus | 2 | inferior
@@ -1237,38 +1237,38 @@ infestus | 2 | hostile
 infestus | 3 | passive, of a place, made unsafe, beset with danger
 infestus | 4 | active, that threatens or endangers, hostile, dangerous
 infibulo | 1 | clasp
-infibulo | 3 | medical, to infibulate, to fasten with a clasp for chastity
+infibulo | 3 | in medicine, to infibulate, to fasten with a clasp for chastity
 infibulo | 4 | in cookery, to fasten together food that is stuffed
 inficio | 1 | dye
 inficio | 2 | corrupt
 inficio | 3 | literally, to stain, dye, colour, tinge with something
 inficio | 4 | transferred, bad sense, to taint, poison, spoil
-inficio | 5 | trop., to instruct or imbue someone with knowledge, especially early in life
-inficio | 6 | trop., to spoil, corrupt, deprave
+inficio | 5 | figuratively, to instruct or imbue someone with knowledge, especially early in life
+inficio | 6 | figuratively, to spoil, corrupt, deprave
 infidelis | 1 | unfaithful
-infidelis | 3 | ecclesiastical Latin, unbelieving, infidel
+infidelis | 3 | in Christian Latin, unbelieving, infidel
 infidus | 1 | faithless
 infigo | 1 | fix
-infigo | 3 | trop., to impress or imprint upon the mind
+infigo | 3 | figuratively, to impress or imprint upon the mind
 infinitas | 1 | infinity
 infinitus | 1 | infinite
 infinitus | 2 | indefinite
 infinitus | 3 | boundless, unlimited, without end
 infinitus | 4 | innumerable, countless
-infinitus | 5 | grammatical, indefinite: verbum infinitum, the infinitive
+infinitus | 5 | in grammar, indefinite: verbum infinitum, the infinitive
 infirmitas | 1 | weakness
 infirmitas | 2 | inconstancy
 infirmitas | 3 | physical weakness, feebleness
 infirmitas | 4 | in particular, infirmity, sickness, indisposition
-infirmitas | 5 | trop., weakness of spirit or mind, lack of courage
+infirmitas | 5 | figuratively, weakness of spirit or mind, lack of courage
 infirmitas | 6 | in particular, fickleness, inconstancy
 infirmo1 | 1 | weaken
 infirmo1 | 2 | invalidate
 infirmo1 | 3 | literally, to deprive of strength, weaken, enfeeble
-infirmo1 | 4 | trop., to disprove, refute, invalidate an argument
-infirmo1 | 5 | trop., to annul, make void, such as a law or contract
+infirmo1 | 4 | figuratively, to disprove, refute, invalidate an argument
+infirmo1 | 5 | figuratively, to annul, make void, such as a law or contract
 infirmus | 1 | weak
-infirmus | 3 | trop., weak in mind or character, timid, fickle, superstitious
+infirmus | 3 | figuratively, weak in mind or character, timid, fickle, superstitious
 infit | 1 | begin
 infit | 3 | in particular, he begins to speak, introducing a speech
 infitiae | 1 | denial
@@ -1279,18 +1279,18 @@ infitior | 1 | deny
 infitior | 3 | in particular, to deny receiving or owing something, such as a debt
 inflammatio | 1 | inflammation
 inflammatio | 3 | literally, a kindling, setting on fire
-inflammatio | 4 | trop., a kindling or inflaming of the passions
+inflammatio | 4 | figuratively, a kindling or inflaming of the passions
 inflammo | 1 | kindle
 inflammo | 3 | transferred, medical, to inflame, of the body
-inflammo | 4 | trop., to inflame, rouse, excite the passions
+inflammo | 4 | figuratively, to inflame, rouse, excite the passions
 inflatio | 1 | swelling
-inflatio | 3 | medical, flatulence, a puffing up from gas
+inflatio | 3 | in medicine, flatulence, a puffing up from gas
 inflatio | 4 | an inflammation
 inflecto | 1 | bend
 inflecto | 2 | alter
 inflecto | 3 | literally, to bend, bow, curve something
 inflecto | 4 | in particular, to modulate or vary a tone of voice
-inflecto | 5 | trop., to change, affect, pervert: to influence someone's judgment or style
+inflecto | 5 | figuratively, to change, affect, pervert: to influence someone's judgment or style
 inflexio | 1 | bending
 inflexio | 3 | transferred, an inflection, a modification
 infligo | 1 | strike
@@ -1302,30 +1302,30 @@ inflo | 1 | inflate
 inflo | 2 | play
 inflo | 3 | literally, to blow into or upon something, to swell with air
 inflo | 4 | in particular, to play a wind instrument
-inflo | 5 | trop., to puff up with pride, hope, or vanity
+inflo | 5 | figuratively, to puff up with pride, hope, or vanity
 inflo | 6 | of style, inflated, turgid, bombastic
 influo | 1 | flow in
 influo | 3 | transferred, of things not fluid, to stream, rush, or press into
 infodio | 1 | bury
 infodio | 3 | to dig up, or to make by digging
 informatio | 1 | outline
-informatio | 3 | trop., an idea, a mental conception, a notion
+informatio | 3 | figuratively, an idea, a mental conception, a notion
 informis | 1 | shapeless
 informis | 3 | transferred, misshapen, deformed, hideous
 informo | 1 | shape
 informo | 2 | educate
 informo | 3 | literally, to give form to something, to mould, fashion
-informo | 4 | trop., to form an idea of, to sketch mentally, conceive
-informo | 5 | trop., to instruct, educate, train the mind
+informo | 4 | figuratively, to form an idea of, to sketch mentally, conceive
+informo | 5 | figuratively, to instruct, educate, train the mind
 infortunium | 1 | misfortune
 infra | 1 | below
 infra | 3 | as a preposition with the accusative, below, under, beneath
 infra | 4 | of time, later than
-infra | 5 | trop., beneath in rank, value, or esteem
+infra | 5 | figuratively, beneath in rank, value, or esteem
 infrendeo | 1 | gnash
 infrendeo | 3 | to gnash the teeth at someone, to threaten furiously
 infrenis | 1 | unbridled
-infrenis | 3 | trop., untamed, unchecked, uncontrolled
+infrenis | 3 | figuratively, untamed, unchecked, uncontrolled
 infreno | 1 | bridle
 infreno | 3 | transferred, to curb, restrain, hold in check
 infrequens | 1 | infrequent
@@ -1335,10 +1335,10 @@ infringo | 1 | break
 infringo | 2 | weaken
 infringo | 3 | literally, to break, crack, bruise something
 infringo | 4 | transferred, to strike one thing against another
-infringo | 5 | trop., to check, weaken, lessen, diminish
-infringo | 6 | trop., to destroy, make void, break, such as a law
+infringo | 5 | figuratively, to check, weaken, lessen, diminish
+infringo | 6 | figuratively, to destroy, make void, break, such as a law
 infructuosus | 1 | unfruitful
-infructuosus | 3 | trop., fruitless, useless, unproductive of results
+infructuosus | 3 | figuratively, fruitless, useless, unproductive of results
 infula | 1 | fillet
 infula | 3 | in particular, a sacred woollen fillet worn by priests and consecrated things
 infula | 4 | transferred, a badge of honour, an insignia of office
@@ -1349,9 +1349,9 @@ infundo | 1 | pour in
 infundo | 2 | impart
 infundo | 3 | literally, to pour a liquid into or onto something
 infundo | 4 | transferred, to administer, present, or lay before someone: infundere venenum, to administer poison
-infundo | 5 | trop., to communicate, spread, impart: to pour words into someone's ears
+infundo | 5 | figuratively, to communicate, spread, impart: to pour words into someone's ears
 infusco | 1 | darken
-infusco | 3 | trop., to sully, stain, tarnish someone's reputation
+infusco | 3 | figuratively, to sully, stain, tarnish someone's reputation
 infusio | 1 | infusion
 ingemino | 1 | redouble
 ingemisco | 1 | groan
@@ -1362,7 +1362,7 @@ ingemo | 3 | to mourn over, lament, bewail something
 ingemo | 4 | transferred, of inanimate things, to creak, groan
 ingenero | 1 | implant
 ingenero | 3 | transferred, to generate, create, bring into being
-ingenero | 4 | rare, literal, to plant, of agriculture
+ingenero | 4 | rarely, literally, to plant, of farming
 ingeniculo | 1 | kneel
 ingeniosus | 1 | ingenious
 ingeniosus | 3 | of persons, gifted, talented, of good natural abilities
@@ -1374,22 +1374,22 @@ ingenium | 4 | of persons, natural disposition, temper, character
 ingenium | 5 | natural intellectual capacity, talent, genius
 ingenium | 6 | transferred, a person of genius, a gifted individual
 ingens | 1 | huge
-ingens | 3 | trop., great, strong, powerful, of spirit or character
+ingens | 3 | figuratively, great, strong, powerful, of spirit or character
 ingenuitas | 1 | free birth
-ingenuitas | 3 | trop., noble-mindedness, frankness, candour, worthy of a freeborn person
+ingenuitas | 3 | figuratively, noble-mindedness, frankness, candour, worthy of a freeborn person
 ingenuus | 1 | freeborn
 ingenuus | 2 | candid
 ingenuus | 3 | native, indigenous, not foreign, literal
 ingenuus | 4 | transferred, inborn, innate, natural
 ingenuus | 5 | born of free parents, freeborn, as opposed to a slave
 ingenuus | 6 | in particular, worthy of a freeman, noble, upright, frank, candid
-ingenuus | 7 | poetic, delicate, tender, unused to hardship
+ingenuus | 7 | in poetry, delicate, tender, unused to hardship
 ingero | 1 | throw in
 ingero | 2 | obtrude
 ingero | 3 | literally, to carry, pour, or put something into a place
 ingero | 4 | especially, se ingerere, to rush or thrust oneself into a place
-ingero | 5 | trop., of language, to pour out, hurl, such as insults
-ingero | 6 | trop., to force or press upon someone repeatedly, to obtrude
+ingero | 5 | figuratively, of language, to pour out, hurl, such as insults
+ingero | 6 | figuratively, to force or press upon someone repeatedly, to obtrude
 ingigno | 1 | instil
 inglorius | 1 | inglorious
 inglorius | 3 | transferred, poetic, unadorned, plain, without ornament
@@ -1405,11 +1405,11 @@ ingratus | 5 | passive, unappreciated, receiving no thanks
 ingratus | 6 | transferred, of things, unproductive, not repaying the effort spent on them
 ingravesco | 1 | worsen
 ingravesco | 3 | literally, to grow heavy or heavier
-ingravesco | 4 | poetic, to become pregnant
+ingravesco | 4 | in poetry, to become pregnant
 ingravesco | 5 | transferred, to increase, grow worse, become burdensome
 ingravo | 1 | weigh down
 ingravo | 3 | transferred, to oppress, molest, burden
-ingravo | 4 | trop., to make worse, aggravate
+ingravo | 4 | figuratively, to make worse, aggravate
 ingredior | 1 | enter
 ingredior | 2 | begin
 ingredior | 3 | literally, to go into, to enter a place
@@ -1424,31 +1424,31 @@ ingressus | 2 | gait
 ingressus | 3 | a going into, an entrance
 ingressus | 4 | especially, a hostile entrance, an inroad
 ingressus | 5 | a manner of walking, a gait
-ingressus | 6 | trop., a beginning, a commencement, an opening
+ingressus | 6 | figuratively, a beginning, a commencement, an opening
 ingruo | 1 | assail
 ingruo | 3 | transferred, of things, to press upon, threaten, come on suddenly: bellum ingruit, war breaks out upon them
 inguen | 1 | groin
 inguen | 3 | euphemistic, the private parts
-inguen | 4 | medical, a swelling in the groin
+inguen | 4 | in medicine, a swelling in the groin
 inguen | 5 | transferred, of plants, the joint where a branch meets the stem
 ingurgito | 1 | gorge
 ingurgito | 3 | literally, to pour in like a flood, to flood, fill
-ingurgito | 4 | trop., to immerse oneself deeply in, to be absorbed in, to addict oneself to something
+ingurgito | 4 | figuratively, to immerse oneself deeply in, to be absorbed in, to addict oneself to something
 inhabilis | 1 | unwieldy
-inhabilis | 3 | trop., unfit, incapable, unable for something
+inhabilis | 3 | figuratively, unfit, incapable, unable for something
 inhabito | 1 | inhabit
 inhabito | 3 | transferred, of garments, to wear
 inhaereo | 1 | adhere
-inhaereo | 3 | trop., to cling to, be deeply engaged in, closely connected with
+inhaereo | 3 | figuratively, to cling to, be deeply engaged in, closely connected with
 inhaeresco | 1 | stick fast
-inhaeresco | 3 | trop., to become deeply fixed in the mind
+inhaeresco | 3 | figuratively, to become deeply fixed in the mind
 inhalo | 1 | breathe on
 inhalo | 3 | transferred, magical rite, to breathe upon something as a spell
 inhibeo | 1 | restrain
 inhibeo | 2 | employ
 inhibeo | 3 | literally, to keep back, curb, check: inhibere remos, to stop rowing
 inhibeo | 4 | transferred, to hinder, prevent, inhibit an action
-inhibeo | 5 | rare, to set in operation, to practise, perform, use
+inhibeo | 5 | rarely, to set in operation, to practise, perform, use
 inhio | 1 | gape
 inhio | 3 | in particular, to open the mouth wide at something, as if to devour it
 inhio | 4 | transferred, to gaze at with eagerness, to covet, long for
@@ -1476,16 +1476,16 @@ inhumanus | 1 | inhuman
 inhumanus | 2 | boorish
 inhumanus | 3 | rude, savage, cruel, barbarous
 inhumanus | 4 | unpolished, uncivil, unmannerly, discourteous
-inhumanus | 5 | rare, superhuman, godlike
+inhumanus | 5 | rarely, superhuman, godlike
 inibi | 1 | there
 inibi | 3 | transferred, of time, nearly, almost, on the point of
 inibi | 4 | inibi est, it is near at hand, about to happen soon
 inicio | 1 | throw in
 inicio | 2 | inspire
 inicio | 3 | literally, to throw, cast, or put something into or upon a place
-inicio | 4 | esp., manum inicere, to lay hands on someone, to seize
-inicio | 5 | trop., to inspire, infuse, or instil a feeling, such as fear or hope
-inicio | 6 | trop., to throw out a hint, to mention, suggest
+inicio | 4 | especially, manum inicere, to lay hands on someone, to seize
+inicio | 5 | figuratively, to inspire, infuse, or instil a feeling, such as fear or hope
+inicio | 6 | figuratively, to throw out a hint, to mention, suggest
 inigo | 1 | drive in
 inigo | 3 | to throw or thrust someone somewhere, rare
 inimicitia | 1 | enmity
@@ -1498,8 +1498,8 @@ inimicus | 5 | as a noun, a personal enemy, as opposed to hostis, a public enemy
 iniquitas | 1 | unevenness
 iniquitas | 2 | injustice
 iniquitas | 3 | literally, unevenness of ground, or inequality of weight
-iniquitas | 4 | trop., unfavourableness, hardship, difficulty of circumstances
-iniquitas | 5 | trop., unfairness, injustice, unreasonableness
+iniquitas | 4 | figuratively, unfavourableness, hardship, difficulty of circumstances
+iniquitas | 5 | figuratively, unfairness, injustice, unreasonableness
 iniquus | 1 | unequal
 iniquus | 2 | unjust
 iniquus | 3 | literally, uneven, not level, steep
@@ -1508,8 +1508,8 @@ iniquus | 5 | inimical, hostile, adverse
 iniquus | 6 | unwilling, impatient, discontented: iniquo animo ferre, to bear something with displeasure
 initialis | 1 | initial
 initio | 1 | initiate
-initio | 3 | rare, late Latin, to begin, originate
-initio | 4 | ecclesiastical Latin, to baptise
+initio | 3 | rarely, in later Latin, to begin, originate
+initio | 4 | in Christian Latin, to baptise
 initium | 1 | beginning
 initium | 2 | rites
 initium | 3 | a going in, an entrance
@@ -1519,9 +1519,9 @@ initus2 | 1 | entrance
 initus2 | 3 | a beginning, a commencement
 initus2 | 4 | transferred, euphemistic, mating, sexual approach, of animals
 injectio | 1 | throwing in
-injectio | 3 | medical, an injection, a clyster
-injectio | 4 | legal, manus injectio, the formal laying on of the hand to seize property or a person
-injectio | 5 | trop., late Latin, an instigation, a suggestion, or an objection
+injectio | 3 | in medicine, an injection, a clyster
+injectio | 4 | in law, manus injectio, the formal laying on of the hand to seize property or a person
+injectio | 5 | figuratively, in later Latin, an instigation, a suggestion, or an objection
 injucundus | 1 | unpleasant
 injucundus | 3 | harsh, severe, of treatment
 injugis | 1 | unyoked
@@ -1529,8 +1529,8 @@ injugis | 3 | in prosody, injuges versus, verses lacking a connecting particle, 
 injungo | 1 | attach
 injungo | 2 | enjoin
 injungo | 3 | literally, to join, fasten, or attach one thing to another
-injungo | 4 | trop., to inflict, occasion, bring upon someone, such as a burden
-injungo | 5 | trop., to impose as a duty, to charge, enjoin
+injungo | 4 | figuratively, to inflict, occasion, bring upon someone, such as a burden
+injungo | 5 | figuratively, to impose as a duty, to charge, enjoin
 injuratus | 1 | unsworn
 injuria | 1 | injury
 injuria | 2 | injustice
@@ -1553,17 +1553,17 @@ injustus | 3 | in general, rare, excessive, oppressive, immoderate
 injustus | 4 | in particular, wrongful, unfair, harsh
 innascor | 1 | originate
 innascor | 3 | literally, to grow or spring up in a place
-innascor | 4 | trop., participial innatus, inborn, innate, inherent, natural
+innascor | 4 | figuratively, participial innatus, inborn, innate, inherent, natural
 innato | 1 | float
 innato | 3 | to flow over, to overflow onto something
-innato | 4 | trop., of style, to float on the surface, to be superficial
+innato | 4 | figuratively, of style, to float on the surface, to be superficial
 innecto | 1 | bind
 innecto | 2 | contrive
 innecto | 3 | literally, to tie, bind, or fasten one thing to another
-innecto | 4 | trop., to devise, weave, or frame successively, such as excuses
-innecto | 5 | trop., to entangle, implicate someone in something
+innecto | 4 | figuratively, to devise, weave, or frame successively, such as excuses
+innecto | 5 | figuratively, to entangle, implicate someone in something
 innitor | 1 | lean on
-innitor | 3 | trop., to depend on, rest upon someone or something for support
+innitor | 3 | figuratively, to depend on, rest upon someone or something for support
 innitor | 4 | in particular, of syllables, to end or terminate in a certain letter
 inno | 1 | float
 inno | 3 | transferred, to sail upon, to navigate
@@ -1583,10 +1583,10 @@ innocuus | 3 | active, that causes no harm, safe
 innocuus | 4 | passive, unharmed, uninjured
 innocuus | 5 | transferred, inoffensive, innocent
 innodo | 1 | knot
-innodo | 3 | trop., to entangle, implicate someone in something
+innodo | 3 | figuratively, to entangle, implicate someone in something
 innotesco | 1 | become known
 innotesco | 3 | transferred, of daylight, to become clear, to dawn
-innotesco | 4 | rare, to come to know, to learn by experience
+innotesco | 4 | rarely, to come to know, to learn by experience
 innovo | 1 | renew
 innovo | 3 | transferred, se innovare, to return to a former habit or state
 innoxius | 1 | harmless
@@ -1607,12 +1607,12 @@ ino | 3 | daughter of Cadmus, wife of Athamas, nurse of the infant Bacchus in Gr
 inoffensus | 1 | unhindered
 inoffensus | 3 | transferred, uninterrupted, going on smoothly without obstacle
 inofficiosus | 1 | undutiful
-inofficiosus | 3 | legal, of a will, contrary to natural duty, unfairly disinheriting relatives
+inofficiosus | 3 | in law, of a will, contrary to natural duty, unfairly disinheriting relatives
 inofficiosus | 4 | in particular, not obliging, disobliging
 inolesco | 1 | grow in
 inolesco | 2 | implant
-inolesco | 3 | neuter, literally, to grow into or onto something
-inolesco | 4 | neuter, trop., to become fixed or ingrained in the mind
+inolesco | 3 | intransitively, literally, to grow into or onto something
+inolesco | 4 | intransitively, figuratively, to become fixed or ingrained in the mind
 inolesco | 5 | active, to implant, cause to grow in
 inopia | 1 | scarcity
 inopia | 2 | poverty
@@ -1631,7 +1631,7 @@ inops | 2 | destitute
 inops | 3 | without resources, weak, helpless in general
 inops | 4 | in particular, poor, needy, destitute
 inops | 5 | with the genitive, lacking, devoid of something
-inops | 6 | trop., of speech, poor in words or ideas, meagre
+inops | 6 | figuratively, of speech, poor in words or ideas, meagre
 inordinatus | 1 | disordered
 inornatus | 1 | unadorned
 inquam | 1 | say
@@ -1641,30 +1641,30 @@ inquies2 | 1 | restless
 inquieto | 1 | disturb
 inquietus | 1 | restless
 inquilinus1 | 1 | tenant
-inquilinus1 | 3 | trop., contemptuously, an interloper, an intruder
+inquilinus1 | 3 | figuratively, contemptuously, an interloper, an intruder
 inquino | 1 | pollute
 inquino | 3 | literally, to stain, befoul, dirty
-inquino | 4 | trop., to corrupt, contaminate, defile morally
+inquino | 4 | figuratively, to corrupt, contaminate, defile morally
 inquino | 5 | of speech, low, base, vulgar
 inquiro | 1 | inquire
-inquiro | 3 | legal, to search for grounds of accusation against someone
+inquiro | 3 | in law, to search for grounds of accusation against someone
 inquiro | 4 | to search, examine, pry into something closely
 inquisitio | 1 | inquiry
 inquisitio | 3 | transferred, an examination, a searching into a matter
-inquisitio | 4 | legal, an inquisition, a search for proofs to support an accusation
+inquisitio | 4 | in law, an inquisition, a search for proofs to support an accusation
 inquisitor | 1 | investigator
 inquisitor | 3 | literally, a tracker of a fugitive or suspect, a detective
-inquisitor | 4 | legal, one who searches for proofs to support an accusation, a prosecutor's agent
+inquisitor | 4 | in law, one who searches for proofs to support an accusation, a prosecutor's agent
 insalubris | 1 | unwholesome
 insalubris | 3 | unserviceable, unprofitable, useless
 insanabilis | 1 | incurable
-insanabilis | 3 | trop., irretrievable, without remedy, hopeless
+insanabilis | 3 | figuratively, irretrievable, without remedy, hopeless
 insania | 1 | madness
 insania | 3 | of excess or extravagance in something, villarum insania, a mania for country houses
 insania | 4 | poetic frenzy, inspired rapture
 insanio | 1 | be insane
 insanio | 3 | transferred, to act like a madman, to rage, rave
-insanio | 4 | with acc., to be crazily obsessed with something, amores alicujus insanire, to be madly in love with someone
+insanio | 4 | with the accusative, to be crazily obsessed with something, amores alicujus insanire, to be madly in love with someone
 insanitas | 1 | unsoundness
 insanus | 1 | mad
 insanus | 2 | excessive
@@ -1688,19 +1688,19 @@ inscius | 1 | unaware
 inscius | 3 | non sum inscius, I am well aware, I know very well
 inscribo | 1 | inscribe
 inscribo | 3 | transferred, to label, to furnish with an inscription
-inscribo | 4 | trop., to ascribe, attribute
-inscribo | 5 | trop., to brand, mark
+inscribo | 4 | figuratively, to ascribe, attribute
+inscribo | 5 | figuratively, to brand, mark
 inscriptio | 1 | inscription
 inscriptus2 | 1 | unwritten
-inscriptus2 | 3 | legal, not registered at the customhouse, contraband
+inscriptus2 | 3 | in law, not registered at the customhouse, contraband
 insculpo | 1 | engrave
-insculpo | 3 | trop., to imprint, impress on the mind
+insculpo | 3 | figuratively, to imprint, impress on the mind
 inseco1 | 1 | cut into
 inseco2 | 1 | relate
 insectatio | 1 | pursuit
-insectatio | 3 | trop., a verbal attack, railing, invective
+insectatio | 3 | figuratively, a verbal attack, railing, invective
 insector | 1 | pursue
-insector | 3 | trop., to attack with words, to rail at, inveigh against
+insector | 3 | figuratively, to attack with words, to rail at, inveigh against
 insemino | 1 | implant
 insensibilis | 1 | imperceptible
 insensibilis | 2 | senseless
@@ -1709,53 +1709,53 @@ insepultus | 1 | unburied
 insepultus | 3 | of a burial rite, lacking the customary rites, and so no true burial at all
 insequor | 1 | follow
 insequor | 3 | to pursue, press upon, chase
-insequor | 4 | trop., to strive after, pursue as a goal
-insequor | 5 | trop., to attack with words, to reproach, censure
+insequor | 4 | figuratively, to strive after, pursue as a goal
+insequor | 5 | figuratively, to attack with words, to reproach, censure
 insequor | 6 | of time or order, to follow next, succeed
 insero1 | 1 | graft
-insero1 | 3 | trop., to implant, instil a quality
+insero1 | 3 | figuratively, to implant, instil a quality
 insero2 | 1 | insert
-insero2 | 3 | trop., to introduce, bring in, mix in
+insero2 | 3 | figuratively, to introduce, bring in, mix in
 inservio | 1 | serve
 insideo | 1 | sit upon
-insideo | 3 | trop., to be fixed, embedded, ingrained in the mind
+insideo | 3 | figuratively, to be fixed, embedded, ingrained in the mind
 insideo | 4 | of a place, to occupy, hold, be situated on
 insidiae | 1 | ambush
-insidiae | 3 | trop., a trick, plot, snare
+insidiae | 3 | figuratively, a trick, plot, snare
 insidior | 1 | ambush
-insidior | 3 | trop., to watch for, lie in wait for an opportunity
+insidior | 3 | figuratively, to watch for, lie in wait for an opportunity
 insidiosus | 1 | insidious
 insido | 1 | settle
 insido | 3 | of troops, to occupy, take possession of a place
-insido | 4 | trop., to become fixed, embedded, rooted in the mind
+insido | 4 | figuratively, to become fixed, embedded, rooted in the mind
 insigne | 1 | badge
 insigne | 3 | a standard, ensign
-insigne | 4 | trop., a mark of honour, distinction
+insigne | 4 | figuratively, a mark of honour, distinction
 insignio | 1 | mark
 insignio | 3 | to distinguish, make notable, single out
 insignis | 1 | notable
 insilio | 1 | leap upon
-insilio | 3 | trop., to mount, climb upward, as a vine shoot into its trellis
+insilio | 3 | figuratively, to mount, climb upward, as a vine shoot into its trellis
 insimulo | 1 | accuse
 insincerus | 1 | adulterated
 insincerus | 2 | insincere
 insinuatio | 1 | ingratiation
-insinuatio | 3 | rhetoric, a subtly introduced opening of a speech
-insinuatio | 4 | legal, a notification, formal declaration
+insinuatio | 3 | in rhetoric, a subtly introduced opening of a speech
+insinuatio | 4 | in law, a notification, formal declaration
 insinuo | 1 | worm in
-insinuo | 3 | trop., se insinuare, to worm one's way into someone's favour, to ingratiate oneself
-insinuo | 4 | trop., to make favourably known, recommend, introduce a person to another
+insinuo | 3 | figuratively, se insinuare, to worm one's way into someone's favour, to ingratiate oneself
+insinuo | 4 | figuratively, to make favourably known, recommend, introduce a person to another
 insipiens | 1 | foolish
 insipientia | 1 | folly
 insisto | 1 | tread
 insisto | 2 | persist
 insisto | 3 | to set out on, pursue a path or journey
 insisto | 4 | in a hostile sense, to press upon, pursue closely
-insisto | 5 | trop., to apply oneself vigorously to, press on with a task
+insisto | 5 | figuratively, to apply oneself vigorously to, press on with a task
 insisto | 6 | to halt, stop, stand still
 insisto | 7 | to dwell upon, discuss at length
 insiticius | 1 | grafted
-insiticius | 3 | trop., of a nap, taken in the middle of the day, a siesta
+insiticius | 3 | figuratively, of a nap, taken in the middle of the day, a siesta
 insitivus | 1 | grafted
 insitivus | 2 | spurious
 insociabilis | 1 | unsociable
@@ -1777,18 +1777,18 @@ insono | 1 | resound
 insons | 1 | innocent
 insons | 2 | harmless
 inspectio | 1 | inspection
-inspectio | 3 | trop., theoretical consideration, as opposed to practice
+inspectio | 3 | figuratively, theoretical consideration, as opposed to practice
 inspecto | 1 | observe
 insperans | 1 | not expecting
 insperatus | 1 | unexpected
 inspergo | 1 | sprinkle
 inspicio | 1 | inspect
-inspicio | 3 | trop., to scrutinise, get to know thoroughly
+inspicio | 3 | figuratively, to scrutinise, get to know thoroughly
 inspiro | 1 | inspire
 inspiro | 3 | literally, to blow into or upon, as a musical instrument
 instabilis | 1 | unstable
 instantia | 1 | imminence
-instantia | 3 | trop., urgency, earnestness, insistence
+instantia | 3 | figuratively, urgency, earnestness, insistence
 instar | 1 | likeness
 instar | 3 | with a genitive, equivalent to, the size of, like
 instar | 4 | worth, value
@@ -1802,16 +1802,16 @@ instinguo | 1 | incite
 instita | 1 | flounce
 instita | 2 | bandage
 institor | 1 | peddler
-institor | 3 | trop., one who hawks about a skill for show, a huckster of eloquence
+institor | 3 | figuratively, one who hawks about a skill for show, a huckster of eloquence
 instituo | 1 | establish
 instituo | 2 | teach
 instituo | 3 | to undertake, resolve to begin something
-instituo | 4 | to appoint, esp. as heir or to an office
+instituo | 4 | to appoint, especially as heir or to an office
 instituo | 5 | to arrange, draw up troops
 instituo | 6 | to govern, regulate, order a way of life
 institutio | 1 | education
 institutio | 3 | arrangement, disposition
-institutio | 4 | legal, appointment as heir
+institutio | 4 | in law, appointment as heir
 institutor | 1 | founder
 institutor | 2 | teacher
 institutum | 1 | practice
@@ -1820,22 +1820,22 @@ insto | 1 | press on
 insto | 2 | be imminent
 insto | 3 | in a hostile sense, to press upon, harass, pursue closely
 insto | 4 | to urge forward, ply diligently, work hard at something
-insto | 5 | grammar, tempus instans, the present tense
+insto | 5 | in grammar, tempus instans, the present tense
 instrepo | 1 | rattle
 instringo | 1 | bind
 instringo | 3 | of a weapon, to draw, brandish
 instructio | 1 | construction
-instructio | 3 | military, an arranging in battle order
-instructio | 4 | trop., instruction, teaching
+instructio | 3 | in the army, an arranging in battle order
+instructio | 4 | figuratively, instruction, teaching
 instrumentum | 1 | tool
 instrumentum | 3 | collectively, equipment, apparatus, stock
-instrumentum | 4 | legal, a document, record
+instrumentum | 4 | in law, a document, record
 instrumentum | 5 | means, resources, provision
 instruo | 1 | build
 instruo | 2 | teach
 instruo | 3 | to draw up, arrange in battle order
 instruo | 4 | to equip, furnish, fit out
-instruo | 5 | trop., to prepare for, provide for a case or speech
+instruo | 5 | figuratively, to prepare for, provide for a case or speech
 instruo | 6 | to plan, devise a scheme
 insubidus | 1 | foolish
 insuesco | 1 | become accustomed
@@ -1850,7 +1850,7 @@ insulto | 1 | leap upon
 insulto | 2 | taunt, mock
 insum | 1 | be in
 insumo | 1 | expend
-insumo | 3 | trop., to apply, devote, employ time or effort
+insumo | 3 | figuratively, to apply, devote, employ time or effort
 insumo | 4 | to use up, exhaust, wear out
 insuo | 1 | sew in
 insuper | 1 | above
@@ -1863,7 +1863,7 @@ insurgo | 2 | rebel
 insurgo | 3 | of waters, to swell, surge
 insurgo | 4 | of speech or style, to become elevated, grow sublime
 insusurro | 1 | whisper
-insusurro | 3 | trop., to suggest, hint subtly
+insusurro | 3 | figuratively, to suggest, hint subtly
 intabesco | 1 | waste away
 intabesco | 3 | transferred, to melt, dissolve
 intactus1 | 1 | untouched
@@ -1885,7 +1885,7 @@ integritas | 4 | chastity, purity
 integritas | 5 | purity, correctness of language
 integro | 1 | renew
 integro | 3 | to restore, repair, heal
-integro | 4 | trop., to refresh, recreate the mind
+integro | 4 | figuratively, to refresh, recreate the mind
 integumentum | 1 | covering
 integumentum | 3 | transferred, something that conceals, a disguise, cloak
 integumentum | 4 | a protection, defence, shelter
@@ -1896,7 +1896,7 @@ intellegentia | 1 | intelligence
 intellegentia | 3 | taste, skill, connoisseurship in a subject
 intellegentia | 4 | perception by the senses
 intellegibilis | 1 | intelligible
-intellegibilis | 3 | rare, perceptible to the senses, sensible
+intellegibilis | 3 | rarely, perceptible to the senses, sensible
 intellego | 1 | understand
 intellego | 3 | to be knowledgeable in, a connoisseur of something
 intellego | 4 | to interpret, take something to mean
@@ -1908,12 +1908,12 @@ intemperantia | 1 | intemperance
 intemperantia | 3 | of weather, harshness, inclemency
 intemperantia | 4 | haughtiness, insolence towards others
 intemperatus | 1 | inclement
-intemperatus | 3 | trop., immoderate, unrestrained
+intemperatus | 3 | figuratively, immoderate, unrestrained
 intemperiae | 1 | madness
 intemperiae | 3 | literally, of weather, harsh, inclement
 intemperies | 1 | inclemency
 intemperies | 3 | transferred, a storm, calamity
-intemperies | 4 | trop., outrageous behaviour, fury, madness
+intemperies | 4 | figuratively, outrageous behaviour, fury, madness
 intempestivus | 1 | untimely
 intempestus | 1 | unseasonable
 intempestus | 3 | nox intempesta, the dead of night
@@ -1923,17 +1923,17 @@ intendo | 1 | stretch
 intendo | 2 | intend
 intendo | 3 | to aim, direct a weapon at
 intendo | 4 | to direct one's attention or mind to, focus on
-intendo | 5 | legal, to assert, maintain, aver in court
+intendo | 5 | in law, to assert, maintain, aver in court
 intendo | 6 | to threaten with, bring a charge against
 intentio | 1 | tension
-intentio | 3 | trop., effort, attention, application to a task
+intentio | 3 | figuratively, effort, attention, application to a task
 intentio | 4 | purpose, intention
-intentio | 5 | legal, an accusation, the plaintiff's charge
+intentio | 5 | in law, an accusation, the plaintiff's charge
 intento | 1 | threaten
 intento | 3 | literally, to stretch out, point towards
-intento | 4 | legal, to accuse, bring a charge against
+intento | 4 | in law, to accuse, bring a charge against
 intepesco | 1 | become lukewarm
-intepesco | 3 | trop., to weaken, cool down, lose force
+intepesco | 3 | figuratively, to weaken, cool down, lose force
 inter1 | 1 | between
 inter1 | 2 | among
 inter1 | 3 | of time, during, within a period
@@ -1966,18 +1966,18 @@ intercipio | 5 | of death, to carry off, snatch away
 intercludo | 1 | block off
 intercludo | 3 | to cut off, separate from supplies or aid
 intercludo | 4 | to blockade
-intercludo | 5 | trop., to hinder, prevent
+intercludo | 5 | figuratively, to hinder, prevent
 intercurro | 1 | run between
-intercurro | 3 | trop., to intercede, step in during a dispute
+intercurro | 3 | figuratively, to intercede, step in during a dispute
 intercurso | 1 | run between
 intercursus2 | 1 | intervention
 intercus | 1 | subcutaneous
 intercus | 3 | aqua intercus, dropsy
 interdico | 1 | forbid
 interdico | 3 | interdicere alicui aqua et igni, to banish someone
-interdico | 4 | legal, of a praetor, to issue an interdict, a provisional decree
+interdico | 4 | in law, of a praetor, to issue an interdict, a provisional decree
 interdictum | 1 | prohibition
-interdictum | 3 | legal, a praetorian interdict, a provisional decree
+interdictum | 3 | in law, a praetorian interdict, a provisional decree
 interdiu | 1 | by day
 interdo | 1 | distribute
 interdo | 3 | nihil interduo, I don't care, it's no matter to me
@@ -2007,19 +2007,19 @@ interjaceo | 1 | lie between
 interjacio | 1 | insert
 interjacio | 3 | of time, anno interjecto, after an interval, a year having passed
 interjectio | 1 | insertion
-interjectio | 3 | grammar, an interjection
-interjectio | 4 | rhetoric, a parenthesis
+interjectio | 3 | in grammar, an interjection
+interjectio | 4 | in rhetoric, a parenthesis
 interjectus2 | 1 | interposition
 interjectus2 | 3 | of time, an interval
 interjungo | 1 | join
 interjungo | 2 | unyoke
-interjungo | 3 | trop., to rest, take a break
+interjungo | 3 | figuratively, to rest, take a break
 interlino | 1 | smear
 interlino | 3 | of a document, to falsify by erasing or altering
 interloquor | 1 | interrupt
-interloquor | 3 | legal, to pronounce an interlocutory ruling
+interloquor | 3 | in law, to pronounce an interlocutory ruling
 interluceo | 1 | gleam through
-interluceo | 3 | trop., to be evident, manifest
+interluceo | 3 | figuratively, to be evident, manifest
 interluceo | 4 | of something thin or sparse, to be transparent, show through
 interluo | 1 | flow between
 # review: intermenstruus a compound English can only unpack; "between two months" is L&S's gloss and the new moon it means sits at ranks 3-4
@@ -2033,7 +2033,7 @@ intermitto | 1 | interrupt
 intermitto | 3 | of a fever, to be intermittent
 intermitto | 4 | to leave an interval, a gap, between
 intermorior | 1 | die off
-intermorior | 3 | trop., to faint, swoon
+intermorior | 3 | figuratively, to faint, swoon
 internecinus | 1 | deadly
 internecio | 1 | massacre
 internosco | 1 | distinguish
@@ -2043,7 +2043,7 @@ internus | 3 | of affairs, domestic, civil, as opposed to foreign
 intero | 1 | crumble in
 intero | 3 | proverbial, tu hoc intristi, tibi omne est exedendum, you made your own bed, now lie in it
 interpellatio | 1 | interruption
-interpellatio | 3 | legal, a suit, an appeal to the court
+interpellatio | 3 | in law, a suit, an appeal to the court
 interpellator | 1 | interrupter
 interpello | 1 | interrupt
 interpello | 3 | to hinder, obstruct a plan or action
@@ -2057,7 +2057,7 @@ interpono | 3 | of time, to let pass, leave an interval
 interpono | 4 | se interponere, to interfere, intervene, meddle
 interpono | 5 | fidem interponere, to pledge one's word
 interpositio | 1 | insertion
-interpositio | 3 | rhetoric, a parenthesis
+interpositio | 3 | in rhetoric, a parenthesis
 interpres | 1 | interpreter
 interpres | 3 | an agent, broker, negotiator
 interpretatio | 1 | interpretation
@@ -2074,34 +2074,34 @@ interrex | 1 | regent
 interrex | 3 | under the republic, an interim magistrate holding power until new consuls were elected
 interritus | 1 | undaunted
 interrogatio | 1 | interrogation
-interrogatio | 3 | logic, a syllogism
+interrogatio | 3 | in logic, a syllogism
 interrogo | 1 | question
-interrogo | 3 | legal, to examine a witness, to prosecute, sue
-interrogo | 4 | logic, to argue by syllogism
+interrogo | 3 | in law, to examine a witness, to prosecute, sue
+interrogo | 4 | in logic, to argue by syllogism
 interrumpo | 1 | break apart
 interrumpo | 2 | interrupt
 interruptio | 1 | interruption
-interruptio | 3 | rhetoric, a sudden breaking off in speech
+interruptio | 3 | in rhetoric, a sudden breaking off in speech
 intersaepio | 1 | fence in
 intersaepio | 2 | cut off
 interscindo | 1 | tear down
 interscindo | 3 | transferred, to separate, cut off, interrupt
 interscribo | 1 | write between
 interseco | 1 | intersect
-interseco | 3 | trop., to impress deeply, fix in the mind
+interseco | 3 | figuratively, to impress deeply, fix in the mind
 intersero1 | 1 | plant between
 intersero1 | 3 | se interserere, to come between, lie between
 intersisto | 1 | pause
 interstinguo | 1 | speckle
 interstinguo | 2 | extinguish
-interstinguo | 3 | rare, to kill
+interstinguo | 3 | rarely, to kill
 intersum | 1 | lie between
 intersum | 2 | differ
 intersum | 3 | to attend, take part in, be present at
 intersum | 4 | interest, impersonal, it matters, it concerns
 intertexo | 1 | interweave
 intertrimentum | 1 | wastage
-intertrimentum | 3 | trop., loss, damage generally
+intertrimentum | 3 | figuratively, loss, damage generally
 interturbo | 1 | disturb
 intervallo | 1 | space out
 intervallum | 1 | interval
@@ -2110,7 +2110,7 @@ intervenio | 1 | intervene
 intervenio | 2 | happen
 intervenio | 3 | to interrupt, put a stop to
 intervenio | 4 | to hinder, stand in the way of
-intervenio | 5 | legal, to become surety for someone
+intervenio | 5 | in law, to become surety for someone
 interventus | 1 | intervention
 interventus | 3 | mediation, assistance
 interverto | 1 | divert
@@ -2120,19 +2120,19 @@ interverto | 4 | to squander, waste
 interviso | 1 | check on
 interviso | 3 | to visit occasionally, from time to time
 intestabilis1 | 1 | detestable
-intestabilis1 | 3 | legal, incapable of being a witness or making a will
+intestabilis1 | 3 | in law, incapable of being a witness or making a will
 intestatus1 | 1 | intestate
 intestatus1 | 3 | indemnatus atque intestatus, condemned without trial or witnesses
 intestinus | 1 | internal
 intestinus | 3 | as a noun, the intestines, bowels, gut
 intexo | 1 | interweave
-intexo | 3 | trop., to insert, include, work into a narrative
+intexo | 3 | figuratively, to insert, include, work into a narrative
 intimo | 1 | announce
 intimo | 3 | literally, to bring into, insert
 intimus | 1 | innermost
 intimus | 2 | intimate
 intingo | 1 | dip
-intingo | 3 | ecclesiastical, to baptise
+intingo | 3 | in Christian Latin, to baptise
 intolerabilis | 1 | intolerable
 intolerabilis | 3 | irresistible
 intolerabilis | 4 | archaic, active sense, impatient, unable to bear something
@@ -2142,13 +2142,13 @@ intolerans | 3 | passive, intolerable, unbearable
 intolerantia | 1 | impatience
 intolerantia | 2 | insolence
 intono | 1 | thunder
-intono | 3 | trop., to thunder forth, cry out vehemently in speech
+intono | 3 | figuratively, to thunder forth, cry out vehemently in speech
 intonsus2 | 1 | unshorn
 intonsus2 | 3 | of trees or mountains, leafy, overgrown
-intonsus2 | 4 | trop., unpolished, rude, uncivilised
+intonsus2 | 4 | figuratively, unpolished, rude, uncivilised
 intorqueo | 1 | twist
 intorqueo | 3 | to brandish, hurl a weapon
-intorqueo | 4 | trop., to hurl insults at, cast reproaches against
+intorqueo | 4 | figuratively, to hurl insults at, cast reproaches against
 intra | 1 | within
 intra | 3 | of time, within, during, in less than
 intra | 4 | of quantity or degree, less than, fewer than
@@ -2163,33 +2163,33 @@ intrinsecus1 | 1 | inwardly
 intro1 | 1 | inside
 intro1 | 3 | with verbs of motion, in, inwards, e.g. intro ire, to go inside
 intro2 | 1 | enter
-intro2 | 3 | trop., to penetrate, pierce into the mind or nature of something
+intro2 | 3 | figuratively, to penetrate, pierce into the mind or nature of something
 introduco | 1 | introduce
 introduco | 3 | to bring forward, maintain an opinion
 introduco | 4 | to institute, originate a custom
 introeo | 1 | enter
 introitus2 | 1 | entrance
-introitus2 | 3 | trop., a beginning, introduction, preface of a speech or work
+introitus2 | 3 | figuratively, a beginning, introduction, preface of a speech or work
 introitus2 | 4 | an entering upon an office, induction
 intromitto | 1 | let in
 introrsum | 1 | inward
 introspicio | 1 | peer into
-introspicio | 3 | trop., to examine closely, scrutinise the mind or character
+introspicio | 3 | figuratively, to examine closely, scrutinise the mind or character
 intueor | 1 | gaze at
-intueor | 3 | trop., to consider, contemplate, pay attention to
+intueor | 3 | figuratively, to consider, contemplate, pay attention to
 intueor | 4 | to admire, wonder at
 intumesco | 1 | swell
-intumesco | 3 | trop., to grow angry
-intumesco | 4 | trop., to become puffed up, elated, arrogant
+intumesco | 3 | figuratively, to grow angry
+intumesco | 4 | figuratively, to become puffed up, elated, arrogant
 intus | 1 | inside
 intus | 3 | from within, from inside
 intutus | 1 | unguarded
 inultus | 1 | unavenged
 inultus | 2 | unpunished
 inultus | 3 | unharmed, safe, with impunity
-inultus | 4 | trop., of hatred, insatiable, unappeased
+inultus | 4 | figuratively, of hatred, insatiable, unappeased
 inumbro | 1 | shade
-inumbro | 3 | trop., to obscure, overshadow someone's reputation
+inumbro | 3 | figuratively, to obscure, overshadow someone's reputation
 inundatio | 1 | flood
 inundo | 1 | flood
 inundo | 3 | transferred, of a crowd, to overrun, swarm over
@@ -2213,20 +2213,20 @@ invectio | 3 | an inveighing against, an invective, a verbal attack
 inveho | 1 | import
 inveho | 2 | inveigh
 inveho | 3 | passive, to ride, sail, or fly into a place, to enter
-inveho | 4 | trop., to bring upon, inflict misfortune
+inveho | 4 | figuratively, to bring upon, inflict misfortune
 invenio | 1 | find
 invenio | 2 | invent
 invenio | 3 | to find out, discover, ascertain, learn
 invenio | 4 | to acquire, earn, win, e.g. praise or fame
 inventio | 1 | invention
-inventio | 3 | rhetoric, the faculty of finding arguments
+inventio | 3 | in rhetoric, the faculty of finding arguments
 inventor | 1 | inventor
 inventum | 1 | discovery
 invenustus | 1 | unattractive
 invenustus | 3 | unfortunate, unlucky in love
 inverecundus | 1 | shameless
 inverto | 1 | invert
-inverto | 3 | trop., to pervert, corrupt, change for the worse
+inverto | 3 | figuratively, to pervert, corrupt, change for the worse
 inverto | 4 | of words, to use ironically, misapply
 investigo | 1 | investigate
 investis | 1 | unclothed
@@ -2267,16 +2267,16 @@ invitus | 1 | unwilling
 invius | 1 | impassable
 invius | 3 | transferred, forbidden, inaccessible to entry
 invocatus2 | 1 | uninvited
-invocatus2 | 3 | legal, not called upon, uncalled as a witness
+invocatus2 | 3 | in law, not called upon, uncalled as a witness
 invoco | 1 | invoke
 invoco | 3 | transferred, to call by name, to name someone
 involo | 1 | swoop down
 involo | 3 | transferred, to seize, snatch, carry off
 involucrum | 1 | wrapper
-involucrum | 3 | trop., a cover, disguise, mask
+involucrum | 3 | figuratively, a cover, disguise, mask
 involvo | 1 | wrap
 involvo | 2 | overwhelm
-involvo | 3 | trop., to obscure, complicate, involve
+involvo | 3 | figuratively, to obscure, complicate, involve
 invulgo | 1 | publish
 io1 | 1 | hurrah
 io1 | 3 | expressing pain, oh, ah
@@ -2295,9 +2295,9 @@ irrationabilis | 1 | irrational
 irrationalis | 1 | irrational
 irreligiosus | 1 | irreligious
 irremediabilis | 1 | incurable
-irremediabilis | 3 | trop., implacable, unrelenting
+irremediabilis | 3 | figuratively, implacable, unrelenting
 irrepo | 1 | creep in
-irrepo | 3 | trop., to steal in, insinuate oneself imperceptibly
+irrepo | 3 | figuratively, to steal in, insinuate oneself imperceptibly
 irrequietus | 1 | restless
 irrequietus | 2 | disquieting
 irretio | 1 | ensnare
@@ -2309,7 +2309,7 @@ irrideo | 1 | mock
 irrigatio | 1 | irrigation
 irrigo | 1 | irrigate
 irrigo | 3 | to wet, moisten, bedew
-irrigo | 4 | trop., to refresh, nourish, diffuse through
+irrigo | 4 | figuratively, to refresh, nourish, diffuse through
 irriguus | 1 | well-watered
 irriguus | 2 | irrigating
 irrisus2 | 1 | derision
@@ -2321,16 +2321,16 @@ irritus1 | 1 | void
 irritus1 | 2 | vain
 irritus1 | 3 | of persons, unsuccessful, having acted in vain
 irrogo | 1 | impose
-irrogo | 3 | legal, to propose a bill or measure against someone
+irrogo | 3 | in law, to propose a bill or measure against someone
 irroro | 1 | bedew
 irrubesco | 1 | redden
 irrumpo | 1 | burst in
-irrumpo | 3 | trop., to intrude upon, invade, interrupt
+irrumpo | 3 | figuratively, to intrude upon, invade, interrupt
 irrumpo | 4 | to break, violate a treaty or law
 irruo | 1 | rush in
-irruo | 3 | trop., to force one's way into, seize upon eagerly
+irruo | 3 | figuratively, to force one's way into, seize upon eagerly
 irruptio | 1 | irruption
-irruptio | 3 | military, an incursion, a sally, a raid
+irruptio | 3 | in the army, an incursion, a sally, a raid
 is | 1 | he
 is | 3 | such, of such a kind or sort
 istac | 1 | that way
@@ -2355,11 +2355,11 @@ itaque | 1 | therefore
 item | 1 | likewise
 iter | 1 | journey
 iter | 2 | road
-iter | 3 | legal, a right of way
+iter | 3 | in law, a right of way
 iteratio | 1 | repetition
-iteratio | 3 | agriculture, a second ploughing
+iteratio | 3 | in farming, a second ploughing
 itero1 | 1 | repeat
-itero1 | 3 | agriculture, to plough a second time
+itero1 | 3 | in farming, to plough a second time
 iterum | 1 | again
 itidem | 1 | likewise
 itinerarius | 1 | itinerary
