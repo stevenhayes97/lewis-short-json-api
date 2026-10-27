@@ -24,6 +24,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import string
 import sys
 from pathlib import Path
@@ -43,7 +44,40 @@ DEFINITIONS_DIR = ROOT / "definitions"
 # key must start lowercase         drops proper nouns (Gabali, Gabaon, ...)
 # senses must be non-empty         drops stubs such as genus2
 # sense text >= MIN_SENSE_CHARS    drops entries that are one gloss and a cite
+#
+# CHURCH_WORDS below is the one exception to the first and last rules.
 MIN_SENSE_CHARS = 250
+
+# CHURCH_WORDS -- core Christian Latin vocabulary, admitted by hand.
+#
+# These are Greek loans (tagged "greek", so the entry_type rule drops them) and
+# L&S often gives them a single Vulgate citation, so many fall under
+# MIN_SENSE_CHARS too. A word listed here bypasses both rules; lowercase and
+# non-empty senses still apply.
+#
+# It is also the only list of words whose Christian sense may take rank 1
+# ahead of a classical one: ecclesia is "church", not "assembly". Every other
+# word keeps Christian senses at rank 3+ with "in Christian Latin" in the line.
+#
+# `check` refuses a listed key unless its source entry shows Christian Latin
+# usage (CHRISTIAN_MARKERS), so the list cannot become a back door for
+# ordinary Greek loans. Keep it short: a word belongs here only when the
+# Church sense is the one a learner will actually meet.
+CHURCH_WORDS = frozenset({
+    "angelus", "apostolus", "baptisma", "baptizo", "diabolus", "diaconus",
+    "ecclesia", "episcopus", "evangelium", "martyr", "presbyter", "propheta",
+})
+
+# Evidence of Christian Latin in L&S's sense text: its own "eccl. Lat." label,
+# the Vulgate, or a Church father. "Aug." is deliberately absent -- L&S also
+# uses it for Augustus ("post-Aug.").
+CHRISTIAN_MARKERS = re.compile(
+    r"eccl\. ?Lat|Church fathers|\b(?:Vulg|Tert|Hier|Cypr|Prud|Lact|Ambros|August)\."
+)
+
+# A line that names its period is a rank 3+ sense by definition; ranks 1-2 are
+# the bare glosses. Catches a later sense that crept up into the short ranks.
+PERIOD_LABEL = re.compile(r"\bin (?:early|later|Christian|classical) Latin\b", re.IGNORECASE)
 
 MAX_RANK = 10
 
@@ -98,16 +132,40 @@ def load_entries(letter: str) -> list[dict]:
     return json.loads(path.read_text(encoding="utf-8"))
 
 
+def sense_text(senses) -> str:
+    """A sense tree flattened to one string, nested sub-senses included."""
+    return " ".join(s if isinstance(s, str) else sense_text(s) for s in senses)
+
+
 def eligible_keys(letter: str) -> list[str]:
-    """Headwords worth defining, alphabetical. See ELIGIBILITY above."""
+    """Headwords worth defining, alphabetical. See ELIGIBILITY and CHURCH_WORDS."""
     return sorted(
         e["key"]
         for e in load_entries(letter)
-        if e.get("entry_type") == "main"
-        and e["key"][:1].islower()
+        if e["key"][:1].islower()
         and e.get("senses")
-        and sense_chars(e["senses"]) >= MIN_SENSE_CHARS
+        and (
+            e["key"] in CHURCH_WORDS
+            or (e.get("entry_type") == "main" and sense_chars(e["senses"]) >= MIN_SENSE_CHARS)
+        )
     )
+
+
+def check_church_words(letter: str, entries: dict[str, dict] | None) -> list[str]:
+    """Every CHURCH_WORDS key in this letter must be a real Christian Latin word."""
+    errors = []
+    for key in sorted(k for k in CHURCH_WORDS if k[:1].upper() == letter):
+        if entries is None:
+            continue
+        entry = entries.get(key)
+        if entry is None:
+            errors.append(f"CHURCH_WORDS: {key!r} is not in ls_{letter}.json")
+        elif not CHRISTIAN_MARKERS.search(sense_text(entry.get("senses") or [])):
+            errors.append(
+                f"CHURCH_WORDS: {key!r} shows no Christian Latin usage in its entry "
+                f"(no eccl. Lat., Vulgate or Church father) -- it does not belong on the list"
+            )
+    return errors
 
 
 def parse_definitions(
@@ -189,10 +247,12 @@ def check_letter(letter: str) -> list[str]:
     where = lambda n: f"{path.name}:{n}"
 
     try:
-        keys_in_source = {e["key"] for e in load_entries(letter)}
+        entries = {e["key"]: e for e in load_entries(letter)}
     except SystemExit:
-        keys_in_source = None
-        print(f"note: ls_{letter}.json absent, skipping the key-exists check")
+        entries = None
+        print(f"note: ls_{letter}.json absent, skipping the key-exists and CHURCH_WORDS checks")
+    keys_in_source = set(entries) if entries is not None else None
+    errors += check_church_words(letter, entries)
 
     ranks: dict[str, list[int]] = {}
     order: list[str] = []
@@ -210,6 +270,11 @@ def check_letter(letter: str) -> list[str]:
             errors.append(
                 f"{where(line_no)}: rank {rank} needs {len(definition.split())} words"
                 f" ({definition!r}) -- add a '# review: {key} <why>' line so it gets looked at"
+            )
+        if rank in SHORT_RANKS and PERIOD_LABEL.search(definition):
+            errors.append(
+                f"{where(line_no)}: rank {rank} names a period ({definition!r}) -- "
+                f"period-labelled senses go at rank 3+"
             )
         if key not in ranks:
             ranks[key] = []

@@ -79,6 +79,19 @@ distract`. `decanus` is late Latin throughout, so its rank 1 is its literal
 sense `chief of ten`. The narrower monastic "dean" goes at rank 3. A word
 attested only outside the classical period keeps its own meaning at rank 1.
 
+**The one exception: `CHURCH_WORDS`.** A short allowlist in
+`tools/definitions.py` of core Christian Latin words (`ecclesia`, `episcopus`,
+`angelus`, `baptizo`, …) whose Church sense takes rank 1 even where a classical
+sense exists: `ecclesia | 1 | church`, with the Greek popular assembly lower
+down as `in classical Latin, …`. That sense is the one a learner will meet,
+so it needs no period label. Only listed words get this. `check` refuses a
+listed key whose entry shows no Christian Latin usage (no `eccl. Lat.`,
+Vulgate or Church father), so ordinary Greek loans like `poeta` cannot be
+slipped in. Add to the list only when the Church sense is clearly the one a
+learner meets, and keep it short. `sacramentum` stays off it: its classical
+"oath" is common. `check` also fails any rank 1–2 line that names a period:
+a labelled sense is a rank 3+ sense.
+
 Each file opens with two `#` comment lines (format legend, source note). Lines
 are grouped by key, ranks ascending, keys in alphabetical order — `check`
 enforces all three.
@@ -179,6 +192,8 @@ nothing further worth teaching; do not add ranks 3+ just to fill it out.
 - sense text is ≥ 250 characters — drops one-gloss-and-a-citation entries
 
 For G that is 172 words out of 892 entries; about 11,000 across the dictionary.
+The `CHURCH_WORDS` allowlist (see the period rule above) bypasses the
+`entry_type` and length rules; it is the only hand-picked exception.
 Widen or narrow the net by changing `MIN_SENSE_CHARS`, not by picking around it.
 
 ## Gotchas
