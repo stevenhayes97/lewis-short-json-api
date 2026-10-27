@@ -2169,6 +2169,8 @@ premo | 7 | prune, keep in check (of plants)
 premo | 8 | in poetry, rule, govern
 premo | 9 | surpass, exceed
 premo | 10 | as an adjective, pressus, (of style) concise, terse, without ornament
+presbyter | 1 | elder
+presbyter | 3 | a presbyter or priest of the Church, ranking below a bishop
 presso | 1 | press
 pressulus | 1 | compressed
 pressura | 1 | pressure
@@ -2646,6 +2648,9 @@ propero | 4 | as an adjective, properatus, hurried, rapid, speedy
 properus | 1 | speedy
 properus | 3 | as an adverb, propere, hastily, quickly, speedily
 propexus | 1 | combed-forward
+propheta | 1 | prophet
+propheta | 3 | one of the prophets of the Hebrew scriptures
+propheta | 4 | a pagan seer or interpreter of oracles, especially an Egyptian priest
 propheto | 1 | prophesy
 propinatio | 1 | toast
 propinatio | 3 | by extension, rarely, a funeral banquet
