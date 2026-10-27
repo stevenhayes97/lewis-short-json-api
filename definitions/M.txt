@@ -802,6 +802,9 @@ monitum | 3 | prophecy, prediction
 monitus2 | 1 | warning
 monitus2 | 3 | in particular, omen, portent (divine warning)
 monochordos | 1 | one-stringed
+monogrammus | 1 | shadowy
+monogrammus | 3 | sketched in outline only; of Epicurus' gods, insubstantial: monogrammi dei, shadowy gods
+monogrammus | 4 | in jest, as a noun, a living skeleton, a man worn to a shadow
 mons | 1 | mountain
 mons | 3 | by extension, heap, mass (of things)
 mons | 4 | in poetry, rock
@@ -861,6 +864,8 @@ moribundus | 1 | dying
 moribundus | 3 | in the active, in poetry, deadly, fatal (causing death)
 morigeror | 1 | comply
 morigerus | 1 | obedient
+morion | 1 | nightshade
+morion | 3 | a narcotic plant, nightshade; also the male mandrake
 morior | 1 | die
 morior | 3 | by extension, decay, wither away (of things)
 morior | 4 | as an adjective, mortuus, dead
@@ -894,6 +899,8 @@ morticinus | 3 | by extension, dead (of things generally)
 mortifer | 1 | deadly
 mortualia | 1 | grave-clothes
 mortualia | 3 | funeral dirges (of songs sung for the dead)
+morus1 | 1 | foolish
+morus1 | 3 | in early Latin, silly; as a noun, a fool: morus es, you're a fool
 mos | 1 | custom
 mos | 3 | in particular, in the plural, mores, conduct, character (moral behaviour, morals)
 mos | 4 | by extension, quality, nature, manner (of things)
@@ -917,6 +924,8 @@ moveo | 7 | dance, perform a gesture (of ritual dance)
 mox | 1 | soon
 mox | 3 | then, next (in a narrative sequence)
 mox | 4 | after Augustus, afterwards, later (for post)
+mu | 1 | mum
+mu | 3 | in early Latin, the least sound: neque mu facere audet, he dare not say a word
 mucro | 1 | point
 mucro | 3 | by extension, in poetry, sword
 mucro | 4 | figuratively, edge, sharpness (of wit or authority)
@@ -1048,6 +1057,8 @@ murmur | 3 | roar, rumble (of louder or harsher sounds, e.g. the sea or a crowd)
 murmuro | 1 | murmur
 murmuro | 3 | grumble, mutter (of discontent)
 murmuro | 4 | in the active, by extension, grumble at, complain about (with the accusative)
+murra1 | 1 | myrrh
+murra1 | 3 | the myrrh tree of Arabia, and its fragrant gum, used to flavour wine and scent the hair
 murreus2 | 1 | murrine
 murrinus1 | 1 | myrrh
 murrinus1 | 3 | as a noun, murrina, spiced wine flavoured with myrrh
