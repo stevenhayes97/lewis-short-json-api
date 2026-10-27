@@ -413,12 +413,23 @@ calx2 | 4 | a small stone used as a gaming counter, less common in this sense th
 calx2 | 5 | the finishing line of a racecourse, once marked out with lime, against the carceres at the start
 calx2 | 6 | proverbially of speech: extra calcem decurrere, to run off the course, that is to wander from the point
 calx2 | 7 | more widely the end of a page, a book or a letter: in calce epistulae, at the foot of the letter
+calyx1 | 1 | calyx
+calyx1 | 3 | the cup or bud of a flower: calyx rosae, the cup of the rose
+calyx1 | 4 | a husk or shell, of fruit, eggs or shellfish
 cambio | 1 | exchange
 cambio | 3 | to barter one thing for another, a late word from which the Italian cambiare and the English change descend
+camera | 1 | vault
+camera | 3 | a vaulted ceiling, an arched roof
+camera | 4 | a small covered boat used on the Black Sea
 camillus1 | 1 | ritual attendant
 camillus1 | 3 | a boy of good family who served at the sacrifices of the Flamen Dialis, and then at religious rites in general
 camillus1 | 4 | its feminine camilla, a girl of unblemished birth who served in the same way
 camillus1 | 5 | Quintilian notes that it was also used to mean simply small
+caminus | 1 | furnace
+caminus | 2 | forge
+caminus | 3 | a smelting furnace, a smith's forge; in poetry, the forge of Vulcan under Etna
+caminus | 4 | a stove for heating a room, and the fire in it
+caminus | 5 | oleum addere camino, to pour oil on the fire, to make matters worse
 campester | 1 | flat
 campester | 3 | belonging to level ground, as against montanus and collinus: campester ager, flat country
 campester | 4 | as a neuter plural campestria, a plain or stretch of level ground
@@ -532,10 +543,16 @@ canis1 | 7 | proverbially: cane pejus et angui vitare, to shun a thing worse tha
 canis1 | 8 | the constellation, Canis Major with Sirius in it, and Canis Minor, the Little Dog
 canis1 | 9 | the dogfish, canis marinus, and in the poets the dogs of Scylla
 canis1 | 10 | the worst throw at dice, the dog throw: canem mittere, to throw the dog; and also a Cynic philosopher
+canistrum | 1 | basket
+canistrum | 3 | a reed basket for bread, fruit or flowers, especially one carried in sacrifices
 canities | 1 | grey hair
 canities | 3 | a grey or greyish-white colour, of a wolf's coat, of leaves, or of marble
 canities | 4 | above all the greyness of the hair, and so the grey hair itself: canitiem pulvere foedare, to foul the grey hairs with dust
 canities | 5 | so old age itself: canitiem sibi promittere, to promise oneself a grey old age
+canna | 1 | reed
+canna | 3 | a reed pipe, a flute
+canna | 4 | a small light boat
+cannabis | 1 | hemp
 cano | 1 | sing
 cano | 2 | play
 cano | 3 | to sing or make music, with the voice or on an instrument: voce vel fidibus canere, to sing or to play the lyre
@@ -546,6 +563,16 @@ cano | 7 | proverbially: carmen intus canere, to sing to oneself, that is to loo
 cano | 8 | since oracles came in verse, to prophesy or foretell: fera fata canere, to chant out grim destinies
 cano | 9 | in the army of signals, to sound: signa canere, to give the signal for battle; classicum cani jubere, to order the trumpet sounded
 cano | 10 | receptui canere, to sound the retreat, and figuratively to call someone off a thing
+canon | 1 | rule
+canon | 3 | a standard or model, a measuring line
+canon | 4 | in later Latin, a fixed annual tax paid in grain, money or goods
+canon | 5 | in Christian Latin, the canon, the list of accepted sacred books
+canon | 6 | a wooden channel in a water-organ
+canonicus | 1 | regular
+canonicus | 3 | following a rule; in music and astronomy, theoretical: ratio canonica, the theory of harmony
+canonicus | 4 | in Christian Latin, canonical, belonging to the canon: libri canonici, the canonical books
+canonicus | 5 | in later Christian Latin, as a noun, a canon, a member of the clergy living by a rule
+canonicus | 6 | in later Latin, relating to the annual tax
 canor | 1 | melody
 canor | 3 | a tune, song or sound, a rare and poetic word: res est blanda canor, song is a winning thing
 canor | 4 | of birds and living things: cygni canor, the swan's song
@@ -556,6 +583,13 @@ canorus | 4 | of men, singing well or speaking musically: canorus orator, a spea
 canorus | 5 | of birds and other creatures: canorae aves, songbirds; canorus ales, the swan
 canorus | 6 | of instruments: canorae fides, the ringing lyre; canorum aes, the clang of the trumpet
 canorus | 7 | as a fault of delivery, a sing-song tone
+cantharis | 1 | beetle
+cantharis | 3 | a beetle, especially the poisonous Spanish fly, used in medicine
+cantharis | 4 | a grub that damages vines and roses
+cantharus | 1 | tankard
+cantharus | 3 | a large drinking cup with handles, a tankard
+cantharus | 4 | a kind of sea fish
+cantharus | 5 | a water pipe or basin
 cantherius | 1 | gelding
 cantherius | 3 | a gelded horse, and so a nag or hack: cantherium in fossam, put the hack in the ditch, said of what has served its turn
 cantherius | 4 | also an ass or a mule
