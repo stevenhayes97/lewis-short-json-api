@@ -1763,6 +1763,9 @@ strangulo | 1 | strangle
 strangulo | 3 | to throttle, choke, strangle: strangulatus in carcere, strangled in prison
 strangulo | 4 | of plants, to choke, to stifle
 strangulo | 5 | in poetry, to torment: strangulat inclusus dolor, pent-up grief chokes me
+strategema | 1 | stratagem
+strategema | 3 | a piece of generalship, a military ruse
+strategema | 4 | any trick or artifice
 strebula | 1 | haunch-meat
 strena | 1 | omen
 strena | 3 | transferred, a New Year's gift, given for good luck
@@ -1793,6 +1796,14 @@ stringo | 3 | to draw a weapon from its sheath: gladios stringere, to draw sword
 stringo | 4 | to pull off, to strip off, to prune leaves or fruit
 stringo | 5 | figuratively, to wound, to pain, to affect painfully
 strio1 | 1 | groove
+strix1 | 1 | screech owl
+strix1 | 3 | a screech owl, believed to suck the blood of young children
+stropha | 1 | trick
+stropha | 3 | outside classical Latin, a trick or dodge: aliquam stropham invenire, to find some dodge
+stropha | 4 | a strophe of a choral song
+strophium | 1 | breast band
+strophium | 3 | a band worn by women under the breasts
+strophium | 4 | a headband or chaplet
 structilis | 1 | structural
 structio | 1 | construction
 structor | 1 | builder
@@ -1808,6 +1819,9 @@ struo | 2 | contrive
 struo | 3 | military, to set in order, to arrange, e.g. troops in battle line
 struo | 4 | figuratively, of speech, to arrange, to compose, to order
 struppus | 1 | strap
+strutheus | 1 | of sparrows
+strutheus | 3 | mala struthea, sparrow-apples, a particular small kind of apple
+struthiocamelus | 1 | ostrich
 studeo | 1 | strive
 studeo | 2 | study
 studeo | 3 | specifically, to be partial to, to favour, to be attached to someone
@@ -2493,6 +2507,24 @@ suus | 3 | as a plural noun (sui), one's own people, family, or followers
 suus | 4 | as a noun (suum, sua), one's own property
 suus | 5 | idiom, sua sponte, of one's own accord
 suus | 6 | idiom, suum cuique, to each his own
+sycophanta | 1 | trickster
+sycophanta | 3 | in early Latin, a cheat, a swindler, a slanderous informer
+sycophanta | 4 | a cunning flatterer, a parasite
+syllaba | 1 | syllable
+syllaba | 3 | a syllable: syllaba longa brevi subjecta, a long syllable after a short
+syllaba | 4 | in poetry, in the plural, verses
+symbola | 1 | contribution
+symbola | 3 | in comedy, a share of the cost of a feast: de symbolis esse, to dine at a shared expense
+symbola | 4 | in early Latin, in jest, a share of blows
+symbolus | 1 | token
+symbolus | 3 | outside classical Latin, a sign or token by which something is recognised, especially a seal
+symphonia | 1 | harmony
+symphonia | 2 | band
+symphonia | 3 | a concert of voices or instruments
+symphonia | 4 | a band of musicians: cum symphonia caneret, while the band was playing
 symphoniacus | 1 | musical
 symphoniacus | 3 | symphoniaci pueri or servi, a household band of singers and musicians
 symphoniacus | 4 | symphoniaca herba, henbane
+synodicus | 1 | synodic
+synodicus | 3 | in astronomy, of the moon in conjunction with the sun
+synodicus | 4 | in Christian Latin, according to the decrees of a synod
