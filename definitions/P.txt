@@ -1,11 +1,11 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_P.json (Lewis & Short via Perseus), simplified for learners.
 pabulatio | 1 | foraging
-pabulatio | 3 | pasture, pastureland (literal)
+pabulatio | 3 | literally, pasture, pastureland
 pabulor | 1 | forage
 pabulor | 3 | graze, feed (of animals eating fodder)
 pabulum | 1 | fodder
-pabulum | 3 | food, sustenance (trop., of anything that nourishes or feeds something abstract)
+pabulum | 3 | figuratively, food, sustenance (of anything that nourishes or feeds something abstract)
 pacator | 1 | pacifier
 pacator | 3 | subjugator, conqueror (since peace was often established through conquest)
 pacifer | 1 | peace-bringing
@@ -14,61 +14,61 @@ pacifico | 2 | appease
 pacificus | 1 | peaceable
 pacisco | 1 | agree
 pacisco | 3 | quo pacto, in what way, how (a common idiomatic ablative)
-pacisco | 4 | betrothed (of the participle pactus/pacta, promised in marriage)
+pacisco | 4 | betrothed (of the participle pactus or pacta, promised in marriage)
 paciscor | 1 | bargain
 paciscor | 2 | betroth
-paciscor | 3 | vitam pro laude paciscor, to stake one's life for glory (trop., poet.)
+paciscor | 3 | figuratively, in poetry, vitam pro laude paciscor, to stake one's life for glory
 paco2 | 1 | pacify
 paco2 | 2 | subdue
-paco2 | 3 | pacare silvas, to clear and tame forests (transf., of land brought under cultivation)
+paco2 | 3 | by extension, pacare silvas, to clear and tame forests (of land brought under cultivation)
 pactio | 1 | agreement
 pactio | 2 | collusion
 pactio | 3 | truce, peace settlement
 paedidus | 1 | filthy
 paedor | 1 | filth
 paelex | 1 | concubine
-paelex | 3 | (as an insult) a kept boy, male favorite (post-class., applied mockingly to a man)
+paelex | 3 | in later Latin, (as an insult) a kept boy, male favorite (applied mockingly to a man)
 paene | 1 | almost
 paenitentia | 1 | repentance
 paeniteo | 1 | regret
-paeniteo | 3 | me paenitet aliquid/alicuius rei, I regret something (an impersonal construction, + accusative of person and genitive of the thing)
+paeniteo | 3 | me paenitet aliquid or alicuius rei, I regret something (an impersonal construction, with the accusative of person and genitive of the thing)
 paeniteo | 4 | be dissatisfied, displeased (of a state of discontent, not necessarily moral regret)
 paenula1 | 1 | cloak
-paenula1 | 3 | covering, wrapping (transf., any protective envelope)
+paenula1 | 3 | by extension, covering, wrapping (any protective envelope)
 paenularius | 1 | cloak-maker
 paenultimus | 1 | penultimate
-paenultimus | 3 | paenultima, the penultimate syllable (a grammatical term, used substantively)
+paenultimus | 3 | as a noun, paenultima, the penultimate syllable (a grammatical term)
 paetus1 | 1 | squinting
 paetus1 | 3 | having a charming, slightly averted gaze (as an epithet of Venus, a positive trait)
 paganicus | 1 | rural
-paganicus | 3 | heathen, pagan (eccl. Latin)
+paganicus | 3 | in Christian Latin, heathen, pagan
 paganus | 1 | rural
 paganus | 2 | civilian
-paganus | 3 | pagan, heathen (eccl. Latin, ultimately from "civilian" -- one outside the "army" of Christ)
+paganus | 3 | in Christian Latin, pagan, heathen (ultimately from "civilian" -- one outside the "army" of Christ)
 pagina | 1 | page
 pagina | 3 | a plot of vines, four rows arranged in a square (viticultural term)
 pagus | 1 | district
 pagus | 3 | the country folk, villagers (of a rural district, by metonymy)
 pala | 1 | spade
-pala | 3 | bezel, the flat setting of a ring (transf., by shape)
+pala | 3 | by extension, bezel, the flat setting of a ring (by shape)
 palam | 1 | openly
 palam | 2 | before
 palam | 3 | palam est, it is publicly known, it is common knowledge
 palatum | 1 | palate
 palatum | 2 | taste
-palatum | 3 | caeli palatum, the vault of heaven (transf., by analogy of shape)
+palatum | 3 | by extension, caeli palatum, the vault of heaven (by analogy of shape)
 palea | 1 | chaff
-palea | 3 | the wattles of a cock, the dew-lap-like flesh under a rooster's beak (transf., by resemblance)
+palea | 3 | by extension, the wattles of a cock, the dew-lap-like flesh under a rooster's beak (by resemblance)
 palear | 1 | dewlap
-palear | 3 | throat (transf., of the general area)
+palear | 3 | by extension, throat (of the general area)
 palla | 1 | robe
-palla | 3 | a tragic actor's costume (transf., poet.)
+palla | 3 | by extension, in poetry, a tragic actor's costume
 palleo | 1 | be pale
 palleo | 2 | pine for
-palleo | 3 | be anxious about, fear (trop., + dative or accusative)
-palleo | 4 | study intensely, pore over (trop., growing pale from application to books)
+palleo | 3 | figuratively, be anxious about, fear (with the dative or the accusative)
+palleo | 4 | figuratively, study intensely, pore over (growing pale from application to books)
 pallesco | 1 | turn pale
-pallesco | 3 | wither, fade (transf., of leaves losing their color)
+pallesco | 3 | by extension, wither, fade (of leaves losing their color)
 palliatus | 1 | cloaked
 palliatus | 3 | fabula palliata, Roman comedy in Greek dress (a literary genre term, plays set in Greece)
 pallidus | 1 | pale
@@ -77,7 +77,7 @@ palliolum | 1 | cloak
 palliolum | 2 | hood
 pallium | 1 | cloak
 pallium | 2 | coverlet
-pallium | 3 | ad pallium reverti, to return to philosophy (trop., since the cloak was the philosopher's garb)
+pallium | 3 | figuratively, ad pallium reverti, to return to philosophy (since the cloak was the philosopher's garb)
 pallor | 1 | pallor
 pallor | 2 | terror
 pallor | 3 | personified as the god of fear (alongside Pavor, in Roman religion)
@@ -87,20 +87,20 @@ palmaris | 4 | full of palm trees (of a grove or place)
 palmarius | 1 | masterpiece
 palmarius | 3 | a lawyer's success-fee (paid to an advocate who won the case)
 palmes | 1 | vine-shoot
-palmes | 3 | branch, bough (transf., of any tree)
+palmes | 3 | by extension, branch, bough (of any tree)
 palmo | 1 | tie up
 palmo | 3 | tunica palmata, the palm-embroidered tunic worn by a general in his triumph
 palmula | 1 | palm
 palmula | 2 | oar-blade
 palmula | 3 | date, the fruit of the palm tree
 palmus | 1 | span
-palmus | 3 | the palm of the hand (literal, anatomical)
+palmus | 3 | literally, the palm of the hand (anatomical)
 palor | 1 | wander
 palor | 3 | vagi palantesque per agros, wandering scattered through the fields (of straggling troops or people)
 palpebra | 1 | eyelid
-palpebra | 3 | eyelashes (transf., plural)
+palpebra | 3 | by extension, eyelashes (plural)
 palpito | 1 | throb
-palpito | 3 | animus palpitans, a throbbing, anxious heart or mind (trop.)
+palpito | 3 | figuratively, animus palpitans, a throbbing, anxious heart or mind
 palpo1 | 1 | stroke
 palpo1 | 2 | coax
 paludamentum | 1 | cloak
@@ -111,9 +111,9 @@ palumbes | 1 | wood-pigeon
 palus1 | 1 | stake
 palus1 | 3 | ad palum alligari, to be bound to a stake (for punishment)
 palus2 | 1 | marsh
-palus2 | 3 | water, a lake (poet., transf., especially of the underworld rivers)
+palus2 | 3 | in poetry, by extension, water, a lake (especially of the underworld rivers)
 paluster | 1 | marshy
-paluster | 3 | lux palustris, a squalid, degraded life (trop., a specific idiom)
+paluster | 3 | figuratively, lux palustris, a squalid, degraded life (a specific idiom)
 pampinarius | 1 | tendril
 pampinatio | 1 | pruning
 pampineus | 1 | vine-leaved
@@ -127,28 +127,28 @@ pando2 | 3 | velis passis, with sails spread, under full sail (of the participle
 pandus | 1 | curved
 pango | 1 | fasten
 pango | 2 | compose
-pango | 3 | agree, covenant, settle by agreement (class., only in the perfect-tense forms; related to pactum, paciscor)
+pango | 3 | in classical Latin, agree, covenant, settle by agreement (only in the perfect-tense forms, related to pactum, paciscor)
 panicula | 1 | tuft
-panicula | 3 | swelling, tumor (transf., medical)
+panicula | 3 | by extension, in medicine, swelling, tumor
 panificium | 1 | bread-making
 panificium | 2 | baked goods
 panis | 1 | bread
 panis | 2 | food
-panis | 3 | a loaf-shaped ingot (transf., of metal)
+panis | 3 | by extension, a loaf-shaped ingot (of metal)
 pannosus | 1 | ragged
 pannosus | 2 | flabby
 pannus | 1 | cloth
 pannus | 2 | rag
-pannus | 3 | swaddling-clothes (plur., of an infant)
+pannus | 3 | in the plural, swaddling-clothes (of an infant)
 pantex | 1 | belly
 pantex | 3 | (comically) sausages, stuffed guts (of food, a Vergilian jest)
 papaver | 1 | poppy
-papaver | 3 | seed, kernel (transf., of small seeds generally, by analogy with poppy-seed)
+papaver | 3 | by extension, seed, kernel (of small seeds generally, by analogy with poppy-seed)
 papilio | 1 | butterfly
 papilio | 2 | tent
 papilla | 1 | nipple
 papilla | 2 | breast
-papilla | 3 | rose-bud (poet., by resemblance of shape)
+papilla | 3 | in poetry, rose-bud (by resemblance of shape)
 papula | 1 | pimple
 par | 1 | equal
 par | 2 | pair
@@ -160,57 +160,57 @@ parcitas | 1 | frugality
 parcitas | 2 | mercy
 parco | 1 | spare
 parco | 2 | refrain
-parco | 3 | parcere alicui, to spare someone, show mercy (+ dative)
+parco | 3 | parcere alicui, to spare someone, show mercy (with the dative)
 parcus | 1 | frugal
 parcus | 2 | scanty
 parens2 | 1 | parent
 parens2 | 2 | founder
-parens2 | 3 | ancestors, forebears (transf., plural, of more remote generations)
+parens2 | 3 | by extension, ancestors, forebears (plural, of more remote generations)
 parentalis | 1 | parental
-parentalis | 3 | Parentalia, the festival honoring dead ancestors (used substantively as a noun)
+parentalis | 3 | as a noun, Parentalia, the festival honoring dead ancestors
 parento | 1 | commemorate
 parento | 2 | avenge
 parento | 3 | to offer a sacrifice or rite in honor of dead relatives (the literal ritual sense, root of Parentalia)
 pareo | 1 | obey
 pareo | 2 | appear
 pareo | 3 | si paret, if it is proven, if it appears (evident) -- a legal formula
-pareo | 4 | parere alicui, to obey someone, be subject to them (+ dative)
+pareo | 4 | parere alicui, to obey someone, be subject to them (with the dative)
 paries | 1 | wall
-paries | 3 | partition, barrier (trop., something that separates)
+paries | 3 | figuratively, partition, barrier (something that separates)
 parietarius | 1 | wall
 parietarius | 3 | parietaria, the herb pellitory, a plant that grows on walls
 parietinus | 1 | wall
 parietinus | 2 | ruins
 parilis | 1 | equal
 pario1 | 1 | equalise
-pario1 | 3 | settle, pay in full (a debt, post-classical legal usage)
+pario1 | 3 | in later Latin, in law, settle, pay in full (a debt)
 pario2 | 1 | give birth
 pario2 | 2 | acquire
-pario2 | 3 | parta, acquisitions, possessions gained (used substantively as a noun)
+pario2 | 3 | as a noun, parta, acquisitions, possessions gained
 parma1 | 1 | buckler
 parma1 | 3 | a Thracian-style gladiator (armed with the parma, as opposed to the larger scutum)
 paro1 | 1 | prepare
 paro1 | 2 | acquire
-paro1 | 3 | paratus, ready, prepared (the common adjectival participle)
+paro1 | 3 | as an adjective, paratus, ready, prepared
 parra1 | 1 | owl
 parra1 | 3 | a bird of ill omen (exact species disputed -- perhaps the owl, woodpecker, or lapwing)
 parricida | 1 | parricide
 parricida | 2 | traitor
-parricida | 3 | the murderer of a near relative, or of a free citizen (transf., a broadened sense)
+parricida | 3 | by extension, the murderer of a near relative, or of a free citizen (a broadened sense)
 parricidialis | 1 | parricidal
 parricidium | 1 | parricide
 parricidium | 2 | treason
-parricidium | 3 | the murder of a near relative, e.g. mother, brother (transf., a broadened sense)
+parricidium | 3 | by extension, the murder of a near relative, e.g. mother, brother (a broadened sense)
 pars | 1 | part
 pars | 2 | faction
-pars | 3 | role, function, duty (transf., of a theatrical part or a person's office)
+pars | 3 | by extension, role, function, duty (of a theatrical part or a person's office)
 pars | 4 | pars...pars, some...others (a common partitive construction)
 pars | 5 | magna pars, the majority, a good many
 parsimonia | 1 | frugality
 partiarius | 1 | shared
 partiarius | 3 | colonus partiarius, a sharecropper, a tenant farmer who pays rent with a portion of the crop
 particeps | 1 | participant
-particeps | 3 | particeps alicuius rei, a partaker or sharer in something (+ genitive)
+particeps | 3 | particeps alicuius rei, a partaker or sharer in something (with the genitive)
 participialis | 1 | participial
 participium | 1 | participle
 participium | 3 | sharing, participation (the rarer literal sense)
@@ -225,38 +225,38 @@ partio1 | 1 | childbirth
 partio2 | 1 | divide
 partio2 | 3 | partiri inter se, to share something out among themselves, come to terms
 partitio | 1 | division
-partitio | 3 | (rhetoric) the part of a speech outlining the points to be discussed
+partitio | 3 | in rhetoric, the part of a speech outlining the points to be discussed
 parturio | 1 | labor
 parturio | 2 | brood
 parturio | 3 | parturiunt montes, nascetur ridiculus mus, the mountains go into labor, and a ridiculous mouse is born (a proverb for a big buildup with a trivial result)
 parturitio | 1 | labor
-parturitio | 3 | parturition, childbirth (transf., the actual delivery)
+parturitio | 3 | by extension, parturition, childbirth (the actual delivery)
 partus2 | 1 | birth
 partus2 | 2 | offspring
-partus2 | 3 | beginnings, origins (trop., of the sources of something)
+partus2 | 3 | figuratively, beginnings, origins (of the sources of something)
 parumper | 1 | briefly
 parvitas | 1 | smallness
 parvulus | 1 | tiny
 parvulus | 2 | young
 parvus | 1 | small
-parvus | 3 | comparative minor, superlative minimus (irregular, not parvior/parvissimus)
+parvus | 3 | comparative minor, superlative minimus (irregular, not parvior or parvissimus)
 parvus | 4 | quominus, so that... not (a common construction after verbs of hindering or preventing)
 pascha | 1 | Passover
-pascha | 3 | Easter (the Christian feast, eccl. Latin)
+pascha | 3 | in Christian Latin, Easter (the Christian feast)
 pascha | 4 | the paschal lamb (the sacrificial animal)
 pasco | 1 | feed
 pasco | 2 | graze
-pasco | 3 | feast, gratify (trop., of feeding one's eyes or mind on something)
-pasco | 4 | ravage, lay waste (trop., of devastating land)
+pasco | 3 | figuratively, feast, gratify (of feeding one's eyes or mind on something)
+pasco | 4 | figuratively, ravage, lay waste (of devastating land)
 pascuus | 1 | grazing
 pascuus | 2 | pasture
 passer1 | 1 | sparrow
-passer1 | 3 | passer marinus, an ostrich (transf., literally "sea-sparrow")
+passer1 | 3 | by extension, passer marinus, an ostrich (literally "sea-sparrow")
 passim | 1 | everywhere
 passim | 2 | at random
 passio | 1 | suffering
 passio | 2 | the Passion
-passio | 3 | the sufferings of Christ (eccl. Latin, the specific sense behind "the Passion")
+passio | 3 | in Christian Latin, the sufferings of Christ (the specific sense behind "the Passion")
 passio | 4 | passion, emotion (a translation of the Greek pathos)
 passivus1 | 1 | widespread
 passivus2 | 1 | passive
@@ -268,25 +268,25 @@ pastillus | 2 | lozenge
 pastino | 1 | trench
 pastino | 3 | prepare ground for planting vines (a specific viticultural technique)
 pastinum | 1 | dibble
-pastinum | 3 | the act of trenching and preparing ground (transf., the practice itself)
+pastinum | 3 | by extension, the act of trenching and preparing ground (the practice itself)
 pastio | 1 | grazing
 pastio | 2 | pasture
 pastor | 1 | shepherd
 pastor | 2 | pastor
-pastor | 3 | pastor populi, shepherd of the people (trop., of a leader or ruler)
+pastor | 3 | figuratively, pastor populi, shepherd of the people (of a leader or ruler)
 pastoralis | 1 | pastoral
 pastus2 | 1 | fodder
-pastus2 | 3 | sustenance, nourishment (trop., of anything that feeds or sustains)
+pastus2 | 3 | figuratively, sustenance, nourishment (of anything that feeds or sustains)
 patefacio | 1 | open
 patefacio | 2 | reveal
 patella1 | 1 | dish
 patella1 | 2 | kneecap
 pateo | 1 | be open
 pateo | 2 | extend
-pateo | 3 | be evident, be clear (trop., of something obvious or well known)
+pateo | 3 | figuratively, be evident, be clear (of something obvious or well known)
 pater | 1 | father
 pater | 2 | ancestors
-pater | 3 | Pater, God the Father (eccl. Latin, of the Christian deity)
+pater | 3 | in Christian Latin, Pater, God the Father (of the Christian deity)
 pater | 4 | pater familias, the head of a household
 patera | 1 | libation-bowl
 patera | 3 | a shallow ceremonial dish used for pouring wine offerings to the gods
@@ -294,7 +294,7 @@ paternus | 1 | paternal
 paternus | 3 | paternus vs patrius: paternus is a father's property or external relations, patrius what belongs to his essential nature
 paternus | 4 | casus paternus, the genitive case (a grammatical term)
 patesco | 1 | open
-patesco | 3 | become evident, come to light (trop.)
+patesco | 3 | figuratively, become evident, come to light
 patibilis | 1 | endurable
 patibilis | 2 | sensitive
 patibulum | 1 | gibbet
@@ -302,19 +302,19 @@ patibulum | 3 | a forked prop for supporting vines (agricultural sense)
 patientia | 1 | patience
 patientia | 2 | forbearance
 patina1 | 1 | pan
-patina1 | 3 | manger, crib (transf., a feeding trough)
+patina1 | 3 | by extension, manger, crib (a feeding trough)
 patinarius | 1 | pan
 patior | 1 | suffer
 patior | 2 | allow
-patior | 3 | (gram.) to be passive, have a passive sense (the source of the term "passive")
+patior | 3 | in grammar, to be passive, have a passive sense (the source of the term "passive")
 patriarcha | 1 | patriarch
-patriarcha | 3 | a chief bishop (eccl. Latin, a specific high church office)
+patriarcha | 3 | in Christian Latin, a chief bishop (a specific high church office)
 patricius | 1 | patrician
 patricius | 3 | (later imperial usage) a high court title, granted by the emperor from Constantine onward
 patricus | 1 | paternal
 patricus | 3 | patricus casus, the genitive case (a grammatical term)
 patrimonium | 1 | inheritance
-patrimonium | 3 | populi Romani patrimonium, the inheritance or estate of the Roman people (trop., of public resources)
+patrimonium | 3 | figuratively, populi Romani patrimonium, the inheritance or estate of the Roman people (of public resources)
 # review: patrimus no single English word for having a father still alive; needed for the ritual pairing patrimi et matrimi
 patrimus | 1 | having a father still living
 patrimus | 3 | patrimi et matrimi, children whose father and mother are both still alive (required for certain religious rites)
@@ -322,7 +322,7 @@ patritus | 1 | paternal
 patrius1 | 1 | paternal
 patrius1 | 2 | homeland
 patrius1 | 3 | patria, one's native land or country (used substantively as a feminine noun -- an essential word, root of "patriot")
-patrius1 | 4 | hereditary, traditional, handed down (transf., of ancient customs or traits)
+patrius1 | 4 | by extension, hereditary, traditional, handed down (of ancient customs or traits)
 patrius2 | 1 | native
 patrius2 | 3 | nomen patrium, a gentile or national adjective (e.g. Romanus, Atheniensis) -- a grammatical term
 patro | 1 | accomplish
@@ -330,7 +330,7 @@ patro | 3 | bellum patrare, to bring a war to an end
 patrocinium | 1 | patronage
 patrocinium | 2 | advocacy
 patrocinor | 1 | champion
-patrocinor | 3 | patrocinari alicui, to act as patron or defender for someone (+ dative)
+patrocinor | 3 | patrocinari alicui, to act as patron or defender for someone (with the dative)
 patrona | 1 | patroness
 patronatus | 1 | patronage
 patronus | 1 | patron
@@ -351,12 +351,12 @@ paulatim | 1 | gradually
 paulatim | 3 | a few at a time, in small groups (of a sequence of people or parts)
 paulisper | 1 | briefly
 paululus | 1 | very little
-paululus | 3 | paululum alicuius rei, a little bit of something (+ genitive, a common partitive construction)
+paululus | 3 | paululum alicuius rei, a little bit of something (with the genitive, a common partitive construction)
 paulus1 | 1 | small
 paulus1 | 2 | somewhat
 paulus1 | 3 | paulo ante, paulo post, shortly before, shortly after (common idioms, the ablative used adverbially with comparatives)
 pauper | 1 | poor
-pauper | 3 | scanty, meagre (of things, transf.)
+pauper | 3 | by extension, scanty, meagre (of things)
 pauperculus | 1 | poor
 pauperies | 1 | poverty
 pauperies | 2 | damage
@@ -364,7 +364,7 @@ paupero | 1 | impoverish
 paupero | 2 | deprive
 paupertas | 1 | poverty
 paupertas | 3 | paupertas vs egestas: paupertas is modest means, not the desperate destitution of egestas or inopia
-paupertas | 4 | poverty of language, a lack of vocabulary or expressiveness (trop., a rhetorical criticism)
+paupertas | 4 | figuratively, poverty of language, a lack of vocabulary or expressiveness (a rhetorical criticism)
 pausarius | 1 | boatswain
 pausarius | 3 | a rowing-master who signals the stroke with a hammer
 pauso | 1 | pause
@@ -391,7 +391,7 @@ pax1 | 1 | peace
 pax1 | 2 | divine favor
 pax1 | 3 | pax!, silence!, enough! (as an interjection demanding quiet)
 pax1 | 4 | pace tua, with your leave, if I may say so (a common polite formula)
-pax1 | 5 | Pax Romana, the Roman peace (post-Augustan, of Rome's dominion and the stability it imposed)
+pax1 | 5 | after Augustus, Pax Romana, the Roman peace (of Rome's dominion and the stability it imposed)
 peccatum | 1 | sin
 pecco | 1 | err
 pecco | 2 | sin
@@ -401,14 +401,14 @@ pecten | 3 | scallop (a shellfish, still the genus name today)
 pecten | 4 | rake
 pectinatim | 1 | comb-like
 pectino | 1 | comb
-pectino | 3 | harrow (transf., of raking soil)
+pectino | 3 | by extension, harrow (of raking soil)
 pecto | 1 | comb
 pecto | 3 | pectere pugnis, to give someone a beating (comic idiom, literally "to comb with fists")
 pectoralis | 1 | pectoral
 pectoralis | 2 | breastplate
 pectus | 1 | breast
 pectus | 2 | heart
-pectus | 3 | mind, understanding (trop., the intellectual or rational faculty)
+pectus | 3 | figuratively, mind, understanding (the intellectual or rational faculty)
 pecu | 1 | cattle
 pecu | 2 | money
 pecu | 3 | pecu squamosum, "scaly cattle" (a poetic kenning for fish)
@@ -429,12 +429,12 @@ pecuniarius | 1 | pecuniary
 pecuniosus | 1 | wealthy
 pecuniosus | 2 | profitable
 pecus1 | 1 | herd
-pecus1 | 3 | servum pecus, a slavish herd (trop., a contemptuous term for mindless imitators or followers)
+pecus1 | 3 | figuratively, servum pecus, a slavish herd (a contemptuous term for mindless imitators or followers)
 pecus2 | 1 | beast
 pecus2 | 2 | sheep
-pecus2 | 3 | (as an insult) a brute, a stupid or filthy creature (trop., applied to a person)
+pecus2 | 3 | figuratively, (as an insult) a brute, a stupid or filthy creature (applied to a person)
 pedalis | 1 | foot-long
-pedalis | 3 | pedalis, a slipper (used substantively as a noun)
+pedalis | 3 | as a noun, pedalis, a slipper
 pedamen | 1 | prop
 pedaneus | 1 | foot-long
 pedaneus | 3 | judex pedaneus, a petty judge (so called for sitting on a low seat without a raised tribunal)
@@ -446,50 +446,50 @@ pedes | 2 | foot-soldier
 pedes | 3 | equites peditesque, cavalry and infantry (a common phrase for "the whole army" or "everyone")
 pedester | 1 | pedestrian
 pedester | 2 | prose
-pedester | 3 | by land (transf., as opposed to by sea)
+pedester | 3 | by extension, by land (as opposed to by sea)
 pedetemptim | 1 | cautiously
 pedetemptim | 3 | step by step, feeling one's way forward (the literal sense, of careful physical movement)
 pedica | 1 | snare
-pedica | 3 | fetter, shackle (trop., post-class., of love or other constraints)
+pedica | 3 | figuratively, in later Latin, fetter, shackle (of love or other constraints)
 pediculus1 | 1 | pedicle
 pediculus1 | 3 | a little foot (the literal, rarer sense)
 pediculus2 | 1 | louse
 pedis | 1 | louse
 pedisequus | 1 | footman
-pedisequus | 3 | follower, attendant (trop., of something subordinate to something else)
+pedisequus | 3 | figuratively, follower, attendant (of something subordinate to something else)
 pedulis | 1 | foot
-pedulis | 3 | pedule, a sole (used substantively as a noun)
+pedulis | 3 | as a noun, pedule, a sole
 pedum1 | 1 | crook
 pejero | 1 | perjure
 pejero | 2 | lie
 pelicatus | 1 | concubinage
 pellacia | 1 | allurement
-pellacia | 3 | seduction (post-classical, a narrower specific sense)
+pellacia | 3 | in later Latin, seduction (a narrower specific sense)
 pellicio | 1 | entice
-pellicio | 3 | win over, bring to one's side (trop., through charm or wit)
+pellicio | 3 | figuratively, win over, bring to one's side (through charm or wit)
 pellicio | 4 | draw away another's crops by magic spells (a specific ancient superstition)
 pellicula | 1 | hide
 pellicula | 3 | aurea pellicula, the golden fleece (a specific poetic reference, Juvenal)
 pellis | 1 | hide
 pellis | 2 | leather
 pellis | 3 | sub pellibus, in camp, on campaign (literally "under the skins," i.e. in tents)
-pellis | 4 | parchment (transf., writing material made of skin)
+pellis | 4 | by extension, parchment (writing material made of skin)
 pellitus | 1 | skin-clad
 pello | 1 | drive
 pello | 2 | expel
-pello | 3 | move, affect, touch (trop., of emotional impact)
+pello | 3 | figuratively, move, affect, touch (of emotional impact)
 pellucidus | 1 | transparent
-pellucidus | 3 | very bright, brilliant (transf., of a star)
+pellucidus | 3 | by extension, very bright, brilliant (of a star)
 pelvis | 1 | basin
 penarius | 1 | provision
-penarius | 3 | penaria, a storeroom, pantry (used substantively as a noun)
+penarius | 3 | as a noun, penaria, a storeroom, pantry
 pendeo | 1 | hang
 pendeo | 2 | depend
 pendeo | 3 | be uncertain, be in suspense, waver
 pendeo | 4 | pendere ab ore alicuius, to hang on someone's every word (a vivid idiom for rapt attention)
 pendo | 1 | weigh
 pendo | 2 | pay
-pendo | 3 | value, esteem (trop., + genitive of value, e.g. "magni pendere," to value highly)
+pendo | 3 | figuratively, value, esteem (with the genitive of value, e.g. "magni pendere, " to value highly)
 pendo | 4 | pensum, a task, duty (originally a slave's daily quota of wool to spin)
 pendulus | 1 | hanging
 pendulus | 2 | uncertain
@@ -502,7 +502,7 @@ penetralis | 1 | inner
 penetralis | 2 | sanctuary
 penetralis | 3 | penetralia, the innermost shrine of a household, sacred to the Penates
 penetro | 1 | penetrate
-penetro | 3 | occur to, enter someone's thoughts (trop., of an idea)
+penetro | 3 | figuratively, occur to, enter someone's thoughts (of an idea)
 penicillum | 1 | paintbrush
 penicillum | 2 | style
 penicillum | 3 | a roll of lint or a small sponge (medical sense, for dressing wounds)
@@ -515,8 +515,8 @@ penitus1 | 1 | deeply
 penitus1 | 2 | completely
 penna | 1 | feather
 penna | 2 | wing
-penna | 3 | pen (late Latin, the writing implement -- the source of the English word)
-penna | 4 | pinnacle, battlement (transf., architectural, by resemblance to feather-tips)
+penna | 3 | in later Latin, pen (the writing implement -- the source of the English word)
+penna | 4 | by extension, pinnacle, battlement (architectural, by resemblance to feather-tips)
 pennatus | 1 | winged
 pensiculo | 1 | ponder
 pensilis | 1 | hanging
@@ -528,7 +528,7 @@ pensito | 1 | ponder
 pensito | 2 | pay
 penso | 1 | weigh
 penso | 2 | compensate
-penso | 3 | ponder, consider, weigh mentally (trop.)
+penso | 3 | figuratively, ponder, consider, weigh mentally
 penuria | 1 | scarcity
 penus | 1 | provisions
 penus | 2 | sanctuary
@@ -539,23 +539,23 @@ per1 | 4 | per- (as a prefix), thoroughly, completely, very (an intensifying com
 peracesco | 1 | turn sour
 peracesco | 2 | become vexed
 peracutus | 1 | very sharp
-peracutus | 3 | very keen, very perceptive (trop., of intellect or wit)
+peracutus | 3 | figuratively, very keen, very perceptive (of intellect or wit)
 peraeque | 1 | equally
 peraequo | 1 | equalise
 peraequo | 3 | fill up, yield, produce (a specified quantity, agricultural usage)
 peragito | 1 | harass
-peragito | 3 | stir (of a liquid, literal)
+peragito | 3 | literally, stir (of a liquid)
 peragito | 4 | complete, finish (a curious extended sense)
 perago | 1 | complete
 perago | 2 | traverse
-perago | 3 | relate, narrate, detail (trop., to go through in speech)
+perago | 3 | figuratively, relate, narrate, detail (to go through in speech)
 peragro | 1 | traverse
-peragro | 3 | spread through, pervade (trop., of fame or influence)
+peragro | 3 | figuratively, spread through, pervade (of fame or influence)
 perambulo | 1 | traverse
-perambulo | 3 | conduct oneself, live (eccl. Latin, trop., "to walk" a certain way of life)
+perambulo | 3 | in Christian Latin, figuratively, conduct oneself, live ("to walk" a certain way of life)
 peraro | 1 | plough through
 peraro | 2 | write
-peraro | 3 | furrow, wrinkle (transf., of an aged face)
+peraro | 3 | by extension, furrow, wrinkle (of an aged face)
 perbibo | 1 | drink in
 perbibo | 2 | imbibe
 perbito | 1 | perish
@@ -568,7 +568,7 @@ percelebro | 1 | repeat
 percelebro | 3 | talk about often, have constantly on one's lips (of a rumor or story)
 percello | 1 | overturn
 percello | 2 | dishearten
-percello | 3 | overthrow, ruin, destroy (trop., of a person's fortunes)
+percello | 3 | figuratively, overthrow, ruin, destroy (of a person's fortunes)
 percenseo | 1 | enumerate
 percenseo | 2 | review
 perceptio | 1 | perception
@@ -577,19 +577,19 @@ percido | 1 | smash
 percido | 3 | rout, utterly destroy (of an army, military sense)
 percieo | 1 | excite
 percieo | 2 | abuse
-percieo | 3 | percitus, roused, agitated, excited (the common adjectival participle)
+percieo | 3 | as an adjective, percitus, roused, agitated, excited
 percipio | 1 | perceive
 percipio | 2 | receive
 percipio | 3 | feel, experience (an emotion or sensation)
 percognosco | 1 | know thoroughly
 percolo1 | 1 | filter
-percolo1 | 3 | pass through, permeate (transf., of something seeping or passing through something else)
+percolo1 | 3 | by extension, pass through, permeate (of something seeping or passing through something else)
 percolo2 | 1 | cultivate
 percolo2 | 2 | honor
-percolo2 | 3 | adorn, embellish (transf., with eloquence or ornament)
+percolo2 | 3 | by extension, adorn, embellish (with eloquence or ornament)
 percommodus | 1 | very convenient
 percontatio | 1 | inquiry
-percontatio | 3 | (rhetoric) a figure using a rhetorical question
+percontatio | 3 | in rhetoric, a figure using a rhetorical question
 perconto | 1 | question
 percontor | 1 | inquire
 percoquo | 1 | cook thoroughly
@@ -602,44 +602,44 @@ percurro | 1 | traverse
 percurro | 2 | skim
 percurro | 3 | spread through, penetrate (of a feeling or sensation)
 percursio | 1 | quick review
-percursio | 3 | (rhetoric) a rapid, cursory treatment of a topic
+percursio | 3 | in rhetoric, a rapid, cursory treatment of a topic
 percussio | 1 | striking
 percussio | 2 | rhythm
 percussor | 1 | assassin
 percussus2 | 1 | striking
 percutio | 1 | strike
 percutio | 2 | kill
-percutio | 3 | astound, shock, deeply affect (trop., of news or an impression)
+percutio | 3 | figuratively, astound, shock, deeply affect (of news or an impression)
 percutio | 4 | mint, stamp (coins)
 perdisco | 1 | learn thoroughly
 perdo | 1 | destroy
 perdo | 2 | lose
-perdo | 3 | perditus, ruined, desperate; also depraved, morally corrupt (the common adjectival participle)
+perdo | 3 | as an adjective, perditus, ruined, desperate; also depraved, morally corrupt
 perdoceo | 1 | teach thoroughly
 perdomo | 1 | subdue completely
-perdomo | 3 | knead thoroughly (transf., of dough)
+perdomo | 3 | by extension, knead thoroughly (of dough)
 perduco | 1 | lead
 perduco | 2 | persuade
-perduco | 3 | prolong, extend (trop., of time or a discussion)
+perduco | 3 | figuratively, prolong, extend (of time or a discussion)
 perductor | 1 | guide
 perductor | 2 | pimp
 perduellio | 1 | treason
 perduellis | 1 | enemy
 perduellis | 3 | note: despite resembling perduellio ("treason"), perduellis means "public enemy," never "traitor" -- parricida is the word for that
 perduro | 1 | hold out
-perduro | 3 | harden, make hard (late Latin, transitive sense)
+perduro | 3 | in later Latin, harden, make hard (transitive sense)
 peredo1 | 1 | consume
-peredo1 | 3 | waste away, be consumed (trop., of love or grief eating at someone)
+peredo1 | 3 | figuratively, waste away, be consumed (of love or grief eating at someone)
 pereger | 1 | abroad
-pereger | 3 | peregre, the far more common adverbial form (used with verbs of motion or rest, "to/from/while abroad")
+pereger | 3 | peregre, the far more common adverbial form (used with verbs of motion or rest, "to or from or while abroad")
 peregrinatio | 1 | travel
-peregrinatio | 3 | wandering (transf., extended to animals roaming)
+peregrinatio | 3 | by extension, wandering (extended to animals roaming)
 peregrinitas | 1 | alien status
-peregrinitas | 3 | foreign ways, outlandish manners (transf., of culture or behavior)
-peregrinitas | 4 | a foreign accent (transf., in speech)
+peregrinitas | 3 | by extension, foreign ways, outlandish manners (of culture or behavior)
+peregrinitas | 4 | by extension, a foreign accent (in speech)
 peregrinor | 1 | travel abroad
 peregrinor | 2 | wander
-peregrinor | 3 | be a stranger, feel out of place (trop., even when at home)
+peregrinor | 3 | figuratively, be a stranger, feel out of place (even when at home)
 peregrinus | 1 | foreign
 peregrinus | 2 | foreigner
 peregrinus | 3 | (Roman law) a non-citizen resident, as opposed to a civis, "citizen"
@@ -657,27 +657,27 @@ perennis | 1 | perennial
 perennis | 3 | lasting through the year (the literal sense, e.g. of birds that don't migrate)
 perennitas | 1 | perpetuity
 perenno | 1 | endure
-perenno | 3 | preserve, keep long (transitive sense, rare)
+perenno | 3 | rarely, preserve, keep long (transitive sense)
 pereo | 1 | perish
 pereo | 2 | be ruined
-pereo | 3 | pine away with love, be desperately in love (poet.)
+pereo | 3 | in poetry, pine away with love, be desperately in love
 pereo | 4 | perii!, I am lost!, I am ruined! (a common exclamation of despair)
 perequito | 1 | ride about
 pererro | 1 | wander through
-pererro | 3 | survey, scan (transf., of the eyes passing over something)
+pererro | 3 | by extension, survey, scan (of the eyes passing over something)
 perexiguus | 1 | very small
 perfacilis | 1 | very easy
 perfacilis | 2 | courteous
 perfamiliaris | 1 | very close
-perfamiliaris | 3 | a close friend (used substantively as a noun)
+perfamiliaris | 3 | as a noun, a close friend
 perfectio | 1 | perfection
 perfectio | 3 | completion, finishing (the concrete process, as opposed to the abstract quality)
 perfero | 1 | carry through
 perfero | 2 | endure
-perfero | 3 | report, announce (partic., to convey news)
+perfero | 3 | in particular, report, announce (to convey news)
 perficio | 1 | complete
 perficio | 2 | perfect
-perficio | 3 | perficere ut, to bring it about that, to see to it that (+ subjunctive)
+perficio | 3 | perficere ut, to bring it about that, to see to it that (with the subjunctive)
 perfidia | 1 | treachery
 perfidiosus | 1 | treacherous
 perfidus | 1 | treacherous
@@ -685,7 +685,7 @@ perfidus | 2 | dangerous
 perflabilis | 1 | airy
 perflabilis | 2 | susceptible
 perflatus | 1 | breeze
-perflatus | 3 | draught, current of air (the more abstract/technical sense)
+perflatus | 3 | draught, current of air (the more abstract or technical sense)
 perflo | 1 | blow through
 perfluo | 1 | flow through
 perfluo | 3 | perfluo, I leak (secrets), I cannot keep quiet (a vivid Terentian idiom)
@@ -699,8 +699,8 @@ perfringo | 1 | shatter
 perfringo | 2 | violate
 perfringo | 3 | force one's way through, break through (an obstacle or enemy line)
 perfruor | 1 | enjoy fully
-perfruor | 3 | perfrui aliqua re, to enjoy something thoroughly (+ ablative)
-perfruor | 4 | fulfil, carry out (poet., of instructions or a task)
+perfruor | 3 | perfrui aliqua re, to enjoy something thoroughly (with the ablative)
+perfruor | 4 | in poetry, fulfil, carry out (of instructions or a task)
 perfuga | 1 | deserter
 perfugio | 1 | take refuge
 perfugio | 2 | desert
@@ -708,12 +708,12 @@ perfugium | 1 | refuge
 perfunctorius | 1 | perfunctory
 perfundo | 1 | drench
 perfundo | 2 | imbue
-perfundo | 3 | alarm, disquiet, fill with apprehension (trop.)
+perfundo | 3 | figuratively, alarm, disquiet, fill with apprehension
 perfungor | 1 | discharge
 perfungor | 2 | endure
 perfungor | 3 | perfungi vita, to finish with life, i.e. die (a euphemistic idiom)
 perfusorius | 1 | superficial
-perfusorius | 3 | wrongful, unjust (post-classical, a specific legal usage)
+perfusorius | 3 | in later Latin, wrongful, unjust (a specific legal usage)
 pergo | 1 | proceed
 pergo | 3 | perge!, go on!, continue! (a common prompt to keep speaking)
 pergraecor | 1 | carouse
@@ -728,33 +728,33 @@ perhorresco | 1 | shudder
 perhorresco | 2 | dread
 periclitor | 1 | risk
 periclitor | 2 | test
-periclitor | 3 | periclitari capite, to risk one's life, be in danger of death (+ ablative of what's at stake)
+periclitor | 3 | periclitari capite, to risk one's life, be in danger of death (with the ablative of what's at stake)
 periculosus | 1 | dangerous
 periculum | 1 | danger
 periculum | 2 | trial
-periculum | 3 | lawsuit, legal action (partic., a specific judicial sense)
+periculum | 3 | in particular, lawsuit, legal action (a specific judicial sense)
 peridoneus | 1 | very suitable
 perimo | 1 | destroy
 perimo | 2 | kill
 perinde | 1 | equally
-perinde | 3 | perinde ac/quasi, just as, just as if (a common comparative construction)
+perinde | 3 | perinde ac or quasi, just as, just as if (a common comparative construction)
 peritia | 1 | expertise
 peritus | 1 | skilled
-peritus | 3 | peritus alicuius rei, skilled or experienced in something (+ genitive)
+peritus | 3 | peritus alicuius rei, skilled or experienced in something (with the genitive)
 perjucundus | 1 | very pleasant
 perjurium | 1 | perjury
-perjurium | 3 | perjuria Graia, the perjured Greeks (poet., a famous epithet for Greek treachery, e.g. Sinon)
+perjurium | 3 | in poetry, perjuria Graia, the perjured Greeks (a famous epithet for Greek treachery, e.g. Sinon)
 perjurus | 1 | perjured
 perlabor | 1 | glide through
 perlego | 1 | read through
 perlego | 2 | survey
-perlego | 3 | read aloud, read out (transf., e.g. a list of names)
+perlego | 3 | by extension, read aloud, read out (e.g. a list of names)
 perlibet | 1 | delight
 perlibet | 3 | perlibet mihi, it greatly pleases me, I should very much like (an impersonal construction)
 perlibro | 1 | level
 perlibro | 2 | hurl
 perlino | 1 | smear
-perlino | 3 | perliti fuco, coated with color, i.e. biased or tinged by an opinion (trop., a vivid metaphor)
+perlino | 3 | figuratively, perliti fuco, coated with color, i.e. biased or tinged by an opinion (a vivid metaphor)
 perlito | 1 | sacrifice favorably
 perlito | 3 | to obtain favorable omens through a sacrifice (a technical term in Roman state religion)
 perluceo | 1 | shine through
@@ -777,7 +777,7 @@ permisceo | 1 | mix together
 permisceo | 2 | confound
 permissio | 1 | surrender
 permissio | 2 | permission
-permissio | 3 | (rhetoric) a figure submitting a point to the opponent's own judgment
+permissio | 3 | in rhetoric, a figure submitting a point to the opponent's own judgment
 permissus2 | 1 | permission
 permissus2 | 3 | permissu alicuius, with someone's permission, by their leave (a common ablative construction)
 permities | 1 | ruin
@@ -790,16 +790,16 @@ permoveo | 1 | move deeply
 permoveo | 2 | persuade
 permulceo | 1 | stroke
 permulceo | 2 | soothe
-permulceo | 3 | charm, delight (trop., through eloquence or pleasing words)
+permulceo | 3 | figuratively, charm, delight (through eloquence or pleasing words)
 permultus | 1 | very many
 permunio | 1 | fortify completely
 permutatio | 1 | change
 permutatio | 2 | exchange
-permutatio | 3 | (rhetoric) a figure substituting one expression for another
+permutatio | 3 | in rhetoric, a figure substituting one expression for another
 permuto | 1 | exchange
 permuto | 2 | transform
 perna | 1 | ham
-perna | 3 | a type of sea-mussel (transf., by shape resemblance)
+perna | 3 | by extension, a type of sea-mussel (by shape resemblance)
 pernecessarius | 1 | very necessary
 pernecessarius | 2 | very close
 pernego | 1 | flatly deny
@@ -810,12 +810,12 @@ perniciosus | 1 | pernicious
 pernicitas | 1 | agility
 pernix | 1 | nimble
 pernocto | 1 | stay overnight
-pernocto | 3 | haec studia pernoctant nobiscum, these pursuits stay with us through the night (trop., of constant companionship)
+pernocto | 3 | figuratively, haec studia pernoctant nobiscum, these pursuits stay with us through the night (of constant companionship)
 pernosco | 1 | know thoroughly
 pernox | 1 | all-night
 pernox | 3 | luna pernox, the moon up all night, i.e. the full moon
 perodi | 1 | detest
-perodi | 3 | perosus, hated, detested (post-classical, the passive sense of the participle)
+perodi | 3 | in later Latin, perosus, hated, detested (the passive sense of the participle)
 peropportunus | 1 | very opportune
 peroratio | 1 | peroration
 peroro | 1 | harangue
@@ -824,7 +824,7 @@ perpaucus | 1 | very few
 perpello | 1 | compel
 perpello | 2 | move deeply
 perpendiculum | 1 | plumb-line
-perpendiculum | 3 | ad perpendiculum, by the plumb-line, i.e. with strict accuracy or moral rectitude (trop.)
+perpendiculum | 3 | figuratively, ad perpendiculum, by the plumb-line, i.e. with strict accuracy or moral rectitude
 perpendo | 1 | ponder
 perpes | 1 | continual
 perpes | 3 | noctem perpetem, through the whole night, all night long
@@ -843,7 +843,7 @@ perplexus | 2 | perplexing
 perpluo | 1 | leak
 perpluo | 3 | amor in pectus perpluit, love rained into my heart (a vivid Plautine trop image)
 perpolio | 1 | polish
-perpolio | 3 | perfect, put the finishing touches on (trop., of refining a literary work)
+perpolio | 3 | figuratively, perfect, put the finishing touches on (of refining a literary work)
 perpopulor | 1 | devastate
 perpoto | 1 | carouse
 perpoto | 3 | drink off, drain completely (of a cup)
@@ -857,7 +857,7 @@ perrogo | 1 | poll
 perrogo | 2 | pass
 perrogo | 3 | legem perrogare, to get a law passed (after formally proposing it)
 perrumpo | 1 | break through
-perrumpo | 3 | overcome, break down (trop., of laws, danger, or obstacles)
+perrumpo | 3 | figuratively, overcome, break down (of laws, danger, or obstacles)
 persaepe | 1 | very often
 perscribo | 1 | write out
 perscribo | 2 | register
@@ -866,11 +866,11 @@ perscriptio | 1 | entry
 perscriptio | 2 | assignment
 perscrutor | 1 | search thoroughly
 perseco | 1 | excise
-perseco | 3 | dissect, lay bare (trop., of exposing hidden truths or the secrets of nature)
+perseco | 3 | figuratively, dissect, lay bare (of exposing hidden truths or the secrets of nature)
 persecutio | 1 | pursuit
 persecutio | 2 | persecution
 persedeo | 1 | sit long
-persedeo | 3 | settle (transf., of frost settling and freezing)
+persedeo | 3 | by extension, settle (of frost settling and freezing)
 persentisco | 1 | perceive clearly
 persentisco | 3 | feel deeply, be keenly affected
 persequor | 1 | pursue
@@ -878,9 +878,9 @@ persequor | 2 | avenge
 persequor | 3 | carry out, execute (a task or order)
 persequor | 4 | describe, set forth, treat of (in speech or writing)
 perseverantia | 1 | perseverance
-perseverantia | 3 | (of a war or ordeal) long continuance, tedious duration (transf.)
+perseverantia | 3 | by extension, (of a war or ordeal) long continuance, tedious duration
 persevero | 1 | persevere
-persevero | 3 | perseverare in aliqua re, to persist in something (+ ablative, a common construction)
+persevero | 3 | perseverare in aliqua re, to persist in something (with the ablative, a common construction)
 persisto | 1 | persist
 persolvo | 1 | pay
 persolvo | 2 | solve
@@ -905,14 +905,14 @@ perstringo | 1 | graze
 perstringo | 2 | censure
 perstringo | 3 | touch on briefly, mention in passing (in speech)
 persuadeo | 1 | persuade
-persuadeo | 3 | persuadere alicui ut, to persuade someone to do something (+ dative and ut/ne clause)
+persuadeo | 3 | persuadere alicui ut, to persuade someone to do something (with the dative and ut or ne clause)
 persuasibilis | 1 | persuasive
 persuasio | 1 | persuasion
 persuasio | 2 | conviction
 persulto | 1 | frisk about
-persulto | 3 | resound (transf., of the voice)
+persulto | 3 | by extension, resound (of the voice)
 pertaedet | 1 | weary
-pertaedet | 3 | pertaedet me alicuius rei, I am sick and tired of something (an impersonal construction, + genitive)
+pertaedet | 3 | pertaedet me alicuius rei, I am sick and tired of something (an impersonal construction, with the genitive)
 pertego | 1 | cover completely
 pertego | 3 | benefacta benefactis pertegito, cover good deeds with more good deeds (a vivid Plautine metaphor for sustained kindness)
 pertendo | 1 | persevere
@@ -938,9 +938,9 @@ pertineo | 1 | pertain
 pertineo | 2 | extend
 pertineo | 3 | belong to, be the rightful property of (of a legal claim or right)
 pertingo | 1 | extend
-pertingo | 3 | reach, attain (trop., of an abstract goal such as wisdom)
+pertingo | 3 | figuratively, reach, attain (of an abstract goal such as wisdom)
 pertono | 1 | thunder
-pertono | 3 | proclaim loudly, thunder forth (act., of announcing something forcefully)
+pertono | 3 | in the active, proclaim loudly, thunder forth (of announcing something forcefully)
 pertracto | 1 | handle
 pertracto | 2 | study
 pertraho | 1 | drag
@@ -951,20 +951,20 @@ pertundo | 1 | perforate
 perturbatio | 1 | disturbance
 perturbatio | 2 | emotion
 perturbo | 1 | disturb
-perturbo | 3 | perturbatus, disturbed, upset, thrown into confusion (the common adjectival participle)
+perturbo | 3 | as an adjective, perturbatus, disturbed, upset, thrown into confusion
 perurbanus | 1 | very witty
 perurbanus | 2 | over-refined
 perurgeo | 1 | oppress
 perurgeo | 2 | urge strongly
 peruro | 1 | burn up
 peruro | 2 | chafe
-peruro | 3 | nip, pinch (transf., of cold or frost)
+peruro | 3 | by extension, nip, pinch (of cold or frost)
 pervado | 1 | pervade
 pervagor | 1 | roam
 pervagor | 2 | spread widely
-pervagor | 3 | pervagatus, widespread, well known (the common adjectival participle)
+pervagor | 3 | as an adjective, pervagatus, widespread, well known
 perveho | 1 | convey
-perveho | 3 | pervehi, to travel through, cross (mid./passive, e.g. the ocean)
+perveho | 3 | in the passive, pervehi, to travel through, cross (e.g. the ocean)
 pervello | 1 | pluck
 pervello | 2 | disparage
 pervello | 3 | aurem pervellere, to pull someone's ear, i.e. to remind them of something (a vivid idiom)
@@ -973,7 +973,7 @@ pervenio | 2 | attain
 perversitas | 1 | perversity
 perverto | 1 | overturn
 perverto | 2 | corrupt
-perverto | 3 | perversus, wrong, perverse, contrary to what is right (the common adjectival participle)
+perverto | 3 | as an adjective, perversus, wrong, perverse, contrary to what is right
 pervestigo | 1 | track down
 pervestigo | 2 | investigate
 perviam | 1 | accessible
@@ -984,11 +984,11 @@ pervicax | 2 | steadfast
 pervideo | 1 | survey
 pervideo | 2 | discern
 pervigil | 1 | ever watchful
-pervigil | 3 | sleepless (transf., of a night spent without sleep)
+pervigil | 3 | by extension, sleepless (of a night spent without sleep)
 pervigilium | 1 | night watch
 pervigilium | 2 | vigil
 pervigilo | 1 | keep vigil
-pervigilo | 3 | watch over, be vigilant for (transf., of guarding or attending to something)
+pervigilo | 3 | by extension, watch over, be vigilant for (of guarding or attending to something)
 pervinco | 1 | conquer completely
 pervinco | 2 | prevail
 pervius | 1 | passable
@@ -999,7 +999,7 @@ pervolo2 | 1 | wish greatly
 pervolvo | 1 | roll about
 pervolvo | 2 | read through
 pervulgo | 1 | publicise
-pervulgo | 3 | pervulgatus, common, well known, widespread (the common adjectival participle)
+pervulgo | 3 | as an adjective, pervulgatus, common, well known, widespread
 pes | 1 | foot
 pes | 2 | sheet
 pes | 3 | a rope used to set a sail to the wind (the nautical sense of pes)
@@ -1012,11 +1012,11 @@ pessum1 | 4 | pessum dare, to ruin, destroy, sink (transitive, "to send to the b
 pestifer | 1 | pestilential
 pestifer | 2 | destructive
 pestilens | 1 | pestilential
-pestilens | 3 | noxious, harmful (trop., of a person or thing)
+pestilens | 3 | figuratively, noxious, harmful (of a person or thing)
 pestilentia | 1 | plague
 pestis | 1 | plague
 pestis | 2 | bane
-pestis | 3 | destruction, ruin, death (transf., in a general abstract sense)
+pestis | 3 | by extension, destruction, ruin, death (in a general abstract sense)
 petesso | 1 | pursue eagerly
 petimen | 1 | saddle sore
 petimen | 3 | a sore on a draft animal's shoulder, caused by its harness
@@ -1071,16 +1071,16 @@ pietas1 | 4 | justice
 pietas1 | 5 | compassion, kindness, pity
 pietas1 | 6 | (personified) the goddess Piety
 pigeo | 1 | irk
-pigeo | 3 | piget (impers.): it grieves, troubles, or disgusts one
+pigeo | 3 | impersonally, piget: it grieves, troubles, or disgusts one
 pigeo | 4 | it repents one (archaic sense, = paenitet)
 pigeo | 5 | it makes one ashamed
 piger | 1 | lazy
 piger | 2 | sluggish
-piger | 3 | reluctant, unwilling (rare, of persons)
+piger | 3 | rarely, reluctant, unwilling (of persons)
 piger | 4 | dull, dispirited, sad
 piger | 5 | benumbing, that dulls the senses (of sleep, cold, old age)
 pigmentarius | 1 | of paints
-pigmentarius | 3 | (as subst.) a dealer in paints or cosmetics
+pigmentarius | 3 | as a noun, a dealer in paints or cosmetics
 pigmentum | 1 | pigment
 pigmentum | 3 | cosmetic, rouge
 pigmentum | 4 | (of style) colouring, ornament
@@ -1088,13 +1088,13 @@ pigneraticius | 1 | pledged
 pignero | 1 | pledge
 pignero | 3 | to bind or commit (oneself or another) as a pledge
 pigneror | 1 | appropriate
-pigneror | 3 | take as a pledge (literal, root sense)
+pigneror | 3 | literally, take as a pledge (root sense)
 pigneror | 4 | accept as certain, take as an omen
 pignus | 1 | pledge
 pignus | 3 | a wager, stake
 pignus | 4 | a security, mortgage (legal contract)
 pignus | 5 | a token, proof, assurance
-pignus | 6 | (pl., poet.) children, as pledges of love
+pignus | 6 | in the plural, in poetry, children, as pledges of love
 pigritia | 1 | laziness
 pigritia | 3 | leisure, ease (used favourably)
 pigritia | 4 | weakness (of the stomach)
@@ -1117,11 +1117,11 @@ pilleus | 4 | a protector
 pilleus | 5 | the caul, a membrane covering a newborn's head
 pilo1 | 1 | ram
 pilo1 | 3 | (of troops) pack closely together, form a dense marching column
-pilo1 | 4 | (trop.) fix firmly (in the mind)
+pilo1 | 4 | figuratively, fix firmly (in the mind)
 pilo2 | 1 | depilate
 pilo2 | 2 | grow hairy
 pilo2 | 3 | (of the body) put forth hair, become hairy
-pilo2 | 4 | (very rare) plunder, pillage
+pilo2 | 4 | very rarely, plunder, pillage
 pilosus | 1 | hairy
 pilum | 1 | javelin
 pilum | 3 | pestle, a pounder (of a mortar)
@@ -1131,20 +1131,20 @@ pilus2 | 1 | company
 pilus2 | 3 | primus pilus: the first company of the triarii (veteran legionaries)
 pilus2 | 4 | (as primipilus) the senior centurion of the legion
 pineus | 1 | of pine
-pineus | 3 | (as noun) a pine-cone or pine-nut
+pineus | 3 | as a noun, a pine-cone or pine-nut
 pingo | 1 | paint
-pingo | 3 | stain, colour (of dyes, poet.)
+pingo | 3 | in poetry, stain, colour (of dyes)
 pingo | 4 | adorn, decorate, embellish
-pingo | 5 | (trop., of style) embellish, ornament
+pingo | 5 | figuratively, (of style) embellish, ornament
 pingo | 6 | (of participle pictus) tattooed
-pingo | 7 | (fig.) false, unreal, deceptive, merely for show
+pingo | 7 | figuratively, false, unreal, deceptive, merely for show
 pinguedo | 1 | fatness
 pinguedo | 3 | richness, abundance
 pinguedo | 4 | (of style) richness, fulness of expression
 pinguesco | 1 | fatten
 pinguesco | 3 | grow rich or oily (of wine, nuts)
 pinguesco | 4 | become glossy, take on a sheen
-pinguesco | 5 | (poet.) increase, grow more violent (of flames)
+pinguesco | 5 | in poetry, increase, grow more violent (of flames)
 pinguis | 1 | fat
 pinguis | 2 | rich
 pinguis | 3 | fertile, rich (of soil, food)
@@ -1161,7 +1161,7 @@ pinniger | 1 | winged
 pinniger | 3 | finny, having fins (of fish)
 pinso | 1 | pound
 pinus | 1 | pine
-pinus | 3 | a ship (poet., made of pine-wood)
+pinus | 3 | in poetry, a ship (made of pine-wood)
 pinus | 4 | a pine torch
 pio | 1 | appease
 pio | 3 | atone for, expiate (a wrong or bad omen)
@@ -1176,13 +1176,13 @@ piperatus | 4 | sharp, thievish (of a person's touch)
 pipulum | 1 | outcry
 pipulum | 3 | a whimpering, crying (of children)
 piscarius | 1 | of fish
-piscarius | 3 | (as noun) a fish-monger
-piscarius | 4 | (as noun) a fish-market
+piscarius | 3 | as a noun, a fish-monger
+piscarius | 4 | as a noun, a fish-market
 piscator | 1 | fisherman
 piscatorius | 1 | fishing
 piscatus | 1 | fishing
 piscatus | 3 | fish, a catch (of fish)
-piscatus | 4 | (fig.) a catch, prize (e.g. a mistress)
+piscatus | 4 | figuratively, a catch, prize (e.g. a mistress)
 piscina | 1 | fishpond
 piscina | 3 | a swimming pool, basin (for bathing)
 piscina | 4 | a cistern, tank, reservoir
@@ -1200,13 +1200,13 @@ pituita | 1 | phlegm
 pituita | 3 | (of trees) a viscous sap or resin that oozes out
 pius | 1 | dutiful
 pius | 2 | pious
-pius | 3 | honest, upright (rare)
-pius | 4 | kind, gentle, gracious (post-Aug.)
+pius | 3 | rarely, honest, upright
+pius | 4 | after Augustus, kind, gentle, gracious
 pix | 1 | pitch
 placabilis | 1 | placable
-placabilis | 3 | pacifying, appeasing (of an action, rare)
+placabilis | 3 | rarely, pacifying, appeasing (of an action)
 placeo | 1 | please
-placeo | 3 | (impers., placet) it seems good, right; one resolves, decides
+placeo | 3 | impersonally, placet, it seems good, right; one resolves, decides
 placeo | 4 | (placere sibi) be pleased with oneself, preen
 placidus | 1 | calm
 placidus | 3 | (of fruit or plants) ripe, or cultivated rather than wild
@@ -1215,62 +1215,62 @@ placo | 3 | reconcile (a person) to another
 plaga1 | 1 | blow
 plaga1 | 2 | wound
 plaga1 | 3 | a welt, scar, stripe
-plaga1 | 4 | a misfortune, a blow (fig.)
-plaga1 | 5 | a plague, pestilence (late Lat.)
+plaga1 | 4 | figuratively, a misfortune, a blow
+plaga1 | 5 | in later Latin, a plague, pestilence
 plaga2 | 1 | region
 plaga3 | 1 | net
-plaga3 | 3 | a trap, snare (fig.)
-plaga3 | 4 | a bed-curtain (ante-class.)
+plaga3 | 3 | figuratively, a trap, snare
+plaga3 | 4 | in early Latin, a bed-curtain
 plagiarius | 1 | kidnapper
 plagiarius | 2 | plagiarist
-plagiarius | 3 | oppressor, plunderer (gen. sense)
+plagiarius | 3 | in general, oppressor, plunderer
 plagula | 1 | curtain
 plagula | 3 | a breadth, a strip of cloth sewn into a garment
-plagula | 4 | a sheet of paper (post-Aug.)
+plagula | 4 | after Augustus, a sheet of paper
 planctus | 1 | lamentation
-planctus | 3 | a beating, banging, loud noise (of wings, etc., poet.)
+planctus | 3 | in poetry, a beating, banging, loud noise (of wings, etc.)
 plango | 1 | lament
-plango | 3 | strike, beat with a noise (poet., of waves, etc.)
+plango | 3 | in poetry, strike, beat with a noise (of waves, etc.)
 plango | 4 | beat one's breast (as a sign of grief)
 plango | 5 | bewail, mourn for (a person or thing)
 plangor | 1 | lamentation
-plangor | 3 | a loud noise, crash, roar (poet., of waves, etc.)
+plangor | 3 | in poetry, a loud noise, crash, roar (of waves, etc.)
 planities | 1 | plain
 planta | 1 | cutting
 planta | 2 | sole
 plantaris | 1 | of shoots
-plantaris | 3 | (as noun, plantaria) young trees or slips for transplanting
-plantaris | 4 | of the sole (poet., epithet of Mercury's winged sandals)
+plantaris | 3 | as a noun, plantaria, young trees or slips for transplanting
+plantaris | 4 | in poetry, of the sole (epithet of Mercury's winged sandals)
 planus1 | 1 | flat
 planus1 | 2 | clear
-planus1 | 3 | (as noun, planum) level ground, a plain
-planus1 | 4 | lowly, humble (post-Aug., of rank or status)
+planus1 | 3 | as a noun, planum, level ground, a plain
+planus1 | 4 | after Augustus, lowly, humble (of rank or status)
 planus1 | 5 | easy, safe, free from danger
 plaudo | 1 | applaud
-plaudo | 3 | strike, beat, flap (of wings, poet.)
+plaudo | 3 | in poetry, strike, beat, flap (of wings)
 plaudo | 4 | approve, express approval (of a person or thing)
 plausibilis | 1 | praiseworthy
 plaustrarius | 1 | wagon
-plaustrarius | 3 | (as noun) a wagon-maker, wheelwright
-plaustrarius | 4 | (as noun) a wagon-driver, wagoner
+plaustrarius | 3 | as a noun, a wagon-maker, wheelwright
+plaustrarius | 4 | as a noun, a wagon-driver, wagoner
 plaustrum | 1 | wagon
 plaustrum | 3 | (as constellation) the Great Bear, Charles's Wain
 plausus3 | 1 | applause
-plausus3 | 3 | a clapping sound, noise (general, poet.)
+plausus3 | 3 | in poetry, a clapping sound, noise (general)
 plautus1 | 1 | flat
 plautus1 | 3 | flat-footed (dialectal, of the Umbrians)
 plebeius | 1 | plebeian
-plebeius | 3 | (transf., contemptuous) common, vulgar, low
+plebeius | 3 | by extension, contemptuous, common, vulgar, low
 plebs | 1 | plebeians
-plebs | 3 | the masses, the multitude (gen. sense)
+plebs | 3 | in general, the masses, the multitude
 plebs | 4 | (with contempt) the populace, the mob, the lower class
-plebs | 5 | the whole people, nation (late Lat.)
+plebs | 5 | in later Latin, the whole people, nation
 plecto1 | 1 | plait
-plecto1 | 3 | twist, bend, turn (rare)
-plecto1 | 4 | (as p. a. plexus) intricate, entangled, ambiguous
+plecto1 | 3 | rarely, twist, bend, turn
+plecto1 | 4 | as an adjective, plexus, intricate, entangled, ambiguous
 plecto2 | 1 | punish
-plecto2 | 3 | (pass., usual construction) be punished, suffer for
-plecto2 | 4 | (transf.) blame
+plecto2 | 3 | in the passive, (usual construction) be punished, suffer for
+plecto2 | 4 | by extension, blame
 plenitudo | 1 | fullness
 plenitudo | 3 | completeness
 plenitudo | 4 | abundance, plenty
@@ -1285,42 +1285,42 @@ plenus | 8 | mature, advanced, ripe (of age)
 plenus | 9 | (of style, oratory) ample, copious
 plerus | 1 | most
 plerusque | 1 | most
-plerusque | 3 | (sing.) the greatest part of, most of (a group)
+plerusque | 3 | in the singular, the greatest part of, most of (a group)
 plico | 1 | fold
 ploratus | 1 | wailing
 ploratus | 3 | (of trees) weeping, oozing sap
 ploro | 1 | weep
 ploro | 3 | bewail, weep over (something)
 pluma | 1 | feather
-pluma | 3 | down (of a first beard, poet.)
-pluma | 4 | the scales of a coat of mail (transf.)
+pluma | 3 | in poetry, down (of a first beard)
+pluma | 4 | by extension, the scales of a coat of mail
 plumarius | 1 | embroidered
-plumarius | 3 | (as noun) an embroiderer
+plumarius | 3 | as a noun, an embroiderer
 plumbarius | 1 | leaden
-plumbarius | 3 | (as noun) a plumber, worker in lead
+plumbarius | 3 | as a noun, a plumber, worker in lead
 plumbeus | 1 | leaden
-plumbeus | 3 | blunt, dull (fig., of a weapon or wit)
-plumbeus | 4 | worthless, poor, bad (fig., poet.)
+plumbeus | 3 | figuratively, blunt, dull (of a weapon or wit)
+plumbeus | 4 | figuratively, in poetry, worthless, poor, bad
 plumbeus | 5 | heavy, oppressive, burdensome
-plumbeus | 6 | dull, stupid, stolid (fig.)
+plumbeus | 6 | figuratively, dull, stupid, stolid
 plumbo | 1 | solder
 plumbo | 3 | (as participle plumbatus) made of lead, leaden
 plumbum | 1 | lead
-plumbum | 3 | a leaden bullet or sling-ball (poet.)
-plumbum | 4 | a lead pipe (poet.)
+plumbum | 3 | in poetry, a leaden bullet or sling-ball
+plumbum | 4 | in poetry, a lead pipe
 plumbum | 5 | a pencil, a ruler for marking lines
 plumeus | 1 | downy
-plumeus | 3 | light, soft, delicate (like down, poet.)
-plumeus | 4 | embroidered (post-class.)
+plumeus | 3 | in poetry, light, soft, delicate (like down)
+plumeus | 4 | in later Latin, embroidered
 plumo | 1 | feather
-plumo | 3 | embroider (poet.)
-plumo | 4 | (neut.) become fledged, grow feathers
+plumo | 3 | in poetry, embroider
+plumo | 4 | intransitively, become fledged, grow feathers
 pluo | 1 | rain
 pluralis | 1 | plural
 plurativus | 1 | plural
 plurifariam | 1 | widely
 plurifariam | 3 | in many places, in many parts
-plurifariam | 4 | in many ways, variously (post-class.)
+plurifariam | 4 | in later Latin, in many ways, variously
 plusculus | 1 | somewhat more
 pluteus | 1 | parapet
 pluteus | 3 | a mantlet, a movable shed (military, for besiegers)
@@ -1328,30 +1328,30 @@ pluteus | 4 | a bookshelf, bookcase
 pluteus | 5 | the back-board of a couch or settee; also, by metonymy, the couch itself
 pluteus | 6 | a partition wall, balustrade (between columns)
 pluvia | 1 | rain
-pluvia | 3 | a shower (of anything, post-class., fig.)
+pluvia | 3 | in later Latin, figuratively, a shower (of anything)
 pluvia | 4 | rainwater
 pluvius | 1 | rainy
 poculum | 1 | cup
-poculum | 3 | a drink, draught, potion (poet.)
+poculum | 3 | in poetry, a drink, draught, potion
 poculum | 4 | a drinking-bout, carouse
 poculum | 5 | a draught of poison
 poenalis | 1 | penal
 poetor | 1 | poetise
 polio1 | 1 | polish
-polio1 | 3 | adorn, embellish (of fields, etc., transf.)
-polio1 | 4 | (trop., of style) refine, polish
+polio1 | 3 | by extension, adorn, embellish (of fields, etc.)
+polio1 | 4 | figuratively, (of style) refine, polish
 politura | 1 | polishing
 politura | 3 | (of literary style) finish, polish
 pollen | 1 | flour
-pollen | 3 | fine dust (of pepper, incense, etc., transf.)
+pollen | 3 | by extension, fine dust (of pepper, incense, etc.)
 polleo | 1 | prevail
 polleo | 3 | (of medicines) be effective, potent
-polleo | 4 | be worth, be valued, esteemed (transf.)
+polleo | 4 | by extension, be worth, be valued, esteemed
 polleo | 5 | abound in, be rich in
 pollex1 | 1 | thumb
 pollex1 | 2 | toe
-pollex1 | 3 | the stump of a pruned vine-branch (transf.)
-pollex1 | 4 | a knob, protuberance on a tree trunk (transf.)
+pollex1 | 3 | by extension, the stump of a pruned vine-branch
+pollex1 | 4 | by extension, a knob, protuberance on a tree trunk
 polliceor | 1 | promise
 polliceor | 3 | (of a speaker) announce, promise (in opening a speech)
 polliceor | 4 | (of a bidder) bid, offer (at a sale)
@@ -1363,38 +1363,38 @@ pollingo | 3 | to wash a corpse and prepare it for the pyre, the work of the pol
 pollingo | 4 | transferred, of an old man as good as dead: pollinctum corpus, a body already laid out
 pollubrum | 1 | basin
 polluceo | 1 | offer
-polluceo | 3 | serve up (as a dish, transf.)
+polluceo | 3 | by extension, serve up (as a dish)
 polluceo | 4 | entertain, treat (someone) with something
 pollucibilis | 1 | sumptuous
 polluo | 1 | pollute
 polluo | 3 | violate, desecrate (something sacred)
-polluo | 4 | violate, dishonour (a woman, post-Aug.)
+polluo | 4 | after Augustus, violate, dishonour (a woman)
 pomarius | 1 | of fruit
-pomarius | 3 | (as noun) a fruit-seller, fruiterer
-pomarius | 4 | (as noun) an orchard, fruit-garden
-pomarius | 5 | (as noun) a fruit-store, fruit-loft
+pomarius | 3 | as a noun, a fruit-seller, fruiterer
+pomarius | 4 | as a noun, an orchard, fruit-garden
+pomarius | 5 | as a noun, a fruit-store, fruit-loft
 pomeridianus | 1 | afternoon
 pomerium | 1 | boundary
 pomerium | 3 | the consecrated strip encircling a city, marking its formal limits and auspices
-pomerium | 4 | (trop.) bounds, limits (fig.)
+pomerium | 4 | figuratively, bounds, limits
 pomifer | 1 | fruit-bearing
 pompa | 1 | procession
-pompa | 3 | a train, retinue, array (transf.)
+pompa | 3 | by extension, a train, retinue, array
 pompa | 4 | display, pomp, ostentation
 pomposus | 1 | pompous
 pomum | 1 | fruit
-pomum | 3 | (transf.) a fruit-tree
+pomum | 3 | by extension, a fruit-tree
 pondero | 1 | weigh
-pondero | 3 | ponder, consider, weigh in the mind (trop.)
+pondero | 3 | figuratively, ponder, consider, weigh in the mind
 ponderosus | 1 | heavy
-ponderosus | 3 | (trop.) weighty, significant, important
+ponderosus | 3 | figuratively, weighty, significant, important
 pondo | 1 | pounds
-pondo | 3 | by weight, in weight (gen. sense)
+pondo | 3 | in general, by weight, in weight
 pondus | 1 | weight
-pondus | 3 | a heavy mass, load, burden (concr.)
-pondus | 4 | importance, influence, authority (trop.)
-pondus | 5 | a burden, oppressive weight (poet., fig.)
-pondus | 6 | firmness, constancy of character (poet.)
+pondus | 3 | concretely, a heavy mass, load, burden
+pondus | 4 | figuratively, importance, influence, authority
+pondus | 5 | in poetry, figuratively, a burden, oppressive weight
+pondus | 6 | in poetry, firmness, constancy of character
 pone | 1 | behind
 pono | 1 | place
 pono | 3 | pitch (a camp), station (troops)
@@ -1404,165 +1404,165 @@ pono | 6 | serve up, set before one (at table)
 pono | 7 | lay aside, take off (clothing, arms)
 pono | 8 | lay out for burial, bury
 pono | 9 | invest, put out at interest (money)
-pono | 10 | (trop.) lay down as true, state, assert, assume
+pono | 10 | figuratively, lay down as true, state, assert, assume
 pons1 | 1 | bridge
 pons1 | 3 | (at the Comitia) the gangway over which voters passed to cast their ballot
-pons1 | 4 | the deck of a ship (transf.)
+pons1 | 4 | by extension, the deck of a ship
 pontifex | 1 | pontiff
 pontifex | 3 | (Jewish, or later Christian) a high priest; a bishop
 pontificius | 1 | pontifical
-pontificius | 3 | (as noun, pontificium) the office or dignity of a pontiff or bishop
-pontificius | 4 | (transf.) the power or right of doing something
+pontificius | 3 | as a noun, pontificium, the office or dignity of a pontiff or bishop
+pontificius | 4 | by extension, the power or right of doing something
 popa | 1 | acolyte
 popa | 3 | an inferior priest's assistant who led the sacrificial victim to the altar and felled it
 popina | 1 | cookshop
-popina | 3 | (transf.) the food sold at a cookshop, fare
+popina | 3 | by extension, the food sold at a cookshop, fare
 poples | 1 | knee
 poples | 3 | specifically, the hollow at the back of the knee, the hough
 popularis | 1 | popular
 popularis | 2 | democratic
 popularis | 3 | (political) of the popular party, as opposed to the aristocratic optimates
-popularis | 4 | (as noun) a fellow-countryman, compatriot
-popularis | 5 | (as noun) a companion, comrade, associate
+popularis | 4 | as a noun, a fellow-countryman, compatriot
+popularis | 5 | as a noun, a companion, comrade, associate
 popularis | 6 | common, coarse, vulgar (of low class)
 popularis | 7 | native, of the same country or region
 popularitas | 1 | popularity
-popularitas | 3 | fellow-citizenship, being of the same country (rare)
-popularitas | 4 | (late Lat.) the population, inhabitants
+popularitas | 3 | rarely, fellow-citizenship, being of the same country
+popularitas | 4 | in later Latin, the population, inhabitants
 populatio1 | 1 | devastation
-populatio1 | 3 | plunder, booty (concr., things plundered)
-populatio1 | 4 | (trop.) ruin, corruption, destruction (post-Aug.)
+populatio1 | 3 | concretely, plunder, booty (things plundered)
+populatio1 | 4 | figuratively, after Augustus, ruin, corruption, destruction
 populator | 1 | ravager
 populor | 1 | ravage
-populor | 3 | (gen., poet.) destroy, ruin, spoil
+populor | 3 | in general, in poetry, destroy, ruin, spoil
 populus1 | 1 | people
 populus1 | 3 | the citizens, as distinguished from the plebs or the senate (institutional sense)
-populus1 | 4 | (transf., poet.) a multitude, host, crowd
+populus1 | 4 | by extension, in poetry, a multitude, host, crowd
 porceo | 1 | restrain
 porcinus | 1 | porcine
-porcinus | 3 | (as noun, porcina) pork, swine's flesh
-porcinus | 4 | (mil.) a swine's head, a wedge-shaped battle formation
+porcinus | 3 | as a noun, porcina, pork, swine's flesh
+porcinus | 4 | in the army, a swine's head, a wedge-shaped battle formation
 porcus | 1 | pig
-porcus | 3 | (transf.) porpoise, sea-hog
-porcus | 4 | (mil.) a wedge-shaped battle formation
+porcus | 3 | by extension, porpoise, sea-hog
+porcus | 4 | in the army, a wedge-shaped battle formation
 porricio | 1 | offer
-porricio | 3 | (transf., of crops) produce, yield (rare)
+porricio | 3 | by extension, rarely, (of crops) produce, yield
 porrigo1 | 1 | extend
 porrigo1 | 3 | hold out, offer, present (something to someone)
-porrigo1 | 4 | (trop.) prolong, protract (time or a syllable)
+porrigo1 | 4 | figuratively, prolong, protract (time or a syllable)
 porrigo1 | 5 | (se porrigere) extend, spread, reach (itself)
 porro | 1 | moreover
-porro | 3 | forward, onward, farther on, to a distance (lit., of space, rare)
+porro | 3 | literally, rarely, forward, onward, farther on, to a distance (of space)
 porro | 4 | henceforth, hereafter, in future (temporal)
 porta | 1 | gate
-porta | 3 | (gen.) an entrance, passage, outlet, door of any kind
+porta | 3 | in general, an entrance, passage, outlet, door of any kind
 portendo | 1 | portend
-portendo | 3 | (as noun, portentum) a sign, token, omen, portent
-portendo | 4 | (as noun, portentum) a monster, monstrosity
-portendo | 5 | (as noun, portentum) a marvellous or extravagant tale
+portendo | 3 | as a noun, portentum, a sign, token, omen, portent
+portendo | 4 | as a noun, portentum, a monster, monstrosity
+portendo | 5 | as a noun, portentum, a marvellous or extravagant tale
 portentosus | 1 | monstrous
 porticus | 1 | portico
 porticus | 3 | (as school) the Stoic school or philosophy (from the Painted Porch)
-porticus | 4 | a covered gallery or shed (for protection, mil.)
+porticus | 4 | in the army, a covered gallery or shed (for protection)
 portio | 1 | portion
 portio | 3 | (pro portione) proportionally, in proportion
 portisculus | 1 | mallet
-portisculus | 3 | (trop.) guidance, direction
+portisculus | 3 | figuratively, guidance, direction
 portitor1 | 1 | tollgatherer
 portitor2 | 1 | ferryman
-portitor2 | 3 | (esp. as proper noun, poet.) Charon, the ferryman of the dead
-portitor2 | 4 | (gen.) a carrier, bearer (of goods, by land or otherwise)
+portitor2 | 3 | in poetry, (especially as proper noun) Charon, the ferryman of the dead
+portitor2 | 4 | in general, a carrier, bearer (of goods, by land or otherwise)
 porto | 1 | carry
-porto | 3 | (late Lat.) endure, bear, suffer
+porto | 3 | in later Latin, endure, bear, suffer
 portorium | 1 | toll
 portorium | 3 | fare, freight (= naulum, of ferry passage)
 portuosus | 1 | harbour-rich
 portus | 1 | harbour
-portus | 3 | (trop.) a place of refuge, an asylum, retreat
-portus | 4 | (poet., transf.) the mouth of a river, where it meets the sea
+portus | 3 | figuratively, a place of refuge, an asylum, retreat
+portus | 4 | in poetry, by extension, the mouth of a river, where it meets the sea
 posco | 1 | demand
 posco | 3 | (of a person demanded for punishment) call for the surrender of
 posco | 4 | call upon, invoke (a god)
 posco | 5 | (in selling) ask, bid a price for something
 posco | 6 | ask for in marriage, demand (someone's) hand
 positio | 1 | position
-positio | 3 | (rhet.) a proposition, theme, subject for argument
-positio | 4 | (gram./prosody) an ending, or a syllable made long by position
+positio | 3 | in rhetoric, a proposition, theme, subject for argument
+positio | 4 | in grammar, an ending, or a syllable made long by position
 positura | 1 | position
-positura | 3 | (gram.) punctuation, pointing
+positura | 3 | in grammar, punctuation, pointing
 positus2 | 1 | position
 positus2 | 3 | arrangement, disposition (of hair, bones, stars, etc.)
 possessio | 1 | possession
-possessio | 3 | (concr.) a thing possessed, an estate, property
+possessio | 3 | concretely, a thing possessed, an estate, property
 possessio | 4 | the act of taking possession, seizure
 possessor | 1 | owner
 possessor | 3 | (law) the party currently holding the disputed property, the defendant
 possibilis | 1 | possible
 possideo | 1 | possess
-possideo | 3 | (rare, = possido) take possession of, occupy
-possideo | 4 | (trop.) possess, have (a quality, name, etc.)
+possideo | 3 | rarely, (= possido) take possession of, occupy
+possideo | 4 | figuratively, possess, have (a quality, name, etc.)
 possido | 1 | acquire
-possido | 3 | (trop.) take possession of, seize, occupy (fig.)
+possido | 3 | figuratively, take possession of, seize, occupy
 possum | 1 | can
 possum | 3 | have power, influence, prevail (avail against something)
-possum | 4 | (as adj., potens) powerful, mighty (of persons, states)
-possum | 5 | (as adj., potens + gen.) having power over, master of, ruling over
-possum | 6 | (as adj., potens + gen.) capable of, fit for something
+possum | 4 | as an adjective, potens, powerful, mighty (of persons, states)
+possum | 5 | as an adjective, (potens with the genitive) having power over, master of, ruling over
+possum | 6 | as an adjective, (potens with the genitive) capable of, fit for something
 post | 1 | after
-post | 3 | behind, back, backward (of place, adv.)
-post | 4 | (prep. with acc.) behind (of place)
-post | 5 | (trop.) inferior to, less important than
+post | 3 | as an adverb, behind, back, backward (of place)
+post | 4 | as a preposition with the accusative, behind (of place)
+post | 5 | figuratively, inferior to, less important than
 postea | 1 | afterwards
 posteritas | 1 | posterity
-posteritas | 3 | (poet., of animals) offspring
+posteritas | 3 | in poetry, (of animals) offspring
 posterus | 1 | following
-posterus | 3 | (as noun, posteri) descendants, posterity, coming generations
-posterus | 4 | (comp. posterior) later, following, next in order (of two contrasted things)
-posterus | 5 | (comp. posterior, trop.) inferior, of less value
-posterus | 6 | (superl. postremus) last, hindmost
-posterus | 7 | (superl. postremus, trop.) lowest, basest, worst
-posterus | 8 | (superl. postumus) last-born, posthumous (born after the father's death)
+posterus | 3 | as a noun, posteri, descendants, posterity, coming generations
+posterus | 4 | in the comparative, posterior, later, following, next in order (of two contrasted things)
+posterus | 5 | in the comparative, posterior, figuratively, inferior, of less value
+posterus | 6 | in the superlative, postremus, last, hindmost
+posterus | 7 | in the superlative, postremus, figuratively, lowest, basest, worst
+posterus | 8 | in the superlative, postumus, last-born, posthumous (born after the father's death)
 postfero | 1 | subordinate
 posthabeo | 1 | subordinate
 posthac | 1 | henceforth
 posticus | 1 | back
-posticus | 3 | (as noun, posticum) a back door
-posticus | 4 | (as noun, posticum) the rear part of a building
+posticus | 3 | as a noun, posticum, a back door
+posticus | 4 | as a noun, posticum, the rear part of a building
 postilio | 1 | claim
 postilio | 3 | a god's claim for a neglected or forgotten sacrifice (religious term)
 postilla | 1 | afterwards
 postis | 1 | doorpost
-postis | 3 | (poet., transf., usu. pl.) a door
-postis | 4 | (trop., poet.) barriers, gates (fig., e.g. of war)
+postis | 3 | in poetry, by extension, usually in the plural, a door
+postis | 4 | figuratively, in poetry, barriers, gates (e.g. of war)
 postliminium | 1 | repatriation
 postliminium | 3 | the legal right of a returning citizen or captive to resume his former home, rank, and privileges
-postliminium | 4 | (trop.) a return, restoration (fig.)
+postliminium | 4 | figuratively, a return, restoration
 postmodo | 1 | afterwards
 postmodum | 1 | afterwards
 postpono | 1 | postpone
 postprincipia | 1 | sequel
 postprincipia | 3 | the course or progress of something after it has begun
 postquam | 1 | after
-postquam | 3 | since, because (rare, causal sense)
+postquam | 3 | rarely, since, because (causal sense)
 postridie | 1 | next day
 postsum | 1 | be future
-postsum | 3 | (as noun, postfuturi) those yet to be, posterity
-postsum | 4 | (as noun, postfuturum) that which is to be, the future
+postsum | 3 | as a noun, postfuturi, those yet to be, posterity
+postsum | 4 | as a noun, postfuturum, that which is to be, the future
 postulatio | 1 | demand
-postulatio | 3 | (legal) a complaint, an application for redress
-postulatio | 4 | (legal) an application to the praetor for leave to bring a charge
+postulatio | 3 | in law, a complaint, an application for redress
+postulatio | 4 | in law, an application to the praetor for leave to bring a charge
 postulo | 1 | demand
-postulo | 3 | (legal) prosecute, arraign, accuse (someone) before a court
+postulo | 3 | in law, prosecute, arraign, accuse (someone) before a court
 postulo | 4 | (of a seller) ask, demand a price
-postulo | 5 | (transf., of things) require, need
+postulo | 5 | by extension, (of things) require, need
 potatio | 1 | drinking-bout
 potentatus | 1 | dominion
-potentatus | 3 | (transf., late Lat.) a potentate, ruler (person)
+potentatus | 3 | by extension, in later Latin, a potentate, ruler (person)
 potentia1 | 1 | power
 potentia1 | 3 | efficacy, potency (of a drug, herb, or force)
-potentia1 | 4 | (trop.) political power, authority, influence
+potentia1 | 4 | figuratively, political power, authority, influence
 potestas | 1 | power
-potestas | 3 | (legal) authority or control over a person, e.g. patria potestas, a father's power over his children
+potestas | 3 | in law, authority or control over a person, e.g. patria potestas, a father's power over his children
 potestas | 4 | political power, dominion, rule
 potestas | 5 | magisterial office, official authority
 potestas | 6 | (of a word) meaning, signification
@@ -1572,142 +1572,142 @@ potin' | 1 | can you?
 potio1 | 1 | drink
 potio1 | 3 | a poisonous draught, poison
 potio1 | 4 | a medicinal draught, dose (given by a physician)
-potio1 | 5 | a magic potion, philtre (poet.)
+potio1 | 5 | in poetry, a magic potion, philtre
 potio2 | 1 | subject
-potio2 | 3 | (pass.) fall into the power of, become subject to
+potio2 | 3 | in the passive, fall into the power of, become subject to
 potiono | 1 | dose
 potior1 | 1 | obtain
-potior1 | 3 | become master of, take possession of, seize (usu. with gen.)
-potior1 | 4 | (transf.) possess, hold, occupy, have (in the sense of enjoying)
+potior1 | 3 | become master of, take possession of, seize (usually with the genitive)
+potior1 | 4 | by extension, possess, hold, occupy, have (in the sense of enjoying)
 potis | 1 | able
-potis | 3 | (comp. potior) preferable, better
-potis | 4 | (sup. potissimus) chief, foremost, most important
-potis | 5 | (comp. adv. potius) rather, preferably
-potis | 6 | (sup. adv. potissimum) chiefly, above all, especially
+potis | 3 | in the comparative, potior, preferable, better
+potis | 4 | in the superlative, potissimus, chief, foremost, most important
+potis | 5 | as a comparative adverb, potius, rather, preferably
+potis | 6 | as a superlative adverb, potissimum, chiefly, above all, especially
 poto | 1 | drink
 poto | 3 | tipple, tope, drink habitually or heavily
-poto | 4 | (as p. a. potus) drunk, intoxicated
+poto | 4 | as an adjective, potus, drunk, intoxicated
 potor | 1 | drinker
 potor | 3 | a hard drinker, a drunkard, toper
 potorius | 1 | drinking
-potorius | 3 | (as noun, potorium) a drinking-vessel, goblet
+potorius | 3 | as a noun, potorium, a drinking-vessel, goblet
 potulentus | 1 | drinkable
 potulentus | 2 | drunken
-potulentus | 3 | (as noun, potulenta) drinkables, beverages
+potulentus | 3 | as a noun, potulenta, drinkables, beverages
 potus2 | 1 | drink
-potus2 | 3 | (transf., post-Aug.) urine
-potus2 | 4 | a drinking-cup (late Lat.)
+potus2 | 3 | by extension, after Augustus, urine
+potus2 | 4 | in later Latin, a drinking-cup
 prae | 1 | before
 prae | 3 | (prae se ferre, etc.) show, exhibit, reveal, betray
 prae | 4 | in comparison with, compared with
 prae | 5 | because of, on account of (chiefly with a negation)
 praeacuo | 1 | sharpen
-praeacuo | 3 | (as p. a. praeacutus) sharpened, pointed
+praeacuo | 3 | as an adjective, praeacutus, sharpened, pointed
 praealtus | 1 | lofty
 praealtus | 2 | deep
 praebeo | 1 | offer
 praebeo | 3 | give, furnish, supply (something needed)
-praebeo | 4 | (trop.) cause, occasion, give rise to
+praebeo | 4 | figuratively, cause, occasion, give rise to
 praebeo | 5 | (se praebere) show oneself, behave, conduct oneself
 praebibo | 1 | toast
 praebitio | 1 | supplying
 praebitor | 1 | supplier
 praecano | 1 | foretell
-praecano | 3 | (rare) anticipate, forestall (the power of a spell)
+praecano | 3 | rarely, anticipate, forestall (the power of a spell)
 praecaveo | 1 | avert
-praecaveo | 3 | (neut.) be on one's guard, take precaution, beware
+praecaveo | 3 | intransitively, be on one's guard, take precaution, beware
 praecedo | 1 | precede
-praecedo | 3 | (trop.) surpass, excel, outdo
+praecedo | 3 | figuratively, surpass, excel, outdo
 praecello | 1 | excel
-praecello | 3 | preside over, rule (with dat., Tacitean)
-praecello | 4 | (as p. a. praecellens) surpassing, excellent, eminent, distinguished
+praecello | 3 | preside over, rule (with the dative, Tacitean)
+praecello | 4 | as an adjective, praecellens, surpassing, excellent, eminent, distinguished
 praecelsus | 1 | lofty
 praeceps | 1 | headlong
 praeceps | 3 | steep, precipitous (of a place)
-praeceps | 4 | (as noun) a precipice, a steep drop
-praeceps | 5 | swift, rushing, rapid (poet.)
-praeceps | 6 | rash, hasty, reckless (trop.)
-praeceps | 7 | inclined, prone to (with in and acc.)
-praeceps | 8 | (as noun) extreme danger, a critical situation
+praeceps | 4 | as a noun, a precipice, a steep drop
+praeceps | 5 | in poetry, swift, rushing, rapid
+praeceps | 6 | figuratively, rash, hasty, reckless
+praeceps | 7 | inclined, prone to (with in and the accusative)
+praeceps | 8 | as a noun, extreme danger, a critical situation
 praeceptio | 1 | precept
-praeceptio | 3 | (legal) a taking or receiving in advance
+praeceptio | 3 | in law, a taking or receiving in advance
 praeceptio | 4 | a preconception, a previous notion
 praeceptivus | 1 | preceptive
 praeceptor | 1 | teacher
-praeceptor | 3 | (post-class., rare) a commander, ruler
+praeceptor | 3 | in later Latin, rarely, a commander, ruler
 praecerpo | 1 | pluck
-praecerpo | 3 | (trop.) diminish, lessen, take away (in advance)
+praecerpo | 3 | figuratively, diminish, lessen, take away (in advance)
 praecerpo | 4 | excerpt, make extracts from (a text)
 praecia1 | 1 | herald
 praecia1 | 3 | a crier who went before the flamen, bidding artisans stop work during religious rites
 praecidaneus | 1 | preliminary
 praecidaneus | 3 | (of a sacrifice) offered as a preliminary rite before a burial or main ceremony
 praecido | 1 | sever
-praecido | 3 | (trop., of speech) cut short, abridge, break off abruptly
-praecido | 4 | (trop.) end, destroy, cut off (hope, etc.)
+praecido | 3 | figuratively, (of speech) cut short, abridge, break off abruptly
+praecido | 4 | figuratively, end, destroy, cut off (hope, etc.)
 praecido | 5 | deny flatly, refuse
-praecido | 6 | (as p. a. praecisus) steep, abrupt, precipitous
-praecido | 7 | (as p. a. praecisus, of speech) brief, concise
+praecido | 6 | as an adjective, praecisus, steep, abrupt, precipitous
+praecido | 7 | as an adjective, praecisus, (of speech) brief, concise
 praecingo | 1 | gird
-praecingo | 3 | (transf.) surround, encircle (with something)
+praecingo | 3 | by extension, surround, encircle (with something)
 praecino | 1 | foretell
 praecino | 3 | sing or play before (a ceremony, ritual)
 praecino | 4 | utter an incantation, chant a spell
 praecipio | 1 | direct
-praecipio | 3 | take, seize, or receive in advance (lit.)
-praecipio | 4 | (legal) receive an inheritance or bequest in advance
-praecipio | 5 | (trop.) anticipate, gain the advantage of time
+praecipio | 3 | literally, take, seize, or receive in advance
+praecipio | 4 | in law, receive an inheritance or bequest in advance
+praecipio | 5 | figuratively, anticipate, gain the advantage of time
 praecipitium | 1 | precipice
-praecipitium | 3 | a fall, a falling headlong (the act, transf.)
+praecipitium | 3 | by extension, a fall, a falling headlong (the act)
 praecipito | 1 | precipitate
-praecipito | 3 | (neut.) rush headlong, fall, plunge down
+praecipito | 3 | intransitively, rush headlong, fall, plunge down
 praecipito | 4 | hasten, hurry (something along)
-praecipito | 5 | (trop.) fall to ruin, be rash
+praecipito | 5 | figuratively, fall to ruin, be rash
 praecipuus | 1 | chief
 praecipuus | 2 | special
-praecipuus | 3 | (legal) received in advance, esp. as an inheritance
-praecipuus | 4 | (adv. praecipue) especially, particularly
+praecipuus | 3 | in law, received in advance, especially as an inheritance
+praecipuus | 4 | as an adverb, praecipue, especially, particularly
 praecisio | 1 | excision
-praecisio | 3 | (rhet.) a sudden breaking off in speech, aposiopesis
-praecisio | 4 | (concr.) a piece cut off, a cutting
+praecisio | 3 | in rhetoric, a sudden breaking off in speech, aposiopesis
+praecisio | 4 | concretely, a piece cut off, a cutting
 praeclarus | 1 | splendid
-praeclarus | 3 | very clear, very bright (lit., rare poet.)
+praeclarus | 3 | literally, rarely, in poetry, very clear, very bright
 praecludo | 1 | close
-praecludo | 3 | (transf.) forbid access to, bar (someone) from
+praecludo | 3 | by extension, forbid access to, bar (someone) from
 praecludo | 4 | hinder, stop, block (something, e.g. a voice, an escape)
 praeclueo | 1 | shine
 praeco | 1 | herald
-praeco | 3 | (transf.) one who proclaims, a publisher (fig., e.g. of fame)
+praeco | 3 | by extension, figuratively, one who proclaims, a publisher (e.g. of fame)
 praecogito | 1 | premeditate
 praecognosco | 1 | foreknow
 praecolo | 1 | cultivate
 praecolo | 3 | honour, esteem, revere in advance (someone or something)
-praecolo | 4 | (as p. a. praecultus) highly ornamented, adorned (post-Aug.)
+praecolo | 4 | as an adjective, praecultus, after Augustus, highly ornamented, adorned
 praeconius | 1 | herald's
-praeconius | 3 | (as noun, praeconium) the office of a public crier or auctioneer
-praeconius | 4 | (as noun, praeconium) a proclaiming, publishing, spreading abroad
-praeconius | 5 | (as noun, praeconium) a public praise, commendation, laudation
+praeconius | 3 | as a noun, praeconium, the office of a public crier or auctioneer
+praeconius | 4 | as a noun, praeconium, a proclaiming, publishing, spreading abroad
+praeconius | 5 | as a noun, praeconium, a public praise, commendation, laudation
 praecordia | 1 | diaphragm
-praecordia | 3 | (transf.) the breast, the heart, as the seat of feeling
-praecordia | 4 | (gen.) the entrails, the vitals
+praecordia | 3 | by extension, the breast, the heart, as the seat of feeling
+praecordia | 4 | in general, the entrails, the vitals
 praecox | 1 | precocious
-praecox | 3 | (lit., of fruit) early-ripening
+praecox | 3 | literally, (of fruit) early-ripening
 praecurro | 1 | precede
-praecurro | 3 | (trop.) surpass, excel (in some quality)
+praecurro | 3 | figuratively, surpass, excel (in some quality)
 praecurro | 4 | anticipate, go before, forestall
 praecursio | 1 | prelude
-praecursio | 3 | (mil.) a preliminary skirmish
-praecursio | 4 | (rhet.) a preparation of the hearer's mind
+praecursio | 3 | in the army, a preliminary skirmish
+praecursio | 4 | in rhetoric, a preparation of the hearer's mind
 praecursor | 1 | forerunner
-praecursor | 3 | (mil.) an advance guard, vanguard
-praecursor | 4 | (transf.) a scout, spy
+praecursor | 3 | in the army, an advance guard, vanguard
+praecursor | 4 | by extension, a scout, spy
 praeda | 1 | booty
 praeda | 2 | prey
-praeda | 3 | (gen.) gain, profit
+praeda | 3 | in general, gain, profit
 praedamno | 1 | precondemn
-praedamno | 3 | (trop.) give up, renounce beforehand (hope, etc.)
+praedamno | 3 | figuratively, give up, renounce beforehand (hope, etc.)
 praedator | 1 | plunderer
-praedator | 3 | (poet., transf.) a hunter
+praedator | 3 | in poetry, by extension, a hunter
 praedator | 4 | a rapacious or avaricious person
 praedestino | 1 | predestine
 praedestino | 3 | provide, arrange beforehand
@@ -1716,55 +1716,55 @@ praediator | 3 | a buyer of mortgaged estates sold at public auction
 praedicatio | 1 | proclamation
 praedicatio | 2 | praise
 praedicatio | 3 | a prediction, prophecy
-praedicatio | 4 | (eccl. Lat.) preaching
+praedicatio | 4 | in Christian Latin, preaching
 praedicator | 1 | proclaimer
 praedicator | 3 | a praiser, eulogist
-praedicator | 4 | (eccl. Lat.) a preacher
+praedicator | 4 | in Christian Latin, a preacher
 praedico1 | 1 | proclaim
 praedico1 | 3 | praise, extol, commend
-praedico1 | 4 | (eccl. Lat.) preach (the gospel)
+praedico1 | 4 | in Christian Latin, preach (the gospel)
 praedico2 | 1 | predict
 praedico2 | 3 | say beforehand, mention in advance, premise
 praedico2 | 4 | appoint, fix (a date), give notice of
 praedico2 | 5 | advise, warn, charge, command (someone to do something)
 praedisco | 1 | learn beforehand
 praeditus | 1 | endowed
-praeditus | 3 | (of a deity, post-Aug.) presiding over, placed in charge of (with dat.)
+praeditus | 3 | after Augustus, (of a deity) presiding over, placed in charge of (with the dative)
 praedium | 1 | estate
 praedo2 | 1 | robber
-praedo2 | 3 | (transf., poet.) a rapacious creature or thing, e.g. a drone, a hawk
+praedo2 | 3 | by extension, in poetry, a rapacious creature or thing, e.g. a drone, a hawk
 praedor | 1 | plunder
-praedor | 3 | (transf.) catch, take (animals or birds, in hunting)
-praedor | 4 | (trop., poet.) rob, ravish, snatch away
+praedor | 3 | by extension, catch, take (animals or birds, in hunting)
+praedor | 4 | figuratively, in poetry, rob, ravish, snatch away
 praeduco | 1 | dig
 praeduco | 3 | draw, construct, or put in front (of a ditch, wall, etc.)
 praedulcis | 1 | luscious
-praedulcis | 3 | (trop.) very pleasing, delightful, charming
+praedulcis | 3 | figuratively, very pleasing, delightful, charming
 praedurus | 1 | tough
-praedurus | 3 | (transf.) very strong, robust
-praedurus | 4 | (trop.) very harsh, difficult
+praedurus | 3 | by extension, very strong, robust
+praedurus | 4 | figuratively, very harsh, difficult
 praeemineo | 1 | excel
-praeemineo | 3 | (lit., rare) project forward, be prominent
+praeemineo | 3 | literally, rarely, project forward, be prominent
 praeeo | 1 | precede
-praeeo | 3 | (relig./legal) dictate a formula for another to repeat, e.g. an oath or prayer
-praeeo | 4 | (transf.) recite or read aloud before someone, as a guide
+praeeo | 3 | in religion and law, dictate a formula for another to repeat, e.g. an oath or prayer
+praeeo | 4 | by extension, recite or read aloud before someone, as a guide
 praefatio | 1 | preface
-praefatio | 3 | (relig./legal) a set formula recited beforehand
-praefatio | 4 | a preliminary hearing (legal)
+praefatio | 3 | in religion and law, a set formula recited beforehand
+praefatio | 4 | in law, a preliminary hearing
 praefectura | 1 | prefecture
-praefectura | 3 | (mil.) the governorship of a province
-praefectura | 4 | (transf.) an Italian town governed by Roman-appointed prefects
+praefectura | 3 | in the army, the governorship of a province
+praefectura | 4 | by extension, an Italian town governed by Roman-appointed prefects
 praefectura | 5 | the territory or district under a prefect's jurisdiction
 praefero | 1 | prefer
-praefero | 3 | carry, bear in front (lit., e.g. a torch, standards in procession)
-praefero | 4 | (trop.) show, display, reveal, betray (a feeling)
-praefero | 5 | (rare) anticipate, take beforehand (a date)
+praefero | 3 | literally, carry, bear in front (e.g. a torch, standards in procession)
+praefero | 4 | figuratively, show, display, reveal, betray (a feeling)
+praefero | 5 | rarely, anticipate, take beforehand (a date)
 praefestino | 1 | rush
-praefestino | 3 | (rare) hasten past, hurry by (something)
+praefestino | 3 | rarely, hasten past, hurry by (something)
 praefica | 1 | mourner
 praefica | 3 | a woman hired to lead the lamentation at the head of a funeral procession
 praeficio | 1 | appoint
-praeficio | 3 | (as noun, praefectus) an overseer, president, commander, governor, the title of an officer
+praeficio | 3 | as a noun, praefectus, an overseer, president, commander, governor, the title of an officer
 praefidens | 1 | overconfident
 praefigo | 1 | affix
 praefigo | 3 | tip, point (a weapon with metal)
@@ -1773,69 +1773,69 @@ praefigo | 5 | close, block up (an opening)
 praefinio | 1 | prescribe
 praefiscine | 1 | no offence
 praefloro | 1 | tarnish
-praefloro | 3 | deflower (of a woman, rare)
+praefloro | 3 | rarely, deflower (of a woman)
 praefluo | 1 | flow past
 praefor | 1 | preface
-praefor | 3 | (relig.) utter a preliminary prayer before an act
+praefor | 3 | in religion, utter a preliminary prayer before an act
 praefor | 4 | name, cite beforehand (as an authority)
-praefor | 5 | (very rare) foretell, predict
+praefor | 5 | very rarely, foretell, predict
 praefringo | 1 | snap
-praefringo | 3 | (rhet., as p. a. praefractus) abrupt, broken off (of style)
-praefringo | 4 | (of character, as p. a. praefractus) stern, harsh, inflexible
+praefringo | 3 | in rhetoric, as an adjective, praefractus, abrupt, broken off (of style)
+praefringo | 4 | as an adjective, praefractus, (of character) stern, harsh, inflexible
 praefulcio | 1 | prop
-praefulcio | 3 | (trop.) secure, safeguard, support (a plan or position)
+praefulcio | 3 | figuratively, secure, safeguard, support (a plan or position)
 praefulgeo | 1 | glitter
-praefulgeo | 3 | (trop.) be conspicuous, shine, be pre-eminent
+praefulgeo | 3 | figuratively, be conspicuous, shine, be pre-eminent
 praegnans | 1 | pregnant
-praegnans | 3 | (transf., of plants) budding, swollen with growth
-praegnans | 4 | (gen.) full of, swollen with something
+praegnans | 3 | by extension, (of plants) budding, swollen with growth
+praegnans | 4 | in general, full of, swollen with something
 praegnatio | 1 | pregnancy
-praegnatio | 3 | (trop.) fertility, productiveness (of nature, fig.)
+praegnatio | 3 | figuratively, fertility, productiveness (of nature)
 praegrandis | 1 | huge
-praegrandis | 3 | (trop.) very great, powerful, mighty
+praegrandis | 3 | figuratively, very great, powerful, mighty
 praegravis | 1 | hefty
-praegravis | 3 | (trop.) oppressive, burdensome
+praegravis | 3 | figuratively, oppressive, burdensome
 praegravo | 1 | encumber
-praegravo | 3 | (transf.) exceed in weight, outweigh, preponderate
-praegravo | 4 | (trop.) weigh down, depress, overshadow (someone)
+praegravo | 3 | by extension, exceed in weight, outweigh, preponderate
+praegravo | 4 | figuratively, weigh down, depress, overshadow (someone)
 praegredior | 1 | precede
 praegredior | 3 | pass by, go past (something)
-praegredior | 4 | (trop.) surpass, excel
+praegredior | 4 | figuratively, surpass, excel
 praegustator | 1 | taster
-praegustator | 3 | (trop.) one who samples or previews something in advance (fig.)
+praegustator | 3 | figuratively, one who samples or previews something in advance
 praegusto | 1 | foretaste
-praegusto | 3 | (gen.) take, eat, or drink beforehand
+praegusto | 3 | in general, take, eat, or drink beforehand
 praehibeo | 1 | offer
 praejudicium | 1 | precedent
-praejudicium | 3 | (post-class.) damage, disadvantage, prejudice
-praejudicium | 4 | (legal) a preliminary judicial examination before a trial
+praejudicium | 3 | in later Latin, damage, disadvantage, prejudice
+praejudicium | 4 | in law, a preliminary judicial examination before a trial
 praejudico | 1 | prejudge
-praejudico | 3 | (post-class.) be injurious, prejudicial (to something, with dat.)
+praejudico | 3 | in later Latin, be injurious, prejudicial (to something, with the dative)
 praelabor | 1 | glide
-praelabor | 3 | (trop.) glide past, hasten by (time, etc.)
+praelabor | 3 | figuratively, glide past, hasten by (time, etc.)
 praelego1 | 1 | bequeath
-praelego1 | 3 | (legal) leave a legacy to be given before the general division of the inheritance
+praelego1 | 3 | in law, leave a legacy to be given before the general division of the inheritance
 praelego2 | 1 | lecture
-praelego2 | 3 | select, pick out, choose (post-class.)
-praelego2 | 4 | sail by, sail along (a coast, post-Aug.)
+praelego2 | 3 | in later Latin, select, pick out, choose
+praelego2 | 4 | after Augustus, sail by, sail along (a coast)
 praelibatio | 1 | foretaste
-praelibatio | 3 | an offering of the first-fruits (relig.)
-praelibatio | 4 | (trop.) a diminution, lessening
+praelibatio | 3 | in religion, an offering of the first-fruits
+praelibatio | 4 | figuratively, a diminution, lessening
 praeligo | 1 | bind
 praeligo | 3 | bind up, dress (a wound)
-praeligo | 4 | cover, veil (transf.)
-praeligo | 5 | (trop.) fetter, enthrall, captivate
+praeligo | 4 | by extension, cover, veil
+praeligo | 5 | figuratively, fetter, enthrall, captivate
 praeloquor | 1 | preface
 praeloquor | 3 | speak first, forestall (someone) in speaking
-praeloquor | 4 | (rare) foretell, predict
+praeloquor | 4 | rarely, foretell, predict
 praeluceo | 1 | light
-praeluceo | 3 | (trop.) shine forth, be bright, be conspicuous
-praeluceo | 4 | (trop.) outshine, surpass
+praeluceo | 3 | figuratively, shine forth, be bright, be conspicuous
+praeluceo | 4 | figuratively, outshine, surpass
 praeludo | 1 | prelude
-praeludo | 3 | (trop.) preface, premise (in writing)
-praeludo | 4 | (trop.) serve as a foretaste or rehearsal (of a larger event)
+praeludo | 3 | figuratively, preface, premise (in writing)
+praeludo | 4 | figuratively, serve as a foretaste or rehearsal (of a larger event)
 praemando1 | 1 | preorder
-praemando1 | 3 | (as noun, praemandata) a warrant for the arrest of an accused person (legal)
+praemando1 | 3 | as a noun, in law, praemandata, a warrant for the arrest of an accused person
 praematurus | 1 | premature
 praemeditor | 1 | premeditate
 praemetuo | 1 | dread
@@ -1843,32 +1843,32 @@ praemetuo | 3 | fear something in anticipation, be apprehensive beforehand
 praeministro | 1 | serve
 praeministro | 3 | furnish, supply, hand (something to someone)
 praemitto | 1 | dispatch
-praemitto | 3 | (transf.) set, put in front
-praemitto | 4 | (trop., post-Aug.) say first, mention as a preface
+praemitto | 3 | by extension, set, put in front
+praemitto | 4 | figuratively, after Augustus, say first, mention as a preface
 praemium | 1 | reward
-praemium | 3 | (gen.) advantage, profit, distinction
+praemium | 3 | in general, advantage, profit, distinction
 praemium | 4 | a bribe
-praemium | 5 | (poet., transf.) booty, spoil (rare)
+praemium | 5 | in poetry, by extension, rarely, booty, spoil
 praemoneo | 1 | forewarn
 praemoneo | 3 | (of prophecies) foretell, predict
 praemoneo | 4 | (of omens, portents) presage, foreshadow
 praemonstro | 1 | guide
-praemonstro | 3 | predict, presage, foretell (in partic.)
+praemonstro | 3 | in particular, predict, presage, foretell
 praemordeo | 1 | bite
-praemordeo | 3 | (transf.) bite off, snip off, pilfer
+praemordeo | 3 | by extension, bite off, snip off, pilfer
 praemorior | 1 | die early
-praemorior | 3 | (trop.) decay, fail (of the senses, faculties)
+praemorior | 3 | figuratively, decay, fail (of the senses, faculties)
 praemunio | 1 | fortify
-praemunio | 3 | (trop.) protect, secure, safeguard
-praemunio | 4 | (trop., rhet.) preface, premise, to forestall objections
+praemunio | 3 | figuratively, protect, secure, safeguard
+praemunio | 4 | figuratively, in rhetoric, preface, premise, to forestall objections
 praemunitio | 1 | fortification
-praemunitio | 3 | (rhet.) a preliminary preparing of the hearer's mind
+praemunitio | 3 | in rhetoric, a preliminary preparing of the hearer's mind
 praenavigo | 1 | sail past
-praenavigo | 3 | (trop.) pass, hurry through (time, life)
+praenavigo | 3 | figuratively, pass, hurry through (time, life)
 praeniteo | 1 | glitter
-praeniteo | 3 | (trop.) be conspicuous, outshine, surpass
+praeniteo | 3 | figuratively, be conspicuous, outshine, surpass
 praenomen | 1 | forename
-praenomen | 3 | (transf.) a title or appellation placed before someone's name
+praenomen | 3 | by extension, a title or appellation placed before someone's name
 praenosco | 1 | foreknow
 praenoto | 1 | mark
 praenoto | 3 | entitle, give a title to (a book)
@@ -1876,92 +1876,92 @@ praenoto | 4 | predict, foreshow
 praenoto | 5 | note down, write down
 praenuntio | 1 | foretell
 praenuntius | 1 | foreboding
-praenuntius | 3 | (as noun) a harbinger, foreteller, omen, token
+praenuntius | 3 | as a noun, a harbinger, foreteller, omen, token
 praeoccupatio | 1 | preoccupation
-praeoccupatio | 3 | (rhet.) prolepsis, the anticipation of an objection
-praeoccupatio | 4 | (medical) a disease causing abdominal distension
+praeoccupatio | 3 | in rhetoric, prolepsis, the anticipation of an objection
+praeoccupatio | 4 | in medicine, a disease causing abdominal distension
 praeoccupo | 1 | preoccupy
-praeoccupo | 3 | (trop.) fill or possess (the mind) beforehand
+praeoccupo | 3 | figuratively, fill or possess (the mind) beforehand
 praeoccupo | 4 | anticipate, forestall, prevent
 praeopto | 1 | prefer
 praeostendo | 1 | foreshow
 praeparatio | 1 | preparation
-praeparatio | 3 | (rhet.) a preparing of the hearer's mind for what follows
+praeparatio | 3 | in rhetoric, a preparing of the hearer's mind for what follows
 praeparo | 1 | prepare
-praeparo | 3 | (trop.) prepare, dispose (the mind, an excuse, etc.)
+praeparo | 3 | figuratively, prepare, dispose (the mind, an excuse, etc.)
 praepedio | 1 | shackle
-praepedio | 3 | (transf.) hinder, obstruct, impede
+praepedio | 3 | by extension, hinder, obstruct, impede
 praependeo | 1 | overhang
 praepes | 1 | swift-flying
-praepes | 3 | winged (gen.)
-praepes | 4 | (as noun) a bird, esp. one used in augury, a bird of good omen
-praepes | 5 | (transf., ante-class.) lucky, propitious, fortunate
+praepes | 3 | in general, winged
+praepes | 4 | as a noun, a bird, especially one used in augury, a bird of good omen
+praepes | 5 | by extension, in early Latin, lucky, propitious, fortunate
 praepilatus | 1 | blunt-tipped
-praepilatus | 3 | (trop., of rhetorical exercises) blunted, for practice only, not real combat
+praepilatus | 3 | figuratively, (of rhetorical exercises) blunted, for practice only, not real combat
 praepinguis | 1 | corpulent
-praepinguis | 3 | (of soil, trop.) very rich, fertile
-praepinguis | 4 | (trop., of voice) too thick, coarse
+praepinguis | 3 | figuratively, (of soil) very rich, fertile
+praepinguis | 4 | figuratively, (of voice) too thick, coarse
 praepolleo | 1 | dominate
 praepondero | 1 | preponderate
-praepondero | 3 | (trop.) outweigh, carry more weight or influence
-praepondero | 4 | (trop.) show favouritism, incline to one side
+praepondero | 3 | figuratively, outweigh, carry more weight or influence
+praepondero | 4 | figuratively, show favouritism, incline to one side
 praepono | 1 | prefer
-praepono | 3 | put, set before, place first (lit.)
-praepono | 4 | (in partic.) place in charge of, appoint as commander
-praepono | 5 | (as noun, praepositus) a chief, commander, overseer, prefect
+praepono | 3 | literally, put, set before, place first
+praepono | 4 | in particular, place in charge of, appoint as commander
+praepono | 5 | as a noun, praepositus, a chief, commander, overseer, prefect
 praepositio | 1 | preference
-praepositio | 3 | (gram.) a preposition
-praepositio | 4 | (post-class.) an appointment to command
+praepositio | 3 | in grammar, a preposition
+praepositio | 4 | in later Latin, an appointment to command
 praepossum | 1 | predominate
-praepossum | 3 | (as adj., praepotens) very powerful, mighty (of persons or things)
+praepossum | 3 | as an adjective, praepotens, very powerful, mighty (of persons or things)
 praeposteritas | 1 | inversion
 praeposterus | 1 | preposterous
 praeproperus | 1 | overhasty
 praeputium | 1 | foreskin
-praeputium | 3 | (trop.) impurity, uncleanness (fig., 'foreskin of the heart')
-praeputium | 4 | (transf.) uncircumcision (as a state)
+praeputium | 3 | figuratively, impurity, uncleanness ('foreskin of the heart')
+praeputium | 4 | by extension, uncircumcision (as a state)
 praerapidus | 1 | swift
-praerapidus | 3 | (trop.) very eager, ardent
+praerapidus | 3 | figuratively, very eager, ardent
 praeripio | 1 | snatch
 praeripio | 3 | carry off prematurely, cut short (a life)
 praeripio | 4 | forestall, anticipate (someone's action)
 praerodo | 1 | gnaw
 praerogativus | 1 | first-voting
-praerogativus | 3 | (as noun, praerogativa) the tribe or century that voted first in the assembly
-praerogativus | 4 | (as noun) a sure sign, omen, token
-praerogativus | 5 | (as noun) a privilege, prerogative
+praerogativus | 3 | as a noun, praerogativa, the tribe or century that voted first in the assembly
+praerogativus | 4 | as a noun, a sure sign, omen, token
+praerogativus | 5 | as a noun, a privilege, prerogative
 praerogo | 1 | prepay
 praerogo | 3 | ask first, poll before others (in voting)
 praerumpo | 1 | snap
-praerumpo | 3 | (as p. a. praeruptus) steep, abrupt, precipitous (of places)
-praerumpo | 4 | (as p. a. praeruptus, trop.) hasty, rash, precipitate
+praerumpo | 3 | as an adjective, praeruptus, steep, abrupt, precipitous (of places)
+praerumpo | 4 | as an adjective, praeruptus, figuratively, hasty, rash, precipitate
 praes1 | 1 | surety
 praesaepe | 1 | stable
-praesaepe | 3 | (transf.) a hut, hovel, humble dwelling
-praesaepe | 4 | (fig.) a crib, mess, table (for eating)
-praesaepe | 5 | (astro.) the Praesepe, a star cluster in Cancer
+praesaepe | 3 | by extension, a hut, hovel, humble dwelling
+praesaepe | 4 | figuratively, a crib, mess, table (for eating)
+praesaepe | 5 | in astronomy, the Praesepe, a star cluster in Cancer
 praesagio | 1 | presage
-praesagio | 3 | (transf.) forebode, foreshow, predict
+praesagio | 3 | by extension, forebode, foreshow, predict
 praesagitio | 1 | premonition
 praesagium | 1 | presage
 praesagus | 1 | prophetic
 praescio | 1 | foreknow
 praescius | 1 | prescient
 praescribo | 1 | prescribe
-praescribo | 3 | write before, prefix in writing (lit.)
-praescribo | 4 | (legal) bring an exception or demurrer against
+praescribo | 3 | literally, write before, prefix in writing
+praescribo | 4 | in law, bring an exception or demurrer against
 praescribo | 5 | use as a pretext
 praescribo | 6 | describe or depict beforehand
 praescriptio | 1 | preface
-praescriptio | 3 | (trop.) a pretext, excuse, pretence
+praescriptio | 3 | figuratively, a pretext, excuse, pretence
 praescriptio | 4 | a precept, rule, principle
-praescriptio | 5 | (legal) an exception, objection, demurrer
-praescriptio | 6 | (legal) prescription, a time-limitation on a claim
+praescriptio | 5 | in law, an exception, objection, demurrer
+praescriptio | 6 | in law, prescription, a time-limitation on a claim
 praescriptivus | 1 | exception-related
 praeseco | 1 | excise
 praesegmen | 1 | paring
 praesemino | 1 | sow
-praesemino | 3 | (trop.) lay the foundation for, prepare for (something)
+praesemino | 3 | figuratively, lay the foundation for, prepare for (something)
 praesensio | 1 | presentiment
 praesensio | 3 | a preconception, preconceived notion
 praesentaneus | 1 | instantaneous
@@ -1969,34 +1969,34 @@ praesentaneus | 3 | (of a remedy or poison) fast-acting, immediate
 praesentarius | 1 | immediate
 praesentia1 | 1 | presence
 praesentia1 | 3 | impression, efficacy, effect (of something present)
-praesentia1 | 4 | (in partic.) protection, assistance
+praesentia1 | 4 | in particular, protection, assistance
 praesentio | 1 | presage
 praesento | 1 | present
 praesertim | 1 | especially
 praeses | 1 | guardian
 praeses | 2 | president
-praeses | 3 | (as adj.) presiding, protecting, guarding (of a god or place)
+praeses | 3 | as an adjective, presiding, protecting, guarding (of a god or place)
 praesidalis | 1 | gubernatorial
 praesideo | 1 | preside
-praesideo | 3 | (trop.) guard, watch over, protect, defend
+praesideo | 3 | figuratively, guard, watch over, protect, defend
 praesideo | 4 | command, direct, have charge of (a province, army, etc.)
 praesidiarius | 1 | defensive
-praesidiarius | 3 | (as noun) a garrison
-praesidiarius | 4 | (post-class.) of a provincial governor, gubernatorial
-praesidiarius | 5 | (transf.) kept in reserve
+praesidiarius | 3 | as a noun, a garrison
+praesidiarius | 4 | in later Latin, of a provincial governor, gubernatorial
+praesidiarius | 5 | by extension, kept in reserve
 praesidium | 1 | protection
-praesidium | 3 | (mil.) a garrison, guard, escort
+praesidium | 3 | in the army, a garrison, guard, escort
 praesidium | 4 | a fortified post, a camp (the place itself)
-praesidium | 5 | (gen.) help, assistance of any kind
+praesidium | 5 | in general, help, assistance of any kind
 praesidium | 6 | a remedy, safeguard (against disease)
 praestabilis | 1 | preeminent
 praestantia | 1 | preeminence
 praestatio | 1 | warranty
-praestatio | 3 | (transf., post-class.) payment of a due, discharge of an obligation
+praestatio | 3 | by extension, in later Latin, payment of a due, discharge of an obligation
 praesterno | 1 | prepare
 praestes | 1 | guardian
 praestigiae | 1 | trickery
-praestigiae | 3 | (concr.) conjuring tricks, sleight of hand
+praestigiae | 3 | concretely, conjuring tricks, sleight of hand
 praestino | 1 | buy
 praestituo | 1 | prescribe
 praesto1 | 1 | ready
@@ -2007,143 +2007,143 @@ praesto2 | 3 | guarantee, vouch for, be answerable for
 praesto2 | 4 | fulfil, perform, discharge (a duty or promise)
 praesto2 | 5 | show, exhibit, display (a quality)
 praesto2 | 6 | give, furnish, provide
-praesto2 | 7 | (impers., praestat) it is better, preferable
-praesto2 | 8 | (as p. a. praestans) preeminent, excellent, outstanding
+praesto2 | 7 | impersonally, praestat, it is better, preferable
+praesto2 | 8 | as an adjective, praestans, preeminent, excellent, outstanding
 praestolor | 1 | await
 praestringo | 1 | bind
 praestringo | 3 | graze, touch (lightly, in passing)
 praestringo | 4 | blunt, dull, weaken (an edge or faculty)
-praestringo | 5 | (esp.) blind, dazzle the eyes
+praestringo | 5 | especially, blind, dazzle the eyes
 praestruo | 1 | found
-praestruo | 3 | (transf.) block up, obstruct (an entrance or path)
-praestruo | 4 | (trop.) prepare, arrange beforehand
+praestruo | 3 | by extension, block up, obstruct (an entrance or path)
+praestruo | 4 | figuratively, prepare, arrange beforehand
 praesul | 1 | dancer
-praesul | 3 | (esp.) the leader of the Salian priests, who danced in procession
-praesul | 4 | (transf., post-class.) a president, patron, protector
+praesul | 3 | especially, the leader of the Salian priests, who danced in procession
+praesul | 4 | by extension, in later Latin, a president, patron, protector
 praesum | 1 | command
-praesum | 3 | (transf.) take the lead, be the foremost, head (something)
-praesum | 4 | (poet.) protect, defend
-praesum | 5 | (as p. a. praesens) present, in person, at hand
-praesum | 6 | (as p. a. praesens) immediate, prompt, instant
-praesum | 7 | (as p. a. praesens) efficacious, powerful, potent
-praesum | 8 | (as p. a. praesens) resolute, collected, self-possessed (of character)
-praesum | 9 | (as p. a. praesens) propitious, favouring (of a god)
-praesum | 10 | (as p. a. praesens) apt, timely, appropriate
+praesum | 3 | by extension, take the lead, be the foremost, head (something)
+praesum | 4 | in poetry, protect, defend
+praesum | 5 | as an adjective, praesens, present, in person, at hand
+praesum | 6 | as an adjective, praesens, immediate, prompt, instant
+praesum | 7 | as an adjective, praesens, efficacious, powerful, potent
+praesum | 8 | as an adjective, praesens, resolute, collected, self-possessed (of character)
+praesum | 9 | as an adjective, praesens, propitious, favouring (of a god)
+praesum | 10 | as an adjective, praesens, apt, timely, appropriate
 praesumo | 1 | presume
-praesumo | 3 | take, use, or enjoy beforehand (lit.)
+praesumo | 3 | literally, take, use, or enjoy beforehand
 praesumo | 4 | anticipate, foresee, infer in advance
 praesumo | 5 | imagine, picture to oneself beforehand
-praesumo | 6 | undertake, venture, dare (post-class.)
+praesumo | 6 | in later Latin, undertake, venture, dare
 praesumptio | 1 | presumption
 praesumptio | 3 | anticipation, enjoyment in advance
-praesumptio | 4 | (rhet.) prolepsis, the anticipation of an objection
-praesumptio | 5 | (post-class.) boldness, audacity, overconfidence
+praesumptio | 4 | in rhetoric, prolepsis, the anticipation of an objection
+praesumptio | 5 | in later Latin, boldness, audacity, overconfidence
 praesumptor | 1 | presumer
-praesumptor | 3 | (post-class., rare) one who takes possession beforehand, a preoccupier
+praesumptor | 3 | in later Latin, rarely, one who takes possession beforehand, a preoccupier
 praetango | 1 | touch
-praetango | 3 | (transf., of disease) attack, afflict beforehand
+praetango | 3 | by extension, (of disease) attack, afflict beforehand
 praetego | 1 | shelter
 praetendo | 1 | extend
 praetendo | 3 | hold out, place before (something, as a screen or barrier)
 praetendo | 4 | (of places) lie opposite to, stretch out in front of
-praetendo | 5 | (trop.) allege, pretend, use as a pretext
+praetendo | 5 | figuratively, allege, pretend, use as a pretext
 praetento | 1 | probe
-praetento | 3 | (trop.) test, try beforehand (someone's resolve or feelings)
-praetento | 4 | (trop.) make a pretext of
+praetento | 3 | figuratively, test, try beforehand (someone's resolve or feelings)
+praetento | 4 | figuratively, make a pretext of
 praeter | 1 | past
 praeter | 3 | beyond, more than (comparative)
 praeter | 4 | besides, in addition to
 praeter | 5 | except, excepting
 praeterea | 1 | besides
-praeterea | 3 | henceforth, from now on (rare)
+praeterea | 3 | rarely, henceforth, from now on
 praetereo | 1 | pass
-praetereo | 3 | (trop.) escape one's notice, be unknown to someone
+praetereo | 3 | figuratively, escape one's notice, be unknown to someone
 praetereo | 4 | omit, leave out, pass over (in speaking or writing)
 praetereo | 5 | pass over, exclude, reject (in an election or a will)
 praetereo | 6 | surpass, excel
 praetereo | 7 | transgress, overstep (a limit)
 praeterfluo | 1 | flow past
-praeterfluo | 3 | (trop.) pass away, vanish, be forgotten
+praeterfluo | 3 | figuratively, pass away, vanish, be forgotten
 praetergredior | 1 | pass by
-praetergredior | 3 | (trop.) surpass, excel
+praetergredior | 3 | figuratively, surpass, excel
 praeterlabor | 1 | glide by
-praeterlabor | 3 | (trop.) slip away, escape notice
+praeterlabor | 3 | figuratively, slip away, escape notice
 praetermeo | 1 | pass by
 praetermitto | 1 | omit
 praetermitto | 3 | let pass, allow (something) to go by
 praetermitto | 4 | overlook, wink at, disregard
 praeterquam | 1 | except
 praetervehor | 1 | pass by
-praetervehor | 3 | (trop.) pass over, pass by (in speech, e.g. in silence)
+praetervehor | 3 | figuratively, pass over, pass by (in speech, e.g. in silence)
 praetervolo | 1 | fly past
-praetervolo | 3 | (trop.) slip by, escape (notice or memory)
+praetervolo | 3 | figuratively, slip by, escape (notice or memory)
 praetexo | 1 | fringe
-praetexo | 3 | (trop.) allege as a pretext, pretend
+praetexo | 3 | figuratively, allege as a pretext, pretend
 praetexo | 4 | cover, cloak, disguise (something) with a pretence
-praetexo | 5 | (as noun, praetexta) the purple-bordered toga worn by magistrates and freeborn children
-praetexo | 6 | (as noun, praetextum) a pretext, excuse
+praetexo | 5 | as a noun, praetexta, the purple-bordered toga worn by magistrates and freeborn children
+praetexo | 6 | as a noun, praetextum, a pretext, excuse
 praetextatus | 1 | underage
 praetextatus | 3 | wearing the toga praetexta, the purple-bordered toga of magistrates or freeborn boys
-praetextatus | 4 | (transf., post-Aug., of words) veiled, indecent, obscene
+praetextatus | 4 | by extension, after Augustus, (of words) veiled, indecent, obscene
 praetextus2 | 1 | pretext
-praetextus2 | 3 | outward show, display, appearance (post-Aug.)
+praetextus2 | 3 | after Augustus, outward show, display, appearance
 praetimeo | 1 | dread
 praetor | 1 | praetor
-praetor | 3 | (gen., prop.) a leader, chief, president (of any body)
-praetor | 4 | (transf.) a propraetor, a former praetor governing a province
+praetor | 3 | in general, literally, a leader, chief, president (of any body)
+praetor | 4 | by extension, a propraetor, a former praetor governing a province
 praetorianus1 | 1 | praetorian
 praetorium | 1 | headquarters
-praetorium | 3 | (transf.) the governor's official residence in a province
-praetorium | 4 | (post-Aug.) a palace, a magnificent villa
-praetorium | 5 | (transf.) a council of war
+praetorium | 3 | by extension, the governor's official residence in a province
+praetorium | 4 | after Augustus, a palace, a magnificent villa
+praetorium | 5 | by extension, a council of war
 praetorium | 6 | the imperial bodyguard, the Praetorian Guard
 praetorius | 1 | praetorian
-praetorius | 3 | (as noun) an ex-praetor, a man of praetorian rank
-praetorius | 4 | (mil.) belonging to a general's bodyguard, the praetorian cohort
+praetorius | 3 | as a noun, an ex-praetor, a man of praetorian rank
+praetorius | 4 | in the army, belonging to a general's bodyguard, the praetorian cohort
 praetura | 1 | praetorship
 praeuro | 1 | scorch
 praeuro | 3 | (of cold) frostbite, numb with cold
 praevaleo | 1 | prevail
 praevaleo | 3 | (of medicines) be highly effective, potent
-praevaleo | 4 | (as p. a. praevalens) very strong, very powerful
+praevaleo | 4 | as an adjective, praevalens, very strong, very powerful
 praevalidus | 1 | mighty
 praevaricatio | 1 | collusion
-praevaricatio | 3 | (eccl. Lat.) transgression, deviation from duty or law
+praevaricatio | 3 | in Christian Latin, transgression, deviation from duty or law
 praevaricator | 1 | colluder
-praevaricator | 3 | (eccl. Lat.) a sinner, transgressor; an apostate
+praevaricator | 3 | in Christian Latin, a sinner, transgressor; an apostate
 praevaricor | 1 | collude
-praevaricor | 3 | (lit., rare) walk crookedly, swerve, e.g. of a plowman's furrow
-praevaricor | 4 | (late Lat.) transgress, violate, sin against
+praevaricor | 3 | literally, rarely, walk crookedly, swerve, e.g. of a plowman's furrow
+praevaricor | 4 | in later Latin, transgress, violate, sin against
 praevehor | 1 | pass
-praevehor | 3 | (trop.) flow forth, pour out (of words, style)
+praevehor | 3 | figuratively, flow forth, pour out (of words, style)
 praevenio | 1 | forestall
-praevenio | 3 | (late Lat.) come or go beforehand
-praevenio | 4 | (trop.) surpass, excel, be superior
+praevenio | 3 | in later Latin, come or go beforehand
+praevenio | 4 | figuratively, surpass, excel, be superior
 praeverto | 1 | prefer
-praeverto | 3 | outstrip, outrun (lit., poet.)
-praeverto | 4 | (trop.) anticipate, forestall, prevent
+praeverto | 3 | literally, in poetry, outstrip, outrun
+praeverto | 4 | figuratively, anticipate, forestall, prevent
 praeverto | 5 | preoccupy, prepossess (someone's mind)
 praeverto | 6 | attend to first, give priority to (a task)
 praevideo | 1 | foresee
-praevideo | 3 | (late Lat.) provide for, make provision against
+praevideo | 3 | in later Latin, provide for, make provision against
 praevius | 1 | leading
 prandeo | 1 | lunch
 prandium | 1 | lunch
-prandium | 3 | (poet., transf.) a meal in general
-prandium | 4 | (transf.) fodder, feed (for animals)
+prandium | 3 | in poetry, by extension, a meal in general
+prandium | 4 | by extension, fodder, feed (for animals)
 pransito | 1 | lunch
 pratum | 1 | meadow
-pratum | 3 | (poet., transf.) meadow-grass, hay
-pratum | 4 | (poet., transf.) a broad plain (of the sea, fig.)
+pratum | 3 | in poetry, by extension, meadow-grass, hay
+pratum | 4 | in poetry, by extension, figuratively, a broad plain (of the sea)
 pravitas | 1 | crookedness
-pravitas | 3 | (trop.) perverseness, impropriety
-pravitas | 4 | (of character, in partic.) depravity, viciousness
+pravitas | 3 | figuratively, perverseness, impropriety
+pravitas | 4 | in particular, (of character) depravity, viciousness
 pravus | 1 | crooked
 pravus | 2 | wicked
 precarius | 1 | precarious
-precarius | 3 | (lit.) obtained by entreaty or favour, not by right
+precarius | 3 | literally, obtained by entreaty or favour, not by right
 precatio | 1 | prayer
-precatio | 3 | (concr., post-Aug.) a set form of prayer, used superstitiously
+precatio | 3 | concretely, after Augustus, a set form of prayer, used superstitiously
 precor | 1 | pray
 precor | 3 | wish (someone) well, salute with a blessing
 precor | 4 | curse, invoke evil upon (someone)
@@ -2151,44 +2151,44 @@ prehendo | 1 | grasp
 prehendo | 3 | seize, occupy suddenly (a place, by force)
 prehendo | 4 | detain (someone), buttonhole, stop to talk with
 prehendo | 5 | catch in the act, catch red-handed
-prehendo | 6 | (trop., rare) apprehend, comprehend (with the mind)
+prehendo | 6 | figuratively, rarely, apprehend, comprehend (with the mind)
 prehensio | 1 | seizure
-prehensio | 3 | (legal, ante-class.) the right to arrest someone
+prehensio | 3 | in law, in early Latin, the right to arrest someone
 prehenso | 1 | grasp
 prehenso | 3 | detain (someone), buttonhole, entreat
-prehenso | 4 | (transf.) canvass, solicit votes for office
+prehenso | 4 | by extension, canvass, solicit votes for office
 prelum | 1 | press
 prelum | 3 | (specifically) a wine-press or oil-press
 prelum | 4 | a clothes-press, for smoothing garments
 premo | 1 | press
 premo | 3 | pursue closely, press hard upon (an enemy)
 premo | 4 | burden, weigh down, load
-premo | 5 | hide, conceal, suppress (poet.)
+premo | 5 | in poetry, hide, conceal, suppress
 premo | 6 | check, restrain, arrest
 premo | 7 | prune, keep in check (of plants)
-premo | 8 | rule, govern (poet.)
+premo | 8 | in poetry, rule, govern
 premo | 9 | surpass, exceed
-premo | 10 | (as p. a. pressus, of style) concise, terse, without ornament
+premo | 10 | as an adjective, pressus, (of style) concise, terse, without ornament
 presso | 1 | press
 pressulus | 1 | compressed
 pressura | 1 | pressure
-pressura | 3 | (in partic.) the pressing of wine or oil
-pressura | 4 | (transf.) a throng, crush, crowd of people
-pressura | 5 | juice, that which is pressed out (poet.)
-pressura | 6 | (trop., eccl. Lat.) oppression, affliction, distress
+pressura | 3 | in particular, the pressing of wine or oil
+pressura | 4 | by extension, a throng, crush, crowd of people
+pressura | 5 | in poetry, juice, that which is pressed out
+pressura | 6 | figuratively, in Christian Latin, oppression, affliction, distress
 pressus2 | 1 | pressure
 pretiosus | 1 | precious
-pretiosus | 3 | (transf.) costly, expensive, dear
+pretiosus | 3 | by extension, costly, expensive, dear
 pretiosus | 4 | extravagant, lavish (of a spender)
 pretium | 1 | price
-pretium | 3 | (gen., poet.) money, wealth
+pretium | 3 | in general, in poetry, money, wealth
 pretium | 4 | worth, value (abstract)
-pretium | 5 | wages, reward (poet.)
-pretium | 6 | (in a bad sense) punishment, retribution (poet.)
+pretium | 5 | in poetry, wages, reward
+pretium | 6 | in poetry, (in a bad sense) punishment, retribution
 prex | 1 | prayer
 prex | 3 | a good wish, friendly greeting
 prex | 4 | a curse, imprecation
-prex | 5 | (poet.) an intercession, a plea on someone's behalf
+prex | 5 | in poetry, an intercession, a plea on someone's behalf
 pridem | 1 | long ago
 pridianus | 1 | yesterday's
 # review: pridie 'the day before' is the accurate gloss; no single or double word captures it
@@ -2202,76 +2202,76 @@ primas | 1 | noble
 primatus | 1 | primacy
 primicerius | 1 | chief
 primigenius | 1 | original
-primigenius | 3 | (gram.) a root word, primitive, not derived from another
+primigenius | 3 | in grammar, a root word, primitive, not derived from another
 primigenius | 4 | (as epithet of Fortuna) governing one's fate from birth
 primipilaris | 1 | chief centurion
-primipilaris | 3 | (transf.) a retired chief centurion, one who had held that rank
-primipilaris | 4 | (eccl. Lat.) a bishop
+primipilaris | 3 | by extension, a retired chief centurion, one who had held that rank
+primipilaris | 4 | in Christian Latin, a bishop
 primitiae | 1 | firstfruits
-primitiae | 3 | (transf.) the first produce or output, of a mine, a vine, etc.
-primitiae | 4 | (trop.) a first attempt, a first experience, of youth, love, war
+primitiae | 3 | by extension, the first produce or output, of a mine, a vine, etc.
+primitiae | 4 | figuratively, a first attempt, a first experience, of youth, love, war
 primitivus | 1 | primitive
-primitivus | 3 | (gram.) a root word, not derived from another
+primitivus | 3 | in grammar, a root word, not derived from another
 primitivus | 4 | first-born (of offspring)
 primitus | 1 | originally
 primogenitus | 1 | firstborn
 primordialis | 1 | primordial
 primordius | 1 | original
-primordius | 3 | (as noun, primordia) the first beginnings, origin, commencement
+primordius | 3 | as a noun, primordia, the first beginnings, origin, commencement
 primoris | 1 | foremost
-primoris | 3 | (as noun) the tip, forepart, extremity (of something)
-primoris | 4 | (as noun, pl.) the chiefs, nobles, leading men
+primoris | 3 | as a noun, the tip, forepart, extremity (of something)
+primoris | 4 | as a noun, in the plural, the chiefs, nobles, leading men
 primus | 1 | first
 primus | 3 | foremost, in front (of place)
 primus | 4 | chief, most eminent, distinguished (of rank)
-primus | 5 | (as adv., primo) at first, at the beginning
-primus | 6 | (as adv., primum) first, in the first place; for the first time
+primus | 5 | as an adverb, primo, at first, at the beginning
+primus | 6 | as an adverb, primum, first, in the first place; for the first time
 princeps1 | 1 | chief
 princeps1 | 2 | emperor
-princeps1 | 3 | (as noun) the first, leading man; the first senator on the censor's list
+princeps1 | 3 | as a noun, the first, leading man; the first senator on the censor's list
 princeps1 | 4 | originator, author, founder (of something)
-princeps1 | 5 | (mil., pl. principes) the second line of heavy infantry, between the hastati and triarii
-princeps1 | 6 | (mil.) a centurion of the principes
+princeps1 | 5 | in the army, in the plural, principes, the second line of heavy infantry, between the hastati and triarii
+princeps1 | 6 | in the army, a centurion of the principes
 principalis | 1 | original
 principalis | 3 | chief, principal, foremost (in rank)
-principalis | 4 | (post-Aug.) princely, imperial, of the emperor
-principalis | 5 | (mil.) of the principes, the second line in battle order
-principalis | 6 | (mil.) of the principium, the headquarters area of a camp
+principalis | 4 | after Augustus, princely, imperial, of the emperor
+principalis | 5 | in the army, of the principes, the second line in battle order
+principalis | 6 | in the army, of the principium, the headquarters area of a camp
 principatus | 1 | preeminence
-principatus | 3 | (in partic.) the supreme command, the post of commander-in-chief
-principatus | 4 | (post-Aug.) the imperial reign, sovereignty, the principate
-principatus | 5 | a beginning, origin (rare)
+principatus | 3 | in particular, the supreme command, the post of commander-in-chief
+principatus | 4 | after Augustus, the imperial reign, sovereignty, the principate
+principatus | 5 | rarely, a beginning, origin
 principium | 1 | beginning
-principium | 3 | (pl.) first principles, elements, foundations
-principium | 4 | (mil.) the front line, the van of an army
-principium | 5 | (mil.) the headquarters area of a camp
-principium | 6 | an originator, founder, ancestor (poet.)
+principium | 3 | in the plural, first principles, elements, foundations
+principium | 4 | in the army, the front line, the van of an army
+principium | 5 | in the army, the headquarters area of a camp
+principium | 6 | in poetry, an originator, founder, ancestor
 prior | 1 | former
-prior | 3 | better, superior, preferable (trop.)
-prior | 4 | (as noun, priores) forefathers, ancestors
-prior | 5 | (as adv., prius) before, sooner, previously
+prior | 3 | figuratively, better, superior, preferable
+prior | 4 | as a noun, priores, forefathers, ancestors
+prior | 5 | as an adverb, prius, before, sooner, previously
 priscus1 | 1 | ancient
-priscus1 | 3 | (transf., poet.) former, previous
-priscus1 | 4 | (transf., poet.) old-fashioned, strict, severe
+priscus1 | 3 | by extension, in poetry, former, previous
+priscus1 | 4 | by extension, in poetry, old-fashioned, strict, severe
 pristinus1 | 1 | former
 pristinus1 | 3 | just past, of the preceding day
 pristinus1 | 4 | (= priscus) old-fashioned, ancient
 privatim | 1 | privately
-privatim | 3 | separately, individually (post-Aug.)
+privatim | 3 | after Augustus, separately, individually
 privatim | 4 | at home
 privignus | 1 | stepchild
-privignus | 3 | (poet., transf., of plants) an offshoot, a sucker growing from another plant's root
+privignus | 3 | in poetry, by extension, (of plants) an offshoot, a sucker growing from another plant's root
 privilegium | 1 | privilege
 privilegium | 3 | originally, a law concerning a single named individual, for or against him
 privo | 1 | deprive
-privo | 3 | free, release, deliver, from something bad, with abl.
-privo | 4 | (as p. a. privatus) private, not public
-privo | 5 | (as p. a. privatus, of a person) out of office, a private citizen
-privo | 6 | (as p. a. privatus, of the imperial period) not belonging to the emperor
+privo | 3 | free, release, deliver, from something bad, with the ablative
+privo | 4 | as an adjective, privatus, private, not public
+privo | 5 | as an adjective, privatus, (of a person) out of office, a private citizen
+privo | 6 | as an adjective, privatus, (of the imperial period) not belonging to the emperor
 privus | 1 | single
 privus | 3 | each, every one, distributively, one each
 privus | 4 | one's own, particular, peculiar
-privus | 5 | deprived of, without (rare)
+privus | 5 | rarely, deprived of, without
 pro1 | 1 | for
 pro1 | 3 | before, in front of (of place)
 pro1 | 4 | on behalf of, in favour of, in defence of
@@ -2281,24 +2281,24 @@ pro1 | 7 | in proportion to, according to, by virtue of
 pro1 | 8 | on account of, for the sake of
 pro2 | 1 | oh!
 proavus | 1 | great-grandfather
-proavus | 3 | (transf.) a forefather, ancestor (in general)
+proavus | 3 | by extension, a forefather, ancestor (in general)
 probabilis | 1 | probable
 probabilis | 2 | commendable
 probatio | 1 | examination
 probatio | 3 | approval, assent
-probatio | 4 | proof, demonstration (post-Aug.)
-probatio | 5 | (rhet.) the proof section of a speech, where arguments are presented
+probatio | 4 | after Augustus, proof, demonstration
+probatio | 5 | in rhetoric, the proof section of a speech, where arguments are presented
 probator | 1 | approver
 probitas | 1 | honesty
 probo | 1 | approve
 probo | 3 | test, examine, try (the quality of something)
 probo | 4 | prove, demonstrate, establish (a fact)
-probo | 5 | (mil.) approve for military service, enlist
+probo | 5 | in the army, approve for military service, enlist
 probo | 6 | pass off, represent (someone as something they are not)
-probo | 7 | (as p. a. probatus) tried, tested, of approved excellence
+probo | 7 | as an adjective, probatus, tried, tested, of approved excellence
 probrosus | 1 | shameful
 probrum | 1 | disgrace
-probrum | 3 | unchaste conduct, lewdness, adultery (in partic.)
+probrum | 3 | in particular, unchaste conduct, lewdness, adultery
 probrum | 4 | abuse, insult, reproachful language
 probus1 | 1 | honest
 probus1 | 2 | sound
@@ -2312,104 +2312,104 @@ procedo | 6 | make progress, get on (in some pursuit)
 procedo | 7 | (of plants) spring forth, grow
 procedo | 8 | project, extend (of a place)
 procella | 1 | storm
-procella | 3 | (transf.) tumult, commotion, violent outburst
-procella | 4 | (mil.) a cavalry charge, a sudden onset
+procella | 3 | by extension, tumult, commotion, violent outburst
+procella | 4 | in the army, a cavalry charge, a sudden onset
 procellosus | 1 | stormy
 procer | 1 | noble
-procer | 3 | (trop., post-Aug.) a master, leading expert (in an art or science)
+procer | 3 | figuratively, after Augustus, a master, leading expert (in an art or science)
 proceritas | 1 | height
-proceritas | 3 | (transf.) length (in general)
+proceritas | 3 | by extension, length (in general)
 procerus | 1 | tall
-procerus | 3 | (transf.) long, large, extended (in general)
+procerus | 3 | by extension, long, large, extended (in general)
 processio | 1 | advance
-processio | 3 | (late Lat.) a religious procession
+processio | 3 | in later Latin, a religious procession
 processus2 | 1 | progress
-processus2 | 3 | (anatomical, transf.) a projection, process
+processus2 | 3 | by extension, anatomical, a projection, process
 processus2 | 4 | (of time) a lapse, passing
 procidentia2 | 1 | prolapse
-procidentia2 | 3 | (gram.) the substitution of one case for another
+procidentia2 | 3 | in grammar, the substitution of one case for another
 procido1 | 1 | fall
-procido1 | 3 | (medical, of a body part) prolapse, fall out of place
+procido1 | 3 | in medicine, (of a body part) prolapse, fall out of place
 procieo | 1 | summon
 procinctus2 | 1 | readiness
-procinctus2 | 3 | (late Lat.) a military campaign, enterprise
+procinctus2 | 3 | in later Latin, a military campaign, enterprise
 procinctus2 | 4 | a battle, engagement
 procingo | 1 | gird
-procingo | 3 | (as p. a. procinctus) prepared for battle, ready for action
+procingo | 3 | as an adjective, procinctus, prepared for battle, ready for action
 proclamo | 1 | exclaim
-proclamo | 3 | (legal) clamor in defence (of someone)
-proclamo | 4 | (legal, proclamare in libertatem) appeal to assert one's freedom
+proclamo | 3 | in law, clamor in defence (of someone)
+proclamo | 4 | in law, (proclamare in libertatem) appeal to assert one's freedom
 proclino | 1 | incline
-proclino | 3 | (trop., pass.) totter, verge toward collapse or ruin
+proclino | 3 | figuratively, in the passive, totter, verge toward collapse or ruin
 proclivis | 1 | sloping
 proclivis | 3 | prone, inclined, liable, to something, usually bad
-proclivis | 4 | (transf.) easy, without difficulty
+proclivis | 4 | by extension, easy, without difficulty
 proclivis | 5 | declining, drawing to a close (of age)
 proclivitas | 1 | proneness
-proclivitas | 3 | (post-class., rare) a steep descent, declivity
+proclivitas | 3 | in later Latin, rarely, a steep descent, declivity
 proco | 1 | demand
 proconsul | 1 | proconsul
-proconsul | 3 | (transf.) an ex-praetor made governor of a province, a propraetor
+proconsul | 3 | by extension, an ex-praetor made governor of a province, a propraetor
 proconsul | 4 | (imperial period) a governor of a senatorial province
 proconsularis | 1 | proconsular
 procrastino | 1 | procrastinate
 procreo | 1 | beget
-procreo | 3 | (trop.) produce, cause, occasion (something abstract)
+procreo | 3 | figuratively, produce, cause, occasion (something abstract)
 procresco | 1 | sprout
 procresco | 3 | grow larger, increase, continue growing
 procudo | 1 | forge
-procudo | 3 | (trop.) form, cultivate, shape (character, style)
-procudo | 4 | (transf.) contrive, devise (a scheme)
+procudo | 3 | figuratively, form, cultivate, shape (character, style)
+procudo | 4 | by extension, contrive, devise (a scheme)
 procul | 1 | afar
-procul | 3 | (trop.) far removed, remote, from something, e.g. fear, blame
-procul | 4 | (rare) far inferior to, much poorer than
+procul | 3 | figuratively, far removed, remote, from something, e.g. fear, blame
+procul | 4 | rarely, far inferior to, much poorer than
 proculco | 1 | trample
-proculco | 3 | (trop.) trample upon, despise, treat with contempt
+proculco | 3 | figuratively, trample upon, despise, treat with contempt
 procumbo | 1 | collapse
-procumbo | 3 | (transf.) lean forward, bend down, sag (of inanimate things)
-procumbo | 4 | (trop.) sink, decline, fall into ruin
+procumbo | 3 | by extension, lean forward, bend down, sag (of inanimate things)
+procumbo | 4 | figuratively, sink, decline, fall into ruin
 procumbo | 5 | extend, spread out (of a mountain range, plain)
 procuratio | 1 | management
-procuratio | 3 | (relig.) an expiatory rite to avert an evil omen
+procuratio | 3 | in religion, an expiatory rite to avert an evil omen
 procurator | 1 | manager
 procurator | 3 | a steward, bailiff (of an estate)
-procurator | 4 | (imperial period, esp. in a province) an imperial governor-agent, procurator
-procurator | 5 | (legal) an attorney, agent conducting a lawsuit
+procurator | 4 | (imperial period, especially in a province) an imperial governor-agent, procurator
+procurator | 5 | in law, an attorney, agent conducting a lawsuit
 procuro | 1 | manage
-procuro | 3 | (relig.) avert or expiate an evil omen by sacrifice
+procuro | 3 | in religion, avert or expiate an evil omen by sacrifice
 procuro | 4 | hold an administrative charge, act as procurator (of a province)
 procurro | 1 | rush
-procurro | 3 | (transf.) jut out, project (of a place or promontory)
-procurro | 4 | (trop.) go on, advance further
+procurro | 3 | by extension, jut out, project (of a place or promontory)
+procurro | 4 | figuratively, go on, advance further
 procursus | 1 | charge
-procursus | 3 | (transf.) a projection, a jutting out
-procursus | 4 | (trop., post-class.) an outbreak, a first manifestation
+procursus | 3 | by extension, a projection, a jutting out
+procursus | 4 | figuratively, in later Latin, an outbreak, a first manifestation
 procus2 | 1 | suitor
-procus2 | 3 | (trop.) a canvasser, one who solicits favour or office
+procus2 | 3 | figuratively, a canvasser, one who solicits favour or office
 prodeo | 1 | emerge
-prodeo | 3 | (transf., of plants) spring up, sprout, appear
-prodeo | 4 | (trop.) advance, proceed, go forward
+prodeo | 3 | by extension, (of plants) spring up, sprout, appear
+prodeo | 4 | figuratively, advance, proceed, go forward
 prodico | 1 | postpone
-prodico | 3 | (rare) appoint or fix beforehand
+prodico | 3 | rarely, appoint or fix beforehand
 prodigialis | 1 | portentous
 prodigialis | 3 | (Plautine) that averts an evil omen
 prodigiosus | 1 | prodigious
 prodigium | 1 | portent
-prodigium | 3 | (transf.) a monster, an unnatural creature
+prodigium | 3 | by extension, a monster, an unnatural creature
 prodigo | 1 | squander
-prodigo | 3 | (lit., ante-class., rare) drive forth, drive to a place
-prodigo | 4 | (post-class.) use up, consume, in a neutral sense
+prodigo | 3 | literally, in early Latin, rarely, drive forth, drive to a place
+prodigo | 4 | in later Latin, use up, consume, in a neutral sense
 prodigus | 1 | prodigal
-prodigus | 3 | (poet., with gen.) rich, abounding in something
-prodigus | 4 | (post-Aug.) costly, expensive
+prodigus | 3 | in poetry, (with the genitive) rich, abounding in something
+prodigus | 4 | after Augustus, costly, expensive
 proditio1 | 1 | treason
-proditio1 | 3 | (ante-class., rare) a deferring, postponement
+proditio1 | 3 | in early Latin, rarely, a deferring, postponement
 proditor | 1 | traitor
 prodo | 1 | betray
 prodo | 3 | hand down, transmit, bequeath (to posterity)
 prodo | 4 | make known, publish, report, record
 prodo | 5 | give up, surrender, abandon
-prodo | 6 | bring forth, produce (poet.)
+prodo | 6 | in poetry, bring forth, produce
 produco | 1 | produce
 produco | 3 | bring forward, present, someone or something in public, e.g. before a court
 produco | 4 | prolong, protract, drag out (time, a meal, a war)
@@ -2421,118 +2421,118 @@ productio | 1 | prolongation
 productio | 3 | (of pronunciation) the lengthening of a syllable
 proeliaris | 1 | battle
 proelior | 1 | fight
-proelior | 3 | (gen.) contend, wrangle, fight with words
+proelior | 3 | in general, contend, wrangle, fight with words
 proelium | 1 | battle
-proelium | 3 | (trop.) contest, strife (of any kind)
-proelium | 4 | (poet., transf.) a fight, contest, of animals or forces of nature
+proelium | 3 | figuratively, contest, strife (of any kind)
+proelium | 4 | in poetry, by extension, a fight, contest, of animals or forces of nature
 profano1 | 1 | consecrate
 profano2 | 1 | desecrate
-profano2 | 3 | (transf.) violate, defile, pollute
-profano2 | 4 | (transf.) disclose, reveal, betray (a secret)
+profano2 | 3 | by extension, violate, defile, pollute
+profano2 | 4 | by extension, disclose, reveal, betray (a secret)
 profanus | 1 | profane
-profanus | 3 | (transf., poet.) wicked, impious
-profanus | 4 | (post-class., with gen.) unlearned, ignorant, uninitiated in something
+profanus | 3 | by extension, in poetry, wicked, impious
+profanus | 4 | in later Latin, (with the genitive) unlearned, ignorant, uninitiated in something
 profectio | 1 | departure
-profectio | 3 | (transf.) the source, origin (of something obtained)
+profectio | 3 | by extension, the source, origin (of something obtained)
 profecto | 1 | certainly
 profectus3 | 1 | progress
 profero | 1 | produce
 profero | 3 | extend, stretch out (a hand, tongue, etc.)
 profero | 4 | put off, defer, postpone (a date)
-profero | 5 | (trop.) cite, quote, mention (as evidence)
-profero | 6 | (trop.) reveal, disclose, make known
+profero | 5 | figuratively, cite, quote, mention (as evidence)
+profero | 6 | figuratively, reveal, disclose, make known
 profero | 7 | prolong, extend (life, borders, time)
-profero | 8 | (mil., proferre signa) advance the standards, march forward
+profero | 8 | in the army, (proferre signa) advance the standards, march forward
 professio | 1 | declaration
-professio | 3 | (legal) a public registration of one's person, property, or business
+professio | 3 | in law, a public registration of one's person, property, or business
 professio | 4 | a profession, a publicly avowed occupation
 professor | 1 | professor
 profestus | 1 | workday
-profestus | 3 | (transf., post-class.) uninitiated, uncultivated, uneducated
+profestus | 3 | by extension, in later Latin, uninitiated, uncultivated, uneducated
 proficio | 1 | progress
-proficio | 3 | (trop.) be of use, help, avail, accomplish something
-proficio | 4 | (of inanimate things, post-Aug.) grow, increase
+proficio | 3 | figuratively, be of use, help, avail, accomplish something
+proficio | 4 | after Augustus, (of inanimate things) grow, increase
 proficiscor | 1 | depart
-proficiscor | 3 | (trop.) begin, commence (a discussion or line of reasoning)
-proficiscor | 4 | (trop.) arise, originate, spring (from something)
+proficiscor | 3 | figuratively, begin, commence (a discussion or line of reasoning)
+proficiscor | 4 | figuratively, arise, originate, spring (from something)
 profiteor | 1 | profess
 profiteor | 3 | declare oneself to be (something), profess to be
 profiteor | 4 | practice, profess (an art or science) as one's occupation
 profiteor | 5 | offer freely, volunteer, promise
 profligo1 | 1 | rout
-profligo1 | 3 | (trop.) ruin, destroy, overthrow
+profligo1 | 3 | figuratively, ruin, destroy, overthrow
 profligo1 | 4 | bring nearly to an end, all but finish
-profligo1 | 5 | (as p. a. profligatus) corrupt, dissolute, profligate
+profligo1 | 5 | as an adjective, profligatus, corrupt, dissolute, profligate
 proflo | 1 | exhale
-proflo | 3 | (transf., post-Aug.) melt, liquefy by blowing
+proflo | 3 | by extension, after Augustus, melt, liquefy by blowing
 profluo | 1 | flow
-profluo | 3 | (trop.) issue, proceed, spring (from a source)
-profluo | 4 | (as p. a. profluens, of speech) fluent, flowing
+profluo | 3 | figuratively, issue, proceed, spring (from a source)
+profluo | 4 | as an adjective, profluens, (of speech) fluent, flowing
 profluvium | 1 | discharge
-profluvium | 3 | (medical) diarrhoea, looseness of the bowels
-profluvium | 4 | (medical) the menses, monthly flow
+profluvium | 3 | in medicine, diarrhoea, looseness of the bowels
+profluvium | 4 | in medicine, the menses, monthly flow
 profor | 1 | utter
-profor | 3 | (in partic.) foretell, predict, prophesy
+profor | 3 | in particular, foretell, predict, prophesy
 profugio | 1 | flee
 profugio | 3 | flee for refuge, take shelter (with someone)
 profugus | 1 | fugitive
-profugus | 3 | (transf., poet.) wandering, vagabond, unsettled
-profugus | 4 | (in partic.) exiled, banished from one's homeland
+profugus | 3 | by extension, in poetry, wandering, vagabond, unsettled
+profugus | 4 | in particular, exiled, banished from one's homeland
 profunditas | 1 | depth
-profunditas | 3 | (trop.) vastness, immensity (of genius, learning)
+profunditas | 3 | figuratively, vastness, immensity (of genius, learning)
 profundo | 1 | pour
 profundo | 3 | shed, spill (blood or tears)
-profundo | 4 | (trop.) squander, lavish, waste (money)
-profundo | 5 | (trop.) sacrifice, give up (one's life, for a cause)
-profundo | 6 | (as p. a. profusus) lavish, extravagant, profuse
-profundo | 7 | (as p. a. profusus) immoderate, excessive
+profundo | 4 | figuratively, squander, lavish, waste (money)
+profundo | 5 | figuratively, sacrifice, give up (one's life, for a cause)
+profundo | 6 | as an adjective, profusus, lavish, extravagant, profuse
+profundo | 7 | as an adjective, profusus, immoderate, excessive
 profundus | 1 | deep
-profundus | 3 | (subst., profundum) the depths of the sea
-profundus | 4 | (poet.) high, lofty, like altus
-profundus | 5 | (trop.) boundless, immoderate, unrestrained
-profundus | 6 | (post-Aug.) obscure, unknown, hidden
-profundus | 7 | (poet.) infernal, of the underworld
+profundus | 3 | as a noun, profundum, the depths of the sea
+profundus | 4 | in poetry, high, lofty, like altus
+profundus | 5 | figuratively, boundless, immoderate, unrestrained
+profundus | 6 | after Augustus, obscure, unknown, hidden
+profundus | 7 | in poetry, infernal, of the underworld
 profusio | 1 | effusion
 profusio | 3 | a libation, an offering poured out, at a grave or sacrifice
-profusio | 4 | (transf.) prodigality, extravagance
+profusio | 4 | by extension, prodigality, extravagance
 progener | 1 | granddaughter's husband
 progenero | 1 | engender
 progenies | 1 | offspring
 progenies | 3 | lineage, descent, ancestry, abstract, rare
-progenies | 4 | (trop., poet.) a poem, as the offspring of the poet's mind
+progenies | 4 | figuratively, in poetry, a poem, as the offspring of the poet's mind
 progenitor | 1 | ancestor
 progero | 1 | remove
-progero | 3 | carry before, bear in front (post-class.)
+progero | 3 | in later Latin, carry before, bear in front
 progigno | 1 | beget
 prognatus | 1 | descended
-prognatus | 3 | (transf., poet.) sprung up, grown (of plants)
+prognatus | 3 | by extension, in poetry, sprung up, grown (of plants)
 progredior | 1 | advance
-progredior | 3 | (trop.) proceed (in a discussion or argument)
-progredior | 4 | (trop.) progress, make headway, in virtue, skill, etc.
+progredior | 3 | figuratively, proceed (in a discussion or argument)
+progredior | 4 | figuratively, progress, make headway, in virtue, skill, etc.
 progressio | 1 | progression
-progressio | 3 | (rhet.) climax, a progressive strengthening of expressions
+progressio | 3 | in rhetoric, climax, a progressive strengthening of expressions
 progressus2 | 1 | advance
-progressus2 | 3 | (transf., concr.) a jetty, pier, mole
-progressus2 | 4 | (trop.) the course, progress (of events)
+progressus2 | 3 | by extension, concretely, a jetty, pier, mole
+progressus2 | 4 | figuratively, the course, progress (of events)
 prohibeo | 1 | prevent
 prohibeo | 3 | forbid, prohibit (something)
-prohibeo | 4 | (rare) keep safe, protect, defend (from danger)
+prohibeo | 4 | rarely, keep safe, protect, defend (from danger)
 prohibitio | 1 | prohibition
 proicio | 1 | fling
 proicio | 3 | cast out, expel, banish
-proicio | 4 | (trop.) give up, renounce, reject
+proicio | 4 | figuratively, give up, renounce, reject
 proicio | 5 | (se proicere) rush into, throw oneself into (danger, disgrace)
-proicio | 6 | (as p. a. projectus) jutting out, projecting
-proicio | 7 | (as p. a. projectus) abject, mean, contemptible
+proicio | 6 | as an adjective, projectus, jutting out, projecting
+proicio | 7 | as an adjective, projectus, abject, mean, contemptible
 proinde | 1 | therefore
 proinde | 3 | just so, equally, in the same manner, with atque, ac, or ut
 projectio | 1 | extension
-projectio | 3 | (transf., concr.) an architectural projection, jutting part of a building
+projectio | 3 | by extension, concretely, an architectural projection, jutting part of a building
 prolabor | 1 | slip
-prolabor | 3 | (trop.) fall into error, go wrong, err
-prolabor | 4 | (trop.) decline, sink, fall into ruin
+prolabor | 3 | figuratively, fall into error, go wrong, err
+prolabor | 4 | figuratively, decline, sink, fall into ruin
 prolapsio | 1 | slip
-prolapsio | 3 | (trop., late Lat.) an error, a misstep
+prolapsio | 3 | figuratively, in later Latin, an error, a misstep
 prolatio | 1 | utterance
 prolatio | 3 | extension, enlargement (of boundaries)
 prolatio | 4 | a deferring, postponement, delay (of a trial or event)
@@ -2541,9 +2541,9 @@ prolato | 3 | (of time) defer, postpone, put off
 prolecto | 1 | entice
 prolecto | 3 | provoke, incite (to anger)
 proles | 1 | offspring
-proles | 3 | (transf.) youth, young men (collectively)
+proles | 3 | by extension, youth, young men (collectively)
 proletarius | 1 | proletarian
-proletarius | 3 | (transf.) low, common, vulgar (of speech)
+proletarius | 3 | by extension, low, common, vulgar (of speech)
 prolixus | 1 | long
 prolixus | 3 | (of speech) prolix, wordy
 prolixus | 4 | favourable, fortunate (of circumstances)
@@ -2552,42 +2552,42 @@ proloquium | 1 | preamble
 proloquium | 3 | (logic) a proposition, axiom
 proloquium | 4 | a judicial sentence, verdict
 proloquor | 1 | declare
-proloquor | 3 | (in partic.) foretell, predict
+proloquor | 3 | in particular, foretell, predict
 prolubium | 1 | inclination
-prolubium | 3 | (post-class.) pleasure, enjoyment
+prolubium | 3 | in later Latin, pleasure, enjoyment
 proludo | 1 | prelude
-proludo | 3 | (trop.) serve as a preliminary exercise or practice, for something greater
+proludo | 3 | figuratively, serve as a preliminary exercise or practice, for something greater
 proluo | 1 | wash
-proluo | 3 | (transf.) wash away, sweep away (soil, snow)
-proluo | 4 | (trop.) squander, dissipate (money, property)
-proluo | 5 | (post-class.) overflow, inundate
+proluo | 3 | by extension, wash away, sweep away (soil, snow)
+proluo | 4 | figuratively, squander, dissipate (money, property)
+proluo | 5 | in later Latin, overflow, inundate
 promereo | 1 | deserve
-promereo | 3 | (transf.) acquire, gain, win over (a person, as an ally)
+promereo | 3 | by extension, acquire, gain, win over (a person, as an ally)
 promico | 1 | gleam
-promico | 3 | (transf.) spring forth, burst out (of tears, growth)
+promico | 3 | by extension, spring forth, burst out (of tears, growth)
 promineo | 1 | protrude
-promineo | 3 | (trop.) extend, reach out (to something, e.g. fame or virtue)
+promineo | 3 | figuratively, extend, reach out (to something, e.g. fame or virtue)
 promiscuus | 1 | indiscriminate
-promiscuus | 3 | (gram.) epicene, of common gender
-promiscuus | 4 | (transf., rare) common, ordinary, usual
+promiscuus | 3 | in grammar, epicene, of common gender
+promiscuus | 4 | by extension, rarely, common, ordinary, usual
 promissio | 1 | promise
-promissio | 3 | (rhet.) a promise made to the audience, a rhetorical technique
+promissio | 3 | in rhetoric, a promise made to the audience, a rhetorical technique
 promitto | 1 | promise
-promitto | 3 | (lit., rare) let hang down, let grow long
-promitto | 4 | (relig.) vow, promise something to a deity
-promitto | 5 | (as p. a. promissus, of hair) long, hanging down
+promitto | 3 | literally, rarely, let hang down, let grow long
+promitto | 4 | in religion, vow, promise something to a deity
+promitto | 5 | as an adjective, promissus, (of hair) long, hanging down
 promo | 1 | produce
-promo | 3 | (trop.) disclose, reveal, utter (thoughts or words)
-promo | 4 | (as p. a. promptus) ready, prepared, quick, inclined to something
-promo | 5 | (as p. a. promptus) brave, courageous
-promo | 6 | (as p. a. promptus, of things) easy, practicable
+promo | 3 | figuratively, disclose, reveal, utter (thoughts or words)
+promo | 4 | as an adjective, promptus, ready, prepared, quick, inclined to something
+promo | 5 | as an adjective, promptus, brave, courageous
+promo | 6 | as an adjective, promptus, (of things) easy, practicable
 promoveo | 1 | advance
 promoveo | 3 | extend, enlarge (territory or borders)
-promoveo | 4 | (medical) dislocate, put out of joint
-promoveo | 5 | (trop., post-Aug.) promote, advance (someone in rank)
-promoveo | 6 | (trop.) put off, defer, postpone
+promoveo | 4 | in medicine, dislocate, put out of joint
+promoveo | 5 | figuratively, after Augustus, promote, advance (someone in rank)
+promoveo | 6 | figuratively, put off, defer, postpone
 promptuarius | 1 | storage
-promptuarius | 3 | (as noun, promptuarium) a storeroom, repository
+promptuarius | 3 | as a noun, promptuarium, a storeroom, repository
 promptus2 | 1 | visibility
 promptus2 | 3 | (in promptu esse or habere) to be at hand, ready, available
 promptus2 | 4 | (in promptu esse) to be easy, straightforward
@@ -2595,85 +2595,85 @@ promulgo | 1 | promulgate
 promunturium | 1 | promontory
 promunturium | 3 | the highest ridge of a mountain chain
 promus | 1 | steward
-promus | 3 | (transf.) a librarian, one who gives out books
+promus | 3 | by extension, a librarian, one who gives out books
 promutuus | 1 | advanced
-promutuus | 3 | (as noun, promutuum) an advance, a loan
+promutuus | 3 | as a noun, promutuum, an advance, a loan
 pronubus | 1 | bridal
-pronubus | 3 | (as noun, pronubus) a groomsman, one who conducts the marriage rites
-pronubus | 4 | (as noun, pronuba) a matron who attends the bride at a wedding
+pronubus | 3 | as a noun, pronubus, a groomsman, one who conducts the marriage rites
+pronubus | 4 | as a noun, pronuba, a matron who attends the bride at a wedding
 pronuntiatio | 1 | proclamation
-pronuntiatio | 3 | (rhet.) delivery, manner of speaking, an oratorical technique
+pronuntiatio | 3 | in rhetoric, delivery, manner of speaking, an oratorical technique
 pronuntiatio | 4 | (logic) a proposition, a statement that can be true or false
 pronuntio | 1 | announce
 pronuntio | 3 | recite, declaim, deliver (a speech)
 pronuntio | 4 | (of an actor) perform, act on stage
 pronuntio | 5 | pronounce, utter (a word or sound)
-pronuntio | 6 | (legal, post-class.) sentence, pass judgment
+pronuntio | 6 | in law, in later Latin, sentence, pass judgment
 pronuntio | 7 | nominate, appoint (to public office)
 pronus | 1 | prone
 pronus | 3 | downward, sloping, inclined (of a place or thing)
-pronus | 4 | (poet., of stars, time) setting, sinking, declining
-pronus | 5 | (post-Aug.) favourable, well-disposed toward someone
-pronus | 6 | (mostly post-Aug.) easy, without difficulty
+pronus | 4 | in poetry, (of stars, time) setting, sinking, declining
+pronus | 5 | after Augustus, favourable, well-disposed toward someone
+pronus | 6 | mostly after Augustus, easy, without difficulty
 propagatio | 1 | propagation
-propagatio | 3 | (trop.) extension, enlargement, prolongation
+propagatio | 3 | figuratively, extension, enlargement, prolongation
 propages | 1 | layer
-propages | 3 | (transf.) offspring, progeny, posterity
+propages | 3 | by extension, offspring, progeny, posterity
 propago1 | 1 | propagate
-propago1 | 3 | (transf.) extend, enlarge, increase (territory)
+propago1 | 3 | by extension, extend, enlarge, increase (territory)
 propago1 | 4 | prolong, continue, extend (life, in time)
 propago2 | 1 | offspring
-propago2 | 3 | (lit.) a layer, a shoot for propagating a plant
+propago2 | 3 | literally, a layer, a shoot for propagating a plant
 propalam | 1 | openly
 propatulus | 1 | open
-propatulus | 3 | (as noun, propatulum, in propatulo) in the open air, in public view
+propatulus | 3 | as a noun, (propatulum, in propatulo) in the open air, in public view
 prope | 1 | near
 prope | 3 | (of degree) nearly, almost, about
 prope | 4 | (of time) close at hand, not far off
 prope | 5 | (of abstract proximity) close to, verging on
 propello | 1 | propel
-propello | 3 | (trop.) impel, incite, urge (someone to do something)
+propello | 3 | figuratively, impel, incite, urge (someone to do something)
 propello | 4 | drive away, ward off (danger, hunger)
 propemodum | 1 | almost
 propendeo | 1 | overhang
-propendeo | 3 | (trop.) preponderate, outweigh, carry more weight
-propendeo | 4 | (trop.) be inclined, disposed to something
-propendeo | 5 | (as p. a. propensus) willing, favourably disposed
-propendeo | 6 | (as p. a. propensus) weighty, important
+propendeo | 3 | figuratively, preponderate, outweigh, carry more weight
+propendeo | 4 | figuratively, be inclined, disposed to something
+propendeo | 5 | as an adjective, propensus, willing, favourably disposed
+propendeo | 6 | as an adjective, propensus, weighty, important
 propero | 1 | hasten
 propero | 3 | hasten to do, prepare with haste (something)
-propero | 4 | (as p. a. properatus) hurried, rapid, speedy
+propero | 4 | as an adjective, properatus, hurried, rapid, speedy
 properus | 1 | speedy
-properus | 3 | (as adv., propere) hastily, quickly, speedily
+properus | 3 | as an adverb, propere, hastily, quickly, speedily
 propexus | 1 | combed-forward
 propheto | 1 | prophesy
 propinatio | 1 | toast
-propinatio | 3 | (transf., rare) a funeral banquet
+propinatio | 3 | by extension, rarely, a funeral banquet
 propinquitas | 1 | proximity
 propinquitas | 2 | kinship
-propinquitas | 3 | (ante-class., rare) intimacy, friendship
+propinquitas | 3 | in early Latin, rarely, intimacy, friendship
 propinquo | 1 | approach
-propinquo | 3 | (act.) bring near, hasten, accelerate (something)
+propinquo | 3 | in the active, bring near, hasten, accelerate (something)
 propinquus | 1 | near
-propinquus | 3 | (trop.) resembling, similar, like
-propinquus | 4 | (as noun) a relative, kinsman
+propinquus | 3 | figuratively, resembling, similar, like
+propinquus | 4 | as a noun, a relative, kinsman
 propior | 1 | nearer
 propior | 3 | (of time) more recent, later
 propior | 4 | (of resemblance) more similar, closer to
-propior | 5 | (superl., proximus) nearest, next
-propior | 6 | (superl., proximus, of time) previous, last, or next, the most recent
-propior | 7 | (superl., proximus, as noun) a neighbor
+propior | 5 | in the superlative, proximus, nearest, next
+propior | 6 | in the superlative, proximus, of time, previous, last, or next, the most recent
+propior | 7 | as a noun, proximus, a neighbour
 propitiatorius | 1 | atoning
-propitiatorius | 3 | (as noun, propitiatorium) a means of atonement, propitiation
-propitiatorius | 4 | (as noun, propitiatorium, biblical) the mercy seat, place of atonement
+propitiatorius | 3 | as a noun, propitiatorium, a means of atonement, propitiation
+propitiatorius | 4 | as a noun, (propitiatorium, biblical) the mercy seat, place of atonement
 propitio | 1 | propitiate
 propitius | 1 | propitious
 propono | 1 | propose
-propono | 3 | display, exhibit, put on view (lit.)
+propono | 3 | literally, display, exhibit, put on view
 propono | 4 | imagine, picture to oneself, conceive
 propono | 5 | intend, resolve, determine (to do something)
-propono | 6 | (as noun, propositum) a plan, purpose, intention
-propono | 7 | (as noun, propositum) the main subject, theme (of a discussion)
+propono | 6 | as a noun, propositum, a plan, purpose, intention
+propono | 7 | as a noun, propositum, the main subject, theme (of a discussion)
 proportio | 1 | proportion
 propositio | 1 | proposition
 propositio | 3 | (logic) the first premise of a syllogism
@@ -2681,58 +2681,58 @@ propositio | 4 | a plan, purpose, resolution
 propraetor | 1 | propraetor
 propraetor | 3 | one acting in place of the praetor, a deputy governor
 proprietas | 1 | property
-proprietas | 3 | (post-Aug.) ownership, legal possession
-proprietas | 4 | (trop., post-Aug., of words) the proper or exact meaning
+proprietas | 3 | after Augustus, ownership, legal possession
+proprietas | 4 | figuratively, after Augustus, (of words) the proper or exact meaning
 proprius | 1 | own
 proprius | 3 | characteristic, particular to someone or something
 proprius | 4 | permanent, lasting, constant
-proprius | 5 | (as adv., proprie) properly, strictly speaking, in the literal sense
-proprius | 6 | (as adv., proprie) especially, particularly
+proprius | 5 | as an adverb, proprie, properly, strictly speaking, in the literal sense
+proprius | 6 | as an adverb, proprie, especially, particularly
 propter | 1 | because of
-propter | 3 | near, close by (of place, rare)
-propter | 4 | (rare) through, by means of
+propter | 3 | rarely, near, close by (of place)
+propter | 4 | rarely, through, by means of
 propterea | 1 | therefore
 propudium1 | 1 | disgrace
-propudium1 | 3 | (transf., term of abuse) a wretch, scoundrel, villain
+propudium1 | 3 | by extension, (term of abuse) a wretch, scoundrel, villain
 propugnaculum | 1 | bulwark
-propugnaculum | 3 | (trop.) a protection, safeguard, defence (of something abstract, e.g. a law)
+propugnaculum | 3 | figuratively, a protection, safeguard, defence (of something abstract, e.g. a law)
 propugnatio | 1 | defence
 propugnator | 1 | defender
-propugnator | 3 | (trop.) a champion, maintainer, advocate (of a cause)
+propugnator | 3 | figuratively, a champion, maintainer, advocate (of a cause)
 propugno | 1 | defend
 propugno | 3 | sally forth, make an attack (to fight)
 propulso | 1 | repel
-propulso | 3 | (trop.) avert, ward off (danger, suspicion)
+propulso | 3 | figuratively, avert, ward off (danger, suspicion)
 proquaestore | 1 | proquaestor
 prorepo | 1 | creep
-prorepo | 3 | (transf., of plants) put forth gradually, sprout, ooze out
+prorepo | 3 | by extension, (of plants) put forth gradually, sprout, ooze out
 proripio | 1 | snatch
 proripio | 3 | (se proripere) rush out, hurry away
-proripio | 4 | (trop.) hurry headlong, plunge (into something rash)
+proripio | 4 | figuratively, hurry headlong, plunge (into something rash)
 prorito | 1 | provoke
-prorito | 3 | (transf.) entice, allure, tempt
+prorito | 3 | by extension, entice, allure, tempt
 prorogatio | 1 | extension
 prorogatio | 3 | a deferral, postponement (of an appointed time)
 prorogo | 1 | prolong
 prorogo | 3 | put off, defer (a deadline)
-prorogo | 4 | (post-class.) pay in advance, advance (money)
+prorogo | 4 | in later Latin, pay in advance, advance (money)
 prorsum | 1 | forward
-prorsum | 3 | (trop.) wholly, absolutely, entirely
+prorsum | 3 | figuratively, wholly, absolutely, entirely
 prorsus1 | 1 | utterly
 prorsus1 | 3 | exactly, precisely, just so
 prorsus1 | 4 | in short, in a word, summarising
 prorsus2 | 1 | straight
-prorsus2 | 3 | (trop., of style) prosaic, written in prose
+prorsus2 | 3 | figuratively, (of style) prosaic, written in prose
 prorumpo | 1 | burst
-prorumpo | 3 | (transf.) break out, appear suddenly, of tears, disease, fire
-prorumpo | 4 | (trop.) break out, erupt, of war, vice
+prorumpo | 3 | by extension, break out, appear suddenly, of tears, disease, fire
+prorumpo | 4 | figuratively, break out, erupt, of war, vice
 proruo | 1 | demolish
-proruo | 3 | (neut.) rush forward, charge (an enemy)
-proruo | 4 | (neut., post-Aug.) collapse, tumble down
+proruo | 3 | intransitively, rush forward, charge (an enemy)
+proruo | 4 | intransitively, after Augustus, collapse, tumble down
 prosapia | 1 | lineage
 proscindo | 1 | rend
-proscindo | 3 | (agri.) plough up, break ground for the first time
-proscindo | 4 | (trop.) revile, censure, satirise with words
+proscindo | 3 | in farming, plough up, break ground for the first time
+proscindo | 4 | figuratively, revile, censure, satirise with words
 proscribo | 1 | proscribe
 proscribo | 3 | publish, announce publicly (in writing)
 proscribo | 4 | advertise, put up for sale or auction
@@ -2740,67 +2740,67 @@ proscribo | 5 | confiscate (someone's) property
 proscriptio | 1 | proscription
 proscriptio | 3 | a public notice of sale, an advertisement
 proseco | 1 | excise
-proseco | 3 | (relig.) cut off the parts of a victim to be offered in sacrifice
+proseco | 3 | in religion, cut off the parts of a victim to be offered in sacrifice
 prosecutio | 1 | attendance
-prosecutio | 3 | (trop.) a continuation
+prosecutio | 3 | figuratively, a continuation
 prosemino | 1 | sow
-prosemino | 3 | (trop.) disseminate, propagate, spread
+prosemino | 3 | figuratively, disseminate, propagate, spread
 prosequor | 1 | accompany
 prosequor | 3 | pursue, chase (an enemy)
-prosequor | 4 | (trop.) honour, bestow (something) upon someone
-prosequor | 5 | (trop.) continue, pursue further (a discussion or theme)
+prosequor | 4 | figuratively, honour, bestow (something) upon someone
+prosequor | 5 | figuratively, continue, pursue further (a discussion or theme)
 prosero1 | 1 | sow
-prosero1 | 3 | (transf.) beget, produce, generate
+prosero1 | 3 | by extension, beget, produce, generate
 proserpo | 1 | creep
-proserpo | 3 | (trop.) advance imperceptibly, steal along, of a disease or evil
+proserpo | 3 | figuratively, advance imperceptibly, steal along, of a disease or evil
 prosilio | 1 | leap
-prosilio | 3 | (transf.) burst forth, gush out (of blood, tears)
-prosilio | 4 | (trop.) leap eagerly to an action, rush zealously into
+prosilio | 3 | by extension, burst forth, gush out (of blood, tears)
+prosilio | 4 | figuratively, leap eagerly to an action, rush zealously into
 prospecto | 1 | watch
 prospecto | 3 | (of localities) face, look toward (a direction)
-prospecto | 4 | (trop.) expect, await, look forward to
-prospecto | 5 | (trop.) threaten, impend over (someone, of fate)
+prospecto | 4 | figuratively, expect, await, look forward to
+prospecto | 5 | figuratively, threaten, impend over (someone, of fate)
 prospector | 1 | watcher
-prospector | 3 | (trop., post-class.) one who foresees and provides, a provider
+prospector | 3 | figuratively, in later Latin, one who foresees and provides, a provider
 prospectus2 | 1 | view
-prospectus2 | 3 | (trop., post-class.) regard, respect, consideration
-prospectus2 | 4 | (eccl. Lat.) foresight
+prospectus2 | 3 | figuratively, in later Latin, regard, respect, consideration
+prospectus2 | 4 | in Christian Latin, foresight
 prospeculor | 1 | scout
-prospeculor | 3 | (act.) watch for, look out for (an arrival)
+prospeculor | 3 | in the active, watch for, look out for (an arrival)
 prosper | 1 | prosperous
 prosperitas | 1 | prosperity
-prosperitas | 3 | (rare) joy, approbation
+prosperitas | 3 | rarely, joy, approbation
 prospero | 1 | prosper
 prospicio | 1 | foresee
 prospicio | 3 | look out, watch, be on the lookout
-prospicio | 4 | (transf., of situations) overlook, command a view of a place
+prospicio | 4 | by extension, (of situations) overlook, command a view of a place
 prospicio | 5 | provide for, look out for something needed
-prospicio | 6 | descry, see from afar (poet./post-Aug.)
+prospicio | 6 | in poetry and after Augustus, descry, see from afar
 prospicuus | 1 | conspicuous
-prospicuus | 3 | (rare) looking into the future, prophetic
+prospicuus | 3 | rarely, looking into the future, prophetic
 prosterno | 1 | prostrate
-prosterno | 3 | (trop.) overthrow, subvert, ruin, destroy
+prosterno | 3 | figuratively, overthrow, subvert, ruin, destroy
 prosterno | 4 | prostitute (someone)
 prostituo | 1 | prostitute
-prostituo | 3 | (transf.) dishonour, sully, debase (a reputation)
+prostituo | 3 | by extension, dishonour, sully, debase (a reputation)
 prosto | 1 | sell
 prosto | 3 | (of a person) sell oneself, prostitute oneself
-prosto | 4 | (transf., fig.) be venal, prostitute oneself, of loyalty, etc.
+prosto | 4 | by extension, figuratively, be venal, prostitute oneself, of loyalty, etc.
 prosum1 | 1 | benefit
 prosum1 | 3 | (of a medicine or remedy) be good for, be beneficial for something
 protector | 1 | protector
-protector | 3 | (mil., post-class.) a member of the imperial bodyguard
+protector | 3 | in the army, in later Latin, a member of the imperial bodyguard
 protego | 1 | protect
-protego | 3 | (jurid.) build a projecting roof or shed
-protego | 4 | cover up, screen, conceal (very rare)
+protego | 3 | in law, build a projecting roof or shed
+protego | 4 | very rarely, cover up, screen, conceal
 protelo | 1 | repulse
-protelo | 3 | (transf.) prolong, delay, defer, put off
+protelo | 3 | by extension, prolong, delay, defer, put off
 protelum | 1 | team
-protelum | 3 | (transf.) a line, row, succession
+protelum | 3 | by extension, a line, row, succession
 protendo | 1 | extend
-protendo | 3 | (trop., post-class.) prolong, lengthen (a word or speech)
+protendo | 3 | figuratively, in later Latin, prolong, lengthen (a word or speech)
 protero | 1 | trample
-protero | 3 | (transf.) overthrow, defeat, crush (an enemy)
+protero | 3 | by extension, overthrow, defeat, crush (an enemy)
 proterreo | 1 | scare
 protervitas | 1 | impudence
 protervus | 1 | impudent
@@ -2810,304 +2810,304 @@ protinam | 1 | forthwith
 protinus | 1 | immediately
 protinus | 3 | continuously, uninterruptedly, rare, of space or time
 protollo | 1 | extend
-protollo | 3 | (trop.) prolong, defer, put off
+protollo | 3 | figuratively, prolong, defer, put off
 protraho | 1 | drag
-protraho | 3 | (trop.) bring to light, expose, disclose (a crime or wrongdoer)
-protraho | 4 | (post-Aug.) prolong, protract, drag out (in time)
+protraho | 3 | figuratively, bring to light, expose, disclose (a crime or wrongdoer)
+protraho | 4 | after Augustus, prolong, protract, drag out (in time)
 protrudo | 1 | push
-protrudo | 3 | (trop., of time) put off, defer, postpone
+protrudo | 3 | figuratively, (of time) put off, defer, postpone
 proturbo | 1 | repulse
-proturbo | 3 | (transf., fig.) attack, assail (with words)
+proturbo | 3 | by extension, figuratively, attack, assail (with words)
 proveho | 1 | convey
-proveho | 3 | (pass., mid.) advance, proceed, sail (to a place)
-proveho | 4 | (trop.) promote, advance, exalt (someone's career)
-proveho | 5 | (trop., of speech) prolong, protract, draw out
+proveho | 3 | in the passive, advance, proceed, sail (to a place)
+proveho | 4 | figuratively, promote, advance, exalt (someone's career)
+proveho | 5 | figuratively, (of speech) prolong, protract, draw out
 provenio | 1 | arise
 provenio | 3 | grow, thrive (of crops or plants)
-provenio | 4 | (trop.) happen, come to pass, occur
-provenio | 5 | (trop.) turn out well, succeed, prosper
+provenio | 4 | figuratively, happen, come to pass, occur
+provenio | 5 | figuratively, turn out well, succeed, prosper
 proventus | 1 | yield
-proventus | 3 | (transf.) a supply, an abundant crop, of people, e.g. orators, poets
-proventus | 4 | (trop.) an outcome, result (of an event)
-proventus | 5 | (trop., in partic.) a successful outcome, happy result
+proventus | 3 | by extension, a supply, an abundant crop, of people, e.g. orators, poets
+proventus | 4 | figuratively, an outcome, result (of an event)
+proventus | 5 | figuratively, in particular, a successful outcome, happy result
 proverbium | 1 | proverb
-proverbium | 3 | (post-class.) a byword, a subject of scorn
+proverbium | 3 | in later Latin, a byword, a subject of scorn
 proverto | 1 | turn forward
 providentia | 1 | foresight
-providentia | 3 | (transf., theological) divine providence, the governance of the world
-providentia | 4 | (post-Aug., as a title) Providence, a name for God
+providentia | 3 | by extension, theological, divine providence, the governance of the world
+providentia | 4 | after Augustus, (as a title) Providence, a name for God
 provideo | 1 | foresee
 provideo | 3 | provide for, make preparation for (something)
 provideo | 4 | prevent, forestall, obviate (an evil)
-provideo | 5 | (lit., very rare) see in the distance, descry
+provideo | 5 | literally, very rarely, see in the distance, descry
 providus | 1 | foreseeing
 providus | 2 | prudent
-providus | 3 | caring for, provident of (something, with gen.)
+providus | 3 | caring for, provident of (something, with the genitive)
 provincia | 1 | province
-provincia | 3 | (transf.) a duty, task, charge, sphere of responsibility
+provincia | 3 | by extension, a duty, task, charge, sphere of responsibility
 provincialis | 1 | provincial
-provincialis | 3 | (as noun) an inhabitant of a province
+provincialis | 3 | as a noun, an inhabitant of a province
 provisio | 1 | foresight
 provisio | 3 | forethought, precaution (taken in advance)
-provisio | 4 | (rare) hindrance, prevention (of something)
+provisio | 4 | rarely, hindrance, prevention (of something)
 proviso2 | 1 | check on
 provisus2 | 1 | foresight
-provisus2 | 3 | (lit., rare) a looking into the distance
-provisus2 | 4 | (trop.) precaution, provision made beforehand
+provisus2 | 3 | literally, rarely, a looking into the distance
+provisus2 | 4 | figuratively, precaution, provision made beforehand
 provocatio | 1 | appeal
-provocatio | 3 | a challenge, a calling out to combat (post-Aug.)
-provocatio | 4 | (late Lat.) a stimulus, incitement, provocation
+provocatio | 3 | after Augustus, a challenge, a calling out to combat
+provocatio | 4 | in later Latin, a stimulus, incitement, provocation
 provoco | 1 | challenge
-provoco | 3 | (legal) appeal to a higher court or authority
-provoco | 4 | (trop.) provoke, incite, stir up (someone to anger or action)
-provoco | 5 | (trop., post-Aug.) rival, vie with, emulate (someone)
+provoco | 3 | in law, appeal to a higher court or authority
+provoco | 4 | figuratively, provoke, incite, stir up (someone to anger or action)
+provoco | 5 | figuratively, after Augustus, rival, vie with, emulate (someone)
 provoco | 6 | call forth, occasion, cause (something)
 provolo | 1 | dart
-provolo | 3 | (transf.) rush out, sally forth (mil.)
+provolo | 3 | by extension, in the army, rush out, sally forth
 provolvo | 1 | roll
 provolvo | 3 | (se provolvere) prostrate oneself, fall at someone's feet
-provolvo | 4 | (trop., post-Aug.) carry away, ruin, sweep along
+provolvo | 4 | figuratively, after Augustus, carry away, ruin, sweep along
 proximitas | 1 | proximity
 proximitas | 2 | kinship
 proximitas | 3 | similarity, resemblance
 proximo2 | 1 | approach
 prudens | 1 | prudent
 prudens | 2 | skilled
-prudens | 3 | (in partic., juris prudens) learned in the law, a jurist
-prudens | 4 | (rare) foreseeing, foreknowing
+prudens | 3 | in particular, (juris prudens) learned in the law, a jurist
+prudens | 4 | rarely, foreseeing, foreknowing
 prudentia | 1 | prudence
 prudentia | 3 | knowledge, expertise, skill (in a particular field)
-prudentia | 4 | (rare) foresight, foreknowledge
+prudentia | 4 | rarely, foresight, foreknowledge
 pruina | 1 | frost
-pruina | 3 | (transf., poet.) snow
-pruina | 4 | (poet., transf.) winter
+pruina | 3 | by extension, in poetry, snow
+pruina | 4 | in poetry, by extension, winter
 prurio | 1 | itch
-prurio | 3 | (transf.) long for, be eager for something, e.g. a fight
-prurio | 4 | (transf.) be wanton, lustful
+prurio | 3 | by extension, long for, be eager for something, e.g. a fight
+prurio | 4 | by extension, be wanton, lustful
 pte | 1 | own
 pte | 3 | an enclitic suffix meaning 'own, self', attached to possessive pronouns, e.g. meopte 'by my very own'
 pubens | 1 | pubescent
-pubens | 3 | (transf., of plants) flourishing, luxuriant, in full vigour
+pubens | 3 | by extension, (of plants) flourishing, luxuriant, in full vigour
 pubertas | 1 | puberty
-pubertas | 3 | (transf.) manhood, virility
-pubertas | 4 | (transf., collective) youth, young men
+pubertas | 3 | by extension, manhood, virility
+pubertas | 4 | by extension, collective, youth, young men
 pubes1 | 1 | grown-up
-pubes1 | 3 | (as noun, puberes) adults, grown men
-pubes1 | 4 | (transf., of plants) downy, covered with soft down
+pubes1 | 3 | as a noun, puberes, adults, grown men
+pubes1 | 4 | by extension, (of plants) downy, covered with soft down
 pubes2 | 1 | pubic hair
-pubes2 | 3 | (transf., euphemism) the private parts
-pubes2 | 4 | (collect.) young men, youth, the fighting-age population
+pubes2 | 3 | by extension, euphemism, the private parts
+pubes2 | 4 | collectively, young men, youth, the fighting-age population
 pubesco | 1 | mature
-pubesco | 3 | (transf., poet.) become covered, clothe itself with something
+pubesco | 3 | by extension, in poetry, become covered, clothe itself with something
 pubesco | 4 | grow up, ripen (of crops or fruit)
 publicanus | 1 | publican
-publicanus | 3 | (as noun) a farmer-general who collected the public revenue
+publicanus | 3 | as a noun, a farmer-general who collected the public revenue
 publicitus | 1 | publicly
 publicitus | 3 | at public expense, on the State's account
 publico | 1 | confiscate
-publico | 3 | make known, publish, disclose (post-Aug.)
+publico | 3 | after Augustus, make known, publish, disclose
 publico | 4 | prostitute (oneself or one's chastity)
 publicus | 1 | public
-publicus | 3 | (as noun, publicus) a public official, magistrate
-publicus | 4 | (as noun, publicum) the public treasury, State revenue
-publicus | 5 | (as noun, publicum) a public place, in view of everyone
-publicus | 6 | (as adv., publice) at the State's expense, officially
-publicus | 7 | (as adv., publice) openly, publicly (post-class.)
+publicus | 3 | as a noun, publicus, a public official, magistrate
+publicus | 4 | as a noun, publicum, the public treasury, State revenue
+publicus | 5 | as a noun, publicum, a public place, in view of everyone
+publicus | 6 | as an adverb, publice, at the State's expense, officially
+publicus | 7 | as an adverb, in later Latin, publice, openly, publicly
 pudeo | 1 | be ashamed
-pudeo | 3 | (as p. a. pudens) modest, bashful, shamefaced
-pudeo | 4 | (as p. a. pudendus) shameful, disgraceful, scandalous
+pudeo | 3 | as an adjective, pudens, modest, bashful, shamefaced
+pudeo | 4 | as an adjective, pudendus, shameful, disgraceful, scandalous
 pudibundus | 1 | bashful
 pudibundus | 2 | shameful
 pudicitia | 1 | chastity
 pudicus | 1 | chaste
-pudicus | 3 | (transf., of things) pure, undefiled
+pudicus | 3 | by extension, (of things) pure, undefiled
 pudor | 1 | shame
-pudor | 3 | (transf.) disgrace, a cause for shame, ignominy
-pudor | 4 | (transf.) a blush
+pudor | 3 | by extension, disgrace, a cause for shame, ignominy
+pudor | 4 | by extension, a blush
 puella | 1 | girl
-puella | 3 | (poet., in partic.) a sweetheart, mistress, beloved
-puella | 4 | (transf.) a young woman, young wife
+puella | 3 | in poetry, in particular, a sweetheart, mistress, beloved
+puella | 4 | by extension, a young woman, young wife
 puellaris | 1 | girlish
 puellus | 1 | little boy
 puer | 1 | boy
-puer | 3 | (transf., poet.) a son
-puer | 4 | (transf.) a slave, an attendant, regardless of age
+puer | 3 | by extension, in poetry, a son
+puer | 4 | by extension, a slave, an attendant, regardless of age
 puer | 5 | a young man, a youth, even up to adulthood
 puera | 1 | girl
 puerilis | 1 | childish
-puerilis | 3 | (transf.) trivial, silly, puerile (of ideas or conduct)
+puerilis | 3 | by extension, trivial, silly, puerile (of ideas or conduct)
 pueritia | 1 | childhood
-pueritia | 3 | (rare) innocence
-pueritia | 4 | (rare, transf.) the first beginnings, early stages (of something)
+pueritia | 3 | rarely, innocence
+pueritia | 4 | rarely, by extension, the first beginnings, early stages (of something)
 puerperium | 1 | childbirth
-puerperium | 3 | (transf.) a new-born child, infant
+puerperium | 3 | by extension, a new-born child, infant
 puerperus | 1 | birthing
-puerperus | 3 | (as noun, puerpera) a woman in labour or childbed
+puerperus | 3 | as a noun, puerpera, a woman in labour or childbed
 pugil | 1 | boxer
 pugillaris | 1 | handheld
-pugillaris | 3 | (as noun, pugillares) small writing-tablets
+pugillaris | 3 | as a noun, pugillares, small writing-tablets
 pugilor | 1 | box
-pugilor | 3 | (transf., of a horse) kick
+pugilor | 3 | by extension, (of a horse) kick
 pugio | 1 | dagger
-pugio | 3 | (trop., Cicero) a weak argument, mockingly, 'a leaden dagger'
+pugio | 3 | figuratively, (Cicero) a weak argument, mockingly, 'a leaden dagger'
 pugna | 1 | battle
-pugna | 3 | (rare, transf.) a battle line, troops drawn up for combat
-pugna | 4 | (rare) a dispute, quarrel, in general
+pugna | 3 | rarely, by extension, a battle line, troops drawn up for combat
+pugna | 4 | rarely, a dispute, quarrel, in general
 pugnax | 1 | combative
-pugnax | 3 | (trop., of speech) contentious, quarrelsome
-pugnax | 4 | (transf.) obstinate, stubborn, refractory
+pugnax | 3 | figuratively, (of speech) contentious, quarrelsome
+pugnax | 4 | by extension, obstinate, stubborn, refractory
 pugno | 1 | fight
-pugno | 3 | (transf.) conflict, disagree, contradict (someone)
+pugno | 3 | by extension, conflict, disagree, contradict (someone)
 pugno | 4 | struggle, strive, exert oneself (for something)
 pugnus | 1 | fist
-pugnus | 3 | (transf., as a measure) a fistful, a handful
+pugnus | 3 | by extension, (as a measure) a fistful, a handful
 pulchellus | 1 | pretty
 pulchellus | 3 | (ironic) a mocking nickname, 'pretty boy'
 pulcher1 | 1 | beautiful
 pulcher1 | 2 | noble
 pulchritudo | 1 | beauty
-pulchritudo | 3 | (transf., pl.) beautiful objects, beauties (concr.)
+pulchritudo | 3 | by extension, in the plural, concretely, beautiful objects, beauties
 puleium | 1 | pennyroyal
 pulex | 1 | flea
-pulex | 3 | (transf.) the ground-flea, spring-tail, an insect pest
+pulex | 3 | by extension, the ground-flea, spring-tail, an insect pest
 pullarius | 1 | chicken-keeper
-pullarius | 3 | (adj.) of or belonging to young animals
+pullarius | 3 | as an adjective, of or belonging to young animals
 pullatus | 1 | dark-clad
-pullatus | 3 | (transf.) of the common people, the lower classes, who wore dark clothing
+pullatus | 3 | by extension, of the common people, the lower classes, who wore dark clothing
 pullulo | 1 | sprout
 pullulo | 3 | (of animals) bring forth young, breed
-pullulo | 4 | (trop.) spread, grow, increase, of vice or evil
+pullulo | 4 | figuratively, spread, grow, increase, of vice or evil
 pullus1 | 1 | chick
-pullus1 | 3 | (gen.) the young of any animal
-pullus1 | 4 | (transf., term of endearment) darling, chick, dove
+pullus1 | 3 | in general, the young of any animal
+pullus1 | 4 | by extension, (term of endearment) darling, chick, dove
 pullus1 | 5 | (of plants) a sprout, young shoot
 pullus3 | 1 | dusky
-pullus3 | 3 | (transf.) poor, humble, alluding to plain dark clothing
-pullus3 | 4 | (poet., from mourning attire) sad, sorrowful, mournful
+pullus3 | 3 | by extension, poor, humble, alluding to plain dark clothing
+pullus3 | 4 | in poetry, (from mourning attire) sad, sorrowful, mournful
 pulmentarium | 1 | relish
-pulmentarium | 3 | (transf.) food in general
+pulmentarium | 3 | by extension, food in general
 pulmentum | 1 | relish
-pulmentum | 3 | (transf.) food in general
+pulmentum | 3 | by extension, food in general
 pulmo | 1 | lung
-pulmo | 3 | (transf.) a sea-lung, a type of marine creature
+pulmo | 3 | by extension, a sea-lung, a type of marine creature
 pulpa | 1 | flesh
-pulpa | 3 | (transf.) the pulp of fruit
-pulpa | 4 | (transf.) the pith of wood
+pulpa | 3 | by extension, the pulp of fruit
+pulpa | 4 | by extension, the pith of wood
 pulpamentum | 1 | meat
-pulpamentum | 3 | (transf.) tidbits, food made from bits of meat
+pulpamentum | 3 | by extension, tidbits, food made from bits of meat
 pulpitum | 1 | platform
-pulpitum | 3 | (esp.) a stage for actors, a theatrical stage
+pulpitum | 3 | especially, a stage for actors, a theatrical stage
 puls | 1 | porridge
 pulso | 1 | strike
-pulso | 3 | (trop.) agitate, disturb, disquiet (the mind)
-pulso | 4 | (legal) arraign, accuse (before a tribunal)
+pulso | 3 | figuratively, agitate, disturb, disquiet (the mind)
+pulso | 4 | in law, arraign, accuse (before a tribunal)
 pulso | 5 | drive away, remove, put out of the way
 pulsus2 | 1 | blow
-pulsus2 | 3 | (trop.) impulse, influence (on the mind)
+pulsus2 | 3 | figuratively, impulse, influence (on the mind)
 pulto1 | 1 | knock
 pulvereus | 1 | dusty
-pulvereus | 3 | (act.) that raises dust, of a horse or wind
+pulvereus | 3 | in the active, that raises dust, of a horse or wind
 pulvero | 1 | dust
 pulvero | 3 | (viticulture) cover vines with loose soil, as protection
 pulvero | 4 | pulverise, reduce to powder
 pulverulentus | 1 | dusty
-pulverulentus | 3 | (trop.) toilsome, laborious
+pulverulentus | 3 | figuratively, toilsome, laborious
 pulvinar | 1 | couch
-pulvinar | 3 | (relig.) the ceremonial couch of a god, set out at a lectisternium
+pulvinar | 3 | in religion, the ceremonial couch of a god, set out at a lectisternium
 pulvinatus | 1 | cushion-shaped
 pulvinus | 1 | cushion
-pulvinus | 3 | (agri.) a raised bed or ridge in a field
-pulvinus | 4 | (transf.) a seat of honour
+pulvinus | 3 | in farming, a raised bed or ridge in a field
+pulvinus | 4 | by extension, a seat of honour
 pulvis | 1 | dust
-pulvis | 3 | (transf.) the arena, the field of contest
-pulvis | 4 | (poet., transf.) toil, effort, labour
+pulvis | 3 | by extension, the arena, the field of contest
+pulvis | 4 | in poetry, by extension, toil, effort, labour
 pulvisculus | 1 | powder
-pulvisculus | 3 | (transf., cum pulvisculo) wholly, completely, entirely, an idiom
+pulvisculus | 3 | by extension, (cum pulvisculo) wholly, completely, entirely, an idiom
 pumex | 1 | pumice
-pumex | 3 | (transf., poet.) any soft, porous rock
-pumex | 4 | (gen., poet.) a rock
+pumex | 3 | by extension, in poetry, any soft, porous rock
+pumex | 4 | in general, in poetry, a rock
 pumico | 1 | polish
-pumico | 3 | (as p. a. pumicatus, trop.) smooth, effeminate, luxurious, of a person
+pumico | 3 | as an adjective, pumicatus, figuratively, smooth, effeminate, luxurious, of a person
 pumilio | 1 | dwarf
 pungo | 1 | prick
-pungo | 3 | (transf.) sting, bite, of an insect or substance
-pungo | 4 | (trop.) vex, grieve, trouble, annoy
-pungo | 5 | (as noun, punctum) a point, dot, small mark
-pungo | 6 | (as noun, punctum) a moment, an instant (of time)
-pungo | 7 | (as noun, punctum) a vote, ballot
+pungo | 3 | by extension, sting, bite, of an insect or substance
+pungo | 4 | figuratively, vex, grieve, trouble, annoy
+pungo | 5 | as a noun, punctum, a point, dot, small mark
+pungo | 6 | as a noun, punctum, a moment, an instant (of time)
+pungo | 7 | as a noun, punctum, a vote, ballot
 puniceus | 1 | crimson
 puniceus | 3 | (capitalised, Puniceus) Punic, Carthaginian
 punio | 1 | punish
-punio | 3 | (rare) avenge, take vengeance for (something)
+punio | 3 | rarely, avenge, take vengeance for (something)
 pupilla | 1 | ward
-pupilla | 3 | (transf.) the pupil of the eye
+pupilla | 3 | by extension, the pupil of the eye
 pupillaris | 1 | pupillary
 pupillus | 1 | ward
 puppis | 1 | stern
-puppis | 3 | (transf., poet.) a ship, by metonymy
-puppis | 4 | (comic lang.) the back (of a person, humorous)
+puppis | 3 | by extension, in poetry, a ship, by metonymy
+puppis | 4 | in comedy, the back (of a person, humorous)
 pupula | 1 | pupil
 pupula | 3 | (term of endearment) a little girl, lass
 purgamen | 1 | refuse
 purgamen | 3 | a means of purification, an expiatory offering
-purgamen | 4 | (rare) purity, clearness
+purgamen | 4 | rarely, purity, clearness
 purgamentum | 1 | refuse
 purgamentum | 3 | a means of purification, an expiatory offering
 purgatio | 1 | cleansing
-purgatio | 3 | (trop.) a religious purification, an expiation
-purgatio | 4 | (trop.) an apology, a justification
+purgatio | 3 | figuratively, a religious purification, an expiation
+purgatio | 4 | figuratively, an apology, a justification
 purgo | 1 | cleanse
-purgo | 3 | (medic.) purge (by laxative)
+purgo | 3 | in medicine, purge (by laxative)
 purgo | 4 | clear away, remove (debris, rubbish)
-purgo | 5 | (trop.) clear from accusation, excuse, exculpate
-purgo | 6 | (trop., relig.) expiate, atone for (a crime)
+purgo | 5 | figuratively, clear from accusation, excuse, exculpate
+purgo | 6 | figuratively, in religion, expiate, atone for (a crime)
 purifico | 1 | purify
-purifico | 3 | (trop.) expiate, atone for, with religious rites
+purifico | 3 | figuratively, expiate, atone for, with religious rites
 purpura | 1 | purple
-purpura | 3 | (transf.) a purple garment, robe of rank
-purpura | 4 | (fig.) high office, sovereignty, as symbolised by the purple robe
+purpura | 3 | by extension, a purple garment, robe of rank
+purpura | 4 | figuratively, high office, sovereignty, as symbolised by the purple robe
 purpurarius | 1 | purple
-purpurarius | 3 | (as noun) a purple-dyer
+purpurarius | 3 | as a noun, a purple-dyer
 purpuratus | 1 | purple-clad
-purpuratus | 3 | (as noun) a courtier, a high officer at a king's court
+purpuratus | 3 | as a noun, a courtier, a high officer at a king's court
 purpureus | 1 | purple
-purpureus | 3 | (transf., poet.) clothed in purple, of royal or noble rank
-purpureus | 4 | (poet.) brilliant, radiant, beautiful
+purpureus | 3 | by extension, in poetry, clothed in purple, of royal or noble rank
+purpureus | 4 | in poetry, brilliant, radiant, beautiful
 purpuro | 1 | purple
-purpuro | 3 | (neut.) be purple, glow with purple colour
+purpuro | 3 | intransitively, be purple, glow with purple colour
 purulentus | 1 | purulent
 purus | 1 | pure
-purus | 3 | (transf.) plain, unadorned, unmixed
-purus | 4 | (jurid.) unconditional, absolute, without restriction
-purus | 5 | (relig.) free from religious consecration or claim, secular
+purus | 3 | by extension, plain, unadorned, unmixed
+purus | 4 | in law, unconditional, absolute, without restriction
+purus | 5 | in religion, free from religious consecration or claim, secular
 purus | 6 | clear, net, of gain, over and above costs
 pus | 1 | pus
-pus | 3 | (transf., insult) a malicious, venomous person
+pus | 3 | by extension, insult, a malicious, venomous person
 pusillus | 1 | tiny
-pusillus | 3 | (trop.) petty, paltry, small-minded
+pusillus | 3 | figuratively, petty, paltry, small-minded
 pustula | 1 | pustule
-pustula | 3 | (transf.) a bubble, blister, in liquid, glass, or pottery
+pustula | 3 | by extension, a bubble, blister, in liquid, glass, or pottery
 pusula | 1 | pustule
-pusula | 3 | (pastoral, transf.) erysipelas, a skin inflammation in animals
+pusula | 3 | by extension, pastoral, erysipelas, a skin inflammation in animals
 putamen | 1 | peel
-putamen | 3 | (gen.) clippings, waste from pruning or trimming
+putamen | 3 | in general, clippings, waste from pruning or trimming
 putatio | 1 | pruning
-putatio | 3 | (post-class.) a reckoning, computation
+putatio | 3 | in later Latin, a reckoning, computation
 putativus | 1 | putative
 puteal | 1 | wellhead
-puteal | 3 | (transf.) a similar stone curb marking a sacred or consecrated spot
+puteal | 3 | by extension, a similar stone curb marking a sacred or consecrated spot
 puteo | 1 | stink
 puteo | 3 | be rotten, putrid
 puter | 1 | rotten
-puter | 3 | (transf.) crumbling, friable, loose (of soil)
+puter | 3 | by extension, crumbling, friable, loose (of soil)
 putesco | 1 | rot
 puteus | 1 | well
-puteus | 3 | (transf.) a pit, shaft, for storage, mining, or as a dungeon
+puteus | 3 | by extension, a pit, shaft, for storage, mining, or as a dungeon
 putidus | 1 | rotten
-putidus | 3 | (transf., contemptuous) withered, decrepit, of an old person
+putidus | 3 | by extension, contemptuous, withered, decrepit, of an old person
 putidus | 4 | (of style) affected, disagreeably unnatural
 puto | 1 | think
-puto | 3 | (lit., rare) clean, cleanse
+puto | 3 | literally, rarely, clean, cleanse
 puto | 4 | prune, trim (trees or vines)
 puto | 5 | reckon, compute, calculate
 puto | 6 | value, estimate, esteem, something as worth a certain amount
@@ -3116,6 +3116,6 @@ putrefacio | 1 | rot
 putrefacio | 3 | make friable, soften, rock, by heat and vinegar
 putresco | 1 | rot
 putresco | 3 | become loose, friable, crumbly
-putresco | 4 | (trop.) fall into contempt, become disgraced
+putresco | 4 | figuratively, fall into contempt, become disgraced
 putus1 | 1 | pure
-putus1 | 3 | (usu. paired with purus) utterly pure, thoroughly clean, an emphatic doublet
+putus1 | 3 | (usually paired with purus) utterly pure, thoroughly clean, an emphatic doublet
