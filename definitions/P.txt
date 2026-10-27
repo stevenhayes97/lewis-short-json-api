@@ -265,6 +265,11 @@ parma1 | 3 | a Thracian-style gladiator (armed with the parma, as opposed to the
 paro1 | 1 | prepare
 paro1 | 2 | acquire
 paro1 | 3 | as an adjective, paratus, ready, prepared
+paroecia | 1 | parish
+paroecia | 3 | in Christian Latin, a church district, a parish, and the area under its care
+parotis | 1 | parotid swelling
+parotis | 3 | a swelling of the glands below the ear
+parotis | 4 | in architecture, a bracket under a cornice
 parra1 | 1 | owl
 parra1 | 3 | a bird of ill omen (exact species disputed -- perhaps the owl, woodpecker, or lapwing)
 parricida | 1 | parricide
@@ -280,6 +285,8 @@ pars | 3 | by extension, role, function, duty (of a theatrical part or a person'
 pars | 4 | pars...pars, some...others (a common partitive construction)
 pars | 5 | magna pars, the majority, a good many
 parsimonia | 1 | frugality
+parthenium | 1 | feverfew
+parthenium | 3 | the name of several plants, among them feverfew and pellitory
 partiarius | 1 | shared
 partiarius | 3 | colonus partiarius, a sharecropper, a tenant farmer who pays rent with a portion of the crop
 particeps | 1 | participant
@@ -307,6 +314,11 @@ parturitio | 3 | by extension, parturition, childbirth (the actual delivery)
 partus2 | 1 | birth
 partus2 | 2 | offspring
 partus2 | 3 | figuratively, beginnings, origins (of the sources of something)
+parum | 1 | too little
+parum | 3 | as a noun with the genitive, too little of something: satis eloquentiae, sapientiae parum, eloquence enough, too little wisdom
+parum | 4 | with verbs and adjectives, insufficiently, not very: parum diligenter, with too little care; si parum intellexisti, if you did not quite understand
+parum | 5 | parum est, it is not enough: parum habere, to think something not enough
+parum | 6 | non parum, not a little, a good deal: non parum multi, a good many
 parumper | 1 | briefly
 parvitas | 1 | smallness
 parvulus | 1 | tiny
@@ -350,6 +362,8 @@ pastor | 3 | figuratively, pastor populi, shepherd of the people (of a leader or
 pastoralis | 1 | pastoral
 pastus2 | 1 | fodder
 pastus2 | 3 | figuratively, sustenance, nourishment (of anything that feeds or sustains)
+patagium | 1 | border
+patagium | 3 | a gold border sewn on a woman's tunic
 patefacio | 1 | open
 patefacio | 2 | reveal
 patella1 | 1 | dish
@@ -438,6 +452,9 @@ paupero | 2 | deprive
 paupertas | 1 | poverty
 paupertas | 3 | paupertas vs egestas: paupertas is modest means, not the desperate destitution of egestas or inopia
 paupertas | 4 | figuratively, poverty of language, a lack of vocabulary or expressiveness (a rhetorical criticism)
+pausa | 1 | pause
+pausa | 3 | in early Latin, a stop, an end: pausam facere, to make an end
+pausa | 4 | in later Latin, a halt in a religious procession for singing hymns
 pausarius | 1 | boatswain
 pausarius | 3 | a rowing-master who signals the stroke with a hammer
 pauso | 1 | pause
@@ -533,8 +550,14 @@ pedisequus | 3 | figuratively, follower, attendant (of something subordinate to 
 pedulis | 1 | foot
 pedulis | 3 | as a noun, pedule, a sole
 pedum1 | 1 | crook
+pegma | 1 | stage lift
+pegma | 3 | a wooden stage machine that rose and fell, lifting actors into the air
+pegma | 4 | a wooden fixture in a house; a bookcase
 pejero | 1 | perjure
 pejero | 2 | lie
+pelagus | 1 | sea
+pelagus | 3 | in poetry and later prose, the open sea, the deep: pelagus tenuere rates, the ships held to the open sea
+pelagus | 4 | figuratively, a vast mass: pelagus sermonis, the ocean of everyday language
 pelicatus | 1 | concubinage
 pellacia | 1 | allurement
 pellacia | 3 | in later Latin, seduction (a narrower specific sense)
@@ -602,9 +625,14 @@ pensito | 2 | pay
 penso | 1 | weigh
 penso | 2 | compensate
 penso | 3 | figuratively, ponder, consider, weigh mentally
+pentathlos | 1 | pentathlete
+pentathlos | 3 | an athlete in the five events of discus, running, jumping, wrestling and javelin
 penuria | 1 | scarcity
 penus | 1 | provisions
 penus | 2 | sanctuary
+peplum | 1 | robe
+peplum | 3 | the robe of state of Athena, carried to her statue at the Panathenaea
+peplum | 4 | in later Latin, any splendid robe of state; a broad outer garment
 per1 | 1 | through
 per1 | 2 | via
 per1 | 3 | during, throughout (of time)
@@ -811,6 +839,11 @@ perimo | 1 | destroy
 perimo | 2 | kill
 perinde | 1 | equally
 perinde | 3 | perinde ac or quasi, just as, just as if (a common comparative construction)
+periodus | 1 | period
+periodus | 3 | in rhetoric, a complete, rounded sentence
+periodus | 4 | the circuit of the four great Greek games: periodon vincere, to win at all four
+peripneumonia | 1 | pneumonia
+peripneumonia | 3 | inflammation of the lungs
 peritia | 1 | expertise
 peritus | 1 | skilled
 peritus | 3 | peritus alicuius rei, skilled or experienced in something (with the genitive)
