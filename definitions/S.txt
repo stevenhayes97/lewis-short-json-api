@@ -492,6 +492,11 @@ scopa1 | 4 | proverbial, scopas dissolvere, to untie a broom, to throw into conf
 scopulosus | 1 | rocky
 scopulus | 1 | reef
 scopulus | 2 | danger
+scorpio | 1 | scorpion
+scorpio | 3 | the scorpion; Scorpio, the sign of the zodiac
+scorpio | 4 | a war engine for shooting darts and stones
+scorpio | 5 | a prickly sea fish; a thorny plant
+scorpio | 6 | in Christian Latin, a scourge, an instrument of torture
 scorteus | 1 | of leather
 scortor | 1 | whore
 scortum | 1 | harlot
@@ -562,6 +567,8 @@ scutulatus | 1 | chequered
 scutum | 1 | shield
 scutum | 2 | defence
 scutum | 3 | late Latin, transferred, heavy-armed soldiers, shield-bearers
+scyphus | 1 | goblet
+scyphus | 3 | a large drinking cup with handles
 secedo | 1 | withdraw
 secedo | 3 | specifically, to retire from public into private life
 secedo | 4 | political, to secede, to revolt
@@ -825,6 +832,9 @@ sepono | 1 | set aside
 sepono | 3 | specifically, after Augustus, to banish, to exile
 sepono | 4 | to reserve, to set apart for a purpose
 sepono | 5 | as a participle (sepositus), distant, remote; also, choice, select
+seps1 | 1 | viper
+seps1 | 3 | a venomous snake whose bite was said to rot the flesh
+seps1 | 4 | an insect, perhaps the woodlouse
 septem | 1 | seven
 septem | 3 | as a noun, the Seven, the Sages of Greece
 septemplex | 1 | sevenfold
@@ -926,6 +936,8 @@ servus1 | 1 | servile
 servus1 | 3 | legal, of land or buildings, subject to an easement
 servus2 | 1 | slave
 servus2 | 3 | figuratively, a slave to a vice or passion
+sesamum | 1 | sesame
+sesamum | 3 | the sesame plant and its oily seed
 # review: sescenteni distributive; "six hundred each" kept at three words, matching treceni
 sescenteni | 1 | six hundred each
 sescenti | 1 | six hundred
@@ -950,6 +962,8 @@ sessor | 4 | specifically, an inhabitant, a resident
 sestertius | 1 | sesterce
 sestertius | 3 | transferred, for a trifle, for a nominal sum
 sestertius | 4 | in general, money, a sum of money
+setania | 1 | medlar
+setania | 3 | a kind of medlar; also a kind of onion
 severitas | 1 | severity
 severus1 | 1 | severe
 sevir | 1 | sexvir
@@ -1102,7 +1116,10 @@ simulator | 3 | literally (poetic, rare), a copier, an imitator
 simulo | 1 | feign
 simulo | 3 | in general (poetic), to imitate, to copy, to represent
 simultas | 1 | rivalry
+simus | 1 | snub-nosed
+simus | 3 | flat-nosed, snub-nosed
 sin | 1 | but if
+sinapi | 1 | mustard
 sinceritas | 1 | sincerity
 sinceritas | 3 | literally, cleanness, purity, soundness
 sincerus | 1 | genuine
@@ -1146,6 +1163,9 @@ sinus1 | 3 | transferred, the bosom, for love, protection
 sinus1 | 4 | transferred, a purse, carried in the fold of the toga
 siparium | 1 | curtain
 siparium | 3 | by metonymy, comedy, as opposed to tragedy
+sipho | 1 | siphon
+sipho | 3 | a siphon or tube; a drinking straw
+sipho | 4 | a fire engine, a pump for putting out fires
 siquidem | 1 | if indeed
 siquidem | 3 | causal, since indeed, since
 siquis | 1 | if anyone
@@ -1155,6 +1175,8 @@ sisto | 3 | legal, to appear in court, to produce in court
 sisto | 4 | to stand firm, to remain fixed
 sisto | 5 | to stop, to halt, to check an advancing motion
 sisto | 6 | to stop, to arrest the flow of blood or water
+sistrum | 1 | rattle
+sistrum | 3 | the metal rattle shaken in the rites of Isis
 sitella | 1 | lottery-urn
 siticulosus | 1 | thirsty
 siticulosus | 3 | transferred, of places, very dry, parched, arid
@@ -1172,6 +1194,12 @@ situs2 | 3 | figuratively, neglect, idleness, disuse
 situs2 | 4 | of the mind, dullness, inactivity, stagnation
 sive | 1 | or if
 sive | 3 | correlative, sive ... sive, whether ... or
+smaragdinus | 1 | emerald-green
+smaragdinus | 3 | of emerald, emerald-coloured
+smaragdus | 1 | emerald
+smaragdus | 3 | a bright green precious stone, the emerald, and other green gems
+smegma | 1 | cleanser
+smegma | 3 | a cleansing ointment or skin lotion
 sobrietas | 1 | sobriety
 sobrietas | 3 | in general, moderation, temperance, continence
 sobrietas | 4 | figuratively, reasonableness, prudence
