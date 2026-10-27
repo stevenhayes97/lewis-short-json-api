@@ -284,7 +284,7 @@ fenestro | 1 | fenestrate
 fenestro | 3 | figuratively, to lay open, make transparent (of the heart)
 feralis | 1 | funereal
 feralis | 3 | as a noun Feralia, the festival of the dead (in February)
-feralis | 4 | by extension, deadly, fatal, dangerous (in gen.)
+feralis | 4 | by extension, in general, deadly, fatal, dangerous
 ferax | 1 | fertile
 ferax | 3 | figuratively, rich, fruitful, productive (of talent or ideas)
 ferculum | 1 | litter
@@ -295,7 +295,7 @@ fere | 4 | of time, habitually, generally, usually
 ferentarius | 1 | skirmisher
 ferentarius | 3 | by extension, a ready helper, one quick to assist
 feriae | 1 | holidays
-feriae | 3 | by extension, rest, peace, leisure (in gen.)
+feriae | 3 | by extension, in general, rest, peace, leisure
 ferinus | 1 | wild
 ferinus | 3 | as a noun ferina, venison, game (the meat of wild animals)
 ferio | 1 | strike
@@ -706,7 +706,7 @@ fluxus2 | 1 | flux
 focillo | 1 | revive
 focillo | 3 | figuratively, to cherish, nurture, foster
 foculus | 1 | brazier
-foculus | 3 | by extension, fire (in gen.)
+foculus | 3 | by extension, in general, fire
 focus | 1 | hearth
 focus | 3 | by extension, home, household, family
 focus | 4 | a fire-pan, a portable brazier
@@ -1089,7 +1089,7 @@ funereus | 3 | by extension, deadly, fatal, destructive
 funero | 1 | bury
 funero | 3 | funeratus as an adjective, killed, destroyed
 funesto | 1 | defile
-funesto | 3 | by extension, to dishonour, disgrace (in gen.)
+funesto | 3 | by extension, in general, to dishonour, disgrace
 funestus | 1 | deadly
 funestus | 3 | in a passive sense, mournful, grief-stricken, sorrowful
 fungor | 1 | perform

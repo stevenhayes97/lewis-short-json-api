@@ -31,7 +31,7 @@ jactura | 1 | loss
 jactura | 2 | expense
 jactura | 3 | jettison, throwing overboard (of cargo in a storm)
 jactura | 4 | dismissal, turning away (of a client)
-jactura | 5 | jacturam facere + gen., to sacrifice, give up (something)
+jactura | 5 | jacturam facere with the genitive, to sacrifice, give up (something)
 jactus2 | 1 | throw
 jactus2 | 2 | range
 jactus2 | 3 | throw or cast of dice
@@ -65,7 +65,7 @@ jamjamque | 1 | just now
 jampridem | 1 | long since
 jampridem | 3 | for a long time now, hitherto
 janitor | 1 | porter
-janitor | 3 | guardian of a gate (poet., of Janus or Cerberus)
+janitor | 3 | in poetry, guardian of a gate (of Janus or Cerberus)
 janua | 1 | door
 janua | 3 | entrance, gateway (of any kind)
 janua | 4 | entrance, approach (to a subject or undertaking)
@@ -85,7 +85,7 @@ jejunus | 2 | barren
 jejunus | 3 | thirsty
 jejunus | 4 | scanty, meagre (in quantity)
 jejunus | 5 | poor, feeble, spiritless (of speech or style)
-jejunus | 6 | destitute of, without (+ gen. or abl.)
+jejunus | 6 | destitute of, without (with the genitive or the ablative)
 jentaculum | 1 | breakfast
 jocor | 1 | joke
 jocor | 3 | say in jest, jokingly remark
@@ -97,8 +97,8 @@ jocus | 1 | jest
 juba1 | 1 | mane
 juba1 | 3 | crest (of a helmet, serpent, or bird)
 jubar | 1 | radiance
-jubar | 3 | the morning or evening star (poet.)
-jubar | 4 | splendour, glory (transf.)
+jubar | 3 | in poetry, the morning or evening star
+jubar | 4 | by extension, splendour, glory
 jubeo | 1 | order
 jubeo | 3 | decree, ratify (a law, in political language)
 jubeo | 4 | appoint, elect (to an office)
@@ -114,12 +114,12 @@ judicatio | 4 | critical estimate, assessment
 judicialis | 1 | judicial
 judicium | 1 | trial
 judicium | 2 | judgment
-judicium | 3 | court, tribunal (transf., the place of trial)
+judicium | 3 | by extension, court, tribunal (the place of trial)
 judicium | 4 | discernment, good sense
 judicium | 5 | judicial speeches, pleadings in court
 judico | 1 | judge
 judico | 2 | condemn
-judico | 3 | consider, deem, think (an opinion, transf.)
+judico | 3 | by extension, consider, deem, think (an opinion)
 judico | 4 | declare, pronounce (someone to be something)
 judico | 5 | determine, decide, resolve
 judico | 6 | award, adjudge (something to someone)
@@ -133,10 +133,10 @@ juglans | 1 | walnut
 juglans | 3 | walnut-tree
 jugo1 | 1 | join
 jugo1 | 3 | prop up, train (a vine) on rails
-jugo1 | 4 | marry (poet.)
+jugo1 | 4 | in poetry, marry
 jugulo | 1 | slaughter
 jugulo | 3 | cut the throat of
-jugulo | 4 | confute, silence (an opponent, trop.)
+jugulo | 4 | figuratively, confute, silence (an opponent)
 jugulum | 1 | throat
 jugulum | 3 | collar-bone
 jugulum | 4 | crux, vital point (of an argument or case)
@@ -145,7 +145,7 @@ jugum | 2 | ridge
 jugum | 3 | team, pair (of draught animals)
 jugum | 4 | the yoke of spears passed under by a defeated army, a symbol of subjugation
 jugum | 5 | beam of a weaver's loom
-jugum | 6 | bondage, servitude (trop., of slavery or marriage)
+jugum | 6 | figuratively, bondage, servitude (of slavery or marriage)
 jumentum | 1 | draught-animal
 jumentum | 3 | carriage, vehicle (rare)
 junceus | 1 | of rushes
@@ -159,7 +159,7 @@ jungo | 3 | yoke, harness (animals to a vehicle)
 jungo | 4 | heal, close (a wound)
 jungo | 5 | unite, combine (armies or forces)
 jungo | 6 | make, conclude (a treaty or alliance)
-jungo | 7 | compound (words, gram.)
+jungo | 7 | in grammar, compound (words)
 junix | 1 | heifer
 jurator | 1 | oath-taker
 jurator | 3 | censor's assistant (who received sworn tax returns)
@@ -178,7 +178,7 @@ jurisperitus | 3 | as a noun, one skilled in the law, a jurist: jurisperitorum e
 juro | 1 | swear
 juro | 3 | conspire (swear together against someone)
 jus1 | 1 | broth
-jus1 | 3 | juice (of a plant, transf.)
+jus1 | 3 | by extension, juice (of a plant)
 jus2 | 1 | law
 jus2 | 2 | right
 jus2 | 3 | justice, fairness (jure, justly)
@@ -194,7 +194,7 @@ justifico | 1 | justify
 justifico | 3 | do justice to, treat justly
 justitia | 1 | justice
 justitia | 3 | clemency, compassion
-justitia | 4 | ordinances, precepts (of God, biblical, plur.)
+justitia | 4 | in Christian Latin, in the plural, ordinances, precepts (of God)
 justitium | 1 | suspension
 justitium | 3 | recess of the courts, legal vacation
 justitium | 4 | public mourning (a suspension of public business)
@@ -202,7 +202,7 @@ justus | 1 | just
 justus | 2 | lawful
 justus | 3 | proper, complete, adequate (of size, number, or degree)
 justus | 4 | moderate, mild, gentle
-justus | 5 | justa, neut. plur. subst., due rites, formalities; esp. funeral rites
+justus | 5 | as a plural noun, justa, due rites, formalities; especially funeral rites
 juvenalis1 | 1 | youthful
 juvenculus | 1 | youngster
 juvenculus | 3 | young man
@@ -212,10 +212,10 @@ juvencus1 | 1 | young
 juvencus1 | 3 | young bullock, steer
 juvencus1 | 4 | young man
 juvencus1 | 5 | heifer, young cow (juvenca)
-juvencus1 | 6 | girl (juvenca, poet.)
+juvencus1 | 6 | in poetry, juvenca, a girl
 juvenesco | 1 | mature
 juvenesco | 3 | grow young again, be rejuvenated
-juvenesco | 4 | become vigorous, revive (transf., of strength or plants)
+juvenesco | 4 | by extension, become vigorous, revive (of strength or plants)
 juvenilis | 1 | youthful
 juvenilis | 3 | lively, cheerful
 juvenilis | 4 | violent, vigorous
@@ -229,10 +229,10 @@ juventus | 1 | youth
 juventus | 3 | young men, the youth (of a community, collectively)
 juvo | 1 | help
 juvo | 2 | please
-juvo | 3 | impers., juvat, it delights, it is pleasant (+ infin.)
+juvo | 3 | impersonally, juvat, it delights, it is pleasant (with the infinitive)
 juxta | 1 | near
 juxta | 2 | equally
-juxta | 3 | beside, next to (+ acc.)
+juxta | 3 | beside, next to (with the accusative)
 juxta | 4 | on a par with, next to (in rank or importance)
 juxta | 5 | according to (juxta praeceptum, juxta morem)
 juxtim | 1 | near

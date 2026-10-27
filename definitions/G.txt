@@ -171,10 +171,10 @@ gens | 10 | in Christian Latin, gentes: the gentiles, the pagan nations
 # review: gentilicius "of a clan" needs the article to be accurate; no shorter English phrasing fits
 gentilicius | 1 | of a clan
 gentilicius | 3 | belonging to a particular gens: sacra gentilicia, the clan's ancestral rites
-gentilicius | 4 | of a nation, national (post-classical)
+gentilicius | 4 | in later Latin, of a nation, national
 gentilis | 1 | clansman
 gentilis | 3 | of or belonging to the same clan, stock, or race
-gentilis | 4 | by extension, of the same nation, a fellow-countryman (post-classical)
+gentilis | 4 | by extension, in later Latin, of the same nation, a fellow-countryman
 gentilis | 5 | in Christian Latin, a heathen, pagan, gentile
 gentilitas | 1 | clanship
 gentilitas | 3 | the relationship between members of the same gens
@@ -185,7 +185,7 @@ genu | 3 | by extension, of plants, a knot or joint on a stalk
 genuinus1 | 1 | innate
 genuinus1 | 2 | genuine
 genuinus1 | 3 | native, natural, belonging to one from birth
-genuinus1 | 4 | by extension, genuine, authentic (post-classical)
+genuinus1 | 4 | by extension, in later Latin, genuine, authentic
 genuinus2 | 1 | molar
 genuinus2 | 3 | literally, of the cheek: dentes genuini, the back teeth, and genuinus alone as a noun, a molar
 genuinus2 | 4 | genuinum frangere in aliquo, to break a tooth on someone, that is to savage him in criticism
@@ -254,7 +254,7 @@ gesto | 6 | to carry about and spread, to report, gossip, blab
 gestus2 | 1 | gesture
 gestus2 | 3 | the carriage, posture, or motion of the body
 gestus2 | 4 | in particular, the gesticulation of an actor or orator
-gestus2 | 5 | post-classical, management, administration
+gestus2 | 5 | in later Latin, management, administration
 gibber1 | 1 | hunchbacked
 gibber1 | 3 | by extension, protuberant, bulging
 gibbus1 | 1 | humped

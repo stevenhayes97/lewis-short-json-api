@@ -1,29 +1,29 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_M.json (Lewis & Short via Perseus), simplified for learners.
 macellarius | 1 | butcher's
-macellarius | 3 | a meat-seller, victualler (subst.)
+macellarius | 3 | as a noun, a meat-seller, victualler
 macellum | 1 | meat-market
-macellum | 3 | meat (transf.)
+macellum | 3 | by extension, meat
 macer1 | 1 | lean
 macer1 | 3 | poor, barren (of soil or land)
 maceria | 1 | wall
-maceria | 3 | affliction, distress (a pun on macer, rare)
+maceria | 3 | rarely, affliction, distress (a pun on macer)
 macero | 1 | steep
 macero | 2 | torment
 macesco | 1 | grow lean
 machinamentum | 1 | machine
-machinamentum | 3 | trick, stratagem (trop.)
+machinamentum | 3 | figuratively, trick, stratagem
 machinarius | 1 | of machines
-machinarius | 3 | a scaffold-worker (subst.)
+machinarius | 3 | as a noun, a scaffold-worker
 machinatio | 1 | mechanism
-machinatio | 3 | a machine, engine (transf., concr.)
-machinatio | 4 | trickery, machination (trop.)
+machinatio | 3 | by extension, concretely, a machine, engine
+machinatio | 4 | figuratively, trickery, machination
 machinator | 1 | engineer
-machinator | 3 | schemer, mastermind (trop., of plots or crimes)
+machinator | 3 | figuratively, schemer, mastermind (of plots or crimes)
 machinor | 1 | devise
-machinor | 3 | scheme, plot (in partic.)
+machinor | 3 | in particular, scheme, plot
 macies | 1 | leanness
-macies | 3 | poverty, meagreness (trop., of language or style)
+macies | 3 | figuratively, poverty, meagreness (of language or style)
 macilentus | 1 | lean
 macresco | 1 | grow lean
 macto | 1 | sacrifice
@@ -33,21 +33,21 @@ macto | 4 | honour, reward (with something good)
 mactus1 | 1 | glorified
 mactus1 | 3 | macte! well done! (an exclamation of praise)
 macula1 | 1 | spot
-macula1 | 3 | mesh (transf., of a net)
-macula1 | 4 | stigma, blemish (trop., of character)
+macula1 | 3 | by extension, mesh (of a net)
+macula1 | 4 | figuratively, stigma, blemish (of character)
 maculo | 1 | stain
-maculo | 3 | defile, dishonour (trop.)
+maculo | 3 | figuratively, defile, dishonour
 maculosus | 1 | spotted
-maculosus | 3 | stained, defiled (trop.)
+maculosus | 3 | figuratively, stained, defiled
 madefacio | 1 | soak
-madefacio | 3 | intoxicate, make drunk (in partic.)
+madefacio | 3 | in particular, intoxicate, make drunk
 madeo | 1 | be wet
-madeo | 3 | be drunk, be intoxicated (in partic.)
-madeo | 4 | abound in, overflow with (transf.)
+madeo | 3 | in particular, be drunk, be intoxicated
+madeo | 4 | by extension, abound in, overflow with
 madesco | 1 | become wet
-madesco | 3 | get drunk (in partic.)
+madesco | 3 | in particular, get drunk
 madido | 1 | wet
-madido | 3 | intoxicate (in partic.)
+madido | 3 | in particular, intoxicate
 madidus | 1 | wet
 madidus | 2 | drunk
 mador | 1 | moisture
@@ -56,13 +56,13 @@ maeror | 1 | sorrow
 maestitia | 1 | sadness
 maestitudo | 1 | sadness
 maestus | 1 | sad
-maestus | 3 | gloomy, severe (transf., of temperament)
-maestus | 4 | mournful, funereal (in gen., of garments or rites)
+maestus | 3 | by extension, gloomy, severe (of temperament)
+maestus | 4 | in general, mournful, funereal (of garments or rites)
 magister | 1 | master
 magister | 2 | teacher
 magisterium | 1 | directorship
-magisterium | 3 | tutorship (in partic.)
-magisterium | 4 | instruction, teaching (trop.)
+magisterium | 3 | in particular, tutorship
+magisterium | 4 | figuratively, instruction, teaching
 magistra | 1 | mistress
 magistra | 3 | schoolmistress, instructress
 magistratus | 1 | magistracy
@@ -71,102 +71,102 @@ magmentarius | 1 | supplementary
 magnanimitas | 1 | magnanimity
 magnanimus | 1 | magnanimous
 magnificentia | 1 | magnificence
-magnificentia | 3 | grandeur, splendour (transf., of things)
-magnificentia | 4 | pomposity, bombast (rhet., bad sense)
+magnificentia | 3 | by extension, grandeur, splendour (of things)
+magnificentia | 4 | in rhetoric, in a bad sense, pomposity, bombast
 magnifico | 1 | esteem
-magnifico | 3 | extol, glorify (transf.)
-magnifico | 4 | enlarge (rare, eccl.)
+magnifico | 3 | by extension, extol, glorify
+magnifico | 4 | rarely, in Christian Latin, enlarge
 magnificus | 1 | magnificent
-magnificus | 3 | boastful, bragging (bad sense, of a person)
+magnificus | 3 | in a bad sense, boastful, bragging (of a person)
 magniloquentia | 1 | eloquence
 magniloquentia | 2 | bombast
 magniloquus | 1 | eloquent
 magniloquus | 2 | boastful
 magnitudo | 1 | size
 magnitudo | 3 | abundance, great quantity (of number or amount)
-magnitudo | 4 | rank, dignity (in partic., post-Aug.)
+magnitudo | 4 | in particular, after Augustus, rank, dignity
 magnopere | 1 | greatly
 magnus1 | 1 | great
 magnus1 | 3 | loud (of a voice)
 magnus1 | 4 | old, advanced in years (magnus natu)
 magnus1 | 5 | dear, expensive (of price, magni or magno)
 majalis | 1 | barrow hog
-majalis | 3 | an unmanned man (transf., term of abuse)
+majalis | 3 | by extension, an unmanned man (term of abuse)
 majestas | 1 | majesty
-majestas | 3 | dignity, splendour (transf., in gen.)
+majestas | 3 | by extension, in general, dignity, splendour
 majusculus | 1 | rather large
 mala | 1 | jawbone
-mala | 3 | cheek (transf., the external part of the face)
+mala | 3 | by extension, cheek (the external part of the face)
 maledico | 1 | revile
-maledico | 3 | curse (eccl. Lat.)
+maledico | 3 | in Christian Latin, curse
 maledictio | 1 | abuse
-maledictio | 3 | curse (esp., eccl. Lat.)
+maledictio | 3 | especially, in Christian Latin, curse
 maledicus | 1 | slanderous
 malefacio | 1 | harm
 malefactor | 1 | evildoer
 maleficentia | 1 | maliciousness
 maleficium | 1 | crime
-maleficium | 3 | fraud, deception (in partic.)
-maleficium | 4 | sorcery, enchantment (in partic.)
+maleficium | 3 | in particular, fraud, deception
+maleficium | 4 | in particular, sorcery, enchantment
 maleficus | 1 | wicked
-maleficus | 3 | magical, sorcerous (in partic.)
-maleficus | 4 | harmful, noxious (transf.)
+maleficus | 3 | in particular, magical, sorcerous
+maleficus | 4 | by extension, harmful, noxious
 malesuadus | 1 | seductive
 malevolens | 1 | malevolent
 malevolentia | 1 | malevolence
 malevolus | 1 | malevolent
-malevolus | 3 | an enemy, foe (subst.)
+malevolus | 3 | as a noun, an enemy, foe
 malignitas | 1 | malice
 malignitas | 2 | stinginess
 maligno | 1 | malign
 malignus | 1 | malicious
 malignus | 2 | stingy
-malignus | 3 | scanty, meagre (transf., small in quantity)
+malignus | 3 | by extension, scanty, meagre (small in quantity)
 malitia | 1 | malice
 malitia | 3 | cunning, craftiness
 malitia | 4 | roguery (in a good sense)
 malitiosus | 1 | crafty
 malleolus | 1 | small hammer
-malleolus | 3 | vine-cutting (transf., a mallet-shaped shoot for planting)
-malleolus | 4 | fire-dart (milit., transf.)
+malleolus | 3 | by extension, vine-cutting (a mallet-shaped shoot for planting)
+malleolus | 4 | in the army, by extension, fire-dart
 malleus | 1 | hammer
-malleus | 3 | glanders (transf., a disease of animals)
+malleus | 3 | by extension, glanders (a disease of animals)
 malo | 1 | prefer
-malo | 3 | favour (in partic., be more inclined towards someone)
+malo | 3 | in particular, favour (be more inclined towards someone)
 malus1 | 1 | bad
 malus1 | 3 | ugly, ill-looking (of appearance)
-malus1 | 4 | harm, misfortune (subst. malum, an evil)
-malus1 | 5 | punishment (in partic., subst. malum)
+malus1 | 4 | as a noun, malum, harm, misfortune (an evil)
+malus1 | 5 | in particular, as a noun, malum, punishment
 malus3 | 1 | mast
-malus3 | 3 | beam, pole (in gen.)
+malus3 | 3 | in general, beam, pole
 malva | 1 | mallow
 mamilla | 1 | nipple
-mamilla | 3 | a small pipe or nozzle (transf.)
+mamilla | 3 | by extension, a small pipe or nozzle
 mamma | 1 | breast
 mamma | 3 | mother, mama (children's language)
 mammosus | 1 | full-breasted
-mammosus | 3 | protuberant, bulging (transf., of fruit)
+mammosus | 3 | by extension, protuberant, bulging (of fruit)
 manalis1 | 1 | flowing
 manceps | 1 | contractor
-manceps | 3 | surety, guarantor (transf.)
+manceps | 3 | by extension, surety, guarantor
 mancipatio | 1 | conveyance
 mancipium | 1 | ownership
 mancipium | 2 | slave
 mancipo | 1 | convey
-mancipo | 3 | subject, deliver up (trop., to a vice or fate)
+mancipo | 3 | figuratively, subject, deliver up (to a vice or fate)
 mancus | 1 | maimed
-mancus | 3 | defective, imperfect (trop.)
+mancus | 3 | figuratively, defective, imperfect
 mandator | 1 | mandator
-mandator | 3 | instigator (transf., of an accuser or informer)
+mandator | 3 | by extension, instigator (of an accuser or informer)
 mando1 | 1 | commission
 mando1 | 2 | entrust
 mando2 | 1 | chew
-mando2 | 3 | devour (transf.)
+mando2 | 3 | by extension, devour
 manduco1 | 1 | chew
 manducus | 1 | glutton
-manducus | 3 | a chewing-mask (transf., a comic theatrical figure)
+manducus | 3 | by extension, a chewing-mask (a comic theatrical figure)
 mane | 1 | morning
-mane | 3 | in the morning, early (adv.)
+mane | 3 | as an adverb, in the morning, early
 maneo | 1 | remain
 maneo | 2 | await
 mango | 1 | slave-dealer
@@ -174,132 +174,132 @@ manicae | 1 | sleeve
 manicae | 2 | handcuff
 manifesto2 | 1 | reveal
 manifestus | 1 | evident
-manifestus | 3 | caught in the act, convicted (in partic., law)
+manifestus | 3 | in particular, caught in the act, convicted (law)
 manipularis | 1 | manipular
-manipularis | 3 | a common soldier (subst.)
+manipularis | 3 | as a noun, a common soldier
 manipulatim | 1 | in bundles
-manipulatim | 3 | by maniples (milit.)
+manipulatim | 3 | in the army, by maniples
 manipulus | 1 | handful
 manipulus | 2 | maniple
 mannulus | 1 | pony
 mano | 1 | flow
-mano | 3 | spread, extend (transf. or trop.)
-mano | 4 | originate, spring (trop., from a source)
+mano | 3 | by extension, spread, extend
+mano | 4 | figuratively, originate, spring (from a source)
 mansio | 1 | stay
 mansio | 2 | inn
 mansuefacio | 1 | tame
-mansuefacio | 3 | civilise, pacify (trop.)
+mansuefacio | 3 | figuratively, civilise, pacify
 mansues | 1 | tame
 mansuesco | 1 | tame
-mansuesco | 3 | grow tame, become gentle (neutr.)
+mansuesco | 3 | intransitively, grow tame, become gentle
 mansuetudo | 1 | tameness
-mansuetudo | 3 | mildness, clemency (trop.)
+mansuetudo | 3 | figuratively, mildness, clemency
 mantele | 1 | towel
-mantele | 3 | tablecloth (transf., post-class.)
+mantele | 3 | by extension, in later Latin, tablecloth
 mantica | 1 | wallet
 manticulor | 1 | steal
-manticulor | 3 | act slyly, scheme (transf.)
+manticulor | 3 | by extension, act slyly, scheme
 manto1 | 1 | wait
 manualis | 1 | handheld
-manualis | 3 | a book-cover (subst.)
+manualis | 3 | as a noun, a book-cover
 manuarius | 1 | handheld
-manuarius | 3 | a thief (subst.)
+manuarius | 3 | as a noun, a thief
 manubiae | 1 | booty
-manubiae | 3 | plunder, ill-gotten gain (transf.)
+manubiae | 3 | by extension, plunder, ill-gotten gain
 manubiae | 4 | a thunderbolt (in augury)
 manubrium | 1 | handle
 manumissio | 1 | manumission
-manumissio | 3 | pardon (transf.)
+manumissio | 3 | by extension, pardon
 manumitto | 1 | manumit
 manupretium | 1 | wages
-manupretium | 3 | workmanship, the value of labour (transf., in a crafted item)
+manupretium | 3 | by extension, workmanship, the value of labour (in a crafted item)
 manus1 | 1 | hand
 manus1 | 2 | band
-manus1 | 3 | handwriting (transf.)
-manus1 | 4 | combat, close fighting (transf., ad manus venire)
-manus1 | 5 | power, authority (trop., esp. legal control of a husband over wife)
+manus1 | 3 | by extension, handwriting
+manus1 | 4 | by extension, combat, close fighting (ad manus venire)
+manus1 | 5 | figuratively, power, authority (especially legal control of a husband over wife)
 mappa | 1 | napkin
-mappa | 3 | starting-flag (transf., in circus races)
+mappa | 3 | by extension, starting-flag (in circus races)
 marceo | 1 | wither
-marceo | 3 | be languid, feeble (transf.)
+marceo | 3 | by extension, be languid, feeble
 marcesco | 1 | wither
-marcesco | 3 | languish, waste away (transf.)
+marcesco | 3 | by extension, languish, waste away
 marcidus | 1 | withered
-marcidus | 3 | languid, enervated (transf.)
+marcidus | 3 | by extension, languid, enervated
 marcor | 1 | withering
-marcor | 3 | languor, indolence (transf.)
+marcor | 3 | by extension, languor, indolence
 marculus1 | 1 | small hammer
 mare | 1 | sea
-mare | 3 | sea-water (transf.)
+mare | 3 | by extension, sea-water
 margaritarius | 1 | of pearls
-margaritarius | 3 | a pearl-dealer (subst.)
+margaritarius | 3 | as a noun, a pearl-dealer
 margo | 1 | edge
-margo | 3 | side-dishes (transf., poet.)
+margo | 3 | by extension, in poetry, side-dishes
 marinus | 1 | marine
 marisca | 1 | coarse fig
-marisca | 3 | piles, haemorrhoids (transf., medical)
+marisca | 3 | by extension, in medicine, piles, haemorrhoids
 maritalis | 1 | matrimonial
 maritimus | 1 | maritime
-maritimus | 3 | changeable, inconstant (transf., like the sea)
+maritimus | 3 | by extension, changeable, inconstant (like the sea)
 marito | 1 | marry
-marito | 3 | mate, pair (transf., of animals)
-marito | 4 | train, prop up (transf., of a vine tied to a tree)
+marito | 3 | by extension, mate, pair (of animals)
+marito | 4 | by extension, train, prop up (of a vine tied to a tree)
 maritus1 | 1 | matrimonial
 maritus1 | 2 | husband
 marmoreus | 1 | marble
-marmoreus | 3 | marble-white, marble-smooth (transf.)
+marmoreus | 3 | by extension, marble-white, marble-smooth
 marmoro | 1 | marble
 marra | 1 | hoe
-marra | 3 | fishing-hook (transf.)
+marra | 3 | by extension, fishing-hook
 mas | 1 | male
-mas | 3 | manly, brave (transf.)
+mas | 3 | by extension, manly, brave
 masculinus | 1 | male
-masculinus | 3 | masculine (gram., of grammatical gender)
+masculinus | 3 | in grammar, masculine (of grammatical gender)
 masculus | 1 | male
-masculus | 3 | manly, vigorous, bold (transf.)
+masculus | 3 | by extension, manly, vigorous, bold
 massalis | 1 | of mass
 matella | 1 | pot
-matella | 3 | chamber-pot (in partic.)
+matella | 3 | in particular, chamber-pot
 mater | 1 | mother
-mater | 3 | source, origin (trop.)
+mater | 3 | figuratively, source, origin
 materia | 1 | material
 materia | 2 | topic
-materia | 3 | talent, natural ability (trop.)
+materia | 3 | figuratively, talent, natural ability
 materiarius | 1 | of timber
-materiarius | 3 | a timber-merchant (subst.)
+materiarius | 3 | as a noun, a timber-merchant
 maternus1 | 1 | maternal
 matertera | 1 | maternal aunt
 matralis | 1 | maternal
-matralis | 3 | Matralia, the festival of Mater Matuta (esp.)
+matralis | 3 | especially, Matralia, the festival of Mater Matuta
 matrimonium | 1 | marriage
-matrimonium | 3 | wives, married women (transf., plur.)
+matrimonium | 3 | by extension, in the plural, wives, married women
 matrix | 1 | dam
-matrix | 3 | womb (transf., late Lat.)
-matrix | 4 | register, roll (transf.)
+matrix | 3 | by extension, in later Latin, womb
+matrix | 4 | by extension, register, roll
 matrona1 | 1 | matron
-matrona1 | 3 | lady (esp., a woman of rank or quality)
+matrona1 | 3 | especially, lady (a woman of rank or quality)
 matronalis | 1 | matronly
 matula | 1 | pot
-matula | 3 | chamber-pot (in partic.)
+matula | 3 | in particular, chamber-pot
 matula | 4 | simpleton (term of abuse)
 maturesco | 1 | ripen
-maturesco | 3 | come to term (transf., of pregnancy or age)
+maturesco | 3 | by extension, come to term (of pregnancy or age)
 maturitas | 1 | ripeness
-maturitas | 3 | the proper time, perfection (transf.)
-maturitas | 4 | promptness, speed (post-Aug.)
+maturitas | 3 | by extension, the proper time, perfection
+maturitas | 4 | after Augustus, promptness, speed
 maturo | 1 | ripen
 maturo | 2 | hasten
 maturus | 1 | ripe
 maturus | 2 | early
 matutinus | 1 | morning
-matutinus | 3 | sober, serious (transf., frons matutina)
+matutinus | 3 | by extension, sober, serious (frons matutina)
 maxilla | 1 | jawbone
 meatus | 1 | course
-meatus | 3 | passage, channel (transf., concr.)
+meatus | 3 | by extension, concretely, passage, channel
 meddix | 1 | Oscan magistrate
 medela | 1 | remedy
 medeor | 1 | heal
-medeor | 3 | remedy, correct (trop.)
+medeor | 3 | figuratively, remedy, correct
 medianus | 1 | middle
 mediastinus | 1 | drudge
 mediator | 1 | mediator
@@ -308,83 +308,83 @@ medicabilis | 2 | curative
 medicamen | 1 | remedy
 medicamen | 2 | poison
 medicamentarius | 1 | of drugs
-medicamentarius | 3 | a druggist, apothecary (subst.)
+medicamentarius | 3 | as a noun, a druggist, apothecary
 medicamentum | 1 | remedy
 medicamentum | 2 | poison
 medicinalis | 1 | medicinal
 medicinus | 1 | medicine
-medicinus | 3 | medical (adj., rare)
-medicinus | 4 | a physician's shop (subst. medicina)
-medicinus | 5 | remedy (subst. medicina)
+medicinus | 3 | as an adjective, rarely, medical
+medicinus | 4 | as a noun, medicina, a physician's shop
+medicinus | 5 | as a noun, medicina, remedy
 medico | 1 | heal
-medico | 3 | medicate, treat with herbs (transf.)
-medico | 4 | dye, tint (transf.)
+medico | 3 | by extension, medicate, treat with herbs
+medico | 4 | by extension, dye, tint
 medicor | 1 | heal
 medicus1 | 1 | medical
 medicus1 | 2 | physician
 medietas | 1 | middle
-medietas | 3 | half, moiety (transf.)
+medietas | 3 | by extension, half, moiety
 mediocris | 1 | middling
 mediocritas | 1 | moderation
 mediocritas | 2 | insignificance
 medioximus | 1 | middlemost
 meditatio | 1 | contemplation
-meditatio | 3 | preparation, practice (transf.)
+meditatio | 3 | by extension, preparation, practice
 mediterraneus | 1 | inland
-mediterraneus | 3 | the interior, inland region (subst.)
+mediterraneus | 3 | as a noun, the interior, inland region
 meditor | 1 | ponder
-meditor | 3 | practise, rehearse (transf.)
+meditor | 3 | by extension, practise, rehearse
 meditullium | 1 | middle
 medius1 | 1 | middle
 medius1 | 2 | neutral
-medius1 | 3 | the public, common view (subst. medium, transf.)
+medius1 | 3 | as a noun, medium, by extension, the public, common view
 medulla | 1 | marrow
-medulla | 3 | pith, core (transf., of plants)
-medulla | 4 | essence, quintessence (trop.)
+medulla | 3 | by extension, pith, core (of plants)
+medulla | 4 | figuratively, essence, quintessence
 medullitus | 1 | thoroughly
 meio | 1 | urinate
 mel | 1 | honey
-mel | 3 | sweetness, charm (trop., of speech)
+mel | 3 | figuratively, sweetness, charm (of speech)
 meliusculus | 1 | somewhat better
 melleus | 1 | honeyed
-melleus | 3 | delightful, charming (transf.)
+melleus | 3 | by extension, delightful, charming
 mellitus | 1 | honeyed
-mellitus | 3 | darling, lovely (trop.)
+mellitus | 3 | figuratively, darling, lovely
 mellum | 1 | dog-collar
 membrana | 1 | membrane
 membrana | 2 | parchment
-membrana | 3 | surface, outward show (trop.)
+membrana | 3 | figuratively, surface, outward show
 membranaceus | 1 | membranous
 membranula | 1 | small membrane
-membranula | 3 | a parchment (transf.)
+membranula | 3 | by extension, a parchment
 membratim | 1 | piecemeal
-membratim | 3 | limb by limb (lit., of a body)
+membratim | 3 | literally, limb by limb (of a body)
 membrum | 1 | limb
-membrum | 3 | part, division (transf., of a larger whole)
+membrum | 3 | by extension, part, division (of a larger whole)
 membrum | 4 | a clause (of a sentence, of speech)
 memini | 1 | remember
-memini | 3 | mention (transf.)
+memini | 3 | by extension, mention
 memor1 | 1 | mindful
-memor1 | 3 | having a good memory (esp.)
+memor1 | 3 | especially, having a good memory
 memorabilis | 1 | memorable
 memoratus2 | 1 | mention
 memoria | 1 | memory
 memoria | 2 | narrative
-memoria | 3 | era, period (transf., a span of time)
+memoria | 3 | by extension, era, period (a span of time)
 memorialis | 1 | memorial
-memorialis | 3 | a historiographer (subst., post-Aug.)
+memorialis | 3 | as a noun, after Augustus, a historiographer
 memoro | 1 | relate
-memoro | 3 | utter, speak (esp., a word or phrase)
+memoro | 3 | especially, utter, speak (a word or phrase)
 menda | 1 | blemish
-menda | 3 | mistake, error (transf., in writing)
+menda | 3 | by extension, mistake, error (in writing)
 mendacium | 1 | lie
-mendacium | 3 | fable, fiction (esp.)
+mendacium | 3 | especially, fable, fiction
 mendax | 1 | lying
-mendax | 3 | liar (subst.)
+mendax | 3 | as a noun, liar
 mendicitas | 1 | beggary
 mendico | 1 | beg
 mendicus | 1 | beggarly
-mendicus | 3 | paltry, mean (transf.)
+mendicus | 3 | by extension, paltry, mean
 mendosus | 1 | faulty
 mendosus | 3 | erroneous, incorrect (of texts or accounts)
 mendum | 1 | error
@@ -393,50 +393,50 @@ mens | 1 | mind
 mens | 2 | courage
 mens | 3 | purpose, intention (of a plan)
 mensa | 1 | table
-mensa | 3 | meal, course (transf.)
-mensa | 4 | a bank, money-changer's counter (transf.)
+mensa | 3 | by extension, meal, course
+mensa | 4 | by extension, a bank, money-changer's counter
 mensarius | 1 | banker
-mensarius | 3 | table-cloth, table linen (subst. mensarium)
+mensarius | 3 | as a noun, mensarium, table-cloth, table linen
 mensis | 1 | month
-mensis | 3 | menstrual period (transf., plur.)
+mensis | 3 | by extension, in the plural, menstrual period
 mensor | 1 | surveyor
-mensor | 3 | engineer (milit.)
+mensor | 3 | in the army, engineer
 menstrualis | 1 | monthly
-menstrualis | 3 | menstrual (post-Aug.)
+menstrualis | 3 | after Augustus, menstrual
 menstruus | 1 | monthly
-menstruus | 3 | menstrual (in partic.)
+menstruus | 3 | in particular, menstrual
 mensura | 1 | measure
-mensura | 3 | extent, degree (trop., capacity or proportion)
+mensura | 3 | figuratively, extent, degree (capacity or proportion)
 mensuralis | 1 | measuring
 mensuro | 1 | measure
 mentio1 | 1 | mention
 mentior | 1 | lie
 mentior | 2 | feign
 mentum1 | 1 | chin
-mentum1 | 3 | coping (transf., archit., a projecting cornice)
+mentum1 | 3 | by extension, in architecture, coping (a projecting cornice)
 meo | 1 | go
-meo | 3 | move, travel (trop., of things like stars or vehicles)
+meo | 3 | figuratively, move, travel (of things like stars or vehicles)
 mephitis | 1 | stench
 meracus | 1 | unmixed
-meracus | 3 | pure, unadulterated (trop.)
+meracus | 3 | figuratively, pure, unadulterated
 mercator | 1 | merchant
-mercator | 3 | buyer, purchaser (transf.)
+mercator | 3 | by extension, buyer, purchaser
 mercatura | 1 | trade
-mercatura | 3 | goods, merchandise (transf.)
+mercatura | 3 | by extension, goods, merchandise
 mercatus | 1 | trade
 mercatus | 2 | market
 mercedula | 1 | small wages
 mercenarius | 1 | hired
-mercenarius | 3 | hireling, hired servant (subst.)
+mercenarius | 3 | as a noun, hireling, hired servant
 merces1 | 1 | wages
 merces1 | 2 | bribe
-merces1 | 3 | rent, revenue (transf.)
+merces1 | 3 | by extension, rent, revenue
 mercimonium | 1 | merchandise
 mercor | 1 | buy
 merenda1 | 1 | luncheon
 mereo | 1 | deserve
 mereo | 2 | earn
-mereo | 3 | serve as a soldier (milit., mereri stipendia)
+mereo | 3 | in the army, serve as a soldier (mereri stipendia)
 meretricius | 1 | meretricious
 meretrix | 1 | prostitute
 mergae | 1 | pitchfork
@@ -449,104 +449,104 @@ meridianus | 2 | southern
 meridies | 1 | noon
 meridies | 2 | south
 merito2 | 1 | earn
-merito2 | 3 | serve as a soldier (rare)
+merito2 | 3 | rarely, serve as a soldier
 meritorius | 1 | profitable
-meritorius | 3 | let out for hire (subst. meritoria, rooms)
-meritorius | 4 | of prostitution (in partic.)
+meritorius | 3 | as a noun, meritoria, let out for hire (rooms)
+meritorius | 4 | in particular, of prostitution
 merso | 1 | dip
-merso | 3 | overwhelm (trop.)
+merso | 3 | figuratively, overwhelm
 merula1 | 1 | blackbird
-merula1 | 3 | sea-carp (transf., a fish)
+merula1 | 3 | by extension, sea-carp (a fish)
 merus | 1 | pure
 merus | 2 | mere
 merx | 1 | goods
-merx | 3 | a piece of goods (transf., term of abuse for a person, ante-class.)
+merx | 3 | by extension, in early Latin, a piece of goods (term of abuse for a person)
 messis | 1 | harvest
-messis | 3 | the standing crop (transf., yet to be harvested)
-messis | 4 | a year (poet. transf.)
+messis | 3 | by extension, the standing crop (yet to be harvested)
+messis | 4 | in poetry, by extension, a year
 messor | 1 | reaper
-messor | 3 | destroyer (trop., a 'reaper' of men)
+messor | 3 | figuratively, destroyer (a 'reaper' of men)
 meta | 1 | goal
 meta | 2 | cone
-meta | 3 | limit, boundary (transf., of life or a journey)
+meta | 3 | by extension, limit, boundary (of life or a journey)
 metallicus | 1 | metallic
-metallicus | 3 | miner (subst.)
+metallicus | 3 | as a noun, miner
 metator | 1 | surveyor
 metior | 1 | measure
-metior | 3 | traverse (poet. transf., a distance)
-metior | 4 | estimate, judge (trop.)
+metior | 3 | in poetry, by extension, traverse (a distance)
+metior | 4 | figuratively, estimate, judge
 meto2 | 1 | reap
-meto2 | 3 | mow down, cut down (in partic., in battle)
+meto2 | 3 | in particular, mow down, cut down (in battle)
 metor | 1 | mark out
-metor | 3 | encamp, pitch camp (in partic.)
+metor | 3 | in particular, encamp, pitch camp
 metuo | 1 | fear
-metuo | 3 | revere, hold in awe (eccl. Lat.)
+metuo | 3 | in Christian Latin, revere, hold in awe
 metus | 1 | fear
-metus | 3 | a terror (transf., concr., a thing that causes fear)
+metus | 3 | by extension, concretely, a terror (a thing that causes fear)
 mica | 1 | crumb
-mica | 3 | a small dining-room (transf.)
+mica | 3 | by extension, a small dining-room
 mico | 1 | quiver
 mico | 2 | gleam
 mictualis | 1 | urinary
 mictualis | 3 | diuretic (a substance promoting urination)
 migratio | 1 | migration
-migratio | 3 | a metaphorical transfer (trop., of a word's meaning)
+migratio | 3 | figuratively, a metaphorical transfer (of a word's meaning)
 migro | 1 | migrate
-migro | 3 | transgress, violate (act., of a law)
+migro | 3 | in the active, transgress, violate (of a law)
 miles | 1 | soldier
-miles | 3 | the army, soldiery (transf., collect.)
-miles | 4 | a chessman, pawn (transf.)
+miles | 3 | by extension, collectively, the army, soldiery
+miles | 4 | by extension, a chessman, pawn
 miliarius1 | 1 | thousandfold
-miliarius1 | 3 | milestone (subst.)
+miliarius1 | 3 | as a noun, milestone
 miliarius2 | 1 | of millet
-miliarius2 | 3 | a water-heater (subst., a tall vessel for warming water)
+miliarius2 | 3 | as a noun, a water-heater (a tall vessel for warming water)
 milifolium | 1 | yarrow
 militaris | 1 | military
 militia | 1 | warfare
 militia | 2 | occupation
 milito | 1 | serve
-milito | 3 | wage war (transf.)
+milito | 3 | by extension, wage war
 mille | 1 | thousand
-mille | 3 | countless, innumerable (transf., poet.)
+mille | 3 | by extension, in poetry, countless, innumerable
 millesimus | 1 | thousandth
 millies | 1 | innumerably
 miluinus | 1 | of kites
-miluinus | 3 | rapacious, thieving (transf.)
+miluinus | 3 | by extension, rapacious, thieving
 miluus | 1 | kite
-miluus | 3 | gurnard (transf., a fish)
+miluus | 3 | by extension, gurnard (a fish)
 mina2 | 1 | smooth
-mina2 | 3 | a dry breast (subst., obscure gloss)
+mina2 | 3 | as a noun, a dry breast (obscure gloss)
 minae | 1 | threats
-minae | 3 | pinnacles, battlements (lit., of a wall, poet.)
+minae | 3 | literally, in poetry, pinnacles, battlements (of a wall)
 minax | 1 | threatening
-minax | 3 | projecting, jutting out (lit., poet.)
+minax | 3 | literally, in poetry, projecting, jutting out
 minio1 | 1 | redden
 minister | 1 | servant
-minister | 3 | an assistant, promoter (transf., of a cause or vice)
+minister | 3 | by extension, an assistant, promoter (of a cause or vice)
 ministerium | 1 | service
-ministerium | 3 | retinue, staff of servants (transf., concr.)
+ministerium | 3 | by extension, concretely, retinue, staff of servants
 ministrator | 1 | attendant
 ministro | 1 | serve
-ministro | 3 | manage, direct (transf.)
-ministro | 4 | supply, furnish (in gen.)
+ministro | 3 | by extension, manage, direct
+ministro | 4 | in general, supply, furnish
 minitor | 1 | threaten
 mino | 1 | drive
 minor1 | 1 | threaten
-minor1 | 3 | jut out, project (lit., poet.)
-minor1 | 4 | boast, vaunt (in partic.)
+minor1 | 3 | literally, in poetry, jut out, project
+minor1 | 4 | in particular, boast, vaunt
 minoro | 1 | lessen
-minoro | 3 | be lacking, be in want (neutr.)
+minoro | 3 | intransitively, be lacking, be in want
 minuo | 1 | lessen
-minuo | 3 | diminish, grow less (neutr.)
+minuo | 3 | intransitively, diminish, grow less
 minuscularius | 1 | petty
-minuscularius | 3 | a petty tax-collector (subst.)
+minuscularius | 3 | as a noun, a petty tax-collector
 minusculus | 1 | smallish
 minutatim | 1 | piecemeal
 minutia | 1 | smallness
 minutio | 1 | diminution
-minutio | 3 | bloodletting (in partic., medical)
+minutio | 3 | in particular, in medicine, bloodletting
 mirabilis | 1 | wonderful
-mirabilis | 3 | a miracle (subst., eccl. Lat.)
+mirabilis | 3 | as a noun, in Christian Latin, a miracle
 mirabundus | 1 | astonished
 miraculum | 1 | marvel
 mirificus | 1 | marvellous
@@ -554,62 +554,62 @@ mirmillo | 1 | gladiator
 mirmillo | 3 | a Gallic-helmeted gladiator with a fish crest, who fought a net-fighter
 miro | 1 | wonder
 miror | 1 | wonder
-miror | 3 | admire, hold in regard (trop.)
+miror | 3 | figuratively, admire, hold in regard
 mirus | 1 | wonderful
 miscellaneus | 1 | mixed
-miscellaneus | 3 | hash, hodgepodge (subst., of food)
+miscellaneus | 3 | as a noun, hash, hodgepodge (of food)
 miscellus | 1 | mixed
 misceo | 1 | mix
 misceo | 2 | confound
 misellus | 1 | poor
 miser | 1 | wretched
-miser | 3 | sick, ill (transf.)
+miser | 3 | by extension, sick, ill
 miserabilis | 1 | pitiable
 miseratio | 1 | pity
-miseratio | 3 | a pathetic appeal (transf., rhet., a speech meant to move pity)
+miseratio | 3 | by extension, in rhetoric, a pathetic appeal (a speech meant to move pity)
 misereo | 1 | pity
-misereo | 3 | miseret me, it grieves me, I pity (impers.)
+misereo | 3 | impersonally, miseret me, it grieves me, I pity
 miseresco | 1 | pity
-miseresco | 3 | become wretched (rare)
+miseresco | 3 | rarely, become wretched
 miseria | 1 | misery
 miseria | 3 | trouble, irksomeness
 misericordia | 1 | mercy
-misericordia | 3 | wretchedness (transf., a pitiable condition)
+misericordia | 3 | by extension, wretchedness (a pitiable condition)
 misericors | 1 | merciful
 misericors | 3 | contemptible, mean (a distinct, rarer sense noted by Cicero)
 miseror | 1 | lament
 miseror | 2 | pity
 miserulus | 1 | wretched
 missilis | 1 | missile
-missilis | 3 | presents thrown to a crowd (subst. missilia, plur.)
+missilis | 3 | as a noun, missilia, in the plural, presents thrown to a crowd
 missio | 1 | dismissal
 missio | 3 | discharge (from military or gladiatorial service)
-missio | 4 | quarter, mercy (esp., sparing a defeated gladiator)
+missio | 4 | especially, quarter, mercy (sparing a defeated gladiator)
 missus2 | 1 | sending
-missus2 | 3 | a heat, round (transf., in public games)
-missus2 | 4 | a course (transf., at a meal)
+missus2 | 3 | by extension, a heat, round (in public games)
+missus2 | 4 | by extension, a course (at a meal)
 mistura | 1 | mixture
-mistura | 3 | carnal intercourse (in partic.)
+mistura | 3 | in particular, carnal intercourse
 mitella | 1 | headband
-mitella | 3 | arm-bandage, sling (transf.)
+mitella | 3 | by extension, arm-bandage, sling
 mitesco | 1 | ripen
-mitesco | 3 | grow gentle, become tame (transf. or trop.)
+mitesco | 3 | by extension, grow gentle, become tame
 mitifico | 1 | ripen
-mitifico | 3 | tame, gentle (trop., soften a person's temper)
+mitifico | 3 | figuratively, tame, gentle (soften a person's temper)
 mitigo | 1 | soften
-mitigo | 3 | appease, pacify (trop.)
+mitigo | 3 | figuratively, appease, pacify
 mitis | 1 | mild
-mitis | 3 | gentle, calm (trop., of temperament or speech)
+mitis | 3 | figuratively, gentle, calm (of temperament or speech)
 mitto | 1 | send
 mitto | 2 | hurl
-mitto | 3 | omit, pass over (esp., in speaking)
+mitto | 3 | especially, omit, pass over (in speaking)
 mitto | 4 | release, let go (dismiss, set free)
 mobilis | 1 | movable
 mobilis | 2 | fickle
 mobilitas | 1 | mobility
 mobilitas | 2 | fickleness
 moderamen | 1 | rudder
-moderamen | 3 | management, control (trop., of affairs or a state)
+moderamen | 3 | figuratively, management, control (of affairs or a state)
 moderatio | 1 | moderation
 moderatio | 3 | guidance, government (of a state or the world)
 moderator | 1 | governor
@@ -625,37 +625,37 @@ modicus | 1 | moderate
 modicus | 3 | middling, mediocre (disparaging sense)
 modifico | 1 | limit
 modificor | 1 | measure
-modificor | 3 | moderate, limit (trop.)
+modificor | 3 | figuratively, moderate, limit
 modiolus | 1 | small measure
-modiolus | 3 | the nave of a wheel (transf.)
-modiolus | 4 | trepan (transf., a surgical borer)
+modiolus | 3 | by extension, the nave of a wheel
+modiolus | 4 | by extension, trepan (a surgical borer)
 modius | 1 | peck
-modius | 3 | the mast-socket (transf., of a ship)
+modius | 3 | by extension, the mast-socket (of a ship)
 modo | 1 | only
 modo | 2 | just now
 modo | 3 | modo...modo, now...now (alternation)
 modulatio | 1 | measure
-modulatio | 3 | melody, modulation (in partic., music or verse)
+modulatio | 3 | in particular, melody, modulation (music or verse)
 modulor | 1 | measure
 modulor | 2 | sing
 modulus | 1 | measure
-modulus | 3 | module (archit., a standard unit of proportion)
-modulus | 4 | rhythm, melody (in partic., music or verse)
+modulus | 3 | in architecture, module (a standard unit of proportion)
+modulus | 4 | in particular, rhythm, melody (music or verse)
 modus | 1 | measure
 modus | 2 | way
-modus | 3 | limit, bound (transf.)
+modus | 3 | by extension, limit, bound
 moenia1 | 1 | walls
-moenia1 | 3 | a walled town, city (transf.)
+moenia1 | 3 | by extension, a walled town, city
 mola | 1 | millstone
-mola | 3 | sacrificial meal (transf., salted grits sprinkled on victims)
+mola | 3 | by extension, sacrificial meal (salted grits sprinkled on victims)
 molaris | 1 | millstone
-molaris | 3 | molar (subst., a grinding tooth)
+molaris | 3 | as a noun, molar (a grinding tooth)
 moles | 1 | mass
 moles | 2 | difficulty
 molestia | 1 | annoyance
-molestia | 3 | affectation, stiffness (in partic., of speech or style)
+molestia | 3 | in particular, affectation, stiffness (of speech or style)
 molestus | 1 | troublesome
-molestus | 3 | affected, laboured (in partic., of speech or style)
+molestus | 3 | in particular, affected, laboured (of speech or style)
 molimen | 1 | effort
 molimentum | 1 | effort
 molior | 1 | endeavour
@@ -663,24 +663,24 @@ molior | 2 | build
 molitio1 | 1 | moving
 molitio1 | 3 | preparation, undertaking (a laborious task)
 mollesco | 1 | soften
-mollesco | 3 | become effeminate (trop.)
+mollesco | 3 | figuratively, become effeminate
 mollio | 1 | soften
-mollio | 3 | mitigate, moderate (trop.)
-mollio | 4 | render effeminate (trop.)
+mollio | 3 | figuratively, mitigate, moderate
+mollio | 4 | figuratively, render effeminate
 mollis | 1 | soft
 mollis | 2 | effeminate
 mollitia | 1 | softness
 mollitia | 2 | effeminacy
 mollitudo | 1 | softness
-mollitudo | 3 | susceptibility, weakness (trop.)
+mollitudo | 3 | figuratively, susceptibility, weakness
 molo1 | 1 | grind
 molucrum | 1 | mill-broom
 molucrum | 3 | mill-handle (uncertain, alt. sense)
 momen | 1 | movement
-momen | 3 | importance, weight (trop.)
+momen | 3 | figuratively, importance, weight
 momentum | 1 | movement
 momentum | 2 | moment
-momentum | 3 | influence, weight (trop., importance)
+momentum | 3 | figuratively, influence, weight (importance)
 monedula | 1 | jackdaw
 moneo | 1 | warn
 moneo | 2 | teach
@@ -688,22 +688,22 @@ monetalis | 1 | minted
 monile | 1 | necklace
 monitio | 1 | admonition
 monitor | 1 | adviser
-monitor | 3 | prompter (in partic., in the theatre or in legal proceedings)
+monitor | 3 | in particular, prompter (in the theatre or in legal proceedings)
 monitum | 1 | advice
 monitum | 3 | prophecy, prediction
 monitus2 | 1 | warning
-monitus2 | 3 | omen, portent (in partic., divine warning)
+monitus2 | 3 | in particular, omen, portent (divine warning)
 mons | 1 | mountain
-mons | 3 | heap, mass (of things, transf.)
-mons | 4 | rock (poet.)
-mons | 5 | wild beasts (late poet., of mountain creatures)
+mons | 3 | by extension, heap, mass (of things)
+mons | 4 | in poetry, rock
+mons | 5 | in later poetry, wild beasts (of mountain creatures)
 monstrifer | 1 | monster-bearing
-monstrifer | 3 | monstrous, horrid, misshapen (transf.)
+monstrifer | 3 | by extension, monstrous, horrid, misshapen
 monstrificus | 1 | monstrous
 monstro | 1 | show
 monstro | 2 | teach
-monstro | 3 | ordain, appoint (poet., of rites or omens)
-monstro | 4 | denounce, inform against (post-Aug., in a criminal accusation)
+monstro | 3 | in poetry, ordain, appoint (of rites or omens)
+monstro | 4 | after Augustus, denounce, inform against (in a criminal accusation)
 monstro | 5 | advise, urge (someone to do something)
 monstrum | 1 | portent
 monstrum | 2 | monster
@@ -712,11 +712,11 @@ montanus1 | 1 | mountain
 montanus1 | 3 | mountainous, full of mountains (predicative)
 montuosus | 1 | mountainous
 monumentum | 1 | monument
-monumentum | 3 | tomb, sepulchre (in partic.)
+monumentum | 3 | in particular, tomb, sepulchre
 monumentum | 4 | record, chronicle (of history)
-monumentum | 5 | token, souvenir (transf., a mark of remembrance)
+monumentum | 5 | by extension, token, souvenir (a mark of remembrance)
 mora1 | 1 | delay
-mora1 | 3 | hindrance, obstacle (transf., that which causes delay)
+mora1 | 3 | by extension, hindrance, obstacle (that which causes delay)
 mora1 | 4 | space of time, interval (mora temporis)
 mora1 | 5 | pause (in speech, rhetorical)
 moralis | 1 | moral
@@ -731,272 +731,272 @@ morbus | 1 | disease
 morbus | 3 | vice, moral failing (of the mind)
 morbus | 4 | grief, distress
 mordacitas | 1 | mordacity
-mordacitas | 3 | snappishness, sharpness (transf., of temper or style)
+mordacitas | 3 | by extension, snappishness, sharpness (of temper or style)
 mordax | 1 | biting
-mordax | 3 | pungent, sharp (transf., of taste or things)
-mordax | 4 | biting, snarling (trop., of persons or words)
+mordax | 3 | by extension, pungent, sharp (of taste or things)
+mordax | 4 | figuratively, biting, snarling (of persons or words)
 mordeo | 1 | bite
-mordeo | 3 | eat, devour (poet.)
-mordeo | 4 | grip, clasp fast (transf., of a buckle or fastening)
+mordeo | 3 | in poetry, eat, devour
+mordeo | 4 | by extension, grip, clasp fast (of a buckle or fastening)
 mordeo | 5 | nip, sting (of cold or wind)
-mordeo | 6 | sting, hurt, pain (trop.)
+mordeo | 6 | figuratively, sting, hurt, pain
 mordeo | 7 | grasp firmly, fix in the mind
-mordeo | 8 | squander, dissipate (rare)
+mordeo | 8 | rarely, squander, dissipate
 mordicitus | 1 | bitingly
-mordicitus | 3 | with the teeth (lit., biting into something)
+mordicitus | 3 | literally, with the teeth (biting into something)
 mordicus1 | 1 | tenaciously
-mordicus1 | 3 | with the teeth, by biting (lit.)
+mordicus1 | 3 | literally, with the teeth, by biting
 moretum | 1 | relish
 moretum | 3 | a garlic-and-herb spread (a country dish; also the title of a pseudo-Vergilian poem)
 moribundus | 1 | dying
-moribundus | 3 | deadly, fatal (act., poet., causing death)
+moribundus | 3 | in the active, in poetry, deadly, fatal (causing death)
 morigeror | 1 | comply
 morigerus | 1 | obedient
 morior | 1 | die
-morior | 3 | decay, wither away (transf., of things)
-morior | 4 | dead (adj., as past part. mortuus)
-morior | 5 | the dead, a dead person (as subst., mortuus)
+morior | 3 | by extension, decay, wither away (of things)
+morior | 4 | as an adjective, mortuus, dead
+morior | 5 | as a noun, the dead, a dead person (mortuus)
 moror1 | 1 | delay
 moror1 | 2 | amuse
-moror1 | 3 | nihil moror + acc., I don't care about (idiom, to dismiss or disregard something)
+moror1 | 3 | as an idiom, nihil moror with the accusative, I don't care about (to dismiss or disregard something)
 morosus1 | 1 | peevish
-morosus1 | 3 | scrupulous, careful (rare, of thoroughness rather than temper)
+morosus1 | 3 | rarely, scrupulous, careful (of thoroughness rather than temper)
 mors | 1 | death
-mors | 3 | corpse, dead body (transf., mostly poet.)
-mors | 4 | bloodshed, murder (poet.)
-mors | 5 | deadly weapon (poet., of a missile)
+mors | 3 | by extension, mostly in poetry, corpse, dead body
+mors | 4 | in poetry, bloodshed, murder
+mors | 5 | in poetry, deadly weapon (of a missile)
 morsico | 1 | nibble
-morsico | 3 | press the lips together, nuzzle (post-class., as in kissing)
+morsico | 3 | in later Latin, press the lips together, nuzzle (as in kissing)
 morsus2 | 1 | bite
-morsus2 | 3 | catch, clasp (transf., of a buckle or fastening)
+morsus2 | 3 | by extension, catch, clasp (of a buckle or fastening)
 morsus2 | 4 | sharpness, pungency (of flavour or taste)
-morsus2 | 5 | sting, pain, vexation (trop.)
+morsus2 | 5 | figuratively, sting, pain, vexation
 mortalis | 1 | mortal
-mortalis | 3 | human, of human origin (transf.)
-mortalis | 4 | temporary, transient (opp. eternal)
+mortalis | 3 | by extension, human, of human origin
+mortalis | 4 | temporary, transient (as against eternal)
 mortalitas | 1 | mortality
-mortalitas | 3 | mankind, mortals (transf., post-Aug.)
+mortalitas | 3 | by extension, after Augustus, mankind, mortals
 mortarium | 1 | mortar
-mortarium | 3 | trough for mixing mortar (transf.)
-mortarium | 4 | hollow dug around a tree (transf.)
+mortarium | 3 | by extension, trough for mixing mortar
+mortarium | 4 | by extension, hollow dug around a tree
 mortarium | 5 | a drug, ground remedy (that which is triturated)
 morticinus | 1 | carrion
-morticinus | 3 | dead (transf., of things generally)
+morticinus | 3 | by extension, dead (of things generally)
 mortifer | 1 | deadly
 mortualia | 1 | grave-clothes
 mortualia | 3 | funeral dirges (of songs sung for the dead)
 mos | 1 | custom
-mos | 3 | conduct, character (in partic., moral behaviour; plur. mores, morals)
-mos | 4 | quality, nature, manner (transf., of things)
-mos | 5 | precept, law, rule (poet. and post-Aug.)
+mos | 3 | in particular, in the plural, mores, conduct, character (moral behaviour, morals)
+mos | 4 | by extension, quality, nature, manner (of things)
+mos | 5 | in poetry and after Augustus, precept, law, rule
 motio | 1 | motion
-motio | 3 | an ague-fit (in partic., medical)
-motio | 4 | emotion (trop., pl., of the soul)
+motio | 3 | in particular, in medicine, an ague-fit
+motio | 4 | figuratively, in the plural, emotion (of the soul)
 motus2 | 1 | motion
-motus2 | 3 | gesture, dance (in partic., artistic movement)
-motus2 | 4 | emotion, impulse (trop., of the mind)
-motus2 | 5 | uprising, disturbance (in partic., political)
-motus2 | 6 | trope, figure of speech (rhet.)
-motus2 | 7 | motive (post-Aug.)
+motus2 | 3 | in particular, gesture, dance (artistic movement)
+motus2 | 4 | figuratively, emotion, impulse (of the mind)
+motus2 | 5 | in particular, uprising, disturbance (political)
+motus2 | 6 | in rhetoric, trope, figure of speech
+motus2 | 7 | after Augustus, motive
 moveo | 1 | move
 moveo | 2 | affect
-moveo | 3 | cause, produce (transf., e.g. sweat, tears, an undertaking)
+moveo | 3 | by extension, cause, produce (e.g. sweat, tears, an undertaking)
 moveo | 4 | shake, alter, change (an opinion or decision)
 moveo | 5 | disturb, trouble, torment (someone)
-moveo | 6 | put forth, sprout (of plants, poet.)
+moveo | 6 | in poetry, put forth, sprout (of plants)
 moveo | 7 | dance, perform a gesture (of ritual dance)
 mox | 1 | soon
 mox | 3 | then, next (in a narrative sequence)
-mox | 4 | afterwards, later (post-Aug., for post)
+mox | 4 | after Augustus, afterwards, later (for post)
 mucro | 1 | point
-mucro | 3 | sword (transf., poet.)
-mucro | 4 | edge, sharpness (trop., of wit or authority)
+mucro | 3 | by extension, in poetry, sword
+mucro | 4 | figuratively, edge, sharpness (of wit or authority)
 mugil | 1 | mullet
 muginor | 1 | dawdle
 mugio1 | 1 | low
-mugio1 | 3 | bray (transf., of a trumpet)
-mugio1 | 4 | rumble (transf., of an earthquake or the ground)
+mugio1 | 3 | by extension, bray (of a trumpet)
+mugio1 | 4 | by extension, rumble (of an earthquake or the ground)
 mugitus | 1 | lowing
-mugitus | 3 | rumbling, roaring (transf., a loud noise)
+mugitus | 3 | by extension, rumbling, roaring (a loud noise)
 mula | 1 | mule
 mulceo | 1 | stroke
-mulceo | 3 | soothe, appease (trop.)
-mulceo | 4 | charm, delight (trop.)
+mulceo | 3 | figuratively, soothe, appease
+mulceo | 4 | figuratively, charm, delight
 mulco | 1 | beat
-mulco | 3 | maltreat, handle roughly (in gen.)
-mulco | 4 | maul, savage (trop., of critics or an argument)
+mulco | 3 | in general, maltreat, handle roughly
+mulco | 4 | figuratively, maul, savage (of critics or an argument)
 muliebris | 1 | female
 muliebris | 3 | womanish, effeminate (reproachful, of men)
 mulier | 1 | woman
-mulier | 3 | wife (in partic., opp. to a maid)
-mulier | 4 | coward (transf., as a term of reproach)
+mulier | 3 | in particular, wife (as against a maid)
+mulier | 4 | by extension, coward (as a term of reproach)
 mulierarius | 1 | woman's
-mulierarius | 3 | a lover of women (subst.)
+mulierarius | 3 | as a noun, a lover of women
 muliercula | 1 | girl
-muliercula | 3 | mere woman, weak woman (dim., often slightly condescending)
+muliercula | 3 | mere woman, weak woman (often slightly condescending)
 mulio1 | 1 | muleteer
-mulio1 | 3 | a kind of gnat (transf., an enemy to bees)
+mulio1 | 3 | by extension, a kind of gnat (an enemy to bees)
 mulleus | 1 | purple-red shoe
-mulleus | 3 | worn only by consuls, praetors, and curule aediles (in partic., a mark of high magistracy)
+mulleus | 3 | in particular, worn only by consuls, praetors, and curule aediles (a mark of high magistracy)
 multa1 | 1 | fine
-multicius | 1 | sheer
-multicius | 3 | fine, transparent garments (subst., soft luxurious clothing)
+multicius | 1 | diaphanous
+multicius | 3 | as a noun, fine, transparent garments (soft luxurious clothing)
 multifacio | 1 | esteem
 multifarius | 1 | manifold
-multifarius | 3 | on many sides, in many places (adv. multifariam)
-multifarius | 4 | in many ways, variously (adv. multifarie, post-Aug.)
+multifarius | 3 | as an adverb, multifariam, on many sides, in many places
+multifarius | 4 | as an adverb, multifarie, after Augustus, in many ways, variously
 multifidus | 1 | cleft
-multifidus | 3 | many-branched (transf., of hair or rivers)
-multifidus | 4 | manifold, various (trop.)
+multifidus | 3 | by extension, many-branched (of hair or rivers)
+multifidus | 4 | figuratively, manifold, various
 multiformis | 1 | multiform
 multiformis | 3 | various, diverse (of character or subject)
 multijugus | 1 | many-yoked
-multijugus | 3 | manifold, complex, various (trop.)
+multijugus | 3 | figuratively, manifold, complex, various
 multimodis | 1 | variously
 multimodus | 1 | manifold
 multiplex | 1 | manifold
-multiplex | 3 | winding, having many folds (lit.)
+multiplex | 3 | literally, winding, having many folds
 multiplex | 4 | many times as great, far more (in comparisons)
 multiplico | 1 | multiply
 multitudo | 1 | multitude
-multitudo | 3 | crowd (of people, in partic.)
+multitudo | 3 | in particular, crowd (of people)
 multitudo | 4 | the common people, the masses (of the crowd, disparaging)
-multitudo | 5 | the plural, plural number (gram.)
+multitudo | 5 | in grammar, the plural, plural number
 multo2 | 1 | fine
 multus | 1 | much
 multus | 3 | many (in the plural)
-multus | 4 | too much, excessive (in partic.)
-multus | 5 | frequent, often present (in partic., of persons)
-multus | 6 | at length, often (multum, adv., of manner or degree)
-multus | 7 | by far, much (comp. multo + comparative)
-multus | 8 | more (comp. plus)
-multus | 9 | most, very many (sup. plurimus)
+multus | 4 | in particular, too much, excessive
+multus | 5 | in particular, frequent, often present (of persons)
+multus | 6 | as an adverb, at length, often (multum, of manner or degree)
+multus | 7 | multo with a comparative or superlative, by far, much: multo maxime, by far the most; multo ante, long before
+multus | 8 | in the comparative, plus, more
+multus | 9 | in the superlative, plurimus, most, very many
 mulus | 1 | mule
 mundanus | 1 | worldly
-mundanus | 3 | cosmopolitan, a citizen of the world (subst., late Lat.)
+mundanus | 3 | as a noun, in later Latin, cosmopolitan, a citizen of the world
 munditia | 1 | cleanliness
-munditia | 3 | elegance, neatness (transf., of dress or furniture)
-munditia | 4 | neatness, terseness (trop., of style or speech)
+munditia | 3 | by extension, elegance, neatness (of dress or furniture)
+munditia | 4 | figuratively, neatness, terseness (of style or speech)
 mundo | 1 | cleanse
-mundo | 3 | purify (eccl., ceremonially or spiritually)
+mundo | 3 | in Christian Latin, purify (ceremonially or spiritually)
 mundulus | 1 | neat
 mundus1 | 1 | clean
-mundus1 | 3 | elegant, refined (transf., of manner, dress, or speech)
-mundus1 | 4 | in mundo esse, to be in readiness, ready at hand (idiom, subst. mundum)
+mundus1 | 3 | by extension, elegant, refined (of manner, dress, or speech)
+mundus1 | 4 | as an idiom, as a noun, mundum, in mundo esse, to be in readiness, ready at hand
 mundus2 | 1 | toiletries
-mundus2 | 3 | tool, implement (transf., in gen.)
-mundus2 | 4 | universe, the world (transf., like Gr. kosmos)
-mundus2 | 5 | the earth, mankind (poet., transf.)
-mundus2 | 6 | the sky, the weather (post-class.)
+mundus2 | 3 | by extension, in general, tool, implement
+mundus2 | 4 | by extension, universe, the world (like the Greek kosmos)
+mundus2 | 5 | in poetry, by extension, the earth, mankind
+mundus2 | 6 | in later Latin, the sky, the weather
 mundus2 | 7 | the underworld, entrance to the Lower World (euphemistic, at Rome)
 munerarius | 1 | sponsor
-munerarius | 3 | giver of a gladiatorial exhibition (in partic.)
-munerarius | 4 | benefactor, one who bestows gifts (in gen.)
+munerarius | 3 | in particular, giver of a gladiatorial exhibition
+munerarius | 4 | in general, benefactor, one who bestows gifts
 munero | 1 | present
 munero | 3 | reward, honour (with a gift)
 munia | 1 | duties
 municeps | 1 | citizen
-municeps | 3 | fellow-citizen (transf., of a common origin or town)
-municeps | 4 | freedman in a municipium (rare, technical)
+municeps | 3 | by extension, fellow-citizen (of a common origin or town)
+municeps | 4 | rarely, freedman in a municipium (technical)
 municipalis | 1 | municipal
 municipium | 1 | municipality
 munifex | 1 | fatigue-man
-munifex | 3 | suckling (transf., of an animal)
+munifex | 3 | by extension, suckling (of an animal)
 munificentia | 1 | munificence
 munificus1 | 1 | generous
 munimen | 1 | defence
 munimentum | 1 | fortification
-munimentum | 3 | protection, shelter (trop.)
+munimentum | 3 | figuratively, protection, shelter
 munio1 | 1 | fortify
-munio1 | 3 | defend, guard, protect (transf., in gen.)
+munio1 | 3 | by extension, in general, defend, guard, protect
 munio1 | 4 | pave, build (a road)
-munio1 | 5 | open, prepare (a way, trop., e.g. for an accusation)
+munio1 | 5 | figuratively, open, prepare (a way, e.g. for an accusation)
 munis | 1 | obliging
 munitio | 1 | fortifying
-munitio | 3 | fortification, rampart (concr., a structure)
+munitio | 3 | concretely, fortification, rampart (a structure)
 munitio | 4 | road-building, paving (of a road)
-munitio | 5 | support (trop.)
+munitio | 5 | figuratively, support
 munitor | 1 | engineer
 munus | 1 | duty
 munus | 2 | gift
-munus | 3 | burden, tribute (in partic., an onus)
-munus | 4 | a work, composition (transf., e.g. a book)
-munus | 5 | favour, service (transf.)
-munus | 6 | funeral rites, last offices (in partic., to the dead)
-munus | 7 | public show, gladiatorial exhibition (in partic.)
-munus | 8 | a public building erected at private expense (in partic.)
+munus | 3 | in particular, burden, tribute (an onus)
+munus | 4 | by extension, a work, composition (e.g. a book)
+munus | 5 | by extension, favour, service
+munus | 6 | in particular, funeral rites, last offices (to the dead)
+munus | 7 | in particular, public show, gladiatorial exhibition
+munus | 8 | in particular, a public building erected at private expense
 munusculum | 1 | gift
-munusculum | 3 | a small present (esp. informal or affectionate)
+munusculum | 3 | a small present (especially informal or affectionate)
 muralis | 1 | mural
 murex | 1 | murex
-murex | 3 | purple dye (transf., from the shellfish)
-murex | 4 | sharp rock, jagged stone (transf., of pointed things)
-murex | 5 | caltrop (in partic., a spiked defensive device)
+murex | 3 | by extension, purple dye (from the shellfish)
+murex | 4 | by extension, sharp rock, jagged stone (of pointed things)
+murex | 5 | in particular, caltrop (a spiked defensive device)
 muria | 1 | brine
 murinus | 1 | mouse-coloured
 murmur | 1 | murmur
 murmur | 3 | roar, rumble (of louder or harsher sounds, e.g. the sea or a crowd)
 murmuro | 1 | murmur
 murmuro | 3 | grumble, mutter (of discontent)
-murmuro | 4 | grumble at, complain about (act., transf., + acc.)
+murmuro | 4 | in the active, by extension, grumble at, complain about (with the accusative)
 murreus2 | 1 | murrine
 murrinus1 | 1 | myrrh
-murrinus1 | 3 | spiced wine flavoured with myrrh (subst. murrina)
+murrinus1 | 3 | as a noun, murrina, spiced wine flavoured with myrrh
 murrinus2 | 1 | murrine
-murrinus2 | 3 | murrine vessels, fine vases (subst. murrina, plur.)
+murrinus2 | 3 | as a noun, murrina, in the plural, murrine vessels, fine vases
 murus | 1 | wall
-murus | 3 | dam, embankment (transf.)
+murus | 3 | by extension, dam, embankment
 murus | 4 | rim, side (of a vessel, e.g. a pot)
-murus | 5 | safeguard, defence (trop.)
+murus | 5 | figuratively, safeguard, defence
 musca1 | 1 | fly
-musca1 | 3 | busybody, meddler (transf., of an annoying person)
+musca1 | 3 | by extension, busybody, meddler (of an annoying person)
 muscarius | 1 | fly
-muscarius | 3 | fly-whisk, fly-brush (subst., made of tail hair or feathers)
+muscarius | 3 | as a noun, fly-whisk, fly-brush (made of tail hair or feathers)
 musculus | 1 | mouse
-musculus | 3 | muscle (of the body, trop. or medical)
-musculus | 4 | mussel (transf., a sea-mussel)
-musculus | 5 | shed, mantelet (milit., a protective siege shelter)
-musculus | 6 | a small boat (rare, post-class.)
+musculus | 3 | in medicine, muscle (of the body)
+musculus | 4 | by extension, mussel (a sea-mussel)
+musculus | 5 | in the army, shed, mantelet (a protective siege shelter)
+musculus | 6 | rarely, in later Latin, a small boat
 mussito | 1 | mutter
-mussito | 3 | be silent about, disregard (act., to take no notice of a thing)
+mussito | 3 | in the active, be silent about, disregard (to take no notice of a thing)
 musso | 1 | mutter
-musso | 3 | hesitate, be uncertain (transf., to deliberate silently or be afraid to act)
+musso | 3 | by extension, hesitate, be uncertain (to deliberate silently or be afraid to act)
 mustaceus | 1 | wedding-cake
 musteus | 1 | fresh
-musteus | 3 | of must, must-like (lit., of new wine)
+musteus | 3 | literally, of must, must-like (of new wine)
 mustus | 1 | fresh
-mustus | 3 | must, new wine (subst. mustum)
+mustus | 3 | as a noun, mustum, must, new wine
 mutabilis | 1 | changeable
 mutatio | 1 | change
-mutatio | 3 | exchange (in gen., of goods or offices)
-mutatio | 4 | a relay, change of horses (in partic., in posting)
-mutatio | 5 | interchange of expressions (rhet. term)
+mutatio | 3 | in general, exchange (of goods or offices)
+mutatio | 4 | in particular, a relay, change of horses (in posting)
+mutatio | 5 | in rhetoric, interchange of expressions
 # review: mutatorius extremely rare (post-class.); no natural one-word gloss for "of changing clothes"
 mutatorius | 1 | of changing clothes
-mutatorius | 3 | a cape, wrap (subst. mutatorium, worn when changing garments)
+mutatorius | 3 | as a noun, mutatorium, a cape, wrap (worn when changing garments)
 mutilo | 1 | maim
-mutilo | 3 | curtail, diminish (transf., to lessen or shorten)
-mutilo | 4 | garble, corrupt (transf., in pronunciation or speech)
+mutilo | 3 | by extension, curtail, diminish (to lessen or shorten)
+mutilo | 4 | by extension, garble, corrupt (in pronunciation or speech)
 mutilus | 1 | maimed
-mutilus | 3 | curtailed, abrupt (trop., of speech)
+mutilus | 3 | figuratively, curtailed, abrupt (of speech)
 mutio | 1 | mutter
-mutio | 3 | bleat, bark (transf., of animals)
-mutio | 4 | creak (transf., of a hinge)
+mutio | 3 | by extension, bleat, bark (of animals)
+mutio | 4 | by extension, creak (of a hinge)
 muto1 | 1 | change
 muto1 | 2 | exchange
-muto1 | 3 | move, shift (rare, lit., of position)
-muto1 | 4 | dye, colour (transf., in partic.)
-muto1 | 5 | improve (transf., change for the better)
-muto1 | 6 | spoil, turn (pass., transf., of wine going bad)
+muto1 | 3 | rarely, literally, move, shift (of position)
+muto1 | 4 | by extension, in particular, dye, colour
+muto1 | 5 | by extension, improve (change for the better)
+muto1 | 6 | in the passive, by extension, spoil, turn (of wine going bad)
 muto1 | 7 | vary, alter one's style (of speech or writing)
-muto1 | 8 | abandon, forsake (rare)
+muto1 | 8 | rarely, abandon, forsake
 mutuor | 1 | borrow
-mutuor | 3 | derive, obtain (trop., to take for one's own use, e.g. of ideas)
+mutuor | 3 | figuratively, derive, obtain (to take for one's own use, e.g. of ideas)
 mutus | 1 | dumb
-mutus | 3 | silent, still (transf., of places)
+mutus | 3 | by extension, silent, still (of places)
 mutuus | 1 | borrowed
-mutuus | 3 | mutual, reciprocal (transf., in exchange, of shared action)
-mutuus | 4 | mutuo, mutue, mutuiter, mutually, in return (adv. forms)
+mutuus | 3 | by extension, mutual, reciprocal (in exchange, of shared action)
+mutuus | 4 | as an adverb, mutuo, mutue, mutuiter, mutually, in return
 myrtetum | 1 | myrtle-grove
 myrteus | 1 | myrtle
-myrteus | 3 | myrtle-coloured, chestnut-brown (transf., of colour)
+myrteus | 3 | by extension, myrtle-coloured, chestnut-brown (of colour)

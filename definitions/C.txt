@@ -2535,7 +2535,7 @@ commorior | 1 | die together
 commoror | 1 | stay
 commoror | 3 | rarely, transitively, to detain or delay someone
 commotio | 1 | agitation
-commotio | 3 | literally, a physical shaking or movement, post-classical
+commotio | 3 | in later Latin, literally, a physical shaking or movement
 commoveo | 1 | move
 commoveo | 2 | excite
 commoveo | 3 | to dislodge or shake something physically

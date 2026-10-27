@@ -2706,7 +2706,7 @@ apiscor | 1 | obtain
 apiscor | 3 | to reach out after something in order to seize it or take hold of it
 apiscor | 4 | to attain or win something by effort: hereditatem apisci, to come into an inheritance
 apiscor | 5 | to pursue something with zeal, an early use
-apiscor | 6 | rarer than its compound adipiscor, and found mostly in early and post-Augustan writers
+apiscor | 6 | rarer than its compound adipiscor, and found mostly in early Latin and after Augustus
 apium | 1 | parsley
 apium | 3 | more exactly wild celery, and by extension several related plants of the same family
 apium | 4 | the plant woven into garlands at drinking-parties, and given as the victor's wreath at the Isthmian and Nemean games

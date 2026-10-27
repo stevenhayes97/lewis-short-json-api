@@ -268,7 +268,7 @@ defatigo | 1 | exhaust
 defectio | 1 | defection
 defectio | 2 | failure
 defectio | 3 | especially, of the sun or moon, an eclipse
-defectio | 4 | exhaustion, fainting, a swoon (post-Augustan prose)
+defectio | 4 | after Augustus, exhaustion, fainting, a swoon
 defectio | 5 | in grammar, an ellipsis
 defectus2 | 1 | failure
 defectus2 | 2 | defection
@@ -354,7 +354,7 @@ degenero | 5 | transitively, to dishonour, to disgrace by falling short (a rare 
 deglubo | 1 | peel
 deglubo | 3 | by extension, to skin, to flay an animal or person
 dego | 1 | spend
-dego | 3 | used alone, to live, to dwell (post-Augustan usage)
+dego | 3 | after Augustus, used alone, to live, to dwell
 degravo | 1 | weigh down
 degravo | 3 | figuratively, to burden, to weigh upon, to oppress
 degredior | 1 | descend
@@ -362,7 +362,7 @@ degusto | 1 | taste
 degusto | 3 | figuratively, to try, to sample, to make oneself acquainted with something
 degusto | 4 | to touch briefly upon a subject, to treat cursorily
 dehinc | 1 | then
-dehinc | 3 | of place, from here, hence (rare, post-Augustan)
+dehinc | 3 | rarely, after Augustus, of place, from here, hence
 dehinc | 4 | of time looking forward, henceforth, from now on
 dehisco | 1 | gape
 dehonestamentum | 1 | blemish
@@ -642,7 +642,7 @@ depulsio | 3 | in rhetoric, a defence against a charge or accusation
 depulsor | 1 | deliverer
 depurgo | 1 | cleanse
 deputo | 1 | prune
-deputo | 3 | to consider, regard as (ante- and post-classical)
+deputo | 3 | in early and later Latin, to consider, regard as
 deputo | 4 | in later Latin, to allot, assign to someone
 derado | 1 | shave
 derelinquo | 1 | abandon
@@ -1171,9 +1171,10 @@ discerpo | 3 | figuratively, to dissect, pick apart (an argument or subject)
 discerpo | 4 | by extension, to scatter, disperse, destroy
 discerpo | 5 | to tear someone to pieces with words, to revile
 discessio | 1 | division
-discessio | 2 | separation
-discessio | 3 | in Christian Latin, schism
+discessio | 3 | in the Senate, a vote taken by members moving to one side of the house: discessionem facere, to put a motion to a division
 discessio | 4 | rarely, departure, a going away
+discessio | 5 | very rarely, a separation, of a married couple or of the people into factions
+discessio | 6 | in Christian Latin, schism
 discessus2 | 1 | departure
 discessus2 | 2 | separation
 discessus2 | 3 | in the army, a marching away, decamping
