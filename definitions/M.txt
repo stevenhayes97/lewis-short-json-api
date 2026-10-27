@@ -1059,6 +1059,8 @@ murmuro | 3 | grumble, mutter (of discontent)
 murmuro | 4 | in the active, by extension, grumble at, complain about (with the accusative)
 murra1 | 1 | myrrh
 murra1 | 3 | the myrrh tree of Arabia, and its fragrant gum, used to flavour wine and scent the hair
+murra3 | 1 | murra
+murra3 | 3 | a precious stone, perhaps fluorspar, from which costly cups were made; in poetry, a murrine cup
 murreus2 | 1 | murrine
 murrinus1 | 1 | myrrh
 murrinus1 | 3 | as a noun, murrina, spiced wine flavoured with myrrh
@@ -1068,6 +1070,9 @@ murus | 1 | wall
 murus | 3 | by extension, dam, embankment
 murus | 4 | rim, side (of a vessel, e.g. a pot)
 murus | 5 | figuratively, safeguard, defence
+mus1 | 1 | mouse
+mus1 | 3 | a mouse or rat: parturient montes, nascetur ridiculus mus, mountains will labour and a silly mouse be born
+mus1 | 4 | mus marinus, a kind of sea creature
 musca1 | 1 | fly
 musca1 | 3 | by extension, busybody, meddler (of an annoying person)
 muscarius | 1 | fly
@@ -1077,6 +1082,17 @@ musculus | 3 | in medicine, muscle (of the body)
 musculus | 4 | by extension, mussel (a sea-mussel)
 musculus | 5 | in the army, shed, mantelet (a protective siege shelter)
 musculus | 6 | rarely, in later Latin, a small boat
+musica | 1 | music
+musica | 3 | music, and in the ancient sense the arts of the Muses generally, poetry and learning
+musicus | 1 | musical
+musicus | 2 | musician
+musicus | 3 | of music: leges musicae, the rules of music; musica, music
+musicus | 4 | as a noun, a musician
+musicus | 5 | in early Latin, of poetry: studium musicum, the art of poetry
+musimo | 1 | mouflon
+musimo | 3 | a wild sheep of Sardinia
+musivus | 1 | mosaic
+musivus | 3 | in later Latin, musivum, mosaic work: opere musivo, in mosaic
 mussito | 1 | mutter
 mussito | 3 | in the active, be silent about, disregard (to take no notice of a thing)
 musso | 1 | mutter
@@ -1120,3 +1136,14 @@ mutuus | 4 | as an adverb, mutuo, mutue, mutuiter, mutually, in return
 myrtetum | 1 | myrtle-grove
 myrteus | 1 | myrtle
 myrteus | 3 | by extension, myrtle-coloured, chestnut-brown (of colour)
+myrtus | 1 | myrtle
+myrtus | 3 | the myrtle tree, sacred to Venus: myrto caput impedire, to wreathe one's head with myrtle
+myrtus | 4 | in poetry, a spear of myrtle wood
+mysterium | 1 | mystery
+mysterium | 2 | secret
+mysterium | 3 | secret rites, the mysteries of a god: mysteria Eleusinia, the Eleusinian mysteries
+mysterium | 4 | any secret: epistulae nostrae tantum habent mysteriorum, our letters hold so many secrets
+mysterium | 5 | in Christian Latin, a divine mystery beyond understanding: mysterium evangelii, the mystery of the gospel
+mysterium | 6 | in Christian Latin, the Eucharist
+mysticus | 1 | mystic
+mysticus | 3 | in poetry, of secret rites, mystical: mystica vannus Iacchi, the mystic winnowing-fan of Bacchus
