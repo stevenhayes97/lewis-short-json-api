@@ -225,6 +225,8 @@ hesternus | 1 | yesterday's
 heu! | 1 | alas
 heu! | 3 | rarely, an exclamation of surprise or admiration: oh!
 heus! | 1 | hey
+hexameter | 1 | hexameter
+hexameter | 3 | a line of verse of six feet: versus hexametri, hexameters
 hiatus | 1 | opening
 hiatus | 2 | hiatus
 hiatus | 3 | an opening, aperture, gap, or cleft
@@ -257,7 +259,15 @@ hiems | 2 | storm
 hiems | 3 | the winter season, wintertime
 hiems | 4 | transferred, poetic, stormy or rainy weather, a tempest
 hiems | 5 | figurative, cold, distress, or turmoil: hiems rerum, the storm of war
+hieraticus | 1 | sacred
+hieraticus | 3 | for sacred use: charta hieratica, the finest papyrus, kept for sacred books
+hierophanta | 1 | hierophant
+hierophanta | 3 | a high priest who taught the sacred rites of the mysteries
 hieto | 1 | yawn
+hilaris | 1 | cheerful
+hilaris | 3 | merry, lively, in good spirits: vultu hilari atque laeto, with a cheerful and happy face
+hilaris | 4 | hilare as an adverb, cheerfully: hilare vivere, to live merrily
+hilaris | 5 | hilaria as a noun, a joyful festival of Cybele at the spring equinox
 hilaritas | 1 | cheerfulness
 hilaro | 1 | cheer
 hillae | 1 | entrails
@@ -273,12 +283,17 @@ hinc | 5 | after Augustus, of time, from this time on, hereafter
 hinc | 6 | for abhinc, ago, since: hinc ducentos annos, two hundred years ago
 hinnio | 1 | neigh
 hinnulus | 1 | young mule
+hinnus | 1 | hinny
+hinnus | 3 | the offspring of a stallion and a she-ass, smaller than a mule
 hio | 1 | gape
 hio | 3 | to open wide, to stand open, of the earth or a chasm
 hio | 4 | to open the mouth, to yawn
 hio | 5 | of speech, to leave an awkward gap between vowels, a hiatus
 hio | 6 | figurative, to gape with longing or desire, to be eager for something
 hio | 7 | active, poetic, to spew out, emit; also to sing or utter loudly
+hippomanes | 1 | hippomanes
+hippomanes | 3 | a fluid from a mare in heat, used in love potions
+hippomanes | 4 | a membrane on the forehead of a newborn foal, also used in love potions
 hircinus | 1 | goat's
 hircosus | 1 | goatish
 hircus | 1 | he-goat
@@ -300,6 +315,16 @@ hisco | 3 | to open the mouth, to mutter, to speak up
 hisco | 4 | active, poetic, to say, utter, relate
 hispidus | 1 | bristly
 hispidus | 3 | figurative, rude, coarse, insensible
+historia | 1 | history
+historia | 2 | story
+historia | 3 | an account of past events, history: historia magistra vitae, history the teacher of life
+historia | 4 | a written history, a historical work
+historia | 5 | any narrative or tale; something worth telling
+historia | 6 | in poetry, a subject of talk: nobilis historia, a famous tale
+historicus | 1 | historical
+historicus | 2 | historian
+historicus | 3 | of history: genus historicum, the historical style
+historicus | 4 | as a noun, a historian, a writer of history
 histrio | 1 | actor
 histrio | 3 | transferred, a boaster, one who exaggerates
 hiulcus | 1 | gaping
@@ -481,3 +506,14 @@ humo | 3 | transferred, to perform funeral rites for someone
 humus | 1 | ground
 humus | 3 | transferred, land, a country, a region
 humus | 4 | adverbial form humi, on the ground, to the ground
+hydrus1 | 1 | water-snake
+hydrus1 | 3 | a water snake, or any serpent; in poetry, the snakes in the hair of the Furies or Medusa
+hydrus1 | 4 | Hydrus, the constellation of the Water-snake
+hymnus | 1 | hymn
+hymnus | 3 | a song of praise to a god
+hypaethrus | 1 | open-air
+hypaethrus | 3 | open to the sky, unroofed; hypaethros, a temple without a roof
+hypotheca | 1 | mortgage
+hypotheca | 3 | in law, a pledge of property as security for a debt
+hysopum | 1 | hyssop
+hysopum | 3 | the hyssop plant, used in medicine; in Christian Latin, used for sprinkling in purification
