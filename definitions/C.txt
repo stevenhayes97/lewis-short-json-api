@@ -2019,6 +2019,13 @@ citer | 4 | its superlative citimus, nearest: citima terris, nearest to the eart
 citer | 5 | figuratively of what lies nearer to hand: haec citeriora, these matters closer home
 citer | 6 | of time earlier or sooner, and of degree less
 citer | 7 | from it comes citra, on this side, used both as adverb and as preposition: citra Rhenum, this side of the Rhine
+cithara | 1 | lyre
+cithara | 3 | the cithara, a large stringed instrument like a lyre, especially in the poets
+cithara | 4 | the music of the cithara, the art of playing it
+citharista | 1 | lyre-player
+citharista | 3 | one who plays the cithara without singing
+citharoedus | 1 | singer
+citharoedus | 3 | one who sings and accompanies himself on the cithara: non omnes qui habent citharam sunt citharoedi, not all who own a lyre can play it
 cito2 | 1 | summon
 cito2 | 3 | the frequentative of cieo: to set a thing moving fast, to shake or hurl: citat hastam, he hurls the spear
 cito2 | 4 | of plants, to shoot out: radices citare, to throw out roots
@@ -2032,6 +2039,9 @@ citreus | 1 | of citrus
 citreus | 3 | belonging to the citrus tree: mensa citrea, a table of citrus wood, which the Romans prized highly
 citreus | 4 | as a feminine noun citrea, the citrus tree itself
 citreus | 5 | also of the citron tree, and as a neuter noun citreum, the citron
+citrus | 1 | citron
+citrus | 3 | an African tree with fragrant, highly prized wood, used for costly tables
+citrus | 4 | the citron tree, whose fruit was used against moths and as an antidote
 civicus | 1 | civic
 civicus | 3 | belonging to citizens, rarer than civilis and mostly poetic: civica jura, the rights of citizens; civici motus, civil disturbances
 civicus | 4 | corona civica, the civic crown of oak leaves, given for saving a citizen's life and the highest honour but one
@@ -2240,6 +2250,8 @@ clepo | 5 | se clepere, to steal away or hide oneself
 clepsydra | 1 | water-clock
 clepsydra | 3 | a clock worked by dripping water, answering to our hourglass
 clepsydra | 4 | speakers used one to time their speeches, so that the word stands for the time allowed
+clibanus | 1 | oven
+clibanus | 3 | an earthenware or iron pot for baking bread
 cliens | 1 | client
 cliens | 3 | a client, retainer or follower, the dependant of a Roman patron
 cliens | 4 | of whole peoples, the allies or vassals of a stronger nation
@@ -2254,6 +2266,10 @@ clima | 1 | climate
 clima | 3 | a clime or region, a word of late Latin taken from the Greek
 clima | 4 | more widely a part or quarter of anything
 clima | 5 | also a land measure of sixty feet square
+clinicus | 1 | doctor
+clinicus | 3 | a doctor who visits patients in bed
+clinicus | 4 | in jest, a bearer of the dead, an undertaker
+clinicus | 5 | in Christian Latin, one who was baptized on a sickbed
 clipeo | 1 | shield
 clipeo | 3 | to arm or cover with a shield, a rare word: clamide contorta clupeat bracchium, he shields his arm with his cloak wrapped round it
 clipeus | 1 | shield
@@ -2281,6 +2297,8 @@ clueo | 4 | an old word, also found in the form cluo
 clunis | 1 | buttock
 clunis | 3 | the haunch or buttock, of people and of animals, and mostly in the plural
 clunis | 4 | it is found as both masculine and feminine
+clyster | 1 | enema
+clyster | 3 | a syringe for enemas or for the ears
 coacervo | 1 | heap up
 coacervo | 3 | to pile together or gather in a mass: pecuniae coacervantur, money is piled up
 coacervo | 4 | figuratively: argumenta coacervare, to heap up arguments; luctus coacervare, to pile grief on grief
@@ -2334,6 +2352,9 @@ coarto | 4 | of time or discourse, to abridge or condense: tempus coartare, to s
 coccineus | 1 | scarlet
 coccineus | 3 | scarlet-coloured: coccineae lacernae, scarlet cloaks
 coccineus | 4 | as a neuter plural noun coccina, scarlet clothes
+coccum | 1 | scarlet
+coccum | 3 | the scarlet berry of the kermes oak, used to dye cloth red
+coccum | 4 | scarlet colour, scarlet cloth: rubro cocco tinctus, dyed with red scarlet
 coclea | 1 | snail
 coclea | 3 | by extension, a snail shell
 coclea | 4 | by extension, a screw of a wine or oil press
@@ -2353,6 +2374,8 @@ codicilli | 2 | codicil
 codicilli | 3 | a short writing, a note or brief letter, and also a petition
 codicilli | 4 | under the empire, a codicil, a short addition to a will
 codicilli | 5 | also under the empire, an official document from the emperor granting a privilege, a diploma
+coeliacus | 1 | abdominal
+coeliacus | 3 | of the belly or stomach; suffering from a disease of the bowels
 coemo | 1 | buy up
 coemo | 3 | agros coemere, to buy up land, often to corner a market
 coemptio | 1 | mock sale
@@ -2461,6 +2484,8 @@ coitus2 | 1 | union
 coitus2 | 2 | intercourse
 coitus2 | 3 | of syllables, sounds, or fluids, a joining or coalescing: coitus syllabarum, the joining of syllables
 coitus2 | 4 | of plants, union by grafting
+colaphus | 1 | punch
+colaphus | 3 | a blow with the fist, a box on the ear: colaphos alicui infringere, to punch someone
 collabefio | 1 | collapse
 collabefio | 3 | figuratively, to be overthrown or supplanted: a Themistocle collabefactus, brought down by Themistocles
 collabor | 1 | collapse
