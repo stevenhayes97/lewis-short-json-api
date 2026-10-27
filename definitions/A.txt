@@ -10,6 +10,13 @@ ab | 7 | of position, on the side of, in the direction of: a tergo, from behind;
 ab | 8 | of origin or descent, coming from, of: Turnus ab Aricia, Turnus of Aricia
 ab | 9 | after verbs of freeing, defending or guarding: liberare a metu, to free from fear
 ab | 10 | in compounds, away or off: abducere, to lead away; abicere, to throw down; abuti, to use up
+abacus | 1 | sideboard
+abacus | 2 | counting-board
+abacus | 3 | a display table, often of marble or precious metal, for showing off gold and silver plate
+abacus | 4 | a counting table spread with sand or dust, used for doing sums
+abacus | 5 | a gaming board divided into squares, for dice or counters
+abacus | 6 | a painted panel set into a wall or ceiling
+abacus | 7 | in architecture, the flat square slab on top of a column's capital
 abalieno | 1 | alienate
 abalieno | 2 | transfer
 abalieno | 3 | to estrange someone, to turn them against you and lose their goodwill
@@ -151,6 +158,8 @@ abrogo | 1 | repeal
 abrogo | 3 | to repeal a law outright and entire, where derogo repeals only part of one
 abrogo | 4 | to strip someone of an office, to recall their command
 abrogo | 5 | to take something away from a person: fidem abrogare, to destroy someone's credit
+abrotonum | 1 | southernwood
+abrotonum | 3 | a strong-smelling aromatic plant, burned to drive off snakes
 abrumpo | 1 | sever
 abrumpo | 3 | to break or tear something off by force, to snap it
 abrumpo | 4 | to break something off short: vitam abrumpere, to end one's life; medium sermonem abrumpere, to break off in mid-speech
@@ -174,6 +183,12 @@ abscondo | 3 | to put something carefully out of sight, to hide it away
 abscondo | 4 | to keep something secret, to cover up a flight or a fear
 abscondo | 5 | in sailing, to lose sight of a coast as it sinks below the horizon
 abscondo | 6 | absconditus as an adjective: hidden, secret, and so abstruse
+absis | 1 | arch
+absis | 2 | orbit
+absis | 3 | an arch or vault, anything built in a curve
+absis | 4 | the circle a star or planet traces in its orbit
+absis | 5 | a round dish or bowl
+absis | 6 | in later Latin, the apse or choir of a church
 absisto | 1 | desist
 absisto | 3 | to move away from a place, to stand off from it
 absisto | 4 | to leave off doing something, to give it up (with the ablative or an infinitive): obsidione absistere, to give up a siege
@@ -272,6 +287,15 @@ abutor | 2 | exhaust
 abutor | 3 | to use something up, to spend or consume it entirely; with the ablative, to make full use of: otio abuti, to make full use of one's leisure
 abutor | 4 | to misuse or abuse something, to take advantage of it (with the ablative): quousque tandem abutere, Catilina, patientia nostra?, how long, Catiline, will you abuse our patience?
 abutor | 5 | in rhetoric, to use a word improperly, to strain its sense
+academia | 1 | Academy
+academia | 3 | the Academy, the gymnasium outside Athens where Plato taught
+academia | 4 | the Academic philosophy, the school of Plato and his followers: Academia vetus, the Old Academy
+academia | 5 | the name Cicero gave to his villas near Puteoli and at Tusculum
+academicus | 1 | Academic
+academicus | 3 | as a noun, an Academic philosopher, a follower of Plato's school
+academicus | 4 | Academica, Cicero's work on the Academic philosophy
+acanthis | 1 | goldfinch
+acanthis | 3 | a plant, groundsel
 accedo | 1 | approach
 accedo | 2 | agree
 accedo | 3 | to come or go up to a place or person, with ad, in, or the dative
@@ -483,6 +507,10 @@ acies | 7 | a fixed look, a gaze held on something
 acies | 8 | sharpness of mind, mental penetration: acies ingenii, keenness of intellect
 acies | 9 | a verbal contest, a debate: in aciem prodire, to come out into the fray of argument
 acies | 10 | brightness or sheen, said of the stars
+acopos | 1 | salve
+acopos | 3 | a soothing ointment against weariness and pain
+acopos | 4 | a plant used in childbirth
+acopos | 5 | a kind of stone, perhaps crystalline quartz
 acquiesco | 1 | rest
 acquiesco | 2 | acquiesce
 acquiesco | 3 | to come to rest physically, to settle down, to sleep
@@ -501,6 +529,12 @@ acritudo | 1 | sharpness
 acritudo | 3 | the sharpness or bite of a fluid
 acritudo | 4 | liveliness, vigour, force
 acritudo | 5 | harshness of temper
+acroama | 1 | entertainment
+acroama | 2 | entertainer
+acroama | 3 | music, reading or recitation heard for pleasure, especially as entertainment at dinner
+acroama | 4 | the performer who entertains at table, a musician, reader or buffoon
+acroasis | 1 | lecture
+acroasis | 3 | a discourse delivered before an audience, a public lecture: acroasin facere, to give a lecture
 actio | 1 | action
 actio | 2 | lawsuit
 actio | 3 | a doing or performing, an act
@@ -568,6 +602,8 @@ acus1 | 4 | acu rem tangere, to touch the thing with a needle, that is, to hit t
 acus1 | 5 | the tongue of a buckle
 acus3 | 1 | garfish
 acus3 | 3 | a sea fish with a long pointed snout, the garfish or hornpike
+acyrologia | 1 | misusage
+acyrologia | 3 | in rhetoric, the use of a word in a sense it does not properly have, as sperare for timere
 ad | 1 | to
 ad | 2 | at
 ad | 3 | towards, in the direction of, of motion to a place: ad urbem ire, to go to the city; ad me, to my house
