@@ -355,6 +355,8 @@ matutinus | 3 | by extension, sober, serious (frons matutina)
 maxilla | 1 | jawbone
 meatus | 1 | course
 meatus | 3 | by extension, concretely, passage, channel
+mechanicus | 1 | mechanical
+mechanicus | 3 | outside classical Latin, as a noun, an engineer, a mechanic
 meddix | 1 | Oscan magistrate
 medela | 1 | remedy
 medeor | 1 | heal
@@ -383,6 +385,8 @@ medicus1 | 1 | medical
 medicus1 | 2 | physician
 medietas | 1 | middle
 medietas | 3 | by extension, half, moiety
+medimnum | 1 | medimnus
+medimnum | 3 | a Greek corn measure of six modii, a bushel: medimnum tritici, a medimnus of wheat
 mediocris | 1 | middling
 mediocritas | 1 | moderation
 mediocritas | 2 | insignificance
@@ -404,12 +408,18 @@ medullitus | 1 | thoroughly
 meio | 1 | urinate
 mel | 1 | honey
 mel | 3 | figuratively, sweetness, charm (of speech)
+melimela | 1 | honey-apples
+melimela | 3 | a sweet early apple, earlier called mustea mala
+melinus3 | 1 | quince
+melinus3 | 3 | melinum as a noun, oil or ointment of quinces; in early Latin, a quince-yellow garment
 meliusculus | 1 | somewhat better
 melleus | 1 | honeyed
 melleus | 3 | by extension, delightful, charming
 mellitus | 1 | honeyed
 mellitus | 3 | figuratively, darling, lovely
 mellum | 1 | dog-collar
+melos1 | 1 | song
+melos1 | 3 | in early Latin and poetry, a tune, a melody, a song
 membrana | 1 | membrane
 membrana | 2 | parchment
 membrana | 3 | figuratively, surface, outward show
@@ -468,6 +478,8 @@ mensura | 1 | measure
 mensura | 3 | figuratively, extent, degree (capacity or proportion)
 mensuralis | 1 | measuring
 mensuro | 1 | measure
+menta | 1 | mint
+menta | 3 | mint, said to be the nymph Minthe transformed
 mentio1 | 1 | mention
 mentior | 1 | lie
 mentior | 2 | feign
@@ -520,6 +532,7 @@ merus | 1 | pure
 merus | 2 | mere
 merx | 1 | goods
 merx | 3 | by extension, in early Latin, a piece of goods (term of abuse for a person)
+# skip: mesa one technical grade of hemp in Pliny, nothing to teach
 messis | 1 | harvest
 messis | 3 | by extension, the standing crop (yet to be harvested)
 messis | 4 | in poetry, by extension, a year
@@ -528,8 +541,17 @@ messor | 3 | figuratively, destroyer (a 'reaper' of men)
 meta | 1 | goal
 meta | 2 | cone
 meta | 3 | by extension, limit, boundary (of life or a journey)
+metalepsis | 1 | metalepsis
+metalepsis | 3 | in rhetoric, putting one word for another that it suggests by association, often in two steps
 metallicus | 1 | metallic
 metallicus | 3 | as a noun, miner
+metallum | 1 | mine
+metallum | 2 | metal
+metallum | 3 | a mine or quarry: metalla instituere, to open mines; damnare in metallum, to condemn to the mines
+metallum | 4 | a metal, as gold, silver or iron
+metallum | 5 | anything dug from the earth, as marble or precious stones
+metamorphosis | 1 | transformation
+metamorphosis | 3 | Metamorphoses, the title of Ovid's poem of transformations
 metator | 1 | surveyor
 metior | 1 | measure
 metior | 3 | in poetry, by extension, traverse (a distance)
