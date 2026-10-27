@@ -1,5 +1,8 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_C.json (Lewis & Short via Perseus), simplified for learners.
+caballus1 | 1 | nag
+caballus1 | 3 | a working horse or pack-horse, in poetry and later prose
+caballus1 | 4 | optat arare caballus, the nag wants to plough, no one is content with his lot
 cachinno1 | 1 | guffaw
 cachinno1 | 3 | to laugh out loud, to roar with laughter, often in mockery: cachinnare ipse Apronius, Apronius roaring with laughter himself
 cachinno1 | 4 | with an accusative of what is laughed at: exitum meum cachinnant, they laugh at my downfall
@@ -9,9 +12,14 @@ cachinnus | 3 | a loud burst of laughter, and often a jeering one: cachinnum tol
 cachinnus | 4 | cachinnos commovere, to raise a laugh against someone; effusus in cachinnos, bursting into peals of laughter
 cachinnus | 5 | res digna tuo cachinno, a thing worth a laugh from you
 cachinnus | 6 | in the poets of the sea: leni resonant plangore cachinni, the ripples answer with a gentle splash
+cachrys | 1 | cone
+cachrys | 3 | a growth on certain trees in autumn, a catkin or cone; also the seed capsule of some plants
 caco | 1 | defecate
 caco | 3 | to empty the bowels, a coarse word of the satirists and epigrammatists
 caco | 4 | transitively, to void something, and so to foul with excrement: cacata charta, a befouled sheet, said of a worthless book
+cacoethes | 1 | malignancy
+cacoethes | 3 | in medicine, a stubborn, malignant disease
+cacoethes | 4 | figuratively, an incurable itch: insanabile scribendi cacoethes, the incurable itch to write
 cacula | 1 | soldier's servant
 cacula | 3 | a servant, and above all the one who waited on a soldier, an old word: caculam militarem me futurum, that I am to be a soldier's man
 cacumen | 1 | tip
@@ -50,6 +58,10 @@ caducus | 6 | in medicine, subject to fits: morbus caducus, the falling sickness
 caducus | 7 | figuratively frail and fleeting: res humanae fragiles caducaeque, human things, brittle and soon gone
 caducus | 8 | in law, of a bequest that lapses because the named heir cannot take it, and as a noun caducum, an estate left without an owner
 caducus | 9 | as an adverb caduciter, headlong
+cadus | 1 | jar
+cadus | 3 | a large earthenware jar, especially for wine: cadus vini, a jar of wine
+cadus | 4 | a jar for honey, oil or fruit; also a funeral urn
+cadus | 5 | a measure of liquid, about one and a half amphorae
 caecitas | 1 | blindness
 caecitas | 3 | the loss of sight
 caecitas | 4 | figuratively blindness of mind: caecitas mentis, said both of madness and of moral folly
@@ -192,9 +204,22 @@ calamitosus | 3 | actively, bringing ruin on others: calamitosissimum bellum, a 
 calamitosus | 4 | of weather and places, damaging to the crops: ne regio calamitosa sit, that the district may not be blighted
 calamitosus | 5 | passively, suffering damage or open to it: agri vectigal calamitosum, a land tax on ground liable to loss
 calamitosus | 6 | of people, unlucky and wretched: fortuna magis quam culpa calamitosi, ruined by their luck rather than their fault
+calamus | 1 | reed
+calamus | 2 | pen
+calamus | 3 | a reed or cane; calamus odoratus, sweet flag, an aromatic reed
+calamus | 4 | a reed pen: calamo et atramento, with pen and ink
+calamus | 5 | in poetry, a reed pipe, a shepherd's pipe
+calamus | 6 | in poetry, an arrow
+calamus | 7 | a fishing rod; a lime-twig for catching birds
+calamus | 8 | a stalk or stem of grain; a graft or cutting
+calathus | 1 | basket
+calathus | 3 | a wicker basket for wool, flowers or fruit
+calathus | 4 | a bowl or pail for milk; a wine cup
 calator | 1 | attendant
 calator | 3 | a servant kept to summon and announce, and so above all the attendant on a priest
 calator | 4 | more widely any servant: comes calator equus agaso armiger, my own companion, attendant, horse, groom and armour-bearer
+calautica | 1 | headdress
+calautica | 3 | a woman's head covering that hung down over the shoulders
 calcar | 1 | spur
 calcar | 3 | the spur worn on the heel, named from calx, the heel: incendere equum calcaribus, to put spurs to one's horse
 calcar | 4 | figuratively a spur or incentive: alter frenis eget, alter calcaribus, one man needs the rein and the other the spur
@@ -292,6 +317,12 @@ caligo2 | 7 | in medicine of the eyes, to be weak, and of a person, to be dim-si
 caligula | 1 | little boot
 caligula | 3 | a small soldier's boot, the diminutive of caliga
 caligula | 4 | from it comes the nickname Caligula, given to the emperor because he was brought up in the camp from boyhood
+calix | 1 | cup
+calix | 3 | a drinking cup, a goblet; and by extension the wine in it
+calix | 4 | a cooking pot
+calix | 5 | a small pipe in an aqueduct
+callais | 1 | turquoise
+callais | 3 | a sea-green precious stone; callainus, turquoise-coloured
 calleo | 1 | know
 calleo | 3 | to know a thing thoroughly from practice, where scio is simply to know: cuncta perdocte callet, he knows the whole of it expertly
 calleo | 4 | with an infinitive, to know how to do something
@@ -322,6 +353,8 @@ callum | 4 | the tough flesh of certain animals: callum aprugnum, boar's brawn
 callum | 5 | the tough skin or flesh of plants and fruits
 callum | 6 | a hard crust on the soil, or the caking of salt
 callum | 7 | figuratively hardness and want of feeling: labor callum obducit dolori, toil lays a callus over pain
+calo1 | 1 | summon
+calo1 | 3 | in religious language, to call together or proclaim: comitia calata, an assembly summoned by the priests
 calo2 | 1 | camp servant
 calo2 | 3 | a soldier's servant with the army, said to be named from the wooden staves such men carried
 calo2 | 4 | more widely any menial or drudge
