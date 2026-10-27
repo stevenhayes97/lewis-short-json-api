@@ -135,7 +135,6 @@ basilicus | 5 | basilicus as a noun, the king's throw, the best throw at dice
 basiliscus | 1 | basilisk
 basiliscus | 3 | a kind of serpent or lizard whose look was said to kill
 basis | 1 | pedestal
-basis | 2 | base
 basis | 3 | the pedestal of a statue: in basi statuarum, on the pedestals of the statues
 basis | 4 | in mathematics, the base of a triangle
 basis | 5 | the lowest part of a column, the base of its shaft
@@ -719,7 +718,6 @@ buccula | 5 | in the plural also the two cheeks either side of the groove holdin
 bucerus | 1 | horned
 bucerus | 3 | in poetry, having the horns of an ox: bucera saecla, the horned breeds of cattle
 bucina | 1 | trumpet
-bucina | 2 | horn
 bucina | 3 | a curved horn or trumpet, especially a shepherd's horn
 bucina | 4 | the war-trumpet that gave signals in camp and marked the night watches: ad tertiam bucinam, at the third watch
 bucina | 5 | a horn calling the people to an assembly

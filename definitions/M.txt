@@ -302,7 +302,6 @@ masculinus | 3 | in grammar, masculine (of grammatical gender)
 masculus | 1 | male
 masculus | 3 | by extension, manly, vigorous, bold
 massa1 | 1 | lump
-massa1 | 2 | mass
 massa1 | 3 | a lump or mass of something sticky: massa picis, a lump of pitch; massa lactis coacti, a cheese
 massa1 | 4 | a mass of metal, an ingot
 massalis | 1 | of mass
@@ -572,7 +571,6 @@ metuo | 3 | in Christian Latin, revere, hold in awe
 metus | 1 | fear
 metus | 3 | by extension, concretely, a terror (a thing that causes fear)
 meus | 1 | my
-meus | 2 | mine
 meus | 3 | my, belonging to me: domus mea, my house; mea sponte, of my own accord
 meus | 4 | as a term of affection: mi fili, my son; Lolli meus, my dear Lollius
 meus | 5 | mei, my family or friends; meum, my property: fundite quae mea sunt, throw overboard what is mine
@@ -1140,7 +1138,6 @@ myrtus | 1 | myrtle
 myrtus | 3 | the myrtle tree, sacred to Venus: myrto caput impedire, to wreathe one's head with myrtle
 myrtus | 4 | in poetry, a spear of myrtle wood
 mysterium | 1 | mystery
-mysterium | 2 | secret
 mysterium | 3 | secret rites, the mysteries of a god: mysteria Eleusinia, the Eleusinian mysteries
 mysterium | 4 | any secret: epistulae nostrae tantum habent mysteriorum, our letters hold so many secrets
 mysterium | 5 | in Christian Latin, a divine mystery beyond understanding: mysterium evangelii, the mystery of the gospel

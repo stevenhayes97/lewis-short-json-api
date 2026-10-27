@@ -210,7 +210,6 @@ nemorosus | 3 | by extension, leafy, shady (full of foliage)
 nempe | 1 | certainly
 nempe | 3 | you mean (in questions, asking for confirmation of another's meaning)
 nemus | 1 | grove
-nemus | 2 | wood
 nemus | 3 | a wood with open glades and pasture; in poetry any wood or forest
 nemus | 4 | a grove sacred to a god: nemus Dianae, Diana's grove at Aricia
 nemus | 5 | in poetry, a tree, or timber

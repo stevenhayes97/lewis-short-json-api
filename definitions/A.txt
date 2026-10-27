@@ -2175,7 +2175,6 @@ ambrosia1 | 5 | orator ambrosia alendus, an orator fit to be fed on ambrosia, a 
 ambrosia1 | 6 | the name of several plants, especially a kind of mugwort
 ambrosia1 | 7 | an antidote to poison
 ambrosius1 | 1 | ambrosial
-ambrosius1 | 2 | divine
 ambrosius1 | 3 | in poetry, belonging to the gods, and so lovely, fragrant or sweet: ambrosiae comae, ambrosial locks
 ambulacrum | 1 | avenue
 ambulacrum | 3 | a walk planted with trees beside a house, an early word for what classical Latin calls ambulatio
@@ -3400,7 +3399,6 @@ arrepo | 1 | creep up
 arrepo | 3 | to creep slowly up to something (with ad or the dative): ad columbaria arrepere, to steal up to the dovecotes
 arrepo | 4 | figuratively, to worm one's way in: ad amicitiam arrepere, to insinuate oneself into a friendship
 arrha | 1 | deposit
-arrha | 2 | pledge
 arrha | 3 | earnest-money, a part of the price paid to seal a bargain
 arrha | 4 | figuratively, a pledge or token of something to come: arrabo amoris, a pledge of love
 arrideo | 1 | smile

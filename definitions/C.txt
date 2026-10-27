@@ -426,7 +426,6 @@ camillus1 | 3 | a boy of good family who served at the sacrifices of the Flamen 
 camillus1 | 4 | its feminine camilla, a girl of unblemished birth who served in the same way
 camillus1 | 5 | Quintilian notes that it was also used to mean simply small
 caminus | 1 | furnace
-caminus | 2 | forge
 caminus | 3 | a smelting furnace, a smith's forge; in poetry, the forge of Vulcan under Etna
 caminus | 4 | a stove for heating a room, and the fire in it
 caminus | 5 | oleum addere camino, to pour oil on the fire, to make matters worse

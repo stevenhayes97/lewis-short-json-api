@@ -169,7 +169,6 @@ obruo | 3 | sink, submerge (in water)
 obruo | 4 | overload, surfeit (with something, e.g. wine, criticism)
 obruo | 5 | outdo, eclipse, surpass
 obrussa | 1 | assay
-obrussa | 2 | test
 obrussa | 3 | the testing of gold in fire: aurum ad obrussam, gold of tested purity
 obrussa | 4 | figuratively, a touchstone: adhibenda tamquam obrussa ratio, reason must be applied as a touchstone
 obsaepio | 1 | enclose

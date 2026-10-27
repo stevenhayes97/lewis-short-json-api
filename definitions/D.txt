@@ -1582,7 +1582,6 @@ dolor | 3 | by extension, a grief, a cause of sorrow
 dolor | 4 | in rhetoric, pathos, passionate expression
 dolosus | 1 | deceitful
 dolus | 1 | trick
-dolus | 2 | deceit
 dolus | 3 | a scheme or stratagem: dolis capere, to take by trickery
 dolus | 4 | dolus malus, in law, fraud, wilful wrongdoing
 dolus | 5 | guile, cunning, deception: sine dolo, honestly
