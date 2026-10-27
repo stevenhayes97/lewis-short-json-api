@@ -3445,6 +3445,10 @@ ars | 8 | in a bad sense, a trick or artifice
 # review: arse verse an Etruscan charm rather than Latin; the gloss is the ancient explanation averte ignem
 arse verse | 1 | avert fire
 arse verse | 3 | a Tuscan formula written up as a charm against fire, explained by the ancients as averte ignem, ward off the flame
+arteria | 1 | windpipe
+arteria | 2 | artery
+arteria | 3 | the windpipe, also called arteria aspera
+arteria | 4 | an artery, thought to carry breath through the body as the veins carry blood
 articulatim | 1 | piecemeal
 articulatim | 3 | joint by joint, limb by limb: articulatim concidere, to cut a man up limb by limb
 articulatim | 4 | of speech, point by point and distinctly: articulatim explicare, to set something out clearly
@@ -3504,6 +3508,7 @@ arvalis | 3 | Fratres Arvales, the Arval Brethren, a college of twelve priests w
 arvina | 1 | fat
 arvina | 3 | grease or suet, properly the hard fat lying between the skin and the flesh
 arvina | 4 | the fat of a victim offered in sacrifice
+# skip: arvix a sacrificial ram known only from the grammarians, nothing to teach
 arvus | 1 | ploughed
 arvus | 3 | of land, ploughed but not yet sown
 arvus | 4 | as a noun, arvum, ploughed land, a cornfield: ferro molirier arva, to work the fields with iron
@@ -3577,6 +3582,8 @@ asinus | 1 | ass
 asinus | 2 | fool
 asinus | 3 | the ass as a working animal
 asinus | 4 | as an insult, a dolt or blockhead: quid tu huic, asine, auscultas, why listen to him, you ass
+asparagus | 1 | asparagus
+asparagus | 3 | a young shoot or sprout like asparagus
 aspecto | 1 | gaze
 aspecto | 3 | to look at something hard, with respect or with longing: quid me aspectas, why do you stare at me
 aspecto | 4 | to give heed to something: jussa principis aspectare, to watch for the emperor's orders
@@ -3812,6 +3819,9 @@ assus | 1 | roast
 assus | 3 | roasted rather than boiled: turdi assi, roast thrushes
 assus | 4 | dry or plain, of a thing with nothing added: assa sudatio, a dry sweating-bath
 assus | 5 | as a noun, assa, a sweating-room in the baths
+aster | 1 | star
+aster | 3 | aster Atticus, the starwort, a flower
+aster | 4 | aster Samius, a medicinal earth from Samos
 astipulatio | 1 | agreement
 astipulatio | 3 | an assent that confirms the same facts: Senecae astipulatio, Seneca's corroboration
 astipulatio | 4 | in Quintilian, the matching of the voice to the sense
@@ -3826,6 +3836,9 @@ asto | 3 | to stand at or beside a person or thing
 asto | 4 | to stand at someone's side as helper or counsel
 asto | 5 | of things, to stand upright: squamis astantibus, with the scales standing on end
 asto | 6 | figuratively, of what is in store: certa finis vitae mortalibus astat, a fixed end stands waiting for mortal men
+astragalus | 1 | astragal
+astragalus | 3 | in architecture, a small ring-shaped moulding round the top of a column
+astragalus | 4 | a plant of the pea family
 astrepo | 1 | applaud
 astrepo | 3 | to make a noise at or towards something: scopuli astrepunt, the rocks roar back
 astrepo | 4 | to shout approval at someone (with the dative): astrepebat vulgus, the crowd roared him on
@@ -3836,6 +3849,16 @@ astringo | 4 | to bind someone by an obligation, to put them under a duty
 astringo | 5 | of the body, to make costive, or of taste to pucker: gustu astricto, with a sharp taste
 astringo | 6 | astrictus as an adjective, tight-fisted and sparing: astrictus pater, a close-fisted father
 astringo | 7 | of style, compact and terse: astricta verborum comprehensio, a tightly built sentence
+astrologia | 1 | astronomy
+astrologia | 3 | the study of the stars; in classical Latin this means astronomy
+astrologia | 4 | in later Latin, astrology
+astrologus | 1 | astronomer
+astrologus | 2 | astrologer
+astrologus | 3 | one who reads fortunes in the stars: astrologorum signa in caelo quaerere, to look in the sky for the astrologers' signs
+astrum | 1 | star
+astrum | 3 | a star or constellation, a poetic or elevated word
+astrum | 4 | the stars as a measure of height: turris educta sub astra, a tower raised up to the stars
+astrum | 5 | heaven and immortal glory: sic itur ad astra, this is the way to the stars; ad astra tollere, to praise to the skies
 astruo | 1 | build on
 astruo | 3 | to build something on to what stands already: veteri astruitur recens aedificium, a new building goes up against the old
 astruo | 4 | to add something to what someone has: astrue formae, add this to your looks
@@ -3851,6 +3874,8 @@ astutia | 4 | in early and in later Latin, simply shrewdness or good sense
 astutus | 1 | crafty
 astutus | 3 | shrewd and sharp-witted, in a good sense
 astutus | 4 | more often in a bad sense, sly and designing: malus, callidus, astutus, a rogue, a schemer and a sly one
+asylum | 1 | sanctuary
+asylum | 3 | a place of refuge where no one could be seized: Romulus asylum aperit, Romulus opens a refuge
 at | 1 | but
 at | 3 | but, marking a contrast: Scipio est bellator, at Cato orator, Scipio is a soldier, but Cato a speaker
 at | 4 | introducing a new turn in the narrative, but meanwhile: at regina, but the queen for her part
@@ -3858,6 +3883,8 @@ at | 5 | introducing an objection someone might raise, but it may be said: at en
 at | 6 | after a negative, but at least: si non, at tamen, if not, then at any rate
 at | 7 | in appeals and curses: at te di perdant, but may the gods destroy you; at vos miserescite, but do you take pity
 at | 8 | after si or quoniam, introducing what follows, then at least
+atat | 1 | ah
+atat | 3 | in comedy, an exclamation of surprise, alarm or warning: oh!, ah!, look out!
 atavus | 1 | great-great-great-grandfather
 atavus | 3 | the father of an abavus, five generations back, and the counterpart of adnepos
 atavus | 4 | more loosely, an ancestor or forefather: avis atavisque potens, strong in grandfathers and forefathers
