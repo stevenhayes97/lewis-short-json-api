@@ -1653,9 +1653,22 @@ dossennus1 | 3 | by extension, ironically, a fool, clown, jester
 dotalis | 1 | dotal
 doto1 | 1 | endow
 doto1 | 3 | by extension, to enrich, endow (something) with a quality
+drachma | 1 | drachma
+drachma | 3 | a Greek silver coin, worth about a Roman denarius
+drachma | 4 | as a weight, a drachm, an eighth of an ounce
+draco1 | 1 | serpent
+draco1 | 2 | dragon
+draco1 | 3 | a large snake; some tame kinds were kept as pets
+draco1 | 4 | in myth, a dragon guarding a treasure
+draco1 | 5 | Draco, the constellation of the Dragon
+draco1 | 6 | in later Latin, a dragon standard carried by a cohort
+draco1 | 7 | a sea fish, the weever
+draco1 | 8 | in Christian Latin, the Serpent, the Devil
 dracunculus | 1 | small serpent
 dracunculus | 3 | a kind of fish, the dragonet
 dracunculus | 4 | the plant tarragon
+dromos | 1 | racecourse
+dromos | 3 | a running track; the plain near Sparta where the young men trained
 dubitatio | 1 | doubt
 dubitatio | 3 | in rhetoric, dubitatio, a figure feigning hesitation for rhetorical effect
 dubitatio | 4 | hesitancy, irresolution, delay (in acting)
