@@ -4393,3 +4393,30 @@ cutis | 1 | skin
 cutis | 2 | rind
 cutis | 3 | curare cutem, to pamper oneself
 cutis | 4 | figuratively, surface appearance, as opposed to substance
+cyaneus | 1 | dark-blue
+cyaneus | 3 | dark blue, sea blue
+cyaneus | 4 | of the Cyaneae, the clashing rocks at the mouth of the Black Sea
+cyathus | 1 | ladle
+cyathus | 3 | a small ladle for dipping wine from the mixing bowl into cups: ad cyathum stare, to serve the wine
+cyathus | 4 | a measure, a twelfth of a sextarius, about a small glassful
+cyclas | 1 | robe
+cyclas | 3 | a woman's state robe with a border running all round
+cyclicus | 1 | cyclic
+cyclicus | 3 | scriptor cyclicus, a cyclic poet, one of the epic poets who retold the whole cycle of myth
+cyclus | 1 | cycle
+cyclus | 3 | a circle
+cyclus | 4 | in later Latin, a recurring period: cyclus lunae, the lunar cycle
+cycnus1 | 1 | swan
+cycnus1 | 3 | the swan, sacred to Apollo and famous for its dying song
+cycnus1 | 4 | in poetry, a poet: Dircaeus cycnus, the swan of Thebes, Pindar
+cylindrus | 1 | cylinder
+cylindrus | 3 | a stone roller for levelling the ground
+cylindrus | 4 | a precious stone cut in the shape of a cylinder
+cyma | 1 | sprout
+cyma | 3 | a young cabbage sprout
+cymba | 1 | boat
+cymba | 3 | a small boat, a skiff; especially Charon's boat that ferries the dead
+cymba | 4 | figuratively, of a modest talent: non est ingenii cymba gravanda tui, do not overload the little boat of your talent
+cymbalum | 1 | cymbal
+cymbalum | 3 | a pair of brass plates struck together, used in the rites of Cybele and Bacchus
+cymbalum | 4 | figuratively, a loud talker: cymbalum mundi, the cymbal of the world
