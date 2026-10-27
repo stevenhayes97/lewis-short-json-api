@@ -622,6 +622,10 @@ adaequo | 3 | to make one thing equal to another, to level it with something (wi
 adaequo | 4 | to compare one thing with another
 adaequo | 5 | to come up to something, to match or rival it
 adaequo | 6 | with no object, to be equal, to come out even
+adamas | 1 | adamant
+adamas | 2 | diamond
+adamas | 3 | in poetry, the hardest iron or steel, anything unbreakable: solido adamante columnae, columns of solid adamant
+adamas | 4 | figuratively, of a hard, unyielding, pitiless character
 adamo | 1 | love
 adamo | 3 | to fall deeply in love with someone, to come to love them
 adamo | 4 | to take a strong liking to a thing, to grow fond of it
@@ -914,6 +918,9 @@ adolesco | 3 | to grow up towards full size, of people, animals, plants, and sea
 adolesco | 4 | of feelings and other abstract things, to grow greater, to increase
 adolesco | 5 | in sacrifice, of an altar fire, to blaze up
 adolesco | 6 | adultus as an adjective: grown up, full-grown, mature
+adonium | 1 | adonium
+adonium | 3 | a plant with a gold or blood-red flower, said to come from the blood of Adonis
+adonium | 4 | in grammar, the Adonic verse, a dactyl followed by a spondee
 adoperio | 1 | cover
 adoperio | 3 | to cover something over, most often in the perfect participle: capite adoperto, with the head covered
 adoptatio | 1 | adoption
@@ -1107,6 +1114,10 @@ advolo | 4 | of people, to rush up, to come flying: advolare ad urbem, to descen
 advolvo | 1 | roll
 advolvo | 3 | to roll something up to a place: robora focis advolvere, to roll logs to the hearth
 advolvo | 4 | of a suppliant, to throw oneself down before someone: genibus advolvi, to fall at their knees
+adytum | 1 | sanctuary
+adytum | 3 | the innermost part of a temple, which only priests could enter and where oracles were given
+adytum | 4 | any secret inner chamber; of the dead, a tomb
+adytum | 5 | figuratively, the inmost recesses: ex adyto cordis, from the depths of the heart
 aedes | 1 | temple
 aedes | 2 | house
 aedes | 3 | in the singular, a temple, the dwelling of a god, originally a single undivided room
@@ -1150,6 +1161,10 @@ aeger | 5 | of the state, weak and failing, in a bad way
 aeger | 6 | as a noun, a sick person, a patient
 aeger | 7 | the adverb aegre: with difficulty, hardly, scarcely
 aeger | 8 | aegre ferre, to take a thing badly, to be put out by it
+aegilops | 1 | eye-tumour
+aegilops | 3 | a swelling or fistula in the inner corner of the eye
+aegilops | 4 | a kind of oak with edible acorns
+aegilops | 5 | a weed growing among barley, wild oats
 aegis | 1 | aegis
 aegis | 3 | the shield of Jupiter, and the shield of Minerva bearing the Gorgon's head
 aegis | 4 | any shield or defence
@@ -1190,6 +1205,11 @@ aemulus | 5 | as a noun, a rival, and especially a rival in love
 aeneus | 1 | of bronze
 aeneus | 3 | made of copper or bronze: statua aenea, a bronze statue
 aeneus | 4 | bronze-coloured: barba aenea, a red-bronze beard
+aenigma | 1 | riddle
+aenigma | 2 | allegory
+aenigma | 3 | anything dark or inexplicable, a puzzle: aenigmata somniorum, the puzzles of dreams
+aenigma | 4 | a dark figurative saying, an obscure allegory
+aenigma | 5 | in Christian Latin, per aenigma videre, to see obscurely, as in a glass darkly
 aenus3 | 1 | of bronze
 aenus3 | 3 | made of bronze, the poetic form of aheneus
 aenus3 | 4 | firm and unyielding, invincible: manus aenae, hands of bronze
@@ -1640,6 +1660,9 @@ ago | 7 | in public affairs, to conduct or manage: agere bellum, to wage a war; 
 ago | 8 | in court, to plead or prosecute: causam agere, to plead a case; agere reum, to bring someone to trial
 ago | 9 | res agitur, the matter is at stake; actum est de me, it is all over with me; actum ne agas, do not do what is already done
 ago | 10 | age or agite as an interjection, come on, well then, all right
+agon | 1 | contest
+agon | 3 | a contest in the public games, athletic or musical: agon gymnicus, an athletic contest
+agon | 4 | nunc demum agon est, now is the moment, now we must act
 agrarius | 1 | agrarian
 agrarius | 3 | to do with land: leges agrariae, the laws for dividing up public land
 agrarius | 4 | agrarii as a noun, the party that pressed for those laws
@@ -1677,6 +1700,12 @@ ala | 4 | in a person the armpit, in an animal the hollow of the shoulder
 ala | 5 | in a plant, the fork where a branch leaves the stem
 ala | 6 | in a house, the side rooms or wings off the main hall
 ala | 7 | in an army, the wing, made up chiefly of cavalry and allied troops
+alabaster | 1 | perfume-box
+alabaster | 3 | a slender box or flask for perfumed ointment, pointed at the top: alabaster plenus unguenti, a box full of ointment
+alabaster | 4 | the pointed shape of a rosebud
+alabastrites | 1 | alabaster
+alabastrites | 3 | a soft stone from which perfume boxes were carved, also called onyx
+alabastrites | 4 | a precious stone found near the Egyptian town of Alabastron
 alacer | 1 | eager
 alacer | 2 | brisk
 alacer | 3 | lively and quick, full of go, of people and of animals
@@ -1810,6 +1839,8 @@ aliorsum | 4 | in another sense: aliorsum accipere, to take a thing the wrong wa
 alipes | 1 | wing-footed
 alipes | 3 | with wings on the feet, an epithet of Mercury
 alipes | 4 | swift of foot, fleet, of horses and deer
+aliptes | 1 | trainer
+aliptes | 3 | the trainer at a wrestling school, who oiled the athletes and exercised them in the ring
 aliquando | 1 | sometime
 aliquando | 2 | sometimes
 aliquando | 3 | at some time or other, once, ever, of a time left vague
@@ -1881,6 +1912,8 @@ allego1 | 5 | to bring forward or cite a thing: exemplum allegare, to adduce an 
 allego2 | 1 | co-opt
 allego2 | 3 | to choose someone into a body, to elect them onto a college
 allego2 | 4 | of senators added from the equestrian order to make up the numbers
+allegoria | 1 | allegory
+allegoria | 3 | a thought presented under an image carried through to the end: per allegoriam dicta, said allegorically
 allevio | 1 | lighten
 allevio | 3 | to make a thing lighter, to lighten a load
 allevio | 4 | to relieve or comfort someone
