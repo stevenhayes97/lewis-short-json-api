@@ -59,7 +59,7 @@ pagus | 1 | district
 pagus | 3 | the country folk, villagers (of a rural district, by metonymy)
 pala | 1 | spade
 pala | 3 | by extension, bezel, the flat setting of a ring (by shape)
-palaestra | 1 | wrestling-school
+palaestra | 1 | wrestling school
 palaestra | 2 | wrestling
 palaestra | 3 | a place for wrestling and exercise, where young men trained naked and oiled
 palaestra | 4 | wrestling, gymnastic exercise: didicisse palaestram, to have learned wrestling
@@ -181,6 +181,11 @@ pannus | 2 | rag
 pannus | 3 | in the plural, swaddling-clothes (of an infant)
 pantex | 1 | belly
 pantex | 3 | (comically) sausages, stuffed guts (of food, a Vergilian jest)
+panthera1 | 1 | panther
+panthera1 | 3 | the panther or leopard
+panus | 1 | bobbin
+panus | 3 | the thread wound on the bobbin in a shuttle
+panus | 4 | a swelling or tumour; an ear of millet
 papaver | 1 | poppy
 papaver | 3 | by extension, seed, kernel (of small seeds generally, by analogy with poppy-seed)
 papilio | 1 | butterfly
@@ -188,12 +193,37 @@ papilio | 2 | tent
 papilla | 1 | nipple
 papilla | 2 | breast
 papilla | 3 | in poetry, rose-bud (by resemblance of shape)
+pappus | 1 | old man
+pappus | 3 | an old man; a grandfather
+pappus | 4 | the downy seed-tuft of certain plants, thistledown
 papula | 1 | pimple
+papyrus | 1 | papyrus
+papyrus | 2 | paper
+papyrus | 3 | the papyrus reed of the Nile marshes
+papyrus | 4 | paper made from papyrus; a garment made of its bark
 par | 1 | equal
 par | 2 | pair
 par | 3 | par est, it is fitting, right, proper (an impersonal idiom, like oportet)
 par | 4 | pariter, equally, likewise, at the same time (the common adverbial form)
 parabilis | 1 | attainable
+parabola | 1 | comparison
+parabola | 3 | a comparison or illustration in rhetoric
+parabola | 4 | in Christian Latin, a parable; a proverb; a speech or discourse
+paradisus | 1 | park
+paradisus | 3 | an enclosed park or garden; an orchard
+paradisus | 4 | in Christian Latin, Paradise, the Garden of Eden
+paradisus | 5 | in Christian Latin, Paradise, the dwelling of the blessed
+paradoxus | 1 | paradoxical
+paradoxus | 3 | paradoxa, the surprising doctrines of the Stoics
+paradoxus | 4 | paradoxum, a figure of speech ending with something unexpected
+paralyticus | 1 | paralysed
+paralyticus | 3 | as a noun, a paralytic, a palsied person
+parasitus | 1 | parasite
+parasitus | 2 | guest
+parasitus | 3 | a sponger who lives at another's table by flattery and joking, a stock character of comedy
+parasitus | 4 | a guest; parasitus Phoebi, an actor
+parastaticus | 1 | pilaster
+parastaticus | 3 | parastatica, a square pillar set into a wall
 paratus2 | 1 | preparation
 parcitas | 1 | frugality
 parcitas | 2 | mercy
@@ -202,6 +232,8 @@ parco | 2 | refrain
 parco | 3 | parcere alicui, to spare someone, show mercy (with the dative)
 parcus | 1 | frugal
 parcus | 2 | scanty
+pardus | 1 | leopard
+pardus | 3 | the male panther, a leopard
 parens2 | 1 | parent
 parens2 | 2 | founder
 parens2 | 3 | by extension, ancestors, forebears (plural, of more remote generations)
@@ -214,6 +246,8 @@ pareo | 1 | obey
 pareo | 2 | appear
 pareo | 3 | si paret, if it is proven, if it appears (evident) -- a legal formula
 pareo | 4 | parere alicui, to obey someone, be subject to them (with the dative)
+pariambus | 1 | pariambus
+pariambus | 3 | a name for several metrical feet, especially the pyrrhic of two short syllables
 paries | 1 | wall
 paries | 3 | figuratively, partition, barrier (something that separates)
 parietarius | 1 | wall
