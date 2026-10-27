@@ -491,6 +491,8 @@ leontice | 1 | leontice
 leontice | 3 | a plant, also called cacalia
 lepidus1 | 1 | charming
 lepidus1 | 3 | in particular, witty, facetious (of speech)
+lepista | 1 | goblet
+lepista | 3 | in early Latin, a drinking vessel or jug: lepistae aureae, golden goblets
 lepor | 1 | charm
 lepor | 3 | in particular, wit, humour (of speech)
 lepor | 4 | my darling, my charmer (as a term of endearment)
@@ -500,9 +502,15 @@ lepra | 1 | leprosy
 lepus | 1 | hare
 lepus | 3 | the constellation Lepus
 letalis | 1 | deadly
+lethargicus | 1 | lethargic
+lethargicus | 3 | drowsy, comatose; as a noun, a patient sunk in lethargy
+lethargus | 1 | lethargy
+lethargus | 3 | a disease of heavy drowsiness, a coma: lethargo oppressus, overcome by lethargy
 letifer | 1 | deadly
 letum | 1 | death
 letum | 3 | by extension, ruin, destruction (of things)
+leucanthemon | 1 | chamomile
+leucanthemon | 3 | the name of several white-flowered plants, especially chamomile
 levamen | 1 | relief
 levamentum | 1 | relief
 levatio | 1 | lifting
@@ -615,6 +623,9 @@ liceor | 1 | bid
 liceor | 3 | figuratively, appraise, estimate the value of
 licet | 1 | may
 licet | 2 | although
+lichen | 1 | lichen
+lichen | 3 | a skin rash, ringworm
+lichen | 4 | a callus on a horse's leg, used in medicine
 licitatio | 1 | bid
 licitor | 1 | bid
 licitor | 3 | by extension, contend, fight
@@ -703,6 +714,15 @@ linter | 3 | by extension, skiff, small boat
 linteum | 1 | cloth
 linteum | 3 | by extension, sail
 linteus | 1 | linen
+linum | 1 | flax
+linum | 2 | linen
+linum | 3 | flax, the plant and its fibre
+linum | 4 | a thread, especially the cord that tied a letter or a legal document
+linum | 5 | linen cloth, a linen garment
+linum | 6 | a net for hunting or fishing; a fishing line
+linum | 7 | in poetry, a sail or a rope
+linum | 8 | a linen corselet
+linum | 9 | in Christian Latin, a lamp wick
 lippio | 1 | be bleary-eyed
 lippio | 3 | by extension, smart, burn (of the throat)
 lippitudo | 1 | bleariness
@@ -813,6 +833,12 @@ locutio | 1 | speech
 locutio | 3 | in particular, pronunciation, manner of speaking
 locutio | 4 | by extension, phrase, expression
 locutuleius | 1 | chatterbox
+logicus | 1 | logical
+logicus | 3 | logica, logic: logica appellant, they call it logic
+logos | 1 | word
+logos | 3 | in early Latin, mere words, empty talk
+logos | 4 | a joke, a witty saying: logi ridiculi, funny stories
+logos | 5 | a fable: Aesopei logi, Aesop's fables
 lomentum | 1 | cosmetic
 lomentum | 3 | by extension, bean-meal
 longaevus | 1 | aged
@@ -849,6 +875,11 @@ loripes | 1 | bandy-legged
 lorum | 1 | thong
 lorum | 3 | by extension, in the plural, reins
 lorum | 4 | by extension, whip, lash
+lotos | 1 | lotus
+lotos | 3 | the Egyptian water lily
+lotos | 4 | the lotus tree of north Africa, whose fruit the Lotus-eaters ate; its fruit
+lotos | 5 | the nettle-tree of Italy
+lotos | 6 | in poetry, a flute made of lotus wood
 lubrico | 1 | lubricate
 lubricus | 1 | slippery
 lubricus | 2 | precarious
@@ -1018,8 +1049,13 @@ luxurio | 1 | flourish
 luxurio | 2 | run riot
 luxuriosus | 1 | luxuriant
 luxuriosus | 2 | extravagant
+luxus1 | 1 | dislocated
+luxus1 | 3 | put out of joint: luxo pede, with a dislocated foot; luxum, a dislocation
 luxus3 | 1 | extravagance
 luxus3 | 3 | splendour, pomp (in a positive sense)
+lychnis | 1 | campion
+lychnis | 3 | a plant with a fiery red flower
+lychnis | 4 | a fiery red gem
 lympha | 1 | water
 lympha | 3 | in poetry, a water-nymph (personified)
 lymphaticus | 1 | frantic
