@@ -1033,6 +1033,22 @@ casus1 | 9 | above all a misfortune or disaster, and by a softer usage death its
 casus1 | 10 | in grammar, a case in the inflection of a word
 cataphractus | 1 | armoured
 cataphractus | 3 | clad in mail, of soldiers and their horses; cataphracti, heavy armoured cavalry
+cataplasma | 1 | poultice
+catapulta | 1 | catapult
+catapulta | 3 | a war engine for shooting arrows, spears and stones
+catapulta | 4 | in early Latin, the missile shot from it
+cataracta | 1 | waterfall
+cataracta | 2 | portcullis
+cataracta | 3 | a waterfall, especially the great cataract of the Nile
+cataracta | 4 | a portcullis or drop-gate in a town's defences
+cataracta | 5 | a sluice or floodgate
+cataracta | 6 | a diving seabird
+catasta | 1 | platform
+catasta | 3 | the stand on which slaves were shown for sale
+catasta | 4 | in Christian Latin, the scaffold on which martyrs were burned
+categoria | 1 | category
+categoria | 3 | in logic, one of Aristotle's ten categories
+categoria | 4 | an accusation
 catellus1 | 1 | puppy
 catellus1 | 3 | a little dog, the diminutive of catulus
 catellus1 | 4 | used as a term of endearment: mi catella, my little pet
@@ -1054,6 +1070,13 @@ caterva | 3 | a troop, band or crowd of people: magna caterva, a good large comp
 caterva | 4 | in the army a body of troops, and above all the loose formations of barbarian peoples set against the Roman legions
 caterva | 5 | in the theatre the whole company of actors, usually called a grex
 caterva | 6 | figuratively: caterva verborum, a rabble of words
+cathedra | 1 | chair
+cathedra | 3 | an armchair with cushions, especially a lady's chair; also a sedan chair
+cathedra | 4 | a teacher's chair, and so the office of teacher
+cathedra | 5 | in Christian Latin, a bishop's chair, his see
+catholicus | 1 | universal
+catholicus | 3 | in later Latin, relating to all, general
+catholicus | 4 | in Christian Latin, orthodox, catholic: fides catholica, the catholic faith
 catillus1 | 1 | small dish
 catillus1 | 3 | a little bowl, dish or plate, the diminutive of catinus
 catillus1 | 4 | of things shaped like a plate, an ornament on a scabbard, and the upper millstone
@@ -1125,6 +1148,9 @@ causativus | 1 | causative
 causativus | 3 | having the force of a cause, a late word
 causativus | 4 | belonging to a lawsuit: causativum litis, the point at issue in an action
 causativus | 5 | in grammar, casus causativus, another name for the accusative, the case that lays the charge
+causia | 1 | sunhat
+causia | 3 | a broad-brimmed Macedonian hat, worn against the sun
+causia | 4 | a protective roof for besiegers
 causidicus | 1 | pleader
 causidicus | 3 | an advocate who argues cases, said with some contempt beside the fuller word orator
 causidicus | 4 | causidici causas agere, for the pleaders to argue their cases
@@ -1132,9 +1158,14 @@ causor | 1 | plead
 causor | 3 | to give something as one's reason, and usually a pretended one, a word not found in Cicero: causari aves aut omina dira, to plead birds or ill omens as an excuse
 causor | 4 | absolutely, to make excuses: causando nostros in longum ducis amores, with your excuses you drag our love out
 causor | 5 | in the early writers, to argue a matter out on both sides
+causticus | 1 | caustic
+causticus | 3 | burning, corrosive: spuma caustica, a soap the Germans used to dye their hair
 cautela | 1 | caution
 cautela | 3 | care or precaution, and mostly a late word: cum cura aut cautela, with care and caution
 cautela | 4 | in the lawyers, the same as cautio, a security or guarantee
+cauterium | 1 | branding-iron
+cauterium | 3 | a hot iron for branding; in medicine, a cautery
+cauterium | 4 | a tool for burning in the wax in encaustic painting
 cautes | 1 | crag
 cautes | 3 | a rough pointed rock: saxa et cautes timere, to be afraid of rocks and reefs
 cautes | 4 | in the poets often of rocks at sea: durae cautes, hard crags; praerupta cautes, a sheer rock
