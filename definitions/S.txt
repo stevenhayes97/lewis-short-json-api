@@ -10,6 +10,9 @@ sacco | 1 | strain
 sacco | 3 | transferred, of urine, to be filtered through the body
 sacculus | 1 | bag
 sacculus | 2 | purse
+saccus | 1 | sack
+saccus | 3 | a sack or bag; especially a money bag
+saccus | 4 | in Christian Latin, sackcloth, a garment of mourning or penance
 sacellum | 1 | shrine
 sacellum | 3 | a small unroofed place consecrated to a god
 sacer | 1 | sacred
@@ -109,6 +112,11 @@ sagitto | 1 | shoot
 sagitto | 3 | as a past participle, shot or wounded with an arrow
 sagmen | 1 | sacred herbs
 sagmen | 3 | a tuft of sacred herbs, plucked in the citadel, that made an envoy inviolable
+sagum | 1 | cloak
+sagum | 3 | a coarse woollen military cloak
+sagum | 4 | saga sumere or ad saga ire, to put on the military cloak, to prepare for war; in sagis esse, to be under arms
+sagum | 5 | saga ponere, to lay down arms
+sagum | 6 | in Christian Latin, a curtain or covering
 sagus1 | 1 | witch
 sagus1 | 3 | as an adjective, prophetic, presaging
 sagus1 | 4 | transferred, a bawd, procuress
@@ -168,6 +176,12 @@ salubris | 1 | healthy
 salubris | 3 | of the human body itself, sound, vigorous
 salubritas | 1 | healthfulness
 salubritas | 3 | transferred, health, soundness itself
+salum | 1 | sea
+salum | 2 | swell
+salum | 3 | the open sea, especially a roadstead outside a harbour: in salo stare, to ride at anchor offshore
+salum | 4 | in poetry, the sea
+salum | 5 | the rolling of the sea, and so seasickness: salo nauseaque confecti, worn out by tossing and seasickness
+salum | 6 | figuratively, a sea of troubles or thoughts
 salus | 1 | safety
 salus | 2 | health
 salus | 3 | specifically, a greeting, a salutation
@@ -200,6 +214,9 @@ salveo | 4 | with vale, in parting, farewell
 salvus | 1 | safe
 salvus | 3 | colloquial, salva res est, all is well, it's all right
 salvus | 4 | as a greeting, salvus sis, welcome; also, at parting, farewell
+sambuca | 1 | harp
+sambuca | 3 | a small triangular harp with a shrill tone
+sambuca | 4 | a siege engine shaped like one, a bridge for storming walls
 sancio | 1 | sanction
 sancio | 3 | to consecrate, dedicate, render sacred
 sancio | 4 | to forbid under penalty, to enact a penalty against
@@ -258,8 +275,14 @@ sarcinula | 1 | bundle
 sarcio | 1 | mend
 sarcio | 3 | figuratively, to make good, to make amends for a loss
 sarcio | 4 | sarta tecta, well-preserved, safe and sound
+sarcophagus | 1 | coffin
+sarcophagus | 3 | a stone coffin, a tomb
+sarcophagus | 4 | lapis sarcophagus, a limestone said to consume corpses quickly
 sarculum | 1 | hoe
 sardius | 1 | carnelian
+sarisa | 1 | pike
+sarisa | 3 | the long Macedonian pike
+sarisa | 4 | in poetry, the Macedonians
 sarmentum | 1 | brushwood
 sarracum | 1 | wagon
 sarracum | 3 | as a proper noun, the constellation Sarracum, the Wain
@@ -301,6 +324,12 @@ saturo | 4 | figuratively, to satisfy, content, sate; also, to cause loathing, d
 satus2 | 1 | sowing
 satus2 | 2 | stock
 satus2 | 3 | figuratively, seed
+satyricus1 | 1 | satyric
+satyricus1 | 3 | of satyrs or satyr plays: genus satyricum, the satyric scenery of the stage
+satyrus | 1 | satyr
+satyrus | 3 | a satyr, a lustful woodland spirit with goat's legs
+satyrus | 4 | a satyr play, a Greek drama with a chorus of satyrs
+satyrus | 5 | a kind of ape
 saucio | 1 | wound
 saucio | 3 | pregnant sense, to kill, to deal a mortal blow
 saucio | 4 | of tilling the soil, to dig into, break up; also, to prune a vine
@@ -332,6 +361,15 @@ scabritia | 3 | the scab, the itch
 scaena | 1 | stage
 scaena | 3 | figuratively, the public eye, the public
 scaena | 4 | figuratively, outward show, pretext, parade
+scaenicus | 1 | theatrical
+scaenicus | 2 | actor
+scaenicus | 3 | of the stage: ludi scaenici, stage plays; artifices scaenici, actors
+scaenicus | 4 | as a noun, an actor
+scaenicus | 5 | figuratively, sham, pretended: scaenicus rex, a stage king
+scaevus | 1 | left
+scaevus | 3 | on the left side
+scaevus | 4 | outside classical Latin, awkward, perverse, stupid
+scaevus | 5 | of fortune, unlucky, untoward
 scala | 1 | ladder
 scala | 2 | stairs
 scala | 3 | specifically, Scalae Gemoniae, the Stairs of Mourning, where executed criminals' bodies were exposed
@@ -342,12 +380,16 @@ scalprum | 3 | specifically, a penknife
 scamnum | 1 | bench
 scamnum | 3 | agriculture, a ridge of earth left standing in ploughing, a balk
 scamnum | 4 | land-surveying, the breadth of a field, as opposed to its length
+scandalum | 1 | stumbling-block
+scandalum | 3 | in Christian Latin, a cause of sin, a temptation, an offence
 scando | 1 | climb
 scando | 3 | figuratively, to rise, ascend
 scansilis | 1 | climbable
 scansilis | 3 | figuratively, lex annorum scansilis, the law of the critical, climacteric years
 scansio | 1 | ascent
 scansio | 3 | grammatical, the scansion of verse
+scapha | 1 | skiff
+scapha | 3 | a light boat, a ship's boat: de navi in scapham desilire, to jump from the ship into the boat
 scapulae | 1 | shoulder-blades
 scapulae | 3 | transferred, the shoulders, the back
 scarifo | 1 | scarify
