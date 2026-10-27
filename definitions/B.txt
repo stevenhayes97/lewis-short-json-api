@@ -1,11 +1,15 @@
 # key | rank | definition   (ranks 1-2 are one-word glosses; 3+ broaden out)
 # Source: ls_B.json (Lewis & Short via Perseus), simplified for learners.
+babae | 1 | wow
+babae | 3 | in comedy, an exclamation of wonder or delight: wonderful!, well I never!
 baca | 1 | berry
 baca | 3 | a small round fruit of a tree or shrub: bacae lauri, laurel berries
 baca | 4 | especially the olive, and in the poets the olive on its own
 baca | 5 | more widely, any fruit borne by a tree
 baca | 6 | a pearl, named from its shape
 baca | 7 | a link of a chain made in the shape of a berry
+baccar | 1 | baccar
+baccar | 3 | a plant with a fragrant root, thought to ward off the evil eye; perhaps a kind of valerian
 bacchor | 1 | rave
 bacchor | 2 | revel
 bacchor | 3 | to celebrate the rites of Bacchus, to keep his festival
@@ -27,6 +31,11 @@ bajulus | 1 | porter
 bajulus | 3 | a man who carries loads for pay, a day labourer
 bajulus | 4 | a bearer at a funeral
 bajulus | 5 | in later Latin a letter carrier: litterarum bajulus, the bearer of a letter
+balanus | 1 | acorn
+balanus | 3 | any fruit shaped like an acorn, as a date or a large chestnut
+balanus | 4 | the ben-nut, which yields a perfumed balsam
+balanus | 5 | a kind of shellfish, an acorn-shell
+balanus | 6 | in medicine, a suppository
 balatro1 | 1 | buffoon
 balatro1 | 3 | a jester or clown, seemingly a stock stage character
 balatro1 | 4 | used of low company and hangers-on: mendici mimae balatrones, beggars, actresses and buffoons
@@ -40,11 +49,19 @@ balbutio | 3 | to stutter, to speak with a catch and a confusion of the tongue
 balbutio | 4 | of birds, to sing unclearly: merula hieme balbutit, in winter the blackbird's note is indistinct
 balbutio | 5 | figuratively, to speak obscurely, to mumble instead of saying a thing outright
 balbutio | 6 | with an object, to lisp something out, to mouth a name fondly
+ballista1 | 1 | ballista
+ballista1 | 3 | a large siege engine, like a huge bow, for hurling stones and other missiles
+ballista1 | 4 | the missile thrown by such an engine
+ballista1 | 5 | in early Latin, figuratively, an engine of mischief: intenta ballista infortunii, a ballista of bad luck aimed and ready
 balnearius | 1 | of baths
 balnearius | 3 | belonging to a bath or used in one: fur balnearius, a thief who haunts the baths
 balnearius | 4 | as a neuter plural noun balnearia, the bathing rooms of a house, the baths
 balneator | 1 | bath keeper
 balneator | 3 | the man in charge of a bath house
+balneum | 1 | bath
+balneum | 3 | a bath or bathroom in a private house
+balneum | 4 | balneae, the public baths: in balneas ire, to go to the baths
+balneum | 5 | a balneis, after bathing
 balo | 1 | bleat
 balo | 3 | of sheep and goats, to bleat
 balo | 4 | its participle used as a noun for sheep: balantum grex, a flock of bleating ewes
@@ -60,6 +77,10 @@ balteus | 9 | a blow with a belt, a strapping
 baptisma | 1 | baptism
 baptisma | 3 | a dipping or washing, an ablution
 baptizo | 1 | baptise
+barathrum | 1 | abyss
+barathrum | 3 | a pit or chasm, especially the underworld
+barathrum | 4 | figuratively, a bottomless maw, a glutton: barathrum macelli, the abyss of the food market
+barathrum | 5 | barathro donare, to throw into the pit, to squander
 barba1 | 1 | beard
 barba1 | 3 | the beard of a man: barbam tondere, to trim the beard; barbam ponere, to have it taken off
 barba1 | 4 | letting the beard grow was a sign of mourning, and the old Romans wore it long before shaving came in
@@ -74,6 +95,20 @@ barbaria | 4 | one particular foreign country, whichever the speaker has in mind
 barbaria | 5 | roughness and want of cultivation, in manners or in speech: barbaria forensis, the crudeness of the courts
 barbaria | 6 | savagery, brutal and uncivilised conduct: inveterata barbaria, ingrained savagery
 barbaria | 7 | by transfer, the barbarians themselves as a body
+barbaricus | 1 | foreign
+barbaricus | 3 | outlandish, not Greek or Roman; in poetry often Phrygian or Eastern: barbaricum aurum, barbaric gold
+barbaricus | 4 | in early Latin, from a Greek point of view, Italian or Roman: barbarico ritu, in the Roman way
+barbaricus | 5 | barbaricum as a noun, foreign territory, the land of the barbarians
+barbaricus | 6 | rough, uncivilised
+barbarismus | 1 | barbarism
+barbarismus | 3 | an error of speech, especially a mispronunciation or a misused word
+barbarus | 1 | foreign
+barbarus | 2 | savage
+barbarus | 3 | barbarian, not Greek or Roman: Graius ac barbarus, Greek and barbarian
+barbarus | 4 | as a noun, a barbarian, often a Persian, Gaul or German, or any enemy people
+barbarus | 5 | uncultivated, ignorant, rude: barbare loqui, to speak ungrammatically
+barbarus | 6 | wild, cruel, barbarous: barbara consuetudo hominum immolandorum, the savage custom of human sacrifice
+barbarus | 7 | in early Latin, from a Greek point of view, Italian or Roman: vortit barbare, he translated it into Latin
 barbatus | 1 | bearded
 barbatus | 3 | of a man, wearing a full beard, as against imberbis, beardless
 barbatus | 4 | hence grown up, old enough to have a beard
@@ -81,6 +116,8 @@ barbatus | 5 | as a noun barbati, the Romans of the old days, taken as a type of
 barbatus | 6 | also a philosopher, named from the long beard they wore
 barbatus | 7 | of animals, bearded, and barbatus on its own, a he-goat
 barbatus | 8 | of plants, downy or woolly
+barbitos | 1 | lyre
+barbitos | 3 | in poetry, a lyre or lute: dic Latinum, barbite, carmen, sing a Latin song, my lyre
 barbula | 1 | little beard
 barbula | 3 | the small trimmed beard of a young Roman, against the shaggy beard of the ancients
 barbula | 4 | of plants, a small tuft of down
