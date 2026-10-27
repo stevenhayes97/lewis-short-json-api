@@ -1548,6 +1548,9 @@ poesis | 3 | a poem, or poetry as a whole: ut pictura poesis, poetry is like pai
 poeta | 1 | poet
 poeta | 3 | a poet: oratores et poetae, orators and poets
 poeta | 4 | in early Latin, a maker, a contriver of tricks
+poeticus | 1 | poetic
+poeticus | 3 | of poets or poetry: verbum poeticum, a poetic word; di poetici, the gods as the poets portray them
+poeticus | 4 | poetica as a noun, the art of poetry
 poetor | 1 | poetise
 polio1 | 1 | polish
 polio1 | 3 | by extension, adorn, embellish (of fields, etc.)
@@ -1581,6 +1584,13 @@ pollucibilis | 1 | sumptuous
 polluo | 1 | pollute
 polluo | 3 | violate, desecrate (something sacred)
 polluo | 4 | after Augustus, violate, dishonour (a woman)
+polus1 | 1 | pole
+polus1 | 2 | sky
+polus1 | 3 | the end of the earth's axis, a pole
+polus1 | 4 | in poetry, the sky, the heavens; the pole star
+polypus | 1 | octopus
+polypus | 3 | the octopus
+polypus | 4 | a polyp, a growth in the nose
 pomarius | 1 | of fruit
 pomarius | 3 | as a noun, a fruit-seller, fruiterer
 pomarius | 4 | as a noun, an orchard, fruit-garden
@@ -1625,6 +1635,9 @@ pontifex | 3 | (Jewish, or later Christian) a high priest; a bishop
 pontificius | 1 | pontifical
 pontificius | 3 | as a noun, pontificium, the office or dignity of a pontiff or bishop
 pontificius | 4 | by extension, the power or right of doing something
+pontus1 | 1 | sea
+pontus1 | 3 | in poetry, the sea: caelum undique et undique pontus, sky everywhere and everywhere sea
+pontus1 | 4 | in poetry, a great wave
 popa | 1 | acolyte
 popa | 3 | an inferior priest's assistant who led the sacrificial victim to the altar and felled it
 popina | 1 | cookshop
@@ -1998,6 +2011,8 @@ praefulcio | 1 | prop
 praefulcio | 3 | figuratively, secure, safeguard, support (a plan or position)
 praefulgeo | 1 | glitter
 praefulgeo | 3 | figuratively, be conspicuous, shine, be pre-eminent
+praefundo | 1 | pour over
+praefundo | 3 | in later Latin, to wet or sprinkle with something
 praegnans | 1 | pregnant
 praegnans | 3 | by extension, (of plants) budding, swollen with growth
 praegnans | 4 | in general, full of, swollen with something
@@ -2339,11 +2354,17 @@ praeverto | 6 | attend to first, give priority to (a task)
 praevideo | 1 | foresee
 praevideo | 3 | in later Latin, provide for, make provision against
 praevius | 1 | leading
+pragmaticus | 1 | experienced
+pragmaticus | 3 | skilled in affairs, especially in law: pragmatici homines, men of affairs
+pragmaticus | 4 | as a noun, a legal expert who supplied advocates with points of law
+pragmaticus | 5 | in later Latin, pragmatica sanctio, an imperial decree on public affairs
 prandeo | 1 | lunch
 prandium | 1 | lunch
 prandium | 3 | in poetry, by extension, a meal in general
 prandium | 4 | by extension, fodder, feed (for animals)
 pransito | 1 | lunch
+prasinus | 1 | green
+prasinus | 3 | leek-green; factio prasina, the Greens, one of the racing factions of the circus
 pratum | 1 | meadow
 pratum | 3 | in poetry, by extension, meadow-grass, hay
 pratum | 4 | in poetry, by extension, figuratively, a broad plain (of the sea)
@@ -2391,6 +2412,9 @@ pressura | 4 | by extension, a throng, crush, crowd of people
 pressura | 5 | in poetry, juice, that which is pressed out
 pressura | 6 | figuratively, in Christian Latin, oppression, affliction, distress
 pressus2 | 1 | pressure
+prester | 1 | whirlwind
+prester | 3 | a fiery whirlwind or waterspout
+prester | 4 | a snake whose bite causes burning thirst
 pretiosus | 1 | precious
 pretiosus | 3 | by extension, costly, expensive, dear
 pretiosus | 4 | extravagant, lavish (of a spender)
@@ -2494,6 +2518,8 @@ pro1 | 6 | in exchange for, in return for (of price)
 pro1 | 7 | in proportion to, according to, by virtue of
 pro1 | 8 | on account of, for the sake of
 pro2 | 1 | oh!
+proapodosis | 1 | proapodosis
+proapodosis | 3 | in rhetoric, a figure in which a clause ends with the same word it began with
 proavus | 1 | great-grandfather
 proavus | 3 | by extension, a forefather, ancestor (in general)
 probabilis | 1 | probable
@@ -2504,6 +2530,8 @@ probatio | 4 | after Augustus, proof, demonstration
 probatio | 5 | in rhetoric, the proof section of a speech, where arguments are presented
 probator | 1 | approver
 probitas | 1 | honesty
+problema | 1 | problem
+problema | 3 | a question set for solving, a puzzle or riddle
 probo | 1 | approve
 probo | 3 | test, examine, try (the quality of something)
 probo | 4 | prove, demonstrate, establish (a fact)
@@ -2754,6 +2782,8 @@ prolato | 1 | extend
 prolato | 3 | (of time) defer, postpone, put off
 prolecto | 1 | entice
 prolecto | 3 | provoke, incite (to anger)
+prolepsis | 1 | anticipation
+prolepsis | 3 | in rhetoric, answering an objection in advance; naming something before it existed
 proles | 1 | offspring
 proles | 3 | by extension, youth, young men (collectively)
 proletarius | 1 | proletarian
@@ -2762,6 +2792,9 @@ prolixus | 1 | long
 prolixus | 3 | (of speech) prolix, wordy
 prolixus | 4 | favourable, fortunate (of circumstances)
 prolixus | 5 | obliging, courteous, well-disposed (of character)
+prologus | 1 | prologue
+prologus | 3 | the prologue of a play
+prologus | 4 | the actor who speaks the prologue
 proloquium | 1 | preamble
 proloquium | 3 | (logic) a proposition, axiom
 proloquium | 4 | a judicial sentence, verdict
