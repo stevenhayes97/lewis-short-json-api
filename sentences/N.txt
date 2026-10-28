@@ -10,3 +10,13 @@ narratio | Narratio brevis oratoris auditoribus placet | The orator's short narr
 narro | Fabulam longam nepoti narro | I tell my grandson a long story
 nassa | Nassa e vimine in lacu jacet | The wicker fish-trap lies in the lake
 nasturtium | Nasturtium acre linguam mordet | The sharp cress bites the tongue
+nasus1 | Nasus puellae in frigore ruber est | The girl's nose is red in the cold
+natio | Natio vicina cum Romanis pacem facit | The neighbouring nation makes peace with the Romans
+natis | Natis equi a musca pungitur | The horse's rump is stung by a fly
+nativitas | Nativitas regis civitatem laetificat | The birth of the king gladdens the city
+nato | Trans lacum nato | I swim across the lake
+natrix | Natrix inter harundines serpit | The water-snake glides among the reeds
+natura | Natura apibus mel dat | Nature gives honey to the bees
+# skip: natus2 is used only in the ablative singular (natu, as in grandis natu), so there is no nominative headword form
+nauclerus | Nauclerus navem per tempestatem regit | The skipper steers the ship through the storm
+# skip: naucum is attested only in the genitive of value (non nauci, nauco ducere), so there is no usable headword form for a subject sentence
