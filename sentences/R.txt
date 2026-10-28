@@ -1,0 +1,13 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/R.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+rabies | Rabies animum ducis turbat | Madness disturbs the leader's mind
+rabula | Rabula judicem verbis fatigat | The pettifogger tires the judge with words
+racemus | Racemus in vite pendet | The cluster hangs on the vine
+# third: radico "I take root" is unnatural; a tree is the natural subject
+radico | Arbor in colle radicat | The tree takes root on the hill
+# skip: radio is filed as a noun but the entry is the verb "radiate", with no noun headword form
+radius | Radius solis per fenestram intrat | The ray of the sun enters through the window
+radix | Radix arboris saxum findit | The root of the tree splits the rock
+rado | Barbam novacula rado | I shave my beard with a razor
+ramenta | Ramenta in fabrica pavimentum tegunt | The shavings cover the floor in the workshop
+ramex | Ramex militem a labore retinet | The hernia keeps the soldier from work
