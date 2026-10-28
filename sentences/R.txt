@@ -175,7 +175,7 @@ regrado | Centurionem regrado | I demote the centurion
 regredior | Ad ripam regredior | I go back to the riverbank
 regressio | Regressio navium mercatores ad litus vocat | The return of the ships calls the merchants to the shore
 regressus2 | Regressus ex itinere viatorem lassum ad lectum ducit | The return from the journey leads the tired traveller to bed
-regula | Regula in mensa fabri jacet | The ruler lies on the craftsman's table
+regula | Regula in mensa fabri jacet | The measuring rod lies on the craftsman's table
 regulus1 | Regulus montanus vicinos ad concilium vocat | The mountain chieftain calls his neighbours to the council
 regusto | Vinum regusto | I taste the wine again
 reicio | Consilium stultum reicio | I reject the foolish plan
@@ -274,7 +274,7 @@ repono | Librum in pluteo repono | I put the book back on the shelf
 reporto | Pisces e mercatu reporto | I bring fish back from the market
 reposco1 | Equum a vicino reposco | I reclaim the horse from the neighbour
 repositorium | Repositorium pocula ad mensam portat | The tray carries cups to the table
-repotia | Repotia hospites in domo sponsi tenent | The after-drinking keeps the guests at the bridegroom's house
+repotia | Repotia hospites in domo sponsi tenent | The day-after feast keeps the guests at the bridegroom's house
 repraesentatio | Repraesentatio pictoris vultum reginae ostendit | The painter's representation shows the queen's face
 repraesento | Regem in fabula repraesento | I represent the king in the play
 reprehendo | Discipulum pigrum reprehendo | I rebuke the lazy pupil
