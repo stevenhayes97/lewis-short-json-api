@@ -375,3 +375,13 @@ fundo2 | Urbem novam fundo | I found a new city
 fundus | Fundus lacus aurum celat | The bottom of the lake hides gold
 funero | Avum meum funero | I bury my grandfather
 funesto | Fontem sordibus funesto | I defile the spring with filth
+fungor | Officio meo fungor | I perform my duty
+fungus | Fungus sub quercu crescit | The mushroom grows under the oak
+funis | Funis in puteo pendet | The rope hangs in the well
+funus | Funus senatoris forum implet | The senator's funeral fills the forum
+fur | Fur in tenebris ad villam accedit | The thief approaches the villa in the dark
+furca | Furca ad parietem stat | The fork stands by the wall
+furcifer | Furcifer mercatorem fallit | The scoundrel cheats the merchant
+furcilla | Furcilla fenum in plaustrum levat | The pitchfork lifts hay onto the cart
+furcula | Furcula ramum onustum sustinet | The prop supports the heavy branch
+furfur | Furfur pullos alit | The bran feeds the chickens
