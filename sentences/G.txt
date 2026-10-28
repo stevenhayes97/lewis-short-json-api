@@ -22,3 +22,14 @@ gaudium | Gaudium patris in vultu apparet | The father's joy shows on his face
 gausapa | Gausapa senem in hieme calefacit | The frieze cloth warms the old man in winter
 # third: gelo1 winter or frost freezes things; "I freeze" is odd
 gelo1 | Hiems flumen gelat | The winter freezes the river
+gelum | Gelum herbam in prato tegit | The frost covers the grass in the meadow
+gemellus | Gemellus matri flores affert | The twin brings flowers to his mother
+gemino | Numerum nummorum gemino | I double the number of coins
+gemitus | Gemitus aegri medicum movet | The patient's groan moves the doctor
+gemma | Gemma in ramo turget | The bud swells on the branch
+# third: gemmo "I bud" is odd; a vine buds
+gemmo | Vitis vere gemmat | The vine buds in spring
+gemo | Sub onere gemo | I groan under the load
+gemursa | Gemursa athletam a cursu retinet | The toe swelling keeps the athlete from the race
+gena | Gena pueri frigore rubet | The boy's cheek is red with cold
+gener | Gener socero vinum offert | The son-in-law offers wine to his father-in-law
