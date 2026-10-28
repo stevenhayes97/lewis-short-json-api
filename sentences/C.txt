@@ -790,3 +790,13 @@ conjugium | Conjugium amicorum nostrorum mense Maio fit | The marriage of our fr
 conjugo | Duo fila conjugo | I unite two threads
 conjunctio | Conjunctio viarum oppidum aperit | The connection of the roads opens up the town
 conjuratio | Conjuratio in senatu patefit | The conspiracy is revealed in the senate
+conjuro | Cum sociis contra regem conjuro | I conspire with my companions against the king
+connascor | In eodem pago connascor | I am born in the same village
+conopeum | Conopeum lectum a culicibus defendit | The mosquito net protects the bed from gnats
+conor | Flumen transnare conor | I try to swim across the river
+conquasso | Situlam conquasso | I shake the bucket
+conqueror | De frigore conqueror | I complain about the cold
+conquestio | Conquestio colonorum dominum offendit | The complaint of the farmers offends the master
+conquiesco | Post laborem conquiesco | I rest after work
+conquiro | Libros antiquos conquiro | I collect old books
+conquisitio | Conquisitio clavis totum diem occupat | The search for the key takes up the whole day
