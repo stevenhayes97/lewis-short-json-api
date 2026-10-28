@@ -277,3 +277,14 @@ orbo | Bellum urbem civibus orbat | War bereaves the city of its citizens
 orca1 | Orca prope navem apparet | The whale appears near the ship
 orchestra | Orchestra senatores in theatro capit | The orchestra seats the senators in the theatre
 ordinatio | Ordinatio librorum in bibliotheca lectorem juvat | The arrangement of the books in the library helps the reader
+ordino | Poma in corbe ordino | I arrange the apples in the basket
+ordior | Fabulam de rege ordior | I begin a tale about the king
+ordo | Ordo in castris victoriam parat | Order in the camp prepares victory
+organum | Organum musicum convivas ad saltandum invitat | The musical instrument invites the guests to dance
+orichalcum | Orichalcum aurum imitatur | Brass imitates gold
+origo1 | Origo fluminis viatores ad montes vocat | The origin of the river calls travellers to the mountains
+# third: orior "I rise" is for the sun
+orior | Sol ex mari oritur | The sun rises from the sea
+ornamentum | Ornamentum argenteum mensam decorat | The silver ornament decorates the table
+ornatus2 | Ornatus sponsae hospites admiratione implet | The bride's adornment fills the guests with admiration
+ornithias | Ornithias aves ex Africa portat | The bird-wind brings the birds from Africa
