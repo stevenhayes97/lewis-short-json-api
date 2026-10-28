@@ -346,3 +346,16 @@ circumvehor | Insulam navi circumvehor | I sail round the island by ship
 circumvenio | Collem circumvenio | I surround the hill
 circumverto | Rotam circumverto | I turn the wheel round
 circumvestio | Statuam panno circumvestio | I wrap the statue round with cloth
+# third: circumvolito only birds and insects flit around
+circumvolito | Hirundo lacum circumvolitat | The swallow flits around the lake
+# third: circumvolo only birds and flying creatures fly around
+circumvolo | Aquila montem circumvolat | The eagle flies around the mountain
+# third: circumvolvo is used reflexively, and the first person suits only a creature that coils
+circumvolvo | Anguis se circumvolvit | The snake rolls itself around
+cirrus | Cirrus sororis in vento movetur | The sister's curl moves in the wind
+cista | Cista libros servat | The box keeps the books
+cistophorus | Cistophorus pretium vini est | The cistophorus is the price of the wine
+cithara | Cithara in convivio sonat | The lyre sounds at the banquet
+citharista | Citharista sub arbore sedet | The lyre player sits under the tree
+citharoedus | Citharoedus senatorem delectat | The singer delights the senator
+cito2 | Senatores cito | I summon the senators
