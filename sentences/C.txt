@@ -147,3 +147,13 @@ caro2 | Caro ex macello venit | The meat comes from the market
 carpentum | Carpentum matronam ad templum portat | The carriage carries the matron to the temple
 carpinus | Carpinus umbram viatori dat | The hornbeam gives shade to the traveller
 carpo | Rosam carpo | I pluck a rose
+caryota | Caryota anno novo mittitur | The date is sent at the New Year
+casa | Casa pastorem ab imbre tegit | The hut shelters the shepherd from the storm
+caseus | Caseus ex lacte fit | The cheese is made from milk
+casia | Casia domum odore implet | The cassia fills the house with fragrance
+casses | Casses inter arbores tenduntur | The hunting-nets are stretched between the trees
+cassis1 | Cassis ducis in sole splendet | The leader's helmet gleams in the sun
+castanea | Castanea nuces autumno dat | The chestnut tree gives nuts in autumn
+castellum | Castellum fines imperii defendit | The fort defends the borders of the empire
+castigatio | Castigatio magistri discipulum monet | The teacher's reproof warns the pupil
+castigator | Castigator in senatu loquitur | The reprover speaks in the senate
