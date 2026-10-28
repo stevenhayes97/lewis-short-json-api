@@ -271,3 +271,16 @@ examino | Aurum in libra examino | I weigh the gold on the scales
 exanclo | Calicem exanclo | I drain the cup
 exanimatio | Exanimatio subita hospites tacitos facit | Sudden terror makes the guests silent
 exanimo | Equum cursu exanimo | I exhaust the horse by running
+# third: exardesco "I blaze up" is odd; a fire blazes up
+exardesco | Ignis vento exardescit | The fire blazes up in the wind
+# third: exaresco only springs and the like dry up
+exaresco | Fons aestate exarescit | The spring dries up in summer
+exarmo | Gladiatorem exarmo | I disarm the gladiator
+exaro | Agrum exaro | I plough the field
+exaspero | Tabulam lima exaspero | I roughen the board with a file
+exauctoro | Veteranum exauctoro | I discharge the veteran
+exaudio | Vocem tuam exaudio | I hear your voice clearly
+# third: excaeco blinding a person is violent; the sun's glare blinds
+excaeco | Fulgor solis viatorem excaecat | The glare of the sun blinds the traveller
+excalceo | Hospitem ante cenam excalceo | I unshoe the guest before dinner
+excalfacio | Lectum excalfacio | I warm the bed
