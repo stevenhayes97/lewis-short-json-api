@@ -456,3 +456,16 @@ exsisto | E silva exsisto | I emerge from the forest
 exsolvo | Nodum exsolvo | I loosen the knot
 exsorbeo | Pateram exsorbeo | I drain the bowl
 exspectatio | Exspectatio nuntii senatum tenet | The expectation of news grips the senate
+exspecto | Fratrem ad portam exspecto | I await my brother at the gate
+# third: exspiro "I exhale" repeats exhalo; a volcano exhales
+exspiro | Aetna fumum exspirat | Etna exhales smoke
+exspolio | Oppidum hostile exspolio | I plunder the enemy town
+# third: exspuo a crude bodily verb; a donkey spits out
+exspuo | Asinus herbam amaram exspuit | The donkey spits out the bitter grass
+exsterno | Hostes clamore exsterno | I terrify the enemy with a shout
+exstimulo | Boves in agro exstimulo | I goad the oxen in the field
+exstinctor | Exstinctor flammae aquam portat | The extinguisher of the flame carries water
+exstinguo | Lucernam exstinguo | I extinguish the lamp
+exstirpo | Dumos exstirpo | I uproot the brambles
+# third: exsto "I project" is odd; a rock projects
+exsto | Scopulus e mari exstat | The rock projects from the sea
