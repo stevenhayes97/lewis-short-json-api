@@ -23,3 +23,14 @@ obhaeresco | In luto obhaeresco | I stick fast in the mud
 obicio | Faciem soli obicio | I expose my face to the sun
 obirascor | Fortunae obirascor | I am angry at fortune
 obitus2 | Obitus senatoris curiam silentem reddit | The senator's death makes the senate house silent
+# third: objaceo "I lie opposite" is for an island or a place
+objaceo | Insula portui objacet | The island lies opposite the harbour
+objectio | Objectio amici me tristem facit | My friend's reproach makes me sad
+objecto | Fratri ignaviam objecto | I accuse my brother of laziness
+objectus2 | Objectus saxorum portum a ventis defendit | The barrier of rocks shields the harbour from the winds
+objurgatio | Objurgatio magistri discipulum ad studium revocat | The teacher's rebuke calls the pupil back to study
+oblatio | Oblatio pia deae placet | The pious offering pleases the goddess
+oblatro | Vicino semper oblatro | I always carp at my neighbour
+oblectamentum | Oblectamentum vitae rusticae poetam ad agros revocat | The delight of country life calls the poet back to the fields
+oblecto | Nepotem fabulis oblecto | I amuse my grandson with stories
+oblido | Pomum maturum digitis oblido | I squeeze the ripe fruit with my fingers
