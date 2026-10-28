@@ -263,7 +263,7 @@ lito | Jovi agno lito | I propitiate Jupiter with a lamb
 littera | Littera aurea in charta splendet | The golden letter gleams on the paper
 litterator | Litterator pueros legere docet | The schoolteacher teaches the boys to read
 litteratura | Litteratura longa puerum fatigat | Long writing tires the boy
-litterula | Litterula in margine libri latet | The small letter hides in the margin of the book
+litterula | Litterula in margine libri latet | The little letter lies hidden in the margin of the book
 litura | Litura in tabula verbum tegit | The erasure on the tablet covers the word
 litus3 | Litus longum ante villam patet | The long shore stretches out in front of the villa
 lituus | Lituus curvus in aede pendet | The curved staff hangs in the shrine
@@ -342,7 +342,8 @@ luto1 | Murum argilla luto | I bedaub the wall with clay
 lutum1 | Lutum in colle aprico crescit | Dyer's-weed grows on the sunny hill
 lutum2 | Lutum in via plaustrum retinet | The mud on the road holds back the cart
 lux | Lux matutina montes aureos facit | The morning light makes the mountains golden
-luxo | Humerum meum casu luxo | I dislocate my shoulder by accident
+# third: luxo an injury, kept to sport and out of the first person
+luxo | Luctator humerum in palaestra luxat | The wrestler dislocates his shoulder in the wrestling school
 luxuria | Luxuria vitis pergulam obtegit | The luxuriance of the vine covers the arbour
 # third: luxurio "I flourish" is for a plant
 luxurio | Seges in agro luxuriat | The crop flourishes in the field

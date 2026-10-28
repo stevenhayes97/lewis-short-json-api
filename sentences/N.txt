@@ -67,7 +67,7 @@ nidor | Nidor e culina fratrem meum ad mensam vocat | The smell from the kitchen
 nidulor | Hirundo sub tecto nidulatur | The swallow nests under the roof
 nidulus | Nidulus in sepe ova habet | The nest in the hedge holds eggs
 nidus | Nidus pullos ab imbre servat | The nest keeps the chicks from the rain
-niger1 | Niger equus ad fontem bibit | The black horse drinks at the spring
+# skip: niger1 is an adjective (black), misfiled as a noun
 # third: nigresco "I darken" is for the sky
 nigresco | Caelum ante tempestatem nigrescit | The sky darkens before the storm
 # third: nigrico "I am blackish" is for a thing
@@ -104,7 +104,7 @@ nominatio | Nominatio navis nautas ad convivium invitat | The naming of the ship
 nomino | Filiam Juliam nomino | I name my daughter Julia
 nomisma | Nomisma e Graecia venit | The coin comes from Greece
 nongenti | Nongenti milites castra muniunt | Nine hundred soldiers fortify the camp
-nonnullus | Nonnullus nauta portum petit | Some sailor seeks the harbour
+# skip: nonnullus is an adjective (some), misfiled as a noun
 norma | Norma fabri angulum rectum monstrat | The carpenter's square shows the right angle
 noscito | Amicum in turba noscito | I recognise my friend in the crowd
 nosco | Verba Graeca cotidie nosco | I learn Greek words every day
@@ -139,7 +139,7 @@ numen | Numen agros nostros custodit | The divinity guards our fields
 numerarius | Numerarius summam pecuniae computat | The accountant calculates the total of the money
 numero1 | Oves ante noctem numero | I count the sheep before night
 numerus | Numerus militum cotidie crescit | The number of soldiers grows daily
-nummus | Nummus in fonte cadit | The coin falls into the fountain
+nummus | Nummus in fontem cadit | The coin falls into the fountain
 nuncupatio | Nuncupatio novi sacerdotis populum in templo congregat | The naming of the new priest gathers the people in the temple
 nuncupo | Catulum Leonem nuncupo | I name the puppy Leo
 nundinatio | Nundinatio in oppido vicos clamore replet | Trading in the town fills the streets with noise
@@ -155,5 +155,5 @@ nutrimentum | Nutrimentum pecoris in prato crescit | The nourishment of the catt
 nutrio | Pullos frumento nutrio | I nourish the chicks with grain
 nutrix | Nutrix pueros domum ex schola reducit | The nurse brings the boys home from school
 nutus | Nutus magistri discipulum tacere jubet | The teacher's nod bids the pupil be silent
-nux | Nux in mensa rotat | The nut rolls on the table
+nux | Nux in mensa volvitur | The nut rolls on the table
 nympha | Nympha in fonte cantat | The nymph sings in the spring
