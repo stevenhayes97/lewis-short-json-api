@@ -30,3 +30,14 @@ decem | Decem pueri in via ludunt | Ten boys play in the street
 decemviri | Decemviri leges scribunt | The decemvirs write the laws
 decerno | Domum redire decerno | I decide to return home
 decerpo | Rosam decerpo | I pluck the rose
+decerto | Cum hoste decerto | I fight it out with the enemy
+decessio | Decessio amici familiam contristat | The departure of a friend saddens the family
+decessor | Decessor novo praetori epistulam mittit | The predecessor sends a letter to the new praetor
+decessus | Decessus hiemis ver nuntiat | The departure of winter announces spring
+decido1 | Ex equo decido | I fall from the horse
+decido2 | Funem cultro decido | I sever the rope with a knife
+# third: decimo only a commander decimates a unit
+decimo | Dux legionem decimat | The general decimates the legion
+decipio | Hostem decipio | I deceive the enemy
+decipula | Decipula in via latet | The trap hides in the road
+decisio | Decisio litis amicos laetos facit | The settlement of the dispute makes the friends happy
