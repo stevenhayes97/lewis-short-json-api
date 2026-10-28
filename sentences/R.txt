@@ -282,3 +282,15 @@ reprehensio | Reprehensio praetoris scribam tacitum facit | The praetor's reprim
 reprimo | Risum reprimo | I repress my laughter
 reprobo | Condicionem iniquam reprobo | I reject the unfair terms
 repromitto | Mercatori mercedem repromitto | I promise the merchant payment in return
+repto | Sub mensa repto | I crawl under the table
+repudio | Uxorem repudio | I divorce my wife
+repudium | Repudium domum silentem facit | The divorce makes the house silent
+# third: repuerasco "I become childish" is unnatural; an old man is the natural subject
+repuerasco | Senex repuerascit | The old man becomes childish
+repugnantia1 | Repugnantia testium judicem dubium facit | The inconsistency of the witnesses makes the judge doubtful
+repugno | Hosti repugno | I resist the enemy
+repulsa | Repulsa candidatum tristem reddit | The rejection makes the candidate sad
+# third: repulso "I repel repeatedly" is unnatural; a wall is the natural subject
+repulso | Murus fluctus repulsat | The wall repels the waves repeatedly
+repulsus2 | Repulsus lapidis a rupe sonum edit | The rebound of the stone from the rock makes a sound
+repurgo | Fontem repurgo | I clean the spring again
