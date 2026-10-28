@@ -235,3 +235,14 @@ opera | Opera fabri domum celeriter aedificat | The craftsman's effort builds th
 operatio | Operatio agri colonos exercet | The work on the land occupies the farmers
 operculum | Operculum amphoram claudit | The lid closes the jar
 operimentum | Operimentum lecti frigus arcet | The covering of the bed keeps off the cold
+operio | Corbem foliis operio | I cover the basket with leaves
+opifex | Opifex vas ex argilla format | The maker shapes a vessel from clay
+opimo | Porcos glandibus opimo | I fatten the pigs with acorns
+opinatio | Opinatio nautae tempestatem praedicit | The sailor's conjecture predicts the storm
+opinio | Opinio magistri discipulos dividit | The teacher's opinion divides the pupils
+opinor | Idem opinor | I suppose the same
+opisthotonos | Opisthotonos medicos terret | Tetanus frightens the doctors
+opitulor | Pauperibus opitulor | I help the poor
+oppando | Vestes ad solem oppando | I spread out the clothes in the sun
+# third: oppeto "I die" is not a sentence a learner needs
+oppeto | Dux in bello mortem oppetit | The general meets his death in war
