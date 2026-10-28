@@ -68,3 +68,14 @@ recino | Silva cantu avium recinit | The forest resounds with the song of birds
 reciperatio | Reciperatio libertatis populum laetum reddit | The recovery of freedom makes the people glad
 reciperator | Reciperator pecuniae debitorem monet | The recoverer of the money reminds the debtor
 recipero | Pecuniam amissam recipero | I recover the lost money
+recipio | Hospitem in domum recipio | I receive the guest into my house
+reciprocatio | Reciprocatio aestus naves in portu tenet | The ebb of the tide holds the ships in the harbour
+# third: reciproco "I reciprocate" is unnatural for the tide sense; the sea is the natural subject
+reciproco | Mare in litore reciprocat | The sea ebbs and flows on the shore
+recitatio | Recitatio poetae auditores in theatro tenet | The poet's recitation holds the listeners in the theatre
+recito | Carmen amicis recito | I recite a poem to my friends
+reclamo | Contra legem reclamo | I protest against the law
+reclino | Scalam ad murum reclino | I lean the ladder against the wall
+recludo | Portam hospiti recludo | I open the door for the guest
+recogito | Consilium meum recogito | I reconsider my plan
+recognitio | Recognitio librorum bibliothecarium diu tenet | The review of the books keeps the librarian busy for a long time
