@@ -282,3 +282,13 @@ mollio | Lanam aqua mollio | I soften the wool with water
 mollitia | Mollitia pulvini caput lassum levat | The softness of the cushion eases the tired head
 mollitudo | Mollitudo herbae viatorem ad quietem invitat | The softness of the grass invites the traveller to rest
 molo1 | Far in pistrino molo | I grind spelt in the mill
+molucrum | Molucrum farinam e lapide detergit | The mill-broom sweeps the flour from the stone
+# skip: momen is attested only in the ablative momine, no nominative form
+momentum | Momentum minimum trutinam inclinat | The slightest movement tips the balance
+monedula | Monedula in turri nidum facit | The jackdaw makes a nest in the tower
+moneo | Amicum de periculo moneo | I warn my friend of the danger
+monile | Monile aureum in arca splendet | The golden necklace gleams in the casket
+monitio | Monitio magistri discipulum a culpa retinet | The teacher's admonition keeps the pupil from wrongdoing
+monitor | Monitor fidelis regi viam rectam ostendit | The faithful adviser shows the king the right way
+monitum | Monitum senis juvenem cautum facit | The old man's advice makes the youth cautious
+monitus2 | Monitus tubae milites ad arma vocat | The warning of the trumpet calls the soldiers to arms
