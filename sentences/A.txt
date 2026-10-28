@@ -714,3 +714,13 @@ astipulator | Astipulator amicum adjuvat | The backer helps his friend
 astipulor | Amico astipulor | I concur with my friend
 asto | Ad mensam asto | I stand near the table
 astragalus | Astragalus columnam ornat | The astragal adorns the column
+astrepo | Oratori astrepo | I applaud the speaker
+astringo | Funem astringo | I tighten the rope
+astrologia | Astrologia caelum et stellas explicat | The astronomy explains the sky and the stars
+astrologus | Astrologus stellas observat | The astronomer observes the stars
+astrum | Astrum nautae viam monstrat | The star shows the sailor the way
+astruo | Cubiculum domui astruo | I build a room onto the house
+astupeo | Divitiis astupeo | I marvel at the riches
+astutia | Astutia ducis hostes superat | The leader's craftiness overcomes the enemy
+asylum | Asylum fugitivos accipit | The sanctuary receives fugitives
+atavus | Atavus familiae nomen dat | The great-great-great-grandfather gives the family its name
