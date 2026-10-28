@@ -147,3 +147,16 @@ reformo | Villam veterem in templum reformo | I transform the old farmhouse into
 refoveo | Aegrum aqua calida refoveo | I revive the sick man with warm water
 refragor | Consilio senatus refragor | I oppose the senate's plan
 refreno | Linguam refreno | I curb my tongue
+refrico | Memoriam veterem refrico | I reopen the old memory
+refrigero | Cibum calidum refrigero | I cool the hot food
+# third: refrigesco "I grow cold" is unnatural; a dinner is the natural subject
+refrigesco | Cena in mensa refrigescit | The dinner grows cold on the table
+refringo | Portam clausam refringo | I break open the closed gate
+refugio | Ad montes refugio | I flee to the mountains
+refugium | Refugium viatores a tempestate tuetur | The refuge protects the travellers from the storm
+# third: refulgeo "I gleam" is unnatural; the moon is the natural subject
+refulgeo | Luna in unda refulget | The moon gleams on the water
+refundo | Vinum in amphoram refundo | I pour the wine back into the jar
+refuto | Mendacium vicini refuto | I refute the neighbour's lie
+# third: regelo "I thaw" is unnatural; the sun is the natural subject
+regelo | Sol nivem regelat | The sun thaws the snow
