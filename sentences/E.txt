@@ -342,7 +342,7 @@ exercitium | Exercitium diurnum athletam format | Daily exercise shapes the athl
 exercito | Milites in campo exercito | I drill the soldiers in the field
 exercitor | Exercitor cursum athletae laudat | The trainer praises the athlete's running
 exercitus2 | Exercitus trans flumen procedit | The army advances across the river
-exhalo | Aerem frigidum exhalo | I exhale the cold air
+exhalo | Halitum calidum exhalo | I breathe out warm breath
 exhaurio | Aquam e puteo exhaurio | I drain the water from the well
 exheredo | Filium ingratum exheredo | I disinherit my ungrateful son
 exhibeo | Picturam hospitibus exhibeo | I present the painting to the guests
@@ -355,10 +355,10 @@ exiguitas | Exiguitas frumenti colonos sollicitat | The scantiness of the grain 
 exilitas | Exilitas vocis oratorem impedit | The thinness of the voice hinders the orator
 eximo | Clavum e tabula eximo | I remove the nail from the board
 exinanio | Cistam exinanio | I empty the chest
-exintero | Anserem exintero | I disembowel the goose
+exintero | Anserem exintero | I gut the goose
 existimatio | Existimatio patris filium dirigit | The father's judgment guides the son
 existimator | Existimator carmen novum laudat | The critic praises the new poem
-existimo | Hunc librum utilem existimo | I think this book is useful
+existimo | Hunc librum utilem existimo | I consider this book useful
 exitium | Exitium urbis cives contristat | The destruction of the city saddens the citizens
 exitus2 | Exitus hospitis cenam finit | The guest's departure ends the dinner
 exodium | Exodium populum post tragoediam exhilarat | The farce cheers the people after the tragedy
@@ -375,7 +375,7 @@ exornatio | Exornatio orationis juvenes capit | The embellishment of the speech 
 exorno | Aulam floribus exorno | I adorn the hall with flowers
 exoro | Matrem precibus exoro | I persuade my mother with entreaties
 exortus2 | Exortus solis pastores excitat | The rising of the sun wakes the shepherds
-exosculor | Catulum exosculor | I caress the puppy
+exosculor | Catulum exosculor | I kiss the puppy fondly
 exosso | Pullum exosso | I debone the chicken
 exostra | Exostra actorem spectatoribus ostendit | The stage machine shows the actor to the spectators
 expallesco | Ob nuntium expallesco | I turn pale at the news
@@ -444,7 +444,7 @@ exscribo | Carmen in tabula exscribo | I transcribe the poem onto the tablet
 exsculpo | Imaginem e saxo exsculpo | I carve an image out of the rock
 exseco | Ramum aridum ex arbore exseco | I excise the dry branch from the tree
 exsecratio | Exsecratio sacerdotis scelestum terret | The priest's curse frightens the wicked man
-exsecutio | Exsecutio legis populo placet | The execution of the law pleases the people
+exsecutio | Exsecutio legis populo placet | The enforcement of the law pleases the people
 exsecutor | Exsecutor testamenti hereditatem dividit | The executor of the will divides the inheritance
 exsequiae | Exsequiae vicinos congregant | The funeral gathers the neighbours
 exserto | Caput e fenestra exserto | I protrude my head from the window
@@ -464,7 +464,7 @@ exspolio | Oppidum hostile exspolio | I plunder the enemy town
 exspuo | Asinus herbam amaram exspuit | The donkey spits out the bitter grass
 exsterno | Hostes clamore exsterno | I terrify the enemy with a shout
 exstimulo | Boves in agro exstimulo | I goad the oxen in the field
-exstinctor | Exstinctor flammae aquam portat | The extinguisher of the flame carries water
+exstinctor | Exstinctor incendii aquam portat | The firefighter carries water
 exstinguo | Lucernam exstinguo | I extinguish the lamp
 exstirpo | Dumos exstirpo | I uproot the brambles
 # third: exsto "I project" is odd; a rock projects

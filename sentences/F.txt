@@ -390,7 +390,7 @@ furia | Furia tyranni consiliarios silentes facit | The tyrant's frenzy makes th
 furio1 | Strepitus equos furiat | The noise maddens the horses
 furnus | Furnus panem coquit | The oven bakes the bread
 furo | Ob moram furo | I rage at the delay
-furor1 | Pomum e horto furor | I steal an apple from the garden
+furor1 | Pomum ex horto furor | I steal an apple from the garden
 furor2 | Furor populi senatores angit | The people's frenzy troubles the senators
 furunculus | Furunculus pomum de mensa tollit | The pilferer takes an apple from the table
 # third: fusco "I darken" is odd; a storm cloud darkens
