@@ -347,3 +347,13 @@ diabolus | Diabolus homines tentat | The devil tempts people
 diaconus | Diaconus pauperibus panem dat | The deacon gives bread to the poor
 diaeta | Diaeta salubris corpus juvat | The healthy diet helps the body
 dialogus | Dialogus longus discipulum fatigat | The long dialogue tires the pupil
+dica | Dica judicem occupat | The lawsuit occupies the judge
+dicacitas | Dicacitas convivas oblectat | The banter amuses the guests
+dicio | Dicio Romana multas gentes tenet | Roman dominion holds many nations
+dico1 | Templum Jovi dico | I dedicate a temple to Jupiter
+dico2 | Verum amico dico | I tell the truth to my friend
+dictator | Dictator senatum convocat | The dictator summons the senate
+dictatura | Dictatura sex menses durat | The dictatorship lasts six months
+dictio | Dictio oratoris auditores capit | The orator's diction captivates the listeners
+dictito | Eandem fabulam dictito | I keep repeating the same tale
+dicto | Epistulam scribae dicto | I dictate a letter to the scribe
