@@ -758,3 +758,13 @@ auctio | Auctio multos emptores vocat | The auction calls many buyers
 auctionor | Bona auctionor | I auction the goods
 auctito | Pecuniam auctito | I keep increasing my money
 aucto | Opes aucto | I keep increasing my wealth
+auctor | Auctor legis in senatu loquitur | The originator of the law speaks in the senate
+auctoramentum | Auctoramentum gladiatorem obligat | The contract binds the gladiator
+auctoritas | Auctoritas patris familiam regit | The father's authority governs the family
+auctoro | Pro amico auctoro | I stand surety for my friend
+auctrix | Auctrix pacis ad senatum venit | The originator of peace comes to the senate
+auctumnitas | Auctumnitas fructus maturos affert | Autumn brings ripe fruit
+auctumnus1 | Auctumnus uvas maturat | Autumn ripens the grapes
+auctus2 | Auctus corporis puerum fortem facit | The growth of the body makes the boy strong
+aucupium | Aucupium rustico cibum praebet | Fowling provides food for the countryman
+aucupor | In silva aucupor | I go fowling in the wood
