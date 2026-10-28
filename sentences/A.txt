@@ -309,3 +309,14 @@ agitator | Agitator asinos per viam agit | The driver drives the donkeys along t
 agitatus | Agitatus aquae in flumine celer est | The movement of the water in the river is quick
 agito | Equum in campo agito | I drive the horse on the plain
 agmen | Agmen longum per viam it | The long column goes along the road
+agna1 | Agna herbam in prato edit | The lamb eats grass in the meadow
+# third: agnascor "I accrue" is not a sentence; used of plants growing on something
+agnascor | Viscum in quercu agnascitur | The mistletoe grows on the oak
+agnatio | Agnatio ex patre venit | Kinship through the male line comes from the father
+agnitio | Agnitio amici laeta est | The recognition of the friend is happy
+agnomen | Agnomen ex victoria venit | The honorific name comes from victory
+agnominatio | Agnominatio in carmine est | The wordplay is in the poem
+agnosco | Patrem in turba agnosco | I recognise my father in the crowd
+agnus | Agnus post matrem currit | The lamb runs behind its mother
+ago | Deis gratias ago | I give thanks to the gods
+agon | Agon gymnicus in urbe est | The athletic contest is in the city
