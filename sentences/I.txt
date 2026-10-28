@@ -178,3 +178,15 @@ incommoditas | Incommoditas hospitii viatores ad aliam domum mittit | The inconv
 incommodo | Hospitem sero adventu incommodo | I inconvenience the guest by my late arrival
 inconcilio | Peregrinum inconcilio | I dupe the stranger
 inconstantia | Inconstantia populi ducem sollicitat | The people's fickleness worries the leader
+incoquo | Rapas in aqua incoquo | I boil turnips in water
+incorporatio | Incorporatio sapientiae in philosopho discipulos movet | The embodiment of wisdom in the philosopher inspires his pupils
+incorporo | Novos milites in legionem incorporo | I incorporate new soldiers into the legion
+# third: increbresco "I spread" is odd; a rumour spreads
+increbresco | Rumor per urbem increbrescit | The rumour spreads through the city
+incrementum | Incrementum pueri patri gaudium dat | The boy's growth gives his father joy
+increpito | Discipulum pigrum increpito | I chide the lazy pupil
+# third: increpo "I resound" is odd; a trumpet resounds
+increpo | Tuba in castris increpat | The trumpet resounds in the camp
+incresco | Cotidie incresco | I grow every day
+incrusto | Crateram gemmis incrusto | I encrust the bowl with gems
+incubatio | Incubatio ovorum in nido multos dies durat | The incubation of the eggs in the nest lasts many days
