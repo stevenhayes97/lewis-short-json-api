@@ -1,0 +1,13 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/C.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+caballus1 | Caballus onus ad villam portat | The nag carries a load to the farm
+cachinno1 | De joco cachinno | I guffaw at the joke
+cachinnus | Cachinnus in theatro resonat | The guffaw echoes in the theatre
+cachrys | Cachrys in terram cadit | The cone falls to the ground
+# third: caco "I defecate" is not a sentence a learner needs
+caco | Bos in agro cacat | The ox defecates in the field
+cacoethes | Cacoethes medicum perturbat | The malignancy troubles the doctor
+cacula | Cacula militi cibum parat | The soldier's servant prepares food for the soldier
+cacumen | Cacumen montis nive tegitur | The tip of the mountain is covered with snow
+cadaver | Cadaver in campo jacet | The corpse lies in the field
+cado | De equo cado | I fall from the horse
