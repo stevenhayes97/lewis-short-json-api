@@ -631,3 +631,13 @@ concalefacio | Manus igne concalefacio | I warm my hands at the fire
 concalesco | Ad focum concalesco | I warm up at the hearth
 concallesco | Labore diuturno concallesco | I harden through long labour
 # skip: concavus is an adjective (hollow), misfiled as a noun
+concedo | Amico locum concedo | I yield my place to a friend
+concelebro | Festum cum civibus concelebro | I celebrate the festival with the citizens
+concenturio | Milites in campo concenturio | I assemble the soldiers on the plain
+concentus | Concentus cantorum templum implet | The harmony of the singers fills the temple
+conceptio | Conceptio novi liberi familiam beat | The conception of a new child blesses the family
+conceptus2 | Conceptus gemellorum avos laetificat | The conception of twins gladdens the grandparents
+concerpo | Epistulam concerpo | I tear up the letter
+concertatio | Concertatio de pretio mercatores fatigat | The dispute about the price tires the merchants
+concerto | Cum vicino de limite concerto | I contend with my neighbour about the boundary
+concessio | Concessio judicis litigatorem placat | The judge's concession calms the litigant
