@@ -157,3 +157,14 @@ incido1 | In foveam incido | I fall into a pit
 incido2 | Nomen meum in cortice incido | I cut my name in the bark
 incingo | Tunicam zona incingo | I gird my tunic with a belt
 incipio | Cantum incipio | I begin the song
+incipisso | Fabulam incipisso | I begin the tale
+incisio | Incisio in saxo litteras ostendit | The incision in the stone shows the letters
+incisura | Incisura folio formam dat | The incision gives the leaf its shape
+incitamentum | Incitamentum gloriae juvenem ad studium urget | The incentive of glory urges the young man to study
+incitatio | Incitatio tribuni plebem ad forum vocat | The tribune's incitement calls the plebs to the forum
+incito | Gradum incito | I hasten my step
+inclamo | Nomen nautae in portu inclamo | I call out the sailor's name in the harbour
+# third: inclaresco "I brighten" is odd; the sky brightens
+inclaresco | Caelum mane inclarescit | The sky brightens in the morning
+inclementia | Inclementia hiemis viatores in tectum agit | The harshness of winter drives the travellers indoors
+inclinatio | Inclinatio arboris ventum indicat | The lean of the tree shows the wind
