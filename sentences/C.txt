@@ -998,3 +998,14 @@ corporo | Sculptor ideam in marmore corporat | The sculptor embodies the idea in
 corpus | Corpus fessum in lecto quiescit | The tired body rests in bed
 correctio | Correctio scripti discipulum juvat | The correction of the essay helps the pupil
 corrector | Corrector librum examinat | The corrector examines the book
+corrigo | Errores in libro corrigo | I correct the mistakes in the book
+corripio | Funem manu corripio | I seize the rope with my hand
+corrumpo | Custodem auro corrumpo | I corrupt the guard with gold
+# third: corruo "I collapse" is said of buildings
+corruo | Domus vetus corruit | The old house collapses
+corruptela | Corruptela morum civitatem infirmat | The corruption of morals weakens the state
+corruptor | Corruptor pecuniam ad curiam portat | The corrupter carries money to the senate house
+cortex | Cortex quercus arborem tegit | The bark of the oak covers the tree
+cortina | Cortina super igne pendet | The cauldron hangs over the fire
+corusco | Vexillum in aere corusco | I brandish the banner in the air
+corvus | Corvus in agro semina quaerit | The raven looks for seeds in the field
