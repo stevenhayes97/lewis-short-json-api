@@ -311,3 +311,14 @@ circumlatro | Canis hospitem circumlatrat | The dog barks round the guest
 circumligo | Funem malo circumligo | I bind a rope round the mast
 circumlino | Taedas sulfure circumlino | I smear the torches with sulphur
 circumlitio | Circumlitio cerae tabulam servat | The smearing of wax protects the tablet
+circummunio | Oppidum fossa circummunio | I fortify the town with a ditch
+circumnecto | Vittam hastae circumnecto | I bind a ribbon round the spear
+circumplecto | Matrem circumplecto | I throw my arms round my mother
+circumplector | Arborem circumplector | I clasp the tree in my arms
+circumplico | Vitem palo circumplico | I twine the vine round the stake
+circumretio | Feram laqueo circumretio | I catch the beast in a noose
+# third: circumrodo only mice and similar animals gnaw round a thing
+circumrodo | Mus caseum circumrodit | The mouse gnaws round the cheese
+circumsaepio | Hortum palis circumsaepio | I fence the garden with stakes
+circumscribo | Potestatem consulis lege circumscribo | I limit the consul's power by law
+circumscriptio | Circumscriptio agri lapidibus signatur | The boundary of the field is marked with stones
