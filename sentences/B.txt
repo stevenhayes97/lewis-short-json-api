@@ -10,3 +10,14 @@ balanus | Balanus de quercu cadit | The acorn falls from the oak
 balatro1 | Balatro in scaena clamat | The buffoon shouts on the stage
 balbutio | Coram consule balbutio | I stammer before the consul
 ballista1 | Ballista saxa ad murum mittit | The ballista sends stones to the wall
+balneator | Balneator aquam calidam parat | The bath keeper prepares hot water
+balneum | Balneum post laborem corpus recreat | The bath refreshes the body after work
+# third: balo only sheep and goats bleat
+balo | Ovis in prato balat | The sheep bleats in the meadow
+balteus | Balteus gladium sustinet | The belt supports the sword
+baptisma | Baptisma in ecclesia celebratur | The baptism is celebrated in the church
+baptizo | Virum in flumine baptizo | I baptise the man in the river
+barathrum | Barathrum sub terra patet | The abyss lies open under the earth
+barba1 | Barba senis alba est | The old man's beard is white
+barbaria | Barbaria cives urbis terret | Barbarism terrifies the citizens of the city
+barbarismus | Barbarismus orationem oratoris corrumpit | The barbarism spoils the orator's speech
