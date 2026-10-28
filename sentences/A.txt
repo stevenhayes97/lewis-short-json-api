@@ -671,3 +671,13 @@ aspiro | Ad gloriam aspiro | I aspire to glory
 asporto | Sarcinas asporto | I carry off the baggage
 assecla | Assecla divitem sequitur | The hanger-on follows the rich man
 assectator | Assectator consulem ad curiam comitatur | The follower accompanies the consul to the senate house
+assensio | Assensio populi legem juvat | The assent of the people supports the law
+assensus2 | Assensus magistri puero audaciam dat | The teacher's assent gives the boy courage
+assentatio | Assentatio regem decipit | The flattery deceives the king
+assentator | Assentator divitem laudat | The flatterer praises the rich man
+assentior | Amico assentior | I agree with my friend
+assequor | Metam assequor | I attain the goal
+asser | Asser murum sustinet | The pole supports the wall
+assero1 | Vites propter cupressos assero | I plant vines beside the cypresses
+assero2 | Servum in libertatem assero | I claim the slave as a free man
+assertio | Assertio libertatis servo spem dat | The assertion of freedom gives the slave hope
