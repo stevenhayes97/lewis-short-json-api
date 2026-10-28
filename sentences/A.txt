@@ -102,3 +102,13 @@ acquiesco | Sub arbore acquiesco | I rest under the tree
 acquiro | Opes acquiro | I acquire wealth
 acrimonia | Acrimonia cepae oculos pungit | The pungency of the onion stings the eyes
 acritudo | Acritudo aceti gustum offendit | The sharpness of the vinegar offends the taste
+acroama | Acroama in convivio nocte auditur | The entertainment is heard at the banquet at night
+acroasis | Acroasis philosophi discipulos docet | The philosopher's lecture teaches the pupils
+actio | Actio consulis civibus prodest | The consul's action benefits the citizens
+actor1 | Actor pecoris boves ad aquam agit | The drover drives the cattle to the water
+actuarius2 | Actuarius verba oratoris scribit | The clerk writes down the orator's words
+actus2 | Actus bovum per agros lentus est | The driving of the oxen across the fields is slow
+aculeus | Aculeus apis manum meam pungit | The bee's sting pricks my hand
+acumen | Acumen hastae in muro haeret | The point of the spear sticks in the wall
+acuo | Gladium acuo | I sharpen the sword
+acus1 | Acus tenuis in cista latet | The thin needle lies hidden in the chest
