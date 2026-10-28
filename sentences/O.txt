@@ -67,3 +67,14 @@ obreptio | Obreptio hostium castra turbat | The enemy's surprise disturbs the ca
 obrigesco | In frigore obrigesco | I stiffen in the cold
 obrodo | Crustum panis obrodo | I gnaw a crust of bread
 obrogo | Legem veterem decreto novo obrogo | I supersede the old law with a new decree
+obruo | Hostem multitudine obruo | I overwhelm the enemy with numbers
+obrussa | Obrussa aurum probat | The assay tests the gold
+obscenitas | Obscenitas verborum matronam offendit | The obscenity of the words offends the lady
+obscuratio | Obscuratio solis agricolas terret | The darkening of the sun frightens the farmers
+obscuritas | Obscuritas silvae viatorem tardat | The obscurity of the wood slows the traveller
+# third: obscuro "I darken" is for smoke or cloud
+obscuro | Fumus caelum obscurat | Smoke darkens the sky
+obsecratio | Obsecratio civium deos movet | The entreaty of the citizens moves the gods
+obsecro | Deos pro patria obsecro | I beseech the gods for my country
+obsecundo | Voluntati patris obsecundo | I comply with my father's wishes
+obsequela | Obsequela filiae patrem mollit | The daughter's compliance softens her father
