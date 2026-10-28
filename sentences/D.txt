@@ -416,3 +416,14 @@ dimidio | Panem dimidio | I halve the loaf
 dimissio | Dimissio scholae pueros laetos facit | The dismissal of the school makes the boys happy
 dimitto | Discipulos dimitto | I dismiss the pupils
 dimoveo | Velum manibus dimoveo | I part the curtain with my hands
+dinosco | Gemellos vix dinosco | I can hardly tell the twins apart
+dinumeratio | Dinumeratio rerum orationem longam facit | The enumeration of the points makes the speech long
+dinumero | Naves in portu dinumero | I count the ships in the harbour
+diploma | Diploma viatori iter aperit | The permit opens the road to the traveller
+directio | Directio venti navem regit | The direction of the wind steers the ship
+direptio | Direptio oppidi exercitum divitem facit | The plunder of the town makes the army rich
+diribeo | Tabellas in cista diribeo | I sort the ballots in the box
+dirigo | Navem ad portum dirigo | I direct the ship to the harbour
+dirimo | Agros fossa dirimo | I separate the fields with a ditch
+# third: diripio a military figure is more natural than the first person
+diripio | Hostis vicum diripit | The enemy plunders the village
