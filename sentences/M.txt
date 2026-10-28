@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/M.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+macellum | Macellum mane multos emptores accipit | The meat-market receives many buyers in the morning
+maceria | Maceria hortum a via dividit | The wall separates the garden from the road
+macero | Fabas in aqua macero | I steep beans in water
+macesco | Per hiemem macesco | I grow lean through the winter
+machaera1 | Machaera super lectum pendet | The sword hangs above the bed
+machina | Machina aquam e puteo trahit | The machine draws water from the well
+machinamentum | Machinamentum ingens trabes in aedificium levat | The huge machine lifts beams onto the building
+machinatio | Machinatio horologii horas monstrat | The mechanism of the clock shows the hours
+machinator | Machinator portum novum construit | The engineer builds a new harbour
+machinor | Fluminis transitum machinor | I devise a way of crossing the river
