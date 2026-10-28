@@ -31,3 +31,14 @@ palleo | Timore palleo | I am pale with fear
 pallesco | Ad nuntium pallesco | I turn pale at the news
 palliolum | Palliolum infantem a frigore tegit | The little cloak covers the baby against the cold
 pallium | Pallium senem nocte frigida calefacit | The cloak warms the old man on the cold night
+pallor | Pallor timentem prodit | The pallor gives away the frightened man
+palma1 | Palma dextra sudore madet | The right palm is damp with sweat
+palmes | Palmes novus ex vite pendet | The new shoot hangs from the vine
+# skip: palmo is attested only as the infinitive palmare and the participle palmatus
+palmula | Palmula pueri frigore rubet | The boy's little palm is red with cold
+palmus | Palmus pedem non aequat | A span does not equal a foot
+palor | Per agros palor | I wander through the fields
+palpebra | Palpebra oculum a pulvere protegit | The eyelid protects the eye from dust
+# third: palpito "I throb" is unnatural; a heart is the usual subject
+palpito | Cor post cursum palpitat | The heart throbs after the race
+palpo1 | Felem palpo | I stroke the cat
