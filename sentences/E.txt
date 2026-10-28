@@ -135,3 +135,15 @@ emoveo | Mensam e cubiculo emoveo | I remove the table from the bedroom
 empirice | Empirice medicum a libris avertit | Empiricism turns the doctor away from books
 emplastrum | Emplastrum medici dolorem lenit | The doctor's plaster eases the pain
 emptio | Emptio domus familiam sollicitat | The purchase of the house worries the family
+emptor | Emptor equum diu inspicit | The buyer inspects the horse for a long time
+emundo | Puteum emundo | I cleanse the well
+emungo | Nasum linteo emungo | I wipe my nose with a cloth
+emunio | Castra vallo emunio | I fortify the camp with a rampart
+enarratio | Enarratio carminis discipulos juvat | The exposition of the poem helps the pupils
+enarro | Mythum antiquum pueris enarro | I expound the ancient myth to the boys
+# third: enascor "I sprout" is odd; plants sprout
+enascor | Herba inter saxa enascitur | The grass sprouts among the stones
+enato | E lacu enato | I swim away from the lake
+enavigo | Ab Ostia enavigo | I sail away from Ostia
+# third: eneco a military figure is more natural than the first person
+eneco | Hostis militem enecat | The enemy kills the soldier
