@@ -116,3 +116,14 @@ notitia | Notitia Graecae linguae legatum commendat | Knowledge of the Greek lan
 noto | Locum in pagina noto | I mark the place on the page
 novacula | Novacula tonsorem exspectat | The razor waits for the barber
 novatio | Novatio aedium oppidum decorat | The renewal of the buildings beautifies the town
+noverca | Noverca puellam cantare docet | The stepmother teaches the girl to sing
+novitas | Novitas consilii senatores movet | The novelty of the plan stirs the senators
+novo | Tectum vetus novo | I renew the old roof
+noxa | Noxa grandinis agricolam contristat | The harm done by the hail saddens the farmer
+nubecula | Nubecula solem paulisper obscurat | The cloudlet dims the sun for a moment
+nubes | Nubes imbrem portat | The cloud brings rain
+nubigena | Nubigena Centaurus in silvis habitat | The cloud-born Centaur lives in the woods
+# third: nubilo "I cloud over" is for the sky
+nubilo | Caelum ante vesperam nubilat | The sky clouds over before evening
+nubo | Viro bono nubo | I marry a good man
+nucleus | Nucleus pini sciuro cibum praebet | The kernel of the pine gives the squirrel food
