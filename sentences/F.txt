@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/F.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+faba | Faba in horto crescit | The bean grows in the garden
+fabella | Fabella pueros ad somnum ducit | The tale leads the children to sleep
+fabrefacio | Armillam ex auro fabrefacio | I craft a bracelet out of gold
+fabrica | Fabrica in via Sacra stat | The workshop stands on the Sacred Way
+fabricatio | Fabricatio pontis mensem exigit | The construction of the bridge takes a month
+fabricator | Fabricator navium portum frequentat | The maker of ships frequents the harbour
+fabricor | Casam ligno fabricor | I construct a cottage of wood
+fabula1 | Fabula magistrum et discipulos tenet | The story holds the teacher and the pupils
+fabulor | Cum vicina fabulor | I chat with my neighbour
+facesso | Mandatum patris facesso | I perform my father's order
