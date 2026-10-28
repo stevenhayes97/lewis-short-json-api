@@ -385,3 +385,15 @@ furcifer | Furcifer mercatorem fallit | The scoundrel cheats the merchant
 furcilla | Furcilla fenum in plaustrum levat | The pitchfork lifts hay onto the cart
 furcula | Furcula ramum onustum sustinet | The prop supports the heavy branch
 furfur | Furfur pullos alit | The bran feeds the chickens
+furia | Furia tyranni consiliarios silentes facit | The tyrant's frenzy makes the advisers silent
+# third: furio1 "I madden" is odd; the noise maddens
+furio1 | Strepitus equos furiat | The noise maddens the horses
+furnus | Furnus panem coquit | The oven bakes the bread
+furo | Ob moram furo | I rage at the delay
+furor1 | Pomum e horto furor | I steal an apple from the garden
+furor2 | Furor populi senatores angit | The people's frenzy troubles the senators
+furunculus | Furunculus pomum de mensa tollit | The pilferer takes an apple from the table
+# third: fusco "I darken" is odd; a storm cloud darkens
+fusco | Nimbus caelum fuscat | The storm cloud darkens the sky
+fusio | Fusio aquae ex urna flores recreat | The outpouring of water from the urn refreshes the flowers
+fustis | Fustis in angulo jacet | The cudgel lies in the corner
