@@ -11,3 +11,14 @@ cacula | Cacula militi cibum parat | The soldier's servant prepares food for the
 cacumen | Cacumen montis nive tegitur | The tip of the mountain is covered with snow
 cadaver | Cadaver in campo jacet | The corpse lies in the field
 cado | De equo cado | I fall from the horse
+caduceator | Caduceator ad castra venit | The herald comes to the camp
+caduceum | Caduceum pacem significat | The herald's staff signifies peace
+cadus | Cadus in cella stat | The jar stands in the cellar
+caecitas | Caecitas poetam non vincit | Blindness does not defeat the poet
+# third: caeco "I blind" is harsh for a general audience; a sun-glare sentence is gentler
+caeco | Sol oculos caecat | The sun blinds the eyes
+caedes | Caedes in proelio milites terret | The slaughter in the battle frightens the soldiers
+caedo | Arbores caedo | I cut down the trees
+caelatura | Caelatura argentum ornat | Engraving decorates the silver
+caelo | Poculum argenteum caelo | I engrave the silver cup
+caelum1 | Caelum argentum signat | The graver marks the silver
