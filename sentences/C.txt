@@ -529,3 +529,13 @@ commaculo | Vestem luto commaculo | I defile my clothing with mud
 commanduco | Panem commanduco | I chew up the bread
 commeatus | Commeatus exercitum alit | The supplies feed the army
 commemoratio | Commemoratio nominis patrem movet | The mention of the name moves my father
+commemoro | Nomen amici commemoro | I mention my friend's name
+commendatio | Commendatio amici mihi prodest | A friend's recommendation helps me
+commendo | Librum amico commendo | I entrust the book to my friend
+commentariensis | Commentariensis nomina in tabula scribit | The registrar writes the names on a tablet
+commentarius | Commentarius in mensa jacet | The notebook lies on the table
+commentatio | Commentatio longa discipulum fatigat | Long study tires the pupil
+commentor1 | Cum sociis in bibliotheca commentor | I study with my companions in the library
+commeo | Per viam angustam commeo | I ply back and forth along the narrow road
+commercium | Commercium cum Graecis civitatem ditat | Trade with the Greeks enriches the city
+commercor | Merces in portu commercor | I buy up goods in the harbour
