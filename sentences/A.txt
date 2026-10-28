@@ -788,3 +788,13 @@ auguror | De futuro auguror | I prophesy about the future
 aula1 | Aula sole plena est | The courtyard is full of sunlight
 aulaeum | Aulaeum scaenam tegit | The curtain covers the stage
 aura | Aura folia movet | The breeze moves the leaves
+# skip: aureolus is an adjective (golden), misfiled as a noun
+auricula | Auricula puellae frigore rubet | The girl's outer ear is red with cold
+auriga | Auriga quattuor equos regit | The charioteer drives four horses
+aurigo | In circo aurigo | I drive a chariot in the circus
+auris | Auris musicam percipit | The ear perceives music
+auro | Statuam auro | I gild the statue
+aurora | Aurora caelum rubrum facit | The dawn makes the sky red
+# skip: aurugo is a noun (jaundice), misfiled as a verb
+aurum | Aurum fulgens thesaurum implet | The shining gold fills the treasury
+ausculto | Musicam ausculto | I listen to the music
