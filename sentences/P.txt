@@ -42,3 +42,13 @@ palpebra | Palpebra oculum a pulvere protegit | The eyelid protects the eye from
 # third: palpito "I throb" is unnatural; a heart is the usual subject
 palpito | Cor post cursum palpitat | The heart throbs after the race
 palpo1 | Felem palpo | I stroke the cat
+paludamentum | Paludamentum purpureum ducem inter milites monstrat | The purple cloak shows the general among the soldiers
+palumbes | Palumbes in alta quercu sedet | The wood-pigeon sits in the tall oak
+palus1 | Palus saepem sustinet | The stake supports the fence
+palus2 | Palus viam ad oppidum claudit | The marsh blocks the road to the town
+pampinatio | Pampinatio vinitorem vere occupat | The pruning keeps the vine-dresser busy in spring
+pampino | Vitem falce pampino | I prune the vine with a sickle
+pampinus | Pampinus parietem ascendit | The tendril climbs the wall
+panacea1 | Panacea in monte crescit | The panacea grows on the mountain
+pancratium | Pancratium juvenes validos poscit | The pancratium demands strong young men
+pandectes | Pandectes discipulis multa docet | The encyclopedia teaches the pupils many things
