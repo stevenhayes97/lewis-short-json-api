@@ -15,6 +15,8 @@ material sits on top of it.
 | `definitions/<LETTER>.txt` | **the curated definitions** — the recurring task below |
 | `definitions/tags.txt` | optional image tag per word, `key \| tag`; the allowed tags are `TAGS` in `tools/definitions.py` |
 | `tools/definitions.py` | chunk helper for that task (`next`, `check`, `status`) |
+| `sentences/<LETTER>.txt` | one simple example sentence per noun and verb — see the end of this file |
+| `tools/sentences.py` | chunk helper for the sentences (`next`, `check`, `status`) |
 | `tools/ls_db.py`, `tools/lookup.py` | load the JSON into SQL, read it back out — see `tools/README.md` |
 | `json-schemas/` | draft API request/response shapes, still evolving |
 | `api/` | FastAPI boilerplate, no routes yet |
@@ -266,3 +268,48 @@ rediscovered each chunk. None is a defect in an individual line.
 Work on the branch you were told to use, one commit per chunk, subject naming
 the letter and the range, e.g. `Add definitions for G: galbanum through gallus1`.
 Do not open a pull request unless asked.
+
+---
+
+# Recurring task: writing example sentences
+
+One very simple Latin sentence per word, with its English, in
+`sentences/<LETTER>.txt`. Nouns and verbs only, for now. Same chunk loop as
+the definitions, with its own tool:
+
+```
+python tools/sentences.py next A -n 10 --show   # words to write, with their ranks 1-3
+python tools/sentences.py check A               # must pass before committing
+```
+
+`next` offers every noun or verb that already has a curated definition,
+alphabetically, minus what is written or `# skip:`ped. The noun/verb test
+lives in `word_class()`; L&S's `part_of_speech` is patchy, so a word it
+misfiles gets a `# skip:` line rather than a hand-picked substitute.
+
+## Line format
+
+```
+key | Latin sentence | English
+puella | Puella caelum videt | The girl sees the sky
+video | Cibum calidum video | I see the warm food
+```
+
+- **One clause.** A subject, a verb, an object or a prepositional phrase at
+  most. No commas, no `qui`/`ut`/`si`/`quod`/`ubi` clauses.
+- **A noun is the subject, in its headword form** — the nominative singular
+  (the plural for a plural-only word such as `castra`).
+- **A verb is in its headword form** — first person singular present, so the
+  English starts `I ...`. Deponents keep their headword (`Amicum hortor`, I
+  encourage my friend): the form is passive, the meaning active.
+- **Illustrate the rank 1 sense**, in the classical meaning. Prefer the
+  entry's own idiom when it has one: `Me consulatu abdico`, after L&S's
+  `se abdicare magistratu`.
+- **Plain text.** No macrons, no final full stop; `j` spelling as in the keys.
+  Keep the other words to common vocabulary a beginner already knows.
+
+`check` enforces the format, one sentence per key, alphabetical order, the
+headword form appearing in the Latin, a verb's `I ...`, and the single clause.
+It cannot check the grammar: read each sentence back for case endings and
+agreement before committing. Subject naming the range, e.g. `Add sentences for
+A: abacus through abhorreo`.

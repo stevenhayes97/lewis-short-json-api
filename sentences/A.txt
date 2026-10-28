@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/A.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+abacus | Abacus in atrio stat | The sideboard stands in the hall
+abalieno | Amicum meum abalieno | I alienate my friend
+abdicatio | Abdicatio consulis populum terret | The consul's abdication alarms the people
+abdico1 | Me consulatu abdico | I resign the consulship
+abdo | Gladium sub veste abdo | I hide the sword under my cloak
+abdomen | Abdomen porci magnum est | The pig's belly is big
+abduco | Equum ex agro abduco | I lead the horse away from the field
+abeo | Ex urbe abeo | I depart from the city
+aberro | A via aberro | I stray from the road
+abhorreo | A bello abhorreo | I recoil from war
