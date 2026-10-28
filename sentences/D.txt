@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/D.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+dactylus | Dactylus in versu poetae sonat | The dactyl sounds in the poet's verse
+daemon1 | Daemon domum custodit | The spirit guards the house
+damma | Damma in silva currit | The deer runs in the wood
+damnatio | Damnatio reum tristem facit | The condemnation makes the defendant sad
+damno | Furem damno | I condemn the thief
+damnum | Damnum mercatorem terret | The loss frightens the merchant
+daphne | Daphne prope fontem crescit | The laurel grows near the spring
+daps | Daps deis in templo datur | The feast is given to the gods in the temple
+datio | Datio frumenti pauperes juvat | The giving of grain helps the poor
+dato | Pomum puero dato | I give the apple to the boy
