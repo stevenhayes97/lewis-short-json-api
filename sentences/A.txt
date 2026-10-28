@@ -466,3 +466,13 @@ anguis | Anguis in herba latet | The snake hides in the grass
 angulus | Angulus cubiculi obscurus est | The corner of the bedroom is dark
 angustiae | Angustiae naves tardant | The narrows slow the ships
 angusto | Viam angusto | I narrow the road
+anhelatio | Anhelatio cursorem tardat | The panting slows the runner
+anhelitus | Anhelitus pueri post cursum auditur | The boy's panting is heard after the race
+anhelo | Post cursum anhelo | I pant after the run
+anicula | Anicula ad ignem sedet | The old woman sits by the fire
+anima | Anima mea in frigore videtur | My breath is seen in the cold
+animadversio | Animadversio magistri discipulum monet | The teacher's observation warns the pupil
+animadverto | Fumum in monte animadverto | I notice smoke on the mountain
+animo | Tibiam spiritu animo | I fill the pipe with breath
+animositas | Animositas militum ducem confirmat | The soldiers' boldness strengthens the leader
+animus | Animus sapientis corpus regit | The mind of the wise man rules the body
