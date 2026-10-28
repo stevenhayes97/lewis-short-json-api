@@ -496,3 +496,13 @@ antecessio | Antecessio stellarum nautam docet | The advance of the stars teache
 antecessor | Antecessor meus librum scribit | My predecessor writes a book
 antecursor | Antecursor exercitum monet | The forerunner warns the army
 anteeo | Praetoribus anteeo | I walk before the praetors
+antefero | Pacem bello antefero | I prefer peace to war
+# skip: antefixus is a participle (nailed on), misfiled as a noun
+antenna | Antenna velum sustinet | The yardarm holds up the sail
+antepono | Libros ludis antepono | I prefer books to games
+antesignanus | Antesignanus ante signa stat | The front-line soldier stands before the standards
+antesto | Cursu fratri antesto | I excel my brother in running
+antestor | Vicinum antestor | I call my neighbour to witness
+antevenio | Hostem antevenio | I forestall the enemy
+anteverto | Nuntium anteverto | I forestall the messenger
+anticipatio | Anticipatio deorum omnes homines tenet | The preconception of the gods holds all people
