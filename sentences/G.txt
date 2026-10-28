@@ -75,3 +75,14 @@ gladius | Gladius in vagina quiescit | The sword rests in its sheath
 glaeba | Glaeba aratrum retinet | The clod holds back the plough
 glaebula | Glaebula in sulco jacet | The small clod lies in the furrow
 glandulae | Glandulae senis tument | The old man's tonsils are swollen
+glans | Glans suem in silva alit | The acorn feeds the pig in the wood
+glarea | Glarea sub rota crepat | The gravel crunches under the wheel
+glis | Glis in cavo arboris dormit | The dormouse sleeps in the hollow of the tree
+# third: glisco "I swell" is odd; a river swells
+glisco | Flumen pluvia gliscit | The river swells with the rain
+globo | Ceram manibus globo | I round the wax with my hands
+globulus | Globulus cerae in mensa liquescit | The globule of wax melts on the table
+globus | Globus per aream currit | The ball runs across the yard
+glomeramen | Glomeramen lanae e sella cadit | The ball of wool falls from the chair
+glomero | Lanam in orbes glomero | I wind the wool into balls
+glomus | Glomus fili in corbe ancillae est | The clew of thread is in the maid's basket
