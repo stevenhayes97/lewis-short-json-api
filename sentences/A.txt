@@ -396,3 +396,13 @@ amabilitas | Amabilitas magistri discipulis grata est | The teacher's charm is w
 amando | Servum in agros amando | I send the slave off to the fields
 amaritudo | Amaritudo herbae puero non placet | The bitterness of the herb does not please the boy
 ambages | Ambages viarum multae sunt | The windings of the roads are many
+ambedo | Crustum ambedo | I gnaw at the crust
+ambigo | Haud ambigo | I have no doubt
+ambiguitas | Ambiguitas nominis discipulum fallit | The ambiguity of the name deceives the pupil
+ambio | Murum ambio | I go round the wall
+ambitio | Ambitio candidati cives movet | The candidate's canvassing moves the citizens
+ambitus2 | Ambitus lunae brevis est | The circuit of the moon is short
+# skip: ambo is an adjective (both), misfiled as a verb
+ambrosia1 | Ambrosia cibus deorum est | Ambrosia is the food of the gods
+ambulacrum | Ambulacrum arboribus ornatum est | The avenue is adorned with trees
+ambulatio | Ambulatio post cenam salubris est | The walk after dinner is healthy
