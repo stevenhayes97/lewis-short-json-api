@@ -861,3 +861,15 @@ consterno1 | Floribus viam consterno | I strew the road with flowers
 consterno2 | Anseres clamore consterno | I terrify the geese with a shout
 constituo | Novam legem constituo | I establish a new law
 constitutio | Constitutio civitatis a sapientibus laudatur | The constitution of the state is praised by the wise
+constitutor | Constitutor scholae discipulos salutat | The founder of the school greets the pupils
+# third: consto "I agree" in this sense is said of accounts and statements
+consto | Ratio cum numeris constat | The account agrees with the figures
+# third: constrepo only noisy things resound
+constrepo | Theatrum clamore constrepit | The theatre resounds with shouting
+constringo | Libros funiculo constringo | I bind the books with a cord
+constructio | Constructio navis fabros occupat | The construction of the ship keeps the carpenters busy
+construo | Villam novam in colle construo | I build a new farmhouse on the hill
+constupro | Judicium pecunia constupro | I corrupt the court with money
+consuadeo | Fratri pacem consuadeo | I urge peace on my brother
+consuefacio | Equum frenis consuefacio | I accustom the horse to the bridle
+consuesco | Mane surgere consuesco | I grow used to rising early
