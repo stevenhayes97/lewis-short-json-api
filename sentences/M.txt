@@ -303,3 +303,15 @@ mordacitas | Mordacitas poetae amicos a convivio abigit | The poet's mordacity d
 # third: mordeo the first person is unnatural; a horse is the natural subject
 mordeo | Equus frenum mordet | The horse bites the bit
 moretum | Moretum allium et herbas continet | The relish contains garlic and herbs
+morigeror | Patri morigeror | I comply with my father
+morion | Morion in umbrosa valle crescit | The nightshade grows in the shady valley
+# third: morior "I die" is grim and unnatural; a tree is the natural subject
+morior | Arbor vetus in hieme moritur | The old tree dies in winter
+moror1 | Nuntium moror | I delay the messenger
+mors | Mors poetae amicos maestos reddit | The poet's death makes his friends sad
+# third: morsico "I nibble" is unnatural; a mouse is the natural subject
+morsico | Mus caseum morsicat | The mouse nibbles the cheese
+morsus2 | Morsus tabani equum agitat | The bite of the horsefly agitates the horse
+mortalitas | Mortalitas pauperes et divites aequat | Mortality makes the poor and the rich equal
+mortarium | Mortarium cum pistillo herbas terit | The mortar with the pestle grinds herbs
+mortualia | Mortualia in cista candida latent | The grave-clothes lie hidden in the white chest
