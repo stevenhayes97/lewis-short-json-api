@@ -925,3 +925,14 @@ contrectatio | Contrectatio picturae a custode vetatur | Touching the painting i
 contrecto | Vasa fragilia diligenter contrecto | I handle the fragile vases carefully
 contremisco | Ad tonitrum contremisco | I tremble at the thunder
 contribulo | Nuces malleo contribulo | I crush nuts with a hammer
+contribuo | Pagos vicinos contribuo | I unite the neighbouring villages
+contristo | Matrem nuntio contristo | I sadden my mother with the news
+controversia | Controversia de finibus vicinos dividit | The dispute about the boundaries divides the neighbours
+# third: contrucido "I slaughter" reads unnaturally for a violent verb
+contrucido | Exercitus hostes contrucidat | The army slaughters the enemy
+contrudo | Oves in ovile contrudo | I crowd the sheep into the fold
+contrunco | Arborem securi contrunco | I cut down the tree with an axe
+contubernalis | Contubernalis meus mane surgit | My tentmate gets up in the morning
+contubernium | Contubernium veterum militum noctes breves facit | The companionship of old soldiers makes the nights short
+contueor | Stellas ex colle contueor | I gaze at the stars from the hill
+contumacia | Contumacia filii patrem angit | The son's obstinacy distresses his father
