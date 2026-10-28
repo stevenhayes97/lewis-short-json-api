@@ -850,3 +850,14 @@ conspectus2 | Conspectus maris nautam recreat | The sight of the sea refreshes t
 conspergo | Panem sale conspergo | I sprinkle the bread with salt
 conspicio1 | Navem in mari conspicio | I notice a ship on the sea
 conspicor | Avem in arbore conspicor | I spot a bird in the tree
+conspiratio | Conspiratio vocum templum implet | The harmony of voices fills the temple
+conspiro1 | Cum choro conspiro | I harmonise with the choir
+conspondeo | Auxilium vicino conspondeo | I pledge help to my neighbour
+# third: conspuo spitting is crude for a person; camels do it
+conspuo | Camelus viatorem conspuit | The camel spits on the traveller
+constantia1 | Constantia ducis militibus spem dat | The constancy of the leader gives hope to the soldiers
+consternatio | Consternatio civium consulem commovet | The dismay of the citizens alarms the consul
+consterno1 | Floribus viam consterno | I strew the road with flowers
+consterno2 | Anseres clamore consterno | I terrify the geese with a shout
+constituo | Novam legem constituo | I establish a new law
+constitutio | Constitutio civitatis a sapientibus laudatur | The constitution of the state is praised by the wise
