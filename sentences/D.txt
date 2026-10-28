@@ -357,3 +357,13 @@ dictatura | Dictatura sex menses durat | The dictatorship lasts six months
 dictio | Dictio oratoris auditores capit | The orator's diction captivates the listeners
 dictito | Eandem fabulam dictito | I keep repeating the same tale
 dicto | Epistulam scribae dicto | I dictate a letter to the scribe
+diduco | Agmen in duas partes diduco | I separate the column into two parts
+dies | Dies pluvius viatores domi tenet | The rainy day keeps the travellers at home
+diffamo | Vicinum apud cives diffamo | I defame my neighbour among the citizens
+diffarreatio | Diffarreatio conjugium antiquum dissolvit | The divorce ceremony ends the ancient marriage
+differentia | Differentia colorum pictorem docet | The difference of the colours teaches the painter
+differo | Iter in crastinum differo | I postpone the journey until tomorrow
+difficultas | Difficultas viae mercatorem tardat | The difficulty of the road delays the merchant
+diffidentia | Diffidentia civium regem sollicitat | The distrust of the citizens worries the king
+diffido | Nuntio novo diffido | I distrust the new messenger
+diffindo | Lignum securi diffindo | I cleave the log with an axe
