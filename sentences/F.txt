@@ -1,0 +1,331 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/F.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+faba | Faba in horto crescit | The bean grows in the garden
+fabella | Fabella pueros ad somnum ducit | The tale leads the children to sleep
+fabrefacio | Armillam ex auro fabrefacio | I craft a bracelet out of gold
+fabrica | Fabrica in via Sacra stat | The workshop stands on the Sacred Way
+fabricatio | Fabricatio pontis mensem exigit | The construction of the bridge takes a month
+fabricator | Fabricator navium portum frequentat | The maker of ships frequents the harbour
+fabricor | Casam ligno fabricor | I construct a cottage of wood
+fabula1 | Fabula magistrum et discipulos tenet | The story holds the teacher and the pupils
+fabulor | Cum vicina fabulor | I chat with my neighbour
+facesso | Mandatum patris facesso | I perform my father's order
+facetia | Facetia oratoris convivium hilarat | The speaker's jest cheers the dinner party
+facies | Facies pueri in speculo apparet | The boy's face appears in the mirror
+facilitas | Facilitas itineris viatores laetos facit | The ease of the journey makes the travellers glad
+facinus | Facinus militis fortis urbem servat | The brave soldier's deed saves the city
+facio | Mensam ligneam facio | I make a wooden table
+factio | Factio nobilium senatum dividit | The faction of the nobles divides the senate
+factito | Medicinam factito | I practise medicine
+factor | Factor operis mercedem exspectat | The doer of the work awaits his pay
+factura | Factura vasorum fabrum exercet | The manufacture of vases keeps the craftsman busy
+factus2 | Factus villae dominum superbum facit | The construction of the villa makes the owner proud
+facultas | Facultas dicendi oratorem juvat | The ability to speak helps the orator
+facundia | Facundia consulis senatum movet | The consul's eloquence moves the senate
+faeneratio | Faeneratio pauperes opprimit | Usury oppresses the poor
+faenerator | Faenerator pecuniam in arca numerat | The moneylender counts the money in the chest
+faeneror | Vicino aurum faeneror | I lend gold to my neighbour at interest
+faenum | Faenum asinum alit | The hay feeds the donkey
+faenus | Faenus debitorem gravat | The interest burdens the debtor
+faex | Faex in fundo cadi manet | The dregs remain at the bottom of the jar
+fagus | Fagus ad ripam fluminis stat | The beech stands on the river bank
+fala | Fala ad murum stat | The scaffold stands by the wall
+falarica | Falarica ex turri volat | The fire-javelin flies from the tower
+fallacia | Fallacia mercatoris emptorem offendit | The merchant's deceit offends the buyer
+fallo | Hostem arte fallo | I deceive the enemy by a stratagem
+falx | Falx in manu agricolae splendet | The sickle gleams in the farmer's hand
+fama | Fama de victoria per urbem volat | The rumour about the victory flies through the city
+fames | Fames viatores ad casam cogit | Hunger drives the travellers to the cottage
+familia | Familia sub eodem tecto habitat | The household lives under the same roof
+familiaritas | Familiaritas inter fratres diu manet | The intimacy between the brothers lasts long
+famulitium | Famulitium servum fatigat | Servitude wearies the slave
+famulus1 | Famulus aquam ad dominam portat | The servant carries water to his mistress
+fanum1 | Fanum in monte antiquum stat | The ancient shrine stands on the mountain
+far | Far in sole maturescit | The spelt ripens in the sun
+farcio | Pulvinum pennis farcio | I stuff the cushion with feathers
+farina | Farina ad pistorem portatur | The flour is carried to the baker
+farrago | Farrago equos in stabulo alit | The fodder feeds the horses in the stable
+fartor | Fartor pullos mulieribus vendit | The poulterer sells chickens to the women
+fas | Fas est amicum juvare | It is right to help a friend
+fascia | Fascia capillos puellae ligat | The band ties the girl's hair
+fasciculus | Fasciculus florum in mensa jacet | The bundle of flowers lies on the table
+# third: fascino "I bewitch" is odd; a witch bewitches
+fascino | Venefica pecora fascinat | The witch bewitches the cattle
+fascinum | Fascinum agricolas terret | Witchcraft frightens the farmers
+fascis | Fascis lignorum umerum rustici premit | The bundle of firewood weighs on the peasant's shoulder
+fastidio | Cibum vilem fastidio | I loathe cheap food
+fastidium | Fastidium cibi hospitem a mensa avertit | The distaste for food turns the guest from the table
+fastigium | Fastigium montis nive tegitur | The summit of the mountain is covered with snow
+fastigo | Palum fastigo | I taper the stake
+fastus2 | Fastus consulis civibus displicet | The consul's arrogance displeases the citizens
+fateor | Errorem meum fateor | I confess my mistake
+fatigatio | Fatigatio post iter viatorem ad quietem invitat | Weariness after the journey invites the traveller to rest
+fatigo | Equum longo itinere fatigo | I weary the horse with a long journey
+# third: fatisco "I crack" is odd; a wall cracks
+fatisco | Murus vetus fatiscit | The old wall cracks
+fatum | Fatum nautam ad Italiam ducit | Fate leads the sailor to Italy
+# skip: fatus2 is attested only in the ablative fatu and the plural accusative, with no nominative headword form
+fauces | Fauces aegri dolent | The sick man's throat hurts
+fautor | Fautor poetae carmina amicis commendat | The poet's patron recommends the poems to his friends
+fautrix | Fautrix artium poetam adjuvat | The patroness of the arts helps the poet
+# skip: faventia1 is attested only in the accusative faventiam (ritual silence), with no nominative form
+faveo | Reo innocenti faveo | I favour the innocent defendant
+favilla | Favilla in foco lucet | The embers glow in the hearth
+favor | Favor populi consulem sustinet | The people's favour supports the consul
+favus | Favus ursum allicit | The honeycomb attracts the bear
+fax | Fax in tenebris viam monstrat | The torch shows the way in the darkness
+febris | Febris aegrum per noctem vexat | The fever troubles the patient through the night
+februo | Domum februo | I purify the house
+februum | Februum sacerdotes occupat | Purification occupies the priests
+fecunditas | Fecunditas terrae colonum alit | The fertility of the soil feeds the farmer
+fel | Fel puero amarum videtur | The bile seems bitter to the boy
+feles | Feles murem sub mensa spectat | The cat watches the mouse under the table
+felicitas1 | Felicitas matris filiam ad risum movet | The mother's happiness moves her daughter to laughter
+femina | Femina ad fontem rosas legit | The woman gathers roses at the spring
+femur | Femur equitis post iter dolet | The rider's thigh aches after the journey
+fenestella | Fenestella ad hortum aperta est | The window is open to the garden
+fenestra | Fenestra ad viam spectat | The window faces the street
+fenestro | Murum fenestro | I put windows in the wall
+ferculum | Ferculum dominum per viam portat | The litter carries the master along the road
+ferentarius | Ferentarius ante aciem pugnat | The skirmisher fights in front of the battle line
+feretrum | Feretrum per vicum lente movetur | The bier moves slowly through the street
+feriae | Feriae pueros ad mare vocant | The holidays call the boys to the sea
+# third: ferio a military figure is more natural than the first person
+ferio | Miles portam ferit | The soldier strikes the gate
+ferior | Post vindemiam ferior | I rest after the grape harvest
+feritas | Feritas leonis viatores in via terret | The fierceness of the lion frightens the travellers on the road
+fermento | Panem fermento | I leaven the bread
+fermentum | Fermentum massam inflat | The leaven puffs up the dough
+fero | Aquam in urna fero | I carry water in a jar
+ferocia | Ferocia equi stabularium terret | The horse's fierceness frightens the groom
+ferocio | Ob injuriam ferocio | I rage at the insult
+ferocitas | Ferocitas aprorum venatores cautos facit | The fierceness of the boars makes the hunters cautious
+ferramentum | Ferramentum in arca fabri jacet | The tool lies in the smith's chest
+ferrugo | Ferrugo clavum veterem edit | The rust eats the old nail
+ferrum | Ferrum in igne rubet | The iron glows red in the fire
+ferrumen | Ferrumen vas aeneum reficit | The solder mends the bronze vessel
+ferruumino | Fistulam ferruumino | I solder the pipe
+fertilitas | Fertilitas Aegypti Romam alit | The fertility of Egypt feeds Rome
+ferula | Ferula in prato alta crescit | The fennel grows tall in the meadow
+fervefacio | Aquam in olla fervefacio | I heat the water in the pot
+# third: ferveo "I boil" is odd; milk or water boils
+ferveo | Lac in olla fervet | The milk boils in the pot
+# third: fervesco "I heat up" is odd; sand heats up
+fervesco | Arena meridie fervescit | The sand heats up at noon
+fervor | Fervor aestatis messorem sub umbram pellit | The heat of summer drives the reaper into the shade
+festinatio | Festinatio nuntii senatum excitat | The messenger's haste rouses the senate
+festino | Ad portum festino | I hasten to the harbour
+festivitas | Festivitas chori pueros ad saltandum invitat | The gaiety of the chorus invites the boys to dance
+festuca | Festuca in nido avis jacet | The stalk lies in the bird's nest
+# third: feteo "I stink" is odd; fish stinks
+feteo | Piscis in sole fetet | The fish stinks in the sun
+fetiales | Fetiales ad fines hostium proficiscuntur | The fetials set out for the enemy's borders
+# third: feto "I breed" is odd; ducks breed
+feto | Anas in palude fetat | The duck breeds in the marsh
+fetor | Fetor cloacae viatores a via avertit | The stench of the drain turns the travellers from the road
+fetura | Fetura ovium pastorem laetum facit | The breeding of the sheep makes the shepherd glad
+fetus2 | Fetus equae in campo saltat | The mare's offspring leaps in the field
+fetutina | Fetutina in angulo vici latet | The cesspool lies hidden in the corner of the village
+fibra | Fibra foliorum aquam ad radicem ducit | The fibre of the leaves leads water to the root
+fibula | Fibula pallium in umero tenet | The clasp holds the cloak on the shoulder
+ficatum | Ficatum in patina fumat | The liver steams in the dish
+fictio | Fictio vasorum figulum per diem occupat | The formation of the vases keeps the potter busy all day
+fictor | Fictor deae statuam in templo ponit | The sculptor puts the goddess's statue in the temple
+ficus | Ficus umbram agricolae dat | The fig-tree gives the farmer shade
+fideicommitto | Villam sorori fideicommitto | I bequeath my villa to my sister
+fidejubeo | Pro amico fidejubeo | I vouch for my friend
+fidejussor | Fidejussor creditorem tranquillum facit | The guarantor makes the creditor calm
+fidelia | Fidelia in culina pendet | The pot hangs in the kitchen
+fidelitas | Fidelitas servi dominum movet | The slave's fidelity moves his master
+fidentia1 | Fidentia ducis milites ad pugnam incitat | The general's confidence spurs the soldiers to battle
+fidepromissor | Fidepromissor pro fratre pecuniam spondet | The surety pledges money for his brother
+fides1 | Fides amicorum vitam beatam facit | Trust among friends makes life happy
+fides2 | Fides sub digitis poetae sonat | The lyre sounds under the poet's fingers
+fidicen | Fidicen ante cenam canit | The harpist plays before dinner
+fidiculae | Fidiculae in angulo pendent | The lutes hang in the corner
+fido | Magistro fido | I trust my teacher
+fiducia | Fiducia in duce exercitum firmat | Confidence in the leader steadies the army
+fiducio | Agrum creditori fiducio | I mortgage my field to the creditor
+figmentum | Figmentum cerae artificem commendat | The formation in wax commends the artist
+figo | Tabulam ad murum figo | I fasten the board to the wall
+figulus1 | Figulus vasa in fornace coquit | The potter bakes the vessels in the kiln
+figura | Figura vasis emptori placet | The shape of the vase pleases the buyer
+figuratio | Figuratio argillae discipulos in schola exercet | The shaping of clay trains the pupils in school
+figuro | Ex argilla ranam figuro | I shape a frog out of clay
+filia | Filia mea cum matre cantat | My daughter sings with her mother
+filiola | Filiola patrem ad portam exspectat | The daughter waits for her father at the gate
+filius | Filius agricolae boves pascit | The farmer's son feeds the oxen
+filum | Filum rubrum in acu pendet | The red thread hangs on the needle
+fimbriae | Fimbriae pallii in luto trahuntur | The fringe of the cloak is dragged in the mud
+fimus | Fimus agrum pinguem facit | Dung makes the field rich
+findo | Lignum securi findo | I split the wood with an axe
+fingo | Ex cera avem fingo | I shape a bird out of wax
+finio | Agrum muro finio | I bound the field with a wall
+finis | Finis agri duas villas dividit | The boundary of the field divides two villas
+finitio | Finitio inter duo praedia cippo notatur | The boundary between two estates is marked by a stone
+finitor | Finitor agros metitur | The surveyor measures the fields
+firmamentum | Firmamentum pontis in flumine stat | The support of the bridge stands in the river
+firmitas | Firmitas muri urbem tuetur | The firmness of the wall protects the city
+firmitudo | Firmitudo aedificii incolas securos facit | The firmness of the building makes the residents safe
+firmo | Pontem trabibus firmo | I strengthen the bridge with beams
+fiscella | Fiscella uvas ex vinea portat | The basket carries grapes from the vineyard
+fiscina | Fiscina plena nucibus sub arbore jacet | The basket full of nuts lies under the tree
+fiscus | Fiscus in zona pendet | The purse hangs from the belt
+fistuco | Palos in terram fistuco | I ram stakes into the ground
+fistula | Fistula aquam in hortum ducit | The pipe leads water into the garden
+flabellum | Flabellum reginam in aestu refrigerat | The fan cools the queen in the heat
+flabra | Flabra ventorum navem agitant | The gusts of the winds toss the ship
+# third: flacceo "I droop" is odd; a flower droops
+flacceo | Flos in vase flaccet | The flower droops in the vase
+# third: flagello "I whip" is grim; a charioteer whips
+flagello | Auriga equos flagellat | The charioteer whips the horses
+flagellum | Flagellum in stabulo pendet | The whip hangs in the stable
+flagitator | Flagitator ad ostium debitoris stat | The dun stands at the debtor's door
+flagitium | Flagitium familiam pudore afficit | The disgrace fills the family with shame
+flagito | Mercedem a domino flagito | I demand my wages from my master
+flagrantia | Flagrantia ignis tenebras noctis illuminat | The glow of the fire lights up the darkness of the night
+# third: flagro "I blaze" is odd; a fire blazes
+flagro | Ignis in atrio flagrat | The fire blazes in the hall
+flagrum | Flagrum juxta currum jacet | The whip lies beside the chariot
+flamen1 | Flamen aram floribus ornat | The flamen decorates the altar with flowers
+flamen2 | Flamen vela implet | The gust fills the sails
+flaminica | Flaminica cum marito in templo orat | The flamen's wife prays with her husband in the temple
+flamma1 | Flamma in lucerna tremit | The flame trembles in the lamp
+flammo | Facem lucerna flammo | I ignite the torch with a lamp
+flator | Flator ante pompam ambulat | The piper walks before the procession
+flatus | Flatus aegri in aere frigido apparet | The patient's breath is visible in the cold air
+# third: flaveo "I am yellow" is odd; corn is yellow
+flaveo | Seges in campo flavet | The corn is yellow in the field
+# third: flavesco "I turn yellow" is odd; a leaf turns yellow
+flavesco | Folium autumno flavescit | The leaf turns yellow in autumn
+flecto | Ramum arboris flecto | I bend the branch of the tree
+flemina | Flemina crurum viatorem tardant | The swellings of the legs slow the traveller
+fleo | Ob tristem fabulam fleo | I weep at the sad story
+fletus2 | Fletus infantis matrem excitat | The baby's weeping wakes its mother
+flexio | Flexio viae carrum tardat | The bend in the road slows the cart
+flexura | Flexura fluminis navem tardat | The bend in the river slows the boat
+flexus2 | Flexus dexter ad villam ducit | The right turn leads to the villa
+# third: fligo attested only in the third person; a gladiator figure is more natural than the first person
+fligo | Gladiator palum fligit | The gladiator strikes the post
+flo | In carbones flo | I blow on the coals
+# skip: flocces is attested only as an accusative object (flocces bibit), with no nominative headword form
+floccus | Floccus lanae in vento volat | The tuft of wool flies in the wind
+# third: floreo "I bloom" is odd; a rose blooms
+floreo | Rosa in horto floret | The rose blooms in the garden
+# third: floresco "I blossom" is odd; a tree blossoms
+floresco | Prunus vere florescit | The plum tree blossoms in spring
+flos | Flos nectar apibus dat | The flower gives nectar to the bees
+flosculus | Flosculus inter herbas latet | The floweret hides among the grass
+fluctio | Fluctio oculorum aegrum ad medicum ducit | The discharge from the eyes takes the patient to the doctor
+fluctuatio | Fluctuatio animorum senatum impedit | The fluctuation of minds hinders the senate
+# third: fluctuo "I billow" is odd; the sea billows
+fluctuo | Mare sub vento fluctuat | The sea billows in the wind
+fluctus | Fluctus in litore frangitur | The wave breaks on the shore
+fluentum | Fluentum per saxa currit | The stream runs over the rocks
+flumen | Flumen oppidum a silva dividit | The river separates the town from the forest
+# third: fluo "I flow" is odd; a stream flows
+fluo | Rivus per prata fluit | The brook flows through the meadows
+fluor | Fluor aquae molendinum movet | The flow of water drives the mill
+flustra | Flustra navigationem facilem reddunt | The calm makes the voyage easy
+fluvius | Fluvius inter duos montes labitur | The river glides between two mountains
+fluxus2 | Fluxus aeris flammam lucernae agitat | The flux of air stirs the flame of the lamp
+focillo | Viatorem fessum vino focillo | I revive the weary traveller with wine
+foculus | Foculus pauperem in hieme calefacit | The brazier warms the poor man in winter
+focus | Focus casam calidam facit | The hearth makes the cottage warm
+# third: fodico "I jab" is unfriendly; a hen jabs
+fodico | Gallina terram rostro fodicat | The hen jabs the ground with her beak
+fodio | Puteum fodio | I dig a well
+foedero | Pacem cum Gallis foedero | I establish peace with the Gauls by treaty
+foeditas | Foeditas luti iter difficile facit | The foulness of the mud makes the journey hard
+foedo | Vestem luto foedo | I defile my robe with mud
+foedus2 | Foedus inter Romam et Carthaginem pacem servat | The treaty between Rome and Carthage preserves peace
+folium | Folium de arbore cadit | The leaf falls from the tree
+# third: follico only animals pant; attested only in the third person and participle
+follico | Mulus senex follicat | The old mule pants
+folliculus | Folliculus nummos continet | The pouch holds the coins
+follis | Follis ignem fabri excitat | The bellows rouses the smith's fire
+fomentum | Fomentum dolorem lenit | The poultice soothes the pain
+fomes | Fomes in scintillam cadit | The tinder falls on the spark
+fons | Fons in monte oritur | The spring rises on the mountain
+# third: for the first person present is not in use (the forms are fatur, fantur, fabor)
+for | Rex ad populum fatur | The king speaks to the people
+foramen | Foramen in tecto pluviam admittit | The hole in the roof lets in the rain
+forceps | Forceps clavum ex igne tollit | The tongs lift the nail from the fire
+forfex | Forfex pannum sartoris secat | The shears cut the tailor's cloth
+foris1 | Foris noctu clauditur | The door is closed at night
+forma | Forma montis e longinquo conspicitur | The shape of the mountain is seen from afar
+formator | Formator ceram in manibus mollit | The former softens the wax in his hands
+formica | Formica grana ad cavum portat | The ant carries grains to its hole
+formido1 | Tenebras formido | I dread the darkness
+formido2 | Formido noctis viatorem tenet | Dread of the night grips the traveller
+formo | Ex ligno cymbam formo | I shape a skiff out of wood
+formula | Formula verborum in tabula scripta est | The formula of words is written on the tablet
+fornax | Fornax tegulas coquit | The furnace bakes the tiles
+fornix | Fornix lapideus viam tegit | The stone arch covers the road
+foro | Tabulam terebra foro | I pierce the board with a drill
+fortitudo | Fortitudo gladiatoris spectatores movet | The gladiator's courage moves the spectators
+fortuna | Fortuna mercatorem ditat | Fortune enriches the merchant
+fortuno | Sponsos precibus fortuno | I bless the betrothed couple with prayers
+forus1 | Forus navem cum litore jungit | The gangway joins the ship to the shore
+fossa | Fossa aquam pluviae in flumen ducit | The ditch leads the rainwater into the river
+fosso | Terram ad murum fosso | I dig the ground by the wall
+fossor | Fossor in vinea laborat | The digger works in the vineyard
+fossura | Fossura putei diem totam exigit | The digging of the well takes the whole day
+fotus2 | Fotus aegro quietem dat | The fomentation gives the patient rest
+fovea | Fovea in silva latet | The pitfall lies hidden in the wood
+foveo | Pedes ad ignem foveo | I warm my feet at the fire
+fraces | Fraces olei dolium sordidum faciunt | The dregs of the oil make the jar dirty
+# third: fracesco "I rot" is odd; olives rot in a heap
+fracesco | Oliva in acervo fracescit | The olive rots in the heap
+fractura | Fractura cruris athletam in lecto tenet | The fracture of the leg keeps the athlete in bed
+fragilitas | Fragilitas vitri ancillam cautam facit | The brittleness of the glass makes the maid careful
+fragmen | Fragmen saxi in via jacet | The fragment of rock lies in the road
+fragmentum | Fragmentum marmoris sculptori placet | The fragment of marble pleases the sculptor
+fragor | Fragor arboris silentium silvae rumpit | The crash of the tree breaks the silence of the forest
+# third: fragro "I smell" is ambiguous; a place smells of something
+fragro | Hortus rosis fragrat | The garden smells of roses
+frango | Nucem saxo frango | I break the nut with a stone
+frater | Frater maior mihi librum dat | My elder brother gives me a book
+fraterculus | Fraterculus cum sorore ad ludum currit | The brother runs to school with his sister
+fraternitas | Fraternitas sociorum urbem firmam facit | The brotherhood of the allies makes the city strong
+fraudatio | Fraudatio mercatoris emptores irritat | The merchant's fraud irritates the buyers
+fraudo | Publicanum fraudo | I defraud the tax-collector
+fraudulentia | Fraudulentia vilici dominum vexat | The bailiff's deceitfulness vexes his master
+fraus1 | Fraus Graecorum Trojanos decipit | The deceit of the Greeks tricks the Trojans
+fraxinus1 | Fraxinus in colle alta stat | The ash-tree stands tall on the hill
+fremitus | Fremitus maris nautas in portu retinet | The roar of the sea keeps the sailors in harbour
+# third: fremo "I roar" is odd; a bull roars
+fremo | Taurus in prato fremit | The bull roars in the meadow
+fremor | Fremor turbae theatrum implet | The murmur of the crowd fills the theatre
+# third: frendo "I gnash" is odd; a boar gnashes
+frendo | Aper dentibus frendit | The boar gnashes its teeth
+freno | Equum ferocem freno | I bridle the spirited horse
+frenum | Frenum aureum equum splendidum facit | The golden bridle makes the horse splendid
+frequentatio | Frequentatio epistularum matrem laetam facit | The frequency of the letters makes the mother glad
+frequentia | Frequentia consulem in via salutat | The crowd greets the consul in the street
+frequento | Thermas frequento | I frequent the baths
+frico | Dorsum equi manu frico | I rub the horse's back with my hand
+frigeo | Sine pallio frigeo | I am cold without my cloak
+# third: frigesco "I grow cold" is odd; water grows cold
+frigesco | Aqua nocte frigescit | The water grows cold at night
+frigo1 | Hordeum in sartagine frigo | I roast barley in the pan
+frigus | Frigus matutinum agricolam ad focum revocat | The morning cold calls the farmer back to the hearth
+frigusculum | Frigusculum vesperi hospites in domum revocat | The chill of the evening calls the guests back into the house
+# third: frigutio "I twitter" is odd; a blackbird twitters
+frigutio | Merula in horto frigutit | The blackbird twitters in the garden
+frio | Glaebam manibus frio | I crumble the clod with my hands
+# third: fritinnio "I chirp" is odd; a cicada chirps
+fritinnio | Cicada in arbore fritinnit | The cicada chirps in the tree
+# third: frondeo "I leaf" is odd; an oak is in leaf
+frondeo | Quercus vere frondet | The oak is in leaf in spring
+# third: frondesco "I leaf out" is odd; a tree leafs out
+frondesco | Salix prima vere frondescit | The willow leafs out in early spring
+frons1 | Frons arborum viatorem a sole tegit | The foliage of the trees shelters the traveller from the sun
+frons2 | Frons athletae sudore madet | The athlete's forehead is wet with sweat
+fructus2 | Fructus pomarii ad urbem portatur | The fruit of the orchard is carried to the city
+frugalitas | Frugalitas patris familiam servat | The father's frugality preserves the family
+frumentor | Prope castra frumentor | I forage near the camp
+frumentum | Frumentum in horreo servatur | The grain is kept in the barn
+fruniscor | Otio fruniscor | I enjoy leisure
+fruor | Pace fruor | I enjoy peace
+frustratio | Frustratio custodis exercitum juvat | The deception of the guard helps the army
