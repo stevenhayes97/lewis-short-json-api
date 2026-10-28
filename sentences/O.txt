@@ -200,3 +200,17 @@ officina | Officina tabulas et clavos habet | The workshop has boards and nails
 # third: officio "I obstruct" is for a log or object
 officio | Truncus viae officit | The log obstructs the road
 officium | Officium me ad portum vocat | Duty calls me to the harbour
+offigo | Tabulam clavo ad postem offigo | I fix the board to the post with a nail
+offirmo | In proposito me offirmo | I persist in my purpose
+# third: offoco "I strangle" reads unnaturally; an enemy does it
+offoco | Hostis exploratorem offocat | The enemy strangles the scout
+offringo | Agrum post hiemem offringo | I cross-plough the field after winter
+offucia | Offucia faciem actoris tegit | The makeup covers the actor's face
+offula | Offula panis in sinu pueri latet | The morsel of bread hides in the boy's lap
+# third: offulgeo "I shine forth" is for a star
+offulgeo | Stella e nubibus offulget | The star shines forth from the clouds
+offundo | Aquam capiti offundo | I pour water over my head
+# third: oggannio "I growl" is for a dog
+oggannio | Canis sub mensa oggannit | The dog growls under the table
+# third: oleo1 "I smell" is for a place
+oleo1 | Culina thymum olet | The kitchen smells of thyme
