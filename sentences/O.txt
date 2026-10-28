@@ -157,3 +157,15 @@ occino | Corvus supra tectum occinit | The raven screeches above the roof
 occipio | Opus mane occipio | I begin the work in the morning
 occipitium | Occipitium meum sub petaso calet | The back of my head is warm under the hat
 occisio | Occisio legionis senatum contristat | The slaughter of the legion saddens the senate
+occludo | Arcam occludo | I shut the chest
+occo | Agrum post sementem occo | I harrow the field after sowing
+# third: occubo "I lie buried" is for the dead
+occubo | Poeta sub marmore occubat | The poet lies buried under marble
+occulo | Thesaurum sub terra occulo | I hide the treasure under the ground
+occultatio | Occultatio consilii senatores irritat | The concealment of the plan angers the senators
+occulto2 | Epistulam sub pulvino occulto | I hide the letter under the pillow
+# third: occumbo "I die" is not a sentence a learner needs
+occumbo | Miles pro patria occumbit | The soldier dies for his country
+occupatio | Occupatio urbis cives terret | The occupation of the city frightens the citizens
+occupo | Pontem occupo | I seize the bridge
+occurro | Medico in via occurro | I meet the doctor on the road
