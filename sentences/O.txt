@@ -78,3 +78,13 @@ obsecratio | Obsecratio civium deos movet | The entreaty of the citizens moves t
 obsecro | Deos pro patria obsecro | I beseech the gods for my country
 obsecundo | Voluntati patris obsecundo | I comply with my father's wishes
 obsequela | Obsequela filiae patrem mollit | The daughter's compliance softens her father
+obsequium | Obsequium militis ducem placat | The soldier's compliance pleases the general
+obsequor | Sorori obsequor | I comply with my sister
+obsero1 | Januam nocte obsero | I bolt the front door at night
+obsero2 | Agrum tritico obsero | I sow the field with wheat
+observantia | Observantia juvenum senem honorat | The young men's respect honours the old man
+observatio | Observatio siderum nautas dirigit | Observation of the stars guides the sailors
+observito | Aves in agro observito | I observe the birds in the field
+observo | Lunam e fenestra observo | I observe the moon from the window
+obses | Obses in castris Romanorum manet | The hostage stays in the Roman camp
+obsessor | Obsessor urbis murum circumit | The besieger of the city walks around the wall
