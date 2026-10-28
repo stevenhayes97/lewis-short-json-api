@@ -281,3 +281,14 @@ fractura | Fractura cruris athletam in lecto tenet | The fracture of the leg kee
 fragilitas | Fragilitas vitri ancillam cautam facit | The brittleness of the glass makes the maid careful
 fragmen | Fragmen saxi in via jacet | The fragment of rock lies in the road
 fragmentum | Fragmentum marmoris sculptori placet | The fragment of marble pleases the sculptor
+fragor | Fragor arboris silentium silvae rumpit | The crash of the tree breaks the silence of the forest
+# third: fragro "I smell" is ambiguous; a place smells of something
+fragro | Hortus rosis fragrat | The garden smells of roses
+frango | Nucem saxo frango | I break the nut with a stone
+frater | Frater maior mihi librum dat | My elder brother gives me a book
+fraterculus | Fraterculus cum sorore ad ludum currit | The brother runs to school with his sister
+fraternitas | Fraternitas sociorum urbem firmam facit | The brotherhood of the allies makes the city strong
+fraudatio | Fraudatio mercatoris emptores irritat | The merchant's fraud irritates the buyers
+fraudo | Publicanum fraudo | I defraud the tax-collector
+fraudulentia | Fraudulentia vilici dominum vexat | The bailiff's deceitfulness vexes his master
+fraus1 | Fraus Graecorum Trojanos decipit | The deceit of the Greeks tricks the Trojans
