@@ -313,3 +313,14 @@ detineo | Hospitem sermone detineo | I detain the guest with conversation
 detondeo | Ovem detondeo | I shear the sheep
 # third: detono only Jupiter, the sky and storms thunder
 detono | Jupiter e caelo detonat | Jupiter thunders from the sky
+detorqueo | Cursum navis ad litus detorqueo | I deflect the ship's course toward the shore
+detractio | Detractio praesidii oppidum nudum relinquit | The withdrawal of the garrison leaves the town bare
+detraho | Pallium de umeris detraho | I remove the cloak from my shoulders
+detrecto | Militiam detrecto | I refuse military service
+detrimentum | Detrimentum grandinis vindemiam minuit | The damage from the hail reduces the vintage
+detrudo | Lapidem ex colle detrudo | I push the stone down from the hill
+detrunco | Ramos salicis detrunco | I lop the branches of the willow
+deturbo | Statuam e basi deturbo | I topple the statue from its base
+# third: deuro only fire, the sun or frost burns things up
+deuro | Ignis stipulam deurit | The fire burns up the stubble
+deus | Deus caelum regit | The god rules the sky
