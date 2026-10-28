@@ -204,3 +204,14 @@ depeciscor | Cum rustico de pretio depeciscor | I bargain with the countryman ov
 depecto | Capillos depecto | I comb my hair
 # third: depeculor a military figure is more natural than the first person
 depeculor | Hostis agros depeculatur | The enemy plunders the fields
+depello | Hostem ex arce depello | I expel the enemy from the citadel
+# third: dependeo only objects hang down
+dependeo | Lucerna de tecto dependet | The lamp hangs from the ceiling
+dependo | Pretium integrum dependo | I pay the full price
+deperdo | Anulum in via deperdo | I lose the ring on the road
+depereo | Puellam depereo | I am desperately in love with the girl
+depilo | Gallinam depilo | I pluck the chicken
+depingo | Navem in pariete depingo | I depict the ship on the wall
+depleo | Paludem fossa depleo | I drain the marsh with a ditch
+deploro | Meos casus deploro | I lament my misfortunes
+depolio | Mensam pumice depolio | I smooth the table with pumice
