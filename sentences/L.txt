@@ -88,3 +88,13 @@ laqueus | Laqueus leporem in silva capit | The noose catches a hare in the wood
 largior | Fratri munera largior | I lavish gifts on my brother
 largitio | Largitio consulis plebem laetam facit | The consul's largesse makes the common people happy
 largitor2 | Largitor pauperibus frumentum dat | The benefactor gives grain to the poor
+laridum | Laridum in sartagine liquescit | The lard melts in the frying-pan
+larva | Larva noctu in domo vetere vagatur | The ghost wanders at night in the old house
+# skip: larvo is attested only as the participle larvatus and a passive infinitive, so there is no attested active headword form
+lascivia | Lascivia agnorum pastorem oblectat | The playfulness of the lambs amuses the shepherd
+lascivio | Cum canibus in agro lascivio | I frolic with the dogs in the field
+laser | Laser odorem acrem habet | Asafoetida has a sharp smell
+lassesco | Post cursum lassesco | I grow tired after the run
+lassitudo | Lassitudo militem sub arbore sedere cogit | Weariness makes the soldier sit under the tree
+lasso | Comitem longo itinere lasso | I tire my companion with a long walk
+latebra | Latebra in rupe lupum tegit | The hideout in the rock shelters the wolf
