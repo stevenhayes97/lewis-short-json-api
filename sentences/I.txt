@@ -335,3 +335,14 @@ injectio | Injectio saxorum fossam complet | The throwing in of rocks fills the 
 injungo | Jugum bobus injungo | I attach the yoke to the oxen
 injuria | Injuria vicini agricolam irritat | The neighbour's wrong angers the farmer
 injurior | Clientem in mercede injurior | I wrong my client over his pay
+# skip: injussus2 attested only in the ablative injussu, no usable headword form
+injustitia | Injustitia gubernatoris sociis dolorem affert | The governor's injustice brings grief to the allies
+# third: innascor "I originate" is odd; grass springs up
+innascor | Herba in tecto innascitur | The grass grows up on the roof
+innato | Lacui innato | I float on the lake
+innecto | Corollam capillis innecto | I bind a garland to my hair
+innitor | Baculo innitor | I lean on my staff
+inno | Aquae inno | I float on the water
+innocentia | Innocentia canis pueros ad ludum invitat | The dog's harmlessness invites the boys to play
+innodo | Funem ad malum innodo | I knot the rope to the mast
+innotesco | Inter cives innotesco | I become known among the citizens
