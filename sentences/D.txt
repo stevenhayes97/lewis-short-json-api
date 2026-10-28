@@ -259,3 +259,14 @@ descensus2 | Descensus ad lacum facilis est | The descent to the lake is easy
 descindo | Panem in duas partes descindo | I divide the bread into two parts
 descisco | A rege descisco | I revolt from the king
 describo | Iter fratri describo | I describe the journey to my brother
+descriptio | Descriptio urbis peregrinos juvat | The description of the city helps the visitors
+deseco | Capillum forfice deseco | I cut off a lock of hair with scissors
+desero2 | Amicum in periculo desero | I abandon my friend in danger
+desertor | Desertor noctu fugit | The deserter flees by night
+deservio | Magistro deservio | I serve the teacher
+desideo | Tota die desideo | I idle all day
+desiderium | Desiderium patriae peregrinum tenet | The longing for his homeland grips the stranger
+desidero | Pacem desidero | I desire peace
+desidia1 | Desidia discipulum a studiis arcet | Idleness keeps the pupil from his studies
+# third: desido only ground, water and the like subside
+desido | Terra post tremorem desidit | The earth subsides after the tremor
