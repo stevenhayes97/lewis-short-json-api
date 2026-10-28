@@ -112,3 +112,13 @@ aculeus | Aculeus apis manum meam pungit | The bee's sting pricks my hand
 acumen | Acumen hastae in muro haeret | The point of the spear sticks in the wall
 acuo | Gladium acuo | I sharpen the sword
 acus1 | Acus tenuis in cista latet | The thin needle lies hidden in the chest
+acus3 | Acus in mari natat | The garfish swims in the sea
+acyrologia | Acyrologia in oratione reprehenditur | The misusage is criticised in the speech
+adaequo | Tecta solo adaequo | I level the houses with the ground
+adamas | Adamas in anulo splendet | The adamant gleams in the ring
+adamo | Puellam bonam adamo | I fall in love with the good girl
+adaperio | Fenestram adaperio | I throw the window open
+adaugeo | Divitias patris adaugeo | I increase my father's wealth
+adbibo | Lac adbibo | I drink up the milk
+addico | Agrum optimo emptori addico | I award the field to the best bidder
+addisco | Quotidie novum verbum addisco | I learn a new word every day
