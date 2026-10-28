@@ -146,3 +146,13 @@ mel | Mel panem dulcem facit | The honey makes the bread sweet
 melimela | Melimela hospitem sapore suavi mulcent | The honey apples soothe the guest with a pleasant taste
 mellum | Mellum clavos ferreos habet | The dog-collar has iron studs
 melos1 | Melos suave poetae amicum laetum reddit | The sweet song makes the poet's friend cheerful
+membrana | Membrana tenuis ovum includit | The thin membrane encloses the egg
+membranula | Membranula alba oculum tegit | The white small membrane covers the eye
+membrum | Membrum fessum in lecto quiescit | The weary limb rests in bed
+memini | Amici nomen memini | I remember my friend's name
+# skip: memoratus2 only the ablative or dative memoratu(i) is attested, no nominative headword form
+memoria | Memoria senis fabulas antiquas servat | The old man's memory preserves ancient tales
+memoro | Res gestas patris memoro | I relate my father's deeds
+menda | Menda in toga candida dominum offendit | The blemish on the white toga annoys the master
+mendacium | Mendacium mercatoris emptorem irritat | The merchant's lie angers the buyer
+mendicitas | Mendicitas senem anxium reddit | Beggary makes the old man anxious
