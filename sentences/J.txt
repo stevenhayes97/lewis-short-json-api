@@ -30,3 +30,14 @@ judex | Judex testem diligenter audit | The judge listens to the witness careful
 judicatio | Judicatio senatus civibus placet | The senate's judgment pleases the citizens
 judicium | Judicium post tres dies incipit | The trial begins after three days
 judico | Certamen cantorum judico | I judge the singers' contest
+jugerum | Jugerum fertile familiam alit | The fertile acre feeds the family
+juglans | Juglans in patina jacet | The walnut lies in the dish
+jugo1 | Duas trabes ferro jugo | I join two beams with iron
+# third: jugulo "I slaughter" is grim; a generic military figure acts instead
+jugulo | Exercitus hostes jugulat | The army slaughters the enemy
+jugulum | Jugulum aegroti dolet | The sick man's throat hurts
+jugum | Jugum bovem premit | The yoke presses the ox
+jumentum | Jumentum plaustrum ad villam trahit | The draught animal pulls the wagon to the farm
+junctura | Junctura navis aquam admittit | The joint of the ship lets in water
+jungo | Duo flumina canali jungo | I join the two rivers with a canal
+junix | Junix ad rivum bibit | The heifer drinks at the stream
