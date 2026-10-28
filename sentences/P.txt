@@ -21,3 +21,13 @@ paenularius | Paenularius pannum crassum emit | The cloak-maker buys thick cloth
 paeon | Paeon versum poetae claudit | The paeon ends the poet's verse
 pagina | Pagina papyri nomen poetae continet | The page of papyrus contains the poet's name
 pagus | Pagus inter montes et flumen jacet | The district lies between the mountains and the river
+pala | Pala in terra molli haeret | The spade sticks in the soft earth
+palaestra | Palaestra juvenes in urbe exercet | The wrestling school trains the young men in the city
+palatum | Palatum acetum respuit | The palate rejects vinegar
+palea | Palea in area jacet | The chaff lies on the threshing floor
+palear | Palear e collo bovis pendet | The dewlap hangs from the ox's neck
+palla | Palla caerulea Liviam ornat | The blue robe adorns Livia
+palleo | Timore palleo | I am pale with fear
+pallesco | Ad nuntium pallesco | I turn pale at the news
+palliolum | Palliolum infantem a frigore tegit | The little cloak covers the baby against the cold
+pallium | Pallium senem nocte frigida calefacit | The cloak warms the old man on the cold night
