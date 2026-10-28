@@ -378,3 +378,5 @@ mutio | Coram magistro mutio | I mutter in front of the teacher
 muto1 | Vestem muto | I change my clothes
 mutuor | Libros ab amico mutuor | I borrow books from my friend
 myrtetum | Myrtetum apes in aestate allicit | The myrtle-grove attracts bees in summer
+myrtus | Myrtus ad templum Veneris crescit | The myrtle grows beside the temple of Venus
+mysterium | Mysterium Cereris viatores ad Eleusinam trahit | The mystery of Ceres draws travellers to Eleusis
