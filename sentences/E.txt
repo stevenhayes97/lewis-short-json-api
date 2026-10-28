@@ -371,3 +371,13 @@ exordior | Fabulam exordior | I begin the story
 exordium | Exordium longum auditores fatigat | The long beginning tires the listeners
 # third: exorior "I rise" is odd here; the sun rises
 exorior | Sol mane exoritur | The sun rises in the morning
+exornatio | Exornatio orationis juvenes capit | The embellishment of the speech charms the young men
+exorno | Aulam floribus exorno | I adorn the hall with flowers
+exoro | Matrem precibus exoro | I persuade my mother with entreaties
+exortus2 | Exortus solis pastores excitat | The rising of the sun wakes the shepherds
+exosculor | Catulum exosculor | I caress the puppy
+exosso | Pullum exosso | I debone the chicken
+exostra | Exostra actorem spectatoribus ostendit | The stage machine shows the actor to the spectators
+expallesco | Ob nuntium expallesco | I turn pale at the news
+expalpo | Pecuniam a patre expalpo | I coax money out of my father
+expando | Pallium in herba expando | I spread out the cloak on the grass
