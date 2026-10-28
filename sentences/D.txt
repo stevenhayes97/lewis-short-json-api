@@ -325,3 +325,15 @@ deturbo | Statuam e basi deturbo | I topple the statue from its base
 # third: deuro only fire, the sun or frost burns things up
 deuro | Ignis stipulam deurit | The fire burns up the stubble
 deus | Deus caelum regit | The god rules the sky
+deveho | Vina ad urbem deveho | I convey wine to the city
+devello | Florem de ramo devello | I pluck a flower from the branch
+devenio | Ad portum devenio | I arrive at the harbour
+deverticulum | Deverticulum per silvam ad flumen ducit | The byway leads through the wood to the river
+deverto | In viam angustam deverto | I turn aside into a narrow road
+devincio | Saccum fune devincio | I bind the sack with a rope
+# third: devinco a military figure is more natural than the first person
+devinco | Dux hostes devincit | The general vanquishes the enemy
+devito | Lutum in via devito | I avoid the mud on the road
+# third: devolo only birds fly down
+devolo | Columba de tecto devolat | The dove flies down from the roof
+devolvo | Saxum in vallem devolvo | I roll a rock into the valley
