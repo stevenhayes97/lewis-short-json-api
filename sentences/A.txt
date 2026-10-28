@@ -225,3 +225,13 @@ aedicula | Aedicula parva in via est | The small shrine is on the road
 aedificatio | Aedificatio muri longa est | The building of the wall is long
 aedificium | Aedificium magnum prope portum est | The large building is near the harbour
 aedifico | Domum novam aedifico | I build a new house
+aedilis | Aedilis ludos populo parat | The aedile prepares games for the people
+aedilitas | Aedilitas magistratus antiquus est | The aedileship is an ancient magistracy
+aeditimus | Aeditimus templum purgat | The temple keeper cleans the temple
+aedituus | Aedituus ad portam templi stat | The temple keeper stands at the gate of the temple
+aegilops | Aegilops malus est | The eye tumour is bad
+aegis | Aegis in templo splendet | The aegis gleams in the temple
+aegresco | Hieme aegresco | I fall ill in winter
+aegrimonia | Aegrimonia mala est | The sorrow is bad
+aegritudo | Aegritudo gravis est | The grief is heavy
+aegrotatio | Aegrotatio longa est | The illness is long
