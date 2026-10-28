@@ -278,3 +278,14 @@ inflo | Utrem inflo | I inflate the wineskin
 # third: influo "I flow in" is odd; a stream flows in
 influo | Rivus in lacum influit | The stream flows into the lake
 infodio | Nummos in horto infodio | I bury the coins in the garden
+informatio | Informatio templi in tabula architecto placet | The outline of the temple on the tablet pleases the architect
+informo | Ceram manibus informo | I shape the wax with my hands
+infortunium | Infortunium agricolae vicinos movet | The farmer's misfortune moves the neighbours
+infrendeo | Dentibus infrendeo | I gnash my teeth
+infreno | Equum infreno | I bridle the horse
+infringo | Baculum infringo | I break the staff
+infula | Infula caput sacerdotis cingit | The fillet encircles the priest's head
+infundo | Oleum in lucernam infundo | I pour oil into the lamp
+# third: infusco "I darken" is odd; smoke darkens the walls
+infusco | Fumus parietes infuscat | The smoke darkens the walls
+infusio | Infusio herbarum gutturem lenit | The infusion of herbs soothes the throat
