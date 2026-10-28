@@ -422,3 +422,15 @@ exprobratio | Exprobratio dominae ancillam tristem facit | The mistress's reproa
 exprobro | Segnitiam militi exprobro | I reproach the soldier for laziness
 expromo | Nummos e cista expromo | I bring the coins out of the chest
 expugnatio | Expugnatio castelli legiones fatigat | The storming of the fort tires the legions
+expugnator | Expugnator ad portas urbis equitat | The conqueror rides to the city gates
+# third: expugno a military figure is more natural than the first person
+expugno | Exercitus oppidum expugnat | The army storms the town
+# third: expulso a military figure is more natural than the first person
+expulso | Exercitus hostem a ripa expulsat | The army repels the enemy from the bank
+expungo | Nomen e tabula expungo | I erase the name from the tablet
+expurgo | Cloacam expurgo | I cleanse the sewer
+exputo | Ficum exputo | I prune the fig tree
+exquiro | Fontem fluminis exquiro | I investigate the source of the river
+exsanio | Vulnus aqua exsanio | I cleanse the wound with water
+exsarcio | Tunicam scissam exsarcio | I mend the torn tunic
+exsatio | Pueros pane exsatio | I satiate the boys with bread
