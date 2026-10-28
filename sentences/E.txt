@@ -169,3 +169,13 @@ ephippium | Ephippium equum tegit | The saddle cloth covers the horse
 epigramma | Epigramma breve lectorem excitat | The short epigram wakes the reader up
 episcopus | Episcopus fideles in ecclesia salutat | The bishop greets the faithful in the church
 epistula | Epistula longa e Britannia advenit | The long letter arrives from Britain
+epodos | Epodos Horatii discipulos in schola docet | The epode of Horace teaches the pupils in school
+epoto | Lac totum epoto | I drink up all the milk
+epulo1 | Epulo cenam laudat | The feaster praises the dinner
+epulor | Cum sociis epulor | I feast with my companions
+epulum | Epulum consulem in aula exspectat | The banquet awaits the consul in the hall
+equa | Equa in prato herbam carpit | The mare crops the grass in the meadow
+eques | Eques per agros properat | The horseman hurries through the fields
+equitatus1 | Equitatus collem occupat | The cavalry occupies the hill
+equito | Per litus equito | I ride along the shore
+equuleus | Equuleus post matrem currit | The colt runs after its mother
