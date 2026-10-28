@@ -299,3 +299,15 @@ circumfero | Mulsum circumfero | I pass the honey wine round
 circumflecto | Currum circumflecto | I wheel the chariot round
 # third: circumfluo only water flows round a place
 circumfluo | Unda insulam circumfluit | The water flows round the island
+circumfodio | Arbores circumfodio | I dig round the trees
+circumfundo | Amurcam ad oleam circumfundo | I pour lees round the olive tree
+circumgredior | Terga hostium circumgredior | I work round to the enemy's rear
+circumicio | Vallum castris circumicio | I throw a rampart round the camp
+# third: circumjaceo only places, peoples or things lie round something
+circumjaceo | Pratum villam circumjacet | The meadow lies round the farmhouse
+circumjectus2 | Circumjectus murorum hortum protegit | The encirclement of walls shelters the garden
+# third: circumlatro only dogs and similar animals bark
+circumlatro | Canis hospitem circumlatrat | The dog barks round the guest
+circumligo | Funem malo circumligo | I bind a rope round the mast
+circumlino | Taedas sulfure circumlino | I smear the torches with sulphur
+circumlitio | Circumlitio cerae tabulam servat | The smearing of wax protects the tablet
