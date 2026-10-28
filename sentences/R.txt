@@ -251,3 +251,14 @@ renuntio | Victoriam senatui renuntio | I announce the victory to the senate
 renuo | Invitationem renuo | I decline the invitation
 reor | Ita reor | I think so
 repagula | Repagula portam clausam tenent | The bolts hold the gate shut
+reparco | Operam non reparco | I do not spare effort
+reparo | Navem fractam reparo | I restore the broken ship
+repastino | Hortum repastino | I dig the garden again
+repedo | Ad signa repedo | I retreat to the standards
+repello | Hostes a muris repello | I repel the enemies from the walls
+rependo | Beneficium vicini rependo | I repay the neighbour's kindness
+repenso | Damnum lucro repenso | I counterbalance the loss with profit
+repercussus2 | Repercussus vocis pastorem in montibus fallit | The echo of the voice deceives the shepherd in the mountains
+# third: repercutio "I reflect" is unnatural; a mirror is the natural subject
+repercutio | Speculum lucem repercutit | The mirror reflects the light
+reperio | Viam in silva reperio | I find the way in the forest
