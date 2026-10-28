@@ -580,3 +580,13 @@ compages | Compages navis aquam excludit | The framework of the ship keeps out t
 comparatio1 | Comparatio duorum poetarum difficilis est | The comparison of two poets is difficult
 comparatio2 | Comparatio cenae multum temporis postulat | The preparation of the dinner demands much time
 comparco | Pecuniam comparco | I save money
+compareo | Ex nebula compareo | I appear out of the mist
+comparo1 | Duos libros inter se comparo | I compare the two books with each other
+comparo2 | Cenam hospitibus comparo | I prepare dinner for the guests
+compasco | Oves in colle compasco | I pasture the sheep on the hill
+compedio | Equum in prato compedio | I fetter the horse in the meadow
+compello1 | Milites ad iter compello | I compel the soldiers to set out
+compello2 | Fratrem de mora compello | I rebuke my brother for the delay
+compendium | Compendium magnum mercatorem laetificat | The great saving cheers the merchant
+compensatio | Compensatio damni civem placat | The compensation for the loss calms the citizen
+compenso | Damnum lucro compenso | I compensate the loss with a profit
