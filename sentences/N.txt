@@ -20,3 +20,13 @@ natura | Natura apibus mel dat | Nature gives honey to the bees
 # skip: natus2 is used only in the ablative singular (natu, as in grandis natu), so there is no nominative headword form
 nauclerus | Nauclerus navem per tempestatem regit | The skipper steers the ship through the storm
 # skip: naucum is attested only in the genitive of value (non nauci, nauco ducere), so there is no usable headword form for a subject sentence
+naufragium | Naufragium mercatorem pauperem facit | The shipwreck makes the merchant poor
+naumachia | Naumachia Caesaris spectatores multos allicit | Caesar's sea fight attracts many spectators
+nausea | Nausea peregrinum in nave tenet | Seasickness grips the stranger on the ship
+nauseo | In nave nauseo | I am seasick on the ship
+nauta | Nauta stellas observat | The sailor watches the stars
+nautea | Nautea in ima nave olet | The bilge water smells at the bottom of the ship
+navia | Navia ad ripam appropinquat | The boat approaches the bank
+navigatio | Navigatio ad Graeciam decem dies postulat | The voyage to Greece requires ten days
+navigium | Navigium ex Aegypto portum intrat | The ship from Egypt enters the harbour
+navigo | Ad Siciliam navigo | I sail to Sicily
