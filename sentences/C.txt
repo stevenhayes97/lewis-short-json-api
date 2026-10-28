@@ -425,3 +425,13 @@ coalesco | Murus calce coalescit | The wall grows together with lime
 coangusto | Oves in horto coangusto | I confine the sheep in the garden
 coarguo | Mercatorem avaritiae coarguo | I convict the merchant of greed
 coarto | Lanam in sacco coarto | I compress the wool in the sack
+coccum | Coccum lanam tingit | The scarlet dyes the wool
+coclea | Coclea in folio sedet | The snail sits on the leaf
+coclear | Coclear in catino stat | The spoon stands in the dish
+coctura | Coctura carnem mollem facit | The cooking makes the meat soft
+codicilli | Codicilli ab amico veniunt | The notes come from a friend
+coemo | Agros coemo | I buy up the fields
+coemptio | Coemptio coram testibus fit | The mock sale takes place before witnesses
+coeo | Cum amicis in porticum coeo | I come together with my friends in the colonnade
+coepio | Laborare coepio | I begin to work
+coepto | Flumen transire coepto | I attempt to cross the river
