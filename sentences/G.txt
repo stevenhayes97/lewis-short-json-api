@@ -128,3 +128,14 @@ grego | Oves in campo grego | I gather the sheep into a flock in the field
 gremium | Gremium aviae felem accipit | The grandmother's lap welcomes the cat
 gressus2 | Gressus militis in via sonat | The soldier's step echoes on the road
 grex | Grex ovium ad rivum properat | The flock of sheep hurries to the brook
+groma | Groma lineam rectam in agro monstrat | The surveyor's rod shows a straight line in the field
+# third: grunnio "I grunt" is odd; a sow grunts
+grunnio | Sus in luto grunnit | The sow grunts in the mud
+grus | Grus super stagnum volat | The crane flies over the pond
+gryps | Gryps in fabula aurum custodit | The griffin guards gold in the tale
+gubernaculum | Gubernaculum navem ad portum vertit | The rudder turns the ship towards the harbour
+gubernatio | Gubernatio navis curam poscit | The steering of the ship needs care
+gubernator | Gubernator stellas nocte spectat | The pilot watches the stars at night
+guberno | Navem guberno | I steer the ship
+gula | Gula oratoris sicca est | The orator's throat is dry
+gurges1 | Gurges in flumine piscatorem terret | The whirlpool in the river frightens the fisherman
