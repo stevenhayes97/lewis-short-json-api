@@ -201,3 +201,14 @@ incuria | Incuria villici fundum perdit | The steward's negligence ruins the est
 incurro | In equites hostium incurro | I attack the enemy cavalry
 incursio | Incursio equitum cohortem turbat | The assault of the cavalry throws the cohort into confusion
 incursito | In hostes saepe incursito | I often assail the enemy
+# third: incurso "I assail" reads unnaturally; generic military figure
+incurso | Dux praesidium hostium incursat | The leader assails the enemy outpost
+incursus2 | Incursus hostium oppidum ad arma excitat | The enemy's assault rouses the town to arms
+incurvo | Arcum incurvo | I bend the bow
+incus | Incus in fabrica graviter sonat | The anvil rings heavily in the smithy
+incuso | Servum de damno incuso | I blame the slave for the damage
+incutio | Pugnum in mensam incutio | I strike my fist on the table
+indagator | Indagator vestigia cervi in luto cernit | The tracker sees the stag's footprints in the mud
+indago1 | Leporem per agros indago | I track the hare through the fields
+indago2 | Indago cervos in silva claudit | The encirclement shuts the deer in the woods
+index | Index in columna iter ad oppidum monstrat | The indicator on the column shows the way to the town
