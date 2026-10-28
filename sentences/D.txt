@@ -483,7 +483,7 @@ dispersio | Dispersio nubium caelum serenum facit | The dispersion of the clouds
 dispertio | Poma inter sodales dispertio | I distribute apples among my comrades
 dispesco | Gregem pastoribus dispesco | I divide the flock among the shepherds
 dispicio | Litteras in nebula vix dispicio | I can hardly make out the letters in the fog
-displiceo | Hodie mihi displiceo | Today I am dissatisfied with myself
+displiceo | Mihi hodie displiceo | I am dissatisfied with myself today
 # skip: displodo is attested only in the participle (burst asunder) and a rare passive; no usable headword form
 dispono | Rosas in vase dispono | I arrange the roses in the vase
 dispositio | Dispositio sellarum hospitibus placet | The arrangement of the chairs pleases the guests
