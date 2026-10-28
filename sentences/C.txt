@@ -800,3 +800,13 @@ conquestio | Conquestio colonorum dominum offendit | The complaint of the farmer
 conquiesco | Post laborem conquiesco | I rest after work
 conquiro | Libros antiquos conquiro | I collect old books
 conquisitio | Conquisitio clavis totum diem occupat | The search for the key takes up the whole day
+consaepio | Agrum cratibus consaepio | I enclose the field with hurdles
+consaluto | Hospitem ad januam consaluto | I greet the guest at the door
+consanguineus | Consanguineus meus in Sicilia habitat | My relative lives in Sicily
+consanguinitas | Consanguinitas nos ad auxilium vocat | Blood kinship calls us to help
+conscendo | Montem conscendo | I climb the mountain
+conscientia | Conscientia pura somnum dat | A clear conscience gives sleep
+conscindo | Togam conscindo | I tear the toga
+conscisco | Bellum cum Latinis conscisco | I decree war on the Latins
+conscribo | Milites novos conscribo | I enrol new soldiers
+conscriptio | Conscriptio epistulae magistrum diu tenet | The composition of the letter occupies the teacher for a long time
