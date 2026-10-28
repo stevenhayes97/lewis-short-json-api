@@ -260,3 +260,14 @@ exactor | Exactor ad januam pulsat | The collector knocks at the door
 exacuo | Falcem lapide exacuo | I sharpen the sickle with a stone
 exaedifico | Villam prope mare exaedifico | I build a villa near the sea
 exaequo | Humum exaequo | I level the ground
+# third: exaestuo "I seethe" is odd; the sea seethes
+exaestuo | Mare in tempestate exaestuat | The sea seethes in the storm
+exaggeratio | Exaggeratio ripae oppidum a flumine defendit | The elevation of the bank protects the town from the river
+exaggero | Arenam in litore exaggero | I heap up sand on the shore
+exagito | Hostes in itinere exagito | I harass the enemy on the march
+exalto | Deum in templo exalto | I exalt God in the temple
+examen | Examen apum flores petit | The swarm of bees seeks the flowers
+examino | Aurum in libra examino | I weigh the gold on the scales
+exanclo | Calicem exanclo | I drain the cup
+exanimatio | Exanimatio subita hospites tacitos facit | Sudden terror makes the guests silent
+exanimo | Equum cursu exanimo | I exhaust the horse by running
