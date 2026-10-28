@@ -150,3 +150,14 @@ lemma | Lemma carminis poetam inspirat | The theme of the poem inspires the poet
 lemniscus | Lemniscus coronam victoris ornat | The ribbon decorates the victor's crown
 lena | Lena in comoedia pecuniam poscit | The procuress in the comedy demands money
 lenio | Equum trepidum voce lenio | I soothe the nervous horse with my voice
+lenitas | Lenitas medici aegrotum timidum confirmat | The doctor's gentleness encourages the timid sick man
+lenitudo | Lenitudo vocis auditores mulcet | The gentleness of the voice soothes the listeners
+# skip: leno1 is attested only as a gerund (lenandi) and a participle (lenatae), so there is no attested finite headword form
+leno2 | Leno pecuniam avide numerat | The pimp counts the money greedily
+lenocinium | Lenocinium urbis mores corrumpit | Pandering corrupts the city's morals
+lenocinor | Patrono diviti lenocinor | I flatter the rich patron
+lens2 | Lens inter fabas in sacco latet | The lentil hides among the beans in the sack
+# third: lentesco "I soften" is odd for a person; wax does it
+lentesco | Cera ad ignem lentescit | The wax softens by the fire
+lenticula | Lenticula in aqua tumescit | The lentil swells in the water
+lentigo | Lentigo in manu senis apparet | A spot appears on the old man's hand
