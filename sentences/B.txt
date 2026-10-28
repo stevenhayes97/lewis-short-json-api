@@ -72,3 +72,13 @@ bolus | Bolus ludum finit | The throw ends the game
 bombus | Bombus tubae noctem rumpit | The boom of the trumpet breaks the night
 bombyx | Bombyx folia mori edit | The silkworm eats mulberry leaves
 bonitas | Bonitas agri agricolam juvat | The goodness of the field helps the farmer
+bonum2 | Bonum civitatis civibus prodest | The good of the state benefits the citizens
+boo | Voce alta boo | I roar in a loud voice
+boreas | Boreas arbores agitat | The north wind shakes the trees
+bos | Bos aratrum trahit | The ox pulls the plough
+bothynus | Bothynus in caelo ardet | The fireball burns in the sky
+botulus | Botulus in mensa jacet | The sausage lies on the table
+bovinator | Bovinator in via clamat | The blusterer shouts in the street
+bracchium | Bracchium mensam tangit | The arm touches the table
+bractea | Bractea aurea statuam tegit | The gold leaf covers the statue
+brassica | Brassica ex agro venit | The cabbage comes from the field
