@@ -130,3 +130,17 @@ obtueor | Imaginem patris obtueor | I gaze at my father's portrait
 obtundo | Stilum in tabula obtundo | I blunt the stylus on the tablet
 obturbo | Quietem sororis obturbo | I disturb my sister's rest
 obturo | Rimam luto obturo | I plug the crack with clay
+obtutus | Obtutus oculorum meorum lunam sequitur | The gaze of my eyes follows the moon
+# third: obumbro "I overshadow" is for a tree
+obumbro | Pinus villam obumbrat | The pine overshadows the villa
+# third: obvenio "I fall to" is for a province or an inheritance
+obvenio | Provincia consuli obvenit | The province falls to the consul
+# third: obversor "I hover" is for an image
+obversor | Imago amici ante oculos meos obversatur | My friend's image hovers before my eyes
+obverto | Currum ad portam obverto | I turn the chariot towards the gate
+obvio | Pastori obvio | I meet the shepherd
+obvolvo | Librum linteo obvolvo | I wrap the book in a cloth
+# third: occaeco "I blind" is for dust
+occaeco | Pulvis oculos ducis occaecat | The dust blinds the general's eyes
+occasio | Occasio mercatori divitias offert | The opportunity offers wealth to the merchant
+occasus2 | Occasus solis diem finit | The setting of the sun ends the day
