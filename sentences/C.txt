@@ -278,3 +278,13 @@ cingo | Urbem muro cingo | I surround the city with a wall
 cingulum1 | Cingulum ex corio fit | The belt is made of leather
 cinis | Cinis focum implet | The ash fills the hearth
 cinnabaris | Cinnabaris ex India ad urbem portatur | The dragon's blood is brought from India to the city
+cinnamomum | Cinnamomum a mercatore venditur | The cinnamon is sold by the merchant
+cippus | Cippus fines agri signat | The post marks the boundary of the field
+circino | Ramos circino | I curve the branches into a ring
+circitor | Circitor lucernam portat | The watchman carries a lamp
+circuitio | Circuitio vigiliarum noctu fit | The rounds of the watches take place by night
+circuitus2 | Circuitus solis annum efficit | The sun's circuit makes the year
+circulo | Panem circulo | I shape the loaf into a circle
+circulor | Ad oratorem circulor | I gather round the speaker
+circulus | Circulus in pulvere describitur | The circle is drawn in the dust
+circumago | Navem circumago | I turn the ship round
