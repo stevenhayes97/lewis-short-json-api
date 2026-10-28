@@ -165,3 +165,13 @@ pecus2 | Pecus ad rivum bibit | The beast drinks at the stream
 pedamen | Pedamen vitem infirmam erigit | The prop raises the weak vine
 # skip: pedatus2 is attested only in the ablative (pedato, pedatu)
 pedes | Pedes cum signifero in agmine procedit | The foot-soldier marches in the column with the standard-bearer
+pedica | Pedica avem in silva capit | The snare catches the bird in the forest
+pediculus1 | Pediculus pomum ad ramum tenet | The stalk holds the apple to the branch
+pediculus2 | Pediculus in veste mendici repit | The louse crawls on the beggar's garment
+pedis | Pedis in pelle canis latet | The louse hides in the dog's coat
+pedum1 | Pedum pastoris agnum e fossa extrahit | The shepherd's crook pulls the lamb out of the ditch
+pegma | Pegma actorem in theatro tollit | The stage lift raises the actor in the theatre
+pejero | Coram judice pejero | I perjure myself before the judge
+pelagus | Pelagus procul a litore patet | The sea stretches far from the shore
+pelicatus | Pelicatus regis uxorem contristat | The concubinage saddens the king's wife
+pellacia | Pellacia divitiarum juvenem ad urbem trahit | The allurement of riches draws the youth to the city
