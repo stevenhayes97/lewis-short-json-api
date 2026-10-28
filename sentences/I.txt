@@ -346,3 +346,14 @@ inno | Aquae inno | I float on the water
 innocentia | Innocentia canis pueros ad ludum invitat | The dog's harmlessness invites the boys to play
 innodo | Funem ad malum innodo | I knot the rope to the mast
 innotesco | Inter cives innotesco | I become known among the citizens
+innovo | Vestem veterem innovo | I renew the old garment
+innuo | Servo innuo | I nod to the slave
+innutrio | Filium litteris innutrio | I nurture my son on letters
+# third: inolesco "I grow in" is odd; a root grows into rock
+inolesco | Radix saxo inolescit | The root grows into the rock
+inopia | Inopia frumenti urbem premit | The scarcity of grain weighs on the city
+inopinatus | Hospes inopinatus ad januam venit | The unexpected guest comes to the door
+inquieto | Canem dormientem inquieto | I disturb the sleeping dog
+inquilinus1 | Inquilinus mercedem domino aedium solvit | The tenant pays the rent to the owner of the house
+inquino | Aquam luto inquino | I pollute the water with mud
+inquiro | De via inquiro | I inquire about the road
