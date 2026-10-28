@@ -147,3 +147,15 @@ enato | E lacu enato | I swim away from the lake
 enavigo | Ab Ostia enavigo | I sail away from Ostia
 # third: eneco a military figure is more natural than the first person
 eneco | Hostis militem enecat | The enemy kills the soldier
+enervo | Hostes mora enervo | I weaken the enemy by delay
+# third: eniteo only bright things shine
+eniteo | Gemma in anulo enitet | The gem shines in the ring
+# third: enitesco only the sky and the like brighten
+enitesco | Caelum mane enitescit | The sky brightens in the morning
+enitor | Pro victoria enitor | I strive for victory
+eno | Ab insula eno | I swim away from the island
+enodo | Funem enodo | I unknot the rope
+enoto | Verba magistri enoto | I note down the teacher's words
+ensis | Ensis in armamentario pendet | The sword hangs in the armoury
+enucleo | Nuces enucleo | I shell the nuts
+enumeratio | Enumeratio nominum scribam diu occupat | The enumeration of the names keeps the clerk busy for a long time
