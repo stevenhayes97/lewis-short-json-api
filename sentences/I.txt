@@ -232,3 +232,15 @@ inductio | Inductio legatorum in curiam diem longum facit | The introduction of 
 indulgentia | Indulgentia magistri discipulum pigrum facit | The teacher's indulgence makes the pupil lazy
 indulgeo | Fratri minori indulgeo | I indulge my younger brother
 induo | Togam induo | I don my toga
+# third: induresco "I harden" is odd; clay hardens
+induresco | Argilla in fornace indurescit | The clay hardens in the kiln
+induro | Palum igne induro | I harden the post in the fire
+industria1 | Industria agricolae vineam fecundam facit | The farmer's diligence makes the vineyard fruitful
+indutiae | Indutiae milites fessos quiescere sinunt | The truce lets the weary soldiers rest
+indutus2 | Indutus togae virilis puerum civem facit | The donning of the adult toga makes the boy a citizen
+# third: inebrio "I intoxicate" is odd; a scent does
+inebrio | Odor rosarum apes inebriat | The scent of the roses intoxicates the bees
+inedia | Inedia ante sacra sacerdotem purificat | The fasting before the rites purifies the priest
+ineo | Tabernam ineo | I enter the shop
+ineptia | Ineptia oratoris auditores e foro abigit | The orator's folly drives the listeners from the forum
+inequito | Per agros inequito | I ride over the fields
