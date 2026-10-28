@@ -198,3 +198,13 @@ caverna | Caverna lupum celat | The cavern hides the wolf
 cavillatio | Cavillatio convivium animat | The raillery enlivens the banquet
 cavillor | Actorem cavillor | I jeer at the actor
 cavo | Truncum cavo | I hollow a log
+cedo1 | Consuli cedo | I yield to the consul
+# skip: cedo2 is only the imperative cedo, so no first person headword-form sentence is possible
+cedrus | Cedrus trabes templo praebet | The cedar provides beams for the temple
+celebratio | Celebratio in via Sacra fit | The gathering takes place on the Sacred Way
+celebritas | Celebritas viam implet | The crowd fills the road
+celebro | Festum celebro | I celebrate the festival
+celeritas | Celeritas equorum nuntium juvat | The speed of the horses helps the messenger
+celero | Gradum celero | I quicken my pace
+cella | Cella frumentum asservat | The storeroom keeps the grain
+celo | Donum in arca celo | I hide the gift in the chest
