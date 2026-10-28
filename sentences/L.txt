@@ -22,3 +22,14 @@ laceratio | Laceratio tunicae viatorem tristem facit | The tearing of the tunic 
 lacerna1 | Lacerna nova senem a frigore defendit | The new cloak protects the old man from the cold
 # third: lacero "I mangle" is violent; a generic military figure acts instead
 lacero | Hostis aciem nostram lacerat | The enemy mangles our battle line
+lacerta | Lacerta in saxo sub sole dormit | The lizard sleeps on the rock in the sun
+lacertus1 | Lacertus fortis remum trahit | The strong arm pulls the oar
+lacesso | Taurum lacesso | I provoke the bull
+lacinia | Lacinia stolae in aqua madet | The hem of the gown is wet in the water
+lacrima | Lacrima per genam defluit | A tear runs down the cheek
+lacrimo | Gaudio lacrimo | I weep for joy
+lacrimula | Lacrimula in epistula maculam facit | The teardrop makes a spot on the letter
+# skip: lacteo used almost only as the participle lactens, so there is no attested finite headword form for the suckling sense
+lactes | Lactes ovis longae sunt | The sheep's intestines are long
+# third: lactesco "I lactate" is absurd for a learner; a she-ass does it
+lactesco | Asina in stabulo lactescit | The she-ass lactates in the stable
