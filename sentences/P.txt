@@ -62,3 +62,13 @@ pannus | Pannus laneus lectum tegit | The woollen cloth covers the bed
 pantex | Pantex post cenam tumet | The belly swells after dinner
 panthera1 | Panthera in umbra arboris dormit | The panther sleeps in the shade of the tree
 panus | Panus filum textoris tenet | The bobbin holds the weaver's thread
+papaver | Papaver inter frumentum floret | The poppy blooms among the wheat
+papilio | Papilio super rosam volat | The butterfly flies over the rose
+papilla | Papilla matris infantem alit | The mother's nipple feeds the baby
+pappus | Pappus puero fabulam narrat | The old man tells the boy a story
+papula | Papula in fronte Marci apparet | The pimple appears on Marcus's forehead
+papyrus | Papyrus ad Nilum crescit | The papyrus grows beside the Nile
+parabola | Parabola sententiam clare monstrat | The comparison shows the idea clearly
+paradisus | Paradisus cervos et fontes habet | The park has deer and fountains
+parasitus | Parasitus apud divitem cenat | The parasite dines at the rich man's house
+paratus2 | Paratus nuptiarum familiam laetam facit | The preparation of the wedding makes the family glad
