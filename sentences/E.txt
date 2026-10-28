@@ -493,3 +493,14 @@ extenuo | Vinum aqua extenuo | I thin the wine with water
 extergeo | Tabulam spongia extergeo | I wipe the tablet with a sponge
 extermino | Fures ex agro extermino | I expel the thieves from the field
 extero | Rubiginem de ferro extero | I rub the rust off the iron
+exterreo | Corvos fragore exterreo | I terrify the crows with a clatter
+extimesco | Hiemem extimesco | I dread the winter
+extispex | Extispex consulem de itinere monet | The haruspex warns the consul about the journey
+extollo | Vexillum extollo | I raise the banner
+extorqueo | Vectem e muro extorqueo | I wrench the bar from the wall
+extraho | Plaustrum e luto extraho | I draw the cart out of the mud
+extremitas | Extremitas insulae in nebula latet | The extremity of the island hides in the mist
+extrico | Lanam extrico | I disentangle the wool
+extrudo | Muscas e culina extrudo | I expel the flies from the kitchen
+# third: extubero "I swell" is odd; a root swells
+extubero | Radix in humo extuberat | The root swells in the ground
