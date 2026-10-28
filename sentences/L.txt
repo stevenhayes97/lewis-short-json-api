@@ -211,3 +211,13 @@ licitor | Pro equo licitor | I bid for the horse
 licium | Licium rubrum a tela pendet | The red thread hangs from the loom
 lictor | Lictor fasces ante consulem portat | The lictor carries the fasces before the consul
 lien | Lien aegroti tumet | The sick man's spleen is swollen
+ligatura | Ligatura libri paginas tenet | The binding of the book holds the pages
+lignatio | Lignatio ante hiemem rusticis necessaria est | Wood-gathering before winter is necessary for the countrymen
+lignor | Ad flumen lignor | I gather wood by the river
+lignum | Lignum siccum bene ardet | Dry wood burns well
+ligo1 | Fasciculum funiculo ligo | I bind the bundle with a cord
+ligo2 | Ligo terram duram aperit | The hoe breaks open the hard earth
+ligula | Ligula mea cibum acrem sentit | My tongue feels the sharp food
+ligurio | Patinam ligurio | I lick the plate
+ligustrum | Ligustrum sepem densam facit | Privet makes a thick hedge
+lilium | Lilium candidum odorem suavem fundit | The white lily gives off a sweet scent
