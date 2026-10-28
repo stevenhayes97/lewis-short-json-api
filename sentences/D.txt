@@ -470,3 +470,14 @@ disjunctio | Disjunctio gemellorum matrem sollicitat | The separation of the twi
 disjungo | Boves ab aratro disjungo | I unyoke the oxen from the plough
 # third: dispalor a flock straggles; "I straggle" is unnatural
 dispalor | Grex per montem dispalatur | The flock straggles over the mountain
+disparo | Pueros a puellis disparo | I separate the boys from the girls
+dispello | Tenebras lucerna dispello | I dispel the darkness with a lamp
+dispendium | Dispendium aedificii villicum premit | The expense of the building weighs on the bailiff
+dispensatio | Dispensatio frumenti aedilem exercet | The management of the grain keeps the aedile busy
+dispensator | Dispensator pecuniam domino numerat | The steward counts the money for his master
+dispenso | Cibum servis dispenso | I dispense food to the slaves
+disperdo | Patrimonium luxu disperdo | I ruin my inheritance by extravagance
+# third: dispereo "I perish" is grim; fruit perishes
+dispereo | Fructus in horreo disperit | The fruit perishes in the barn
+dispersio | Dispersio nubium caelum serenum facit | The dispersion of the clouds makes the sky clear
+dispertio | Poma inter sodales dispertio | I distribute apples among my comrades
