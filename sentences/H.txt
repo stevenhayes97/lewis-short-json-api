@@ -65,3 +65,13 @@ hio | Prae stupore hio | I gape in amazement
 hippomanes | Hippomanes in carmine Vergili apparet | The hippomanes appears in Virgil's poem
 # third: hirrio "I snarl" is odd; a dog snarls
 hirrio | Canis ad lupum hirrit | The dog snarls at the wolf
+hirudo | Hirudo in stagno natat | The leech swims in the pond
+hirundo | Hirundo nidum sub tecto aedificat | The swallow builds a nest under the roof
+hisco | Coram rege vix hisco | I scarcely open my mouth before the king
+historia | Historia bella Romanorum narrat | The history tells of the wars of the Romans
+histrio | Histrio in scaena personam mutat | The actor changes his mask on the stage
+holus | Holus mensam rusticam implet | The vegetables fill the country table
+homicida | Homicida judices timet | The murderer fears the judges
+homo | Homo ad urbem properat | The person hurries to the city
+homuncio | Homuncio super mensam ambulat | The manikin walks on the table
+homunculus | Homunculus ligneus in fenestra sedet | The wooden manikin sits in the window
