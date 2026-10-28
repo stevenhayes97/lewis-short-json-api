@@ -808,3 +808,13 @@ auxilium | Auxilium ad urbem venit | Help comes to the city
 avaritia | Avaritia mercatorem amicis privat | Greed deprives the merchant of friends
 aveho | Merces navi aveho | I carry the goods away by ship
 avello | Ramum ab arbore avello | I tear a branch off the tree
+avena | Avena equum alit | The oats feed the horse
+aveo1 | Domum redire aveo | I long to return home
+# skip: aveo2 is found almost only in the imperative ave, avete, so no headword-form sentence is possible
+averrunco | Malum averrunco | I avert the evil
+aversio | Aversio oculorum amicum offendit | The turning away of the eyes offends the friend
+aversor1 | Turpem rem aversor | I turn away from the shameful thing
+averto | Flumen averto | I divert the river
+avia1 | Avia mea fabulas narrat | My grandmother tells stories
+aviditas | Aviditas legendi puerum ad libros trahit | The passion for reading draws the boy to books
+avis | Avis in ramo cantat | The bird sings on the branch
