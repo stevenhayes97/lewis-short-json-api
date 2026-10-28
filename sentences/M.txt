@@ -81,3 +81,14 @@ mansuefacio | Equum mansuefacio | I tame the horse
 mansuetudo | Mansuetudo equi domino laborem levat | The horse's tameness lightens its master's work
 mantele | Mantele manus coqui siccat | The towel dries the cook's hands
 mantica | Mantica viatoris nummos servat | The traveller's wallet keeps the coins safe
+manticulor | In turba manticulor | I steal in the crowd
+manto1 | Amicum ad portam manto | I wait for my friend at the gate
+manubiae | Manubiae exercitum onerant | The booty burdens the army
+manubrium | Manubrium cultri splendet | The handle of the knife gleams
+manumissio | Manumissio servum fidelem gaudio implet | The manumission fills the faithful slave with joy
+manumitto | Coquum meum manumitto | I manumit my cook
+manupretium | Manupretium operarium hodie contentum reddit | The wages make the worker content today
+manus1 | Manus magistri tabulam tenet | The teacher's hand holds the tablet
+mappa | Mappa os convivae tergit | The napkin wipes the guest's mouth
+# third: marceo "I wither" is unnatural for a plant, the usual subject
+marceo | Flos sine aqua marcet | The flower withers without water
