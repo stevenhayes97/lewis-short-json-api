@@ -332,3 +332,14 @@ alauda | Alauda mane cantat | The lark sings in the morning
 albeo | Mons nive albet | The mountain is white with snow
 # third: albesco "I turn white" is said of hair, not a person
 albesco | Capillus senis albescit | The old man's hair turns white
+# third: albico "I am white" is said of meadows and things, not people
+albico | Pratum pruina albicat | The meadow is white with frost
+alcedo | Alcedo supra aquam volat | The kingfisher flies above the water
+alcedonia | Alcedonia in hieme sunt | The halcyon days are in winter
+alea | Alea ludus fortunae est | Dice is a game of chance
+alec | Alec in lagoena est | The fish-sauce is in the jar
+alga | Alga ad litus venit | The seaweed comes to the shore
+algeo | Sine veste algeo | I feel cold without a cloak
+algesco | In nive algesco | I catch cold in the snow
+algor | Algor noctis acer est | The cold of the night is sharp
+algus | Algus matutinus molestus est | The morning chill is troublesome
