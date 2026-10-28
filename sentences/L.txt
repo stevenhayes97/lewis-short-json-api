@@ -108,3 +108,15 @@ latio | Latio tribuni plebem excitat | The tribune's proposal rouses the common 
 latito | In cella latito | I hide in the storeroom
 latitudo | Latitudo fluminis pontem longum postulat | The breadth of the river demands a long bridge
 lator | Lator legis cum consule loquitur | The proposer of the law talks with the consul
+latratus | Latratus acer pastorem excitat | The sharp barking wakes the shepherd
+# third: latro1 "I bark" is only for a dog
+latro1 | Canis ad portam latrat | The dog barks at the gate
+latro2 | Latro in carcere sedet | The robber sits in prison
+latrocinium | Latrocinium civitatem sollicitat | Robbery worries the city
+# third: latrocinor "I rob" is not a sentence a learner needs; a pirate does it
+latrocinor | Pirata in mari latrocinatur | The pirate robs at sea
+latrunculus | Latrunculus in spelunca vivit | The brigand lives in a cave
+laudatio | Laudatio magistri discipulum laetum facit | The teacher's praise makes the pupil glad
+laudator | Laudator regis versus novos recitat | The praiser of the king recites new verses
+laudo | Filiam diligentem laudo | I praise my diligent daughter
+laurus | Laurus ante templum viret | The laurel is green in front of the temple
