@@ -52,7 +52,7 @@ caliga | Caliga militis in via sonat | The soldier's boot sounds on the road
 caligo1 | Caligo diem obscurat | The fog darkens the day
 # third: caligo2 only places and skies are dark
 caligo2 | Spelunca caligat | The cave is dark
-caligula | Caligula parva sub mensa jacet | The little boot lies under the table
+caligula | Caligula sub mensa jacet | The little boot lies under the table
 calix | Calix ante hospitem stat | The cup stands before the guest
 calleo | Artem meam bene calleo | I know my craft well
 calliditas | Calliditas ducis hostem superat | The cunning of the general overcomes the enemy
@@ -89,7 +89,7 @@ candesco | Aer ab ortu solis candescit | The air grows white from the sunrise
 candico | Vadum in mari candicat | The shoal in the sea is whitish
 candor | Candor marmoris templum illustrat | The whiteness of the marble lights up the temple
 caneo | Senectute caneo | I am grey with age
-canicula | Canicula parva ante januam latrat | The little dog barks before the door
+canicula | Canicula ante januam latrat | The little dog barks before the door
 canis1 | Canis dominum custodit | The dog guards its master
 canistrum | Canistrum ad aram portatur | The basket is carried to the altar
 canities | Canities caput senis ornat | Grey hair adorns the old man's head

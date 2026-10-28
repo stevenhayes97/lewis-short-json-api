@@ -22,14 +22,14 @@ barba1 | Barba senis alba est | The old man's beard is white
 barbaria | Barbaria cives urbis terret | Barbarism terrifies the citizens of the city
 barbarismus | Barbarismus orationem oratoris corrumpit | The barbarism spoils the orator's speech
 barbitos | Barbitos in manu poetae sonat | The lyre sounds in the poet's hand
-barbula | Barbula parva mentum adulescentis tegit | The little beard covers the young man's chin
+barbula | Barbula mentum adulescentis tegit | The little beard covers the young man's chin
 baro | Baro rem simplicem non intellegit | The blockhead does not understand a simple matter
 basiliscus | Basiliscus in deserto habitat | The basilisk lives in the desert
 basis | Basis lapidea in templo stat | The stone pedestal stands in the temple
 basium | Basium amorem significat | The kiss shows love
 batillum | Batillum prunas ex igne tollit | The shovel lifts the coals from the fire
-# third: battuo violent verb, generic soldiers
-battuo | Miles militem battuit | The soldier beats the soldier
+# third: battuo violent verb, generic military figures
+battuo | Gladiator palum battuit | The gladiator beats the practice post
 bdellium | Bdellium ex Oriente ad urbem venit | The bdellium comes from the East to the city
 beatitas | Beatitas animum implet | Happiness fills the mind
 beatitudo | Beatitudo vitam bonam sequitur | Happiness follows a good life
@@ -55,7 +55,7 @@ bidental | Bidental locum sacrum signat | The lightning shrine marks a sacred pl
 biennium | Biennium celeriter transit | The two years pass quickly
 bigae | Bigae ad metam currunt | The two-horse chariot races to the turning post
 bilis | Bilis ex jecore fluit | The bile flows from the liver
-bimatus | Bimatus vitulum fortem facit | The age of two makes the calf strong
+bimatus | Bimatus vitulum fortem facit | Reaching the age of two makes the calf strong
 bipalium | Bipalium terram altam vertit | The double mattock turns the deep soil
 bipartio | Agrum bipartio | I halve the field
 bisextus | Bisextus quarto quoque anno venit | The leap day comes every fourth year
