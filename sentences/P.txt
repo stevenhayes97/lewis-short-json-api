@@ -93,3 +93,14 @@ parricidium | Parricidium civitatem horrore implet | The parricide fills the com
 parsimonia | Parsimonia mercatorem divitem facit | Frugality makes the merchant rich
 parthenium | Parthenium in margine viae floret | The feverfew blooms at the edge of the road
 participium | Participium verbum et nomen jungit | The participle joins verb and noun
+participo | Lucrum cum socio participo | I share the profit with my partner
+particula | Particula discipulos fatigat | The particle tires the pupils
+partio1 | Partio obstetricem ad domum vocat | The childbirth calls the midwife to the house
+partio2 | Hereditatem inter fratres partio | I divide the inheritance among the brothers
+partitio | Partitio agri duobus fratribus placet | The division of the field pleases the two brothers
+# third: parturio the first person is unnatural; a goat is the natural subject
+parturio | Capra in stabulo parturit | The goat is in labour in the stable
+parturitio | Parturitio mariti animum sollicitat | The labour worries the husband's mind
+partus2 | Partus equae pastorem laetum facit | The mare's birth makes the shepherd glad
+parvitas | Parvitas cellae hospitem offendit | The smallness of the room displeases the guest
+pascha | Pascha Judaeos ad Hierosolymam vocat | The Passover calls the Jews to Jerusalem
