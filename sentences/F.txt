@@ -238,3 +238,15 @@ fodio | Puteum fodio | I dig a well
 foedero | Pacem cum Gallis foedero | I establish peace with the Gauls by treaty
 foeditas | Foeditas luti iter difficile facit | The foulness of the mud makes the journey hard
 foedo | Vestem luto foedo | I defile my robe with mud
+foedus2 | Foedus inter Romam et Carthaginem pacem servat | The treaty between Rome and Carthage preserves peace
+folium | Folium de arbore cadit | The leaf falls from the tree
+# third: follico only animals pant; attested only in the third person and participle
+follico | Mulus senex follicat | The old mule pants
+folliculus | Folliculus nummos continet | The pouch holds the coins
+follis | Follis ignem fabri excitat | The bellows rouses the smith's fire
+fomentum | Fomentum dolorem lenit | The poultice soothes the pain
+fomes | Fomes in scintillam cadit | The tinder falls on the spark
+fons | Fons in monte oritur | The spring rises on the mountain
+# third: for the first person present is not in use (the forms are fatur, fantur, fabor)
+for | Rex ad populum fatur | The king speaks to the people
+foramen | Foramen in tecto pluviam admittit | The hole in the roof lets in the rain
