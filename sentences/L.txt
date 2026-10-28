@@ -161,3 +161,13 @@ lens2 | Lens inter fabas in sacco latet | The lentil hides among the beans in th
 lentesco | Cera ad ignem lentescit | The wax softens by the fire
 lenticula | Lenticula in aqua tumescit | The lentil swells in the water
 lentigo | Lentigo in manu senis apparet | A spot appears on the old man's hand
+lentiscus | Lentiscus in colle saxoso crescit | The mastic-tree grows on the rocky hill
+lentitudo | Lentitudo mulae iter longum facit | The mule's sluggishness makes the journey long
+lento1 | Virgam salignam lento | I bend the willow twig
+lentor | Lentor picis manum meam tenet | The stickiness of the pitch grips my hand
+leo2 | Leo in cavea rugit | The lion roars in the cage
+lepista | Lepista aurea inter pocula splendet | The golden goblet shines among the cups
+lepor | Lepor hospitae viatores allicit | The hostess's charm attracts the travellers
+lepra | Lepra pagum perturbat | Leprosy disturbs the village
+lepus | Lepus per segetem fugit | The hare flees through the cornfield
+letum | Letum regis populum contristat | The king's death saddens the people
