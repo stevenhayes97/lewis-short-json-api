@@ -299,3 +299,17 @@ ingenuitas | Ingenuitas juvenem ad honores admittit | Free birth admits the youn
 ingero | Ligna in ignem ingero | I throw logs onto the fire
 ingigno | Liberis timorem deorum ingigno | I instil the fear of the gods in my children
 ingluvies | Ingluvies columbae grana tenet | The pigeon's crop holds the grain
+ingratia | Ingratia hospitis dominum angit | The guest's ingratitude pains the host
+# third: ingravesco "I worsen" is odd; a storm worsens
+ingravesco | Tempestas ingravescit | The storm worsens
+# third: ingravo "I weigh down" is odd; a load weighs down
+ingravo | Onus umeros viatoris ingravat | The load weighs down the traveller's shoulders
+ingressio | Ingressio horti hospitem rosis salutat | The entrance of the garden greets the guest with roses
+ingressus | Ingressus urbis duas turres habet | The entrance to the city has two towers
+# third: ingruo "I assail" reads unnaturally; generic military figure
+ingruo | Cohors in hostes ingruit | The cohort assails the enemy
+inguen | Inguen inter ventrem et femur jacet | The groin lies between the belly and the thigh
+ingurgito | Me epulis ingurgito | I gorge myself on the feast
+inhabito | Villam parvam inhabito | I inhabit a small cottage
+# third: inhaereo "I adhere" is odd; a burr sticks to a cloak
+inhaereo | Lappa pallio inhaeret | The burr sticks to the cloak
