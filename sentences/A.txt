@@ -61,3 +61,14 @@ accedo | Ad urbem accedo | I approach the city
 accelero | Iter accelero | I hasten my journey
 accendo2 | Ignem accendo | I kindle the fire
 accenseo | Puerum inter milites accenseo | I reckon the boy among the soldiers
+accentus | Accentus in hoc verbo gravis est | The accent on this word is heavy
+acceptio | Acceptio frumenti consuli placet | The receipt of grain pleases the consul
+acceptor1 | Acceptor pecuniae ad januam stat | The receiver of the money stands at the door
+accessio | Accessio aquae agros tegit | The increase of the water covers the fields
+accessus2 | Accessus ad portum difficilis est | The approach to the harbour is difficult
+accido1 | Arborem altam accido | I fell the tall tree
+# third: accido2 "I happen" is not a sentence
+accido2 | Malum nautae accidit | A misfortune happens to the sailor
+accingo | Me gladio accingo | I gird myself with a sword
+accio | Medicum ad filium accio | I summon the doctor to my son
+accipio | Epistulam a fratre accipio | I receive a letter from my brother
