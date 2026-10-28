@@ -661,3 +661,13 @@ aspecto | Stellas aspecto | I gaze at the stars
 aspectus2 | Aspectus matris puerum consolatur | The sight of his mother comforts the boy
 aspello | Lupum ab ovili aspello | I drive the wolf away from the sheepfold
 aspergo1 | Aquam floribus aspergo | I sprinkle water on the flowers
+aspergo2 | Aspergo aquae flores recreat | The sprinkling of water refreshes the flowers
+asperitas | Asperitas viae iter difficile facit | The roughness of the road makes the journey difficult
+aspero | Saxum aspero | I roughen the stone
+aspersio | Aspersio aquae aram purgat | The sprinkling of water cleans the altar
+aspicio | Navem aspicio | I look at the ship
+aspiratio | Aspiratio aeris corpus recreat | The breathing of air refreshes the body
+aspiro | Ad gloriam aspiro | I aspire to glory
+asporto | Sarcinas asporto | I carry off the baggage
+assecla | Assecla divitem sequitur | The hanger-on follows the rich man
+assectator | Assectator consulem ad curiam comitatur | The follower accompanies the consul to the senate house
