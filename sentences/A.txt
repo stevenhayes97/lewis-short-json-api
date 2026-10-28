@@ -30,3 +30,13 @@ abominor | Malum verbum abominor | I abhor the bad word
 # skip: aborior rank 1 "miscarry" has no sensible first-person sentence
 abortus | Abortus matrem terret | The miscarriage frightens the mother
 abrado | Terram ex pariete abrado | I scrape the earth off the wall
+abripio | Puerum e via abripio | I snatch the boy from the road
+abrogo | Legem abrogo | I repeal the law
+abrotonum | Abrotonum in horto crescit | The southernwood grows in the garden
+abrumpo | Ramum ab arbore abrumpo | I sever the branch from the tree
+abscedo | Ex urbe abscedo | I withdraw from the city
+abscido | Caput hostis abscido | I cut off the enemy's head
+abscindo | Vestem a puero abscindo | I tear the garment off the boy
+abscondo | Aurum in horto abscondo | I conceal the gold in the garden
+absis | Absis in templo magna est | The arch in the temple is large
+absisto | A bello absisto | I desist from the war
