@@ -137,3 +137,13 @@ nugor | Cum sodalibus nugor | I trifle with my companions
 numella | Numella vaccae pedes ligat | The fetter binds the cow's feet
 numen | Numen agros nostros custodit | The divinity guards our fields
 numerarius | Numerarius summam pecuniae computat | The accountant calculates the total of the money
+numero1 | Oves ante noctem numero | I count the sheep before night
+numerus | Numerus militum cotidie crescit | The number of soldiers grows daily
+nummus | Nummus in fonte cadit | The coin falls into the fountain
+nuncupatio | Nuncupatio novi sacerdotis populum in templo congregat | The naming of the new priest gathers the people in the temple
+nuncupo | Catulum Leonem nuncupo | I name the puppy Leo
+nundinatio | Nundinatio in oppido vicos clamore replet | Trading in the town fills the streets with noise
+nundinor | Cum Gallis nundinor | I trade with the Gauls
+nuntiatio | Nuntiatio victoriae cives laetitia implet | The announcement of the victory fills the citizens with joy
+nuntio | Adventum consulis nuntio | I announce the consul's arrival
+nuptiae | Nuptiae mense Junio celebrantur | The wedding is celebrated in the month of June
