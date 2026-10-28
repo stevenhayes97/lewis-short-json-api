@@ -778,3 +778,13 @@ auditor | Auditor ad oratorem accedit | The listener approaches the speaker
 auditus2 | Auditus pastorem de lupo monet | Hearing warns the shepherd of the wolf
 aufero | Dona domum aufero | I carry the gifts off home
 aufugio | Ab hoste aufugio | I run away from the enemy
+augeo | Numerum militum augeo | I increase the number of soldiers
+augesco | Cotidie augesco | I grow every day
+augmen | Augmen urbis cives juvat | The growth of the city helps the citizens
+augmentum | Augmentum lunae noctem illustrat | The waxing of the moon lights up the night
+augur | Augur volatum avium observat | The augur watches the flight of birds
+augurium | Augurium consulem de bello monet | The augury warns the consul about the war
+auguror | De futuro auguror | I prophesy about the future
+aula1 | Aula sole plena est | The courtyard is full of sunlight
+aulaeum | Aulaeum scaenam tegit | The curtain covers the stage
+aura | Aura folia movet | The breeze moves the leaves
