@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/H.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+habena | Habena equum ad dextram flectit | The rein turns the horse to the right
+habeo | Canem fidelem habeo | I have a faithful dog
+habitatio | Habitatio prope flumen medico placet | The dwelling near the river pleases the doctor
+habitator | Habitator mercedem domino pendit | The tenant pays rent to his landlord
+habito | Prope mare habito | I dwell near the sea
+habituo | Corpus meum exercitatione habituo | I condition my body with exercise
+haedus | Haedus matrem in prato quaerit | The kid looks for its mother in the meadow
+haereo | In luto haereo | I stick in the mud
+haeresis | Haeresis philosophorum juvenes ad scholam allicit | The sect of philosophers attracts young men to the school
+haesitatio | Haesitatio testis judices dubios facit | The witness's hesitation makes the judges doubtful
