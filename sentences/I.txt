@@ -212,3 +212,13 @@ indagator | Indagator vestigia cervi in luto cernit | The tracker sees the stag'
 indago1 | Leporem per agros indago | I track the hare through the fields
 indago2 | Indago cervos in silva claudit | The encirclement shuts the deer in the woods
 index | Index in columna iter ad oppidum monstrat | The indicator on the column shows the way to the town
+indicium | Indicium servi dominum de furto monet | The slave's disclosure warns the master about the theft
+indico1 | Fontem occultum viatori indico | I reveal the hidden spring to the traveller
+indico2 | Ludos populo indico | I proclaim games to the people
+indigentia | Indigentia mendicum ad portam divitis ducit | Need leads the beggar to the rich man's door
+indigeo | Auxilio indigeo | I need help
+indigitamenta | Indigitamenta sacerdotibus nomina deorum monstrant | The ritual books show the priests the names of the gods
+indignatio | Indignatio senatoris silentium in curia frangit | The senator's indignation breaks the silence in the senate house
+indignitas | Indignitas candidati cives ab eo alienat | The candidate's unworthiness alienates the citizens from him
+indignor | Contumeliam consulis indignor | I resent the consul's insult
+indiligentia | Indiligentia coqui cenam perdit | The cook's negligence ruins the dinner
