@@ -94,3 +94,16 @@ deficio | Ante metam deficio | I fail before the finish line
 defigo | Palum in terra defigo | I fix the stake in the ground
 defingo | Vultum cera defingo | I shape the face from wax
 definio | Vocabulum definio | I define the word
+definitio | Definitio amicitiae in libro scripta est | The definition of friendship is written in the book
+# third: deflagro only buildings and similar things burn down
+deflagro | Horreum deflagrat | The barn burns down
+deflecto | Ad dextram deflecto | I swerve to the right
+defleo | Patriam amissam defleo | I lament my lost homeland
+# third: defloresco only flowers wither
+defloresco | Rosa deflorescit | The rose withers
+# third: defluo only water and liquids flow down
+defluo | Imber de tecto defluit | The rain flows down from the roof
+defodio | Thesaurum sub arbore defodio | I bury the treasure under the tree
+deformitas | Deformitas saxi viatores offendit | The ugliness of the rock offends the travellers
+deformo1 | Statuam ex argilla deformo | I shape the statue from clay
+deformo2 | Tabulam pictam luto deformo | I disfigure the painted board with mud
