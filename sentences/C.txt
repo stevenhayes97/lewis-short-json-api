@@ -117,3 +117,13 @@ capillatura | Capillatura mulierem ornat | The hairpiece adorns the woman
 capio1 | Flabellum capio | I take the fan
 capis | Capis a sacerdote portatur | The bowl is carried by the priest
 capistrum | Capistrum asinum tenet | The halter holds the donkey
+capitium1 | Capitium mulierem a pluvia defendit | The head covering protects the woman from the rain
+capitulum1 | Capitulum statuae in via jacet | The head of the statue lies on the road
+capnias | Capnias in monili reginae micat | The smoky stone glitters in the queen's necklace
+capra | Capra ex valle redit | The she-goat returns from the valley
+caprea | Caprea ad fontem venit | The roe comes to the spring
+capreolus | Capreolus saltu fossam transit | The roebuck crosses the ditch with a leap
+caprificus | Caprificus prope viam stat | The wild fig tree stands near the road
+capronae | Capronae in fronte equi pendent | The forelocks hang on the forehead of the horse
+captator | Captator ad domum divitis venit | The legacy-hunter comes to the rich man's house
+captio | Captio emptorem fallit | The deception cheats the buyer
