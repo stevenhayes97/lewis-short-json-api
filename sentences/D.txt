@@ -580,3 +580,13 @@ donarium | Donarium templi aurum custodit | The temple treasury guards the gold
 donatio | Donatio patroni clientes juvat | The donation of the patron helps the clients
 dono | Coronam victori dono | I bestow a crown on the victor
 donum | Donum pretiosum hospitem honorat | The precious gift honours the guest
+dormio | Sub arbore dormio | I sleep under the tree
+dormito | Post prandium dormito | I doze after lunch
+dorsum | Dorsum asini sarcinas portat | The donkey's back carries the packs
+dos | Dos puellae sponsum allicit | The girl's dowry attracts a suitor
+dossennus1 | Dossennus in fabula Atellana futura praedicit | The soothsayer in the Atellan farce foretells the future
+doto1 | Filiam agro doto | I endow my daughter with land
+drachma | Drachma in sacculo tinnit | The drachma jingles in the purse
+draco1 | Draco per herbam serpit | The serpent creeps through the grass
+dracunculus | Dracunculus sub lapide latet | The small serpent hides under the stone
+dromos | Dromos athletas in sole recipit | The racecourse receives the athletes in the sun
