@@ -1115,3 +1115,13 @@ cursito | In prato cursito | I run about in the meadow
 curso | Inter arbores curso | I run about among the trees
 cursor1 | Cursor nuntium ad urbem portat | The runner carries a message to the city
 cursus | Cursus fluminis ad mare ducit | The course of the river leads to the sea
+curvo | Ramum manu curvo | I bend the branch with my hand
+cuspis | Cuspis stili in cera scribit | The point of the stylus writes on the wax
+custodela | Custodela horti servo fido committitur | The guardianship of the garden is entrusted to a faithful slave
+custodia | Custodia noctu ad portam vigilat | The guard keeps watch at the gate at night
+custodio | Thesaurum custodio | I guard the treasure
+custos | Custos templi clavem portat | The guardian of the temple carries the key
+cutis | Cutis mea sole rubet | My skin turns red in the sun
+cyathus | Cyathus aureus in mensa fulget | The golden ladle gleams on the table
+cyclas | Cyclas purpurea dominam ornat | The purple robe adorns the lady
+cyclus | Cyclus quattuor annorum ludos affert | The cycle of four years brings the games
