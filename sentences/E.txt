@@ -212,3 +212,14 @@ escensio | Escensio ardua pastorem tardat | The steep ascent delays the shepherd
 essentia | Essentia divina theologum occupat | The divine essence engages the theologian
 etesiae | Etesiae in aestate flant | The Etesian winds blow in summer
 euripus | Euripus Euboeam a Boeotia separat | The strait separates Euboea from Boeotia
+eurus | Eurus naves in portu retinet | The east wind keeps the ships in the harbour
+evacuo | Sacculum evacuo | I empty the purse
+evado | E tempestate evado | I escape from the storm
+evagor | Per colles evagor | I roam over the hills
+evalesco | Post hiemem evalesco | I gather strength after the winter
+# third: evanesco only mist and the like vanish
+evanesco | Nebula sole evanescit | The mist vanishes in the sun
+evangelium | Evangelium in ecclesia legitur | The gospel is read in the church
+evangelizo | Pauperibus evangelizo | I evangelise the poor
+eveho | Amphoras e cella eveho | I carry the jars out of the cellar
+evello | Plantam e solo evello | I uproot the plant from the soil
