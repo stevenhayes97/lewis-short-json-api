@@ -248,3 +248,14 @@ deripio | Pannum de fenestra deripio | I tear the cloth away from the window
 derisor | Derisor post tergum magistri ridet | The mocker laughs behind the teacher's back
 derisus2 | Derisus turbae poetam ex theatro pellit | The mockery of the crowd drives the poet from the theatre
 derivatio | Derivatio aquae hortum rigat | The diversion of the water irrigates the garden
+derivo | Flumen ad agros derivo | I divert the stream to the fields
+derogo | Legem veterem derogo | I repeal the old law
+desacro | Lucum Dianae desacro | I consecrate the grove to Diana
+# third: desaevio only storms and winds rage in this way
+desaevio | Ventus in montibus desaevit | The wind rages in the mountains
+descendo | In vallem descendo | I descend into the valley
+descensio | Descensio per saxa viatorem terret | The descent over the rocks frightens the traveller
+descensus2 | Descensus ad lacum facilis est | The descent to the lake is easy
+descindo | Panem in duas partes descindo | I divide the bread into two parts
+descisco | A rege descisco | I revolt from the king
+describo | Iter fratri describo | I describe the journey to my brother
