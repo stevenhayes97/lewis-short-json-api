@@ -46,3 +46,14 @@ effloresco | Rosa vere efflorescit | The rose blossoms in spring
 effluo | Vinum e dolio effluit | The wine flows out of the jar
 effodio | Radices ex terra effodio | I dig the roots out of the ground
 effor | Verba pauca effor | I utter few words
+effreno | Equum effreno | I unbridle the horse
+effringo | Arcam effringo | I break open the chest
+effugio | Ex insula effugio | I escape from the island
+effugium | Effugium celere nautas servat | Swift flight saves the sailors
+# third: effulgeo "I gleam" is odd; the moon gleams
+effulgeo | Luna per nubila effulget | The moon gleams through the clouds
+effundo | Aquam e situla effundo | I pour out water from the bucket
+effusio | Effusio fontis hortum rigat | The outpouring of the spring waters the garden
+effutio | Nuntium effutio | I blab the news
+egeo | Auxilio egeo | I need help
+egero | Cineres e foco egero | I carry the ashes out of the hearth
