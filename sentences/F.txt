@@ -157,3 +157,13 @@ filiola | Filiola patrem ad portam exspectat | The daughter waits for her father
 filius | Filius agricolae boves pascit | The farmer's son feeds the oxen
 filum | Filum rubrum in acu pendet | The red thread hangs on the needle
 fimbriae | Fimbriae pallii in luto trahuntur | The fringe of the cloak is dragged in the mud
+fimus | Fimus agrum pinguem facit | Dung makes the field rich
+findo | Lignum securi findo | I split the wood with an axe
+fingo | Ex cera avem fingo | I shape a bird out of wax
+finio | Agrum muro finio | I bound the field with a wall
+finis | Finis agri duas villas dividit | The boundary of the field divides two villas
+finitio | Finitio inter duo praedia cippo notatur | The boundary between two estates is marked by a stone
+finitor | Finitor agros metitur | The surveyor measures the fields
+firmamentum | Firmamentum pontis in flumine stat | The support of the bridge stands in the river
+firmitas | Firmitas muri urbem tuetur | The firmness of the wall protects the city
+firmitudo | Firmitudo aedificii incolas securos facit | The firmness of the building makes the residents safe
