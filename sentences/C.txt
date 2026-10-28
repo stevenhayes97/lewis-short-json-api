@@ -456,3 +456,14 @@ cohors | Cohors in colle manet | The cohort stays on the hill
 cohortatio | Cohortatio ducis milites incitat | The general's exhortation spurs the soldiers
 cohortor | Milites cohortor | I exhort the soldiers
 coinquino | Aquam luto coinquino | I defile the water with mud
+coitio | Coitio amicorum in horto fit | The meeting of friends takes place in the garden
+coitus2 | Coitus syllabarum verbum facit | The union of syllables makes a word
+colaphus | Colaphus gladiatori in arena datur | The punch is given to the gladiator in the arena
+# third: collabor only buildings and similar things collapse
+collabor | Domus vetus collabitur | The old house collapses
+collacrimo | Casum amici collacrimo | I weep over my friend's misfortune
+collatio | Collatio inter duos libros magistrum juvat | The comparison between two books helps the teacher
+collator | Collator frumenti civitatem juvat | The contributor of grain helps the state
+# skip: collatus2 occurs only in the ablative singular collatu, so no nominative headword-form sentence is possible
+collaudo | Collegam collaudo | I extol my colleague
+collectio | Collectio uvarum autumno fit | The gathering of the grapes takes place in autumn
