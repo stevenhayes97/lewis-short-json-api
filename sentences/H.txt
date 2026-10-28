@@ -53,3 +53,15 @@ hiemo | In Italia hiemo | I winter in Italy
 hiems | Hiems montes nive tegit | The winter covers the mountains with snow
 hierophanta | Hierophanta mystas in templo docet | The hierophant teaches the initiates in the temple
 hieto | Post cenam hieto | I yawn after dinner
+hilaritas | Hilaritas magistri discipulos ad studium incitat | The cheerfulness of the teacher spurs the pupils on to study
+hilaro | Aegrum cantu hilaro | I cheer the patient with a song
+hillae | Hillae in patina fumant | The entrails steam in the dish
+# skip: hilum is attested only in negative phrases (nihil hilum) as an adverbial accusative, with no usable nominative sentence
+# third: hinnio "I neigh" is odd; a horse neighs
+hinnio | Equus in stabulo hinnit | The horse neighs in the stable
+hinnulus | Hinnulus matrem in via sequitur | The young mule follows its mother along the road
+hinnus | Hinnus plaustrum leve trahit | The hinny pulls the light cart
+hio | Prae stupore hio | I gape in amazement
+hippomanes | Hippomanes in carmine Vergili apparet | The hippomanes appears in Virgil's poem
+# third: hirrio "I snarl" is odd; a dog snarls
+hirrio | Canis ad lupum hirrit | The dog snarls at the wolf
