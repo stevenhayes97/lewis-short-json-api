@@ -84,3 +84,13 @@ deductio | Deductio pretii emptorem juvat | The deduction from the price helps t
 defaeco | Mel defaeco | I purify the honey
 defectio | Defectio sociorum ducem terret | The defection of the allies frightens the general
 defectus2 | Defectus aquae agricolas angit | The failure of the water troubles the farmers
+defendo | Murum defendo | I defend the wall
+defensio | Defensio oratoris clientem confirmat | The speaker's defence reassures the client
+defenso | Caput manu defenso | I shield my head with my hand
+defensor | Defensor oppidi hostes exspectat | The defender of the town awaits the enemy
+defero | Epistulam ad consulem defero | I carry the letter to the consul
+defervesco | Post laborem defervesco | I cool down after the work
+deficio | Ante metam deficio | I fail before the finish line
+defigo | Palum in terra defigo | I fix the stake in the ground
+defingo | Vultum cera defingo | I shape the face from wax
+definio | Vocabulum definio | I define the word
