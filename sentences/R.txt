@@ -206,3 +206,13 @@ reluceo | Flamma in nocte relucet | The flame shines forth in the night
 # third: relucesco "I brighten" is unnatural; the sky is the natural subject
 relucesco | Caelum post pluviam relucescit | The sky brightens after the rain
 reluctor | Diu reluctor | I resist for a long time
+remaneo | Domi remaneo | I remain at home
+remedium | Remedium febrim aegri minuit | The remedy lessens the sick man's fever
+remeligo | Remeligo viatorem ad portam tardat | The dawdler holds the traveller back at the gate
+remeo | E Graecia remeo | I return from Greece
+remetior | Columnam remetior | I remeasure the column
+remex | Remex fessus in navi dormit | The tired rower sleeps on the ship
+remigium | Remigium aequale navem velociter movet | Steady rowing moves the ship quickly
+remigo | In lacu remigo | I row on the lake
+remigro | In patriam remigro | I return to my homeland
+reminiscor | Vultum matris reminiscor | I remember my mother's face
