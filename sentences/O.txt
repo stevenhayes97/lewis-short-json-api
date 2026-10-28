@@ -119,3 +119,14 @@ obtineo | Collem cum cohorte obtineo | I hold the hill with a cohort
 # third: obtingo "I befall" is for a fortune or an event
 obtingo | Honor civi obtingit | An honour befalls the citizen
 obtorpesco | Post longum iter obtorpesco | I grow numb after the long journey
+obtorqueo | Proram ad litus obtorqueo | I twist the ship's prow towards the shore
+obtrectatio | Obtrectatio invidorum poetam vexat | The detraction of the envious vexes the poet
+obtrectator | Obtrectator laudem victoris minuit | The detractor lessens the victor's praise
+obtrecto | Collegae obtrecto | I disparage my colleague
+obtrudo | Emptori equum vitiosum obtrudo | I foist a faulty horse on the buyer
+# third: obtrunco "I slaughter" reads unnaturally; an army does it
+obtrunco | Exercitus agmen hostium obtruncat | The army slaughters the enemy column
+obtueor | Imaginem patris obtueor | I gaze at my father's portrait
+obtundo | Stilum in tabula obtundo | I blunt the stylus on the tablet
+obturbo | Quietem sororis obturbo | I disturb my sister's rest
+obturo | Rimam luto obturo | I plug the crack with clay
