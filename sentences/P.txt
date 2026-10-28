@@ -175,3 +175,14 @@ pejero | Coram judice pejero | I perjure myself before the judge
 pelagus | Pelagus procul a litore patet | The sea stretches far from the shore
 pelicatus | Pelicatus regis uxorem contristat | The concubinage saddens the king's wife
 pellacia | Pellacia divitiarum juvenem ad urbem trahit | The allurement of riches draws the youth to the city
+pellicio | Cervum sale pellicio | I entice the deer with salt
+pellicula | Pellicula sellam tegit | The little hide covers the chair
+pellis | Pellis ursi ante focum jacet | The bear's hide lies before the hearth
+pello | Pecus ex agro pello | I drive the herd out of the field
+pelvis | Pelvis aquam calidam continet | The basin holds hot water
+# third: pendeo "I hang" is unnatural; fruit is the natural subject
+pendeo | Pomum ex arbore pendet | The fruit hangs from the tree
+pendo | Aurum pendo | I weigh the gold
+penetro | In silvam densam penetro | I penetrate into the dense forest
+penicillum | Penicillum pictoris colore rubro madet | The painter's paintbrush is wet with red paint
+peniculus | Peniculus mensam purgat | The brush cleans the table
