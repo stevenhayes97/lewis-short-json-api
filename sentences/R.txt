@@ -1,0 +1,342 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/R.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+rabies | Rabies animum ducis turbat | Madness disturbs the leader's mind
+rabula | Rabula judicem verbis fatigat | The pettifogger tires the judge with words
+racemus | Racemus in vite pendet | The cluster hangs on the vine
+# third: radico "I take root" is unnatural; a tree is the natural subject
+radico | Arbor in colle radicat | The tree takes root on the hill
+# skip: radio is filed as a noun but the entry is the verb "radiate", with no noun headword form
+radius | Radius solis per fenestram intrat | The ray of the sun enters through the window
+radix | Radix arboris saxum findit | The root of the tree splits the rock
+rado | Barbam novacula rado | I shave my beard with a razor
+ramenta | Ramenta in fabrica pavimentum tegunt | The shavings cover the floor in the workshop
+ramex | Ramex militem a labore retinet | The hernia keeps the soldier from work
+ramus | Ramus pomum maturum sustinet | The branch holds the ripe apple
+rana | Rana in stagno saltat | The frog jumps in the pond
+ranunculus | Ranunculus in rivo natat | The tadpole swims in the brook
+rapina1 | Rapina exercitum divitem facit | Plunder makes the army rich
+rapio | Librum e mensa rapio | I seize the book from the table
+rapto | Saccum per viam rapto | I drag the sack along the road
+raptor | Raptor mercatorem in itinere terret | The plunderer frightens the merchant on the journey
+raptus2 | Raptus Helenae Graecos ad arma vocat | The abduction of Helen calls the Greeks to arms
+rapum | Rapum in agro crescit | The turnip grows in the field
+# third: raresco "I thin" is unnatural; mist is the natural subject
+raresco | Nebula in valle rarescit | The mist thins in the valley
+raritas | Raritas gemmae pretium auget | The rarity of the jewel raises the price
+rastrum | Rastrum terram duram frangit | The hoe breaks the hard ground
+rasura | Rasura tabulae litteras delet | The scraping of the tablet removes the letters
+ratio | Ratio hominem a bestiis distinguit | Reason sets man apart from the beasts
+ratiocinatio | Ratiocinatio philosophi discipulos docet | The philosopher's reasoning teaches the students
+ratiocinator | Ratiocinator pecuniam mercatoris numerat | The accountant counts the merchant's money
+ratiocinor | Sumptus anni ratiocinor | I calculate the expenses of the year
+ratis | Ratis onus trans flumen vehit | The raft carries a load across the river
+ratiuncula | Ratiuncula mercatoris pauca nomina continet | The merchant's little account contains few names
+raudus | Raudus aeris in arca latet | The ingot of bronze lies hidden in the chest
+raudusculum | Raudusculum viduae vix prodest | The pittance scarcely helps the widow
+# skip: re3 is a stray fragment of resisto with no usable headword form
+reatus | Reatus consulem ad judicium vocat | The indictment summons the consul to court
+rebellio1 | Rebellio provinciae senatum terret | The rebellion of the province frightens the senate
+rebello | Contra consulem rebello | I rebel against the consul
+# third: reboo "I resound" is unnatural; a valley is the natural subject
+reboo | Vallis clamore pastoris reboat | The valley resounds with the shepherd's shout
+# third: recaleo "I am warm" is unnatural; a stone is the natural subject
+recaleo | Lapis in sole recalet | The stone is warm in the sun
+# third: recalesco "I grow warm" is unnatural; water is the natural subject
+recalesco | Aqua ad ignem recalescit | The water grows warm by the fire
+recalfacio | Cenam frigidam recalfacio | I rewarm the cold dinner
+# third: recandesco "I glow" is unnatural; iron is the natural subject
+recandesco | Ferrum in fornace recandescit | The iron glows again in the furnace
+recano | Carmen puellae recano | I sing the girl's song back
+recanto | Verba mea recanto | I recant my words
+recedo | Ab urbe recedo | I withdraw from the city
+# third: recello "I spring back" is unnatural; a branch is the natural subject
+recello | Ramus flexus recellit | The bent branch springs back
+recenseo | Naves in portu recenseo | I count the ships in the harbour
+recensio | Recensio civium censorem occupat | The review of the citizens keeps the censor busy
+receptaculum | Receptaculum aquam pluviae colligit | The receptacle collects rainwater
+receptio | Receptio hospitum domum gaudio implet | The reception of the guests fills the house with joy
+recepto | Locum amissum recepto | I retake the lost position
+receptor | Receptor peregrinum nocte accipit | The harbourer takes in the stranger at night
+receptus2 | Receptus exercitum a periculo servat | The retreat saves the army from danger
+recessus2 | Recessus montanus philosophum a strepitu defendit | The mountain retreat shields the philosopher from the noise
+# skip: recharmido is a one-off Plautine coinage on a character's name, not a usable word
+recido1 | In febrim recido | I relapse into fever
+recido2 | Ramos arboris recido | I cut off the branches of the tree
+recingo | Tunicam recingo | I ungird my tunic
+# third: recino "I resound" is unnatural; a forest is the natural subject
+recino | Silva cantu avium recinit | The forest resounds with the song of birds
+reciperatio | Reciperatio libertatis populum laetum reddit | The recovery of freedom makes the people glad
+reciperator | Reciperator pecuniae debitorem monet | The recoverer of the money reminds the debtor
+recipero | Pecuniam amissam recipero | I recover the lost money
+recipio | Hospitem in domum recipio | I receive the guest into my house
+reciprocatio | Reciprocatio aestus naves in portu tenet | The ebb of the tide holds the ships in the harbour
+# third: reciproco "I reciprocate" is unnatural for the tide sense; the sea is the natural subject
+reciproco | Mare in litore reciprocat | The sea ebbs and flows on the shore
+recitatio | Recitatio poetae auditores in theatro tenet | The poet's recitation holds the listeners in the theatre
+recito | Carmen amicis recito | I recite a poem to my friends
+reclamo | Contra legem reclamo | I protest against the law
+reclino | Scalam ad murum reclino | I lean the ladder against the wall
+recludo | Portam hospiti recludo | I open the door for the guest
+recogito | Consilium meum recogito | I reconsider my plan
+recognitio | Recognitio librorum bibliothecarium diu tenet | The review of the books keeps the librarian busy for a long time
+recognosco | Amici vocem recognosco | I recognise my friend's voice
+recolligo | Flores in prato recolligo | I collect the flowers in the meadow
+recolo1 | Agrum desertum recolo | I cultivate the abandoned field
+reconciliatio | Reconciliatio fratrum matrem cura liberat | The reconciliation of the brothers frees the mother from worry
+reconcilio | Fratres inimicos reconcilio | I reconcile the hostile brothers
+recondo | Aurum sub lapide recondo | I hide the gold under a stone
+reconduco | Pictorem reconduco | I rehire the painter
+recoquo | Aes vetus in fornace recoquo | I recast the old bronze in the furnace
+recordatio | Recordatio patriae exsulem consolatur | The recollection of the homeland comforts the exile
+recordor | Pueritiam recordor | I remember my childhood
+recreo | Fessum amicum cibo recreo | I refresh my tired friend with food
+# third: recresco "I regrow" is unnatural; grass is the natural subject
+recresco | Herba post pluviam recrescit | The grass regrows after the rain
+# third: recrudesco "I recrudesce" is unnatural; an illness is the natural subject
+recrudesco | Morbus in hieme recrudescit | The illness breaks out again in winter
+rector | Rector urbis leges novas scribit | The ruler of the city writes new laws
+recubo | Sub arbore recubo | I recline under a tree
+recumbo | In lecto recumbo | I lie down on the bed
+recuro | Aegrum herbis recuro | I cure the sick man with herbs
+recurro | Ad villam recurro | I return to the farmhouse
+recurso | Ad portum recurso | I return to the port
+recursus | Recursus nautae a mari gaudium familiae affert | The sailor's return from the sea brings joy to the family
+recurvo | Virgam salicis recurvo | I bend back the willow rod
+recusatio | Recusatio consulis senatum offendit | The consul's refusal offends the senate
+recuso | Donum recuso | I refuse the gift
+# third: recutio "I rebound" is unnatural; a ball is the natural subject
+recutio | Pila a pariete recutit | The ball rebounds from the wall
+redamo | Matrem redamo | I love my mother back
+redarguo | Falsum testem redarguo | I refute the false witness
+redditio | Redditio pecuniae creditorem laetum facit | The return of the money makes the lender glad
+reddo | Librum domino reddo | I return the book to the master
+redemptio | Redemptio captivi magnum aurum poscit | The ransom of the captive demands much gold
+redemptor | Redemptor pontem novum aedificat | The contractor builds a new bridge
+redeo | Domum redeo | I return home
+redhibeo | Mercem vitiosam redhibeo | I take back the faulty goods
+redigo | Impensas ad paucos nummos redigo | I reduce the costs to a few coins
+redimiculum | Redimiculum aureum caput sponsae ornat | The golden fillet adorns the bride's head
+redimio | Caput floribus redimio | I wreathe my head with flowers
+redimo | Amicum captum auro redimo | I ransom my captured friend with gold
+redintegro | Murum ruptum redintegro | I restore the broken wall
+reditio | Reditio legati cives ad pontem trahit | The envoy's return draws the citizens to the bridge
+reditus | Reditus veris hirundines affert | The return of spring brings the swallows
+# third: redoleo "I smell of" is unnatural; a kitchen is the natural subject
+redoleo | Culina thymum redolet | The kitchen smells of thyme
+reduco | Gregem ad stabulum reduco | I bring the flock back to the stable
+reductio | Reductio regis pacem urbi affert | The restoration of the king brings peace to the city
+redundantia | Redundantia verborum orationem obscurat | The excess of words obscures the speech
+# third: redundo "I overflow" is unnatural; a river is the natural subject
+redundo | Flumen post pluviam redundat | The river overflows after the rain
+refectio | Refectio templi multos fabros occupat | The repair of the temple keeps many craftsmen busy
+refello | Argumenta adversarii refello | I refute my opponent's arguments
+refercio | Culcitam pennis refercio | I stuff the mattress with feathers
+# third: referio a violent verb; keeps to a military frame
+referio | Miles hostem referit | The soldier strikes back at the enemy
+refero | Nuntium ad ducem refero | I report the news to the general
+reficio | Tectum horrei reficio | I repair the roof of the barn
+refigo | Tabulam a porta refigo | I unfasten the tablet from the gate
+reflatus | Reflatus navem in portu tenet | The headwind keeps the ship in the harbour
+reflecto | Equum ad urbem reflecto | I turn the horse back to the city
+# third: reflo "I blow back" is unnatural; the wind is the natural subject
+reflo | Ventus ab oriente reflat | The wind blows back from the east
+# third: refluo "I flow back" is unnatural; a wave is the natural subject
+refluo | Unda in mare refluit | The wave flows back into the sea
+reformido | Hiemem reformido | I dread the winter
+reformo | Villam veterem in templum reformo | I transform the old farmhouse into a temple
+refoveo | Aegrum aqua calida refoveo | I revive the sick man with warm water
+refragor | Consilio senatus refragor | I oppose the senate's plan
+refreno | Linguam refreno | I curb my tongue
+refrico | Memoriam veterem refrico | I reopen the old memory
+refrigero | Cibum calidum refrigero | I cool the hot food
+# third: refrigesco "I grow cold" is unnatural; a dinner is the natural subject
+refrigesco | Cena in mensa refrigescit | The dinner grows cold on the table
+refringo | Portam clausam refringo | I break open the closed gate
+refugio | Ad montes refugio | I flee to the mountains
+refugium | Refugium viatores a tempestate tuetur | The refuge protects the travellers from the storm
+# third: refulgeo "I gleam" is unnatural; the moon is the natural subject
+refulgeo | Luna in unda refulget | The moon gleams on the water
+refundo | Vinum in amphoram refundo | I pour the wine back into the jar
+refuto | Mendacium vicini refuto | I refute the neighbour's lie
+# third: regelo "I thaw" is unnatural; the sun is the natural subject
+regelo | Sol nivem regelat | The sun thaws the snow
+# third: regenero "I regenerate" is unnatural; a lizard is the natural subject
+regenero | Lacerta caudam regenerat | The lizard regenerates its tail
+regero | Frumentum ad cellam regero | I carry the grain back to the cellar
+regestum1 | Regestum prope fossam jacet | The excavated earth lies near the ditch
+regimen | Regimen magistri discipulos ad scientiam ducit | The guidance of the teacher leads the students to knowledge
+regina | Regina populum e palatio salutat | The queen greets the people from the palace
+regio | Regio fertilis multos agricolas alit | The fertile region feeds many farmers
+regnator | Regnator terrae leges antiquas servat | The ruler of the land keeps the ancient laws
+regno | In Aegypto regno | I reign in Egypt
+regnum | Regnum Numae Romam pace implet | The kingship of Numa fills Rome with peace
+rego | Navem per undas rego | I guide the ship through the waves
+regrado | Centurionem regrado | I demote the centurion
+regredior | Ad ripam regredior | I go back to the riverbank
+regressio | Regressio navium mercatores ad litus vocat | The return of the ships calls the merchants to the shore
+regressus2 | Regressus ex itinere viatorem lassum ad lectum ducit | The return from the journey leads the tired traveller to bed
+regula | Regula in mensa fabri jacet | The measuring rod lies on the craftsman's table
+regulus1 | Regulus montanus vicinos ad concilium vocat | The mountain chieftain calls his neighbours to the council
+regusto | Vinum regusto | I taste the wine again
+reicio | Consilium stultum reicio | I reject the foolish plan
+rejectio | Rejectio muneris amicum offendit | The rejection of the gift offends the friend
+# third: relabor "I slide back" is unnatural; a rock is the natural subject
+relabor | Saxum in vallem relabitur | The rock slides back into the valley
+# third: relanguesco "I grow faint" is unnatural; the wind is the natural subject
+relanguesco | Ventus ad vesperum relanguescit | The wind slackens towards evening
+relatio | Relatio praefecti consulem de annona certiorem facit | The prefect's report informs the consul about the grain supply
+relator | Relator novam legem senatui commendat | The proposer recommends a new law to the senate
+relaxatio | Relaxatio post laborem animum levat | Relaxation after work eases the mind
+relaxo | Corpus lassum relaxo | I relax my tired body
+relego1 | Civem in insulam relego | I banish the citizen to an island
+relego2 | Epistulam matris relego | I reread my mother's letter
+relevatio | Relevatio tributi pauperes juvat | The relief from the tax helps the poor
+relevo | Sitim aqua frigida relevo | I relieve my thirst with cold water
+relictio | Relictio vineae familiam pauperem facit | The abandonment of the vineyard makes the family poor
+# third: relido a violent verb; keeps to a military frame
+relido | Dux hostem relidit | The general strikes back at the enemy
+religio | Religio sacerdotem ad aram vocat | Religion calls the priest to the altar
+religo | Canem ad arborem religo | I tie the dog fast to the tree
+relino | Tabulas relino | I unseal the tablets
+relinquo | Oppidum mane relinquo | I leave the town in the morning
+reliquiae | Reliquiae cenae canem alunt | The remains of the dinner feed the dog
+reliquor | Amplam summam reliquor | I am in arrears for a large sum
+# third: reluceo "I shine forth" is unnatural; a flame is the natural subject
+reluceo | Flamma in nocte relucet | The flame shines forth in the night
+# third: relucesco "I brighten" is unnatural; the sky is the natural subject
+relucesco | Caelum post pluviam relucescit | The sky brightens after the rain
+reluctor | Diu reluctor | I resist for a long time
+remaneo | Domi remaneo | I remain at home
+remedium | Remedium febrim aegri minuit | The remedy lessens the sick man's fever
+remeligo | Remeligo viatorem ad portam tardat | The dawdler holds the traveller back at the gate
+remeo | E Graecia remeo | I return from Greece
+remetior | Columnam remetior | I remeasure the column
+remex | Remex fessus in navi dormit | The tired rower sleeps on the ship
+remigium | Remigium aequale navem velociter movet | Steady rowing moves the ship quickly
+remigo | In lacu remigo | I row on the lake
+remigro | In patriam remigro | I return to my homeland
+reminiscor | Vultum matris reminiscor | I remember my mother's face
+remisceo | Mel cum lacte remisceo | I mix honey with milk
+remissio | Remissio debiti colonum ex angustiis liberat | The remission of the debt frees the tenant farmer from hardship
+remitto | Avem e cavea remitto | I release the bird from the cage
+remolior | Saxum remolior | I push the rock back
+# third: remollesco "I grow soft" is unnatural; the earth is the natural subject
+remollesco | Terra post pluviam remollescit | The earth grows soft after the rain
+remollio | Pellem oleo remollio | I soften the leather with oil
+remora1 | Remora nuntium serum facit | The delay makes the messenger late
+# third: remordeo "I gnaw" is unnatural; a dog is the natural subject
+remordeo | Canis os remordet | The dog gnaws the bone
+remoror | Hospitem remoror | I delay the guest
+remotio | Remotio saxi viam aperit | The removal of the rock opens the road
+removeo | Mensam e cubiculo removeo | I remove the table from the bedroom
+# third: remugio "I bellow back" is unnatural; a cow is the natural subject
+remugio | Vacca ad vitulum remugit | The cow bellows back to the calf
+remulceo | Infantem cantu remulceo | I soothe the baby with a song
+remulcum | Remulcum navem ad portum trahit | The towrope pulls the ship to the harbour
+remuneratio | Remuneratio magna agricolam ad laborem invitat | The great reward invites the farmer to work
+remuneror | Fidelem nautam remuneror | I reward the faithful sailor
+remus1 | Remus aquam secat | The oar cuts the water
+# third: renascor "I revive" is unnatural; a flower is the natural subject
+renascor | Flos post hiemem renascitur | The flower revives after the winter
+renes | Renes corpus purgant | The kidneys cleanse the body
+# third: renideo "I glisten" is unnatural; the sea is the natural subject
+renideo | Mare in sole renidet | The sea glistens in the sun
+renitor | Vento renitor | I resist the wind
+reno | Ad insulam reno | I swim back to the island
+renodo | Capillos renodo | I tie back my hair
+renovatio | Renovatio foederis pacem confirmat | The renewal of the treaty confirms the peace
+renovo | Vestem veterem renovo | I renew the old garment
+renuntiatio | Renuntiatio consulis civitatem ad spem excitat | The consul's announcement rouses the community to hope
+renuntio | Victoriam senatui renuntio | I announce the victory to the senate
+renuo | Invitationem renuo | I decline the invitation
+reor | Ita reor | I think so
+repagula | Repagula portam clausam tenent | The bolts hold the gate shut
+reparco | Operam non reparco | I do not spare effort
+reparo | Navem fractam reparo | I restore the broken ship
+repastino | Hortum repastino | I dig the garden again
+repedo | Ad signa repedo | I retreat to the standards
+repello | Hostes a muris repello | I repel the enemies from the walls
+rependo | Beneficium vicini rependo | I repay the neighbour's kindness
+repenso | Damnum lucro repenso | I counterbalance the loss with profit
+repercussus2 | Repercussus vocis pastorem in montibus fallit | The echo of the voice deceives the shepherd in the mountains
+# third: repercutio "I reflect" is unnatural; a mirror is the natural subject
+repercutio | Speculum lucem repercutit | The mirror reflects the light
+reperio | Viam in silva reperio | I find the way in the forest
+repertor | Repertor novae machinae praemium accipit | The inventor of the new machine receives a reward
+repetitio | Repetitio memoriam discipuli firmat | Repetition strengthens the pupil's memory
+repeto | Versus poetae repeto | I repeat the poet's verses
+repigro | Gradum repigro | I slow my pace
+repleo | Cophinum pomis repleo | I fill the basket with apples
+replicatio | Replicatio voluminis scribam fatigat | The unrolling of the scroll tires the scribe
+replico | Velum replico | I unroll the sail
+repo | Per humum repo | I creep along the ground
+repono | Librum in pluteo repono | I put the book back on the shelf
+reporto | Pisces e mercatu reporto | I bring fish back from the market
+reposco1 | Equum a vicino reposco | I reclaim the horse from the neighbour
+repositorium | Repositorium pocula ad mensam portat | The tray carries cups to the table
+repotia | Repotia hospites in domo sponsi tenent | The day-after feast keeps the guests at the bridegroom's house
+repraesentatio | Repraesentatio pictoris vultum reginae ostendit | The painter's representation shows the queen's face
+repraesento | Regem in fabula repraesento | I represent the king in the play
+reprehendo | Discipulum pigrum reprehendo | I rebuke the lazy pupil
+reprehensio | Reprehensio praetoris scribam tacitum facit | The praetor's reprimand makes the clerk silent
+reprimo | Risum reprimo | I repress my laughter
+reprobo | Condicionem iniquam reprobo | I reject the unfair terms
+repromitto | Mercatori mercedem repromitto | I promise the merchant payment in return
+repto | Sub mensa repto | I crawl under the table
+repudio | Uxorem repudio | I divorce my wife
+repudium | Repudium domum silentem facit | The divorce makes the house silent
+# third: repuerasco "I become childish" is unnatural; an old man is the natural subject
+repuerasco | Senex repuerascit | The old man becomes childish
+repugnantia1 | Repugnantia testium judicem dubium facit | The inconsistency of the witnesses makes the judge doubtful
+repugno | Hosti repugno | I resist the enemy
+repulsa | Repulsa candidatum tristem reddit | The rejection makes the candidate sad
+# third: repulso "I repel repeatedly" is unnatural; a wall is the natural subject
+repulso | Murus fluctus repulsat | The wall repels the waves repeatedly
+repulsus2 | Repulsus lapidis a rupe sonum edit | The rebound of the stone from the rock makes a sound
+repurgo | Fontem repurgo | I clean the spring again
+reputatio | Reputatio longa consilium ducis firmat | Long reflection strengthens the leader's plan
+reputo | Verba senis reputo | I ponder the old man's words
+requies | Requies post laborem agricolam reficit | Rest after work refreshes the farmer
+requiesco | In umbra requiesco | I rest in the shade
+requiro | Magnam diligentiam requiro | I require great care
+resarcio | Rete scissum resarcio | I mend the torn net
+rescindo | Legem veterem rescindo | I rescind the old law
+rescisco | Veritatem rescisco | I discover the truth
+rescribo | Matri rescribo | I write back to my mother
+reseco | Virgulta inutilia reseco | I cut off the useless shoots
+resecro | Te resecro | I implore you
+# skip: resequor is attested only in the perfect and past participle, so it has no present headword form
+resero2 | Armarium clave resero | I unlock the cupboard with a key
+reservo | Vinum optimum hospitibus reservo | I reserve the best wine for the guests
+resideo | In urbe resideo | I remain in the city
+resido | In colle resido | I settle on the hill
+resigno | Testamentum resigno | I unseal the will
+# third: resilio "I rebound" is unnatural; hail is the natural subject
+resilio | Grando a tecto resilit | The hail rebounds from the roof
+# third: resipio "I taste of" is unnatural; wine is the natural subject
+resipio | Vinum picem resipit | The wine tastes of pitch
+resipisco | Post errorem resipisco | I recover my senses after the mistake
+resolutio | Resolutio nodi navem liberat | The loosening of the knot frees the ship
+resolvo | Funem resolvo | I untie the rope
+# third: resono "I resound" is unnatural; a theatre is the natural subject
+resono | Theatrum plausu resonat | The theatre resounds with applause
+# third: resorbeo "I suck back" is unnatural; the sea is the natural subject
+resorbeo | Mare undas resorbet | The sea sucks the waves back
+respecto | Ad urbem respecto | I look back at the city
+respectus2 | Respectus senatus consulem a fraude retinet | Regard for the senate keeps the consul from deceit
+respergo1 | Pavimentum aqua respergo | I sprinkle the floor with water
+respicio | Ad casam respicio | I look back at the cottage
+respiratio | Respiratio aegri medicum sollicitat | The sick man's respiration worries the doctor
+respiro | Aerem purum respiro | I breathe the pure air
+# third: resplendeo "I shine brightly" is unnatural; a jewel is the natural subject
+resplendeo | Gemma in anulo resplendet | The jewel shines brightly in the ring
+respondeo | Viatori respondeo | I answer the traveller
+responso | Hospiti responso | I answer the guest
+respuo | Cibum amarum respuo | I spit out the bitter food
+# third: restagno "I overflow" is unnatural; a lake is the natural subject
+restagno | Lacus post nives restagnat | The lake overflows after the snows
+restauro | Statuam veterem restauro | I restore the old statue
+restinguo | Ignem aqua restinguo | I extinguish the fire with water
+restis | Restis fortis onus de trabe suspendit | The strong rope hangs the load from the beam
+restito | Ante tabernam restito | I loiter in front of the shop
+restituo | Urbi libertatem restituo | I restore freedom to the city

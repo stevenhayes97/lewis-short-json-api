@@ -329,3 +329,73 @@ frumentum | Frumentum in horreo servatur | The grain is kept in the barn
 fruniscor | Otio fruniscor | I enjoy leisure
 fruor | Pace fruor | I enjoy peace
 frustratio | Frustratio mercatoris emptorem irritat | The merchant's deception irritates the buyer
+frustror | Hostem dolo frustror | I deceive the enemy with a ruse
+frustum | Frustum panis in mensa jacet | The morsel of bread lies on the table
+frutectum | Frutectum densum lepores celat | The dense thicket hides the hares
+frutex | Frutex in colle floret | The shrub blooms on the hill
+# third: frutico "I sprout" is odd; a plant sprouts
+frutico | Salix ad rivum fruticat | The willow sprouts by the stream
+frux | Frux matura agricolam beat | The ripe crop makes the farmer happy
+fuco | Lanam purpura fuco | I dye the wool with purple
+fuga | Fuga hostium ducem laetum facit | The flight of the enemy makes the general glad
+fugio | Ad montes fugio | I flee to the mountains
+fugitivarius | Fugitivarius per vias vigilat | The slave-catcher keeps watch along the roads
+fugito | Ab apibus fugito | I flee from the bees
+# third: fugo a military figure is more natural than the first person
+fugo | Dux hostes fugat | The general routs the enemy
+fulcio | Tectum trabe fulcio | I prop up the roof with a beam
+fulcrum | Fulcrum ligneum cubiculum ornat | The wooden bedpost adorns the bedroom
+# third: fulgeo "I flash" is odd; a jewel flashes
+fulgeo | Gemma in sole fulget | The jewel flashes in the sun
+fulgetrum | Fulgetrum nubes illuminat | The lightning lights up the clouds
+fulgor | Fulgor repentinus pastorem terret | The sudden flash frightens the shepherd
+fulgur | Fulgur ante tonitrum venit | The lightning comes before the thunder
+fulguratio | Fulguratio nocturna pecus perturbat | The night lightning disturbs the flock
+fulgurator | Fulgurator senatum de signo monet | The lightning-priest warns the senate about the sign
+# third: fulgurio an impersonal weather verb
+fulgurio | Supra montem fulgurit | There is lightning above the mountain
+# skip: fulguro is misfiled as a noun in the source; the verb duplicates fulgurio
+fuligo | Fuligo parietes culinae nigros facit | The soot makes the kitchen walls black
+fullo | Fullo togam in aqua calcat | The fuller treads the toga in water
+fulmen | Fulmen quercum altam percutit | The thunderbolt strikes the tall oak
+fulmentum | Fulmentum parietem inclinatum sustinet | The prop holds up the leaning wall
+# third: fulmino an impersonal weather verb
+fulmino | Trans silvam fulminat | There is lightning beyond the forest
+fultura | Fultura lignea vitem erigit | The wooden support holds the vine upright
+fumigo | Domum sulphure fumigo | I fumigate the house with sulphur
+# third: fumo "I smoke" suggests tobacco; a mountain top smokes
+fumo | Cacumen montis fumat | The summit of the mountain smokes
+fumus | Fumus per culmen ad caelum ascendit | The smoke rises through the roof to the sky
+functio | Functio muneris consulem fatigat | The performance of the office tires the consul
+funda | Funda in zona pastoris pendet | The sling hangs from the shepherd's belt
+fundamentum | Fundamentum aedificii lapides magnos requirit | The foundation of the building requires large stones
+fundito | Lapides in stagnum fundito | I hurl stones into the pond
+fundo1 | Vinum in pateram fundo | I pour wine into the bowl
+fundo2 | Urbem novam fundo | I found a new city
+fundus | Fundus lacus aurum celat | The bottom of the lake hides gold
+funero | Avum meum funero | I bury my grandfather
+funesto | Fontem sordibus funesto | I defile the spring with filth
+fungor | Officio meo fungor | I perform my duty
+fungus | Fungus sub quercu crescit | The mushroom grows under the oak
+funis | Funis in puteo pendet | The rope hangs in the well
+funus | Funus senatoris forum implet | The senator's funeral fills the forum
+fur | Fur in tenebris ad villam accedit | The thief approaches the villa in the dark
+furca | Furca ad parietem stat | The fork stands by the wall
+furcifer | Furcifer mercatorem fallit | The scoundrel cheats the merchant
+furcilla | Furcilla fenum in plaustrum levat | The pitchfork lifts hay onto the cart
+furcula | Furcula ramum onustum sustinet | The prop supports the heavy branch
+furfur | Furfur pullos alit | The bran feeds the chickens
+furia | Furia tyranni consiliarios silentes facit | The tyrant's frenzy makes the advisers silent
+# third: furio1 "I madden" is odd; the noise maddens
+furio1 | Strepitus equos furiat | The noise maddens the horses
+furnus | Furnus panem coquit | The oven bakes the bread
+furo | Ob moram furo | I rage at the delay
+furor1 | Pomum ex horto furor | I steal an apple from the garden
+furor2 | Furor populi senatores angit | The people's frenzy troubles the senators
+furunculus | Furunculus pomum de mensa tollit | The pilferer takes an apple from the table
+# third: fusco "I darken" is odd; a storm cloud darkens
+fusco | Nimbus caelum fuscat | The storm cloud darkens the sky
+fusio | Fusio aquae ex urna flores recreat | The outpouring of water from the urn refreshes the flowers
+fustis | Fustis in angulo jacet | The cudgel lies in the corner
+fustuarium | Fustuarium milites ignavos terret | The cudgelling frightens the cowardly soldiers
+fusus3 | Fusus lanam torquet | The spindle twists the wool

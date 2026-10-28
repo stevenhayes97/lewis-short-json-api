@@ -1,0 +1,317 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/O.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+obambulo | Ante portam obambulo | I pace in front of the gate
+obaudio | Matri obaudio | I obey my mother
+obba1 | Obba vino plena est | The beaker is full of wine
+# third: obbrutesco "I become brutish" is not a sentence a learner needs; a lonely man does it
+obbrutesco | Vir solitarius in silva obbrutescit | The lonely man in the wood becomes brutish
+obdo | Pessulum ostio obdo | I bolt the door
+obdormio | Sub arbore obdormio | I fall asleep under the tree
+obdormisco | Post cenam obdormisco | I fall asleep after dinner
+obduco | Mensam linteo obduco | I cover the table with a cloth
+# third: obduresco "I harden" is for mud or a substance
+obduresco | Lutum in sole obdurescit | The mud hardens in the sun
+obduro | In labore obduro | I persevere in my work
+obedo | Totam placentam obedo | I devour the whole cake
+obeliscus | Obeliscus altus umbram longam jacit | The tall obelisk casts a long shadow
+# third: obeo "I die" is not a sentence a learner needs
+obeo | Senex in lecto obit | The old man dies in bed
+obequito | Moenibus obequito | I ride up to the walls
+oberro | Per silvam oberro | I wander through the wood
+obex | Obex ferreus portam clausam tenet | The iron bolt keeps the gate shut
+obhaeresco | In luto obhaeresco | I stick fast in the mud
+obicio | Faciem soli obicio | I expose my face to the sun
+obirascor | Fortunae obirascor | I am angry at fortune
+obitus2 | Obitus senatoris curiam silentem reddit | The senator's death makes the senate house silent
+# third: objaceo "I lie opposite" is for an island or a place
+objaceo | Insula portui objacet | The island lies opposite the harbour
+objectio | Objectio amici me tristem facit | My friend's reproach makes me sad
+objecto | Fratri ignaviam objecto | I accuse my brother of laziness
+objectus2 | Objectus saxorum portum a ventis defendit | The barrier of rocks shields the harbour from the winds
+objurgatio | Objurgatio magistri discipulum ad studium revocat | The teacher's rebuke calls the pupil back to study
+oblatio | Oblatio pia deae placet | The pious offering pleases the goddess
+oblatro | Vicino semper oblatro | I always carp at my neighbour
+oblectamentum | Oblectamentum vitae rusticae poetam ad agros revocat | The delight of country life calls the poet back to the fields
+oblecto | Nepotem fabulis oblecto | I amuse my grandson with stories
+oblido | Pomum maturum digitis oblido | I squeeze the ripe fruit with my fingers
+obligatio | Obligatio debiti mercatorem premit | The obligation of the debt weighs on the merchant
+obligo | Libros loro obligo | I bind the books with a strap
+oblimo | Aquam pedibus oblimo | I muddy the water with my feet
+oblinio | Panem melle oblinio | I smear the bread with honey
+oblino | Tabulam cera oblino | I smear the tablet with wax
+obliquo | Velum ad ventum obliquo | I slant the sail to the wind
+oblitesco | Post arborem oblitesco | I hide behind a tree
+oblittero | Scripta in tabula oblittero | I obliterate the writing on the tablet
+oblivio | Oblivio nomen poetae obruit | Oblivion buries the poet's name
+obliviscor | Nominis amici obliviscor | I forget my friend's name
+oblivium | Oblivium curarum nautam in somno tenet | Oblivion of cares holds the sailor in sleep
+obloquor | Magistro obloquor | I contradict the teacher
+obluctor | Tempestati obluctor | I struggle against the storm
+obmolior | Portam saxis obmolior | I barricade the gate with rocks
+obmoveo | Preces ad aram obmoveo | I offer prayers at the altar
+obmurmuro | Vicino obmurmuro | I murmur in reply to my neighbour
+obmutesco | Ante judicem obmutesco | I fall silent before the judge
+# third: obnubilo "I cloud" is for mist or weather
+obnubilo | Nebula vallem obnubilat | The mist clouds the valley
+obnubo | Caput veste obnubo | I veil my head with a garment
+obnuntio | Consuli cladem obnuntio | I bring the consul word of the defeat
+oboedientia | Oboedientia pueri magistrum laetum facit | The boy's obedience makes the teacher happy
+oboedio | Consuli oboedio | I obey the consul
+# third: oboleo "I smell of" is for a place or thing
+oboleo | Taberna piscem obolet | The shop smells of fish
+obolus | Obolus in sacculo pauperis jacet | The obol lies in the poor man's purse
+# third: oborior "I arise" is for a storm or a sound
+oborior | Tempestas ex mari oboritur | A storm arises from the sea
+obrepo | Ad castra hostium obrepo | I creep up to the enemy camp
+obreptio | Obreptio hostium castra turbat | The enemy's surprise disturbs the camp
+obrigesco | In frigore obrigesco | I stiffen in the cold
+obrodo | Crustum panis obrodo | I gnaw a crust of bread
+obrogo | Legem veterem decreto novo obrogo | I supersede the old law with a new decree
+obruo | Hostem multitudine obruo | I overwhelm the enemy with numbers
+obrussa | Obrussa aurum probat | The assay tests the gold
+obscenitas | Obscenitas verborum matronam offendit | The obscenity of the words offends the lady
+obscuratio | Obscuratio solis agricolas terret | The darkening of the sun frightens the farmers
+obscuritas | Obscuritas silvae viatorem tardat | The obscurity of the wood slows the traveller
+# third: obscuro "I darken" is for smoke or cloud
+obscuro | Fumus caelum obscurat | Smoke darkens the sky
+obsecratio | Obsecratio civium deos movet | The entreaty of the citizens moves the gods
+obsecro | Deos pro patria obsecro | I beseech the gods for my country
+obsecundo | Voluntati patris obsecundo | I comply with my father's wishes
+obsequela | Obsequela filiae patrem mollit | The daughter's compliance softens her father
+obsequium | Obsequium militis ducem placat | The soldier's compliance pleases the general
+obsequor | Sorori obsequor | I comply with my sister
+obsero1 | Januam nocte obsero | I bolt the front door at night
+obsero2 | Agrum tritico obsero | I sow the field with wheat
+observantia | Observantia juvenum senem honorat | The young men's respect honours the old man
+observatio | Observatio siderum nautas dirigit | Observation of the stars guides the sailors
+observito | Aves in agro observito | I observe the birds in the field
+observo | Lunam e fenestra observo | I observe the moon from the window
+obses | Obses in castris Romanorum manet | The hostage stays in the Roman camp
+obsessor | Obsessor urbis murum circumit | The besieger of the city walks around the wall
+obsideo | Urbem obsideo | I besiege the city
+obsidio | Obsidio mercatores in urbe retinet | The siege keeps the merchants in the city
+obsidium1 | Obsidium exercitum Romanum diu detinet | The siege holds the Roman army for a long time
+obsido | Portas hostium obsido | I besiege the enemy's gates
+obsigno | Epistulam cera obsigno | I seal the letter with wax
+obsisto | Hosti obsisto | I resist the enemy
+obsolefacio | Nomen meum desidia obsolefacio | I degrade my name through idleness
+obsonium | Obsonium coquum exspectat | The provisions wait for the cook
+obsono1 | Pro convivio obsono | I cater for the banquet
+obsorbeo | Aquam avide obsorbeo | I gulp the water greedily
+obstaculum | Obstaculum in via carrum tardat | The obstacle in the road slows the cart
+obstinatio | Obstinatio ducis exercitum confirmat | The general's resolve strengthens the army
+obstino | Cras proficisci obstino | I resolve to set out tomorrow
+obsto | Fratri obsto | I hinder my brother
+obstrepo | Oratori obstrepo | I shout against the orator
+obstringo | Socios jurejurando obstringo | I bind my allies by oath
+obstupefacio | Pueros mirabili fabula obstupefacio | I astonish the boys with a wonderful story
+obsuo | Sacculum filo obsuo | I sew the bag shut with thread
+obsurdesco | Post tonitrum obsurdesco | I go deaf after the thunder
+obtego | Lectum purpura obtego | I cover the couch with purple cloth
+obtempero | Legibus obtempero | I obey the laws
+obtendo | Linteum ante fenestram obtendo | I spread a cloth before the window
+obtentus2 | Obtentus officii fraudem celat | The pretext of duty hides the fraud
+obtero | Uvas pedibus obtero | I crush the grapes with my feet
+obtestatio | Obtestatio consulis senatum commovet | The consul's adjuration stirs the senate
+obtestor | Patrem pro fratre obtestor | I implore my father for my brother
+obtexo | Murum hedera obtexo | I cover the wall with ivy
+obtineo | Collem cum cohorte obtineo | I hold the hill with a cohort
+# third: obtingo "I befall" is for a fortune or an event
+obtingo | Honor civi obtingit | An honour befalls the citizen
+obtorpesco | Post longum iter obtorpesco | I grow numb after the long journey
+obtorqueo | Proram ad litus obtorqueo | I twist the ship's prow towards the shore
+obtrectatio | Obtrectatio invidorum poetam vexat | The detraction of the envious vexes the poet
+obtrectator | Obtrectator laudem victoris minuit | The detractor lessens the victor's praise
+obtrecto | Collegae obtrecto | I disparage my colleague
+obtrudo | Emptori equum vitiosum obtrudo | I foist a faulty horse on the buyer
+# third: obtrunco "I slaughter" reads unnaturally; an army does it
+obtrunco | Exercitus agmen hostium obtruncat | The army slaughters the enemy column
+obtueor | Imaginem patris obtueor | I gaze at my father's portrait
+obtundo | Stilum in tabula obtundo | I blunt the stylus on the tablet
+obturbo | Quietem sororis obturbo | I disturb my sister's rest
+obturo | Rimam luto obturo | I plug the crack with clay
+obtutus | Obtutus oculorum meorum lunam sequitur | The gaze of my eyes follows the moon
+# third: obumbro "I overshadow" is for a tree
+obumbro | Pinus villam obumbrat | The pine overshadows the villa
+# third: obvenio "I fall to" is for a province or an inheritance
+obvenio | Provincia consuli obvenit | The province falls to the consul
+# third: obversor "I hover" is for an image
+obversor | Imago amici ante oculos meos obversatur | My friend's image hovers before my eyes
+obverto | Currum ad portam obverto | I turn the chariot towards the gate
+obvio | Pastori obvio | I meet the shepherd
+obvolvo | Librum linteo obvolvo | I wrap the book in a cloth
+# third: occaeco "I blind" is for dust
+occaeco | Pulvis oculos ducis occaecat | The dust blinds the general's eyes
+occasio | Occasio mercatori divitias offert | The opportunity offers wealth to the merchant
+occasus2 | Occasus solis diem finit | The setting of the sun ends the day
+occator | Occator glebas in agro frangit | The harrower breaks the clods in the field
+occedo | Ad flumen occedo | I approach the river
+occento | Ad fores occento | I serenade at the door
+occidio | Occidio exercitum hostium delet | The massacre destroys the enemy army
+# third: occido1 "I kill" reads unnaturally; a soldier does it
+occido1 | Miles hostem in acie occidit | The soldier kills the enemy in the battle line
+# third: occido2 "I set" is for the sun
+occido2 | Sol in mari occidit | The sun sets in the sea
+# third: occino "I screech" is for a raven
+occino | Corvus supra tectum occinit | The raven screeches above the roof
+occipio | Opus mane occipio | I begin the work in the morning
+occipitium | Occipitium meum sub petaso calet | The back of my head is warm under the hat
+occisio | Occisio legionis senatum contristat | The slaughter of the legion saddens the senate
+occludo | Arcam occludo | I shut the chest
+occo | Agrum post sementem occo | I harrow the field after sowing
+# third: occubo "I lie buried" is for the dead
+occubo | Poeta sub marmore occubat | The poet lies buried under marble
+occulo | Thesaurum sub terra occulo | I hide the treasure under the ground
+occultatio | Occultatio consilii senatores irritat | The concealment of the plan angers the senators
+occulto2 | Epistulam sub pulvino occulto | I hide the letter under the pillow
+# third: occumbo "I die" is not a sentence a learner needs
+occumbo | Miles pro patria occumbit | The soldier dies for his country
+occupatio | Occupatio urbis cives terret | The occupation of the city frightens the citizens
+occupo | Pontem occupo | I seize the bridge
+occurro | Medico in via occurro | I meet the doctor on the road
+occursatio | Occursatio clientium patronum fatigat | The fawning of the clients tires the patron
+occurso | Magistro ante templum occurso | I meet the teacher in front of the temple
+occursus | Occursus cum rege legatum terret | The meeting with the king frightens the envoy
+ocellus | Ocellus soleae lorum tenet | The eyelet of the sandal holds the strap
+ocrea1 | Ocrea crus militis protegit | The greave protects the soldier's shin
+oculo | Homines doctrina oculo | I enlighten people with learning
+oculus | Oculus lunam in aqua videt | The eye sees the moon in the water
+odi | Mendacium odi | I hate lying
+odium1 | Odium inter fratres familiam dividit | Hatred between the brothers divides the family
+odor | Odor floris apes allicit | The smell of the flower attracts the bees
+odoratio | Odoratio rosarum aegrum recreat | The smelling of roses refreshes the patient
+odoratus2 | Odoratus canum cibum invenit | The dogs' sense of smell finds food
+odoro | Vestem oleo odoro | I perfume the garment with oil
+odoror | Cibum in culina odoror | I sniff out food in the kitchen
+oeconomia | Oeconomia fabulae poetam commendat | The arrangement of the play commends the poet
+oenanthe | Oenanthe in prato floret | The dropwort blooms in the meadow
+oestrus | Oestrus vaccam in prato vexat | The gadfly torments the cow in the meadow
+offa | Offa casei catulum attrahit | The morsel of cheese draws the puppy
+offendo1 | Hospitem verbis offendo | I offend the guest with my words
+offensa | Offensa fratris sororem contristat | The brother's offence saddens the sister
+offensaculum | Offensaculum in semita puellam sistit | The stumbling block on the path stops the girl
+offensatio | Offensatio memoriae senem confundit | The slip of memory confuses the old man
+offensio | Offensio senatus ducem a triumpho arcet | The senate's disfavour keeps the general from a triumph
+offenso | In oratione offenso | I falter in my speech
+offensus2 | Offensus fluctuum navem quatit | The shock of the waves shakes the ship
+offero | Deae dona offero | I offer gifts to the goddess
+offertorium | Offertorium panem et vinum accipit | The offertory receives bread and wine
+officina | Officina tabulas et clavos habet | The workshop has boards and nails
+# third: officio "I obstruct" is for a log or object
+officio | Truncus viae officit | The log obstructs the road
+officium | Officium me ad portum vocat | Duty calls me to the harbour
+offigo | Tabulam clavo ad postem offigo | I fix the board to the post with a nail
+offirmo | In proposito me offirmo | I persist in my purpose
+# third: offoco "I strangle" reads unnaturally; an enemy does it
+offoco | Hostis exploratorem offocat | The enemy strangles the scout
+offringo | Agrum post hiemem offringo | I cross-plough the field after winter
+offucia | Offucia faciem actoris tegit | The makeup covers the actor's face
+offula | Offula panis in sinu pueri latet | The morsel of bread hides in the boy's lap
+# third: offulgeo "I shine forth" is for a star
+offulgeo | Stella e nubibus offulget | The star shines forth from the clouds
+offundo | Aquam capiti offundo | I pour water over my head
+# third: oggannio "I growl" is for a dog
+oggannio | Canis sub mensa oggannit | The dog growls under the table
+# third: oleo1 "I smell" is for a place
+oleo1 | Culina thymum olet | The kitchen smells of thyme
+oleum | Oleum lucernam alit | The oil feeds the lamp
+olfacio | Panem calidum olfacio | I smell the warm bread
+olfacto | Vinum olfacto | I sniff the wine
+oliva | Oliva ex arbore cadit | The olive falls from the tree
+olivetum | Olivetum vallem tegit | The olive grove covers the valley
+olivum | Olivum in ampulla splendet | The oil gleams in the flask
+olla | Olla supra focum pendet | The pot hangs over the hearth
+olor1 | Olor in lacu natat | The swan swims on the lake
+omen | Omen faustum nautam confirmat | A favourable omen reassures the sailor
+omentum | Omentum viscera tegit | The omentum covers the entrails
+ominor | Pluviam ex nubibus ominor | I predict rain from the clouds
+omitto | Spem numquam omitto | I never give up hope
+onero | Asinum sarcinis onero | I load the donkey with packs
+onus | Onus senem curvat | The burden bends the old man
+onyx | Onyx in anulo regis fulget | The onyx gleams in the king's ring
+# third: opaco "I shade" is for a tree
+opaco | Fagus gregem opacat | The beech shades the flock
+opera | Opera fabri domum celeriter aedificat | The craftsman's effort builds the house quickly
+operatio | Operatio agri colonos exercet | The work on the land occupies the farmers
+operculum | Operculum amphoram claudit | The lid closes the jar
+operimentum | Operimentum lecti frigus arcet | The covering of the bed keeps off the cold
+operio | Corbem foliis operio | I cover the basket with leaves
+opifex | Opifex vas ex argilla format | The maker shapes a vessel from clay
+opimo | Porcos glandibus opimo | I fatten the pigs with acorns
+opinatio | Opinatio nautae tempestatem praedicit | The sailor's conjecture predicts the storm
+opinio | Opinio magistri discipulos dividit | The teacher's opinion divides the pupils
+opinor | Idem opinor | I suppose the same
+opisthotonos | Opisthotonos medicos terret | Tetanus frightens the doctors
+opitulor | Pauperibus opitulor | I help the poor
+oppando | Vestes ad solem oppando | I spread out the clothes in the sun
+# third: oppeto "I die" is not a sentence a learner needs
+oppeto | Dux in bello mortem oppetit | The general meets his death in war
+oppidum | Oppidum portas tres habet | The town has three gates
+oppilo | Foramen lana oppilo | I plug the hole with wool
+oppleo | Cadum vino oppleo | I fill the jar with wine
+oppono | Muros hostibus oppono | I set walls against the enemy
+opportunitas | Opportunitas temporis legatum juvat | The opportunity of the moment helps the envoy
+# skip: oppositus2 is attested only in the ablative singular, so it has no nominative headword form
+opprimo | Nucem lapide opprimo | I crush the nut with a stone
+opprobrium | Opprobrium famam civitatis minuit | The disgrace damages the reputation of the city
+opprobro | Servum pigrum opprobro | I reproach the lazy slave
+oppugnatio | Oppugnatio castelli agricolas in urbem fugat | The siege of the fort drives the farmers into the city
+oppugno1 | Arcem oppugno | I besiege the citadel
+# skip: ops1 has no nominative singular in the entry, so no usable headword form
+optatio | Optatio pueri patrem movet | The boy's wish moves his father
+optio1 | Optio inter duas vias viatorem dubium facit | The option between two roads makes the traveller unsure
+optio2 | Optio centurionis vigilias distribuit | The centurion's adjutant assigns the watches
+opto | Tibi pacem opto | I wish you peace
+opulentia | Opulentia mercatoris civitatem ornat | The merchant's wealth adorns the city
+opus1 | Opus fabrum in officina tenet | The work holds the craftsmen in the workshop
+ora1 | Ora Italiae multos portus habet | The coast of Italy has many harbours
+oraculum | Oraculum Delphicum regem monet | The oracle at Delphi warns the king
+oratio | Oratio consulis forum silens reddit | The consul's speech makes the forum silent
+orator | Orator in rostris stat | The orator stands on the rostra
+orbiculus | Orbiculus e manu pueri cadit | The disk falls from the boy's hand
+orbis | Orbis in pariete pingitur | A circle is painted on the wall
+orbita | Orbita in agro plaustrum tenet | The rut in the field holds the wagon
+orbitas | Orbitas matrem ad templum ducit | Bereavement leads the mother to the temple
+# third: orbo "I bereave" is for war or fate
+orbo | Bellum urbem civibus orbat | War bereaves the city of its citizens
+orca1 | Orca prope navem apparet | The whale appears near the ship
+orchestra | Orchestra senatores in theatro capit | The orchestra seats the senators in the theatre
+ordinatio | Ordinatio librorum in bibliotheca lectorem juvat | The arrangement of the books in the library helps the reader
+ordino | Poma in corbe ordino | I arrange the apples in the basket
+ordior | Fabulam de rege ordior | I begin a tale about the king
+ordo | Ordo in castris victoriam parat | Order in the camp prepares victory
+organum | Organum musicum convivas ad saltandum invitat | The musical instrument invites the guests to dance
+orichalcum | Orichalcum aurum imitatur | Brass imitates gold
+origo1 | Origo fluminis viatores ad montes vocat | The origin of the river calls travellers to the mountains
+# third: orior "I rise" is for the sun
+orior | Sol ex mari oritur | The sun rises from the sea
+ornamentum | Ornamentum argenteum mensam decorat | The silver ornament decorates the table
+ornatus2 | Ornatus sponsae hospites admiratione implet | The bride's adornment fills the guests with admiration
+ornithias | Ornithias aves ex Africa portat | The bird-wind brings the birds from Africa
+orno | Aram sertis orno | I adorn the altar with garlands
+oro | Judicem pro reo oro | I beg the judge for the accused
+orsa | Orsa poetae auditores tenent | The poet's beginnings hold the listeners
+ortus2 | Ortus solis montes aureos facit | The rising of the sun makes the mountains golden
+os1 | Os equi frenum tenet | The horse's mouth holds the bit
+os2 | Os in sole albescit | The bone whitens in the sun
+oscen | Oscen augurem monet | The omen-bird warns the augur
+oscillum1 | Oscillum Bacchi in vite pendet | The mask of Bacchus hangs on the vine
+oscitatio | Oscitatio discipuli magistrum offendit | The pupil's yawn annoys the teacher
+oscito | Sub umbra oscito | I yawn in the shade
+osculor | Matrem osculor | I kiss my mother
+osculum | Osculum avi nepotem lenit | The grandfather's kiss soothes the grandson
+osor | Osor fraudis judicem juvat | The hater of fraud helps the judge
+ostendo | Viam peregrino ostendo | I show the way to the stranger
+ostensio | Ostensio statuarum cives in porticu congregat | The display of statues gathers the citizens in the colonnade
+ostentatio | Ostentatio divitum pauperes irritat | The ostentation of the rich irritates the poor
+ostentator | Ostentator pecuniam suam omnibus monstrat | The boaster shows his money to everyone
+ostento | Vestem novam ostento | I show off my new robe
+ostentus2 | Ostentus navium portum implet | The display of ships fills the harbour
+ostium | Ostium cardines stridentes habet | The door has creaking hinges
+ostrea | Ostrea ex mari ad mensam venit | The oyster comes from the sea to the table
+ostrum | Ostrum vestem regis ornat | The purple adorns the king's robe
+otium | Otium agricolam post messem refovet | Leisure refreshes the farmer after the harvest
+ovatio | Ovatio victorem per urbem comitatur | The ovation escorts the victor through the city
+ovile | Ovile in colle stat | The sheepfold stands on the hill
+ovis | Ovis lanam albam fert | The sheep bears white wool
+ovum | Ovum in patella coquitur | The egg cooks in the pan

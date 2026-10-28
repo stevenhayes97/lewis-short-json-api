@@ -1,0 +1,159 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/N.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+nacca | Nacca togam in aqua lavat | The fuller washes the toga in water
+naevus | Naevus in mento pictoris latet | The birthmark hides on the painter's chin
+nanciscor | Locum in theatro nanciscor | I obtain a seat in the theatre
+nanus | Nanus cum cane per viam currit | The dwarf runs along the road with the dog
+naphtha | Naphtha celeriter ardet | Naphtha burns quickly
+naris | Naris aerem frigidum sentit | The nostril feels the cold air
+narratio | Narratio brevis oratoris auditoribus placet | The orator's short narrative pleases the listeners
+narro | Fabulam longam nepoti narro | I tell my grandson a long story
+nassa | Nassa e vimine in lacu jacet | The wicker fish-trap lies in the lake
+nasturtium | Nasturtium acre linguam mordet | The sharp cress bites the tongue
+nasus1 | Nasus puellae in frigore ruber est | The girl's nose is red in the cold
+natio | Natio vicina cum Romanis pacem facit | The neighbouring nation makes peace with the Romans
+natis | Natis equi a musca pungitur | The horse's rump is stung by a fly
+nativitas | Nativitas regis civitatem laetificat | The birth of the king gladdens the city
+nato | Trans lacum nato | I swim across the lake
+natrix | Natrix inter harundines serpit | The water-snake glides among the reeds
+natura | Natura apibus mel dat | Nature gives honey to the bees
+# skip: natus2 is used only in the ablative singular (natu, as in grandis natu), so there is no nominative headword form
+nauclerus | Nauclerus navem per tempestatem regit | The skipper steers the ship through the storm
+# skip: naucum is attested only in the genitive of value (non nauci, nauco ducere), so there is no usable headword form for a subject sentence
+naufragium | Naufragium mercatorem pauperem facit | The shipwreck makes the merchant poor
+naumachia | Naumachia Caesaris spectatores multos allicit | Caesar's sea fight attracts many spectators
+nausea | Nausea peregrinum in nave tenet | Seasickness grips the stranger on the ship
+nauseo | In nave nauseo | I am seasick on the ship
+nauta | Nauta stellas observat | The sailor watches the stars
+nautea | Nautea in ima nave olet | The bilge water smells at the bottom of the ship
+navia | Navia ad ripam appropinquat | The boat approaches the bank
+navigatio | Navigatio ad Graeciam decem dies postulat | The voyage to Greece requires ten days
+navigium | Navigium ex Aegypto portum intrat | The ship from Egypt enters the harbour
+navigo | Ad Siciliam navigo | I sail to Sicily
+navis | Navis ad insulam velis currit | The ship runs to the island under sail
+navo | In studiis operam navo | I exert myself in my studies
+nebula | Nebula matutina vallem tegit | The morning mist covers the valley
+nebulo | Nebulo mercatorem fallit | The scoundrel cheats the merchant
+necessitas | Necessitas pauperem laborare cogit | Necessity forces the poor man to work
+necessitudo | Necessitudo hiemis agricolas domum revocat | The necessity of winter calls the farmers home
+# third: neco "I kill" reads grimly in the first person; a general does it in a military frame
+neco | Dux hostem necat | The general kills the enemy
+nectar | Nectar in mensa Jovis stat | Nectar stands on Jupiter's table
+necto | Coronam e rosis necto | I bind a wreath of roses together
+necydalus | Necydalus in ramo quiescit | The chrysalis rests on the branch
+nefas | Nefas sacerdotem diu perturbat | The sin troubles the priest for a long time
+negito | Culpam meam semper negito | I always deny my fault
+neglegentia | Neglegentia janitoris ostium apertum relinquit | The doorkeeper's negligence leaves the door open
+neglego | Officium meum numquam neglego | I never neglect my duty
+nego | Rumorem falsum nego | I deny the false rumour
+negotiatio | Negotiatio cum Aegypto oppidum ditat | Commerce with Egypt enriches the town
+negotiator | Negotiator vinum in provincia emit | The dealer buys wine in the province
+negotium | Negotium magnum fratrem meum domo prohibet | The great business keeps my brother away from home
+nemus | Nemus pastores ab aestu protegit | The grove protects the shepherds from the heat
+nenia | Nenia sororem tristem facit | The dirge makes my sister sad
+neo1 | Lanam ad focum neo | I spin wool by the hearth
+neocorus | Neocorus januam aedis aperit | The temple keeper opens the door of the shrine
+nepos1 | Nepos cum avo in colle ambulat | The grandson walks on the hill with his grandfather
+neptis | Neptis cum avia fabulas legit | The granddaughter reads stories with her grandmother
+nequeo | Saxum ingens levare nequeo | I am unable to lift the huge rock
+nequitia | Nequitia ministri hospitem irritat | The servant's worthlessness irritates the guest
+nervus | Nervus fortis in bracchio athletae pulsat | The strong sinew throbs in the athlete's arm
+nex | Nex consulis urbem terret | The murder of the consul frightens the city
+nexo | Funem ad malum nexo | I bind the rope to the mast
+nexus2 | Nexus funis saccum clausum tenet | The binding of the rope keeps the sack shut
+nicto | In sole nicto | I blink in the sun
+nidor | Nidor e culina fratrem meum ad mensam vocat | The smell from the kitchen calls my brother to the table
+# third: nidulor "I nest" is for a bird
+nidulor | Hirundo sub tecto nidulatur | The swallow nests under the roof
+nidulus | Nidulus in sepe ova habet | The nest in the hedge holds eggs
+nidus | Nidus pullos ab imbre servat | The nest keeps the chicks from the rain
+# skip: niger1 is an adjective (black), misfiled as a noun
+# third: nigresco "I darken" is for the sky
+nigresco | Caelum ante tempestatem nigrescit | The sky darkens before the storm
+# third: nigrico "I am blackish" is for a thing
+nigrico | Mare sub nubibus nigricat | The sea is blackish under the clouds
+nigro | Murum carbone nigro | I blacken the wall with charcoal
+nimbus | Nimbus viatores sub arborem compellit | The rainstorm forces the travellers under a tree
+nisus2 | Nisus nautarum navem e vado trahit | The effort of the sailors pulls the ship out of the shallows
+nitedula | Nitedula in hieme dormit | The dormouse sleeps in winter
+nitela1 | Nitela marmoris atrium collustrat | The brightness of the marble lights up the hall
+# third: niteo "I shine" is for a thing
+niteo | Argentum in mensa nitet | The silver shines on the table
+# third: nitesco "I brighten" is for the sky
+nitesco | Caelum post imbrem nitescit | The sky brightens after the rain
+nitido | Argentum panno nitido | I polish the silver with a cloth
+nitor1 | Baculo nitor | I lean on my staff
+nitor2 | Nitor lunae viam silentem illustrat | The brightness of the moon lights the silent road
+nitrum | Nitrum vestes lanosas purgat | The soda cleans the woollen garments
+nix | Nix alta montium aditus claudit | Deep snow closes the mountain approaches
+nixor | Ad columnam nixor | I lean against the column
+nixus2 | Nixus aquae rotam vertit | The pressure of the water turns the wheel
+no1 | In mari cum amicis no | I swim in the sea with my friends
+nobilitas | Nobilitas ducis ad Hispaniam pervenit | The general's fame reaches Spain
+nobilito | Familiam meam virtute nobilito | I ennoble my family through virtue
+noceo | Nemini noceo | I harm nobody
+noctiluca | Noctiluca inter nubes micat | The moon sparkles among the clouds
+noctua1 | Noctua in silva clamat | The owl calls in the wood
+nodo | Funiculum nodo | I knot the little cord
+nodus | Nodus funem brevem facit | The knot makes the rope short
+noegeum | Noegeum in cista jacet | The garment lies in the chest
+nolo | Hodie in urbem ire nolo | I am unwilling to go into the city today
+nomen | Nomen regis in omnibus oppidis auditur | The king's name is heard in all the towns
+nomenclator | Nomenclator candidato amicos monstrat | The nomenclator points out friends to the candidate
+nominatio | Nominatio navis nautas ad convivium invitat | The naming of the ship invites the sailors to a feast
+nomino | Filiam Juliam nomino | I name my daughter Julia
+nomisma | Nomisma e Graecia venit | The coin comes from Greece
+nongenti | Nongenti milites castra muniunt | Nine hundred soldiers fortify the camp
+# skip: nonnullus is an adjective (some), misfiled as a noun
+norma | Norma fabri angulum rectum monstrat | The carpenter's square shows the right angle
+noscito | Amicum in turba noscito | I recognise my friend in the crowd
+nosco | Verba Graeca cotidie nosco | I learn Greek words every day
+nota | Nota in bove dominum monstrat | The mark on the ox shows its owner
+notatio | Notatio sacculorum servum diu detinet | The marking of the sacks keeps the slave busy for a long time
+notesco | Apud cives lente notesco | I slowly become known among the citizens
+notio | Notio cum consule viam ad honores aperit | Acquaintance with the consul opens the way to honours
+notitia | Notitia Graecae linguae legatum commendat | Knowledge of the Greek language commends the envoy
+noto | Locum in pagina noto | I mark the place on the page
+novacula | Novacula tonsorem exspectat | The razor waits for the barber
+novatio | Novatio aedium oppidum decorat | The renewal of the buildings beautifies the town
+noverca | Noverca puellam cantare docet | The stepmother teaches the girl to sing
+novitas | Novitas consilii senatores movet | The novelty of the plan stirs the senators
+novo | Tectum vetus novo | I renew the old roof
+noxa | Noxa grandinis agricolam contristat | The harm done by the hail saddens the farmer
+nubecula | Nubecula solem paulisper obscurat | The cloudlet dims the sun for a moment
+nubes | Nubes imbrem portat | The cloud brings rain
+nubigena | Nubigena Centaurus in silvis habitat | The cloud-born Centaur lives in the woods
+# third: nubilo "I cloud over" is for the sky
+nubilo | Caelum ante vesperam nubilat | The sky clouds over before evening
+nubo | Viro bono nubo | I marry a good man
+nucleus | Nucleus pini sciuro cibum praebet | The kernel of the pine gives the squirrel food
+nudipedalia | Nudipedalia cives ad aram convocant | The barefoot-festival gathers the citizens at the altar
+nuditas | Nuditas statuae spectatores non turbat | The nakedness of the statue does not disturb the spectators
+nudo | Pedes in aqua nudo | I bare my feet in the water
+nugae | Nugae vicini me molestant | The neighbour's nonsense bothers me
+nugator | Nugator tempus in verbis inanibus perdit | The trifler wastes time on empty words
+nugivendus | Nugivendus anulos et fibulas offert | The trinket-seller offers rings and brooches
+nugor | Cum sodalibus nugor | I trifle with my companions
+numella | Numella vaccae pedes ligat | The fetter binds the cow's feet
+numen | Numen agros nostros custodit | The divinity guards our fields
+numerarius | Numerarius summam pecuniae computat | The accountant calculates the total of the money
+numero1 | Oves ante noctem numero | I count the sheep before night
+numerus | Numerus militum cotidie crescit | The number of soldiers grows daily
+nummus | Nummus in fontem cadit | The coin falls into the fountain
+nuncupatio | Nuncupatio novi sacerdotis populum in templo congregat | The naming of the new priest gathers the people in the temple
+nuncupo | Catulum Leonem nuncupo | I name the puppy Leo
+nundinatio | Nundinatio in oppido vicos clamore replet | Trading in the town fills the streets with noise
+nundinor | Cum Gallis nundinor | I trade with the Gauls
+nuntiatio | Nuntiatio victoriae cives laetitia implet | The announcement of the victory fills the citizens with joy
+nuntio | Adventum consulis nuntio | I announce the consul's arrival
+nuptiae | Nuptiae mense Junio celebrantur | The wedding is celebrated in the month of June
+nurus | Nurus cum socru panem coquit | The daughter-in-law bakes bread with her mother-in-law
+nuto | Magistro nuto | I nod to the teacher
+nutrico | Agnum aegrum nutrico | I nurse the sick lamb
+nutricula | Nutricula cunas leniter movet | The nurse gently rocks the cradle
+nutrimentum | Nutrimentum pecoris in prato crescit | The nourishment of the cattle grows in the meadow
+nutrio | Pullos frumento nutrio | I nourish the chicks with grain
+nutrix | Nutrix pueros domum ex schola reducit | The nurse brings the boys home from school
+nutus | Nutus magistri discipulum tacere jubet | The teacher's nod bids the pupil be silent
+nux | Nux in mensa volvitur | The nut rolls on the table
+nympha | Nympha in fonte cantat | The nymph sings in the spring

@@ -1,0 +1,280 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/P.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+pabulatio | Pabulatio milites a castris longe ducit | The foraging draws the soldiers far from the camp
+pabulor | Prope ripam pabulor | I forage near the bank
+pabulum | Pabulum equos in stabulo alit | The fodder feeds the horses in the stable
+pacator | Pacator terrae legatos ad regem mittit | The pacifier of the land sends envoys to the king
+pacifico | Cum Germanis pacifico | I make peace with the Germans
+pacisco | Cum emptore de pretio pacisco | I agree with the buyer about the price
+paciscor | Pro agro cum vicino paciscor | I bargain with my neighbour for the field
+paco2 | Gallos rebelles paco | I pacify the rebellious Gauls
+pactio | Pactio inter duces bellum finit | The agreement between the generals ends the war
+paedagogium | Paedagogium novos pueros recipit | The pages' school receives the new boys
+paedagogus | Paedagogus puerum ad scholam ducit | The tutor takes the boy to school
+paedor | Paedor in via viatorem offendit | The filth on the road disgusts the traveller
+paelex | Paelex in aula regis habitat | The concubine lives in the king's palace
+paenitentia | Paenitentia fratris matrem mollit | The brother's repentance softens the mother
+# third: paeniteo is attested only impersonally (paenitet)
+paeniteo | Regem culpae paenitet | The king regrets the fault
+paenula1 | Paenula viatorem a pluvia protegit | The cloak protects the traveller from the rain
+paenularius | Paenularius pannum crassum emit | The cloak-maker buys thick cloth
+paeon | Paeon versum poetae claudit | The paeon ends the poet's verse
+pagina | Pagina papyri nomen poetae continet | The page of papyrus contains the poet's name
+pagus | Pagus inter montes et flumen jacet | The district lies between the mountains and the river
+pala | Pala in terra molli haeret | The spade sticks in the soft earth
+palaestra | Palaestra juvenes in urbe exercet | The wrestling school trains the young men in the city
+palatum | Palatum acetum respuit | The palate rejects vinegar
+palea | Palea in area jacet | The chaff lies on the threshing floor
+palear | Palear e collo bovis pendet | The dewlap hangs from the ox's neck
+palla | Palla caerulea Liviam ornat | The blue robe adorns Livia
+palleo | Timore palleo | I am pale with fear
+pallesco | Ad nuntium pallesco | I turn pale at the news
+palliolum | Palliolum infantem a frigore tegit | The little cloak covers the baby against the cold
+pallium | Pallium senem nocte frigida calefacit | The cloak warms the old man on the cold night
+pallor | Pallor timentem prodit | The pallor gives away the frightened man
+palma1 | Palma dextra sudore madet | The right palm is damp with sweat
+palmes | Palmes novus ex vite pendet | The new shoot hangs from the vine
+# skip: palmo is attested only as the infinitive palmare and the participle palmatus
+palmula | Palmula pueri frigore rubet | The boy's little palm is red with cold
+palmus | Palmus pedem non aequat | A span does not equal a foot
+palor | Per agros palor | I wander through the fields
+palpebra | Palpebra oculum a pulvere protegit | The eyelid protects the eye from dust
+# third: palpito "I throb" is unnatural; a heart is the usual subject
+palpito | Cor post cursum palpitat | The heart throbs after the race
+palpo1 | Felem palpo | I stroke the cat
+paludamentum | Paludamentum purpureum ducem inter milites monstrat | The purple cloak shows the general among the soldiers
+palumbes | Palumbes in alta quercu sedet | The wood-pigeon sits in the tall oak
+palus1 | Palus saepem sustinet | The stake supports the fence
+palus2 | Palus viam ad oppidum claudit | The marsh blocks the road to the town
+pampinatio | Pampinatio vinitorem vere occupat | The pruning keeps the vine-dresser busy in spring
+pampino | Vitem falce pampino | I prune the vine with a sickle
+pampinus | Pampinus parietem ascendit | The tendril climbs the wall
+panacea1 | Panacea in monte crescit | The panacea grows on the mountain
+pancratium | Pancratium juvenes validos poscit | The pancratium demands strong young men
+pandectes | Pandectes discipulis multa docet | The encyclopedia teaches the pupils many things
+pando1 | Ramum salicis pando | I bend the willow branch
+pando2 | Vela pando | I spread the sails
+pango | Tabulas clavis ferreis pango | I fasten the boards with iron nails
+panicula | Panicula lanae in spina haeret | The tuft of wool sticks to the thorn
+panificium | Panificium pistorem ante lucem excitat | The bread-making wakes the baker before dawn
+panis | Panis calidus pueros ad mensam vocat | The warm bread calls the boys to the table
+pannus | Pannus laneus lectum tegit | The woollen cloth covers the bed
+pantex | Pantex post cenam tumet | The belly swells after dinner
+panthera1 | Panthera in umbra arboris dormit | The panther sleeps in the shade of the tree
+panus | Panus filum textoris tenet | The bobbin holds the weaver's thread
+papaver | Papaver inter frumentum floret | The poppy blooms among the wheat
+papilio | Papilio super rosam volat | The butterfly flies over the rose
+papilla | Papilla matris infantem alit | The mother's nipple feeds the baby
+pappus | Pappus puero fabulam narrat | The old man tells the boy a story
+papula | Papula in fronte Marci apparet | The pimple appears on Marcus's forehead
+papyrus | Papyrus ad Nilum crescit | The papyrus grows beside the Nile
+parabola | Parabola sententiam clare monstrat | The comparison shows the idea clearly
+paradisus | Paradisus cervos et fontes habet | The park has deer and fountains
+parasitus | Parasitus apud divitem cenat | The parasite dines at the rich man's house
+paratus2 | Paratus nuptiarum familiam laetam facit | The preparation of the wedding makes the family glad
+parcitas | Parcitas agricolae familiam in hieme adjuvat | The farmer's frugality helps the family in winter
+parco | Hosti victo parco | I spare the defeated enemy
+pardus | Pardus in saxo jacet | The leopard lies on the rock
+parens2 | Parens liberos sera nocte exspectat | The parent waits for the children late at night
+parento | Avo mortuo parento | I hold a memorial rite for my late grandfather
+pareo | Magistro pareo | I obey the teacher
+pariambus | Pariambus duas syllabas breves habet | The pariambus has two short syllables
+paries | Paries cubiculum a culina dividit | The wall divides the bedroom from the kitchen
+pario1 | Pondera in trutina pario | I equalise the weights on the scale
+# third: pario2 "I give birth" is unnatural; a mare is the natural subject
+pario2 | Equa pullum parit | The mare gives birth to a foal
+parma1 | Parma rotunda militem a lapidibus protegit | The round buckler protects the soldier from stones
+paro1 | Cenam paro | I prepare dinner
+paroecia | Paroecia novum sacerdotem exspectat | The parish awaits a new priest
+parotis | Parotis puerum domi tenet | The parotid swelling keeps the boy at home
+parra1 | Parra nocte in turri clamat | The owl cries in the tower at night
+parricida | Parricida judicium timet | The parricide fears the trial
+parricidium | Parricidium civitatem horrore implet | The parricide fills the community with horror
+parsimonia | Parsimonia mercatorem divitem facit | Frugality makes the merchant rich
+parthenium | Parthenium in margine viae floret | The feverfew blooms at the edge of the road
+participium | Participium verbum et nomen jungit | The participle joins verb and noun
+participo | Lucrum cum socio participo | I share the profit with my partner
+particula | Particula discipulos fatigat | The particle tires the pupils
+partio1 | Partio obstetricem ad domum vocat | The childbirth calls the midwife to the house
+partio2 | Hereditatem inter fratres partio | I divide the inheritance among the brothers
+partitio | Partitio agri duobus fratribus placet | The division of the field pleases the two brothers
+# third: parturio the first person is unnatural; a goat is the natural subject
+parturio | Capra in stabulo parturit | The goat is in labour in the stable
+parturitio | Parturitio mariti animum sollicitat | The labour worries the husband's mind
+partus2 | Partus equae pastorem laetum facit | The mare's birth makes the shepherd glad
+parvitas | Parvitas cellae hospitem offendit | The smallness of the room displeases the guest
+pascha | Pascha Judaeos ad Hierosolymam vocat | The Passover calls the Jews to Jerusalem
+pasco | Gallinas grano pasco | I feed the hens with grain
+passer1 | Passer in tecto garrit | The sparrow chirps on the roof
+passio | Passio aegri medicum movet | The suffering of the sick man moves the doctor
+passus3 | Passus senis in via sonat | The old man's step echoes on the road
+pastillus | Pastillus recens in canistro fumat | The fresh roll steams in the basket
+pastino | Agrum pastino | I trench the field
+pastinum | Pastinum ad parietem stat | The dibble stands against the wall
+pastio | Pastio pecus per montes ducit | The grazing leads the herd through the mountains
+pastor | Pastor ovem perditam quaerit | The shepherd looks for the lost sheep
+pastus2 | Pastus asinos per hiemem sustinet | The fodder sustains the donkeys through the winter
+patagium | Patagium aureum in tunica splendet | The golden border gleams on the tunic
+patefacio | Portam patefacio | I open the gate
+patella1 | Patella olivas continet | The dish holds olives
+# third: pateo "I am open" is unnatural; a window is the natural subject
+pateo | Fenestra nocte patet | The window is open at night
+patera | Patera in ara deae stat | The libation-bowl stands on the goddess's altar
+patibulum | Patibulum extra urbem stat | The gibbet stands outside the city
+patientia | Patientia medici aegro spem dat | The doctor's patience gives the patient hope
+patina1 | Patina super focum pendet | The pan hangs over the hearth
+patior | Frigus in via patior | I suffer from the cold on the road
+patriarcha | Patriarcha populum in ecclesia benedicit | The patriarch blesses the people in the church
+patrimonium | Patrimonium sorores ad villam vocat | The inheritance calls the sisters to the farmhouse
+patro | Opus diurnum patro | I accomplish the day's work
+patrocinium | Patrocinium senatoris clienti honorem dat | The senator's patronage gives the client honour
+patrocinor | Pauperibus patrocinor | I champion the poor
+patronatus | Patronatus consulis adulescenti viam ad senatum aperit | The consul's patronage opens the way to the senate for the youth
+patronus | Patronus clientem ad cenam invitat | The patron invites his client to dinner
+patruus1 | Patruus nepotes ad circum ducit | The uncle takes his nephews to the circus
+paucitas | Paucitas frumenti colonos sollicitat | The scarcity of grain worries the farmers
+pauperies | Pauperies familiam in hieme premit | Poverty weighs on the family in winter
+paupero | Heredem sumptibus paupero | I impoverish the heir with expenses
+paupertas | Paupertas pastorem non terret | Poverty does not frighten the shepherd
+pausa | Pausa post laborem agricolam recreat | The pause after work refreshes the farmer
+pausarius | Pausarius remiges malleo regit | The boatswain guides the rowers with a hammer
+pauso | In ponte pauso | I pause on the bridge
+# skip: pauxillus is an adjective (little), not a noun or verb
+pavefacio | Hostem clamore pavefacio | I frighten the enemy with a shout
+paveo | Tonitrum paveo | I fear thunder
+pavesco | Nocte in silva pavesco | I become afraid in the forest at night
+pavimentum | Pavimentum marmoreum in atrio nitet | The marble pavement shines in the hall
+pavio | Terram pavio | I pound the earth
+pavito | Ante tribunal pavito | I tremble before the tribunal
+pavo1 | Pavo caudam in horto expandit | The peacock spreads its tail in the garden
+pavor | Pavor turbam in theatro dissipat | The panic scatters the crowd in the theatre
+pax1 | Pax mercatores ad portum vocat | Peace calls the merchants to the harbour
+peccatum | Peccatum conscientiam turbat | The sin troubles the conscience
+pecco | In numeris pecco | I err in the figures
+pecten | Pecten eburneus in cista jacet | The ivory comb lies in the chest
+pectino | Lanam pectino | I comb the wool
+pecto | Capillos pecto | I comb my hair
+pectus | Pectus aegri tussi dolet | The sick man's chest aches with a cough
+pecu | Pecu in colle pascitur | The cattle graze on the hill
+peculatus | Peculatus quaestorem infamem facit | The embezzlement disgraces the treasurer
+# skip: peculio is attested only through the participle peculiatus
+peculium | Peculium servo libertatem emere sinit | The savings let the slave buy his freedom
+pecunia | Pecunia in sacculo tintinnat | The money jingles in the purse
+pecus1 | Pecus per vallem lente procedit | The herd moves slowly through the valley
+pecus2 | Pecus ad rivum bibit | The beast drinks at the stream
+pedamen | Pedamen vitem infirmam erigit | The prop raises the weak vine
+# skip: pedatus2 is attested only in the ablative (pedato, pedatu)
+pedes | Pedes cum signifero in agmine procedit | The foot-soldier marches in the column with the standard-bearer
+pedica | Pedica avem in silva capit | The snare catches the bird in the forest
+pediculus1 | Pediculus pomum ad ramum tenet | The stalk holds the apple to the branch
+pediculus2 | Pediculus in veste mendici repit | The louse crawls on the beggar's garment
+pedis | Pedis in pelle canis latet | The louse hides in the dog's coat
+pedum1 | Pedum pastoris agnum e fossa extrahit | The shepherd's crook pulls the lamb out of the ditch
+pegma | Pegma actorem in theatro tollit | The stage lift raises the actor in the theatre
+pejero | Coram judice pejero | I perjure myself before the judge
+pelagus | Pelagus procul a litore patet | The sea stretches far from the shore
+pelicatus | Pelicatus regis uxorem contristat | The concubinage saddens the king's wife
+pellacia | Pellacia divitiarum juvenem ad urbem trahit | The allurement of riches draws the youth to the city
+pellicio | Cervum sale pellicio | I entice the deer with salt
+pellicula | Pellicula sellam tegit | The little hide covers the chair
+pellis | Pellis ursi ante focum jacet | The bear's hide lies before the hearth
+pello | Pecus ex agro pello | I drive the herd out of the field
+pelvis | Pelvis aquam calidam continet | The basin holds hot water
+# third: pendeo "I hang" is unnatural; fruit is the natural subject
+pendeo | Pomum ex arbore pendet | The fruit hangs from the tree
+pendo | Aurum pendo | I weigh the gold
+penetro | In silvam densam penetro | I penetrate into the dense forest
+penicillum | Penicillum pictoris colore rubro madet | The painter's paintbrush is wet with red paint
+peniculus | Peniculus mensam purgat | The brush cleans the table
+penis | Penis equi muscas abigit | The horse's tail drives away the flies
+penna | Penna in aere lente cadit | The feather falls slowly through the air
+pensiculo | Rem difficilem pensiculo | I ponder the difficult matter
+pensio | Pensio dominum laetum facit | The payment makes the master glad
+pensitatio | Pensitatio tributi cives gravat | The payment of the tax burdens the citizens
+pensito | Verba senis pensito | I ponder the old man's words
+penso | Mercem statera penso | I weigh the goods on the balance
+pentathlos | Pentathlos in stadio currit | The pentathlete runs in the stadium
+penuria | Penuria aquae ad puteos cives cogit | The scarcity of water drives the citizens to the wells
+penus | Penus familiam per hiemem alit | The provisions feed the family through the winter
+peplum | Peplum viride in sole siccatur | The green robe dries in the sun
+# third: peracesco "I turn sour" is unnatural; wine is the natural subject
+peracesco | Vinum in sole peracescit | The wine turns sour in the sun
+peraequo | Onera inter servos peraequo | I equalise the loads among the slaves
+# third: peragito a violent verb; keeps to a military frame
+peragito | Hostis exercitum peragitat | The enemy harasses the army
+perago | Iter perago | I complete the journey
+peragro | Italiam peragro | I traverse Italy
+perambulo | Urbem perambulo | I walk through the city
+peraro | Agrum peraro | I plough through the field
+perbibo | Verba poetae perbibo | I drink in the poet's words
+# skip: perbito is attested only in forms like perbitat and perbiteres, not a first person
+percalefacio | Aquam in olla percalefacio | I heat the water thoroughly in the pot
+percallesco | Labore diuturno percallesco | I become hardened by long toil
+percelebro | Carmen novum percelebro | I make the new song widely known
+# third: percello a violent verb; keeps to a military frame
+percello | Dux aciem hostium percellit | The general overturns the enemy line
+percenseo | Nomina discipulorum percenseo | I count off the names of the pupils
+perceptio | Perceptio acuta nautam in tempestate servat | Sharp perception saves the sailor in the storm
+# third: percido a violent verb; keeps to a military frame
+percido | Exercitus castra hostium percidit | The army smashes the enemy camp
+percieo | Populum cantu percieo | I excite the people with a song
+percipio | Sonum procul percipio | I perceive a sound far away
+percognosco | Viam percognosco | I get to know the road thoroughly
+percolo1 | Vinum linteo percolo | I filter the wine through a cloth
+percolo2 | Vineam diligenter percolo | I cultivate the vineyard carefully
+percontatio | Percontatio judicis testem sollicitat | The judge's inquiry worries the witness
+perconto | Mercatorem de pretio perconto | I question the merchant about the price
+percontor | Hospitem de itinere percontor | I inquire of the guest about the journey
+percoquo | Carnem diu percoquo | I cook the meat thoroughly
+# third: percrebesco "I spread widely" is unnatural; a rumour is the natural subject
+percrebesco | Rumor per urbem percrebescit | The rumour spreads widely through the city
+percuro | Aegrum herbis percuro | I heal the sick man completely with herbs
+percurro | Pontem celeriter percurro | I run across the bridge quickly
+percursio | Percursio epistulae tempus servat | The quick review of the letter saves time
+percussio | Percussio chordae sonum clarum facit | The striking of the string makes a clear sound
+percussor | Percussor a consule quaeritur | The assassin is sought by the consul
+percussus2 | Percussus remorum nautas ad portum ducit | The striking of the oars leads the sailors to the harbour
+# third: percutio a violent verb; keeps to a military frame
+percutio | Hostis portam urbis percutit | The enemy strikes the city gate
+perdisco | Lectionem perdisco | I learn the lesson thoroughly
+# third: perdo "I destroy" is unnatural; hail is the natural subject
+perdo | Grando segetem perdit | The hail destroys the crop
+perdoceo | Puerum musicam perdoceo | I teach the boy music thoroughly
+perdomo | Montanos perdomo | I subdue the mountain tribes completely
+perduco | Amicum per hortum perduco | I lead my friend through the garden
+perductor | Perductor viatores per silvam tutos servat | The guide keeps the travellers safe through the forest
+perduellio | Perduellio civitatem anxiam facit | The treason makes the community anxious
+perduellis | Perduellis ad fines nostros appropinquat | The enemy approaches our borders
+perduro | In obsidione perduro | I hold out in the siege
+peredo1 | Totum panem peredo | I consume the whole loaf
+peregrinatio | Peregrinatio per Graeciam adulescentem docet | The travel through Greece teaches the youth
+peregrinitas | Peregrinitas mercatorem a magistratu excludit | The alien status bars the merchant from office
+peregrinor | Per Aegyptum peregrinor | I travel abroad through Egypt
+peremptor | Peremptor tyranni a populo laudatur | The people praise the slayer of the tyrant
+perennitas | Perennitas fontis pagum per aestatem servat | The perpetuity of the spring saves the village through the summer
+# third: perenno "I endure" is unnatural; fame is the natural subject
+perenno | Fama poetae perennat | The poet's fame endures
+# third: pereo "I perish" is grim; a flower is the natural subject
+pereo | Flos sine aqua perit | The flower perishes without water
+perequito | Per campum perequito | I ride about the plain
+pererro | Silvas pererro | I wander through the woods
+perfectio | Perfectio statuae sculptoris nomen celebrat | The perfection of the statue makes the sculptor's name famous
+perfero | Epistulam ad urbem perfero | I carry the letter through to the city
+perficio | Domum perficio | I complete the house
+perfidia | Perfidia legati exercitum decipit | The envoy's treachery deceives the army
+perflatus | Perflatus lenis vela inflat | The gentle breeze fills the sails
+# third: perflo "I blow through" is unnatural; the wind is the natural subject
+perflo | Ventus per valles perflat | The wind blows through the valleys
+# third: perfluo "I flow through" is unnatural; a stream is the natural subject
+perfluo | Rivus per hortum perfluit | The stream flows through the garden
+perfodio | Collem perfodio | I dig through the hill
+perforo | Tabulam terebra perforo | I perforate the board with a drill
+perfrico | Manus ante ignem perfrico | I rub my hands before the fire
+perfrigesco | In imbre perfrigesco | I catch cold in the rain
+perfringo | Vas vitreum perfringo | I shatter the glass vessel
+perfruor | Otio perfruor | I enjoy my leisure fully
+perfuga | Perfuga ad hostes transit | The deserter crosses over to the enemy
+perfugio | In templum perfugio | I take refuge in the temple
+perfugium | Perfugium in monte pastores exspectat | The refuge on the mountain awaits the shepherds
+# third: perfundo "I drench" is unnatural; rain is the natural agent
+perfundo | Imber viatorem perfundit | The rain drenches the traveller

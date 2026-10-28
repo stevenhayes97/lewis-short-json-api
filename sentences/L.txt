@@ -1,0 +1,355 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/L.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+labarum | Labarum in acie fulget | The labarum gleams in the battle line
+labasco | In glacie labasco | I totter on the ice
+labefacio | Palum in terra labefacio | I shake the post in the ground
+labefacto | Mensam labefacto | I shake the table
+labellum1 | Labellum meum frigore rubet | My lip is red from the cold
+labes1 | Labes terrae viam claudit | The fall of earth blocks the road
+labes2 | Labes in toga candida apparet | The stain shows on the white toga
+labia | Labia mea sole arescit | My lip dries out in the sun
+# third: labo "I totter" suits a building, not a person
+labo | Turris vetus labat | The old tower totters
+labor1 | Per aquam placidam labor | I glide over the calm water
+labor2 | Labor diurnus agricolam fatigat | The daily labour tires the farmer
+laboro | In vinea laboro | I labour in the vineyard
+labrum1 | Labrum inferius tremit | The lower lip trembles
+labrum2 | Labrum in balneo aquam tepidam continet | The basin in the bath holds warm water
+labrusca | Labrusca per sepem serpit | The wild vine creeps along the hedge
+labyrinthus | Labyrinthus in Creta exitum celat | The labyrinth in Crete hides the way out
+lac | Lac recens aegrotum reficit | Fresh milk revives the sick man
+laceratio | Laceratio tunicae viatorem tristem facit | The tearing of the tunic makes the traveller sad
+lacerna1 | Lacerna nova senem a frigore defendit | The new cloak protects the old man from the cold
+# third: lacero "I mangle" is violent; a generic military figure acts instead
+lacero | Hostis aciem nostram lacerat | The enemy mangles our battle line
+lacerta | Lacerta in saxo sub sole dormit | The lizard sleeps on the rock in the sun
+lacertus1 | Lacertus fortis remum trahit | The strong arm pulls the oar
+lacesso | Taurum lacesso | I provoke the bull
+lacinia | Lacinia stolae in aqua madet | The hem of the gown is wet in the water
+lacrima | Lacrima per genam defluit | A tear runs down the cheek
+lacrimo | Gaudio lacrimo | I weep for joy
+lacrimula | Lacrimula in epistula maculam facit | The teardrop makes a spot on the letter
+# skip: lacteo used almost only as the participle lactens, so there is no attested finite headword form for the suckling sense
+lactes | Lactes ovis longae sunt | The sheep's intestines are long
+# third: lactesco "I lactate" is absurd for a learner; a she-ass does it
+lactesco | Asina in stabulo lactescit | The she-ass lactates in the stable
+# third: lacto1 "I suckle" suits an animal, not a learner
+lacto1 | Lupa catulos lactat | The she-wolf suckles her cubs
+lacto2 | Dictis lenibus vicinum lacto | I cajole my neighbour with gentle words
+lacuna | Lacuna in via aquam retinet | The hollow in the road holds water
+lacunar | Lacunar pictum atrium ornat | The painted panelled ceiling adorns the hall
+lacus | Lacus piscibus abundat | The lake teems with fish
+laedo | Pedem ad lapidem laedo | I hurt my foot against a stone
+laena | Laena lanea pastorem calefacit | The woollen cloak warms the shepherd
+laesio | Laesio pedis athletam ludis prohibet | The injury to his foot keeps the athlete from the games
+laetifico | Matrem donis laetifico | I gladden my mother with gifts
+laetitia | Laetitia nuptias sequitur | Joy follows the wedding
+laeto | Nuntio bono familiam laeto | I gladden the household with good news
+laetor | Pace laetor | I rejoice in the peace
+laetus2 | Laetus agrum domini colit | The serf tills his master's field
+lagena | Lagena vinum vetus continet | The flask holds old wine
+lama | Lama viatores tardat | The bog slows the travellers
+lambo | Mel de digito lambo | I lick honey from my finger
+lamentatio | Lamentatio mulierum domum implet | The women's lamentation fills the house
+lamentor | Fortunam meam lamentor | I lament my fortune
+lamentum | Lamentum viduae vicinos movet | The widow's lamentation moves the neighbours
+lamia1 | Lamia in fabula carmen magicum cantat | The witch in the story sings a magic song
+lampas | Lampas viam obscuram monstrat | The torch shows the dark road
+lana | Lana mollis tunicam calidam praebet | Soft wool provides a warm tunic
+lancea | Lancea equitis in sole micat | The horseman's lance glitters in the sun
+# third: lancino "I mangle" is violent; a generic military figure acts instead
+lancino | Dux agmen hostium lancinat | The general mangles the enemy column
+langueo | Aestu langueo | I languish in the heat
+languesco | Post longum iter languesco | I weaken after the long journey
+languor | Languor aegrotum in lecto tenet | Languor keeps the sick man in bed
+laniatus | Laniatus agminis ducem sollicitat | The mangling of the column worries the general
+lanificium | Lanificium matronam per diem occupat | Wool-working occupies the matron all day
+# third: lanio1 "I mangle" is violent; a generic military figure acts instead
+lanio1 | Legio cohortem hostium laniat | The legion mangles the enemy cohort
+lanista | Lanista novos tirones in ludo exercet | The gladiator-trainer drills the new recruits in the school
+lanius | Lanius carnem in taberna vendit | The butcher sells meat in the shop
+lanugo | Lanugo mollis persicum tegit | The soft down covers the peach
+lanx | Lanx argentea poma convivis offert | The silver platter offers apples to the guests
+lapathum | Lapathum in prato humido crescit | Sorrel grows in the wet meadow
+lapicidinae | Lapicidinae marmor templo praebent | The quarries supply marble for the temple
+lapidatio | Lapidatio populum terret | Stoning frightens the people
+# third: lapido "I stone" is violent; a generic military figure acts instead
+lapido | Exercitus murum lapidat | The army pelts the wall with stones
+lapillus | Lapillus in calceo ambulantem vexat | The pebble in the shoe annoys the walker
+# third: lapio "I petrify" is odd; the entry attests lapit (lapit cor cura)
+lapio | Dolor cor lapit | Grief petrifies the heart
+lapis | Lapis in via jacet | The stone lies in the road
+# skip: lapso is attested only as participles (lapsantem, lapsantes), so there is no attested finite headword form
+lapsus2 | Lapsus rupis iter montanum impedit | The fall of the rock obstructs the mountain path
+laquear | Laquear caelatum cenationem splendidam facit | The carved panelled ceiling makes the dining-room splendid
+laqueo1 | Aves reti laqueo | I ensnare birds with a net
+# skip: laqueo2 is attested only as the participle laqueatus (panelled), so there is no attested finite headword form
+laqueus | Laqueus leporem in silva capit | The noose catches a hare in the wood
+largior | Fratri munera largior | I lavish gifts on my brother
+largitio | Largitio consulis plebem laetam facit | The consul's largesse makes the common people happy
+largitor2 | Largitor pauperibus frumentum dat | The benefactor gives grain to the poor
+laridum | Laridum in sartagine liquescit | The lard melts in the frying-pan
+larva | Larva noctu in domo vetere vagatur | The ghost wanders at night in the old house
+# skip: larvo is attested only as the participle larvatus and a passive infinitive, so there is no attested active headword form
+lascivia | Lascivia agnorum pastorem oblectat | The playfulness of the lambs amuses the shepherd
+lascivio | Cum canibus in agro lascivio | I frolic with the dogs in the field
+laser | Laser odorem acrem habet | Asafoetida has a sharp smell
+lassesco | Post cursum lassesco | I grow tired after the run
+lassitudo | Lassitudo militem sub arbore sedere cogit | Weariness makes the soldier sit under the tree
+lasso | Comitem longo itinere lasso | I tire my companion with a long walk
+latebra | Latebra in rupe lupum tegit | The hideout in the rock shelters the wolf
+lateo | Post columnam lateo | I lurk behind the column
+later | Later ruber in sole durescit | The red brick hardens in the sun
+laterculus | Laterculus e tecto cadit | The tile falls from the roof
+latex | Latex clarus e fonte fluit | The clear liquid flows from the spring
+latibulum | Latibulum vulpis nivem arcet | The fox's den keeps out the snow
+latinitas | Latinitas Ciceronis discipulis placet | The Latinity of Cicero pleases the pupils
+latio | Latio tribuni plebem excitat | The tribune's proposal rouses the common people
+latito | In cella latito | I hide in the storeroom
+latitudo | Latitudo fluminis pontem longum postulat | The breadth of the river demands a long bridge
+lator | Lator legis cum consule loquitur | The proposer of the law talks with the consul
+latratus | Latratus acer pastorem excitat | The sharp barking wakes the shepherd
+# third: latro1 "I bark" is only for a dog
+latro1 | Canis ad portam latrat | The dog barks at the gate
+latro2 | Latro in carcere sedet | The robber sits in prison
+latrocinium | Latrocinium civitatem sollicitat | Robbery worries the city
+# third: latrocinor "I rob" is not a sentence a learner needs; a pirate does it
+latrocinor | Pirata in mari latrocinatur | The pirate robs at sea
+latrunculus | Latrunculus in spelunca vivit | The brigand lives in a cave
+laudatio | Laudatio magistri discipulum laetum facit | The teacher's praise makes the pupil glad
+laudator | Laudator regis versus novos recitat | The praiser of the king recites new verses
+laudo | Filiam diligentem laudo | I praise my diligent daughter
+laurus | Laurus ante templum viret | The laurel is green in front of the temple
+laus1 | Laus ducis exercitum incitat | The general's praise spurs on the army
+lautia | Lautia legatos peregrinos honorant | The state hospitality honours the foreign envoys
+lautitia | Lautitia convivii hospites stupefacit | The splendour of the banquet amazes the guests
+lautumiae | Lautumiae saxa ad novos muros praebent | The quarries supply rocks for the new walls
+lavatio | Lavatio ante cenam corpus reficit | Bathing before dinner refreshes the body
+lavo | Manus in fonte lavo | I wash my hands at the fountain
+laxamentum | Laxamentum viae carrum transire sinit | The widening of the road lets the cart pass
+laxitas | Laxitas domus hospites omnes capit | The roominess of the house takes in all the guests
+laxo | Fenestram parvam laxo | I widen the small window
+lebes | Lebes super igne pendet | The cauldron hangs over the fire
+lectica | Lectica purpurea per vicum procedit | The purple litter moves along the street
+lecticarius | Lecticarius dominum ad thermas portat | The litter-bearer carries his master to the baths
+lecticula | Lecticula aegrotum ad fontem fert | The litter takes the sick man to the spring
+lectio | Lectio epistulae consulem sollicitat | The reading of the letter worries the consul
+lectisternium | Lectisternium cives ad templum vocat | The banquet for the gods calls the citizens to the temple
+lectito | Libros veteres lectito | I peruse old books
+lector | Lector fabulam novam avide petit | The reader eagerly seeks a new story
+lectulus | Lectulus in angulo cubiculi stat | The couch stands in the corner of the bedroom
+lectus2 | Lectus mollis viatorem fessum invitat | The soft bed invites the weary traveller
+legatio | Legatio Romana Athenas proficiscitur | The Roman embassy sets out for Athens
+legio | Legio trans flumen castra ponit | The legion pitches camp across the river
+lego1 | Filium ad regem lego | I send my son as an envoy to the king
+lego2 | Epistulam matris lego | I read my mother's letter
+legulus | Legulus oleas de terra tollit | The gatherer picks olives off the ground
+legumen | Legumen agricolae cibum solidum praebet | Pulse provides sturdy food for the farmer
+lembus | Lembus celer per fluctus currit | The swift skiff runs through the waves
+lemma | Lemma carminis poetam inspirat | The theme of the poem inspires the poet
+lemniscus | Lemniscus coronam victoris ornat | The ribbon decorates the victor's crown
+lena | Lena in comoedia pecuniam poscit | The procuress in the comedy demands money
+lenio | Equum trepidum voce lenio | I soothe the nervous horse with my voice
+lenitas | Lenitas medici aegrotum timidum confirmat | The doctor's gentleness encourages the timid sick man
+lenitudo | Lenitudo vocis auditores mulcet | The gentleness of the voice soothes the listeners
+# skip: leno1 is attested only as a gerund (lenandi) and a participle (lenatae), so there is no attested finite headword form
+leno2 | Leno pecuniam avide numerat | The pimp counts the money greedily
+lenocinium | Lenocinium urbis mores corrumpit | Pandering corrupts the city's morals
+lenocinor | Patrono diviti lenocinor | I flatter the rich patron
+lens2 | Lens inter fabas in sacco latet | The lentil hides among the beans in the sack
+# third: lentesco "I soften" is odd for a person; wax does it
+lentesco | Cera ad ignem lentescit | The wax softens by the fire
+lenticula | Lenticula in aqua tumescit | The lentil swells in the water
+lentigo | Lentigo in manu senis apparet | A spot appears on the old man's hand
+lentiscus | Lentiscus in colle saxoso crescit | The mastic-tree grows on the rocky hill
+lentitudo | Lentitudo mulae iter longum facit | The mule's sluggishness makes the journey long
+lento1 | Virgam salignam lento | I bend the willow twig
+lentor | Lentor picis manum meam tenet | The stickiness of the pitch grips my hand
+leo2 | Leo in cavea rugit | The lion roars in the cage
+lepista | Lepista aurea inter pocula splendet | The golden goblet shines among the cups
+lepor | Lepor hospitae viatores allicit | The hostess's charm attracts the travellers
+lepra | Lepra pagum perturbat | Leprosy disturbs the village
+lepus | Lepus per segetem fugit | The hare flees through the cornfield
+letum | Letum regis populum contristat | The king's death saddens the people
+leucanthemon | Leucanthemon juxta viam floret | Chamomile blooms beside the road
+levamen | Levamen post tempestatem nautas gaudio implet | Relief after the storm fills the sailors with joy
+levamentum | Levamentum doloris aegrotum consolatur | Relief from pain comforts the sick man
+levatio | Levatio ponderis nautas exercet | The lifting of the weight exercises the sailors
+levigo1 | Tabulam pumice levigo | I smooth the board with pumice
+levir | Levir ad cenam venit | The husband's brother comes to dinner
+levitas1 | Levitas pennae eam in aura tenet | The lightness of the feather keeps it in the air
+levitas2 | Levitas marmoris sculptori placet | The smoothness of the marble pleases the sculptor
+levo1 | Saxum ingens levo | I lift the huge rock
+levo2 | Mensam asperam levo | I smooth the rough table
+lex | Lex nova mercatores gravat | The new law burdens the merchants
+libamen | Libamen aram rigat | The libation moistens the altar
+libamentum | Libamentum matutinum sacerdotem occupat | The morning libation occupies the priest
+libella | Libella in crumena sonat | The farthing rings in the purse
+libellus | Libellus versus breves continet | The booklet contains short verses
+libentia | Libentia puellam saltare facit | Delight makes the girl dance
+# skip: liber2 means children and is used almost only in the plural liberi (the singular is post-classical and rare), so the headword form liber would be misread as the book or the adjective
+liber4 | Liber a trunco pendet | The bark hangs from the trunk
+liberalitas | Liberalitas divitis pauperes alit | The rich man's generosity feeds the poor
+liberatio | Liberatio captivorum uxores exspectantes consolatur | The release of the captives comforts the waiting wives
+liberator | Liberator patriae honores accipit | The liberator of the country receives honours
+libero | Servum libero | I free the slave
+libertas | Libertas civibus carissima est | Freedom is dearest to the citizens
+libido | Libido gloriae ducem accendit | The desire for glory fires the general
+libo1 | Vinum novum libo | I taste the new wine
+libra | Libra casei viatorem satiat | A pound of cheese satisfies the traveller
+libramentum | Libramentum plumbi lineam tendit | The weight of lead stretches the line
+librator | Librator aquaeductum metitur | The surveyor measures the aqueduct
+libripens | Libripens cohorti stipendium distribuit | The paymaster distributes the wages to the cohort
+libro | Baculum in digito libro | I balance the stick on my finger
+libum | Libum melle dulce est | The cake is sweet with honey
+licentia | Licentia poetis multa permittit | Freedom allows poets many things
+# skip: liceo1 has no usable present form, since its third person singular licet is identical to the impersonal licet (it is allowed) and the first person is absurd
+liceor | In auctione digito liceor | I bid with my finger at the auction
+lichen | Lichen in cortice arboris crescit | Lichen grows on the bark of the tree
+licitatio | Licitatio mercatoris pretium auget | The merchant's bid raises the price
+licitor | Pro equo licitor | I bid for the horse
+licium | Licium rubrum a tela pendet | The red thread hangs from the loom
+lictor | Lictor fasces ante consulem portat | The lictor carries the fasces before the consul
+lien | Lien aegroti tumet | The sick man's spleen is swollen
+ligatura | Ligatura libri paginas tenet | The binding of the book holds the pages
+lignatio | Lignatio ante hiemem rusticis necessaria est | Wood-gathering before winter is necessary for the countrymen
+lignor | Ad flumen lignor | I gather wood by the river
+lignum | Lignum siccum bene ardet | Dry wood burns well
+ligo1 | Fasciculum funiculo ligo | I bind the bundle with a cord
+ligo2 | Ligo terram duram aperit | The hoe breaks open the hard earth
+ligula | Ligula mea cibum acrem sentit | My tongue feels the sharp food
+ligurio | Patinam ligurio | I lick the plate
+ligustrum | Ligustrum sepem densam facit | Privet makes a thick hedge
+lilium | Lilium candidum odorem suavem fundit | The white lily gives off a sweet scent
+lima | Lima ferrum asperum radit | The file scrapes the rough iron
+limax | Limax in folio lente repit | The slug creeps slowly on the leaf
+limbus | Limbus purpureus vestem senatoris distinguit | The purple hem marks out the senator's garment
+limen | Limen marmoreum ante aedes nitet | The marble threshold gleams in front of the house
+limes | Limes duos pagos dividit | The boundary divides two villages
+limito | Agrum fossa limito | I bound the field with a ditch
+limo2 | Clavum aeneum limo | I file the bronze nail
+limus2 | Limus viam lubricam facit | The mud makes the road slippery
+limus3 | Limus sacerdotis vestem tegit | The priest's apron covers his robe
+linamentum | Linamentum ex Aegypto venit | The linen comes from Egypt
+linea | Linea recta duo puncta jungit | The straight line joins two points
+lineamentum | Lineamentum tenue in pariete apparet | A fine line appears on the wall
+lineo | Trabem regula lineo | I straighten the beam with a straightedge
+# third: lingo "I lick" is for an animal licking salt
+lingo | Vitulus salem lingit | The calf licks the salt
+lingua | Lingua felis aspera est | The cat's tongue is rough
+lino | Parietem calce lino | I smear the wall with lime
+linquo | Villam linquo | I leave the farmhouse
+linter | Linter uvas excipit | The tub receives the grapes
+linteum | Linteum album mensam tegit | The white cloth covers the table
+linum | Linum caeruleum campum colorat | Blue flax colours the field
+lippio | Post noctem sine somno lippio | I am bleary-eyed after a sleepless night
+lippitudo | Lippitudo magistrum a libris prohibet | Bleariness keeps the teacher from his books
+liquefacio | Nivem in olla liquefacio | I melt the snow in a pot
+# third: liqueo "I am liquid" is for a substance
+liqueo | Mel aestate liquet | The honey is liquid in summer
+# third: liquesco "I melt" is for a thing, not a person
+liquesco | Glacies in sole liquescit | The ice melts in the sun
+liquo | Ceram in olla liquo | I melt the wax in a pot
+# third: liquor1 "I flow" is for water
+liquor1 | Rivus per prata liquitur | The stream flows through the meadows
+liquor2 | Liquor aquae piscem leviter vehit | The fluidity of water carries the fish lightly
+lira | Lira in agro aquam a segete arcet | The ridge in the field keeps water from the crop
+liro | Semina mane liro | I plough in the seeds in the morning
+lis | Lis inter vicinos pacem turbat | The dispute between the neighbours disturbs the peace
+litigator | Litigator ante judicem stat | The disputant stands before the judge
+litigium | Litigium sororem meam contristat | The quarrel saddens my sister
+litigo | Cum fratre de pomis litigo | I quarrel with my brother about apples
+lito | Jovi agno lito | I propitiate Jupiter with a lamb
+littera | Littera aurea in charta splendet | The golden letter gleams on the paper
+litterator | Litterator pueros legere docet | The schoolteacher teaches the boys to read
+litteratura | Litteratura longa puerum fatigat | Long writing tires the boy
+litterula | Litterula in margine libri latet | The little letter lies hidden in the margin of the book
+litura | Litura in tabula verbum tegit | The erasure on the tablet covers the word
+litus3 | Litus longum ante villam patet | The long shore stretches out in front of the villa
+lituus | Lituus curvus in aede pendet | The curved staff hangs in the shrine
+liveo | Frigore liveo | I am blue with cold
+livor | Livor in bracchio nautae apparet | A bruise appears on the sailor's arm
+lixa | Lixa panem militibus vendit | The sutler sells bread to the soldiers
+locatio | Locatio mensarum hospites juvat | The placement of the tables helps the guests
+locator | Locator domum inquilino ostendit | The lessor shows the house to the tenant
+loco | Vas in mensa loco | I place the vase on the table
+loculamentum | Loculamentum ligneum gemmas continet | The wooden case holds the jewels
+loculus | Loculus vacuus viatorem sollicitat | The empty purse worries the traveller
+locupleto | Amicum pauperem donis locupleto | I enrich my poor friend with gifts
+locusta1 | Locusta sub saxo latet | The lobster hides under the rock
+locutio | Locutio clara consulis populum quietat | The clear speech of the consul calms the people
+logos | Logos in titulo libri legitur | The word is read in the title of the book
+lomentum | Lomentum faciem matronae nitidam reddit | The cosmetic makes the matron's face glow
+longinquitas | Longinquitas itineris peregrinum terret | The length of the journey frightens the stranger
+longitudo | Longitudo tabulae fabrum vexat | The length of the plank annoys the carpenter
+loquacitas | Loquacitas vicinae maritum fatigat | The neighbour's talkativeness tires her husband
+loquela | Loquela peregrini ostiarium confundit | The foreigner's speech confuses the doorkeeper
+loquentia | Loquentia legati senatores permovet | The envoy's fluency stirs the senators
+loquor | Cum avo loquor | I speak with my grandfather
+lora1 | Lora rusticos post laborem reficit | The weak wine refreshes the farm workers after their labour
+lorarius | Lorarius equo frenum novum facit | The harness-maker makes a new bridle for the horse
+lorica | Lorica ducis in sole fulget | The general's cuirass gleams in the sun
+lorico | Equitem lorico | I clothe the horseman in mail
+lorum | Lorum ruptum equitem tardat | The broken thong delays the rider
+lotos | Lotos in stagno floret | The lotus blooms in the pond
+lubrico | Axem plaustri oleo lubrico | I lubricate the axle of the cart with oil
+lucar | Lucar histriones alit | The forest-tax supports the actors
+# third: luceo "I shine" is for a star or the sun
+luceo | Stella super montem lucet | The star shines above the mountain
+lucerna | Lucerna in cubiculo tremit | The lamp flickers in the bedroom
+lucrifacio | Mille sestertios lucrifacio | I make a profit of a thousand sesterces
+lucror | Aurum in mercatu lucror | I gain gold at the market
+lucrum | Lucrum parvum pistorem non satiat | Small profit does not satisfy the baker
+luctamen | Luctamen cum nive viatores tardat | The struggle with the snow delays the travellers
+luctatio | Luctatio in palaestra juvenes exercet | Wrestling exercises the youths in the gymnasium
+luctator | Luctator validus cibum multum poscit | The strong wrestler demands plenty of food
+luctor | Cum fratre in harena luctor | I wrestle with my brother on the sand
+luctus | Luctus viduam silentem tenet | Grief keeps the widow silent
+lucubratio | Lucubratio scriptorem pallidum facit | Night-work makes the writer pale
+lucubro | Noctu lucubro | I work by night
+lucumo | Lucumo ex Etruria Romam venit | The prince comes from Etruria to Rome
+lucus1 | Lucus antiquus umbram frigidam praebet | The ancient grove gives cool shade
+ludibrium | Ludibrium vicinorum mercatorem offendit | The neighbours' mockery offends the merchant
+ludifico | Fratrem meum ludifico | I mock my brother
+ludificor | Vicinum superbum ludificor | I mock my proud neighbour
+ludius1 | Ludius in scaena saltat | The actor dances on the stage
+ludo | Cum sorore pila ludo | I play ball with my sister
+lues1 | Lues cives in rura fugat | The plague drives the citizens to the countryside
+lugeo | Amicum defunctum lugeo | I mourn my dead friend
+lumbricus | Lumbricus per terram humidam repit | The worm creeps through the damp earth
+lumbus | Lumbus vituli in culina pendet | The calf's loin hangs in the kitchen
+lumen | Lumen e fenestra cubiculum implet | The light from the window fills the bedroom
+luminare | Luminare magnum caelum ornat | The great luminary adorns the sky
+lumino | Viam facibus lumino | I light up the road with torches
+luna1 | Luna plena viam viatori monstrat | The full moon shows the traveller the road
+luno | Lamellam aeneam luno | I curve the bronze strip
+lunula | Lunula aurea in collo matronae micat | The golden crescent-ornament sparkles on the matron's neck
+luo2 | Aes alienum luo | I pay off my debt
+lupa | Lupa in silva catulos alit | The she-wolf feeds her cubs in the wood
+lupanar | Lupanar in vico angusto stat | The brothel stands in the narrow street
+lupinus2 | Lupinus in solo arido crescit | The lupine grows in dry soil
+lupus1 | Lupus in monte ululat | The wolf howls on the mountain
+lura | Lura sacculum claudit | The thong closes the little bag
+lurco2 | Lurco ad mensam omnia devorat | The glutton devours everything at the table
+lusciniola | Lusciniola in ramo cantat | The nightingale sings on the branch
+lusor | Lusor pilam celeriter capit | The player catches the ball quickly
+lustratio | Lustratio pagi rusticos ad aram convocat | The purification of the village calls the countrymen together to the altar
+lustro1 | Agrum cum sacerdote lustro | I purify the field with the priest
+lustrum1 | Lustrum in valle ranis plenum est | The bog in the valley is full of frogs
+lustrum2 | Lustrum quinque annos habet | A lustrum has five years
+lusus2 | Lusus in prato pueros laetos facit | Play in the meadow makes the boys cheerful
+luto1 | Murum argilla luto | I bedaub the wall with clay
+lutum1 | Lutum in colle aprico crescit | Dyer's-weed grows on the sunny hill
+lutum2 | Lutum in via plaustrum retinet | The mud on the road holds back the cart
+lux | Lux matutina montes aureos facit | The morning light makes the mountains golden
+# third: luxo an injury, kept to sport and out of the first person
+luxo | Luctator humerum in palaestra luxat | The wrestler dislocates his shoulder in the wrestling school
+luxuria | Luxuria vitis pergulam obtegit | The luxuriance of the vine covers the arbour
+# third: luxurio "I flourish" is for a plant
+luxurio | Seges in agro luxuriat | The crop flourishes in the field
+lychnis | Lychnis inter herbas apparet | The campion appears among the grass
+lympha | Lympha frigida e fonte manat | The cold water pours from the spring
+lympho | Vinum aqua lympho | I dilute the wine with water
+lyncurion | Lyncurion in anulo mercatoris nitet | The lyncurium gleams in the merchant's ring
+lynx | Lynx in silva silenter ambulat | The lynx walks silently in the wood
+lyra | Lyra dulciter sub arbore sonat | The lyre sounds sweetly under the tree

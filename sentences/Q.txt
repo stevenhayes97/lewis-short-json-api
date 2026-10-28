@@ -1,0 +1,43 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/Q.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+quadra1 | Quadra panem et caseum sustinet | The table holds bread and cheese
+quadrans | Quadrans pauperem in balneum admittit | The quarter-as admits the poor man to the baths
+quadriduum | Quadriduum itineris legatos fatigat | The four days of travel tire the envoys
+quadrigae | Quadrigae in circo currunt | The four-horse teams run in the circus
+quadripartio | Agrum quadripartio | I quarter the field
+quadrivium | Quadrivium viatores confundit | The crossroads confuses the travellers
+quadro | Lapides quadro | I square the stones
+quadrum | Quadrum marmoreum pavimentum ornat | The marble square adorns the floor
+quadruplator2 | Quadruplator senatorem timidum facit | The informer makes the senator afraid
+quadruplico | Numerum militum quadruplico | I quadruple the number of soldiers
+quaerito | Viam ad urbem quaerito | I keep seeking the way to the city
+quaero | Clavem in sacculo quaero | I seek the key in my purse
+quaesitio | Quaesitio thesauri nautas in insulam ducit | The search for the treasure leads the sailors to the island
+quaesitor | Quaesitor testes in curia interrogat | The investigator questions the witnesses in the court
+quaeso | Veniam a magistro quaeso | I beg pardon of the teacher
+quaestio | Quaestio difficilis discipulos tacitos facit | The difficult question makes the pupils silent
+quaestor | Quaestor pecuniam publicam custodit | The quaestor guards the public money
+quaestura | Quaestura juvenem ad senatum ducit | The quaestorship leads the young man to the senate
+quaestus | Quaestus mercatorem ad Asiam vocat | Gain calls the merchant to Asia
+qualitas | Qualitas lanae pretium auget | The quality of the wool raises the price
+qualum | Qualum ficos continet | The basket holds figs
+quantitas | Quantitas frumenti navem onerat | The quantity of grain loads the ship
+quartarius | Quartarius aquae mihi sufficit | A quarter-measure of water is enough for me
+quasillum | Quasillum fusos et fila habet | The basket has spindles and threads
+quasso | Arborem quasso | I shake the tree
+quatio | Caput quatio | I shake my head
+quattuorviri | Quattuorviri vias oppidi curant | The four-man board looks after the town's roads
+queo | Ad urbem ire queo | I can go to the city
+quercus | Quercus ventis resistit | The oak withstands the winds
+querela | Querela agricolae magistratum exspectat | The farmer's complaint awaits the magistrate
+querimonia | Querimonia colonorum dominum tristem facit | The tenants' complaint saddens the landlord
+queror | De frigore queror | I complain about the cold
+questus2 | Questus lusciniae noctem implet | The nightingale's lament fills the night
+quies1 | Quies post iter viatorem restituit | Rest after the journey restores the traveller
+quiesco | Sub platano quiesco | I rest under the plane tree
+quincunx | Quincunx hereditatis sororem ditat | Five-twelfths of the inheritance enriches the sister
+quindecimvir | Quindecimvir libros Sibyllinos servat | The quindecimvir guards the Sibylline Books
+quinquertium | Quinquertium athletam fortem postulat | The pentathlon demands a strong athlete
+quinquevir | Quinquevir muros urbis inspicit | The quinquevir inspects the walls of the city
+quirito | Prae tristitia quirito | I wail from sadness
+quisquiliae | Quisquiliae viam post tempestatem implent | The rubbish fills the road after the storm

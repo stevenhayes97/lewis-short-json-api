@@ -1,0 +1,65 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/J.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+jaceo | In herba sub arbore jaceo | I lie in the grass under the tree
+jacio | Lapidem in flumen jacio | I throw a stone into the river
+jactantia | Jactantia consulis senatores offendit | The consul's boasting offends the senators
+jactatio | Jactatio navis viatores terret | The tossing of the ship frightens the travellers
+jactator | Jactator in convivio victorias narrat | The boaster tells of his victories at the banquet
+jacto | Folia in aera jacto | I toss leaves into the air
+jactura | Jactura pecuniae mercatorem contristat | The loss of money saddens the merchant
+jactus2 | Jactus validus discum trans campum portat | The strong throw carries the discus across the field
+jaculator | Jaculator in acie stat | The javelin-thrower stands in the battle line
+jaculor | Hastam trans murum jaculor | I hurl a spear over the wall
+jaculum | Jaculum celere trans campum volat | The swift javelin flies across the field
+janitor | Janitor hospitem in atrium ducit | The porter leads the guest into the hall
+janua | Janua lignea crepat | The wooden door creaks
+jecur | Jecur sanum medico placet | The healthy liver pleases the doctor
+jejunitas | Jejunitas orationis auditores fatigat | The emptiness of the speech wearies the listeners
+jejunium | Jejunium ante diem festum incipit | The fast begins before the festival
+jejuno | Ante sacrificium jejuno | I fast before the sacrifice
+jentaculum | Jentaculum panem et caseum praebet | Breakfast provides bread and cheese
+jocor | Cum sorore jocor | I joke with my sister
+joculus | Joculus coqui convivas ridere facit | The cook's jest makes the guests laugh
+jocus | Jocus magistri discipulos solatur | The teacher's jest comforts the pupils
+juba1 | Juba equi in vento volat | The horse's mane flies in the wind
+jubar | Jubar solis mare illuminat | The radiance of the sun lights up the sea
+jubeo | Servum januam claudere jubeo | I order the slave to close the door
+jucunditas | Jucunditas aestatis viatores in prato retinet | The pleasantness of summer keeps the travellers in the meadow
+jucundo | Hospites cantu jucundo | I delight the guests with song
+judex | Judex testem diligenter audit | The judge listens to the witness carefully
+judicatio | Judicatio senatus civibus placet | The senate's judgment pleases the citizens
+judicium | Judicium post tres dies incipit | The trial begins after three days
+judico | Certamen cantorum judico | I judge the singers' contest
+jugerum | Jugerum fertile familiam alit | The fertile acre feeds the family
+juglans | Juglans in patina jacet | The walnut lies in the dish
+jugo1 | Duas trabes ferro jugo | I join two beams with iron
+# third: jugulo "I slaughter" is grim; a generic military figure acts instead
+jugulo | Exercitus hostes jugulat | The army slaughters the enemy
+jugulum | Jugulum aegroti dolet | The sick man's throat hurts
+jugum | Jugum bovem premit | The yoke presses the ox
+jumentum | Jumentum plaustrum ad villam trahit | The draught animal pulls the wagon to the farm
+junctura | Junctura navis aquam admittit | The joint of the ship lets in water
+jungo | Duo flumina canali jungo | I join the two rivers with a canal
+junix | Junix ad rivum bibit | The heifer drinks at the stream
+jurator | Jurator manum ad aram tendit | The oath-taker stretches his hand to the altar
+jurgium | Jurgium vicinorum noctem turbat | The neighbours' quarrel disturbs the night
+jurgo | Cum fratre jurgo | I quarrel with my brother
+jurisconsultus | Jurisconsultus clientem de testamento monet | The lawyer advises the client about the will
+jurisdictio | Jurisdictio praetoris ad urbem pertinet | The praetor's jurisdiction extends to the city
+juro | Per deos juro | I swear by the gods
+jus1 | Jus in olla fervet | The broth boils in the pot
+jus2 | Jus omnes cives protegit | The law protects all citizens
+jusjurandum | Jusjurandum militem duci fidelem facit | The oath makes the soldier faithful to the general
+jussum | Jussum ducis exercitum movet | The general's order sets the army in motion
+# skip: jussus2 used only in the ablative singular (jussu), so it cannot be a nominative subject
+justificatio | Justificatio advocati senatores movet | The lawyer's justification moves the senators
+justifico | Consilium meum justifico | I justify my plan
+justitia | Justitia regem populo carum facit | Justice makes the king dear to the people
+justitium | Justitium omnia negotia publica sistit | The suspension stops all public business
+juvenculus | Juvenculus in agro cum patre laborat | The youngster works in the field with his father
+# third: juvenesco "I mature" is odd; a calf reaches maturity
+juvenesco | Vitulus largis herbis juvenescit | The calf matures on rich grass
+juventa | Juventa celeriter fugit | Youth flies quickly
+juventas | Juventas viribus floret | Youth flourishes with strength
+juventus | Juventus ad ludos properat | The young men hurry to the games
+juvo | Vicinum laborantem juvo | I help my neighbour at his work
