@@ -72,3 +72,14 @@ imparilitas | Imparilitas virium luctatorem minorem terret | The inequality of s
 impatientia | Impatientia nautae gubernatorem vexat | The sailor's impatience annoys the helmsman
 impedimentum | Impedimentum in via carrum sistit | A hindrance on the road stops the cart
 impedio | Iter hostium impedio | I hinder the enemy's march
+impello | Januam impello | I push the door
+# third: impendeo "I overhang" is odd; a cliff does
+impendeo | Rupes portui impendet | The cliff overhangs the harbour
+impendium | Impendium novae villae agricolam onerat | The expense of the new villa burdens the farmer
+impendo | Pecuniam in libros impendo | I expend money on books
+imperator | Imperator exercitum ad portam ducit | The general leads the army to the gate
+imperatrix | Imperatrix domus ancillas ad cenam vocat | The mistress of the house calls the maids to dinner
+imperitia | Imperitia medici familiam sollicitat | The doctor's inexperience worries the family
+imperium | Imperium ducis legiones ad flumen movet | The leader's command moves the legions to the river
+impero | Militibus impero | I command the soldiers
+impertio | Pauperibus panem impertio | I give bread to the poor
