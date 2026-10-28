@@ -482,3 +482,14 @@ exsultatio | Exsultatio agnorum in prato puellam ridere facit | The leaping of t
 exsupero | Omnes celeritate exsupero | I surpass everyone in speed
 # third: exsurdo "I deafen" is odd; a din deafens
 exsurdo | Strepitus fabrorum viatorem exsurdat | The din of the smiths deafens the traveller
+exsurgo | Ex somno exsurgo | I rise from sleep
+exsuscito | Nautas ad vigiliam exsuscito | I awaken the sailors for the watch
+exta | Exta pura haruspicem laetum faciunt | The pure entrails make the soothsayer glad
+# third: extabesco "I waste away" is grim; snow wastes away
+extabesco | Nix in monte extabescit | The snow wastes away on the mountain
+extendo | Funem inter arbores extendo | I stretch a rope between the trees
+extensio | Extensio viae oppidum cum portu jungit | The extension of the road joins the town to the harbour
+extenuo | Vinum aqua extenuo | I thin the wine with water
+extergeo | Tabulam spongia extergeo | I wipe the tablet with a sponge
+extermino | Fures ex agro extermino | I expel the thieves from the field
+extero | Rubiginem de ferro extero | I rub the rust off the iron
