@@ -556,3 +556,13 @@ appropinquo | Urbi appropinquo | I approach the city
 appulsus2 | Appulsus pecoris ad aquam pastorem occupat | The driving of the flock to the water keeps the shepherd busy
 apricatio | Apricatio senem calefacit | The sunbathing warms the old man
 apto | Galeam capiti apto | I fit the helmet to my head
+aqua | Aqua per agros fluit | The water flows through the fields
+aquaeductus | Aquaeductus aquam ad urbem portat | The aqueduct carries water to the city
+aquatio | Aquatio militibus necessaria est | The fetching of water is necessary for the soldiers
+aquila1 | Aquila in caelo volat | The eagle flies in the sky
+aquilo | Aquilo naves in portu tenet | The north wind holds the ships in the harbour
+aquor | Ad flumen aquor | I fetch water at the river
+aquula | Aquula per saxum manat | The trickle runs through the rock
+ara | Ara deo dicata est | The altar is dedicated to the god
+aranea | Aranea telam texit | The spider weaves a web
+aratio | Aratio terram parat | The ploughing prepares the earth
