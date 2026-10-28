@@ -220,3 +220,14 @@ percido | Exercitus castra hostium percidit | The army smashes the enemy camp
 percieo | Populum cantu percieo | I excite the people with a song
 percipio | Sonum procul percipio | I perceive a sound far away
 percognosco | Viam percognosco | I get to know the road thoroughly
+percolo1 | Vinum linteo percolo | I filter the wine through a cloth
+percolo2 | Vineam diligenter percolo | I cultivate the vineyard carefully
+percontatio | Percontatio judicis testem sollicitat | The judge's inquiry worries the witness
+perconto | Mercatorem de pretio perconto | I question the merchant about the price
+percontor | Hospitem de itinere percontor | I inquire of the guest about the journey
+percoquo | Carnem diu percoquo | I cook the meat thoroughly
+# third: percrebesco "I spread widely" is unnatural; a rumour is the natural subject
+percrebesco | Rumor per urbem percrebescit | The rumour spreads widely through the city
+percuro | Aegrum herbis percuro | I heal the sick man completely with herbs
+percurro | Pontem celeriter percurro | I run across the bridge quickly
+percursio | Percursio epistulae tempus servat | The quick review of the letter saves time
