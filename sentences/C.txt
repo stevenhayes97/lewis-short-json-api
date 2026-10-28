@@ -414,3 +414,14 @@ coacesco | Vinum coacescit | The wine turns sour
 coactor | Coactor pecuniam ex auctione colligit | The collector gathers the money from the auction
 # skip: coactus2 occurs only in the ablative singular coactu, so no nominative headword-form sentence is possible
 coaddo | Mel aquae coaddo | I add honey as well to the water
+coadunatio | Coadunatio amicorum urbem firmat | The uniting of friends strengthens the city
+coaedifico | Hortum coaedifico | I build over the garden
+coaequo | Aream coaequo | I level the threshing floor
+coagmento | Trabes in navi coagmento | I join the beams together in the ship
+coagmentum | Coagmentum tabulae firmum est | The joint of the board is firm
+coagulum | Coagulum lac in caseum vertit | The rennet turns the milk into cheese
+# third: coalesco "I grow together" is not a sentence a learner needs; things knit together
+coalesco | Murus calce coalescit | The wall grows together with lime
+coangusto | Oves in horto coangusto | I confine the sheep in the garden
+coarguo | Mercatorem avaritiae coarguo | I convict the merchant of greed
+coarto | Lanam in sacco coarto | I compress the wool in the sack
