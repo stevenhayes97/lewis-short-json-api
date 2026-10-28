@@ -196,3 +196,14 @@ metamorphosis | Metamorphosis nymphae in laurum poetam inspirat | The transforma
 metator | Metator castra in campo designat | The surveyor marks out the camp on the plain
 metior | Viam passibus metior | I measure the road in paces
 meto2 | Hordeum falce meto | I reap the barley with a sickle
+metoecus | Metoecus Athenis habitat | The resident alien lives in Athens
+metor | Locum castris metor | I mark out a place for the camp
+metreta | Metreta olei cellam replet | The metretes of oil fills the cellar
+metrum | Metrum carminis memoriam juvat | The metre of the poem helps the memory
+metuo | Tempestatem metuo | I fear the storm
+metus | Metus lupi pastorem vigilem tenet | The fear of the wolf keeps the shepherd awake
+# skip: meus is a possessive adjective, not a noun or verb
+mica | Mica passerem allicit | The crumb attracts the sparrow
+# third: mico the first person is unnatural; a heart is the usual subject
+mico | Cor cervi in silva micat | The deer's heart quivers in the forest
+migratio | Migratio gruum caelum obscurat | The migration of the cranes darkens the sky
