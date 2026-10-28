@@ -255,3 +255,13 @@ aes | Aes in arca jacet | The bronze lies in the chest
 aestas | Aestas calida est | The summer is hot
 aestimatio | Aestimatio agri difficilis est | The valuation of the field is difficult
 aestimator | Aestimator pretium domus dicit | The valuer states the price of the house
+aestimo | Agrum magno aestimo | I value the field highly
+aestivo | In villa aestivo | I spend the summer in the villa
+aestuarium | Aestuarium prope mare est | The estuary is near the sea
+aestuo | Invidia aestuo | I seethe with envy
+aestus | Aestus in agris magnus est | The heat in the fields is great
+aetas | Aetas senis magna est | The old man's age is great
+aetatula | Aetatula filiae dulcis est | The daughter's tender youth is sweet
+aeternitas | Aeternitas sine fine est | Eternity is without end
+aether | Aether purus supra nubes est | The pure sky is above the clouds
+aethra1 | Aethra clara supra mare patet | The bright sky extends above the sea
