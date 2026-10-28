@@ -194,3 +194,14 @@ adrado | Ramum adrado | I pare down the branch
 adsum | In schola adsum | I am present at school
 adulatio | Adulatio canis dominum laetum facit | The dog's fawning makes its master glad
 adulator | Adulator regis laudes cantat | The king's flatterer sings his praises
+adulescentia | Adulescentia post pueritiam venit | Youth comes after boyhood
+adulescentula | Adulescentula in horto cantat | The girl sings in the garden
+adulescentulus | Adulescentulus ad scholam ambulat | The youngster walks to school
+# third: adulo "I fawn" is a dog's action
+adulo | Canis dominum adulat | The dog fawns on its master
+adulor | Regem adulor | I flatter the king
+# skip: adulterium adult theme (adultery), no suitable mild illustration
+# skip: adultero adult theme (commit adultery), no suitable mild illustration
+adumbratio | Adumbratio pictoris in tabula est | The painter's sketch is on the panel
+adumbro | Montem in tabula adumbro | I sketch the mountain on the panel
+aduno | Amicos aduno | I unite my friends
