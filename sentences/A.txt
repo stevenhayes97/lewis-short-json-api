@@ -631,3 +631,13 @@ arrigo | Malum arrigo | I raise the mast
 arripio | Manum amici arripio | I grab my friend's hand
 arrodo | Caseum arrodo | I nibble the cheese
 arrogantia | Arrogantia oratoris senatores offendit | The speaker's arrogance offends the senators
+arrogatio | Arrogatio coram populo fit | The adrogation takes place before the people
+arrogo | Mihi nihil arrogo | I claim nothing for myself
+arteria | Arteria aerem ad pulmones ducit | The windpipe leads air to the lungs
+articulo | Verba articulo | I articulate the words
+articulus | Articulus digiti flectitur | The joint of the finger bends
+artificium | Artificium fabri puerum alit | The smith's craft supports the boy
+# skip: artio2 is found only in the participle artitus, with no finite forms
+arto | Libros in arca arto | I pack the books close together in the chest
+artus2 | Artus athletae validi sunt | The athlete's limbs are strong
+arula | Arula ante imaginem deae ponitur | The small altar is placed before the image of the goddess
