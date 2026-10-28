@@ -53,3 +53,14 @@ decoctio | Decoctio herbarum tussim levat | The decoction of herbs eases a cough
 decollo | Imperator hostem decollat | The commander beheads the enemy
 # third: decolo only hopes and plans fail
 decolo | Spes decolat | The hope fails
+# skip: decolor is an adjective (discoloured), misfiled as a verb
+decoloro | Parietem fumo decoloro | I discolour the wall with smoke
+decoquo | Aquam in olla decoquo | I reduce the water in the pot
+decoro | Aram floribus decoro | I adorn the altar with flowers
+# third: decresco "I decrease" is not a sentence a learner needs; rivers and lights wane
+decresco | Flumen post imbrem decrescit | The river decreases after the rain
+decumbo | In lecto decumbo | I recline on the couch
+decuria | Decuria judicum ante tribunal sedet | The panel of jurors sits before the tribunal
+decurio1 | Equites in decem partes decurio | I divide the horsemen into ten parts
+decurio2 | Decurio in curia loquitur | The decurion speaks in the council-house
+decurro | Per clivum decurro | I run down the slope
