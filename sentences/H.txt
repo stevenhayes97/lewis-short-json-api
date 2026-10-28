@@ -1,0 +1,110 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/H.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+habena | Habena equum ad dextram flectit | The rein turns the horse to the right
+habeo | Canem fidelem habeo | I have a faithful dog
+habitatio | Habitatio prope flumen medico placet | The dwelling near the river pleases the doctor
+habitator | Habitator mercedem domino pendit | The tenant pays rent to his landlord
+habito | Prope mare habito | I dwell near the sea
+habituo | Corpus meum exercitatione habituo | I condition my body with exercise
+haedus | Haedus matrem in prato quaerit | The kid looks for its mother in the meadow
+haereo | In luto haereo | I stick in the mud
+haeresis | Haeresis philosophorum juvenes ad scholam allicit | The sect of philosophers attracts young men to the school
+haesitatio | Haesitatio testis judices dubios facit | The witness's hesitation makes the judges doubtful
+haesito | Ante judices haesito | I hesitate before the judges
+halitus | Halitus canis manum meam calefacit | The dog's breath warms my hand
+# third: halo "I exhale" is odd here; a rose gives off scent
+halo | Rosa in vase suave halat | The rose in the vase exhales a sweet scent
+halos | Halos circum lunam apparet | The halo appears around the moon
+hamus | Hamus a linea pendet | The hook hangs from the line
+hara | Hara in angulo agri porcos continet | The pen in the corner of the field holds the pigs
+harena | Harena in litore calet | The sand on the shore is hot
+hariolus | Hariolus mercatori iter faustum praedicit | The soothsayer predicts a lucky journey for the merchant
+harmonia1 | Harmonia cithararum convivas lenit | The harmony of the lyres soothes the guests
+harpago2 | Harpago navem hostium ad litus trahit | The grappling-hook drags the enemy's ship towards the shore
+harundo | Harundo in vento tremit | The reed trembles in the wind
+haruspex | Haruspex exta in templo inspicit | The haruspex examines the entrails in the temple
+hasta | Hasta in scuto haeret | The spear sticks in the shield
+hastile | Hastile e fraxino factum est | The shaft is made of ash wood
+haurio | Aquam e puteo haurio | I draw water from the well
+haustus2 | Haustus aquae frigidae fessum viatorem reficit | The draught of cold water restores the weary traveller
+hebdomas | Hebdomas septem dies continet | The week contains seven days
+# third: hebeo "I am dull" is odd; a blade is dull
+hebeo | Culter in cella hebet | The knife is dull in the pantry
+# third: hebesco "I grow dull" is odd; iron grows dull
+hebesco | Ferrum usu hebescit | The iron grows dull with use
+hebeto | Aciem falcis hebeto | I blunt the blade of the sickle
+hedera | Hedera murum vetustum tegit | The ivy covers the old wall
+helice | Helice in ripa umbram dat | The willow gives shade on the bank
+heliotropium | Heliotropium solem semper sequitur | The heliotrope always follows the sun
+hemicyclium | Hemicyclium in porticu philosophos accipit | The semicircle in the colonnade receives the philosophers
+herba | Herba rorem matutinum servat | The grass keeps the morning dew
+hercisco | Hereditatem inter fratres hercisco | I partition the inheritance among the brothers
+# skip: herctum is attested only in the phrase herctum ciere, with no usable nominative sentence
+hereditas | Hereditas avi nepotem ditat | The grandfather's inheritance enriches the grandson
+heredium | Heredium prope fontem agricolam alit | The homestead near the spring feeds the farmer
+heres | Heres villam patris vendit | The heir sells his father's villa
+herpes | Herpes aegro dolorem affert | The shingles brings pain to the patient
+hexameter | Hexameter e sex pedibus constat | The hexameter consists of six feet
+hiatus | Hiatus in rupe viatori iter ostendit | The opening in the rock shows the way to the traveller
+hibernaculum | Hibernaculum legionem a nive tegit | The winter home shelters the legion from the snow
+hiberno | In Gallia hiberno | I winter in Gaul
+hibrida | Hibrida inter duos populos vivit | The hybrid lives between two peoples
+hiemo | In Italia hiemo | I winter in Italy
+hiems | Hiems montes nive tegit | The winter covers the mountains with snow
+hierophanta | Hierophanta mystas in templo docet | The hierophant teaches the initiates in the temple
+hieto | Post cenam hieto | I yawn after dinner
+hilaritas | Hilaritas magistri discipulos ad studium incitat | The cheerfulness of the teacher spurs the pupils on to study
+hilaro | Aegrum cantu hilaro | I cheer the patient with a song
+hillae | Hillae in patina fumant | The entrails steam in the dish
+# skip: hilum is attested only in negative phrases (nihil hilum) as an adverbial accusative, with no usable nominative sentence
+# third: hinnio "I neigh" is odd; a horse neighs
+hinnio | Equus in stabulo hinnit | The horse neighs in the stable
+hinnulus | Hinnulus matrem in via sequitur | The young mule follows its mother along the road
+hinnus | Hinnus plaustrum leve trahit | The hinny pulls the light cart
+hio | Prae stupore hio | I gape in amazement
+hippomanes | Hippomanes in carmine Vergili apparet | The hippomanes appears in Virgil's poem
+# third: hirrio "I snarl" is odd; a dog snarls
+hirrio | Canis ad lupum hirrit | The dog snarls at the wolf
+hirudo | Hirudo in stagno natat | The leech swims in the pond
+hirundo | Hirundo nidum sub tecto aedificat | The swallow builds a nest under the roof
+hisco | Coram rege vix hisco | I scarcely open my mouth before the king
+historia | Historia bella Romanorum narrat | The history tells of the wars of the Romans
+histrio | Histrio in scaena personam mutat | The actor changes his mask on the stage
+holus | Holus mensam rusticam implet | The vegetables fill the country table
+homicida | Homicida judices timet | The murderer fears the judges
+homo | Homo ad urbem properat | The person hurries to the city
+homuncio | Homuncio super mensam ambulat | The manikin walks on the table
+homunculus | Homunculus ligneus in fenestra sedet | The wooden manikin sits in the window
+honestas | Honestas patris filium inter vicinos juvat | The father's honour helps his son among the neighbours
+honesto | Victorem corona honesto | I honour the winner with a crown
+honor | Honor militem fortem manet | Honour awaits the brave soldier
+honoro | Deos sacrificiis honoro | I honour the gods with sacrifices
+hora1 | Hora nona mercatores domum revocat | The ninth hour calls the merchants home
+hordeum | Hordeum asinum pascit | The barley feeds the donkey
+horreo | Silvam nocte horreo | I dread the wood at night
+horresco | Ante tempestatem horresco | I shudder before the storm
+horreum1 | Horreum frumentum a pluvia defendit | The granary protects the grain from the rain
+horrifico | Hostes horrifico | I terrify the enemy
+horror | Horror turbam in templo tacitam facit | Horror makes the crowd in the temple silent
+hortamen | Hortamen ducis milites fortes facit | The general's encouragement makes the soldiers brave
+hortamentum | Hortamentum matris filium ad laborem excitat | The mother's encouragement rouses her son to work
+hortatio | Hortatio magistri discipulum timidum confirmat | The teacher's exhortation strengthens the timid pupil
+hortator1 | Hortator remiges cantu adjuvat | The encourager helps the oarsmen with a song
+hortatus | Hortatus patris filium ad virtutem vocat | The father's encouragement calls his son to virtue
+hortor | Fratrem ad iter hortor | I urge my brother on to the journey
+hortulus | Hortulus rosas et violas alit | The little garden nurtures roses and violets
+hortus | Hortus divitis fontem marmoreum habet | The rich man's garden has a marble fountain
+hospes | Hospes viatorem cena excipit | The host welcomes the traveller with dinner
+hospitium | Hospitium senis viatoribus fessis gratum est | The old man's hospitality is welcome to the weary travellers
+hospitor | Apud avunculum hospitor | I lodge with my uncle
+hostia | Hostia sacerdotem ad aram sequitur | The sacrificial victim follows the priest to the altar
+hostimentum | Hostimentum beneficio par est | The requital equals the favour
+hostio1 | Merita senis hostio | I requite the old man's services
+hostis | Hostis ad portas urbis appropinquat | The enemy approaches the gates of the city
+humanitas | Humanitas medici aegrum consolatur | The humanity of the doctor comforts the patient
+humilio | Superbum juvenem humilio | I humble the proud youth
+humilitas | Humilitas tecti virum altum impedit | The lowness of the roof hinders the tall man
+humo | Canem fidelem in horto humo | I bury my faithful dog in the garden
+hydrus1 | Hydrus in rivo natat | The water snake swims in the stream
+hymnus | Hymnus deum in templo laudat | The hymn praises the god in the temple
+hysopum | Hysopum in horto odorem suavem spargit | The hyssop spreads a sweet scent in the garden
