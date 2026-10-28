@@ -662,3 +662,13 @@ concino | Cum fratre concino | I harmonise with my brother
 concipio | Spem novam concipio | I conceive a new hope
 concitatio | Concitatio plebis senatum terret | The agitation of the common people alarms the senate
 concitator | Concitator populi magistratus vexat | The instigator of the people annoys the magistrates
+concito | Equum ad cursum concito | I spur the horse to a run
+conclamo | Ad arma conclamo | I shout the call to arms
+conclave | Conclave in summa domo est | The room is at the top of the house
+conclusio | Conclusio fabulae spectatores movet | The conclusion of the play moves the spectators
+# skip: concolor is an adjective (same-coloured), misfiled as a verb
+concomitor | Matrem ad templum concomitor | I accompany my mother to the temple
+concoquo | Cibum concoquo | I digest my food
+concordia1 | Concordia cives in pace tenet | Harmony keeps the citizens at peace
+concordo | Cum magistro concordo | I agree with my teacher
+concorporo | Novum agrum in praedium concorporo | I incorporate the new field into the estate
