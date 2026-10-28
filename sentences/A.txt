@@ -215,3 +215,13 @@ adversor | Consilio consulis adversor | I oppose the consul's plan
 adverto | Oculos ad solem adverto | I turn my eyes towards the sun
 advigilo | Domui advigilo | I keep watch over the house
 advivo | Etiam in senectute advivo | I live on even in old age
+advocatio | Advocatio oratoris civi prodest | The orator's counsel benefits the citizen
+advoco | Amicos ad cenam advoco | I summon my friends to dinner
+advolo | Ad nidum advolo | I fly to the nest
+advolvo | Robora ad focum advolvo | I roll logs to the hearth
+adytum | Adytum in templo obscurum est | The sanctuary in the temple is dark
+aedes | Aedes in colle stat | The temple stands on the hill
+aedicula | Aedicula parva in via est | The small shrine is on the road
+aedificatio | Aedificatio muri longa est | The building of the wall is long
+aedificium | Aedificium magnum prope portum est | The large building is near the harbour
+aedifico | Domum novam aedifico | I build a new house
