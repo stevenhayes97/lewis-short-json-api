@@ -590,3 +590,13 @@ drachma | Drachma in sacculo tinnit | The drachma jingles in the purse
 draco1 | Draco per herbam serpit | The serpent creeps through the grass
 dracunculus | Dracunculus sub lapide latet | The small serpent hides under the stone
 dromos | Dromos athletas in sole recipit | The racecourse receives the athletes in the sun
+dubitatio | Dubitatio judicis reum juvat | The judge's doubt helps the defendant
+ducatus | Ducatus exercitus legatum honorat | The leadership of the army honours the legate
+duco | Equum ad aquam duco | I lead the horse to the water
+ducto | Hospitem per hortum ducto | I lead the guest through the garden
+ductor | Ductor agminis viam monstrat | The leader of the column shows the way
+ductus2 | Ductus aquae pagum recreat | The conducting of the water refreshes the village
+dulcedo | Dulcedo mellis infantem placat | The sweetness of honey soothes the baby
+dulcitudo | Dulcitudo pomi pueros ad arborem vocat | The sweetness of the apple calls the boys to the tree
+dumetum | Dumetum lepores celat | The thicket hides the hares
+# skip: duo is the numeral two, misfiled as a verb
