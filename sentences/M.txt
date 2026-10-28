@@ -337,3 +337,13 @@ multa1 | Multa magna mercatorem pauperem facit | The heavy fine makes the mercha
 # skip: multicius is an adjective (diaphanous), the noun use only plural garments
 multifacio | Fidem amici multifacio | I esteem my friend's loyalty
 multiplico | Numeros multiplico | I multiply the numbers
+multitudo | Multitudo ad portam urbis properat | The multitude hurries to the gate of the city
+multo2 | Mercatorem decem denariis multo | I fine the merchant ten denarii
+mulus | Mulus saccos per vallem vehit | The mule carries sacks through the valley
+munditia | Munditia tabernae emptores trahit | The cleanliness of the shop draws the buyers
+mundo | Pavimentum aqua mundo | I cleanse the floor with water
+munerarius | Munerarius ludos populo praebet | The sponsor puts on games for the people
+munero | Amicum libro munero | I present my friend with a book
+munia | Munia consulis multas horas occupant | The consul's duties occupy many hours
+municeps | Municeps in oppido suo magistratum gerit | The citizen holds office in his own town
+municipium | Municipium theatrum novum aedificat | The municipality builds a new theatre
