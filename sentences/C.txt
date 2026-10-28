@@ -780,3 +780,13 @@ congruo | Cum patre congruo | I agree with my father
 conicio | Lapidem in flumen conicio | I throw a stone into the river
 conitor | Ad cacumen montis conitor | I strive towards the top of the mountain
 coniveo | Ad lucem coniveo | I blink at the light
+conjectio | Conjectio pilae ludum incipit | The throwing of the ball begins the game
+conjecto | Ex nubibus pluviam conjecto | I guess rain from the clouds
+conjector | Conjector somnium regis explicat | The interpreter explains the king's dream
+conjectura | Conjectura de tempore viatorem non fallit | The conjecture about the weather does not deceive the traveller
+conjectus2 | Conjectus lapidis ad murum pervenit | The throw of the stone reaches the wall
+conjugatio | Conjugatio colorum picturam pulchram facit | The combination of colours makes the picture beautiful
+conjugium | Conjugium amicorum nostrorum mense Maio fit | The marriage of our friends takes place in May
+conjugo | Duo fila conjugo | I unite two threads
+conjunctio | Conjunctio viarum oppidum aperit | The connection of the roads opens up the town
+conjuratio | Conjuratio in senatu patefit | The conspiracy is revealed in the senate
