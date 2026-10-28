@@ -405,3 +405,14 @@ diligo | Fratrem diligo | I love my brother
 dilucesco | Dies dilucescit | The day dawns
 diluo | Vinum aqua diluo | I dilute the wine with water
 # skip: dilutus is an adjective (diluted, from the participle of diluo), misfiled as a noun
+diluvies | Diluvies agros operit | The flood covers the fields
+dimensio | Dimensio campi tres dies postulat | The measurement of the field takes three days
+dimetior | Agrum pedibus dimetior | I measure the field in feet
+dimeto | Fines hortorum dimeto | I demarcate the boundaries of the gardens
+dimicatio | Dimicatio ad portas exercitum fatigat | The combat at the gates tires the army
+# third: dimico a military figure is more natural than the first person
+dimico | Miles pro patria dimicat | The soldier fights for his country
+dimidio | Panem dimidio | I halve the loaf
+dimissio | Dimissio scholae pueros laetos facit | The dismissal of the school makes the boys happy
+dimitto | Discipulos dimitto | I dismiss the pupils
+dimoveo | Velum manibus dimoveo | I part the curtain with my hands
