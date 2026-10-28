@@ -62,3 +62,13 @@ immitto | Equum in campum immitto | I send the horse into the field
 # skip: immo is an adverb (rather), misfiled as a verb
 immoderatio | Immoderatio in cena hospitem fatigat | Excess at dinner tires the guest
 immolo | Jovi taurum immolo | I sacrifice a bull to Jupiter
+immordeo | Pirum maturam immordeo | I bite into the ripe pear
+immortalitas | Immortalitas deos ab hominibus dividit | Immortality separates the gods from people
+immunitas | Immunitas tributi oppido gaudium affert | Immunity from tribute brings joy to the town
+immurmuro | In aure fratris immurmuro | I murmur into my brother's ear
+immutatio | Immutatio ducis exercitum perturbat | The substitution of the commander upsets the army
+immuto | Consilium meum immuto | I alter my plan
+imparilitas | Imparilitas virium luctatorem minorem terret | The inequality of strength frightens the smaller wrestler
+impatientia | Impatientia nautae gubernatorem vexat | The sailor's impatience annoys the helmsman
+impedimentum | Impedimentum in via carrum sistit | A hindrance on the road stops the cart
+impedio | Iter hostium impedio | I hinder the enemy's march
