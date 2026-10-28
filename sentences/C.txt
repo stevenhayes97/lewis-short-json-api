@@ -1,0 +1,1134 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/C.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+caballus1 | Caballus onus ad villam portat | The nag carries a load to the farm
+cachinno1 | De joco cachinno | I guffaw at the joke
+cachinnus | Cachinnus in theatro resonat | The guffaw echoes in the theatre
+cachrys | Cachrys in terram cadit | The cone falls to the ground
+# third: caco "I defecate" is not a sentence a learner needs
+caco | Bos in agro cacat | The ox defecates in the field
+cacoethes | Cacoethes medicum perturbat | The malignancy troubles the doctor
+cacula | Cacula militi cibum parat | The servant prepares food for the soldier
+cacumen | Cacumen montis nive tegitur | The tip of the mountain is covered with snow
+cadaver | Cadaver in campo jacet | The corpse lies in the field
+cado | De equo cado | I fall from the horse
+caduceator | Caduceator ad castra venit | The herald comes to the camp
+caduceum | Caduceum pacem significat | The herald's staff signifies peace
+cadus | Cadus in cella stat | The jar stands in the cellar
+caecitas | Caecitas poetam non vincit | Blindness does not defeat the poet
+# third: caeco "I blind" is harsh for a general audience; a sun-glare sentence is gentler
+caeco | Sol oculos caecat | The sun blinds the eyes
+caedes | Caedes in proelio milites terret | The slaughter in the battle frightens the soldiers
+caedo | Arbores caedo | I cut down the trees
+caelatura | Caelatura argentum ornat | Engraving decorates the silver
+caelo | Poculum argenteum caelo | I engrave the silver cup
+caelum1 | Caelum argentum signat | The graver marks the silver
+caementum | Caementum murum firmat | The quarry stone strengthens the wall
+caenum | Caenum viam tegit | The filth covers the road
+caepa | Caepa cenam condit | The onion flavours the dinner
+caerimonia | Caerimonia in templo fit | The ceremony takes place in the temple
+caesaries | Caesaries longa umeros tegit | The long locks cover the shoulders
+caespes | Caespes altare tegit | The turf covers the altar
+caestus | Caestus manus pugilis tegit | The cestus covers the boxer's hands
+caesura | Caesura silvae operarios occupat | The felling of the wood keeps the workmen busy
+calamister | Calamister capillos mulieris crispat | The curling-iron curls the woman's hair
+calamitas | Calamitas colonos premit | Disaster weighs on the farmers
+calamus | Calamus in ripa crescit | The reed grows on the bank
+calathus | Calathus lanam mulieris continet | The basket holds the woman's wool
+calator | Calator sacerdotem ad aram comitatur | The attendant accompanies the priest to the altar
+calautica | Calautica feminam a sole defendit | The headdress protects the woman from the sun
+calcar | Calcar equum urget | The spur urges on the horse
+calceamentum | Calceamentum viatori utile est | The shoe is useful to the traveller
+calceo | Pedes meos calceo | I put shoes on my feet
+calceus | Calceus sub lecto jacet | The shoe lies under the bed
+# third: calcitro1 only animals kick
+calcitro1 | Equus in stabulo calcitrat | The horse kicks in the stable
+calco | Uvas calco | I trample the grapes
+calculus | Calculus in rivo jacet | The pebble lies in the stream
+calefacio | Aquam calefacio | I warm the water
+caleo | In sole caleo | I am hot in the sun
+calesco | Ad ignem calesco | I grow warm by the fire
+caliendrum | Caliendrum caput matronae ornat | The headdress adorns the matron's head
+caliga | Caliga militis in via sonat | The soldier's boot sounds on the road
+caligo1 | Caligo diem obscurat | The fog darkens the day
+# third: caligo2 only places and skies are dark
+caligo2 | Spelunca caligat | The cave is dark
+caligula | Caligula sub mensa jacet | The little boot lies under the table
+calix | Calix ante hospitem stat | The cup stands before the guest
+calleo | Artem meam bene calleo | I know my craft well
+calliditas | Calliditas ducis hostem superat | The cunning of the general overcomes the enemy
+callis | Callis per silvam ducit | The track leads through the wood
+callum | Callum in pede viatoris crescit | The callus grows on the traveller's foot
+calo1 | Populum calo | I summon the people
+calo2 | Calo militem in itinere comitatur | The camp servant accompanies the soldier on the march
+calor1 | Calor aestatis agros siccat | The heat of summer dries the fields
+calumnia | Calumnia judicium impedit | Trickery obstructs the trial
+calumniator | Calumniator legem torquet | The pettifogger twists the law
+calvitium | Calvitium senem non offendit | Baldness does not trouble the old man
+calvor | Mercatorem calvor | I deceive the merchant
+calx1 | Calx pedis humum tangit | The heel of the foot touches the ground
+calx2 | Calx muros albos facit | The lime makes the walls white
+calyx1 | Calyx rosae mane aperitur | The calyx of the rose opens in the morning
+cambio | Nummos cambio | I exchange coins
+camera | Camera pictis stellis ornatur | The vault is decorated with painted stars
+camillus1 | Camillus sacerdoti ad aram servit | The ritual attendant serves the priest at the altar
+caminus | Caminus in fabrica ardet | The furnace burns in the workshop
+campus1 | Campus inter montes jacet | The plain lies between the mountains
+canalis | Canalis aquam ad hortum ducit | The channel leads water to the garden
+cancelli | Cancelli in theatro stant | The railings stand in the theatre
+cancello | Testamentum cancello | I cancel the will
+cancer1 | Cancer in arena ambulat | The crab walks on the sand
+# skip: cancerasco is found only in the perfect, so no headword-form sentence is possible
+candefacio | Parietes candefacio | I whiten the walls
+candela | Candela noctem pauperis illuminat | The candle lights the poor man's night
+candelabrum | Candelabrum aeneum in atrio stat | The bronze candlestick stands in the hall
+# third: candeo only snow, ivory and the like shine
+candeo | Nix sub sole candet | The snow shines under the sun
+# third: candesco only the sky and similar things grow white
+candesco | Aer ab ortu solis candescit | The air grows white from the sunrise
+# third: candico only things have a whitish cast
+candico | Vadum in mari candicat | The shoal in the sea is whitish
+candor | Candor marmoris templum illustrat | The whiteness of the marble lights up the temple
+caneo | Senectute caneo | I am grey with age
+canicula | Canicula ante januam latrat | The little dog barks before the door
+canis1 | Canis dominum custodit | The dog guards its master
+canistrum | Canistrum ad aram portatur | The basket is carried to the altar
+canities | Canities caput senis ornat | Grey hair adorns the old man's head
+canna | Canna vento movetur | The reed is moved by the wind
+cannabis | Cannabis funes nautis praebet | Hemp provides ropes for the sailors
+cano | Carmen laetum cano | I sing a happy song
+canon | Canon discipulos dirigit | The rule guides the pupils
+canor | Canor tibiae noctem mulcet | The melody of the pipe soothes the night
+cantharis | Cantharis in rosa sedet | The beetle sits on the rose
+cantharus | Cantharus vinum continet | The tankard holds the wine
+cantherius | Cantherius plaustrum per viam trahit | The gelding pulls the cart along the road
+canticum | Canticum spectatores in theatro tenet | The song holds the spectators in the theatre
+cantilena | Cantilena coquum fatigat | The stale tune tires the cook
+cantio | Cantio in templo auditur | The song is heard in the temple
+cantito | Cum sorore cantito | I sing often with my sister
+canto | Ante cenam canto | I sing before dinner
+cantor | Cantor cum tibicine ad aram venit | The singer comes to the altar with the piper
+cantus | Cantus pastoris silvam implet | The shepherd's song fills the wood
+capacitas | Capacitas cellae mercatorem movet | The capacity of the cellar impresses the merchant
+capella1 | Capella herbam in monte carpit | The she-goat crops the grass on the mountain
+caper | Caper rupem ascendit | The he-goat climbs the rock
+capero | Frontem capero | I wrinkle my forehead
+capillamentum | Capillamentum caput actoris tegit | The wig covers the actor's head
+capillatura | Capillatura mulierem ornat | The hairpiece adorns the woman
+capio1 | Flabellum capio | I take the fan
+capis | Capis a sacerdote portatur | The bowl is carried by the priest
+capistrum | Capistrum asinum tenet | The halter holds the donkey
+capitium1 | Capitium mulierem a pluvia defendit | The head covering protects the woman from the rain
+capitulum1 | Capitulum statuae in via jacet | The head of the statue lies on the road
+capnias | Capnias in monili reginae micat | The smoky stone glitters in the queen's necklace
+capra | Capra ex valle redit | The she-goat returns from the valley
+caprea | Caprea ad fontem venit | The roe comes to the spring
+capreolus | Capreolus saltu fossam transit | The roebuck crosses the ditch with a leap
+caprificus | Caprificus prope viam stat | The wild fig tree stands near the road
+capronae | Capronae in fronte equi pendent | The forelocks hang on the forehead of the horse
+captator | Captator ad domum divitis venit | The legacy-hunter comes to the rich man's house
+captio | Captio emptorem fallit | The deception cheats the buyer
+captivitas | Captivitas regis cives perturbat | The king's captivity disturbs the citizens
+capto | Umbram capto | I catch at the shadow
+captus2 | Captus salis cibum condit | The pinch of salt seasons the food
+capulus | Capulus aratri ex ligno fit | The handle of the plough is made of wood
+caput | Caput regis in nummo videtur | The king's head is seen on the coin
+carbo1 | Carbo in foco rubet | The coal is red in the hearth
+carbunculus | Carbunculus in nocte lucet | The carbuncle shines in the night
+carcer | Carcer sub colle est | The prison is under the hill
+carchesium | Carchesium ex auro fit | The goblet is made of gold
+cardo | Cardo in janua stridet | The hinge creaks in the door
+careo | Pane careo | I lack bread
+caries | Caries murum villae infirmat | The decay weakens the wall of the villa
+carina1 | Carina sub nave latet | The keel lies hidden under the ship
+caritas | Caritas patris filiam juvat | The father's love helps his daughter
+carmen1 | Carmen lyram comitatur | The song accompanies the lyre
+carnificina | Carnificina senatum terret | Torture frightens the senate
+caro2 | Caro ex macello venit | The meat comes from the market
+carpentum | Carpentum matronam ad templum portat | The carriage carries the matron to the temple
+carpinus | Carpinus umbram viatori dat | The hornbeam gives shade to the traveller
+carpo | Rosam carpo | I pluck a rose
+caryota | Caryota anno novo mittitur | The date is sent at the New Year
+casa | Casa pastorem ab imbre tegit | The hut shelters the shepherd from the storm
+caseus | Caseus ex lacte fit | The cheese is made from milk
+casia | Casia domum odore implet | The cassia fills the house with fragrance
+casses | Casses inter arbores tenduntur | The hunting-nets are stretched between the trees
+cassis1 | Cassis ducis in sole splendet | The leader's helmet gleams in the sun
+castanea | Castanea nuces autumno dat | The chestnut tree gives nuts in autumn
+castellum | Castellum fines imperii defendit | The fort defends the borders of the empire
+castigatio | Castigatio magistri discipulum monet | The teacher's reproof warns the pupil
+castigator | Castigator in senatu loquitur | The reprover speaks in the senate
+castigo | Fratrem castigo | I rebuke my brother
+castimonia | Castimonia sacerdotem decet | Purity becomes the priest
+castitas | Castitas a Romanis laudatur | Chastity is praised by the Romans
+# third: castro "I castrate" is crude for a general audience; the entry's animal-husbandry idiom is used
+castro | Pastor hircum castrat | The shepherd castrates the he-goat
+casus1 | Casus nivis viam claudit | The fall of snow blocks the road
+cataplasma | Cataplasma pedem aegri levat | The poultice eases the sick man's foot
+catapulta | Catapulta sagittam longe mittit | The catapult shoots an arrow far
+cataracta | Cataracta de monte ruit | The waterfall rushes down from the mountain
+catasta | Catasta in mercatu stat | The platform stands in the market
+categoria | Categoria in libro philosophi explicatur | The category is explained in the philosopher's book
+catellus1 | Catellus in stramine dormit | The puppy sleeps on the straw
+catellus2 | Catellus collum matronae cingit | The little chain encircles the matron's neck
+catena | Catena portam claudit | The chain closes the gate
+cateno | Portam cateno | I chain the gate
+caterva | Caterva mercatorum ad portum venit | The band of merchants comes to the harbour
+cathedra | Cathedra mollis ante focum stat | The soft chair stands before the hearth
+catillus1 | Catillus ova continet | The small dish holds eggs
+catinus | Catinus cibum calidum servat | The dish keeps the food warm
+catulus1 | Catulus matrem sequitur | The whelp follows its mother
+cauda | Cauda equi muscas pellit | The horse's tail drives away flies
+caudex1 | Caudex in ripa jacet | The trunk lies on the bank
+caulae | Caulae in muro apparent | The openings appear in the wall
+cauliculus | Cauliculus florem sustinet | The little stalk supports the flower
+caulis | Caulis fabae alte surgit | The bean stalk rises high
+caupo | Caupo hospitibus cenam parat | The innkeeper prepares dinner for the guests
+caupona | Caupona in via Appia est | The inn is on the Appian Way
+causa | Causa belli senatui nota est | The cause of the war is known to the senate
+causia | Causia pastoris in saxo jacet | The shepherd's sunhat lies on the rock
+causidicus | Causidicus tabulas ad judicium portat | The pleader carries tablets to the court
+causor | Pluviam causor | I plead the rain as an excuse
+cautela | Cautela nautam in tempestate servat | Caution keeps the sailor safe in a storm
+cauterium | Cauterium in igne calet | The branding iron is hot in the fire
+cautes | Cautes in mare eminet | The crag juts out into the sea
+cautio | Cautio ducis exercitum protegit | The general's wariness protects the army
+cavea | Cavea in fenestra pendet | The cage hangs in the window
+caveo | Ab igne caveo | I beware of the fire
+caverna | Caverna lupum celat | The cavern hides the wolf
+cavillatio | Cavillatio convivium animat | The raillery enlivens the banquet
+cavillor | Actorem cavillor | I jeer at the actor
+cavo | Truncum cavo | I hollow a log
+cedo1 | Consuli cedo | I yield to the consul
+# skip: cedo2 is only the imperative cedo, so no first person headword-form sentence is possible
+cedrus | Cedrus trabes templo praebet | The cedar provides beams for the temple
+celebratio | Celebratio in via Sacra fit | The gathering takes place on the Sacred Way
+celebritas | Celebritas viam implet | The crowd fills the road
+celebro | Festum celebro | I celebrate the festival
+celeritas | Celeritas equorum nuntium juvat | The speed of the horses helps the messenger
+celero | Gradum celero | I quicken my pace
+cella | Cella frumentum asservat | The storeroom keeps the grain
+celo | Donum in arca celo | I hide the gift in the chest
+cena | Cena a coquo paratur | The dinner is prepared by the cook
+cenaculum | Cenaculum supra tabernam est | The upper room is above the shop
+cenatio | Cenatio multas mensas habet | The dining-room has many tables
+ceno | Cum avo ceno | I dine with my grandfather
+censeo1 | Familias censeo | I assess the households
+censio | Censio in Campo Martio fit | The assessment takes place on the Campus Martius
+censor | Censor mores civium observat | The censor watches the conduct of the citizens
+censura | Censura viro honorem dat | The censorship gives honour to the man
+census2 | Census quinto quoque anno agitur | The census is held every fifth year
+centeni | Centeni equites ad castra veniunt | A hundred horsemen come to the camp
+centesimus | Centesimus miles ad portam stat | The hundredth soldier stands at the gate
+cento1 | Cento lectum pastoris tegit | The patchwork covers the shepherd's bed
+centrum | Centrum circini in charta manet | The centre of the compasses stays on the paper
+centumviri | Centumviri in basilica sedent | The centumviri sit in the basilica
+centuplico | Pecuniam centuplico | I increase the money a hundredfold
+centuria | Centuria ad pontem procedit | The century advances to the bridge
+centurio1 | Agrum centurio | I divide the field into centuries
+centurio2 | Centurio milites in campo exercet | The centurion trains the soldiers in the field
+centussis | Centussis pretium togae est | A hundred coppers is the price of the toga
+cera | Cera in sole liquescit | The wax melts in the sun
+cerastes | Cerastes in arena serpit | The horned viper creeps on the sand
+cerasus1 | Cerasus vere floret | The cherry tree blooms in spring
+cerebrum | Cerebrum corpus regit | The brain rules the body
+cerno | Montem procul cerno | I see the mountain in the distance
+cero | Dolia cero | I wax the jars
+ceroma | Ceroma in palaestra paratur | The oil is prepared in the wrestling-school
+certamen | Certamen in stadio incipit | The contest begins in the stadium
+certatio | Certatio cursorum populum excitat | The contest of the runners rouses the people
+certo2 | Cum fratre cursu certo | I contend with my brother in running
+cerula | Cerula pictorem juvat | The wax crayon helps the painter
+cerussa | Cerussa in capsa mulieris est | The white lead is in the woman's casket
+cervix | Cervix cygni longa est | The swan's neck is long
+cervus | Cervus per silvam fugit | The stag flees through the wood
+cessatio | Cessatio post laborem dulcis est | Idleness after work is sweet
+cessio | Cessio coram praetore peragitur | The surrender is completed before the praetor
+cesso | Ante januam cesso | I loiter before the door
+ceveo | Ad tibiam ceveo | I waggle to the pipe
+ceyx | Ceyx super flumen volat | The kingfisher flies over the river
+chalybs1 | Chalybs ferro durior est | Steel is harder than iron
+character | Character pecus notat | The brand marks the flock
+charta | Charta scribam exspectat | The paper awaits the scribe
+chasma | Chasma viam interrumpit | The chasm cuts across the road
+chele | Chele scorpionis arenam tangit | The claw of the scorpion touches the sand
+chelys | Chelys in templo Apollinis pendet | The lyre hangs in the temple of Apollo
+chirographum | Chirographum meum nuntius agnoscit | The messenger recognises my handwriting
+chlamys | Chlamys ducis a vento agitatur | The general's cloak is shaken by the wind
+choragium | Choragium actoribus datur | The theatrical equipment is given to the actors
+choraules | Choraules ante actores ambulat | The piper walks before the actors
+chorda | Chorda sub digito vibrat | The string vibrates under the finger
+chorea | Chorea nympharum circa fontem vertitur | The dance of the nymphs turns around the spring
+chorus | Chorus sub luna ducitur | The dance is led under the moon
+cibatus | Cibatus familiam alit | The food nourishes the family
+cibo | Gallinas cibo | I feed the hens
+cibus | Cibus hospitem exspectat | The food awaits the guest
+cicada | Cicada aestate cantat | The cicada sings in summer
+cicatrix | Cicatrix veterani fortitudinem ostendit | The veteran's scar shows courage
+ciccus | Ciccus nullum pretium habet | A trifle has no price
+cicer | Cicer in sacco servatur | The chickpea is kept in the sack
+ciconia | Ciconia in tecto nidum facit | The stork makes a nest on the roof
+cicuta1 | Cicuta prope rivum crescit | The hemlock grows near the stream
+cidaris | Cidaris regis Persarum aurea est | The tiara of the king of the Persians is golden
+cieo | Nautas ad laborem cieo | I rouse the sailors to work
+cimex | Cimex sub culcita habitat | The bug lives under the mattress
+cinaedus1 | Cinaedus in satira poetae nominatur | The catamite is mentioned in the poet's satire
+cincinnus | Cincinnus mulieris sub vitta pendet | The woman's curl hangs under the ribbon
+cinctus2 | Cinctus tunicam firmat | The girdle secures the tunic
+cingo | Urbem muro cingo | I surround the city with a wall
+cingulum1 | Cingulum ex corio fit | The belt is made of leather
+cinis | Cinis focum implet | The ash fills the hearth
+cinnabaris | Cinnabaris ex India ad urbem portatur | The dragon's blood is brought from India to the city
+cinnamomum | Cinnamomum a mercatore venditur | The cinnamon is sold by the merchant
+cippus | Cippus fines agri signat | The post marks the boundary of the field
+circino | Ramos circino | I curve the branches into a ring
+circitor | Circitor lucernam portat | The watchman carries a lamp
+circuitio | Circuitio vigiliarum noctu fit | The rounds of the watches take place by night
+circuitus2 | Circuitus solis annum efficit | The sun's circuit makes the year
+circulo | Panem circulo | I shape the loaf into a circle
+circulor | Ad oratorem circulor | I gather round the speaker
+circulus | Circulus in pulvere describitur | The circle is drawn in the dust
+circumago | Navem circumago | I turn the ship round
+circumcido | Vites circumcido | I trim the vines
+circumcludo | Hostes circumcludo | I enclose the enemy
+circumcurso | In prato circumcurso | I run about in the meadow
+circumdo | Murum urbi circumdo | I put a wall round the city
+circumduco | Cohortes longiore itinere circumduco | I lead the cohorts round by a longer route
+circumductio | Circumductio aquarum agros irrigat | The leading round of the water irrigates the fields
+circumeo | Aras circumeo | I walk round the altars
+circumfero | Mulsum circumfero | I pass the honey wine round
+circumflecto | Currum circumflecto | I wheel the chariot round
+# third: circumfluo only water flows round a place
+circumfluo | Unda insulam circumfluit | The water flows round the island
+circumfodio | Arbores circumfodio | I dig round the trees
+circumfundo | Amurcam ad oleam circumfundo | I pour lees round the olive tree
+circumgredior | Terga hostium circumgredior | I work round to the enemy's rear
+circumicio | Vallum castris circumicio | I throw a rampart round the camp
+# third: circumjaceo only places, peoples or things lie round something
+circumjaceo | Pratum villam circumjacet | The meadow lies round the farmhouse
+circumjectus2 | Circumjectus murorum hortum protegit | The encirclement of walls shelters the garden
+# third: circumlatro only dogs and similar animals bark
+circumlatro | Canis hospitem circumlatrat | The dog barks round the guest
+circumligo | Funem malo circumligo | I bind a rope round the mast
+circumlino | Taedas sulfure circumlino | I smear the torches with sulphur
+circumlitio | Circumlitio cerae tabulam servat | The smearing of wax protects the tablet
+circummunio | Oppidum fossa circummunio | I fortify the town with a ditch
+circumnecto | Vittam hastae circumnecto | I bind a ribbon round the spear
+circumplecto | Matrem circumplecto | I throw my arms round my mother
+circumplector | Arborem circumplector | I clasp the tree in my arms
+circumplico | Vitem palo circumplico | I twine the vine round the stake
+circumretio | Feram laqueo circumretio | I catch the beast in a noose
+# third: circumrodo only mice and similar animals gnaw round a thing
+circumrodo | Mus caseum circumrodit | The mouse gnaws round the cheese
+circumsaepio | Hortum palis circumsaepio | I fence the garden with stakes
+circumscribo | Potestatem consulis lege circumscribo | I limit the consul's power by law
+circumscriptio | Circumscriptio agri lapidibus signatur | The boundary of the field is marked with stones
+circumseco | Radices vitis circumseco | I cut round the roots of the vine
+circumsedeo | Urbem circumsedeo | I besiege the city
+circumsisto | Cervum circumsisto | I close in on the stag
+# third: circumsono only places and loud things resound around
+circumsono | Forum clamore circumsonat | The forum resounds all round with shouting
+circumspectio | Circumspectio nautae navem servat | The sailor's circumspection keeps the ship safe
+circumspecto | Ab arce circumspecto | I keep looking about from the citadel
+circumspectus2 | Circumspectus e turri portum ostendit | The survey from the tower shows the harbour
+circumspicio | Circumspicio in horto | I look around in the garden
+circumstantia | Circumstantia amicorum aegrum consolatur | The standing round of friends comforts the sick man
+circumsto | Mensam circumsto | I stand round the table
+# third: circumstrepo only crowds and noisy things make a din around a place
+circumstrepo | Turba theatrum circumstrepit | The crowd makes a din around the theatre
+circumstruo | Fontem lapide circumstruo | I build round the spring with stone
+# third: circumtono only a trumpet or thunder sounds around a place
+circumtono | Tuba aulam circumtonat | The trumpet thunders around the hall
+# third: circumvado violent verb, generic military figures
+circumvado | Exercitus hostem circumvadit | The army besets the enemy
+circumvallo | Castellum circumvallo | I blockade the fort
+circumvecto | Merces circumvecto | I carry the goods around
+circumvehor | Insulam navi circumvehor | I sail round the island by ship
+circumvenio | Collem circumvenio | I surround the hill
+circumverto | Rotam circumverto | I turn the wheel round
+circumvestio | Statuam panno circumvestio | I wrap the statue round with cloth
+# third: circumvolito only birds and insects flit around
+circumvolito | Hirundo lacum circumvolitat | The swallow flits around the lake
+# third: circumvolo only birds and flying creatures fly around
+circumvolo | Aquila montem circumvolat | The eagle flies around the mountain
+# third: circumvolvo is used reflexively, and the first person suits only a creature that coils
+circumvolvo | Anguis se circumvolvit | The snake rolls itself around
+cirrus | Cirrus sororis in vento movetur | The sister's curl moves in the wind
+cista | Cista libros servat | The box keeps the books
+cistophorus | Cistophorus pretium vini est | The cistophorus is the price of the wine
+cithara | Cithara in convivio sonat | The lyre sounds at the banquet
+citharista | Citharista sub arbore sedet | The lyre player sits under the tree
+citharoedus | Citharoedus senatorem delectat | The singer delights the senator
+cito2 | Senatores cito | I summon the senators
+civilitas | Civilitas consulis populo placet | The consul's courtesy pleases the people
+civis | Civis in foro ambulat | The citizen walks in the forum
+civitas | Civitas peregrino datur | Citizenship is given to the foreigner
+clades | Clades senatum terret | The disaster frightens the senate
+clamator | Clamator in foro populum fatigat | The bawler wearies the people in the forum
+clamito | Nomen amici clamito | I keep shouting my friend's name
+clamo | De via clamo | I shout from the street
+clamor | Clamor ex taberna venit | The shout comes from the shop
+# third: clango only trumpets and similar loud things clang
+clango | Tuba in castris clangit | The trumpet clangs in the camp
+clangor | Clangor tubae milites excitat | The clang of the trumpet wakes the soldiers
+# third: clareo only lights and heavenly bodies are bright
+clareo | Luna in caelo claret | The moon is bright in the sky
+# third: claresco only the sky, light or the day grows bright
+claresco | Caelum mane clarescit | The sky grows bright in the morning
+clarigatio | Clarigatio a sacerdote fit | The demand for redress is made by the priest
+# third: clarigo only a fetial priest makes this demand
+clarigo | Sacerdos pro populo clarigat | The priest demands redress for the people
+claritas1 | Claritas lunae viam monstrat | The brightness of the moon shows the way
+claritudo | Claritudo poetae per urbem crescit | The poet's renown grows through the city
+claro | Cubiculum lucerna claro | I make the bedroom bright with a lamp
+classiarius | Classiarius in navi stat | The marine stands on the ship
+classis | Classis ventum exspectat | The fleet awaits the wind
+claudeo | Pede dextro claudeo | I am lame in my right foot
+claudico | Post longum iter claudico | I limp after the long journey
+claudo1 | Fores claudo | I shut the doors
+claustra | Claustra portam firmant | The bolts secure the gate
+clausula1 | Clausula carminis poetam movet | The ending of the poem moves the poet
+clava | Clava in angulo jacet | The club lies in the corner
+clavicula | Clavicula vitis ramum tenet | The tendril of the vine grips the branch
+clavis | Clavis arcam aperit | The key opens the chest
+clavo | Tabulam ad murum clavo | I nail the board to the wall
+clavus | Clavus in ligno haeret | The nail sticks in the wood
+clementia | Clementia imperatoris populo grata est | The emperor's clemency is welcome to the people
+clepo | Poma clepo | I steal fruit
+clepsydra | Clepsydra horam ostendit | The water-clock shows the hour
+clibanus | Clibanus panem coquit | The oven bakes the bread
+cliens | Cliens patronum mane salutat | The client greets his patron in the morning
+clientela | Clientela duas familias jungit | Clientship joins two families
+clima | Clima in Aegypto calidum est | The climate in Egypt is warm
+clinicus | Clinicus aegrum visitat | The doctor visits the sick man
+clipeo | Bracchium pallio clipeo | I shield my arm with a cloak
+clipeus | Clipeus ex aere fit | The shield is made of bronze
+clitellae | Clitellae in stabulo pendent | The pack-saddles hang in the stable
+clivus | Clivus ad arcem ducit | The slope leads up to the citadel
+cloaca | Cloaca aquam in Tiberim fundit | The sewer pours water into the Tiber
+clueo | Vir bonus clueo | I am called a good man
+clunis | Clunis equi lata est | The horse's haunch is broad
+clyster | Clyster in arca medici est | The syringe is in the doctor's chest
+coacervo | Frumentum in horreo coacervo | I heap up the grain in the barn
+# third: coacesco only wine and similar liquids turn sour
+coacesco | Vinum coacescit | The wine turns sour
+coactor | Coactor pecuniam ex auctione colligit | The collector gathers the money from the auction
+# skip: coactus2 occurs only in the ablative singular coactu, so no nominative headword-form sentence is possible
+coaddo | Mel aquae coaddo | I add honey as well to the water
+coadunatio | Coadunatio amicorum urbem firmat | The uniting of friends strengthens the city
+coaedifico | Hortum coaedifico | I build over the garden
+coaequo | Aream coaequo | I level the threshing floor
+coagmento | Trabes in navi coagmento | I join the beams together in the ship
+coagmentum | Coagmentum tabulae firmum est | The joint of the board is firm
+coagulum | Coagulum lac in caseum vertit | The rennet turns the milk into cheese
+# third: coalesco "I grow together" is not a sentence a learner needs; things knit together
+coalesco | Murus calce coalescit | The wall grows together with lime
+coangusto | Oves in horto coangusto | I confine the sheep in the garden
+coarguo | Mercatorem avaritiae coarguo | I convict the merchant of greed
+coarto | Lanam in sacco coarto | I compress the wool in the sack
+coccum | Coccum lanam tingit | The scarlet dyes the wool
+coclea | Coclea in folio sedet | The snail sits on the leaf
+coclear | Coclear in catino stat | The spoon stands in the dish
+coctura | Coctura carnem mollem facit | The cooking makes the meat soft
+codicilli | Codicilli ab amico veniunt | The notes come from a friend
+coemo | Agros coemo | I buy up the fields
+coemptio | Coemptio coram testibus fit | The mock sale takes place before witnesses
+coeo | Cum amicis in porticum coeo | I come together with my friends in the colonnade
+coepio | Laborare coepio | I begin to work
+coepto | Flumen transire coepto | I attempt to cross the river
+coerceo | Equum freno coerceo | I restrain the horse with a bridle
+coercitio | Coercitio magistratus in urbe valet | The magistrate's coercion prevails in the city
+cogitatio | Cogitatio mea ad patriam redit | My thought returns to my homeland
+cogito | De itinere cogito | I think about the journey
+cognatio | Cognatio inter fratres firma est | Kinship between brothers is firm
+cognitio | Cognitio linguae Graecae utilis est | Knowledge of the Greek language is useful
+cognitor | Cognitor mercatorem in judicio defendit | The advocate defends the merchant in court
+cognomen | Cognomen viri notum est | The man's surname is well known
+cognomentum | Cognomentum ducis ab avo venit | The leader's surname comes from his grandfather
+cognomino | Canem Leonem cognomino | I name the dog Leo
+cognosco | Nomina civium cognosco | I learn the names of the citizens
+cogo | Boves in stabulum cogo | I gather the cattle into the stable
+# third: cohaereo "I cohere" is not a sentence a learner needs; things hold together
+cohaereo | Ramus cum arbore cohaeret | The branch clings to the tree
+cohibeo | Vinum in amphora cohibeo | I contain the wine in the amphora
+cohonesto | Amicum donis cohonesto | I honour my friend with gifts
+cohorresco | Ad tonitrum cohorresco | I shudder at the thunder
+cohors | Cohors in colle manet | The cohort stays on the hill
+cohortatio | Cohortatio ducis milites incitat | The general's exhortation spurs the soldiers
+cohortor | Milites cohortor | I exhort the soldiers
+coinquino | Aquam luto coinquino | I defile the water with mud
+coitio | Coitio amicorum in horto fit | The meeting of friends takes place in the garden
+coitus2 | Coitus syllabarum verbum facit | The union of syllables makes a word
+colaphus | Colaphus gladiatori in arena datur | The punch is given to the gladiator in the arena
+# third: collabor only buildings and similar things collapse
+collabor | Domus vetus collabitur | The old house collapses
+collacrimo | Casum amici collacrimo | I weep over my friend's misfortune
+collatio | Collatio inter duos libros magistrum juvat | The comparison between two books helps the teacher
+collator | Collator frumenti civitatem juvat | The contributor of grain helps the state
+# skip: collatus2 occurs only in the ablative singular collatu, so no nominative headword-form sentence is possible
+collaudo | Collegam collaudo | I extol my colleague
+collectio | Collectio uvarum autumno fit | The gathering of the grapes takes place in autumn
+collega | Collega mecum in curia laborat | My colleague works with me in the senate-house
+collegium | Collegium pontificum in templo convenit | The college of priests meets in the temple
+collido | Manus collido | I clap my hands together
+colligatio | Colligatio trabium pontem firmat | The connection of the beams strengthens the bridge
+colligo2 | Libros filo colligo | I bind the books with thread
+collineo | Ad signum collineo | I aim at the mark
+collino | Parietem creta collino | I besmear the wall with chalk
+collis | Collis post villam surgit | The hill rises behind the farmhouse
+collocatio | Collocatio verborum orationem ornat | The arrangement of words adorns the speech
+colloco | Sellam sub tecto colloco | I place the chair under the roof
+collocutio | Collocutio inter amicos grata est | Conversation between friends is pleasant
+colloquium | Colloquium ducum ad ripam fit | The conference of the generals takes place at the riverbank
+colloquor | Cum amico colloquor | I converse with my friend
+# third: colluceo only fires and bright things blaze
+colluceo | Ignis in nocte collucet | The fire blazes in the night
+colluco | Silvam colluco | I thin the wood
+colluctatio | Colluctatio athletarum spectatores delectat | The struggle of the athletes delights the spectators
+colluctor | Cum fratre colluctor | I wrestle with my brother
+colludo | Cum sorore colludo | I play with my sister
+collum | Collum ursi crassum est | The bear's neck is thick
+colluo | Pocula aqua colluo | I rinse the cups with water
+collusio | Collusio testium judicem fallit | The collusion of the witnesses deceives the judge
+collusor | Collusor meus ad januam venit | My playmate comes to the door
+collustro | Viam face collustro | I illuminate the road with a torch
+colluvio | Colluvio in fossa jacet | The filth lies in the ditch
+collyrium | Collyrium oculos aegri sanat | The eye salve heals the sick man's eyes
+colo1 | Agrum colo | I cultivate the field
+colo2 | Vinum per linteum colo | I strain the wine through a cloth
+colocasia | Colocasia in stagno crescit | The lotus grows in the pond
+colon | Colon in libro medici describitur | The colon is described in the doctor's book
+colonia1 | Colonia in litore condita est | The colony was founded on the shore
+colonus | Colonus triticum metit | The farmer reaps the wheat
+color | Color rosae pulcher est | The colour of the rose is beautiful
+coloro | Tunicam purpura coloro | I colour the tunic with purple
+colossus | Colossus supra portum surgit | The colossus rises above the harbour
+coluber | Coluber in herba latet | The snake hides in the grass
+colubra | Colubra sub saxo dormit | The snake sleeps under the rock
+colum1 | Colum vinum purgat | The strainer cleans the wine
+columba | Columba in tecto sedet | The dove sits on the roof
+# skip: columbinus is an adjective (of doves), misfiled as a noun
+columen | Columen montis nive tegitur | The summit of the mountain is covered with snow
+columna | Columna tectum sustinet | The column supports the roof
+colus | Colus in manu matronae est | The distaff is in the matron's hand
+# third: combibo1 "I absorb" is not a sentence a learner needs; things soak up liquid
+combibo1 | Terra aquam combibit | The earth absorbs the water
+comburo | Epistulas comburo | I burn the letters
+comedo1 | Placentam comedo | I eat up the cake
+comes | Comes in itinere mecum ambulat | My companion walks with me on the journey
+cometes1 | Cometes noctu apparet | The comet appears by night
+comissatio | Comissatio post cenam incipit | The revelry begins after dinner
+comissator | Comissator ad domum amici venit | The reveller comes to a friend's house
+comissor | Cum amicis comissor | I revel with my friends
+comitas | Comitas hospitis nos delectat | The courtesy of our host pleases us
+comitatus2 | Comitatus regis per forum procedit | The king's retinue advances through the forum
+comitiatus2 | Comitiatus in campo Martio fit | The assembly takes place on the Campus Martius
+comitium | Comitium prope curiam est | The assembly-place is near the senate-house
+comito | Sororem ad scholam comito | I accompany my sister to school
+comitor | Patrem ad portum comitor | I accompany my father to the harbour
+commaculo | Vestem luto commaculo | I defile my clothing with mud
+commanduco | Panem commanduco | I chew up the bread
+commeatus | Commeatus exercitum alit | The supplies feed the army
+commemoratio | Commemoratio nominis patrem movet | The mention of the name moves my father
+commemoro | Nomen amici commemoro | I mention my friend's name
+commendatio | Commendatio amici mihi prodest | A friend's recommendation helps me
+commendo | Librum amico commendo | I entrust the book to my friend
+commentariensis | Commentariensis nomina in tabula scribit | The registrar writes the names on a tablet
+commentarius | Commentarius in mensa jacet | The notebook lies on the table
+commentatio | Commentatio longa discipulum fatigat | Long study tires the pupil
+commentor1 | Cum sociis in bibliotheca commentor | I study with my companions in the library
+commeo | Per viam angustam commeo | I ply back and forth along the narrow road
+commercium | Commercium cum Graecis civitatem ditat | Trade with the Greeks enriches the city
+commercor | Merces in portu commercor | I buy up goods in the harbour
+commereo | Praemium magnum commereo | I deserve a great reward
+commigro | Ad novam urbem commigro | I migrate to a new city
+commilitium | Commilitium inter milites amicitiam gignit | Comradeship among soldiers produces friendship
+commilito1 | Commilito meus castra amat | My fellow-soldier loves the camp
+comminatio | Comminatio ducis hostes terret | The general's threat frightens the enemy
+# third: commingo crude verb, kept to an animal
+commingo | Canis pavimentum commingit | The dog wets the floor
+comminor | Hosti comminor | I threaten the enemy
+comminuo | Saxum malleo comminuo | I crush the rock with a hammer
+commisceo | Vinum cum aqua commisceo | I mix the wine with water
+commiseresco | Casum viduae commiseresco | I pity the widow's misfortune
+commiseror | Orphanum commiseror | I pity the orphan
+commissio | Commissio ludorum populum laetificat | The start of the games cheers the people
+commissura | Commissura in pariete patet | The joint shows in the wall
+committo | Proelium cum hoste committo | I join battle with the enemy
+commoditas | Commoditas viae viatores juvat | The convenience of the road helps the travellers
+commodo2 | Pecuniam vicino commodo | I lend money to my neighbour
+commolior | Machinam novam commolior | I set a new machine in motion
+commonefacio | Fratrem promissi commonefacio | I remind my brother of his promise
+commoneo | Filium officii commoneo | I remind my son of his duty
+commonstro | Viatori viam commonstro | I point out the way to the traveller
+commoratio | Commoratio in urbe viatorem tardat | The delay in the city holds back the traveller
+commotio | Commotio animi puellam turbat | The agitation of her mind troubles the girl
+commoveo | Lectum e loco commoveo | I move the bed from its place
+communicatio | Communicatio consilii amicos jungit | The communication of the plan unites the friends
+communico | Cibum cum vicinis communico | I share my food with the neighbours
+communio1 | Castra vallo communio | I fortify the camp with a rampart
+communio2 | Communio inter fratres pacem servat | Fellowship between brothers preserves peace
+communitas | Communitas oppidi festum celebrat | The community of the town celebrates the festival
+communitio | Communitio itineris ducem occupat | The preparation of the route keeps the general busy
+commurmuro | In angulo commurmuro | I murmur in the corner
+commutatio | Commutatio temporis agricolas movet | The change of weather concerns the farmers
+commuto | Vestem cum amico commuto | I change my clothing with a friend
+como1 | Capillos mane como | I comb my hair in the morning
+# third: como2 "I am hairy" is not a sentence a learner needs; horses and plants are furnished with hair
+como2 | Equus juba comat | The horse is furnished with a mane
+comoedia | Comoedia spectatores in theatro delectat | The comedy amuses the spectators in the theatre
+compaciscor | Cum socio de pretio compaciscor | I agree with my partner about the price
+compages | Compages navis aquam excludit | The framework of the ship keeps out the water
+comparatio1 | Comparatio duorum poetarum difficilis est | The comparison of two poets is difficult
+comparatio2 | Comparatio cenae multum temporis postulat | The preparation of the dinner demands much time
+comparco | Pecuniam comparco | I save money
+compareo | Ex nebula compareo | I appear out of the mist
+comparo1 | Duos libros inter se comparo | I compare the two books with each other
+comparo2 | Cenam hospitibus comparo | I prepare dinner for the guests
+compasco | Oves in colle compasco | I pasture the sheep on the hill
+compedio | Equum in prato compedio | I fetter the horse in the meadow
+compello1 | Milites ad iter compello | I compel the soldiers to set out
+compello2 | Fratrem de mora compello | I rebuke my brother for the delay
+compendium | Compendium magnum mercatorem laetificat | The great saving cheers the merchant
+compensatio | Compensatio damni civem placat | The compensation for the loss calms the citizen
+compenso | Damnum lucro compenso | I compensate the loss with a profit
+comperendinatio | Comperendinatio judicii litigatorem vexat | The adjournment of the trial annoys the litigant
+comperendino | Judicium in alium diem comperendino | I adjourn the trial to another day
+comperio | Verum ex nuntio comperio | I ascertain the truth from the messenger
+comperior | Nomen viri comperior | I ascertain the man's name
+compes1 | Compes equi in horreo jacet | The horse's fetter lies in the storehouse
+compesco | Iram meam compesco | I curb my anger
+# third: competo "I coincide" is not a sentence a learner needs; events coincide
+competo | Dies festus cum ludis competit | The festival day coincides with the games
+compilo | Agros hostium compilo | I plunder the enemy's fields
+compingo1 | Tabulas glutino compingo | I join the boards with glue
+compitum | Compitum prope templum est | The crossroads is near the temple
+complaceo | Patri novo carmine complaceo | I please my father with a new song
+complano | Viam pala complano | I level the path with a spade
+complector | Filium laetus complector | I embrace my son gladly
+compleo | Dolium vino compleo | I fill the jar with wine
+complexio | Complexio verborum orationem ornat | The combination of words adorns the speech
+complexus2 | Complexus matris puerum consolatur | The embrace of his mother comforts the boy
+complico | Togam in arca complico | I fold the toga in the chest
+comploratio | Comploratio viduae vicinos movet | The widow's lamentation moves the neighbours
+comploro | Fortunam meam comploro | I lament my fate
+compluvium | Compluvium imbrem in atrium admittit | The roof-opening lets the rain into the atrium
+compono | Carmen novum compono | I compose a new song
+comporto | Ligna pro hieme comporto | I collect wood for the winter
+compositio | Compositio florum hortum ornat | The arrangement of flowers adorns the garden
+compositor | Compositor versus cantat | The composer sings verses
+compotio | Amicum praemii compotio | I make my friend share in the reward
+comprecor | Deos pro patria comprecor | I pray to the gods for my country
+comprehensio | Comprehensio praedonum magistratum laetificat | The seizure of the bandits cheers the magistrate
+compressio | Compressio aeris in utre sonum mutat | The compression of the air in the bag changes the sound
+compressus2 | Compressus lanae in fasce spatium minuit | The compression of the wool in the bale reduces the space
+comprimo | Spongiam manu comprimo | I compress the sponge in my hand
+comprobo | Consilium amici comprobo | I approve my friend's plan
+compromitto | Cum adversario in arbitrum compromitto | I agree with my opponent to refer it to an arbiter
+computatio | Computatio pecuniae diu durat | The computation of the money lasts a long time
+computo | Dies ad nuptias computo | I calculate the days until the wedding
+conamen | Conamen pueri patrem delectat | The boy's effort pleases his father
+conatus | Conatus militum ducem movet | The soldiers' attempt moves the general
+concalefacio | Manus igne concalefacio | I warm my hands at the fire
+concalesco | Ad focum concalesco | I warm up at the hearth
+concallesco | Labore diuturno concallesco | I harden through long labour
+# skip: concavus is an adjective (hollow), misfiled as a noun
+concedo | Amico locum concedo | I yield my place to a friend
+concelebro | Festum cum civibus concelebro | I celebrate the festival with the citizens
+concenturio | Milites in campo concenturio | I assemble the soldiers on the plain
+concentus | Concentus cantorum templum implet | The harmony of the singers fills the temple
+conceptio | Conceptio novi liberi familiam beat | The conception of a new child blesses the family
+conceptus2 | Conceptus gemellorum avos laetificat | The conception of twins gladdens the grandparents
+concerpo | Epistulam concerpo | I tear up the letter
+concertatio | Concertatio de pretio mercatores fatigat | The dispute about the price tires the merchants
+concerto | Cum vicino de limite concerto | I contend with my neighbour about the boundary
+concessio | Concessio judicis litigatorem placat | The judge's concession calms the litigant
+concesso | A labore concesso | I cease from work
+# skip: concessus2 occurs only in the ablative singular concessu, so no nominative headword-form sentence is possible
+concha | Concha in litore jacet | The shellfish lies on the shore
+conchylium | Conchylium in mensa positum est | The shellfish is set on the table
+# third: concido1 "I collapse" is not a sentence a learner needs; buildings collapse
+concido1 | Turris vetus concidit | The old tower collapses
+concido2 | Carnem concido | I cut up the meat
+concieo | Milites ad arma concieo | I summon the soldiers to arms
+conciliabulum | Conciliabulum prope portam est | The meeting-place is near the gate
+conciliatio | Conciliatio vicinorum litem finit | The conciliation of the neighbours ends the quarrel
+conciliator | Conciliator pacis civitatem servat | The promoter of peace preserves the state
+conciliatrix | Conciliatrix sorori maritum quaerit | The match-maker looks for a husband for my sister
+concilio | Senatum oratione concilio | I win over the senate with a speech
+concilium | Concilium in colle convenit | The assembly meets on the hill
+concinnator | Concinnator convivii mensas ornat | The arranger of the banquet decorates the tables
+concinnitas | Concinnitas orationis auditores capit | The elegance of the speech captivates the listeners
+concinno | Flores in calathis concinno | I arrange the flowers in baskets
+concino | Cum fratre concino | I harmonise with my brother
+concipio | Spem novam concipio | I conceive a new hope
+concitatio | Concitatio plebis senatum terret | The agitation of the common people alarms the senate
+concitator | Concitator populi magistratus vexat | The instigator of the people annoys the magistrates
+concito | Equum ad cursum concito | I spur the horse to a run
+conclamo | Ad arma conclamo | I shout the call to arms
+conclave | Conclave in summa domo est | The room is at the top of the house
+conclusio | Conclusio fabulae spectatores movet | The conclusion of the play moves the spectators
+# skip: concolor is an adjective (same-coloured), misfiled as a verb
+concomitor | Matrem ad templum concomitor | I accompany my mother to the temple
+concoquo | Cibum concoquo | I digest my food
+concordia1 | Concordia cives in pace tenet | Harmony keeps the citizens at peace
+concordo | Cum magistro concordo | I agree with my teacher
+concorporo | Novum agrum in praedium concorporo | I incorporate the new field into the estate
+concredo | Pecuniam sodali concredo | I entrust money to a comrade
+concremo | Acervum foliorum concremo | I burn up the pile of leaves
+# third: concrepo doors and loose objects rattle
+concrepo | Ostium vento concrepat | The door rattles in the wind
+concretio | Concretio nebulae in caelo fit | The condensation of the mist happens in the sky
+concubinatus | Concubinatus lege matrimonium non est | Concubinage is not marriage in law
+concubinus | Concubinus in villa habitat | The concubine lives in the villa
+concubitus | Concubitus a Vestalibus vitatur | Intercourse is shunned by the Vestals
+conculco | Herbam pedibus conculco | I trample the grass with my feet
+concumbo | Cum uxore concumbo | I lie with my wife
+concupio | Gloriam concupio | I desire glory
+concupisco | Hortum vicini concupisco | I covet my neighbour's garden
+concurro | Ad forum cum civibus concurro | I assemble at the forum with the citizens
+concursatio | Concursatio mercatorum in portu aures replet | The bustle of the merchants in the harbour fills the ears
+concursio | Concursio causarum judicem movet | The concurrence of causes impresses the judge
+concurso | Per vicos concurso | I rush about the streets
+concursus | Concursus populi theatrum implet | The gathering of the people fills the theatre
+concussio | Concussio terrae turrem labefacit | The shaking of the earth weakens the tower
+concutio | Arborem manu concutio | I shake the tree with my hand
+condecoro | Aram floribus condecoro | I adorn the altar with flowers
+condemnatio | Condemnatio fraudatoris amicos ejus contristat | The condemnation of the swindler saddens his friends
+condemno | Furem condemno | I condemn the thief
+condenso | Succum in olla condenso | I condense the juice in the pot
+condico | Diem cum hospite condico | I arrange a day with the guest
+condictio | Condictio pecuniae debitorem angit | The claim for the money distresses the debtor
+condimentum | Condimentum cibum sapidum facit | The seasoning makes the food tasty
+condio | Piscem herbis condio | I season the fish with herbs
+condisco | Versus Graecos condisco | I learn the Greek verses thoroughly
+conditio3 | Conditio olerum coquum occupat | The seasoning of the vegetables keeps the cook busy
+conditor1 | Conditor urbis ab omnibus honoratur | The founder of the city is honoured by all
+conditorium | Conditorium sub terra latet | The repository lies hidden under the ground
+conditrix | Conditrix urbis in carmine laudatur | The foundress of the city is praised in the song
+condo | Urbem novam condo | I found a new city
+condoceo | Canem condoceo | I train the dog
+condoleo | Pedibus condoleo | I suffer in my feet
+condolesco | Post cursum condolesco | I ache after the run
+condono | Filiae librum condono | I give the book to my daughter
+conduco | Navem in diem conduco | I hire a boat for the day
+conductio | Conductio domus pecuniam postulat | The hiring of the house demands money
+conductor | Conductor agri frumentum serit | The lessee of the field sows grain
+conduplico | Mercedem conduplico | I double the wage
+conecto | Duas trabes ferro conecto | I connect two beams with iron
+conexio | Conexio rerum a philosopho docetur | The union of things is taught by the philosopher
+confabulor | Cum amicis confabulor | I converse with my friends
+confarreatio | Confarreatio coram sacerdote fit | The confarreatio takes place before the priest
+# skip: confarreo attested only in passive forms, so no active headword or third-person sentence is sound
+confectio | Confectio libri multos menses postulat | The completion of the book requires many months
+confector | Confector belli triumphum agit | The finisher of the war holds a triumph
+confercio | Poma in saccum confercio | I cram the fruit into the sack
+confero | Pecuniam ex civibus confero | I collect money from the citizens
+# third: confervesco only liquids and similar things heat up
+confervesco | Aqua in olla confervescit | The water heats up in the pot
+confessio | Confessio erroris pacem facit | The confession of the error brings peace
+conficio | Opus ante noctem conficio | I complete the work before night
+# third: configo "I pierce" reads unnaturally for a violent verb
+configo | Hostis scutum militis configit | The enemy pierces the soldier's shield
+configuro | Ceram manibus configuro | I shape the wax with my hands
+confingo | Fabulam confingo | I fabricate a story
+confinium | Confinium agrorum ad flumen est | The border of the fields is at the river
+confirmatio | Confirmatio nuntii ducem laetificat | The confirmation of the news cheers the general
+confirmo | Murum novis saxis confirmo | I strengthen the wall with new stones
+confisco | Bona hostis confisco | I confiscate the enemy's property
+confiteor | Errorem meum confiteor | I confess my mistake
+# third: conflagro "I burn" is not a sentence a learner needs; buildings burn
+conflagro | Villa vetus conflagrat | The old farmhouse burns
+conflictatio | Conflictatio navium nautas terret | The collision of the ships frightens the sailors
+conflictio | Conflictio curruum viam obstruit | The collision of the carts blocks the road
+conflicto | Cum vento adverso conflicto | I struggle with the head wind
+conflictus2 | Conflictus lapidum sonum edit | The collision of stones makes a noise
+confligo | Cum hoste ad flumen confligo | I fight with the enemy at the river
+conflo | Flammam lignis conflo | I kindle a flame with wood
+# third: confluo only rivers and crowds converge
+confluo | Rivus cum flumine confluit | The stream converges with the river
+confodio | Vineam confodio | I dig the vineyard
+conformatio | Conformatio pontis architectum movet | The shape of the bridge impresses the architect
+conformo | Vas ex argilla conformo | I shape a pot from clay
+confrico | Mensam panno confrico | I rub the table with a cloth
+confringo | Nucem confringo | I break the nut
+confugio | Ad patrem confugio | I flee to my father
+confundo | Colores in tabula confundo | I mix the colours on the panel
+confusio | Confusio vocum auditorem turbat | The mixture of voices troubles the listener
+confuto | Argumentum adversarii confuto | I refute my opponent's argument
+congelo | Aquam frigore congelo | I freeze the water with cold
+congemino | Numerum militum congemino | I double the number of soldiers
+congemo | Sub onere congemo | I groan under the burden
+# third: congenero "I beget at the same time" is not a sentence a learner needs; the verb is used of animals
+congenero | Sus porcos congenerat | The sow brings forth piglets at the same time
+congeries | Congeries frumenti in area stat | The heap of grain stands on the threshing floor
+congero1 | Saxa in ripa congero | I heap rocks on the bank
+congestio | Congestio pecuniae avarum laetificat | The accumulation of money cheers the miser
+congestus2 | Congestus nivis tectum premit | The accumulation of snow presses on the roof
+congius | Congius vini in mensa stat | The congius of wine stands on the table
+# third: conglacio only water and similar things freeze up
+conglacio | Stagnum frigore conglaciat | The pond freezes up in the cold
+conglobo | Oves sub arbore conglobo | I cluster the sheep under the tree
+conglomero | Lanam in pilam conglomero | I roll the wool into a ball
+conglutino | Chartas gummi conglutino | I glue the papers with gum
+congratulor | Fratri de victoria congratulor | I congratulate my brother on the victory
+congredior | Cum amico in via congredior | I meet my friend on the road
+congregatio | Congregatio avium in agro notatur | The gathering of birds in the field is noticed
+congrego | Pueros in schola congrego | I assemble the boys in the school
+congressio | Congressio legatorum regem movet | The meeting of the envoys moves the king
+congressus2 | Congressus consulum vesperi fit | The meeting of the consuls takes place in the evening
+congruo | Cum patre congruo | I agree with my father
+conicio | Lapidem in flumen conicio | I throw a stone into the river
+conitor | Ad cacumen montis conitor | I strive towards the top of the mountain
+coniveo | Ad lucem coniveo | I blink at the light
+conjectio | Conjectio pilae ludum incipit | The throwing of the ball begins the game
+conjecto | Ex nubibus pluviam conjecto | I guess rain from the clouds
+conjector | Conjector somnium regis explicat | The interpreter explains the king's dream
+conjectura | Conjectura de tempore viatorem non fallit | The conjecture about the weather does not deceive the traveller
+conjectus2 | Conjectus lapidis ad murum pervenit | The throw of the stone reaches the wall
+conjugatio | Conjugatio colorum picturam pulchram facit | The combination of colours makes the picture beautiful
+conjugium | Conjugium amicorum nostrorum mense Junio fit | The marriage of our friends takes place in June
+conjugo | Duo fila conjugo | I unite two threads
+conjunctio | Conjunctio viarum oppidum aperit | The connection of the roads opens up the town
+conjuratio | Conjuratio in senatu patefit | The conspiracy is revealed in the senate
+conjuro | Cum sociis contra regem conjuro | I conspire with my companions against the king
+connascor | Cum fratre gemino connascor | I am born together with my twin brother
+conopeum | Conopeum lectum a culicibus defendit | The mosquito net protects the bed from gnats
+conor | Flumen transnare conor | I try to swim across the river
+conquasso | Situlam conquasso | I shake the bucket
+conqueror | De frigore conqueror | I complain about the cold
+conquestio | Conquestio colonorum dominum offendit | The complaint of the farmers offends the master
+conquiesco | Post laborem conquiesco | I rest after work
+conquiro | Libros antiquos conquiro | I collect old books
+conquisitio | Conquisitio clavis totum diem occupat | The search for the key takes up the whole day
+consaepio | Agrum cratibus consaepio | I enclose the field with hurdles
+consaluto | Hospitem ad januam consaluto | I greet the guest at the door
+consanguineus | Consanguineus meus in Sicilia habitat | My relative lives in Sicily
+consanguinitas | Consanguinitas nos ad auxilium vocat | Blood kinship calls us to help
+conscendo | Montem conscendo | I climb the mountain
+conscientia | Conscientia pura somnum dat | A clear conscience gives sleep
+conscindo | Togam conscindo | I tear the toga
+conscisco | Bellum cum Latinis conscisco | I decree war on the Latins
+conscribo | Milites novos conscribo | I enrol new soldiers
+conscriptio | Conscriptio epistulae magistrum diu tenet | The composition of the letter occupies the teacher for a long time
+conseco | Caseum conseco | I cut up the cheese
+consecratio | Consecratio templi die festo fit | The consecration of the temple takes place on a feast day
+consector | Lepores consector | I pursue the hares
+consecutio | Consecutio pigritiae discipulum monet | The consequence of laziness warns the pupil
+consenesco | In otio consenesco | I grow old in leisure
+consensio | Consensio magistratuum legem sustinet | The agreement of the magistrates upholds the law
+consensus2 | Consensus gentium veritatem ostendit | The agreement of nations shows the truth
+consentio | De die cum sorore consentio | I agree with my sister about the day
+consequentia | Consequentia belli civitatem premit | The consequence of the war weighs on the state
+consero1 | Olivas in agro consero | I plant olive trees in the field
+conserva | Conserva panem coquit | The fellow-slave bakes bread
+conservatio | Conservatio frumenti famem prohibet | The preservation of grain keeps off hunger
+conservator | Conservator urbis civibus carus est | The preserver of the city is dear to the citizens
+conservatrix | Conservatrix civitatis in templo colitur | The protectress of the state is worshipped in the temple
+conservo | Vinum in cella conservo | I preserve the wine in the cellar
+conservus | Conservus mecum aquam portat | My fellow-slave carries water with me
+consessor | Consessor judici consilium dat | The assessor gives advice to the judge
+consessus | Consessus civium in porticu exspectat | The assembly of citizens waits in the colonnade
+considero | Viam optimam considero | I consider the best route
+consido | In subsellio consido | I sit down on the bench
+consigno | Epistulam cera consigno | I seal the letter with wax
+consilior | Cum medico consilior | I consult the doctor
+consilium | Consilium senis ducem juvat | The old man's plan helps the general
+consisto | Ante portam consisto | I stand still before the gate
+consistorium | Consistorium magnum in palatio stat | The large council chamber stands in the palace
+consobrinus | Consobrinus meus Romam venit | My cousin comes to Rome
+consolatio | Consolatio vicini viduam recreat | The comfort of the neighbour revives the widow
+consolido | Murum calce consolido | I solidify the wall with lime
+consolo | Orbam matrem verbis consolo | I console the grieving mother with words
+consolor | Fratrem tristem consolor | I console my sad brother
+# third: consono places and voices resound, not "I"
+consono | Vallis cantu consonat | The valley resounds with song
+consonus | Consonus vocalem sequitur | The consonant follows the vowel
+consopio | Aegrum potione consopio | I lull the patient to sleep with a potion
+consors | Consors mercatoris merces numerat | The partner of the merchant counts the goods
+consortio | Consortio sodalium juvenem laetificat | The fellowship of his comrades cheers the young man
+consortium | Consortium mercatorum navem emit | The partnership of merchants buys a ship
+conspectus2 | Conspectus maris nautam recreat | The sight of the sea refreshes the sailor
+conspergo | Panem sale conspergo | I sprinkle the bread with salt
+conspicio1 | Navem in mari conspicio | I notice a ship on the sea
+conspicor | Avem in arbore conspicor | I spot a bird in the tree
+conspiratio | Conspiratio vocum templum implet | The harmony of voices fills the temple
+conspiro1 | Cum choro conspiro | I harmonise with the choir
+conspondeo | Auxilium vicino conspondeo | I pledge help to my neighbour
+# third: conspuo spitting is crude for a person; camels do it
+conspuo | Camelus viatorem conspuit | The camel spits on the traveller
+constantia1 | Constantia ducis militibus spem dat | The constancy of the leader gives hope to the soldiers
+consternatio | Consternatio civium consulem commovet | The dismay of the citizens alarms the consul
+consterno1 | Floribus viam consterno | I strew the road with flowers
+consterno2 | Anseres clamore consterno | I terrify the geese with a shout
+constituo | Novam legem constituo | I establish a new law
+constitutio | Constitutio civitatis a sapientibus laudatur | The constitution of the state is praised by the wise
+constitutor | Constitutor scholae discipulos salutat | The founder of the school greets the pupils
+# third: consto "I agree" in this sense is said of accounts and statements
+consto | Ratio cum numeris constat | The account agrees with the figures
+# third: constrepo only noisy things resound
+constrepo | Theatrum clamore constrepit | The theatre resounds with shouting
+constringo | Libros funiculo constringo | I bind the books with a cord
+constructio | Constructio navis fabros occupat | The construction of the ship keeps the carpenters busy
+construo | Villam novam in colle construo | I build a new farmhouse on the hill
+constupro | Nullam feminam constupro | I violate no woman
+consuadeo | Fratri pacem consuadeo | I urge peace on my brother
+consuefacio | Equum frenis consuefacio | I accustom the horse to the bridle
+consuesco | Mane surgere consuesco | I grow used to rising early
+consuetudo | Consuetudo antiqua in oppido manet | The old custom remains in the town
+consul | Consul ad populum orationem habet | The consul gives a speech to the people
+consulatus | Consulatus unum annum durat | The consulship lasts one year
+consulo | Senatum de pace consulo | I consult the senate about peace
+consultatio | Consultatio longa senatores fatigat | The long deliberation tires the senators
+consulto2 | De itinere consulto | I deliberate about the journey
+consultor1 | Consultor advocatum mane visitat | The adviser visits the lawyer in the morning
+consummatio | Consummatio rationum mercatorem tenet | The summation of the accounts detains the merchant
+consummo | Pecuniam in tabula consummo | I sum up the money on the tablet
+consumo | Panem et vinum consumo | I consume bread and wine
+consuo | Vestem acu consuo | I stitch the garment with a needle
+consurgo | Mane e lecto consurgo | I rise from bed in the morning
+# third: contabesco "I waste away" is grim; plants wither
+contabesco | Flos siccitate contabescit | The flower wastes away in the drought
+contabulo | Cubiculum asseribus contabulo | I board the room with planks
+contactus2 | Contactus aquae frigidae natatorem excitat | The touch of cold water wakes the swimmer
+contagio | Contagio in oppido late patet | The contagion spreads widely in the town
+contamino | Puteum sordibus contamino | I contaminate the well with filth
+contego | Panem linteo contego | I cover the bread with a cloth
+contemplatio | Contemplatio stellarum philosophum quietum facit | The contemplation of the stars makes the philosopher calm
+contemplo | Lunam e fenestra contemplo | I contemplate the moon from the window
+contemplor | Mare ex rupe contemplor | I gaze at the sea from the cliff
+contemptio | Contemptio periculi militem fortem facit | Contempt for danger makes the soldier brave
+contemptrix | Contemptrix luxuriae simpliciter vivit | The despiser of luxury lives simply
+contemptus2 | Contemptus regis populum exasperat | The king's contempt angers the people
+contendo | Ad victoriam contendo | I strive for victory
+contentio | Contentio remigum navem ad portum adducit | The effort of the rowers brings the ship to the harbour
+conterminus | Conterminus noster per sepem salutat | Our neighbour greets us over the hedge
+contero | Frumentum lapide contero | I grind grain with a stone
+conterreo | Hostes tubis conterreo | I terrify the enemy with trumpets
+contestatio | Contestatio nautae causam juvat | The sailor's testimony helps the case
+contestor | Deos contestor | I call the gods to witness
+contexo | Coronam ex rosis contexo | I weave a garland from roses
+contextus2 | Contextus verborum sensum ostendit | The connection of the words shows the meaning
+continentia1 | Continentia juvenis parentes laetificat | The young man's self-restraint cheers his parents
+# third: contineo "I contain" is said of vessels and chests
+contineo | Arca aurum continet | The chest contains gold
+contingo1 | Tectum manu contingo | I touch the roof with my hand
+continuatio | Continuatio dierum serenorum agricolam gaudio implet | A succession of fair days fills the farmer with joy
+continuo2 | Duas vias ponte continuo | I connect two roads with a bridge
+continuor | Cum comitibus in itinere continuor | I join my companions on the journey
+contio | Contio consulem exspectat | The assembly awaits the consul
+contionor | Ad populum contionor | I harangue the people
+contorqueo | Funem manibus contorqueo | I twist the rope with my hands
+contractio | Contractio nervi athletam impedit | The contraction of the muscle hinders the athlete
+contractus2 | Contractus inter mercatores scribitur | The contract between the merchants is written
+contradictio | Contradictio oratoris disputationem longam facit | The speaker's objection makes the discussion long
+contraho | Milites in campo contraho | I gather the soldiers in the field
+contrectatio | Contrectatio picturae a custode vetatur | Touching the painting is forbidden by the guard
+contrecto | Vasa fragilia diligenter contrecto | I handle the fragile vases carefully
+contremisco | Ad tonitrum contremisco | I tremble at the thunder
+contribulo | Nuces malleo contribulo | I crush nuts with a hammer
+contribuo | Pagos vicinos contribuo | I unite the neighbouring villages
+contristo | Matrem nuntio contristo | I sadden my mother with the news
+controversia | Controversia de finibus vicinos dividit | The dispute about the boundaries divides the neighbours
+# third: contrucido "I slaughter" reads unnaturally for a violent verb
+contrucido | Exercitus hostes contrucidat | The army slaughters the enemy
+contrudo | Oves in ovile contrudo | I crowd the sheep into the fold
+contrunco | Arborem securi contrunco | I cut down the tree with an axe
+contubernalis | Contubernalis meus mane surgit | My tentmate gets up in the morning
+contubernium | Contubernium veterum militum noctes breves facit | The companionship of old soldiers makes the nights short
+contueor | Stellas ex colle contueor | I gaze at the stars from the hill
+contumacia | Contumacia filii patrem angit | The son's obstinacy distresses his father
+contumelia | Contumelia hospitis nos offendit | The guest's insult offends us
+contundo | Grana pilo contundo | I crush the grains with a pestle
+conturbatio | Conturbatio in theatro spectatores terret | Confusion in the theatre frightens the spectators
+conturbo | Numeros conturbo | I confuse the numbers
+contus | Contus longus in navi jacet | The long pole lies in the boat
+conubium | Conubium Marci et Juliae a populo celebratur | The marriage of Marcus and Julia is celebrated by the people
+conus | Conus pineus de arbore cadit | The pine cone falls from the tree
+convalesco | Post morbum convalesco | I recover after illness
+convallis | Convallis inter montes jacet | The valley lies between the mountains
+conveho | Frumentum in horreum conveho | I convey grain to the granary
+convello | Palum e terra convello | I wrench the stake from the ground
+convena | Convena ex agris ad ludos properat | The newcomer hurries from the fields to the games
+convenientia | Convenientia colorum cubiculum ornat | The harmony of colours adorns the room
+convenio | Ad portam cum sociis convenio | I assemble at the gate with my companions
+conventiculum | Conventiculum vicinorum vesperi incipit | The gathering of the neighbours begins in the evening
+conventio | Conventio inter reges pacem confirmat | The agreement between the kings confirms peace
+conventus2 | Conventus in basilica fit | The assembly takes place in the basilica
+conversatio | Conversatio cum sene me recreat | Conversation with the old man refreshes me
+conversio | Conversio caeli stellas movet | The revolution of the heavens moves the stars
+converso | Inter agricolas converso | I dwell among farmers
+converto | Equum ad portam converto | I turn the horse towards the gate
+convestio | Pauperem lana convestio | I clothe the poor man with wool
+convexitas | Convexitas caeli oculos allicit | The convexity of the sky attracts the eyes
+convexo | Spongiam manu convexo | I squeeze the sponge with my hand
+convicior | Hostem ex muro convicior | I revile the enemy from the wall
+convicium | Convicium vicinorum noctu me excitat | The clamour of the neighbours wakes me at night
+convictus2 | Convictus fratrum vitam dulcem facit | The intimacy of brothers makes life sweet
+convinco | Mercatorem mendacii convinco | I convict the merchant of lying
+convinctio | Convinctio duo verba jungit | The conjunction joins two words
+conviso | Agrum oculis conviso | I scrutinise the field with my eyes
+conviva | Conviva pomum a servo accipit | The guest receives fruit from the servant
+convivium | Convivium in atrio incipit | The banquet begins in the hall
+convivor | Cum cognatis convivor | I feast with my relatives
+convoco | Senatores in curiam convoco | I convene the senators in the senate house
+# third: convolo "I flock together" is said of birds and crowds
+convolo | Aves ad fontem convolant | The birds flock together to the spring
+convolvo | Papyrum convolvo | I roll up the papyrus
+cooperio | Mensam mappa cooperio | I cover the table with a cloth
+cooperor | Cum vicinis in vindemia cooperor | I cooperate with the neighbours at the grape harvest
+coopto | Juvenem in collegium coopto | I co-opt the young man into the college
+copia1 | Copia frumenti urbem alit | An abundance of grain feeds the city
+copula | Copula bovem ad plaustrum tenet | The tie holds the ox to the cart
+copulatio | Copulatio duorum fluminum agros irrigat | The union of two rivers waters the fields
+copulo | Equos currui copulo | I join the horses to the chariot
+coquo | Panem in furno coquo | I cook bread in the oven
+coquus | Coquus lepores in culina parat | The cook prepares hares in the kitchen
+cor | Cor meum celeriter pulsat | My heart beats quickly
+corbis | Corbis plena pomorum sub arbore stat | The basket full of apples stands under the tree
+cordax | Cordax in comoedia saltatur | The cordax is danced in the comedy
+corium | Corium bovis in sole siccatur | The ox's hide dries in the sun
+cornicularius | Cornicularius tribuno epistulam affert | The adjutant brings a letter to the tribune
+corniculum1 | Corniculum in galea militis fulget | The horn shines on the soldier's helmet
+cornix | Cornix in tecto crocitat | The crow croaks on the roof
+cornu | Cornu cervi in silva latet | The stag's horn lies hidden in the forest
+corollarium | Corollarium histrioni a populo datur | A gratuity is given to the actor by the people
+corona | Corona aurea victorem ornat | The golden crown adorns the winner
+corono | Victorem lauro corono | I crown the winner with laurel
+# third: corporo "I embody" is better said of an artist giving shape to an idea
+corporo | Sculptor ideam in marmore corporat | The sculptor embodies the idea in marble
+corpus | Corpus fessum in lecto quiescit | The tired body rests in bed
+correctio | Correctio scripti discipulum juvat | The correction of the essay helps the pupil
+corrector | Corrector librum examinat | The corrector examines the book
+corrigo | Errores in libro corrigo | I correct the mistakes in the book
+corripio | Funem manu corripio | I seize the rope with my hand
+corrumpo | Custodem auro corrumpo | I corrupt the guard with gold
+# third: corruo "I collapse" is said of buildings
+corruo | Domus vetus corruit | The old house collapses
+corruptela | Corruptela morum civitatem infirmat | The corruption of morals weakens the state
+corruptor | Corruptor pecuniam ad curiam portat | The corrupter carries money to the senate house
+cortex | Cortex quercus arborem tegit | The bark of the oak covers the tree
+cortina | Cortina super igne pendet | The cauldron hangs over the fire
+corusco | Vexillum in aere corusco | I brandish the banner in the air
+corvus | Corvus in agro semina quaerit | The raven looks for seeds in the field
+corymbus | Corymbus in hedera pendet | The cluster hangs on the ivy
+cos1 | Cos dura in rivo jacet | The hard flint lies in the stream
+costa | Costa suis in olla coquitur | The pig's rib is cooked in the pot
+costum | Costum odorem dulcem in cubiculo diffundit | The costus spreads a sweet scent in the room
+cothurnus | Cothurnus actoris sub lecto jacet | The actor's boot lies under the bed
+crapula | Crapula sodalem meum mane fatigat | Drunkenness wearies my comrade the next morning
+# third: crassesco "I thicken" is said of liquids
+crassesco | Mel frigore crassescit | The honey thickens in the cold
+crassitudo | Crassitudo muri turrem firmat | The thickness of the wall strengthens the tower
+cratera | Cratera argentea in triclinio stat | The silver mixing bowl stands in the dining room
+cratis | Cratis agrum aequat | The harrow levels the field
+creator | Creator novi operis in officina laborat | The creator of the new work labours in the workshop
+creatrix | Creatrix filium ad cenam vocat | The mother calls her son to dinner
+crebritas | Crebritas pluviae agricolam sollicitat | The frequency of the rain worries the farmer
+credo | Magistro credo | I believe the teacher
+credulitas | Credulitas avi nepotem ad risum movet | The grandfather's credulity moves his grandson to laughter
+cremo | Folia sicca in horto cremo | I burn dry leaves in the garden
+creo1 | Statuam novam creo | I create a new statue
+crepida | Crepida in limine jacet | The sandal lies on the threshold
+crepido | Crepido in foro statuam sustinet | The pedestal in the forum supports a statue
+# third: crepito "I rattle" is said of things that clatter
+crepito | Grando in tecto crepitat | The hail rattles on the roof
+crepitus | Crepitus carri in via auditur | The rattling of the cart is heard on the road
+# third: crepo "I rattle" is said of things that clatter
+crepo | Janua ventis crepat | The door rattles in the wind
+crepundia | Crepundia in cuna sonant | The rattles sound in the cradle
+crepusculum | Crepusculum collem tegit | The twilight covers the hill
+cresco | Quotidie cresco | I grow every day
+cretio | Cretio hereditatis coram testibus fit | The formal acceptance of the inheritance takes place before witnesses
+cribrum | Cribrum farinam a furfure separat | The sieve separates the flour from the bran
+crimen | Crimen mercatoris civitatem commovet | The merchant's crime alarms the city
+criminatio | Criminatio falsa viduam angit | The false accusation distresses the widow
+crimino | Servum furti crimino | I accuse the slave of theft
+# skip: crinio attested only in the passive and as the participle crinitus, so no active headword form is sound
+crinis | Crinis longus puellam ornat | The long hair adorns the girl
+crispo | Capillum calamistro crispo | I curl my hair with tongs
+crista1 | Crista rubra galeam ornat | The red crest adorns the helmet
+crocum | Crocum cibum flavum facit | The saffron makes the food yellow
+cruciatus | Cruciatus morbi aegrum fatigat | The torture of the illness wearies the patient
+# third: crucio "I torture" is grim; thirst torments
+crucio | Sitis viatorem cruciat | Thirst torments the traveller
+crudelitas | Crudelitas tyranni cives fugat | The cruelty of the tyrant makes the citizens flee
+# third: crudesco "I worsen" is said of storms and illnesses
+crudesco | Tempestas in mari crudescit | The storm worsens at sea
+cruditas | Cruditas hospitem vexat | Indigestion troubles the guest
+# third: cruento "I bloody" reads unnaturally for a violent verb
+cruento | Pugna campum cruentat | The battle bloodies the field
+cruor | Cruor in aqua evanescit | The blood vanishes in the water
+crus | Crus meum post cursum dolet | My leg aches after the run
+crusta | Crusta panis dentibus resistit | The crust of the bread resists the teeth
+crusto | Murum marmore crusto | I incrust the wall with marble
+crux | Crux in colle stat | The cross stands on the hill
+crypta | Crypta frigida sub villa vina servat | The cold vault under the house keeps the wine
+crystallum | Crystallum in sole splendet | The crystal sparkles in the sun
+cubiculum | Cubiculum meum ad hortum spectat | My bedroom looks onto the garden
+cubile | Cubile canis in angulo stat | The dog's bed stands in the corner
+cubito | Saepe sub arbore cubito | I often recline under the tree
+cubitum | Cubitum meum in mensa quiescit | My elbow rests on the table
+cubo | In herba cubo | I recline on the grass
+cuculus | Cuculus in silva cantat | The cuckoo sings in the wood
+cucumis | Cucumis in horto crescit | The cucumber grows in the garden
+cucurbita | Cucurbita magna sub tecto jacet | The large gourd lies under the roof
+cudo1 | Ferrum in fabrica cudo | I pound iron in the forge
+culcita | Culcita mollis in sella jacet | The soft cushion lies on the chair
+culex1 | Culex noctu circum caput volat | The gnat flies around my head at night
+culina | Culina odorem boni cibi diffundit | The kitchen spreads the smell of good food
+culleus | Culleus plenus vini in plaustro jacet | The sack full of wine lies on the cart
+culpa | Culpa servi dominum irritat | The slave's fault irritates the master
+culpo | Servum tardum culpo | I blame the slow servant
+culter | Culter novus pomum secat | The new knife cuts the apple
+cultio | Cultio agri multum laborem postulat | The cultivation of the field demands much work
+cultor | Cultor vineae uvas colligit | The cultivator of the vineyard gathers grapes
+cultrix | Cultrix templi aram purgat | The caretaker of the temple cleans the altar
+cultura | Cultura olivarum agricolam occupat | The cultivation of olives keeps the farmer busy
+cultus2 | Cultus vitis uvam bonam dat | The cultivation of the vine gives good grapes
+cumulo | Arenam in ripa cumulo | I heap up sand on the bank
+cumulus | Cumulus nivis ad portam jacet | The heap of snow lies at the gate
+cunabula | Cunabula nova in atrio stant | The new cradle stands in the hall
+cunae | Cunae ligneae sub fenestra stant | The wooden cradle stands under the window
+cunctatio | Cunctatio ducis exercitum servat | The general's delay saves the army
+cunctator1 | Cunctator ad ostium diu stat | The delayer stands long at the door
+cunctor | Ante flumen cunctor | I hesitate before the river
+cuneo | Saxa in muro cuneo | I wedge the stones into the wall
+cuneus1 | Cuneus ferreus truncum findit | The iron wedge splits the log
+cunnus | Cunnus in libro medici nominatur | The vulva is named in the doctor's book
+cupa1 | Cupa vini in cella stat | The cask of wine stands in the cellar
+cupiditas | Cupiditas gloriae juvenem ad bellum movet | The desire for glory moves the young man to war
+cupido | Cupido laudis oratorem urget | The desire for praise drives the orator
+cupio | Domum redire cupio | I desire to return home
+cuppedia | Cuppedia coci hospites allicit | The cook's daintiness attracts the guests
+cuppedium | Cuppedium in lance jacet | The tidbit lies on the dish
+cuppedo2 | Cuppedo rara in mensa regis ponitur | A rare delicacy is placed on the king's table
+cuppes | Cuppes dulcia semper quaerit | The dainty eater always seeks sweets
+cupressus | Cupressus alta in colle stat | The tall cypress stands on the hill
+cura | Cura de pecunia mercatorem premit | Care about money weighs on the merchant
+curatio | Curatio hortorum vilico mandatur | The management of the gardens is entrusted to the bailiff
+curator | Curator operum viam inspicit | The overseer of the works inspects the road
+curia | Curia antiqua prope forum stat | The old curia stands near the forum
+curo | Patrem aegrum curo | I care for my sick father
+curriculum | Curriculum in circo incipit | The race begins in the circus
+curro | Ad portum curro | I run to the harbour
+currus | Currus per portam venit | The chariot comes through the gate
+cursito | In prato cursito | I run about in the meadow
+curso | Inter arbores curso | I run about among the trees
+cursor1 | Cursor nuntium ad urbem portat | The runner carries a message to the city
+cursus | Cursus fluminis ad mare ducit | The course of the river leads to the sea
+curvo | Ramum manu curvo | I bend the branch with my hand
+cuspis | Cuspis stili in cera scribit | The point of the stylus writes on the wax
+custodela | Custodela horti servo fido committitur | The guardianship of the garden is entrusted to a faithful slave
+custodia | Custodia noctu ad portam vigilat | The guard keeps watch at the gate at night
+custodio | Thesaurum custodio | I guard the treasure
+custos | Custos templi clavem portat | The guardian of the temple carries the key
+cutis | Cutis mea sole rubet | My skin turns red in the sun
+cyathus | Cyathus aureus in mensa fulget | The golden ladle gleams on the table
+cyclas | Cyclas purpurea dominam ornat | The purple robe adorns the lady
+cyclus | Cyclus quattuor annorum ludos affert | The cycle of four years brings the games
+cycnus1 | Cycnus in lacu placide natat | The swan swims calmly on the lake
+cylindrus | Cylindrus saxeus viam aequat | The stone cylinder levels the road
+cyma | Cyma tenera in horto crescit | The tender sprout grows in the garden
+cymba | Cymba in flumine lente fertur | The boat is carried slowly on the river
+cymbalum | Cymbalum in templo sonat | The cymbal sounds in the temple
+cynosbatos | Cynosbatos ad sepem floret | The dog-rose blooms by the hedge

@@ -1,0 +1,341 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/E.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+ebibo | Totum poculum ebibo | I drink up the whole cup
+eblandior | Ab avo donum eblandior | I wheedle a gift out of my grandfather
+ebrietas | Ebrietas hospitem pigrum facit | Drunkenness makes the guest lazy
+# third: ebullio only liquids bubble up
+ebullio | Aqua in olla ebullit | The water bubbles up in the pot
+ebur | Ebur ex Africa venit | Ivory comes from Africa
+ecclesia | Ecclesia in colle stat | The church stands on the hill
+echinus1 | Echinus in rupe haeret | The sea urchin clings to the rock
+ecloga | Ecloga versuum magistro placet | The selection of verses pleases the teacher
+edico | Pacem per vicos edico | I proclaim peace through the villages
+edictum | Edictum praetoris cives monet | The praetor's edict warns the citizens
+edisco | Carmen longum edisco | I memorise the long poem
+edissero | Legem civibus edissero | I expound the law to the citizens
+edisserto | Fabulam pueris edisserto | I expound the tale to the boys
+editio | Editio libri bibliopolam laetum facit | The publication of the book makes the bookseller glad
+edo1 | Panem cum caseo edo | I eat bread with cheese
+edo2 | Sonum acutum edo | I give forth a shrill sound
+edoceo | Filium litteras edoceo | I instruct my son in letters
+edolo | Sedile ex trunco edolo | I hew a seat out of a log
+edomo | Taurum ferocem edomo | I subdue the fierce bull
+edormio | Vinum edormio | I sleep off the wine
+educatio | Educatio liberorum parentes occupat | The upbringing of children keeps the parents busy
+educo1 | Copias ex castris educo | I lead the troops out of the camp
+educo2 | Filiam domi educo | I educate my daughter at home
+effarcio | Culcitam pennis effarcio | I stuff the cushion with feathers
+effectus2 | Effectus consilii ducem laetum facit | The execution of the plan makes the general happy
+effemino | Juvenem otio effemino | I enervate the young man with idleness
+effero1 | Sarcinas e nave effero | I carry the packs out of the ship
+effero2 | Leonem fame effero | I make the lion wild with hunger
+# third: effervesco only liquids boil over
+effervesco | Lac in igne effervescit | The milk boils over on the fire
+# third: effervo only liquids boil over
+effervo | Pulmentum ex olla effervit | The stew boils over from the pot
+efficio | Opus magnum efficio | I accomplish a great task
+effigies | Effigies ducis in atrio stat | The likeness of the general stands in the hall
+effingo | Navem ex ligno effingo | I fashion a ship out of wood
+efflagito | A consule auxilium efflagito | I demand help urgently from the consul
+# third: effligo a military figure is more natural than the first person
+effligo | Miles hostem effligit | The soldier kills the enemy
+efflo | Aerem in manus efflo | I breathe air onto my hands
+# third: effloresco only plants blossom
+effloresco | Rosa vere efflorescit | The rose blossoms in spring
+# third: effluo only liquids flow out
+effluo | Vinum e dolio effluit | The wine flows out of the jar
+effodio | Radices ex terra effodio | I dig the roots out of the ground
+effor | Verba pauca effor | I utter few words
+effreno | Equum effreno | I unbridle the horse
+effringo | Arcam effringo | I break open the chest
+effugio | Ex insula effugio | I escape from the island
+effugium | Effugium celere nautas servat | Swift flight saves the sailors
+# third: effulgeo "I gleam" is odd; the moon gleams
+effulgeo | Luna per nubila effulget | The moon gleams through the clouds
+effundo | Aquam e situla effundo | I pour out water from the bucket
+effusio | Effusio fontis hortum rigat | The outpouring of the spring waters the garden
+effutio | Nuntium effutio | I blab the news
+egeo | Auxilio egeo | I need help
+egero | Cineres e foco egero | I carry the ashes out of the hearth
+egestas | Egestas viduam premit | Poverty weighs on the widow
+egestio | Egestio cisternae operarios tardat | The emptying of the cistern slows the workmen
+egressio | Egressio hospitum domum silentem facit | The departure of the guests makes the house quiet
+egressus2 | Egressus e portu mane fit | The departure from the harbour takes place in the morning
+eicio | Canem ex aedibus eicio | I eject the dog from the house
+# third: ejaculor "I shoot out" is odd; a fountain shoots out water
+ejaculor | Fons aquam ejaculatur | The fountain shoots out water
+# third: ejecto "I throw up" is crude; the sea throws things up
+ejecto | Mare algam in litus ejectat | The sea throws up seaweed onto the shore
+ejulo | Prae dolore ejulo | I wail with pain
+ejuro | Judicem iniquum ejuro | I reject the unfair judge on oath
+elabor | Ex turba elabor | I slip away from the crowd
+elaboro | In litteris elaboro | I strive at my studies
+elacatenes | Elacatenes in mari natant | The tunny swim in the sea
+elanguesco | Prae calore elanguesco | I grow faint from the heat
+elatio | Elatio vocis auditores excitat | Raising the voice rouses the listeners
+elavo | Maculas e veste elavo | I wash the stains out of the garment
+electio | Electio vestis sponsam tardat | The choice of a dress delays the bride
+electrum | Electrum in sole fulget | Amber shines in the sun
+elegantia | Elegantia sermonis juvenem commendat | The refinement of speech commends the young man
+elegia | Elegia Ovidii lectorem movet | The elegy by Ovid moves the reader
+elementum | Elementum primum philosophos dividit | The first element divides the philosophers
+elenchus | Elenchus ex aure matronae pendet | The pendant hangs from the lady's ear
+elephantiasis | Elephantiasis medicum angit | Elephantiasis troubles the doctor
+elephantus | Elephantus per flumen transit | The elephant crosses the river
+elevatio | Elevatio saxi operarios fatigat | The lifting of the stone tires the workmen
+elevo | Sarcinam in carrum elevo | I lift the bundle up onto the cart
+elicio | Verum a teste elicio | I draw the truth out of the witness
+elido | Aquam ex spongia elido | I force the water out of the sponge
+eligo | Pomum maturum eligo | I choose a ripe apple
+elimino | Gallinam e culina elimino | I expel the hen from the kitchen
+elimo | Carmen novum elimo | I polish the new poem
+eliquo | Vinum per linteum eliquo | I strain the wine through a cloth
+elleborus | Elleborus in monte crescit | Hellebore grows on the mountain
+elocutio | Elocutio clara senatores capit | The clear utterance captivates the senators
+elogium | Elogium breve memoriam juvat | The short saying helps the memory
+elongo | Pueros a flumine elongo | I remove the boys from the river
+eloquium | Eloquium senis juvenes docet | The old man's eloquence teaches the young
+eloquor | Sententiam meam in senatu eloquor | I declare my opinion in the senate
+# third: eluceo "I shine out" is odd; the sun shines out
+eluceo | Sol e nubibus elucet | The sun shines out from the clouds
+eluctor | Ex undis eluctor | I struggle out of the waves
+eludo | Custodem eludo | I elude the guard
+elugeo | Avunculum elugeo | I mourn my uncle
+eluo | Sordes ex lana eluo | I wash the dirt out of the wool
+eluvies | Eluvies fontis viam obstruit | The discharge of the spring blocks the road
+emancipatio | Emancipatio juvenem liberat | The emancipation frees the young man
+emancipo | Filium meum emancipo | I emancipate my son
+# third: emano "I flow out" is odd; a spring flows out
+emano | Fons e rupe emanat | The spring flows out of the rock
+# third: emarcesco only plants wither
+emarcesco | Flos sine aqua emarcescit | The flower withers without water
+emblema | Emblema in patera nitet | The inlay shines on the dish
+emendo | Errores in scripto emendo | I correct the mistakes in the text
+ementior | Fabulam de itinere ementior | I fabricate a tale about my journey
+emercor | Testem nummis emercor | I bribe the witness with coins
+emereo | Praemium labore emereo | I earn a reward by work
+emergo | E flumine emergo | I emerge from the river
+emetior | Farinam in saccum emetior | I measure out flour into the sack
+# third: emico only sparks and flames spring forth
+emico | Scintilla ex igne emicat | The spark springs forth from the fire
+emigro | Ex patria in Asiam emigro | I emigrate from my homeland to Asia
+eminentia | Eminentia rupis nautas monet | The prominence of the cliff warns the sailors
+# third: emineo only things project
+emineo | Turris super muros eminet | The tower projects above the walls
+emissarius | Emissarius castra hostium observat | The spy watches the enemy camp
+emissio | Emissio captivorum cives laetos facit | The release of the prisoners makes the citizens glad
+emitto | Columbam e turri emitto | I send a dove out of the tower
+emo | Pisces in macello emo | I buy fish at the market
+emolior | Saxum de via emolior | I dislodge the rock from the road
+emollio | Ceram igne emollio | I soften the wax with fire
+emolumentum | Emolumentum certum mercatores allicit | The sure benefit attracts merchants
+# third: emorior "I die" is grim; a flame dies out
+emorior | Flamma sine ligno emoritur | The flame dies out without wood
+emoveo | Mensam e cubiculo emoveo | I remove the table from the bedroom
+empirice | Empirice medicum a libris avertit | Empiricism turns the doctor away from books
+emplastrum | Emplastrum medici dolorem lenit | The doctor's plaster eases the pain
+emptio | Emptio domus familiam sollicitat | The purchase of the house worries the family
+emptor | Emptor equum diu inspicit | The buyer inspects the horse for a long time
+emundo | Puteum emundo | I cleanse the well
+emungo | Nasum linteo emungo | I wipe my nose with a cloth
+emunio | Castra vallo emunio | I fortify the camp with a rampart
+enarratio | Enarratio carminis discipulos juvat | The exposition of the poem helps the pupils
+enarro | Mythum antiquum pueris enarro | I expound the ancient myth to the boys
+# third: enascor "I sprout" is odd; plants sprout
+enascor | Herba inter saxa enascitur | The grass sprouts among the stones
+enato | E lacu enato | I swim away from the lake
+enavigo | Ab Ostia enavigo | I sail away from Ostia
+# third: eneco a military figure is more natural than the first person
+eneco | Hostis militem enecat | The enemy kills the soldier
+enervo | Hostes mora enervo | I weaken the enemy by delay
+# third: eniteo only bright things shine
+eniteo | Gemma in anulo enitet | The gem shines in the ring
+# third: enitesco only the sky and the like brighten
+enitesco | Caelum mane enitescit | The sky brightens in the morning
+enitor | Pro victoria enitor | I strive for victory
+eno | Ab insula eno | I swim away from the island
+enodo | Funem enodo | I unknot the rope
+enoto | Verba magistri enoto | I note down the teacher's words
+ensis | Ensis in armamentario pendet | The sword hangs in the armoury
+enucleo | Nuces enucleo | I shell the nuts
+enumeratio | Enumeratio nominum scribam diu occupat | The enumeration of the names keeps the clerk busy for a long time
+enumero | Oves ad portam enumero | I count up the sheep at the gate
+enuntio | Arcanum sorori enuntio | I disclose the secret to my sister
+enutrio | Agnum lacte enutrio | I nurture the lamb with milk
+eo1 | Ad theatrum eo | I go to the theatre
+ephebus | Ephebus in gymnasio currit | The youth runs in the gymnasium
+ephemeris | Ephemeris dies mercatoris notat | The diary records the merchant's days
+ephippium | Ephippium equum tegit | The saddle cloth covers the horse
+epigramma | Epigramma breve lectorem excitat | The short epigram wakes the reader up
+episcopus | Episcopus fideles in ecclesia salutat | The bishop greets the faithful in the church
+epistula | Epistula longa e Britannia advenit | The long letter arrives from Britain
+epodos | Epodos Horatii discipulos in schola docet | The epode of Horace teaches the pupils in school
+epoto | Lac totum epoto | I drink up all the milk
+epulo1 | Epulo cenam laudat | The feaster praises the dinner
+epulor | Cum sociis epulor | I feast with my companions
+epulum | Epulum consulem in aula exspectat | The banquet awaits the consul in the hall
+equa | Equa in prato herbam carpit | The mare crops the grass in the meadow
+eques | Eques per agros properat | The horseman hurries through the fields
+equitatus1 | Equitatus collem occupat | The cavalry occupies the hill
+equito | Per litus equito | I ride along the shore
+equuleus | Equuleus post matrem currit | The colt runs after its mother
+equus | Equus in campo celeriter currit | The horse runs quickly in the field
+era | Era ancillae lanam dat | The mistress gives wool to the maid
+eradico | Arbores aridas eradico | I uproot the dry trees
+erado | Ceram e tabula erado | I scrape the wax off the tablet
+erepo | E specu erepo | I crawl out of the cave
+ergastulum | Ergastulum prope villam stat | The workhouse stands near the villa
+ericius | Ericius in sepe latet | The hedgehog hides in the hedge
+erigo | Columnam erigo | I raise up the column
+eripio | Lupo ovem eripio | I snatch the sheep away from the wolf
+# third: erodo "I gnaw away" is odd; a worm gnaws away
+erodo | Tinea librum erodit | The bookworm gnaws away the book
+erogatio | Erogatio publica thesaurum minuit | The public disbursement reduces the treasury
+erogo | Pecuniam militibus erogo | I disburse money to the soldiers
+erro1 | Per silvas erro | I wander through the woods
+erro2 | Erro sub ponte dormit | The vagabond sleeps under the bridge
+error | Error in silva viatorem tardat | The wandering in the wood delays the traveller
+erubesco | Prae pudore erubesco | I blush with shame
+eruca | Eruca in folio repit | The caterpillar crawls on the leaf
+# third: eructo a crude bodily verb; an ox belches
+eructo | Bos post pastum eructat | The ox belches after feeding
+erudio | Juvenes litteris Graecis erudio | I educate the young men in Greek literature
+eruditio | Eruditio Graeca Ciceronem ornat | Greek erudition adorns Cicero
+# third: erumpo "I burst forth" is odd; smoke bursts forth
+erumpo | Fumus e culmine erumpit | The smoke bursts forth from the roof
+eruo | Lapides e campo eruo | I dig the stones out of the field
+eruptio | Eruptio morbi urbem terret | The outbreak of the disease frightens the city
+erus | Erus in villa cenat | The master dines in the villa
+esca | Esca calida pueros domum vocat | The warm food calls the boys home
+escendo | In montem escendo | I climb up the mountain
+escensio | Escensio ardua pastorem tardat | The steep ascent delays the shepherd
+essentia | Essentia divina theologum occupat | The divine essence engages the theologian
+etesiae | Etesiae in aestate flant | The Etesian winds blow in summer
+euripus | Euripus Euboeam a Boeotia separat | The strait separates Euboea from Boeotia
+eurus | Eurus naves in portu retinet | The east wind keeps the ships in the harbour
+evacuo | Sacculum evacuo | I empty the purse
+evado | E tempestate evado | I escape from the storm
+evagor | Per colles evagor | I roam over the hills
+evalesco | Post hiemem evalesco | I gather strength after the winter
+# third: evanesco only mist and the like vanish
+evanesco | Nebula sole evanescit | The mist vanishes in the sun
+evangelium | Evangelium in ecclesia legitur | The gospel is read in the church
+evangelizo | Pauperibus evangelizo | I preach the gospel to the poor
+eveho | Amphoras e cella eveho | I carry the jars out of the cellar
+evello | Plantam e solo evello | I uproot the plant from the soil
+# third: evenio "I happen" is odd; events happen
+evenio | Res mira in itinere evenit | A strange thing happens on the journey
+eventilo | Dominam penna pavonis eventilo | I fan my mistress with a peacock feather
+eventus | Eventus pugnae ducem sollicitat | The outcome of the battle worries the general
+# third: everbero "I batter" is odd; a storm batters
+everbero | Procella tectum everberat | The storm batters the roof
+everriculum | Everriculum piscatorem ditat | The dragnet enriches the fisherman
+everro | Tabernam everro | I sweep out the shop
+eversio | Eversio tyranni populum exhilarat | The overthrow of the tyrant cheers the people
+eversor | Eversor muros veteres diruit | The destroyer demolishes the old walls
+everto | Urnam everto | I overturn the urn
+evidentia | Evidentia orationis judicem convincit | The clarity of the speech convinces the judge
+evigilo | Prima luce evigilo | I wake at dawn
+# third: evilesco "I degenerate" is odd; customs degenerate
+evilesco | Mos antiquus luxu evilescit | The old custom degenerates through luxury
+evincio | Caput vitta evincio | I bind my head with a ribbon
+evinco | Gentem feram evinco | I conquer the fierce tribe
+# third: eviro "I emasculate" is grim; luxury emasculates
+eviro | Luxus militem evirat | Luxury emasculates the soldier
+eviscero | Piscem eviscero | I gut the fish
+evito1 | Viam periculosam evito | I avoid the dangerous road
+# third: evito2 a military figure is more natural than the first person; the entry's idiom is vitam evitare
+evito2 | Hostis duci vitam evitat | The enemy kills the commander
+evocatio | Evocatio nocturna senatores perturbat | The night summons disturbs the senators
+evoco | Testem ad judicium evoco | I summon the witness to the trial
+# third: evolo only birds fly away
+evolo | Avis e nido evolat | The bird flies away from the nest
+evolvo | Librum evolvo | I unroll the book
+# third: evomo a crude bodily verb; a dog vomits
+evomo | Canis cibum evomit | The dog vomits the food
+evulgo | Carmina mea evulgo | I publish my poems
+exacerbo | Fratrem verbis exacerbo | I anger my brother with words
+exactio | Exactio frumenti pagum vexat | The collection of grain annoys the village
+exactor | Exactor ad januam pulsat | The collector knocks at the door
+exacuo | Falcem lapide exacuo | I sharpen the sickle with a stone
+exaedifico | Villam prope mare exaedifico | I build a villa near the sea
+exaequo | Humum exaequo | I level the ground
+# third: exaestuo "I seethe" is odd; the sea seethes
+exaestuo | Mare in tempestate exaestuat | The sea seethes in the storm
+exaggeratio | Exaggeratio ripae oppidum a flumine defendit | The elevation of the bank protects the town from the river
+exaggero | Arenam in litore exaggero | I heap up sand on the shore
+exagito | Hostes in itinere exagito | I harass the enemy on the march
+exalto | Deum in templo exalto | I exalt God in the temple
+examen | Examen apum flores petit | The swarm of bees seeks the flowers
+examino | Aurum in libra examino | I weigh the gold on the scales
+exanclo | Calicem exanclo | I drain the cup
+exanimatio | Exanimatio subita hospites tacitos facit | Sudden terror makes the guests silent
+exanimo | Equum cursu exanimo | I exhaust the horse by running
+# third: exardesco "I blaze up" is odd; a fire blazes up
+exardesco | Ignis vento exardescit | The fire blazes up in the wind
+# third: exaresco only springs and the like dry up
+exaresco | Fons aestate exarescit | The spring dries up in summer
+exarmo | Gladiatorem exarmo | I disarm the gladiator
+exaro | Agrum exaro | I plough the field
+exaspero | Tabulam lima exaspero | I roughen the board with a file
+exauctoro | Veteranum exauctoro | I discharge the veteran
+exaudio | Vocem tuam exaudio | I hear your voice clearly
+# third: excaeco blinding a person is violent; the sun's glare blinds
+excaeco | Fulgor solis viatorem excaecat | The glare of the sun blinds the traveller
+excalceo | Hospitem ante cenam excalceo | I unshoe the guest before dinner
+excalfacio | Lectum excalfacio | I warm the bed
+excandesco | Ob injuriam excandesco | I flare up at the insult
+# third: excanto only a sorceress conjures
+excanto | Maga lunam excantat | The sorceress conjures the moon
+# third: excarnifico "I mangle" is grim; the figurative sense, worry torments
+excarnifico | Cura animum excarnificat | Worry torments the mind
+excaudico | Urticas excaudico | I uproot the nettles
+excavo | Truncum excavo | I hollow out the log
+excedo | Ex oppido excedo | I depart from the town
+excello | Inter socios virtute excello | I excel among my comrades in courage
+exceptio | Exceptio unica legem mitigat | The single exception softens the law
+excepto | Pilam excepto | I catch the ball
+exceptor | Exceptor tabulas in cista condit | The scribe puts the tablets in the chest
+excerno | Furfur e farina excerno | I sift the bran out of the flour
+excerpo | Versus ex libro excerpo | I select verses from the book
+excessus | Excessus legionis oppidum vacuum reddit | The departure of the legion leaves the town empty
+excidium1 | Excidium Trojae poetam inspirat | The destruction of Troy inspires the poet
+# third: excido1 "I fall out" is odd; things fall out
+excido1 | Anulus de manu excidit | The ring falls out of the hand
+excido2 | Quercum excido | I cut down the oak
+excio | Medicum excio | I summon the doctor
+excipio | Pluviam pelvi excipio | I catch the rain in a basin
+excito | Pueros mane excito | I rouse the boys in the morning
+exclamatio | Exclamatio populi consulem interpellat | The outcry of the people interrupts the consul
+exclamo | Prae gaudio exclamo | I exclaim with joy
+excludo | Pigros a ludo excludo | I exclude the lazy from the game
+excogitatio | Excogitatio Archimedis nautas juvat | The invention of Archimedes helps sailors
+excogito | Consilium novum excogito | I devise a new plan
+excolo1 | Vineam excolo | I cultivate the vineyard
+excoquo | Aquam ex sale excoquo | I boil away the water from the salt
+# third: excresco only plants sprout
+excresco | Frumentum in agro excrescit | The grain sprouts in the field
+# third: excrucio "I torture" is grim; the figurative sense, envy tortures the mind
+excrucio | Invidia animum excruciat | Envy tortures the mind
+excubiae | Excubiae portam noctu custodiunt | The watch guards the gate by night
+excubitor | Excubitor in turri vigilat | The sentinel keeps watch on the tower
+excubo | Pro castris excubo | I keep watch before the camp
+excudo | Clavos ferreos excudo | I hammer out iron nails
+exculco | Nivem in via exculco | I trample the snow on the road
+excurro | E schola excurro | I run out of the school
+excursio | Excursio e castris hostes perturbat | The sally from the camp disturbs the enemy
+excursor | Excursor collem ante agmen explorat | The scout explores the hill ahead of the column
+excursus2 | Excursus equitum ante lucem fit | The sally of the horsemen takes place before daybreak
+excusatio | Excusatio discipuli magistro displicet | The pupil's excuse displeases the teacher
+excuso | Collegam apud consulem excuso | I excuse my colleague before the consul
+excutio | Pulverem e pallio excutio | I shake the dust out of the cloak
+exdorsuo | Congrum exdorsuo | I debone the conger eel
+exedo | Placentam exedo | I devour the cake
+exedra | Exedra ampla philosophos accipit | The spacious hall receives the philosophers
+exemplar | Exemplar Graecum sculptorem dirigit | The Greek model guides the sculptor
+exemplum | Exemplum militis juvenes hortatur | The soldier's example encourages the young men
+exeo | Mane domo exeo | I leave the house in the morning
+exerceo | Corpus cotidie exerceo | I exercise my body daily
+exercitatio | Exercitatio assidua oratorem perficit | Constant practice perfects the orator
+exercitio | Exercitio matutina juvenes roborat | The morning exercise strengthens the young men
+exercitium | Exercitium diurnum athletam format | Daily exercise shapes the athlete

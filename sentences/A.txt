@@ -1,0 +1,826 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/A.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+abacus | Abacus in atrio stat | The sideboard stands in the hall
+abalieno | Amicum meum abalieno | I alienate my friend
+abdicatio | Abdicatio consulis populum terret | The consul's abdication alarms the people
+abdico1 | Me consulatu abdico | I resign the consulship
+abdo | Gladium sub veste abdo | I hide the sword under my cloak
+abdomen | Abdomen porci magnum est | The pig's belly is big
+abduco | Equum ex agro abduco | I lead the horse away from the field
+abeo | Ex urbe abeo | I depart from the city
+aberro | A via aberro | I stray from the road
+abhorreo | A bello abhorreo | I recoil from war
+abicio | Scutum abicio | I discard the shield
+abies | Abies in monte stat | The fir stands on the mountain
+abigo | Lupos ex agro abigo | I drive the wolves away from the field
+abitus | Abitus ex urbe tristis est | The departure from the city is sad
+abjudico | Agrum ab amico abjudico | I deny my friend the field by verdict
+abjuro | Creditum abjuro | I deny the loan on oath
+ablego | Servum ex urbe ablego | I dismiss the slave from the city
+abligurrio | Patrimonium meum abligurrio | I squander my inheritance
+abluo | Manus aqua abluo | I wash my hands with water
+abnego | Pecuniam amico abnego | I refuse my friend the money
+abnuo | Auxilium amico abnuo | I refuse my friend help
+abnuto | Amico abnuto | I keep refusing my friend
+aboleo | Legem malam aboleo | I abolish the bad law
+abolesco | Ex memoria hominum abolesco | I fade from people's memory
+abolitio | Abolitio legis populum delectat | The abolition of the law pleases the people
+abolla | Abolla militis alba est | The soldier's cloak is white
+abominor | Malum verbum abominor | I abhor the bad word
+# third: aborior "I set" is said of the sun and stars; rank 2 sense, kept clear of miscarriage
+aborior | Luna aboritur | The moon sets
+abortus | Abortus familiam contristat | The miscarriage saddens the family
+abrado | Terram ex pariete abrado | I scrape the earth off the wall
+abripio | Pilam e manibus fratris abripio | I snatch the ball from my brother's hands
+abrogo | Legem abrogo | I repeal the law
+abrotonum | Abrotonum in horto crescit | The southernwood grows in the garden
+abrumpo | Ramum ab arbore abrumpo | I sever the branch from the tree
+abscedo | Ex urbe abscedo | I withdraw from the city
+abscido | Ramos aridos abscido | I cut off the dry branches
+abscindo | Folia a ramo abscindo | I tear the leaves off the branch
+abscondo | Aurum in horto abscondo | I conceal the gold in the garden
+absis | Absis in templo magna est | The arch in the temple is large
+absisto | A bello absisto | I desist from the war
+absolutio | Absolutio reum delectat | The acquittal pleases the defendant
+absolvo | Reum crimine absolvo | I acquit the defendant of the charge
+absorbeo | Aquam absorbeo | I swallow the water
+abstergeo | Sudorem abstergeo | I wipe away the sweat
+absterreo | Lupos ab ovibus absterreo | I deter the wolves from the sheep
+abstinentia | Abstinentia viri magna est | The man's restraint is great
+abstineo | Manus a cibo abstineo | I keep my hands off the food
+abstraho | Canem a cibo abstraho | I drag the dog away from the food
+abstrudo | Aurum in terra abstrudo | I hide the gold in the ground
+absum | Ab urbe absum | I am absent from the city
+absumo | Cibum absumo | I consume the food
+abundantia | Abundantia frumenti agricolam delectat | The abundance of grain pleases the farmer
+abundo | Frumento abundo | I abound in grain
+abutor | Potestate abutor | I misuse my power
+academia | Academia prope urbem est | The Academy is near the city
+acanthis | Acanthis in arbore cantat | The goldfinch sings in the tree
+accedo | Ad urbem accedo | I approach the city
+accelero | Iter accelero | I hasten my journey
+accendo2 | Ignem accendo | I kindle the fire
+accenseo | Puerum inter milites accenseo | I reckon the boy among the soldiers
+accentus | Accentus in hoc verbo gravis est | The accent on this word is heavy
+acceptio | Acceptio frumenti consuli placet | The receipt of grain pleases the consul
+acceptor1 | Acceptor pecuniae ad januam stat | The receiver of the money stands at the door
+accessio | Accessio aquae agros tegit | The increase of the water covers the fields
+accessus2 | Accessus ad portum difficilis est | The approach to the harbour is difficult
+accido1 | Arborem altam accido | I fell the tall tree
+# third: accido2 "I happen" is not a sentence
+accido2 | Malum nautae accidit | A misfortune happens to the sailor
+accingo | Me gladio accingo | I gird myself with a sword
+accio | Medicum ad filium accio | I summon the doctor to my son
+accipio | Epistulam a fratre accipio | I receive a letter from my brother
+accipiter | Accipiter in alta arbore sedet | The hawk sits in the tall tree
+acclamatio | Acclamatio in foro auditur | The shout is heard in the forum
+acclamo | Oratori in foro acclamo | I shout at the orator in the forum
+acclino | Scalam ad murum acclino | I lean the ladder against the wall
+accolo | Flumen accolo | I dwell near the river
+accommodatio | Accommodatio legum temporibus utilis est | The adjustment of the laws to the times is useful
+accommodo | Coronam ad caput accommodo | I set a wreath on my head
+accredo | Nuntio accredo | I believe the messenger
+accresco | Quotidie accresco | I grow bigger every day
+accubitio | Accubitio apud mensam mos antiquus est | Reclining at table is an ancient custom
+accubo | Prope fratrem accubo | I recline beside my brother
+accumbo | In lecto accumbo | I recline on the couch
+accumulo | Frumentum in horreo accumulo | I heap up the grain in the granary
+accuro | Opus accuro | I do the work carefully
+accurro | Ad portam accurro | I run up to the gate
+accusatio | Accusatio senatorem terret | The accusation frightens the senator
+accusator | Accusator in foro clamat | The accuser shouts in the forum
+accuso | Furem furti accuso | I accuse the thief of theft
+acerbitas | Acerbitas pomi in sapore sentitur | The sourness of the fruit is felt in the taste
+acerbo | Vinum acerbo | I embitter the wine
+acerra | Acerra in ara jacet | The incense box lies on the altar
+acervo | Lapides ante domum acervo | I heap stones before the house
+acervus | Acervus tritici in horreo est | The heap of wheat is in the granary
+acetabulum | Acetabulum vinum continet | The cup holds wine
+acies | Acies in campo prope flumen pugnat | The battle line fights on the plain near the river
+acopos | Acopos dolorem levat | The salve eases pain
+acquiesco | Sub arbore acquiesco | I rest under the tree
+acquiro | Opes acquiro | I acquire wealth
+acrimonia | Acrimonia cepae in coquina sentitur | The pungency of the onion is noticed in the kitchen
+acritudo | Acritudo aceti gustum offendit | The sharpness of the vinegar offends the taste
+acroama | Acroama in convivio nocte auditur | The entertainment is heard at the banquet at night
+acroasis | Acroasis philosophi discipulos docet | The philosopher's lecture teaches the pupils
+actio | Actio consulis civibus prodest | The consul's action benefits the citizens
+actor1 | Actor pecoris boves ad aquam agit | The drover drives the cattle to the water
+actuarius2 | Actuarius verba oratoris scribit | The clerk writes down the orator's words
+actus2 | Actus bovum per agros lentus est | The driving of the oxen across the fields is slow
+aculeus | Aculeus apis acutus est | The bee's sting is sharp
+acumen | Acumen hastae in muro haeret | The point of the spear sticks in the wall
+acuo | Gladium acuo | I sharpen the sword
+acus1 | Acus tenuis in cista latet | The thin needle lies hidden in the chest
+acus3 | Acus in mari natat | The garfish swims in the sea
+acyrologia | Acyrologia in oratione reprehenditur | The misusage is criticised in the speech
+adaequo | Tecta solo adaequo | I level the houses with the ground
+adamas | Adamas in anulo splendet | The adamant gleams in the ring
+adamo | Rus adamo | I fall in love with the countryside
+adaperio | Fenestram adaperio | I throw the window open
+adaugeo | Divitias patris adaugeo | I increase my father's wealth
+adbibo | Lac adbibo | I drink up the milk
+addico | Agrum optimo emptori addico | I award the field to the best bidder
+addisco | Quotidie novum verbum addisco | I learn a new word every day
+addo | Sal ad cibum addo | I add salt to the food
+addubito | De victoria addubito | I doubt the victory
+adduco | Filium ad magistrum adduco | I bring my son to the teacher
+adedo | Panem adedo | I gnaw at the bread
+adeo1 | Ad regem adeo | I approach the king
+adeps | Adeps in olla liquescit | The fat melts in the pot
+adequito | Ad castra adequito | I ride up to the camp
+adhaereo | Ad saxum adhaereo | I cling to the rock
+adhaeresco | In luto adhaeresco | I stick in the mud
+adhibeo | Aures magistro adhibeo | I lend my ears to the teacher
+# third: adhinnio "I neigh" is a horse's sentence, not a learner's
+adhinnio | Equus domino adhinnit | The horse neighs to its master
+adhortatio | Adhortatio ducis milites incitat | The general's encouragement rouses the soldiers
+adhortor | Milites ad pugnam adhortor | I encourage the soldiers to battle
+adigo | Pecus ad flumen adigo | I drive the cattle to the river
+adimo | Puero librum adimo | I take the book away from the boy
+adimpleo | Cantharum aqua adimpleo | I fill the jug with water
+adipiscor | Gloriam adipiscor | I obtain glory
+aditio | Aditio ad insulam periculosa est | The approach to the island is dangerous
+adito | Forum quotidie adito | I visit the forum every day
+aditus2 | Aditus ad domum angustus est | The approach to the house is narrow
+# third: adjaceo "I lie near" is said of places, not people
+adjaceo | Villa silvae adjacet | The villa lies near the wood
+adjectio | Adjectio aquae vinum mutat | The addition of water changes the wine
+adjicio | Ligna in ignem adjicio | I add wood to the fire
+adjudico | Agrum fratri adjudico | I adjudge the field to my brother
+adjugo | Vitem ad palum adjugo | I tie the vine to the stake
+adjumentum | Adjumentum fratris ad victoriam valet | My brother's help counts towards victory
+adjunctio | Adjunctio amicorum urbem firmat | The joining of friends strengthens the city
+adjungo | Equos ad currum adjungo | I harness the horses to the chariot
+adjuro1 | Per omnes deos adjuro | I swear by all the gods
+adjuto | Matrem in horto adjuto | I help my mother in the garden
+adjutor2 | Adjutor ducis castra munit | The general's helper fortifies the camp
+adjutrix | Adjutrix reginae in horto laborat | The queen's helper works in the garden
+adjuvo | Agricolam in agro adjuvo | I help the farmer in the field
+adminiculo | Vites perticis adminiculo | I prop the vines with poles
+adminiculum | Adminiculum vitem sustinet | The prop supports the vine
+administer | Administer regis vinum portat | The king's attendant carries the wine
+administratio | Administratio rei publicae senatum occupat | The administration of the state occupies the senate
+administro | Bellum administro | I conduct the war
+admirabilitas | Admirabilitas operis omnes tenet | The wonderfulness of the work holds everyone
+admiratio | Admiratio ducis in militibus crescit | Admiration for the general grows among the soldiers
+admiror | Fortitudinem militum admiror | I admire the soldiers' courage
+admisceo | Aquam vino admisceo | I mix water into the wine
+admissio | Admissio ad principem rara est | Admission to the emperor is rare
+admitto | Hospitem in domum admitto | I let the guest into the house
+admolior | Saxum ad portam admolior | I heave the rock up to the gate
+admoneo | Puerum officii admoneo | I remind the boy of his duty
+admonitio | Admonitio matris filium movet | The mother's reminder moves her son
+admonitor | Admonitor discipulos diligentes facit | The monitor makes the pupils diligent
+# skip: admonitus2 used only in the ablative (admonitu), so it cannot be a nominative subject
+admordeo | Pomum admordeo | I bite into the apple
+admotio | Admotio digitorum sonum mutat | The placing of the fingers changes the sound
+admoveo | Lucernam ad librum admoveo | I bring the lamp near the book
+admurmuratio | Admurmuratio per forum currit | A murmur of disapproval runs through the forum
+admutilo | Ovem admutilo | I shear the sheep
+adnepos | Adnepos senis in villa habitat | The old man's great-great-great-grandson lives in the villa
+adoleo1 | Tus in ara adoleo | I burn incense on the altar
+adolesco | In villa adolesco | I grow up in the villa
+adonium | Adonium in horto floret | The adonium blooms in the garden
+adoperio | Caput pallio adoperio | I cover my head with a cloak
+adoptatio | Adoptatio pueri familiam laetam facit | The adoption of the boy makes the family happy
+adoptio | Adoptio filium novum familiae dat | The adoption gives the family a new son
+adopto | Puerum orphanum adopto | I adopt the orphan boy
+ador | Ador in horreo servatur | The spelt is kept in the granary
+adorior | Oppidum hostium adorior | I attack the enemy's town
+adorno | Navem adorno | I equip the ship
+adoro | Deos in templo adoro | I worship the gods in the temple
+adrado | Ramum adrado | I pare down the branch
+adsum | In schola adsum | I am present at school
+adulatio | Adulatio canis dominum laetum facit | The dog's fawning makes its master glad
+adulator | Adulator regis laudes cantat | The king's flatterer sings his praises
+adulescentia | Adulescentia post pueritiam venit | Youth comes after boyhood
+adulescentula | Adulescentula in horto cantat | The girl sings in the garden
+adulescentulus | Adulescentulus ad scholam ambulat | The youngster walks to school
+# third: adulo "I fawn" is a dog's action
+adulo | Canis dominum adulat | The dog fawns on its master
+adulor | Regem adulor | I flatter the king
+adulterium | Adulterium matrimonium dissolvit | Adultery breaks up the marriage
+adultero | Numquam adultero | I never commit adultery
+adumbratio | Adumbratio pictoris in tabula est | The painter's sketch is on the panel
+adumbro | Montem in tabula adumbro | I sketch the mountain on the panel
+aduno | Amicos aduno | I unite my friends
+aduro | Panem in igne aduro | I scorch the bread in the fire
+adustio | Adustio panis cenam corrumpit | The scorching of the bread spoils the dinner
+adveho | Frumentum navi adveho | I convey grain by ship
+advenio | Hodie in urbem advenio | I arrive in the city today
+adventor | Adventor in villa cenat | The visitor dines in the villa
+adventus | Adventus veris agros mutat | The arrival of spring changes the fields
+adversor | Consilio consulis adversor | I oppose the consul's plan
+adverto | Oculos ad solem adverto | I turn my eyes towards the sun
+advigilo | Domui advigilo | I keep watch over the house
+advivo | Etiam in senectute advivo | I live on even in old age
+advocatio | Advocatio oratoris civi prodest | The orator's counsel benefits the citizen
+advoco | Amicos ad cenam advoco | I summon my friends to dinner
+advolo | Ad amicum advolo | I rush to my friend
+advolvo | Robora ad focum advolvo | I roll logs to the hearth
+adytum | Adytum in templo obscurum est | The sanctuary in the temple is dark
+aedes | Aedes in colle stat | The temple stands on the hill
+aedicula | Aedicula parva in via est | The small shrine is on the road
+aedificatio | Aedificatio muri longa est | The building of the wall is long
+aedificium | Aedificium magnum prope portum est | The large building is near the harbour
+aedifico | Domum novam aedifico | I build a new house
+aedilis | Aedilis ludos populo parat | The aedile prepares games for the people
+aedilitas | Aedilitas magistratus antiquus est | The aedileship is an ancient magistracy
+aeditimus | Aeditimus aram purgat | The temple keeper cleans the altar
+aedituus | Aedituus ad portam stat | The temple keeper stands at the gate
+aegilops | Aegilops medicis notus est | The eye tumour is known to doctors
+aegis | Aegis in templo splendet | The aegis gleams in the temple
+aegresco | Hieme aegresco | I fall ill in winter
+aegrimonia | Aegrimonia animum premit | Sorrow weighs on the mind
+aegritudo | Aegritudo gravis est | The grief is heavy
+aegrotatio | Aegrotatio longa est | The illness is long
+aegroto | Graviter aegroto | I am seriously ill
+aemulatio | Aemulatio inter fratres magna est | The rivalry between the brothers is great
+aemulator | Aemulator magistri bene scribit | The imitator of the teacher writes well
+aemulor | Fratrem aemulor | I rival my brother
+aenigma | Aenigma difficile est | The riddle is difficult
+aequabilitas | Aequabilitas motus stellarum mirabilis est | The regularity of the stars' movement is wonderful
+aequalitas | Aequalitas inter cives bona est | Equality among citizens is good
+aequanimitas | Aequanimitas senis laudatur | The old man's equanimity is praised
+aequinoctium | Aequinoctium autumno venit | The equinox comes in autumn
+aequiparo | Fratrem virtute aequiparo | I equal my brother in courage
+aequitas | Aequitas in judicio necessaria est | Fairness is necessary in a trial
+aequo | Me fratri aequo | I make myself equal to my brother
+aequor | Aequor lene est | The sea is calm
+aera | Aera nova a consule incipit | The new era begins with the consul
+aerugo | Aerugo in nummo apparet | The rust appears on the coin
+aerumna | Aerumna molesta est | The hardship is troublesome
+aes | Aes in arca jacet | The bronze lies in the chest
+aestas | Aestas calida est | The summer is hot
+aestimatio | Aestimatio agri difficilis est | The valuation of the field is difficult
+aestimator | Aestimator pretium domus dicit | The valuer states the price of the house
+aestimo | Agrum magno aestimo | I value the field highly
+aestivo | In villa aestivo | I spend the summer in the villa
+aestuarium | Aestuarium prope mare est | The estuary is near the sea
+aestuo | Invidia aestuo | I seethe with envy
+aestus | Aestus in agris magnus est | The heat in the fields is great
+aetas | Aetas senis magna est | The old man's age is great
+aetatula | Aetatula filiae dulcis est | The daughter's tender youth is sweet
+aeternitas | Aeternitas sine fine est | Eternity is without end
+aether | Aether purus supra nubes est | The pure sky is above the clouds
+aethra1 | Aethra clara supra mare patet | The bright sky extends above the sea
+aevitas | Aevitas hominis brevis est | The person's lifetime is short
+aevum | Aevum antiquum in libris describitur | The ancient age is described in books
+affatus2 | Affatus ducis militibus gratus est | The leader's address is welcome to the soldiers
+affectatio | Affectatio laudis magna est | The striving for praise is great
+affectio | Affectio animi in vultu apparet | The disposition of the mind appears in the face
+affectus2 | Affectus patris in verbis est | The father's feeling is in the words
+afficio | Amicum gaudio afficio | I fill my friend with joy
+affigo | Tabulam ad murum affigo | I fasten the tablet to the wall
+affingo | Fabulam affingo | I invent a story
+affinitas | Affinitas inter patrem et generum firma est | The tie between father and son-in-law is firm
+affirmatio | Affirmatio testis firma est | The witness's assertion is firm
+affirmo | Rem veram affirmo | I affirm the truth
+afflatus2 | Afflatus venti frigidus est | The breath of the wind is cold
+# third: afflicto a storm batters ships; "I batter" is not a learner's sentence
+afflicto | Tempestas naves afflictat | The storm batters the ships
+# third: affligo violent verb, generic military figures
+affligo | Hostis militem affligit | The enemy strikes the soldier
+afflo | Ignem afflo | I blow on the fire
+affluentia | Affluentia rerum omnium in villa est | The abundance of everything is in the villa
+affluo | Fructibus affluo | I abound in fruit
+affor | Hospitem affor | I address the guest
+affrico | Lignum ad saxum affrico | I rub the wood against the stone
+# third: affulgeo "I shine upon" is said of the sun and lights, not people
+affulgeo | Sol agro affulget | The sun shines on the field
+affundo | Aquam rosis affundo | I pour water on the roses
+agaso | Agaso equum ad stabulum ducit | The groom leads the horse to the stable
+agellus | Agellus parvus prope flumen est | The small plot is near the river
+ager | Ager fertilis est | The field is fertile
+agger | Agger ante castra est | The rampart is in front of the camp
+aggero1 | Terram ad murum aggero | I heap earth against the wall
+aggero2 | Aquam ad villam aggero | I convey water to the villa
+agglomero | Lanam ad fusum agglomero | I wind wool onto the spindle
+aggravo | Onus aggravo | I make the load heavier
+aggredio | Ad hospitem aggredio | I approach the guest
+# third: aggredior violent verb, generic military figures
+aggredior | Miles hostem aggreditur | The soldier attacks the enemy
+aggrego | Ovem ad gregem aggrego | I add the sheep to the flock
+aggressio | Aggressio militum subita est | The soldiers' attack is sudden
+agilitas | Agilitas pueri magna est | The boy's nimbleness is great
+agitatio | Agitatio fluctuum in portu cernitur | The movement of the waves is seen in the harbour
+agitator | Agitator asinos per viam ducit | The driver leads the donkeys along the road
+agitatus | Agitatus aquae in flumine celer est | The movement of the water in the river is quick
+agito | Equum in campo agito | I drive the horse on the plain
+agmen | Agmen longum per viam it | The long column goes along the road
+agna1 | Agna herbam in prato edit | The lamb eats grass in the meadow
+# third: agnascor "I accrue" is not a sentence; used of plants growing on something
+agnascor | Viscum in quercu agnascitur | The mistletoe grows on the oak
+agnatio | Agnatio ex patre venit | Kinship through the male line comes from the father
+agnitio | Agnitio amici laeta est | The recognition of the friend is happy
+agnomen | Agnomen ex victoria venit | The honorific name comes from victory
+agnominatio | Agnominatio in carmine est | The wordplay is in the poem
+agnosco | Patrem in turba agnosco | I recognise my father in the crowd
+agnus | Agnus post matrem currit | The lamb runs behind its mother
+ago | Deis gratias ago | I give thanks to the gods
+agon | Agon gymnicus in urbe est | The athletic contest is in the city
+agricola1 | Agricola frumentum metit | The farmer reaps the grain
+agricultura | Agricultura opus durum est | Farming is hard work
+ala | Ala aquilae magna est | The eagle's wing is large
+alabaster | Alabaster unguenti plenus est | The perfume box is full of ointment
+alabastrites | Alabastrites mollis est | The alabaster is soft
+alacritas | Alacritas discipuli magistro placet | The pupil's eagerness pleases the teacher
+alapa | Alapa magnum sonum facit | The slap makes a loud sound
+alauda | Alauda mane cantat | The lark sings in the morning
+# third: albeo "I am white" is said of things like mountains, not people
+albeo | Mons nive albet | The mountain is white with snow
+# third: albesco "I turn white" is said of hair, not a person
+albesco | Capillus senis albescit | The old man's hair turns white
+# third: albico "I am white" is said of meadows and things, not people
+albico | Pratum pruina albicat | The meadow is white with frost
+alcedo | Alcedo supra aquam volat | The kingfisher flies above the water
+alcedonia | Alcedonia hieme sunt | The halcyon days come in winter
+alea | Alea ludus fortunae est | Dice is a game of chance
+alec | Alec in lagoena est | The fish-sauce is in the jar
+alga | Alga ad litus venit | The seaweed comes to the shore
+algeo | Sine pallio algeo | I feel cold without a cloak
+algesco | In nive algesco | I catch cold in the snow
+algor | Algor noctis acer est | The cold of the night is sharp
+algus | Algus matutinus molestus est | The morning chill is troublesome
+alicula | Alicula alba in sella est | The white cape is on the chair
+alienatio | Alienatio agri in tabula scripta est | The transfer of the field is written on the tablet
+alienitas | Alienitas verborum discipulum turbat | The foreignness of the words confuses the pupil
+alieno | Populum a consule alieno | I estrange the people from the consul
+alimentum | Alimentum agricolae in mensa est | The farmer's food is on the table
+alimonia | Alimonia familiae in cella est | The family's sustenance is in the storeroom
+alimonium | Alimonium puero necessarium est | Sustenance is necessary for the boy
+aliptes | Aliptes athletam exercet | The trainer exercises the athlete
+allabor | Ripam allabor | I glide up to the bank
+# third: allatro "I bark at" is a dog's action
+allatro | Canis hospitem allatrat | The dog barks at the guest
+allectio | Allectio militum in campo fit | The levy of soldiers takes place on the plain
+allegatio | Allegatio nuntii ad urbem celer est | The sending of the messenger to the city is quick
+allego1 | Servum ad vicinum allego | I send the slave on an errand to the neighbour
+allego2 | Virum in senatum allego | I co-opt the man into the senate
+allegoria | Allegoria in fabula latet | The allegory lies hidden in the story
+allevio | Sarcinam allevio | I lighten the pack
+allevo1 | Arcam allevo | I lift the chest
+allicio | Apes floribus allicio | I attract the bees with flowers
+allido | Vas ad murum allido | I dash the jar against the wall
+alligo | Canem ad arborem alligo | I tie the dog to the tree
+allino | Panem melle allino | I smear the bread with honey
+allium | Allium in culina est | The garlic is in the kitchen
+allocutio | Allocutio consulis brevis est | The consul's address is short
+alloquium | Alloquium matris filium consolatur | The mother's address consoles her son
+# third: alluceo "I shine on" is said of lamps, sun and moon, not people
+alluceo | Lucerna libro allucet | The lamp shines on the book
+alludo | Fratri alludo | I play with my brother
+# third: alluo "I wash against" is said of the sea or a river
+alluo | Mare muros alluit | The sea washes against the walls
+alluvies | Alluvies post imbrem in agro est | The flood is in the field after the rain
+alluvio | Alluvio agros vastat | The flooding lays waste the fields
+alnus | Alnus prope paludem viret | The alder is green near the marsh
+alo | Liberos pane et lacte alo | I nourish the children with bread and milk
+alpha | Alpha prima littera est | Alpha is the first letter
+altaria | Altaria in templo alba sunt | The altars in the temple are white
+altercatio | Altercatio inter vicinos ad portam est | The dispute between the neighbours is at the gate
+altercor | Cum vicino altercor | I wrangle with the neighbour
+alternatio | Alternatio diei et noctis constans est | The alternation of day and night is constant
+alterno | Opus et otium alterno | I alternate work and rest
+altitudo | Altitudo turris omnibus nota est | The height of the tower is known to all
+altrix | Altrix infantem in cunis tenet | The nurse holds the baby in the cradle
+alucinatio | Alucinatio senis mitis est | The old man's daydreaming is gentle
+alucinor | Saepe alucinor | I often daydream
+alumno | Agnum alumno | I rear the lamb
+alvearium | Alvearium apibus plenum est | The beehive is full of bees
+alveolus | Alveolus in culina pendet | The tray hangs in the kitchen
+alveus | Alveus fluminis latus est | The bed of the river is wide
+alvus | Alvus ovis plena est | The sheep's belly is full
+amabilitas | Amabilitas magistri discipulis grata est | The teacher's charm is welcome to the pupils
+amando | Servum in agros amando | I send the slave off to the fields
+amaritudo | Amaritudo herbae puero non placet | The bitterness of the herb does not please the boy
+ambages | Ambages viarum multae sunt | The windings of the roads are many
+ambedo | Crustum ambedo | I gnaw at the crust
+ambigo | Haud ambigo | I have no doubt
+ambiguitas | Ambiguitas nominis discipulum fallit | The ambiguity of the name deceives the pupil
+ambio | Murum ambio | I go round the wall
+ambitio | Ambitio candidati cives movet | The candidate's canvassing moves the citizens
+ambitus2 | Ambitus lunae brevis est | The circuit of the moon is short
+# skip: ambo is an adjective (both), misfiled as a verb
+ambrosia1 | Ambrosia cibus deorum est | Ambrosia is the food of the gods
+ambulacrum | Ambulacrum arboribus ornatum est | The avenue is adorned with trees
+ambulatio | Ambulatio post cenam salubris est | The walk after dinner is healthy
+ambulo | Per silvam ambulo | I walk through the wood
+amburbium | Amburbium circum urbem ducitur | The procession is led round the city
+amburo | Tabulam flamma amburo | I scorch the board with a flame
+amentia | Amentia regis populum terret | The king's madness frightens the people
+amento | Hastam amento | I fit the spear with a thong
+amentum | Amentum hastae e corio est | The thong of the spear is made of leather
+ames | Ames longus rete sustinet | The long pole holds up the net
+amicio | Pallio me amicio | I wrap myself in a cloak
+amicitia | Amicitia res pulchra est | Friendship is a fine thing
+amictus2 | Amictus pastoris laneus est | The shepherd's cloak is woollen
+amiculum | Amiculum purpureum pulchrum est | The purple cloak is beautiful
+amiculus | Amiculus meus ad cenam venit | My dear friend comes to dinner
+amicus2 | Amicus mihi librum dat | The friend gives me a book
+amissio | Amissio pecuniae mercatorem vexat | The loss of the money troubles the merchant
+amita | Amita mea librum legit | My paternal aunt reads a book
+amitto | Pilam amitto | I lose the ball
+amnis | Amnis de monte currit | The river runs down from the mountain
+amo | Matrem ex animo amo | I love my mother with all my heart
+amoenitas | Amoenitas hortorum hospites capit | The loveliness of the gardens captivates the guests
+amolior | Truncos de via amolior | I clear the logs out of the road
+amomum | Amomum odorem dulcem habet | The amomum has a sweet scent
+amor | Amor matris filium juvat | A mother's love helps her son
+amoveo | Sellam a mensa amoveo | I move the chair away from the table
+amphitheatrum | Amphitheatrum multos spectatores capit | The amphitheatre holds many spectators
+amphora | Amphora oleum continet | The jar contains oil
+amplector | Fratrem in porta amplector | I embrace my brother at the gate
+amplexor | Sororem amplexor | I hug my sister
+amplexus2 | Amplexus matris puerum calefacit | The mother's embrace warms the boy
+amplificatio | Amplificatio rei familiaris patrem laetum facit | The building up of the estate makes the father happy
+amplifico | Domum amplifico | I enlarge the house
+amplio | Hortum amplio | I enlarge the garden
+amplitudo | Amplitudo templi peregrinos movet | The size of the temple moves the visitors
+ampulla | Ampulla aquam servat | The flask keeps water
+amputo | Vitem amputo | I prune the vine
+amussis | Amussis tabulam probat | The straightedge tests the board
+anancites | Anancites regem terrore liberat | The diamond frees the king from fear
+anaphora | Anaphora orationem ornat | The anaphora adorns the speech
+anas1 | Anas in stagno natat | The duck swims in the pond
+anathema2 | Anathema sacerdotis cives terret | The priest's curse frightens the citizens
+ancile | Ancile Romam servat | The sacred shield protects Rome
+ancilla | Ancilla panem emit | The maidservant buys bread
+ancillor | Dominae ancillor | I serve my mistress
+ancillula | Ancillula mensam purgat | The little maidservant cleans the table
+anclo | Vinum anclo | I serve the wine
+ancon1 | Ancon trabem sustinet | The bracket supports the beam
+ancora | Ancora navem tenet | The anchor holds the ship
+andabata | Andabata adversarium non videt | The blindfolded gladiator does not see his opponent
+andron | Andron duo atria jungit | The corridor joins two halls
+anfractus2 | Anfractus viae equum tardat | The bend in the road slows the horse
+angario | Colonum ad opus angario | I compel the farmer to work
+angelus | Angelus nuntium portat | The angel carries a message
+angina | Angina magistrum domi tenet | The quinsy keeps the teacher at home
+angiportus | Angiportus inter domos jacet | The alley lies between the houses
+ango | Fratrem ango | I distress my brother
+angor | Angor ducem premit | The anguish weighs on the leader
+anguilla | Anguilla de manu piscatoris elabitur | The eel slips from the fisherman's hand
+anguis | Anguis in herba latet | The snake hides in the grass
+angulus | Angulus cubiculi obscurus est | The corner of the bedroom is dark
+angustiae | Angustiae naves tardant | The narrows slow the ships
+angusto | Viam angusto | I narrow the road
+anhelatio | Anhelatio cursorem tardat | The panting slows the runner
+anhelitus | Anhelitus pueri post cursum auditur | The boy's panting is heard after the race
+anhelo | Post cursum anhelo | I pant after the run
+anicula | Anicula ad ignem sedet | The old woman sits by the fire
+anima | Anima mea in frigore videtur | My breath is seen in the cold
+animadversio | Animadversio magistri discipulum monet | The teacher's observation warns the pupil
+animadverto | Fumum in monte animadverto | I notice smoke on the mountain
+animo | Tibiam spiritu animo | I fill the pipe with breath
+animositas | Animositas militum ducem confirmat | The soldiers' boldness strengthens the leader
+animus | Animus sapientis corpus regit | The mind of the wise man rules the body
+annato | Ad ripam annato | I swim to the bank
+annecto | Funem ad malum annecto | I attach the rope to the mast
+annitor | Omni ope annitor | I strive with all my strength
+anno1 | Insulae anno | I swim to the island
+annona | Annona urbem alit | The grain supply feeds the city
+annotatio | Annotatio magistri librum explicat | The teacher's note explains the book
+annoto | Versum in libro annoto | I note a verse in the book
+annuntio | Pacem civibus annuntio | I announce peace to the citizens
+annuo | Amico annuo | I nod to my friend
+annus | Annus novus incipit | The new year begins
+anquiro | Causam anquiro | I investigate the cause
+ansa | Ansa amphorae fracta est | The handle of the jar is broken
+anser1 | Anser Capitolium servat | The goose protects the Capitol
+antecapio | Pontem antecapio | I seize the bridge first
+antecedo | Amicis antecedo | I go ahead of my friends
+antecello | Ingenio omnibus antecello | I excel everyone in talent
+antecessio | Antecessio stellarum nautam docet | The advance of the stars teaches the sailor
+antecessor | Antecessor meus librum scribit | My predecessor writes a book
+antecursor | Antecursor exercitum monet | The forerunner warns the army
+anteeo | Praetoribus anteeo | I walk before the praetors
+antefero | Pacem bello antefero | I prefer peace to war
+# skip: antefixus is a participle (nailed on), misfiled as a noun
+antenna | Antenna velum sustinet | The yardarm holds up the sail
+antepono | Libros ludis antepono | I prefer books to games
+antesignanus | Antesignanus primus in proelium currit | The front-line soldier runs first into battle
+antesto | Cursu fratri antesto | I excel my brother in running
+antestor | Vicinum antestor | I call my neighbour to witness
+antevenio | Hostem antevenio | I forestall the enemy
+anteverto | Nuntium anteverto | I forestall the messenger
+anticipatio | Anticipatio deorum omnes homines tenet | The preconception of the gods holds all people
+anticipo | Vigilias anticipo | I am awake ahead of the watches
+antidotum | Antidotum aegrum juvat | The antidote helps the sick man
+antiquitas | Antiquitas generis nobilem superbum facit | The ancientness of the family makes the noble proud
+antiquo | Legem antiquo | I reject the law
+antrum | Antrum umbram frigidam habet | The cave has cool shade
+anulus1 | Anulus in digito fulget | The ring shines on the finger
+anxietas | Anxietas animum senis occupat | The anxiety takes hold of the old man's mind
+aper1 | Aper ad flumen currit | The boar runs to the river
+aperio | Fenestram aperio | I open the window
+apertio | Apertio portae custodem excitat | The opening of the door wakes the guard
+apex | Apex montis nive tectus est | The tip of the mountain is covered with snow
+aphractus | Aphractus ad insulam navigat | The open galley sails to the island
+apis1 | Apis flores petit | The bee seeks flowers
+apiscor | Praemium apiscor | I obtain the prize
+apium | Apium in olla coquitur | The parsley is cooked in the pot
+apluda | Apluda e frumento volat | The chaff flies from the grain
+aplustre | Aplustre vittis ornatum est | The curved stern is adorned with ribbons
+apo | Funem ad palum apo | I fasten the rope to the post
+apocolocyntosis | Apocolocyntosis Senecae Claudium ridet | Seneca's Apocolocyntosis mocks Claudius
+apologus | Apologus puerum docet | The fable teaches the boy
+apophoreta | Apophoreta in mensa jacent | The take-home presents lie on the table
+apostolus | Apostolus verbum Dei docet | The apostle teaches the word of God
+apotheca | Apotheca vinum et frumentum continet | The storehouse holds wine and grain
+apparatus2 | Apparatus cenae servos occupat | The preparation of the dinner keeps the slaves busy
+appareo | In porta appareo | I appear at the gate
+apparitor | Apparitor consulem sequitur | The attendant follows the consul
+apparo | Convivium apparo | I prepare a banquet
+appellatio | Appellatio ad tribunum consulem monet | The appeal to the tribune warns the consul
+appello1 | Navem ad portum appello | I land the ship at the harbour
+appello2 | Amicum nomine appello | I call my friend by name
+appendix | Appendix epistulae nomen amici continet | The appendix of the letter contains the friend's name
+appendo | Aurum mercatori appendo | I weigh out gold for the merchant
+appetitio | Appetitio gloriae juvenem movet | The desire for glory moves the young man
+appetitus2 | Appetitus cibi puerum ad mensam vocat | The appetite for food calls the boy to the table
+appeto1 | Gloriam appeto | I desire glory
+appingo1 | Avem muro appingo | I paint a bird on the wall
+applaudo | Poetae applaudo | I applaud the poet
+applicatio | Applicatio ad patronum clientem juvat | The attachment to the patron helps the client
+applico | Scalam ad murum applico | I lean the ladder against the wall
+appono | Lucernam ad lectum appono | I set the lamp beside the bed
+apporto | Aquam domum apporto | I bring water home
+apprehendo | Funem apprehendo | I seize the rope
+apprimo | Librum pectori apprimo | I press the book to my chest
+approbatio | Approbatio populi oratorem confirmat | The approval of the people encourages the orator
+approbo | Consilium amici approbo | I approve my friend's plan
+appropero | Ad portam appropero | I hurry to the gate
+appropinquo | Urbi appropinquo | I approach the city
+appulsus2 | Appulsus pecoris ad aquam pastorem occupat | The driving of the flock to the water keeps the shepherd busy
+apricatio | Apricatio senem calefacit | The sunbathing warms the old man
+apto | Galeam capiti apto | I fit the helmet to my head
+aqua | Aqua per agros fluit | The water flows through the fields
+aquaeductus | Aquaeductus vallem transit | The aqueduct crosses the valley
+aquatio | Aquatio militibus necessaria est | The fetching of water is necessary for the soldiers
+aquila1 | Aquila in caelo volat | The eagle flies in the sky
+aquilo | Aquilo naves in portu tenet | The north wind holds the ships in the harbour
+aquor | Ad flumen aquor | I fetch water at the river
+aquula | Aquula per saxum manat | The trickle runs through the rock
+ara | Ara deo dicata est | The altar is dedicated to the god
+aranea | Aranea telam texit | The spider weaves a web
+aratio | Aratio terram parat | The ploughing prepares the earth
+arator | Arator agrum mane colit | The ploughman works the field in the morning
+aratrum | Aratrum agricolae utile est | The plough is useful to the farmer
+arbiter | Arbiter verba amici audit | The witness hears the friend's words
+arbitratus2 | Arbitratus judicis rem finit | The judge's discretion settles the matter
+arbitrium | Arbitrium senatus bellum finit | The senate's decision ends the war
+arbitror | Rem gravem arbitror | I consider the matter serious
+arbor1 | Arbor alta in prato crescit | The tall tree grows in the meadow
+arbuscula1 | Arbuscula umbram parvam dat | The shrub gives little shade
+arbustum | Arbustum vites sustinet | The plantation supports the vines
+arbutum | Arbutum avibus cibum dat | The arbutus berry gives food to the birds
+arbutus | Arbutus fructus rubros fert | The strawberry tree bears red fruit
+arca | Arca sub lecto jacet | The chest lies under the bed
+arceo | Hostem a muro arceo | I ward off the enemy from the wall
+arcera | Arcera aegrum portat | The covered wagon carries the sick man
+arcesso | Medicum arcesso | I send for the doctor
+architector | Templum architector | I build a temple
+architectus | Architectus pontem designat | The architect plans the bridge
+arctos | Arctos nautas ducit | The Bear guides the sailors
+arcturus | Arcturus tempestatem nuntiat | Arcturus announces a storm
+arcula | Arcula anulos servat | The casket keeps the rings
+arcuo | Virgam arcuo | I bend the rod into an arch
+arcus | Arcus in muro pendet | The bow hangs on the wall
+# third: ardeo "I burn" is not a sentence a learner needs
+ardeo | Domus ardet | The house burns
+# third: ardesco "I catch fire" is not a sentence a learner needs
+ardesco | Stipula ardescit | The straw catches fire
+ardor | Ardor solis agros siccat | The heat of the sun dries the fields
+arefacio | Vestes arefacio | I dry the clothes
+# third: areo "I am dry" is not a sentence a learner needs
+areo | Ager aret | The field is dry
+areola | Areola ante cenationem jacet | The small yard lies in front of the dining room
+# third: aresco "I dry up" is not a sentence a learner needs
+aresco | Fluvius arescit | The river dries up
+argentum | Argentum in monte reperitur | Silver is found on the mountain
+argilla | Argilla figulo materiam dat | The clay gives the potter material
+argumentatio | Argumentatio oratoris judices movet | The orator's argument moves the judges
+argumentor | De pace argumentor | I argue about peace
+argumentum | Argumentum causam probat | The proof establishes the case
+arguo | Veritatem verbis arguo | I prove the truth with words
+argutiae | Argutiae vultus statuam ornant | The liveliness of the face adorns the statue
+argutor | Cum sorore argutor | I prattle with my sister
+ariditas | Ariditas agricolas terret | The drought frightens the farmers
+aries | Aries lanam densam habet | The ram has thick wool
+# third: arieto "I butt" is something only a horned animal does
+arieto | Hircus portam arietat | The goat butts the gate
+arista | Arista spicam ornat | The awn adorns the ear
+arma | Arma militem tegunt | The arms cover the soldier
+armamenta | Armamenta nautam adjuvant | The tackle helps the sailor
+armamentarium | Armamentarium prope portum stat | The arsenal stands near the harbour
+armarium | Armarium vestes et pecuniam servat | The cupboard keeps clothes and money
+# skip: armatus2 is attested only in the ablative (armatu), so it cannot be a subject in headword form
+armentum | Armentum ad aquam it | The herd goes to the water
+armilla | Armilla aurea mulierem ornat | The golden bracelet adorns the woman
+armillum | Armillum in mensa stat | The wine jug stands on the table
+armo | Milites armo | I arm the soldiers
+armus | Armus ovis lanam habet | The sheep's shoulder has wool
+aro | Agrum aro | I plough the field
+aroma | Aroma cenam odoratam facit | The spice makes the dinner fragrant
+arrepo | Ad murum arrepo | I creep up to the wall
+arrha | Arrha emptionem firmat | The deposit confirms the purchase
+arrideo | Puellae arrideo | I smile at the girl
+arrigo | Malum arrigo | I raise the mast
+arripio | Manum amici arripio | I grab my friend's hand
+arrodo | Caseum arrodo | I nibble the cheese
+arrogantia | Arrogantia oratoris senatores offendit | The speaker's arrogance offends the senators
+arrogatio | Arrogatio coram populo fit | The adrogation takes place before the people
+arrogo | Mihi nihil arrogo | I claim nothing for myself
+arteria | Arteria aerem ad pulmones ducit | The windpipe leads air to the lungs
+articulo | Verba articulo | I articulate the words
+articulus | Articulus digiti flectitur | The joint of the finger bends
+artificium | Artificium fabri puerum alit | The smith's craft supports the boy
+# skip: artio2 is found only in the participle artitus, with no finite forms
+arto | Libros in arca arto | I pack the books close together in the chest
+artus2 | Artus athletae validi sunt | The athlete's limbs are strong
+arula | Arula ante imaginem deae ponitur | The small altar is placed before the image of the goddess
+arvina | Arvina cibum pinguem facit | The fat makes the food rich
+arx | Arx urbem tuetur | The citadel guards the city
+as | As e sacculo cadit | The copper coin falls from the purse
+ascendo | Montem ascendo | I climb the mountain
+ascensio | Ascensio montis agricolam fatigat | The climb up the mountain tires the farmer
+ascensor | Ascensor equum ad flumen ducit | The rider leads the horse to the river
+ascensus2 | Ascensus per viam angustam ducit | The ascent leads along a narrow path
+ascia | Ascia lignum secat | The axe cuts wood
+ascio2 | Amicum in collegium ascio | I admit my friend into the club
+ascisco | Legem novam ascisco | I adopt the new law
+ascribo | Amicum in numerum civium ascribo | I enrol my friend among the citizens
+ascriptor | Ascriptor legis in senatu surgit | The supporter of the law rises in the senate
+asellus | Asellus onus portat | The little ass carries the load
+asina | Asina lac dat | The she-ass gives milk
+asinus | Asinus herbam edit | The ass eats grass
+asparagus | Asparagus ex terra surgit | The asparagus rises from the ground
+aspecto | Stellas aspecto | I gaze at the stars
+aspectus2 | Aspectus matris puerum consolatur | The sight of his mother comforts the boy
+aspello | Lupum ab ovili aspello | I drive the wolf away from the sheepfold
+aspergo1 | Aquam floribus aspergo | I sprinkle water on the flowers
+aspergo2 | Aspergo aquae flores recreat | The sprinkling of water refreshes the flowers
+asperitas | Asperitas viae iter difficile facit | The roughness of the road makes the journey difficult
+aspero | Saxum aspero | I roughen the stone
+aspersio | Aspersio aquae aram purgat | The sprinkling of water cleans the altar
+aspicio | Navem aspicio | I look at the ship
+aspiratio | Aspiratio aeris corpus recreat | The breathing of air refreshes the body
+aspiro | Ad gloriam aspiro | I aspire to glory
+asporto | Sarcinas asporto | I carry off the baggage
+assecla | Assecla divitem sequitur | The hanger-on follows the rich man
+assectator | Assectator consulem ad curiam comitatur | The follower accompanies the consul to the senate house
+assensio | Assensio populi legem juvat | The assent of the people supports the law
+assensus2 | Assensus magistri puero audaciam dat | The teacher's assent gives the boy courage
+assentatio | Assentatio regem decipit | The flattery deceives the king
+assentator | Assentator divitem laudat | The flatterer praises the rich man
+assentior | Amico assentior | I agree with my friend
+assequor | Metam assequor | I attain the goal
+asser | Asser murum sustinet | The pole supports the wall
+assero1 | Vites propter cupressos assero | I plant vines beside the cypresses
+assero2 | Servum in libertatem assero | I claim the slave as a free man
+assertio | Assertio libertatis servo spem dat | The assertion of freedom gives the slave hope
+assertor | Assertor servo libertatem petit | The champion claims freedom for the slave
+asservo | Thesaurum asservo | I guard the treasure
+assessor | Assessor judici consilium dat | The assessor gives advice to the judge
+asseveratio | Asseveratio testis causam firmat | The witness's affirmation strengthens the case
+assevero | Veritatem assevero | I affirm the truth
+# third: assibilo "I hiss" is not what the word means here; it is said of the wind
+assibilo | Ventus per folia assibilat | The wind whispers through the leaves
+assideo | Amico assideo | I sit by my friend
+assido | In sella assido | I sit down on the chair
+assiduitas | Assiduitas medici aegro auxilium dat | The doctor's constant attendance gives help to the patient
+assiduus1 | Assiduus tributum solvit | The propertied citizen pays tribute
+assignatio | Assignatio agrorum colonos juvat | The allotment of land helps the colonists
+assigno | Agros colonis assigno | I allot fields to the colonists
+# third: assilio the classical use is of waves leaping at walls
+assilio | Fluctus moenibus assilit | The wave leaps at the walls
+assimulatio | Assimulatio inter duos fratres omnes decipit | The likeness between the two brothers deceives everyone
+assimulo | Laetum me assimulo | I pretend to be happy
+assisto | Ad januam assisto | I stand by the door
+# third: assoleo is used only in the third person
+assoleo | Vesperi cenare assolet | It is the custom to dine in the evening
+assuefacio | Equum labori assuefacio | I accustom the horse to work
+assuesco | Frigori assuesco | I grow used to the cold
+assuetudo | Assuetudo laboris militem firmat | The habit of work strengthens the soldier
+assula | Assula e ligno cadit | The splinter falls from the wood
+assumo | Amicum in consilium assumo | I take my friend into the council
+assumptio | Assumptio muneris juvenem terret | The acceptance of the duty alarms the young man
+assurgo | E lecto assurgo | I rise from the bed
+aster | Aster in prato floret | The aster blooms in the meadow
+astipulatio | Astipulatio Senecae sententiam meam firmat | Seneca's corroboration confirms my opinion
+astipulator | Astipulator amicum adjuvat | The backer helps his friend
+astipulor | Amico astipulor | I concur with my friend
+asto | Ad mensam asto | I stand near the table
+astragalus | Astragalus columnam ornat | The astragal adorns the column
+astrepo | Oratori astrepo | I applaud the speaker
+astringo | Funem astringo | I tighten the rope
+astrologia | Astrologia caelum et stellas explicat | Astronomy explains the sky and the stars
+astrologus | Astrologus stellas observat | The astronomer observes the stars
+astrum | Astrum nautae viam monstrat | The star shows the sailor the way
+astruo | Cubiculum domui astruo | I build a room onto the house
+astupeo | Divitiis astupeo | I marvel at the riches
+astutia | Astutia ducis hostes superat | The leader's craftiness overcomes the enemy
+asylum | Asylum fugitivos accipit | The sanctuary receives fugitives
+atavus | Atavus familiae nomen dat | The great-great-great-grandfather gives the family its name
+athleta | Athleta praemium accipit | The athlete receives the prize
+atramentum | Atramentum tabulam nigram facit | The ink makes the tablet black
+atriensis | Atriensis servos regit | The steward directs the slaves
+atrium | Atrium januae proximum est | The hall is next to the door
+atrocitas | Atrocitas facti senatum commovet | The savagery of the deed stirs the senate
+# third: attamino "I defile" does not read naturally; generic enemy
+attamino | Hostis templum attaminat | The enemy defiles the temple
+attempero | Vestem puero attempero | I fit the garment to the boy
+attendo | Magistrum diligenter attendo | I listen carefully to the teacher
+attentio | Attentio discipuli magistrum juvat | The pupil's attention helps the teacher
+attento | Arcum attento | I try the bow
+attenuo | Vires hostium attenuo | I weaken the enemy's strength
+attero | Lapidem pedibus attero | I wear the stone away with my feet
+attestor | Veritatem attestor | I attest the truth
+attexo | Loricam ex cratibus attexo | I weave on a breastwork of wicker
+# third: attineo it is used of things that concern someone, not "I concern"
+attineo | Haec res ad consulem attinet | This matter concerns the consul
+attingo | Mensam attingo | I touch the table
+attollo | Pedes super limen attollo | I lift my feet over the threshold
+attondeo | Ovem attondeo | I shear the sheep
+# third: attono the thunder stuns; "I stun" does not read naturally
+attono | Tonitrus militem attonat | The thunder stuns the soldier
+# third: attraho violent verb, generic soldiers
+attraho | Dux hostem Romam attrahit | The general drags the enemy to Rome
+attrecto | Librum attrecto | I handle the book
+attribuo | Provinciam consuli attribuo | I assign the province to the consul
+attributio | Attributio debiti tabulis scribitur | The assignment of the debt is written in the records
+attritus2 | Attritus funis ligno nocet | The chafing of the rope harms the wood
+auceps | Auceps retia parat | The fowler prepares nets
+auctarium | Auctarium ad pondus additur | The makeweight is added to the weight
+auctio | Auctio multos emptores vocat | The auction calls many buyers
+auctionor | Bona auctionor | I auction the goods
+auctito | Pecuniam auctito | I keep increasing my money
+aucto | Opes aucto | I keep increasing my wealth
+auctor | Auctor legis in senatu loquitur | The originator of the law speaks in the senate
+auctoramentum | Auctoramentum gladiatorem obligat | The contract binds the gladiator
+auctoritas | Auctoritas patris familiam regit | The father's authority governs the family
+auctoro | Pro amico auctoro | I stand surety for my friend
+auctrix | Auctrix pacis ad senatum venit | The originator of peace comes to the senate
+auctumnitas | Auctumnitas fructus maturos affert | Autumn brings ripe fruit
+auctumnus1 | Auctumnus uvas maturat | Autumn ripens the grapes
+auctus2 | Auctus corporis puerum fortem facit | The growth of the body makes the boy strong
+aucupium | Aucupium rustico cibum praebet | Fowling provides food for the countryman
+aucupor | In silva aucupor | I go fowling in the wood
+audacia | Audacia militem ad murum ducit | Boldness leads the soldier to the wall
+audentia | Audentia juvenis amicos incitat | The young man's daring spurs on his friends
+audeo | Pontem transire audeo | I dare to cross the bridge
+audientia | Audientia populi oratori gaudium dat | The people's attention gives the speaker joy
+audio | Vocem matris audio | I hear my mother's voice
+auditio | Auditio de bello cives movet | The hearsay about the war stirs the citizens
+auditor | Auditor ad oratorem accedit | The listener approaches the speaker
+auditus2 | Auditus pastorem de lupo monet | Hearing warns the shepherd of the wolf
+aufero | Dona domum aufero | I carry the gifts off home
+aufugio | Ab hoste aufugio | I run away from the enemy
+augeo | Numerum militum augeo | I increase the number of soldiers
+augesco | Cotidie augesco | I grow every day
+augmen | Augmen urbis cives juvat | The growth of the city helps the citizens
+augmentum | Augmentum lunae noctem illustrat | The waxing of the moon lights up the night
+augur | Augur volatum avium observat | The augur watches the flight of birds
+augurium | Augurium consulem de bello monet | The augury warns the consul about the war
+auguror | De futuro auguror | I prophesy about the future
+aula1 | Aula sole plena est | The courtyard is full of sunlight
+aulaeum | Aulaeum scaenam tegit | The curtain covers the stage
+aura | Aura folia movet | The breeze moves the leaves
+# skip: aureolus is an adjective (golden), misfiled as a noun
+auricula | Auricula puellae frigore rubet | The girl's outer ear is red with cold
+auriga | Auriga quattuor equos regit | The charioteer drives four horses
+aurigo | In circo aurigo | I drive a chariot in the circus
+auris | Auris musicam percipit | The ear perceives music
+auro | Statuam auro | I gild the statue
+aurora | Aurora caelum rubrum facit | The dawn makes the sky red
+# skip: aurugo is a noun (jaundice), misfiled as a verb
+aurum | Aurum fulgens thesaurum implet | The shining gold fills the treasury
+ausculto | Musicam ausculto | I listen to the music
+auspicium | Auspicium in templo capitur | The auspice is taken in the temple
+auspicor | Ante proelium auspicor | I take the auspices before the battle
+auster1 | Auster nubes ad urbem portat | The south wind carries clouds to the city
+austeritas | Austeritas vini gustum mutat | The dryness of the wine changes the taste
+autumo | Verum autumo | I assert the truth
+auxilior | Vicinis auxilior | I help the neighbours
+auxilium | Auxilium ad urbem venit | Help comes to the city
+avaritia | Avaritia mercatorem amicis privat | Greed deprives the merchant of friends
+aveho | Merces navi aveho | I carry the goods away by ship
+avello | Ramum ab arbore avello | I tear a branch off the tree
+avena | Avena equum alit | The oats feed the horse
+aveo1 | Domum redire aveo | I long to return home
+# skip: aveo2 is found almost only in the imperative ave, avete, so no headword-form sentence is possible
+averrunco | Malum averrunco | I avert the evil
+aversio | Aversio oculorum amicum offendit | The turning away of the eyes offends the friend
+aversor1 | Turpem rem aversor | I turn away from the shameful thing
+averto | Flumen averto | I divert the river
+avia1 | Avia mea fabulas narrat | My grandmother tells stories
+aviditas | Aviditas legendi puerum ad libros trahit | The passion for reading draws the boy to books
+avis | Avis in ramo cantat | The bird sings on the branch
+avocamentum | Avocamentum animum fessum juvat | The distraction helps the tired mind
+avoco | Amicum a labore avoco | I call my friend away from work
+avolo | Ad altam arborem avolo | I fly to the tall tree
+avunculus | Avunculus mihi librum donat | My maternal uncle gives me a book
+avus | Avus meus lente ambulat | My grandfather walks slowly
+axis | Axis currum sustinet | The axle supports the chariot

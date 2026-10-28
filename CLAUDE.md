@@ -15,6 +15,8 @@ material sits on top of it.
 | `definitions/<LETTER>.txt` | **the curated definitions** — the recurring task below |
 | `definitions/tags.txt` | optional image tag per word, `key \| tag`; the allowed tags are `TAGS` in `tools/definitions.py` |
 | `tools/definitions.py` | chunk helper for that task (`next`, `check`, `status`) |
+| `sentences/<LETTER>.txt` | one simple example sentence per noun and verb — see the end of this file |
+| `tools/sentences.py` | chunk helper for the sentences (`next`, `check`, `status`) |
 | `tools/ls_db.py`, `tools/lookup.py` | load the JSON into SQL, read it back out — see `tools/README.md` |
 | `json-schemas/` | draft API request/response shapes, still evolving |
 | `api/` | FastAPI boilerplate, no routes yet |
@@ -266,3 +268,100 @@ rediscovered each chunk. None is a defect in an individual line.
 Work on the branch you were told to use, one commit per chunk, subject naming
 the letter and the range, e.g. `Add definitions for G: galbanum through gallus1`.
 Do not open a pull request unless asked.
+
+---
+
+# Recurring task: writing example sentences
+
+One very simple Latin sentence per word, with its English, in
+`sentences/<LETTER>.txt`. Nouns and verbs only, for now. Same chunk loop as
+the definitions, with its own tool:
+
+```
+python tools/sentences.py next A -n 10 --show   # words to write, with their ranks 1-3
+python tools/sentences.py check A               # must pass before committing
+```
+
+`next` offers every noun or verb that already has a curated definition,
+alphabetically, minus what is written or `# skip:`ped. The noun/verb test
+lives in `word_class()`; L&S's `part_of_speech` is patchy, so a word it
+misfiles gets a `# skip:` line rather than a hand-picked substitute.
+
+## Line format
+
+```
+key | Latin sentence | English
+puella | Puella caelum videt | The girl sees the sky
+video | Cibum calidum video | I see the warm food
+```
+
+- **One clause.** A subject, a verb, an object or a prepositional phrase at
+  most. No commas, no `qui`/`ut`/`si`/`quod`/`ubi` clauses.
+- **A noun is the subject, in its headword form** — the nominative singular
+  (the plural for a plural-only word such as `castra`).
+- **A verb is in its headword form** — first person singular present, so the
+  English starts `I ...`. Deponents keep their headword (`Amicum hortor`, I
+  encourage my friend): the form is passive, the meaning active.
+- **Third person, when "I" makes no sense.** A verb whose first person is
+  absurd or grim (`aborior`, miscarry; weather verbs; things only animals or
+  objects do) takes the third person singular, flagged by a comment directly
+  above it, and the English drops "I":
+  ```
+  # third: aborior "I miscarry" is not a sentence a learner needs
+  aborior | Ovis aboritur | The ewe miscarries
+  ```
+  Use it only where the first person truly fails; most verbs read fine as "I".
+- **Keep it suitable for a general audience.** Not childish, but where there
+  is a choice, avoid violent, grim, sexual or otherwise adult themes: no
+  killing, beheading, wounding, drunkenness or bodily detail, and nothing that
+  reads as harm to a person or child. When the word itself is dark, keep the
+  sentence plain and undescriptive rather than skipping it, but still varied
+  and sensible, never a template stamped out word after word:
+  - **A sad noun** (miscarriage, death, grief, disease) gets a plain
+    statement or a plain effect on someone: `Abortus familiam contristat`
+    (the miscarriage saddens the family), `Aegrimonia animum premit` (sorrow
+    weighs on the mind), `Amentia regis populum terret`. Vary the verb and
+    the person; avoid a bare `X mala est`, which teaches nothing.
+  - **A violent verb** (kill, wound, strike, slaughter) takes generic
+    military figures, nothing more: `Miles hostem aggreditur`, `Hostis
+    militem affligit`. Vary who acts (`miles`, `hostis`, `dux`, `exercitus`,
+    `gladiator`). The first person stays when it reads naturally in a
+    military frame; otherwise use `# third:`. No weapons, blood, body parts
+    or setting.
+  - **A sexual word** gets the same treatment: one sensible, completely
+    undescriptive sentence (`Adulterium matrimonium dissolvit`, adultery
+    breaks up the marriage; `Numquam adultero`, I never commit adultery). It
+    keeps the word's sexual sense when that is rank 1, kept as PG as the
+    word allows (`Nullam feminam constupro`, I violate no woman), rather
+    than swapping in a milder figurative sense.
+  - `# skip:` is for misfiled or unusable words, not for dark ones.
+- **One reading only.** The English must not be ambiguous: a learner reads it
+  as the key to the Latin, so it may say only one thing. Name who does what
+  to whom (`The general scatters the enemy column`, not a Latin order that
+  reads as `the enemy's general`); give a possessive a clear owner (`his own
+  son`, `the farmer's son`, not a stray `his`); pick the English word whose
+  sense is the Latin's (`I plead the rain as an excuse`, not `I plead the
+  rain`; `coppers`, not `asses`); and avoid words with a second meaning that
+  fits the sentence as well (`bat`, `fine`, `light`). The same goes for the
+  Latin: arrange it so the cases cannot be misread.
+- **No word said twice.** Nothing in the sentence repeats another word, or
+  the headword, in Latin or English: not `Candelabrum candelam sustinet`
+  (the candlestick holds the candle), not `the temple keeper cleans the
+  temple`, not `Canicula parva` (a little little dog), not `Bonum civitatis
+  civibus prodest`. `check` catches same-stem Latin pairs and repeated English
+  content words; a word that only restates the headword's meaning
+  (`parva` on a diminutive) is on you.
+- **Vary the other words.** Across a chunk, don't lean on the same frame
+  (`... delectat`, `ex urbe`, `amico`) — a beginner learns more from varied
+  common vocabulary.
+- **Illustrate the rank 1 sense**, in the classical meaning. Prefer the
+  entry's own idiom when it has one: `Me consulatu abdico`, after L&S's
+  `se abdicare magistratu`.
+- **Plain text.** No macrons, no final full stop; `j` spelling as in the keys.
+  Keep the other words to common vocabulary a beginner already knows.
+
+`check` enforces the format, one sentence per key, alphabetical order, the
+headword form appearing in the Latin, a verb's `I ...`, and the single clause.
+It cannot check the grammar: read each sentence back for case endings and
+agreement before committing. Subject naming the range, e.g. `Add sentences for
+A: abacus through abhorreo`.

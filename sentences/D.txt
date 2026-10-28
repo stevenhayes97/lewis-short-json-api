@@ -1,0 +1,611 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/D.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+dactylus | Dactylus in versu poetae sonat | The dactyl sounds in the poet's verse
+daemon1 | Daemon domum custodit | The spirit guards the house
+damma | Damma in silva currit | The deer runs in the wood
+damnatio | Damnatio reum tristem facit | The condemnation makes the defendant sad
+damno | Furem damno | I condemn the thief
+damnum | Damnum mercatorem terret | The loss frightens the merchant
+daphne | Daphne prope fontem crescit | The laurel grows near the spring
+daps | Daps deis in templo datur | The feast is given to the gods in the temple
+datio | Datio frumenti pauperes juvat | The giving of grain helps the poor
+dato | Pomum puero dato | I give the apple to the boy
+dator | Dator panem pauperibus portat | The giver brings bread to the poor
+dea | Dea nautas ad portum ducit | The goddess leads the sailors to the harbour
+dealbo | Murum dealbo | I whitewash the wall
+deambulo | Ad flumen deambulo | I stroll to the river
+deamo | Matrem deamo | I adore my mother
+deargento | Calicem deargento | I silver-plate the cup
+deauro | Statuam deauro | I gild the statue
+debacchor | Prae ira debacchor | I rave in my anger
+debello | Gentem debello | I conquer the tribe
+debeo | Fratri pecuniam debeo | I owe my brother money
+debilitas | Debilitas senem domi tenet | Weakness keeps the old man at home
+debilito | Hostem fame debilito | I weaken the enemy with hunger
+debitor | Debitor pecuniam ante noctem reddit | The debtor returns the money before night
+decanto | Carmen decanto | I repeat the song
+decanus | Decanus milites ad portam ducit | The chief of ten leads the soldiers to the gate
+decedo | E villa decedo | I depart from the farmhouse
+decem | Decem pueri in via ludunt | Ten boys play in the street
+decemviri | Decemviri leges scribunt | The decemvirs write the laws
+decerno | Domum redire decerno | I decide to return home
+decerpo | Rosam decerpo | I pluck the rose
+decerto | Cum hoste decerto | I fight it out with the enemy
+decessio | Decessio amici familiam contristat | The departure of a friend saddens the family
+decessor | Decessor novo praetori epistulam mittit | The predecessor sends a letter to the new praetor
+decessus | Decessus hiemis ver nuntiat | The departure of winter announces spring
+decido1 | Ex equo decido | I fall from the horse
+decido2 | Funem cultro decido | I sever the rope with a knife
+# third: decimo only a commander decimates a unit
+decimo | Dux legionem decimat | The general decimates the legion
+decipio | Hostem decipio | I deceive the enemy
+decipula | Decipula in via latet | The trap hides in the road
+decisio | Decisio litis amicos laetos facit | The settlement of the dispute makes the friends happy
+declamatio | Declamatio discipulos exercet | The declamation trains the pupils
+declamator | Declamator ante magistrum stat | The declaimer stands before the teacher
+declamito | Cotidie declamito | I declaim every day
+declamo | Ante amicos declamo | I declaim before my friends
+declaro | Victoriam declaro | I declare the victory
+declinatio | Declinatio viae iter longum facit | The deviation of the road makes the journey long
+declino | De via declino | I deviate from the road
+decoctio | Decoctio herbarum tussim levat | The decoction of herbs eases a cough
+# third: decollo only a commander or soldier does this, and the first person is unnatural
+decollo | Imperator hostem decollat | The commander beheads the enemy
+# third: decolo only hopes and plans fail
+decolo | Spes decolat | The hope fails
+# skip: decolor is an adjective (discoloured), misfiled as a verb
+decoloro | Parietem fumo decoloro | I discolour the wall with smoke
+decoquo | Aquam in olla decoquo | I reduce the water in the pot
+decoro | Aram floribus decoro | I adorn the altar with flowers
+# third: decresco "I decrease" is not a sentence a learner needs; rivers and lights wane
+decresco | Flumen post imbrem decrescit | The river decreases after the rain
+decumbo | In lecto decumbo | I recline on the couch
+decuria | Decuria judicum ante tribunal sedet | The panel of jurors sits before the tribunal
+decurio1 | Equites in decem partes decurio | I divide the horsemen into ten parts
+decurio2 | Decurio in curia loquitur | The decurion speaks in the council-house
+decurro | Per clivum decurro | I run down the slope
+decursio | Decursio militum in campo fit | The manoeuvre of the soldiers takes place on the plain
+decursus2 | Decursus ex monte pedes fatigat | The descent from the mountain tires the feet
+decurto | Orationem decurto | I curtail the speech
+decus1 | Decus ducis in historia manet | The glory of the leader remains in history
+decussis | Decussis in mensa jacet | The ten-as piece lies on the table
+decutio1 | Pulverem de veste decutio | I dislodge the dust from my garment
+dedecoro | Familiam turpi facto dedecoro | I disgrace my family by a shameful deed
+dedecus | Dedecus ducis exercitum maestum facit | The disgrace of the general makes the army sad
+dedico | Templum Jovi dedico | I dedicate the temple to Jupiter
+dedignor | Cibum vilem dedignor | I disdain cheap food
+dedisco | Malum morem dedisco | I unlearn a bad habit
+deditio | Deditio urbis bellum finit | The surrender of the city ends the war
+dedo | Urbem hosti dedo | I surrender the city to the enemy
+dedoceo | Discipulum errorem dedoceo | I unteach the pupil an error
+dedolo | Trabem dedolo | I hew the beam
+deduco | Puellam ad scholam deduco | I lead the girl to school
+deductio | Deductio pretii emptorem juvat | The deduction from the price helps the buyer
+defaeco | Mel defaeco | I purify the honey
+defectio | Defectio sociorum ducem terret | The defection of the allies frightens the general
+defectus2 | Defectus aquae agricolas angit | The failure of the water troubles the farmers
+defendo | Murum defendo | I defend the wall
+defensio | Defensio oratoris clientem confirmat | The speaker's defence reassures the client
+defenso | Caput manu defenso | I shield my head with my hand
+defensor | Defensor oppidi hostes exspectat | The defender of the town awaits the enemy
+defero | Epistulam ad consulem defero | I carry the letter to the consul
+defervesco | Post laborem defervesco | I cool down after the work
+deficio | Ante metam deficio | I fail before the finish line
+defigo | Palum in terra defigo | I fix the stake in the ground
+defingo | Vultum cera defingo | I shape the face from wax
+definio | Vocabulum definio | I define the word
+definitio | Definitio amicitiae in libro scripta est | The definition of friendship is written in the book
+# third: deflagro only buildings and similar things burn down
+deflagro | Horreum deflagrat | The barn burns down
+deflecto | Ad dextram deflecto | I swerve to the right
+defleo | Patriam amissam defleo | I lament my lost homeland
+# third: defloresco only flowers wither
+defloresco | Rosa deflorescit | The rose withers
+# third: defluo only water and liquids flow down
+defluo | Imber de tecto defluit | The rain flows down from the roof
+defodio | Thesaurum sub arbore defodio | I bury the treasure under the tree
+deformitas | Deformitas saxi viatores offendit | The ugliness of the rock offends the travellers
+deformo1 | Statuam ex argilla deformo | I shape the statue from clay
+deformo2 | Tabulam pictam luto deformo | I disfigure the painted board with mud
+defringo | Ramum defringo | I break off the branch
+defugio | Ad silvas defugio | I flee to the woods
+defundo | Lac in situlam defundo | I pour milk into the pail
+defungor | Officio defungor | I discharge my task
+degenero | A majoribus degenero | I degenerate from my ancestors
+deglubo | Malum deglubo | I peel the apple
+dego | Aestatem ruri dego | I spend the summer in the country
+degravo | Mensam libris degravo | I weigh down the table with books
+degredior | Per scalas degredior | I descend by the stairs
+degusto | Cibum degusto | I taste the food
+# third: dehisco only the earth, a wound or a seam gapes
+dehisco | Terra siccitate dehiscit | The earth gapes in the drought
+dehonestamentum | Dehonestamentum vitae senatorem angit | The blemish on his life troubles the senator
+dehonesto | Civem mendacio dehonesto | I disgrace the citizen with a lie
+dehortor | Amicum a bello dehortor | I dissuade my friend from the war
+deicio | Nucem de arbore deicio | I throw the nut down from the tree
+dejectio | Dejectio hostium ex castris exercitum laetum facit | The expulsion of the enemy from the camp makes the army happy
+dejero | Per deos dejero | I swear by the gods
+delabor | De scala delabor | I slip down from the ladder
+delatio | Delatio furti civem terret | The accusation of theft frightens the citizen
+delator | Delator ad judicem currit | The informer runs to the judge
+delectatio | Delectatio cantus viatorem tenet | The delight in song holds the traveller
+delecto | Hospites fabulis delecto | I delight the guests with stories
+delectus2 | Delectus vestis matrem diu tenet | The choice of dress keeps my mother busy for a long time
+delegatio | Delegatio operis fabrum adjuvat | The assignment of the work helps the craftsman
+delego | Munus servo delego | I assign the task to the slave
+delenimentum | Delenimentum vocis nautam trahit | The allurement of the voice draws the sailor
+delenio | Serpentem tibia delenio | I charm the snake with a pipe
+deleo | Epistulam igne deleo | I destroy the letter with fire
+deliberatio | Deliberatio senatus diu durat | The deliberation of the senate lasts a long time
+delibero | De pace delibero | I deliberate about peace
+delibo | Salem delibo | I taste the salt
+delibuo | Caput oleo delibuo | I anoint my head with oil
+deliciae | Deliciae aestatis pueros ad mare vocant | The delights of summer call the boys to the sea
+delictum | Delictum servi dominum irritat | The slave's offence annoys his master
+deligo1 | Librum optimum deligo | I select the best book
+deligo2 | Equum ad palum deligo | I bind the horse to the post
+delinquo | Numquam in officio delinquo | I never transgress in my duty
+# third: deliquesco only snow, wax and the like melt
+deliquesco | Nix sole deliquescit | The snow melts in the sun
+deliquo | Oleum per linteum deliquo | I strain the oil through a cloth
+deliratio | Deliratio regis populum offendit | The folly of the king offends the people
+deliro | In somno deliro | I rave in my sleep
+delitesco | Post arborem delitesco | I hide behind the tree
+delphinus | Delphinus navem comitatur | The dolphin accompanies the ship
+delta | Delta Nili terram fertilem habet | The delta of the Nile has fertile land
+delubrum | Delubrum lauru ornatur | The shrine is adorned with laurel
+deludo | Custodem fabula deludo | I deceive the guard with a story
+# third: delumbo "I lame" is grim; only a storm or the like lames a tree
+delumbo | Tempestas arborem delumbat | The storm cripples the tree
+demando | Nautae epistulam demando | I entrust the letter to the sailor
+dementio | Prae gaudio dementio | I rave with joy
+# third: demento "I madden" is not a sentence a learner needs; fear and storms madden
+demento | Timor populum dementat | Fear maddens the people
+demereo | Laudem demereo | I deserve praise
+demergo | Anulum in lacu demergo | I submerge the ring in the lake
+demetior | Frumentum modio demetior | I measure the grain with a bushel
+demeto1 | Hordeum demeto | I reap the barley
+demigro | In Galliam demigro | I emigrate to Gaul
+deminuo | Pretium deminuo | I lessen the price
+deminutio | Deminutio frumenti mercatores monet | The decrease of grain warns the merchants
+demiror | Silentium demiror | I wonder at the silence
+demissio | Demissio vocis oratorem decet | The lowering of the voice suits the speaker
+demitto | Funem in puteum demitto | I lower the rope into the well
+demo | Anulum de digito demo | I remove the ring from my finger
+demolior | Murum vetus demolior | I demolish the old wall
+demonstratio | Demonstratio magistri puerum instruit | The teacher's demonstration instructs the boy
+demonstro | Viam peregrino demonstro | I indicate the road to the stranger
+# third: demorior "I die" is grim and pointless; trees and plants die
+demorior | Arbor vetus demoritur | The old tree dies
+demoror | Nuntium demoror | I delay the messenger
+demulceo | Felem demulceo | I stroke the cat
+demuto | Consilium demuto | I alter the plan
+denarro | Fabulam avo denarro | I recount the tale to my grandfather
+dendrophorus | Dendrophorus frondes in pompa portat | The branch bearer carries leafy boughs in the procession
+denego | Aditum mercatori denego | I refuse entry to the merchant
+denigro | Parietem carbone denigro | I blacken the wall with charcoal
+denominatio | Denominatio sermonem ornat | The metonymy adorns the speech
+denomino | Filium Marcum denomino | I name my son Marcus
+denoto | Locum in charta denoto | I mark the place on the map
+dens | Dens infantis lente crescit | The baby's tooth grows slowly
+denso | Lac igne denso | I condense the milk over the fire
+dentale | Dentale aratri in terra haeret | The share-beam of the plough sticks in the ground
+# third: dentio1 only babies teethe
+dentio1 | Infans dentit | The baby is teething
+denubo | Claro viro denubo | I marry a famous man
+denudo | Truncum cortice denudo | I strip the trunk of its bark
+denuntiatio | Denuntiatio belli civitatem terret | The announcement of war frightens the state
+denuntio | Adventum hostium denuntio | I announce the arrival of the enemy
+deonero | Plaustrum deonero | I unload the cart
+deosculor | Filiam deosculor | I kiss my daughter
+depango | Terminum in agro depango | I fix the boundary in the field
+depasco | Prata ovibus depasco | I graze the meadows with sheep
+depeciscor | Cum rustico de pretio depeciscor | I bargain with the countryman over the price
+depecto | Capillos depecto | I comb my hair
+# third: depeculor a military figure is more natural than the first person
+depeculor | Hostis agros depeculatur | The enemy plunders the fields
+depello | Hostem ex arce depello | I expel the enemy from the citadel
+# third: dependeo only objects hang down
+dependeo | Lucerna de tecto dependet | The lamp hangs from the ceiling
+dependo | Pretium integrum dependo | I pay the full price
+deperdo | Anulum in via deperdo | I lose the ring on the road
+# third: depereo "I perish" is grim; things perish
+depereo | Frumentum in agris deperit | The grain perishes in the fields
+depilo | Gallinam depilo | I pluck the chicken
+depingo | Navem in pariete depingo | I depict the ship on the wall
+depleo | Paludem fossa depleo | I drain the marsh with a ditch
+deploro | Meos casus deploro | I lament my misfortunes
+depolio | Mensam pumice depolio | I smooth the table with pumice
+depopulatio | Depopulatio agrorum rusticos maestos reddit | The devastation of the fields leaves the farmers sad
+# third: depopulor a military figure is more natural than the first person
+depopulor | Exercitus fines depopulatur | The army ravages the territory
+deporto | Sarcinas ad navem deporto | I carry the packs away to the ship
+deposco | Auxilium deposco | I demand help
+depositio | Depositio pecuniae apud argentarium fit | The deposit of money is made with the banker
+# third: depraedor a military figure is more natural than the first person
+depraedor | Dux oppidum depraedatur | The general plunders the town
+depravatio | Depravatio imaginis in aqua risum movet | The distortion of the image in the water raises laughter
+depravo | Vultum in aqua depravo | I distort my face in the water
+deprecatio | Deprecatio puerorum matrem movet | The entreaty of the children moves their mother
+deprecator | Deprecator pro civibus ad regem venit | The intercessor comes to the king for the citizens
+deprecor | Iram patris deprecor | I beg off my father's anger
+deprehendo | Murem in culina deprehendo | I catch the mouse in the kitchen
+depretio | Merces depretio | I undervalue the goods
+deprimo | Spongiam manu deprimo | I press the sponge down with my hand
+depromo | Pecuniam ex arca depromo | I fetch money from the chest
+depropero | Ad urbem depropero | I hasten to the city
+depso | Farinam depso | I knead the flour
+depugno | Pro patria depugno | I fight for my country
+depulsio | Depulsio periculi urbem quietam reddit | The warding off of danger leaves the city calm
+depulsor | Depulsor mali populum liberat | The deliverer from evil frees the people
+depurgo | Puteum depurgo | I cleanse the well
+deputo | Vitem falce deputo | I prune the vine with a sickle
+derado | Barbam derado | I shave my beard
+derelinquo | Oppidum derelinquo | I abandon the town
+derideo | Fabulam ineptam derideo | I deride the silly story
+# third: derigesco "I stiffen" is not a sentence a learner needs; wet cloth stiffens
+derigesco | Toga madida frigore derigescit | The wet toga stiffens in the cold
+deripio | Pannum de fenestra deripio | I tear the cloth away from the window
+derisor | Derisor post tergum magistri ridet | The mocker laughs behind the teacher's back
+derisus2 | Derisus turbae poetam ex theatro pellit | The mockery of the crowd drives the poet from the theatre
+derivatio | Derivatio aquae hortum rigat | The diversion of the water irrigates the garden
+derivo | Flumen ad agros derivo | I divert the stream to the fields
+derogo | Legem veterem derogo | I repeal the old law
+desacro | Lucum Dianae desacro | I consecrate the grove to Diana
+# third: desaevio only storms and winds rage in this way
+desaevio | Ventus in montibus desaevit | The wind rages in the mountains
+descendo | In vallem descendo | I descend into the valley
+descensio | Descensio per saxa viatorem terret | The descent over the rocks frightens the traveller
+descensus2 | Descensus ad lacum facilis est | The descent to the lake is easy
+descindo | Panem in duas partes descindo | I divide the bread into two parts
+descisco | A rege descisco | I revolt from the king
+describo | Iter fratri describo | I describe the journey to my brother
+descriptio | Descriptio urbis peregrinos juvat | The description of the city helps the visitors
+deseco | Capillum forfice deseco | I cut off a lock of hair with scissors
+desero2 | Amicum in periculo desero | I abandon my friend in danger
+desertor | Desertor noctu fugit | The deserter flees by night
+deservio | Magistro deservio | I serve the teacher
+desideo | Tota die desideo | I idle all day
+desiderium | Desiderium patriae peregrinum tenet | The longing for his homeland grips the stranger
+desidero | Pacem desidero | I desire peace
+desidia1 | Desidia discipulum a studiis arcet | Idleness keeps the pupil from his studies
+# third: desido only ground, water and the like subside
+desido | Terra post tremorem desidit | The earth subsides after the tremor
+designatio | Designatio consulum populum congregat | The designation of consuls gathers the people
+designator | Designator spectatores ad sedes ducit | The usher leads the spectators to their seats
+desilio | De curru desilio | I leap down from the chariot
+desino | Cantare desino | I cease to sing
+desipio | Cum pueris desipio | I am silly with the boys
+desisto | Ab incepto desisto | I desist from my undertaking
+# third: desolo "I desolate" is grim; a drought or the like does it
+desolo | Siccitas pagum desolat | The drought desolates the village
+despecto | Urbem ex colle despecto | I overlook the city from the hill
+despectus2 | Despectus e turri portum ostendit | The view from the tower shows the harbour
+desperatio | Desperatio exercitum occupat | Despair seizes the army
+despero | De victoria despero | I despair of victory
+despicio | Mendacium despicio | I despise a lie
+despicor | Avaritiam despicor | I despise greed
+# third: despolio a military figure is more natural than the first person
+despolio | Miles templum despoliat | The soldier despoils the temple
+despondeo | Fidem vicino despondeo | I pledge my word to my neighbour
+despumo | Lac in olla despumo | I skim the milk in the pot
+despuo | In terram despuo | I spit on the ground
+desquamo | Piscem desquamo | I scale the fish
+destillo | Ceram in tabulam destillo | I drip wax onto the tablet
+destinatio | Destinatio ducis exercitum firmat | The resolve of the leader strengthens the army
+destino | Filium medicinae destino | I destine my son for medicine
+destituo | Comitem in via destituo | I abandon my companion on the road
+destringo | Gladium destringo | I draw my sword
+destruo | Pontem vetus destruo | I demolish the old bridge
+desudo | In palaestra desudo | I sweat in the gymnasium
+desuesco | Mores veteres desuesco | I lay aside old customs
+desultor | Desultor in circo equos mutat | The vaulter changes horses in the circus
+desumo | Ducem desumo | I select a leader
+detego | Vas detego | I uncover the jar
+detergeo | Pulverem e sella detergeo | I wipe the dust from the chair
+# skip: deterior is an adjective (comparative, worse), misfiled as a verb
+determino | Agrum lapidibus determino | I delimit the field with stones
+detero | Calceos in via detero | I wear down my shoes on the road
+deterreo | Sororem a periculo deterreo | I deter my sister from danger
+detestatio1 | Detestatio sacerdotis hostes terret | The curse of the priest frightens the enemy
+detestor | Tyrannum detestor | I curse the tyrant
+detexo | Tunicam detexo | I weave the tunic
+detineo | Hospitem sermone detineo | I detain the guest with conversation
+detondeo | Ovem detondeo | I shear the sheep
+# third: detono only Jupiter, the sky and storms thunder
+detono | Jupiter e caelo detonat | Jupiter thunders from the sky
+detorqueo | Cursum navis ad litus detorqueo | I deflect the ship's course toward the shore
+detractio | Detractio praesidii oppidum nudum relinquit | The withdrawal of the garrison leaves the town bare
+detraho | Pallium de umeris detraho | I remove the cloak from my shoulders
+detrecto | Militiam detrecto | I refuse military service
+detrimentum | Detrimentum grandinis vindemiam minuit | The damage from the hail reduces the vintage
+detrudo | Lapidem ex colle detrudo | I push the stone down from the hill
+detrunco | Ramos salicis detrunco | I lop the branches of the willow
+deturbo | Statuam e basi deturbo | I topple the statue from its base
+# third: deuro only fire, the sun or frost burns things up
+deuro | Ignis stipulam deurit | The fire burns up the stubble
+deus | Deus caelum regit | The god rules the sky
+deveho | Vina ad urbem deveho | I convey wine to the city
+devello | Florem de ramo devello | I pluck a flower from the branch
+devenio | Ad portum devenio | I arrive at the harbour
+deverticulum | Deverticulum per silvam ad flumen ducit | The byway leads through the wood to the river
+deverto | In viam angustam deverto | I turn aside into a narrow road
+devincio | Saccum fune devincio | I bind the sack with a rope
+# third: devinco a military figure is more natural than the first person
+devinco | Dux hostes devincit | The general vanquishes the enemy
+devito | Lutum in via devito | I avoid the mud on the road
+# third: devolo only birds fly down
+devolo | Columba de tecto devolat | The dove flies down from the roof
+devolvo | Saxum in vallem devolvo | I roll a rock into the valley
+devoro | Cibum avide devoro | I devour the food greedily
+devotio | Devotio militum ducem movet | The devotion of the soldiers moves the general
+devoto | Vitam litteris devoto | I devote my life to literature
+devoveo | Deae templum devoveo | I vow a temple to the goddess
+dextans | Dextans maximam partem assis tenet | The ten-twelfths takes up the largest part of the as
+dextera | Dextera librum tenet | The right hand holds the book
+diabolus | Diabolus homines tentat | The devil tempts people
+diaconus | Diaconus pauperibus panem dat | The deacon gives bread to the poor
+diaeta | Diaeta salubris corpus juvat | The healthy diet helps the body
+dialogus | Dialogus longus discipulum fatigat | The long dialogue tires the pupil
+dica | Dica judicem occupat | The lawsuit occupies the judge
+dicacitas | Dicacitas convivas oblectat | The banter amuses the guests
+dicio | Dicio Romana multas gentes tenet | Roman dominion holds many nations
+dico1 | Templum Jovi dico | I dedicate a temple to Jupiter
+dico2 | Verum amico dico | I tell the truth to my friend
+dictator | Dictator senatum convocat | The dictator summons the senate
+dictatura | Dictatura sex menses durat | The dictatorship lasts six months
+dictio | Dictio oratoris auditores capit | The orator's diction captivates the listeners
+dictito | Eandem fabulam dictito | I keep repeating the same tale
+dicto | Epistulam scribae dicto | I dictate a letter to the scribe
+diduco | Agmen in duas partes diduco | I separate the column into two parts
+dies | Dies pluvius viatores domi tenet | The rainy day keeps the travellers at home
+diffamo | Vicinum apud cives diffamo | I defame my neighbour among the citizens
+diffarreatio | Diffarreatio conjugium antiquum dissolvit | The divorce ceremony ends the ancient marriage
+differentia | Differentia colorum pictorem docet | The difference of the colours teaches the painter
+differo | Iter in crastinum differo | I postpone the journey until tomorrow
+difficultas | Difficultas viae mercatorem tardat | The difficulty of the road delays the merchant
+diffidentia | Diffidentia civium regem sollicitat | The distrust of the citizens worries the king
+diffido | Nuntio novo diffido | I distrust the new messenger
+diffindo | Lignum securi diffindo | I cleave the log with an axe
+diffingo | Statuam veterem diffingo | I remodel the old statue
+diffiteor | Culpam diffiteor | I deny the fault
+# third: difflo "I dispel" is odd in the first person; the wind does it
+difflo | Ventus nebulam difflat | The wind dispels the mist
+# third: diffluo only liquids and the like flow away
+diffluo | Aqua per fissuram diffluit | The water flows away through the crack
+# third: diffugio a military figure is more natural than the first person
+diffugio | Exercitus hostium diffugit | The enemy army scatters
+digammon | Digammon grammatico difficile est | The digamma is hard for the grammarian
+digero | Libros in armario digero | I arrange the books in the cupboard
+digestio | Digestio vestium cubiculum ornat | The arrangement of the clothes tidies the bedroom
+digitulus | Digitulus infantis in manu mea quiescit | The baby's little finger rests in my hand
+digitus1 | Digitus anulum gerit | The finger wears a ring
+# third: digladior a military figure is more natural than the first person
+digladior | Miles cum centurione digladiatur | The soldier duels with the centurion
+dignatio | Dignatio apud populum consulem ornat | Esteem among the people honours the consul
+dignitas | Dignitas senatoris omnibus nota est | The dignity of the senator is known to all
+digno | Amicum honore digno | I deem my friend worthy of honour
+dignor | Hospitem mensa dignor | I deem the guest worthy of my table
+digredior | Ex theatro digredior | I depart from the theatre
+digressio | Digressio hospitum domum silentem facit | The departure of the guests makes the house quiet
+digressus2 | Digressus amici villam vacuam relinquit | The departure of the friend leaves the villa empty
+dijudico | Lites vicinorum dijudico | I adjudicate the neighbours' disputes
+# third: dilabor only snow, ice and the like dissolve
+dilabor | Nix sole dilabitur | The snow dissolves in the sun
+# third: dilacero "I dismember" is grim; discord tears a state apart
+dilacero | Discordia civitatem dilacerat | Discord tears the state apart
+# third: dilanio "I mangle" is grim; a storm mangles things
+dilanio | Tempestas vela dilaniat | The storm mangles the sails
+dilargior | Pecuniam amicis dilargior | I lavish money on my friends
+dilatio | Dilatio nuptiarum sponsam sollicitat | The delay of the wedding worries the bride
+dilato | Fenestram dilato | I enlarge the window
+diligentia | Diligentia scribae dominum juvat | The diligence of the scribe helps his master
+diligo | Fratrem diligo | I love my brother
+# third: dilucesco only the day dawns
+dilucesco | Dies dilucescit | The day dawns
+diluo | Vinum aqua diluo | I dilute the wine with water
+# skip: dilutus is an adjective (diluted, from the participle of diluo), misfiled as a noun
+diluvies | Diluvies agros operit | The flood covers the fields
+dimensio | Dimensio campi tres dies postulat | The measurement of the field takes three days
+dimetior | Agrum pedibus dimetior | I measure the field in feet
+dimeto | Fines hortorum dimeto | I demarcate the boundaries of the gardens
+dimicatio | Dimicatio ad portas exercitum fatigat | The combat at the gates tires the army
+# third: dimico a military figure is more natural than the first person
+dimico | Miles pro patria dimicat | The soldier fights for his country
+dimidio | Panem dimidio | I halve the loaf
+dimissio | Dimissio scholae pueros laetos facit | The dismissal of the school makes the boys happy
+dimitto | Discipulos dimitto | I dismiss the pupils
+dimoveo | Velum manibus dimoveo | I part the curtain with my hands
+dinosco | Gemellos vix dinosco | I can hardly tell the twins apart
+dinumeratio | Dinumeratio rerum orationem longam facit | The enumeration of the points makes the speech long
+dinumero | Naves in portu dinumero | I count the ships in the harbour
+diploma | Diploma viatori iter aperit | The permit opens the road to the traveller
+directio | Directio venti navem regit | The direction of the wind steers the ship
+direptio | Direptio oppidi exercitum divitem facit | The plunder of the town makes the army rich
+diribeo | Tabellas in cista diribeo | I sort the ballots in the box
+dirigo | Navem ad portum dirigo | I direct the ship to the harbour
+dirimo | Agros fossa dirimo | I separate the fields with a ditch
+# third: diripio a military figure is more natural than the first person
+diripio | Hostis vicum diripit | The enemy plunders the village
+diritas | Diritas tyranni urbem sollicitat | The tyrant's cruelty troubles the city
+diruo | Murum veterem diruo | I demolish the old wall
+# skip: dis3 is a prefix (apart, un-), not a noun
+discedo | Roma discedo | I depart from Rome
+disceptatio | Disceptatio senatorum diu durat | The debate of the senators lasts long
+disceptator | Disceptator litem inter vicinos solvit | The arbitrator settles the dispute between neighbours
+discepto | Cum collega de pace discepto | I debate with my colleague about peace
+discerno | Aurum ab argento discerno | I separate gold from silver
+discerpo | Chartam discerpo | I tear the paper apart
+discessio | Discessio senatorum voluntatem ostendit | The division shows the will of the senators
+discessus2 | Discessus solis noctem adducit | The departure of the sun brings night
+discidium | Discidium inter amicos diu manet | The rift between friends lasts a long time
+discindo | Vestem veterem discindo | I rend my old garment
+discingo | Tunicam post cenam discingo | I ungird my tunic after dinner
+disciplina | Disciplina scholae puerum ad virtutem ducit | The instruction of the school leads the boy to virtue
+discipulus | Discipulus ceram stilo notat | The pupil marks the wax with a stylus
+discludo | Agnos ab ovibus discludo | I separate the lambs from the sheep
+disco | Litteras Graecas disco | I learn Greek letters
+# skip: discolor is an adjective (variegated), misfiled as a verb
+discooperio | Fercula discooperio | I uncover the dishes
+discordia | Discordia inter vicinos crescit | Discord grows among the neighbours
+discordo | Cum fratre discordo | I disagree with my brother
+discrepo | A sorore de pretio discrepo | I differ from my sister about the price
+discretio | Discretio equorum agitatorem occupat | The separation of the horses keeps the driver busy
+discribo | Agros inter colonos discribo | I apportion the fields among the settlers
+discrimen | Discrimen aetatis pueros a senibus separat | The distinction of age sets boys apart from old men
+discrimino | Silvam a prato sepe discrimino | I divide the wood from the meadow with a hedge
+discriptio | Discriptio agrorum coloniam firmat | The apportionment of the land strengthens the colony
+# third: discrucio "I torture" is grim; worry torments the mind
+discrucio | Cura animum discruciat | Worry torments the mind
+discumbo | In lecto post balneum discumbo | I recline on the couch after the bath
+discurro | Per vicum discurro | I run about through the street
+discurso | Per agros discurso | I run about through the fields
+discursus2 | Discursus canum hortum turbat | The running about of the dogs disturbs the garden
+discus1 | Discus per aerem volat | The discus flies through the air
+discussio | Discussio de pace populum instruit | The discussion about peace informs the people
+discutio | Vitrum casu discutio | I shatter the glass by accident
+# third: disicio a military figure is more natural than the first person
+disicio | Dux agmen hostium disicit | The general scatters the enemy column
+disjunctio | Disjunctio gemellorum matrem sollicitat | The separation of the twins worries their mother
+disjungo | Boves ab aratro disjungo | I unyoke the oxen from the plough
+# third: dispalor a flock straggles; "I straggle" is unnatural
+dispalor | Grex per montem dispalatur | The flock straggles over the mountain
+disparo | Pueros a puellis disparo | I separate the boys from the girls
+dispello | Tenebras lucerna dispello | I dispel the darkness with a lamp
+dispendium | Dispendium aedificii villicum premit | The expense of the building weighs on the bailiff
+dispensatio | Dispensatio frumenti aedilem exercet | The management of the grain keeps the aedile busy
+dispensator | Dispensator pecuniam domino numerat | The steward counts the money for his master
+dispenso | Cibum servis dispenso | I dispense food to the slaves
+disperdo | Patrimonium luxu disperdo | I ruin my inheritance by extravagance
+# third: dispereo "I perish" is grim; fruit perishes
+dispereo | Fructus in horreo disperit | The fruit perishes in the barn
+dispersio | Dispersio nubium caelum serenum facit | The dispersion of the clouds makes the sky clear
+dispertio | Poma inter sodales dispertio | I distribute apples among my comrades
+dispesco | Gregem pastoribus dispesco | I divide the flock among the shepherds
+dispicio | Litteras in nebula vix dispicio | I can hardly make out the letters in the fog
+displiceo | Mihi hodie displiceo | I am dissatisfied with myself today
+# skip: displodo is attested only in the participle (burst asunder) and a rare passive; no usable headword form
+dispono | Rosas in vase dispono | I arrange the roses in the vase
+dispositio | Dispositio sellarum hospitibus placet | The arrangement of the chairs pleases the guests
+dispunctio | Dispunctio rationum argentarium vexat | The audit of the accounts vexes the banker
+dispungo | Rationes meas dispungo | I audit my accounts
+disputatio | Disputatio philosophorum in porticu fit | The discussion of the philosophers takes place in the colonnade
+disputo | De virtute cum magistro disputo | I discuss virtue with my teacher
+dissaepio | Cellam velo dissaepio | I partition the storeroom with a curtain
+disseco | Folium acu disseco | I dissect a leaf with a needle
+dissemino | Fabulam per urbem dissemino | I disseminate the story through the city
+dissensio | Dissensio inter consules rem publicam debilitat | The disagreement between the consuls weakens the republic
+dissentio | A sodali de bello dissentio | I disagree with my comrade about the war
+# third: dissereno only the sky clears
+dissereno | Caelum post imbrem disserenat | The sky clears up after the rain
+dissero1 | Hordeum in agro dissero | I sow barley in the field
+disserto | De philosophia disserto | I discuss philosophy
+dissideo | A sociis de via dissideo | I disagree with my companions about the road
+# third: dissilio only things burst
+dissilio | Olla in igne dissilit | The pot bursts in the fire
+dissimilitudo | Dissimilitudo vocum chorum turbat | The dissimilarity of the voices disturbs the chorus
+dissimulatio | Dissimulatio Socratis auditores fallit | The dissimulation of Socrates deceives the listeners
+dissimulo | Timorem vultu dissimulo | I disguise my fear with my expression
+dissipatio | Dissipatio foliorum viam operit | The scattering of the leaves covers the path
+dissipo | Grana per aream dissipo | I scatter grain over the threshing floor
+dissocio | Vicinos mendacio dissocio | I estrange my neighbours by a lie
+dissolutio | Dissolutio societatis mercatores tristes facit | The dissolution of the partnership makes the merchants sad
+dissolvo | Sal in aqua dissolvo | I dissolve salt in water
+# third: dissono "I clash" is odd; instruments clash
+dissono | Tuba cum tibia dissonat | The trumpet clashes with the pipe
+dissuadeo | Fratri bellum dissuadeo | I dissuade my brother from war
+# third: dissulto only things burst
+dissulto | Castanea in igne dissultat | The chestnut bursts in the fire
+dissuo | Pallium dissuo | I unstitch the cloak
+# third: distabesco only wax, snow and the like melt away
+distabesco | Cera in igne distabescit | The wax melts away in the fire
+distantia | Distantia inter oppida mulos tardat | The distance between the towns slows the mules
+distendo | Utrem aqua distendo | I distend the wineskin with water
+distermino | Agrum cippis distermino | I demarcate the field with boundary stones
+distinctio | Distinctio inter verum et falsum discipulum docet | The distinction between true and false teaches the pupil
+distineo | Duas oves saepto distineo | I separate two sheep with a fence
+distinguo | Sorores voce distinguo | I distinguish the sisters by their voices
+# third: disto only places and things are distant
+disto | Villa a mari distat | The villa is far from the sea
+distorqueo | Anulum ferreum distorqueo | I distort the iron ring
+distractio | Distractio sociorum exercitum infirmat | The separation of the allies weakens the army
+distraho | Funes implicatos distraho | I separate the tangled ropes
+distribuo | Frumentum plebi distribuo | I distribute grain to the people
+distributio | Distributio agrorum veteranos juvat | The distribution of land helps the veterans
+# third: distringo a military figure is more natural than the first person
+distringo | Legatus hostem in colle distringit | The legate keeps the enemy occupied on the hill
+disturbo | Casam disturbo | I demolish the hut
+dito | Civitatem commercio dito | I enrich the state through trade
+diuturnitas | Diuturnitas pacis agros alit | The duration of peace feeds the fields
+divarico | Super rivum divarico | I straddle the stream
+divello | Panem durum divello | I tear the hard bread apart
+# third: diverbero "I cleave" is odd; a ship cleaves the waves
+diverbero | Navis undas diverberat | The ship cleaves the waves
+diversitas | Diversitas linguarum viatorem confundit | The diversity of languages confuses the traveller
+diverto | A via recta diverto | I diverge from the straight road
+# third: divexo a military figure is more natural than the first person
+divexo | Equitatus segetes divexat | The cavalry ravages the crops
+dividia | Dividia inter consules populum angit | The discord between the consuls troubles the people
+divido | Agrum inter filios divido | I divide the field among my sons
+divinatio | Divinatio augurum regem monet | The divination of the augurs warns the king
+divinitas | Divinitas Jovis populum movet | The divinity of Jupiter moves the people
+divino | Eventum belli divino | I divine the outcome of the war
+divisio | Divisio horarum diem ordinat | The division of the hours orders the day
+divisor | Divisor nummos inter tribules dat | The distributor gives coins among the tribesmen
+divitiae | Divitiae in thesauro jacent | The riches lie in the treasury
+divortium | Divortium uxorem ad patrem remittit | The divorce sends the wife back to her father
+divulgo | Novitatem in omnibus vicis divulgo | I divulge the news in all the villages
+do1 | Munus fratri do | I give a gift to my brother
+# skip: do2 is only the compounding element -do (put), as in abdo and condo, not a standalone verb
+doceo | Discipulos grammaticam doceo | I teach the pupils grammar
+doctrina | Doctrina Graeca juvenem Romanum format | Greek instruction shapes the young Roman
+documentum | Documentum fabulae pueris prodest | The lesson of the story benefits the boys
+dodrans | Dodrans panis in mensa manet | Three-quarters of the loaf remains on the table
+dogma | Dogma Stoicorum juvenem movet | The doctrine of the Stoics moves the young man
+dolabra | Dolabra saxum frangit | The pickaxe breaks the rock
+doleo | Casum sororis doleo | I grieve at my sister's misfortune
+dolium | Dolium in cella vinaria stat | The large jar stands in the wine cellar
+dolo1 | Trabem ascia dolo | I hew the beam with an adze
+dolor | Dolor dentis noctem longam facit | The pain in the tooth makes the night long
+dolus | Dolus hostis exercitum fallit | The enemy's trick deceives the army
+domicilium | Domicilium novum familiam exspectat | The new dwelling awaits the family
+dominatio | Dominatio regis superbi cives premit | The tyranny of the proud king oppresses the citizens
+dominatus | Dominatus urbem silentem facit | Tyranny makes the city silent
+dominium | Dominium horti vicinum laetum facit | The ownership of the garden makes the neighbour happy
+dominor | Insulae dominor | I rule the island
+domitor | Domitor elephantum in circo exercet | The tamer trains the elephant in the circus
+domo | Equum ferum domo | I tame the wild horse
+domus | Domus mea prope fontem est | My home is near the fountain
+donarium | Donarium templi aurum custodit | The temple treasury guards the gold
+donatio | Donatio patroni clientes juvat | The donation of the patron helps the clients
+dono | Coronam victori dono | I bestow a crown on the victor
+donum | Donum pretiosum hospitem honorat | The precious gift honours the guest
+dormio | Sub arbore dormio | I sleep under the tree
+dormito | Post prandium dormito | I doze after lunch
+dorsum | Dorsum asini sarcinas portat | The donkey's back carries the packs
+dos | Dos puellae sponsum allicit | The girl's dowry attracts a suitor
+dossennus1 | Dossennus in fabula Atellana futura praedicit | The soothsayer in the Atellan farce foretells the future
+doto1 | Filiam agro doto | I endow my daughter with land
+drachma | Drachma in sacculo tinnit | The drachma jingles in the purse
+draco1 | Draco per herbam serpit | The serpent creeps through the grass
+dracunculus | Dracunculus sub lapide latet | The small serpent hides under the stone
+dromos | Dromos athletas in sole recipit | The racecourse receives the athletes in the sun
+dubitatio | Dubitatio judicis reum juvat | The judge's doubt helps the defendant
+ducatus | Ducatus exercitus legatum honorat | The leadership of the army honours the legate
+duco | Equum ad aquam duco | I lead the horse to the water
+ducto | Hospitem per hortum ducto | I lead the guest through the garden
+ductor | Ductor agminis viam monstrat | The leader of the column shows the way
+ductus2 | Ductus aquae pagum recreat | The conducting of the water refreshes the village
+dulcedo | Dulcedo mellis infantem placat | The sweetness of honey soothes the baby
+dulcitudo | Dulcitudo pomi pueros ad arborem vocat | The sweetness of the apple calls the boys to the tree
+dumetum | Dumetum lepores celat | The thicket hides the hares
+# skip: duo is the numeral two, misfiled as a verb
+duovir | Duovir in municipio jus dicit | The duumvir administers justice in the town
+duplicatio | Duplicatio vectigalis cives irritat | The doubling of the tax irritates the citizens
+duplico | Numerum navium duplico | I double the number of ships
+duramentum | Duramentum ferri in aqua fit | The hardening of the iron takes place in water
+# third: duresco only things harden
+duresco | Lutum in sole durescit | The mud hardens in the sun
+duritia | Duritia terrae aratrum impedit | The hardness of the ground hinders the plough
+duro | Argillam in fornace duro | I harden the clay in the furnace
+dux | Dux exercitum hortatur | The leader encourages the army

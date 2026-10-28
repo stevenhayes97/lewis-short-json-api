@@ -13,6 +13,7 @@ L&S entries are the base; response shaping (gloss order, morphology, paradigms,
 | `db.py` | context-managed connection via `tools.ls_db.connect` |
 | `services/translate.py` | `translate(db, word, lang="la"|"en")` → full entry dicts |
 | `services/english_word.py` | `format_english_word_response(...)` → Logeion + Scriba JSON |
+| `services/sentences.py` | `example_sentence(key)` → `{"latin", "english"}` from `sentences/`, or `None` |
 
 `translate` reuses `tools.lookup.get_entries` so response shapes match the
 original JSON. Latin search is an exact, case-insensitive match on

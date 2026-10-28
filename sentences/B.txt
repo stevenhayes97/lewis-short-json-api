@@ -1,0 +1,105 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/B.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+baca | Baca in ramo pendet | The berry hangs on the branch
+baccar | Baccar in horto crescit | The baccar grows in the garden
+bacchor | Bacchor in silva | I rave in the wood
+baculum | Baculum seni auxilium dat | The staff gives help to the old man
+bajulo | Saxum grave bajulo | I carry a heavy stone
+bajulus | Bajulus saccum ad navem portat | The porter carries the sack to the ship
+balanus | Balanus de quercu cadit | The acorn falls from the oak
+balatro1 | Balatro in scaena clamat | The buffoon shouts on the stage
+balbutio | Coram consule balbutio | I stammer before the consul
+ballista1 | Ballista saxa ad murum mittit | The ballista sends stones to the wall
+balneator | Balneator aquam calidam parat | The bath keeper prepares hot water
+balneum | Balneum post laborem corpus recreat | The bath refreshes the body after work
+# third: balo only sheep and goats bleat
+balo | Ovis in prato balat | The sheep bleats in the meadow
+balteus | Balteus gladium sustinet | The belt supports the sword
+baptisma | Baptisma in ecclesia celebratur | The baptism is celebrated in the church
+baptizo | Virum in flumine baptizo | I baptise the man in the river
+barathrum | Barathrum sub terra patet | The abyss lies open under the earth
+barba1 | Barba senis alba est | The old man's beard is white
+barbaria | Barbaria cives urbis terret | Barbarism terrifies the citizens of the city
+barbarismus | Barbarismus orationem corrumpit | The barbarism spoils the speech
+barbitos | Barbitos in manu poetae sonat | The lyre sounds in the poet's hand
+barbula | Barbula mentum adulescentis tegit | The little beard covers the young man's chin
+baro | Baro rem simplicem non intellegit | The blockhead does not understand a simple matter
+basiliscus | Basiliscus in deserto habitat | The basilisk lives in the desert
+basis | Basis lapidea in templo stat | The stone pedestal stands in the temple
+basium | Basium amorem significat | The kiss shows love
+batillum | Batillum prunas ex igne tollit | The shovel lifts the coals from the fire
+# third: battuo violent verb, generic military figures
+battuo | Gladiator palum battuit | The gladiator beats the practice post
+bdellium | Bdellium ex Oriente ad urbem venit | The bdellium comes from the East to the city
+beatitas | Beatitas animum implet | Happiness fills the mind
+beatitudo | Beatitudo vitam bonam sequitur | Happiness follows a good life
+bellaria | Bellaria post cenam apponuntur | The desserts are served after dinner
+belligero | Cum Gallis belligero | I wage war with the Gauls
+bello | Longe a domo bello | I wage war far from home
+belua | Belua ex spelunca exit | The beast comes out of the cave
+benedico | Panem benedico | I bless the bread
+benedictio | Benedictio sacerdotis populum laetum facit | The priest's blessing makes the people happy
+beneficentia | Beneficentia pauperes juvat | Beneficence helps the poor
+beneficium | Beneficium vicino gratum est | The favour is welcome to the neighbour
+benevolentia | Benevolentia populi consulem sustinet | The goodwill of the people supports the consul
+benignitas | Benignitas hospitis nos movet | The kindness of the host moves us
+beo | Patrem meum donis beo | I gladden my father with gifts
+beryllus | Beryllus in anulo fulget | The beryl gleams in the ring
+bes | Bes octo uncias habet | The bes has eight unciae
+bestia1 | Bestia per agros currit | The beast runs through the fields
+beta1 | Beta in culina coquitur | The beet is cooked in the kitchen
+beto | Ad portum beto | I go to the harbour
+bibliotheca | Bibliotheca multos libros habet | The library has many books
+bibo1 | Aquam bibo | I drink water
+bidental | Bidental locum sacrum signat | The lightning shrine marks a sacred place
+biennium | Biennium celeriter transit | The two years pass quickly
+bigae | Bigae ad metam currunt | The two-horse chariot races to the turning post
+bilis | Bilis ex jecore fluit | The bile flows from the liver
+bimatus | Bimatus vitulum fortem facit | Reaching the age of two makes the calf strong
+bipalium | Bipalium terram altam vertit | The double mattock turns the deep soil
+bipartio | Agrum bipartio | I halve the field
+bisextus | Bisextus quarto quoque anno venit | The leap day comes every fourth year
+blandimentum | Blandimentum regem decipit | The blandishment deceives the king
+blandior | Matri blandior | I flatter my mother
+blanditia | Blanditia dominum placat | Flattery soothes the master
+blatero1 | Cum vicinis blatero | I babble with the neighbours
+blatta1 | Blatta lucem fugit | The cockroach flees the light
+blatta2 | Blatta vestem regis ornat | The purple adorns the king's robe
+boa | Boa magna per herbam serpit | The large snake creeps through the grass
+boiae | Boiae colla boum cingunt | The collars surround the necks of the oxen
+boletus | Boletus in umbra crescit | The mushroom grows in the shade
+bolus | Bolus ludum finit | The throw ends the game
+bombus | Bombus tubae noctem rumpit | The boom of the trumpet breaks the night
+bombyx | Bombyx folia mori edit | The silkworm eats mulberry leaves
+bonitas | Bonitas soli colonum juvat | The goodness of the soil helps the farmer
+bonum2 | Bonum rei publicae populo prodest | The good of the state benefits the people
+boo | Voce alta boo | I roar in a loud voice
+boreas | Boreas arbores agitat | The north wind shakes the trees
+bos | Bos aratrum trahit | The ox pulls the plough
+bothynus | Bothynus in caelo ardet | The fireball burns in the sky
+botulus | Botulus in mensa jacet | The sausage lies on the table
+bovinator | Bovinator in via clamat | The blusterer shouts in the street
+bracchium | Bracchium mensam tangit | The arm touches the table
+bractea | Bractea aurea statuam tegit | The gold leaf covers the statue
+brassica | Brassica ex agro venit | The cabbage comes from the field
+# skip: breviculus is an adjective (shortish), misfiled as a noun
+brevio | Orationem brevio | I shorten the speech
+brevitas | Brevitas itineris nos laetos facit | The shortness of the journey makes us happy
+bruma | Bruma noctem longam affert | Midwinter brings a long night
+bryon | Bryon in arbore crescit | The moss grows on the tree
+bubo1 | Bubo noctu clamat | The owl calls at night
+bubulcus1 | Bubulcus agrum arat | The ploughman ploughs the field
+bucca | Bucca flatu tumet | The cheek swells with breath
+bucco | Bucco omnes verbis superat | The babbler surpasses everyone in words
+buccula | Buccula galeae faciem militis tegit | The cheekpiece of the helmet covers the soldier's face
+bucina | Bucina in monte sonat | The trumpet sounds on the mountain
+bucinator | Bucinator signum militibus dat | The trumpeter gives the signal to the soldiers
+bucino | In castris bucino | I blow the trumpet in the camp
+buculus | Buculus ad rivum it | The bullock goes to the stream
+bulbus1 | Bulbus in terra latet | The bulb lies hidden in the earth
+bulla | Bulla in aqua surgit | The bubble rises in the water
+# third: bullo only liquids bubble
+bullo | Aqua in olla bullat | The water bubbles in the pot
+bustum | Bustum in via Appia stat | The tomb stands on the Appian Way
+buxum | Buxum torno levigatur | The boxwood is smoothed on the lathe
+buxus | Buxus semper viret | The box tree is always green

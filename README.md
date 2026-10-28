@@ -40,6 +40,15 @@ rank 1 the sense a learner meets first. `tools/definitions.py` picks the next
 words (`next`), validates the format (`check`) and reports coverage
 (`status`); the editorial rules live in [`CLAUDE.md`](CLAUDE.md).
 
+## Example sentences
+
+`sentences/<LETTER>.txt` gives each defined noun and verb one simple,
+single-clause sentence: `key | Latin | English`, e.g.
+`puella | Puella caelum videt | The girl sees the sky`. Nouns appear as the
+nominative singular subject, verbs in the first person singular present.
+`tools/sentences.py` has the same `next` / `check` / `status` commands, and
+`api/services/sentences.py` reads a letter's file on first request.
+
 ## Loading into a database
 
 `tools/ls_db.py` loads the `ls_*.json` files into SQLite, PostgreSQL or MySQL,
