@@ -403,3 +403,14 @@ clinicus | Clinicus aegrum visitat | The doctor visits the sick man
 clipeo | Bracchium pallio clipeo | I shield my arm with a cloak
 clipeus | Clipeus ex aere fit | The shield is made of bronze
 clitellae | Clitellae in stabulo pendent | The pack-saddles hang in the stable
+clivus | Clivus ad arcem ducit | The slope leads up to the citadel
+cloaca | Cloaca aquam in Tiberim fundit | The sewer pours water into the Tiber
+clueo | Vir bonus clueo | I am called a good man
+clunis | Clunis equi lata est | The horse's haunch is broad
+clyster | Clyster in arca medici est | The syringe is in the doctor's chest
+coacervo | Frumentum in horreo coacervo | I heap up the grain in the barn
+# third: coacesco only wine and similar liquids turn sour
+coacesco | Vinum coacescit | The wine turns sour
+coactor | Coactor pecuniam ex auctione colligit | The collector gathers the money from the auction
+# skip: coactus2 occurs only in the ablative singular coactu, so no nominative headword-form sentence is possible
+coaddo | Mel aquae coaddo | I add honey as well to the water
