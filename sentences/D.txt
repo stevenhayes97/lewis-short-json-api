@@ -600,3 +600,12 @@ dulcedo | Dulcedo mellis infantem placat | The sweetness of honey soothes the ba
 dulcitudo | Dulcitudo pomi pueros ad arborem vocat | The sweetness of the apple calls the boys to the tree
 dumetum | Dumetum lepores celat | The thicket hides the hares
 # skip: duo is the numeral two, misfiled as a verb
+duovir | Duovir in municipio jus dicit | The duumvir administers justice in the town
+duplicatio | Duplicatio vectigalis cives irritat | The doubling of the tax irritates the citizens
+duplico | Numerum navium duplico | I double the number of ships
+duramentum | Duramentum ferri in aqua fit | The hardening of the iron takes place in water
+# third: duresco only things harden
+duresco | Lutum in sole durescit | The mud hardens in the sun
+duritia | Duritia terrae aratrum impedit | The hardness of the ground hinders the plough
+duro | Argillam in fornace duro | I harden the clay in the furnace
+dux | Dux exercitum hortatur | The general encourages the army
