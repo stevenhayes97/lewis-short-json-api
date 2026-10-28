@@ -798,3 +798,13 @@ aurora | Aurora caelum rubrum facit | The dawn makes the sky red
 # skip: aurugo is a noun (jaundice), misfiled as a verb
 aurum | Aurum fulgens thesaurum implet | The shining gold fills the treasury
 ausculto | Musicam ausculto | I listen to the music
+auspicium | Auspicium in templo capitur | The auspices are taken in the temple
+auspicor | Ante proelium auspicor | I take the auspices before the battle
+auster1 | Auster nubes ad urbem portat | The south wind carries clouds to the city
+austeritas | Austeritas vini gustum mutat | The dryness of the wine changes the taste
+autumo | Verum autumo | I assert the truth
+auxilior | Vicinis auxilior | I help the neighbours
+auxilium | Auxilium ad urbem venit | Help comes to the city
+avaritia | Avaritia mercatorem amicis privat | Greed deprives the merchant of friends
+aveho | Merces navi aveho | I carry the goods away by ship
+avello | Ramum ab arbore avello | I tear a branch off the tree
