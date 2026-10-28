@@ -296,3 +296,13 @@ lubrico | Axem plaustri oleo lubrico | I lubricate the axle of the cart with oil
 lucar | Lucar histriones alit | The forest-tax supports the actors
 # third: luceo "I shine" is for a star or the sun
 luceo | Stella super montem lucet | The star shines above the mountain
+lucerna | Lucerna in cubiculo tremit | The lamp flickers in the bedroom
+lucrifacio | Mille sestertios lucrifacio | I make a profit of a thousand sesterces
+lucror | Aurum in mercatu lucror | I gain gold at the market
+lucrum | Lucrum parvum pistorem non satiat | Small profit does not satisfy the baker
+luctamen | Luctamen cum nive viatores tardat | The struggle with the snow delays the travellers
+luctatio | Luctatio in palaestra juvenes exercet | Wrestling exercises the youths in the gymnasium
+luctator | Luctator validus cibum multum poscit | The strong wrestler demands plenty of food
+luctor | Cum fratre in harena luctor | I wrestle with my brother on the sand
+luctus | Luctus viduam silentem tenet | Grief keeps the widow silent
+lucubratio | Lucubratio scriptorem pallidum facit | Night-work makes the writer pale
