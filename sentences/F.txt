@@ -51,3 +51,13 @@ fascia | Fascia capillos puellae ligat | The band ties the girl's hair
 fasciculus | Fasciculus florum in mensa jacet | The bundle of flowers lies on the table
 # third: fascino "I bewitch" is odd; a witch bewitches
 fascino | Venefica pecora fascinat | The witch bewitches the cattle
+fascinum | Fascinum agricolas terret | Witchcraft frightens the farmers
+fascis | Fascis lignorum umerum rustici premit | The bundle of firewood weighs on the peasant's shoulder
+fastidio | Cibum vilem fastidio | I loathe cheap food
+fastidium | Fastidium cibi hospitem a mensa avertit | The distaste for food turns the guest from the table
+fastigium | Fastigium montis nive tegitur | The summit of the mountain is covered with snow
+fastigo | Palum fastigo | I taper the stake
+fastus2 | Fastus consulis civibus displicet | The consul's arrogance displeases the citizens
+fateor | Errorem meum fateor | I confess my mistake
+fatigatio | Fatigatio post iter viatorem ad quietem invitat | Weariness after the journey invites the traveller to rest
+fatigo | Equum longo itinere fatigo | I weary the horse with a long journey
