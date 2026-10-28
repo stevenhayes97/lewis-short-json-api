@@ -391,3 +391,14 @@ expergefacio | Familiam clamore expergefacio | I awaken the household with a sho
 expergiscor | Ad cantum galli expergiscor | I awaken at the crowing of the rooster
 expergo | Pigrum discipulum voce expergo | I rouse the lazy pupil with my voice
 experientia | Experientia nova pistori meliorem modum monstrat | The new experiment shows the baker a better method
+experimentum | Experimentum novum medico spem dat | The new experiment gives the doctor hope
+expeto | Gloriam expeto | I desire glory
+expilator | Expilator oppidum vacuum intrat | The plunderer enters the empty town
+# third: expilo a military figure is more natural than the first person
+expilo | Hostis vicum expilat | The enemy plunders the village
+expingo | Navem in pariete expingo | I paint a ship on the wall
+expio | Scelus sacrificio expio | I atone for the crime with a sacrifice
+expiscor | Arcanum a servo expiscor | I ferret out the secret from the slave
+explanatio | Explanatio magistri puerum juvat | The teacher's explanation helps the boy
+explano | Regulam discipulis explano | I explain the rule to the pupils
+explementum | Explementum amphoras in plaustro tuetur | The filler protects the jars on the cart
