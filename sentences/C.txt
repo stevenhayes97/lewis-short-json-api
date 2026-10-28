@@ -64,3 +64,13 @@ calor1 | Calor aestatis agros siccat | The heat of summer dries the fields
 calumnia | Calumnia judicium impedit | Trickery obstructs the trial
 calumniator | Calumniator legem torquet | The pettifogger twists the law
 calvitium | Calvitium senem non offendit | Baldness does not trouble the old man
+calvor | Mercatorem calvor | I deceive the merchant
+calx1 | Calx pedis humum tangit | The heel of the foot touches the ground
+calx2 | Calx muros albos facit | The lime makes the walls white
+calyx1 | Calyx rosae mane aperitur | The calyx of the rose opens in the morning
+cambio | Nummos cambio | I exchange coins
+camera | Camera pictis stellis ornatur | The vault is decorated with painted stars
+camillus1 | Camillus sacerdoti ad aram servit | The ritual attendant serves the priest at the altar
+caminus | Caminus in fabrica ardet | The furnace burns in the workshop
+campus1 | Campus inter montes jacet | The plain lies between the mountains
+canalis | Canalis aquam ad hortum ducit | The channel leads water to the garden
