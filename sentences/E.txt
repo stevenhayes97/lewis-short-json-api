@@ -469,3 +469,16 @@ exstinguo | Lucernam exstinguo | I extinguish the lamp
 exstirpo | Dumos exstirpo | I uproot the brambles
 # third: exsto "I project" is odd; a rock projects
 exsto | Scopulus e mari exstat | The rock projects from the sea
+exstructio | Exstructio muri multos fabros requirit | The construction of the wall requires many workmen
+exstruo | Lapides ad ripam exstruo | I heap up stones at the bank
+# third: exsudo "I exude" is odd; a pine exudes
+exsudo | Pinus resinam exsudat | The pine exudes resin
+exsufflo | Cinerem de foco exsufflo | I blow the ash off the hearth
+# third: exsugo only a bee does the sucking
+exsugo | Apis liquorem e flore exsugit | The bee sucks the liquid out of the flower
+exsul | Exsul in terra aliena habitat | The exile lives in a foreign land
+exsulo | In Asia exsulo | I am in exile in Asia
+exsultatio | Exsultatio agnorum in prato puellam ridere facit | The leaping of the lambs in the meadow makes the girl laugh
+exsupero | Omnes celeritate exsupero | I surpass everyone in speed
+# third: exsurdo "I deafen" is odd; a din deafens
+exsurdo | Strepitus fabrorum viatorem exsurdat | The din of the smiths deafens the traveller
