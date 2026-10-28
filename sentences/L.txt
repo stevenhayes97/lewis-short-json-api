@@ -242,3 +242,16 @@ linquo | Villam linquo | I leave the farmhouse
 linter | Linter uvas excipit | The tub receives the grapes
 linteum | Linteum album mensam tegit | The white cloth covers the table
 linum | Linum caeruleum campum colorat | Blue flax colours the field
+lippio | Post noctem sine somno lippio | I am bleary-eyed after a sleepless night
+lippitudo | Lippitudo magistrum a libris prohibet | Bleariness keeps the teacher from his books
+liquefacio | Nivem in olla liquefacio | I melt the snow in a pot
+# third: liqueo "I am liquid" is for a substance
+liqueo | Mel aestate liquet | The honey is liquid in summer
+# third: liquesco "I melt" is for a thing, not a person
+liquesco | Glacies in sole liquescit | The ice melts in the sun
+liquo | Ceram in olla liquo | I melt the wax in a pot
+# third: liquor1 "I flow" is for water
+liquor1 | Rivus per prata liquitur | The stream flows through the meadows
+liquor2 | Liquor aquae piscem leviter vehit | The fluidity of water carries the fish lightly
+lira | Lira in agro aquam a segete arcet | The ridge in the field keeps water from the crop
+liro | Semina mane liro | I plough in the seeds in the morning
