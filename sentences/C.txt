@@ -820,3 +820,13 @@ consensus2 | Consensus gentium veritatem ostendit | The agreement of nations sho
 consentio | De die cum sorore consentio | I agree with my sister about the day
 consequentia | Consequentia belli civitatem premit | The consequence of the war weighs on the state
 consero1 | Olivas in agro consero | I plant olive trees in the field
+conserva | Conserva panem coquit | The fellow-slave bakes bread
+conservatio | Conservatio frumenti famem prohibet | The preservation of grain keeps off hunger
+conservator | Conservator urbis civibus carus est | The preserver of the city is dear to the citizens
+conservatrix | Conservatrix civitatis in templo colitur | The protectress of the state is worshipped in the temple
+conservo | Vinum in cella conservo | I preserve the wine in the cellar
+conservus | Conservus mecum aquam portat | My fellow-slave carries water with me
+consessor | Consessor judici consilium dat | The assessor gives advice to the judge
+consessus | Consessus civium in porticu exspectat | The assembly of citizens waits in the colonnade
+considero | Viam optimam considero | I consider the best route
+consido | In subsellio consido | I sit down on the bench
