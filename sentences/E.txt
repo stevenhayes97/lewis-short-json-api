@@ -235,3 +235,16 @@ eversio | Eversio tyranni populum exhilarat | The overthrow of the tyrant cheers
 eversor | Eversor muros veteres diruit | The destroyer demolishes the old walls
 everto | Urnam everto | I overturn the urn
 evidentia | Evidentia orationis judicem convincit | The clarity of the speech convinces the judge
+evigilo | Prima luce evigilo | I wake at dawn
+# third: evilesco "I degenerate" is odd; customs degenerate
+evilesco | Mos antiquus luxu evilescit | The old custom degenerates through luxury
+evincio | Caput vitta evincio | I bind my head with a ribbon
+evinco | Gentem feram evinco | I conquer the fierce tribe
+# third: eviro "I emasculate" is grim; luxury emasculates
+eviro | Luxus militem evirat | Luxury emasculates the soldier
+eviscero | Piscem eviscero | I disembowel the fish
+evito1 | Viam periculosam evito | I avoid the dangerous road
+# third: evito2 a military figure is more natural than the first person; the entry's idiom is vitam evitare
+evito2 | Hostis duci vitam evitat | The enemy kills the commander
+evocatio | Evocatio nocturna senatores perturbat | The night summons disturbs the senators
+evoco | Testem ad judicium evoco | I summon the witness to the trial
