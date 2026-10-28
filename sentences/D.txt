@@ -161,3 +161,13 @@ demando | Nautae epistulam demando | I entrust the letter to the sailor
 dementio | Prae gaudio dementio | I rave with joy
 # third: demento "I madden" is not a sentence a learner needs; fear and storms madden
 demento | Timor populum dementat | Fear maddens the people
+demereo | Laudem demereo | I deserve praise
+demergo | Anulum in lacu demergo | I submerge the ring in the lake
+demetior | Frumentum modio demetior | I measure the grain with a bushel
+demeto1 | Hordeum demeto | I reap the barley
+demigro | In Galliam demigro | I emigrate to Gaul
+deminuo | Pretium deminuo | I lessen the price
+deminutio | Deminutio frumenti mercatores monet | The decrease of grain warns the merchants
+demiror | Silentium demiror | I wonder at the silence
+demissio | Demissio vocis oratorem decet | The lowering of the voice suits the speaker
+demitto | Funem in puteum demitto | I lower the rope into the well
