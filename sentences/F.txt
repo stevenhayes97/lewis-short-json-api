@@ -270,3 +270,14 @@ forus1 | Forus navem cum litore jungit | The gangway joins the ship to the shore
 fossa | Fossa aquam pluviae in flumen ducit | The ditch leads the rainwater into the river
 fosso | Terram ad murum fosso | I dig the ground by the wall
 fossor | Fossor in vinea laborat | The digger works in the vineyard
+fossura | Fossura putei diem totam exigit | The digging of the well takes the whole day
+fotus2 | Fotus aegro quietem dat | The fomentation gives the patient rest
+fovea | Fovea in silva latet | The pitfall lies hidden in the wood
+foveo | Pedes ad ignem foveo | I warm my feet at the fire
+fraces | Fraces olei dolium sordidum faciunt | The dregs of the oil make the jar dirty
+# third: fracesco "I rot" is odd; olives rot in a heap
+fracesco | Oliva in acervo fracescit | The olive rots in the heap
+fractura | Fractura cruris athletam in lecto tenet | The fracture of the leg keeps the athlete in bed
+fragilitas | Fragilitas vitri ancillam cautam facit | The brittleness of the glass makes the maid careful
+fragmen | Fragmen saxi in via jacet | The fragment of rock lies in the road
+fragmentum | Fragmentum marmoris sculptori placet | The fragment of marble pleases the sculptor
