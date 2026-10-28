@@ -486,3 +486,13 @@ annoto | Versum in libro annoto | I note a verse in the book
 annuntio | Pacem civibus annuntio | I announce peace to the citizens
 annuo | Amico annuo | I nod to my friend
 annus | Annus novus incipit | The new year begins
+anquiro | Causam anquiro | I investigate the cause
+ansa | Ansa amphorae fracta est | The handle of the jar is broken
+anser1 | Anser Capitolium servat | The goose protects the Capitol
+antecapio | Pontem antecapio | I seize the bridge first
+antecedo | Amicis antecedo | I go ahead of my friends
+antecello | Ingenio omnibus antecello | I excel everyone in talent
+antecessio | Antecessio stellarum nautam docet | The advance of the stars teaches the sailor
+antecessor | Antecessor meus librum scribit | My predecessor writes a book
+antecursor | Antecursor exercitum monet | The forerunner warns the army
+anteeo | Praetoribus anteeo | I walk before the praetors
