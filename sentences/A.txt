@@ -154,3 +154,13 @@ adjunctio | Adjunctio amicorum urbem firmat | The joining of friends strengthens
 adjungo | Equos ad currum adjungo | I harness the horses to the chariot
 adjuro1 | Verum adjuro | I swear to the truth
 adjuto | Matrem in horto adjuto | I help my mother in the garden
+adjutor2 | Adjutor ducis castra munit | The general's helper fortifies the camp
+adjutrix | Adjutrix reginae in horto laborat | The queen's helper works in the garden
+adjuvo | Agricolam in agro adjuvo | I help the farmer in the field
+adminiculo | Vites perticis adminiculo | I prop the vines with poles
+adminiculum | Adminiculum vitem sustinet | The prop supports the vine
+administer | Administer regis vinum portat | The king's attendant carries the wine
+administratio | Administratio rei publicae senatum occupat | The administration of the state occupies the senate
+administro | Bellum administro | I conduct the war
+admirabilitas | Admirabilitas operis omnes tenet | The wonderfulness of the work holds everyone
+admiratio | Admiratio ducis in militibus crescit | Admiration for the general grows among the soldiers
