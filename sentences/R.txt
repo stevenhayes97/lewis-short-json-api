@@ -46,3 +46,14 @@ recalesco | Aqua ad ignem recalescit | The water grows warm by the fire
 recalfacio | Cenam frigidam recalfacio | I rewarm the cold dinner
 # third: recandesco "I glow" is unnatural; iron is the natural subject
 recandesco | Ferrum in fornace recandescit | The iron glows again in the furnace
+recano | Carmen puellae recano | I sing the girl's song back
+recanto | Verba mea recanto | I recant my words
+recedo | Ab urbe recedo | I withdraw from the city
+# third: recello "I spring back" is unnatural; a branch is the natural subject
+recello | Ramus flexus recellit | The bent branch springs back
+recenseo | Naves in portu recenseo | I count the ships in the harbour
+recensio | Recensio civium censorem occupat | The review of the citizens keeps the censor busy
+receptaculum | Receptaculum aquam pluviae colligit | The receptacle collects rainwater
+receptio | Receptio hospitum domum gaudio implet | The reception of the guests fills the house with joy
+recepto | Locum amissum recepto | I retake the lost position
+receptor | Receptor peregrinum nocte accipit | The harbourer takes in the stranger at night
