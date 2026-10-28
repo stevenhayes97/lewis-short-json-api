@@ -519,3 +519,13 @@ cometes1 | Cometes noctu apparet | The comet appears by night
 comissatio | Comissatio post cenam incipit | The revelry begins after dinner
 comissator | Comissator ad domum amici venit | The reveller comes to a friend's house
 comissor | Cum amicis comissor | I revel with my friends
+comitas | Comitas hospitis nos delectat | The hospitality of the guest pleases us
+comitatus2 | Comitatus regis per forum procedit | The king's retinue advances through the forum
+comitiatus2 | Comitiatus in campo Martio fit | The assembly takes place on the Campus Martius
+comitium | Comitium prope curiam est | The assembly-place is near the senate-house
+comito | Sororem ad scholam comito | I accompany my sister to school
+comitor | Patrem ad portum comitor | I accompany my father to the harbour
+commaculo | Vestem luto commaculo | I defile my clothing with mud
+commanduco | Panem commanduco | I chew up the bread
+commeatus | Commeatus exercitum alit | The supplies feed the army
+commemoratio | Commemoratio nominis patrem movet | The mention of the name moves my father
