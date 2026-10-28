@@ -538,3 +538,15 @@ disturbo | Casam disturbo | I demolish the hut
 dito | Civitatem commercio dito | I enrich the state through trade
 diuturnitas | Diuturnitas pacis agros alit | The duration of peace feeds the fields
 divarico | Super rivum divarico | I straddle the stream
+divello | Panem durum divello | I tear the hard bread apart
+# third: diverbero "I cleave" is odd; a ship cleaves the waves
+diverbero | Navis undas diverberat | The ship cleaves the waves
+diversitas | Diversitas linguarum viatorem confundit | The diversity of languages confuses the traveller
+diverto | A via recta diverto | I diverge from the straight road
+# third: divexo a military figure is more natural than the first person
+divexo | Equitatus segetes divexat | The cavalry ravages the crops
+dividia | Dividia inter consules populum angit | The discord between the consuls troubles the people
+divido | Agrum inter filios divido | I divide the field among my sons
+divinatio | Divinatio augurum regem monet | The divination of the augurs warns the king
+divinitas | Divinitas Jovis populum movet | The divinity of Jupiter moves the people
+divino | Eventum belli divino | I divine the outcome of the war
