@@ -100,3 +100,15 @@ eloquor | Sententiam meam in senatu eloquor | I declare my opinion in the senate
 eluceo | Sol e nubibus elucet | The sun shines out from the clouds
 eluctor | Ex undis eluctor | I struggle out of the waves
 eludo | Custodem eludo | I elude the guard
+elugeo | Avunculum elugeo | I mourn my uncle
+eluo | Sordes ex lana eluo | I wash the dirt out of the wool
+eluvies | Eluvies fontis viam obstruit | The discharge of the spring blocks the road
+emancipatio | Emancipatio juvenem liberat | The emancipation frees the young man
+emancipo | Filium meum emancipo | I emancipate my son
+# third: emano "I flow out" is odd; a spring flows out
+emano | Fons e rupe emanat | The spring flows out of the rock
+# third: emarcesco only plants wither
+emarcesco | Flos sine aqua emarcescit | The flower withers without water
+emblema | Emblema in patera nitet | The inlay shines on the dish
+emendo | Errores in scripto emendo | I correct the mistakes in the text
+ementior | Fabulam de itinere ementior | I fabricate a tale about my journey
