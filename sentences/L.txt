@@ -347,3 +347,8 @@ luxuria | Luxuria vitis pergulam obtegit | The luxuriance of the vine covers the
 # third: luxurio "I flourish" is for a plant
 luxurio | Seges in agro luxuriat | The crop flourishes in the field
 lychnis | Lychnis inter herbas apparet | The campion appears among the grass
+lympha | Lympha frigida e fonte manat | The cold water pours from the spring
+lympho | Vinum aqua lympho | I dilute the wine with water
+lyncurion | Lyncurion in anulo mercatoris nitet | The lyncurium gleams in the merchant's ring
+lynx | Lynx in silva silenter ambulat | The lynx walks silently in the wood
+lyra | Lyra dulciter sub arbore sonat | The lyre sounds sweetly under the tree
