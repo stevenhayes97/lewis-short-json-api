@@ -329,3 +329,14 @@ frumentum | Frumentum in horreo servatur | The grain is kept in the barn
 fruniscor | Otio fruniscor | I enjoy leisure
 fruor | Pace fruor | I enjoy peace
 frustratio | Frustratio mercatoris emptorem irritat | The merchant's deception irritates the buyer
+frustror | Hostem dolo frustror | I deceive the enemy with a ruse
+frustum | Frustum panis in mensa jacet | The morsel of bread lies on the table
+frutectum | Frutectum densum lepores celat | The dense thicket hides the hares
+frutex | Frutex in colle floret | The shrub blooms on the hill
+# third: frutico "I sprout" is odd; a plant sprouts
+frutico | Salix ad rivum fruticat | The willow sprouts by the stream
+frux | Frux matura agricolam beat | The ripe crop makes the farmer happy
+fuco | Lanam purpura fuco | I dye the wool with purple
+fuga | Fuga hostium ducem laetum facit | The flight of the enemy makes the general glad
+fugio | Ad montes fugio | I flee to the mountains
+fugitivarius | Fugitivarius per vias vigilat | The slave-catcher keeps watch along the roads
