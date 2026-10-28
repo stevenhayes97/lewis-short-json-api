@@ -328,3 +328,15 @@ respergo1 | Pavimentum aqua respergo | I sprinkle the floor with water
 respicio | Ad casam respicio | I look back at the cottage
 respiratio | Respiratio aegri medicum sollicitat | The sick man's respiration worries the doctor
 respiro | Aerem purum respiro | I breathe the pure air
+# third: resplendeo "I shine brightly" is unnatural; a jewel is the natural subject
+resplendeo | Gemma in anulo resplendet | The jewel shines brightly in the ring
+respondeo | Viatori respondeo | I answer the traveller
+responso | Hospiti responso | I answer the guest
+respuo | Cibum amarum respuo | I spit out the bitter food
+# third: restagno "I overflow" is unnatural; a lake is the natural subject
+restagno | Lacus post nives restagnat | The lake overflows after the snows
+restauro | Statuam veterem restauro | I restore the old statue
+restinguo | Ignem aqua restinguo | I extinguish the fire with water
+restis | Restis fortis onus de trabe suspendit | The strong rope hangs the load from the beam
+restito | Ante tabernam restito | I loiter in front of the shop
+restituo | Urbi libertatem restituo | I restore freedom to the city
