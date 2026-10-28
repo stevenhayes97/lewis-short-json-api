@@ -167,3 +167,15 @@ finitor | Finitor agros metitur | The surveyor measures the fields
 firmamentum | Firmamentum pontis in flumine stat | The support of the bridge stands in the river
 firmitas | Firmitas muri urbem tuetur | The firmness of the wall protects the city
 firmitudo | Firmitudo aedificii incolas securos facit | The firmness of the building makes the residents safe
+firmo | Pontem trabibus firmo | I strengthen the bridge with beams
+fiscella | Fiscella uvas ex vinea portat | The basket carries grapes from the vineyard
+fiscina | Fiscina plena nucibus sub arbore jacet | The basket full of nuts lies under the tree
+fiscus | Fiscus in zona pendet | The purse hangs from the belt
+fistuco | Palos in terram fistuco | I ram stakes into the ground
+fistula | Fistula aquam in hortum ducit | The pipe leads water into the garden
+flabellum | Flabellum reginam in aestu refrigerat | The fan cools the queen in the heat
+flabra | Flabra ventorum navem agitant | The gusts of the winds toss the ship
+# third: flacceo "I droop" is odd; a flower droops
+flacceo | Flos in vase flaccet | The flower droops in the vase
+# third: flagello "I whip" is grim; a charioteer whips
+flagello | Auriga equos flagellat | The charioteer whips the horses
