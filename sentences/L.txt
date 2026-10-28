@@ -66,3 +66,15 @@ laniatus | Laniatus agminis ducem sollicitat | The mangling of the column worrie
 lanificium | Lanificium matronam per diem occupat | Wool-working occupies the matron all day
 # third: lanio1 "I mangle" is violent; a generic military figure acts instead
 lanio1 | Legio cohortem hostium laniat | The legion mangles the enemy cohort
+lanista | Lanista novos tirones in ludo exercet | The gladiator-trainer drills the new recruits in the school
+lanius | Lanius carnem in taberna vendit | The butcher sells meat in the shop
+lanugo | Lanugo mollis persicum tegit | The soft down covers the peach
+lanx | Lanx argentea poma convivis offert | The silver platter offers apples to the guests
+lapathum | Lapathum in prato humido crescit | Sorrel grows in the wet meadow
+lapicidinae | Lapicidinae marmor templo praebent | The quarries supply marble for the temple
+lapidatio | Lapidatio populum terret | Stoning frightens the people
+# third: lapido "I stone" is violent; a generic military figure acts instead
+lapido | Exercitus murum lapidat | The army pelts the wall with stones
+lapillus | Lapillus in calceo ambulantem vexat | The pebble in the shoe annoys the walker
+# third: lapio "I petrify" is odd; the entry attests lapit (lapit cor cura)
+lapio | Dolor cor lapit | Grief petrifies the heart
