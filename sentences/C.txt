@@ -333,3 +333,16 @@ circumspectus2 | Circumspectus e turri portum ostendit | The survey from the tow
 circumspicio | Circumspicio in horto | I look around in the garden
 circumstantia | Circumstantia amicorum aegrum consolatur | The standing round of friends comforts the sick man
 circumsto | Mensam circumsto | I stand round the table
+# third: circumstrepo only crowds and noisy things make a din around a place
+circumstrepo | Turba theatrum circumstrepit | The crowd makes a din around the theatre
+circumstruo | Fontem lapide circumstruo | I build round the spring with stone
+# third: circumtono only a trumpet or thunder sounds around a place
+circumtono | Tuba aulam circumtonat | The trumpet thunders around the hall
+# third: circumvado violent verb, generic military figures
+circumvado | Exercitus hostem circumvadit | The army besets the enemy
+circumvallo | Castellum circumvallo | I blockade the fort
+circumvecto | Merces circumvecto | I carry the goods around
+circumvehor | Insulam navi circumvehor | I sail round the island by ship
+circumvenio | Collem circumvenio | I surround the hill
+circumverto | Rotam circumverto | I turn the wheel round
+circumvestio | Statuam panno circumvestio | I wrap the statue round with cloth
