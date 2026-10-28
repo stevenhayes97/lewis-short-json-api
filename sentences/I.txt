@@ -325,3 +325,13 @@ inhorresco | Mare vento inhorrescit | The sea bristles in the wind
 inhumanitas | Inhumanitas rectoris provinciam terret | The governor's inhumanity alarms the province
 inicio | Nummum in fontem inicio | I throw a coin into the spring
 inigo | Oves in caulas inigo | I drive the sheep into the pen
+inimicitia | Inimicitia duos vicinos dividit | Enmity divides two neighbours
+inimico | Vicinos a rege inimico | I alienate the neighbours from the king
+iniquitas | Iniquitas viae asinum fatigat | The unevenness of the road tires the donkey
+initio | Puerum sacris initio | I initiate the boy into the rites
+initium | Initium fabulae spectatores tacitos facit | The beginning of the play makes the spectators quiet
+initus2 | Initus horrei ad viam spectat | The entrance of the barn faces the road
+injectio | Injectio saxorum fossam complet | The throwing in of rocks fills the ditch
+injungo | Jugum bobus injungo | I attach the yoke to the oxen
+injuria | Injuria vicini agricolam irritat | The neighbour's wrong angers the farmer
+injurior | Clientem in mercede injurior | I wrong my client over his pay
