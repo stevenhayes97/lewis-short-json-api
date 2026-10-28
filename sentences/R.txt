@@ -193,3 +193,16 @@ relego2 | Epistulam matris relego | I reread my mother's letter
 relevatio | Relevatio tributi pauperes juvat | The relief from the tax helps the poor
 relevo | Sitim aqua frigida relevo | I relieve my thirst with cold water
 relictio | Relictio vineae familiam pauperem facit | The abandonment of the vineyard makes the family poor
+# third: relido a violent verb; keeps to a military frame
+relido | Dux hostem relidit | The general strikes back at the enemy
+religio | Religio sacerdotem ad aram vocat | Religion calls the priest to the altar
+religo | Canem ad arborem religo | I tie the dog fast to the tree
+relino | Tabulas relino | I unseal the tablets
+relinquo | Oppidum mane relinquo | I leave the town in the morning
+reliquiae | Reliquiae cenae canem alunt | The remains of the dinner feed the dog
+reliquor | Amplam summam reliquor | I am in arrears for a large sum
+# third: reluceo "I shine forth" is unnatural; a flame is the natural subject
+reluceo | Flamma in nocte relucet | The flame shines forth in the night
+# third: relucesco "I brighten" is unnatural; the sky is the natural subject
+relucesco | Caelum post pluviam relucescit | The sky brightens after the rain
+reluctor | Diu reluctor | I resist for a long time
