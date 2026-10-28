@@ -135,3 +135,13 @@ patruus1 | Patruus nepotes ad circum ducit | The uncle takes his nephews to the 
 paucitas | Paucitas frumenti colonos sollicitat | The scarcity of grain worries the farmers
 pauperies | Pauperies familiam in hieme premit | Poverty weighs on the family in winter
 paupero | Heredem sumptibus paupero | I impoverish the heir with expenses
+paupertas | Paupertas pastorem non terret | Poverty does not frighten the shepherd
+pausa | Pausa post laborem agricolam recreat | The pause after work refreshes the farmer
+pausarius | Pausarius remiges malleo regit | The boatswain guides the rowers with a hammer
+pauso | In ponte pauso | I pause on the bridge
+# skip: pauxillus is an adjective (little), not a noun or verb
+pavefacio | Hostem clamore pavefacio | I frighten the enemy with a shout
+paveo | Tonitrum paveo | I fear thunder
+pavesco | Nocte in silva pavesco | I become afraid in the forest at night
+pavimentum | Pavimentum marmoreum in atrio nitet | The marble pavement shines in the hall
+pavio | Terram pavio | I pound the earth
