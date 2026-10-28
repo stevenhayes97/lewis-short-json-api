@@ -514,3 +514,16 @@ dissolvo | Sal in aqua dissolvo | I dissolve salt in water
 # third: dissono "I clash" is odd; instruments clash
 dissono | Tuba cum tibia dissonat | The trumpet clashes with the pipe
 dissuadeo | Fratri bellum dissuadeo | I dissuade my brother from war
+# third: dissulto only things burst
+dissulto | Castanea in igne dissultat | The chestnut bursts in the fire
+dissuo | Pallium dissuo | I unstitch the cloak
+# third: distabesco only wax, snow and the like melt away
+distabesco | Cera in igne distabescit | The wax melts away in the fire
+distantia | Distantia inter oppida mulos tardat | The distance between the towns slows the mules
+distendo | Utrem aqua distendo | I distend the wineskin with water
+distermino | Agrum cippis distermino | I demarcate the field with boundary stones
+distinctio | Distinctio inter verum et falsum discipulum docet | The distinction between true and false teaches the pupil
+distineo | Duas oves saepto distineo | I separate two sheep with a fence
+distinguo | Sorores voce distinguo | I distinguish the sisters by their voices
+# third: disto only places and things are distant
+disto | Villa a mari distat | The villa is far from the sea
