@@ -32,3 +32,14 @@ caestus | Caestus manus pugilis tegit | The cestus covers the boxer's hands
 caesura | Caesura silvae operarios occupat | The felling of the wood keeps the workmen busy
 calamister | Calamister capillos mulieris crispat | The curling-iron curls the woman's hair
 calamitas | Calamitas colonos premit | Disaster weighs on the farmers
+calamus | Calamus in ripa crescit | The reed grows on the bank
+calathus | Calathus lanam mulieris continet | The basket holds the woman's wool
+calator | Calator sacerdotem ad aram comitatur | The attendant accompanies the priest to the altar
+calautica | Calautica feminam a sole defendit | The headdress protects the woman from the sun
+calcar | Calcar equum urget | The spur urges on the horse
+calceamentum | Calceamentum viatori utile est | The shoe is useful to the traveller
+calceo | Pedes meos calceo | I put shoes on my feet
+calceus | Calceus sub lecto jacet | The shoe lies under the bed
+# third: calcitro1 only animals kick
+calcitro1 | Equus in stabulo calcitrat | The horse kicks in the stable
+calco | Uvas calco | I trample the grapes
