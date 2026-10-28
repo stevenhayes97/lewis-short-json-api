@@ -340,3 +340,15 @@ fuco | Lanam purpura fuco | I dye the wool with purple
 fuga | Fuga hostium ducem laetum facit | The flight of the enemy makes the general glad
 fugio | Ad montes fugio | I flee to the mountains
 fugitivarius | Fugitivarius per vias vigilat | The slave-catcher keeps watch along the roads
+fugito | Ab apibus fugito | I flee from the bees
+# third: fugo a military figure is more natural than the first person
+fugo | Dux hostes fugat | The general routs the enemy
+fulcio | Tectum trabe fulcio | I prop up the roof with a beam
+fulcrum | Fulcrum ligneum cubiculum ornat | The wooden bedpost adorns the bedroom
+# third: fulgeo "I flash" is odd; a jewel flashes
+fulgeo | Gemma in sole fulget | The jewel flashes in the sun
+fulgetrum | Fulgetrum nubes illuminat | The lightning lights up the clouds
+fulgor | Fulgor repentinus pastorem terret | The sudden flash frightens the shepherd
+fulgur | Fulgur ante tonitrum venit | The lightning comes before the thunder
+fulguratio | Fulguratio nocturna pecus perturbat | The night lightning disturbs the flock
+fulgurator | Fulgurator senatum de signo monet | The lightning-priest warns the senate about the sign
