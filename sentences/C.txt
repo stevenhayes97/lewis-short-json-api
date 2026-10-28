@@ -435,3 +435,13 @@ coemptio | Coemptio coram testibus fit | The mock sale takes place before witnes
 coeo | Cum amicis in porticum coeo | I come together with my friends in the colonnade
 coepio | Laborare coepio | I begin to work
 coepto | Flumen transire coepto | I attempt to cross the river
+coerceo | Equum freno coerceo | I restrain the horse with a bridle
+coercitio | Coercitio magistratus in urbe valet | The magistrate's coercion prevails in the city
+cogitatio | Cogitatio mea ad patriam redit | My thought returns to my homeland
+cogito | De itinere cogito | I think about the journey
+cognatio | Cognatio inter fratres firma est | Kinship between brothers is firm
+cognitio | Cognitio linguae Graecae utilis est | Knowledge of the Greek language is useful
+cognitor | Cognitor mercatorem in judicio defendit | The advocate defends the merchant in court
+cognomen | Cognomen viri notum est | The man's surname is well known
+cognomentum | Cognomentum ducis ab avo venit | The leader's surname comes from his grandfather
+cognomino | Canem Leonem cognomino | I name the dog Leo
