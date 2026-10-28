@@ -1125,3 +1125,9 @@ cutis | Cutis mea sole rubet | My skin turns red in the sun
 cyathus | Cyathus aureus in mensa fulget | The golden ladle gleams on the table
 cyclas | Cyclas purpurea dominam ornat | The purple robe adorns the lady
 cyclus | Cyclus quattuor annorum ludos affert | The cycle of four years brings the games
+cycnus1 | Cycnus in lacu placide natat | The swan swims calmly on the lake
+cylindrus | Cylindrus saxeus viam aequat | The stone cylinder levels the road
+cyma | Cyma tenera in horto crescit | The tender sprout grows in the garden
+cymba | Cymba in flumine lente fertur | The boat is carried slowly on the river
+cymbalum | Cymbalum in templo sonat | The cymbal sounds in the temple
+cynosbatos | Cynosbatos ad sepem floret | The dog-rose blooms by the hedge
