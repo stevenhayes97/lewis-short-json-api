@@ -481,3 +481,13 @@ disperdo | Patrimonium luxu disperdo | I ruin my inheritance by extravagance
 dispereo | Fructus in horreo disperit | The fruit perishes in the barn
 dispersio | Dispersio nubium caelum serenum facit | The dispersion of the clouds makes the sky clear
 dispertio | Poma inter sodales dispertio | I distribute apples among my comrades
+dispesco | Gregem pastoribus dispesco | I divide the flock among the shepherds
+dispicio | Litteras in nebula vix dispicio | I can hardly make out the letters in the fog
+displiceo | Hodie mihi displiceo | Today I am dissatisfied with myself
+# skip: displodo is attested only in the participle (burst asunder) and a rare passive; no usable headword form
+dispono | Rosas in vase dispono | I arrange the roses in the vase
+dispositio | Dispositio sellarum hospitibus placet | The arrangement of the chairs pleases the guests
+dispunctio | Dispunctio rationum argentarium vexat | The audit of the accounts vexes the banker
+dispungo | Rationes meas dispungo | I audit my accounts
+disputatio | Disputatio philosophorum in porticu fit | The discussion of the philosophers takes place in the colonnade
+disputo | De virtute cum magistro disputo | I discuss virtue with my teacher
