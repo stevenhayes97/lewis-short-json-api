@@ -266,3 +266,14 @@ opulentia | Opulentia mercatoris civitatem ornat | The merchant's wealth adorns 
 opus1 | Opus fabrum in officina tenet | The work holds the craftsmen in the workshop
 ora1 | Ora Italiae multos portus habet | The coast of Italy has many harbours
 oraculum | Oraculum Delphicum regem monet | The oracle at Delphi warns the king
+oratio | Oratio consulis forum silentem reddit | The consul's speech makes the forum silent
+orator | Orator in rostris stat | The orator stands on the rostra
+orbiculus | Orbiculus e manu pueri cadit | The disk falls from the boy's hand
+orbis | Orbis in pariete pingitur | A circle is painted on the wall
+orbita | Orbita in agro plaustrum tenet | The rut in the field holds the wagon
+orbitas | Orbitas matrem ad templum ducit | Bereavement leads the mother to the temple
+# third: orbo "I bereave" is for war or fate
+orbo | Bellum urbem civibus orbat | War bereaves the city of its citizens
+orca1 | Orca prope navem apparet | The whale appears near the ship
+orchestra | Orchestra senatores in theatro capit | The orchestra seats the senators in the theatre
+ordinatio | Ordinatio librorum in bibliotheca lectorem juvat | The arrangement of the books in the library helps the reader
