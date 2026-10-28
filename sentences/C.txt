@@ -883,3 +883,14 @@ consultor1 | Consultor advocatum mane visitat | The adviser visits the lawyer in
 consummatio | Consummatio rationum mercatorem tenet | The summation of the accounts detains the merchant
 consummo | Pecuniam in tabula consummo | I sum up the money on the tablet
 consumo | Panem et vinum consumo | I consume bread and wine
+consuo | Vestem acu consuo | I stitch the garment with a needle
+consurgo | Mane e lecto consurgo | I rise from bed in the morning
+# third: contabesco "I waste away" is grim; plants wither
+contabesco | Flos siccitate contabescit | The flower wastes away in the drought
+contabulo | Cubiculum asseribus contabulo | I board the room with planks
+contactus2 | Contactus aquae frigidae natatorem excitat | The touch of cold water wakes the swimmer
+contagio | Contagio in oppido late patet | The contagion spreads widely in the town
+contamino | Puteum sordibus contamino | I contaminate the well with filth
+contego | Panem linteo contego | I cover the bread with a cloth
+contemplatio | Contemplatio stellarum philosophum quietum facit | The contemplation of the stars makes the philosopher calm
+contemplo | Lunam e fenestra contemplo | I contemplate the moon from the window
