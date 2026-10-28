@@ -1042,3 +1042,15 @@ cribrum | Cribrum farinam a furfure separat | The sieve separates the flour from
 crimen | Crimen mercatoris civitatem commovet | The merchant's crime alarms the city
 criminatio | Criminatio falsa viduam angit | The false accusation distresses the widow
 crimino | Servum furti crimino | I accuse the slave of theft
+# skip: crinio attested only in the passive and as the participle crinitus, so no active headword form is sound
+crinis | Crinis longus puellam ornat | The long hair adorns the girl
+crispo | Capillum calamistro crispo | I curl my hair with tongs
+crista1 | Crista rubra galeam ornat | The red crest adorns the helmet
+crocum | Crocum cibum flavum facit | The saffron makes the food yellow
+cruciatus | Cruciatus morbi aegrum fatigat | The torture of the illness wearies the patient
+# third: crucio "I torture" is not a sentence a learner needs; kept plain and military
+crucio | Dux hostem cruciat | The general tortures the enemy
+crudelitas | Crudelitas tyranni cives fugat | The cruelty of the tyrant makes the citizens flee
+# third: crudesco "I worsen" is said of storms and illnesses
+crudesco | Tempestas in mari crudescit | The storm worsens at sea
+cruditas | Cruditas hospitem vexat | Indigestion troubles the guest
