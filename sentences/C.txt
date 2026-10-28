@@ -1009,3 +1009,14 @@ cortex | Cortex quercus arborem tegit | The bark of the oak covers the tree
 cortina | Cortina super igne pendet | The cauldron hangs over the fire
 corusco | Vexillum in aere corusco | I brandish the banner in the air
 corvus | Corvus in agro semina quaerit | The raven looks for seeds in the field
+corymbus | Corymbus in hedera pendet | The cluster hangs on the ivy
+cos1 | Cos dura in rivo jacet | The hard flint lies in the stream
+costa | Costa suis in olla coquitur | The pig's rib is cooked in the pot
+costum | Costum odorem dulcem in cubiculo diffundit | The costus spreads a sweet scent in the room
+cothurnus | Cothurnus actoris sub lecto jacet | The actor's boot lies under the bed
+crapula | Crapula sodalem meum mane fatigat | Drunkenness wearies my comrade the next morning
+# third: crassesco "I thicken" is said of liquids
+crassesco | Mel frigore crassescit | The honey thickens in the cold
+crassitudo | Crassitudo muri turrem firmat | The thickness of the wall strengthens the tower
+cratera | Cratera argentea in triclinio stat | The silver mixing bowl stands in the dining room
+cratis | Cratis agrum aequat | The harrow levels the field
