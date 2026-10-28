@@ -21,3 +21,13 @@ ignoratio | Ignoratio viae viatorem tardat | Not knowing the road delays the tra
 ignoro | Viam ad portum ignoro | I do not know the way to the harbour
 ignosco | Sorori errorem ignosco | I forgive my sister the mistake
 # skip: ile is used almost only in the plural ilia; the headword form ile is not a usable nominative
+ilex | Ilex in colle umbram praebet | The holm oak gives shade on the hill
+illacrimo | Tumulo patris illacrimo | I weep over my father's tomb
+illaqueo | Avem rete illaqueo | I ensnare the bird with a net
+illatio | Illatio frumenti in horreum diu durat | The bringing in of the grain to the barn takes a long time
+illecebra | Illecebra divitiarum juvenem ad urbem trahit | The allurement of wealth draws the young man to the city
+illicio | Avem grano illicio | I entice the bird with grain
+illicitator | Illicitator pretium in auctione auget | The shill raises the price at the auction
+illicium | Illicium cibi canem in hortum vocat | The lure of food calls the dog into the garden
+illido | Vas in saxum illido | I dash the jar against the rock
+illigo | Fasciculum funiculo illigo | I bind the bundle with a cord
