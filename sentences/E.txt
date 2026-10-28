@@ -159,3 +159,13 @@ enoto | Verba magistri enoto | I note down the teacher's words
 ensis | Ensis in armamentario pendet | The sword hangs in the armoury
 enucleo | Nuces enucleo | I shell the nuts
 enumeratio | Enumeratio nominum scribam diu occupat | The enumeration of the names keeps the clerk busy for a long time
+enumero | Oves ad portam enumero | I count up the sheep at the gate
+enuntio | Arcanum sorori enuntio | I disclose the secret to my sister
+enutrio | Agnum lacte enutrio | I nurture the lamb with milk
+eo1 | Ad theatrum eo | I go to the theatre
+ephebus | Ephebus in gymnasio currit | The youth runs in the gymnasium
+ephemeris | Ephemeris dies mercatoris notat | The diary records the merchant's days
+ephippium | Ephippium equum tegit | The saddle cloth covers the horse
+epigramma | Epigramma breve lectorem excitat | The short epigram wakes the reader up
+episcopus | Episcopus fideles in ecclesia salutat | The bishop greets the faithful in the church
+epistula | Epistula longa e Britannia advenit | The long letter arrives from Britain
