@@ -611,3 +611,13 @@ ariditas | Ariditas agricolas terret | The drought frightens the farmers
 aries | Aries lanam densam habet | The ram has thick wool
 # third: arieto "I butt" is only something a ram does
 arieto | Aries portam arietat | The ram butts the gate
+arista | Arista spicam ornat | The awn adorns the ear
+arma | Arma militem tegunt | The arms cover the soldier
+armamenta | Armamenta nautam adjuvant | The tackle helps the sailor
+armamentarium | Armamentarium arma publica continet | The arsenal holds public arms
+armarium | Armarium vestes et pecuniam servat | The cupboard keeps clothes and money
+# skip: armatus2 is attested only in the ablative (armatu), so it cannot be a subject in headword form
+armentum | Armentum ad aquam it | The herd goes to the water
+armilla | Armilla aurea mulierem ornat | The golden bracelet adorns the woman
+armillum | Armillum vino plenum est | The wine jar is full of wine
+armo | Milites armo | I arm the soldiers
