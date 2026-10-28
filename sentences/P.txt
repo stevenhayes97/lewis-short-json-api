@@ -10,3 +10,14 @@ paciscor | Pro agro cum vicino paciscor | I bargain with my neighbour for the fi
 paco2 | Gallos rebelles paco | I pacify the rebellious Gauls
 pactio | Pactio inter duces bellum finit | The agreement between the generals ends the war
 paedagogium | Paedagogium novos pueros recipit | The pages' school receives the new boys
+paedagogus | Paedagogus puerum ad scholam ducit | The tutor takes the boy to school
+paedor | Paedor in via viatorem offendit | The filth on the road disgusts the traveller
+paelex | Paelex in aula regis habitat | The concubine lives in the king's palace
+paenitentia | Paenitentia fratris matrem mollit | The brother's repentance softens the mother
+# third: paeniteo is attested only impersonally (paenitet)
+paeniteo | Regem culpae paenitet | The king regrets the fault
+paenula1 | Paenula viatorem a pluvia protegit | The cloak protects the traveller from the rain
+paenularius | Paenularius pannum crassum emit | The cloak-maker buys thick cloth
+paeon | Paeon versum poetae claudit | The paeon ends the poet's verse
+pagina | Pagina papyri nomen poetae continet | The page of papyrus contains the poet's name
+pagus | Pagus inter montes et flumen jacet | The district lies between the mountains and the river
