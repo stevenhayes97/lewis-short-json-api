@@ -445,3 +445,14 @@ cognitor | Cognitor mercatorem in judicio defendit | The advocate defends the me
 cognomen | Cognomen viri notum est | The man's surname is well known
 cognomentum | Cognomentum ducis ab avo venit | The leader's surname comes from his grandfather
 cognomino | Canem Leonem cognomino | I name the dog Leo
+cognosco | Nomina civium cognosco | I learn the names of the citizens
+cogo | Boves in stabulum cogo | I gather the cattle into the stable
+# third: cohaereo "I cohere" is not a sentence a learner needs; things hold together
+cohaereo | Ramus cum arbore cohaeret | The branch clings to the tree
+cohibeo | Vinum in amphora cohibeo | I contain the wine in the amphora
+cohonesto | Amicum donis cohonesto | I honour my friend with gifts
+cohorresco | Ad tonitrum cohorresco | I shudder at the thunder
+cohors | Cohors in colle manet | The cohort stays on the hill
+cohortatio | Cohortatio ducis milites incitat | The general's exhortation spurs the soldiers
+cohortor | Milites cohortor | I exhort the soldiers
+coinquino | Aquam luto coinquino | I defile the water with mud
