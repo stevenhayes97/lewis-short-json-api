@@ -208,3 +208,15 @@ perambulo | Urbem perambulo | I walk through the city
 peraro | Agrum peraro | I plough through the field
 perbibo | Verba poetae perbibo | I drink in the poet's words
 # skip: perbito is attested only in forms like perbitat and perbiteres, not a first person
+percalefacio | Aquam in olla percalefacio | I heat the water thoroughly in the pot
+percallesco | Labore diuturno percallesco | I become hardened by long toil
+percelebro | Carmen novum percelebro | I repeat the new song
+# third: percello a violent verb; keeps to a military frame
+percello | Dux aciem hostium percellit | The general overturns the enemy line
+percenseo | Nomina discipulorum percenseo | I count off the names of the pupils
+perceptio | Perceptio acuta nautam in tempestate servat | Sharp perception saves the sailor in the storm
+# third: percido a violent verb; keeps to a military frame
+percido | Exercitus castra hostium percidit | The army smashes the enemy camp
+percieo | Populum cantu percieo | I excite the people with a song
+percipio | Sonum procul percipio | I perceive a sound far away
+percognosco | Viam percognosco | I get to know the road thoroughly
