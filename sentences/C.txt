@@ -1020,3 +1020,14 @@ crassesco | Mel frigore crassescit | The honey thickens in the cold
 crassitudo | Crassitudo muri turrem firmat | The thickness of the wall strengthens the tower
 cratera | Cratera argentea in triclinio stat | The silver mixing bowl stands in the dining room
 cratis | Cratis agrum aequat | The harrow levels the field
+creator | Creator novi operis in officina laborat | The creator of the new work labours in the workshop
+creatrix | Creatrix filium ad cenam vocat | The mother calls her son to dinner
+crebritas | Crebritas pluviae agricolam sollicitat | The frequency of the rain worries the farmer
+credo | Magistro credo | I believe the teacher
+credulitas | Credulitas avi nepotem ad risum movet | The grandfather's credulity moves his grandson to laughter
+cremo | Folia sicca in horto cremo | I burn dry leaves in the garden
+creo1 | Statuam novam creo | I create a new statue
+crepida | Crepida in limine jacet | The sandal lies on the threshold
+crepido | Crepido in foro statuam sustinet | The pedestal in the forum supports a statue
+# third: crepito "I rattle" is said of things that clatter
+crepito | Grando in tecto crepitat | The hail rattles on the roof
