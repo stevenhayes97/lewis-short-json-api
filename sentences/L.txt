@@ -181,3 +181,13 @@ levitas1 | Levitas pennae eam in aura tenet | The lightness of the feather keeps
 levitas2 | Levitas marmoris sculptori placet | The smoothness of the marble pleases the sculptor
 levo1 | Saxum ingens levo | I lift the huge rock
 levo2 | Mensam asperam levo | I smooth the rough table
+lex | Lex nova mercatores gravat | The new law burdens the merchants
+libamen | Libamen aram rigat | The libation moistens the altar
+libamentum | Libamentum matutinum sacerdotem occupat | The morning libation occupies the priest
+libella | Libella in crumena sonat | The farthing rings in the purse
+libellus | Libellus versus breves continet | The booklet contains short verses
+libentia | Libentia puellam saltare facit | Delight makes the girl dance
+# skip: liber2 means children and is used almost only in the plural liberi (the singular is post-classical and rare), so the headword form liber would be misread as the book or the adjective
+liber4 | Liber a trunco pendet | The bark hangs from the trunk
+liberalitas | Liberalitas divitis pauperes alit | The rich man's generosity feeds the poor
+liberatio | Liberatio captivorum uxores exspectantes consolatur | The release of the captives comforts the waiting wives
