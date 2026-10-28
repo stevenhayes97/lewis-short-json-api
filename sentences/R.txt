@@ -112,3 +112,14 @@ redditio | Redditio pecuniae creditorem laetum facit | The return of the money m
 reddo | Librum domino reddo | I return the book to the master
 redemptio | Redemptio captivi magnum aurum poscit | The ransom of the captive demands much gold
 redemptor | Redemptor pontem novum aedificat | The contractor builds a new bridge
+redeo | Domum redeo | I return home
+redhibeo | Mercem vitiosam redhibeo | I take back the faulty goods
+redigo | Impensas ad paucos nummos redigo | I reduce the costs to a few coins
+redimiculum | Redimiculum aureum caput sponsae ornat | The golden fillet adorns the bride's head
+redimio | Caput floribus redimio | I wreathe my head with flowers
+redimo | Amicum captum auro redimo | I ransom my captured friend with gold
+redintegro | Murum ruptum redintegro | I restore the broken wall
+reditio | Reditio legati cives ad pontem trahit | The envoy's return draws the citizens to the bridge
+reditus | Reditus veris hirundines affert | The return of spring brings the swallows
+# third: redoleo "I smell of" is unnatural; a kitchen is the natural subject
+redoleo | Culina thymum redolet | The kitchen smells of thyme
