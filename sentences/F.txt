@@ -202,3 +202,16 @@ flecto | Ramum arboris flecto | I bend the branch of the tree
 flemina | Flemina crurum viatorem tardant | The swellings of the legs slow the traveller
 fleo | Ob tristem fabulam fleo | I weep at the sad story
 fletus2 | Fletus infantis matrem excitat | The baby's weeping wakes its mother
+flexio | Flexio viae carrum tardat | The bend in the road slows the cart
+flexura | Flexura fluminis navem tardat | The bend in the river slows the boat
+flexus2 | Flexus dexter ad villam ducit | The right turn leads to the villa
+# third: fligo attested only in the third person; a gladiator figure is more natural than the first person
+fligo | Gladiator palum fligit | The gladiator strikes the post
+flo | In carbones flo | I blow on the coals
+# skip: flocces is attested only as an accusative object (flocces bibit), with no nominative headword form
+floccus | Floccus lanae in vento volat | The tuft of wool flies in the wind
+# third: floreo "I bloom" is odd; a rose blooms
+floreo | Rosa in horto floret | The rose blooms in the garden
+# third: floresco "I blossom" is odd; a tree blossoms
+floresco | Prunus vere florescit | The plum tree blossoms in spring
+flos | Flos nectar apibus dat | The flower gives nectar to the bees
