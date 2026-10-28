@@ -92,3 +92,14 @@ manus1 | Manus magistri tabulam tenet | The teacher's hand holds the tablet
 mappa | Mappa os convivae tergit | The napkin wipes the guest's mouth
 # third: marceo "I wither" is unnatural for a plant, the usual subject
 marceo | Flos sine aqua marcet | The flower withers without water
+# third: marcesco "I wither" is unnatural for a leaf, the usual subject
+marcesco | Folium in autumno marcescit | The leaf withers in autumn
+marcor | Marcor foliorum hiemem nuntiat | The withering of the leaves announces winter
+marculus1 | Marculus sutorem in taberna adjuvat | The small hammer helps the cobbler in the shop
+mare | Mare tranquillum nautas ad navigandum invitat | The calm sea invites the sailors to sail
+margarita | Margarita collum dominae ornat | The pearl adorns the lady's neck
+margo | Margo fontis violas habet | The edge of the spring has violets
+marisca | Marisca agricolam in agro nutrit | The coarse fig feeds the farmer in the field
+marito | Filiam amico marito | I marry my daughter to a friend
+marmor | Marmor pavimentum frigidum reddit | The marble makes the floor cold
+marmoro | Atrium villae marmoro | I overlay the hall of the villa with marble
