@@ -376,3 +376,13 @@ alluo | Mare muros alluit | The sea washes against the walls
 alluvies | Alluvies post imbrem in agro est | The flood is in the field after the rain
 alluvio | Alluvio mala est | The flooding is bad
 alnus | Alnus prope paludem viret | The alder is green near the marsh
+alo | Liberos pane et lacte alo | I nourish the children with bread and milk
+alpha | Alpha prima littera est | Alpha is the first letter
+altaria | Altaria in templo alba sunt | The altars in the temple are white
+altercatio | Altercatio inter vicinos ad portam est | The dispute between the neighbours is at the gate
+altercor | Cum vicino altercor | I wrangle with the neighbour
+alternatio | Alternatio diei et noctis constans est | The alternation of day and night is constant
+alterno | Opus et otium alterno | I alternate work and rest
+altitudo | Altitudo turris omnibus nota est | The height of the tower is known to all
+altrix | Altrix infantem in cunis tenet | The nurse holds the baby in the cradle
+alucinatio | Alucinatio senis mitis est | The old man's daydreaming is gentle
