@@ -113,7 +113,7 @@ defundo | Lac in situlam defundo | I pour milk into the pail
 defungor | Officio defungor | I discharge my task
 degenero | A majoribus degenero | I degenerate from my ancestors
 deglubo | Malum deglubo | I peel the apple
-dego | Aestatem in rure dego | I spend the summer in the country
+dego | Aestatem ruri dego | I spend the summer in the country
 degravo | Mensam libris degravo | I weigh down the table with books
 degredior | Per scalas degredior | I descend by the stairs
 degusto | Cibum degusto | I taste the food
@@ -209,7 +209,8 @@ depello | Hostem ex arce depello | I expel the enemy from the citadel
 dependeo | Lucerna de tecto dependet | The lamp hangs from the ceiling
 dependo | Pretium integrum dependo | I pay the full price
 deperdo | Anulum in via deperdo | I lose the ring on the road
-depereo | Puellam depereo | I am desperately in love with the girl
+# third: depereo "I perish" is grim; things perish
+depereo | Frumentum in agris deperit | The grain perishes in the fields
 depilo | Gallinam depilo | I pluck the chicken
 depingo | Navem in pariete depingo | I depict the ship on the wall
 depleo | Paludem fossa depleo | I drain the marsh with a ditch

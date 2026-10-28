@@ -151,13 +151,16 @@ def eligible(letter: str) -> dict[str, str]:
 def third_person_forms(key: str) -> tuple[str, tuple[str, ...]]:
     """(stem, endings) a third person singular of this verb must show.
 
-    amo -> am...t, moneo -> mone...t, rego -> reg...t, morior -> mori...tur.
+    amo -> am...t, moneo -> mon...t, rego -> reg...t, morior -> mori...tur.
     Loose on purpose: it confirms the verb is there in a third person, not
-    which conjugation's vowel it takes.
+    which conjugation's vowel it takes. An -eo or -io headword drops both
+    vowels, since compounds of eo keep only the i (depereo -> deperit).
     """
     word = headword(key)
     if word.endswith("or"):
         return word[:-2], ("tur",)
+    if word.endswith(("eo", "io")):
+        return word[:-2], ("t",)
     return word[:-1], ("t",)
 
 
