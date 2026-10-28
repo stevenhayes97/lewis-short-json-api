@@ -33,3 +33,13 @@ hebeo | Culter in cella hebet | The knife is dull in the pantry
 # third: hebesco "I grow dull" is odd; iron grows dull
 hebesco | Ferrum usu hebescit | The iron grows dull with use
 hebeto | Aciem falcis hebeto | I blunt the blade of the sickle
+hedera | Hedera murum vetustum tegit | The ivy covers the old wall
+helice | Helice in ripa umbram dat | The willow gives shade on the bank
+heliotropium | Heliotropium solem semper sequitur | The heliotrope always follows the sun
+hemicyclium | Hemicyclium in porticu philosophos accipit | The semicircle in the colonnade receives the philosophers
+herba | Herba rorem matutinum servat | The grass keeps the morning dew
+hercisco | Hereditatem inter fratres hercisco | I partition the inheritance among the brothers
+# skip: herctum is attested only in the phrase herctum ciere, with no usable nominative sentence
+hereditas | Hereditas avi nepotem ditat | The grandfather's inheritance enriches the grandson
+heredium | Heredium prope fontem agricolam alit | The homestead near the spring feeds the farmer
+heres | Heres villam patris vendit | The heir sells his father's villa
