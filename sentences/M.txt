@@ -113,3 +113,15 @@ matella | Matella aquam calidam continet | The pot holds hot water
 mater | Mater filiam ad cenam vocat | The mother calls her daughter to dinner
 materia | Materia pontis ex silva venit | The material for the bridge comes from the forest
 matertera | Matertera nepotibus poma dat | The maternal aunt gives apples to her nephews
+mathesis | Mathesis discipulos numeris exercet | Mathematics trains the pupils with numbers
+matrimonium | Matrimonium duas familias jungit | The marriage joins two families
+matrix | Matrix agnos a lupo defendit | The dam defends her lambs from the wolf
+matrona1 | Matrona stolam novam emit | The matron buys a new stola
+matula | Matula olivas servat | The pot keeps the olives
+# third: maturesco "I ripen" is unnatural for fruit, the usual subject
+maturesco | Uva in sole maturescit | The grape ripens in the sun
+maturitas | Maturitas frugum agricolas ad messem vocat | The ripeness of the crops calls the farmers to the harvest
+# third: maturo "I ripen" something is unnatural; the sun is the natural agent
+maturo | Sol fructus maturat | The sun ripens the fruits
+maxilla | Maxilla canis ossem frangit | The dog's jaw breaks the bone
+meatus | Meatus lunae menses distinguit | The course of the moon marks off the months
