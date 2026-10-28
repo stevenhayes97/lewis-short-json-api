@@ -214,3 +214,13 @@ offundo | Aquam capiti offundo | I pour water over my head
 oggannio | Canis sub mensa oggannit | The dog growls under the table
 # third: oleo1 "I smell" is for a place
 oleo1 | Culina thymum olet | The kitchen smells of thyme
+oleum | Oleum lucernam alit | The oil feeds the lamp
+olfacio | Panem calidum olfacio | I smell the warm bread
+olfacto | Vinum olfacto | I sniff the wine
+oliva | Oliva ex arbore cadit | The olive falls from the tree
+olivetum | Olivetum vallem tegit | The olive grove covers the valley
+olivum | Olivum in ampulla splendet | The oil gleams in the flask
+olla | Olla supra focum pendet | The pot hangs over the hearth
+olor1 | Olor in lacu natat | The swan swims on the lake
+omen | Omen faustum nautam confirmat | A favourable omen reassures the sailor
+omentum | Omentum viscera tegit | The omentum covers the entrails
