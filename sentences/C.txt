@@ -966,3 +966,14 @@ convictus2 | Convictus fratrum vitam dulcem facit | The intimacy of brothers mak
 convinco | Mercatorem mendacii convinco | I convict the merchant of lying
 convinctio | Convinctio duo verba jungit | The conjunction joins two words
 conviso | Agrum oculis conviso | I scrutinise the field with my eyes
+conviva | Conviva pomum a servo accipit | The guest receives fruit from the servant
+convivium | Convivium in atrio incipit | The banquet begins in the hall
+convivor | Cum cognatis convivor | I feast with my relatives
+convoco | Senatores in curiam convoco | I convene the senators in the senate house
+# third: convolo "I flock together" is said of birds and crowds
+convolo | Aves ad fontem convolant | The birds flock together to the spring
+convolvo | Papyrum convolvo | I roll up the papyrus
+cooperio | Mensam mappa cooperio | I cover the table with a cloth
+cooperor | Cum vicinis in vindemia cooperor | I cooperate with the neighbours at the grape harvest
+coopto | Juvenem in collegium coopto | I co-opt the young man into the college
+copia1 | Copia frumenti urbem alit | An abundance of grain feeds the city
