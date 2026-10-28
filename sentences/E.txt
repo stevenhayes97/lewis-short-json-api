@@ -434,3 +434,15 @@ exquiro | Fontem fluminis exquiro | I investigate the source of the river
 exsanio | Vulnus aqua exsanio | I cleanse the wound with water
 exsarcio | Tunicam scissam exsarcio | I mend the torn tunic
 exsatio | Pueros pane exsatio | I satiate the boys with bread
+exsaturo | Equum avena exsaturo | I satiate the horse with oats
+exscensio | Exscensio nautarum portum turbat | The landing of the sailors disturbs the harbour
+# third: exscindo a military figure is more natural than the first person
+exscindo | Dux castra hostium exscindit | The general destroys the enemy camp
+# third: exscreo a crude bodily verb; a dog expectorates
+exscreo | Canis in via exscreat | The dog expectorates in the road
+exscribo | Carmen in tabula exscribo | I transcribe the poem onto the tablet
+exsculpo | Imaginem e saxo exsculpo | I carve an image out of the rock
+exseco | Ramum aridum ex arbore exseco | I excise the dry branch from the tree
+exsecratio | Exsecratio sacerdotis scelestum terret | The priest's curse frightens the wicked man
+exsecutio | Exsecutio legis populo placet | The execution of the law pleases the people
+exsecutor | Exsecutor testamenti hereditatem dividit | The executor of the will divides the inheritance
