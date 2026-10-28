@@ -748,3 +748,13 @@ attondeo | Ovem attondeo | I shear the sheep
 attono | Tonitrus militem attonat | The thunder stuns the soldier
 # third: attraho violent verb, generic soldiers
 attraho | Dux hostem Romam attrahit | The general drags the enemy to Rome
+attrecto | Librum attrecto | I handle the book
+attribuo | Provinciam consuli attribuo | I assign the province to the consul
+attributio | Attributio debiti tabulis scribitur | The assignment of the debt is written in the records
+attritus2 | Attritus funis ligno nocet | The chafing of the rope harms the wood
+auceps | Auceps retia parat | The fowler prepares nets
+auctarium | Auctarium ad pondus additur | The makeweight is added to the weight
+auctio | Auctio multos emptores vocat | The auction calls many buyers
+auctionor | Bona auctionor | I auction the goods
+auctito | Pecuniam auctito | I keep increasing my money
+aucto | Opes aucto | I keep increasing my wealth
