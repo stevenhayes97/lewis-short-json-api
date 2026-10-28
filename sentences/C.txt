@@ -157,3 +157,14 @@ castanea | Castanea nuces autumno dat | The chestnut tree gives nuts in autumn
 castellum | Castellum fines imperii defendit | The fort defends the borders of the empire
 castigatio | Castigatio magistri discipulum monet | The teacher's reproof warns the pupil
 castigator | Castigator in senatu loquitur | The reprover speaks in the senate
+castigo | Fratrem castigo | I rebuke my brother
+castimonia | Castimonia sacerdotem decet | Purity becomes the priest
+castitas | Castitas a Romanis laudatur | Chastity is praised by the Romans
+# third: castro "I castrate" is crude for a general audience; the entry's animal-husbandry idiom is used
+castro | Pastor hircum castrat | The shepherd castrates the he-goat
+casus1 | Casus nivis viam claudit | The fall of snow blocks the road
+cataplasma | Cataplasma pedem aegri levat | The poultice eases the sick man's foot
+catapulta | Catapulta sagittam longe mittit | The catapult shoots an arrow far
+cataracta | Cataracta de monte ruit | The waterfall rushes down from the mountain
+catasta | Catasta in mercatu stat | The platform stands in the market
+categoria | Categoria in libro philosophi explicatur | The category is explained in the philosopher's book
