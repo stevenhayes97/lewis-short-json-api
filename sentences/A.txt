@@ -536,3 +536,13 @@ apparo | Convivium apparo | I prepare a banquet
 appellatio | Appellatio ad tribunum consulem monet | The appeal to the tribune warns the consul
 appello1 | Navem ad portum appello | I land the ship at the harbour
 appello2 | Amicum nomine appello | I call my friend by name
+appendix | Appendix epistulae nomen amici continet | The appendix of the letter contains the friend's name
+appendo | Aurum mercatori appendo | I weigh out gold for the merchant
+appetitio | Appetitio gloriae juvenem movet | The desire for glory moves the young man
+appetitus2 | Appetitus cibi puerum ad mensam vocat | The appetite for food calls the boy to the table
+appeto1 | Gloriam appeto | I desire glory
+appingo1 | Avem muro appingo | I paint a bird on the wall
+applaudo | Poetae applaudo | I applaud the poet
+applicatio | Applicatio ad patronum clientem juvat | The attachment to the patron helps the client
+applico | Scalam ad murum applico | I lean the ladder against the wall
+appono | Lucernam ad lectum appono | I set the lamp beside the bed
