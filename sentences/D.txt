@@ -337,3 +337,13 @@ devito | Lutum in via devito | I avoid the mud on the road
 # third: devolo only birds fly down
 devolo | Columba de tecto devolat | The dove flies down from the roof
 devolvo | Saxum in vallem devolvo | I roll a rock into the valley
+devoro | Cibum avide devoro | I devour the food greedily
+devotio | Devotio militum ducem movet | The devotion of the soldiers moves the general
+devoto | Vitam litteris devoto | I devote my life to literature
+devoveo | Deae templum devoveo | I vow a temple to the goddess
+dextans | Dextans maximam partem assis tenet | The ten-twelfths takes up the largest part of the as
+dextera | Dextera librum tenet | The right hand holds the book
+diabolus | Diabolus homines tentat | The devil tempts people
+diaconus | Diaconus pauperibus panem dat | The deacon gives bread to the poor
+diaeta | Diaeta salubris corpus juvat | The healthy diet helps the body
+dialogus | Dialogus longus discipulum fatigat | The long dialogue tires the pupil
