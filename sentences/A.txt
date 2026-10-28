@@ -456,3 +456,13 @@ andabata | Andabata gladiatorem non videt | The blindfolded gladiator does not s
 andron | Andron duo atria jungit | The corridor joins two halls
 anfractus2 | Anfractus viae equum tardat | The bend in the road slows the horse
 angario | Colonum ad opus angario | I compel the farmer to work
+angelus | Angelus nuntium portat | The angel carries a message
+angina | Angina magistrum domi tenet | The quinsy keeps the teacher at home
+angiportus | Angiportus inter domos jacet | The alley lies between the houses
+ango | Fratrem ango | I distress my brother
+angor | Angor ducem premit | The anguish weighs on the leader
+anguilla | Anguilla de manu piscatoris elabitur | The eel slips from the fisherman's hand
+anguis | Anguis in herba latet | The snake hides in the grass
+angulus | Angulus cubiculi obscurus est | The corner of the bedroom is dark
+angustiae | Angustiae naves tardant | The narrows slow the ships
+angusto | Viam angusto | I narrow the road
