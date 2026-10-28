@@ -451,3 +451,14 @@ intercedo | Pro fratre intercedo | I intervene for my brother
 intercessio | Intercessio tribuni legem tardat | The tribune's intervention delays the law
 intercessor | Intercessor pro debitore pecuniam promittit | The surety promises the money on behalf of the debtor
 # skip: intercessus attested only in the ablative singular, no usable headword form
+intercido1 | Collem fossa intercido | I cut through the hill with a ditch
+# third: intercido2 "I perish" is odd; a memory perishes
+intercido2 | Memoria belli intercidit | The memory of the war perishes
+intercipio | Litteras hostium intercipio | I intercept the enemy's letter
+intercludo | Viam saxis intercludo | I block off the road with rocks
+intercurro | Columnis intercurro | I run between the columns
+intercurso | Vitibus intercurso | I run between the vines
+# skip: intercursus2 attested only in the ablative singular intercursu, no usable headword form
+interdico | Servis aditum ad hortum interdico | I forbid the slaves entry to the garden
+interdictum | Interdictum praetoris pastores a campo arcet | The praetor's prohibition keeps the shepherds from the field
+# skip: interdo attested only as passive interdatur and archaic interduo, no usable active headword form
