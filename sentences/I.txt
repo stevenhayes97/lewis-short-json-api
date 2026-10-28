@@ -352,7 +352,7 @@ innutrio | Filium litteris innutrio | I nurture my son on letters
 # third: inolesco "I grow in" is odd; a root grows into rock
 inolesco | Radix saxo inolescit | The root grows into the rock
 inopia | Inopia frumenti urbem premit | The scarcity of grain weighs on the city
-inopinatus | Hospes inopinatus ad januam venit | The unexpected guest comes to the door
+# skip: inopinatus is an adjective (unexpected), misfiled as a noun
 inquieto | Canem dormientem inquieto | I disturb the sleeping dog
 inquilinus1 | Inquilinus mercedem domino aedium solvit | The tenant pays the rent to the owner of the house
 inquino | Aquam luto inquino | I pollute the water with mud
@@ -438,7 +438,7 @@ intellectus2 | Intellectus grammaticae discipulum adjuvat | The understanding of
 intellegentia | Intellegentia delphini nautas obstupefacit | The dolphin's intelligence astonishes the sailors
 intellego | Magistri verba intellego | I understand the teacher's words
 intemperantia | Intemperantia adulescentis patrimonium consumit | The young man's intemperance uses up his inheritance
-intemperiae | Intemperiae mercatorem agitant | Madness drives the merchant
+intemperiae | Intemperiae mercatorem agitant | Madness torments the merchant
 intemperies | Intemperies caeli messem tardat | The inclemency of the weather delays the harvest
 intendo | Velum intendo | I stretch the awning
 intentio | Intentio funis malum firmum tenet | The tension of the rope holds the mast firm
@@ -520,8 +520,8 @@ interseco | Via mediam paludem intersecat | The road cuts across the middle of t
 intersero1 | Olivis vites intersero | I plant vines between the olive trees
 intersisto | In media oratione intersisto | I pause in the middle of the speech
 # skip: interstinguo attested only in the perfect passive participle interstinctus, no usable headword form
-# third: intersum "I lie between" is odd; hills lie between (plural, as check wants intersunt)
-intersum | Duo colles intersunt | Two hills lie between
+# third: intersum things lie between, not "I"
+intersum | Flumen duobus oppidis interest | A river lies between two towns
 intertexo | Purpuram auro intertexo | I interweave purple with gold
 intertrimentum | Intertrimentum argenti in fornace fabro displicet | The wastage of silver in the furnace displeases the craftsman
 interturbo | In concilio interturbo | I make a disturbance in the meeting
@@ -604,7 +604,7 @@ irroro | Flores aqua irroro | I bedew the flowers with water
 irrumpo | In tabernam irrumpo | I burst into the shop
 irruo | In theatrum irruo | I rush into the theatre
 irruptio | Irruptio equitum in agros incolas terret | The irruption of the horsemen into the fields frightens the inhabitants
-is | Is librum legit | He reads the book
+# skip: is is a pronoun (he, that), misfiled as a noun
 iselasticus | Athleta iselasticus Romam in curru intrat | The triumphal athlete enters Rome in a chariot
 iter | Iter ad Siciliam tres dies durat | The journey to Sicily lasts three days
 iteratio | Iteratio vocabulorum memoriam firmat | Repetition of vocabulary strengthens the memory
