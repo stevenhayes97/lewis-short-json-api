@@ -30,3 +30,13 @@ faenus | Faenus debitorem gravat | The interest burdens the debtor
 faex | Faex in fundo cadi manet | The dregs remain at the bottom of the jar
 fagus | Fagus ad ripam fluminis stat | The beech stands on the river bank
 fala | Fala ad murum stat | The scaffold stands by the wall
+falarica | Falarica ex turri volat | The fire-javelin flies from the tower
+fallacia | Fallacia mercatoris emptorem offendit | The merchant's deceit offends the buyer
+fallo | Hostem arte fallo | I deceive the enemy by a stratagem
+falx | Falx in manu agricolae splendet | The sickle gleams in the farmer's hand
+fama | Fama de victoria per urbem volat | The rumour about the victory flies through the city
+fames | Fames viatores ad casam cogit | Hunger drives the travellers to the cottage
+familia | Familia sub eodem tecto habitat | The household lives under the same roof
+familiaritas | Familiaritas inter fratres diu manet | The intimacy between the brothers lasts long
+famulitium | Famulitium servum fatigat | Servitude wearies the slave
+famulus1 | Famulus aquam ad dominam portat | The servant carries water to his mistress
