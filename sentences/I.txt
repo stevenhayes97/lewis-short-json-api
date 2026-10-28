@@ -489,3 +489,14 @@ interminor | Rivali litem interminor | I threaten my rival with a lawsuit
 intermisceo | Rosis violas intermisceo | I mix violets among the roses
 intermissio | Intermissio pluviae messores ad agros revocat | The interruption of the rain calls the reapers back to the fields
 intermitto | Iter intermitto | I interrupt my journey
+# third: intermorior "I die off" is grim; a fire dies away
+intermorior | Ignis in foco intermoritur | The fire dies away on the hearth
+internecio | Internecio legionis senatum silentio implet | The massacre of the legion fills the senate with silence
+internosco | Verum a falso internosco | I distinguish truth from falsehood
+internuntius | Internuntius litteras regis ad consulem fert | The go-between carries the king's letter to the consul
+intero | Panem in jus intero | I crumble bread into the broth
+interpellatio | Interpellatio consulis testem terret | The consul's interruption startles the witness
+interpellator | Interpellator in theatro actorem vexat | The interrupter annoys the actor in the theatre
+interpello | Cantorem interpello | I interrupt the singer
+interpolo | Testamentum interpolo | I falsify the will
+interpono | Schedam in librum interpono | I insert a slip of paper into the book
