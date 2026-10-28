@@ -10,3 +10,15 @@ gallicinium | Gallicinium agricolam e somno excitat | The cockcrow wakes the far
 gallina1 | Gallina ova in stramento ponit | The hen lays eggs in the straw
 gallus1 | Gallus ante lucem cantat | The cock crows before dawn
 ganea | Ganea prope portum nautas accipit | The dive near the harbour welcomes the sailors
+ganeo | Ganeo in convivio multum edit | The glutton eats a lot at the feast
+# third: gannio "I yelp" is odd; a dog yelps
+gannio | Canis ad januam gannit | The dog yelps at the door
+gannitus | Gannitus catuli dominum excitat | The puppy's yelp wakes its master
+gargarizo | Mane aqua tepida gargarizo | I gargle with warm water in the morning
+garrio | Cum vicina garrio | I chatter with the neighbour
+garrulitas | Garrulitas puellae magistrum fatigat | The girl's garrulity tires the teacher
+gaudeo | Adventu amici gaudeo | I rejoice at my friend's arrival
+gaudium | Gaudium patris in vultu apparet | The father's joy shows on his face
+gausapa | Gausapa senem in hieme calefacit | The frieze cloth warms the old man in winter
+# third: gelo1 winter or frost freezes things; "I freeze" is odd
+gelo1 | Hiems flumen gelat | The winter freezes the river
