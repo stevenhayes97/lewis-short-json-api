@@ -10,3 +10,14 @@ haedus | Haedus matrem in prato quaerit | The kid looks for its mother in the me
 haereo | In luto haereo | I stick in the mud
 haeresis | Haeresis philosophorum juvenes ad scholam allicit | The sect of philosophers attracts young men to the school
 haesitatio | Haesitatio testis judices dubios facit | The witness's hesitation makes the judges doubtful
+haesito | Ante judices haesito | I hesitate before the judges
+halitus | Halitus canis manum meam calefacit | The dog's breath warms my hand
+# third: halo "I exhale" is odd here; a rose gives off scent
+halo | Rosa in vase suave halat | The rose in the vase exhales a sweet scent
+halos | Halos circum lunam apparet | The halo appears around the moon
+hamus | Hamus a linea pendet | The hook hangs from the line
+hara | Hara in angulo agri porcos continet | The pen in the corner of the field holds the pigs
+harena | Harena in litore calet | The sand on the shore is hot
+hariolus | Hariolus mercatori iter faustum praedicit | The soothsayer predicts a lucky journey for the merchant
+harmonia1 | Harmonia cithararum convivas lenit | The harmony of the lyres soothes the guests
+harpago2 | Harpago navem hostium ad litus trahit | The grappling-hook drags the enemy's ship towards the shore
