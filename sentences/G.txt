@@ -9,7 +9,7 @@ galla1 | Galla in quercu crescit | The gall-nut grows on the oak
 gallicinium | Gallicinium agricolam e somno excitat | The cockcrow wakes the farmer from sleep
 gallina1 | Gallina ova in stramento ponit | The hen lays eggs in the straw
 gallus1 | Gallus ante lucem cantat | The cock crows before dawn
-ganea | Ganea prope portum nautas accipit | The dive near the harbour welcomes the sailors
+ganea | Ganea prope portum nautas accipit | The low tavern near the harbour welcomes the sailors
 ganeo | Ganeo in convivio multum edit | The glutton eats a lot at the feast
 # third: gannio "I yelp" is odd; a dog yelps
 gannio | Canis ad januam gannit | The dog yelps at the door
@@ -70,7 +70,7 @@ glacies | Glacies lacum in monte tegit | The ice covers the lake on the mountain
 # third: glacio "I freeze" is odd; the north wind freezes things
 glacio | Boreas stagnum glaciat | The north wind freezes the pond
 gladiator | Gladiator in arena pugnat | The gladiator fights in the arena
-gladiolus | Gladiolus in arca latet | The small sword hides in the chest
+gladiolus | Gladiolus in arca latet | The small sword lies hidden in the chest
 gladius | Gladius in vagina quiescit | The sword rests in its sheath
 glaeba | Glaeba aratrum retinet | The clod holds back the plough
 glaebula | Glaebula in sulco jacet | The small clod lies in the furrow
@@ -82,7 +82,7 @@ glis | Glis in cavo arboris dormit | The dormouse sleeps in the hollow of the tr
 glisco | Flumen pluvia gliscit | The river swells with the rain
 globo | Ceram manibus globo | I round the wax with my hands
 globulus | Globulus cerae in mensa liquescit | The globule of wax melts on the table
-globus | Globus per aream currit | The ball runs across the yard
+globus | Globus per aream currit | The ball rolls across the yard
 glomeramen | Glomeramen lanae e sella cadit | The ball of wool falls from the chair
 glomero | Lanam in orbes glomero | I wind the wool into balls
 glomus | Glomus fili in corbe ancillae est | The clew of thread is in the maid's basket
@@ -116,7 +116,7 @@ grassor | Per silvas grassor | I roam through the woods
 grates | Grates tuae mihi placent | Your thanks please me
 gratia | Gratia consulis senatorem juvat | The consul's favour helps the senator
 gratificor | Vicino gratificor | I oblige my neighbour
-gratulatio | Gratulatio sponsos in atrio excipit | The congratulation welcomes the bridal couple in the hall
+gratulatio | Gratulatio amicorum sponsos laetos facit | The congratulations of their friends make the bride and groom happy
 gratulor | Victori gratulor | I congratulate the winner
 gravedo | Gravedo capitis mercatorem domi tenet | The head cold keeps the merchant at home
 # third: gravesco "I worsen" is odd; a cough worsens
@@ -148,4 +148,4 @@ gymnasium1 | Gymnasium Athenis juvenes exercet | The gymnasium at Athens trains 
 gynaeceum | Gynaeceum pars interior domus est | The women's quarters are the inner part of the house
 gypso | Parietem gypso | I plaster the wall
 gyro | Aram gyro | I circle the altar
-gyrus | Gyrus equum juvenem fatigat | The circle tires the young horse
+gyrus | Gyrus equum juvenem fatigat | The training ring tires the young horse

@@ -48,7 +48,7 @@ hexameter | Hexameter e sex pedibus constat | The hexameter consists of six feet
 hiatus | Hiatus in rupe viatori iter ostendit | The opening in the rock shows the way to the traveller
 hibernaculum | Hibernaculum legionem a nive tegit | The winter home shelters the legion from the snow
 hiberno | In Gallia hiberno | I winter in Gaul
-hibrida | Hibrida inter duos populos vivit | The hybrid lives between two peoples
+hibrida | Hibrida ex apro et sue nascitur | The hybrid is born of a boar and a sow
 hiemo | In Italia hiemo | I winter in Italy
 hiems | Hiems montes nive tegit | The winter covers the mountains with snow
 hierophanta | Hierophanta mystas in templo docet | The hierophant teaches the initiates in the temple
@@ -73,7 +73,7 @@ histrio | Histrio in scaena personam mutat | The actor changes his mask on the s
 holus | Holus mensam rusticam implet | The vegetables fill the country table
 homicida | Homicida judices timet | The murderer fears the judges
 homo | Homo ad urbem properat | The person hurries to the city
-homuncio | Homuncio super mensam ambulat | The manikin walks on the table
+homuncio | Homuncio per forum ambulat | The little man walks through the forum
 homunculus | Homunculus ligneus in fenestra sedet | The wooden manikin sits in the window
 honestas | Honestas patris filium inter vicinos juvat | The father's honour helps his son among the neighbours
 honesto | Victorem corona honesto | I honour the winner with a crown
