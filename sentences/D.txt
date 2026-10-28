@@ -302,3 +302,14 @@ desultor | Desultor in circo equos mutat | The vaulter changes horses in the cir
 desumo | Ducem desumo | I select a leader
 detego | Vas detego | I uncover the jar
 detergeo | Pulverem e sella detergeo | I wipe the dust from the chair
+# skip: deterior is an adjective (comparative, worse), misfiled as a verb
+determino | Agrum lapidibus determino | I delimit the field with stones
+detero | Calceos in via detero | I wear down my shoes on the road
+deterreo | Sororem a periculo deterreo | I deter my sister from danger
+detestatio1 | Detestatio sacerdotis hostes terret | The curse of the priest frightens the enemy
+detestor | Tyrannum detestor | I curse the tyrant
+detexo | Tunicam detexo | I weave the tunic
+detineo | Hospitem sermone detineo | I detain the guest with conversation
+detondeo | Ovem detondeo | I shear the sheep
+# third: detono only Jupiter, the sky and storms thunder
+detono | Jupiter e caelo detonat | Jupiter thunders from the sky
