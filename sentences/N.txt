@@ -30,3 +30,14 @@ navia | Navia ad ripam appropinquat | The boat approaches the bank
 navigatio | Navigatio ad Graeciam decem dies postulat | The voyage to Greece requires ten days
 navigium | Navigium ex Aegypto portum intrat | The ship from Egypt enters the harbour
 navigo | Ad Siciliam navigo | I sail to Sicily
+navis | Navis ad insulam velis currit | The ship runs to the island under sail
+navo | In studiis operam navo | I exert myself in my studies
+nebula | Nebula matutina vallem tegit | The morning mist covers the valley
+nebulo | Nebulo mercatorem fallit | The scoundrel cheats the merchant
+necessitas | Necessitas pauperem laborare cogit | Necessity forces the poor man to work
+necessitudo | Necessitudo hiemis agricolas domum revocat | The necessity of winter calls the farmers home
+# third: neco "I kill" reads grimly in the first person; a general does it in a military frame
+neco | Dux hostem necat | The general kills the enemy
+nectar | Nectar in mensa Jovis stat | Nectar stands on Jupiter's table
+necto | Coronam e rosis necto | I bind a wreath of roses together
+necydalus | Necydalus in ramo quiescit | The chrysalis rests on the branch
