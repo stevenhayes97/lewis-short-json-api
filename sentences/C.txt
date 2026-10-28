@@ -652,3 +652,13 @@ concieo | Milites ad arma concieo | I summon the soldiers to arms
 conciliabulum | Conciliabulum prope portam est | The meeting-place is near the gate
 conciliatio | Conciliatio vicinorum litem finit | The conciliation of the neighbours ends the quarrel
 conciliator | Conciliator pacis civitatem servat | The promoter of peace preserves the state
+conciliatrix | Conciliatrix sorori maritum quaerit | The match-maker looks for a husband for my sister
+concilio | Senatum oratione concilio | I win over the senate with a speech
+concilium | Concilium in colle convenit | The assembly meets on the hill
+concinnator | Concinnator convivii mensas ornat | The arranger of the banquet decorates the tables
+concinnitas | Concinnitas orationis auditores capit | The elegance of the speech captivates the listeners
+concinno | Flores in calathis concinno | I arrange the flowers in baskets
+concino | Cum fratre concino | I harmonise with my brother
+concipio | Spem novam concipio | I conceive a new hope
+concitatio | Concitatio plebis senatum terret | The agitation of the common people alarms the senate
+concitator | Concitator populi magistratus vexat | The instigator of the people annoys the magistrates
