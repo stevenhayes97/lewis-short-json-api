@@ -174,3 +174,13 @@ admonitio | Admonitio matris filium movet | The mother's reminder moves her son
 admonitor | Admonitor oratori nomen dicit | The prompter tells the orator the name
 # skip: admonitus2 used only in the ablative (admonitu), so it cannot be a nominative subject
 admordeo | Pomum admordeo | I bite into the apple
+admotio | Admotio digitorum sonum mutat | The placing of the fingers changes the sound
+admoveo | Lucernam ad librum admoveo | I bring the lamp near the book
+admurmuratio | Admurmuratio per forum currit | A murmur of disapproval runs through the forum
+admutilo | Ovem admutilo | I shear the sheep
+adnepos | Adnepos senis in villa habitat | The old man's great-great-great-grandson lives in the villa
+adoleo1 | Tus in ara adoleo | I burn incense on the altar
+adolesco | In villa adolesco | I grow up in the villa
+adonium | Adonium in horto floret | The adonium blooms in the garden
+adoperio | Caput pallio adoperio | I cover my head with a cloak
+adoptatio | Adoptatio pueri familiam laetam facit | The adoption of the boy makes the family happy
