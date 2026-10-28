@@ -532,3 +532,14 @@ interverto | Rivum in agrum interverto | I divert the stream into the field
 interviso | Domum interviso | I check on the house
 intexo | Coronam foliis intexo | I interweave the garland with leaves
 intimo | Nuntium populo intimo | I announce the news to the people
+intingo | Calamum in atramentum intingo | I dip the reed pen into the ink
+intolerantia | Intolerantia viatoris portitorem urget | The traveller's impatience presses the ferryman
+# third: intono "I thunder" is odd; Jupiter thunders
+intono | Juppiter in nubibus intonat | Jupiter thunders in the clouds
+intorqueo | Lanam digitis intorqueo | I twist the wool with my fingers
+intremo | Prae frigore intremo | I tremble with cold
+intrico | Funes in navi intrico | I entangle the ropes on the ship
+intro2 | Curiam intro | I enter the senate house
+introduco | Novum discipulum in scholam introduco | I introduce a new pupil to the school
+introeo | Villam introeo | I enter the farmhouse
+introitus2 | Introitus hortorum prope portam patet | The entrance to the gardens lies open near the gate
