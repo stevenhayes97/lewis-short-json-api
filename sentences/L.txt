@@ -255,3 +255,13 @@ liquor1 | Rivus per prata liquitur | The stream flows through the meadows
 liquor2 | Liquor aquae piscem leviter vehit | The fluidity of water carries the fish lightly
 lira | Lira in agro aquam a segete arcet | The ridge in the field keeps water from the crop
 liro | Semina mane liro | I plough in the seeds in the morning
+lis | Lis inter vicinos pacem turbat | The dispute between the neighbours disturbs the peace
+litigator | Litigator ante judicem stat | The disputant stands before the judge
+litigium | Litigium sororem meam contristat | The quarrel saddens my sister
+litigo | Cum fratre de pomis litigo | I quarrel with my brother about apples
+lito | Jovi agno lito | I propitiate Jupiter with a lamb
+littera | Littera aurea in charta splendet | The golden letter gleams on the paper
+litterator | Litterator pueros legere docet | The schoolteacher teaches the boys to read
+litteratura | Litteratura longa puerum fatigat | Long writing tires the boy
+litterula | Litterula in margine libri latet | The small letter hides in the margin of the book
+litura | Litura in tabula verbum tegit | The erasure on the tablet covers the word
