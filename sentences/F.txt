@@ -10,3 +10,13 @@ fabricor | Casam ligno fabricor | I construct a cottage of wood
 fabula1 | Fabula magistrum et discipulos tenet | The story holds the teacher and the pupils
 fabulor | Cum vicina fabulor | I chat with my neighbour
 facesso | Mandatum patris facesso | I perform my father's order
+facetia | Facetia oratoris convivium hilarat | The speaker's jest cheers the dinner party
+facies | Facies pueri in speculo apparet | The boy's face appears in the mirror
+facilitas | Facilitas itineris viatores laetos facit | The ease of the journey makes the travellers glad
+facinus | Facinus militis fortis urbem servat | The brave soldier's deed saves the city
+facio | Mensam ligneam facio | I make a wooden table
+factio | Factio nobilium senatum dividit | The faction of the nobles divides the senate
+factito | Medicinam factito | I practise medicine
+factor | Factor operis mercedem exspectat | The doer of the work awaits his pay
+factura | Factura vasorum fabrum exercet | The manufacture of vases keeps the craftsman busy
+factus2 | Factus villae dominum superbum facit | The construction of the villa makes the owner proud
