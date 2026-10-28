@@ -352,3 +352,16 @@ fulgor | Fulgor repentinus pastorem terret | The sudden flash frightens the shep
 fulgur | Fulgur ante tonitrum venit | The lightning comes before the thunder
 fulguratio | Fulguratio nocturna pecus perturbat | The night lightning disturbs the flock
 fulgurator | Fulgurator senatum de signo monet | The lightning-priest warns the senate about the sign
+# third: fulgurio an impersonal weather verb
+fulgurio | Supra montem fulgurit | There is lightning above the mountain
+# skip: fulguro is misfiled as a noun in the source; the verb duplicates fulgurio
+fuligo | Fuligo parietes culinae nigros facit | The soot makes the kitchen walls black
+fullo | Fullo togam in aqua calcat | The fuller treads the toga in water
+fulmen | Fulmen quercum altam percutit | The thunderbolt strikes the tall oak
+fulmentum | Fulmentum parietem inclinatum sustinet | The prop holds up the leaning wall
+# third: fulmino an impersonal weather verb
+fulmino | Trans silvam fulminat | There is lightning beyond the forest
+fultura | Fultura lignea vitem erigit | The wooden support holds the vine upright
+fumigo | Domum sulphure fumigo | I fumigate the house with sulphur
+# third: fumo "I smoke" suggests tobacco; a mountain top smokes
+fumo | Cacumen montis fumat | The summit of the mountain smokes
