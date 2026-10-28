@@ -72,3 +72,14 @@ parabola | Parabola sententiam clare monstrat | The comparison shows the idea cl
 paradisus | Paradisus cervos et fontes habet | The park has deer and fountains
 parasitus | Parasitus apud divitem cenat | The parasite dines at the rich man's house
 paratus2 | Paratus nuptiarum familiam laetam facit | The preparation of the wedding makes the family glad
+parcitas | Parcitas agricolae familiam in hieme adjuvat | The farmer's frugality helps the family in winter
+parco | Hosti victo parco | I spare the defeated enemy
+pardus | Pardus in saxo jacet | The leopard lies on the rock
+parens2 | Parens liberos sera nocte exspectat | The parent waits for the children late at night
+parento | Avo mortuo parento | I hold a memorial rite for my late grandfather
+pareo | Magistro pareo | I obey the teacher
+pariambus | Pariambus duas syllabas breves habet | The pariambus has two short syllables
+paries | Paries cubiculum a culina dividit | The wall divides the bedroom from the kitchen
+pario1 | Pondera in trutina pario | I equalise the weights on the scale
+# third: pario2 "I give birth" is unnatural; a mare is the natural subject
+pario2 | Equa pullum parit | The mare gives birth to a foal
