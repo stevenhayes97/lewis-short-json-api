@@ -216,3 +216,15 @@ remigium | Remigium aequale navem velociter movet | Steady rowing moves the ship
 remigo | In lacu remigo | I row on the lake
 remigro | In patriam remigro | I return to my homeland
 reminiscor | Vultum matris reminiscor | I remember my mother's face
+remisceo | Mel cum lacte remisceo | I mix honey with milk
+remissio | Remissio debiti colonum ex angustiis liberat | The remission of the debt frees the tenant farmer from hardship
+remitto | Avem e cavea remitto | I release the bird from the cage
+remolior | Saxum remolior | I push the rock back
+# third: remollesco "I grow soft" is unnatural; the earth is the natural subject
+remollesco | Terra post pluviam remollescit | The earth grows soft after the rain
+remollio | Pellem oleo remollio | I soften the leather with oil
+remora1 | Remora nuntium serum facit | The delay makes the messenger late
+# third: remordeo "I gnaw" is unnatural; a dog is the natural subject
+remordeo | Canis os remordet | The dog gnaws the bone
+remoror | Hospitem remoror | I delay the guest
+remotio | Remotio saxi viam aperit | The removal of the rock opens the road
