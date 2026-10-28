@@ -64,3 +64,14 @@ gestio2 | Prae laetitia gestio | I exult for joy
 gestito | Sarcinam in humeris gestito | I often carry a pack on my shoulders
 gesto | Libros sub brachio gesto | I carry books under my arm
 gestus2 | Gestus oratoris verba explicat | The orator's gesture explains the words
+gigeria | Gigeria in olla fervent | The giblets simmer in the pot
+gigno | Heredem gigno | I beget an heir
+glacies | Glacies lacum in monte tegit | The ice covers the lake on the mountain
+# third: glacio "I freeze" is odd; the north wind freezes things
+glacio | Boreas stagnum glaciat | The north wind freezes the pond
+gladiator | Gladiator in arena pugnat | The gladiator fights in the arena
+gladiolus | Gladiolus in arca latet | The small sword hides in the chest
+gladius | Gladius in vagina quiescit | The sword rests in its sheath
+glaeba | Glaeba aratrum retinet | The clod holds back the plough
+glaebula | Glaebula in sulco jacet | The small clod lies in the furrow
+glandulae | Glandulae senis tument | The old man's tonsils are swollen
