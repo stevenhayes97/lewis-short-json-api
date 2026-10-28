@@ -566,3 +566,13 @@ aquula | Aquula per saxum manat | The trickle runs through the rock
 ara | Ara deo dicata est | The altar is dedicated to the god
 aranea | Aranea telam texit | The spider weaves a web
 aratio | Aratio terram parat | The ploughing prepares the earth
+arator | Arator bovem ad aratrum jungit | The ploughman yokes the ox to the plough
+aratrum | Aratrum agricolae utile est | The plough is useful to the farmer
+arbiter | Arbiter verba amici audit | The witness hears the friend's words
+arbitratus2 | Arbitratus judicis rem finit | The judge's discretion settles the matter
+arbitrium | Arbitrium senatus bellum finit | The senate's decision ends the war
+arbitror | Amicum fidelem esse arbitror | I think my friend is faithful
+arbor1 | Arbor alta in prato crescit | The tall tree grows in the meadow
+arbuscula1 | Arbuscula umbram parvam dat | The shrub gives little shade
+arbustum | Arbustum vites sustinet | The plantation supports the vines
+arbutum | Arbutum avibus cibum dat | The arbutus berry gives food to the birds
