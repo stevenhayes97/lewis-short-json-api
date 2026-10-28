@@ -570,3 +570,13 @@ dolor | Dolor dentis noctem longam facit | The pain in the tooth makes the night
 dolus | Dolus hostis exercitum fallit | The enemy's trick deceives the army
 domicilium | Domicilium novum familiam exspectat | The new dwelling awaits the family
 dominatio | Dominatio regis superbi cives premit | The tyranny of the proud king oppresses the citizens
+dominatus | Dominatus urbem silentem facit | Tyranny makes the city silent
+dominium | Dominium horti vicinum laetum facit | The ownership of the garden makes the neighbour happy
+dominor | Insulae dominor | I rule the island
+domitor | Domitor elephantum in circo exercet | The tamer trains the elephant in the circus
+domo | Equum ferum domo | I tame the wild horse
+domus | Domus mea prope fontem est | My home is near the fountain
+donarium | Donarium templi aurum custodit | The temple treasury guards the gold
+donatio | Donatio patroni clientes juvat | The donation of the patron helps the clients
+dono | Coronam victori dono | I bestow a crown on the victor
+donum | Donum pretiosum hospitem honorat | The precious gift honours the guest
