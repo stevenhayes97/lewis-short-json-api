@@ -57,3 +57,14 @@ receptaculum | Receptaculum aquam pluviae colligit | The receptacle collects rai
 receptio | Receptio hospitum domum gaudio implet | The reception of the guests fills the house with joy
 recepto | Locum amissum recepto | I retake the lost position
 receptor | Receptor peregrinum nocte accipit | The harbourer takes in the stranger at night
+receptus2 | Receptus exercitum a periculo servat | The retreat saves the army from danger
+recessus2 | Recessus montanus philosophum a strepitu defendit | The mountain retreat shields the philosopher from the noise
+# skip: recharmido is a one-off Plautine coinage on a character's name, not a usable word
+recido1 | In febrim recido | I relapse into fever
+recido2 | Ramos arboris recido | I cut off the branches of the tree
+recingo | Tunicam recingo | I ungird my tunic
+# third: recino "I resound" is unnatural; a forest is the natural subject
+recino | Silva cantu avium recinit | The forest resounds with the song of birds
+reciperatio | Reciperatio libertatis populum laetum reddit | The recovery of freedom makes the people glad
+reciperator | Reciperator pecuniae debitorem monet | The recoverer of the money reminds the debtor
+recipero | Pecuniam amissam recipero | I recover the lost money
