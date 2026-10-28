@@ -256,3 +256,13 @@ opprimo | Nucem lapide opprimo | I crush the nut with a stone
 opprobrium | Opprobrium famam civitatis minuit | The disgrace damages the reputation of the city
 opprobro | Servum pigrum opprobro | I reproach the lazy slave
 oppugnatio | Oppugnatio castelli agricolas in urbem fugat | The siege of the fort drives the farmers into the city
+oppugno1 | Arcem oppugno | I besiege the citadel
+# skip: ops1 has no nominative singular in the entry, so no usable headword form
+optatio | Optatio pueri patrem movet | The boy's wish moves his father
+optio1 | Optio inter duas vias viatorem dubium facit | The option between two roads makes the traveller unsure
+optio2 | Optio centurionis vigilias distribuit | The centurion's adjutant assigns the watches
+opto | Tibi pacem opto | I wish you peace
+opulentia | Opulentia mercatoris civitatem ornat | The merchant's wealth adorns the city
+opus1 | Opus fabrum in officina tenet | The work holds the craftsmen in the workshop
+ora1 | Ora Italiae multos portus habet | The coast of Italy has many harbours
+oraculum | Oraculum Delphicum regem monet | The oracle at Delphi warns the king
