@@ -367,3 +367,16 @@ difficultas | Difficultas viae mercatorem tardat | The difficulty of the road de
 diffidentia | Diffidentia civium regem sollicitat | The distrust of the citizens worries the king
 diffido | Nuntio novo diffido | I distrust the new messenger
 diffindo | Lignum securi diffindo | I cleave the log with an axe
+diffingo | Statuam veterem diffingo | I remodel the old statue
+diffiteor | Culpam diffiteor | I deny the fault
+# third: difflo "I dispel" is odd in the first person; the wind does it
+difflo | Ventus nebulam difflat | The wind dispels the mist
+# third: diffluo only liquids and the like flow away
+diffluo | Aqua per fissuram diffluit | The water flows away through the crack
+# third: diffugio a military figure is more natural than the first person
+diffugio | Exercitus hostium diffugit | The enemy army scatters
+digammon | Digammon grammatico difficile est | The digamma is hard for the grammarian
+digero | Libros in armario digero | I arrange the books in the cupboard
+digestio | Digestio vestium cubiculum ornat | The arrangement of the clothes tidies the bedroom
+digitulus | Digitulus infantis in manu mea quiescit | The baby's little finger rests in my hand
+digitus1 | Digitus anulum gerit | The finger wears a ring
