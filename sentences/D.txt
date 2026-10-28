@@ -193,3 +193,14 @@ dentale | Dentale aratri in terra haeret | The share-beam of the plough sticks i
 # third: dentio1 only babies teethe
 dentio1 | Infans dentit | The baby is teething
 denubo | Claro viro denubo | I marry a famous man
+denudo | Truncum cortice denudo | I strip the trunk of its bark
+denuntiatio | Denuntiatio belli civitatem terret | The announcement of war frightens the state
+denuntio | Adventum hostium denuntio | I announce the arrival of the enemy
+deonero | Plaustrum deonero | I unload the cart
+deosculor | Filiam deosculor | I kiss my daughter
+depango | Terminum in agro depango | I fix the boundary in the field
+depasco | Prata ovibus depasco | I graze the meadows with sheep
+depeciscor | Cum rustico de pretio depeciscor | I bargain with the countryman over the price
+depecto | Capillos depecto | I comb my hair
+# third: depeculor a military figure is more natural than the first person
+depeculor | Hostis agros depeculatur | The enemy plunders the fields
