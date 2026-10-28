@@ -329,3 +329,13 @@ excursus2 | Excursus equitum ante lucem fit | The sally of the horsemen takes pl
 excusatio | Excusatio discipuli magistro displicet | The pupil's excuse displeases the teacher
 excuso | Collegam apud consulem excuso | I excuse my colleague before the consul
 excutio | Pulverem e pallio excutio | I shake the dust out of the cloak
+exdorsuo | Congrum exdorsuo | I debone the conger eel
+exedo | Placentam exedo | I devour the cake
+exedra | Exedra ampla philosophos accipit | The spacious hall receives the philosophers
+exemplar | Exemplar Graecum sculptorem dirigit | The Greek model guides the sculptor
+exemplum | Exemplum militis juvenes hortatur | The soldier's example encourages the young men
+exeo | Mane domo exeo | I leave the house in the morning
+exerceo | Corpus cotidie exerceo | I exercise my body daily
+exercitatio | Exercitatio assidua oratorem perficit | Constant practice perfects the orator
+exercitio | Exercitio matutina juvenes roborat | The morning exercise strengthens the young men
+exercitium | Exercitium diurnum athletam format | Daily exercise shapes the athlete
