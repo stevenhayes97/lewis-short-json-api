@@ -315,3 +315,14 @@ morsus2 | Morsus tabani equum agitat | The bite of the horsefly agitates the hor
 mortalitas | Mortalitas pauperes et divites aequat | Mortality makes the poor and the rich equal
 mortarium | Mortarium cum pistillo herbas terit | The mortar with the pestle grinds herbs
 mortualia | Mortualia in cista candida latent | The grave-clothes lie hidden in the white chest
+mos | Mos antiquus liberos patri obedire jubet | The ancient custom bids children obey their father
+motio | Motio stellarum nautas ducit | The motion of the stars guides the sailors
+motus2 | Motus aquae lenis ratem portat | The gentle motion of the water carries the raft
+moveo | Sellam ad fenestram moveo | I move the chair to the window
+mucro | Mucro stili tabulam ceratam notat | The point of the stylus marks the wax tablet
+mugil | Mugil in flumine natat | The mullet swims in the river
+muginor | In via muginor | I dawdle on the road
+# third: mugio1 "I low" is unnatural; an ox is the natural subject
+mugio1 | Bos in prato mugit | The ox lows in the meadow
+mugitus | Mugitus boum vicinos nocte excitat | The lowing of the cattle wakes the neighbours at night
+mula | Mula onus grave per montem portat | The mule carries a heavy load over the mountain
