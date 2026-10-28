@@ -92,3 +92,14 @@ bubulcus1 | Bubulcus agrum arat | The ploughman ploughs the field
 bucca | Bucca flatu tumet | The cheek swells with breath
 bucco | Bucco omnes verbis superat | The babbler surpasses everyone in words
 buccula | Buccula galeae faciem militis tegit | The cheekpiece of the helmet covers the soldier's face
+bucina | Bucina in monte sonat | The trumpet sounds on the mountain
+bucinator | Bucinator signum militibus dat | The trumpeter gives the signal to the soldiers
+bucino | In castris bucino | I blow the trumpet in the camp
+buculus | Buculus ad rivum it | The bullock goes to the stream
+bulbus1 | Bulbus in terra latet | The bulb lies hidden in the earth
+bulla | Bulla in aqua surgit | The bubble rises in the water
+# third: bullo only liquids bubble
+bullo | Aqua in olla bullat | The water bubbles in the pot
+bustum | Bustum in via Appia stat | The tomb stands on the Appian Way
+buxum | Buxum torno levigatur | The boxwood is smoothed on the lathe
+buxus | Buxus semper viret | The box tree is always green
