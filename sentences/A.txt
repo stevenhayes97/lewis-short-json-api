@@ -526,3 +526,13 @@ aplustre | Aplustre vittis ornatum est | The curved stern is adorned with ribbon
 apo | Funem ad palum apo | I fasten the rope to the post
 apocolocyntosis | Apocolocyntosis Senecae Claudium ridet | Seneca's Apocolocyntosis mocks Claudius
 apologus | Apologus puerum docet | The fable teaches the boy
+apophoreta | Apophoreta in mensa jacent | The take-home presents lie on the table
+apostolus | Apostolus verbum Dei docet | The apostle teaches the word of God
+apotheca | Apotheca vinum et frumentum continet | The storehouse holds wine and grain
+apparatus2 | Apparatus cenae servos occupat | The preparation of the dinner keeps the slaves busy
+appareo | In porta appareo | I appear at the gate
+apparitor | Apparitor consulem sequitur | The attendant follows the consul
+apparo | Convivium apparo | I prepare a banquet
+appellatio | Appellatio ad tribunum consulem monet | The appeal to the tribune warns the consul
+appello1 | Navem ad portum appello | I land the ship at the harbour
+appello2 | Amicum nomine appello | I call my friend by name
