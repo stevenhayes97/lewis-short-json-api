@@ -104,3 +104,13 @@ impono | Sarcinam in asinum impono | I place the pack on the donkey
 importo | Vinum e Graecia importo | I import wine from Greece
 importunitas | Importunitas servi hospites offendit | The slave's rudeness offends the guests
 impotentia | Impotentia consulis senatum silentem facit | The consul's fury makes the senate silent
+imprecatio | Imprecatio sacerdotis vicinos terret | The priest's curse frightens the neighbours
+impressio | Impressio pedum in nive pastorem ducit | The impression of feet in the snow guides the shepherd
+imprimo | Sigillum in cera imprimo | I imprint the seal in the wax
+improbitas | Improbitas mercatoris clientes fugat | The merchant's wickedness drives away his customers
+improbo | Sententiam senatoris improbo | I disapprove of the senator's proposal
+impropero2 | Servo impropero | I reproach the slave
+imprudentia | Imprudentia adulescentis patrem contristat | The young man's imprudence saddens his father
+impudentia | Impudentia testis judices irritat | The witness's impudence irritates the judges
+impudicitia | Impudicitia censorem offendit | Lewdness offends the censor
+impugno | Portam oppidi impugno | I attack the town gate
