@@ -343,3 +343,14 @@ algeo | Sine veste algeo | I feel cold without a cloak
 algesco | In nive algesco | I catch cold in the snow
 algor | Algor noctis acer est | The cold of the night is sharp
 algus | Algus matutinus molestus est | The morning chill is troublesome
+alicula | Alicula alba in sella est | The white cape is on the chair
+alienatio | Alienatio agri in tabula scripta est | The transfer of the field is written on the tablet
+alienitas | Alienitas mala est | The foreignness is bad
+alieno | Populum a consule alieno | I estrange the people from the consul
+alimentum | Alimentum agricolae in mensa est | The farmer's food is on the table
+alimonia | Alimonia familiae in cella est | The family's sustenance is in the storeroom
+alimonium | Alimonium puero necessarium est | Sustenance is necessary for the boy
+aliptes | Aliptes athletam exercet | The trainer exercises the athlete
+allabor | Ripam allabor | I glide up to the bank
+# third: allatro "I bark at" is a dog's action
+allatro | Canis hospitem allatrat | The dog barks at the guest
