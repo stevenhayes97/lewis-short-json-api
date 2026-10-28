@@ -285,3 +285,14 @@ longitudo | Longitudo tabulae fabrum vexat | The length of the plank annoys the 
 loquacitas | Loquacitas vicinae maritum fatigat | The neighbour's talkativeness tires her husband
 loquela | Loquela peregrini ostiarium confundit | The foreigner's speech confuses the doorkeeper
 loquentia | Loquentia legati senatores permovet | The envoy's fluency stirs the senators
+loquor | Cum avo loquor | I speak with my grandfather
+lora1 | Lora rusticos post laborem reficit | The weak wine refreshes the farm workers after their labour
+lorarius | Lorarius equo frenum novum facit | The harness-maker makes a new bridle for the horse
+lorica | Lorica ducis in sole fulget | The general's cuirass gleams in the sun
+lorico | Equitem lorico | I clothe the horseman in mail
+lorum | Lorum ruptum equitem tardat | The broken thong delays the rider
+lotos | Lotos in stagno floret | The lotus blooms in the pond
+lubrico | Axem plaustri oleo lubrico | I lubricate the axle of the cart with oil
+lucar | Lucar histriones alit | The forest-tax supports the actors
+# third: luceo "I shine" is for a star or the sun
+luceo | Stella super montem lucet | The star shines above the mountain
