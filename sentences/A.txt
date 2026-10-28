@@ -298,3 +298,14 @@ aggero1 | Terram ad murum aggero | I heap earth against the wall
 aggero2 | Aquam ad villam aggero | I convey water to the villa
 agglomero | Lanam ad fusum agglomero | I wind wool onto the spindle
 aggravo | Onus aggravo | I make the load heavier
+aggredio | Ad hospitem aggredio | I approach the guest
+# third: aggredior violent verb, generic soldiers
+aggredior | Miles militem aggreditur | The soldier attacks the soldier
+aggrego | Ovem ad gregem aggrego | I add the sheep to the flock
+aggressio | Aggressio mala est | The attack is bad
+agilitas | Agilitas pueri magna est | The boy's nimbleness is great
+agitatio | Agitatio fluctuum in portu cernitur | The movement of the waves is seen in the harbour
+agitator | Agitator asinos per viam agit | The driver drives the donkeys along the road
+agitatus | Agitatus aquae in flumine celer est | The movement of the water in the river is quick
+agito | Equum in campo agito | I drive the horse on the plain
+agmen | Agmen longum per viam it | The long column goes along the road
