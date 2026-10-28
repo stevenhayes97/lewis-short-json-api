@@ -383,3 +383,13 @@ claro | Cubiculum lucerna claro | I make the bedroom bright with a lamp
 classiarius | Classiarius in navi stat | The marine stands on the ship
 classis | Classis ventum exspectat | The fleet awaits the wind
 claudeo | Pede dextro claudeo | I am lame in my right foot
+claudico | Post longum iter claudico | I limp after the long journey
+claudo1 | Fores claudo | I shut the doors
+claustra | Claustra portam firmant | The bolts secure the gate
+clausula1 | Clausula carminis poetam movet | The ending of the poem moves the poet
+clava | Clava in angulo jacet | The club lies in the corner
+clavicula | Clavicula vitis ramum tenet | The tendril of the vine grips the branch
+clavis | Clavis arcam aperit | The key opens the chest
+clavo | Tabulam ad murum clavo | I nail the board to the wall
+clavus | Clavus in ligno haeret | The nail sticks in the wood
+clementia | Clementia imperatoris populo grata est | The emperor's clemency is welcome to the people
