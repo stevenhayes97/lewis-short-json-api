@@ -576,3 +576,13 @@ arbor1 | Arbor alta in prato crescit | The tall tree grows in the meadow
 arbuscula1 | Arbuscula umbram parvam dat | The shrub gives little shade
 arbustum | Arbustum vites sustinet | The plantation supports the vines
 arbutum | Arbutum avibus cibum dat | The arbutus berry gives food to the birds
+arbutus | Arbutus fructus rubros fert | The strawberry tree bears red fruit
+arca | Arca sub lecto jacet | The chest lies under the bed
+arceo | Hostem a muro arceo | I ward off the enemy from the wall
+arcera | Arcera aegrum portat | The covered wagon carries the sick man
+arcesso | Medicum arcesso | I send for the doctor
+architector | Templum architector | I build a temple
+architectus | Architectus pontem designat | The architect plans the bridge
+arctos | Arctos nautas ducit | The Bear guides the sailors
+arcturus | Arcturus tempestatem nuntiat | Arcturus announces a storm
+arcula | Arcula anulos servat | The casket keeps the rings
