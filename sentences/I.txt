@@ -462,3 +462,18 @@ intercurso | Vitibus intercurso | I run between the vines
 interdico | Servis aditum ad hortum interdico | I forbid the slaves entry to the garden
 interdictum | Interdictum praetoris pastores a campo arcet | The praetor's prohibition keeps the shepherds from the field
 # skip: interdo attested only as passive interdatur and archaic interduo, no usable active headword form
+# third: intereo "I perish" is grim; a flame dies in the wind
+intereo | Flamma vento interit | The flame perishes in the wind
+# third: interficio "I kill" reads unnaturally; generic military figure
+interficio | Dux hostem interficit | The commander kills the enemy
+# third: interfluo "I flow between" is odd; a strait flows between islands
+interfluo | Fretum duas insulas interfluit | The strait flows between two islands
+interfor | Oratorem interfor | I interrupt the speaker
+# skip: interfundo only passive interfunditur and participle interfusus are attested, no usable active headword form
+# third: interimo "I kill" reads unnaturally; generic military figure
+interimo | Gladiator adversarium interimit | The gladiator kills his opponent
+interitus2 | Interitus messis agricolam ad vicinum mittit | The destruction of the harvest sends the farmer to a neighbour
+# third: interjaceo "I lie between" is odd; a plain lies between towns
+interjaceo | Campus duo oppida interjacet | The plain lies between two towns
+interjacio | Joculum in sermonem interjacio | I insert a joke into the conversation
+interjectio | Interjectio unius verbi sententiam mutat | The insertion of a single word changes the sentence
