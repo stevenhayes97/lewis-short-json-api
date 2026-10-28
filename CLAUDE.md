@@ -315,15 +315,23 @@ video | Cibum calidum video | I see the warm food
   is a choice, avoid violent, grim, sexual or otherwise adult themes: no
   killing, beheading, wounding, drunkenness or bodily detail, and nothing that
   reads as harm to a person or child. When the word itself is dark, keep the
-  sentence flat and undescriptive rather than skipping it:
-  - **A sad noun** (miscarriage, death, grief, disease) just gets a plain
-    judgment: `abortus | Abortus tristis est | The miscarriage is sad`;
-    `infortunatus` or `miser` serve the same way.
-  - **A violent verb** (kill, wound, strike, slaughter) takes the third
-    person with two generic soldiers, nothing more: `# third: <key> violent
-    verb, generic soldiers` above `Miles militem vulnerat | The soldier wounds
-    the soldier`. No weapons, blood, body parts or setting.
-  - `# skip:` only what neither pattern can make suitable (sexual themes).
+  sentence plain and undescriptive rather than skipping it, but still varied
+  and sensible, never a template stamped out word after word:
+  - **A sad noun** (miscarriage, death, grief, disease) gets a plain
+    statement or a plain effect on someone: `Abortus familiam contristat`
+    (the miscarriage saddens the family), `Aegrimonia animum premit` (sorrow
+    weighs on the mind), `Amentia regis populum terret`. Vary the verb and
+    the person; avoid a bare `X mala est`, which teaches nothing.
+  - **A violent verb** (kill, wound, strike, slaughter) takes generic
+    military figures, nothing more: `Miles hostem aggreditur`, `Hostis
+    militem affligit`. Vary who acts (`miles`, `hostis`, `dux`, `exercitus`,
+    `gladiator`). The first person stays when it reads naturally in a
+    military frame; otherwise use `# third:`. No weapons, blood, body parts
+    or setting.
+  - **A sexual word** gets the same treatment: one sensible, completely
+    undescriptive sentence (`Adulterium matrimonium dissolvit`, adultery
+    breaks up the marriage; `Numquam adultero`, I never commit adultery).
+  - `# skip:` is for misfiled or unusable words, not for dark ones.
 - **Vary the other words.** Across a chunk, don't lean on the same frame
   (`... delectat`, `ex urbe`, `amico`) — a beginner learns more from varied
   common vocabulary.

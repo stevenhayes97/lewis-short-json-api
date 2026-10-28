@@ -29,7 +29,7 @@ abolla | Abolla militis alba est | The soldier's cloak is white
 abominor | Malum verbum abominor | I abhor the bad word
 # third: aborior "I set" is said of the sun and stars; rank 2 sense, kept clear of miscarriage
 aborior | Luna aboritur | The moon sets
-abortus | Abortus tristis est | The miscarriage is sad
+abortus | Abortus familiam contristat | The miscarriage saddens the family
 abrado | Terram ex pariete abrado | I scrape the earth off the wall
 abripio | Pilam e manibus fratris abripio | I snatch the ball from my brother's hands
 abrogo | Legem abrogo | I repeal the law
@@ -200,8 +200,8 @@ adulescentulus | Adulescentulus ad scholam ambulat | The youngster walks to scho
 # third: adulo "I fawn" is a dog's action
 adulo | Canis dominum adulat | The dog fawns on its master
 adulor | Regem adulor | I flatter the king
-# skip: adulterium adult theme (adultery), no suitable mild illustration
-# skip: adultero adult theme (commit adultery), no suitable mild illustration
+adulterium | Adulterium matrimonium dissolvit | Adultery breaks up the marriage
+adultero | Numquam adultero | I never commit adultery
 adumbratio | Adumbratio pictoris in tabula est | The painter's sketch is on the panel
 adumbro | Montem in tabula adumbro | I sketch the mountain on the panel
 aduno | Amicos aduno | I unite my friends
@@ -229,10 +229,10 @@ aedilis | Aedilis ludos populo parat | The aedile prepares games for the people
 aedilitas | Aedilitas magistratus antiquus est | The aedileship is an ancient magistracy
 aeditimus | Aeditimus templum purgat | The temple keeper cleans the temple
 aedituus | Aedituus ad portam templi stat | The temple keeper stands at the gate of the temple
-aegilops | Aegilops malus est | The eye tumour is bad
+aegilops | Aegilops medicis notus est | The eye tumour is known to doctors
 aegis | Aegis in templo splendet | The aegis gleams in the temple
 aegresco | Hieme aegresco | I fall ill in winter
-aegrimonia | Aegrimonia mala est | The sorrow is bad
+aegrimonia | Aegrimonia animum premit | Sorrow weighs on the mind
 aegritudo | Aegritudo gravis est | The grief is heavy
 aegrotatio | Aegrotatio longa est | The illness is long
 aegroto | Graviter aegroto | I am seriously ill
@@ -280,8 +280,8 @@ affirmo | Rem veram affirmo | I affirm the truth
 afflatus2 | Afflatus venti frigidus est | The breath of the wind is cold
 # third: afflicto a storm batters ships; "I batter" is not a learner's sentence
 afflicto | Tempestas naves afflictat | The storm batters the ships
-# third: affligo violent verb, generic soldiers
-affligo | Miles militem affligit | The soldier strikes the soldier
+# third: affligo violent verb, generic military figures
+affligo | Hostis militem affligit | The enemy strikes the soldier
 afflo | Ignem afflo | I blow on the fire
 affluentia | Affluentia rerum omnium in villa est | The abundance of everything is in the villa
 affluo | Fructibus affluo | I abound in fruit
@@ -299,8 +299,8 @@ aggero2 | Aquam ad villam aggero | I convey water to the villa
 agglomero | Lanam ad fusum agglomero | I wind wool onto the spindle
 aggravo | Onus aggravo | I make the load heavier
 aggredio | Ad hospitem aggredio | I approach the guest
-# third: aggredior violent verb, generic soldiers
-aggredior | Miles militem aggreditur | The soldier attacks the soldier
+# third: aggredior violent verb, generic military figures
+aggredior | Miles hostem aggreditur | The soldier attacks the enemy
 aggrego | Ovem ad gregem aggrego | I add the sheep to the flock
 aggressio | Aggressio militum subita est | The soldiers' attack is sudden
 agilitas | Agilitas pueri magna est | The boy's nimbleness is great
@@ -326,7 +326,7 @@ ala | Ala aquilae magna est | The eagle's wing is large
 alabaster | Alabaster unguenti plenus est | The perfume box is full of ointment
 alabastrites | Alabastrites mollis est | The alabaster is soft
 alacritas | Alacritas discipuli magistro placet | The pupil's eagerness pleases the teacher
-alapa | Alapa mala est | The slap is bad
+alapa | Alapa magnum sonum facit | The slap makes a loud sound
 alauda | Alauda mane cantat | The lark sings in the morning
 # third: albeo "I am white" is said of things like mountains, not people
 albeo | Mons nive albet | The mountain is white with snow
@@ -374,7 +374,7 @@ alludo | Fratri alludo | I play with my brother
 # third: alluo "I wash against" is said of the sea or a river
 alluo | Mare muros alluit | The sea washes against the walls
 alluvies | Alluvies post imbrem in agro est | The flood is in the field after the rain
-alluvio | Alluvio mala est | The flooding is bad
+alluvio | Alluvio agros vastat | The flooding lays waste the fields
 alnus | Alnus prope paludem viret | The alder is green near the marsh
 alo | Liberos pane et lacte alo | I nourish the children with bread and milk
 alpha | Alpha prima littera est | Alpha is the first letter
@@ -409,7 +409,7 @@ ambulatio | Ambulatio post cenam salubris est | The walk after dinner is healthy
 ambulo | Per silvam ambulo | I walk through the wood
 amburbium | Amburbium circum urbem ducitur | The procession is led round the city
 amburo | Tabulam flamma amburo | I scorch the board with a flame
-amentia | Amentia tristis est | The madness is sad
+amentia | Amentia regis populum terret | The king's madness frightens the people
 amento | Hastam amento | I fit the spear with a thong
 amentum | Amentum hastae e corio est | The thong of the spear is made of leather
 ames | Ames longus rete sustinet | The long pole holds up the net
@@ -419,7 +419,7 @@ amictus2 | Amictus pastoris laneus est | The shepherd's cloak is woollen
 amiculum | Amiculum purpureum pulchrum est | The purple cloak is beautiful
 amiculus | Amiculus meus ad cenam venit | My dear friend comes to dinner
 amicus2 | Amicus mihi librum dat | The friend gives me a book
-amissio | Amissio tristis est | The loss is sad
+amissio | Amissio pecuniae mercatorem vexat | The loss of the money troubles the merchant
 amita | Amita mea librum legit | My paternal aunt reads a book
 amitto | Pilam amitto | I lose the ball
 amnis | Amnis de monte currit | The river runs down from the mountain
