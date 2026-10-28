@@ -527,3 +527,14 @@ distineo | Duas oves saepto distineo | I separate two sheep with a fence
 distinguo | Sorores voce distinguo | I distinguish the sisters by their voices
 # third: disto only places and things are distant
 disto | Villa a mari distat | The villa is far from the sea
+distorqueo | Anulum ferreum distorqueo | I distort the iron ring
+distractio | Distractio sociorum exercitum infirmat | The separation of the allies weakens the army
+distraho | Funes implicatos distraho | I separate the tangled ropes
+distribuo | Frumentum plebi distribuo | I distribute grain to the people
+distributio | Distributio agrorum veteranos juvat | The distribution of land helps the veterans
+# third: distringo a military figure is more natural than the first person
+distringo | Legatus hostem in colle distringit | The legate keeps the enemy occupied on the hill
+disturbo | Casam disturbo | I demolish the hut
+dito | Civitatem commercio dito | I enrich the state through trade
+diuturnitas | Diuturnitas pacis agros alit | The duration of peace feeds the fields
+divarico | Super rivum divarico | I straddle the stream
