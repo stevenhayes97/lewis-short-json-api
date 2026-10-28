@@ -143,3 +143,14 @@ adipiscor | Gloriam adipiscor | I obtain glory
 aditio | Aditio ad insulam periculosa est | The approach to the island is dangerous
 adito | Forum quotidie adito | I visit the forum often
 aditus2 | Aditus ad domum angustus est | The approach to the house is narrow
+# third: adjaceo "I lie near" is said of places, not people
+adjaceo | Villa silvae adjacet | The villa lies near the wood
+adjectio | Adjectio aquae vinum mutat | The addition of water changes the wine
+adjicio | Ligna in ignem adjicio | I add wood to the fire
+adjudico | Agrum fratri adjudico | I adjudge the field to my brother
+adjugo | Vitem ad palum adjugo | I tie the vine to the stake
+adjumentum | Adjumentum fratris ad victoriam valet | My brother's help counts towards victory
+adjunctio | Adjunctio amicorum urbem firmat | The joining of friends strengthens the city
+adjungo | Equos ad currum adjungo | I harness the horses to the chariot
+adjuro1 | Verum adjuro | I swear to the truth
+adjuto | Matrem in horto adjuto | I help my mother in the garden
