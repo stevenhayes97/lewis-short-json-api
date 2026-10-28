@@ -260,3 +260,13 @@ formido1 | Tenebras formido | I dread the darkness
 formido2 | Formido noctis viatorem tenet | Dread of the night grips the traveller
 formo | Ex ligno cymbam formo | I shape a skiff out of wood
 formula | Formula verborum in tabula scripta est | The formula of words is written on the tablet
+fornax | Fornax tegulas coquit | The furnace bakes the tiles
+fornix | Fornix lapideus viam tegit | The stone arch covers the road
+foro | Tabulam terebra foro | I pierce the board with a drill
+fortitudo | Fortitudo gladiatoris spectatores movet | The gladiator's courage moves the spectators
+fortuna | Fortuna mercatorem ditat | Fortune enriches the merchant
+fortuno | Sponsos precibus fortuno | I bless the betrothed couple with prayers
+forus1 | Forus navem cum litore jungit | The gangway joins the ship to the shore
+fossa | Fossa aquam pluviae in flumen ducit | The ditch leads the rainwater into the river
+fosso | Terram ad murum fosso | I dig the ground by the wall
+fossor | Fossor in vinea laborat | The digger works in the vineyard
