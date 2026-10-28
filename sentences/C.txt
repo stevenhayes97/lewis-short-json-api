@@ -736,3 +736,15 @@ confirmatio | Confirmatio nuntii ducem laetificat | The confirmation of the news
 confirmo | Murum novis saxis confirmo | I strengthen the wall with new stones
 confisco | Bona hostis confisco | I confiscate the enemy's property
 confiteor | Errorem meum confiteor | I confess my mistake
+# third: conflagro "I burn" is not a sentence a learner needs; buildings burn
+conflagro | Villa vetus conflagrat | The old farmhouse burns
+conflictatio | Conflictatio navium nautas terret | The collision of the ships frightens the sailors
+conflictio | Conflictio curruum viam obstruit | The collision of the carts blocks the road
+conflicto | Cum vento adverso conflicto | I struggle with the head wind
+conflictus2 | Conflictus lapidum sonum edit | The collision of stones makes a noise
+confligo | Cum hoste ad flumen confligo | I fight with the enemy at the river
+conflo | Flammam lignis conflo | I kindle a flame with wood
+# third: confluo only rivers and crowds converge
+confluo | Rivus cum flumine confluit | The stream converges with the river
+confodio | Vineam confodio | I dig the vineyard
+conformatio | Conformatio pontis architectum movet | The shape of the bridge impresses the architect
