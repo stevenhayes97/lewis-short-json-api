@@ -692,3 +692,15 @@ assideo | Amico assideo | I sit by my friend
 assido | In sella assido | I sit down on the chair
 assiduitas | Assiduitas medici aegro auxilium dat | The doctor's constant attendance gives help to the patient
 assiduus1 | Assiduus tributum solvit | The propertied citizen pays tribute
+assignatio | Assignatio agrorum colonos juvat | The allotment of land helps the colonists
+assigno | Agros colonis assigno | I allot fields to the colonists
+# third: assilio the classical use is of waves leaping at walls
+assilio | Fluctus moenibus assilit | The wave leaps at the walls
+assimulatio | Assimulatio inter duos fratres omnes decipit | The likeness between the two brothers deceives everyone
+assimulo | Laetum me assimulo | I pretend to be happy
+assisto | Ad januam assisto | I stand by the door
+# third: assoleo is used only in the third person
+assoleo | Vesperi cenare assolet | It is the custom to dine in the evening
+assuefacio | Equum labori assuefacio | I accustom the horse to work
+assuesco | Frigori assuesco | I grow used to the cold
+assuetudo | Assuetudo laboris militem firmat | The habit of work strengthens the soldier
