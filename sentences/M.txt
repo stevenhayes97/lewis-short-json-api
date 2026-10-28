@@ -326,3 +326,14 @@ muginor | In via muginor | I dawdle on the road
 mugio1 | Bos in prato mugit | The ox lows in the meadow
 mugitus | Mugitus boum vicinos nocte excitat | The lowing of the cattle wakes the neighbours at night
 mula | Mula onus grave per montem portat | The mule carries a heavy load over the mountain
+mulceo | Equum manu mulceo | I stroke the horse with my hand
+# third: mulco a violent verb; keeps to a military frame
+mulco | Exercitus hostem mulcat | The army batters the enemy
+mulier | Mulier lanam in taberna emit | The woman buys wool in the shop
+muliercula | Muliercula flores ad templum portat | The girl carries flowers to the temple
+mulio1 | Mulio onera in hospitium portat | The muleteer carries the loads to the inn
+mulleus | Mulleus consulis pedem tegit | The consul's purple-red shoe covers his foot
+multa1 | Multa magna mercatorem pauperem facit | The heavy fine makes the merchant poor
+# skip: multicius is an adjective (diaphanous), the noun use only plural garments
+multifacio | Fidem amici multifacio | I esteem my friend's loyalty
+multiplico | Numeros multiplico | I multiply the numbers
