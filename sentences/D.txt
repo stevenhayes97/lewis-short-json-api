@@ -503,3 +503,14 @@ disserto | De philosophia disserto | I discuss philosophy
 dissideo | A sociis de via dissideo | I disagree with my companions about the road
 # third: dissilio only things burst
 dissilio | Olla in igne dissilit | The pot bursts in the fire
+dissimilitudo | Dissimilitudo vocum chorum turbat | The dissimilarity of the voices disturbs the chorus
+dissimulatio | Dissimulatio Socratis auditores fallit | The dissimulation of Socrates deceives the listeners
+dissimulo | Timorem vultu dissimulo | I disguise my fear with my expression
+dissipatio | Dissipatio foliorum viam operit | The scattering of the leaves covers the path
+dissipo | Grana per aream dissipo | I scatter grain over the threshing floor
+dissocio | Vicinos mendacio dissocio | I estrange my neighbours by a lie
+dissolutio | Dissolutio societatis mercatores tristes facit | The dissolution of the partnership makes the merchants sad
+dissolvo | Sal in aqua dissolvo | I dissolve salt in water
+# third: dissono "I clash" is odd; instruments clash
+dissono | Tuba cum tibia dissonat | The trumpet clashes with the pipe
+dissuadeo | Fratri bellum dissuadeo | I dissuade my brother from war
