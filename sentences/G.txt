@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/G.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+galbanum | Medicus galbanum in unguentum miscet | The doctor mixes galbanum into the ointment
+galbeum | Galbeum brachium puellae ornat | The armband adorns the girl's arm
+galea | Galea caput militis tegit | The helmet covers the soldier's head
+galeo | Ante pugnam galeo | I put on a helmet before the battle
+galerum | Galerum frigus a sacerdote arcet | The cap keeps the cold off the priest
+galla1 | Galla in quercu crescit | The gall-nut grows on the oak
+gallicinium | Gallicinium agricolam e somno excitat | The cockcrow wakes the farmer from sleep
+gallina1 | Gallina ova in stramento ponit | The hen lays eggs in the straw
+gallus1 | Gallus ante lucem cantat | The cock crows before dawn
+ganea | Ganea prope portum nautas accipit | The dive near the harbour welcomes the sailors
