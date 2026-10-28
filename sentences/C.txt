@@ -508,3 +508,14 @@ colum1 | Colum vinum purgat | The strainer cleans the wine
 columba | Columba in tecto sedet | The dove sits on the roof
 # skip: columbinus is an adjective (of doves), misfiled as a noun
 columen | Columen montis nive tegitur | The summit of the mountain is covered with snow
+columna | Columna tectum sustinet | The column supports the roof
+colus | Colus in manu matronae est | The distaff is in the matron's hand
+# third: combibo1 "I absorb" is not a sentence a learner needs; things soak up liquid
+combibo1 | Terra aquam combibit | The earth absorbs the water
+comburo | Epistulas comburo | I burn the letters
+comedo1 | Placentam comedo | I eat up the cake
+comes | Comes in itinere mecum ambulat | My companion walks with me on the journey
+cometes1 | Cometes noctu apparet | The comet appears by night
+comissatio | Comissatio post cenam incipit | The revelry begins after dinner
+comissator | Comissator ad domum amici venit | The reveller comes to a friend's house
+comissor | Cum amicis comissor | I revel with my friends
