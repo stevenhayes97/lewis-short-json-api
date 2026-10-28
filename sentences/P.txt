@@ -114,3 +114,14 @@ pastinum | Pastinum ad parietem stat | The dibble stands against the wall
 pastio | Pastio pecus per montes ducit | The grazing leads the herd through the mountains
 pastor | Pastor ovem perditam quaerit | The shepherd looks for the lost sheep
 pastus2 | Pastus asinos per hiemem sustinet | The fodder sustains the donkeys through the winter
+patagium | Patagium aureum in tunica splendet | The golden border gleams on the tunic
+patefacio | Portam patefacio | I open the gate
+patella1 | Patella olivas continet | The dish holds olives
+# third: pateo "I am open" is unnatural; a window is the natural subject
+pateo | Fenestra nocte patet | The window is open at night
+patera | Patera in ara deae stat | The libation-bowl stands on the goddess's altar
+patibulum | Patibulum extra urbem stat | The gibbet stands outside the city
+patientia | Patientia medici aegro spem dat | The doctor's patience gives the patient hope
+patina1 | Patina super focum pendet | The pan hangs over the hearth
+patior | Frigus in via patior | I suffer from the cold on the road
+patriarcha | Patriarcha populum in ecclesia benedicit | The patriarch blesses the people in the church
