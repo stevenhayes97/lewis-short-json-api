@@ -224,3 +224,14 @@ olla | Olla supra focum pendet | The pot hangs over the hearth
 olor1 | Olor in lacu natat | The swan swims on the lake
 omen | Omen faustum nautam confirmat | A favourable omen reassures the sailor
 omentum | Omentum viscera tegit | The omentum covers the entrails
+ominor | Pluviam ex nubibus ominor | I predict rain from the clouds
+omitto | Spem numquam omitto | I never give up hope
+onero | Asinum sarcinis onero | I load the donkey with packs
+onus | Onus senem curvat | The burden bends the old man
+onyx | Onyx in anulo regis fulget | The onyx gleams in the king's ring
+# third: opaco "I shade" is for a tree
+opaco | Fagus gregem opacat | The beech shades the flock
+opera | Opera fabri domum celeriter aedificat | The craftsman's effort builds the house quickly
+operatio | Operatio agri colonos exercet | The work on the land occupies the farmers
+operculum | Operculum amphoram claudit | The lid closes the jar
+operimentum | Operimentum lecti frigus arcet | The covering of the bed keeps off the cold
