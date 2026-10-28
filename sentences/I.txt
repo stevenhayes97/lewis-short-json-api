@@ -325,3 +325,288 @@ inhorresco | Mare vento inhorrescit | The sea bristles in the wind
 inhumanitas | Inhumanitas rectoris provinciam terret | The governor's inhumanity alarms the province
 inicio | Nummum in fontem inicio | I throw a coin into the spring
 inigo | Oves in caulas inigo | I drive the sheep into the pen
+inimicitia | Inimicitia duos vicinos dividit | Enmity divides two neighbours
+inimico | Vicinos a rege inimico | I alienate the neighbours from the king
+iniquitas | Iniquitas viae asinum fatigat | The unevenness of the road tires the donkey
+initio | Puerum sacris initio | I initiate the boy into the rites
+initium | Initium fabulae spectatores tacitos facit | The beginning of the play makes the spectators quiet
+initus2 | Initus horrei ad viam spectat | The entrance of the barn faces the road
+injectio | Injectio saxorum fossam complet | The throwing in of rocks fills the ditch
+injungo | Jugum bobus injungo | I attach the yoke to the oxen
+injuria | Injuria vicini agricolam irritat | The neighbour's wrong angers the farmer
+injurior | Clientem in mercede injurior | I wrong my client over his pay
+# skip: injussus2 attested only in the ablative injussu, no usable headword form
+injustitia | Injustitia gubernatoris sociis dolorem affert | The governor's injustice brings grief to the allies
+# third: innascor "I originate" is odd; grass springs up
+innascor | Herba in tecto innascitur | The grass grows up on the roof
+innato | Lacui innato | I float on the lake
+innecto | Corollam capillis innecto | I bind a garland to my hair
+innitor | Baculo innitor | I lean on my staff
+inno | Aquae inno | I float on the water
+innocentia | Innocentia canis pueros ad ludum invitat | The dog's harmlessness invites the boys to play
+innodo | Funem ad malum innodo | I knot the rope to the mast
+innotesco | Inter cives innotesco | I become known among the citizens
+innovo | Vestem veterem innovo | I renew the old garment
+innuo | Servo innuo | I nod to the slave
+innutrio | Filium litteris innutrio | I nurture my son on letters
+# third: inolesco "I grow in" is odd; a root grows into rock
+inolesco | Radix saxo inolescit | The root grows into the rock
+inopia | Inopia frumenti urbem premit | The scarcity of grain weighs on the city
+inopinatus | Hospes inopinatus ad januam venit | The unexpected guest comes to the door
+inquieto | Canem dormientem inquieto | I disturb the sleeping dog
+inquilinus1 | Inquilinus mercedem domino aedium solvit | The tenant pays the rent to the owner of the house
+inquino | Aquam luto inquino | I pollute the water with mud
+inquiro | De via inquiro | I inquire about the road
+inquisitio | Inquisitio de furto senatum occupat | The inquiry into the theft occupies the senate
+inquisitor | Inquisitor vestigia fugitivi per silvam sequitur | The investigator follows the runaway's tracks through the woods
+insania | Insania regis ministros terret | The king's madness frightens his servants
+insanio | Prae ira insanio | I am out of my mind with anger
+insanitas | Insanitas animi senem ad medicum ducit | The unsoundness of mind leads the old man to the doctor
+inscendo | Equum inscendo | I mount the horse
+inscientia | Inscientia viarum exercitum in silvis errare cogit | The ignorance of the roads makes the army wander in the woods
+inscitia | Inscitia nautae navem tardat | The sailor's ineptitude slows the ship
+inscribo | Nomen meum in tabula inscribo | I inscribe my name on the tablet
+inscriptio | Inscriptio portae nomen urbis monstrat | The inscription on the gate shows the name of the city
+insculpo | Leonem in gemma insculpo | I engrave a lion on the gem
+inseco1 | Panem cultro inseco | I cut into the bread with a knife
+insectatio | Insectatio hostium equites fatigat | The pursuit of the enemy tires the horsemen
+insector | Vulpem insector | I pursue the fox
+insemino | Amorem litterarum discipulis insemino | I implant a love of letters in my pupils
+insequor | Amicum per viam insequor | I follow my friend along the road
+insero1 | Gemmam in ramum insero | I graft a bud onto the branch
+insero2 | Clavum in foramen insero | I insert the nail into the hole
+inservio | Patrono inservio | I serve my patron
+insideo | Trunco insideo | I sit on the log
+insidiae | Insidiae in valle legionem exspectant | The ambush in the valley awaits the legion
+insidior | Hostibus ad pontem insidior | I ambush the enemy at the bridge
+# third: insido "I settle" is odd; a bird settles on a branch
+insido | Avis in ramo insidit | The bird settles on a branch
+insigne | Insigne in veste pueri splendet | The badge shines on the boy's tunic
+insignio | Ovem rubra nota insignio | I mark the sheep with a red spot
+insilio | In plaustrum insilio | I leap onto the cart
+insimulo | Servum furti insimulo | I accuse the slave of theft
+insinuatio | Insinuatio clientis patronum mollit | The client's ingratiation softens the patron
+insinuo | Me in gratiam consulis insinuo | I worm my way into the consul's favour
+insipientia | Insipientia gubernatoris vectores terret | The helmsman's folly frightens the passengers
+insisto | Glaciei insisto | I tread on the ice
+insolentia | Insolentia pueri magistrum offendit | The boy's insolence offends the teacher
+insolesco | Post victoriam insolesco | I grow insolent after the victory
+insomnia | Insomnia scribam fessum facit | Sleeplessness makes the scribe weary
+insomnium1 | Insomnium nautam de patria admonet | The dream reminds the sailor of his homeland
+# third: insono "I resound" is odd; a lyre resounds
+insono | Cithara in aula insonat | The lyre resounds in the hall
+inspectio | Inspectio navium consulem in portu tenet | The inspection of the ships keeps the consul in the harbour
+inspecto | Aves in caelo inspecto | I observe the birds in the sky
+inspergo | Salem in ova inspergo | I sprinkle salt on the eggs
+inspicio | Dentes equi inspicio | I inspect the horse's teeth
+inspiro | Militibus audaciam inspiro | I inspire boldness in the soldiers
+instantia | Instantia hiemis agricolas ad opus excitat | The imminence of winter rouses the farmers to work
+instar | Mons instar muri urbem protegit | The mountain protects the city like a wall
+instauro | Murum instauro | I renew the wall
+insterno | Mensam linteo insterno | I cover the table with a cloth
+instigo | Cives ad bellum instigo | I incite the citizens to war
+instillo | Aquam in os aegri instillo | I drip water into the sick man's mouth
+instinctus2 | Divinus instinctus poetam ad carmen movet | A divine impulse moves the poet to song
+# skip: instinguo classical Latin has only the passive participle instinctus, no usable headword form
+instita | Instita talos matronae tegit | The flounce covers the matron's ankles
+institor | Institor per vicos fila vendit | The peddler sells thread along the streets
+instituo | Scholam novam in oppido instituo | I establish a new school in the town
+institutio | Institutio puerum ad sapientiam ducit | Education leads the boy to wisdom
+institutor | Institutor urbis templum deo vovet | The founder of the city vows a temple to the god
+institutum | Institutum antiquum ludos annuos conservat | The old practice preserves the yearly games
+insto | Labori insto | I press on with my work
+# third: instrepo "I rattle" is odd; a chariot rattles
+instrepo | Currus in ponte instrepit | The chariot rattles on the bridge
+instringo | Libros loro instringo | I bind the books with a strap
+instructio | Instructio pontis fabros multos occupat | The construction of the bridge occupies many workmen
+instrumentum | Instrumentum agricolae in arca jacet | The farmer's tool lies in the chest
+instruo | Casam in monte instruo | I build a hut on the mountain
+insuesco | Frigori insuesco | I become accustomed to the cold
+insula1 | Insula inter fluctus jacet | The island lies among the waves
+insulto | Floribus insulto | I leap upon the flowers
+insum | In navi insum | I am on the ship
+insumo | Pecuniam in libros insumo | I spend money on books
+insuo | Nummos in pallium insuo | I sew coins into my cloak
+insurgo | E lecto insurgo | I rise from bed
+insusurro | Sorori in aurem insusurro | I whisper into my sister's ear
+intabesco | Dolore intabesco | I waste away with grief
+intego | Puteum tabulis intego | I cover the well with boards
+integritas | Integritas muri urbem tutam servat | The wholeness of the wall keeps the city safe
+integro | Ignem in foco integro | I renew the fire in the hearth
+integumentum | Integumentum plaustri frumentum a pluvia servat | The covering of the cart protects the grain from the rain
+intellectus2 | Intellectus grammaticae discipulum adjuvat | The understanding of grammar helps the pupil
+intellegentia | Intellegentia delphini nautas obstupefacit | The dolphin's intelligence astonishes the sailors
+intellego | Magistri verba intellego | I understand the teacher's words
+intemperantia | Intemperantia adulescentis patrimonium consumit | The young man's intemperance uses up his inheritance
+intemperiae | Intemperiae mercatorem agitant | Madness drives the merchant
+intemperies | Intemperies caeli messem tardat | The inclemency of the weather delays the harvest
+intendo | Velum intendo | I stretch the awning
+intentio | Intentio funis malum firmum tenet | The tension of the rope holds the mast firm
+intento | Hostibus bellum intento | I threaten the enemy with war
+# third: intepesco "I become lukewarm" is odd; milk turns lukewarm
+intepesco | Lac in poculo intepescit | The milk in the cup turns lukewarm
+intercalo | Mensem in annum intercalo | I intercalate a month into the year
+intercapedo | Intercapedo imbris agricolas in agros mittit | The interval in the rain sends the farmers into the fields
+intercedo | Pro fratre intercedo | I intervene for my brother
+intercessio | Intercessio tribuni legem tardat | The tribune's intervention delays the law
+intercessor | Intercessor pro debitore pecuniam promittit | The surety promises the money on behalf of the debtor
+# skip: intercessus attested only in the ablative singular, no usable headword form
+intercido1 | Collem fossa intercido | I cut through the hill with a ditch
+# third: intercido2 "I perish" is odd; a memory perishes
+intercido2 | Memoria belli intercidit | The memory of the war perishes
+intercipio | Litteras hostium intercipio | I intercept the enemy's letter
+intercludo | Viam saxis intercludo | I block off the road with rocks
+intercurro | Columnis intercurro | I run between the columns
+intercurso | Vitibus intercurso | I run between the vines
+# skip: intercursus2 attested only in the ablative singular intercursu, no usable headword form
+interdico | Servis aditum ad hortum interdico | I forbid the slaves entry to the garden
+interdictum | Interdictum praetoris pastores a campo arcet | The praetor's prohibition keeps the shepherds from the field
+# skip: interdo attested only as passive interdatur and archaic interduo, no usable active headword form
+# third: intereo "I perish" is grim; a flame dies in the wind
+intereo | Flamma vento interit | The flame perishes in the wind
+# third: interficio "I kill" reads unnaturally; generic military figure
+interficio | Dux hostem interficit | The commander kills the enemy
+# third: interfluo "I flow between" is odd; a strait flows between islands
+interfluo | Fretum duas insulas interfluit | The strait flows between two islands
+interfor | Oratorem interfor | I interrupt the speaker
+# skip: interfundo only passive interfunditur and participle interfusus are attested, no usable active headword form
+# third: interimo "I kill" reads unnaturally; generic military figure
+interimo | Gladiator adversarium interimit | The gladiator kills his opponent
+interitus2 | Interitus messis agricolam ad vicinum mittit | The destruction of the harvest sends the farmer to a neighbour
+# third: interjaceo "I lie between" is odd; a plain lies between towns
+interjaceo | Campus duo oppida interjacet | The plain lies between two towns
+interjacio | Joculum in sermonem interjacio | I insert a joke into the conversation
+interjectio | Interjectio unius verbi sententiam mutat | The insertion of a single word changes the sentence
+interjectus2 | Interjectus terrae lunam obscurat | The interposition of the earth darkens the moon
+interjungo | Dextras cum filia interjungo | I join right hands with my daughter
+interlino | Parietem luto interlino | I smear the wall with mud
+interloquor | Patri interloquor | I interrupt my father
+# third: interluceo "I gleam through" is odd; the moon gleams through clouds
+interluceo | Luna nubibus interlucet | The moon gleams through the clouds
+# third: interluo "I flow between" is odd; a river flows between cities
+interluo | Amnis duas urbes interluit | The river flows between two cities
+interminor | Rivali litem interminor | I threaten my rival with a lawsuit
+intermisceo | Rosis violas intermisceo | I mix violets among the roses
+intermissio | Intermissio pluviae messores ad agros revocat | The interruption of the rain calls the reapers back to the fields
+intermitto | Iter intermitto | I interrupt my journey
+# third: intermorior "I die off" is grim; a fire dies away
+intermorior | Ignis in foco intermoritur | The fire dies away on the hearth
+internecio | Internecio legionis senatum silentio implet | The massacre of the legion fills the senate with silence
+internosco | Verum a falso internosco | I distinguish truth from falsehood
+internuntius | Internuntius litteras regis ad consulem fert | The go-between carries the king's letter to the consul
+intero | Panem in jus intero | I crumble bread into the broth
+interpellatio | Interpellatio consulis testem terret | The consul's interruption startles the witness
+interpellator | Interpellator in theatro actorem vexat | The interrupter annoys the actor in the theatre
+interpello | Cantorem interpello | I interrupt the singer
+interpolo | Testamentum interpolo | I falsify the will
+interpono | Schedam in librum interpono | I insert a slip of paper into the book
+interpositio | Interpositio novi capituli librum longiorem facit | The insertion of a new chapter makes the book longer
+interpres | Interpres legatorum verba senatui explicat | The interpreter explains the envoys' words to the senate
+interpretatio | Interpretatio somnii matrem consolatur | The interpretation of the dream comforts the mother
+interpretor | Omen interpretor | I interpret the omen
+interpungo | Orationem interpungo | I punctuate the speech
+interrado | Truncos arborum interrado | I scrape the tree trunks
+interregnum | Interregnum urbem sine consulibus relinquit | The interregnum leaves the city without consuls
+interrex | Interrex comitia consulum indicit | The interim regent calls the elections for the consuls
+interrogatio | Interrogatio testis judicem fatigat | The interrogation of the witness tires the judge
+interrogo | Discipulos de historia interrogo | I question the pupils about history
+interrumpo | Pontem interrumpo | I break the bridge apart
+interruptio | Interruptio orationis auditores ad risum movet | The interruption of the speech moves the listeners to laughter
+intersaepio | Pratum palis intersaepio | I fence in the meadow with stakes
+interscindo | Murum interscindo | I tear down the wall
+interscribo | Verbum lineis interscribo | I write a word between the lines
+# third: interseco "I intersect" is odd; a road cuts across a marsh
+interseco | Via mediam paludem intersecat | The road cuts across the middle of the marsh
+intersero1 | Olivis vites intersero | I plant vines between the olive trees
+intersisto | In media oratione intersisto | I pause in the middle of the speech
+# skip: interstinguo attested only in the perfect passive participle interstinctus, no usable headword form
+# third: intersum "I lie between" is odd; hills lie between (plural, as check wants intersunt)
+intersum | Duo colles intersunt | Two hills lie between
+intertexo | Purpuram auro intertexo | I interweave purple with gold
+intertrimentum | Intertrimentum argenti in fornace fabro displicet | The wastage of silver in the furnace displeases the craftsman
+interturbo | In concilio interturbo | I make a disturbance in the meeting
+# skip: intervallo attested only as gerund intervallando and participle intervallatus, no usable headword form
+intervenio | In rixa intervenio | I intervene in the quarrel
+interventus | Interventus praetoris rixam sedat | The praetor's intervention calms the brawl
+interverto | Rivum in agrum interverto | I divert the stream into the field
+interviso | Domum interviso | I check on the house
+intexo | Coronam foliis intexo | I interweave the garland with leaves
+intimo | Nuntium populo intimo | I announce the news to the people
+intingo | Calamum in atramentum intingo | I dip the reed pen into the ink
+intolerantia | Intolerantia viatoris portitorem urget | The traveller's impatience presses the ferryman
+# third: intono "I thunder" is odd; Jupiter thunders
+intono | Juppiter in nubibus intonat | Jupiter thunders in the clouds
+intorqueo | Lanam digitis intorqueo | I twist the wool with my fingers
+intremo | Prae frigore intremo | I tremble with cold
+intrico | Funes in navi intrico | I entangle the ropes on the ship
+intro2 | Curiam intro | I enter the senate house
+introduco | Novum discipulum in scholam introduco | I introduce a new pupil to the school
+introeo | Villam introeo | I enter the farmhouse
+introitus2 | Introitus hortorum prope portam patet | The entrance to the gardens lies open near the gate
+intromitto | Vicinum in hortum intromitto | I let the neighbour into the garden
+introspicio | In puteum introspicio | I peer into the well
+intueor | Stellas intueor | I gaze at the stars
+# third: intumesco "I swell" is odd; a river swells
+intumesco | Flumen imbribus intumescit | The river swells with the rains
+# third: inumbro "I shade" is odd; a plane tree shades a spring
+inumbro | Platanus fontem inumbrat | The plane tree shades the spring
+inundatio | Inundatio Nili agros fecundat | The flood of the Nile enriches the fields
+# third: inundo "I flood" is odd; a river floods
+inundo | Tiberis campum inundat | The Tiber floods the plain
+inunguo | Caput oleo inunguo | I anoint my head with oil
+inuro | Nomen meum in trabe inuro | I brand my name into the beam
+invado | Fines hostium invado | I invade the enemy's territory
+invalesco | Post morbum invalesco | I grow strong after the illness
+invectio | Invectio vini ex Graecia mercatores ditat | The importation of wine from Greece enriches the merchants
+inveho | Gemmas ex India inveho | I import gems from India
+invenio | Nummum in via invenio | I find a coin in the road
+inventio | Inventio novae machinae fabrum laetum facit | The invention of a new machine makes the craftsman glad
+inventor | Inventor aratri praemium a rege accipit | The inventor of the plough receives a reward from the king
+inventum | Inventum medici aegros adjuvat | The doctor's discovery helps the sick
+inverto | Urnam inverto | I turn the jar upside down
+investigo | Causam morbi investigo | I investigate the cause of the illness
+# third: inveterasco "I take root" is odd; a custom takes root
+inveterasco | Mos novus inveterascit | The new custom takes root
+invetero | Vinum in dolio invetero | I age the wine in the cask
+invideo1 | Vicino equum pulchrum invideo | I envy my neighbour his handsome horse
+invidia | Invidia fratrem a sorore separat | Envy separates the brother from the sister
+invigilo | Gregi invigilo | I watch over the flock
+inviso | Fratrem aegrum inviso | I visit my sick brother
+invitamentum | Invitamentum mercedis operarios in vineam trahit | The inducement of pay draws the workers to the vineyard
+invitatio | Invitatio ad ludos Marcum laetum facit | The invitation to the games makes Marcus glad
+invitator | Invitator hospites ad triclinium ducit | The inviter leads the guests to the dining room
+invito | Cognatos ad nuptias invito | I invite my relatives to the wedding
+invoco | Deos in periculo invoco | I invoke the gods in danger
+# third: involo "I swoop down" is odd; a hawk swoops down
+involo | Falco in campum involat | The hawk swoops down onto the field
+involucrum | Involucrum purpureum librum tegit | The purple wrapper covers the book
+involvo | Gemmam lana involvo | I wrap the gem in wool
+invulgo | Carmen invulgo | I publish the poem
+iota | Iota in verbo deest | The iota is missing from the word
+ira | Ira consulis senatum tacitum reddit | The consul's anger leaves the senate silent
+iracundia | Iracundia coqui servos ex atrio abigit | The cook's irascibility drives the slaves out of the hall
+irascor | Mercatori irascor | I am angry with the merchant
+ironia | Ironia Socratis adulescentes dubitare cogit | Socrates' irony makes the young men doubt
+# third: irradio "I illuminate" is odd; the sun illuminates a temple
+irradio | Sol templum summum irradiat | The sun illuminates the highest temple
+irrepo | In cellam irrepo | I creep into the storeroom
+irretio | Lepores laqueo irretio | I ensnare hares with a snare
+irreverentia | Irreverentia pueri in sacris matrem pudore implet | The boy's irreverence at the rites fills his mother with shame
+irrideo | Poetam irrideo | I mock the poet
+irrigatio | Irrigatio agrorum aestate vineas servat | The irrigation of the fields saves the vines in summer
+irrigo | Hortum fonte irrigo | I irrigate the garden from the spring
+# skip: irrisus2 attested only in irrisu, irrisui and irrisum, no nominative headword form
+irritamentum | Irritamentum certaminis equites ad cursum excitat | The incentive of the contest rouses the horsemen to the race
+irritatio | Irritatio cutis nautam unguentum quaerere cogit | The irritation of the skin makes the sailor seek ointment
+irrito1 | Vicinum verbis irrito | I provoke the neighbour with words
+irrogo | Tributum civibus irrogo | I impose a tax on the citizens
+irroro | Flores aqua irroro | I bedew the flowers with water
+irrumpo | In tabernam irrumpo | I burst into the shop
+irruo | In theatrum irruo | I rush into the theatre
+irruptio | Irruptio equitum in agros incolas terret | The irruption of the horsemen into the fields frightens the inhabitants
+is | Is librum legit | He reads the book
+iselasticus | Athleta iselasticus Romam in curru intrat | The triumphal athlete enters Rome in a chariot
+iter | Iter ad Siciliam tres dies durat | The journey to Sicily lasts three days
+iteratio | Iteratio vocabulorum memoriam firmat | Repetition of vocabulary strengthens the memory
+itero1 | Versum itero | I repeat the verse
+itus | Itus nautarum portum vacuum facit | The departure of the sailors empties the harbour
