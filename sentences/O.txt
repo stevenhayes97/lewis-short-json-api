@@ -189,3 +189,14 @@ oestrus | Oestrus vaccam in prato vexat | The gadfly torments the cow in the mea
 offa | Offa casei catulum attrahit | The morsel of cheese draws the puppy
 offendo1 | Hospitem verbis offendo | I offend the guest with my words
 offensa | Offensa fratris sororem contristat | The brother's offence saddens the sister
+offensaculum | Offensaculum in semita puellam sistit | The stumbling block on the path stops the girl
+offensatio | Offensatio memoriae senem confundit | The slip of memory confuses the old man
+offensio | Offensio senatus ducem a triumpho arcet | The senate's disfavour keeps the general from a triumph
+offenso | In oratione offenso | I falter in my speech
+offensus2 | Offensus fluctuum navem quatit | The shock of the waves shakes the ship
+offero | Deae dona offero | I offer gifts to the goddess
+offertorium | Offertorium panem et vinum accipit | The offertory receives bread and wine
+officina | Officina tabulas et clavos habet | The workshop has boards and nails
+# third: officio "I obstruct" is for a log or object
+officio | Truncus viae officit | The log obstructs the road
+officium | Officium me ad portum vocat | Duty calls me to the harbour
