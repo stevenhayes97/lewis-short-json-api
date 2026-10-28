@@ -284,3 +284,15 @@ exaudio | Vocem tuam exaudio | I hear your voice clearly
 excaeco | Fulgor solis viatorem excaecat | The glare of the sun blinds the traveller
 excalceo | Hospitem ante cenam excalceo | I unshoe the guest before dinner
 excalfacio | Lectum excalfacio | I warm the bed
+excandesco | Ob injuriam excandesco | I flare up at the insult
+# third: excanto only a sorceress conjures
+excanto | Maga lunam excantat | The sorceress conjures the moon
+# third: excarnifico "I mangle" is grim; the figurative sense, worry torments
+excarnifico | Cura animum excarnificat | Worry torments the mind
+excaudico | Urticas excaudico | I uproot the nettles
+excavo | Truncum excavo | I hollow out the log
+excedo | Ex oppido excedo | I depart from the town
+excello | Inter socios virtute excello | I excel among my comrades in courage
+exceptio | Exceptio unica legem mitigat | The single exception softens the law
+excepto | Pilam excepto | I catch the ball
+exceptor | Exceptor tabulas in cista condit | The scribe puts the tablets in the chest
