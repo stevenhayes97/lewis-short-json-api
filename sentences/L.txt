@@ -275,3 +275,13 @@ locator | Locator domum inquilino ostendit | The lessor shows the house to the t
 loco | Vas in mensa loco | I place the vase on the table
 loculamentum | Loculamentum ligneum gemmas continet | The wooden case holds the jewels
 loculus | Loculus vacuus viatorem sollicitat | The empty purse worries the traveller
+locupleto | Amicum pauperem donis locupleto | I enrich my poor friend with gifts
+locusta1 | Locusta sub saxo latet | The lobster hides under the rock
+locutio | Locutio clara consulis populum quietat | The clear speech of the consul calms the people
+logos | Logos in titulo libri legitur | The word is read in the title of the book
+lomentum | Lomentum faciem matronae nitidam reddit | The cosmetic makes the matron's face glow
+longinquitas | Longinquitas itineris peregrinum terret | The length of the journey frightens the stranger
+longitudo | Longitudo tabulae fabrum vexat | The length of the plank annoys the carpenter
+loquacitas | Loquacitas vicinae maritum fatigat | The neighbour's talkativeness tires her husband
+loquela | Loquela peregrini ostiarium confundit | The foreigner's speech confuses the doorkeeper
+loquentia | Loquentia legati senatores permovet | The envoy's fluency stirs the senators
