@@ -510,3 +510,15 @@ interregnum | Interregnum urbem sine consulibus relinquit | The interregnum leav
 interrex | Interrex comitia consulum indicit | The interim regent calls the elections for the consuls
 interrogatio | Interrogatio testis judicem fatigat | The interrogation of the witness tires the judge
 interrogo | Discipulos de historia interrogo | I question the pupils about history
+interrumpo | Pontem interrumpo | I break the bridge apart
+interruptio | Interruptio orationis auditores ad risum movet | The interruption of the speech moves the listeners to laughter
+intersaepio | Pratum palis intersaepio | I fence in the meadow with stakes
+interscindo | Murum interscindo | I tear down the wall
+interscribo | Verbum lineis interscribo | I write a word between the lines
+# third: interseco "I intersect" is odd; a road cuts across a marsh
+interseco | Via mediam paludem intersecat | The road cuts across the middle of the marsh
+intersero1 | Olivis vites intersero | I plant vines between the olive trees
+intersisto | In media oratione intersisto | I pause in the middle of the speech
+# skip: interstinguo attested only in the perfect passive participle interstinctus, no usable headword form
+# third: intersum "I lie between" is odd; hills lie between (plural, as check wants intersunt)
+intersum | Duo colles intersunt | Two hills lie between
