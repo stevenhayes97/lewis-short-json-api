@@ -261,3 +261,13 @@ modero | Iram modero | I moderate my anger
 moderor | Equum frenis moderor | I restrain the horse with reins
 modestia | Modestia ducis victoriam honestat | The leader's moderation does honour to the victory
 modifico | Vini copiam modifico | I limit the amount of wine
+modificor | Longitudinem tabulae modificor | I measure the length of the board
+modiolus | Modiolus pauxillum farinae capit | The small measure holds a little flour
+modius | Modius frumenti familiam paucos dies pascit | The peck of grain feeds the family for a few days
+modulatio | Modulatio versuum recitatorem juvat | The measure of the verses helps the reciter
+modulor | Gradus meos modulor | I measure my steps
+modulus | Modulus columnae architecto proportionem monstrat | The measure of the column shows the architect the proportion
+modus | Modus in omnibus rebus sapientem decet | Measure in all things suits the wise man
+moenia1 | Moenia urbem ab hoste protegunt | The walls protect the city from the enemy
+mola | Mola frumentum in farinam terit | The millstone grinds grain into flour
+moles | Moles saxi viam claudit | The mass of rock blocks the road
