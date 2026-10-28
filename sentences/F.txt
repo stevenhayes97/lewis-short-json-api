@@ -115,3 +115,15 @@ fervesco | Arena meridie fervescit | The sand heats up at noon
 fervor | Fervor aestatis messorem sub umbram pellit | The heat of summer drives the reaper into the shade
 festinatio | Festinatio nuntii senatum excitat | The messenger's haste rouses the senate
 festino | Ad portum festino | I hasten to the harbour
+festivitas | Festivitas chori pueros ad saltandum invitat | The gaiety of the chorus invites the boys to dance
+festuca | Festuca in nido avis jacet | The stalk lies in the bird's nest
+# third: feteo "I stink" is odd; fish stinks
+feteo | Piscis in sole fetet | The fish stinks in the sun
+fetiales | Fetiales ad fines hostium proficiscuntur | The fetials set out for the enemy's borders
+# third: feto "I breed" is odd; ducks breed
+feto | Anas in palude fetat | The duck breeds in the marsh
+fetor | Fetor cloacae viatores a via avertit | The stench of the drain turns the travellers from the road
+fetura | Fetura ovium pastorem laetum facit | The breeding of the sheep makes the shepherd glad
+fetus2 | Fetus equae in campo saltat | The mare's offspring leaps in the field
+fetutina | Fetutina in angulo vici latet | The cesspool lies hidden in the corner of the village
+fibra | Fibra foliorum aquam ad radicem ducit | The fibre of the leaves leads water to the root
