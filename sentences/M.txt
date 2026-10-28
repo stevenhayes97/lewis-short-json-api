@@ -218,3 +218,13 @@ mimus | Mimus populum jocis exhilarat | The mime cheers the people with jokes
 mina1 | Mina argenti pauperi multum prodest | The mina of silver greatly benefits the poor man
 # skip: mina2 is an obscure glossary entry meaning "smooth", not a usable noun
 minae | Minae tyranni cives silere cogunt | The tyrant's threats force the citizens to be silent
+minio1 | Statuam Jovis minio | I paint the statue of Jupiter red
+ministerium | Ministerium fidele dominum juvat | Faithful service helps the master
+ministrator | Ministrator vinum convivis infundit | The attendant pours wine for the guests
+ministro | Convivis ministro | I serve the guests
+minitor | Hosti bellum minitor | I threaten the enemy with war
+mino | Asinos baculo mino | I drive the donkeys with a stick
+minor1 | Tyranno exsilium minor | I threaten the tyrant with exile
+minoro | Pretium minoro | I lessen the price
+minuo | Sumptus minuo | I lessen my expenses
+minutia | Minutia litterarum legentem fatigat | The smallness of the letters tires the reader
