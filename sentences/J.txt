@@ -51,3 +51,14 @@ jus1 | Jus in olla fervet | The broth boils in the pot
 jus2 | Jus omnes cives protegit | The law protects all citizens
 jusjurandum | Jusjurandum militem duci fidelem facit | The oath makes the soldier faithful to the general
 jussum | Jussum ducis exercitum movet | The general's order sets the army in motion
+# skip: jussus2 used only in the ablative singular (jussu), so it cannot be a nominative subject
+justificatio | Justificatio advocati senatores movet | The lawyer's justification moves the senators
+justifico | Consilium meum justifico | I justify my plan
+justitia | Justitia regem populo carum facit | Justice makes the king dear to the people
+justitium | Justitium omnia negotia publica sistit | The suspension stops all public business
+juvenculus | Juvenculus in agro cum patre laborat | The youngster works in the field with his father
+# third: juvenesco "I mature" is odd; a calf reaches maturity
+juvenesco | Vitulus largis herbis juvenescit | The calf matures on rich grass
+juventa | Juventa celeriter fugit | Youth flies quickly
+juventas | Juventas viribus floret | Youth flourishes with strength
+juventus | Juventus ad ludos properat | Youth hurries to the games
