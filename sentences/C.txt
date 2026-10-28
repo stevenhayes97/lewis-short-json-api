@@ -258,3 +258,13 @@ choragium | Choragium actoribus datur | The theatrical equipment is given to the
 choraules | Choraules ante actores ambulat | The piper walks before the actors
 chorda | Chorda sub digito vibrat | The string vibrates under the finger
 chorea | Chorea nympharum circa fontem vertitur | The dance of the nymphs turns around the spring
+chorus | Chorus sub luna ducitur | The dance is led under the moon
+cibatus | Cibatus familiam alit | The food nourishes the family
+cibo | Gallinas cibo | I feed the hens
+cibus | Cibus hospitem exspectat | The food awaits the guest
+cicada | Cicada aestate cantat | The cicada sings in summer
+cicatrix | Cicatrix veterani fortitudinem ostendit | The veteran's scar shows courage
+ciccus | Ciccus nullum pretium habet | A trifle has no price
+cicer | Cicer in sacco servatur | The chickpea is kept in the sack
+ciconia | Ciconia in tecto nidum facit | The stork makes a nest on the roof
+cicuta1 | Cicuta prope rivum crescit | The hemlock grows near the stream
