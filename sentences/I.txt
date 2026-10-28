@@ -168,3 +168,13 @@ inclamo | Nomen nautae in portu inclamo | I call out the sailor's name in the ha
 inclaresco | Caelum mane inclarescit | The sky brightens in the morning
 inclementia | Inclementia hiemis viatores in tectum agit | The harshness of winter drives the travellers indoors
 inclinatio | Inclinatio arboris ventum indicat | The lean of the tree shows the wind
+inclino | Caput ad dominum inclino | I incline my head towards the master
+includo | Gallinas in cavea includo | I shut the hens in the coop
+incoho | Epistulam incoho | I begin a letter
+incolo1 | Oram maritimam incolo | I inhabit the coast
+incolumitas | Incolumitas legionis ducem gaudio implet | The safety of the legion fills the general with joy
+incomitio | Consulem in contione incomitio | I berate the consul in the assembly
+incommoditas | Incommoditas hospitii viatores ad aliam domum mittit | The inconvenience of the inn sends the travellers to another house
+incommodo | Hospitem sero adventu incommodo | I inconvenience the guest by my late arrival
+inconcilio | Peregrinum inconcilio | I dupe the stranger
+inconstantia | Inconstantia populi ducem sollicitat | The people's fickleness worries the leader
