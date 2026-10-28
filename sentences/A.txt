@@ -184,3 +184,13 @@ adolesco | In villa adolesco | I grow up in the villa
 adonium | Adonium in horto floret | The adonium blooms in the garden
 adoperio | Caput pallio adoperio | I cover my head with a cloak
 adoptatio | Adoptatio pueri familiam laetam facit | The adoption of the boy makes the family happy
+adoptio | Adoptio filium novum familiae dat | The adoption gives the family a new son
+adopto | Puerum orphanum adopto | I adopt the orphan boy
+ador | Ador in horreo servatur | The spelt is kept in the granary
+adorior | Oppidum hostium adorior | I attack the enemy's town
+adorno | Navem adorno | I equip the ship
+adoro | Deos in templo adoro | I worship the gods in the temple
+adrado | Ramum adrado | I pare down the branch
+adsum | In schola adsum | I am present at school
+adulatio | Adulatio canis dominum laetum facit | The dog's fawning makes its master glad
+adulator | Adulator regis laudes cantat | The king's flatterer sings his praises
