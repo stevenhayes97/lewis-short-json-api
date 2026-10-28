@@ -90,7 +90,7 @@ accurro | Ad portam accurro | I run up to the gate
 accusatio | Accusatio senatorem terret | The accusation frightens the senator
 accusator | Accusator in foro clamat | The accuser shouts in the forum
 accuso | Furem furti accuso | I accuse the thief of theft
-acerbitas | Acerbitas pomi dentes laedit | The sourness of the fruit hurts my teeth
+acerbitas | Acerbitas pomi in sapore sentitur | The sourness of the fruit is felt in the taste
 acerbo | Vinum acerbo | I embitter the wine
 acerra | Acerra in ara jacet | The incense box lies on the altar
 acervo | Lapides ante domum acervo | I heap stones before the house
@@ -100,7 +100,7 @@ acies | Acies in campo prope flumen pugnat | The battle line fights on the plain
 acopos | Acopos dolorem levat | The salve eases pain
 acquiesco | Sub arbore acquiesco | I rest under the tree
 acquiro | Opes acquiro | I acquire wealth
-acrimonia | Acrimonia cepae oculos pungit | The pungency of the onion stings the eyes
+acrimonia | Acrimonia cepae in coquina sentitur | The pungency of the onion is noticed in the kitchen
 acritudo | Acritudo aceti gustum offendit | The sharpness of the vinegar offends the taste
 acroama | Acroama in convivio nocte auditur | The entertainment is heard at the banquet at night
 acroasis | Acroasis philosophi discipulos docet | The philosopher's lecture teaches the pupils
@@ -108,7 +108,7 @@ actio | Actio consulis civibus prodest | The consul's action benefits the citize
 actor1 | Actor pecoris boves ad aquam agit | The drover drives the cattle to the water
 actuarius2 | Actuarius verba oratoris scribit | The clerk writes down the orator's words
 actus2 | Actus bovum per agros lentus est | The driving of the oxen across the fields is slow
-aculeus | Aculeus apis manum meam pungit | The bee's sting pricks my hand
+aculeus | Aculeus apis acutus est | The bee's sting is sharp
 acumen | Acumen hastae in muro haeret | The point of the spear sticks in the wall
 acuo | Gladium acuo | I sharpen the sword
 acus1 | Acus tenuis in cista latet | The thin needle lies hidden in the chest
@@ -116,7 +116,7 @@ acus3 | Acus in mari natat | The garfish swims in the sea
 acyrologia | Acyrologia in oratione reprehenditur | The misusage is criticised in the speech
 adaequo | Tecta solo adaequo | I level the houses with the ground
 adamas | Adamas in anulo splendet | The adamant gleams in the ring
-adamo | Puellam bonam adamo | I fall in love with the good girl
+adamo | Rus adamo | I fall in love with the countryside
 adaperio | Fenestram adaperio | I throw the window open
 adaugeo | Divitias patris adaugeo | I increase my father's wealth
 adbibo | Lac adbibo | I drink up the milk
