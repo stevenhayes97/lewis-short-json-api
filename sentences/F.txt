@@ -190,3 +190,15 @@ flagrum | Flagrum juxta currum jacet | The whip lies beside the chariot
 flamen1 | Flamen aram floribus ornat | The flamen decorates the altar with flowers
 flamen2 | Flamen vela implet | The gust fills the sails
 flaminica | Flaminica cum marito in templo orat | The flamen's wife prays with her husband in the temple
+flamma1 | Flamma in lucerna tremit | The flame trembles in the lamp
+flammo | Facem lucerna flammo | I ignite the torch with a lamp
+flator | Flator ante pompam ambulat | The piper walks before the procession
+flatus | Flatus aegri in aere frigido apparet | The patient's breath is visible in the cold air
+# third: flaveo "I am yellow" is odd; corn is yellow
+flaveo | Seges in campo flavet | The corn is yellow in the field
+# third: flavesco "I turn yellow" is odd; a leaf turns yellow
+flavesco | Folium autumno flavescit | The leaf turns yellow in autumn
+flecto | Ramum arboris flecto | I bend the branch of the tree
+flemina | Flemina crurum viatorem tardant | The swellings of the legs slow the traveller
+fleo | Ob tristem fabulam fleo | I weep at the sad story
+fletus2 | Fletus infantis matrem excitat | The baby's weeping wakes its mother
