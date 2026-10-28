@@ -586,3 +586,17 @@ architectus | Architectus pontem designat | The architect plans the bridge
 arctos | Arctos nautas ducit | The Bear guides the sailors
 arcturus | Arcturus tempestatem nuntiat | Arcturus announces a storm
 arcula | Arcula anulos servat | The casket keeps the rings
+arcuo | Virgam arcuo | I bend the rod into an arch
+arcus | Arcus in muro pendet | The bow hangs on the wall
+# third: ardeo "I burn" is not a sentence a learner needs
+ardeo | Domus ardet | The house burns
+# third: ardesco "I catch fire" is not a sentence a learner needs
+ardesco | Stipula ardescit | The straw catches fire
+ardor | Ardor solis agros siccat | The heat of the sun dries the fields
+arefacio | Vestes arefacio | I dry the clothes
+# third: areo "I am dry" is not a sentence a learner needs
+areo | Ager aret | The field is dry
+areola | Areola ante cenationem jacet | The small yard lies in front of the dining room
+# third: aresco "I dry up" is not a sentence a learner needs
+aresco | Fluvius arescit | The river dries up
+argentum | Argentum in monte reperitur | Silver is found on the mountain
