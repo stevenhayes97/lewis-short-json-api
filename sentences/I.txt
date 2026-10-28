@@ -556,3 +556,14 @@ inundo | Tiberis campum inundat | The Tiber floods the plain
 inunguo | Caput oleo inunguo | I anoint my head with oil
 inuro | Nomen meum in trabe inuro | I brand my name into the beam
 invado | Fines hostium invado | I invade the enemy's territory
+invalesco | Post morbum invalesco | I grow strong after the illness
+invectio | Invectio vini ex Graecia mercatores ditat | The importation of wine from Greece enriches the merchants
+inveho | Gemmas ex India inveho | I import gems from India
+invenio | Nummum in via invenio | I find a coin in the road
+inventio | Inventio novae machinae fabrum laetum facit | The invention of a new machine makes the craftsman glad
+inventor | Inventor aratri praemium a rege accipit | The inventor of the plough receives a reward from the king
+inventum | Inventum medici aegros adjuvat | The doctor's discovery helps the sick
+inverto | Urnam inverto | I turn the jar upside down
+investigo | Causam morbi investigo | I investigate the cause of the illness
+# third: inveterasco "I take root" is odd; a custom takes root
+inveterasco | Mos novus inveterascit | The new custom takes root
