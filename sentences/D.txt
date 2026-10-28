@@ -437,3 +437,13 @@ discepto | Cum collega de pace discepto | I debate with my colleague about peace
 discerno | Aurum ab argento discerno | I separate gold from silver
 discerpo | Chartam discerpo | I tear the paper apart
 discessio | Discessio senatorum voluntatem ostendit | The division shows the will of the senators
+discessus2 | Discessus solis noctem adducit | The departure of the sun brings night
+discidium | Discidium inter amicos diu manet | The rift between friends lasts a long time
+discindo | Vestem veterem discindo | I rend my old garment
+discingo | Tunicam post cenam discingo | I ungird my tunic after dinner
+disciplina | Disciplina scholae puerum ad virtutem ducit | The instruction of the school leads the boy to virtue
+discipulus | Discipulus ceram stilo notat | The pupil marks the wax with a stylus
+discludo | Agnos ab ovibus discludo | I separate the lambs from the sheep
+disco | Litteras Graecas disco | I learn Greek letters
+# skip: discolor is an adjective (variegated), misfiled as a verb
+discooperio | Fercula discooperio | I uncover the dishes
