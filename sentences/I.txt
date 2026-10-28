@@ -93,3 +93,14 @@ impingo | Fustem in terram impingo | I thrust a stick into the ground
 impio | Aram sordibus impio | I defile the altar with filth
 implecto | Rosas in corona implecto | I entwine roses in a garland
 impleo | Urnam aqua impleo | I fill the jar with water
+implicatio | Implicatio ramorum iter in silva tardat | The entanglement of branches slows the journey in the forest
+implico | Vitem circum palum implico | I entwine the vine around the stake
+imploro | Auxilium deorum imploro | I implore the help of the gods
+# third: impluo "I rain" is odd; a storm cloud rains
+impluo | Nimbus in tegulas impluit | The storm cloud rains onto the tiles
+impluvium | Impluvium in atrio aquam e tecto colligit | The impluvium in the atrium collects water from the roof
+impolitia | Impolitia scribae librum deformat | The scribe's carelessness spoils the book
+impono | Sarcinam in asinum impono | I place the pack on the donkey
+importo | Vinum e Graecia importo | I import wine from Greece
+importunitas | Importunitas servi hospites offendit | The slave's rudeness offends the guests
+impotentia | Impotentia consulis senatum silentem facit | The consul's fury makes the senate silent
