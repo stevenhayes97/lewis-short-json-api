@@ -196,3 +196,15 @@ penso | Mercem statera penso | I weigh the goods on the balance
 pentathlos | Pentathlos in stadio currit | The pentathlete runs in the stadium
 penuria | Penuria aquae ad puteos cives cogit | The scarcity of water drives the citizens to the wells
 penus | Penus familiam per hiemem alit | The provisions feed the family through the winter
+peplum | Peplum viride in sole siccatur | The green robe dries in the sun
+# third: peracesco "I turn sour" is unnatural; wine is the natural subject
+peracesco | Vinum in sole peracescit | The wine turns sour in the sun
+peraequo | Onera inter servos peraequo | I equalise the loads among the slaves
+# third: peragito a violent verb; keeps to a military frame
+peragito | Hostis exercitum peragitat | The enemy harasses the army
+perago | Iter perago | I complete the journey
+peragro | Italiam peragro | I traverse Italy
+perambulo | Urbem perambulo | I walk through the city
+peraro | Agrum peraro | I plough through the field
+perbibo | Verba poetae perbibo | I drink in the poet's words
+# skip: perbito is attested only in forms like perbitat and perbiteres, not a first person
