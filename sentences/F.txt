@@ -318,3 +318,14 @@ frio | Glaebam manibus frio | I crumble the clod with my hands
 fritinnio | Cicada in arbore fritinnit | The cicada chirps in the tree
 # third: frondeo "I leaf" is odd; an oak is in leaf
 frondeo | Quercus vere frondet | The oak is in leaf in spring
+# third: frondesco "I leaf out" is odd; a tree leafs out
+frondesco | Salix prima vere frondescit | The willow leafs out in early spring
+frons1 | Frons arborum viatorem a sole tegit | The foliage of the trees shelters the traveller from the sun
+frons2 | Frons athletae sudore madet | The athlete's forehead is wet with sweat
+fructus2 | Fructus pomarii ad urbem portatur | The fruit of the orchard is carried to the city
+frugalitas | Frugalitas patris familiam servat | The father's frugality preserves the family
+frumentor | Prope castra frumentor | I forage near the camp
+frumentum | Frumentum in horreo servatur | The grain is kept in the barn
+fruniscor | Otio fruniscor | I enjoy leisure
+fruor | Pace fruor | I enjoy peace
+frustratio | Frustratio custodis exercitum juvat | The deception of the guard helps the army
