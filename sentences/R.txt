@@ -160,3 +160,14 @@ refundo | Vinum in amphoram refundo | I pour the wine back into the jar
 refuto | Mendacium vicini refuto | I refute the neighbour's lie
 # third: regelo "I thaw" is unnatural; the sun is the natural subject
 regelo | Sol nivem regelat | The sun thaws the snow
+# third: regenero "I regenerate" is unnatural; a lizard is the natural subject
+regenero | Lacerta caudam regenerat | The lizard regenerates its tail
+regero | Frumentum ad cellam regero | I carry the grain back to the cellar
+regestum1 | Regestum prope fossam jacet | The excavated earth lies near the ditch
+regimen | Regimen magistri discipulos ad scientiam ducit | The guidance of the teacher leads the students to knowledge
+regina | Regina populum e palatio salutat | The queen greets the people from the palace
+regio | Regio fertilis multos agricolas alit | The fertile region feeds many farmers
+regnator | Regnator terrae leges antiquas servat | The ruler of the land keeps the ancient laws
+regno | In Aegypto regno | I reign in Egypt
+regnum | Regnum Numae Romam pace implet | The kingship of Numa fills Rome with peace
+rego | Navem per undas rego | I guide the ship through the waves
