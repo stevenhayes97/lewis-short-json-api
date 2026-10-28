@@ -207,3 +207,14 @@ mica | Mica passerem allicit | The crumb attracts the sparrow
 # third: mico the first person is unnatural; a heart is the usual subject
 mico | Cor cervi in silva micat | The deer's heart quivers in the forest
 migratio | Migratio gruum caelum obscurat | The migration of the cranes darkens the sky
+# third: migro the first person is unnatural; birds are the usual subject
+migro | Hirundo in Africam migrat | The swallow migrates to Africa
+miles | Miles in castris vigilat | The soldier keeps watch in the camp
+milifolium | Milifolium in prato floret | The yarrow blooms in the meadow
+militia | Militia juvenes duros reddit | Warfare makes young men hard
+milito | In legione milito | I serve in the legion
+miluus | Miluus super campum volat | The kite flies over the field
+mimus | Mimus populum jocis exhilarat | The mime cheers the people with jokes
+mina1 | Mina argenti pauperi multum prodest | The mina of silver greatly benefits the poor man
+# skip: mina2 is an obscure glossary entry meaning "smooth", not a usable noun
+minae | Minae tyranni cives silere cogunt | The tyrant's threats force the citizens to be silent
