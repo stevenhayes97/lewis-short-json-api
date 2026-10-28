@@ -322,3 +322,14 @@ circumrodo | Mus caseum circumrodit | The mouse gnaws round the cheese
 circumsaepio | Hortum palis circumsaepio | I fence the garden with stakes
 circumscribo | Potestatem consulis lege circumscribo | I limit the consul's power by law
 circumscriptio | Circumscriptio agri lapidibus signatur | The boundary of the field is marked with stones
+circumseco | Radices vitis circumseco | I cut round the roots of the vine
+circumsedeo | Urbem circumsedeo | I besiege the city
+circumsisto | Cervum circumsisto | I close in on the stag
+# third: circumsono only places and loud things resound around
+circumsono | Forum clamore circumsonat | The forum resounds all round with shouting
+circumspectio | Circumspectio nautae navem servat | The sailor's circumspection keeps the ship safe
+circumspecto | Ab arce circumspecto | I keep looking about from the citadel
+circumspectus2 | Circumspectus e turri portum ostendit | The survey from the tower shows the harbour
+circumspicio | Circumspicio in horto | I look around in the garden
+circumstantia | Circumstantia amicorum aegrum consolatur | The standing round of friends comforts the sick man
+circumsto | Mensam circumsto | I stand round the table
