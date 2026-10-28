@@ -74,8 +74,9 @@ SUBORDINATORS = frozenset({
 })
 
 # Plain text only: no macrons, no final full stop. Latin follows the source's
-# `j` spelling, matching the keys (jus, injuria).
-LATIN_TEXT = re.compile(r"^[A-Z][a-z]*(?: [a-z]+)*$")
+# `j` spelling, matching the keys (jus, injuria). Capitals past the first word
+# are for proper nouns (Roma, Minerva).
+LATIN_TEXT = re.compile(r"^[A-Z][a-z]*(?: [A-Za-z][a-z]*)*$")
 ENGLISH_TEXT = re.compile(r"^[A-Z][^.!?]*[^.!?\s]$|^[A-Z]$")
 
 
@@ -222,8 +223,8 @@ def check_letter(letter: str) -> list[str]:
             errors.append(f"{where(line_no)}: {key!r} is not a defined noun or verb in {letter}")
         if not LATIN_TEXT.match(latin):
             errors.append(
-                f"{where(line_no)}: Latin {latin!r} must be plain lowercase words after a capital,"
-                f" no punctuation or macrons"
+                f"{where(line_no)}: Latin {latin!r} must be plain words, capitalised only at the start"
+                f" or for a proper noun, with no punctuation or macrons"
             )
         if not ENGLISH_TEXT.match(english) or CLAUSE_PUNCTUATION.search(english):
             errors.append(

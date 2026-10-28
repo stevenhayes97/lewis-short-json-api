@@ -217,7 +217,7 @@ advigilo | Domui advigilo | I keep watch over the house
 advivo | Etiam in senectute advivo | I live on even in old age
 advocatio | Advocatio oratoris civi prodest | The orator's counsel benefits the citizen
 advoco | Amicos ad cenam advoco | I summon my friends to dinner
-advolo | Ad nidum advolo | I fly to the nest
+advolo | Ad amicum advolo | I rush to my friend
 advolvo | Robora ad focum advolvo | I roll logs to the hearth
 adytum | Adytum in templo obscurum est | The sanctuary in the temple is dark
 aedes | Aedes in colle stat | The temple stands on the hill
@@ -276,7 +276,7 @@ affigo | Tabulam ad murum affigo | I fasten the tablet to the wall
 affingo | Fabulam affingo | I invent a story
 affinitas | Affinitas inter patrem et generum firma est | The tie between father and son-in-law is firm
 affirmatio | Affirmatio testis firma est | The witness's assertion is firm
-affirmo | Rem veram affirmo | I assert the true matter
+affirmo | Rem veram affirmo | I affirm the truth
 afflatus2 | Afflatus venti frigidus est | The breath of the wind is cold
 # third: afflicto a storm batters ships; "I batter" is not a learner's sentence
 afflicto | Tempestas naves afflictat | The storm batters the ships
@@ -302,7 +302,7 @@ aggredio | Ad hospitem aggredio | I approach the guest
 # third: aggredior violent verb, generic soldiers
 aggredior | Miles militem aggreditur | The soldier attacks the soldier
 aggrego | Ovem ad gregem aggrego | I add the sheep to the flock
-aggressio | Aggressio mala est | The attack is bad
+aggressio | Aggressio militum subita est | The soldiers' attack is sudden
 agilitas | Agilitas pueri magna est | The boy's nimbleness is great
 agitatio | Agitatio fluctuum in portu cernitur | The movement of the waves is seen in the harbour
 agitator | Agitator asinos per viam agit | The driver drives the donkeys along the road
@@ -335,17 +335,17 @@ albesco | Capillus senis albescit | The old man's hair turns white
 # third: albico "I am white" is said of meadows and things, not people
 albico | Pratum pruina albicat | The meadow is white with frost
 alcedo | Alcedo supra aquam volat | The kingfisher flies above the water
-alcedonia | Alcedonia in hieme sunt | The halcyon days are in winter
+alcedonia | Alcedonia hieme sunt | The halcyon days come in winter
 alea | Alea ludus fortunae est | Dice is a game of chance
 alec | Alec in lagoena est | The fish-sauce is in the jar
 alga | Alga ad litus venit | The seaweed comes to the shore
-algeo | Sine veste algeo | I feel cold without a cloak
+algeo | Sine pallio algeo | I feel cold without a cloak
 algesco | In nive algesco | I catch cold in the snow
 algor | Algor noctis acer est | The cold of the night is sharp
 algus | Algus matutinus molestus est | The morning chill is troublesome
 alicula | Alicula alba in sella est | The white cape is on the chair
 alienatio | Alienatio agri in tabula scripta est | The transfer of the field is written on the tablet
-alienitas | Alienitas mala est | The foreignness is bad
+alienitas | Alienitas verborum discipulum turbat | The foreignness of the words confuses the pupil
 alieno | Populum a consule alieno | I estrange the people from the consul
 alimentum | Alimentum agricolae in mensa est | The farmer's food is on the table
 alimonia | Alimonia familiae in cella est | The family's sustenance is in the storeroom
@@ -386,7 +386,7 @@ alterno | Opus et otium alterno | I alternate work and rest
 altitudo | Altitudo turris omnibus nota est | The height of the tower is known to all
 altrix | Altrix infantem in cunis tenet | The nurse holds the baby in the cradle
 alucinatio | Alucinatio senis mitis est | The old man's daydreaming is gentle
-alucinor | In schola alucinor | I ramble in school
+alucinor | Saepe alucinor | I often daydream
 alumno | Agnum alumno | I rear the lamb
 alvearium | Alvearium apibus plenum est | The beehive is full of bees
 alveolus | Alveolus in culina pendet | The tray hangs in the kitchen
