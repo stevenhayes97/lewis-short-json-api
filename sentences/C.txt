@@ -168,3 +168,13 @@ catapulta | Catapulta sagittam longe mittit | The catapult shoots an arrow far
 cataracta | Cataracta de monte ruit | The waterfall rushes down from the mountain
 catasta | Catasta in mercatu stat | The platform stands in the market
 categoria | Categoria in libro philosophi explicatur | The category is explained in the philosopher's book
+catellus1 | Catellus in stramine dormit | The puppy sleeps on the straw
+catellus2 | Catellus collum matronae cingit | The little chain encircles the matron's neck
+catena | Catena portam claudit | The chain closes the gate
+cateno | Portam cateno | I chain the gate
+caterva | Caterva mercatorum ad portum venit | The band of merchants comes to the harbour
+cathedra | Cathedra mollis ante focum stat | The soft chair stands before the hearth
+catillus1 | Catillus ova continet | The small dish holds eggs
+catinus | Catinus cibum calidum servat | The dish keeps the food warm
+catulus1 | Catulus matrem sequitur | The whelp follows its mother
+cauda | Cauda equi muscas pellit | The horse's tail drives away flies
