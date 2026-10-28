@@ -141,7 +141,7 @@ lectulus | Lectulus in angulo cubiculi stat | The couch stands in the corner of 
 lectus2 | Lectus mollis viatorem fessum invitat | The soft bed invites the weary traveller
 legatio | Legatio Romana Athenas proficiscitur | The Roman embassy sets out for Athens
 legio | Legio trans flumen castra ponit | The legion pitches camp across the river
-lego1 | Filium ad regem lego | I depute my son to the king
+lego1 | Filium ad regem lego | I send my son as an envoy to the king
 lego2 | Epistulam matris lego | I read my mother's letter
 legulus | Legulus oleas de terra tollit | The gatherer picks olives off the ground
 legumen | Legumen agricolae cibum solidum praebet | Pulse provides sturdy food for the farmer
@@ -176,7 +176,7 @@ levamen | Levamen post tempestatem nautas gaudio implet | Relief after the storm
 levamentum | Levamentum doloris aegrotum consolatur | Relief from pain comforts the sick man
 levatio | Levatio ponderis nautas exercet | The lifting of the weight exercises the sailors
 levigo1 | Tabulam pumice levigo | I smooth the board with pumice
-levir | Levir ad cenam venit | The brother-in-law comes to dinner
+levir | Levir ad cenam venit | The husband's brother comes to dinner
 levitas1 | Levitas pennae eam in aura tenet | The lightness of the feather keeps it in the air
 levitas2 | Levitas marmoris sculptori placet | The smoothness of the marble pleases the sculptor
 levo1 | Saxum ingens levo | I lift the huge rock

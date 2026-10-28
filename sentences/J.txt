@@ -8,7 +8,7 @@ jactator | Jactator in convivio victorias narrat | The boaster tells of his vict
 jacto | Folia in aera jacto | I toss leaves into the air
 jactura | Jactura pecuniae mercatorem contristat | The loss of money saddens the merchant
 jactus2 | Jactus validus discum trans campum portat | The strong throw carries the discus across the field
-jaculator | Jaculator in acie stat | The javelin-thrower stands in the line
+jaculator | Jaculator in acie stat | The javelin-thrower stands in the battle line
 jaculor | Hastam trans murum jaculor | I hurl a spear over the wall
 jaculum | Jaculum celere trans campum volat | The swift javelin flies across the field
 janitor | Janitor hospitem in atrium ducit | The porter leads the guest into the hall
@@ -61,5 +61,5 @@ juvenculus | Juvenculus in agro cum patre laborat | The youngster works in the f
 juvenesco | Vitulus largis herbis juvenescit | The calf matures on rich grass
 juventa | Juventa celeriter fugit | Youth flies quickly
 juventas | Juventas viribus floret | Youth flourishes with strength
-juventus | Juventus ad ludos properat | Youth hurries to the games
+juventus | Juventus ad ludos properat | The young men hurry to the games
 juvo | Vicinum laborantem juvo | I help my neighbour at his work
