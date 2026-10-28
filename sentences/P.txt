@@ -210,7 +210,7 @@ perbibo | Verba poetae perbibo | I drink in the poet's words
 # skip: perbito is attested only in forms like perbitat and perbiteres, not a first person
 percalefacio | Aquam in olla percalefacio | I heat the water thoroughly in the pot
 percallesco | Labore diuturno percallesco | I become hardened by long toil
-percelebro | Carmen novum percelebro | I repeat the new song
+percelebro | Carmen novum percelebro | I make the new song widely known
 # third: percello a violent verb; keeps to a military frame
 percello | Dux aciem hostium percellit | The general overturns the enemy line
 percenseo | Nomina discipulorum percenseo | I count off the names of the pupils
