@@ -388,3 +388,14 @@ insimulo | Servum furti insimulo | I accuse the slave of theft
 insinuatio | Insinuatio clientis patronum mollit | The client's ingratiation softens the patron
 insinuo | Me in gratiam consulis insinuo | I worm my way into the consul's favour
 insipientia | Insipientia gubernatoris vectores terret | The helmsman's folly frightens the passengers
+insisto | Glaciei insisto | I tread on the ice
+insolentia | Insolentia pueri magistrum offendit | The boy's insolence offends the teacher
+insolesco | Post victoriam insolesco | I grow insolent after the victory
+insomnia | Insomnia scribam fessum facit | Sleeplessness makes the scribe weary
+insomnium1 | Insomnium nautam de patria admonet | The dream reminds the sailor of his homeland
+# third: insono "I resound" is odd; a lyre resounds
+insono | Cithara in aula insonat | The lyre resounds in the hall
+inspectio | Inspectio navium consulem in portu tenet | The inspection of the ships keeps the consul in the harbour
+inspecto | Aves in caelo inspecto | I observe the birds in the sky
+inspergo | Salem in ova inspergo | I sprinkle salt on the eggs
+inspicio | Dentes equi inspicio | I inspect the horse's teeth
