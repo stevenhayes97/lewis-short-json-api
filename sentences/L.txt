@@ -1,0 +1,13 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/L.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+labarum | Labarum in acie fulget | The labarum gleams in the battle line
+labasco | In glacie labasco | I totter on the ice
+labefacio | Palum in terra labefacio | I shake the post in the ground
+labefacto | Mensam labefacto | I shake the table
+labellum1 | Labellum meum frigore rubet | My lip is red from the cold
+labes1 | Labes terrae viam claudit | The fall of earth blocks the road
+labes2 | Labes in toga candida apparet | The stain shows on the white toga
+labia | Labia mea sole arescit | My lip dries out in the sun
+# third: labo "I totter" suits a building, not a person
+labo | Turris vetus labat | The old tower totters
+labor1 | Per aquam placidam labor | I glide over the calm water
