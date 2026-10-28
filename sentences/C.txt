@@ -559,3 +559,13 @@ commolior | Machinam novam commolior | I set a new machine in motion
 commonefacio | Fratrem promissi commonefacio | I remind my brother of his promise
 commoneo | Filium officii commoneo | I remind my son of his duty
 commonstro | Viatori viam commonstro | I point out the way to the traveller
+commoratio | Commoratio in urbe viatorem tardat | The delay in the city holds back the traveller
+commotio | Commotio animi puellam turbat | The agitation of her mind troubles the girl
+commoveo | Lectum e loco commoveo | I move the bed from its place
+communicatio | Communicatio consilii amicos jungit | The communication of the plan unites the friends
+communico | Cibum cum vicinis communico | I share my food with the neighbours
+communio1 | Castra vallo communio | I fortify the camp with a rampart
+communio2 | Communio inter fratres pacem servat | Fellowship between brothers preserves peace
+communitas | Communitas oppidi festum celebrat | The community of the town celebrates the festival
+communitio | Communitio itineris ducem occupat | The preparation of the route keeps the general busy
+commurmuro | In angulo commurmuro | I murmur in the corner
