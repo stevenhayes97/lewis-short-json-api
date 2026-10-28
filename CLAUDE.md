@@ -311,6 +311,12 @@ video | Cibum calidum video | I see the warm food
   aborior | Ovis aboritur | The ewe miscarries
   ```
   Use it only where the first person truly fails; most verbs read fine as "I".
+- **Keep it suitable for a general audience.** Not childish, but where there
+  is a choice, avoid violent, grim, sexual or otherwise adult themes: no
+  killing, beheading, wounding, drunkenness or bodily detail, and nothing that
+  reads as harm to a person or child. For a word whose sense is itself dark
+  (kill, wound, crime words), pick the mildest true illustration (an object,
+  an animal, an abstract or historical framing) or `# skip:` it.
 - **Vary the other words.** Across a chunk, don't lean on the same frame
   (`... delectat`, `ex urbe`, `amico`) — a beginner learns more from varied
   common vocabulary.
