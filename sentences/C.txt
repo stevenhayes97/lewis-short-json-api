@@ -1075,3 +1075,13 @@ cudo1 | Ferrum in fabrica cudo | I pound iron in the forge
 culcita | Culcita mollis in sella jacet | The soft cushion lies on the chair
 culex1 | Culex noctu circum caput volat | The gnat flies around my head at night
 culina | Culina odorem boni cibi diffundit | The kitchen spreads the smell of good food
+culleus | Culleus plenus vini in plaustro jacet | The sack full of wine lies on the cart
+culpa | Culpa servi dominum irritat | The slave's fault irritates the master
+culpo | Servum tardum culpo | I blame the slow servant
+culter | Culter novus pomum secat | The new knife cuts the apple
+cultio | Cultio agri multum laborem postulat | The cultivation of the field demands much work
+cultor | Cultor vineae uvas colligit | The cultivator of the vineyard gathers grapes
+cultrix | Cultrix templi aram purgat | The caretaker of the temple cleans the altar
+cultura | Cultura olivarum agricolam occupat | The cultivation of olives keeps the farmer busy
+cultus2 | Cultus vitis uvam bonam dat | The cultivation of the vine gives good grapes
+cumulo | Arenam in ripa cumulo | I heap up sand on the bank
