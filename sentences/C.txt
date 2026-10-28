@@ -359,3 +359,14 @@ cithara | Cithara in convivio sonat | The lyre sounds at the banquet
 citharista | Citharista sub arbore sedet | The lyre player sits under the tree
 citharoedus | Citharoedus senatorem delectat | The singer delights the senator
 cito2 | Senatores cito | I summon the senators
+civilitas | Civilitas consulis populo placet | The consul's courtesy pleases the people
+civis | Civis in foro ambulat | The citizen walks in the forum
+civitas | Civitas peregrino datur | Citizenship is given to the foreigner
+clades | Clades senatum terret | The disaster frightens the senate
+clamator | Clamator in foro populum fatigat | The bawler wearies the people in the forum
+clamito | Nomen amici clamito | I keep shouting my friend's name
+clamo | De via clamo | I shout from the street
+clamor | Clamor ex taberna venit | The shout comes from the shop
+# third: clango only trumpets and similar loud things clang
+clango | Tuba in castris clangit | The trumpet clangs in the camp
+clangor | Clangor tubae milites excitat | The clang of the trumpet wakes the soldiers
