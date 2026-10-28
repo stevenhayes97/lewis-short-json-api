@@ -40,3 +40,13 @@ maledico | Hosti maledico | I revile the enemy
 maledictio | Maledictio oratoris senatum offendit | The orator's abuse offends the senate
 malefacio | Hosti malefacio | I harm the enemy
 malefactor | Malefactor judicem timet | The evildoer fears the judge
+maleficentia | Maleficentia ministri dominum offendit | The servant's maliciousness offends the master
+maleficium | Maleficium civitatem perturbat | The crime disturbs the community
+malevolentia | Malevolentia vicini familiam contristat | The neighbour's malevolence saddens the family
+malignitas | Malignitas divitis pauperes a mensa excludit | The rich man's malice shuts the poor out from the table
+maligno | Rivalem maligno | I malign my rival
+malitia | Malitia mercatoris emptores fallit | The merchant's malice deceives the buyers
+malleolus | Malleolus fabri clavum figit | The smith's small hammer drives in the nail
+malleus | Malleus ferrum in fabrica tundit | The hammer beats the iron in the workshop
+malo | Pacem malo | I prefer peace
+malobathron | Malobathron ex India venit | The malobathrum comes from India
