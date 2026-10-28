@@ -641,3 +641,13 @@ artificium | Artificium fabri puerum alit | The smith's craft supports the boy
 arto | Libros in arca arto | I pack the books close together in the chest
 artus2 | Artus athletae validi sunt | The athlete's limbs are strong
 arula | Arula ante imaginem deae ponitur | The small altar is placed before the image of the goddess
+arvina | Arvina cibum pinguem facit | The fat makes the food rich
+arx | Arx urbem tuetur | The citadel guards the city
+as | As e sacculo cadit | The copper coin falls from the purse
+ascendo | Montem ascendo | I climb the mountain
+ascensio | Ascensio montis agricolam fatigat | The climb up the mountain tires the farmer
+ascensor | Ascensor equum ad flumen ducit | The rider leads the horse to the river
+ascensus2 | Ascensus per viam angustam ducit | The ascent leads along a narrow path
+ascia | Ascia lignum secat | The axe cuts wood
+ascio2 | Amicum in collegium ascio | I admit my friend into the club
+ascisco | Legem novam ascisco | I adopt the new law
