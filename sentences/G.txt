@@ -117,3 +117,14 @@ grates | Grates tuae mihi placent | Your thanks please me
 gratia | Gratia consulis senatorem juvat | The consul's favour helps the senator
 gratificor | Vicino gratificor | I oblige my neighbour
 gratulatio | Gratulatio sponsos in atrio excipit | The congratulation welcomes the bridal couple in the hall
+gratulor | Victori gratulor | I congratulate the winner
+gravedo | Gravedo capitis mercatorem domi tenet | The head cold keeps the merchant at home
+# third: gravesco "I worsen" is odd; a cough worsens
+gravesco | Tussis nocte gravescit | The cough worsens at night
+gravido | Asinum sarcinis gravido | I burden the donkey with packs
+gravitas | Gravitas plumbi saccum deprimit | The weight of the lead pulls the sack down
+gravo | Navem merce gravo | I burden the ship with cargo
+grego | Oves in campo grego | I gather the sheep into a flock in the field
+gremium | Gremium aviae felem accipit | The grandmother's lap welcomes the cat
+gressus2 | Gressus militis in via sonat | The soldier's step echoes on the road
+grex | Grex ovium ad rivum properat | The flock of sheep hurries to the brook
