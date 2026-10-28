@@ -246,3 +246,13 @@ opitulor | Pauperibus opitulor | I help the poor
 oppando | Vestes ad solem oppando | I spread out the clothes in the sun
 # third: oppeto "I die" is not a sentence a learner needs
 oppeto | Dux in bello mortem oppetit | The general meets his death in war
+oppidum | Oppidum portas tres habet | The town has three gates
+oppilo | Foramen lana oppilo | I plug the hole with wool
+oppleo | Cadum vino oppleo | I fill the jar with wine
+oppono | Muros hostibus oppono | I set walls against the enemy
+opportunitas | Opportunitas temporis legatum juvat | The opportunity of the moment helps the envoy
+# skip: oppositus2 is attested only in the ablative singular, so it has no nominative headword form
+opprimo | Nucem lapide opprimo | I crush the nut with a stone
+opprobrium | Opprobrium famam civitatis minuit | The disgrace damages the reputation of the city
+opprobro | Servum pigrum opprobro | I reproach the lazy slave
+oppugnatio | Oppugnatio castelli agricolas in urbem fugat | The siege of the fort drives the farmers into the city
