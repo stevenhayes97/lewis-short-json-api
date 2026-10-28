@@ -112,3 +112,15 @@ emarcesco | Flos sine aqua emarcescit | The flower withers without water
 emblema | Emblema in patera nitet | The inlay shines on the dish
 emendo | Errores in scripto emendo | I correct the mistakes in the text
 ementior | Fabulam de itinere ementior | I fabricate a tale about my journey
+emercor | Testem nummis emercor | I bribe the witness with coins
+emereo | Praemium labore emereo | I earn a reward by work
+emergo | E flumine emergo | I emerge from the river
+emetior | Farinam in saccum emetior | I measure out flour into the sack
+# third: emico only sparks and flames spring forth
+emico | Scintilla ex igne emicat | The spark springs forth from the fire
+emigro | Ex patria in Asiam emigro | I emigrate from my homeland to Asia
+eminentia | Eminentia rupis nautas monet | The prominence of the cliff warns the sailors
+# third: emineo only things project
+emineo | Turris super muros eminet | The tower projects above the walls
+emissarius | Emissarius castra hostium observat | The spy watches the enemy camp
+emissio | Emissio captivorum cives laetos facit | The release of the prisoners makes the citizens glad
