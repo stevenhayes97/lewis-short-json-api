@@ -397,3 +397,5 @@ furunculus | Furunculus pomum de mensa tollit | The pilferer takes an apple from
 fusco | Nimbus caelum fuscat | The storm cloud darkens the sky
 fusio | Fusio aquae ex urna flores recreat | The outpouring of water from the urn refreshes the flowers
 fustis | Fustis in angulo jacet | The cudgel lies in the corner
+fustuarium | Fustuarium milites ignavos terret | The cudgelling frightens the cowardly soldiers
+fusus3 | Fusus lanam torquet | The spindle twists the wool
