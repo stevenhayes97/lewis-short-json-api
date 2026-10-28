@@ -349,3 +349,13 @@ exhibeo | Picturam hospitibus exhibeo | I present the painting to the guests
 exhilaro | Convivas musica exhilaro | I cheer the dinner guests with music
 exhorresco | Ad tonitrum exhorresco | I shudder at the thunder
 exhortatio | Exhortatio ducis milites incitat | The general's exhortation spurs on the soldiers
+exhortor | Socios ad pugnam exhortor | I exhort my allies to battle
+exigo | Mercenarium e castris exigo | I expel the mercenary from the camp
+exiguitas | Exiguitas frumenti colonos sollicitat | The scantiness of the grain worries the farmers
+exilitas | Exilitas vocis oratorem impedit | The thinness of the voice hinders the orator
+eximo | Clavum e tabula eximo | I remove the nail from the board
+exinanio | Cistam exinanio | I empty the chest
+exintero | Anserem exintero | I disembowel the goose
+existimatio | Existimatio patris filium dirigit | The father's judgment guides the son
+existimator | Existimator carmen novum laudat | The critic praises the new poem
+existimo | Hunc librum utilem existimo | I think this book is useful
