@@ -93,3 +93,13 @@ feriae | Feriae pueros ad mare vocant | The holidays call the boys to the sea
 # third: ferio a military figure is more natural than the first person
 ferio | Miles portam ferit | The soldier strikes the gate
 ferior | Post vindemiam ferior | I rest after the grape harvest
+feritas | Feritas leonis viatores in via terret | The fierceness of the lion frightens the travellers on the road
+fermento | Panem fermento | I leaven the bread
+fermentum | Fermentum massam inflat | The leaven puffs up the dough
+fero | Aquam in urna fero | I carry water in a jar
+ferocia | Ferocia equi stabularium terret | The horse's fierceness frightens the groom
+ferocio | Ob injuriam ferocio | I rage at the insult
+ferocitas | Ferocitas aprorum venatores cautos facit | The fierceness of the boars makes the hunters cautious
+ferramentum | Ferramentum in arca fabri jacet | The tool lies in the smith's chest
+ferrugo | Ferrugo clavum veterem edit | The rust eats the old nail
+ferrum | Ferrum in igne rubet | The iron glows red in the fire
