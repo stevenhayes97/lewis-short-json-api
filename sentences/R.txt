@@ -101,3 +101,14 @@ recuro | Aegrum herbis recuro | I cure the sick man with herbs
 recurro | Ad villam recurro | I return to the farmhouse
 recurso | Ad portum recurso | I return to the port
 recursus | Recursus nautae a mari gaudium familiae affert | The sailor's return from the sea brings joy to the family
+recurvo | Virgam salicis recurvo | I bend back the willow rod
+recusatio | Recusatio consulis senatum offendit | The consul's refusal offends the senate
+recuso | Donum recuso | I refuse the gift
+# third: recutio "I rebound" is unnatural; a ball is the natural subject
+recutio | Pila a pariete recutit | The ball rebounds from the wall
+redamo | Matrem redamo | I love my mother back
+redarguo | Falsum testem redarguo | I refute the false witness
+redditio | Redditio pecuniae creditorem laetum facit | The return of the money makes the lender glad
+reddo | Librum domino reddo | I return the book to the master
+redemptio | Redemptio captivi magnum aurum poscit | The ransom of the captive demands much gold
+redemptor | Redemptor pontem novum aedificat | The contractor builds a new bridge
