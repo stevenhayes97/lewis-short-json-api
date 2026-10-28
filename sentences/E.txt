@@ -1,0 +1,13 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/E.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+ebibo | Totum poculum ebibo | I drink up the whole cup
+eblandior | Ab avo donum eblandior | I wheedle a gift out of my grandfather
+ebrietas | Ebrietas hospitem pigrum facit | Drunkenness makes the guest lazy
+# third: ebullio only liquids bubble up
+ebullio | Aqua in olla ebullit | The water bubbles up in the pot
+ebur | Ebur ex Africa venit | Ivory comes from Africa
+ecclesia | Ecclesia in colle stat | The church stands on the hill
+echinus1 | Echinus in rupe haeret | The sea urchin clings to the rock
+ecloga | Ecloga versuum magistro placet | The selection of verses pleases the teacher
+edico | Pacem per vicos edico | I proclaim peace through the villages
+edictum | Edictum praetoris cives monet | The praetor's edict warns the citizens
