@@ -140,3 +140,13 @@ lector | Lector fabulam novam avide petit | The reader eagerly seeks a new story
 lectulus | Lectulus in angulo cubiculi stat | The couch stands in the corner of the bedroom
 lectus2 | Lectus mollis viatorem fessum invitat | The soft bed invites the weary traveller
 legatio | Legatio Romana Athenas proficiscitur | The Roman embassy sets out for Athens
+legio | Legio trans flumen castra ponit | The legion pitches camp across the river
+lego1 | Filium ad regem lego | I depute my son to the king
+lego2 | Epistulam matris lego | I read my mother's letter
+legulus | Legulus oleas de terra tollit | The gatherer picks olives off the ground
+legumen | Legumen agricolae cibum solidum praebet | Pulse provides sturdy food for the farmer
+lembus | Lembus celer per fluctus currit | The swift skiff runs through the waves
+lemma | Lemma carminis poetam inspirat | The theme of the poem inspires the poet
+lemniscus | Lemniscus coronam victoris ornat | The ribbon decorates the victor's crown
+lena | Lena in comoedia pecuniam poscit | The procuress in the comedy demands money
+lenio | Equum trepidum voce lenio | I soothe the nervous horse with my voice
