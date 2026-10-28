@@ -504,3 +504,16 @@ extrico | Lanam extrico | I disentangle the wool
 extrudo | Muscas e culina extrudo | I expel the flies from the kitchen
 # third: extubero "I swell" is odd; a root swells
 extubero | Radix in humo extuberat | The root swells in the ground
+extundo | Aes in incude extundo | I pound out the bronze on the anvil
+exturbo | Latrones e valle exturbo | I expel the robbers from the valley
+exubero | Frumento exubero | I abound in grain
+exulceratio | Exulceratio pedis militem domi tenet | The soreness of the foot keeps the soldier at home
+# third: exulcero "I inflame" is odd; the cold inflames
+exulcero | Frigus vulnus exulcerat | The cold inflames the wound
+# third: exululo only animals howl
+exululo | Lupus noctu exululat | The wolf howls at night
+# third: exundo "I overflow" is odd; a river overflows
+exundo | Flumen post imbrem exundat | The river overflows after the rain
+exuo | Tunicam humidam exuo | I strip off the wet tunic
+exuro | Sarmenta exuro | I burn up the vine cuttings
+exuviae | Exuviae hostium templum ornant | The spoils of the enemy adorn the temple
