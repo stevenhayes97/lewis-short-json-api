@@ -500,3 +500,13 @@ interpellator | Interpellator in theatro actorem vexat | The interrupter annoys 
 interpello | Cantorem interpello | I interrupt the singer
 interpolo | Testamentum interpolo | I falsify the will
 interpono | Schedam in librum interpono | I insert a slip of paper into the book
+interpositio | Interpositio novi capituli librum longiorem facit | The insertion of a new chapter makes the book longer
+interpres | Interpres legatorum verba senatui explicat | The interpreter explains the envoys' words to the senate
+interpretatio | Interpretatio somnii matrem consolatur | The interpretation of the dream comforts the mother
+interpretor | Omen interpretor | I interpret the omen
+interpungo | Orationem interpungo | I punctuate the speech
+interrado | Truncos arborum interrado | I scrape the tree trunks
+interregnum | Interregnum urbem sine consulibus relinquit | The interregnum leaves the city without consuls
+interrex | Interrex comitia consulum indicit | The interim regent calls the elections for the consuls
+interrogatio | Interrogatio testis judicem fatigat | The interrogation of the witness tires the judge
+interrogo | Discipulos de historia interrogo | I question the pupils about history
