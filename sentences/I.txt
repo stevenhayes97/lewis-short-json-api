@@ -114,3 +114,13 @@ imprudentia | Imprudentia adulescentis patrem contristat | The young man's impru
 impudentia | Impudentia testis judices irritat | The witness's impudence irritates the judges
 impudicitia | Impudicitia censorem offendit | Lewdness offends the censor
 impugno | Portam oppidi impugno | I attack the town gate
+impulsio | Impulsio ventorum navem ad portum agit | The impulse of the winds drives the ship to the harbour
+impulsor | Impulsor belli cives ad forum vocat | The instigator of the war calls the citizens to the forum
+impulsus2 | Impulsus patris filium ad studia movet | The father's impulse moves the son to his studies
+impunitas | Impunitas furem audacem facit | Impunity makes the thief bold
+imputo | Pretium vini tibi imputo | I charge the price of the wine to you
+# skip: ina is attested only in the genitive plural (inarum), with no usable nominative
+inaedifico | Casam prope viam inaedifico | I build a cottage near the road
+inaequalitas | Inaequalitas ordinum civitatem dividit | The inequality of the ranks divides the state
+inalbo | Lanam sole inalbo | I whiten the wool in the sun
+inambulatio | Inambulatio post cenam senatorem sanum servat | Pacing after dinner keeps the senator healthy
