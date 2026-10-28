@@ -347,3 +347,36 @@ munero | Amicum libro munero | I present my friend with a book
 munia | Munia consulis multas horas occupant | The consul's duties occupy many hours
 municeps | Municeps in oppido suo magistratum gerit | The citizen holds office in his own town
 municipium | Municipium theatrum novum aedificat | The municipality builds a new theatre
+munifex | Munifex fossam in castris purgat | The fatigue-man cleans the ditch in the camp
+munificentia | Munificentia divitis pauperes cibo juvat | The rich man's munificence helps the poor with food
+munimen | Munimen villam a lupis tuetur | The defence protects the farmhouse from wolves
+munimentum | Munimentum collis hostes diu arcet | The fortification of the hill keeps the enemy away for a long time
+munio1 | Castra fossa munio | I fortify the camp with a ditch
+munitio | Munitio urbis cives multos menses occupat | The fortifying of the city keeps the citizens busy for many months
+munitor | Munitor pontem super flumen aedificat | The engineer builds a bridge over the river
+munus | Munus patris filium ad urbem vocat | The father's duty calls his son to the city
+munusculum | Munusculum sorori gaudium dat | The little gift gives joy to my sister
+murex | Murex in rupe haeret | The murex clings to the rock
+muria | Muria pisces in dolio servat | The brine preserves the fish in the jar
+murmur | Murmur rivi dormientem lenit | The murmur of the stream soothes the sleeper
+murmuro | Ad aurem amici murmuro | I murmur into my friend's ear
+murra1 | Murra odorem dulcem in aula diffundit | The myrrh spreads a sweet scent in the hall
+murra3 | Murra in mensa divitis splendet | The murra gleams on the rich man's table
+murus | Murus altus hortum a via secernit | The high wall separates the garden from the road
+mus1 | Mus in horreo frumentum rodit | The mouse gnaws grain in the barn
+musca1 | Musca circum mensam volat | The fly buzzes around the table
+musculus | Musculus per foramen parietis currit | The little mouse runs through the hole in the wall
+musica | Musica puellas in schola delectat | Music delights the girls in the school
+musimo | Musimo in saxo stat | The mouflon stands on the rock
+mussito | Sub arbore mussito | I mutter under the tree
+musso | Ad januam musso | I mutter at the door
+mustaceus | Mustaceus sponsos in convivio delectat | The wedding-cake delights the bride and groom at the feast
+mutatio | Mutatio caeli aegrum juvat | The change of climate helps the sick man
+# third: mutilo a violent verb; keeps to a military frame
+mutilo | Exercitus hostium aciem mutilat | The army cripples the enemy battle line
+mutio | Coram magistro mutio | I mutter in front of the teacher
+muto1 | Vestem muto | I change my clothes
+mutuor | Libros ab amico mutuor | I borrow books from my friend
+myrtetum | Myrtetum apes in aestate allicit | The myrtle-grove attracts bees in summer
+myrtus | Myrtus ad templum Veneris crescit | The myrtle grows beside the temple of Venus
+mysterium | Mysterium Cereris viatores ad Eleusinam trahit | The mystery of Ceres draws travellers to Eleusis
