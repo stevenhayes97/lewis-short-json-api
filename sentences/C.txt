@@ -987,3 +987,14 @@ corbis | Corbis plena pomorum sub arbore stat | The basket full of apples stands
 cordax | Cordax in comoedia saltatur | The cordax is danced in the comedy
 corium | Corium bovis in sole siccatur | The ox's hide dries in the sun
 cornicularius | Cornicularius tribuno epistulam affert | The adjutant brings a letter to the tribune
+corniculum1 | Corniculum in galea militis fulget | The horn shines on the soldier's helmet
+cornix | Cornix in tecto crocitat | The crow croaks on the roof
+cornu | Cornu cervi in silva latet | The stag's horn lies hidden in the forest
+corollarium | Corollarium histrioni a populo datur | A gratuity is given to the actor by the people
+corona | Corona aurea victorem ornat | The golden crown adorns the winner
+corono | Victorem lauro corono | I crown the winner with laurel
+# third: corporo "I embody" is better said of an artist giving shape to an idea
+corporo | Sculptor ideam in marmore corporat | The sculptor embodies the idea in marble
+corpus | Corpus fessum in lecto quiescit | The tired body rests in bed
+correctio | Correctio scripti discipulum juvat | The correction of the essay helps the pupil
+corrector | Corrector librum examinat | The corrector examines the book
