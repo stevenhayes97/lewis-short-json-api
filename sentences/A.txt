@@ -600,3 +600,14 @@ areola | Areola ante cenationem jacet | The small yard lies in front of the dini
 # third: aresco "I dry up" is not a sentence a learner needs
 aresco | Fluvius arescit | The river dries up
 argentum | Argentum in monte reperitur | Silver is found on the mountain
+argilla | Argilla figulo materiam dat | The clay gives the potter material
+argumentatio | Argumentatio oratoris judices movet | The orator's argument moves the judges
+argumentor | De pace argumentor | I argue about peace
+argumentum | Argumentum causam probat | The proof establishes the case
+arguo | Veritatem verbis arguo | I prove the truth with words
+argutiae | Argutiae vultus statuam ornant | The liveliness of the face adorns the statue
+argutor | Cum sorore argutor | I prattle with my sister
+ariditas | Ariditas agricolas terret | The drought frightens the farmers
+aries | Aries lanam densam habet | The ram has thick wool
+# third: arieto "I butt" is only something a ram does
+arieto | Aries portam arietat | The ram butts the gate
