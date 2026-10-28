@@ -179,3 +179,14 @@ flabra | Flabra ventorum navem agitant | The gusts of the winds toss the ship
 flacceo | Flos in vase flaccet | The flower droops in the vase
 # third: flagello "I whip" is grim; a charioteer whips
 flagello | Auriga equos flagellat | The charioteer whips the horses
+flagellum | Flagellum in stabulo pendet | The whip hangs in the stable
+flagitator | Flagitator ad ostium debitoris stat | The dun stands at the debtor's door
+flagitium | Flagitium familiam pudore afficit | The disgrace fills the family with shame
+flagito | Mercedem a domino flagito | I demand my wages from my master
+flagrantia | Flagrantia ignis tenebras noctis illuminat | The glow of the fire lights up the darkness of the night
+# third: flagro "I blaze" is odd; a fire blazes
+flagro | Ignis in atrio flagrat | The fire blazes in the hall
+flagrum | Flagrum juxta currum jacet | The whip lies beside the chariot
+flamen1 | Flamen aram floribus ornat | The flamen decorates the altar with flowers
+flamen2 | Flamen vela implet | The gust fills the sails
+flaminica | Flaminica cum marito in templo orat | The flamen's wife prays with her husband in the temple
