@@ -357,3 +357,13 @@ inquieto | Canem dormientem inquieto | I disturb the sleeping dog
 inquilinus1 | Inquilinus mercedem domino aedium solvit | The tenant pays the rent to the owner of the house
 inquino | Aquam luto inquino | I pollute the water with mud
 inquiro | De via inquiro | I inquire about the road
+inquisitio | Inquisitio de furto senatum occupat | The inquiry into the theft occupies the senate
+inquisitor | Inquisitor vestigia fugitivi per silvam sequitur | The investigator follows the runaway's tracks through the woods
+insania | Insania regis ministros terret | The king's madness frightens his servants
+insanio | Prae ira insanio | I am out of my mind with anger
+insanitas | Insanitas animi senem ad medicum ducit | The unsoundness of mind leads the old man to the doctor
+inscendo | Equum inscendo | I mount the horse
+inscientia | Inscientia viarum exercitum in silvis errare cogit | The ignorance of the roads makes the army wander in the woods
+inscitia | Inscitia nautae navem tardat | The sailor's ineptitude slows the ship
+inscribo | Nomen meum in tabula inscribo | I inscribe my name on the tablet
+inscriptio | Inscriptio portae nomen urbis monstrat | The inscription on the gate shows the name of the city
