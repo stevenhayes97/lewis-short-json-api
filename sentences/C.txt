@@ -208,3 +208,13 @@ celeritas | Celeritas equorum nuntium juvat | The speed of the horses helps the 
 celero | Gradum celero | I quicken my pace
 cella | Cella frumentum asservat | The storeroom keeps the grain
 celo | Donum in arca celo | I hide the gift in the chest
+cena | Cena a coquo paratur | The dinner is prepared by the cook
+cenaculum | Cenaculum supra tabernam est | The upper room is above the shop
+cenatio | Cenatio multas mensas habet | The dining-room has many tables
+ceno | Cum avo ceno | I dine with my grandfather
+censeo1 | Familias censeo | I assess the households
+censio | Censio in Campo Martio fit | The assessment takes place on the Campus Martius
+censor | Censor mores civium observat | The censor watches the conduct of the citizens
+censura | Censura viro honorem dat | The censorship gives honour to the man
+census2 | Census quinto quoque anno agitur | The census is held every fifth year
+centeni | Centeni equites ad castra veniunt | A hundred horsemen come to the camp
