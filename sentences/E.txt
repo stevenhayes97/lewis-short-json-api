@@ -223,3 +223,15 @@ evangelium | Evangelium in ecclesia legitur | The gospel is read in the church
 evangelizo | Pauperibus evangelizo | I evangelise the poor
 eveho | Amphoras e cella eveho | I carry the jars out of the cellar
 evello | Plantam e solo evello | I uproot the plant from the soil
+# third: evenio "I happen" is odd; events happen
+evenio | Res mira in itinere evenit | A strange thing happens on the journey
+eventilo | Dominam penna pavonis eventilo | I fan my mistress with a peacock feather
+eventus | Eventus pugnae ducem sollicitat | The outcome of the battle worries the general
+# third: everbero "I batter" is odd; a storm batters
+everbero | Procella tectum everberat | The storm batters the roof
+everriculum | Everriculum piscatorem ditat | The dragnet enriches the fisherman
+everro | Tabernam everro | I sweep out the shop
+eversio | Eversio tyranni populum exhilarat | The overthrow of the tyrant cheers the people
+eversor | Eversor muros veteres diruit | The destroyer demolishes the old walls
+everto | Urnam everto | I overturn the urn
+evidentia | Evidentia orationis judicem convincit | The clarity of the speech convinces the judge
