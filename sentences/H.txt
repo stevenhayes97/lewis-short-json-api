@@ -75,3 +75,13 @@ homicida | Homicida judices timet | The murderer fears the judges
 homo | Homo ad urbem properat | The person hurries to the city
 homuncio | Homuncio super mensam ambulat | The manikin walks on the table
 homunculus | Homunculus ligneus in fenestra sedet | The wooden manikin sits in the window
+honestas | Honestas patris filium inter vicinos juvat | The father's honour helps his son among the neighbours
+honesto | Victorem corona honesto | I honour the winner with a crown
+honor | Honor militem fortem manet | Honour awaits the brave soldier
+honoro | Deos sacrificiis honoro | I honour the gods with sacrifices
+hora1 | Hora nona mercatores domum revocat | The ninth hour calls the merchants home
+hordeum | Hordeum asinum pascit | The barley feeds the donkey
+horreo | Silvam nocte horreo | I dread the wood at night
+horresco | Ante tempestatem horresco | I shudder before the storm
+horreum1 | Horreum frumentum a pluvia defendit | The granary protects the grain from the rain
+horrifico | Hostes horrifico | I terrify the enemy
