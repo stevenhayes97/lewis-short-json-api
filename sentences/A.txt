@@ -735,3 +735,16 @@ attempero | Vestem puero attempero | I fit the garment to the boy
 attendo | Magistrum diligenter attendo | I listen carefully to the teacher
 attentio | Attentio discipuli magistrum juvat | The pupil's attention helps the teacher
 attento | Arcum attento | I try the bow
+attenuo | Vires hostium attenuo | I weaken the enemy's strength
+attero | Lapidem pedibus attero | I wear the stone away with my feet
+attestor | Veritatem attestor | I attest the truth
+attexo | Loricam ex cratibus attexo | I weave on a breastwork of wicker
+# third: attineo it is used of things that concern someone, not "I concern"
+attineo | Haec res ad consulem attinet | This matter concerns the consul
+attingo | Mensam attingo | I touch the table
+attollo | Pedes super limen attollo | I lift my feet over the threshold
+attondeo | Ovem attondeo | I shear the sheep
+# third: attono the thunder stuns; "I stun" does not read naturally
+attono | Tonitrus militem attonat | The thunder stuns the soldier
+# third: attraho violent verb, generic soldiers
+attraho | Dux hostem Romam attrahit | The general drags the enemy to Rome
