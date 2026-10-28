@@ -477,3 +477,14 @@ collino | Parietem creta collino | I besmear the wall with chalk
 collis | Collis post villam surgit | The hill rises behind the farmhouse
 collocatio | Collocatio verborum orationem ornat | The arrangement of words adorns the speech
 colloco | Sellam sub tecto colloco | I place the chair under the roof
+collocutio | Collocutio inter amicos grata est | Conversation between friends is pleasant
+colloquium | Colloquium ducum ad ripam fit | The conference of the generals takes place at the riverbank
+colloquor | Cum amico colloquor | I converse with my friend
+# third: colluceo only fires and bright things blaze
+colluceo | Ignis in nocte collucet | The fire blazes in the night
+colluco | Silvam colluco | I thin the wood
+colluctatio | Colluctatio athletarum spectatores delectat | The struggle of the athletes delights the spectators
+colluctor | Cum fratre colluctor | I wrestle with my brother
+colludo | Cum sorore colludo | I play with my sister
+collum | Collum ursi crassum est | The bear's neck is thick
+colluo | Pocula aqua colluo | I rinse the cups with water
