@@ -61,3 +61,16 @@ nervus | Nervus fortis in bracchio athletae pulsat | The strong sinew throbs in 
 nex | Nex consulis urbem terret | The murder of the consul frightens the city
 nexo | Funem ad malum nexo | I bind the rope to the mast
 nexus2 | Nexus funis saccum clausum tenet | The binding of the rope keeps the sack shut
+nicto | In sole nicto | I blink in the sun
+nidor | Nidor e culina fratrem meum ad mensam vocat | The smell from the kitchen calls my brother to the table
+# third: nidulor "I nest" is for a bird
+nidulor | Hirundo sub tecto nidulatur | The swallow nests under the roof
+nidulus | Nidulus in sepe ova habet | The nest in the hedge holds eggs
+nidus | Nidus pullos ab imbre servat | The nest keeps the chicks from the rain
+niger1 | Niger equus ad fontem bibit | The black horse drinks at the spring
+# third: nigresco "I darken" is for the sky
+nigresco | Caelum ante tempestatem nigrescit | The sky darkens before the storm
+# third: nigrico "I am blackish" is for a thing
+nigrico | Mare sub nubibus nigricat | The sea is blackish under the clouds
+nigro | Murum carbone nigro | I blacken the wall with charcoal
+nimbus | Nimbus viatores sub arborem compellit | The rainstorm forces the travellers under a tree
