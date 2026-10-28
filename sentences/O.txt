@@ -144,3 +144,16 @@ obvolvo | Librum linteo obvolvo | I wrap the book in a cloth
 occaeco | Pulvis oculos ducis occaecat | The dust blinds the general's eyes
 occasio | Occasio mercatori divitias offert | The opportunity offers wealth to the merchant
 occasus2 | Occasus solis diem finit | The setting of the sun ends the day
+occator | Occator glebas in agro frangit | The harrower breaks the clods in the field
+occedo | Ad flumen occedo | I approach the river
+occento | Ad fores occento | I serenade at the door
+occidio | Occidio exercitum hostium delet | The massacre destroys the enemy army
+# third: occido1 "I kill" reads unnaturally; a soldier does it
+occido1 | Miles hostem in acie occidit | The soldier kills the enemy in the battle line
+# third: occido2 "I set" is for the sun
+occido2 | Sol in mari occidit | The sun sets in the sea
+# third: occino "I screech" is for a raven
+occino | Corvus supra tectum occinit | The raven screeches above the roof
+occipio | Opus mane occipio | I begin the work in the morning
+occipitium | Occipitium meum sub petaso calet | The back of my head is warm under the hat
+occisio | Occisio legionis senatum contristat | The slaughter of the legion saddens the senate
