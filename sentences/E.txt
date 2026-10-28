@@ -412,3 +412,13 @@ expolitio | Expolitio marmoris sculptorem occupat | The polishing of the marble 
 expono | Rem difficilem civibus expono | I explain the difficult matter to the citizens
 exporrigo | Manum ad flammam exporrigo | I stretch out my hand to the flame
 exporto | Vinum in Galliam exporto | I export wine to Gaul
+exposco | Deos pacem exposco | I implore the gods for peace
+expositio | Expositio causae judicem informat | The exposition of the case informs the judge
+expostulatio | Expostulatio vicini dominum vexat | The neighbour's complaint annoys the master
+expostulo | Pretium ab emptore expostulo | I demand the price from the buyer
+expressio | Expressio olivarum agricolam occupat | The squeezing of the olives keeps the farmer busy
+exprimo | Succum ex uva exprimo | I squeeze the juice out of the grape
+exprobratio | Exprobratio dominae ancillam tristem facit | The mistress's reproach makes the maid sad
+exprobro | Segnitiam militi exprobro | I reproach the soldier for laziness
+expromo | Nummos e cista expromo | I bring the coins out of the chest
+expugnatio | Expugnatio castelli legiones fatigat | The storming of the fort tires the legions
