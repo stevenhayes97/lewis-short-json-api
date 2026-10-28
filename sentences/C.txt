@@ -178,3 +178,13 @@ catillus1 | Catillus ova continet | The small dish holds eggs
 catinus | Catinus cibum calidum servat | The dish keeps the food warm
 catulus1 | Catulus matrem sequitur | The whelp follows its mother
 cauda | Cauda equi muscas pellit | The horse's tail drives away flies
+caudex1 | Caudex in ripa jacet | The trunk lies on the bank
+caulae | Caulae in muro apparent | The openings appear in the wall
+cauliculus | Cauliculus florem sustinet | The little stalk supports the flower
+caulis | Caulis fabae alte surgit | The bean stalk rises high
+caupo | Caupo hospitibus cenam parat | The innkeeper prepares dinner for the guests
+caupona | Caupona in via Appia est | The inn is on the Appian Way
+causa | Causa belli senatui nota est | The cause of the war is known to the senate
+causia | Causia pastoris in saxo jacet | The shepherd's sunhat lies on the rock
+causidicus | Causidicus tabulas ad judicium portat | The pleader carries tablets to the court
+causor | Pluviam causor | I plead the rain
