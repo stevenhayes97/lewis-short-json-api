@@ -132,3 +132,14 @@ adequito | Ad castra adequito | I ride up to the camp
 adhaereo | Ad saxum adhaereo | I cling to the rock
 adhaeresco | In luto adhaeresco | I stick in the mud
 adhibeo | Aures magistro adhibeo | I lend my ears to the teacher
+# third: adhinnio "I neigh" is a horse's sentence, not a learner's
+adhinnio | Equus equae adhinnit | The horse neighs at the mare
+adhortatio | Adhortatio ducis milites incitat | The general's encouragement rouses the soldiers
+adhortor | Milites ad pugnam adhortor | I encourage the soldiers to battle
+adigo | Pecus ad flumen adigo | I drive the cattle to the river
+adimo | Puero librum adimo | I take the book away from the boy
+adimpleo | Cantharum aqua adimpleo | I fill the jug with water
+adipiscor | Gloriam adipiscor | I obtain glory
+aditio | Aditio ad insulam periculosa est | The approach to the island is dangerous
+adito | Forum quotidie adito | I visit the forum often
+aditus2 | Aditus ad domum angustus est | The approach to the house is narrow
