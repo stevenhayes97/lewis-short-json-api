@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/P.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+pabulatio | Pabulatio milites a castris longe ducit | The foraging draws the soldiers far from the camp
+pabulor | Prope ripam pabulor | I forage near the bank
+pabulum | Pabulum equos in stabulo alit | The fodder feeds the horses in the stable
+pacator | Pacator terrae legatos ad regem mittit | The pacifier of the land sends envoys to the king
+pacifico | Cum Germanis pacifico | I make peace with the Germans
+pacisco | Cum emptore de pretio pacisco | I agree with the buyer about the price
+paciscor | Pro agro cum vicino paciscor | I bargain with my neighbour for the field
+paco2 | Gallos rebelles paco | I pacify the rebellious Gauls
+pactio | Pactio inter duces bellum finit | The agreement between the generals ends the war
+paedagogium | Paedagogium novos pueros recipit | The pages' school receives the new boys
