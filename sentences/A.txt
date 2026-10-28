@@ -164,3 +164,13 @@ administratio | Administratio rei publicae senatum occupat | The administration 
 administro | Bellum administro | I conduct the war
 admirabilitas | Admirabilitas operis omnes tenet | The wonderfulness of the work holds everyone
 admiratio | Admiratio ducis in militibus crescit | Admiration for the general grows among the soldiers
+admiror | Fortitudinem militum admiror | I admire the soldiers' courage
+admisceo | Aquam vino admisceo | I mix water into the wine
+admissio | Admissio ad principem rara est | Admission to the emperor is rare
+admitto | Hospitem in domum admitto | I let the guest into the house
+admolior | Manus ad saxum admolior | I lay hands on the rock
+admoneo | Puerum officii admoneo | I remind the boy of his duty
+admonitio | Admonitio matris filium movet | The mother's reminder moves her son
+admonitor | Admonitor oratori nomen dicit | The prompter tells the orator the name
+# skip: admonitus2 used only in the ablative (admonitu), so it cannot be a nominative subject
+admordeo | Pomum admordeo | I bite into the apple
