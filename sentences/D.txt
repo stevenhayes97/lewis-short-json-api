@@ -491,3 +491,15 @@ dispunctio | Dispunctio rationum argentarium vexat | The audit of the accounts v
 dispungo | Rationes meas dispungo | I audit my accounts
 disputatio | Disputatio philosophorum in porticu fit | The discussion of the philosophers takes place in the colonnade
 disputo | De virtute cum magistro disputo | I discuss virtue with my teacher
+dissaepio | Cellam velo dissaepio | I partition the storeroom with a curtain
+disseco | Folium acu disseco | I dissect a leaf with a needle
+dissemino | Fabulam per urbem dissemino | I disseminate the story through the city
+dissensio | Dissensio inter consules rem publicam debilitat | The disagreement between the consuls weakens the republic
+dissentio | A sodali de bello dissentio | I disagree with my comrade about the war
+# third: dissereno only the sky clears
+dissereno | Caelum post imbrem disserenat | The sky clears up after the rain
+dissero1 | Hordeum in agro dissero | I sow barley in the field
+disserto | De philosophia disserto | I discuss philosophy
+dissideo | A sociis de via dissideo | I disagree with my companions about the road
+# third: dissilio only things burst
+dissilio | Olla in igne dissilit | The pot bursts in the fire
