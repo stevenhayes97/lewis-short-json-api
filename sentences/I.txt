@@ -190,3 +190,14 @@ increpo | Tuba in castris increpat | The trumpet resounds in the camp
 incresco | Cotidie incresco | I grow every day
 incrusto | Crateram gemmis incrusto | I encrust the bowl with gems
 incubatio | Incubatio ovorum in nido multos dies durat | The incubation of the eggs in the nest lasts many days
+# third: incubo1 "I lie upon" is odd; a hen sits on her nest
+incubo1 | Gallina nido incubat | The hen sits on her nest
+incubo2 | Incubo thesaurum sub terra servat | The incubus guards the treasure under the ground
+inculco | Discipulis grammaticam inculco | I inculcate grammar into the pupils
+incultus2 | Incultus agri dominum tristem facit | The neglect of the field makes its owner sad
+incumbo | Muro incumbo | I lean on the wall
+incunabula | Incunabula infantem calidum servant | The swaddling clothes keep the baby warm
+incuria | Incuria villici fundum perdit | The steward's negligence ruins the estate
+incurro | In equites hostium incurro | I attack the enemy cavalry
+incursio | Incursio equitum cohortem turbat | The assault of the cavalry throws the cohort into confusion
+incursito | In hostes saepe incursito | I often assail the enemy
