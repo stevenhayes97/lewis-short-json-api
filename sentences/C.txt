@@ -590,3 +590,14 @@ compello2 | Fratrem de mora compello | I rebuke my brother for the delay
 compendium | Compendium magnum mercatorem laetificat | The great saving cheers the merchant
 compensatio | Compensatio damni civem placat | The compensation for the loss calms the citizen
 compenso | Damnum lucro compenso | I compensate the loss with a profit
+comperendinatio | Comperendinatio judicii litigatorem vexat | The adjournment of the trial annoys the litigant
+comperendino | Judicium in alium diem comperendino | I adjourn the trial to another day
+comperio | Verum ex nuntio comperio | I ascertain the truth from the messenger
+comperior | Nomen viri comperior | I ascertain the man's name
+compes1 | Compes equi in horreo jacet | The horse's fetter lies in the storehouse
+compesco | Iram meam compesco | I curb my anger
+# third: competo "I coincide" is not a sentence a learner needs; events coincide
+competo | Dies festus cum ludis competit | The festival day coincides with the games
+compilo | Agros hostium compilo | I plunder the enemy's fields
+compingo1 | Tabulas glutino compingo | I join the boards with glue
+compitum | Compitum prope templum est | The crossroads is near the temple
