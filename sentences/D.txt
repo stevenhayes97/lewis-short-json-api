@@ -560,3 +560,13 @@ do1 | Munus fratri do | I give a gift to my brother
 doceo | Discipulos grammaticam doceo | I teach the pupils grammar
 doctrina | Doctrina Graeca juvenem Romanum format | Greek instruction shapes the young Roman
 documentum | Documentum fabulae pueris prodest | The lesson of the story benefits the boys
+dodrans | Dodrans panis in mensa manet | Three-quarters of the loaf remains on the table
+dogma | Dogma Stoicorum juvenem movet | The doctrine of the Stoics moves the young man
+dolabra | Dolabra saxum frangit | The pickaxe breaks the rock
+doleo | Casum sororis doleo | I grieve at my sister's misfortune
+dolium | Dolium in cella vinaria stat | The large jar stands in the wine cellar
+dolo1 | Trabem ascia dolo | I hew the beam with an adze
+dolor | Dolor dentis noctem longam facit | The pain in the tooth makes the night long
+dolus | Dolus hostis exercitum fallit | The enemy's trick deceives the army
+domicilium | Domicilium novum familiam exspectat | The new dwelling awaits the family
+dominatio | Dominatio regis superbi cives premit | The tyranny of the proud king oppresses the citizens
