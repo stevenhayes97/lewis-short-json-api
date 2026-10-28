@@ -28,7 +28,7 @@ effarcio | Culcitam pennis effarcio | I stuff the cushion with feathers
 effectus2 | Effectus consilii ducem laetum facit | The execution of the plan makes the general happy
 effemino | Juvenem otio effemino | I enervate the young man with idleness
 effero1 | Sarcinas e nave effero | I carry the packs out of the ship
-effero2 | Pastores solitudine effero | I make the shepherds wild with loneliness
+effero2 | Leonem fame effero | I make the lion wild with hunger
 # third: effervesco only liquids boil over
 effervesco | Lac in igne effervescit | The milk boils over on the fire
 # third: effervo only liquids boil over
@@ -39,7 +39,7 @@ effingo | Navem ex ligno effingo | I fashion a ship out of wood
 efflagito | A consule auxilium efflagito | I demand help urgently from the consul
 # third: effligo a military figure is more natural than the first person
 effligo | Miles hostem effligit | The soldier kills the enemy
-efflo | Aerem frigidum efflo | I breathe out the cold air
+efflo | Aerem in manus efflo | I breathe air onto my hands
 # third: effloresco only plants blossom
 effloresco | Rosa vere efflorescit | The rose blossoms in spring
 # third: effluo only liquids flow out
@@ -72,7 +72,7 @@ elabor | Ex turba elabor | I slip away from the crowd
 elaboro | In litteris elaboro | I strive at my studies
 elacatenes | Elacatenes in mari natant | The tunny swim in the sea
 elanguesco | Prae calore elanguesco | I grow faint from the heat
-elatio | Elatio turris oppidum decorat | The elevation of the tower adorns the town
+elatio | Elatio vocis auditores excitat | Raising the voice rouses the listeners
 elavo | Maculas e veste elavo | I wash the stains out of the garment
 electio | Electio vestis sponsam tardat | The choice of a dress delays the bride
 electrum | Electrum in sole fulget | Amber shines in the sun
@@ -189,7 +189,7 @@ ericius | Ericius in sepe latet | The hedgehog hides in the hedge
 erigo | Columnam erigo | I raise up the column
 eripio | Lupo ovem eripio | I snatch the sheep away from the wolf
 # third: erodo "I gnaw away" is odd; a worm gnaws away
-erodo | Tinea librum erodit | The grub gnaws away the book
+erodo | Tinea librum erodit | The bookworm gnaws away the book
 erogatio | Erogatio publica thesaurum minuit | The public disbursement reduces the treasury
 erogo | Pecuniam militibus erogo | I disburse money to the soldiers
 erro1 | Per silvas erro | I wander through the woods
@@ -220,7 +220,7 @@ evalesco | Post hiemem evalesco | I gather strength after the winter
 # third: evanesco only mist and the like vanish
 evanesco | Nebula sole evanescit | The mist vanishes in the sun
 evangelium | Evangelium in ecclesia legitur | The gospel is read in the church
-evangelizo | Pauperibus evangelizo | I evangelise the poor
+evangelizo | Pauperibus evangelizo | I preach the gospel to the poor
 eveho | Amphoras e cella eveho | I carry the jars out of the cellar
 evello | Plantam e solo evello | I uproot the plant from the soil
 # third: evenio "I happen" is odd; events happen
@@ -242,7 +242,7 @@ evincio | Caput vitta evincio | I bind my head with a ribbon
 evinco | Gentem feram evinco | I conquer the fierce tribe
 # third: eviro "I emasculate" is grim; luxury emasculates
 eviro | Luxus militem evirat | Luxury emasculates the soldier
-eviscero | Piscem eviscero | I disembowel the fish
+eviscero | Piscem eviscero | I gut the fish
 evito1 | Viam periculosam evito | I avoid the dangerous road
 # third: evito2 a military figure is more natural than the first person; the entry's idiom is vitam evitare
 evito2 | Hostis duci vitam evitat | The enemy kills the commander
@@ -250,7 +250,7 @@ evocatio | Evocatio nocturna senatores perturbat | The night summons disturbs th
 evoco | Testem ad judicium evoco | I summon the witness to the trial
 # third: evolo only birds fly away
 evolo | Avis e nido evolat | The bird flies away from the nest
-evolvo | Librum evolvo | I unroll the scroll
+evolvo | Librum evolvo | I unroll the book
 # third: evomo a crude bodily verb; a dog vomits
 evomo | Canis cibum evomit | The dog vomits the food
 evulgo | Carmina mea evulgo | I publish my poems
@@ -299,7 +299,7 @@ exceptor | Exceptor tabulas in cista condit | The scribe puts the tablets in the
 excerno | Furfur e farina excerno | I sift the bran out of the flour
 excerpo | Versus ex libro excerpo | I select verses from the book
 excessus | Excessus legionis oppidum vacuum reddit | The departure of the legion leaves the town empty
-excidium1 | Excidium Troiae poetam inspirat | The destruction of Troy inspires the poet
+excidium1 | Excidium Trojae poetam inspirat | The destruction of Troy inspires the poet
 # third: excido1 "I fall out" is odd; things fall out
 excido1 | Anulus de manu excidit | The ring falls out of the hand
 excido2 | Quercum excido | I cut down the oak

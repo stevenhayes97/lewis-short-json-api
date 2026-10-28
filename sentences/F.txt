@@ -83,7 +83,7 @@ feles | Feles murem sub mensa spectat | The cat watches the mouse under the tabl
 felicitas1 | Felicitas matris filiam ad risum movet | The mother's happiness moves her daughter to laughter
 femina | Femina ad fontem rosas legit | The woman gathers roses at the spring
 femur | Femur equitis post iter dolet | The rider's thigh aches after the journey
-fenestella | Fenestella ad hortum aperta est | The window is open to the garden
+fenestella | Fenestella ad hortum aperta est | The little window is open to the garden
 fenestra | Fenestra ad viam spectat | The window faces the street
 fenestro | Murum fenestro | I put windows in the wall
 ferculum | Ferculum dominum per viam portat | The litter carries the master along the road
@@ -139,7 +139,7 @@ fidelia | Fidelia in culina pendet | The pot hangs in the kitchen
 fidelitas | Fidelitas servi dominum movet | The slave's fidelity moves his master
 fidentia1 | Fidentia ducis milites ad pugnam incitat | The general's confidence spurs the soldiers to battle
 fidepromissor | Fidepromissor pro fratre pecuniam spondet | The surety pledges money for his brother
-fides1 | Fides amicorum vitam beatam facit | Trust among friends makes life happy
+fides1 | Fides amicorum vitam beatam facit | The loyalty of friends makes life happy
 fides2 | Fides sub digitis poetae sonat | The lyre sounds under the poet's fingers
 fidicen | Fidicen ante cenam canit | The harpist plays before dinner
 fidiculae | Fidiculae in angulo pendent | The lutes hang in the corner
@@ -153,7 +153,7 @@ figura | Figura vasis emptori placet | The shape of the vase pleases the buyer
 figuratio | Figuratio argillae discipulos in schola exercet | The shaping of clay trains the pupils in school
 figuro | Ex argilla ranam figuro | I shape a frog out of clay
 filia | Filia mea cum matre cantat | My daughter sings with her mother
-filiola | Filiola patrem ad portam exspectat | The daughter waits for her father at the gate
+filiola | Filiola patrem ad portam exspectat | The little daughter waits for her father at the gate
 filius | Filius agricolae boves pascit | The farmer's son feeds the oxen
 filum | Filum rubrum in acu pendet | The red thread hangs on the needle
 fimbriae | Fimbriae pallii in luto trahuntur | The fringe of the cloak is dragged in the mud
@@ -245,7 +245,7 @@ follico | Mulus senex follicat | The old mule pants
 folliculus | Folliculus nummos continet | The pouch holds the coins
 follis | Follis ignem fabri excitat | The bellows rouses the smith's fire
 fomentum | Fomentum dolorem lenit | The poultice soothes the pain
-fomes | Fomes in scintillam cadit | The tinder falls on the spark
+fomes | Fomes scintillam accipit | The tinder catches the spark
 fons | Fons in monte oritur | The spring rises on the mountain
 # third: for the first person present is not in use (the forms are fatur, fantur, fabor)
 for | Rex ad populum fatur | The king speaks to the people
@@ -285,8 +285,8 @@ fragor | Fragor arboris silentium silvae rumpit | The crash of the tree breaks t
 # third: fragro "I smell" is ambiguous; a place smells of something
 fragro | Hortus rosis fragrat | The garden smells of roses
 frango | Nucem saxo frango | I break the nut with a stone
-frater | Frater maior mihi librum dat | My elder brother gives me a book
-fraterculus | Fraterculus cum sorore ad ludum currit | The brother runs to school with his sister
+frater | Frater meus maior mihi librum dat | My elder brother gives me a book
+fraterculus | Fraterculus cum sorore ad ludum currit | The little brother runs to school with his sister
 fraternitas | Fraternitas sociorum urbem firmam facit | The brotherhood of the allies makes the city strong
 fraudatio | Fraudatio mercatoris emptores irritat | The merchant's fraud irritates the buyers
 fraudo | Publicanum fraudo | I defraud the tax-collector
@@ -328,4 +328,4 @@ frumentor | Prope castra frumentor | I forage near the camp
 frumentum | Frumentum in horreo servatur | The grain is kept in the barn
 fruniscor | Otio fruniscor | I enjoy leisure
 fruor | Pace fruor | I enjoy peace
-frustratio | Frustratio custodis exercitum juvat | The deception of the guard helps the army
+frustratio | Frustratio mercatoris emptorem irritat | The merchant's deception irritates the buyer
