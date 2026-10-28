@@ -336,3 +336,14 @@ lusor | Lusor pilam celeriter capit | The player catches the ball quickly
 lustratio | Lustratio pagi rusticos ad aram convocat | The purification of the village calls the countrymen together to the altar
 lustro1 | Agrum cum sacerdote lustro | I purify the field with the priest
 lustrum1 | Lustrum in valle ranis plenum est | The bog in the valley is full of frogs
+lustrum2 | Lustrum quinque annos habet | A lustrum has five years
+lusus2 | Lusus in prato pueros laetos facit | Play in the meadow makes the boys cheerful
+luto1 | Murum argilla luto | I bedaub the wall with clay
+lutum1 | Lutum in colle aprico crescit | Dyer's-weed grows on the sunny hill
+lutum2 | Lutum in via plaustrum retinet | The mud on the road holds back the cart
+lux | Lux matutina montes aureos facit | The morning light makes the mountains golden
+luxo | Humerum meum casu luxo | I dislocate my shoulder by accident
+luxuria | Luxuria vitis pergulam obtegit | The luxuriance of the vine covers the arbour
+# third: luxurio "I flourish" is for a plant
+luxurio | Seges in agro luxuriat | The crop flourishes in the field
+lychnis | Lychnis inter herbas apparet | The campion appears among the grass
