@@ -41,3 +41,15 @@ decimo | Dux legionem decimat | The general decimates the legion
 decipio | Hostem decipio | I deceive the enemy
 decipula | Decipula in via latet | The trap hides in the road
 decisio | Decisio litis amicos laetos facit | The settlement of the dispute makes the friends happy
+declamatio | Declamatio discipulos exercet | The declamation trains the pupils
+declamator | Declamator ante magistrum stat | The declaimer stands before the teacher
+declamito | Cotidie declamito | I declaim every day
+declamo | Ante amicos declamo | I declaim before my friends
+declaro | Victoriam declaro | I declare the victory
+declinatio | Declinatio viae iter longum facit | The deviation of the road makes the journey long
+declino | De via declino | I deviate from the road
+decoctio | Decoctio herbarum tussim levat | The decoction of herbs eases a cough
+# third: decollo only a commander or soldier does this, and the first person is unnatural
+decollo | Imperator hostem decollat | The commander beheads the enemy
+# third: decolo only hopes and plans fail
+decolo | Spes decolat | The hope fails
