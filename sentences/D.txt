@@ -215,3 +215,15 @@ depingo | Navem in pariete depingo | I depict the ship on the wall
 depleo | Paludem fossa depleo | I drain the marsh with a ditch
 deploro | Meos casus deploro | I lament my misfortunes
 depolio | Mensam pumice depolio | I smooth the table with pumice
+depopulatio | Depopulatio agrorum rusticos maestos reddit | The devastation of the fields leaves the farmers sad
+# third: depopulor a military figure is more natural than the first person
+depopulor | Exercitus fines depopulatur | The army ravages the territory
+deporto | Sarcinas ad navem deporto | I carry the packs away to the ship
+deposco | Auxilium deposco | I demand help
+depositio | Depositio pecuniae apud argentarium fit | The deposit of money is made with the banker
+# third: depraedor a military figure is more natural than the first person
+depraedor | Dux oppidum depraedatur | The general plunders the town
+depravatio | Depravatio imaginis in aqua risum movet | The distortion of the image in the water raises laughter
+depravo | Vultum in aqua depravo | I distort my face in the water
+deprecatio | Deprecatio puerorum matrem movet | The entreaty of the children moves their mother
+deprecator | Deprecator pro civibus ad regem venit | The intercessor comes to the king for the citizens
