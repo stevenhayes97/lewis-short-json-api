@@ -187,7 +187,7 @@ caupona | Caupona in via Appia est | The inn is on the Appian Way
 causa | Causa belli senatui nota est | The cause of the war is known to the senate
 causia | Causia pastoris in saxo jacet | The shepherd's sunhat lies on the rock
 causidicus | Causidicus tabulas ad judicium portat | The pleader carries tablets to the court
-causor | Pluviam causor | I plead the rain
+causor | Pluviam causor | I plead the rain as an excuse
 cautela | Cautela nautam in tempestate servat | Caution keeps the sailor safe in a storm
 cauterium | Cauterium in igne calet | The branding iron is hot in the fire
 cautes | Cautes in mare eminet | The crag juts out into the sea
@@ -226,7 +226,7 @@ centuplico | Pecuniam centuplico | I increase the money a hundredfold
 centuria | Centuria ad pontem procedit | The century advances to the bridge
 centurio1 | Agrum centurio | I divide the field into centuries
 centurio2 | Centurio milites in campo exercet | The centurion trains the soldiers in the field
-centussis | Centussis pretium togae est | The hundred asses are the price of the toga
+centussis | Centussis pretium togae est | A hundred coppers is the price of the toga
 cera | Cera in sole liquescit | The wax melts in the sun
 cerastes | Cerastes in arena serpit | The horned viper creeps on the sand
 cerasus1 | Cerasus vere floret | The cherry tree blooms in spring
