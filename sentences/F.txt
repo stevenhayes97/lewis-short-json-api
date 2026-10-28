@@ -365,3 +365,13 @@ fultura | Fultura lignea vitem erigit | The wooden support holds the vine uprigh
 fumigo | Domum sulphure fumigo | I fumigate the house with sulphur
 # third: fumo "I smoke" suggests tobacco; a mountain top smokes
 fumo | Cacumen montis fumat | The summit of the mountain smokes
+fumus | Fumus per culmen ad caelum ascendit | The smoke rises through the roof to the sky
+functio | Functio muneris consulem fatigat | The performance of the office tires the consul
+funda | Funda in zona pastoris pendet | The sling hangs from the shepherd's belt
+fundamentum | Fundamentum aedificii lapides magnos requirit | The foundation of the building requires large stones
+fundito | Lapides in stagnum fundito | I hurl stones into the pond
+fundo1 | Vinum in pateram fundo | I pour wine into the bowl
+fundo2 | Urbem novam fundo | I found a new city
+fundus | Fundus lacus aurum celat | The bottom of the lake hides gold
+funero | Avum meum funero | I bury my grandfather
+funesto | Fontem sordibus funesto | I defile the spring with filth
