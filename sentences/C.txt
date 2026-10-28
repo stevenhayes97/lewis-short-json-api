@@ -758,3 +758,15 @@ confuto | Argumentum adversarii confuto | I refute my opponent's argument
 congelo | Aquam frigore congelo | I freeze the water with cold
 congemino | Numerum militum congemino | I double the number of soldiers
 congemo | Sub onere congemo | I groan under the burden
+# third: congenero "I beget at the same time" is not a sentence a learner needs; the verb is used of animals
+congenero | Sus porcos congenerat | The sow brings forth piglets at the same time
+congeries | Congeries frumenti in area stat | The heap of grain stands on the threshing floor
+congero1 | Saxa in ripa congero | I heap rocks on the bank
+congestio | Congestio pecuniae avarum laetificat | The accumulation of money cheers the miser
+congestus2 | Congestus nivis tectum premit | The accumulation of snow presses on the roof
+congius | Congius vini in mensa stat | The congius of wine stands on the table
+# third: conglacio only water and similar things freeze up
+conglacio | Stagnum frigore conglaciat | The pond freezes up in the cold
+conglobo | Oves sub arbore conglobo | I cluster the sheep under the tree
+conglomero | Lanam in pilam conglomero | I roll the wool into a ball
+conglutino | Chartas gummi conglutino | I glue the papers with gum
