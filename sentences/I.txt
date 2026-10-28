@@ -1,0 +1,13 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/I.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+iambus | Iambus versum poetae celerem facit | The iamb makes the poet's line quick
+iaspis | Iaspis in anulo nitet | The jasper shines in the ring
+ibis | Ibis ranam in ripa captat | The ibis catches a frog on the bank
+icas | Icas Epicureos ad cenam congregat | The twentieth day gathers the Epicureans for dinner
+ichneumon | Ichneumon ova crocodili in arena quaerit | The ichneumon looks for crocodile eggs in the sand
+ictus2 | Ictus mallei clavum in tabula figit | The blow of the hammer drives the nail into the board
+idiota | Idiota de medicina tacet | The layman is silent about medicine
+idolum | Idolum in somnio nautam terret | The apparition frightens the sailor in a dream
+ignavia | Ignavia agricolam ab arando prohibet | Laziness keeps the farmer from ploughing
+# third: ignesco "I kindle" is odd; a log catches fire
+ignesco | Lignum in foco ignescit | The log kindles on the hearth
