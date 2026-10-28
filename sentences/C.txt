@@ -519,7 +519,7 @@ cometes1 | Cometes noctu apparet | The comet appears by night
 comissatio | Comissatio post cenam incipit | The revelry begins after dinner
 comissator | Comissator ad domum amici venit | The reveller comes to a friend's house
 comissor | Cum amicis comissor | I revel with my friends
-comitas | Comitas hospitis nos delectat | The hospitality of the guest pleases us
+comitas | Comitas hospitis nos delectat | The courtesy of our host pleases us
 comitatus2 | Comitatus regis per forum procedit | The king's retinue advances through the forum
 comitiatus2 | Comitiatus in campo Martio fit | The assembly takes place on the Campus Martius
 comitium | Comitium prope curiam est | The assembly-place is near the senate-house
@@ -544,7 +544,8 @@ commigro | Ad novam urbem commigro | I migrate to a new city
 commilitium | Commilitium inter milites amicitiam gignit | Comradeship among soldiers produces friendship
 commilito1 | Commilito meus castra amat | My fellow-soldier loves the camp
 comminatio | Comminatio ducis hostes terret | The general's threat frightens the enemy
-commingo | Pavimentum commingo | I befoul the floor
+# third: commingo crude verb, kept to an animal
+commingo | Canis pavimentum commingit | The dog wets the floor
 comminor | Hosti comminor | I threaten the enemy
 comminuo | Saxum malleo comminuo | I crush the rock with a hammer
 commisceo | Vinum cum aqua commisceo | I mix the wine with water
@@ -679,7 +680,7 @@ concrepo | Ostium vento concrepat | The door rattles in the wind
 concretio | Concretio nebulae in caelo fit | The condensation of the mist happens in the sky
 concubinatus | Concubinatus lege matrimonium non est | Concubinage is not marriage in law
 concubinus | Concubinus in villa habitat | The concubine lives in the villa
-concubitus | Concubitus in fabula nominatur | Copulation is named in the play
+concubitus | Concubitus a Vestalibus vitatur | Intercourse is shunned by the Vestals
 conculco | Herbam pedibus conculco | I trample the grass with my feet
 concumbo | Cum uxore concumbo | I lie with my wife
 concupio | Gloriam concupio | I desire glory
@@ -717,8 +718,7 @@ conecto | Duas trabes ferro conecto | I connect two beams with iron
 conexio | Conexio rerum a philosopho docetur | The union of things is taught by the philosopher
 confabulor | Cum amicis confabulor | I converse with my friends
 confarreatio | Confarreatio coram sacerdote fit | The confarreatio takes place before the priest
-# third: confarreo "I wed by confarreatio" is not a sentence a learner needs; the verb is used of the groom, so third person
-confarreo | Juvenis puellam in templo confarreat | The young man weds the girl by the old bread rite in the temple
+# skip: confarreo attested only in passive forms, so no active headword or third-person sentence is sound
 confectio | Confectio libri multos menses postulat | The completion of the book requires many months
 confector | Confector belli triumphum agit | The finisher of the war holds a triumph
 confercio | Poma in saccum confercio | I cram the fruit into the sack
@@ -786,12 +786,12 @@ conjector | Conjector somnium regis explicat | The interpreter explains the king
 conjectura | Conjectura de tempore viatorem non fallit | The conjecture about the weather does not deceive the traveller
 conjectus2 | Conjectus lapidis ad murum pervenit | The throw of the stone reaches the wall
 conjugatio | Conjugatio colorum picturam pulchram facit | The combination of colours makes the picture beautiful
-conjugium | Conjugium amicorum nostrorum mense Maio fit | The marriage of our friends takes place in May
+conjugium | Conjugium amicorum nostrorum mense Junio fit | The marriage of our friends takes place in June
 conjugo | Duo fila conjugo | I unite two threads
 conjunctio | Conjunctio viarum oppidum aperit | The connection of the roads opens up the town
 conjuratio | Conjuratio in senatu patefit | The conspiracy is revealed in the senate
 conjuro | Cum sociis contra regem conjuro | I conspire with my companions against the king
-connascor | In eodem pago connascor | I am born in the same village
+connascor | Cum fratre gemino connascor | I am born together with my twin brother
 conopeum | Conopeum lectum a culicibus defendit | The mosquito net protects the bed from gnats
 conor | Flumen transnare conor | I try to swim across the river
 conquasso | Situlam conquasso | I shake the bucket
