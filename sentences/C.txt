@@ -1105,3 +1105,13 @@ cuppes | Cuppes dulcia semper quaerit | The dainty eater always seeks sweets
 cupressus | Cupressus alta in colle stat | The tall cypress stands on the hill
 cura | Cura de pecunia mercatorem premit | Care about money weighs on the merchant
 curatio | Curatio hortorum vilico mandatur | The management of the gardens is entrusted to the bailiff
+curator | Curator operum viam inspicit | The overseer of the works inspects the road
+curia | Curia antiqua prope forum stat | The old curia stands near the forum
+curo | Patrem aegrum curo | I care for my sick father
+curriculum | Curriculum in circo incipit | The race begins in the circus
+curro | Ad portum curro | I run to the harbour
+currus | Currus per portam venit | The chariot comes through the gate
+cursito | In prato cursito | I run about in the meadow
+curso | Inter arbores curso | I run about among the trees
+cursor1 | Cursor nuntium ad urbem portat | The runner carries a message to the city
+cursus | Cursus fluminis ad mare ducit | The course of the river leads to the sea
