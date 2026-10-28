@@ -266,7 +266,7 @@ opulentia | Opulentia mercatoris civitatem ornat | The merchant's wealth adorns 
 opus1 | Opus fabrum in officina tenet | The work holds the craftsmen in the workshop
 ora1 | Ora Italiae multos portus habet | The coast of Italy has many harbours
 oraculum | Oraculum Delphicum regem monet | The oracle at Delphi warns the king
-oratio | Oratio consulis forum silentem reddit | The consul's speech makes the forum silent
+oratio | Oratio consulis forum silens reddit | The consul's speech makes the forum silent
 orator | Orator in rostris stat | The orator stands on the rostra
 orbiculus | Orbiculus e manu pueri cadit | The disk falls from the boy's hand
 orbis | Orbis in pariete pingitur | A circle is painted on the wall
