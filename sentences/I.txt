@@ -409,3 +409,14 @@ instillo | Aquam in os aegri instillo | I drip water into the sick man's mouth
 instinctus2 | Divinus instinctus poetam ad carmen movet | A divine impulse moves the poet to song
 # skip: instinguo classical Latin has only the passive participle instinctus, no usable headword form
 instita | Instita talos matronae tegit | The flounce covers the matron's ankles
+institor | Institor per vicos fila vendit | The peddler sells thread along the streets
+instituo | Scholam novam in oppido instituo | I establish a new school in the town
+institutio | Institutio puerum ad sapientiam ducit | Education leads the boy to wisdom
+institutor | Institutor urbis templum deo vovet | The founder of the city vows a temple to the god
+institutum | Institutum antiquum ludos annuos conservat | The old practice preserves the yearly games
+insto | Labori insto | I press on with my work
+# third: instrepo "I rattle" is odd; a chariot rattles
+instrepo | Currus in ponte instrepit | The chariot rattles on the bridge
+instringo | Libros loro instringo | I bind the books with a strap
+instructio | Instructio pontis fabros multos occupat | The construction of the bridge occupies many workmen
+instrumentum | Instrumentum agricolae in arca jacet | The farmer's tool lies in the chest
