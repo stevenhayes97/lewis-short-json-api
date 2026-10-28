@@ -89,3 +89,14 @@ elido | Aquam ex spongia elido | I force the water out of the sponge
 eligo | Pomum maturum eligo | I choose a ripe apple
 elimino | Gallinam e culina elimino | I expel the hen from the kitchen
 elimo | Carmen novum elimo | I polish the new poem
+eliquo | Vinum per linteum eliquo | I strain the wine through a cloth
+elleborus | Elleborus in monte crescit | Hellebore grows on the mountain
+elocutio | Elocutio clara senatores capit | The clear utterance captivates the senators
+elogium | Elogium breve memoriam juvat | The short saying helps the memory
+elongo | Pueros a flumine elongo | I remove the boys from the river
+eloquium | Eloquium senis juvenes docet | The old man's eloquence teaches the young
+eloquor | Sententiam meam in senatu eloquor | I declare my opinion in the senate
+# third: eluceo "I shine out" is odd; the sun shines out
+eluceo | Sol e nubibus elucet | The sun shines out from the clouds
+eluctor | Ex undis eluctor | I struggle out of the waves
+eludo | Custodem eludo | I elude the guard
