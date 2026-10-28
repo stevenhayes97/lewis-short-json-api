@@ -270,3 +270,14 @@ desidero | Pacem desidero | I desire peace
 desidia1 | Desidia discipulum a studiis arcet | Idleness keeps the pupil from his studies
 # third: desido only ground, water and the like subside
 desido | Terra post tremorem desidit | The earth subsides after the tremor
+designatio | Designatio consulum populum congregat | The designation of consuls gathers the people
+designator | Designator spectatores ad sedes ducit | The usher leads the spectators to their seats
+desilio | De curru desilio | I leap down from the chariot
+desino | Cantare desino | I cease to sing
+desipio | Cum pueris desipio | I am silly with the boys
+desisto | Ab incepto desisto | I desist from my undertaking
+# third: desolo "I desolate" is grim; a drought or the like does it
+desolo | Siccitas pagum desolat | The drought desolates the village
+despecto | Urbem ex colle despecto | I overlook the city from the hill
+despectus2 | Despectus e turri portum ostendit | The view from the tower shows the harbour
+desperatio | Desperatio exercitum occupat | Despair seizes the army
