@@ -136,3 +136,14 @@ inaudio | Sermonem senum inaudio | I overhear the old men's talk
 inauguro | Templum novum inauguro | I inaugurate the new temple
 inauro | Statuam deae inauro | I gild the goddess's statue
 incalesco | Ad focum incalesco | I grow warm by the hearth
+# third: incandesco "I glow" is odd; hot iron glows
+incandesco | Ferrum in fornace incandescit | The iron glows in the furnace
+incanesco | Aetate incanesco | I grow grey with age
+incanto | Serpentem carmine incanto | I enchant the snake with a charm
+incedo | Per viam sacram incedo | I march along the sacred way
+incendium | Incendium villam vacuam vastat | The fire ravages the empty villa
+incendo | Focum in atrio incendo | I kindle the fire in the hall
+incensum | Incensum in templo suaviter olet | The incense smells sweet in the temple
+incentor | Incentor chorum in templo ducit | The precentor leads the choir in the temple
+inceptio | Inceptio novi operis fabro laudem dat | The undertaking of the new work wins praise for the craftsman
+incepto | Iter per montes incepto | I attempt the journey over the mountains
