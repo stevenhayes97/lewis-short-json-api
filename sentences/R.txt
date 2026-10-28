@@ -316,3 +316,15 @@ resilio | Grando a tecto resilit | The hail rebounds from the roof
 # third: resipio "I taste of" is unnatural; wine is the natural subject
 resipio | Vinum picem resipit | The wine tastes of pitch
 resipisco | Post errorem resipisco | I recover my senses after the mistake
+resolutio | Resolutio nodi navem liberat | The loosening of the knot frees the ship
+resolvo | Funem resolvo | I untie the rope
+# third: resono "I resound" is unnatural; a theatre is the natural subject
+resono | Theatrum plausu resonat | The theatre resounds with applause
+# third: resorbeo "I suck back" is unnatural; the sea is the natural subject
+resorbeo | Mare undas resorbet | The sea sucks the waves back
+respecto | Ad urbem respecto | I look back at the city
+respectus2 | Respectus senatus consulem a fraude retinet | Regard for the senate keeps the consul from deceit
+respergo1 | Pavimentum aqua respergo | I sprinkle the floor with water
+respicio | Ad casam respicio | I look back at the cottage
+respiratio | Respiratio aegri medicum sollicitat | The sick man's respiration worries the doctor
+respiro | Aerem purum respiro | I breathe the pure air
