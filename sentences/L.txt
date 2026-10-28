@@ -54,3 +54,15 @@ lamentatio | Lamentatio mulierum domum implet | The women's lamentation fills th
 lamentor | Fortunam meam lamentor | I lament my fortune
 lamentum | Lamentum viduae vicinos movet | The widow's lamentation moves the neighbours
 lamia1 | Lamia in fabula carmen magicum cantat | The witch in the story sings a magic song
+lampas | Lampas viam obscuram monstrat | The torch shows the dark road
+lana | Lana mollis tunicam calidam praebet | Soft wool provides a warm tunic
+lancea | Lancea equitis in sole micat | The horseman's lance glitters in the sun
+# third: lancino "I mangle" is violent; a generic military figure acts instead
+lancino | Dux agmen hostium lancinat | The general mangles the enemy column
+langueo | Aestu langueo | I languish in the heat
+languesco | Post longum iter languesco | I weaken after the long journey
+languor | Languor aegrotum in lecto tenet | Languor keeps the sick man in bed
+laniatus | Laniatus agminis ducem sollicitat | The mangling of the column worries the general
+lanificium | Lanificium matronam per diem occupat | Wool-working occupies the matron all day
+# third: lanio1 "I mangle" is violent; a generic military figure acts instead
+lanio1 | Legio cohortem hostium laniat | The legion mangles the enemy cohort
