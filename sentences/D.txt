@@ -447,3 +447,14 @@ discludo | Agnos ab ovibus discludo | I separate the lambs from the sheep
 disco | Litteras Graecas disco | I learn Greek letters
 # skip: discolor is an adjective (variegated), misfiled as a verb
 discooperio | Fercula discooperio | I uncover the dishes
+discordia | Discordia inter vicinos crescit | Discord grows among the neighbours
+discordo | Cum fratre discordo | I disagree with my brother
+discrepo | A sorore de pretio discrepo | I differ from my sister about the price
+discretio | Discretio equorum agitatorem occupat | The separation of the horses keeps the driver busy
+discribo | Agros inter colonos discribo | I apportion the fields among the settlers
+discrimen | Discrimen aetatis pueros a senibus separat | The distinction of age sets boys apart from old men
+discrimino | Silvam a prato sepe discrimino | I divide the wood from the meadow with a hedge
+discriptio | Discriptio agrorum coloniam firmat | The apportionment of the land strengthens the colony
+# third: discrucio "I torture" is grim; worry torments the mind
+discrucio | Cura animum discruciat | Worry torments the mind
+discumbo | In lecto post balneum discumbo | I recline on the couch after the bath
