@@ -359,3 +359,15 @@ exintero | Anserem exintero | I disembowel the goose
 existimatio | Existimatio patris filium dirigit | The father's judgment guides the son
 existimator | Existimator carmen novum laudat | The critic praises the new poem
 existimo | Hunc librum utilem existimo | I think this book is useful
+exitium | Exitium urbis cives contristat | The destruction of the city saddens the citizens
+exitus2 | Exitus hospitis cenam finit | The guest's departure ends the dinner
+exodium | Exodium populum post tragoediam exhilarat | The farce cheers the people after the tragedy
+# third: exolesco "I fade" is odd; memories fade
+exolesco | Memoria belli exolescit | The memory of the war fades
+exonero | Plaustrum exonero | I unload the cart
+exopto | Somnum exopto | I crave sleep
+exorbito | A via exorbito | I deviate from the road
+exordior | Fabulam exordior | I begin the story
+exordium | Exordium longum auditores fatigat | The long beginning tires the listeners
+# third: exorior "I rise" is odd here; the sun rises
+exorior | Sol mane exoritur | The sun rises in the morning
