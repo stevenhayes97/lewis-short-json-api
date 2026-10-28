@@ -894,3 +894,13 @@ contamino | Puteum sordibus contamino | I contaminate the well with filth
 contego | Panem linteo contego | I cover the bread with a cloth
 contemplatio | Contemplatio stellarum philosophum quietum facit | The contemplation of the stars makes the philosopher calm
 contemplo | Lunam e fenestra contemplo | I contemplate the moon from the window
+contemplor | Mare ex rupe contemplor | I gaze at the sea from the cliff
+contemptio | Contemptio periculi militem fortem facit | Contempt for danger makes the soldier brave
+contemptrix | Contemptrix luxuriae simpliciter vivit | The despiser of luxury lives simply
+contemptus2 | Contemptus regis populum exasperat | The king's contempt angers the people
+contendo | Ad victoriam contendo | I strive for victory
+contentio | Contentio remigum navem ad portum adducit | The effort of the rowers brings the ship to the harbour
+conterminus | Conterminus noster per sepem salutat | Our neighbour greets us over the hedge
+contero | Frumentum lapide contero | I grind grain with a stone
+conterreo | Hostes tubis conterreo | I terrify the enemy with trumpets
+contestatio | Contestatio nautae causam juvat | The sailor's testimony helps the case
