@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/B.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+baca | Baca in ramo pendet | The berry hangs on the branch
+baccar | Baccar in horto crescit | The baccar grows in the garden
+bacchor | Bacchor in silva | I rave in the wood
+baculum | Baculum seni auxilium dat | The staff gives help to the old man
+bajulo | Saxum grave bajulo | I carry a heavy stone
+bajulus | Bajulus saccum ad navem portat | The porter carries the sack to the ship
+balanus | Balanus de quercu cadit | The acorn falls from the oak
+balatro1 | Balatro in scaena clamat | The buffoon shouts on the stage
+balbutio | Coram consule balbutio | I stammer before the consul
+ballista1 | Ballista saxa ad murum mittit | The ballista sends stones to the wall
