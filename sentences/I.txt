@@ -589,3 +589,13 @@ irascor | Mercatori irascor | I am angry with the merchant
 ironia | Ironia Socratis adulescentes dubitare cogit | Socrates' irony makes the young men doubt
 # third: irradio "I illuminate" is odd; the sun illuminates a temple
 irradio | Sol templum summum irradiat | The sun illuminates the highest temple
+irrepo | In cellam irrepo | I creep into the storeroom
+irretio | Lepores laqueo irretio | I ensnare hares with a snare
+irreverentia | Irreverentia pueri in sacris matrem pudore implet | The boy's irreverence at the rites fills his mother with shame
+irrideo | Poetam irrideo | I mock the poet
+irrigatio | Irrigatio agrorum aestate vineas servat | The irrigation of the fields saves the vines in summer
+irrigo | Hortum fonte irrigo | I irrigate the garden from the spring
+# skip: irrisus2 attested only in irrisu, irrisui and irrisum, no nominative headword form
+irritamentum | Irritamentum certaminis equites ad cursum excitat | The incentive of the contest rouses the horsemen to the race
+irritatio | Irritatio cutis nautam unguentum quaerere cogit | The irritation of the skin makes the sailor seek ointment
+irrito1 | Vicinum verbis irrito | I provoke the neighbour with words
