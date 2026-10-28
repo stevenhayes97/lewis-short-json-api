@@ -426,3 +426,13 @@ amnis | Amnis de monte currit | The river runs down from the mountain
 amo | Matrem ex animo amo | I love my mother with all my heart
 amoenitas | Amoenitas hortorum hospites capit | The loveliness of the gardens captivates the guests
 amolior | Truncos de via amolior | I clear the logs out of the road
+amomum | Amomum odorem dulcem habet | The amomum has a sweet scent
+amor | Amor matris filium juvat | A mother's love helps her son
+amoveo | Sellam a mensa amoveo | I move the chair away from the table
+amphitheatrum | Amphitheatrum multos spectatores capit | The amphitheatre holds many spectators
+amphora | Amphora oleum continet | The jar contains oil
+amplector | Fratrem in porta amplector | I embrace my brother at the gate
+amplexor | Sororem amplexor | I hug my sister
+amplexus2 | Amplexus matris puerum calefacit | The mother's embrace warms the boy
+amplificatio | Amplificatio rei familiaris patrem laetum facit | The building up of the estate makes the father happy
+amplifico | Domum amplifico | I enlarge the house
