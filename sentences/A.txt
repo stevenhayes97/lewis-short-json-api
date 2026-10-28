@@ -29,7 +29,7 @@ abolla | Abolla militis alba est | The soldier's cloak is white
 abominor | Malum verbum abominor | I abhor the bad word
 # third: aborior "I set" is said of the sun and stars; rank 2 sense, kept clear of miscarriage
 aborior | Luna aboritur | The moon sets
-# skip: abortus miscarriage, no suitable mild illustration
+abortus | Abortus tristis est | The miscarriage is sad
 abrado | Terram ex pariete abrado | I scrape the earth off the wall
 abripio | Pilam e manibus fratris abripio | I snatch the ball from my brother's hands
 abrogo | Legem abrogo | I repeal the law

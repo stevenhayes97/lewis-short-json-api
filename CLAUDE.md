@@ -314,9 +314,16 @@ video | Cibum calidum video | I see the warm food
 - **Keep it suitable for a general audience.** Not childish, but where there
   is a choice, avoid violent, grim, sexual or otherwise adult themes: no
   killing, beheading, wounding, drunkenness or bodily detail, and nothing that
-  reads as harm to a person or child. For a word whose sense is itself dark
-  (kill, wound, crime words), pick the mildest true illustration (an object,
-  an animal, an abstract or historical framing) or `# skip:` it.
+  reads as harm to a person or child. When the word itself is dark, keep the
+  sentence flat and undescriptive rather than skipping it:
+  - **A sad noun** (miscarriage, death, grief, disease) just gets a plain
+    judgment: `abortus | Abortus tristis est | The miscarriage is sad`;
+    `infortunatus` or `miser` serve the same way.
+  - **A violent verb** (kill, wound, strike, slaughter) takes the third
+    person with two generic soldiers, nothing more: `# third: <key> violent
+    verb, generic soldiers` above `Miles militem vulnerat | The soldier wounds
+    the soldier`. No weapons, blood, body parts or setting.
+  - `# skip:` only what neither pattern can make suitable (sexual themes).
 - **Vary the other words.** Across a chunk, don't lean on the same frame
   (`... delectat`, `ex urbe`, `amico`) — a beginner learns more from varied
   common vocabulary.
