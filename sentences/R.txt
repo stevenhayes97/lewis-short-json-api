@@ -182,3 +182,14 @@ reicio | Consilium stultum reicio | I reject the foolish plan
 rejectio | Rejectio muneris amicum offendit | The rejection of the gift offends the friend
 # third: relabor "I slide back" is unnatural; a rock is the natural subject
 relabor | Saxum in vallem relabitur | The rock slides back into the valley
+# third: relanguesco "I grow faint" is unnatural; the wind is the natural subject
+relanguesco | Ventus ad vesperum relanguescit | The wind slackens towards evening
+relatio | Relatio praefecti consulem de annona certiorem facit | The prefect's report informs the consul about the grain supply
+relator | Relator novam legem senatui commendat | The proposer recommends a new law to the senate
+relaxatio | Relaxatio post laborem animum levat | Relaxation after work eases the mind
+relaxo | Corpus lassum relaxo | I relax my tired body
+relego1 | Civem in insulam relego | I banish the citizen to an island
+relego2 | Epistulam matris relego | I reread my mother's letter
+relevatio | Relevatio tributi pauperes juvat | The relief from the tax helps the poor
+relevo | Sitim aqua frigida relevo | I relieve my thirst with cold water
+relictio | Relictio vineae familiam pauperem facit | The abandonment of the vineyard makes the family poor
