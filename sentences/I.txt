@@ -51,3 +51,14 @@ imitatio | Imitatio veterum scriptorem adjuvat | The imitation of the ancients h
 imitator | Imitator senatoris convivas ridere facit | The imitator of the senator makes the guests laugh
 imitor | Vocem lupi imitor | I imitate the wolf's voice
 immanitas | Immanitas montis viatores terret | The hugeness of the mountain frightens the travellers
+immergo | Pedem in aquam frigidam immergo | I immerse my foot in cold water
+immigro | In urbem novam immigro | I immigrate to the new city
+# third: immineo "I overhang" is odd; a rock overhangs
+immineo | Saxum viae imminet | The rock overhangs the road
+imminuo | Sumptus meos imminuo | I lessen my expenses
+imminutio | Imminutio pretii emptorem laetum facit | The diminution of the price makes the buyer glad
+immisceo | Aquam vino immisceo | I mix water with the wine
+immitto | Equum in campum immitto | I send the horse into the field
+# skip: immo is an adverb (rather), misfiled as a verb
+immoderatio | Immoderatio in cena hospitem fatigat | Excess at dinner tires the guest
+immolo | Jovi taurum immolo | I sacrifice a bull to Jupiter
