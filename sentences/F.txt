@@ -147,3 +147,13 @@ fido | Magistro fido | I trust my teacher
 fiducia | Fiducia in duce exercitum firmat | Confidence in the leader steadies the army
 fiducio | Agrum creditori fiducio | I mortgage my field to the creditor
 figmentum | Figmentum cerae artificem commendat | The formation in wax commends the artist
+figo | Tabulam ad murum figo | I fasten the board to the wall
+figulus1 | Figulus vasa in fornace coquit | The potter bakes the vessels in the kiln
+figura | Figura vasis emptori placet | The shape of the vase pleases the buyer
+figuratio | Figuratio argillae discipulos in schola exercet | The shaping of clay trains the pupils in school
+figuro | Ex argilla ranam figuro | I shape a frog out of clay
+filia | Filia mea cum matre cantat | My daughter sings with her mother
+filiola | Filiola patrem ad portam exspectat | The daughter waits for her father at the gate
+filius | Filius agricolae boves pascit | The farmer's son feeds the oxen
+filum | Filum rubrum in acu pendet | The red thread hangs on the needle
+fimbriae | Fimbriae pallii in luto trahuntur | The fringe of the cloak is dragged in the mud
