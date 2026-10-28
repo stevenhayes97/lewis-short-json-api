@@ -288,3 +288,14 @@ circulo | Panem circulo | I shape the loaf into a circle
 circulor | Ad oratorem circulor | I gather round the speaker
 circulus | Circulus in pulvere describitur | The circle is drawn in the dust
 circumago | Navem circumago | I turn the ship round
+circumcido | Vites circumcido | I trim the vines
+circumcludo | Hostes circumcludo | I enclose the enemy
+circumcurso | In prato circumcurso | I run about in the meadow
+circumdo | Murum urbi circumdo | I put a wall round the city
+circumduco | Cohortes longiore itinere circumduco | I lead the cohorts round by a longer route
+circumductio | Circumductio aquarum agros irrigat | The leading round of the water irrigates the fields
+circumeo | Aras circumeo | I walk round the altars
+circumfero | Mulsum circumfero | I pass the honey wine round
+circumflecto | Currum circumflecto | I wheel the chariot round
+# third: circumfluo only water flows round a place
+circumfluo | Unda insulam circumfluit | The water flows round the island
