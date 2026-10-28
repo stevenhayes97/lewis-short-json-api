@@ -477,3 +477,15 @@ interitus2 | Interitus messis agricolam ad vicinum mittit | The destruction of t
 interjaceo | Campus duo oppida interjacet | The plain lies between two towns
 interjacio | Joculum in sermonem interjacio | I insert a joke into the conversation
 interjectio | Interjectio unius verbi sententiam mutat | The insertion of a single word changes the sentence
+interjectus2 | Interjectus terrae lunam obscurat | The interposition of the earth darkens the moon
+interjungo | Dextras cum filia interjungo | I join right hands with my daughter
+interlino | Parietem luto interlino | I smear the wall with mud
+interloquor | Patri interloquor | I interrupt my father
+# third: interluceo "I gleam through" is odd; the moon gleams through clouds
+interluceo | Luna nubibus interlucet | The moon gleams through the clouds
+# third: interluo "I flow between" is odd; a river flows between cities
+interluo | Amnis duas urbes interluit | The river flows between two cities
+interminor | Rivali litem interminor | I threaten my rival with a lawsuit
+intermisceo | Rosis violas intermisceo | I mix violets among the roses
+intermissio | Intermissio pluviae messores ad agros revocat | The interruption of the rain calls the reapers back to the fields
+intermitto | Iter intermitto | I interrupt my journey
