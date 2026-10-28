@@ -33,3 +33,16 @@ effero2 | Pastores solitudine effero | I make the shepherds wild with loneliness
 effervesco | Lac in igne effervescit | The milk boils over on the fire
 # third: effervo only liquids boil over
 effervo | Pulmentum ex olla effervit | The stew boils over from the pot
+efficio | Opus magnum efficio | I accomplish a great task
+effigies | Effigies ducis in atrio stat | The likeness of the general stands in the hall
+effingo | Navem ex ligno effingo | I fashion a ship out of wood
+efflagito | A consule auxilium efflagito | I demand help urgently from the consul
+# third: effligo a military figure is more natural than the first person
+effligo | Miles hostem effligit | The soldier kills the enemy
+efflo | Aerem frigidum efflo | I breathe out the cold air
+# third: effloresco only plants blossom
+effloresco | Rosa vere efflorescit | The rose blossoms in spring
+# third: effluo only liquids flow out
+effluo | Vinum e dolio effluit | The wine flows out of the jar
+effodio | Radices ex terra effodio | I dig the roots out of the ground
+effor | Verba pauca effor | I utter few words
