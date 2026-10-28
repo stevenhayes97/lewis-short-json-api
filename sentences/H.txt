@@ -85,3 +85,13 @@ horreo | Silvam nocte horreo | I dread the wood at night
 horresco | Ante tempestatem horresco | I shudder before the storm
 horreum1 | Horreum frumentum a pluvia defendit | The granary protects the grain from the rain
 horrifico | Hostes horrifico | I terrify the enemy
+horror | Horror turbam in templo tacitam facit | Horror makes the crowd in the temple silent
+hortamen | Hortamen ducis milites fortes facit | The general's encouragement makes the soldiers brave
+hortamentum | Hortamentum matris filium ad laborem excitat | The mother's encouragement rouses her son to work
+hortatio | Hortatio magistri discipulum timidum confirmat | The teacher's exhortation strengthens the timid pupil
+hortator1 | Hortator remiges cantu adjuvat | The encourager helps the oarsmen with a song
+hortatus | Hortatus patris filium ad virtutem vocat | The father's encouragement calls his son to virtue
+hortor | Fratrem ad iter hortor | I urge my brother on to the journey
+hortulus | Hortulus rosas et violas alit | The little garden nurtures roses and violets
+hortus | Hortus divitis fontem marmoreum habet | The rich man's garden has a marble fountain
+hospes | Hospes viatorem cena excipit | The host welcomes the traveller with dinner
