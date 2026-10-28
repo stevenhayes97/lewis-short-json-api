@@ -21,3 +21,15 @@ harena | Harena in litore calet | The sand on the shore is hot
 hariolus | Hariolus mercatori iter faustum praedicit | The soothsayer predicts a lucky journey for the merchant
 harmonia1 | Harmonia cithararum convivas lenit | The harmony of the lyres soothes the guests
 harpago2 | Harpago navem hostium ad litus trahit | The grappling-hook drags the enemy's ship towards the shore
+harundo | Harundo in vento tremit | The reed trembles in the wind
+haruspex | Haruspex exta in templo inspicit | The haruspex examines the entrails in the temple
+hasta | Hasta in scuto haeret | The spear sticks in the shield
+hastile | Hastile e fraxino factum est | The shaft is made of ash wood
+haurio | Aquam e puteo haurio | I draw water from the well
+haustus2 | Haustus aquae frigidae fessum viatorem reficit | The draught of cold water restores the weary traveller
+hebdomas | Hebdomas septem dies continet | The week contains seven days
+# third: hebeo "I am dull" is odd; a blade is dull
+hebeo | Culter in cella hebet | The knife is dull in the pantry
+# third: hebesco "I grow dull" is odd; iron grows dull
+hebesco | Ferrum usu hebescit | The iron grows dull with use
+hebeto | Aciem falcis hebeto | I blunt the blade of the sickle
