@@ -304,3 +304,17 @@ frenum | Frenum aureum equum splendidum facit | The golden bridle makes the hors
 frequentatio | Frequentatio epistularum matrem laetam facit | The frequency of the letters makes the mother glad
 frequentia | Frequentia consulem in via salutat | The crowd greets the consul in the street
 frequento | Thermas frequento | I frequent the baths
+frico | Dorsum equi manu frico | I rub the horse's back with my hand
+frigeo | Sine pallio frigeo | I am cold without my cloak
+# third: frigesco "I grow cold" is odd; water grows cold
+frigesco | Aqua nocte frigescit | The water grows cold at night
+frigo1 | Hordeum in sartagine frigo | I roast barley in the pan
+frigus | Frigus matutinum agricolam ad focum revocat | The morning cold calls the farmer back to the hearth
+frigusculum | Frigusculum vesperi hospites in domum revocat | The chill of the evening calls the guests back into the house
+# third: frigutio "I twitter" is odd; a blackbird twitters
+frigutio | Merula in horto frigutit | The blackbird twitters in the garden
+frio | Glaebam manibus frio | I crumble the clod with my hands
+# third: fritinnio "I chirp" is odd; a cicada chirps
+fritinnio | Cicada in arbore fritinnit | The cicada chirps in the tree
+# third: frondeo "I leaf" is odd; an oak is in leaf
+frondeo | Quercus vere frondet | The oak is in leaf in spring
