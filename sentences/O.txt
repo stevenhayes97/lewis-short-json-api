@@ -55,3 +55,15 @@ obmutesco | Ante judicem obmutesco | I fall silent before the judge
 obnubilo | Nebula vallem obnubilat | The mist clouds the valley
 obnubo | Caput veste obnubo | I veil my head with a garment
 obnuntio | Consuli cladem obnuntio | I bring the consul word of the defeat
+oboedientia | Oboedientia pueri magistrum laetum facit | The boy's obedience makes the teacher happy
+oboedio | Consuli oboedio | I obey the consul
+# third: oboleo "I smell of" is for a place or thing
+oboleo | Taberna piscem obolet | The shop smells of fish
+obolus | Obolus in sacculo pauperis jacet | The obol lies in the poor man's purse
+# third: oborior "I arise" is for a storm or a sound
+oborior | Tempestas ex mari oboritur | A storm arises from the sea
+obrepo | Ad castra hostium obrepo | I creep up to the enemy camp
+obreptio | Obreptio hostium castra turbat | The enemy's surprise disturbs the camp
+obrigesco | In frigore obrigesco | I stiffen in the cold
+obrodo | Crustum panis obrodo | I gnaw a crust of bread
+obrogo | Legem veterem decreto novo obrogo | I supersede the old law with a new decree
