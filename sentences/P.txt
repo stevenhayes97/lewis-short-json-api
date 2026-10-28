@@ -125,3 +125,13 @@ patientia | Patientia medici aegro spem dat | The doctor's patience gives the pa
 patina1 | Patina super focum pendet | The pan hangs over the hearth
 patior | Frigus in via patior | I suffer from the cold on the road
 patriarcha | Patriarcha populum in ecclesia benedicit | The patriarch blesses the people in the church
+patrimonium | Patrimonium sorores ad villam vocat | The inheritance calls the sisters to the farmhouse
+patro | Opus diurnum patro | I accomplish the day's work
+patrocinium | Patrocinium senatoris clienti honorem dat | The senator's patronage gives the client honour
+patrocinor | Pauperibus patrocinor | I champion the poor
+patronatus | Patronatus consulis adulescenti viam ad senatum aperit | The consul's patronage opens the way to the senate for the youth
+patronus | Patronus clientem ad cenam invitat | The patron invites his client to dinner
+patruus1 | Patruus nepotes ad circum ducit | The uncle takes his nephews to the circus
+paucitas | Paucitas frumenti colonos sollicitat | The scarcity of grain worries the farmers
+pauperies | Pauperies familiam in hieme premit | Poverty weighs on the family in winter
+paupero | Heredem sumptibus paupero | I impoverish the heir with expenses
