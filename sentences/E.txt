@@ -124,3 +124,14 @@ eminentia | Eminentia rupis nautas monet | The prominence of the cliff warns the
 emineo | Turris super muros eminet | The tower projects above the walls
 emissarius | Emissarius castra hostium observat | The spy watches the enemy camp
 emissio | Emissio captivorum cives laetos facit | The release of the prisoners makes the citizens glad
+emitto | Columbam e turri emitto | I send a dove out of the tower
+emo | Pisces in macello emo | I buy fish at the market
+emolior | Saxum de via emolior | I dislodge the rock from the road
+emollio | Ceram igne emollio | I soften the wax with fire
+emolumentum | Emolumentum certum mercatores allicit | The sure benefit attracts merchants
+# third: emorior "I die" is grim; a flame dies out
+emorior | Flamma sine ligno emoritur | The flame dies out without wood
+emoveo | Mensam e cubiculo emoveo | I remove the table from the bedroom
+empirice | Empirice medicum a libris avertit | Empiricism turns the doctor away from books
+emplastrum | Emplastrum medici dolorem lenit | The doctor's plaster eases the pain
+emptio | Emptio domus familiam sollicitat | The purchase of the house worries the family
