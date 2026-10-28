@@ -304,3 +304,15 @@ rescindo | Legem veterem rescindo | I rescind the old law
 rescisco | Veritatem rescisco | I discover the truth
 rescribo | Matri rescribo | I write back to my mother
 reseco | Virgulta inutilia reseco | I cut off the useless shoots
+resecro | Te resecro | I implore you
+# skip: resequor is attested only in the perfect and past participle, so it has no present headword form
+resero2 | Armarium clave resero | I unlock the cupboard with a key
+reservo | Vinum optimum hospitibus reservo | I reserve the best wine for the guests
+resideo | In urbe resideo | I remain in the city
+resido | In colle resido | I settle on the hill
+resigno | Testamentum resigno | I unseal the will
+# third: resilio "I rebound" is unnatural; hail is the natural subject
+resilio | Grando a tecto resilit | The hail rebounds from the roof
+# third: resipio "I taste of" is unnatural; wine is the natural subject
+resipio | Vinum picem resipit | The wine tastes of pitch
+resipisco | Post errorem resipisco | I recover my senses after the mistake
