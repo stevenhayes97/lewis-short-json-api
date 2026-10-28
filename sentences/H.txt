@@ -95,3 +95,13 @@ hortor | Fratrem ad iter hortor | I urge my brother on to the journey
 hortulus | Hortulus rosas et violas alit | The little garden nurtures roses and violets
 hortus | Hortus divitis fontem marmoreum habet | The rich man's garden has a marble fountain
 hospes | Hospes viatorem cena excipit | The host welcomes the traveller with dinner
+hospitium | Hospitium senis viatoribus fessis gratum est | The old man's hospitality is welcome to the weary travellers
+hospitor | Apud avunculum hospitor | I lodge with my uncle
+hostia | Hostia sacerdotem ad aram sequitur | The sacrificial victim follows the priest to the altar
+hostimentum | Hostimentum beneficio par est | The requital equals the favour
+hostio1 | Merita senis hostio | I requite the old man's services
+hostis | Hostis ad portas urbis appropinquat | The enemy approaches the gates of the city
+humanitas | Humanitas medici aegrum consolatur | The humanity of the doctor comforts the patient
+humilio | Superbum juvenem humilio | I humble the proud youth
+humilitas | Humilitas tecti virum altum impedit | The lowness of the roof hinders the tall man
+humo | Canem fidelem in horto humo | I bury my faithful dog in the garden
