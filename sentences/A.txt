@@ -320,3 +320,15 @@ agnosco | Patrem in turba agnosco | I recognise my father in the crowd
 agnus | Agnus post matrem currit | The lamb runs behind its mother
 ago | Deis gratias ago | I give thanks to the gods
 agon | Agon gymnicus in urbe est | The athletic contest is in the city
+agricola1 | Agricola frumentum metit | The farmer reaps the grain
+agricultura | Agricultura opus durum est | Farming is hard work
+ala | Ala aquilae magna est | The eagle's wing is large
+alabaster | Alabaster unguenti plenus est | The perfume box is full of ointment
+alabastrites | Alabastrites mollis est | The alabaster is soft
+alacritas | Alacritas discipuli magistro placet | The pupil's eagerness pleases the teacher
+alapa | Alapa mala est | The slap is bad
+alauda | Alauda mane cantat | The lark sings in the morning
+# third: albeo "I am white" is said of things like mountains, not people
+albeo | Mons nive albet | The mountain is white with snow
+# third: albesco "I turn white" is said of hair, not a person
+albesco | Capillus senis albescit | The old man's hair turns white
