@@ -452,7 +452,7 @@ ancillula | Ancillula mensam purgat | The little maidservant cleans the table
 anclo | Vinum anclo | I serve the wine
 ancon1 | Ancon trabem sustinet | The bracket supports the beam
 ancora | Ancora navem tenet | The anchor holds the ship
-andabata | Andabata gladiatorem non videt | The blindfolded gladiator does not see the gladiator
+andabata | Andabata adversarium non videt | The blindfolded gladiator does not see his opponent
 andron | Andron duo atria jungit | The corridor joins two halls
 anfractus2 | Anfractus viae equum tardat | The bend in the road slows the horse
 angario | Colonum ad opus angario | I compel the farmer to work
@@ -571,7 +571,7 @@ aratrum | Aratrum agricolae utile est | The plough is useful to the farmer
 arbiter | Arbiter verba amici audit | The witness hears the friend's words
 arbitratus2 | Arbitratus judicis rem finit | The judge's discretion settles the matter
 arbitrium | Arbitrium senatus bellum finit | The senate's decision ends the war
-arbitror | Amicum fidelem esse arbitror | I think my friend is faithful
+arbitror | Rem gravem arbitror | I consider the matter serious
 arbor1 | Arbor alta in prato crescit | The tall tree grows in the meadow
 arbuscula1 | Arbuscula umbram parvam dat | The shrub gives little shade
 arbustum | Arbustum vites sustinet | The plantation supports the vines
@@ -619,11 +619,11 @@ armarium | Armarium vestes et pecuniam servat | The cupboard keeps clothes and m
 # skip: armatus2 is attested only in the ablative (armatu), so it cannot be a subject in headword form
 armentum | Armentum ad aquam it | The herd goes to the water
 armilla | Armilla aurea mulierem ornat | The golden bracelet adorns the woman
-armillum | Armillum vino plenum est | The wine jar is full of wine
+armillum | Armillum in mensa stat | The wine jug stands on the table
 armo | Milites armo | I arm the soldiers
 armus | Armus ovis lanam habet | The sheep's shoulder has wool
 aro | Agrum aro | I plough the field
-aroma | Aroma cibum dulcem facit | The spice makes the food sweet
+aroma | Aroma cenam odoratam facit | The spice makes the dinner fragrant
 arrepo | Ad murum arrepo | I creep up to the wall
 arrha | Arrha emptionem firmat | The deposit confirms the purchase
 arrideo | Puellae arrideo | I smile at the girl
@@ -681,7 +681,7 @@ asser | Asser murum sustinet | The pole supports the wall
 assero1 | Vites propter cupressos assero | I plant vines beside the cypresses
 assero2 | Servum in libertatem assero | I claim the slave as a free man
 assertio | Assertio libertatis servo spem dat | The assertion of freedom gives the slave hope
-assertor | Assertor servum liberum esse declarat | The champion declares that the slave is free
+assertor | Assertor servo libertatem petit | The champion claims freedom for the slave
 asservo | Thesaurum asservo | I guard the treasure
 assessor | Assessor judici consilium dat | The assessor gives advice to the judge
 asseveratio | Asseveratio testis causam firmat | The witness's affirmation strengthens the case
@@ -716,7 +716,7 @@ asto | Ad mensam asto | I stand near the table
 astragalus | Astragalus columnam ornat | The astragal adorns the column
 astrepo | Oratori astrepo | I applaud the speaker
 astringo | Funem astringo | I tighten the rope
-astrologia | Astrologia caelum et stellas explicat | The astronomy explains the sky and the stars
+astrologia | Astrologia caelum et stellas explicat | Astronomy explains the sky and the stars
 astrologus | Astrologus stellas observat | The astronomer observes the stars
 astrum | Astrum nautae viam monstrat | The star shows the sailor the way
 astruo | Cubiculum domui astruo | I build a room onto the house
@@ -798,7 +798,7 @@ aurora | Aurora caelum rubrum facit | The dawn makes the sky red
 # skip: aurugo is a noun (jaundice), misfiled as a verb
 aurum | Aurum fulgens thesaurum implet | The shining gold fills the treasury
 ausculto | Musicam ausculto | I listen to the music
-auspicium | Auspicium in templo capitur | The auspices are taken in the temple
+auspicium | Auspicium in templo capitur | The auspice is taken in the temple
 auspicor | Ante proelium auspicor | I take the auspices before the battle
 auster1 | Auster nubes ad urbem portat | The south wind carries clouds to the city
 austeritas | Austeritas vini gustum mutat | The dryness of the wine changes the taste
