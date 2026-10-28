@@ -467,3 +467,13 @@ collator | Collator frumenti civitatem juvat | The contributor of grain helps th
 # skip: collatus2 occurs only in the ablative singular collatu, so no nominative headword-form sentence is possible
 collaudo | Collegam collaudo | I extol my colleague
 collectio | Collectio uvarum autumno fit | The gathering of the grapes takes place in autumn
+collega | Collega mecum in curia laborat | My colleague works with me in the senate-house
+collegium | Collegium pontificum in templo convenit | The college of priests meets in the temple
+collido | Manus collido | I clap my hands together
+colligatio | Colligatio trabium pontem firmat | The connection of the beams strengthens the bridge
+colligo2 | Libros filo colligo | I bind the books with thread
+collineo | Ad signum collineo | I aim at the mark
+collino | Parietem creta collino | I besmear the wall with chalk
+collis | Collis post villam surgit | The hill rises behind the farmhouse
+collocatio | Collocatio verborum orationem ornat | The arrangement of words adorns the speech
+colloco | Sellam sub tecto colloco | I place the chair under the roof
