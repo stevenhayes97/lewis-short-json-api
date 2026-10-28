@@ -11,3 +11,14 @@ radix | Radix arboris saxum findit | The root of the tree splits the rock
 rado | Barbam novacula rado | I shave my beard with a razor
 ramenta | Ramenta in fabrica pavimentum tegunt | The shavings cover the floor in the workshop
 ramex | Ramex militem a labore retinet | The hernia keeps the soldier from work
+ramus | Ramus pomum maturum sustinet | The branch holds the ripe apple
+rana | Rana in stagno saltat | The frog jumps in the pond
+ranunculus | Ranunculus in rivo natat | The tadpole swims in the brook
+rapina1 | Rapina exercitum divitem facit | Plunder makes the army rich
+rapio | Librum e mensa rapio | I seize the book from the table
+rapto | Saccum per viam rapto | I drag the sack along the road
+raptor | Raptor mercatorem in itinere terret | The plunderer frightens the merchant on the journey
+raptus2 | Raptus Helenae Graecos ad arma vocat | The abduction of Helen calls the Greeks to arms
+rapum | Rapum in agro crescit | The turnip grows in the field
+# third: raresco "I thin" is unnatural; mist is the natural subject
+raresco | Nebula in valle rarescit | The mist thins in the valley
