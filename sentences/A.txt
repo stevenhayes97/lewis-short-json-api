@@ -27,7 +27,8 @@ abolesco | Ex memoria hominum abolesco | I fade from people's memory
 abolitio | Abolitio legis populum delectat | The abolition of the law pleases the people
 abolla | Abolla militis alba est | The soldier's cloak is white
 abominor | Malum verbum abominor | I abhor the bad word
-# skip: aborior rank 1 "miscarry" has no sensible first-person sentence
+# third: aborior "I miscarry" is not a sentence a learner needs
+aborior | Ovis aboritur | The ewe miscarries
 abortus | Abortus matrem terret | The miscarriage frightens the mother
 abrado | Terram ex pariete abrado | I scrape the earth off the wall
 abripio | Puerum e via abripio | I snatch the boy from the road

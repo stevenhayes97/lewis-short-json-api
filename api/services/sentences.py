@@ -17,7 +17,7 @@ from tools.sentences import parse_sentences
 @lru_cache(maxsize=None)
 def sentences_for_letter(letter: str) -> dict[str, dict[str, str]]:
     """{key: {"latin": ..., "english": ...}} for one letter; empty if unwritten."""
-    rows, _skipped = parse_sentences(letter)
+    rows, _skipped, _third = parse_sentences(letter)
     return {key: {"latin": latin, "english": english} for _, key, latin, english in rows if latin}
 
 

@@ -16,6 +16,13 @@ A noun appears as the subject, in its headword form (the nominative
 singular). A verb appears in its headword form (the first person singular
 present). Every sentence is a single clause.
 
+A verb whose first person makes no sense ("I miscarry", "it rains") may
+take the third person singular instead, flagged by a comment line directly
+above it:
+
+    # third: aborior "I miscarry" is not a sentence a learner needs
+    aborior | Ovis aboritur | The ewe miscarries
+
 `next` picks words the same way tools/definitions.py does, so chunks stay
 deterministic and resumable: the eligible set is every noun or verb that
 already has a line in definitions/<L>.txt, alphabetical, minus anything
@@ -111,39 +118,56 @@ def eligible(letter: str) -> dict[str, str]:
     return {k: classes[k] for k in sorted(classes) if classes[k]}
 
 
-def parse_sentences(letter: str) -> tuple[list[tuple[int, str, str, str]], set[str]]:
-    """Return ([(line_no, key, latin, english)], {skipped}).
+def third_person_forms(key: str) -> tuple[str, tuple[str, ...]]:
+    """(stem, endings) a third person singular of this verb must show.
 
-    Comment lines are ignored except `# skip: <key> <reason>`, which records a
-    word deliberately passed over so `next` stops offering it.
+    amo -> am...t, moneo -> mone...t, rego -> reg...t, morior -> mori...tur.
+    Loose on purpose: it confirms the verb is there in a third person, not
+    which conjugation's vowel it takes.
+    """
+    word = headword(key)
+    if word.endswith("or"):
+        return word[:-2], ("tur",)
+    return word[:-1], ("t",)
+
+
+def parse_sentences(
+    letter: str,
+) -> tuple[list[tuple[int, str, str, str]], set[str], set[str]]:
+    """Return ([(line_no, key, latin, english)], {skipped}, {third person}).
+
+    Comment lines are ignored except two tags. `# skip: <key> <reason>`
+    records a word deliberately passed over, so `next` stops offering it.
+    `# third: <key> <reason>` lets a verb take the third person singular.
     """
     path = sentences_path(letter)
     if not path.exists():
-        return [], set()
+        return [], set(), set()
 
-    rows, skipped = [], set()
+    rows, skipped, third = [], set(), set()
     for line_no, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
         line = line.strip()
         if not line:
             continue
         if line.startswith("#"):
             body = line[1:].lstrip()
-            if body.startswith("skip:"):
-                rest = body.split("skip:", 1)[1].split()
-                if rest:
-                    skipped.add(rest[0])
+            for tag, sink in (("skip:", skipped), ("third:", third)):
+                if body.startswith(tag):
+                    rest = body.split(tag, 1)[1].split()
+                    if rest:
+                        sink.add(rest[0])
             continue
         parts = [p.strip() for p in line.split("|")]
         if len(parts) == 3:
             rows.append((line_no, *parts))
         else:
             rows.append((line_no, parts[0], "", line))
-    return rows, skipped
+    return rows, skipped, third
 
 
 def cmd_next(args) -> int:
     letter = args.letter.upper()
-    rows, skipped = parse_sentences(letter)
+    rows, skipped, _third = parse_sentences(letter)
     done = {key for _, key, _, _ in rows}
 
     classes = eligible(letter)
@@ -188,7 +212,7 @@ def check_letter(letter: str) -> list[str]:
         print(f"note: ls_{letter}.json absent, skipping the eligibility checks")
 
     keys: list[str] = []
-    rows, _skipped = parse_sentences(letter)
+    rows, _skipped, third = parse_sentences(letter)
     for line_no, key, latin, english in rows:
         keys.append(key)
         if not latin:
@@ -207,14 +231,26 @@ def check_letter(letter: str) -> list[str]:
                 f" no clause punctuation or final stop"
             )
         words = latin.lower().split()
-        if headword(key) not in words:
+        is_verb = classes is not None and classes.get(key) == "verb"
+        if key in third:
+            stem, endings = third_person_forms(key)
+            if classes is not None and not is_verb:
+                errors.append(f"{where(line_no)}: '# third:' is for verbs, and {key!r} is not one")
+            if not any(w.startswith(stem) and w.endswith(endings) for w in words):
+                errors.append(
+                    f"{where(line_no)}: {latin!r} has no third person of {headword(key)!r}"
+                    f" ({stem}...{'/'.join(endings)})"
+                )
+            if english.startswith("I "):
+                errors.append(f"{where(line_no)}: {english!r} is flagged third person but reads 'I ...'")
+        elif headword(key) not in words:
             errors.append(
                 f"{where(line_no)}: {latin!r} does not use the headword form {headword(key)!r}"
             )
         joiners = sorted(SUBORDINATORS.intersection(words))
         if joiners:
             errors.append(f"{where(line_no)}: {latin!r} is not a single clause ({', '.join(joiners)})")
-        if classes is not None and classes.get(key) == "verb" and not english.startswith("I "):
+        if is_verb and key not in third and not english.startswith("I "):
             errors.append(f"{where(line_no)}: verb sentence {english!r} should be first person, 'I ...'")
 
     if len(set(keys)) != len(keys):
@@ -258,7 +294,7 @@ def cmd_status(args) -> int:
         if not source_path(letter).exists():
             continue
         classes = eligible(letter)
-        rows, skipped = parse_sentences(letter)
+        rows, skipped, _third = parse_sentences(letter)
         done = {key for _, key, _, _ in rows}
         total_done += len(done)
         total_eligible += len(classes)

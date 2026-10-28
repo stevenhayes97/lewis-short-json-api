@@ -302,6 +302,18 @@ video | Cibum calidum video | I see the warm food
 - **A verb is in its headword form** — first person singular present, so the
   English starts `I ...`. Deponents keep their headword (`Amicum hortor`, I
   encourage my friend): the form is passive, the meaning active.
+- **Third person, when "I" makes no sense.** A verb whose first person is
+  absurd or grim (`aborior`, miscarry; weather verbs; things only animals or
+  objects do) takes the third person singular, flagged by a comment directly
+  above it, and the English drops "I":
+  ```
+  # third: aborior "I miscarry" is not a sentence a learner needs
+  aborior | Ovis aboritur | The ewe miscarries
+  ```
+  Use it only where the first person truly fails; most verbs read fine as "I".
+- **Vary the other words.** Across a chunk, don't lean on the same frame
+  (`... delectat`, `ex urbe`, `amico`) — a beginner learns more from varied
+  common vocabulary.
 - **Illustrate the rank 1 sense**, in the classical meaning. Prefer the
   entry's own idiom when it has one: `Me consulatu abdico`, after L&S's
   `se abdicare magistratu`.
