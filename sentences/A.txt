@@ -10,3 +10,13 @@ abduco | Equum ex agro abduco | I lead the horse away from the field
 abeo | Ex urbe abeo | I depart from the city
 aberro | A via aberro | I stray from the road
 abhorreo | A bello abhorreo | I recoil from war
+abicio | Scutum abicio | I discard the shield
+abies | Abies in monte stat | The fir stands on the mountain
+abigo | Lupos ex agro abigo | I drive the wolves away from the field
+abitus | Abitus ex urbe tristis est | The departure from the city is sad
+abjudico | Agrum amico abjudico | I take the field from my friend by verdict
+abjuro | Pecuniam abjuro | I deny the money on oath
+ablego | Servum ex urbe ablego | I dismiss the slave from the city
+abligurrio | Patrimonium meum abligurrio | I squander my inheritance
+abluo | Manus aqua abluo | I wash my hands with water
+abnego | Pecuniam amico abnego | I refuse my friend the money
