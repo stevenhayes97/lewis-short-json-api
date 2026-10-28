@@ -830,3 +830,13 @@ consessor | Consessor judici consilium dat | The assessor gives advice to the ju
 consessus | Consessus civium in porticu exspectat | The assembly of citizens waits in the colonnade
 considero | Viam optimam considero | I consider the best route
 consido | In subsellio consido | I sit down on the bench
+consigno | Epistulam cera consigno | I seal the letter with wax
+consilior | Cum medico consilior | I consult the doctor
+consilium | Consilium senis ducem juvat | The old man's plan helps the general
+consisto | Ante portam consisto | I stand still before the gate
+consistorium | Consistorium magnum in palatio stat | The large council chamber stands in the palace
+consobrinus | Consobrinus meus Romam venit | My cousin comes to Rome
+consolatio | Consolatio vicini viduam recreat | The comfort of the neighbour revives the widow
+consolido | Murum calce consolido | I solidify the wall with lime
+consolo | Orbam matrem verbis consolo | I console the grieving mother with words
+consolor | Fratrem tristem consolor | I console my sad brother
