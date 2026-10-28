@@ -32,3 +32,17 @@ ratiocinor | Sumptus anni ratiocinor | I calculate the expenses of the year
 ratis | Ratis onus trans flumen vehit | The raft carries a load across the river
 ratiuncula | Ratiuncula mercatoris pauca nomina continet | The merchant's little account contains few names
 raudus | Raudus aeris in arca latet | The ingot of bronze lies hidden in the chest
+raudusculum | Raudusculum viduae vix prodest | The pittance scarcely helps the widow
+# skip: re3 is a stray fragment of resisto with no usable headword form
+reatus | Reatus consulem ad judicium vocat | The indictment summons the consul to court
+rebellio1 | Rebellio provinciae senatum terret | The rebellion of the province frightens the senate
+rebello | Contra consulem rebello | I rebel against the consul
+# third: reboo "I resound" is unnatural; a valley is the natural subject
+reboo | Vallis clamore pastoris reboat | The valley resounds with the shepherd's shout
+# third: recaleo "I am warm" is unnatural; a stone is the natural subject
+recaleo | Lapis in sole recalet | The stone is warm in the sun
+# third: recalesco "I grow warm" is unnatural; water is the natural subject
+recalesco | Aqua ad ignem recalescit | The water grows warm by the fire
+recalfacio | Cenam frigidam recalfacio | I rewarm the cold dinner
+# third: recandesco "I glow" is unnatural; iron is the natural subject
+recandesco | Ferrum in fornace recandescit | The iron glows again in the furnace
