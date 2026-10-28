@@ -235,3 +235,13 @@ aegresco | Hieme aegresco | I fall ill in winter
 aegrimonia | Aegrimonia mala est | The sorrow is bad
 aegritudo | Aegritudo gravis est | The grief is heavy
 aegrotatio | Aegrotatio longa est | The illness is long
+aegroto | Graviter aegroto | I am seriously ill
+aemulatio | Aemulatio inter fratres magna est | The rivalry between the brothers is great
+aemulator | Aemulator magistri bene scribit | The imitator of the teacher writes well
+aemulor | Fratrem aemulor | I rival my brother
+aenigma | Aenigma difficile est | The riddle is difficult
+aequabilitas | Aequabilitas motus stellarum mirabilis est | The regularity of the stars' movement is wonderful
+aequalitas | Aequalitas inter cives bona est | Equality among citizens is good
+aequanimitas | Aequanimitas senis laudatur | The old man's equanimity is praised
+aequinoctium | Aequinoctium autumno venit | The equinox comes in autumn
+aequiparo | Fratrem virtute aequiparo | I equal my brother in courage
