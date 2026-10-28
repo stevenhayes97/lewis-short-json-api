@@ -237,3 +237,14 @@ depso | Farinam depso | I knead the flour
 depugno | Pro patria depugno | I fight for my country
 depulsio | Depulsio periculi urbem quietam reddit | The warding off of danger leaves the city calm
 depulsor | Depulsor mali populum liberat | The deliverer from evil frees the people
+depurgo | Puteum depurgo | I cleanse the well
+deputo | Vitem falce deputo | I prune the vine with a sickle
+derado | Barbam derado | I shave my beard
+derelinquo | Oppidum derelinquo | I abandon the town
+derideo | Fabulam ineptam derideo | I deride the silly story
+# third: derigesco "I stiffen" is not a sentence a learner needs; wet cloth stiffens
+derigesco | Toga madida frigore derigescit | The wet toga stiffens in the cold
+deripio | Pannum de fenestra deripio | I tear the cloth away from the window
+derisor | Derisor post tergum magistri ridet | The mocker laughs behind the teacher's back
+derisus2 | Derisus turbae poetam ex theatro pellit | The mockery of the crowd drives the poet from the theatre
+derivatio | Derivatio aquae hortum rigat | The diversion of the water irrigates the garden
