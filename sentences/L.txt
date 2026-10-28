@@ -130,3 +130,13 @@ laxamentum | Laxamentum viae carrum transire sinit | The widening of the road le
 laxitas | Laxitas domus hospites omnes capit | The roominess of the house takes in all the guests
 laxo | Fenestram parvam laxo | I widen the small window
 lebes | Lebes super igne pendet | The cauldron hangs over the fire
+lectica | Lectica purpurea per vicum procedit | The purple litter moves along the street
+lecticarius | Lecticarius dominum ad thermas portat | The litter-bearer carries his master to the baths
+lecticula | Lecticula aegrotum ad fontem fert | The litter takes the sick man to the spring
+lectio | Lectio epistulae consulem sollicitat | The reading of the letter worries the consul
+lectisternium | Lectisternium cives ad templum vocat | The banquet for the gods calls the citizens to the temple
+lectito | Libros veteres lectito | I peruse old books
+lector | Lector fabulam novam avide petit | The reader eagerly seeks a new story
+lectulus | Lectulus in angulo cubiculi stat | The couch stands in the corner of the bedroom
+lectus2 | Lectus mollis viatorem fessum invitat | The soft bed invites the weary traveller
+legatio | Legatio Romana Athenas proficiscitur | The Roman embassy sets out for Athens
