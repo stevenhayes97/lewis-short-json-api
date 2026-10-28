@@ -201,3 +201,13 @@ libramentum | Libramentum plumbi lineam tendit | The weight of lead stretches th
 librator | Librator aquaeductum metitur | The surveyor measures the aqueduct
 libripens | Libripens cohorti stipendium distribuit | The paymaster distributes the wages to the cohort
 libro | Baculum in digito libro | I balance the stick on my finger
+libum | Libum melle dulce est | The cake is sweet with honey
+licentia | Licentia poetis multa permittit | Freedom allows poets many things
+# skip: liceo1 has no usable present form, since its third person singular licet is identical to the impersonal licet (it is allowed) and the first person is absurd
+liceor | In auctione digito liceor | I bid with my finger at the auction
+lichen | Lichen in cortice arboris crescit | Lichen grows on the bark of the tree
+licitatio | Licitatio mercatoris pretium auget | The merchant's bid raises the price
+licitor | Pro equo licitor | I bid for the horse
+licium | Licium rubrum a tela pendet | The red thread hangs from the loom
+lictor | Lictor fasces ante consulem portat | The lictor carries the fasces before the consul
+lien | Lien aegroti tumet | The sick man's spleen is swollen
