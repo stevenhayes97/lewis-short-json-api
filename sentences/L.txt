@@ -11,3 +11,14 @@ labia | Labia mea sole arescit | My lip dries out in the sun
 # third: labo "I totter" suits a building, not a person
 labo | Turris vetus labat | The old tower totters
 labor1 | Per aquam placidam labor | I glide over the calm water
+labor2 | Labor diurnus agricolam fatigat | The daily labour tires the farmer
+laboro | In vinea laboro | I labour in the vineyard
+labrum1 | Labrum inferius tremit | The lower lip trembles
+labrum2 | Labrum in balneo aquam tepidam continet | The basin in the bath holds warm water
+labrusca | Labrusca per sepem serpit | The wild vine creeps along the hedge
+labyrinthus | Labyrinthus in Creta exitum celat | The labyrinth in Crete hides the way out
+lac | Lac recens aegrotum reficit | Fresh milk revives the sick man
+laceratio | Laceratio tunicae viatorem tristem facit | The tearing of the tunic makes the traveller sad
+lacerna1 | Lacerna nova senem a frigore defendit | The new cloak protects the old man from the cold
+# third: lacero "I mangle" is violent; a generic military figure acts instead
+lacero | Hostis aciem nostram lacerat | The enemy mangles our battle line
