@@ -543,3 +543,16 @@ intro2 | Curiam intro | I enter the senate house
 introduco | Novum discipulum in scholam introduco | I introduce a new pupil to the school
 introeo | Villam introeo | I enter the farmhouse
 introitus2 | Introitus hortorum prope portam patet | The entrance to the gardens lies open near the gate
+intromitto | Vicinum in hortum intromitto | I let the neighbour into the garden
+introspicio | In puteum introspicio | I peer into the well
+intueor | Stellas intueor | I gaze at the stars
+# third: intumesco "I swell" is odd; a river swells
+intumesco | Flumen imbribus intumescit | The river swells with the rains
+# third: inumbro "I shade" is odd; a plane tree shades a spring
+inumbro | Platanus fontem inumbrat | The plane tree shades the spring
+inundatio | Inundatio Nili agros fecundat | The flood of the Nile enriches the fields
+# third: inundo "I flood" is odd; a river floods
+inundo | Tiberis campum inundat | The Tiber floods the plain
+inunguo | Caput oleo inunguo | I anoint my head with oil
+inuro | Nomen meum in trabe inuro | I brand my name into the beam
+invado | Fines hostium invado | I invade the enemy's territory
