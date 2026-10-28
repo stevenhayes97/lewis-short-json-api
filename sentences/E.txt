@@ -402,3 +402,13 @@ expiscor | Arcanum a servo expiscor | I ferret out the secret from the slave
 explanatio | Explanatio magistri puerum juvat | The teacher's explanation helps the boy
 explano | Regulam discipulis explano | I explain the rule to the pupils
 explementum | Explementum amphoras in plaustro tuetur | The filler protects the jars on the cart
+expleo | Situlam aqua expleo | I fill the bucket with water
+explicatio | Explicatio versuum discipulis prodest | The explanation of the verses benefits the pupils
+explico | Epistulam explico | I unfold the letter
+explodo | Actorem ineptum explodo | I hiss the clumsy actor off the stage
+exploro | Causam incendii exploro | I investigate the cause of the fire
+expolio | Mensam cera expolio | I polish the table with wax
+expolitio | Expolitio marmoris sculptorem occupat | The polishing of the marble occupies the sculptor
+expono | Rem difficilem civibus expono | I explain the difficult matter to the citizens
+exporrigo | Manum ad flammam exporrigo | I stretch out my hand to the flame
+exporto | Vinum in Galliam exporto | I export wine to Gaul
