@@ -103,3 +103,15 @@ ferocitas | Ferocitas aprorum venatores cautos facit | The fierceness of the boa
 ferramentum | Ferramentum in arca fabri jacet | The tool lies in the smith's chest
 ferrugo | Ferrugo clavum veterem edit | The rust eats the old nail
 ferrum | Ferrum in igne rubet | The iron glows red in the fire
+ferrumen | Ferrumen vas aeneum reficit | The solder mends the bronze vessel
+ferruumino | Fistulam ferruumino | I solder the pipe
+fertilitas | Fertilitas Aegypti Romam alit | The fertility of Egypt feeds Rome
+ferula | Ferula in prato alta crescit | The fennel grows tall in the meadow
+fervefacio | Aquam in olla fervefacio | I heat the water in the pot
+# third: ferveo "I boil" is odd; milk or water boils
+ferveo | Lac in olla fervet | The milk boils in the pot
+# third: fervesco "I heat up" is odd; sand heats up
+fervesco | Arena meridie fervescit | The sand heats up at noon
+fervor | Fervor aestatis messorem sub umbram pellit | The heat of summer drives the reaper into the shade
+festinatio | Festinatio nuntii senatum excitat | The messenger's haste rouses the senate
+festino | Ad portum festino | I hasten to the harbour
