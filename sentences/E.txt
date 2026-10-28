@@ -201,3 +201,14 @@ eruca | Eruca in folio repit | The caterpillar crawls on the leaf
 eructo | Bos post pastum eructat | The ox belches after feeding
 erudio | Juvenes litteris Graecis erudio | I educate the young men in Greek literature
 eruditio | Eruditio Graeca Ciceronem ornat | Greek erudition adorns Cicero
+# third: erumpo "I burst forth" is odd; smoke bursts forth
+erumpo | Fumus e culmine erumpit | The smoke bursts forth from the roof
+eruo | Lapides e campo eruo | I dig the stones out of the field
+eruptio | Eruptio morbi urbem terret | The outbreak of the disease frightens the city
+erus | Erus in villa cenat | The master dines in the villa
+esca | Esca calida pueros domum vocat | The warm food calls the boys home
+escendo | In montem escendo | I climb up the mountain
+escensio | Escensio ardua pastorem tardat | The steep ascent delays the shepherd
+essentia | Essentia divina theologum occupat | The divine essence engages the theologian
+etesiae | Etesiae in aestate flant | The Etesian winds blow in summer
+euripus | Euripus Euboeam a Boeotia separat | The strait separates Euboea from Boeotia
