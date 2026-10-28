@@ -228,3 +228,16 @@ remora1 | Remora nuntium serum facit | The delay makes the messenger late
 remordeo | Canis os remordet | The dog gnaws the bone
 remoror | Hospitem remoror | I delay the guest
 remotio | Remotio saxi viam aperit | The removal of the rock opens the road
+removeo | Mensam e cubiculo removeo | I remove the table from the bedroom
+# third: remugio "I bellow back" is unnatural; a cow is the natural subject
+remugio | Vacca ad vitulum remugit | The cow bellows back to the calf
+remulceo | Infantem cantu remulceo | I soothe the baby with a song
+remulcum | Remulcum navem ad portum trahit | The towrope pulls the ship to the harbour
+remuneratio | Remuneratio magna agricolam ad laborem invitat | The great reward invites the farmer to work
+remuneror | Fidelem nautam remuneror | I reward the faithful sailor
+remus1 | Remus aquam secat | The oar cuts the water
+# third: renascor "I revive" is unnatural; a flower is the natural subject
+renascor | Flos post hiemem renascitur | The flower revives after the winter
+renes | Renes corpus purgant | The kidneys cleanse the body
+# third: renideo "I glisten" is unnatural; the sea is the natural subject
+renideo | Mare in sole renidet | The sea glistens in the sun
