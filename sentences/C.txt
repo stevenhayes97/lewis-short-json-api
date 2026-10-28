@@ -840,9 +840,10 @@ consolatio | Consolatio vicini viduam recreat | The comfort of the neighbour rev
 consolido | Murum calce consolido | I solidify the wall with lime
 consolo | Orbam matrem verbis consolo | I console the grieving mother with words
 consolor | Fratrem tristem consolor | I console my sad brother
-consono | In valle consono | I resound in the valley
+# third: consono places and voices resound, not "I"
+consono | Vallis cantu consonat | The valley resounds with song
 consonus | Consonus vocalem sequitur | The consonant follows the vowel
-consopio | Aegrum potione consopio | I stupefy the patient with a potion
+consopio | Aegrum potione consopio | I lull the patient to sleep with a potion
 consors | Consors mercatoris merces numerat | The partner of the merchant counts the goods
 consortio | Consortio sodalium juvenem laetificat | The fellowship of his comrades cheers the young man
 consortium | Consortium mercatorum navem emit | The partnership of merchants buys a ship
@@ -1048,8 +1049,8 @@ crispo | Capillum calamistro crispo | I curl my hair with tongs
 crista1 | Crista rubra galeam ornat | The red crest adorns the helmet
 crocum | Crocum cibum flavum facit | The saffron makes the food yellow
 cruciatus | Cruciatus morbi aegrum fatigat | The torture of the illness wearies the patient
-# third: crucio "I torture" is not a sentence a learner needs; kept plain and military
-crucio | Dux hostem cruciat | The general tortures the enemy
+# third: crucio "I torture" is grim; thirst torments
+crucio | Sitis viatorem cruciat | Thirst torments the traveller
 crudelitas | Crudelitas tyranni cives fugat | The cruelty of the tyrant makes the citizens flee
 # third: crudesco "I worsen" is said of storms and illnesses
 crudesco | Tempestas in mari crudescit | The storm worsens at sea
