@@ -406,3 +406,13 @@ ambitus2 | Ambitus lunae brevis est | The circuit of the moon is short
 ambrosia1 | Ambrosia cibus deorum est | Ambrosia is the food of the gods
 ambulacrum | Ambulacrum arboribus ornatum est | The avenue is adorned with trees
 ambulatio | Ambulatio post cenam salubris est | The walk after dinner is healthy
+ambulo | Per silvam ambulo | I walk through the wood
+amburbium | Amburbium circum urbem ducitur | The procession is led round the city
+amburo | Tabulam flamma amburo | I scorch the board with a flame
+amentia | Amentia tristis est | The madness is sad
+amento | Hastam amento | I fit the spear with a thong
+amentum | Amentum hastae e corio est | The thong of the spear is made of leather
+ames | Ames longus rete sustinet | The long pole holds up the net
+amicio | Pallio me amicio | I wrap myself in a cloak
+amicitia | Amicitia res pulchra est | Friendship is a fine thing
+amictus2 | Amictus pastoris laneus est | The shepherd's cloak is woollen
