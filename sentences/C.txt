@@ -569,3 +569,14 @@ communio2 | Communio inter fratres pacem servat | Fellowship between brothers pr
 communitas | Communitas oppidi festum celebrat | The community of the town celebrates the festival
 communitio | Communitio itineris ducem occupat | The preparation of the route keeps the general busy
 commurmuro | In angulo commurmuro | I murmur in the corner
+commutatio | Commutatio temporis agricolas movet | The change of weather concerns the farmers
+commuto | Vestem cum amico commuto | I change my clothing with a friend
+como1 | Capillos mane como | I comb my hair in the morning
+# third: como2 "I am hairy" is not a sentence a learner needs; horses and plants are furnished with hair
+como2 | Equus juba comat | The horse is furnished with a mane
+comoedia | Comoedia spectatores in theatro delectat | The comedy amuses the spectators in the theatre
+compaciscor | Cum socio de pretio compaciscor | I agree with my partner about the price
+compages | Compages navis aquam excludit | The framework of the ship keeps out the water
+comparatio1 | Comparatio duorum poetarum difficilis est | The comparison of two poets is difficult
+comparatio2 | Comparatio cenae multum temporis postulat | The preparation of the dinner demands much time
+comparco | Pecuniam comparco | I save money
