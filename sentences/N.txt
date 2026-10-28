@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/N.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+nacca | Nacca togam in aqua lavat | The fuller washes the toga in water
+naevus | Naevus in mento pictoris latet | The birthmark hides on the painter's chin
+nanciscor | Locum in theatro nanciscor | I obtain a seat in the theatre
+nanus | Nanus cum cane per viam currit | The dwarf runs along the road with the dog
+naphtha | Naphtha celeriter ardet | Naphtha burns quickly
+naris | Naris aerem frigidum sentit | The nostril feels the cold air
+narratio | Narratio brevis oratoris auditoribus placet | The orator's short narrative pleases the listeners
+narro | Fabulam longam nepoti narro | I tell my grandson a long story
+nassa | Nassa e vimine in lacu jacet | The wicker fish-trap lies in the lake
+nasturtium | Nasturtium acre linguam mordet | The sharp cress bites the tongue
