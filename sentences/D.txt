@@ -117,3 +117,14 @@ dego | Aestatem in rure dego | I spend the summer in the country
 degravo | Mensam libris degravo | I weigh down the table with books
 degredior | Per scalas degredior | I descend by the stairs
 degusto | Cibum degusto | I taste the food
+# third: dehisco only the earth, a wound or a seam gapes
+dehisco | Terra siccitate dehiscit | The earth gapes in the drought
+dehonestamentum | Dehonestamentum vitae senatorem angit | The blemish on his life troubles the senator
+dehonesto | Civem mendacio dehonesto | I disgrace the citizen with a lie
+dehortor | Amicum a bello dehortor | I dissuade my friend from the war
+deicio | Nucem de arbore deicio | I throw the nut down from the tree
+dejectio | Dejectio hostium ex castris exercitum laetum facit | The expulsion of the enemy from the camp makes the army happy
+dejero | Per deos dejero | I swear by the gods
+delabor | De scala delabor | I slip down from the ladder
+delatio | Delatio furti civem terret | The accusation of theft frightens the citizen
+delator | Delator ad judicem currit | The informer runs to the judge
