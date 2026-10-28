@@ -271,3 +271,14 @@ modus | Modus in omnibus rebus sapientem decet | Measure in all things suits the
 moenia1 | Moenia urbem ab hoste protegunt | The walls protect the city from the enemy
 mola | Mola frumentum in farinam terit | The millstone grinds grain into flour
 moles | Moles saxi viam claudit | The mass of rock blocks the road
+molestia | Molestia fumi cenantes e triclinio fugat | The annoyance of the smoke drives the diners from the dining room
+molimen | Molimen nautarum navem ad litus trahit | The effort of the sailors hauls the ship to the shore
+molimentum | Molimentum fratrum plaustrum e luto extrahit | The effort of the brothers pulls the wagon out of the mud
+molior | Montem ascendere molior | I endeavour to climb the mountain
+molitio1 | Molitio saxorum agricolam lassat | The moving of the rocks wearies the farmer
+# third: mollesco the first person is unnatural; wax is the usual subject
+mollesco | Cera in sole mollescit | The wax softens in the sun
+mollio | Lanam aqua mollio | I soften the wool with water
+mollitia | Mollitia pulvini caput lassum levat | The softness of the cushion eases the tired head
+mollitudo | Mollitudo herbae viatorem ad quietem invitat | The softness of the grass invites the traveller to rest
+molo1 | Far in pistrino molo | I grind spelt in the mill
