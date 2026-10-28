@@ -713,3 +713,15 @@ conduco | Navem in diem conduco | I hire a boat for the day
 conductio | Conductio domus pecuniam postulat | The hiring of the house demands money
 conductor | Conductor agri frumentum serit | The lessee of the field sows grain
 conduplico | Mercedem conduplico | I double the wage
+conecto | Duas trabes ferro conecto | I connect two beams with iron
+conexio | Conexio rerum a philosopho docetur | The union of things is taught by the philosopher
+confabulor | Cum amicis confabulor | I converse with my friends
+confarreatio | Confarreatio coram sacerdote fit | The confarreatio takes place before the priest
+# third: confarreo "I wed by confarreatio" is not a sentence a learner needs; the verb is used of the groom, so third person
+confarreo | Juvenis puellam in templo confarreat | The young man weds the girl by the old bread rite in the temple
+confectio | Confectio libri multos menses postulat | The completion of the book requires many months
+confector | Confector belli triumphum agit | The finisher of the war holds a triumph
+confercio | Poma in saccum confercio | I cram the fruit into the sack
+confero | Pecuniam ex civibus confero | I collect money from the citizens
+# third: confervesco only liquids and similar things heat up
+confervesco | Aqua in olla confervescit | The water heats up in the pot
