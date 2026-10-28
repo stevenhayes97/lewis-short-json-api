@@ -818,3 +818,9 @@ averto | Flumen averto | I divert the river
 avia1 | Avia mea fabulas narrat | My grandmother tells stories
 aviditas | Aviditas legendi puerum ad libros trahit | The passion for reading draws the boy to books
 avis | Avis in ramo cantat | The bird sings on the branch
+avocamentum | Avocamentum animum fessum juvat | The distraction helps the tired mind
+avoco | Amicum a labore avoco | I call my friend away from work
+avolo | Ad altam arborem avolo | I fly to the tall tree
+avunculus | Avunculus mihi librum donat | My maternal uncle gives me a book
+avus | Avus meus lente ambulat | My grandfather walks slowly
+axis | Axis currum sustinet | The axle supports the chariot
