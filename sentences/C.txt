@@ -641,3 +641,14 @@ concerpo | Epistulam concerpo | I tear up the letter
 concertatio | Concertatio de pretio mercatores fatigat | The dispute about the price tires the merchants
 concerto | Cum vicino de limite concerto | I contend with my neighbour about the boundary
 concessio | Concessio judicis litigatorem placat | The judge's concession calms the litigant
+concesso | A labore concesso | I cease from work
+# skip: concessus2 occurs only in the ablative singular concessu, so no nominative headword-form sentence is possible
+concha | Concha in litore jacet | The shellfish lies on the shore
+conchylium | Conchylium in mensa positum est | The shellfish is set on the table
+# third: concido1 "I collapse" is not a sentence a learner needs; buildings collapse
+concido1 | Turris vetus concidit | The old tower collapses
+concido2 | Carnem concido | I cut up the meat
+concieo | Milites ad arma concieo | I summon the soldiers to arms
+conciliabulum | Conciliabulum prope portam est | The meeting-place is near the gate
+conciliatio | Conciliatio vicinorum litem finit | The conciliation of the neighbours ends the quarrel
+conciliator | Conciliator pacis civitatem servat | The promoter of peace preserves the state
