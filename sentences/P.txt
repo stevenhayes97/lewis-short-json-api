@@ -145,3 +145,13 @@ paveo | Tonitrum paveo | I fear thunder
 pavesco | Nocte in silva pavesco | I become afraid in the forest at night
 pavimentum | Pavimentum marmoreum in atrio nitet | The marble pavement shines in the hall
 pavio | Terram pavio | I pound the earth
+pavito | Ante tribunal pavito | I tremble before the tribunal
+pavo1 | Pavo caudam in horto expandit | The peacock spreads its tail in the garden
+pavor | Pavor turbam in theatro dissipat | The panic scatters the crowd in the theatre
+pax1 | Pax mercatores ad portum vocat | Peace calls the merchants to the harbour
+peccatum | Peccatum conscientiam turbat | The sin troubles the conscience
+pecco | In numeris pecco | I err in the figures
+pecten | Pecten eburneus in cista jacet | The ivory comb lies in the chest
+pectino | Lanam pectino | I comb the wool
+pecto | Capillos pecto | I comb my hair
+pectus | Pectus aegri tussi dolet | The sick man's chest aches with a cough
