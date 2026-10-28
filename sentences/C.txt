@@ -370,3 +370,16 @@ clamor | Clamor ex taberna venit | The shout comes from the shop
 # third: clango only trumpets and similar loud things clang
 clango | Tuba in castris clangit | The trumpet clangs in the camp
 clangor | Clangor tubae milites excitat | The clang of the trumpet wakes the soldiers
+# third: clareo only lights and heavenly bodies are bright
+clareo | Luna in caelo claret | The moon is bright in the sky
+# third: claresco only the sky, light or the day grows bright
+claresco | Caelum mane clarescit | The sky grows bright in the morning
+clarigatio | Clarigatio a sacerdote fit | The demand for redress is made by the priest
+# third: clarigo only a fetial priest makes this demand
+clarigo | Sacerdos pro populo clarigat | The priest demands redress for the people
+claritas1 | Claritas lunae viam monstrat | The brightness of the moon shows the way
+claritudo | Claritudo poetae per urbem crescit | The poet's renown grows through the city
+claro | Cubiculum lucerna claro | I make the bedroom bright with a lamp
+classiarius | Classiarius in navi stat | The marine stands on the ship
+classis | Classis ventum exspectat | The fleet awaits the wind
+claudeo | Pede dextro claudeo | I am lame in my right foot
