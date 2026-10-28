@@ -231,3 +231,15 @@ percrebesco | Rumor per urbem percrebescit | The rumour spreads widely through t
 percuro | Aegrum herbis percuro | I heal the sick man completely with herbs
 percurro | Pontem celeriter percurro | I run across the bridge quickly
 percursio | Percursio epistulae tempus servat | The quick review of the letter saves time
+percussio | Percussio chordae sonum clarum facit | The striking of the string makes a clear sound
+percussor | Percussor a consule quaeritur | The assassin is sought by the consul
+percussus2 | Percussus remorum nautas ad portum ducit | The striking of the oars leads the sailors to the harbour
+# third: percutio a violent verb; keeps to a military frame
+percutio | Hostis portam urbis percutit | The enemy strikes the city gate
+perdisco | Lectionem perdisco | I learn the lesson thoroughly
+# third: perdo "I destroy" is unnatural; hail is the natural subject
+perdo | Grando segetem perdit | The hail destroys the crop
+perdoceo | Puerum musicam perdoceo | I teach the boy music thoroughly
+perdomo | Montanos perdomo | I subdue the mountain tribes completely
+perduco | Amicum per hortum perduco | I lead my friend through the garden
+perductor | Perductor viatores per silvam tutos servat | The guide keeps the travellers safe through the forest
