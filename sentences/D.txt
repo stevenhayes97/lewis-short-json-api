@@ -550,3 +550,13 @@ divido | Agrum inter filios divido | I divide the field among my sons
 divinatio | Divinatio augurum regem monet | The divination of the augurs warns the king
 divinitas | Divinitas Jovis populum movet | The divinity of Jupiter moves the people
 divino | Eventum belli divino | I divine the outcome of the war
+divisio | Divisio horarum diem ordinat | The division of the hours orders the day
+divisor | Divisor nummos inter tribules dat | The distributor gives coins among the tribesmen
+divitiae | Divitiae in thesauro jacent | The riches lie in the treasury
+divortium | Divortium uxorem ad patrem remittit | The divorce sends the wife back to her father
+divulgo | Novitatem in omnibus vicis divulgo | I divulge the news in all the villages
+do1 | Munus fratri do | I give a gift to my brother
+# skip: do2 is only the compounding element -do (put), as in abdo and condo, not a standalone verb
+doceo | Discipulos grammaticam doceo | I teach the pupils grammar
+doctrina | Doctrina Graeca juvenem Romanum format | Greek instruction shapes the young Roman
+documentum | Documentum fabulae pueris prodest | The lesson of the story benefits the boys
