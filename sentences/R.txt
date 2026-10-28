@@ -241,3 +241,13 @@ renascor | Flos post hiemem renascitur | The flower revives after the winter
 renes | Renes corpus purgant | The kidneys cleanse the body
 # third: renideo "I glisten" is unnatural; the sea is the natural subject
 renideo | Mare in sole renidet | The sea glistens in the sun
+renitor | Vento renitor | I resist the wind
+reno | Ad insulam reno | I swim back to the island
+renodo | Capillos renodo | I tie back my hair
+renovatio | Renovatio foederis pacem confirmat | The renewal of the treaty confirms the peace
+renovo | Vestem veterem renovo | I renew the old garment
+renuntiatio | Renuntiatio consulis civitatem ad spem excitat | The consul's announcement rouses the community to hope
+renuntio | Victoriam senatui renuntio | I announce the victory to the senate
+renuo | Invitationem renuo | I decline the invitation
+reor | Ita reor | I think so
+repagula | Repagula portam clausam tenent | The bolts hold the gate shut
