@@ -171,7 +171,7 @@ admitto | Hospitem in domum admitto | I let the guest into the house
 admolior | Saxum ad portam admolior | I heave the rock up to the gate
 admoneo | Puerum officii admoneo | I remind the boy of his duty
 admonitio | Admonitio matris filium movet | The mother's reminder moves her son
-admonitor | Admonitor puerum officii admonet | The monitor reminds the boy of his duty
+admonitor | Admonitor discipulos diligentes facit | The monitor makes the pupils diligent
 # skip: admonitus2 used only in the ablative (admonitu), so it cannot be a nominative subject
 admordeo | Pomum admordeo | I bite into the apple
 admotio | Admotio digitorum sonum mutat | The placing of the fingers changes the sound
@@ -227,8 +227,8 @@ aedificium | Aedificium magnum prope portum est | The large building is near the
 aedifico | Domum novam aedifico | I build a new house
 aedilis | Aedilis ludos populo parat | The aedile prepares games for the people
 aedilitas | Aedilitas magistratus antiquus est | The aedileship is an ancient magistracy
-aeditimus | Aeditimus templum purgat | The temple keeper cleans the temple
-aedituus | Aedituus ad portam templi stat | The temple keeper stands at the gate of the temple
+aeditimus | Aeditimus aram purgat | The temple keeper cleans the altar
+aedituus | Aedituus ad portam stat | The temple keeper stands at the gate
 aegilops | Aegilops medicis notus est | The eye tumour is known to doctors
 aegis | Aegis in templo splendet | The aegis gleams in the temple
 aegresco | Hieme aegresco | I fall ill in winter
@@ -305,7 +305,7 @@ aggrego | Ovem ad gregem aggrego | I add the sheep to the flock
 aggressio | Aggressio militum subita est | The soldiers' attack is sudden
 agilitas | Agilitas pueri magna est | The boy's nimbleness is great
 agitatio | Agitatio fluctuum in portu cernitur | The movement of the waves is seen in the harbour
-agitator | Agitator asinos per viam agit | The driver drives the donkeys along the road
+agitator | Agitator asinos per viam ducit | The driver leads the donkeys along the road
 agitatus | Agitatus aquae in flumine celer est | The movement of the water in the river is quick
 agito | Equum in campo agito | I drive the horse on the plain
 agmen | Agmen longum per viam it | The long column goes along the road
@@ -500,7 +500,7 @@ antefero | Pacem bello antefero | I prefer peace to war
 # skip: antefixus is a participle (nailed on), misfiled as a noun
 antenna | Antenna velum sustinet | The yardarm holds up the sail
 antepono | Libros ludis antepono | I prefer books to games
-antesignanus | Antesignanus ante signa stat | The front-line soldier stands before the standards
+antesignanus | Antesignanus primus in proelium currit | The front-line soldier runs first into battle
 antesto | Cursu fratri antesto | I excel my brother in running
 antestor | Vicinum antestor | I call my neighbour to witness
 antevenio | Hostem antevenio | I forestall the enemy
@@ -557,7 +557,7 @@ appulsus2 | Appulsus pecoris ad aquam pastorem occupat | The driving of the floc
 apricatio | Apricatio senem calefacit | The sunbathing warms the old man
 apto | Galeam capiti apto | I fit the helmet to my head
 aqua | Aqua per agros fluit | The water flows through the fields
-aquaeductus | Aquaeductus aquam ad urbem portat | The aqueduct carries water to the city
+aquaeductus | Aquaeductus vallem transit | The aqueduct crosses the valley
 aquatio | Aquatio militibus necessaria est | The fetching of water is necessary for the soldiers
 aquila1 | Aquila in caelo volat | The eagle flies in the sky
 aquilo | Aquilo naves in portu tenet | The north wind holds the ships in the harbour
@@ -566,7 +566,7 @@ aquula | Aquula per saxum manat | The trickle runs through the rock
 ara | Ara deo dicata est | The altar is dedicated to the god
 aranea | Aranea telam texit | The spider weaves a web
 aratio | Aratio terram parat | The ploughing prepares the earth
-arator | Arator bovem ad aratrum jungit | The ploughman yokes the ox to the plough
+arator | Arator agrum mane colit | The ploughman works the field in the morning
 aratrum | Aratrum agricolae utile est | The plough is useful to the farmer
 arbiter | Arbiter verba amici audit | The witness hears the friend's words
 arbitratus2 | Arbitratus judicis rem finit | The judge's discretion settles the matter
@@ -609,12 +609,12 @@ argutiae | Argutiae vultus statuam ornant | The liveliness of the face adorns th
 argutor | Cum sorore argutor | I prattle with my sister
 ariditas | Ariditas agricolas terret | The drought frightens the farmers
 aries | Aries lanam densam habet | The ram has thick wool
-# third: arieto "I butt" is only something a ram does
-arieto | Aries portam arietat | The ram butts the gate
+# third: arieto "I butt" is something only a horned animal does
+arieto | Hircus portam arietat | The goat butts the gate
 arista | Arista spicam ornat | The awn adorns the ear
 arma | Arma militem tegunt | The arms cover the soldier
 armamenta | Armamenta nautam adjuvant | The tackle helps the sailor
-armamentarium | Armamentarium arma publica continet | The arsenal holds public arms
+armamentarium | Armamentarium prope portum stat | The arsenal stands near the harbour
 armarium | Armarium vestes et pecuniam servat | The cupboard keeps clothes and money
 # skip: armatus2 is attested only in the ablative (armatu), so it cannot be a subject in headword form
 armentum | Armentum ad aquam it | The herd goes to the water

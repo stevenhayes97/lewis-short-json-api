@@ -332,6 +332,13 @@ video | Cibum calidum video | I see the warm food
     undescriptive sentence (`Adulterium matrimonium dissolvit`, adultery
     breaks up the marriage; `Numquam adultero`, I never commit adultery).
   - `# skip:` is for misfiled or unusable words, not for dark ones.
+- **No word said twice.** Nothing in the sentence repeats another word, or
+  the headword, in Latin or English: not `Candelabrum candelam sustinet`
+  (the candlestick holds the candle), not `the temple keeper cleans the
+  temple`, not `Canicula parva` (a little little dog), not `Bonum civitatis
+  civibus prodest`. `check` catches same-stem Latin pairs and repeated English
+  content words; a word that only restates the headword's meaning
+  (`parva` on a diminutive) is on you.
 - **Vary the other words.** Across a chunk, don't lean on the same frame
   (`... delectat`, `ex urbe`, `amico`) — a beginner learns more from varied
   common vocabulary.

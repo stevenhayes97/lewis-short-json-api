@@ -79,6 +79,35 @@ SUBORDINATORS = frozenset({
 LATIN_TEXT = re.compile(r"^[A-Z][a-z]*(?: [A-Za-z][a-z]*)*$")
 ENGLISH_TEXT = re.compile(r"^[A-Z][^.!?]*[^.!?\s]$|^[A-Z]$")
 
+# No word said twice. "Candelabrum candelam sustinet" (the candlestick holds the
+# candle) and "the temple keeper cleans the temple" teach nothing the headword
+# has not already said. Latin words clash when one of four letters or more is
+# a prefix of the other (agit / agitator), or they share their first five
+# letters (oratio / orator); five, not four, so consul / consilium pass, and
+# short prepositions (ad / adduco) never count. English repeats are content
+# words only, a hyphenated word counting as one.
+SHARED_STEM = 5
+ENGLISH_FILLER = frozenset({
+    "a", "all", "an", "and", "as", "at", "be", "by", "for", "from", "her", "his",
+    "i", "in", "into", "is", "its", "me", "my", "not", "of", "off", "on", "our",
+    "out", "the", "their", "to", "up", "with",
+})
+
+
+def repeated_words(latin: str, english: str) -> list[str]:
+    """Pairs of Latin words from one stem, and English content words said twice."""
+    words = latin.lower().split()
+    clashes = [
+        f"{a}/{b}"
+        for i, a in enumerate(words)
+        for b in words[i + 1:]
+        if (min(len(a), len(b)) >= 4 and (a.startswith(b) or b.startswith(a)))
+        or a[:SHARED_STEM] == b[:SHARED_STEM]
+    ]
+    content = [w for w in re.findall(r"[a-z]+(?:-[a-z]+)*", english.lower().replace("'s", "")) if w not in ENGLISH_FILLER]
+    clashes += sorted({w for w in content if content.count(w) > 1})
+    return clashes
+
 
 def sentences_path(letter: str) -> Path:
     return SENTENCES_DIR / f"{letter.upper()}.txt"
@@ -251,6 +280,9 @@ def check_letter(letter: str) -> list[str]:
         joiners = sorted(SUBORDINATORS.intersection(words))
         if joiners:
             errors.append(f"{where(line_no)}: {latin!r} is not a single clause ({', '.join(joiners)})")
+        repeats = repeated_words(latin, english)
+        if repeats:
+            errors.append(f"{where(line_no)}: {latin!r} / {english!r} repeats a word ({', '.join(repeats)})")
         if is_verb and key not in third and not english.startswith("I "):
             errors.append(f"{where(line_no)}: verb sentence {english!r} should be first person, 'I ...'")
 
