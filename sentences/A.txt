@@ -516,3 +516,13 @@ anxietas | Anxietas animum senis occupat | The anxiety takes hold of the old man
 aper1 | Aper ad flumen currit | The boar runs to the river
 aperio | Fenestram aperio | I open the window
 apertio | Apertio portae custodem excitat | The opening of the door wakes the guard
+apex | Apex montis nive tectus est | The tip of the mountain is covered with snow
+aphractus | Aphractus ad insulam navigat | The open galley sails to the island
+apis1 | Apis flores petit | The bee seeks flowers
+apiscor | Praemium apiscor | I obtain the prize
+apium | Apium in olla coquitur | The parsley is cooked in the pot
+apluda | Apluda e frumento volat | The chaff flies from the grain
+aplustre | Aplustre vittis ornatum est | The curved stern is adorned with ribbons
+apo | Funem ad palum apo | I fasten the rope to the post
+apocolocyntosis | Apocolocyntosis Senecae Claudium ridet | Seneca's Apocolocyntosis mocks Claudius
+apologus | Apologus puerum docet | The fable teaches the boy
