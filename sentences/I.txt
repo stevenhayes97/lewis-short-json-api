@@ -440,3 +440,14 @@ intellego | Magistri verba intellego | I understand the teacher's words
 intemperantia | Intemperantia adulescentis patrimonium consumit | The young man's intemperance uses up his inheritance
 intemperiae | Intemperiae mercatorem agitant | Madness drives the merchant
 intemperies | Intemperies caeli messem tardat | The inclemency of the weather delays the harvest
+intendo | Velum intendo | I stretch the awning
+intentio | Intentio funis malum firmum tenet | The tension of the rope holds the mast firm
+intento | Hostibus bellum intento | I threaten the enemy with war
+# third: intepesco "I become lukewarm" is odd; milk turns lukewarm
+intepesco | Lac in poculo intepescit | The milk in the cup turns lukewarm
+intercalo | Mensem in annum intercalo | I intercalate a month into the year
+intercapedo | Intercapedo imbris agricolas in agros mittit | The interval in the rain sends the farmers into the fields
+intercedo | Pro fratre intercedo | I intervene for my brother
+intercessio | Intercessio tribuni legem tardat | The tribune's intervention delays the law
+intercessor | Intercessor pro debitore pecuniam promittit | The surety promises the money on behalf of the debtor
+# skip: intercessus attested only in the ablative singular, no usable headword form
