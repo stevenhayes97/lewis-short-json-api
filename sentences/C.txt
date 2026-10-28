@@ -74,3 +74,16 @@ camillus1 | Camillus sacerdoti ad aram servit | The ritual attendant serves the 
 caminus | Caminus in fabrica ardet | The furnace burns in the workshop
 campus1 | Campus inter montes jacet | The plain lies between the mountains
 canalis | Canalis aquam ad hortum ducit | The channel leads water to the garden
+cancelli | Cancelli in theatro stant | The railings stand in the theatre
+cancello | Testamentum cancello | I cancel the will
+cancer1 | Cancer in arena ambulat | The crab walks on the sand
+# skip: cancerasco is found only in the perfect, so no headword-form sentence is possible
+candefacio | Parietes candefacio | I whiten the walls
+candela | Candela noctem pauperis illuminat | The candle lights the poor man's night
+candelabrum | Candelabrum candelam sustinet | The candlestick holds the candle
+# third: candeo only snow, ivory and the like shine
+candeo | Nix sub sole candet | The snow shines under the sun
+# third: candesco only the sky and similar things grow white
+candesco | Aer ab ortu solis candescit | The air grows white from the sunrise
+# third: candico only things have a whitish cast
+candico | Vadum in mari candicat | The shoal in the sea is whitish
