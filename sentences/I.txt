@@ -313,3 +313,15 @@ ingurgito | Me epulis ingurgito | I gorge myself on the feast
 inhabito | Villam parvam inhabito | I inhabit a small cottage
 # third: inhaereo "I adhere" is odd; a burr sticks to a cloak
 inhaereo | Lappa pallio inhaeret | The burr sticks to the cloak
+inhaeresco | In arena inhaeresco | I stick fast in the sand
+inhalo | In manus frigidas inhalo | I breathe on my cold hands
+inhibeo | Equos inhibeo | I restrain the horses
+inhio | Ad pompam inhio | I gape at the procession
+inhonoro | Judicem verbis inhonoro | I dishonour the judge with my words
+# third: inhorreo "I bristle" is odd; a field bristles with ears of grain
+inhorreo | Seges aristis inhorret | The crop bristles with ears of grain
+# third: inhorresco "I bristle" is odd; the sea bristles in the wind
+inhorresco | Mare vento inhorrescit | The sea bristles in the wind
+inhumanitas | Inhumanitas rectoris provinciam terret | The governor's inhumanity alarms the province
+inicio | Nummum in fontem inicio | I throw a coin into the spring
+inigo | Oves in caulas inigo | I drive the sheep into the pen
