@@ -61,3 +61,14 @@ fastus2 | Fastus consulis civibus displicet | The consul's arrogance displeases 
 fateor | Errorem meum fateor | I confess my mistake
 fatigatio | Fatigatio post iter viatorem ad quietem invitat | Weariness after the journey invites the traveller to rest
 fatigo | Equum longo itinere fatigo | I weary the horse with a long journey
+# third: fatisco "I crack" is odd; a wall cracks
+fatisco | Murus vetus fatiscit | The old wall cracks
+fatum | Fatum nautam ad Italiam ducit | Fate leads the sailor to Italy
+# skip: fatus2 is attested only in the ablative fatu and the plural accusative, with no nominative headword form
+fauces | Fauces aegri dolent | The sick man's throat hurts
+fautor | Fautor poetae carmina amicis commendat | The poet's patron recommends the poems to his friends
+fautrix | Fautrix artium poetam adjuvat | The patroness of the arts helps the poet
+# skip: faventia1 is attested only in the accusative faventiam (ritual silence), with no nominative form
+faveo | Reo innocenti faveo | I favour the innocent defendant
+favilla | Favilla in foco lucet | The embers glow in the hearth
+favor | Favor populi consulem sustinet | The people's favour supports the consul
