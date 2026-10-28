@@ -307,3 +307,15 @@ excio | Medicum excio | I summon the doctor
 excipio | Pluviam pelvi excipio | I catch the rain in a basin
 excito | Pueros mane excito | I rouse the boys in the morning
 exclamatio | Exclamatio populi consulem interpellat | The outcry of the people interrupts the consul
+exclamo | Prae gaudio exclamo | I exclaim with joy
+excludo | Pigros a ludo excludo | I exclude the lazy from the game
+excogitatio | Excogitatio Archimedis nautas juvat | The invention of Archimedes helps sailors
+excogito | Consilium novum excogito | I devise a new plan
+excolo1 | Vineam excolo | I cultivate the vineyard
+excoquo | Aquam ex sale excoquo | I boil away the water from the salt
+# third: excresco only plants sprout
+excresco | Frumentum in agro excrescit | The grain sprouts in the field
+# third: excrucio "I torture" is grim; the figurative sense, envy tortures the mind
+excrucio | Invidia animum excruciat | Envy tortures the mind
+excubiae | Excubiae portam noctu custodiunt | The watch guards the gate by night
+excubitor | Excubitor in turri vigilat | The sentinel keeps watch on the tower
