@@ -78,3 +78,13 @@ lapido | Exercitus murum lapidat | The army pelts the wall with stones
 lapillus | Lapillus in calceo ambulantem vexat | The pebble in the shoe annoys the walker
 # third: lapio "I petrify" is odd; the entry attests lapit (lapit cor cura)
 lapio | Dolor cor lapit | Grief petrifies the heart
+lapis | Lapis in via jacet | The stone lies in the road
+# skip: lapso is attested only as participles (lapsantem, lapsantes), so there is no attested finite headword form
+lapsus2 | Lapsus rupis iter montanum impedit | The fall of the rock obstructs the mountain path
+laquear | Laquear caelatum cenationem splendidam facit | The carved panelled ceiling makes the dining-room splendid
+laqueo1 | Aves reti laqueo | I ensnare birds with a net
+# skip: laqueo2 is attested only as the participle laqueatus (panelled), so there is no attested finite headword form
+laqueus | Laqueus leporem in silva capit | The noose catches a hare in the wood
+largior | Fratri munera largior | I lavish gifts on my brother
+largitio | Largitio consulis plebem laetam facit | The consul's largesse makes the common people happy
+largitor2 | Largitor pauperibus frumentum dat | The benefactor gives grain to the poor
