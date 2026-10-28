@@ -1,0 +1,14 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/O.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+obambulo | Ante portam obambulo | I pace in front of the gate
+obaudio | Matri obaudio | I obey my mother
+obba1 | Obba vino plena est | The beaker is full of wine
+# third: obbrutesco "I become brutish" is not a sentence a learner needs; a lonely man does it
+obbrutesco | Vir solitarius in silva obbrutescit | The lonely man in the wood becomes brutish
+obdo | Pessulum ostio obdo | I bolt the door
+obdormio | Sub arbore obdormio | I fall asleep under the tree
+obdormisco | Post cenam obdormisco | I fall asleep after dinner
+obduco | Mensam linteo obduco | I cover the table with a cloth
+# third: obduresco "I harden" is for mud or a substance
+obduresco | Lutum in sole obdurescit | The mud hardens in the sun
+obduro | In labore obduro | I persevere in my work
