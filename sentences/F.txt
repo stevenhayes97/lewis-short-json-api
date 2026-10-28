@@ -82,3 +82,14 @@ fel | Fel puero amarum videtur | The bile seems bitter to the boy
 feles | Feles murem sub mensa spectat | The cat watches the mouse under the table
 felicitas1 | Felicitas matris filiam ad risum movet | The mother's happiness moves her daughter to laughter
 femina | Femina ad fontem rosas legit | The woman gathers roses at the spring
+femur | Femur equitis post iter dolet | The rider's thigh aches after the journey
+fenestella | Fenestella ad hortum aperta est | The window is open to the garden
+fenestra | Fenestra ad viam spectat | The window faces the street
+fenestro | Murum fenestro | I put windows in the wall
+ferculum | Ferculum dominum per viam portat | The litter carries the master along the road
+ferentarius | Ferentarius ante aciem pugnat | The skirmisher fights in front of the battle line
+feretrum | Feretrum per vicum lente movetur | The bier moves slowly through the street
+feriae | Feriae pueros ad mare vocant | The holidays call the boys to the sea
+# third: ferio a military figure is more natural than the first person
+ferio | Miles portam ferit | The soldier strikes the gate
+ferior | Post vindemiam ferior | I rest after the grape harvest
