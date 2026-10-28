@@ -609,3 +609,4 @@ iselasticus | Athleta iselasticus Romam in curru intrat | The triumphal athlete 
 iter | Iter ad Siciliam tres dies durat | The journey to Sicily lasts three days
 iteratio | Iteratio vocabulorum memoriam firmat | Repetition of vocabulary strengthens the memory
 itero1 | Versum itero | I repeat the verse
+itus | Itus nautarum portum vacuum facit | The departure of the sailors empties the harbour
