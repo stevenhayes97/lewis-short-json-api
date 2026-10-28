@@ -96,3 +96,14 @@ glutino | Fragmenta vasis glutino | I glue the pieces of the vase
 glutio | Panem avide glutio | I gulp the bread greedily
 grabatus | Grabatus in angulo casae stat | The cot stands in the corner of the cottage
 gracilitas | Gracilitas cruris cervum celerem facit | The slenderness of the leg makes the deer swift
+graculus | Graculus in tecto crocitat | The jackdaw caws on the roof
+gradatio | Gradatio verborum carmen ornat | The gradation of words adorns the poem
+gradior | Per viam lente gradior | I walk slowly along the road
+gradus | Gradus lapideus ante templum madet | The stone step in front of the temple is wet
+graecor | Romae graecor | I live in the Greek fashion at Rome
+gramen | Gramen post pluviam crescit | The grass grows after the rain
+granarium | Granarium tritici plenum est | The granary is full of wheat
+# third: grandesco "I grow" is odd here; a tree grows
+grandesco | Arbor in horto grandescit | The tree grows in the garden
+# skip: grandiloquus is an adjective (grandiloquent), misfiled as a noun
+grandio | Domum grandio | I enlarge the house
