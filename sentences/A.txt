@@ -122,3 +122,13 @@ adaugeo | Divitias patris adaugeo | I increase my father's wealth
 adbibo | Lac adbibo | I drink up the milk
 addico | Agrum optimo emptori addico | I award the field to the best bidder
 addisco | Quotidie novum verbum addisco | I learn a new word every day
+addo | Sal ad cibum addo | I add salt to the food
+addubito | De victoria addubito | I doubt the victory
+adduco | Filium ad magistrum adduco | I bring my son to the teacher
+adedo | Panem adedo | I gnaw at the bread
+adeo1 | Ad regem adeo | I approach the king
+adeps | Adeps in olla liquescit | The fat melts in the pot
+adequito | Ad castra adequito | I ride up to the camp
+adhaereo | Ad saxum adhaereo | I cling to the rock
+adhaeresco | In luto adhaeresco | I stick in the mud
+adhibeo | Aures magistro adhibeo | I lend my ears to the teacher
