@@ -30,3 +30,13 @@ magistratus | Magistratus annuus civem clarum reddit | An annual magistracy make
 magnanimitas | Magnanimitas ducis hostes victos conservat | The leader's magnanimity saves the beaten enemy
 magnificentia | Magnificentia villae hospites in atrio tenet | The magnificence of the villa holds the guests in the hall
 magnifico | Sapientiam senis magnifico | I esteem the old man's wisdom
+magniloquentia | Magniloquentia consulis multos auditores movet | The consul's eloquence moves many listeners
+magnitudo | Magnitudo montis viatores terret | The size of the mountain frightens the travellers
+majalis | Majalis in luto dormit | The barrow hog sleeps in the mud
+majestas | Majestas regis legatos hostium terret | The king's majesty frightens the envoys of the enemy
+mala | Mala senis in frigore dolet | The old man's jaw aches in the cold
+malacia | Malacia navem in mari tenet | The calm holds the ship at sea
+maledico | Hosti maledico | I revile the enemy
+maledictio | Maledictio oratoris senatum offendit | The orator's abuse offends the senate
+malefacio | Hosti malefacio | I harm the enemy
+malefactor | Malefactor judicem timet | The evildoer fears the judge
