@@ -14,16 +14,16 @@ abicio | Scutum abicio | I discard the shield
 abies | Abies in monte stat | The fir stands on the mountain
 abigo | Lupos ex agro abigo | I drive the wolves away from the field
 abitus | Abitus ex urbe tristis est | The departure from the city is sad
-abjudico | Agrum amico abjudico | I take the field from my friend by verdict
-abjuro | Pecuniam abjuro | I deny the money on oath
+abjudico | Agrum ab amico abjudico | I deny my friend the field by verdict
+abjuro | Creditum abjuro | I deny the loan on oath
 ablego | Servum ex urbe ablego | I dismiss the slave from the city
 abligurrio | Patrimonium meum abligurrio | I squander my inheritance
 abluo | Manus aqua abluo | I wash my hands with water
 abnego | Pecuniam amico abnego | I refuse my friend the money
 abnuo | Auxilium amico abnuo | I refuse my friend help
-abnuto | Auxilium amico abnuto | I keep refusing my friend help
+abnuto | Amico abnuto | I keep refusing my friend
 aboleo | Legem malam aboleo | I abolish the bad law
-abolesco | Sub sole abolesco | I fade in the sun
+abolesco | Ex memoria hominum abolesco | I fade from people's memory
 abolitio | Abolitio legis populum delectat | The abolition of the law pleases the people
 abolla | Abolla militis alba est | The soldier's cloak is white
 abominor | Malum verbum abominor | I abhor the bad word
