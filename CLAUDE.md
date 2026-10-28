@@ -330,8 +330,20 @@ video | Cibum calidum video | I see the warm food
     or setting.
   - **A sexual word** gets the same treatment: one sensible, completely
     undescriptive sentence (`Adulterium matrimonium dissolvit`, adultery
-    breaks up the marriage; `Numquam adultero`, I never commit adultery).
+    breaks up the marriage; `Numquam adultero`, I never commit adultery). It
+    keeps the word's sexual sense when that is rank 1, kept as PG as the
+    word allows (`Nullam feminam constupro`, I violate no woman), rather
+    than swapping in a milder figurative sense.
   - `# skip:` is for misfiled or unusable words, not for dark ones.
+- **One reading only.** The English must not be ambiguous: a learner reads it
+  as the key to the Latin, so it may say only one thing. Name who does what
+  to whom (`The general scatters the enemy column`, not a Latin order that
+  reads as `the enemy's general`); give a possessive a clear owner (`his own
+  son`, `the farmer's son`, not a stray `his`); pick the English word whose
+  sense is the Latin's (`I plead the rain as an excuse`, not `I plead the
+  rain`; `coppers`, not `asses`); and avoid words with a second meaning that
+  fits the sentence as well (`bat`, `fine`, `light`). The same goes for the
+  Latin: arrange it so the cases cannot be misread.
 - **No word said twice.** Nothing in the sentence repeats another word, or
   the headword, in Latin or English: not `Candelabrum candelam sustinet`
   (the candlestick holds the candle), not `the temple keeper cleans the
