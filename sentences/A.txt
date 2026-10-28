@@ -287,3 +287,14 @@ affluentia | Affluentia rerum omnium in villa est | The abundance of everything 
 affluo | Fructibus affluo | I abound in fruit
 affor | Hospitem affor | I address the guest
 affrico | Lignum ad saxum affrico | I rub the wood against the stone
+# third: affulgeo "I shine upon" is said of the sun and lights, not people
+affulgeo | Sol agro affulget | The sun shines on the field
+affundo | Aquam rosis affundo | I pour water on the roses
+agaso | Agaso equum ad stabulum ducit | The groom leads the horse to the stable
+agellus | Agellus parvus prope flumen est | The small plot is near the river
+ager | Ager fertilis est | The field is fertile
+agger | Agger ante castra est | The rampart is in front of the camp
+aggero1 | Terram ad murum aggero | I heap earth against the wall
+aggero2 | Aquam ad villam aggero | I convey water to the villa
+agglomero | Lanam ad fusum agglomero | I wind wool onto the spindle
+aggravo | Onus aggravo | I make the load heavier
