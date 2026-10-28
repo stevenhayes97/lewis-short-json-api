@@ -227,3 +227,13 @@ depravatio | Depravatio imaginis in aqua risum movet | The distortion of the ima
 depravo | Vultum in aqua depravo | I distort my face in the water
 deprecatio | Deprecatio puerorum matrem movet | The entreaty of the children moves their mother
 deprecator | Deprecator pro civibus ad regem venit | The intercessor comes to the king for the citizens
+deprecor | Iram patris deprecor | I beg off my father's anger
+deprehendo | Murem in culina deprehendo | I catch the mouse in the kitchen
+depretio | Merces depretio | I undervalue the goods
+deprimo | Spongiam manu deprimo | I press the sponge down with my hand
+depromo | Pecuniam ex arca depromo | I fetch money from the chest
+depropero | Ad urbem depropero | I hasten to the city
+depso | Farinam depso | I knead the flour
+depugno | Pro patria depugno | I fight for my country
+depulsio | Depulsio periculi urbem quietam reddit | The warding off of danger leaves the city calm
+depulsor | Depulsor mali populum liberat | The deliverer from evil frees the people
