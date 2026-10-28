@@ -190,3 +190,14 @@ erigo | Columnam erigo | I raise up the column
 eripio | Lupo ovem eripio | I snatch the sheep away from the wolf
 # third: erodo "I gnaw away" is odd; a worm gnaws away
 erodo | Tinea librum erodit | The grub gnaws away the book
+erogatio | Erogatio publica thesaurum minuit | The public disbursement reduces the treasury
+erogo | Pecuniam militibus erogo | I disburse money to the soldiers
+erro1 | Per silvas erro | I wander through the woods
+erro2 | Erro sub ponte dormit | The vagabond sleeps under the bridge
+error | Error in silva viatorem tardat | The wandering in the wood delays the traveller
+erubesco | Prae pudore erubesco | I blush with shame
+eruca | Eruca in folio repit | The caterpillar crawls on the leaf
+# third: eructo a crude bodily verb; an ox belches
+eructo | Bos post pastum eructat | The ox belches after feeding
+erudio | Juvenes litteris Graecis erudio | I educate the young men in Greek literature
+eruditio | Eruditio Graeca Ciceronem ornat | Greek erudition adorns Cicero
