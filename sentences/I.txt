@@ -254,3 +254,15 @@ infarcio | Cervicalia plumis infarcio | I stuff the cushions with feathers
 infatuo | Adulescentem adulatione infatuo | I infatuate the young man with flattery
 infelicito | Fures infelicito | I curse the thieves
 inferiae | Inferiae familiam ad sepulcrum vocant | The funeral offerings call the family to the tomb
+infero | Lucernas in atrium infero | I bring lamps into the hall
+# third: infervesco "I boil" is odd; water boils
+infervesco | Aqua in olla infervescit | The water boils in the pot
+# third: infesto "I infest" is odd; a pirate infests the coast
+infesto | Pirata litus infestat | The pirate infests the coast
+infibulo | Pallium in umero infibulo | I clasp my cloak at the shoulder
+inficio | Tunicam croco inficio | I dye the tunic with saffron
+infigo | Tabulam in pariete infigo | I fix the board on the wall
+infinitas | Infinitas caeli philosophum obstupefacit | The infinity of the sky astonishes the philosopher
+infirmitas | Infirmitas aviae nepotem ad lectum vocat | The grandmother's weakness calls her grandson to her bed
+infirmo1 | Vires hostium infirmo | I weaken the enemy's strength
+infitiae | Infitiae rei judices non movent | The defendant's denial does not move the judges
