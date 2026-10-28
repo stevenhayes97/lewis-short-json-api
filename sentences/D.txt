@@ -182,3 +182,14 @@ demulceo | Felem demulceo | I stroke the cat
 demuto | Consilium demuto | I alter the plan
 denarro | Fabulam avo denarro | I recount the tale to my grandfather
 dendrophorus | Dendrophorus frondes in pompa portat | The branch bearer carries leafy boughs in the procession
+denego | Aditum mercatori denego | I refuse entry to the merchant
+denigro | Parietem carbone denigro | I blacken the wall with charcoal
+denominatio | Denominatio sermonem ornat | The metonymy adorns the speech
+denomino | Filium Marcum denomino | I name my son Marcus
+denoto | Locum in charta denoto | I mark the place on the map
+dens | Dens infantis lente crescit | The baby's tooth grows slowly
+denso | Lac igne denso | I condense the milk over the fire
+dentale | Dentale aratri in terra haeret | The share-beam of the plough sticks in the ground
+# third: dentio1 only babies teethe
+dentio1 | Infans dentit | The baby is teething
+denubo | Claro viro denubo | I marry a famous man
