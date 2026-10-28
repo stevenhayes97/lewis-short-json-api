@@ -243,3 +243,14 @@ perdoceo | Puerum musicam perdoceo | I teach the boy music thoroughly
 perdomo | Montanos perdomo | I subdue the mountain tribes completely
 perduco | Amicum per hortum perduco | I lead my friend through the garden
 perductor | Perductor viatores per silvam tutos servat | The guide keeps the travellers safe through the forest
+perduellio | Perduellio civitatem anxiam facit | The treason makes the community anxious
+perduellis | Perduellis ad fines nostros appropinquat | The enemy approaches our borders
+perduro | In obsidione perduro | I hold out in the siege
+peredo1 | Totum panem peredo | I consume the whole loaf
+peregrinatio | Peregrinatio per Graeciam adulescentem docet | The travel through Greece teaches the youth
+peregrinitas | Peregrinitas mercatorem a magistratu excludit | The alien status bars the merchant from office
+peregrinor | Per Aegyptum peregrinor | I travel abroad through Egypt
+peremptor | Peremptor tyranni a populo laudatur | The people praise the slayer of the tyrant
+perennitas | Perennitas fontis pagum per aestatem servat | The perpetuity of the spring saves the village through the summer
+# third: perenno "I endure" is unnatural; fame is the natural subject
+perenno | Fama poetae perennat | The poet's fame endures
