@@ -672,3 +672,14 @@ concoquo | Cibum concoquo | I digest my food
 concordia1 | Concordia cives in pace tenet | Harmony keeps the citizens at peace
 concordo | Cum magistro concordo | I agree with my teacher
 concorporo | Novum agrum in praedium concorporo | I incorporate the new field into the estate
+concredo | Pecuniam sodali concredo | I entrust money to a comrade
+concremo | Acervum foliorum concremo | I burn up the pile of leaves
+# third: concrepo doors and loose objects rattle
+concrepo | Ostium vento concrepat | The door rattles in the wind
+concretio | Concretio nebulae in caelo fit | The condensation of the mist happens in the sky
+concubinatus | Concubinatus lege matrimonium non est | Concubinage is not marriage in law
+concubinus | Concubinus in villa habitat | The concubine lives in the villa
+concubitus | Concubitus in fabula nominatur | Copulation is named in the play
+conculco | Herbam pedibus conculco | I trample the grass with my feet
+concumbo | Cum uxore concumbo | I lie with my wife
+concupio | Gloriam concupio | I desire glory
