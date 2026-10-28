@@ -123,3 +123,15 @@ reditio | Reditio legati cives ad pontem trahit | The envoy's return draws the c
 reditus | Reditus veris hirundines affert | The return of spring brings the swallows
 # third: redoleo "I smell of" is unnatural; a kitchen is the natural subject
 redoleo | Culina thymum redolet | The kitchen smells of thyme
+reduco | Gregem ad stabulum reduco | I bring the flock back to the stable
+reductio | Reductio regis pacem urbi affert | The restoration of the king brings peace to the city
+redundantia | Redundantia verborum orationem obscurat | The excess of words obscures the speech
+# third: redundo "I overflow" is unnatural; a river is the natural subject
+redundo | Flumen post pluviam redundat | The river overflows after the rain
+refectio | Refectio templi multos fabros occupat | The repair of the temple keeps many craftsmen busy
+refello | Argumenta adversarii refello | I refute my opponent's arguments
+refercio | Culcitam pennis refercio | I stuff the mattress with feathers
+# third: referio a violent verb; keeps to a military frame
+referio | Miles hostem referit | The soldier strikes back at the enemy
+refero | Nuntium ad ducem refero | I report the news to the general
+reficio | Tectum horrei reficio | I repair the roof of the barn
