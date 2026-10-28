@@ -1054,3 +1054,14 @@ crudelitas | Crudelitas tyranni cives fugat | The cruelty of the tyrant makes th
 # third: crudesco "I worsen" is said of storms and illnesses
 crudesco | Tempestas in mari crudescit | The storm worsens at sea
 cruditas | Cruditas hospitem vexat | Indigestion troubles the guest
+# third: cruento "I bloody" reads unnaturally for a violent verb
+cruento | Pugna campum cruentat | The battle bloodies the field
+cruor | Cruor in aqua evanescit | The blood vanishes in the water
+crus | Crus meum post cursum dolet | My leg aches after the run
+crusta | Crusta panis dentibus resistit | The crust of the bread resists the teeth
+crusto | Murum marmore crusto | I incrust the wall with marble
+crux | Crux in colle stat | The cross stands on the hill
+crypta | Crypta frigida sub villa vina servat | The cold vault under the house keeps the wine
+crystallum | Crystallum in sole splendet | The crystal sparkles in the sun
+cubiculum | Cubiculum meum ad hortum spectat | My bedroom looks onto the garden
+cubile | Cubile canis in angulo stat | The dog's bed stands in the corner
