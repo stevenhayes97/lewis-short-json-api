@@ -22,3 +22,13 @@ raptus2 | Raptus Helenae Graecos ad arma vocat | The abduction of Helen calls th
 rapum | Rapum in agro crescit | The turnip grows in the field
 # third: raresco "I thin" is unnatural; mist is the natural subject
 raresco | Nebula in valle rarescit | The mist thins in the valley
+raritas | Raritas gemmae pretium auget | The rarity of the jewel raises the price
+rastrum | Rastrum terram duram frangit | The hoe breaks the hard ground
+rasura | Rasura tabulae litteras delet | The scraping of the tablet removes the letters
+ratio | Ratio hominem a bestiis distinguit | Reason sets man apart from the beasts
+ratiocinatio | Ratiocinatio philosophi discipulos docet | The philosopher's reasoning teaches the students
+ratiocinator | Ratiocinator pecuniam mercatoris numerat | The accountant counts the merchant's money
+ratiocinor | Sumptus anni ratiocinor | I calculate the expenses of the year
+ratis | Ratis onus trans flumen vehit | The raft carries a load across the river
+ratiuncula | Ratiuncula mercatoris pauca nomina continet | The merchant's little account contains few names
+raudus | Raudus aeris in arca latet | The ingot of bronze lies hidden in the chest
