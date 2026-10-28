@@ -347,3 +347,13 @@ munero | Amicum libro munero | I present my friend with a book
 munia | Munia consulis multas horas occupant | The consul's duties occupy many hours
 municeps | Municeps in oppido suo magistratum gerit | The citizen holds office in his own town
 municipium | Municipium theatrum novum aedificat | The municipality builds a new theatre
+munifex | Munifex fossam in castris purgat | The fatigue-man cleans the ditch in the camp
+munificentia | Munificentia divitis pauperes cibo juvat | The rich man's munificence helps the poor with food
+munimen | Munimen villam a lupis tuetur | The defence protects the farmhouse from wolves
+munimentum | Munimentum collis hostes diu arcet | The fortification of the hill keeps the enemy away for a long time
+munio1 | Castra fossa munio | I fortify the camp with a ditch
+munitio | Munitio urbis cives multos menses occupat | The fortifying of the city keeps the citizens busy for many months
+munitor | Munitor pontem super flumen aedificat | The engineer builds a bridge over the river
+munus | Munus patris filium ad urbem vocat | The father's duty calls his son to the city
+munusculum | Munusculum sorori gaudium dat | The little gift gives joy to my sister
+murex | Murex in rupe haeret | The murex clings to the rock
