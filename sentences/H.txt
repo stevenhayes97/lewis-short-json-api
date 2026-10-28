@@ -105,3 +105,6 @@ humanitas | Humanitas medici aegrum consolatur | The humanity of the doctor comf
 humilio | Superbum juvenem humilio | I humble the proud youth
 humilitas | Humilitas tecti virum altum impedit | The lowness of the roof hinders the tall man
 humo | Canem fidelem in horto humo | I bury my faithful dog in the garden
+hydrus1 | Hydrus in rivo natat | The water snake swims in the stream
+hymnus | Hymnus deum in templo laudat | The hymn praises the god in the temple
+hysopum | Hysopum in horto odorem suavem spargit | The hyssop spreads a sweet scent in the garden
