@@ -149,3 +149,15 @@ delinquo | Numquam in officio delinquo | I never transgress in my duty
 deliquesco | Nix sole deliquescit | The snow melts in the sun
 deliquo | Oleum per linteum deliquo | I strain the oil through a cloth
 deliratio | Deliratio regis populum offendit | The folly of the king offends the people
+deliro | In somno deliro | I rave in my sleep
+delitesco | Post arborem delitesco | I hide behind the tree
+delphinus | Delphinus navem comitatur | The dolphin accompanies the ship
+delta | Delta Nili terram fertilem habet | The delta of the Nile has fertile land
+delubrum | Delubrum lauru ornatur | The shrine is adorned with laurel
+deludo | Custodem fabula deludo | I deceive the guard with a story
+# third: delumbo "I lame" is grim; only a storm or the like lames a tree
+delumbo | Tempestas arborem delumbat | The storm cripples the tree
+demando | Nautae epistulam demando | I entrust the letter to the sailor
+dementio | Prae gaudio dementio | I rave with joy
+# third: demento "I madden" is not a sentence a learner needs; fear and storms madden
+demento | Timor populum dementat | Fear maddens the people
