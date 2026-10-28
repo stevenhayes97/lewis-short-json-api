@@ -205,3 +205,13 @@ adulor | Regem adulor | I flatter the king
 adumbratio | Adumbratio pictoris in tabula est | The painter's sketch is on the panel
 adumbro | Montem in tabula adumbro | I sketch the mountain on the panel
 aduno | Amicos aduno | I unite my friends
+aduro | Panem in igne aduro | I scorch the bread in the fire
+adustio | Adustio panis cenam corrumpit | The scorching of the bread spoils the dinner
+adveho | Frumentum navi adveho | I convey grain by ship
+advenio | Hodie in urbem advenio | I arrive in the city today
+adventor | Adventor in villa cenat | The visitor dines in the villa
+adventus | Adventus veris agros mutat | The arrival of spring changes the fields
+adversor | Consilio consulis adversor | I oppose the consul's plan
+adverto | Oculos ad solem adverto | I turn my eyes towards the sun
+advigilo | Domui advigilo | I keep watch over the house
+advivo | Etiam in senectute advivo | I live on even in old age
