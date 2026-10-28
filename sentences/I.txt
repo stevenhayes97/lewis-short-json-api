@@ -124,3 +124,15 @@ inaedifico | Casam prope viam inaedifico | I build a cottage near the road
 inaequalitas | Inaequalitas ordinum civitatem dividit | The inequality of the ranks divides the state
 inalbo | Lanam sole inalbo | I whiten the wool in the sun
 inambulatio | Inambulatio post cenam senatorem sanum servat | Pacing after dinner keeps the senator healthy
+inambulo | In porticu inambulo | I pace in the colonnade
+inanio | Dolium inanio | I empty the cask
+inanitas | Inanitas horrei agricolam premit | The emptiness of the barn weighs on the farmer
+# third: inardesco "I kindle" is odd; dry straw kindles
+inardesco | Stipula sicca inardescit | The dry straw kindles
+# third: inaresco "I dry up" is odd; a spring dries up
+inaresco | Fons aestate inarescit | The spring dries up in summer
+inaro | Semina inaro | I plough in the seeds
+inaudio | Sermonem senum inaudio | I overhear the old men's talk
+inauguro | Templum novum inauguro | I inaugurate the new temple
+inauro | Statuam deae inauro | I gild the goddess's statue
+incalesco | Ad focum incalesco | I grow warm by the hearth
