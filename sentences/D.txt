@@ -380,3 +380,15 @@ digero | Libros in armario digero | I arrange the books in the cupboard
 digestio | Digestio vestium cubiculum ornat | The arrangement of the clothes tidies the bedroom
 digitulus | Digitulus infantis in manu mea quiescit | The baby's little finger rests in my hand
 digitus1 | Digitus anulum gerit | The finger wears a ring
+# third: digladior a military figure is more natural than the first person
+digladior | Miles cum centurione digladiatur | The soldier duels with the centurion
+dignatio | Dignatio apud populum consulem ornat | Esteem among the people honours the consul
+dignitas | Dignitas senatoris omnibus nota est | The dignity of the senator is known to all
+digno | Amicum honore digno | I deem my friend worthy of honour
+dignor | Hospitem mensa dignor | I deem the guest worthy of my table
+digredior | Ex theatro digredior | I depart from the theatre
+digressio | Digressio hospitum domum silentem facit | The departure of the guests makes the house quiet
+digressus2 | Digressus amici villam vacuam relinquit | The departure of the friend leaves the villa empty
+dijudico | Lites vicinorum dijudico | I adjudicate the neighbours' disputes
+# third: dilabor only snow, ice and the like dissolve
+dilabor | Nix sole dilabitur | The snow dissolves in the sun
