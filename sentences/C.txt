@@ -228,3 +228,13 @@ centurio1 | Agrum centurio | I divide the field into centuries
 centurio2 | Centurio milites in campo exercet | The centurion trains the soldiers in the field
 centussis | Centussis pretium togae est | The hundred asses are the price of the toga
 cera | Cera in sole liquescit | The wax melts in the sun
+cerastes | Cerastes in arena serpit | The horned viper creeps on the sand
+cerasus1 | Cerasus vere floret | The cherry tree blooms in spring
+cerebrum | Cerebrum corpus regit | The brain rules the body
+cerno | Montem procul cerno | I see the mountain in the distance
+cero | Dolia cero | I wax the jars
+ceroma | Ceroma in palaestra paratur | The oil is prepared in the wrestling-school
+certamen | Certamen in stadio incipit | The contest begins in the stadium
+certatio | Certatio cursorum populum excitat | The contest of the runners rouses the people
+certo2 | Cum fratre cursu certo | I contend with my brother in running
+cerula | Cerula pictorem juvat | The wax crayon helps the painter
