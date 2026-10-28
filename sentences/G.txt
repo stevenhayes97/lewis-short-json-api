@@ -107,3 +107,13 @@ granarium | Granarium tritici plenum est | The granary is full of wheat
 grandesco | Arbor in horto grandescit | The tree grows in the garden
 # skip: grandiloquus is an adjective (grandiloquent), misfiled as a noun
 grandio | Domum grandio | I enlarge the house
+granditas | Granditas templi peregrinum stupefacit | The greatness of the temple astonishes the stranger
+grando | Grando in tecto sonat | The hail rattles on the roof
+granum | Granum in manu agricolae splendet | The grain gleams in the farmer's hand
+graphis | Graphis lineas in tabula ducit | The stylus draws lines on the board
+grassator | Grassator vigiles fugit | The street-robber flees from the watchmen
+grassor | Per silvas grassor | I roam through the woods
+grates | Grates tuae mihi placent | Your thanks please me
+gratia | Gratia consulis senatorem juvat | The consul's favour helps the senator
+gratificor | Vicino gratificor | I oblige my neighbour
+gratulatio | Gratulatio sponsos in atrio excipit | The congratulation welcomes the bridal couple in the hall
