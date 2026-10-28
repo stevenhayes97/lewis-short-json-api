@@ -265,3 +265,13 @@ litterator | Litterator pueros legere docet | The schoolteacher teaches the boys
 litteratura | Litteratura longa puerum fatigat | Long writing tires the boy
 litterula | Litterula in margine libri latet | The small letter hides in the margin of the book
 litura | Litura in tabula verbum tegit | The erasure on the tablet covers the word
+litus3 | Litus longum ante villam patet | The long shore stretches out in front of the villa
+lituus | Lituus curvus in aede pendet | The curved staff hangs in the shrine
+liveo | Frigore liveo | I am blue with cold
+livor | Livor in bracchio nautae apparet | A bruise appears on the sailor's arm
+lixa | Lixa panem militibus vendit | The sutler sells bread to the soldiers
+locatio | Locatio mensarum hospites juvat | The placement of the tables helps the guests
+locator | Locator domum inquilino ostendit | The lessor shows the house to the tenant
+loco | Vas in mensa loco | I place the vase on the table
+loculamentum | Loculamentum ligneum gemmas continet | The wooden case holds the jewels
+loculus | Loculus vacuus viatorem sollicitat | The empty purse worries the traveller
