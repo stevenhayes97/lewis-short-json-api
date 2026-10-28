@@ -724,3 +724,14 @@ astupeo | Divitiis astupeo | I marvel at the riches
 astutia | Astutia ducis hostes superat | The leader's craftiness overcomes the enemy
 asylum | Asylum fugitivos accipit | The sanctuary receives fugitives
 atavus | Atavus familiae nomen dat | The great-great-great-grandfather gives the family its name
+athleta | Athleta praemium accipit | The athlete receives the prize
+atramentum | Atramentum tabulam nigram facit | The ink makes the tablet black
+atriensis | Atriensis servos regit | The steward directs the slaves
+atrium | Atrium januae proximum est | The hall is next to the door
+atrocitas | Atrocitas facti senatum commovet | The savagery of the deed stirs the senate
+# third: attamino "I defile" does not read naturally; generic enemy
+attamino | Hostis templum attaminat | The enemy defiles the temple
+attempero | Vestem puero attempero | I fit the garment to the boy
+attendo | Magistrum diligenter attendo | I listen carefully to the teacher
+attentio | Attentio discipuli magistrum juvat | The pupil's attention helps the teacher
+attento | Arcum attento | I try the bow
