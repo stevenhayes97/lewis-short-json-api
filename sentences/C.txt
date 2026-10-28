@@ -1085,3 +1085,13 @@ cultrix | Cultrix templi aram purgat | The caretaker of the temple cleans the al
 cultura | Cultura olivarum agricolam occupat | The cultivation of olives keeps the farmer busy
 cultus2 | Cultus vitis uvam bonam dat | The cultivation of the vine gives good grapes
 cumulo | Arenam in ripa cumulo | I heap up sand on the bank
+cumulus | Cumulus nivis ad portam jacet | The heap of snow lies at the gate
+cunabula | Cunabula nova in atrio stant | The new cradle stands in the hall
+cunae | Cunae ligneae sub fenestra stant | The wooden cradle stands under the window
+cunctatio | Cunctatio ducis exercitum servat | The general's delay saves the army
+cunctator1 | Cunctator ad ostium diu stat | The delayer stands long at the door
+cunctor | Ante flumen cunctor | I hesitate before the river
+cuneo | Saxa in muro cuneo | I wedge the stones into the wall
+cuneus1 | Cuneus ferreus truncum findit | The iron wedge splits the log
+cunnus | Cunnus in libro medici nominatur | The vulva is named in the doctor's book
+cupa1 | Cupa vini in cella stat | The cask of wine stands in the cellar
