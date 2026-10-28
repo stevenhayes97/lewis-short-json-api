@@ -155,3 +155,13 @@ pecten | Pecten eburneus in cista jacet | The ivory comb lies in the chest
 pectino | Lanam pectino | I comb the wool
 pecto | Capillos pecto | I comb my hair
 pectus | Pectus aegri tussi dolet | The sick man's chest aches with a cough
+pecu | Pecu in colle pascitur | The cattle graze on the hill
+peculatus | Peculatus quaestorem infamem facit | The embezzlement disgraces the treasurer
+# skip: peculio is attested only through the participle peculiatus
+peculium | Peculium servo libertatem emere sinit | The savings let the slave buy his freedom
+pecunia | Pecunia in sacculo tintinnat | The money jingles in the purse
+pecus1 | Pecus per vallem lente procedit | The herd moves slowly through the valley
+pecus2 | Pecus ad rivum bibit | The beast drinks at the stream
+pedamen | Pedamen vitem infirmam erigit | The prop raises the weak vine
+# skip: pedatus2 is attested only in the ablative (pedato, pedatu)
+pedes | Pedes cum signifero in agmine procedit | The foot-soldier marches in the column with the standard-bearer
