@@ -873,3 +873,13 @@ constupro | Judicium pecunia constupro | I corrupt the court with money
 consuadeo | Fratri pacem consuadeo | I urge peace on my brother
 consuefacio | Equum frenis consuefacio | I accustom the horse to the bridle
 consuesco | Mane surgere consuesco | I grow used to rising early
+consuetudo | Consuetudo antiqua in oppido manet | The old custom remains in the town
+consul | Consul ad populum orationem habet | The consul gives a speech to the people
+consulatus | Consulatus unum annum durat | The consulship lasts one year
+consulo | Senatum de pace consulo | I consult the senate about peace
+consultatio | Consultatio longa senatores fatigat | The long deliberation tires the senators
+consulto2 | De itinere consulto | I deliberate about the journey
+consultor1 | Consultor advocatum mane visitat | The adviser visits the lawyer in the morning
+consummatio | Consummatio rationum mercatorem tenet | The summation of the accounts detains the merchant
+consummo | Pecuniam in tabula consummo | I sum up the money on the tablet
+consumo | Panem et vinum consumo | I consume bread and wine
