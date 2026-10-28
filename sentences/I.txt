@@ -377,3 +377,14 @@ insero1 | Gemmam in ramum insero | I graft a bud onto the branch
 insero2 | Clavum in foramen insero | I insert the nail into the hole
 inservio | Patrono inservio | I serve my patron
 insideo | Trunco insideo | I sit on the log
+insidiae | Insidiae in valle legionem exspectant | The ambush in the valley awaits the legion
+insidior | Hostibus ad pontem insidior | I ambush the enemy at the bridge
+# third: insido "I settle" is odd; a bird settles on a branch
+insido | Avis in ramo insidit | The bird settles on a branch
+insigne | Insigne in veste pueri splendet | The badge shines on the boy's tunic
+insignio | Ovem rubra nota insignio | I mark the sheep with a red spot
+insilio | In plaustrum insilio | I leap onto the cart
+insimulo | Servum furti insimulo | I accuse the slave of theft
+insinuatio | Insinuatio clientis patronum mollit | The client's ingratiation softens the patron
+insinuo | Me in gratiam consulis insinuo | I worm my way into the consul's favour
+insipientia | Insipientia gubernatoris vectores terret | The helmsman's folly frightens the passengers
