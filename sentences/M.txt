@@ -125,3 +125,13 @@ maturitas | Maturitas frugum agricolas ad messem vocat | The ripeness of the cro
 maturo | Sol fructus maturat | The sun ripens the fruits
 maxilla | Maxilla canis ossem frangit | The dog's jaw breaks the bone
 meatus | Meatus lunae menses distinguit | The course of the moon marks off the months
+meddix | Meddix in Campania populum regit | The Oscan magistrate rules the people in Campania
+medela | Medela dolorem capitis levat | The remedy relieves the pain in the head
+medeor | Aegro medeor | I heal the sick man
+mediastinus | Mediastinus aquam in culinam portat | The drudge carries water into the kitchen
+mediator | Mediator inter fratres litem componit | The mediator settles the quarrel between the brothers
+medicamen | Medicamen e floribus tussim sedat | The remedy made from flowers calms the cough
+medicamentum | Medicamentum amarum febrim minuit | The bitter remedy reduces the fever
+medico | Agnum aegrum herbis medico | I heal the sick lamb with herbs
+medicor | Equo claudo medicor | I heal the lame horse
+medietas | Medietas campi fossam habet | The middle of the field has a ditch
