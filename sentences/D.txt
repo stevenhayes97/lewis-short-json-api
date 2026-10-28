@@ -427,3 +427,13 @@ dirigo | Navem ad portum dirigo | I direct the ship to the harbour
 dirimo | Agros fossa dirimo | I separate the fields with a ditch
 # third: diripio a military figure is more natural than the first person
 diripio | Hostis vicum diripit | The enemy plunders the village
+diritas | Diritas tyranni urbem sollicitat | The tyrant's cruelty troubles the city
+diruo | Murum veterem diruo | I demolish the old wall
+# skip: dis3 is a prefix (apart, un-), not a noun
+discedo | Roma discedo | I depart from Rome
+disceptatio | Disceptatio senatorum diu durat | The debate of the senators lasts long
+disceptator | Disceptator litem inter vicinos solvit | The arbitrator settles the dispute between neighbours
+discepto | Cum collega de pace discepto | I debate with my colleague about peace
+discerno | Aurum ab argento discerno | I separate gold from silver
+discerpo | Chartam discerpo | I tear the paper apart
+discessio | Discessio senatorum voluntatem ostendit | The division shows the will of the senators
