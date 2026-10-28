@@ -292,3 +292,14 @@ monitio | Monitio magistri discipulum a culpa retinet | The teacher's admonition
 monitor | Monitor fidelis regi viam rectam ostendit | The faithful adviser shows the king the right way
 monitum | Monitum senis juvenem cautum facit | The old man's advice makes the youth cautious
 monitus2 | Monitus tubae milites ad arma vocat | The warning of the trumpet calls the soldiers to arms
+mons | Mons altus super oppidum surgit | The high mountain rises above the town
+monstro | Viam peregrino monstro | I show the way to the stranger
+monstrum | Monstrum in caelo senatum ad preces cogit | The portent in the sky drives the senate to prayer
+monumentum | Monumentum ducis in colle stat | The leader's monument stands on the hill
+mora1 | Mora itineris viatorem sollicitum reddit | The delay of the journey makes the traveller anxious
+morator | Morator senatum multas horas tenet | The delayer keeps the senate for many hours
+morbus | Morbus vicinum lecto affigit | The disease confines the neighbour to bed
+mordacitas | Mordacitas poetae amicos a convivio abigit | The poet's mordacity drives his friends from the banquet
+# third: mordeo the first person is unnatural; a horse is the natural subject
+mordeo | Equus frenum mordet | The horse bites the bit
+moretum | Moretum allium et herbas continet | The relish contains garlic and herbs
