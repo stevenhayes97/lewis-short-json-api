@@ -281,3 +281,14 @@ desolo | Siccitas pagum desolat | The drought desolates the village
 despecto | Urbem ex colle despecto | I overlook the city from the hill
 despectus2 | Despectus e turri portum ostendit | The view from the tower shows the harbour
 desperatio | Desperatio exercitum occupat | Despair seizes the army
+despero | De victoria despero | I despair of victory
+despicio | Mendacium despicio | I despise a lie
+despicor | Avaritiam despicor | I despise greed
+# third: despolio a military figure is more natural than the first person
+despolio | Miles templum despoliat | The soldier despoils the temple
+despondeo | Fidem vicino despondeo | I pledge my word to my neighbour
+despumo | Lac in olla despumo | I skim the milk in the pot
+despuo | In terram despuo | I spit on the ground
+desquamo | Piscem desquamo | I scale the fish
+destillo | Ceram in tabulam destillo | I drip wax onto the tablet
+destinatio | Destinatio ducis exercitum firmat | The resolve of the leader strengthens the army
