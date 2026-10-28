@@ -82,3 +82,13 @@ bovinator | Bovinator in via clamat | The blusterer shouts in the street
 bracchium | Bracchium mensam tangit | The arm touches the table
 bractea | Bractea aurea statuam tegit | The gold leaf covers the statue
 brassica | Brassica ex agro venit | The cabbage comes from the field
+# skip: breviculus is an adjective (shortish), misfiled as a noun
+brevio | Orationem brevio | I shorten the speech
+brevitas | Brevitas itineris nos laetos facit | The shortness of the journey makes us happy
+bruma | Bruma noctem longam affert | Midwinter brings a long night
+bryon | Bryon in arbore crescit | The moss grows on the tree
+bubo1 | Bubo noctu clamat | The owl calls at night
+bubulcus1 | Bubulcus agrum arat | The ploughman ploughs the field
+bucca | Bucca flatu tumet | The cheek swells with breath
+bucco | Bucco omnes verbis superat | The babbler surpasses everyone in words
+buccula | Buccula galeae faciem militis tegit | The cheekpiece of the helmet covers the soldier's face
