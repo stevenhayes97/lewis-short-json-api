@@ -399,3 +399,13 @@ inspectio | Inspectio navium consulem in portu tenet | The inspection of the shi
 inspecto | Aves in caelo inspecto | I observe the birds in the sky
 inspergo | Salem in ova inspergo | I sprinkle salt on the eggs
 inspicio | Dentes equi inspicio | I inspect the horse's teeth
+inspiro | Militibus audaciam inspiro | I inspire boldness in the soldiers
+instantia | Instantia hiemis agricolas ad opus excitat | The imminence of winter rouses the farmers to work
+instar | Mons instar muri urbem protegit | The mountain protects the city like a wall
+instauro | Murum instauro | I renew the wall
+insterno | Mensam linteo insterno | I cover the table with a cloth
+instigo | Cives ad bellum instigo | I incite the citizens to war
+instillo | Aquam in os aegri instillo | I drip water into the sick man's mouth
+instinctus2 | Divinus instinctus poetam ad carmen movet | A divine impulse moves the poet to song
+# skip: instinguo classical Latin has only the passive participle instinctus, no usable headword form
+instita | Instita talos matronae tegit | The flounce covers the matron's ankles
