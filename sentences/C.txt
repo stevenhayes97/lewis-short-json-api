@@ -54,3 +54,13 @@ caligo1 | Caligo diem obscurat | The fog darkens the day
 caligo2 | Spelunca caligat | The cave is dark
 caligula | Caligula parva sub mensa jacet | The little boot lies under the table
 calix | Calix ante hospitem stat | The cup stands before the guest
+calleo | Artem meam bene calleo | I know my craft well
+calliditas | Calliditas ducis hostem superat | The cunning of the general overcomes the enemy
+callis | Callis per silvam ducit | The track leads through the wood
+callum | Callum in pede viatoris crescit | The callus grows on the traveller's foot
+calo1 | Populum calo | I summon the people
+calo2 | Calo militem ad castra comitatur | The camp servant accompanies the soldier to the camp
+calor1 | Calor aestatis agros siccat | The heat of summer dries the fields
+calumnia | Calumnia judicium impedit | Trickery obstructs the trial
+calumniator | Calumniator legem torquet | The pettifogger twists the law
+calvitium | Calvitium senem non offendit | Baldness does not trouble the old man
