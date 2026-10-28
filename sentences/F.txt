@@ -227,3 +227,14 @@ flumen | Flumen oppidum a silva dividit | The river separates the town from the 
 fluo | Rivus per prata fluit | The brook flows through the meadows
 fluor | Fluor aquae molendinum movet | The flow of water drives the mill
 flustra | Flustra navigationem facilem reddunt | The calm makes the voyage easy
+fluvius | Fluvius inter duos montes labitur | The river glides between two mountains
+fluxus2 | Fluxus aeris flammam lucernae agitat | The flux of air stirs the flame of the lamp
+focillo | Viatorem fessum vino focillo | I revive the weary traveller with wine
+foculus | Foculus pauperem in hieme calefacit | The brazier warms the poor man in winter
+focus | Focus casam calidam facit | The hearth makes the cottage warm
+# third: fodico "I jab" is unfriendly; a hen jabs
+fodico | Gallina terram rostro fodicat | The hen jabs the ground with her beak
+fodio | Puteum fodio | I dig a well
+foedero | Pacem cum Gallis foedero | I establish peace with the Gauls by treaty
+foeditas | Foeditas luti iter difficile facit | The foulness of the mud makes the journey hard
+foedo | Vestem luto foedo | I defile my robe with mud
