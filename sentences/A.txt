@@ -20,3 +20,13 @@ ablego | Servum ex urbe ablego | I dismiss the slave from the city
 abligurrio | Patrimonium meum abligurrio | I squander my inheritance
 abluo | Manus aqua abluo | I wash my hands with water
 abnego | Pecuniam amico abnego | I refuse my friend the money
+abnuo | Auxilium amico abnuo | I refuse my friend help
+abnuto | Auxilium amico abnuto | I keep refusing my friend help
+aboleo | Legem malam aboleo | I abolish the bad law
+abolesco | Sub sole abolesco | I fade in the sun
+abolitio | Abolitio legis populum delectat | The abolition of the law pleases the people
+abolla | Abolla militis alba est | The soldier's cloak is white
+abominor | Malum verbum abominor | I abhor the bad word
+# skip: aborior rank 1 "miscarry" has no sensible first-person sentence
+abortus | Abortus matrem terret | The miscarriage frightens the mother
+abrado | Terram ex pariete abrado | I scrape the earth off the wall
