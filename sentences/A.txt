@@ -681,3 +681,14 @@ asser | Asser murum sustinet | The pole supports the wall
 assero1 | Vites propter cupressos assero | I plant vines beside the cypresses
 assero2 | Servum in libertatem assero | I claim the slave as a free man
 assertio | Assertio libertatis servo spem dat | The assertion of freedom gives the slave hope
+assertor | Assertor servum liberum esse declarat | The champion declares that the slave is free
+asservo | Thesaurum asservo | I guard the treasure
+assessor | Assessor judici consilium dat | The assessor gives advice to the judge
+asseveratio | Asseveratio testis causam firmat | The witness's affirmation strengthens the case
+assevero | Veritatem assevero | I affirm the truth
+# third: assibilo "I hiss" is not what the word means here; it is said of the wind
+assibilo | Ventus per folia assibilat | The wind whispers through the leaves
+assideo | Amico assideo | I sit by my friend
+assido | In sella assido | I sit down on the chair
+assiduitas | Assiduitas medici aegro auxilium dat | The doctor's constant attendance gives help to the patient
+assiduus1 | Assiduus tributum solvit | The propertied citizen pays tribute
