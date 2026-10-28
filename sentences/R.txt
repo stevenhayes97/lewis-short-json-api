@@ -135,3 +135,15 @@ refercio | Culcitam pennis refercio | I stuff the mattress with feathers
 referio | Miles hostem referit | The soldier strikes back at the enemy
 refero | Nuntium ad ducem refero | I report the news to the general
 reficio | Tectum horrei reficio | I repair the roof of the barn
+refigo | Tabulam a porta refigo | I unfasten the tablet from the gate
+reflatus | Reflatus navem in portu tenet | The headwind keeps the ship in the harbour
+reflecto | Equum ad urbem reflecto | I turn the horse back to the city
+# third: reflo "I blow back" is unnatural; the wind is the natural subject
+reflo | Ventus ab oriente reflat | The wind blows back from the east
+# third: refluo "I flow back" is unnatural; a wave is the natural subject
+refluo | Unda in mare refluit | The wave flows back into the sea
+reformido | Hiemem reformido | I dread the winter
+reformo | Villam veterem in templum reformo | I transform the old farmhouse into a temple
+refoveo | Aegrum aqua calida refoveo | I revive the sick man with warm water
+refragor | Consilio senatus refragor | I oppose the senate's plan
+refreno | Linguam refreno | I curb my tongue
