@@ -567,3 +567,13 @@ inverto | Urnam inverto | I turn the jar upside down
 investigo | Causam morbi investigo | I investigate the cause of the illness
 # third: inveterasco "I take root" is odd; a custom takes root
 inveterasco | Mos novus inveterascit | The new custom takes root
+invetero | Vinum in dolio invetero | I age the wine in the cask
+invideo1 | Vicino equum pulchrum invideo | I envy my neighbour his handsome horse
+invidia | Invidia fratrem a sorore separat | Envy separates the brother from the sister
+invigilo | Gregi invigilo | I watch over the flock
+inviso | Fratrem aegrum inviso | I visit my sick brother
+invitamentum | Invitamentum mercedis operarios in vineam trahit | The inducement of pay draws the workers to the vineyard
+invitatio | Invitatio ad ludos Marcum laetum facit | The invitation to the games makes Marcus glad
+invitator | Invitator hospites ad triclinium ducit | The inviter leads the guests to the dining room
+invito | Cognatos ad nuptias invito | I invite my relatives to the wedding
+invoco | Deos in periculo invoco | I invoke the gods in danger
