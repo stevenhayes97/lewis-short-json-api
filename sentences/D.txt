@@ -171,3 +171,14 @@ deminutio | Deminutio frumenti mercatores monet | The decrease of grain warns th
 demiror | Silentium demiror | I wonder at the silence
 demissio | Demissio vocis oratorem decet | The lowering of the voice suits the speaker
 demitto | Funem in puteum demitto | I lower the rope into the well
+demo | Anulum de digito demo | I remove the ring from my finger
+demolior | Murum vetus demolior | I demolish the old wall
+demonstratio | Demonstratio magistri puerum instruit | The teacher's demonstration instructs the boy
+demonstro | Viam peregrino demonstro | I indicate the road to the stranger
+# third: demorior "I die" is grim and pointless; trees and plants die
+demorior | Arbor vetus demoritur | The old tree dies
+demoror | Nuntium demoror | I delay the messenger
+demulceo | Felem demulceo | I stroke the cat
+demuto | Consilium demuto | I alter the plan
+denarro | Fabulam avo denarro | I recount the tale to my grandfather
+dendrophorus | Dendrophorus frondes in pompa portat | The branch bearer carries leafy boughs in the procession
