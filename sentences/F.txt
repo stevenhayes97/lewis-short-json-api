@@ -292,3 +292,15 @@ fraudatio | Fraudatio mercatoris emptores irritat | The merchant's fraud irritat
 fraudo | Publicanum fraudo | I defraud the tax-collector
 fraudulentia | Fraudulentia vilici dominum vexat | The bailiff's deceitfulness vexes his master
 fraus1 | Fraus Graecorum Trojanos decipit | The deceit of the Greeks tricks the Trojans
+fraxinus1 | Fraxinus in colle alta stat | The ash-tree stands tall on the hill
+fremitus | Fremitus maris nautas in portu retinet | The roar of the sea keeps the sailors in harbour
+# third: fremo "I roar" is odd; a bull roars
+fremo | Taurus in prato fremit | The bull roars in the meadow
+fremor | Fremor turbae theatrum implet | The murmur of the crowd fills the theatre
+# third: frendo "I gnash" is odd; a boar gnashes
+frendo | Aper dentibus frendit | The boar gnashes its teeth
+freno | Equum ferocem freno | I bridle the spirited horse
+frenum | Frenum aureum equum splendidum facit | The golden bridle makes the horse splendid
+frequentatio | Frequentatio epistularum matrem laetam facit | The frequency of the letters makes the mother glad
+frequentia | Frequentia consulem in via salutat | The crowd greets the consul in the street
+frequento | Thermas frequento | I frequent the baths
