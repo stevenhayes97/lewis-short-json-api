@@ -250,3 +250,13 @@ fons | Fons in monte oritur | The spring rises on the mountain
 # third: for the first person present is not in use (the forms are fatur, fantur, fabor)
 for | Rex ad populum fatur | The king speaks to the people
 foramen | Foramen in tecto pluviam admittit | The hole in the roof lets in the rain
+forceps | Forceps clavum ex igne tollit | The tongs lift the nail from the fire
+forfex | Forfex pannum sartoris secat | The shears cut the tailor's cloth
+foris1 | Foris noctu clauditur | The door is closed at night
+forma | Forma montis e longinquo conspicitur | The shape of the mountain is seen from afar
+formator | Formator ceram in manibus mollit | The former softens the wax in his hands
+formica | Formica grana ad cavum portat | The ant carries grains to its hole
+formido1 | Tenebras formido | I dread the darkness
+formido2 | Formido noctis viatorem tenet | Dread of the night grips the traveller
+formo | Ex ligno cymbam formo | I shape a skiff out of wood
+formula | Formula verborum in tabula scripta est | The formula of words is written on the tablet
