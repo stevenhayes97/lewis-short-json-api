@@ -106,3 +106,13 @@ nomisma | Nomisma e Graecia venit | The coin comes from Greece
 nongenti | Nongenti milites castra muniunt | Nine hundred soldiers fortify the camp
 nonnullus | Nonnullus nauta portum petit | Some sailor seeks the harbour
 norma | Norma fabri angulum rectum monstrat | The carpenter's square shows the right angle
+noscito | Amicum in turba noscito | I recognise my friend in the crowd
+nosco | Verba Graeca cotidie nosco | I learn Greek words every day
+nota | Nota in bove dominum monstrat | The mark on the ox shows its owner
+notatio | Notatio sacculorum servum diu detinet | The marking of the sacks keeps the slave busy for a long time
+notesco | Apud cives lente notesco | I slowly become known among the citizens
+notio | Notio cum consule viam ad honores aperit | Acquaintance with the consul opens the way to honours
+notitia | Notitia Graecae linguae legatum commendat | Knowledge of the Greek language commends the envoy
+noto | Locum in pagina noto | I mark the place on the page
+novacula | Novacula tonsorem exspectat | The razor waits for the barber
+novatio | Novatio aedium oppidum decorat | The renewal of the buildings beautifies the town
