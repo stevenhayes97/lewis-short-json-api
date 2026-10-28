@@ -725,3 +725,14 @@ confercio | Poma in saccum confercio | I cram the fruit into the sack
 confero | Pecuniam ex civibus confero | I collect money from the citizens
 # third: confervesco only liquids and similar things heat up
 confervesco | Aqua in olla confervescit | The water heats up in the pot
+confessio | Confessio erroris pacem facit | The confession of the error brings peace
+conficio | Opus ante noctem conficio | I complete the work before night
+# third: configo "I pierce" reads unnaturally for a violent verb
+configo | Hostis scutum militis configit | The enemy pierces the soldier's shield
+configuro | Ceram manibus configuro | I shape the wax with my hands
+confingo | Fabulam confingo | I fabricate a story
+confinium | Confinium agrorum ad flumen est | The border of the fields is at the river
+confirmatio | Confirmatio nuntii ducem laetificat | The confirmation of the news cheers the general
+confirmo | Murum novis saxis confirmo | I strengthen the wall with new stones
+confisco | Bona hostis confisco | I confiscate the enemy's property
+confiteor | Errorem meum confiteor | I confess my mistake
