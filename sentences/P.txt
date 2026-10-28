@@ -254,3 +254,16 @@ peremptor | Peremptor tyranni a populo laudatur | The people praise the slayer o
 perennitas | Perennitas fontis pagum per aestatem servat | The perpetuity of the spring saves the village through the summer
 # third: perenno "I endure" is unnatural; fame is the natural subject
 perenno | Fama poetae perennat | The poet's fame endures
+# third: pereo "I perish" is grim; a flower is the natural subject
+pereo | Flos sine aqua perit | The flower perishes without water
+perequito | Per campum perequito | I ride about the plain
+pererro | Silvas pererro | I wander through the woods
+perfectio | Perfectio statuae sculptoris nomen celebrat | The perfection of the statue makes the sculptor's name famous
+perfero | Epistulam ad urbem perfero | I carry the letter through to the city
+perficio | Domum perficio | I complete the house
+perfidia | Perfidia legati exercitum decipit | The envoy's treachery deceives the army
+perflatus | Perflatus lenis vela inflat | The gentle breeze fills the sails
+# third: perflo "I blow through" is unnatural; the wind is the natural subject
+perflo | Ventus per valles perflat | The wind blows through the valleys
+# third: perfluo "I flow through" is unnatural; a stream is the natural subject
+perfluo | Rivus per hortum perfluit | The stream flows through the garden
