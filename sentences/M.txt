@@ -240,3 +240,14 @@ misereo | Regem pauperum miseret | The king pities the poor
 # third: miseresco the entry attests only impersonal miserescit me
 miseresco | Me senis miserescit | Pity for the old man comes over me
 miseria | Miseria hiemis pauperes ad ignem cogit | The misery of winter drives the poor to the fire
+misericordia | Misericordia victoris captivos servat | The victor's mercy saves the captives
+miseror | Casum amici miseror | I lament my friend's misfortune
+missio | Missio concilii cives domum redire sinit | The dismissal of the council lets the citizens return home
+# skip: missus2 the rank 1 sense "sending" is attested only in the ablative missu
+mistura | Mistura mellis et aceti gulam lenit | The mixture of honey and vinegar soothes the throat
+misy | Misy medico prodest | The copperas is useful to the doctor
+mitella | Mitella capillos feminae tegit | The headband covers the woman's hair
+# third: mitifico "I ripen" is unnatural; a season is the natural agent
+mitifico | Autumnus pomum mitificat | Autumn ripens the fruit
+mitigo | Dolorem herbis mitigo | I soften the pain with herbs
+mitra | Mitra purpurea caput Syri ornat | The purple turban adorns the Syrian's head
