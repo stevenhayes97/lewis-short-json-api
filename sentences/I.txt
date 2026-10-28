@@ -430,3 +430,13 @@ insuo | Nummos in pallium insuo | I sew coins into my cloak
 insurgo | E lecto insurgo | I rise from bed
 insusurro | Sorori in aurem insusurro | I whisper into my sister's ear
 intabesco | Dolore intabesco | I waste away with grief
+intego | Puteum tabulis intego | I cover the well with boards
+integritas | Integritas muri urbem tutam servat | The wholeness of the wall keeps the city safe
+integro | Ignem in foco integro | I renew the fire in the hearth
+integumentum | Integumentum plaustri frumentum a pluvia servat | The covering of the cart protects the grain from the rain
+intellectus2 | Intellectus grammaticae discipulum adjuvat | The understanding of grammar helps the pupil
+intellegentia | Intellegentia delphini nautas obstupefacit | The dolphin's intelligence astonishes the sailors
+intellego | Magistri verba intellego | I understand the teacher's words
+intemperantia | Intemperantia adulescentis patrimonium consumit | The young man's intemperance uses up his inheritance
+intemperiae | Intemperiae mercatorem agitant | Madness drives the merchant
+intemperies | Intemperies caeli messem tardat | The inclemency of the weather delays the harvest
