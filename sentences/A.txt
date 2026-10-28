@@ -446,3 +446,13 @@ anaphora | Anaphora orationem ornat | The anaphora adorns the speech
 anas1 | Anas in stagno natat | The duck swims in the pond
 anathema2 | Anathema sacerdotis cives terret | The priest's curse frightens the citizens
 ancile | Ancile Romam servat | The sacred shield protects Rome
+ancilla | Ancilla panem emit | The maidservant buys bread
+ancillor | Dominae ancillor | I serve my mistress
+ancillula | Ancillula mensam purgat | The little maidservant cleans the table
+anclo | Vinum anclo | I serve the wine
+ancon1 | Ancon trabem sustinet | The bracket supports the beam
+ancora | Ancora navem tenet | The anchor holds the ship
+andabata | Andabata gladiatorem non videt | The blindfolded gladiator does not see the gladiator
+andron | Andron duo atria jungit | The corridor joins two halls
+anfractus2 | Anfractus viae equum tardat | The bend in the road slows the horse
+angario | Colonum ad opus angario | I compel the farmer to work
