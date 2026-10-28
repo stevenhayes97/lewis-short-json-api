@@ -12,3 +12,14 @@ obduco | Mensam linteo obduco | I cover the table with a cloth
 # third: obduresco "I harden" is for mud or a substance
 obduresco | Lutum in sole obdurescit | The mud hardens in the sun
 obduro | In labore obduro | I persevere in my work
+obedo | Totam placentam obedo | I devour the whole cake
+obeliscus | Obeliscus altus umbram longam jacit | The tall obelisk casts a long shadow
+# third: obeo "I die" is not a sentence a learner needs
+obeo | Senex in lecto obit | The old man dies in bed
+obequito | Moenibus obequito | I ride up to the walls
+oberro | Per silvam oberro | I wander through the wood
+obex | Obex ferreus portam clausam tenet | The iron bolt keeps the gate shut
+obhaeresco | In luto obhaeresco | I stick fast in the mud
+obicio | Faciem soli obicio | I expose my face to the sun
+obirascor | Fortunae obirascor | I am angry at fortune
+obitus2 | Obitus senatoris curiam silentem reddit | The senator's death makes the senate house silent
