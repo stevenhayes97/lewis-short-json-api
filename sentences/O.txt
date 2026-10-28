@@ -44,3 +44,14 @@ oblitesco | Post arborem oblitesco | I hide behind a tree
 oblittero | Scripta in tabula oblittero | I obliterate the writing on the tablet
 oblivio | Oblivio nomen poetae obruit | Oblivion buries the poet's name
 obliviscor | Nominis amici obliviscor | I forget my friend's name
+oblivium | Oblivium curarum nautam in somno tenet | Oblivion of cares holds the sailor in sleep
+obloquor | Magistro obloquor | I contradict the teacher
+obluctor | Tempestati obluctor | I struggle against the storm
+obmolior | Portam saxis obmolior | I barricade the gate with rocks
+obmoveo | Preces ad aram obmoveo | I offer prayers at the altar
+obmurmuro | Vicino obmurmuro | I murmur in reply to my neighbour
+obmutesco | Ante judicem obmutesco | I fall silent before the judge
+# third: obnubilo "I cloud" is for mist or weather
+obnubilo | Nebula vallem obnubilat | The mist clouds the valley
+obnubo | Caput veste obnubo | I veil my head with a garment
+obnuntio | Consuli cladem obnuntio | I bring the consul word of the defeat
