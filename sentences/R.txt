@@ -171,3 +171,14 @@ regnator | Regnator terrae leges antiquas servat | The ruler of the land keeps t
 regno | In Aegypto regno | I reign in Egypt
 regnum | Regnum Numae Romam pace implet | The kingship of Numa fills Rome with peace
 rego | Navem per undas rego | I guide the ship through the waves
+regrado | Centurionem regrado | I demote the centurion
+regredior | Ad ripam regredior | I go back to the riverbank
+regressio | Regressio navium mercatores ad litus vocat | The return of the ships calls the merchants to the shore
+regressus2 | Regressus ex itinere viatorem lassum ad lectum ducit | The return from the journey leads the tired traveller to bed
+regula | Regula in mensa fabri jacet | The ruler lies on the craftsman's table
+regulus1 | Regulus montanus vicinos ad concilium vocat | The mountain chieftain calls his neighbours to the council
+regusto | Vinum regusto | I taste the wine again
+reicio | Consilium stultum reicio | I reject the foolish plan
+rejectio | Rejectio muneris amicum offendit | The rejection of the gift offends the friend
+# third: relabor "I slide back" is unnatural; a rock is the natural subject
+relabor | Saxum in vallem relabitur | The rock slides back into the valley
