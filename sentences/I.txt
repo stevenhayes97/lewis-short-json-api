@@ -367,3 +367,13 @@ inscientia | Inscientia viarum exercitum in silvis errare cogit | The ignorance 
 inscitia | Inscitia nautae navem tardat | The sailor's ineptitude slows the ship
 inscribo | Nomen meum in tabula inscribo | I inscribe my name on the tablet
 inscriptio | Inscriptio portae nomen urbis monstrat | The inscription on the gate shows the name of the city
+insculpo | Leonem in gemma insculpo | I engrave a lion on the gem
+inseco1 | Panem cultro inseco | I cut into the bread with a knife
+insectatio | Insectatio hostium equites fatigat | The pursuit of the enemy tires the horsemen
+insector | Vulpem insector | I pursue the fox
+insemino | Amorem litterarum discipulis insemino | I implant a love of letters in my pupils
+insequor | Amicum per viam insequor | I follow my friend along the road
+insero1 | Gemmam in ramum insero | I graft a bud onto the branch
+insero2 | Clavum in foramen insero | I insert the nail into the hole
+inservio | Patrono inservio | I serve my patron
+insideo | Trunco insideo | I sit on the log
