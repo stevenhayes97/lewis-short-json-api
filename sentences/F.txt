@@ -40,3 +40,14 @@ familia | Familia sub eodem tecto habitat | The household lives under the same r
 familiaritas | Familiaritas inter fratres diu manet | The intimacy between the brothers lasts long
 famulitium | Famulitium servum fatigat | Servitude wearies the slave
 famulus1 | Famulus aquam ad dominam portat | The servant carries water to his mistress
+fanum1 | Fanum in monte antiquum stat | The ancient shrine stands on the mountain
+far | Far in sole maturescit | The spelt ripens in the sun
+farcio | Pulvinum pennis farcio | I stuff the cushion with feathers
+farina | Farina ad pistorem portatur | The flour is carried to the baker
+farrago | Farrago equos in stabulo alit | The fodder feeds the horses in the stable
+fartor | Fartor pullos mulieribus vendit | The poulterer sells chickens to the women
+fas | Fas est amicum juvare | It is right to help a friend
+fascia | Fascia capillos puellae ligat | The band ties the girl's hair
+fasciculus | Fasciculus florum in mensa jacet | The bundle of flowers lies on the table
+# third: fascino "I bewitch" is odd; a witch bewitches
+fascino | Venefica pecora fascinat | The witch bewitches the cattle
