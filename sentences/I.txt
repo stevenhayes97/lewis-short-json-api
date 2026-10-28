@@ -266,3 +266,15 @@ infinitas | Infinitas caeli philosophum obstupefacit | The infinity of the sky a
 infirmitas | Infirmitas aviae nepotem ad lectum vocat | The grandmother's weakness calls her grandson to her bed
 infirmo1 | Vires hostium infirmo | I weaken the enemy's strength
 infitiae | Infitiae rei judices non movent | The defendant's denial does not move the judges
+infitiatio | Infitiatio debitoris creditorem ad praetorem mittit | The debtor's denial sends the creditor to the praetor
+inflammatio | Inflammatio gutturis cantorem tacitum facit | The inflammation of the throat keeps the singer silent
+inflammo | Carbones inflammo | I kindle the charcoal
+inflatio | Inflatio fluminis ripas tegit | The swelling of the river covers the banks
+inflecto | Ramum inflecto | I bend the branch
+inflexio | Inflexio viae viatorem in silvam ducit | The bending of the road leads the traveller into the wood
+# third: infligo "I strike" is odd; a wave dashes the ship
+infligo | Fluctus navem in scopulum infligit | The wave dashes the ship against the rock
+inflo | Utrem inflo | I inflate the wineskin
+# third: influo "I flow in" is odd; a stream flows in
+influo | Rivus in lacum influit | The stream flows into the lake
+infodio | Nummos in horto infodio | I bury the coins in the garden
