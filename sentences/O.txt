@@ -88,3 +88,13 @@ observito | Aves in agro observito | I observe the birds in the field
 observo | Lunam e fenestra observo | I observe the moon from the window
 obses | Obses in castris Romanorum manet | The hostage stays in the Roman camp
 obsessor | Obsessor urbis murum circumit | The besieger of the city walks around the wall
+obsideo | Urbem obsideo | I besiege the city
+obsidio | Obsidio mercatores in urbe retinet | The siege keeps the merchants in the city
+obsidium1 | Obsidium exercitum Romanum diu detinet | The siege holds the Roman army for a long time
+obsido | Portas hostium obsido | I besiege the enemy's gates
+obsigno | Epistulam cera obsigno | I seal the letter with wax
+obsisto | Hosti obsisto | I resist the enemy
+obsolefacio | Nomen meum desidia obsolefacio | I degrade my name through idleness
+obsonium | Obsonium coquum exspectat | The provisions wait for the cook
+obsono1 | Pro convivio obsono | I cater for the banquet
+obsorbeo | Aquam avide obsorbeo | I gulp the water greedily
