@@ -458,3 +458,15 @@ discriptio | Discriptio agrorum coloniam firmat | The apportionment of the land 
 # third: discrucio "I torture" is grim; worry torments the mind
 discrucio | Cura animum discruciat | Worry torments the mind
 discumbo | In lecto post balneum discumbo | I recline on the couch after the bath
+discurro | Per vicum discurro | I run about through the street
+discurso | Per agros discurso | I run about through the fields
+discursus2 | Discursus canum hortum turbat | The running about of the dogs disturbs the garden
+discus1 | Discus per aerem volat | The discus flies through the air
+discussio | Discussio de pace populum instruit | The discussion about peace informs the people
+discutio | Vitrum casu discutio | I shatter the glass by accident
+# third: disicio a military figure is more natural than the first person
+disicio | Dux hostium agmen disicit | The general scatters the enemy column
+disjunctio | Disjunctio gemellorum matrem sollicitat | The separation of the twins worries their mother
+disjungo | Boves ab aratro disjungo | I unyoke the oxen from the plough
+# third: dispalor a flock straggles; "I straggle" is unnatural
+dispalor | Grex per montem dispalatur | The flock straggles over the mountain
