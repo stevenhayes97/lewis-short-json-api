@@ -262,3 +262,13 @@ repercussus2 | Repercussus vocis pastorem in montibus fallit | The echo of the v
 # third: repercutio "I reflect" is unnatural; a mirror is the natural subject
 repercutio | Speculum lucem repercutit | The mirror reflects the light
 reperio | Viam in silva reperio | I find the way in the forest
+repertor | Repertor novae machinae praemium accipit | The inventor of the new machine receives a reward
+repetitio | Repetitio memoriam discipuli firmat | Repetition strengthens the pupil's memory
+repeto | Versus poetae repeto | I repeat the poet's verses
+repigro | Gradum repigro | I slow my pace
+repleo | Cophinum pomis repleo | I fill the basket with apples
+replicatio | Replicatio voluminis scribam fatigat | The unrolling of the scroll tires the scribe
+replico | Velum replico | I unroll the sail
+repo | Per humum repo | I creep along the ground
+repono | Librum in pluteo repono | I put the book back on the shelf
+reporto | Pisces e mercatu reporto | I bring fish back from the market
