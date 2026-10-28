@@ -215,3 +215,15 @@ floreo | Rosa in horto floret | The rose blooms in the garden
 # third: floresco "I blossom" is odd; a tree blossoms
 floresco | Prunus vere florescit | The plum tree blossoms in spring
 flos | Flos nectar apibus dat | The flower gives nectar to the bees
+flosculus | Flosculus inter herbas latet | The floweret hides among the grass
+fluctio | Fluctio oculorum aegrum ad medicum ducit | The discharge from the eyes takes the patient to the doctor
+fluctuatio | Fluctuatio animorum senatum impedit | The fluctuation of minds hinders the senate
+# third: fluctuo "I billow" is odd; the sea billows
+fluctuo | Mare sub vento fluctuat | The sea billows in the wind
+fluctus | Fluctus in litore frangitur | The wave breaks on the shore
+fluentum | Fluentum per saxa currit | The stream runs over the rocks
+flumen | Flumen oppidum a silva dividit | The river separates the town from the forest
+# third: fluo "I flow" is odd; a stream flows
+fluo | Rivus per prata fluit | The brook flows through the meadows
+fluor | Fluor aquae molendinum movet | The flow of water drives the mill
+flustra | Flustra navigationem facilem reddunt | The calm makes the voyage easy
