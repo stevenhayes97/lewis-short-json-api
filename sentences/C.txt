@@ -904,3 +904,14 @@ conterminus | Conterminus noster per sepem salutat | Our neighbour greets us ove
 contero | Frumentum lapide contero | I grind grain with a stone
 conterreo | Hostes tubis conterreo | I terrify the enemy with trumpets
 contestatio | Contestatio nautae causam juvat | The sailor's testimony helps the case
+contestor | Deos contestor | I call the gods to witness
+contexo | Coronam ex rosis contexo | I weave a garland from roses
+contextus2 | Contextus verborum sensum ostendit | The connection of the words shows the meaning
+continentia1 | Continentia juvenis parentes laetificat | The young man's self-restraint cheers his parents
+# third: contineo "I contain" is said of vessels and chests
+contineo | Arca aurum continet | The chest contains gold
+contingo1 | Tectum manu contingo | I touch the roof with my hand
+continuatio | Continuatio dierum serenorum agricolam gaudio implet | A succession of fair days fills the farmer with joy
+continuo2 | Duas vias ponte continuo | I connect two roads with a bridge
+continuor | Cum comitibus in itinere continuor | I join my companions on the journey
+contio | Contio consulem exspectat | The assembly awaits the consul
