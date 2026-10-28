@@ -289,3 +289,13 @@ infundo | Oleum in lucernam infundo | I pour oil into the lamp
 # third: infusco "I darken" is odd; smoke darkens the walls
 infusco | Fumus parietes infuscat | The smoke darkens the walls
 infusio | Infusio herbarum gutturem lenit | The infusion of herbs soothes the throat
+ingemino | Studium ingemino | I redouble my effort
+ingemisco | Sub onere ingemisco | I groan under the burden
+ingemo | Casum patriae ingemo | I groan over my country's fate
+ingenero | Filiis virtutem ingenero | I implant virtue in my sons
+ingeniculo | Ante aram ingeniculo | I kneel before the altar
+ingenium | Ingenium Catonis cives ad eum trahit | The nature of Cato draws the citizens to him
+ingenuitas | Ingenuitas juvenem ad honores admittit | Free birth admits the young man to public honours
+ingero | Ligna in ignem ingero | I throw logs onto the fire
+ingigno | Liberis timorem deorum ingigno | I instil the fear of the gods in my children
+ingluvies | Ingluvies columbae grana tenet | The pigeon's crop holds the grain
