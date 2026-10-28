@@ -169,3 +169,13 @@ occumbo | Miles pro patria occumbit | The soldier dies for his country
 occupatio | Occupatio urbis cives terret | The occupation of the city frightens the citizens
 occupo | Pontem occupo | I seize the bridge
 occurro | Medico in via occurro | I meet the doctor on the road
+occursatio | Occursatio clientium patronum fatigat | The fawning of the clients tires the patron
+occurso | Magistro ante templum occurso | I meet the teacher in front of the temple
+occursus | Occursus cum rege legatum terret | The meeting with the king frightens the envoy
+ocellus | Ocellus soleae lorum tenet | The eyelet of the sandal holds the strap
+ocrea1 | Ocrea crus militis protegit | The greave protects the soldier's shin
+oculo | Homines doctrina oculo | I enlighten people with learning
+oculus | Oculus lunam in aqua videt | The eye sees the moon in the water
+odi | Mendacium odi | I hate lying
+odium1 | Odium inter fratres familiam dividit | Hatred between the brothers divides the family
+odor | Odor floris apes allicit | The smell of the flower attracts the bees
