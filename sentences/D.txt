@@ -465,7 +465,7 @@ discus1 | Discus per aerem volat | The discus flies through the air
 discussio | Discussio de pace populum instruit | The discussion about peace informs the people
 discutio | Vitrum casu discutio | I shatter the glass by accident
 # third: disicio a military figure is more natural than the first person
-disicio | Dux hostium agmen disicit | The general scatters the enemy column
+disicio | Dux agmen hostium disicit | The general scatters the enemy column
 disjunctio | Disjunctio gemellorum matrem sollicitat | The separation of the twins worries their mother
 disjungo | Boves ab aratro disjungo | I unyoke the oxen from the plough
 # third: dispalor a flock straggles; "I straggle" is unnatural
@@ -608,4 +608,4 @@ duramentum | Duramentum ferri in aqua fit | The hardening of the iron takes plac
 duresco | Lutum in sole durescit | The mud hardens in the sun
 duritia | Duritia terrae aratrum impedit | The hardness of the ground hinders the plough
 duro | Argillam in fornace duro | I harden the clay in the furnace
-dux | Dux exercitum hortatur | The general encourages the army
+dux | Dux exercitum hortatur | The leader encourages the army
