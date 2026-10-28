@@ -364,3 +364,15 @@ allevo1 | Arcam allevo | I lift the chest
 allicio | Apes floribus allicio | I attract the bees with flowers
 allido | Vas ad murum allido | I dash the jar against the wall
 alligo | Canem ad arborem alligo | I tie the dog to the tree
+allino | Panem melle allino | I smear the bread with honey
+allium | Allium in culina est | The garlic is in the kitchen
+allocutio | Allocutio consulis brevis est | The consul's address is short
+alloquium | Alloquium matris filium consolatur | The mother's address consoles her son
+# third: alluceo "I shine on" is said of lamps, sun and moon, not people
+alluceo | Lucerna libro allucet | The lamp shines on the book
+alludo | Fratri alludo | I play with my brother
+# third: alluo "I wash against" is said of the sea or a river
+alluo | Mare muros alluit | The sea washes against the walls
+alluvies | Alluvies post imbrem in agro est | The flood is in the field after the rain
+alluvio | Alluvio mala est | The flooding is bad
+alnus | Alnus prope paludem viret | The alder is green near the marsh
