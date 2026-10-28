@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/J.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+jaceo | In herba sub arbore jaceo | I lie in the grass under the tree
+jacio | Lapidem in flumen jacio | I throw a stone into the river
+jactantia | Jactantia consulis senatores offendit | The consul's boasting offends the senators
+jactatio | Jactatio navis viatores terret | The tossing of the ship frightens the travellers
+jactator | Jactator in convivio victorias narrat | The boaster tells of his victories at the banquet
+jacto | Folia in aera jacto | I toss leaves into the air
+jactura | Jactura pecuniae mercatorem contristat | The loss of money saddens the merchant
+jactus2 | Jactus validus discum trans campum portat | The strong throw carries the discus across the field
+jaculator | Jaculator in acie stat | The javelin-thrower stands in the line
+jaculor | Hastam trans murum jaculor | I hurl a spear over the wall
