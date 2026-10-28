@@ -498,3 +498,13 @@ colo2 | Vinum per linteum colo | I strain the wine through a cloth
 colocasia | Colocasia in stagno crescit | The lotus grows in the pond
 colon | Colon in libro medici describitur | The colon is described in the doctor's book
 colonia1 | Colonia in litore condita est | The colony was founded on the shore
+colonus | Colonus triticum metit | The farmer reaps the wheat
+color | Color rosae pulcher est | The colour of the rose is beautiful
+coloro | Tunicam purpura coloro | I colour the tunic with purple
+colossus | Colossus supra portum surgit | The colossus rises above the harbour
+coluber | Coluber in herba latet | The snake hides in the grass
+colubra | Colubra sub saxo dormit | The snake sleeps under the rock
+colum1 | Colum vinum purgat | The strainer cleans the wine
+columba | Columba in tecto sedet | The dove sits on the roof
+# skip: columbinus is an adjective (of doves), misfiled as a noun
+columen | Columen montis nive tegitur | The summit of the mountain is covered with snow
