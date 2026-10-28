@@ -221,3 +221,13 @@ ligula | Ligula mea cibum acrem sentit | My tongue feels the sharp food
 ligurio | Patinam ligurio | I lick the plate
 ligustrum | Ligustrum sepem densam facit | Privet makes a thick hedge
 lilium | Lilium candidum odorem suavem fundit | The white lily gives off a sweet scent
+lima | Lima ferrum asperum radit | The file scrapes the rough iron
+limax | Limax in folio lente repit | The slug creeps slowly on the leaf
+limbus | Limbus purpureus vestem senatoris distinguit | The purple hem marks out the senator's garment
+limen | Limen marmoreum ante aedes nitet | The marble threshold gleams in front of the house
+limes | Limes duos pagos dividit | The boundary divides two villages
+limito | Agrum fossa limito | I bound the field with a ditch
+limo2 | Clavum aeneum limo | I file the bronze nail
+limus2 | Limus viam lubricam facit | The mud makes the road slippery
+limus3 | Limus sacerdotis vestem tegit | The priest's apron covers his robe
+linamentum | Linamentum ex Aegypto venit | The linen comes from Egypt
