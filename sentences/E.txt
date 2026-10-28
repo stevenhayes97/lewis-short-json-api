@@ -21,3 +21,15 @@ edoceo | Filium litteras edoceo | I instruct my son in letters
 edolo | Sedile ex trunco edolo | I hew a seat out of a log
 edomo | Taurum ferocem edomo | I subdue the fierce bull
 edormio | Vinum edormio | I sleep off the wine
+educatio | Educatio liberorum parentes occupat | The upbringing of children keeps the parents busy
+educo1 | Copias ex castris educo | I lead the troops out of the camp
+educo2 | Filiam domi educo | I educate my daughter at home
+effarcio | Culcitam pennis effarcio | I stuff the cushion with feathers
+effectus2 | Effectus consilii ducem laetum facit | The execution of the plan makes the general happy
+effemino | Juvenem otio effemino | I enervate the young man with idleness
+effero1 | Sarcinas e nave effero | I carry the packs out of the ship
+effero2 | Pastores solitudine effero | I make the shepherds wild with loneliness
+# third: effervesco only liquids boil over
+effervesco | Lac in igne effervescit | The milk boils over on the fire
+# third: effervo only liquids boil over
+effervo | Pulmentum ex olla effervit | The stew boils over from the pot
