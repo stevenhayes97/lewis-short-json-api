@@ -267,3 +267,14 @@ perflatus | Perflatus lenis vela inflat | The gentle breeze fills the sails
 perflo | Ventus per valles perflat | The wind blows through the valleys
 # third: perfluo "I flow through" is unnatural; a stream is the natural subject
 perfluo | Rivus per hortum perfluit | The stream flows through the garden
+perfodio | Collem perfodio | I dig through the hill
+perforo | Tabulam terebra perforo | I perforate the board with a drill
+perfrico | Manus ante ignem perfrico | I rub my hands before the fire
+perfrigesco | In imbre perfrigesco | I catch cold in the rain
+perfringo | Vas vitreum perfringo | I shatter the glass vessel
+perfruor | Otio perfruor | I enjoy my leisure fully
+perfuga | Perfuga ad hostes transit | The deserter crosses over to the enemy
+perfugio | In templum perfugio | I take refuge in the temple
+perfugium | Perfugium in monte pastores exspectat | The refuge on the mountain awaits the shepherds
+# third: perfundo "I drench" is unnatural; rain is the natural agent
+perfundo | Imber viatorem perfundit | The rain drenches the traveller
