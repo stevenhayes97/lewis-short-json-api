@@ -43,3 +43,14 @@ calceus | Calceus sub lecto jacet | The shoe lies under the bed
 # third: calcitro1 only animals kick
 calcitro1 | Equus in stabulo calcitrat | The horse kicks in the stable
 calco | Uvas calco | I trample the grapes
+calculus | Calculus in rivo jacet | The pebble lies in the stream
+calefacio | Aquam calefacio | I warm the water
+caleo | In sole caleo | I am hot in the sun
+calesco | Ad ignem calesco | I grow warm by the fire
+caliendrum | Caliendrum caput matronae ornat | The headdress adorns the matron's head
+caliga | Caliga militis in via sonat | The soldier's boot sounds on the road
+caligo1 | Caligo diem obscurat | The fog darkens the day
+# third: caligo2 only places and skies are dark
+caligo2 | Spelunca caligat | The cave is dark
+caligula | Caligula parva sub mensa jacet | The little boot lies under the table
+calix | Calix ante hospitem stat | The cup stands before the guest
