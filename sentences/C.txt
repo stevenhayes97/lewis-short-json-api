@@ -549,3 +549,13 @@ comminor | Hosti comminor | I threaten the enemy
 comminuo | Saxum malleo comminuo | I crush the rock with a hammer
 commisceo | Vinum cum aqua commisceo | I mix the wine with water
 commiseresco | Casum viduae commiseresco | I pity the widow's misfortune
+commiseror | Orphanum commiseror | I pity the orphan
+commissio | Commissio ludorum populum laetificat | The start of the games cheers the people
+commissura | Commissura in pariete patet | The joint shows in the wall
+committo | Proelium cum hoste committo | I join battle with the enemy
+commoditas | Commoditas viae viatores juvat | The convenience of the road helps the travellers
+commodo2 | Pecuniam vicino commodo | I lend money to my neighbour
+commolior | Machinam novam commolior | I set a new machine in motion
+commonefacio | Fratrem promissi commonefacio | I remind my brother of his promise
+commoneo | Filium officii commoneo | I remind my son of his duty
+commonstro | Viatori viam commonstro | I point out the way to the traveller
