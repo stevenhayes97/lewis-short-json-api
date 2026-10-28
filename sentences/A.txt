@@ -354,3 +354,13 @@ aliptes | Aliptes athletam exercet | The trainer exercises the athlete
 allabor | Ripam allabor | I glide up to the bank
 # third: allatro "I bark at" is a dog's action
 allatro | Canis hospitem allatrat | The dog barks at the guest
+allectio | Allectio militum in campo fit | The levy of soldiers takes place on the plain
+allegatio | Allegatio nuntii ad urbem celer est | The sending of the messenger to the city is quick
+allego1 | Servum ad vicinum allego | I send the slave on an errand to the neighbour
+allego2 | Virum in senatum allego | I co-opt the man into the senate
+allegoria | Allegoria in fabula latet | The allegory lies hidden in the story
+allevio | Sarcinam allevio | I lighten the pack
+allevo1 | Arcam allevo | I lift the chest
+allicio | Apes floribus allicio | I attract the bees with flowers
+allido | Vas ad murum allido | I dash the jar against the wall
+alligo | Canem ad arborem alligo | I tie the dog to the tree
