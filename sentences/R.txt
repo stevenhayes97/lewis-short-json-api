@@ -89,3 +89,15 @@ reconduco | Pictorem reconduco | I rehire the painter
 recoquo | Aes vetus in fornace recoquo | I recast the old bronze in the furnace
 recordatio | Recordatio patriae exsulem consolatur | The recollection of the homeland comforts the exile
 recordor | Pueritiam recordor | I remember my childhood
+recreo | Fessum amicum cibo recreo | I refresh my tired friend with food
+# third: recresco "I regrow" is unnatural; grass is the natural subject
+recresco | Herba post pluviam recrescit | The grass regrows after the rain
+# third: recrudesco "I recrudesce" is unnatural; an illness is the natural subject
+recrudesco | Morbus in hieme recrudescit | The illness breaks out again in winter
+rector | Rector urbis leges novas scribit | The ruler of the city writes new laws
+recubo | Sub arbore recubo | I recline under a tree
+recumbo | In lecto recumbo | I lie down on the bed
+recuro | Aegrum herbis recuro | I cure the sick man with herbs
+recurro | Ad villam recurro | I return to the farmhouse
+recurso | Ad portum recurso | I return to the port
+recursus | Recursus nautae a mari gaudium familiae affert | The sailor's return from the sea brings joy to the family
