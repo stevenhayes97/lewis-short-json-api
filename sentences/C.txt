@@ -1031,3 +1031,14 @@ crepida | Crepida in limine jacet | The sandal lies on the threshold
 crepido | Crepido in foro statuam sustinet | The pedestal in the forum supports a statue
 # third: crepito "I rattle" is said of things that clatter
 crepito | Grando in tecto crepitat | The hail rattles on the roof
+crepitus | Crepitus carri in via auditur | The rattling of the cart is heard on the road
+# third: crepo "I rattle" is said of things that clatter
+crepo | Janua ventis crepat | The door rattles in the wind
+crepundia | Crepundia in cuna sonant | The rattles sound in the cradle
+crepusculum | Crepusculum collem tegit | The twilight covers the hill
+cresco | Quotidie cresco | I grow every day
+cretio | Cretio hereditatis coram testibus fit | The formal acceptance of the inheritance takes place before witnesses
+cribrum | Cribrum farinam a furfure separat | The sieve separates the flour from the bran
+crimen | Crimen mercatoris civitatem commovet | The merchant's crime alarms the city
+criminatio | Criminatio falsa viduam angit | The false accusation distresses the widow
+crimino | Servum furti crimino | I accuse the slave of theft
