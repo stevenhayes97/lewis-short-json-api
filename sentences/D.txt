@@ -392,3 +392,16 @@ digressus2 | Digressus amici villam vacuam relinquit | The departure of the frie
 dijudico | Lites vicinorum dijudico | I adjudicate the neighbours' disputes
 # third: dilabor only snow, ice and the like dissolve
 dilabor | Nix sole dilabitur | The snow dissolves in the sun
+# third: dilacero "I dismember" is grim; discord tears a state apart
+dilacero | Discordia civitatem dilacerat | Discord tears the state apart
+# third: dilanio "I mangle" is grim; a storm mangles things
+dilanio | Tempestas vela dilaniat | The storm mangles the sails
+dilargior | Pecuniam amicis dilargior | I lavish money on my friends
+dilatio | Dilatio nuptiarum sponsam sollicitat | The delay of the wedding worries the bride
+dilato | Fenestram dilato | I enlarge the window
+diligentia | Diligentia scribae dominum juvat | The diligence of the scribe helps his master
+diligo | Fratrem diligo | I love my brother
+# third: dilucesco only the day dawns
+dilucesco | Dies dilucescit | The day dawns
+diluo | Vinum aqua diluo | I dilute the wine with water
+# skip: dilutus is an adjective (diluted, from the participle of diluo), misfiled as a noun
