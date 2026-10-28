@@ -228,3 +228,15 @@ minor1 | Tyranno exsilium minor | I threaten the tyrant with exile
 minoro | Pretium minoro | I lessen the price
 minuo | Sumptus minuo | I lessen my expenses
 minutia | Minutia litterarum legentem fatigat | The smallness of the letters tires the reader
+minutio | Minutio pretii emptores laetos facit | The diminution of the price makes the buyers glad
+mirmillo | Mirmillo spectatores in arena salutat | The mirmillo salutes the spectators in the arena
+miro | Stellas miro | I wonder at the stars
+miror | Pontis magnitudinem miror | I wonder at the size of the bridge
+misceo | Vinum cum aqua misceo | I mix wine with water
+# skip: misellus is an adjective ("poor"), not a noun or verb
+miseratio | Miseratio matris severum patrem placat | The mother's pity calms her stern father
+# third: misereo the active is attested only in the third person (miseret)
+misereo | Regem pauperum miseret | The king pities the poor
+# third: miseresco the entry attests only impersonal miserescit me
+miseresco | Me senis miserescit | Pity for the old man comes over me
+miseria | Miseria hiemis pauperes ad ignem cogit | The misery of winter drives the poor to the fire
