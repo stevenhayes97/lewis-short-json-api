@@ -319,3 +319,13 @@ excresco | Frumentum in agro excrescit | The grain sprouts in the field
 excrucio | Invidia animum excruciat | Envy tortures the mind
 excubiae | Excubiae portam noctu custodiunt | The watch guards the gate by night
 excubitor | Excubitor in turri vigilat | The sentinel keeps watch on the tower
+excubo | Pro castris excubo | I keep watch before the camp
+excudo | Clavos ferreos excudo | I hammer out iron nails
+exculco | Nivem in via exculco | I trample the snow on the road
+excurro | E schola excurro | I run out of the school
+excursio | Excursio e castris hostes perturbat | The sally from the camp disturbs the enemy
+excursor | Excursor collem ante agmen explorat | The scout explores the hill ahead of the column
+excursus2 | Excursus equitum ante lucem fit | The sally of the horsemen takes place before daybreak
+excusatio | Excusatio discipuli magistro displicet | The pupil's excuse displeases the teacher
+excuso | Collegam apud consulem excuso | I excuse my colleague before the consul
+excutio | Pulverem e pallio excutio | I shake the dust out of the cloak
