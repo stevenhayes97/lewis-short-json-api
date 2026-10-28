@@ -33,3 +33,14 @@ lacrimula | Lacrimula in epistula maculam facit | The teardrop makes a spot on t
 lactes | Lactes ovis longae sunt | The sheep's intestines are long
 # third: lactesco "I lactate" is absurd for a learner; a she-ass does it
 lactesco | Asina in stabulo lactescit | The she-ass lactates in the stable
+# third: lacto1 "I suckle" suits an animal, not a learner
+lacto1 | Lupa catulos lactat | The she-wolf suckles her cubs
+lacto2 | Dictis lenibus vicinum lacto | I cajole my neighbour with gentle words
+lacuna | Lacuna in via aquam retinet | The hollow in the road holds water
+lacunar | Lacunar pictum atrium ornat | The painted panelled ceiling adorns the hall
+lacus | Lacus piscibus abundat | The lake teems with fish
+laedo | Pedem ad lapidem laedo | I hurt my foot against a stone
+laena | Laena lanea pastorem calefacit | The woollen cloak warms the shepherd
+laesio | Laesio pedis athletam ludis prohibet | The injury to his foot keeps the athlete from the games
+laetifico | Matrem donis laetifico | I gladden my mother with gifts
+laetitia | Laetitia nuptias sequitur | Joy follows the wedding
