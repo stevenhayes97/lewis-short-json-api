@@ -231,3 +231,14 @@ limo2 | Clavum aeneum limo | I file the bronze nail
 limus2 | Limus viam lubricam facit | The mud makes the road slippery
 limus3 | Limus sacerdotis vestem tegit | The priest's apron covers his robe
 linamentum | Linamentum ex Aegypto venit | The linen comes from Egypt
+linea | Linea recta duo puncta jungit | The straight line joins two points
+lineamentum | Lineamentum tenue in pariete apparet | A fine line appears on the wall
+lineo | Trabem regula lineo | I straighten the beam with a straightedge
+# third: lingo "I lick" is for an animal licking salt
+lingo | Vitulus salem lingit | The calf licks the salt
+lingua | Lingua felis aspera est | The cat's tongue is rough
+lino | Parietem calce lino | I smear the wall with lime
+linquo | Villam linquo | I leave the farmhouse
+linter | Linter uvas excipit | The tub receives the grapes
+linteum | Linteum album mensam tegit | The white cloth covers the table
+linum | Linum caeruleum campum colorat | Blue flax colours the field
