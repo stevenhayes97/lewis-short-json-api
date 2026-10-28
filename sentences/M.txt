@@ -367,3 +367,14 @@ mus1 | Mus in horreo frumentum rodit | The mouse gnaws grain in the barn
 musca1 | Musca circum mensam volat | The fly buzzes around the table
 musculus | Musculus per foramen parietis currit | The little mouse runs through the hole in the wall
 musica | Musica puellas in schola delectat | Music delights the girls in the school
+musimo | Musimo in saxo stat | The mouflon stands on the rock
+mussito | Sub arbore mussito | I mutter under the tree
+musso | Ad januam musso | I mutter at the door
+mustaceus | Mustaceus sponsos in convivio delectat | The wedding-cake delights the bride and groom at the feast
+mutatio | Mutatio caeli aegrum juvat | The change of climate helps the sick man
+# third: mutilo a violent verb; keeps to a military frame
+mutilo | Exercitus hostium aciem mutilat | The army cripples the enemy battle line
+mutio | Coram magistro mutio | I mutter in front of the teacher
+muto1 | Vestem muto | I change my clothes
+mutuor | Libros ab amico mutuor | I borrow books from my friend
+myrtetum | Myrtetum apes in aestate allicit | The myrtle-grove attracts bees in summer
