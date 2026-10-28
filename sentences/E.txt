@@ -296,3 +296,14 @@ excello | Inter socios virtute excello | I excel among my comrades in courage
 exceptio | Exceptio unica legem mitigat | The single exception softens the law
 excepto | Pilam excepto | I catch the ball
 exceptor | Exceptor tabulas in cista condit | The scribe puts the tablets in the chest
+excerno | Furfur e farina excerno | I sift the bran out of the flour
+excerpo | Versus ex libro excerpo | I select verses from the book
+excessus | Excessus legionis oppidum vacuum reddit | The departure of the legion leaves the town empty
+excidium1 | Excidium Troiae poetam inspirat | The destruction of Troy inspires the poet
+# third: excido1 "I fall out" is odd; things fall out
+excido1 | Anulus de manu excidit | The ring falls out of the hand
+excido2 | Quercum excido | I cut down the oak
+excio | Medicum excio | I summon the doctor
+excipio | Pluviam pelvi excipio | I catch the rain in a basin
+excito | Pueros mane excito | I rouse the boys in the morning
+exclamatio | Exclamatio populi consulem interpellat | The outcry of the people interrupts the consul
