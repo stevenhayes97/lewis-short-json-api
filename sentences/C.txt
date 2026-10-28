@@ -621,3 +621,13 @@ comprehensio | Comprehensio praedonum magistratum laetificat | The seizure of th
 compressio | Compressio aeris in utre sonum mutat | The compression of the air in the bag changes the sound
 compressus2 | Compressus lanae in fasce spatium minuit | The compression of the wool in the bale reduces the space
 comprimo | Spongiam manu comprimo | I compress the sponge in my hand
+comprobo | Consilium amici comprobo | I approve my friend's plan
+compromitto | Cum adversario in arbitrum compromitto | I agree with my opponent to refer it to an arbiter
+computatio | Computatio pecuniae diu durat | The computation of the money lasts a long time
+computo | Dies ad nuptias computo | I calculate the days until the wedding
+conamen | Conamen pueri patrem delectat | The boy's effort pleases his father
+conatus | Conatus militum ducem movet | The soldiers' attempt moves the general
+concalefacio | Manus igne concalefacio | I warm my hands at the fire
+concalesco | Ad focum concalesco | I warm up at the hearth
+concallesco | Labore diuturno concallesco | I harden through long labour
+# skip: concavus is an adjective (hollow), misfiled as a noun
