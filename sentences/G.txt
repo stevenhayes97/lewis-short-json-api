@@ -43,3 +43,14 @@ genitor | Genitor filiae anulum dat | The father gives his daughter a ring
 genitura | Genitura agni pastorem laetum facit | The birth of the lamb makes the shepherd happy
 genius | Genius domus familiam servat | The guardian spirit of the house protects the family
 gens | Gens Julia Caesarem honorat | The Julian clan honours Caesar
+gentilitas | Gentilitas Fabios inter se jungit | Clanship unites the Fabii with one another
+genu | Genu athletae post cursum dolet | The athlete's knee hurts after the race
+genus1 | Hoc genus vini mercatori placet | This kind of wine pleases the merchant
+geometres | Geometres circulum in pulvere describit | The geometer draws a circle in the dust
+germanitas | Germanitas Marcum cum Julia jungit | Siblinghood joins Marcus with Julia
+germen | Germen e terra emergit | The sprout emerges from the ground
+germinatio | Germinatio seminum hortulano placet | The germination of the seeds pleases the gardener
+# third: germino "I germinate" is odd; a seed germinates
+germino | Semen in terra germinat | The seed germinates in the soil
+gero1 | Aquam in situla gero | I carry water in a bucket
+gerrae | Gerrae tuae me fatigant | Your nonsense tires me
