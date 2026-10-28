@@ -135,3 +135,14 @@ medicamentum | Medicamentum amarum febrim minuit | The bitter remedy reduces the
 medico | Agnum aegrum herbis medico | I heal the sick lamb with herbs
 medicor | Equo claudo medicor | I heal the lame horse
 medietas | Medietas campi fossam habet | The middle of the field has a ditch
+medimnum | Medimnum tritici familiam mense alit | The medimnus of wheat feeds the family for a month
+mediocritas | Mediocritas victus corpus sanum servat | Moderation in diet keeps the body healthy
+meditatio | Meditatio philosophi animum a curis levat | The philosopher's contemplation lifts his mind from its cares
+meditullium | Meditullium insulae montes altos habet | The middle of the island has high mountains
+medulla | Medulla ossis lupum allicit | The marrow of the bone attracts the wolf
+# third: meio the first person is crude; a dog is the natural subject
+meio | Canis ad murum meit | The dog urinates by the wall
+mel | Mel panem dulcem facit | The honey makes the bread sweet
+melimela | Melimela hospitem sapore suavi mulcent | The honey apples soothe the guest with a pleasant taste
+mellum | Mellum clavos ferreos habet | The dog-collar has iron studs
+melos1 | Melos suave poetae amicum laetum reddit | The sweet song makes the poet's friend cheerful
