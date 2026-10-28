@@ -248,3 +248,15 @@ evito1 | Viam periculosam evito | I avoid the dangerous road
 evito2 | Hostis duci vitam evitat | The enemy kills the commander
 evocatio | Evocatio nocturna senatores perturbat | The night summons disturbs the senators
 evoco | Testem ad judicium evoco | I summon the witness to the trial
+# third: evolo only birds fly away
+evolo | Avis e nido evolat | The bird flies away from the nest
+evolvo | Librum evolvo | I unroll the scroll
+# third: evomo a crude bodily verb; a dog vomits
+evomo | Canis cibum evomit | The dog vomits the food
+evulgo | Carmina mea evulgo | I publish my poems
+exacerbo | Fratrem verbis exacerbo | I anger my brother with words
+exactio | Exactio frumenti pagum vexat | The collection of grain annoys the village
+exactor | Exactor ad januam pulsat | The collector knocks at the door
+exacuo | Falcem lapide exacuo | I sharpen the sickle with a stone
+exaedifico | Villam prope mare exaedifico | I build a villa near the sea
+exaequo | Humum exaequo | I level the ground
