@@ -27,17 +27,17 @@ abolesco | Ex memoria hominum abolesco | I fade from people's memory
 abolitio | Abolitio legis populum delectat | The abolition of the law pleases the people
 abolla | Abolla militis alba est | The soldier's cloak is white
 abominor | Malum verbum abominor | I abhor the bad word
-# third: aborior "I miscarry" is not a sentence a learner needs
-aborior | Ovis aboritur | The ewe miscarries
-abortus | Abortus matrem terret | The miscarriage frightens the mother
+# third: aborior "I set" is said of the sun and stars; rank 2 sense, kept clear of miscarriage
+aborior | Luna aboritur | The moon sets
+# skip: abortus miscarriage, no suitable mild illustration
 abrado | Terram ex pariete abrado | I scrape the earth off the wall
-abripio | Puerum e via abripio | I snatch the boy from the road
+abripio | Pilam e manibus fratris abripio | I snatch the ball from my brother's hands
 abrogo | Legem abrogo | I repeal the law
 abrotonum | Abrotonum in horto crescit | The southernwood grows in the garden
 abrumpo | Ramum ab arbore abrumpo | I sever the branch from the tree
 abscedo | Ex urbe abscedo | I withdraw from the city
-abscido | Caput hostis abscido | I cut off the enemy's head
-abscindo | Vestem a puero abscindo | I tear the garment off the boy
+abscido | Ramos aridos abscido | I cut off the dry branches
+abscindo | Folia a ramo abscindo | I tear the leaves off the branch
 abscondo | Aurum in horto abscondo | I conceal the gold in the garden
 absis | Absis in templo magna est | The arch in the temple is large
 absisto | A bello absisto | I desist from the war
@@ -47,8 +47,8 @@ absorbeo | Aquam absorbeo | I swallow the water
 abstergeo | Sudorem abstergeo | I wipe away the sweat
 absterreo | Lupos ab ovibus absterreo | I deter the wolves from the sheep
 abstinentia | Abstinentia viri magna est | The man's restraint is great
-abstineo | Manus ab amico abstineo | I keep my hands off my friend
-abstraho | Puerum a matre abstraho | I drag the boy away from his mother
+abstineo | Manus a cibo abstineo | I keep my hands off the food
+abstraho | Canem a cibo abstraho | I drag the dog away from the food
 abstrudo | Aurum in terra abstrudo | I hide the gold in the ground
 absum | Ab urbe absum | I am absent from the city
 absumo | Cibum absumo | I consume the food
@@ -133,7 +133,7 @@ adhaereo | Ad saxum adhaereo | I cling to the rock
 adhaeresco | In luto adhaeresco | I stick in the mud
 adhibeo | Aures magistro adhibeo | I lend my ears to the teacher
 # third: adhinnio "I neigh" is a horse's sentence, not a learner's
-adhinnio | Equus equae adhinnit | The horse neighs at the mare
+adhinnio | Equus domino adhinnit | The horse neighs to its master
 adhortatio | Adhortatio ducis milites incitat | The general's encouragement rouses the soldiers
 adhortor | Milites ad pugnam adhortor | I encourage the soldiers to battle
 adigo | Pecus ad flumen adigo | I drive the cattle to the river
@@ -141,7 +141,7 @@ adimo | Puero librum adimo | I take the book away from the boy
 adimpleo | Cantharum aqua adimpleo | I fill the jug with water
 adipiscor | Gloriam adipiscor | I obtain glory
 aditio | Aditio ad insulam periculosa est | The approach to the island is dangerous
-adito | Forum quotidie adito | I visit the forum often
+adito | Forum quotidie adito | I visit the forum every day
 aditus2 | Aditus ad domum angustus est | The approach to the house is narrow
 # third: adjaceo "I lie near" is said of places, not people
 adjaceo | Villa silvae adjacet | The villa lies near the wood
@@ -152,7 +152,7 @@ adjugo | Vitem ad palum adjugo | I tie the vine to the stake
 adjumentum | Adjumentum fratris ad victoriam valet | My brother's help counts towards victory
 adjunctio | Adjunctio amicorum urbem firmat | The joining of friends strengthens the city
 adjungo | Equos ad currum adjungo | I harness the horses to the chariot
-adjuro1 | Verum adjuro | I swear to the truth
+adjuro1 | Per omnes deos adjuro | I swear by all the gods
 adjuto | Matrem in horto adjuto | I help my mother in the garden
 adjutor2 | Adjutor ducis castra munit | The general's helper fortifies the camp
 adjutrix | Adjutrix reginae in horto laborat | The queen's helper works in the garden
@@ -168,10 +168,10 @@ admiror | Fortitudinem militum admiror | I admire the soldiers' courage
 admisceo | Aquam vino admisceo | I mix water into the wine
 admissio | Admissio ad principem rara est | Admission to the emperor is rare
 admitto | Hospitem in domum admitto | I let the guest into the house
-admolior | Manus ad saxum admolior | I lay hands on the rock
+admolior | Saxum ad portam admolior | I heave the rock up to the gate
 admoneo | Puerum officii admoneo | I remind the boy of his duty
 admonitio | Admonitio matris filium movet | The mother's reminder moves her son
-admonitor | Admonitor oratori nomen dicit | The prompter tells the orator the name
+admonitor | Admonitor puerum officii admonet | The monitor reminds the boy of his duty
 # skip: admonitus2 used only in the ablative (admonitu), so it cannot be a nominative subject
 admordeo | Pomum admordeo | I bite into the apple
 admotio | Admotio digitorum sonum mutat | The placing of the fingers changes the sound
