@@ -50,3 +50,13 @@ malleolus | Malleolus fabri clavum figit | The smith's small hammer drives in th
 malleus | Malleus ferrum in fabrica tundit | The hammer beats the iron in the workshop
 malo | Pacem malo | I prefer peace
 malobathron | Malobathron ex India venit | The malobathrum comes from India
+maltha | Maltha rimas navis claudit | The tar closes the cracks of the ship
+malum2 | Malum rubrum a ramo cadit | The red apple falls from the branch
+malus3 | Malus altus vela sustinet | The tall mast supports the sails
+malva | Malva prope viam crescit | The mallow grows near the road
+mamilla | Mamilla ovis agno lac praebet | The ewe's nipple gives the lamb milk
+mamma | Mamma lupae gemellos nutrit | The she-wolf's breast feeds the twins
+manceps | Manceps murum pro urbe aedificat | The contractor builds a wall for the city
+mancipatio | Mancipatio fundi emptorem dominum facit | The conveyance of the estate makes the buyer the owner
+mancipium | Mancipium villae heredem divitem facit | The ownership of the villa makes the heir rich
+mancipo | Fundum emptori mancipo | I convey the estate to the buyer
