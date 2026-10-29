@@ -496,3 +496,13 @@ plaga2 | Plaga septentrionalis nivem per hiemem habet | The northern region has 
 plaga3 | Plaga cervum inter arbores tenet | The net holds the stag among the trees
 plagiarius | Plagiarius ad judicium vocatur | The kidnapper is summoned to court
 plagula | Plagula lectum a luce tegit | The curtain shields the bed from the light
+planctus | Planctus viduae vicinos movet | The widow's lamentation moves the neighbours
+planeta | Planeta per caelum errat | The planet wanders through the sky
+plango | Fortunam adversam plango | I lament the adverse fortune
+plangor | Plangor mulierum forum implet | The lamentation of the women fills the forum
+planities | Planities inter montes patet | The plain stretches between the mountains
+planta | Planta in solo humido radices agit | The cutting takes root in the damp soil
+plasma | Plasma lutea figulum celebrem facit | The clay figure makes the potter famous
+platanus | Platanus juxta fontem frondet | The plane tree is leafy beside the spring
+platea1 | Platea ad forum ducit | The street leads to the forum
+plaudo | Poetae plaudo | I applaud the poet
