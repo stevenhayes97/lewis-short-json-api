@@ -1100,3 +1100,15 @@ pustula | Pustula in cute apparet | The pustule appears on the skin
 pusula | Pusula ungue non tangitur | The pustule is not touched with the fingernail
 putamen | Putamen nucis in terra jacet | The shell of the nut lies on the ground
 putatio | Putatio arborum in vere fit | The pruning of the trees takes place in spring
+puteal | Puteal in area stat | The wellhead stands in the courtyard
+# third: puteo "I stink" is unnatural; a stable is the natural subject
+puteo | Stabulum putet | The stable stinks
+puteus | Puteus aquam frigidam fert | The well supplies cold water
+puto | Te sapientem puto | I think you wise
+# third: putrefacio "I rot (something)" is unnatural; damp is the natural subject
+putrefacio | Humor lignum putrefacit | The damp rots the wood
+pycta | Pycta in arena victoriam petit | The boxer seeks victory in the arena
+pyra | Pyra in agro exstruitur | The pyre is built in the field
+pyramis | Pyramis in Aegypto stat | The pyramid stands in Egypt
+pythaules | Pythaules cantorem tibiis comitatur | The flute player accompanies the singer on the pipes
+pyxis | Pyxis unguentum continet | The box holds the ointment
