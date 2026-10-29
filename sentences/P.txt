@@ -516,3 +516,15 @@ plenitudo | Plenitudo horrei colonum laetum reddit | The fullness of the barn ma
 plico | Chartam plico | I fold the sheet of papyrus
 plinthus | Plinthus sub columna apparet | The plinth appears beneath the column
 ploratus | Ploratus mulierum per vicum sonat | The wailing of the women echoes through the street
+ploro | Sororem absentem ploro | I weep for my absent sister
+pluma | Pluma in vento volat | The feather flies in the wind
+plumbo | Fistulam plumbo | I solder the pipe
+plumbum | Plumbum in igne liquescit | The lead melts in the fire
+# third: plumo "I feather" is unnatural; a chick is the natural subject
+plumo | Pullus in nido plumat | The chick grows feathers in the nest
+# third: pluo a weather verb
+pluo | Per totam noctem pluit | It rains all night long
+pluteus | Pluteus in turri custodes a vento tegit | The parapet shields the guards from the wind in the tower
+pluvia | Pluvia segetes post longam siccitatem reficit | The rain restores the crops after a long drought
+poculum | Poculum argenteum in mensa splendet | The silver cup shines on the table
+podium | Podium supra arenam prominet | The balcony juts out above the arena
