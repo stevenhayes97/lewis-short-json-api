@@ -184,3 +184,14 @@ tornus | Tornus pocula rotunda facit | The lathe makes the cups round
 torpedo | Torpedo manum nautae in frigore tenet | The numbness grips the sailor's hand in the cold
 torpeo | Frigore torpeo | I am numb with the cold
 torpesco | In nive torpesco | I grow numb in the snow
+# Chunk 17
+torpor | Torpor viatorem in nive vincit | Numbness overcomes the traveller in the snow
+torqueo | Funem manu torqueo | I twist the rope with my hand
+torquis | Torquis aureus mulieris collum cingit | The golden necklace encircles the woman's neck
+torreo | Castaneas ad ignem torreo | I roast chestnuts at the fire
+tortor | Tortor judici paret | The torturer obeys the judge
+tortus2 | Tortus serpentis in saxo quiescit | The coil of the snake rests on the rock
+torulus | Torulus lanae ex ove pendet | The tuft of wool hangs from the sheep
+torus | Torus mollis in triclinio stat | The soft couch stands in the dining room
+torvitas | Torvitas magistri discipulos silentes facit | The teacher's sternness makes the pupils silent
+toxicum | Toxicum in horreo muribus nocet | Poison in the granary harms the mice
