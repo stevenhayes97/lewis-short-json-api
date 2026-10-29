@@ -942,3 +942,13 @@ propello | Navem remis propello | I propel the ship with oars
 # third: propendeo "I overhang" is unnatural; a branch is the natural subject
 propendeo | Ramus super viam propendet | The branch overhangs the road
 propero | Ad urbem propero | I hasten to the city
+propheta | Propheta in templo populum monet | The prophet warns the people in the temple
+propheto | Pacem propheto | I prophesy peace
+propinatio | Propinatio convivas hilares facit | The toast makes the guests merry
+propino | Hospiti propino | I drink a toast to my guest
+propinquitas | Propinquitas portus mercatores invitat | The proximity of the harbour invites merchants
+propinquo | Ad collem propinquo | I approach the hill
+propitio | Deos propitio | I propitiate the gods
+propolis | Propolis alveare obturat | The propolis seals the hive
+propono | Rem senatui propono | I propose the matter to the senate
+proportio | Proportio membrorum statuam pulchram facit | The proportion of the limbs makes the statue beautiful
