@@ -85,3 +85,14 @@ veneficium | Veneficium judices occupat | The poisoning occupies the judges
 # third: veneno "I poison" reads unnaturally for a violent verb
 veneno | Hostis fontes venenat | The enemy poisons the springs
 venenum | Venenum a medico agnoscitur | The poison is recognised by the doctor
+# third: veneo "I am sold" is unnatural; wine is the natural subject
+veneo | Vinum bene venit | The wine is selling well
+veneratio | Veneratio sacerdotis populum ad templum ducit | The veneration for the priest leads the people to the temple
+venia | Venia regis exsulem ad patriam revocat | The king's favour calls the exile back to his homeland
+venio | Ex Italia venio | I come from Italy
+venor | Lepores in colle venor | I hunt hares on the hill
+venter | Venter cibum postulat | The belly demands food
+ventilo | Flammam ventilo | I fan the flame
+ventito | Ad theatrum ventito | I frequent the theatre
+ventus | Ventus arbores quatit | The wind shakes the trees
+venumdo | Pecora venumdo | I sell the cattle
