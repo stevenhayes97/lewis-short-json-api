@@ -74,3 +74,14 @@ velocitas | Velocitas equi spectatores in circo excitat | The speed of the horse
 velum | Velum ventum capit | The sail catches the wind
 vena | Vena in bracchio patet | The vein stands out on the arm
 venatio | Venatio juvenes in montes vocat | Hunting calls the young men to the mountains
+venator | Venator cervum in silva quaerit | The hunter looks for the deer in the forest
+venatus | Venatus corpus exercet | Hunting exercises the body
+venditatio | Venditatio poetae in convivio taedium movet | The poet's boasting causes boredom at the banquet
+venditio | Venditio fundi pecuniam heredi affert | The sale of the farm brings money to the heir
+vendito | Poma in via vendito | I hawk fruit in the street
+venditor | Venditor pretium dicit | The seller names the price
+vendo | Equum vendo | I sell the horse
+veneficium | Veneficium judices occupat | The poisoning occupies the judges
+# third: veneno "I poison" reads unnaturally for a violent verb
+veneno | Hostis fontes venenat | The enemy poisons the springs
+venenum | Venenum a medico agnoscitur | The poison is recognised by the doctor
