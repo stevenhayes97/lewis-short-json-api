@@ -390,3 +390,16 @@ pertraho | Ovem ad rivum pertraho | I drag the sheep to the stream
 pertranseo | Silvam pertranseo | I pass through the forest
 pertundo | Corium subula pertundo | I perforate the leather with an awl
 perturbatio | Perturbatio in macello emptores dispergit | The disturbance in the market scatters the buyers
+perturbo | Quietem vicini perturbo | I disturb my neighbour's rest
+# third: perurgeo "I oppress" is unnatural; winter is the natural subject
+perurgeo | Hiems pagum perurget | Winter oppresses the village
+# third: peruro "I burn up" is unnatural; fire is the natural subject
+peruro | Ignis stipulam perurit | The fire burns up the stubble
+# third: pervado "I pervade" is unnatural; fear is the natural subject
+pervado | Terror castra pervadit | Fear pervades the camp
+pervagor | Per montes pervagor | I roam through the mountains
+perveho | Merces ad insulam navi perveho | I convey the goods to the island by ship
+pervello | Rosam pervello | I pluck the rose
+pervenio | Ad summum montem pervenio | I arrive at the mountain top
+perversitas | Perversitas pueri magistrum fatigat | The boy's perversity wearies the teacher
+perverto | Mensam perverto | I overturn the table
