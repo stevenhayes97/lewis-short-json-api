@@ -242,3 +242,14 @@ transfreto | Mare ad Siciliam transfreto | I sail across the sea to Sicily
 transfuga | Transfuga ad castra hostium venit | The deserter comes to the enemy's camp
 transfugio | Ad hostes transfugio | I desert to the enemy
 transfugium | Transfugium nocturnum exercitum debilitat | The night desertion weakens the army
+# Chunk 22
+transfundo | Aquam ex urna in situlam transfundo | I decant the water from the urn into the bucket
+transfusio | Transfusio vini e dolio in amphoras tempus consumit | The pouring over of the wine from the cask into the jars takes time
+transgredior | Montem transgredior | I cross over the mountain
+transgressio | Transgressio Alpium exercitum fatigat | The crossing of the Alps tires the army
+transgressus2 | Transgressus fossae equitem moratur | The crossing of the ditch delays the horseman
+transigo | Rem cum vicino transigo | I transact the matter with my neighbour
+transilio | Sepem transilio | I leap over the hedge
+transitio | Transitio vadi iter nostrum tardat | The crossing of the ford slows our journey
+transitus2 | Transitus angustus per montes agmen impedit | The narrow crossing through the mountains hinders the column
+translatio | Translatio mercium ad portum diem totum consumit | The transfer of the goods to the harbour uses up a whole day
