@@ -217,3 +217,15 @@ trajectio | Trajectio maris duas horas durat | The crossing of the sea lasts two
 trajectus2 | Trajectus ad insulam navem requirit | The crossing to the island requires a ship
 trama | Trama cum stamine texitur | The weft is woven with the warp
 trames | Trames angustus ad rivum descendit | The narrow path descends to the stream
+# Chunk 20
+trano | Flumen trano | I swim across the river
+tranquillitas | Tranquillitas maris viatores ad navem invitat | The calm of the sea invites the travellers to the ship
+tranquillo2 | Equum voce tranquillo | I calm the horse with my voice
+transabeo | Pagos transabeo | I pass by the villages
+# third: transadigo "I pierce through" reads unnaturally for a violent verb
+transadigo | Miles tabulam hasta transadigit | The soldier pierces through the board with a spear
+transcendo | Fossam transcendo | I cross over the ditch
+transcribo | Carmen amici transcribo | I transcribe my friend's poem
+transcurro | Praeter villam transcurro | I run past the farmhouse
+transcursus2 | Transcursus fulguris caelum illuminat | The darting of the lightning lights up the sky
+transenna | Transenna avem in horto capit | The snare catches a bird in the garden
