@@ -162,3 +162,14 @@ vicinia | Vicinia noctu quiescit | The neighbourhood rests at night
 vicinitas | Vicinitas medicum vocat | The neighbourhood summons the doctor
 # skip: vicis has no nominative singular (the source says the nominative does not occur); vicis is a genitive
 vicissitudo | Vicissitudo dierum noctiumque anni cursum signat | The alternation of days and nights marks the course of the year
+victima | Victima ad templum ducitur | The sacrificial animal is led to the temple
+victito | Fructibus victito | I subsist on fruit
+victor1 | Victor coronam accipit | The victor receives a wreath
+victoria | Victoria bellum finit | Victory ends the war
+victoriatus1 | Victoriatus in crumena tinnit | The victory coin jingles in the purse
+# skip: victrix is an adjective ("victorious") at rank 1, misfiled as a noun
+victus2 | Victus pauperis ex pane et caseo constat | The poor man's sustenance consists of bread and cheese
+vicus | Vicus mane tumultu mercatorum resonat | The street rings with the bustle of merchants in the morning
+video | Navem in mari video | I see a ship at sea
+# third: viduo "I bereave" reads unnaturally for a violent verb
+viduo | Hostis urbem civibus viduat | The enemy bereaves the city of its citizens
