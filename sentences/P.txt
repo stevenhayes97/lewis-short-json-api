@@ -972,3 +972,14 @@ prorumpo | Ex insidiis prorumpo | I burst out of the ambush
 proruo | Murum proruo | I demolish the wall
 prosapia | Prosapia juvenem ad honores vocat | The lineage calls the young man to honours
 proscaenium | Proscaenium ante spectatores patet | The stage lies open before the spectators
+proscindo | Securi quercum proscindo | I rend the oak with an axe
+proscribo | Proditorem proscribo | I proscribe the traitor
+proscriptio | Proscriptio senatorem ad fugam impellit | The proscription drives the senator to flight
+proseco | Exta proseco | I cut out the entrails for the sacrifice
+prosecutio | Prosecutio amicorum viatorem laetum facit | The attendance of friends makes the traveller glad
+proselytus | Proselytus in synagoga sedet | The proselyte sits in the synagogue
+prosemino | Hordeum in agro prosemino | I sow barley in the field
+prosequor | Hospitem ad portum prosequor | I accompany my guest to the harbour
+prosero1 | Segetem prosero | I sow the crop
+# third: proserpo "I creep forward" is unnatural; a snake is the natural subject
+proserpo | Anguis inter saxa proserpit | The snake creeps forward among the rocks
