@@ -453,3 +453,15 @@ rudo | Asinus in agro rudit | The donkey brays in the field
 rudus1 | Rudus fossam implet | The rubble fills the ditch
 # skip: rufulus is an adjective (reddish); only the plural noun rufuli exists as a noun
 ruga1 | Ruga in fronte senis apparet | The wrinkle appears on the old man's forehead
+# third: rugio "I roar" is unnatural; a lion is the natural subject
+rugio | Leo in silva rugit | The lion roars in the forest
+rugo | Frontem rugo | I wrinkle my forehead
+ruina | Ruina pontis viatores in ripa tenet | The collapse of the bridge holds the travellers on the bank
+rumen | Rumen cibum ad ventrem ducit | The gullet leads food to the stomach
+ruminatio | Ruminatio cotidiana ingenium acuit | Daily rumination sharpens the mind
+# third: ruminor "I ruminate" is unnatural; a sheep is the natural subject
+ruminor | Ovis in umbra ruminatur | The sheep ruminates in the shade
+rumor | Rumor de victoria per urbem currit | The rumour about the victory runs through the city
+rumpo | Panem rumpo | I break the bread
+runa | Runa in terra haeret | The javelin sticks in the ground
+runco1 | Hortum runco | I weed the garden
