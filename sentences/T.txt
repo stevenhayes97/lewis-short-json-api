@@ -1,6 +1,5 @@
 # key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
 # Source: definitions/T.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
-# Chunk 1
 tabefacio | Ceram tabefacio | I melt the wax
 tabella | Tabella nomen puellae tenet | The tablet holds the girl's name
 # third: tabeo "I waste away" is unnatural; a plant is the natural subject
@@ -13,7 +12,6 @@ tabesco | Flos sine aqua tabescit | The flower wastes away without water
 tabula | Tabula in pariete pendet | The board hangs on the wall
 tabulinum | Tabulinum hortum spectat | The terrace overlooks the garden
 tabum | Tabum militem novicium terret | The gore frightens the new recruit
-# Chunk 2
 taceo | In templo taceo | I am silent in the temple
 taciturnitas | Taciturnitas mariti uxorem sollicitat | The husband's silence worries the wife
 tactio | Tactio lanae mollis puellam juvat | The touch of soft wool pleases the girl
@@ -24,7 +22,6 @@ taenia | Taenia capillos puellae ligat | The ribbon ties the girl's hair
 talea | Talea ferrea in fabrica jacet | The iron rod lies in the workshop
 talentum | Talentum argenti mercatorem ditat | The talent of silver enriches the merchant
 talio | Talio hostem a bello deterret | Retaliation deters the enemy from war
-# Chunk 3
 talus | Talus pedem sustinet | The ankle supports the foot
 tango | Ramum manu tango | I touch the branch with my hand
 # skip: tantillus is an adjective (so small), not a noun
@@ -35,7 +32,6 @@ tardo | Navem in portu tardo | I delay the ship in the harbour
 taurus1 | Taurus in prato herbam edit | The bull eats grass in the meadow
 taxatio | Taxatio domus censorem occupat | The valuation of the house occupies the censor
 taxo | Pretium agri taxo | I assess the price of the field
-# Chunk 4
 taxus | Taxus in monte crescit | The yew grows on the mountain
 tectum | Tectum villae pluviam arcet | The roof of the farmhouse keeps off the rain
 tegimen | Tegimen pastorem a frigore tuetur | The covering protects the shepherd from the cold
@@ -47,7 +43,6 @@ tellus | Tellus semina aestate nutrit | The earth nourishes the seeds in summer
 telum | Telum per aerem volat | The missile flies through the air
 # third: temero "I defile" is unnatural; an enemy is the natural subject
 temero | Hostis templum temerat | The enemy defiles the temple
-# Chunk 5
 temetum | Temetum in cella obscura manet | The strong drink stays in the dark cellar
 temno | Divitias temno | I scorn riches
 temo1 | Temo plaustri in via frangitur | The pole of the wagon breaks on the road
@@ -58,7 +53,6 @@ temperator | Temperator senatum placat | The moderator calms the senate
 temperatura | Temperatura mortarii murum firmat | The composition of the mortar strengthens the wall
 temperies | Temperies caeli agricolas juvat | The temperature of the climate helps the farmers
 tempero | Ferrum aqua tempero | I temper the iron with water
-# Chunk 6
 tempestas | Tempestas nautas in portu tenet | The storm keeps the sailors in the harbour
 tempestivitas | Tempestivitas pluviae segetem juvat | The timeliness of the rain helps the crop
 templum | Templum Jovis in colle splendet | The temple of Jupiter shines on the hill
@@ -69,7 +63,6 @@ tenebrae | Tenebrae viatorem in silva circumdant | The darkness surrounds the tr
 teneo | Librum in manu teneo | I hold the book in my hand
 teneritas | Teneritas herbae agnum allicit | The tenderness of the grass attracts the lamb
 tenor | Tenor aequus vitae senem tranquillum facit | The even course of life makes the old man calm
-# Chunk 7
 tensa | Tensa deos ad circum portat | The processional car carries the gods to the circus
 tensio | Tensio chordae sonum acutum reddit | The tension of the string gives a high sound
 tentamentum | Tentamentum novum mercatori prodest | The new attempt benefits the merchant
@@ -82,7 +75,6 @@ tepefacio | Aquam in olla tepefacio | I warm the water in a pot
 tepeo | Aqua in sole tepet | The water is warm in the sun
 # third: tepesco "I grow warm" is unnatural; the sea is the natural subject
 tepesco | Mare vere tepescit | The sea grows warm in spring
-# Chunk 8
 tepor | Tepor vernus flores aperit | The spring warmth opens the flowers
 terebra | Terebra tabulam perforat | The drill pierces the board
 terebro | Lignum terebro | I bore through the timber
@@ -93,9 +85,8 @@ termino | Agrum sepe termino | I mark the limits of the field with a hedge
 terminus | Terminus duos agros dividit | The boundary divides the two fields
 tero | Frumentum inter manus tero | I rub the grain between my hands
 terra | Terra arida aquam sitit | The dry earth thirsts for water
-# Chunk 9
-terreo | Corvos e horto terreo | I scare the crows away from the garden
-terricula | Terricula in agro aves abigit | The bugbear drives the birds off from the field
+terreo | Corvos ex horto terreo | I scare the crows away from the garden
+terricula | Terricula in agro aves abigit | The scarecrow drives the birds off the field
 # skip: terrigena is an adjective (earth-born), not a noun
 territo | Equum clamore territo | I frighten the horse with a shout
 territorium | Territorium oppidi flumen et silvam continet | The territory of the town contains a river and a wood
@@ -104,7 +95,6 @@ tertio2 | Agrum tertio | I plough the field a third time
 # skip: tertius is an ordinal adjective (third), not a noun
 teruncius | Teruncius in pulvere jacet | A farthing lies in the dust
 tesca | Tesca deserta ultra montes jacent | The deserted wilds lie beyond the mountains
-# Chunk 10
 tessera | Tessera e manu cadit | The die falls from the hand
 tesserula | Tesserula civem ad theatrum admittit | The token admits the citizen to the theatre
 testa | Testa e tecto in aream cadit | The tile falls from the roof into the yard
@@ -115,8 +105,7 @@ testificatio | Testificatio civis rumorem tollit | The citizen's testimony ends 
 testificor | Coram judice testificor | I testify before the judge
 testimonium | Testimonium senis causam juvat | The old man's testimony helps the case
 testis1 | Testis verum in curia dicit | The witness speaks the truth in the court
-# Chunk 11
-testis2 | Testis in corpore animalis crescit | The testicle grows in the body of the animal
+testis2 | Testis in libro medici describitur | The testicle is described in the doctor's book
 testor | Fidem amici testor | I attest my friend's loyalty
 testu | Testu panem in foco tegit | The cooking-lid covers the bread on the hearth
 testudo | Testudo in horto lente repit | The tortoise crawls slowly in the garden
@@ -126,10 +115,9 @@ texo | Corbem ex vimine texo | I weave a basket from wicker
 textus2 | Textus lanae vestem firmam facit | The texture of the wool makes the garment sturdy
 thalamus | Thalamus sponsae floribus ornatur | The bride's bedroom is adorned with flowers
 theatrum | Theatrum Romae multos spectatores capit | The theatre in Rome holds many spectators
-# Chunk 12
-theca | Theca stilum scribae servat | The case keeps the scribe's pen
+theca | Theca stilum scribae servat | The case keeps the scribe's stylus
 thema | Thema carminis discipulis placet | The theme of the poem pleases the pupils
-thesaurus | Thesaurus regis in turri latet | The king's treasure hides in the tower
+thesaurus | Thesaurus regis in turri latet | The king's treasure lies hidden in the tower
 theta | Theta in tabula discipuli scribitur | The theta is written on the pupil's tablet
 tholus | Tholus aureus in sole fulget | The golden dome blazes in the sun
 thorax | Thorax pectus militis defendit | The breastplate defends the soldier's chest
@@ -137,7 +125,6 @@ thronus | Thronus altus regem ab aliis separat | The high throne sets the king a
 thymum | Thymum apes allicit | Thyme attracts bees
 thyrsus | Thyrsus in manu Bacchi viret | The thyrsus is green in Bacchus's hand
 tiara | Tiara regis Persarum gemmis micat | The tiara of the Persian king sparkles with gems
-# Chunk 13
 tibia | Tibia pastorem in monte comitatur | The flute accompanies the shepherd on the mountain
 tibicen | Tibicen ante pompam ambulat | The flautist walks before the procession
 tigillum | Tigillum porticum sustinet | The little beam supports the porch
@@ -148,7 +135,6 @@ timiditas | Timiditas oratoris vocem frangit | Timidity breaks the orator's voic
 timor | Timor hostium oppidanos ad murum trahit | Fear of the enemy draws the townspeople to the wall
 tinea | Tinea vestem in arca arrodit | The moth gnaws the garment in the chest
 tingo | Pennam in atramentum tingo | I dip the pen in the ink
-# Chunk 14
 # third: tinnio "I tinkle" is unnatural; a dish is the natural subject
 tinnio | Patera aenea in mensa tinnit | The bronze dish tinkles on the table
 tinnitus | Tinnitus aurium senem a somno prohibet | The ringing in the ears keeps the old man from sleep
@@ -161,7 +147,6 @@ titubo | In via lubrica titubo | I stagger on the slippery road
 titulus | Titulus in amphora vinum monstrat | The label on the jar shows the wine
 toga | Toga alba civem in foro vestit | The white toga clothes the citizen in the forum
 tolero | Famem tolero | I endure hunger
-# Chunk 15
 tolleno | Tolleno aquam e puteo levat | The swing-beam lifts water from the well
 tollo | Saxum e via tollo | I lift the stone from the road
 tomentum | Tomentum pulvinum mollit | The stuffing softens the cushion
@@ -173,7 +158,6 @@ tono | Juppiter in nubibus tonat | Jupiter thunders in the clouds
 tonsa | Tonsa navem per aquam movet | The oar moves the ship through the water
 tonsilla | Tonsilla navem in litore tenet | The mooring-post holds the ship on the shore
 tonsor | Tonsor clientem de bello rogat | The barber questions the customer about the war
-# Chunk 16
 tonsura | Tonsura ovium lanam praebet | The shearing of the sheep provides wool
 tonus | Tonus citharae auditores movet | The tone of the lyre moves the listeners
 topazos | Topazos in anulo regis lucet | The chrysolite shines in the king's ring
@@ -184,7 +168,6 @@ tornus | Tornus pocula rotunda facit | The lathe makes the cups round
 torpedo | Torpedo manum nautae in frigore tenet | The numbness grips the sailor's hand in the cold
 torpeo | Frigore torpeo | I am numb with the cold
 torpesco | In nive torpesco | I grow numb in the snow
-# Chunk 17
 torpor | Torpor viatorem in nive vincit | Numbness overcomes the traveller in the snow
 torqueo | Funem manu torqueo | I twist the rope with my hand
 torquis | Torquis aureus mulieris collum cingit | The golden necklace encircles the woman's neck
@@ -195,7 +178,6 @@ torulus | Torulus lanae ex ove pendet | The tuft of wool hangs from the sheep
 torus | Torus mollis in triclinio stat | The soft couch stands in the dining room
 torvitas | Torvitas magistri discipulos silentes facit | The teacher's sternness makes the pupils silent
 toxicum | Toxicum in horreo muribus nocet | Poison in the granary harms the mice
-# Chunk 18
 trabea1 | Trabea purpurea in arca servatur | The purple state-robe is kept in the chest
 trabs | Trabs flumine ad portum fertur | The beam is carried to the harbour by the river
 tractatio | Tractatio armorum tironem exercet | The handling of weapons trains the recruit
@@ -206,7 +188,6 @@ tractus2 | Tractus agri ad flumen pertinet | The tract of land extends to the ri
 traditio | Traditio oppidi hostem laetum facit | The surrender of the town makes the enemy glad
 trado | Epistulam nuntio trado | I hand the letter to the messenger
 traduco | Gregem per pontem traduco | I lead the flock across the bridge
-# Chunk 19
 traductio | Traductio tribuni ad aliam legionem amicos tristes facit | The tribune's transfer to another legion makes the friends sad
 tradux | Tradux in vinea radices agit | The vine-layer takes root in the vineyard
 tragoedia | Tragoedia spectatores ad lacrimas movet | The tragedy moves the spectators to tears
@@ -217,7 +198,6 @@ trajectio | Trajectio maris duas horas durat | The crossing of the sea lasts two
 trajectus2 | Trajectus ad insulam navem requirit | The crossing to the island requires a ship
 trama | Trama cum stamine texitur | The weft is woven with the warp
 trames | Trames angustus ad rivum descendit | The narrow path descends to the stream
-# Chunk 20
 trano | Flumen trano | I swim across the river
 tranquillitas | Tranquillitas maris viatores ad navem invitat | The calm of the sea invites the travellers to the ship
 tranquillo2 | Equum voce tranquillo | I calm the horse with my voice
@@ -229,7 +209,6 @@ transcribo | Carmen amici transcribo | I transcribe my friend's poem
 transcurro | Praeter villam transcurro | I run past the farmhouse
 transcursus2 | Transcursus fulguris caelum illuminat | The darting of the lightning lights up the sky
 transenna | Transenna avem in horto capit | The snare catches a bird in the garden
-# Chunk 21
 transeo | Pontem transeo | I cross the bridge
 transfero | Vasa ex horto in villam transfero | I transfer the vessels from the garden to the farmhouse
 # third: transfigo "I transfix" reads unnaturally for a violent verb
@@ -242,7 +221,6 @@ transfreto | Mare ad Siciliam transfreto | I sail across the sea to Sicily
 transfuga | Transfuga ad castra hostium venit | The deserter comes to the enemy's camp
 transfugio | Ad hostes transfugio | I desert to the enemy
 transfugium | Transfugium nocturnum exercitum debilitat | The night desertion weakens the army
-# Chunk 22
 transfundo | Aquam ex urna in situlam transfundo | I decant the water from the urn into the bucket
 transfusio | Transfusio vini e dolio in amphoras tempus consumit | The pouring over of the wine from the cask into the jars takes time
 transgredior | Montem transgredior | I cross over the mountain
@@ -253,7 +231,6 @@ transilio | Sepem transilio | I leap over the hedge
 transitio | Transitio vadi iter nostrum tardat | The crossing of the ford slows our journey
 transitus2 | Transitus angustus per montes agmen impedit | The narrow crossing through the mountains hinders the column
 translatio | Translatio mercium ad portum diem totum consumit | The transfer of the goods to the harbour uses up a whole day
-# Chunk 23
 translator | Translator librum Graecum Latine reddit | The translator renders the Greek book into Latin
 # third: transluceo "I shine through" is unnatural; the sun is the natural subject
 transluceo | Sol per nubes translucet | The sun shines through the clouds
@@ -265,7 +242,6 @@ transnato | Rivum transnato | I swim across the stream
 transnomino | Navem transnomino | I rename the ship
 transpono | Libros in aliud armarium transpono | I transfer the books to another cupboard
 transporto | Frumentum navibus transporto | I transport grain by ships
-# Chunk 24
 transtrum | Transtrum remigi sedem praebet | The crossbeam provides the rower with a seat
 transvectio | Transvectio per lacum horam occupat | The crossing of the lake takes up an hour
 transveho | Gregem navi transveho | I convey the flock across by ship
@@ -278,7 +254,6 @@ trapetus | Trapetus oleum e baccis exprimit | The olive mill presses oil from be
 tremefacio | Ramum tremefacio | I shake the branch
 tremesco | Ad clamorem tremesco | I start trembling at the shout
 tremo | In frigore tremo | I tremble in the cold
-# Chunk 25
 tremor | Tremor manuum scribae litteras turbat | The tremor in the scribe's hands muddles the letters
 # skip: trepidatio is a noun (agitation) that the source files as a verb, so check demands an "I ..." sentence it cannot have
 trepido | Ad strepitum trepido | I panic at the noise
@@ -289,7 +264,6 @@ tribulum | Tribulum per aream a bove trahitur | The threshing-sledge is dragged 
 tribulus | Tribulus equitatum hostium in via tardat | The caltrop slows the enemy cavalry on the road
 tribunal | Tribunal praetoris prope curiam stat | The praetor's tribunal stands near the senate house
 tribunatus | Tribunatus juvenem ad gloriam vocat | The tribuneship calls the young man to glory
-# Chunk 26
 tribunus | Tribunus milites in campo instruit | The tribune draws up the soldiers on the plain
 tribuo | Veniam amico tribuo | I grant my friend pardon
 tribus | Tribus in campo Martio suffragium fert | The tribe casts its vote on the Campus Martius
@@ -300,9 +274,8 @@ triclinium | Triclinium fenestram latam habet | The dining room has a wide windo
 tricor | In atrio tricor | I shuffle about in the hall
 triduum | Triduum in montibus quietem praebet | Three days in the mountains provide rest
 triennium | Triennium pacis agros fertiles reddit | The three years of peace make the fields fertile
-# Chunk 27
 triens | Triens agri fratri datur | A third of the field is given to the brother
-triobolus | Triobolus in marsupio nautae latet | The half drachma hides in the sailor's purse
+triobolus | Triobolus in marsupio nautae latet | The half drachma lies hidden in the sailor's purse
 # skip: tripartitus is an adjective (tripartite), not a noun
 tripudio | Cum sociis tripudio | I dance with my companions
 tripudium | Tripudium juvenum diem festum illustrat | The dance of the young men brightens the festival day
@@ -311,7 +284,6 @@ tristitia | Tristitia vultum fratris obscurat | Sadness darkens the brother's fa
 tritor | Tritor farinam in pistrino parat | The grinder prepares flour in the bakery
 triumphator | Triumphator per urbem in curru vehitur | The triumpher is carried through the city in a chariot
 triumpho | De Gallis triumpho | I triumph over the Gauls
-# Chunk 28
 triumphus | Triumphus populum Romanum in viis congregat | The triumph gathers the Roman people in the streets
 triumviratus | Triumviratus Crassum cum Caesare et Pompeio conjungit | The triumvirate joins Crassus with Caesar and Pompey
 triumviri | Triumviri nummos Romae cudunt | The triumvirs strike coins at Rome
@@ -323,7 +295,6 @@ trucidatio | Trucidatio cohortis imperatorem tristem facit | The massacre of the
 # third: trucido "I butcher" reads unnaturally for a violent verb
 trucido | Hostis cohortem trucidat | The enemy butchers the cohort
 trudo | Plaustrum ad collem trudo | I push the cart towards the hill
-# Chunk 29
 trulla | Trulla aquam in patinam fundit | The ladle pours water into the dish
 trunco | Statuam trunco | I mutilate the statue
 truncus2 | Truncus quercus in flumen cadit | The trunk of the oak falls into the river
@@ -334,7 +305,6 @@ tubicen | Tubicen ante legionem canit | The trumpeter plays before the legion
 tubilustrium | Tubilustrium mense Martio celebratur | The trumpet-festival is celebrated in March
 tuburcinor | Placentam tuburcinor | I gobble the cake
 tubus | Tubus aquam ex fonte in hortum portat | The pipe carries water from the spring into the garden
-# Chunk 30
 tuitio | Tuitio legionum provinciam tranquillam servat | The protection of the legions keeps the province calm
 tumefacio | Utrem aere tumefacio | I swell the wineskin with air
 # third: tumeo "I am swollen" is unnatural; the sea is the natural subject
@@ -348,7 +318,6 @@ tumultus | Tumultus subitus consulem ad arma vocat | The sudden tumult calls the
 tumulus | Tumulus in campo herba viridi tegitur | The mound in the field is covered with green grass
 tundo | Granum in mortario tundo | I pound the grain in a mortar
 tunica | Tunica lintea sub toga latet | The linen tunic lies hidden under the toga
-# Chunk 31
 tunico | Fratrem tunico | I clothe my brother
 turba | Turba in via cantat | The crowd sings in the street
 turbatio | Turbatio mentis oratorem tacitum facit | The confusion of mind makes the orator silent
@@ -361,10 +330,9 @@ turgeo | Uter aqua turget | The wineskin is swollen with water
 # third: turgesco "I swell up" is unnatural; a bud is the natural subject
 turgesco | Gemma in ramo vere turgescit | The bud on the branch swells up in spring
 turifico | Ante aram turifico | I burn incense before the altar
-# Chunk 32
 turma | Turma equitum ad flumen procedit | The squadron of cavalry advances to the river
 turpitudo | Turpitudo consulis populo displicet | The consul's disgrace displeases the people
-turpo | Murum pictura turpo | I disfigure the wall with a painting
+turpo | Murum luto turpo | I foul the wall with mud
 turris | Turris alta portum custodit | The tall tower guards the harbour
 turtur | Turtur in tecto sedet | The turtledove sits on the roof
 tus | Tus in ara ardet | Incense burns on the altar
@@ -372,7 +340,6 @@ tussis | Tussis aegrum noctu tenet | The cough grips the sick man at night
 tutela | Tutela deorum agricolam adjuvat | The protection of the gods helps the farmer
 tutor1 | Tutor pupillo librum emit | The guardian buys a book for the ward
 tutor2 | Domum tutor | I guard the house
-# Chunk 33
 tympanum | Tympanum in templo Cybeles pulsatur | The drum is beaten in the temple of Cybele
 tyrannis | Tyrannis civibus libertatem eripit | The tyranny takes liberty from the citizens
 tyrannus | Tyrannus in arce solus habitat | The tyrant lives alone in the citadel
