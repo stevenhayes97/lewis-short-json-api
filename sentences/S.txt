@@ -1,0 +1,12 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/S.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+sabbatum | Sabbatum Judaeis diem quietum dat | The Sabbath gives the Jews a quiet day
+saburro | Navem arena saburro | I ballast the ship with sand
+sacco | Vinum linteo sacco | I strain the wine through a cloth
+sacculus | Sacculus nummos mercatoris tenet | The little bag holds the merchant's coins
+saccus | Saccus farinam in horreo tenet | The sack holds flour in the granary
+sacellum | Sacellum Dianae in silva stat | The little shrine of Diana stands in the wood
+sacerdos1 | Sacerdos in templo orat | The priest prays in the temple
+sacerdotium | Sacerdotium patri honorem dat | The priesthood gives the father honour
+sacramentum | Sacramentum militem fidelem facit | The oath makes the soldier loyal
+sacrarium | Sacrarium statuas deorum custodit | The shrine guards the statues of the gods
