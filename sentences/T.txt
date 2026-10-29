@@ -35,3 +35,15 @@ tardo | Navem in portu tardo | I delay the ship in the harbour
 taurus1 | Taurus in prato herbam edit | The bull eats grass in the meadow
 taxatio | Taxatio domus censorem occupat | The valuation of the house occupies the censor
 taxo | Pretium agri taxo | I assess the price of the field
+# Chunk 4
+taxus | Taxus in monte crescit | The yew grows on the mountain
+tectum | Tectum villae pluviam arcet | The roof of the farmhouse keeps off the rain
+tegimen | Tegimen pastorem a frigore tuetur | The covering protects the shepherd from the cold
+tego | Mensam linteo tego | I cover the table with a cloth
+tegulae | Tegulae rubrae in sole nitent | The red tiles gleam in the sun
+tegumentum | Tegumentum ex lana viatorem calefacit | The covering of wool warms the traveller
+tela | Tela araneae in angulo pendet | The spider's web hangs in the corner
+tellus | Tellus semina aestate nutrit | The earth nourishes the seeds in summer
+telum | Telum per aerem volat | The missile flies through the air
+# third: temero "I defile" is unnatural; an enemy is the natural subject
+temero | Hostis templum temerat | The enemy defiles the temple
