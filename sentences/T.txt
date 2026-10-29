@@ -229,3 +229,16 @@ transcribo | Carmen amici transcribo | I transcribe my friend's poem
 transcurro | Praeter villam transcurro | I run past the farmhouse
 transcursus2 | Transcursus fulguris caelum illuminat | The darting of the lightning lights up the sky
 transenna | Transenna avem in horto capit | The snare catches a bird in the garden
+# Chunk 21
+transeo | Pontem transeo | I cross the bridge
+transfero | Vasa ex horto in villam transfero | I transfer the vessels from the garden to the farmhouse
+# third: transfigo "I transfix" reads unnaturally for a violent verb
+transfigo | Sagitta scutum transfigit | The arrow transfixes the shield
+transfiguro | Ceram in avem transfiguro | I transform the wax into a bird
+# third: transfodio "I stab through" reads unnaturally for a violent verb
+transfodio | Dux scutum gladio transfodit | The general stabs through the shield with a sword
+transformo | Casam in villam transformo | I transform the hut into a farmhouse
+transfreto | Mare ad Siciliam transfreto | I sail across the sea to Sicily
+transfuga | Transfuga ad castra hostium venit | The deserter comes to the enemy's camp
+transfugio | Ad hostes transfugio | I desert to the enemy
+transfugium | Transfugium nocturnum exercitum debilitat | The night desertion weakens the army
