@@ -465,3 +465,14 @@ rumor | Rumor de victoria per urbem currit | The rumour about the victory runs t
 rumpo | Panem rumpo | I break the bread
 runa | Runa in terra haeret | The javelin sticks in the ground
 runco1 | Hortum runco | I weed the garden
+ruo | Ad portam ruo | I rush to the gate
+rupes | Rupes alta mare spectat | The high cliff overlooks the sea
+ruricola | Ruricola boves ad aquam ducit | The countryman leads the oxen to the water
+ruspor | Clavem in cubiculo ruspor | I search for the key in the bedroom
+rusticitas | Rusticitas pueri urbanum offendit | The boy's rusticity offends the townsman
+rusticor | In agris rusticor | I live in the country
+rusticulus | Rusticulus pomum ad macellum portat | The little countryman carries the apple to the market
+ruta2 | Ruta odorem amarum emittit | Rue gives off a bitter smell
+rutabulum | Rutabulum prunas movet | The poker stirs the coals
+# third: rutilo "I glow ruddy" is unnatural; gold is the natural subject
+rutilo | Aurum in sole rutilat | The gold glows ruddy in the sun
