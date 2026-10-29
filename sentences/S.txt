@@ -236,3 +236,15 @@ sequestro | Pecuniam apud amicum sequestro | I place the money in trust with a f
 sequor | Matrem sequor | I follow my mother
 sera | Sera portam firmat | The bolt secures the door
 serenitas | Serenitas caeli nautas ad mare vocat | The serenity of the sky calls the sailors to the sea
+# third: sereno "I clear" a sky is absurd; the wind is the natural subject
+sereno | Ventus caelum serenat | The wind clears the sky
+seria | Seria olivas tenet | The jar holds olives
+series | Series dierum pluviosorum agricolam sollicitat | The series of rainy days worries the farmer
+sermo | Sermo amicorum noctem breviorem facit | The friends' conversation makes the night shorter
+sermocinatio | Sermocinatio in fabula spectatores docet | The dialogue in the play teaches the spectators
+sermunculus | Sermunculus mulieres ad fontem tenet | The little piece of gossip keeps the women at the fountain
+sero1 | Fabas sero | I sow beans
+sero2 | Flores in coronam sero | I entwine the flowers into a wreath
+serperastra | Serperastra crus fractum rectum tenent | The leg-splints hold the broken leg straight
+# third: serpo "I creep" is unnatural; a snake is the natural subject
+serpo | Anguis per herbam serpit | The snake creeps through the grass
