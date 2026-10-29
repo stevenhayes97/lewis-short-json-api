@@ -581,3 +581,13 @@ portitor2 | Portitor viatores trans flumen vehit | The ferryman carries the trav
 porto | Aquam in urna porto | I carry water in a jar
 portorium | Portorium mercatorem ad pontem retardat | The toll delays the merchant at the bridge
 portus | Portus naves tempestate pulsas recipit | The harbour receives the ships battered by the storm
+posco | Praemium posco | I demand a reward
+positio | Positio urbis in colle hostes arcet | The position of the city on the hill keeps the enemy away
+positura | Positura membrorum in statua artifici laudem affert | The position of the limbs in the statue brings praise to the artist
+positus2 | Positus capillorum matronam elegantem reddit | The arrangement of the hair makes the matron elegant
+possessio | Possessio agri heredi curam parat | The possession of the field gives the heir worry
+possessor | Possessor villae servum ad urbem mittit | The owner of the farmhouse sends the slave to the city
+possideo | Domum in colle possideo | I possess a house on the hill
+possido | Insulam possido | I acquire an island
+posteritas | Posteritas virtutem ducis laudat | Posterity praises the general's courage
+postfero | Voluptatem officio postfero | I subordinate pleasure to duty
