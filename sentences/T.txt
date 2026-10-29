@@ -206,3 +206,14 @@ tractus2 | Tractus agri ad flumen pertinet | The tract of land extends to the ri
 traditio | Traditio oppidi hostem laetum facit | The surrender of the town makes the enemy glad
 trado | Epistulam nuntio trado | I hand the letter to the messenger
 traduco | Gregem per pontem traduco | I lead the flock across the bridge
+# Chunk 19
+traductio | Traductio tribuni ad aliam legionem amicos tristes facit | The tribune's transfer to another legion makes the friends sad
+tradux | Tradux in vinea radices agit | The vine-layer takes root in the vineyard
+tragoedia | Tragoedia spectatores ad lacrimas movet | The tragedy moves the spectators to tears
+tragula | Tragula ex manu militis ad hostem volat | The javelin flies from the soldier's hand towards the enemy
+traho | Plaustrum per agrum traho | I drag the cart through the field
+traicio | Hastam trans flumen traicio | I throw a spear across the river
+trajectio | Trajectio maris duas horas durat | The crossing of the sea lasts two hours
+trajectus2 | Trajectus ad insulam navem requirit | The crossing to the island requires a ship
+trama | Trama cum stamine texitur | The weft is woven with the warp
+trames | Trames angustus ad rivum descendit | The narrow path descends to the stream
