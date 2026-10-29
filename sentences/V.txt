@@ -44,3 +44,13 @@ vasarium | Vasarium proconsuli datur | The furniture allowance is given to the p
 vasculum | Vasculum mel continet | The small vessel holds honey
 vastatio | Vastatio agrorum rusticos in urbem fugat | The devastation of the fields drives the countrymen into the city
 vastitas | Vastitas ultra montes patet | The wasteland stretches beyond the mountains
+vastitudo | Vastitudo templi sacerdotes contristat | The destruction of the temple saddens the priests
+vasto | Agros vasto | I devastate the fields
+vates | Vates deorum voluntatem nuntiat | The seer announces the will of the gods
+vaticinor | De bello vaticinor | I prophesy about the war
+vecordia | Vecordia consulis senatum conturbat | The consul's folly disturbs the senate
+vectigal | Vectigal mercatores gravat | The tax burdens the merchants
+vectis1 | Vectis saxum de via removet | The lever shifts the rock from the road
+vecto | Frumentum plaustro vecto | I carry grain on the cart
+vector | Vector in navi dormit | The passenger sleeps on the ship
+vectura | Vectura frumenti pretium auget | The transport of grain raises the price
