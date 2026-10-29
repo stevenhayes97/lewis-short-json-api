@@ -572,7 +572,7 @@ suavitudo | Suavitudo cantus pastorem somno invitat | The pleasantness of the so
 suavium | Suavium neptis avum laetum facit | The granddaughter's kiss makes the grandfather glad
 subactio | Subactio longa oratorem ad causam instruit | The long preparation equips the orator for the case
 subausculto | Ad januam subausculto | I eavesdrop at the door
-subblandior | Catulo subblandior | I fondle the puppy
+subblandior | Catulo subblandior | I pet the puppy
 subdo | Lapidem rotae subdo | I put a stone under the wheel
 subduco | Copias a ripa subduco | I withdraw the troops from the bank
 subeo | Murum subeo | I approach the wall
@@ -582,7 +582,7 @@ subicio | Pulvinum capiti aegri subicio | I place a cushion under the sick man's
 subigito | Numquam subigito | I never fornicate
 subigo | Gentes finitimas subigo | I subdue the neighbouring tribes
 subinvideo | Vicino subinvideo | I envy the neighbour a little
-subirascor | Collegae subirascor | I am a little miffed with my colleague
+subirascor | Collegae subirascor | I am a little angry with my colleague
 # third: subjaceo "I underlie" is unnatural; a rock is the natural subject
 subjaceo | Saxum arenae subjacet | The rock underlies the sand
 subjectio | Subjectio lapidum pontem firmum facit | The placing of stones underneath makes the bridge firm
