@@ -217,3 +217,14 @@ virga | Virga in vento flectitur | The twig bends in the wind
 virginitas | Virginitas Vestalium a populo honoratur | The virginity of the Vestals is honoured by the people
 virgo | Virgo ignem Vestae custodit | The virgin guards the fire of Vesta
 virgula | Virgula in manu sacerdotis micat | The wand gleams in the priest's hand
+# skip: virgultum is attested only in the plural (virgulta); the tool's headword form virgultum would be an unattested singular
+viriditas | Viriditas prati oculos reficit | The greenness of the meadow refreshes the eyes
+# third: virido "I make green" is unnatural; rain is the natural subject
+virido | Pluvia agros viridat | The rain makes the fields green
+virilitas | Virilitas militi robur dat | Manhood gives the soldier strength
+virtus | Virtus ducem in periculo non deserit | Courage does not desert the general in danger
+virus | Virus in dente serpentis latet | The poison lurks in the snake's tooth
+vis | Vis venti arbores frangit | The force of the wind breaks the trees
+viscum | Viscum in quercu crescit | Mistletoe grows on the oak
+viscus1 | Viscus in libro medici nominatur | The internal organ is named in the doctor's book
+visio | Visio in somno sacerdotem monet | A vision in sleep warns the priest
