@@ -104,3 +104,14 @@ tertio2 | Agrum tertio | I plough the field a third time
 # skip: tertius is an ordinal adjective (third), not a noun
 teruncius | Teruncius in pulvere jacet | A farthing lies in the dust
 tesca | Tesca deserta ultra montes jacent | The deserted wilds lie beyond the mountains
+# Chunk 10
+tessera | Tessera e manu cadit | The die falls from the hand
+tesserula | Tesserula civem ad theatrum admittit | The token admits the citizen to the theatre
+testa | Testa e tecto in aream cadit | The tile falls from the roof into the yard
+testamentum | Testamentum patris filiis villam relinquit | The father's will leaves the farmhouse to the sons
+testatio | Testatio viduae judicem movet | The widow's testimony moves the judge
+testator | Testator heredes ad lectum vocat | The testator calls the heirs to the bed
+testificatio | Testificatio civis rumorem tollit | The citizen's testimony ends the rumour
+testificor | Coram judice testificor | I testify before the judge
+testimonium | Testimonium senis causam juvat | The old man's testimony helps the case
+testis1 | Testis verum in curia dicit | The witness speaks the truth in the court
