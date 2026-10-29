@@ -428,3 +428,14 @@ sphaera | Sphaera in mensa magistri stat | The sphere stands on the teacher's ta
 spica | Spica aurea in vento movetur | The golden ear of grain moves in the wind
 # third: spico "I spike" is unnatural; grain is the natural subject, and the entry attests the form spicant
 spico | Triticum in agro spicat | The wheat puts forth ears in the field
+spiculum | Spiculum apis agricolam pungit | The bee's sting pricks the farmer
+spina | Spina in rosa digitum viatoris laedit | The thorn on the rose hurts the traveller's finger
+spinter | Spinter aureus brachium dominae ornat | The golden armlet adorns the lady's arm
+spira | Spira serpentis in via jacet | The coil of the snake lies on the road
+spiramen | Spiramen in muro aerem admittit | The vent in the wall lets in air
+spiramentum | Spiramentum culinae fumum emittit | The vent of the kitchen lets out smoke
+spiritus | Spiritus hieme in aere apparet | The breath shows in the air in winter
+spiro | In alto monte aegre spiro | I breathe with difficulty on the high mountain
+spisso | Salsam farina spisso | I thicken the sauce with flour
+# third: splendeo "I shine" is unnatural; the moon is the natural subject
+splendeo | Luna nocte splendet | The moon shines at night
