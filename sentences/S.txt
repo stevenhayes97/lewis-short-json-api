@@ -475,3 +475,13 @@ stadium | Stadium Olympiae athletas exspectat | The track at Olympia awaits the 
 stagno1 | Aqua in fossa stagnat | The water stagnates in the ditch
 stagnum1 | Stagnum ranas alit | The pool feeds frogs
 stamen | Stamen in colu pendet | The thread hangs on the distaff
+statera | Statera pondus farinae monstrat | The balance shows the weight of the flour
+statio | Statio ad pontem viam custodit | The guard-post at the bridge watches the road
+stator1 | Stator consulis epistulam portat | The consul's orderly carries a letter
+statua | Statua aenea in porticu nitet | The bronze statue gleams in the colonnade
+statuliber | Statuliber heredi servit | The conditionally-freed slave serves the heir
+statuo | Tentorium in campo statuo | I set up a tent in the field
+statura | Alta statura gladiatorem commendat | The tall stature commends the gladiator
+status2 | Status aegri medicum sollicitat | The condition of the sick man worries the doctor
+stella | Stella nautae viam monstrat | The star shows the sailor the way
+stellionatus | Stellionatus mercatoris judicem irritat | The merchant's fraud angers the judge
