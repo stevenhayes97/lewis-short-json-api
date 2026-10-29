@@ -602,3 +602,15 @@ sublino | Murum calce sublino | I prime the wall with lime
 subluceo | Lucerna in cubiculo sublucet | The lamp glimmers in the bedroom
 subluco | Vites subluco | I prune the vines
 subluo | Manus in rivo subluo | I wash my hands in the stream
+subluvies | Subluvies caenosa viam lubricam facit | The muddy filth makes the road slippery
+# third: subnascor "I sprout" is unnatural; grass is the natural subject
+subnascor | Herba post pluviam subnascitur | The grass sprouts after the rain
+subnecto | Velum antennae subnecto | I tie the sail under the sail-yard
+subnoto | Nomina testium subnoto | I note down the names of the witnesses
+# third: suboleo is attested only in the impersonal third person singular, subolet
+suboleo | Fraus mihi subolet | A trick dawns on me
+suboles | Suboles nobilis patriam amat | The noble offspring loves the homeland
+suborno | Navem remis suborno | I equip the ship with oars
+subscribo | Nomen epistulae subscribo | I write my name underneath the letter
+subscriptio | Subscriptio statuae nomen sculptoris monstrat | The inscription on the statue shows the sculptor's name
+subscriptor | Subscriptor ante praetorem tabulam signat | The co-signer signs the tablet before the praetor
