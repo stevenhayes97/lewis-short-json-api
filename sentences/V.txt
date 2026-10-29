@@ -11,3 +11,14 @@ vadimonium | Vadimonium reum ad judicium obligat | The bail binds the defendant 
 vado1 | Ad forum vado | I go to the forum
 vador | Reum vador | I bind the defendant over by bail
 vadum | Vadum viatoribus transitum praebet | The shallows give the travellers a crossing
+vagina | Vagina cultrum tegit | The sheath covers the knife
+# third: vagio "I wail" is unnatural; a baby is the natural subject
+vagio | Infans in cuna vagit | The baby wails in the cradle
+vagitus | Vagitus matrem e somno excitat | The wailing wakes the mother from sleep
+vago | Per silvas vago | I wander through the woods
+vagor1 | Per agros vagor | I wander through the fields
+valentia1 | Valentia athletae spectatores obstupefacit | The athlete's strength astonishes the spectators
+valeo | Corpore valeo | I am strong in body
+valesco | Post morbum valesco | I grow strong after illness
+valetudo | Valetudo ducis exercitum confirmat | The general's health reassures the army
+valles | Valles inter montes jacet | The valley lies between the mountains
