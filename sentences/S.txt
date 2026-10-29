@@ -258,3 +258,13 @@ servitus | Servitus libertatem delet | Slavery destroys freedom
 servo | Pecuniam pro hieme servo | I save the money for the winter
 servulus | Servulus aquam ad dominum portat | The young slave carries water to the master
 servus2 | Servus in culina panem coquit | The slave bakes bread in the kitchen
+sesamum | Sesamum oleum dulce dat | Sesame gives sweet oil
+# skip: sescenti is a numeral adjective (six hundred), not a noun
+sesquiplaris | Sesquiplaris in castris plus frumenti accipit | The ration-and-a-half soldier receives more grain in the camp
+sessio | Sessio senatus mane incipit | The session of the senate begins in the morning
+sessor | Sessor in scamno quiescit | The sitter rests on the bench
+setania | Setania ramum onerat | The medlar weighs down the branch
+severitas | Severitas magistri discipulos ad studium cogit | The teacher's severity drives the pupils to study
+sevir | Sevir cum collegis in foro loquitur | The sevir talks with his colleagues in the forum
+sevoco | Amicum sevoco | I call my friend aside
+# skip: sexagesimus is an ordinal adjective (sixtieth), not a noun
