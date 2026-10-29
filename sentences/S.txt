@@ -92,3 +92,13 @@ saucio | Hostis militem saucit | The enemy wounds the soldier
 saxum | Saxum magnum fluvium dividit | The big rock divides the river
 scabellum | Scabellum pedes dominae sustinet | The footstool supports the lady's feet
 scabies | Scabies canem vexat | Mange troubles the dog
+scabo | Caput scabo | I scratch my head
+scabritia | Scabritia viae equum tardat | The roughness of the road slows the horse
+scaena | Scaena alta actores a spectatoribus separat | The high stage separates the actors from the spectators
+# skip: scala is attested only in the plural scalae in the entry, so it has no singular headword form
+scalpo | Statuam ex ligno scalpo | I carve a statue from wood
+scalprum | Scalprum lignum durum incidit | The chisel cuts the hard wood
+scamnum | Scamnum in porticu stat | The bench stands in the portico
+scandalum | Scandalum viatorem impedit | The stumbling-block hinders the traveller
+scando | Montem scando | I climb the mountain
+scansio | Scansio montis duas horas occupat | The ascent of the mountain takes up two hours
