@@ -176,3 +176,13 @@ secubo | In cubiculo secubo | I sleep alone in the bedroom
 secundo2 | Ventus nautas secundat | The wind favours the sailors
 securis | Securis lignum findit | The axe splits the wood
 securitas | Securitas ducis milites placidos facit | The leader's composure makes the soldiers calm
+secutor | Secutor post dominum ambulat | The follower walks behind the master
+sedeo | Sub arbore sedeo | I sit under the tree
+sedes | Sedes familiae in colle stat | The family's home stands on the hill
+sedile | Sedile molle senem exspectat | The soft seat awaits the old man
+seditio | Seditio cives in foro commovet | Sedition stirs up the citizens in the forum
+sedo | Equum ferocem voce sedo | I calm the wild horse with my voice
+seduco | Amicum e turba seduco | I lead my friend aside from the crowd
+seductio | Seductio fratrum matrem tristem facit | The separation of the brothers makes the mother sad
+sedulitas | Sedulitas servi dominum juvat | The servant's diligence helps the master
+seges | Seges flava ad flumen late patet | The yellow cornfield spreads widely by the river
