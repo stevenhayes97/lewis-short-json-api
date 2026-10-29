@@ -724,3 +724,13 @@ sum1 | Domi sum | I am at home
 sumen | Sumen suis cenam lautam facit | The sow's udder makes the dinner luxurious
 summa | Summa nummorum creditorem contentum facit | The sum of coins makes the creditor content
 # skip: summas is an adjective (high-born, noble), not a noun
+summergo | Lapidem in aquam summergo | I submerge the stone in the water
+sumministro | Operariis aquam sumministro | I supply the workers with water
+summitas | Summitas montis nubibus latet | The summit of the mountain lies hidden in the clouds
+summitto | Vexillum summitto | I lower the standard
+summoveo | Turbam e via summoveo | I remove the crowd from the road
+sumo | Cibum de mensa sumo | I take food from the table
+sumptus2 | Sumptus nuptiarum familiam premit | The expense of the wedding weighs on the family
+suo | Vestem acu suo | I sew the garment with a needle
+suovetaurilia | Suovetaurilia agros lustrant | The pig-sheep-bull sacrifice purifies the fields
+supellex | Supellex nova cubiculum implet | The new furniture fills the bedroom
