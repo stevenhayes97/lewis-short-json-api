@@ -361,3 +361,14 @@ turgeo | Uter aqua turget | The wineskin is swollen with water
 # third: turgesco "I swell up" is unnatural; a bud is the natural subject
 turgesco | Gemma in ramo vere turgescit | The bud on the branch swells up in spring
 turifico | Ante aram turifico | I burn incense before the altar
+# Chunk 32
+turma | Turma equitum ad flumen procedit | The squadron of cavalry advances to the river
+turpitudo | Turpitudo consulis populo displicet | The consul's disgrace displeases the people
+turpo | Murum pictura turpo | I disfigure the wall with a painting
+turris | Turris alta portum custodit | The tall tower guards the harbour
+turtur | Turtur in tecto sedet | The turtledove sits on the roof
+tus | Tus in ara ardet | Incense burns on the altar
+tussis | Tussis aegrum noctu tenet | The cough grips the sick man at night
+tutela | Tutela deorum agricolam adjuvat | The protection of the gods helps the farmer
+tutor1 | Tutor pupillo librum emit | The guardian buys a book for the ward
+tutor2 | Domum tutor | I guard the house
