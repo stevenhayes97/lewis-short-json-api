@@ -835,3 +835,13 @@ probo | Consilium senatus probo | I approve the plan of the senate
 probrum | Probrum familiam premit | The disgrace weighs on the family
 procacitas | Procacitas discipuli magistrum offendit | The pupil's impudence offends the teacher
 procedo | Ad portam procedo | I advance to the gate
+procer | Procer legatum ad regem mittit | The noble sends an envoy to the king
+proceritas | Proceritas cupressi viatores obstupefacit | The height of the cypress astonishes the travellers
+processio | Processio exercitus pagum terret | The advance of the army frightens the village
+processus2 | Processus operis architectum gaudio afficit | The progress of the work fills the architect with joy
+procido1 | In herbam procido | I fall onto the grass
+# skip: procieo attested only as an infinitive and participle (procitum, post-classical); no first person
+# skip: procingo attested only as a participle (procinctus); no finite form
+procinctus2 | Procinctus legionis hostem deterret | The readiness of the legion deters the enemy
+proclamo | Magna voce proclamo | I exclaim in a loud voice
+proclino | Caput ad mensam proclino | I incline my head towards the table
