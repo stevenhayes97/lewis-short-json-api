@@ -1090,3 +1090,13 @@ purgamen | Purgamen e domo in viam portatur | The rubbish is carried out of the 
 purgamentum | Purgamentum a servo in flumen jacitur | The rubbish is thrown into the river by the slave
 purgatio | Purgatio cloacae urbem sanam servat | The cleansing of the sewer keeps the city healthy
 purgo | Puteum purgo | I cleanse the well
+purifico | Domum purifico | I purify the house
+purpura | Purpura vestem regis ornat | Purple adorns the king's robe
+purpurissum | Purpurissum in pyxide servatur | The rouge is kept in a box
+purpuro | Lanam purpuro | I dye the wool purple
+pus | Pus medicum cautum facit | The pus makes the doctor cautious
+# skip: pusillus is an adjective (diminutive of pusus, "very small"), misfiled as a noun
+pustula | Pustula in cute apparet | The pustule appears on the skin
+pusula | Pusula unguine non tangitur | The pustule is not touched with the fingernail
+putamen | Putamen nucis in terra jacet | The shell of the nut lies on the ground
+putatio | Putatio arborum in vere fit | The pruning of the trees takes place in spring
