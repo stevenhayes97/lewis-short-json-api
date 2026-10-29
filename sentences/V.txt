@@ -54,3 +54,13 @@ vectis1 | Vectis saxum de via removet | The lever shifts the rock from the road
 vecto | Frumentum plaustro vecto | I carry grain on the cart
 vector | Vector in navi dormit | The passenger sleeps on the ship
 vectura | Vectura frumenti pretium auget | The transport of grain raises the price
+vegeo | Animum cantu vegeo | I quicken my spirit with song
+vegeto | Aegrum cibo vegeto | I invigorate the sick man with food
+vehementia | Vehementia fluminis pontem rumpit | The vehemence of the river breaks the bridge
+vehes | Vehes faeni in via stat | The cartload of hay stands in the road
+vehiculum | Vehiculum viatores ad urbem portat | The vehicle carries the travellers to the city
+veho | Onus equo veho | I carry the load on a horse
+velamentum | Velamentum statuam a pulvere servat | The covering keeps the statue from dust
+veles | Veles ante aciem currit | The skirmisher runs in front of the battle line
+velifico | Per aequora velifico | I sail across the waves
+velificor | Ad insulam velificor | I sail to the island
