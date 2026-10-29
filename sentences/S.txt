@@ -591,3 +591,14 @@ subjugo | Provincias rebelles subjugo | I subjugate the rebellious provinces
 subjungo | Boves aratro subjungo | I yoke the oxen to the plough
 sublabor | In arenam mollem sublabor | I sink into the soft sand
 sublatio | Sublatio vocis in carmine auditores movet | The elevation of the voice in the song moves the listeners
+sublego | Poma lapsa sublego | I gather up the fallen apples
+sublevo | Aegrum brachio sublevo | I support the sick man with my arm
+sublica | Sublica in flumine pontem tenet | The pile in the river holds up the bridge
+subligo | Gladium ad latus subligo | I bind the sword on at my side
+sublimitas | Sublimitas arcis hostes arcet | The loftiness of the citadel keeps the enemy away
+sublimo | Signum in hasta sublimo | I elevate the standard on a pole
+sublino | Murum calce sublino | I prime the wall with lime
+# third: subluceo "I glimmer" is unnatural; a lamp is the natural subject
+subluceo | Lucerna in cubiculo sublucet | The lamp glimmers in the bedroom
+subluco | Vites subluco | I prune the vines
+subluo | Manus in rivo subluo | I wash my hands in the stream
