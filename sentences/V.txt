@@ -96,3 +96,14 @@ ventilo | Flammam ventilo | I fan the flame
 ventito | Ad theatrum ventito | I frequent the theatre
 ventus | Ventus arbores quatit | The wind shakes the trees
 venumdo | Pecora venumdo | I sell the cattle
+# skip: venus2 is attested only in the forms venui, veno and venum (dative, ablative, accusative); no nominative headword form
+venustas | Venustas carminis lectorem tenet | The charm of the poem holds the reader
+vepres | Vepres viam impedit | The bramble blocks the path
+ver | Ver terram floribus vestit | Spring clothes the earth with flowers
+verbena | Verbena aram coronat | The sacred bough crowns the altar
+verber | Verber equum ad cursum incitat | The lash urges the horse to run
+verberatio | Verberatio militem ad disciplinam revocat | The beating recalls the soldier to discipline
+# third: verbero1 "I flog" reads unnaturally for a violent verb
+verbero1 | Dux desertorem verberat | The general flogs the deserter
+verbum | Verbum e libro discitur | The word is learned from the book
+verecundia | Verecundia juvenem tacitum facit | Modesty makes the youth silent
