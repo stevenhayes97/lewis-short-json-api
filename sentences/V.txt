@@ -173,3 +173,15 @@ vicus | Vicus mane tumultu mercatorum resonat | The street rings with the bustle
 video | Navem in mari video | I see a ship at sea
 # third: viduo "I bereave" reads unnaturally for a violent verb
 viduo | Hostis urbem civibus viduat | The enemy bereaves the city of its citizens
+vieo | Corbem vimine vieo | I weave a basket from willow
+# third: vigeo "I thrive" is unnatural; an olive tree is the natural subject
+vigeo | Oliva in colle viget | The olive tree thrives on the hill
+# third: vigesco "I flourish" is unnatural; a poplar is the natural subject
+vigesco | Populus ad flumen vigescit | The poplar flourishes by the river
+vigilantia | Vigilantia custodis furem arcet | The guard's vigilance keeps the thief away
+vigilia | Vigilia studentem pallidum reddit | Wakefulness makes the student pale
+vigilo | Per noctem vigilo | I stay awake through the night
+vigintiviri | Vigintiviri tabulas conscribunt | The board of twenty draws up the records
+vigor | Vigor corporis athletam ad victoriam ducit | The vigour of the body leads the athlete to victory
+vilico1 | Praedium vilico | I oversee the estate
+vilitas | Vilitas frumenti pauperes adjuvat | The cheapness of grain helps the poor
