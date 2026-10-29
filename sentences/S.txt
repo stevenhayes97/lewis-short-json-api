@@ -268,3 +268,14 @@ severitas | Severitas magistri discipulos ad studium cogit | The teacher's sever
 sevir | Sevir cum collegis in foro loquitur | The sevir talks with his colleagues in the forum
 sevoco | Amicum sevoco | I call my friend aside
 # skip: sexagesimus is an ordinal adjective (sixtieth), not a noun
+sexennium | Sexennium pacis urbem ditat | The six years of peace enrich the city
+sextans | Sextans vini in poculo manet | A sixth of the wine remains in the cup
+sextarius | Sextarius vini unum nummum valet | A pint of wine is worth one coin
+sextula | Sextula assis mercatori non sufficit | One seventy-second of an as is not enough for the merchant
+sexus | Uterque sexus legem observat | Each sex obeys the law
+# third: sibilo "I hiss" is unnatural; a goose is the natural subject
+sibilo | Anser ad hospitem sibilat | The goose hisses at the guest
+sibilus1 | Sibilus venti in silva auditur | The hiss of the wind is heard in the wood
+sica | Sica in cista jacet | The dagger lies in the chest
+sicarius | Sicarius a vigilibus quaeritur | The assassin is sought by the watchmen
+siccitas | Siccitas flumen angustum facit | Dryness makes the river narrow
