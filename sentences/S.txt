@@ -814,3 +814,13 @@ suspicio2 | Suspicio judicis testem terret | The judge's suspicion frightens the
 suspicor | Fraudem servi suspicor | I suspect the slave's trickery
 suspiritus | Suspiritus senis ad fenestram auditur | The old man's sigh is heard at the window
 suspirium | Suspirium militis fessi nocte sonat | The tired soldier's sigh sounds at night
+suspiro | Prae fatigatione suspiro | I sigh from weariness
+sustentatio | Sustentatio navium mercatorem tristem facit | The delay of the ships saddens the merchant
+sustento | Tectum columnis sustento | I support the roof with columns
+sustineo | Pondus humeris sustineo | I support the weight on my shoulders
+sustollo | Manum sustollo | I raise my hand
+susurro1 | Fratri in aurem susurro | I whisper in my brother's ear
+susurrus1 | Susurrus in templo sacerdotem interrumpit | The whisper in the temple interrupts the priest
+sutor | Sutor calceos in taberna reficit | The cobbler repairs shoes in the shop
+sycophanta | Sycophanta in comoedia militem vanum ludificat | The trickster in the comedy mocks the vain soldier
+syllaba | Syllaba brevis in versu cito transit | The short syllable passes quickly in the verse
