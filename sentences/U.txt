@@ -45,3 +45,13 @@ urceus | Urceus fictilis in mensa stat | The earthenware pitcher stands on the t
 urgeo | Ceram pollice urgeo | I press the wax with my thumb
 urina | Urina aegri medico morbum indicat | The sick man's urine shows the disease to the doctor
 urna | Urna aquam e fonte portat | The urn carries water from the spring
+uro | Stipulam in agro uro | I burn the stubble in the field
+ursa | Ursa in monte mel quaerit | The she-bear seeks honey on the mountain
+ursus | Ursus in spelunca hieme dormit | The bear sleeps in the cave in winter
+urtica | Urtica ad viam crescit | The nettle grows by the road
+urvo | Locum urbis novae urvo | I plough round the site of the new city
+usio | Usio fontis vicum juvat | The use of the spring helps the village
+# skip: usitor is attested as a finite verb only in the perfect in Gellius; elsewhere only the participle usitatus occurs
+ustulo | Pennas gallinae in flamma ustulo | I scorch the hen's feathers in the flame
+usucapio1 | Fundum biennio usucapio | I acquire the estate by prescription after two years
+usucapio2 | Usucapio fundum possessori post biennium dat | Usucaption gives the estate to the possessor after two years
