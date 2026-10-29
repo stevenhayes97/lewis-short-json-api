@@ -71,3 +71,13 @@ sarcina | Sarcina militem fatigat | The pack tires the soldier
 sarcinula | Sarcinula vestes viatoris tenet | The little bundle holds the traveller's clothes
 sarcio | Tunicam sarcio | I mend the tunic
 sarculum | Sarculum agricolae hortum purgat | The farmer's hoe clears the garden
+sarisa | Sarisa longa in angulo stat | The long pike stands in the corner
+sarmentum | Sarmentum ignem alit | The brushwood feeds the fire
+sarracum | Sarracum frumentum ad oppidum vehit | The wagon carries grain to the town
+sarrio | Segetem sarrio | I weed the cornfield
+satelles | Satelles regem ad portam comitatur | The bodyguard accompanies the king to the gate
+satias | Satias frumenti pretium minuit | The abundance of grain lowers the price
+satietas | Satietas convivam tardum facit | Satiety makes the guest slow
+satio1 | Famem pane satio | I satiate my hunger with bread
+satisdatio | Satisdatio creditorem a damno servat | The pledge of security protects the creditor from loss
+satisfactio | Satisfactio amici iram meam minuit | The friend's apology lessens my anger
