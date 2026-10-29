@@ -30,3 +30,14 @@ sagitta | Sagitta per aerem volat | The arrow flies through the air
 sagitto | Ad metam sagitto | I shoot at the target
 sagmen | Sagmen in arce carpitur | The sacred herbs are plucked in the citadel
 sagum | Sagum militem a frigore defendit | The cloak protects the soldier from the cold
+sal | Sal piscem servat | Salt preserves the fish
+salictum | Salictum ad rivum crescit | The willow-grove grows by the stream
+salinae | Salinae mercatori divitias dant | The saltworks give the merchant wealth
+salinum | Salinum in mensa stat | The saltcellar stands on the table
+salio2 | Per pratum salio | I leap through the meadow
+saliva | Saliva ex ore equi in terram cadit | The saliva falls from the horse's mouth onto the ground
+# third: salivo "I discharge saliva" is unnatural; a dog is the natural subject
+salivo | Canis aeger salivat | The sick dog drools
+salsamentum | Salsamentum in cella manet | The salted fish stays in the storeroom
+salsura | Salsura carnem diu servat | Pickling preserves the meat for a long time
+saltatio | Saltatio nuptias hilares facit | The dance makes the wedding cheerful
