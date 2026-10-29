@@ -453,7 +453,7 @@ pietas1 | Pietas filium ad lectum patris vocat | Duty calls the son to his fathe
 pigeo | Me morae piget | The delay irks me
 pigmentum | Pigmentum pictori ex Aegypto venit | The pigment comes to the painter from Egypt
 pignero | Anulum pignero | I pledge my ring
-pigneror | Laudem pigneror | I appropriate the praise
+pigneror | Laudem pigneror | I claim the praise for myself
 pignus | Pignus creditorem securum facit | The pledge makes the creditor secure
 pigritia | Pigritia agricolam in lecto tenet | Laziness keeps the farmer in bed
 pila1 | Pila lapidea in culina manet | The stone mortar remains in the kitchen
@@ -464,7 +464,7 @@ pilleus | Pilleus caput senis a frigore tegit | The felt cap covers the old man'
 pilo1 | Palum in terram pilo | I ram the stake into the ground
 pilo2 | Crura pilo | I depilate my legs
 pilum | Pilum ante tabernaculum militis stat | The javelin stands before the soldier's tent
-pilus1 | Pilus e capite cadit | The hair falls from the head
+pilus1 | Pilus e capite cadit | A hair falls from the head
 pilus2 | Pilus ante portam consistit | The company halts before the gate
 pinacotheca | Pinacotheca advenas Athenis accipit | The gallery receives the visitors at Athens
 pingo | Januam pingo | I paint the door
@@ -645,7 +645,7 @@ praecursor | Praecursor ducis adventum nuntiat | The forerunner announces the ge
 praeda | Praeda in castris dividitur | The booty is divided in the camp
 praedamno | Reum praedamno | I condemn the accused in advance
 praedator | Praedator a vigilibus capitur | The plunderer is caught by the watchmen
-praedestino | Mihi triumphum praedestino | I predestine a triumph for myself
+praedestino | Mihi triumphum praedestino | I mark out a triumph for myself in advance
 praediator | Praediator fundos in auctione emit | The dealer buys farms at the auction
 praedicatio | Praedicatio senatus cives ad arma excitat | The senate's proclamation rouses the citizens to arms
 praedicator | Praedicator ducis victoriam in urbe divulgat | The proclaimer spreads news of the general's victory in the city
@@ -725,7 +725,7 @@ praepedio | Equum funi praepedio | I shackle the horse with a rope
 praependeo | Barba senis praependet | The old man's beard hangs down in front
 praepolleo | Mari praepolleo | I dominate at sea
 # third: praepondero "I preponderate" is unnatural; lead is the natural subject
-praepondero | Plumbum in lance praeponderat | The lead outweighs in the scale
+praepondero | Plumbum in lance praeponderat | The lead weighs more in the scale
 praepono | Honestum utili praepono | I prefer the honourable to the useful
 praepositio | Praepositio unius filii ceteros angit | The preference for one son grieves the others
 praepossum | Viribus praepossum | I predominate through strength
@@ -766,7 +766,7 @@ praestringo | Manipulos praestringo | I bind the sheaves
 praestruo | Fundamenta domus praestruo | I lay the foundation of the house beforehand
 praesul | Praesul ante sacerdotes salit | The dancer leaps before the priests
 praesum | Legioni praesum | I command the legion
-praesumo | Successum praesumo | I presume success
+praesumo | Successum praesumo | I anticipate success
 praesumptio | Praesumptio victoriae ducem negligentem facit | The presumption of victory makes the general careless
 praesumptor | Praesumptor de successu gloriatur | The presumer boasts about the success
 praetango | Ostium praetango | I touch the door first
