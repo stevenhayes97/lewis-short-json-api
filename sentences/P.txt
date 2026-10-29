@@ -506,3 +506,13 @@ plasma | Plasma lutea figulum celebrem facit | The clay figure makes the potter 
 platanus | Platanus juxta fontem frondet | The plane tree is leafy beside the spring
 platea1 | Platea ad forum ducit | The street leads to the forum
 plaudo | Poetae plaudo | I applaud the poet
+plaustrum | Plaustrum fenum ex agro portat | The wagon carries hay out of the field
+plausus3 | Plausus actorem in scaena excipit | The applause greets the actor on the stage
+plebs | Plebs in Aventinum secedit | The plebeians withdraw to the Aventine
+plecto1 | Coronam e floribus plecto | I plait a garland from flowers
+# skip: plecto2 in classical Latin is used almost only in the passive (plector)
+plectrum | Plectrum chordam lyrae tangit | The plectrum touches the string of the lyre
+plenitudo | Plenitudo horrei colonum laetum reddit | The fullness of the barn makes the farmer glad
+plico | Chartam plico | I fold the sheet of papyrus
+plinthus | Plinthus sub columna apparet | The plinth appears beneath the column
+ploratus | Ploratus mulierum per vicum sonat | The wailing of the women echoes through the street
