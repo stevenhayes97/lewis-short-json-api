@@ -661,3 +661,13 @@ subvolo | Avis ad ramum subvolat | The bird flies up to the branch
 succedo | Consuli in imperio succedo | I succeed the consul in command
 succendo | Focum sarmentis succendo | I kindle the hearth with brushwood
 succenseo | Servo succenseo | I am angry with the slave
+succenturio1 | Novum militem succenturio | I recruit a new soldier as a reserve
+succerno | Farinam cribro succerno | I sift the flour through a sieve
+successio | Successio magistratuum ordinem civitatis servat | The succession of magistrates preserves the order of the state
+successor | Successor ducis exercitum ad hiberna ducit | The general's successor leads the army to winter quarters
+successus2 | Successus in bello ducem populo carum facit | Success in war makes the general dear to the people
+succidia | Succidia in cella pendet | The flitch of bacon hangs in the pantry
+succido1 | Prae lassitudine in genua succido | I sink to my knees from exhaustion
+succido2 | Arborem securi succido | I fell the tree with an axe
+succingo | Tunicam zona succingo | I gird my tunic with a belt
+succino | Cantori tibia succino | I accompany the singer on the pipe
