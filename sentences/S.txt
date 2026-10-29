@@ -302,3 +302,13 @@ sileo | Ante patrem sileo | I am silent in front of my father
 silesco | Ventus post tempestatem silescit | The wind quiets down after the storm
 silex | Silex scintillas emittit | Flint gives off sparks
 silicernium | Silicernium familiam in sepulcro convocat | The funeral feast gathers the family at the tomb
+siligo | Siligo in agro pruinam sustinet | Winter wheat endures the frost in the field
+siliqua | Siliqua fabas tenet | The pod holds beans
+silva | Silva densa lupos celat | The dense forest hides wolves
+simia | Simia pomum ex arbore rapit | The ape snatches an apple from the tree
+similitudo | Similitudo fratrum matrem fallit | The resemblance of the brothers deceives the mother
+simplicitas | Simplicitas cibi hospitem non offendit | The simplicity of the food does not offend the guest
+simpulum | Simpulum vinum e cratere haurit | The ladle draws wine from the mixing bowl
+simpuvium | Simpuvium in ara stat | The sacrificial bowl stands on the altar
+simulacrum | Simulacrum Minervae in templo splendet | The image of Minerva shines in the temple
+simulatio | Simulatio mercatoris emptorem decipit | The merchant's pretence deceives the buyer
