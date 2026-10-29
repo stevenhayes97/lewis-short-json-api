@@ -340,3 +340,15 @@ restinguo | Ignem aqua restinguo | I extinguish the fire with water
 restis | Restis fortis onus de trabe suspendit | The strong rope hangs the load from the beam
 restito | Ante tabernam restito | I loiter in front of the shop
 restituo | Urbi libertatem restituo | I restore freedom to the city
+restitutio | Restitutio pecuniae viduam juvat | The restitution of the money helps the widow
+restitutor | Restitutor templi pretium petit | The restorer of the temple asks a price
+resto | In castris resto | I remain in the camp
+restringo | Canem catena restringo | I restrain the dog with a chain
+# third: resulto "I rebound" is unnatural; a ball is the natural subject
+resulto | Pila a pariete resultat | The ball rebounds from the wall
+resumo | Laborem post cenam resumo | I resume the work after dinner
+# third: resupino a violent verb; keeps to a military frame
+resupino | Dux hostem resupinat | The general throws the enemy down
+resurgo | Post morbum resurgo | I rise again after the illness
+resuscito | Flammam languidam resuscito | I revive the faint flame
+retardo | Sorores retardo | I delay my sisters
