@@ -196,3 +196,13 @@ sejungo | Fratres in schola sejungo | I separate the brothers in the school
 selectio | Selectio judicum senatum occupat | The selection of the judges occupies the senate
 seligo | Optimas uvas seligo | I select the best grapes
 seliquastrum | Seliquastrum rusticum pastorem sustinet | The rustic stool supports the shepherd
+sella | Sella lignea prope focum stat | The wooden chair stands near the hearth
+sellisternia | Sellisternia matronas ad templum vocant | The sacred banquets call the matrons to the temple
+semen | Semen in sulco latet | The seed lies hidden in the furrow
+sementis | Sementis agricolas ad agros vocat | The sowing calls the farmers to the fields
+semihomo | Semihomo in antro habitat | The half-man lives in the cave
+# skip: seminalis is filed as a noun but is an adjective (seminal)
+semino | Hordeum in agro semino | I sow barley in the field
+semipes | Semipes versum breviorem facit | The half-foot makes the verse shorter
+semis | Semis panis viatorem alit | Half of the bread feeds the traveller
+semita | Semita angusta ad casam fert | The narrow path leads to the cottage
