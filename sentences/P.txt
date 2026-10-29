@@ -414,3 +414,13 @@ pervolo1 | Aquila nubes pervolat | The eagle flies through the clouds
 pervolo2 | Matrem videre pervolo | I wish greatly to see my mother
 pervolvo | Per agrum dolium pervolvo | I roll the cask about across the field
 pervulgo | Nuntium pervulgo | I publicise the news
+pes | Pes viatoris in luto haeret | The traveller's foot sticks in the mud
+pessulus | Pessulus ostium noctu firmat | The bolt secures the door at night
+pestilentia | Pestilentia mercatores ab urbe arcet | The plague keeps the merchants away from the city
+pestis | Pestis consules sollicitat | The plague worries the consuls
+petaurista | Petaurista in circo salit | The acrobat leaps in the circus
+petimen | Petimen mulum laedit | The saddle sore hurts the mule
+petiolus | Petiolus haedi in olla coquitur | The kid's little foot cooks in the pot
+petitio | Petitio civium senatum movet | The citizens' petition moves the senate
+petitor | Petitor ad comitia properat | The candidate hurries to the elections
+peto | Auxilium peto | I seek help
