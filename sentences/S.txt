@@ -145,3 +145,13 @@ scrinium | Scrinium volumina tenet | The case holds the scrolls
 scriptio | Scriptio longa digitos fatigat | Long writing tires the fingers
 scriptito | Saepe scriptito | I write often
 scriptor | Scriptor in bibliotheca laborat | The writer works in the library
+scriptura | Scriptura clara lectorem juvat | Clear writing helps the reader
+# skip: scriptus2 is attested only in the accusative scriptum and ablative scriptu, so it has no nominative headword form
+scrobis | Scrobis aquam ad hortum ducit | The trench leads water to the garden
+scrupulus | Scrupulus animum judicis angit | A scruple troubles the judge's mind
+scrupus | Scrupus nautam nocte vigilem tenet | Anxiety keeps the sailor awake at night
+scrutator | Scrutator nummum in pulvere quaerit | The searcher looks for a coin in the dust
+sculpo | Leonem ex marmore sculpo | I carve a lion from marble
+sculptor | Sculptor marmor emit | The sculptor buys marble
+sculptura | Sculptura Graeca hospites ad templum invitat | Greek sculpture invites visitors to the temple
+scurra | Scurra convivam jocis exhilarat | The jester cheers the guest with jokes
