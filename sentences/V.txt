@@ -260,3 +260,13 @@ volito | Apis inter flores volitat | The bee flits among the flowers
 # third: volo2 "I fly" is unnatural; a bird is the natural subject
 volo2 | Avis ad nidum volat | The bird flies to its nest
 volo3 | Volo in castra venit | The volunteer comes to the camp
+volsella | Volsella in arca tonsoris jacet | The tweezers lie in the barber's chest
+volubilitas | Volubilitas rotae lutum in vas format | The whirling of the wheel shapes the clay into a vessel
+volumen | Volumen in bibliotheca servatur | The scroll is kept in the library
+voluntas | Voluntas populi consulem eligit | The will of the people chooses the consul
+voluptas | Voluptas ex musica oritur | Pleasure arises from music
+volutatio | Volutatio porcos in luto refrigerat | Wallowing cools the pigs in the mud
+voluto | Saxum de colle voluto | I roll the stone from the hill
+volva | Volva semen tegit | The covering shields the seed
+volvo | Globum per viam volvo | I roll the ball along the road
+vomer | Vomer terram scindit | The ploughshare splits the soil
