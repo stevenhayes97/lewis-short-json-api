@@ -173,3 +173,14 @@ tono | Juppiter in nubibus tonat | Jupiter thunders in the clouds
 tonsa | Tonsa navem per aquam movet | The oar moves the ship through the water
 tonsilla | Tonsilla navem in litore tenet | The mooring-post holds the ship on the shore
 tonsor | Tonsor clientem de bello rogat | The barber questions the customer about the war
+# Chunk 16
+tonsura | Tonsura ovium lanam praebet | The shearing of the sheep provides wool
+tonus | Tonus citharae auditores movet | The tone of the lyre moves the listeners
+topazos | Topazos in anulo regis lucet | The chrysolite shines in the king's ring
+tormentum | Tormentum animi viduam nocte fatigat | The mind's torment tires the widow at night
+tormina | Tormina post cenam agricolam premunt | Colic afflicts the farmer after dinner
+torno | Pocula torno | I round off the cups
+tornus | Tornus pocula rotunda facit | The lathe makes the cups round
+torpedo | Torpedo manum nautae in frigore tenet | The numbness grips the sailor's hand in the cold
+torpeo | Frigore torpeo | I am numb with the cold
+torpesco | In nive torpesco | I grow numb in the snow
