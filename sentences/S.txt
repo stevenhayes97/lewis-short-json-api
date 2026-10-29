@@ -1,0 +1,831 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/S.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+sabbatum | Sabbatum Judaeis diem quietum dat | The Sabbath gives the Jews a quiet day
+saburro | Navem arena saburro | I ballast the ship with sand
+sacco | Vinum linteo sacco | I strain the wine through a cloth
+sacculus | Sacculus nummos mercatoris tenet | The little bag holds the merchant's coins
+saccus | Saccus farinam in horreo tenet | The sack holds flour in the granary
+sacellum | Sacellum Dianae in silva stat | The little shrine of Diana stands in the wood
+sacerdos1 | Sacerdos in templo orat | The priest prays in the temple
+sacerdotium | Sacerdotium patri honorem dat | The priesthood gives the father honour
+sacramentum | Sacramentum militem fidelem facit | The oath makes the soldier loyal
+sacrarium | Sacrarium statuas deorum custodit | The shrine guards the statues of the gods
+sacricola | Sacricola vinum ad aram portat | The sacrificer carries wine to the altar
+sacrificium | Sacrificium deos placat | The sacrifice appeases the gods
+sacrifico | Jovi sacrifico | I sacrifice to Jupiter
+sacrificulus | Sacrificulus ante aram stat | The sacrificer stands in front of the altar
+sacrilegium | Sacrilegium civitatem terret | The sacrilege terrifies the city
+sacro | Aram Cereri sacro | I consecrate an altar to Ceres
+saeculum | Saeculum novum pacem affert | The new age brings peace
+saepes | Saepes hortum a via separat | The hedge separates the garden from the road
+saepio | Hortum muro saepio | I enclose the garden with a wall
+saeptum | Saeptum oves noctu tenet | The enclosure keeps the sheep at night
+saeta | Saeta scopae pavimentum purgat | The bristle of the broom cleans the floor
+saevio | Contra fortunam saevio | I rage against fortune
+saevitia | Saevitia tempestatis nautas terret | The ferocity of the storm frightens the sailors
+sagacitas | Sagacitas senis mercatorem a fraude servat | The old man's sagacity saves the merchant from fraud
+sagina | Sagina porcos ad mercatum parat | Fattening readies the pigs for market
+sagino | Anseres sagino | I fatten the geese
+sagitta | Sagitta per aerem volat | The arrow flies through the air
+sagitto | Ad metam sagitto | I shoot at the target
+sagmen | Sagmen in arce carpitur | The sacred herbs are plucked in the citadel
+sagum | Sagum militem a frigore defendit | The cloak protects the soldier from the cold
+sal | Sal piscem servat | Salt preserves the fish
+salictum | Salictum ad rivum crescit | The willow-grove grows by the stream
+salinae | Salinae mercatori divitias dant | The saltworks give the merchant wealth
+salinum | Salinum in mensa stat | The saltcellar stands on the table
+salio2 | Per pratum salio | I leap through the meadow
+saliva | Saliva ex ore equi in terram cadit | The saliva falls from the horse's mouth onto the ground
+# third: salivo "I discharge saliva" is unnatural; a dog is the natural subject
+salivo | Canis aeger salivat | The sick dog drools
+salsamentum | Salsamentum in cella manet | The salted fish stays in the storeroom
+salsura | Salsura carnem diu servat | Pickling preserves the meat for a long time
+saltatio | Saltatio nuptias hilares facit | The dance makes the wedding cheerful
+saltus1 | Saltus caprae rivum superat | The goat's leap clears the stream
+saltus2 | Saltus pecori pabulum dat | The woodland pasture gives fodder to the herd
+salubritas | Salubritas aeris colonos juvat | The healthfulness of the air helps the settlers
+salum | Salum navem a litore portat | The sea carries the ship away from the shore
+salus | Salus reipublicae consulem sollicitat | The safety of the republic worries the consul
+salutatio | Salutatio amici viatorem laetum facit | The friend's greeting makes the traveller glad
+salutator | Salutator mane ante januam stat | The greeter stands in front of the door in the morning
+salutatrix | Salutatrix hospites in atrio accipit | The female greeter welcomes the guests in the hall
+saluto | Vicinum mane saluto | I greet the neighbour in the morning
+salvator | Salvator naufragum ex undis servat | The saviour rescues the shipwrecked man from the waves
+# skip: salveo has its finite form attested only once, in a word-play; it lives on as the greeting salve
+sambuca | Sambuca sonum acutum edit | The harp gives a shrill sound
+sancio | Legem sancio | I sanction the law
+sanctimonia | Sanctimonia sacerdotis populum ad templum vocat | The priest's sanctity calls the people to the temple
+sanctio | Sanctio legis cives a fraude retinet | The sanction of the law keeps the citizens from fraud
+sanctitas | Sanctitas templi viatores tacitos facit | The sanctity of the temple makes the travellers silent
+sanctitudo | Sanctitudo luci arbores tutas facit | The sanctity of the grove makes the trees safe
+# skip: sanguino is attested in the entry only as the participle sanguinans, so it has no finite headword form
+sanguis | Sanguis in venis fluit | Blood flows in the veins
+sanies | Sanies medicum non terret | The gore does not frighten the doctor
+sanitas | Sanitas agricolae familiam laetam facit | The farmer's health makes the family happy
+sano | Vulnus herbis sano | I heal the wound with herbs
+saperda | Saperda in patina jacet | The herring lies on the dish
+sapientia | Sapientia senis juvenes docet | The old man's wisdom teaches the young men
+sapio | Non semper sapio | I am not always wise
+sapor | Sapor mellis pueros ad mensam trahit | The flavour of honey draws the boys to the table
+sarcina | Sarcina militem fatigat | The pack tires the soldier
+sarcinula | Sarcinula vestes viatoris tenet | The little bundle holds the traveller's clothes
+sarcio | Tunicam sarcio | I mend the tunic
+sarculum | Sarculum agricolae hortum purgat | The farmer's hoe clears the garden
+sarisa | Sarisa longa in angulo stat | The long pike stands in the corner
+sarmentum | Sarmentum ignem alit | The brushwood feeds the fire
+sarracum | Sarracum frumentum ad oppidum vehit | The wagon carries grain to the town
+sarrio | Segetem sarrio | I weed the cornfield
+satelles | Satelles regem ad portam comitatur | The bodyguard accompanies the king to the gate
+satias | Satias frumenti pretium minuit | The abundance of grain lowers the price
+satietas | Satietas convivam tardum facit | Satiety makes the guest slow
+satio1 | Famem pane satio | I satiate my hunger with bread
+satisdatio | Satisdatio creditorem a damno servat | The pledge of security protects the creditor from loss
+satisfactio | Satisfactio amici iram meam minuit | The friend's apology lessens my anger
+sator | Sator semina in agro spargit | The sower scatters seeds in the field
+satureia | Satureia fabas condit | Savory seasons the beans
+saturitas | Saturitas post cenam quietem affert | Satiety brings rest after dinner
+saturo | Equum aqua saturo | I satiate the horse with water
+satus2 | Satus frumenti autumno incipit | The sowing of the grain begins in autumn
+satyrus | Satyrus in silva tibia canit | The satyr plays the pipe in the wood
+# third: saucio a violent verb; keeps to a military frame
+saucio | Hostis militem saucit | The enemy wounds the soldier
+saxum | Saxum magnum fluvium dividit | The big rock divides the river
+scabellum | Scabellum pedes dominae sustinet | The footstool supports the lady's feet
+scabies | Scabies canem vexat | Mange troubles the dog
+scabo | Caput scabo | I scratch my head
+scabritia | Scabritia viae equum tardat | The roughness of the road slows the horse
+scaena | Scaena alta actores a spectatoribus separat | The high stage separates the actors from the spectators
+# skip: scala is attested only in the plural scalae in the entry, so it has no singular headword form
+scalpo | Statuam ex ligno scalpo | I carve a statue from wood
+scalprum | Scalprum lignum durum incidit | The chisel cuts the hard wood
+scamnum | Scamnum in porticu stat | The bench stands in the portico
+scandalum | Scandalum viatorem impedit | The stumbling-block hinders the traveller
+scando | Montem scando | I climb the mountain
+scansio | Scansio montis duas horas occupat | The ascent of the mountain takes up two hours
+scapha | Scapha nautam ad litus portat | The skiff carries the sailor to the shore
+scaphium | Scaphium aquam frigidam tenet | The bowl holds cold water
+scapulae | Scapulae fabri sarcinam sustinent | The carpenter's shoulder-blades support the pack
+scapus | Scapus columnae tectum sustinet | The shaft of the column supports the roof
+scarifo | Truncum arboris scarifo | I scratch open the tree trunk
+scarus | Scarus in mari natat | The parrotfish swims in the sea
+scatebra | Scatebra viatoribus aquam puram dat | The spring gives the travellers pure water
+# third: scateo "I gush" is unnatural; water is the natural subject
+scateo | Aqua e rupe scatet | The water gushes from the rock
+# third: scaturio "I gush" is unnatural; a fountain is the natural subject
+scaturio | Fons in valle scaturit | The fountain gushes in the valley
+scelero | Aram scelero | I defile the altar
+scelus | Scelus senatum ad iram commovet | The crime stirs the senate to anger
+sceptrum | Sceptrum aureum regem ornat | The golden sceptre adorns the king
+schema | Schema poetae versum ornat | The poet's figure of speech adorns the verse
+schoenus | Schoenus odoratus in palude crescit | The fragrant rush grows in the marsh
+schola | Schola discipulos mane accipit | The school welcomes the pupils in the morning
+scientia | Scientia medici aegrotum juvat | The doctor's knowledge helps the sick man
+scilla | Scilla in arena crescit | The squill grows in the sand
+scindo | Pannum scindo | I tear the cloth
+scintilla | Scintilla ex foco in pavimentum cadit | The spark falls from the hearth onto the floor
+# third: scintillo "I sparkle" is unnatural; a star is the natural subject
+scintillo | Stella in caelo scintillat | The star sparkles in the sky
+scio | Viam ad portum scio | I know the way to the harbour
+scipio1 | Scipio senem in via sustinet | The staff supports the old man on the road
+scirpus | Scirpus in stagno crescit | The bulrush grows in the pond
+sciscitor | Viatorem de itinere sciscitor | I inquire of the traveller about the route
+scisco | Legem novam scisco | I enact the new law
+scissura | Scissura in vase aquam emittit | The split in the jar lets the water out
+scitamenta | Scitamenta mensam divitis ornant | The dainties adorn the rich man's table
+scitor | Vilicum de pretio scitor | I inquire of the steward about the price
+scobis | Scobis pavimentum fabri tegit | The sawdust covers the carpenter's floor
+scopa1 | Scopa angulos atrii purgat | The broom cleans the corners of the hall
+scopulus | Scopulus sub undis latet | The reef lies hidden under the waves
+scorpio | Scorpio sub saxo dormit | The scorpion sleeps under the stone
+scortor | Numquam scortor | I never consort with prostitutes
+scortum | Scortum mercedem postulat | The prostitute asks for payment
+scriba | Scriba tabulas senatus servat | The scribe keeps the records of the senate
+scribo | Litteras ad sororem scribo | I write a letter to my sister
+scrinium | Scrinium volumina tenet | The case holds the scrolls
+scriptio | Scriptio longa digitos fatigat | Long writing tires the fingers
+scriptito | Saepe scriptito | I write often
+scriptor | Scriptor in bibliotheca laborat | The writer works in the library
+scriptura | Scriptura clara lectorem juvat | Clear writing helps the reader
+# skip: scriptus2 is attested only in the accusative scriptum and ablative scriptu, so it has no nominative headword form
+scrobis | Scrobis aquam ad hortum ducit | The trench leads water to the garden
+scrupulus | Scrupulus animum judicis angit | A scruple troubles the judge's mind
+scrupus | Scrupus nautam nocte vigilem tenet | Anxiety keeps the sailor awake at night
+scrutator | Scrutator nummum in pulvere quaerit | The searcher looks for a coin in the dust
+sculpo | Leonem ex marmore sculpo | I carve a lion from marble
+sculptor | Sculptor marmor emit | The sculptor buys marble
+sculptura | Sculptura Graeca hospites ad templum invitat | Greek sculpture invites visitors to the temple
+scurra | Scurra convivam jocis exhilarat | The jester cheers the guest with jokes
+scurror | Inter convivas scurror | I clown among the guests
+scutula1 | Scutula pira et uvas tenet | The platter holds pears and grapes
+scutum | Scutum militem ab hoste defendit | The shield defends the soldier from the enemy
+scyphus | Scyphus argenteus in armario fulget | The silver goblet gleams in the cupboard
+secedo | In villam secedo | I withdraw to the country house
+secerno | Oves a capris secerno | I separate the sheep from the goats
+secessio | Secessio plebis consules turbat | The secession of the plebs disturbs the consuls
+secessus | Secessus ruri senem quietum facit | Retirement in the country makes the old man peaceful
+seco | Panem cultro seco | I cut the bread with a knife
+secretarium | Secretarium silentium poetae dat | The retreat gives the poet silence
+secta1 | Secta per silvam ad fontem ducit | The way through the wood leads to the spring
+sectator | Sectator magistrum ad scholam comitatur | The follower accompanies the teacher to the school
+sectio | Sectio bonorum creditores in foro congregat | The auction of the goods gathers the creditors in the forum
+sector1 | Sector prata metit | The haycutter mows the meadows
+sector2 | Ducem per viam sector | I follow the leader along the road
+sectura | Sectura marmoris multos dies occupat | The cutting of the marble takes up many days
+secubo | In cubiculo secubo | I sleep alone in the bedroom
+# third: secundo2 "I favour" is unnatural; the wind is the natural subject
+secundo2 | Ventus nautas secundat | The wind favours the sailors
+securis | Securis lignum findit | The axe splits the wood
+securitas | Securitas ducis milites placidos facit | The leader's composure makes the soldiers calm
+secutor | Secutor post dominum ambulat | The follower walks behind the master
+sedeo | Sub arbore sedeo | I sit under the tree
+sedes | Sedes familiae in colle stat | The family's home stands on the hill
+sedile | Sedile molle senem exspectat | The soft seat awaits the old man
+seditio | Seditio cives in foro commovet | Sedition stirs up the citizens in the forum
+sedo | Equum ferocem voce sedo | I calm the wild horse with my voice
+seduco | Amicum e turba seduco | I lead my friend aside from the crowd
+seductio | Seductio fratrum matrem tristem facit | The separation of the brothers makes the mother sad
+sedulitas | Sedulitas servi dominum juvat | The servant's diligence helps the master
+seges | Seges flava ad flumen late patet | The yellow cornfield spreads widely by the river
+segestre | Segestre mercem a pluvia defendit | The covering protects the goods from the rain
+segmen | Segmen panni in terra jacet | A shred of cloth lies on the ground
+segmentum | Segmentum casei pastorem alit | The slice of cheese feeds the shepherd
+segnitia | Segnitia asini viatorem tardat | The donkey's sluggishness delays the traveller
+segrego | Agnos ab ovibus segrego | I segregate the lambs from the sheep
+sejugo | Boves a plaustro sejugo | I separate the oxen from the cart
+sejungo | Fratres in schola sejungo | I separate the brothers in the school
+selectio | Selectio judicum senatum occupat | The selection of the judges occupies the senate
+seligo | Optimas uvas seligo | I select the best grapes
+seliquastrum | Seliquastrum rusticum pastorem sustinet | The rustic stool supports the shepherd
+sella | Sella lignea prope focum stat | The wooden chair stands near the hearth
+sellisternia | Sellisternia matronas ad templum vocant | The sacred banquets call the matrons to the temple
+semen | Semen in sulco latet | The seed lies hidden in the furrow
+sementis | Sementis agricolas ad agros vocat | The sowing calls the farmers to the fields
+semihomo | Semihomo in antro habitat | The half-man lives in the cave
+# skip: seminalis is filed as a noun but is an adjective (seminal)
+semino | Hordeum in agro semino | I sow barley in the field
+semipes | Semipes versum breviorem facit | The half-foot makes the verse shorter
+semis | Semis panis viatorem alit | Half of the bread feeds the traveller
+semita | Semita angusta ad casam fert | The narrow path leads to the cottage
+semoveo | Lapidem e via semoveo | I remove the stone from the road
+semuncia | Semuncia croci pretium magnum habet | A half-ounce of saffron has a high price
+# skip: semustulo is attested only as a past participle (semustulatus), so it has no headword form
+senaculum | Senaculum consules et praetores accipit | The senate-hall receives the consuls and praetors
+senator | Senator in curia orat | The senator speaks in the Senate House
+senectus2 | Senectus patrem lentum facit | Old age makes the father slow
+seneo | Jam seneo | I am old now
+senesco | Cum amicis senesco | I grow old with my friends
+senium | Senium membra avi debilitat | Decay weakens the grandfather's limbs
+sensus2 | Sensus odoratus canem ad cibum ducit | The sense of smell leads the dog to the food
+sententia | Sententia amici consilium mutat | The friend's opinion changes the plan
+sentina | Sentina navem graviorem facit | The bilgewater makes the ship heavier
+sentino | Navem sentino | I bail out the ship
+sentio | Frigus sentio | I feel the cold
+sentis1 | Sentis pastoris tunicam tenet | The bramble catches the shepherd's tunic
+separatio | Separatio gregis pastori laborem dat | The separation of the flock gives the shepherd work
+separo | Granum a palea separo | I separate the grain from the chaff
+sepelio | Thesaurum in agro sepelio | I bury the treasure in the field
+sepono | Partem cibi sepono | I set aside a part of the food
+seps1 | Seps sub folio sibilat | The viper hisses under the leaf
+septemviri | Septemviri epulum deis parant | The septemvirs prepare a banquet for the gods
+septentriones | Septentriones frigus afferunt | The north brings cold
+sepulcrum | Sepulcrum marmoreum prope viam stat | The marble tomb stands near the road
+sepultura | Sepultura amici familiam congregat | The friend's burial gathers the family
+sequela | Sequela belli civitatem diu premit | The consequence of the war weighs on the city for a long time
+sequester | Sequester pecuniam creditori servat | The trustee keeps the money for the creditor
+sequestro | Pecuniam apud amicum sequestro | I place the money in trust with a friend
+sequor | Matrem sequor | I follow my mother
+sera | Sera portam firmat | The bolt secures the door
+serenitas | Serenitas caeli nautas ad mare vocat | The serenity of the sky calls the sailors to the sea
+# third: sereno "I clear" a sky is absurd; the wind is the natural subject
+sereno | Ventus caelum serenat | The wind clears the sky
+seria | Seria olivas tenet | The jar holds olives
+series | Series dierum pluviosorum agricolam sollicitat | The series of rainy days worries the farmer
+sermo | Sermo amicorum noctem breviorem facit | The friends' conversation makes the night shorter
+sermocinatio | Sermocinatio in fabula spectatores docet | The dialogue in the play teaches the spectators
+sermunculus | Sermunculus mulieres ad fontem tenet | The little piece of gossip keeps the women at the fountain
+sero1 | Fabas sero | I sow beans
+sero2 | Flores in coronam sero | I entwine the flowers into a wreath
+serperastra | Serperastra crus fractum rectum tenent | The leg-splints hold the broken leg straight
+# third: serpo "I creep" is unnatural; a snake is the natural subject
+serpo | Anguis per herbam serpit | The snake creeps through the grass
+serra | Serra trabem in tabulas dividit | The saw divides the beam into planks
+serum | Serum a caseo in vas fluit | The whey flows from the cheese into the vessel
+servator | Servator patriae a senatu coronam accipit | The saviour of the homeland receives a crown from the senate
+servatrix | Servatrix urbis in templo colitur | The female saviour of the city is honoured in the temple
+servio | Patriae servio | I serve my country
+servitium | Servitium captivum a patria separat | Slavery separates the captive from his homeland
+servitus | Servitus libertatem delet | Slavery destroys freedom
+servo | Pecuniam pro hieme servo | I save the money for the winter
+servulus | Servulus aquam ad dominum portat | The young slave carries water to the master
+servus2 | Servus in culina panem coquit | The slave bakes bread in the kitchen
+sesamum | Sesamum oleum dulce dat | Sesame gives sweet oil
+# skip: sescenti is a numeral adjective (six hundred), not a noun
+sesquiplaris | Sesquiplaris in castris plus frumenti accipit | The ration-and-a-half soldier receives more grain in the camp
+sessio | Sessio senatus mane incipit | The session of the senate begins in the morning
+sessor | Sessor in scamno quiescit | The sitter rests on the bench
+setania | Setania ramum onerat | The medlar weighs down the branch
+severitas | Severitas magistri discipulos ad studium cogit | The teacher's severity drives the pupils to study
+sevir | Sevir cum collegis in foro loquitur | The sevir talks with his colleagues in the forum
+sevoco | Amicum sevoco | I call my friend aside
+# skip: sexagesimus is an ordinal adjective (sixtieth), not a noun
+sexennium | Sexennium pacis urbem ditat | The six years of peace enrich the city
+sextans | Sextans vini in poculo manet | A sixth of the wine remains in the cup
+sextarius | Sextarius vini unum nummum valet | A pint of wine is worth one coin
+sextula | Sextula assis mercatori non sufficit | One seventy-second of an as is not enough for the merchant
+sexus | Uterque sexus legem observat | Each sex obeys the law
+# third: sibilo "I hiss" is unnatural; a goose is the natural subject
+sibilo | Anser ad hospitem sibilat | The goose hisses at the guest
+sibilus1 | Sibilus venti in silva auditur | The hiss of the wind is heard in the wood
+sica | Sica in cista jacet | The dagger lies in the chest
+sicarius | Sicarius a vigilibus quaeritur | The assassin is sought by the watchmen
+siccitas | Siccitas flumen angustum facit | Dryness makes the river narrow
+sicco | Vestes in sole sicco | I dry the clothes in the sun
+sicilicus | Sicilicus assis mendicum non ditat | One forty-eighth of an as does not enrich the beggar
+sideratio | Sideratio vites laedit | Blight damages the vines
+# third: sideror "I am sunstruck" is unnatural; a pack animal is the natural subject
+sideror | Jumentum aestate sideratur | The pack animal is sunstruck in summer
+# third: sido1 "I settle" is unnatural; dregs are the natural subject
+sido1 | Faex in dolio sidit | The dregs settle in the cask
+sidus | Sidus clarum viatorem nocte ducit | The bright constellation guides the traveller by night
+sigilla | Sigilla Tyrrhena in atrio stant | The Etruscan figurines stand in the hall
+signaculum | Signaculum in tergo ovis apparet | The mark appears on the back of the sheep
+signator | Signator ante praetorem stat | The witness stands before the praetor
+significatio | Significatio vultus magistri discipulum monet | The indication in the teacher's face warns the pupil
+significatus | Significatus hujus verbi discipulum fugit | The meaning of this word escapes the pupil
+significo | Viam digito significo | I indicate the way with my finger
+signo | Arborem cultro signo | I mark the tree with a knife
+signum | Signum in via ad urbem viatorem dirigit | The sign on the road directs the traveller to the city
+silentiarius | Silentiarius hospites ad regem ducit | The usher leads the guests to the king
+silentium | Silentium noctis pastorem pacat | The silence of the night soothes the shepherd
+sileo | Ante patrem sileo | I am silent in front of my father
+# third: silesco "I quiet down" is unnatural; the wind is the natural subject
+silesco | Ventus post tempestatem silescit | The wind quiets down after the storm
+silex | Silex scintillas emittit | Flint gives off sparks
+silicernium | Silicernium familiam in sepulcro convocat | The funeral feast gathers the family at the tomb
+siligo | Siligo in agro pruinam sustinet | Winter wheat endures the frost in the field
+siliqua | Siliqua fabas tenet | The pod holds beans
+silva | Silva densa lupos celat | The dense forest hides wolves
+simia | Simia pomum ex arbore rapit | The ape snatches an apple from the tree
+similitudo | Similitudo fratrum matrem fallit | The resemblance of the brothers deceives the mother
+simplicitas | Simplicitas cibi hospitem non offendit | The simplicity of the food does not offend the guest
+simpulum | Simpulum vinum e cratere haurit | The ladle draws wine from the mixing bowl
+simpuvium | Simpuvium in ara stat | The sacrificial bowl stands on the altar
+simulacrum | Simulacrum Minervae in templo splendet | The image of Minerva shines in the temple
+simulatio | Simulatio mercatoris emptorem decipit | The merchant's pretence deceives the buyer
+simulator | Simulator falsum gaudium in vultu ostendit | The pretender shows false joy in his face
+simulo | Gaudium simulo | I feign joy
+simultas | Simultas duos oratores in senatu dividit | Rivalry divides the two orators in the senate
+sinapi | Sinapi cibum acrem facit | Mustard makes the food sharp
+sinceritas | Sinceritas legati senatui placet | The envoy's sincerity pleases the senate
+sinciput | Sinciput in culina pendet | The pig's jowl hangs in the kitchen
+singularitas | Singularitas viatorem in silva sollicitat | Being alone worries the traveller in the forest
+singulto | Prae dolore singulto | I sob from grief
+singultus | Singultus viduae vicinos ad domum vocat | The widow's sob calls the neighbours to the house
+sino | Puerum ludere sino | I allow the boy to play
+sinum | Sinum lac tenet | The jug holds milk
+sinuo | Virgam sinuo | I curve the rod
+sinus1 | Sinus togae nummos tenet | The fold of the toga holds the coins
+siparium | Siparium actores celat | The curtain hides the actors
+sipho | Sipho aquam ex vase trahit | The siphon draws water from the vessel
+sisto | Statuam in foro sisto | I place the statue in the forum
+sistrum | Sistrum in templo Isidis sonat | The rattle sounds in the temple of Isis
+sitella | Sitella sortes tenet | The lottery-urn holds the lots
+sitio | Post cursum sitio | I am thirsty after the run
+sitis | Sitis militem ad rivum ducit | Thirst leads the soldier to the stream
+situla | Situla aquam e puteo portat | The bucket carries water from the well
+smaragdus | Smaragdus lucem solis reflectit | The emerald reflects the light of the sun
+smegma | Smegma cutem lenem facit | The cleanser makes the skin smooth
+smilax | Smilax arborem circumdat | The bindweed winds round the tree
+sobrietas | Sobrietas juvenem in convivio laudabilem facit | Sobriety makes the young man praiseworthy at the dinner party
+sobrinus | Sobrinus Romam venit | The cousin comes to Rome
+soccus | Soccus pedem senis tegit | The slipper covers the old man's foot
+socer | Socer generum in villa exspectat | The father-in-law awaits the son-in-law at the farmhouse
+societas | Societas mercatorum navem emit | The association of merchants buys a ship
+socio | Vires cum amicis socio | I unite my strength with my friends
+socordia | Socordia nautae navem in portu tenet | The sailor's sloth keeps the ship in harbour
+socrus | Socrus nurum in culina docet | The mother-in-law teaches the daughter-in-law in the kitchen
+sodalis | Sodalis mihi epistulam mittit | The comrade sends me a letter
+sodalitas | Sodalitas amicorum convivium parat | The fellowship of friends prepares a banquet
+sol | Sol agros calefacit | The sun warms the fields
+solacium | Solacium vicini viduae dolorem levat | The neighbour's consolation eases the widow's grief
+solarium1 | Solarium horam monstrat | The sundial shows the hour
+solea | Solea rupta pedem hospitis laedit | The torn sandal hurts the guest's foot
+soleo | Mane surgere soleo | I am accustomed to rise early
+soliditas | Soliditas muri urbem tuetur | The solidity of the wall protects the city
+# third: solido "I solidify" is unnatural; frost is the natural subject
+solido | Gelu aquam solidat | The frost solidifies the water
+solitudo | Solitudo montium poetam inspirat | The solitude of the mountains inspires the poet
+solium | Solium eburneum in aula nitet | The ivory throne shines in the palace
+sollemnitas | Sollemnitas ritus sacerdotem decet | The solemnity of the rite suits the priest
+sollertia | Sollertia fabri machinam novam invenit | The craftsman's ingenuity invents a new machine
+sollicitatio | Sollicitatio oratoris populum ad iram concitat | The orator's instigation rouses the people to anger
+sollicito | Quietem vicini sollicito | I disturb the neighbour's rest
+sollicitudo | Sollicitudo mercatoris animum exedit | Anxiety gnaws at the merchant's mind
+soloecismus | Soloecismus in oratione magistrum offendit | A solecism in the speech offends the teacher
+solor | Viduam solor | I console the widow
+solstitium | Solstitium diem longissimum affert | The solstice brings the longest day
+solum1 | Solum arenosum aquam bibit | The sandy ground drinks the water
+solutio | Solutio debiti creditorem laetum facit | The payment of the debt makes the creditor glad
+solvo | Corrigiam solvo | I loosen the strap
+somnio | Noctu de patria somnio | I dream about my homeland at night
+somnium | Somnium dulce aegrum mulcet | A sweet dream soothes the sick man
+somnus | Somnus fessum agricolam post cenam vincit | Sleep overcomes the tired farmer after dinner
+sonitus | Sonitus tubae milites excitat | The sound of the trumpet rouses the soldiers
+# third: sono "I sound" is unnatural; a trumpet is the natural subject
+sono | Tuba in castris sonat | The trumpet sounds in the camp
+sonor | Sonor fontis hortum implet | The sound of the fountain fills the garden
+sonus1 | Sonus tibiae gregem tranquillum facit | The sound of the pipe makes the flock calm
+sophistes | Sophistes Athenis pecuniam pro doctrina petit | The sophist asks for money for teaching in Athens
+sopio | Gregem cantu sopio | I lull the flock with a song
+sopor | Sopor gravis viatorem sub arbore tenet | Heavy sleep holds the traveller under the tree
+soporo | Apes fumo soporo | I stupefy the bees with smoke
+sorbeo | Ovum crudum sorbeo | I swallow a raw egg
+sorbitio | Sorbitio calida aegrum reficit | The hot broth refreshes the sick man
+# third: sordeo "I am dirty" is unnatural; a garment is the natural subject
+sordeo | Vestis luto sordet | The garment is dirty with mud
+sordes | Sordes in via viatores offendit | The filth in the road offends the travellers
+# third: sordesco "I get dirty" is unnatural; a cloth is the natural subject
+sordesco | Albus pannus in culina sordescit | The white cloth gets dirty in the kitchen
+soror | Soror flores legit | The sister gathers flowers
+sors | Sors provinciam consuli dat | The lot gives the province to the consul
+sortio | Cum fratre sortio | I draw lots with my brother
+sortior | Cum collega sortior | I draw lots with my colleague
+sortitio | Sortitio provinciarum consules ad urnam vocat | The drawing of lots for the provinces calls the consuls to the urn
+sortitus2 | Sortitus magistratuum cives in foro tenet | The drawing of lots for the magistracies keeps the citizens in the forum
+# third: sospito "I protect" belongs to religious language; a god is the natural subject
+sospito | Juppiter urbem sospitat | Jupiter protects the city
+# skip: spadix is used in the entry as a colour adjective (chestnut-brown); its noun sense is a palm-branch, not the rank 1 sense
+spado | Spado in aula regis servit | The eunuch serves in the king's court
+spargo1 | Flores in via spargo | I scatter flowers on the road
+spartum | Spartum funem robustum praebet | Esparto provides a strong rope
+sparus1 | Sparus in atrio pendet | The hunting-spear hangs in the hall
+spatha | Spatha in armamentario jacet | The broadsword lies in the armoury
+spatior | In litore spatior | I walk on the shore
+spatium | Spatium inter columnas statuam capit | The space between the columns holds a statue
+species | Species villae emptorem allicit | The appearance of the villa attracts the buyer
+specimen | Specimen bonum discipulos docet | A good example teaches the pupils
+# skip: specio is attested only in archaic augural language and the perfect spexit, with no attested first person
+spectaculum | Spectaculum magnum populum ad circum trahit | The great spectacle draws the people to the circus
+spectamen | Spectamen virtutis ducem commendat | The proof of courage commends the leader
+spectatio | Spectatio stellarum nautam nocte juvat | The contemplation of the stars helps the sailor at night
+spectator | Spectator in summa cavea sedet | The observer sits in the highest tier of seats
+spectatrix | Spectatrix ad fenestram stat | The female observer stands at the window
+specto | Nubes in caelo specto | I watch the clouds in the sky
+spectrum | Spectrum nocte viatorem terret | The apparition frightens the traveller at night
+specula1 | Specula in colle stat | The watchtower stands on the hill
+specula2 | Specula salutis aegrum sustinet | A faint hope of recovery sustains the sick man
+speculator | Speculator ante exercitum equitat | The scout rides ahead of the army
+speculatrix | Speculatrix in muro vigilat | The female watcher keeps watch on the wall
+speculor | Castra hostium speculor | I spy on the enemy camp
+speculum | Speculum faciem dominae ostendit | The mirror shows the lady's face
+specus | Specus in monte ursum tegit | The cave in the mountain shelters a bear
+spelaeum | Spelaeum pastorem a pluvia defendit | The cave protects the shepherd from the rain
+spelunca | Spelunca prope rivum latet | The cave lies hidden near the stream
+sperno | Munera divitis sperno | I spurn the rich man's gifts
+spero | Pacem spero | I hope for peace
+spes | Spes naufragum ad litus ducit | Hope leads the shipwrecked man to the shore
+sphaera | Sphaera in mensa magistri stat | The sphere stands on the teacher's table
+spica | Spica aurea in vento movetur | The golden ear of grain moves in the wind
+# third: spico "I spike" is unnatural; grain is the natural subject, and the entry attests the form spicant
+spico | Triticum in agro spicat | The wheat puts forth ears in the field
+spiculum | Spiculum apis agricolam pungit | The bee's sting pricks the farmer
+spina | Spina in rosa digitum viatoris laedit | The thorn on the rose hurts the traveller's finger
+spinter | Spinter aureus brachium dominae ornat | The golden armlet adorns the lady's arm
+spira | Spira serpentis in via jacet | The coil of the snake lies on the road
+spiramen | Spiramen in muro aerem admittit | The vent in the wall lets in air
+spiramentum | Spiramentum culinae fumum emittit | The vent of the kitchen lets out smoke
+spiritus | Spiritus hieme in aere apparet | The breath shows in the air in winter
+spiro | In alto monte aegre spiro | I breathe with difficulty on the high mountain
+spisso | Salsam farina spisso | I thicken the sauce with flour
+# third: splendeo "I shine" is unnatural; the moon is the natural subject
+splendeo | Luna nocte splendet | The moon shines at night
+splendor | Splendor lunae lacum implet | The brilliance of the moon fills the lake
+spoliarium | Spoliarium sub gradibus amphitheatri latet | The stripping-room lies hidden under the tiers of the amphitheatre
+spoliatio | Spoliatio provinciae senatum irritat | The plundering of the province angers the senate
+spolio | Urbem victam spolio | I plunder the conquered city
+spolium | Spolium bellicum in templo pendet | The war spoil hangs in the temple
+spondeo | Hospiti auxilium spondeo | I pledge help to the guest
+spondylus | Spondylus in dorso piscis latet | The vertebra lies hidden in the back of the fish
+spongia1 | Spongia aquam e mensa bibit | The sponge soaks up water from the table
+sponsio | Sponsio amici creditorem sedat | The friend's guarantee reassures the creditor
+sponsor | Sponsor pro amico apud judicem stat | The surety stands before the judge on behalf of the friend
+sponsus3 | Sponsus Marci et Liviae familias laetas facit | The betrothal of Marcus and Livia makes the families glad
+sportula | Sportula panem et caseum tenet | The basket holds bread and cheese
+spuma | Spuma post undam in litore manet | The foam stays on the shore after the wave
+# third: spumo "I foam" is unnatural; the sea is the natural subject
+spumo | Mare tempestate spumat | The sea foams in the storm
+# third: spuo "I spit" is a crude bodily verb; an animal is the natural subject
+spuo | Camelus in terram spuit | The camel spits on the ground
+spurco | Vestes luto spurco | I befoul the clothes with mud
+# third: sputo "I spit" is a crude bodily verb; an animal is the natural subject
+sputo | Serpens venenum sputat | The snake spits venom
+# third: squaleo "I am squalid" is unnatural; a neglected building is the natural subject
+squaleo | Villa deserta squalet | The deserted farmhouse is squalid
+squalor | Squalor tabernae viatorem ab ingressu deterret | The squalor of the inn deters the traveller from entering
+squama | Squama piscis in sole nitet | The scale of the fish gleams in the sun
+stabilimentum | Stabilimentum vitem in vento tenet | The support holds the vine in the wind
+stabilio | Parietem trabe stabilio | I stabilise the wall with a beam
+stabilitas | Stabilitas pontis viatores securos facit | The stability of the bridge makes the travellers safe
+# third: stabulor "I am stabled" is unnatural; livestock is the natural subject
+stabulor | Pecus in antro stabulatur | The herd is stabled in the cave
+stabulum | Stabulum equos hospitis tegit | The stable shelters the guest's horses
+stacta | Stacta odorem dulcem in domo dat | Myrrh oil gives a sweet scent in the house
+stadium | Stadium Olympiae athletas exspectat | The track at Olympia awaits the athletes
+# third: stagno1 "I stagnate" is unnatural; water is the natural subject
+stagno1 | Aqua in fossa stagnat | The water stagnates in the ditch
+stagnum1 | Stagnum ranas alit | The pool feeds frogs
+stamen | Stamen in colu pendet | The thread hangs on the distaff
+statera | Statera pondus farinae monstrat | The balance shows the weight of the flour
+statio | Statio ad pontem viam custodit | The guard-post at the bridge watches the road
+stator1 | Stator consulis epistulam portat | The consul's orderly carries a letter
+statua | Statua aenea in porticu nitet | The bronze statue gleams in the colonnade
+statuliber | Statuliber heredi servit | The conditionally-freed slave serves the heir
+statuo | Tentorium in campo statuo | I set up a tent in the field
+statura | Alta statura gladiatorem commendat | The tall stature commends the gladiator
+status2 | Status aegri medicum sollicitat | The condition of the sick man worries the doctor
+stella | Stella nautae viam monstrat | The star shows the sailor the way
+stellionatus | Stellionatus mercatoris judicem irritat | The merchant's fraud angers the judge
+# skip: stello is attested almost only as the participle stellans or stellatus, with no usable indicative form
+stemma | Stemma familiae in atrio pendet | The pedigree of the family hangs in the hall
+stercoro | Agrum stercoro | I manure the field
+stercus | Stercus agrum fertilem facit | The dung makes the field fertile
+sterilitas | Sterilitas soli agricolam sollicitat | The sterility of the soil worries the farmer
+sterno | Stragulum in lecto sterno | I spread the blanket on the bed
+sternumentum | Sternumentum fabulam interrumpit | The sneeze interrupts the story
+sternuo | Prae pulvere sternuo | I sneeze because of the dust
+sterto | Noctem totam sterto | I snore all night
+stibium | Stibium oculos mulieris ornat | The kohl adorns the woman's eyes
+stigma | Stigma nomen domini monstrat | The brand shows the owner's name
+stilla | Stilla aquae in folio tremit | The drop of water trembles on the leaf
+stillicidium | Stillicidium e tecto in vase sonat | The dripping from the roof sounds in the bowl
+# third: stillo "I drip" is unnatural; honey is the natural subject
+stillo | Mel de favo stillat | The honey drips from the comb
+stilus | Stilus ferreus in mensa jacet | The iron stylus lies on the table
+stimulo | Asinum virga stimulo | I goad the donkey with a stick
+stimulus | Stimulus bovem ad opus movet | The goad moves the ox to its work
+stinguo | Ignem aqua stinguo | I extinguish the fire with water
+stipatio | Stipatio senatoris viam angustam implet | The senator's retinue fills the narrow street
+stipator | Stipator regem ad portam comitatur | The bodyguard accompanies the king to the gate
+stipendior | In exercitu stipendior | I am paid in the army
+stipendium | Stipendium militi a quaestore datur | The pay is given to the soldier by the quaestor
+stipes | Stipes crassus in prato jacet | The thick trunk lies in the meadow
+stipo | Lanam in saccum stipo | I cram wool into the sack
+# skip: stips1 has no attested nominative singular (only stipem, stipe, stipes are cited), so no headword form can be used
+stipula | Stipula post messem in agro manet | The stalk stays in the field after the harvest
+stipulatio | Stipulatio emptorem et venditorem ligat | The stipulation binds the buyer and the seller
+stipulo | Pretium stipulo | I stipulate a price
+stipulor | Fidem a debitore stipulor | I demand a formal pledge from the debtor
+stirps | Stirps Corneliorum in senatu floret | The family stock of the Cornelii flourishes in the senate
+stlata | Stlata merces per mare portat | The broad-beamed ship carries goods across the sea
+sto | Ante portam sto | I stand before the gate
+stola | Stola ad talos matronae pertinet | The stola reaches to the matron's ankles
+stolo1 | Stolo ex radice olivae crescit | The sucker shoot grows from the root of the olive
+stomachus | Stomachus aegri cibum non patitur | The sick man's stomach does not tolerate food
+strabo1 | Strabo vicinum ad cenam invitat | The squinter invites the neighbour to dinner
+strages | Strages in acie ducem tristem facit | The carnage on the battlefield saddens the general
+stramen | Stramen aureum in horreo jacet | The golden straw lies in the barn
+stramentum | Stramentum equo lectum praebet | The straw gives the horse a bed
+# third: strangulo "I strangle" is grim in the first person; a gladiator is a natural subject
+strangulo | Gladiator adversarium strangulat | The gladiator strangles his opponent
+strategema | Strategema ducis hostes decipit | The general's stratagem deceives the enemy
+strebula | Strebula pinguis ad focum assatur | The fat haunch-meat is roasted at the hearth
+strena | Strena bona viatorem confirmat | The good omen encourages the traveller
+# third: strepito "I rustle" is unnatural; a bird is the natural subject
+strepito | Corvus inter frondes strepitat | The raven rustles among the leaves
+strepitus | Strepitus plaustri vicinos excitat | The din of the wagon wakes the neighbours
+# third: strepo "I rumble" is unnatural; thunder is the natural subject
+strepo | Tonitrus procul strepit | Thunder rumbles in the distance
+stribligo | Stribligo in epistula grammaticum vexat | The solecism in the letter vexes the grammarian
+strictura | Strictura stomachi medicum sollicitat | The stricture of the stomach worries the doctor
+# third: strideo "I creak" is unnatural; a door is the natural subject
+strideo | Janua vetus stridet | The old door creaks
+stridor | Stridor rotae asinum terret | The screech of the wheel startles the donkey
+strigilis | Strigilis sudorem athletae removet | The strigil scrapes off the athlete's sweat
+stringo | Saccum fune stringo | I tie the sack tight with a rope
+strio1 | Columnam strio | I groove the column
+strix1 | Strix in turri nocte clamat | The screech owl cries in the tower at night
+stropha | Stropha callida servum ab ira domini servat | The clever trick saves the slave from the master's anger
+strophium | Strophium rubrum in cista jacet | The red breast band lies in the chest
+structio | Structio muri multos operarios exigit | The construction of the wall requires many workers
+structor | Structor ad novam villam lapides portat | The builder carries stones to the new farmhouse
+structura | Structura aquaeductus peregrinos ad admirationem movet | The structure of the aqueduct moves the visitors to wonder
+strues | Strues lignorum prope focum jacet | The heap of logs lies near the hearth
+struix | Struix lapidum viam claudit | The heap of stones blocks the road
+struma1 | Struma aegrum a labore prohibet | The tumour keeps the sick man from work
+struo | Murum saxeum struo | I build a stone wall
+struppus | Struppus remum nautae firmat | The strap secures the sailor's oar
+struthiocamelus | Struthiocamelus celeriter currit | The ostrich runs quickly
+studeo | Gloriae studeo | I strive for glory
+studium | Studium militum ducem confirmat | The zeal of the soldiers encourages the general
+stultitia | Stultitia regis civitatem in periculum ducit | The king's folly leads the state into danger
+stupefacio | Hostem clamore stupefacio | I stun the enemy with a shout
+stupeo | Ad nuntium stupeo | I am stunned by the news
+stupor | Stupor virum in limine tenet | The stupor holds the man on the threshold
+stupro | Nullam feminam stupro | I debauch no woman
+stuprum | Stuprum nomen familiae maculat | Debauchery stains the family's name
+suadela | Suadela oratoris judices movet | The orator's persuasion moves the judges
+suadeo | Amico quiescere suadeo | I advise my friend to rest
+suasio | Suasio lenis hostes ad pacem inducit | The gentle persuasion leads the enemy to peace
+suasor | Suasor regi viam meliorem monstrat | The adviser shows the king a better way
+suavitas | Suavitas vini hospites in convivio retinet | The pleasantness of the wine keeps the guests at the banquet
+suavitudo | Suavitudo cantus pastorem somno invitat | The pleasantness of the song invites the shepherd to sleep
+suavium | Suavium neptis avum laetum facit | The granddaughter's kiss makes the grandfather glad
+subactio | Subactio longa oratorem ad causam instruit | The long preparation equips the orator for the case
+subausculto | Ad januam subausculto | I eavesdrop at the door
+subblandior | Catulo subblandior | I pet the puppy
+subdo | Lapidem rotae subdo | I put a stone under the wheel
+subduco | Copias a ripa subduco | I withdraw the troops from the bank
+subeo | Murum subeo | I approach the wall
+suber | Suber in silva crescit | The cork-oak grows in the wood
+subices | Subices pondus pontis ferunt | The underlayers bear the weight of the bridge
+subicio | Pulvinum capiti aegri subicio | I place a cushion under the sick man's head
+subigito | Numquam subigito | I never fornicate
+subigo | Gentes finitimas subigo | I subdue the neighbouring tribes
+subinvideo | Vicino subinvideo | I envy the neighbour a little
+subirascor | Collegae subirascor | I am a little angry with my colleague
+# third: subjaceo "I underlie" is unnatural; a rock is the natural subject
+subjaceo | Saxum arenae subjacet | The rock underlies the sand
+subjectio | Subjectio lapidum pontem firmum facit | The placing of stones underneath makes the bridge firm
+subjecto | Cuneos plaustro subjecto | I place wedges under the wagon
+subjugo | Provincias rebelles subjugo | I subjugate the rebellious provinces
+subjungo | Boves aratro subjungo | I yoke the oxen to the plough
+sublabor | In arenam mollem sublabor | I sink into the soft sand
+sublatio | Sublatio vocis in carmine auditores movet | The elevation of the voice in the song moves the listeners
+sublego | Poma lapsa sublego | I gather up the fallen apples
+sublevo | Aegrum brachio sublevo | I support the sick man with my arm
+sublica | Sublica in flumine pontem tenet | The pile in the river holds up the bridge
+subligo | Gladium ad latus subligo | I bind the sword on at my side
+sublimitas | Sublimitas arcis hostes arcet | The loftiness of the citadel keeps the enemy away
+sublimo | Signum in hasta sublimo | I elevate the standard on a pole
+sublino | Murum calce sublino | I prime the wall with lime
+# third: subluceo "I glimmer" is unnatural; a lamp is the natural subject
+subluceo | Lucerna in cubiculo sublucet | The lamp glimmers in the bedroom
+subluco | Vites subluco | I prune the vines
+subluo | Manus in rivo subluo | I wash my hands in the stream
+subluvies | Subluvies caenosa viam lubricam facit | The muddy filth makes the road slippery
+# third: subnascor "I sprout" is unnatural; grass is the natural subject
+subnascor | Herba post pluviam subnascitur | The grass sprouts after the rain
+subnecto | Velum antennae subnecto | I tie the sail under the sail-yard
+subnoto | Nomina testium subnoto | I note down the names of the witnesses
+# third: suboleo is attested only in the impersonal third person singular, subolet
+suboleo | Fraus mihi subolet | A trick dawns on me
+suboles | Suboles nobilis patriam amat | The noble offspring loves the homeland
+suborno | Navem remis suborno | I equip the ship with oars
+subscribo | Nomen epistulae subscribo | I write my name underneath the letter
+subscriptio | Subscriptio statuae nomen sculptoris monstrat | The inscription on the statue shows the sculptor's name
+subscriptor | Subscriptor ante praetorem tabulam signat | The co-signer signs the tablet before the praetor
+subscus | Subscus tabulas jungit | The tenon joins the boards
+subseco | Ungues subseco | I clip my nails
+subsellium | Subsellium in curia senatorem exspectat | The bench in the senate house awaits the senator
+subsequor | Ducem subsequor | I follow the leader
+subservio | Patrono subservio | I serve the patron
+subsessor | Subsessor in silva viatorem exspectat | The waylayer waits for the traveller in the wood
+subsidium | Subsidium post aciem manet | The reserve waits behind the line
+# third: subsido "I settle down" is unnatural; dust is the natural subject
+subsido | Pulvis post equitatum subsidit | The dust settles down after the cavalry
+subsigno | Tabulam subsigno | I undersign the document
+subsilio | Prae gaudio subsilio | I leap up for joy
+subsisto | In media via subsisto | I stop in the middle of the road
+subsortior | Judicem subsortior | I choose a substitute judge by lot
+subsortitio | Subsortitio judicum praetorem occupat | The substitution of judges by lot occupies the praetor
+substantia | Substantia patris tria praedia continet | The father's property includes three estates
+substerno | Rosas viae substerno | I strew roses on the road
+substituo | Militi fesso alium substituo | I substitute another man for the tired soldier
+# third: substo is attested in the sense "be present" only of a symptom such as pain or fever
+substo | Febris in aegro substat | The fever is present in the sick man
+substringo | Crinem nodo substringo | I bind up my hair in a knot
+substruo | Templum saxo quadrato substruo | I build a foundation of squared stone under the temple
+subsulto | Per pratum subsulto | I hop across the meadow
+# third: subsum "I underlie" is unnatural; a foundation is the natural subject
+subsum | Fundamentum muro subest | The foundation underlies the wall
+subtego | Manu oculos subtego | I shield my eyes with my hand
+subtemen | Subtemen purpureum in tela nitet | The purple weft gleams on the loom
+# third: subterfluo "I flow beneath" is unnatural; a stream is the natural subject
+subterfluo | Rivus urbem subterfluit | The stream flows beneath the city
+subterfugio | Periculum subterfugio | I evade the danger
+# third: subterlabor "I flow under" is unnatural; a river is the natural subject
+subterlabor | Amnis pontem subterlabitur | The river flows under the bridge
+# third: subtero "I wear away" is unnatural; a foot is the natural subject
+subtero | Pes calceum subterit | The foot wears away the shoe
+subtexo | Fimbriam vesti subtexo | I affix a border to the garment
+subtilitas | Subtilitas lini mulierem ad emendum movet | The fineness of the linen moves the woman to buy
+subtraho | Manum ab igne subtraho | I withdraw my hand from the fire
+subucula | Subucula lanea viro hieme calorem dat | The woollen undershirt gives the man warmth in winter
+subulo1 | Subulo ad aram tibiam inflat | The flautist plays the pipe at the altar
+subvecto | Frumentum plaustro subvecto | I transport grain by wagon
+subveho | Merces flumine subveho | I transport goods up the river
+subvenio | Fratri aegro subvenio | I help my sick brother
+subverto | Mensam subverto | I overturn the table
+# third: subvolo "I fly up" is unnatural; a bird is the natural subject
+subvolo | Avis ad ramum subvolat | The bird flies up to the branch
+succedo | Consuli in imperio succedo | I succeed the consul in command
+succendo | Focum sarmentis succendo | I kindle the hearth with brushwood
+succenseo | Servo succenseo | I am angry with the slave
+succenturio1 | Novum militem succenturio | I recruit a new soldier as a reserve
+succerno | Farinam cribro succerno | I sift the flour through a sieve
+successio | Successio magistratuum ordinem civitatis servat | The succession of magistrates preserves the order of the state
+successor | Successor ducis exercitum ad hiberna ducit | The general's successor leads the army to winter quarters
+successus2 | Successus in bello ducem populo carum facit | Success in war makes the general dear to the people
+succidia | Succidia in cella pendet | The flitch of bacon hangs in the pantry
+succido1 | Prae lassitudine in genua succido | I sink to my knees from exhaustion
+succido2 | Arborem securi succido | I fell the tree with an axe
+succingo | Tunicam zona succingo | I gird my tunic with a belt
+succino | Cantori tibia succino | I accompany the singer on the pipe
+succlamo | Oratori succlamo | I shout back at the orator
+succollo | Sarcinam succollo | I shoulder the pack
+succumbo | Oneri succumbo | I succumb to the load
+succurro | Naufrago succurro | I help the shipwrecked man
+succutio | Pilam in aerem succutio | I toss the ball up into the air
+# skip: sucula3 is attested only in the plural suculae (the Hyades), so the headword form is not usable
+sucus | Sucus pomi sitim levat | The juice of the apple eases thirst
+sudis | Sudis acuta fossam munit | The sharp stake guards the ditch
+sudo | Aestate in agro sudo | I sweat in the field in summer
+sudor | Sudor in fronte militis fluit | The sweat flows on the soldier's brow
+suesco | Frigori suesco | I grow accustomed to the cold
+suffarcino | Pulvinum plumis suffarcino | I stuff the cushion with feathers
+suffero | Laborem longum suffero | I endure long labour
+suffervefacio | Aquam in olla suffervefacio | I warm the water in the pot
+# third: sufficio "I suffice" is unnatural; bread is the natural subject
+sufficio | Panis uni diei sufficit | The bread suffices for one day
+suffigo | Edictum columnae suffigo | I affix the edict to the column
+suffimentum | Suffimentum templum odore implet | The incense fills the temple with fragrance
+suffio | Cubiculum sulphure suffio | I fumigate the bedroom with sulphur
+suffitio | Suffitio aerem in domo purgat | The fumigation cleans the air in the house
+sufflamen | Sufflamen rotam in descensu retardat | The brake slows the wheel on the descent
+sufflamino | Plaustrum in clivo sufflamino | I brake the wagon on the slope
+sufflo | Utrem sufflo | I inflate the wineskin
+# third: suffoco "I suffocate" is grim in the first person; ash and a flame are the natural subject and object
+suffoco | Cinis flammam suffocat | The ash suffocates the flame
+suffodio | Murum hostium suffodio | I undermine the enemy wall
+suffragatio | Suffragatio amicorum candidatum juvat | The support of friends helps the candidate
+suffragator | Suffragator consulis in comitiis clamat | The consul's supporter shouts in the assembly
+suffragium | Suffragium civis in urna jacet | The citizen's vote lies in the urn
+suffrago1 | Suffrago equi saltum adjuvat | The horse's hock helps the jump
+suffragor | Candidato probo suffragor | I vote for the honest candidate
+suffugio | Ad montes suffugio | I flee to the mountains
+suffugium | Suffugium viatorem ab imbre tuetur | The shelter protects the traveller from the downpour
+suffulcio | Vitem palo suffulcio | I prop up the vine with a stake
+suffumigo | Stabulum sulphure suffumigo | I fumigate the stable with sulphur
+suffundo | Lanam purpura suffundo | I suffuse the wool with purple
+suffusio | Suffusio oculum senis obscurat | The suffusion dims the old man's eye
+suggero | Militibus frumentum suggero | I supply the soldiers with grain
+suggestio | Suggestio brevis orationem perficit | The brief addition completes the speech
+suggestum | Suggestum altum oratorem a turba separat | The high platform separates the orator from the crowd
+suggestus2 | Suggestus in campo ducem attollit | The platform in the field raises the general
+sugillatio | Sugillatio in brachio athletae manet | The bruise remains on the athlete's arm
+# third: sugillo "I bruise" is grim in the first person; a soldier is a natural subject
+sugillo | Miles hostem sugillat | The soldier bruises the enemy
+sugo | Aquam per calamum sugo | I suck water through a reed
+sulcator | Sulcator cum bubus ad agrum it | The plougher goes to the field with his oxen
+sulco | Agrum vere sulco | I plough the field in spring
+sulcus2 | Sulcus rectus semina accipit | The straight furrow receives the seeds
+sulfur | Sulfur ignem facile concipit | Sulphur catches fire easily
+sum1 | Domi sum | I am at home
+sumen | Sumen suis cenam lautam facit | The sow's udder makes the dinner luxurious
+summa | Summa nummorum creditorem contentum facit | The sum of coins makes the creditor content
+# skip: summas is an adjective (high-born, noble), not a noun
+summergo | Lapidem in aquam summergo | I submerge the stone in the water
+sumministro | Operariis aquam sumministro | I supply the workers with water
+summitas | Summitas montis nubibus latet | The summit of the mountain lies hidden in the clouds
+summitto | Vexillum summitto | I lower the standard
+summoveo | Turbam e via summoveo | I remove the crowd from the road
+sumo | Cibum de mensa sumo | I take food from the table
+sumptus2 | Sumptus nuptiarum familiam premit | The expense of the wedding weighs on the family
+suo | Vestem acu suo | I sew the garment with a needle
+suovetaurilia | Suovetaurilia agros lustrant | The pig-sheep-bull sacrifice purifies the fields
+supellex | Supellex nova cubiculum implet | The new furniture fills the bedroom
+# third: super11 (superfluo) "I overflow" is unnatural; a spring is the natural subject
+super11 | Fons post pluviam superfluit | The spring overflows after the rain
+# skip: super13 (supergredior) is filed as a noun in the source and its key gives no usable headword form
+# third: super4 (supereffluo) "I superabound" is unnatural; money is the natural subject
+super4 | Pecunia in arca supereffluit | Money superabounds in the chest
+# third: super6 (supereminĕo) "I overtop" is unnatural; a tower is the natural subject
+super6 | Turris tecta supereminet | The tower overtops the roofs
+# third: superabundo "I superabound" is unnatural; grain is the natural subject
+superabundo | Frumentum in horreo superabundat | Grain superabounds in the barn
+superbia | Superbia Tarquinii Romanos ad rebellionem impellit | The arrogance of Tarquin drives the Romans to revolt
+superbio | Nomine avi superbio | I am proud of my grandfather's name
+supercilium | Supercilium crassum oculum tegit | The thick eyebrow covers the eye
+# third: supercresco "I overgrow" is unnatural; ivy is the natural subject
+supercresco | Hedera murum supercrescit | The ivy overgrows the wall
+superfero | Fascem humero superfero | I carry the bundle over my shoulder
+superficies | Superficies mensae pulvere tegitur | The surface of the table is covered with dust
+superfundo | Aquam capiti superfundo | I pour water over my head
+superillino | Tabulam cera superillino | I besmear the tablet with wax
+superimpono | Lapidem trabi superimpono | I superimpose a stone on the beam
+superinduco | Mensam linteo superinduco | I cover the table over with a linen cloth
+superingero | Ligna igni superingero | I heap logs on the fire
+superinicio | Pallium umeris superinicio | I throw the cloak over my shoulders
+superjacio | Funem trabi superjacio | I throw the rope over the beam
+superlatio | Superlatio poetae lectorem movet | The poet's hyperbole moves the reader
+superlino | Panem melle superlino | I smear the bread over with honey
+supero | Fratrem ingenio supero | I surpass my brother in talent
+superpono | Operculum ollae superpono | I place a lid over the pot
+supersedeo | Itinere supersedeo | I forgo the journey
+superstitio | Superstitio vulgus timore implet | Superstition fills the common people with fear
+supersto | Puteo supersto | I stand over the well
+superstruo | Fundamento domum superstruo | I build a house over the foundation
+supersum | Solus in aula supersum | I remain alone in the hall
+supertego | Fenum storea supertego | I cover the hay over with a mat
+supervehor | Ante villam supervehor | I ride past the farmhouse
+# third: supervenio "I supervene" is unnatural; rain is the natural subject
+supervenio | Pluvia subito supervenit | Rain suddenly comes on
+supervivo | Bello supervivo | I survive the war
+supino | Caput supino | I bend my head back
+supo | Grana avibus supo | I scatter grain for the birds
+supparum | Supparum album mulierem in aestate tegit | The white smock covers the woman in summer
+suppetiae | Suppetiae vicinorum villam servant | The help of the neighbours saves the farmhouse
+# third: suppeto "I am available" is unnatural; grain is the natural subject
+suppeto | Frumentum militibus suppetit | Grain is available for the soldiers
+# third: suppilo "I pilfer" is unnatural in the first person; a slave is a natural subject
+suppilo | Servus nummos domini suppilat | The slave pilfers the master's coins
+suppingo1 | Soccos suppingo | I resole the slippers
+supplanto | Hostem supplanto | I trip up the enemy
+supplementum | Supplementum ex urbe ad castra venit | The reinforcements arrive at the camp from the city
+suppleo | Lagenam aqua suppleo | I fill up the flask with water
+supplicatio | Supplicatio post victoriam cives ad templa ducit | The supplication after the victory leads the citizens to the temples
+supplicium | Supplicium legis fraudatorem terret | The punishment of the law frightens the swindler
+supplico | Deae supplico | I beseech the goddess
+supplodo | Pedem in terram supplodo | I stamp my foot on the ground
+suppono | Trabes tecto suppono | I place beams under the roof
+supporto | Frumentum ad castra supporto | I convey grain to the camp
+supprimo | Rebellionem supprimo | I suppress the revolt
+# third: suppuro "I suppurate" is unnatural; a sore is the natural subject
+suppuro | Ulcus in digito suppurat | The sore on the finger suppurates
+supputo | Rationes supputo | I reckon the accounts
+sura1 | Sura cursoris post cursum dolet | The runner's calf aches after the race
+surculus | Surculus novus de trunco nascitur | The new shoot grows from the trunk
+surgo | De lecto surgo | I rise from the bed
+surrepo | Ad leporem surrepo | I creep up on the hare
+surripio | Panem e mensa surripio | I steal bread from the table
+# third: surruo "I undermine" is unnatural; a river is the natural subject
+surruo | Amnis ripam surruit | The river undermines the bank
+sus | Sus glandes sub quercu quaerit | The pig seeks acorns under the oak
+susceptio | Susceptio operis difficilis architectum non terret | The undertaking of the difficult work does not frighten the architect
+susceptor | Susceptor civium in periculo auxilium fert | The protector of the citizens brings help in danger
+suscipio | Opus novum suscipio | I undertake a new task
+suscito | Nautam dormientem suscito | I rouse the sleeping sailor
+suspecto1 | E turri hostes suspecto | I watch the enemy from the tower
+suspectus2 | Suspectus civium judicem honestum comitatur | The esteem of the citizens accompanies the honest judge
+suspendium | Suspendium in tragoedia spectatores tristes facit | The hanging in the tragedy saddens the spectators
+suspendo | Coronam in janua suspendo | I hang the wreath on the door
+suspicio1 | Montem altum suspicio | I look up at the high mountain
+suspicio2 | Suspicio judicis testem terret | The judge's suspicion frightens the witness
+suspicor | Fraudem servi suspicor | I suspect the slave's trickery
+suspiritus | Suspiritus senis ad fenestram auditur | The old man's sigh is heard at the window
+suspirium | Suspirium militis fessi nocte sonat | The tired soldier's sigh sounds at night
+suspiro | Prae fatigatione suspiro | I sigh from weariness
+sustentatio | Sustentatio navium mercatorem tristem facit | The delay of the ships saddens the merchant
+sustento | Tectum columnis sustento | I support the roof with columns
+sustineo | Pondus humeris sustineo | I support the weight on my shoulders
+sustollo | Manum sustollo | I raise my hand
+susurro1 | Fratri in aurem susurro | I whisper in my brother's ear
+susurrus1 | Susurrus in templo sacerdotem interrumpit | The whisper in the temple interrupts the priest
+sutor | Sutor calceos in taberna reficit | The cobbler repairs shoes in the shop
+sycophanta | Sycophanta in comoedia militem vanum ludificat | The trickster in the comedy mocks the vain soldier
+syllaba | Syllaba brevis in versu cito transit | The short syllable passes quickly in the verse
+symbola | Symbola sodalium cenam communem parat | The contribution of the comrades prepares the shared dinner
+symbolus | Symbolus legatum apud regem commendat | The token commends the envoy to the king
+symphonia | Symphonia vocum et tibiarum auditores tranquillos facit | The harmony of voices and pipes makes the listeners calm
+synthesis | Synthesis purpurea convivam elegantem facit | The purple dinner gown makes the diner elegant
+syrma | Syrma actoris tragici per scaenam trahitur | The train of the tragic actor's robe drags across the stage

@@ -1,0 +1,71 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/U.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+uber1 | Uber caprae lac copiose fundit | The goat's udder pours out milk freely
+ubertas | Ubertas vindemiae vicos ditat | The abundance of the vintage enriches the villages
+# third: ulcero "I ulcerate" is unnatural; a wound is the natural subject
+ulcero | Vulnus neglectum ulcerat | The neglected wound ulcerates
+ulciscor | Injuriam ulciscor | I avenge the wrong
+ulcus | Ulcus in crure senis medicum vocat | The ulcer on the old man's leg summons the doctor
+ulmus | Ulmus ad ripam umbram dat | The elm by the bank gives shade
+ulna | Ulna nautae saccum tenet | The sailor's arm holds the sack
+ultio | Ultio ducem ad bellum impellit | Revenge drives the leader to war
+ultor | Ultor injuriae ad regem it | The avenger of the wrong goes to the king
+ululatus | Ululatus per vicum resonat | The wailing echoes through the street
+# third: ululo "I howl" is unnatural; a wolf is the natural subject
+ululo | Lupus nocte ululat | The wolf howls at night
+umbilicus | Umbilicus in medio ventre jacet | The navel lies in the middle of the belly
+umbo | Umbo scuti militis in sole fulget | The boss of the soldier's shield flashes in the sun
+umbra | Umbra turris vespere longa fit | The shadow of the tower grows long in the evening
+umbraculum | Umbraculum vitis hospites a sole protegit | The bower of vines protects the guests from the sun
+# third: umbro "I shade" is unnatural; a tree is the natural subject
+umbro | Platanus fontem umbrat | The plane tree shades the spring
+umecto | Linteum aqua umecto | I moisten the cloth with water
+# third: umeo "I am moist" is unnatural; the ground is the natural subject
+umeo | Terra post pluviam umet | The ground is moist after the rain
+umerus | Umerus viatoris sarcinam portat | The traveller's shoulder carries the pack
+umor | Umor in terra herbas nutrit | Moisture in the soil feeds the plants
+uncia | Uncia hereditatis fratri datur | A twelfth of the inheritance goes to the brother
+unctio | Unctio athletam ante certamen firmat | The anointing strengthens the athlete before the contest
+uncus1 | Uncus ferreus ad parietem pendet | The iron hook hangs on the wall
+unda | Unda navem ad litus fert | The wave carries the ship to the shore
+# third: undo "I surge" is unnatural; a river is the natural subject
+undo | Flumen post pluviam undat | The river surges after the rain
+ungo | Caput oleo ungo | I anoint my head with oil
+unguento | Simulacrum deae nardo unguento | I perfume the image of the goddess with nard
+unguentum | Unguentum in vase vitreo servatur | The ointment is kept in a glass jar
+unguiculus | Unguiculus pictoris colore tingitur | The painter's fingernail is stained with colour
+unguis | Unguis longus scribam impedit | The long fingernail hinders the scribe
+ungula | Ungula equi in luto haeret | The horse's hoof sticks in the mud
+unio2 | Unio candidus in anulo fulget | The white pearl glitters in the ring
+unitas | Unitas civium urbem firmam facit | The unity of the citizens makes the city strong
+universitas | Universitas mundi philosophum movet | The totality of the world moves the philosopher
+urbanitas | Urbanitas oratoris hospites capit | The urbanity of the orator wins over the guests
+urbs | Urbs muros altos habet | The city has high walls
+urceus | Urceus fictilis in mensa stat | The earthenware pitcher stands on the table
+urgeo | Ceram pollice urgeo | I press the wax with my thumb
+urina | Urina aegri medico morbum indicat | The sick man's urine shows the disease to the doctor
+urna | Urna aquam e fonte portat | The urn carries water from the spring
+uro | Stipulam in agro uro | I burn the stubble in the field
+ursa | Ursa in monte mel quaerit | The she-bear seeks honey on the mountain
+ursus | Ursus in spelunca hieme dormit | The bear sleeps in the cave in winter
+urtica | Urtica ad viam crescit | The nettle grows by the road
+urvo | Locum urbis novae urvo | I plough round the site of the new city
+usio | Usio fontis vicum juvat | The use of the spring helps the village
+# skip: usitor is attested as a finite verb only in the perfect in Gellius; elsewhere only the participle usitatus occurs
+ustulo | Pennas gallinae in flamma ustulo | I scorch the hen's feathers in the flame
+usucapio1 | Fundum biennio usucapio | I acquire the estate by prescription after two years
+usucapio2 | Usucapio fundum possessori post biennium dat | Usucaption gives the estate to the possessor after two years
+usura | Usura equi hospiti conceditur | The use of the horse is granted to the guest
+usurpatio | Usurpatio verbi vulgaris orationem planam facit | The use of a common word makes the speech plain
+usurpo | Verbum vetus usurpo | I use an old word
+usus2 | Usus aratri agricolam instruit | The use of the plough trains the farmer
+uter1 | Uter plenus in plaustro jacet | The full wineskin lies on the wagon
+uterus | Uterus in libro medici describitur | The womb is described in the doctor's book
+utilitas | Utilitas aquaeductus civitatem juvat | The usefulness of the aqueduct benefits the city
+# skip: uto is attested only in the imperative utito (Cato), with no first person
+utor | Libris utor | I use books
+utriculus2 | Utriculus apis nectare tumet | The little belly of the bee swells with nectar
+uva | Uva matura in vite pendet | The ripe grape hangs on the vine
+# third: uvesco "I grow moist" is unnatural; a garment is the natural subject
+uvesco | Vestis in litore uvescit | The garment grows moist on the shore
+uxor | Uxor viro togam novam texit | The wife weaves a new toga for her husband

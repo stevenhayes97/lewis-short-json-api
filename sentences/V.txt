@@ -1,0 +1,291 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/V.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+vacatio | Vacatio militiae veteranum laetum facit | The exemption from service makes the veteran happy
+vacillo | Prae lassitudine vacillo | I stagger from weariness
+# third: vaco "I am empty" is unnatural; a barn is the natural subject
+vaco | Horreum vacat | The barn is empty
+# skip: vacue2 is the compound vacuefacio, written as one word in the attested forms; the tool's headword vacue gives no usable verb form
+vacuitas | Vacuitas fori mercatorem sollicitat | The emptiness of the forum worries the merchant
+vacuo | Cistam vacuo | I empty the chest
+vadimonium | Vadimonium reum ad judicium obligat | The bail binds the defendant to the trial
+vado1 | Ad forum vado | I go to the forum
+vador | Reum vador | I bind the defendant over by bail
+vadum | Vadum viatoribus transitum praebet | The shallows give the travellers a crossing
+vagina | Vagina cultrum tegit | The sheath covers the knife
+# third: vagio "I wail" is unnatural; a baby is the natural subject
+vagio | Infans in cuna vagit | The baby wails in the cradle
+vagitus | Vagitus matrem e somno excitat | The wailing wakes the mother from sleep
+vago | Per silvas vago | I wander through the woods
+vagor1 | Per agros vagor | I wander through the fields
+valentia1 | Valentia athletae spectatores obstupefacit | The athlete's strength astonishes the spectators
+valeo | Corpore valeo | I am strong in body
+valesco | Post morbum valesco | I grow strong after illness
+valetudo | Valetudo ducis exercitum confirmat | The general's health reassures the army
+valles | Valles inter montes jacet | The valley lies between the mountains
+vallo | Collem fossa vallo | I fortify the hill with a ditch
+vallum | Vallum castra circumdat | The rampart surrounds the camp
+vallus1 | Vallus in terra defigitur | The stake is driven into the ground
+valva | Valva noctu clauditur | The folding door is closed at night
+vanesco | Ex oculis vanesco | I vanish from sight
+vanitas | Vanitas orationis senatum offendit | The emptiness of the speech offends the senate
+vapor | Vapor e balneo surgit | The steam rises from the bath
+# third: vaporo "I steam" is unnatural; a spring is the natural subject
+vaporo | Fons in frigore vaporat | The spring steams in the cold
+vappa | Vappa mercatori displicet | The flat wine displeases the merchant
+# third: vapulo "I am flogged" is unnatural; kept to a plain military statement
+vapulo | Miles vapulat | The soldier is flogged
+varico | Fossam varico | I straddle the ditch
+variego | Vestem coloribus variego | I give the dress many colours
+varietas | Varietas florum pratum ornat | The variety of flowers adorns the meadow
+vario | Colores in tela vario | I vary the colours in the cloth
+vas1 | Vas pro reo in foro adest | The surety is present in the forum for the defendant
+vas2 | Vas vinum servat | The vessel keeps the wine
+vasarium | Vasarium proconsuli datur | The furniture allowance is given to the proconsul
+vasculum | Vasculum mel continet | The small vessel holds honey
+vastatio | Vastatio agrorum rusticos in urbem fugat | The devastation of the fields drives the countrymen into the city
+vastitas | Vastitas ultra montes patet | The wasteland stretches beyond the mountains
+vastitudo | Vastitudo templi sacerdotes contristat | The destruction of the temple saddens the priests
+vasto | Agros vasto | I devastate the fields
+vates | Vates deorum voluntatem nuntiat | The seer announces the will of the gods
+vaticinor | De bello vaticinor | I prophesy about the war
+vecordia | Vecordia consulis senatum conturbat | The consul's folly disturbs the senate
+vectigal | Vectigal mercatores gravat | The tax burdens the merchants
+vectis1 | Vectis saxum de via removet | The lever shifts the rock from the road
+vecto | Frumentum plaustro vecto | I carry grain on the cart
+vector | Vector in navi dormit | The passenger sleeps on the ship
+vectura | Vectura frumenti pretium auget | The transport of grain raises the price
+vegeo | Animum cantu vegeo | I quicken my spirit with song
+vegeto | Aegrum cibo vegeto | I invigorate the sick man with food
+vehementia | Vehementia fluminis pontem rumpit | The vehemence of the river breaks the bridge
+vehes | Vehes faeni in via stat | The cartload of hay stands in the road
+vehiculum | Vehiculum viatores ad urbem portat | The vehicle carries the travellers to the city
+veho | Onus equo veho | I carry the load on a horse
+velamentum | Velamentum statuam a pulvere servat | The covering keeps the statue from dust
+veles | Veles ante aciem currit | The skirmisher runs in front of the battle line
+velifico | Per aequora velifico | I sail across the waves
+velificor | Ad insulam velificor | I sail to the island
+velitatio | Velitatio mercatorum forum implet | The bickering of the merchants fills the forum
+velitor | Cum hoste velitor | I skirmish with the enemy
+vellico | Pomum digitis vellico | I pinch the fruit with my fingers
+vello | Violas e prato vello | I pluck violets from the meadow
+vellus | Vellus ovis in sole siccatur | The fleece of the sheep is dried in the sun
+velo | Faciem palla velo | I veil my face with a shawl
+velocitas | Velocitas equi spectatores in circo excitat | The speed of the horse excites the spectators in the circus
+velum | Velum ventum capit | The sail catches the wind
+vena | Vena in bracchio patet | The vein stands out on the arm
+venatio | Venatio juvenes in montes vocat | Hunting calls the young men to the mountains
+venator | Venator cervum in silva quaerit | The hunter looks for the deer in the forest
+venatus | Venatus corpus exercet | Hunting exercises the body
+venditatio | Venditatio poetae in convivio taedium movet | The poet's boasting causes boredom at the banquet
+venditio | Venditio fundi pecuniam heredi affert | The sale of the farm brings money to the heir
+vendito | Poma in via vendito | I hawk fruit in the street
+venditor | Venditor pretium dicit | The seller names the price
+vendo | Equum vendo | I sell the horse
+veneficium | Veneficium judices occupat | The poisoning occupies the judges
+# third: veneno "I poison" reads unnaturally for a violent verb
+veneno | Hostis fontes venenat | The enemy poisons the springs
+venenum | Venenum a medico agnoscitur | The poison is recognised by the doctor
+# third: veneo "I am sold" is unnatural; wine is the natural subject
+veneo | Vinum bene venit | The wine is selling well
+veneratio | Veneratio sacerdotis populum ad templum ducit | The veneration for the priest leads the people to the temple
+venia | Venia regis exsulem ad patriam revocat | The king's favour calls the exile back to his homeland
+venio | Ex Italia venio | I come from Italy
+venor | Lepores in colle venor | I hunt hares on the hill
+venter | Venter cibum postulat | The belly demands food
+ventilo | Flammam ventilo | I fan the flame
+ventito | Ad theatrum ventito | I frequent the theatre
+ventus | Ventus arbores quatit | The wind shakes the trees
+venumdo | Pecora venumdo | I sell the cattle
+# skip: venus2 is attested only in the forms venui, veno and venum (dative, ablative, accusative); no nominative headword form
+venustas | Venustas carminis lectorem tenet | The charm of the poem holds the reader
+vepres | Vepres viam impedit | The bramble blocks the path
+ver | Ver terram floribus vestit | Spring clothes the earth with flowers
+verbena | Verbena aram coronat | The sacred bough crowns the altar
+verber | Verber equum ad cursum incitat | The lash urges the horse to run
+verberatio | Verberatio militem ad disciplinam revocat | The beating recalls the soldier to discipline
+# third: verbero1 "I flog" reads unnaturally for a violent verb
+verbero1 | Dux desertorem verberat | The general flogs the deserter
+verbum | Verbum e libro discitur | The word is learned from the book
+verecundia | Verecundia juvenem tacitum facit | Modesty makes the youth silent
+verecundor | Coram senatu verecundor | I am bashful before the senate
+# third: vergo "I incline" is unnatural; a hill is the natural subject
+vergo | Collis ad mare vergit | The hill inclines toward the sea
+veritas | Veritas a judice quaeritur | The truth is sought by the judge
+# third: vermiculor "I become wormy" is unnatural; a tree is the natural subject
+vermiculor | Arbor vermiculatur | The tree becomes wormy
+vermiculus | Vermiculus in pomo latet | The little grub hides in the fruit
+# third: vermino "I have worms" is unnatural; a sheep is the natural subject
+vermino | Ovis verminat | The sheep has worms
+verna | Verna dominae epistulam affert | The house-born slave brings the lady a letter
+# third: verno "I bloom" is unnatural; a forest is the natural subject
+verno | Silva in sole vernat | The forest blooms in the sun
+verres1 | Verres glandes sub quercu quaerit | The boar looks for acorns under the oak
+verro | Pavimentum verro | I sweep the floor
+verruca | Verruca in digito apparet | The wart appears on the finger
+versiculus | Versiculus in tabula scribitur | The little line of verse is written on the tablet
+versifico | Fabulam versifico | I versify the story
+verso | Rotam manu verso | I turn the wheel with my hand
+versura | Versura mercatorem onerat | The loan burdens the merchant
+versus3 | Versus memoriam juvat | The verse helps the memory
+vertex | Vertex montis nive tegitur | The summit of the mountain is covered with snow
+vertigo | Vertigo viatorem in via sistit | Dizziness stops the traveller in the road
+verto | Equum ad flumen verto | I turn the horse towards the river
+veru | Veru in culina pendet | The spit hangs in the kitchen
+verutum | Verutum a milite portatur | The javelin is carried by the soldier
+vescor | Pane vescor | I eat bread
+vesica | Vesica aere impletur | The bladder is filled with air
+vesper | Vesper agricolam a labore revocat | Evening calls the farmer back from work
+vespera | Vespera in oppido silentium affert | Evening brings silence to the town
+vestibulum | Vestibulum clientes exspectantes recipit | The vestibule receives the waiting clients
+vestigium | Vestigium in nive manet | The footprint stays in the snow
+vestigo | Vulpem per nivem vestigo | I track the fox through the snow
+vestimentum | Vestimentum a matre texitur | The garment is woven by the mother
+vestio | Pauperem lana vestio | I clothe the poor man with wool
+vestis | Vestis hominem a frigore defendit | Clothing protects a person from the cold
+vestitus2 | Vestitus mercatoris divitias ostendit | The merchant's clothing shows his wealth
+# third: veterasco "I age" is unnatural; cheese is the natural subject
+veterasco | Caseus in cella veterascit | The cheese ages in the cellar
+veterator | Veterator difficile negotium solvit | The expert solves the difficult business
+veto | Iter veto | I forbid the journey
+# skip: vetulus is an adjective (diminutive of vetus, "old"), misfiled as a noun
+vetustas | Vetustas statuam obscurat | Age dims the statue
+vexatio | Vexatio senem urget | The vexation weighs on the old man
+vexillarius | Vexillarius ante cohortem ambulat | The standard-bearer walks before the cohort
+vexillatio | Vexillatio ad flumen mittitur | The detachment is sent to the river
+vexillum | Vexillum ante legionem fertur | The standard is carried before the legion
+vexo | Praedones vexo | I harass the raiders
+via | Via ad urbem ducit | The road leads to the city
+viator | Viator ad fontem sedet | The traveller sits by the spring
+vibro | Facem vibro | I brandish a torch
+# skip: vicesimus is an ordinal adjective ("twentieth"), misfiled as a noun
+vicinia | Vicinia noctu quiescit | The neighbourhood rests at night
+vicinitas | Vicinitas medicum vocat | The neighbourhood summons the doctor
+# skip: vicis has no nominative singular (the source says the nominative does not occur); vicis is a genitive
+vicissitudo | Vicissitudo dierum noctiumque anni cursum signat | The alternation of days and nights marks the course of the year
+victima | Victima ad templum ducitur | The sacrificial animal is led to the temple
+victito | Fructibus victito | I subsist on fruit
+victor1 | Victor coronam accipit | The victor receives a wreath
+victoria | Victoria bellum finit | Victory ends the war
+victoriatus1 | Victoriatus in crumena tinnit | The victory coin jingles in the purse
+# skip: victrix is an adjective ("victorious") at rank 1, misfiled as a noun
+victus2 | Victus pauperis ex pane et caseo constat | The poor man's sustenance consists of bread and cheese
+vicus | Vicus mane tumultu mercatorum resonat | The street rings with the bustle of merchants in the morning
+video | Navem in mari video | I see a ship at sea
+# third: viduo "I bereave" reads unnaturally for a violent verb
+viduo | Hostis urbem civibus viduat | The enemy bereaves the city of its citizens
+vieo | Corbem vimine vieo | I weave a basket from willow
+# third: vigeo "I thrive" is unnatural; an olive tree is the natural subject
+vigeo | Oliva in colle viget | The olive tree thrives on the hill
+# third: vigesco "I flourish" is unnatural; a poplar is the natural subject
+vigesco | Populus ad flumen vigescit | The poplar flourishes by the river
+vigilantia | Vigilantia custodis furem arcet | The guard's vigilance keeps the thief away
+vigilia | Vigilia studentem pallidum reddit | Wakefulness makes the student pale
+vigilo | Per noctem vigilo | I stay awake through the night
+vigintiviri | Vigintiviri tabulas conscribunt | The board of twenty draws up the records
+vigor | Vigor corporis athletam ad victoriam ducit | The vigour of the body leads the athlete to victory
+vilico1 | Praedium vilico | I oversee the estate
+vilitas | Vilitas frumenti pauperes adjuvat | The cheapness of grain helps the poor
+villa | Villa prope mare stat | The villa stands near the sea
+villus | Villus lanae in spina haeret | The tuft of wool sticks to the thorn
+vimen | Vimen in aqua mollitur | The willow shoot is softened in the water
+vincio | Fasciculum lino vincio | I bind the bundle with flax
+vinco | Hostem in pugna vinco | I conquer the enemy in battle
+vinculum | Vinculum amicitiae cives conjungit | The bond of friendship unites the citizens
+vindemia | Vindemia autumno incipit | The vintage begins in autumn
+vindemiator | Vindemiator uvas in corbem ponit | The vintager puts the grapes into the basket
+vindex | Vindex libertatis Romam non deserit | The defender of freedom does not abandon Rome
+vindicatio | Vindicatio fundi ante praetorem agitur | The legal claim to the farm is pleaded before the praetor
+vindiciae | Vindiciae apud judicem dicuntur | The legal claims are stated before the judge
+vindico | Fundum meum vindico | I claim my farm
+vindicta | Vindicta regem ad bellum impellit | Vengeance drives the king to war
+vinetum | Vinetum sub sole matutino viret | The vineyard is green under the morning sun
+vinum | Vinum lassos reficit | Wine refreshes the weary
+vio | Per Galliam vio | I travel through Gaul
+viola | Viola sub arbore latet | The violet hides under the tree
+violator | Violator foederis a senatu damnatur | The violator of the treaty is condemned by the senate
+violentia | Violentia tempestatis navem ad saxa rapit | The violence of the storm sweeps the ship onto the rocks
+violo | Foedus violo | I violate the treaty
+vipera | Vipera in sole dormit | The viper sleeps in the sun
+vir | Vir cenam parat | The man prepares the dinner
+virago | Virago ante exercitum equitat | The female warrior rides before the army
+virectum | Virectum ovibus pabulum praebet | The greensward gives pasture to the sheep
+# third: vireo1 "I am green" is unnatural; a willow is the natural subject
+vireo1 | Salix ad rivum viret | The willow is green by the stream
+# third: viresco "I turn green" is unnatural; a plain is the natural subject
+viresco | Campus post imbrem virescit | The plain turns green after the rain
+virga | Virga in vento flectitur | The twig bends in the wind
+virginitas | Virginitas Vestalium a populo honoratur | The virginity of the Vestals is honoured by the people
+virgo | Virgo ignem Vestae custodit | The virgin guards the fire of Vesta
+virgula | Virgula in manu sacerdotis micat | The wand gleams in the priest's hand
+# skip: virgultum is attested only in the plural (virgulta); the tool's headword form virgultum would be an unattested singular
+viriditas | Viriditas prati oculos reficit | The greenness of the meadow refreshes the eyes
+# third: virido "I make green" is unnatural; rain is the natural subject
+virido | Pluvia agros viridat | The rain makes the fields green
+virilitas | Virilitas militi robur dat | Manhood gives the soldier strength
+virtus | Virtus ducem in periculo non deserit | Courage does not desert the general in danger
+virus | Virus in dente serpentis latet | The poison lurks in the snake's tooth
+vis | Vis venti arbores frangit | The force of the wind breaks the trees
+viscum | Viscum in quercu crescit | Mistletoe grows on the oak
+viscus1 | Viscus in libro medici nominatur | The internal organ is named in the doctor's book
+visio | Visio in somno sacerdotem monet | A vision in sleep warns the priest
+visito | Matrem visito | I visit my mother
+viso | Templum viso | I view the temple
+visum | Visum deae pastorem admonet | The vision of the goddess admonishes the shepherd
+visus2 | Visus senis cotidie minuitur | The old man's sight grows weaker every day
+vita | Vita hominum cito praeterit | Human life passes quickly
+vitellus | Vitellus in aqua fervente durescit | The yolk hardens in the boiling water
+vitio | Aquam luto vitio | I taint the water with mud
+vitiositas | Vitiositas hominis amicos fugat | The viciousness of the man drives his friends away
+vitis | Vitis ulmo innititur | The vine leans on the elm
+vitium | Vitium in columna architectum sollicitat | The fault in the column worries the architect
+vito | Turbam vito | I avoid the crowd
+vitricus | Vitricus in oppido habitat | The stepfather lives in the town
+vitrum | Vitrum lucem transmittit | Glass lets the light through
+vitta | Vitta caput sacerdotis cingit | The fillet binds the priest's head
+vitulor | Ob pacem vitulor | I rejoice over the peace
+vitulus | Vitulus in stabulo lac bibit | The calf drinks milk in the stable
+vituperatio | Vituperatio populi poetam silentem reddit | The people's blame makes the poet silent
+vitupero1 | Negligentiam servi vitupero | I blame the slave's negligence
+vivacitas | Vivacitas cervorum a poetis laudatur | The longevity of stags is praised by the poets
+vivo | In montibus vivo | I live in the mountains
+vocabulum | Vocabulum urbis in carmine legitur | The name of the city is read in the poem
+vocatus | Vocatus ducis tribunum ad castra revocat | The general's summons recalls the tribune to the camp
+vociferor | Ex fenestra vociferor | I shout from the window
+vocito | Fratrem vocito | I call my brother
+voco | Medicum voco | I call the doctor
+vocula | Vocula senis in silentio vix auditur | The old man's feeble little voice is scarcely heard in the silence
+volatus | Volatus avium caelum implet | The flight of the birds fills the sky
+# third: volito "I flit" is unnatural; a bee is the natural subject
+volito | Apis inter flores volitat | The bee flits among the flowers
+# third: volo2 "I fly" is unnatural; a bird is the natural subject
+volo2 | Avis ad nidum volat | The bird flies to its nest
+volo3 | Volo in castra venit | The volunteer comes to the camp
+volsella | Volsella in arca tonsoris jacet | The tweezers lie in the barber's chest
+volubilitas | Volubilitas rotae lutum in vas format | The whirling of the wheel shapes the clay into a vessel
+volumen | Volumen in bibliotheca servatur | The scroll is kept in the library
+voluntas | Voluntas populi consulem eligit | The will of the people chooses the consul
+voluptas | Voluptas ex musica oritur | Pleasure arises from music
+volutatio | Volutatio porcos in luto refrigerat | Wallowing cools the pigs in the mud
+voluto | Saxum de colle voluto | I roll the stone from the hill
+volva | Volva semen tegit | The covering shields the seed
+volvo | Globum per viam volvo | I roll the ball along the road
+vomer | Vomer terram scindit | The ploughshare splits the soil
+vomica | Vomica medicum sollicitat | The abscess worries the doctor
+vomitio | Vomitio aegrum debilitat | Vomiting weakens the sick man
+vomitus | Vomitus viatorem in navi vexat | Vomiting troubles the traveller on the ship
+# third: vomo "I vomit" is a crude bodily verb; given to an animal
+vomo | Canis post cibum vomit | The dog vomits after the meal
+vorago | Vorago ante viatorem hiat | The abyss yawns before the traveller
+voro | Cibum voro | I devour the food
+votum | Votum nautae in tempestate fit | The sailor's vow is made in the storm
+voveo | Templum Jovi voveo | I vow a temple to Jupiter
+vox | Vox oratoris per theatrum sonat | The orator's voice rings through the theatre
+vulgo2 | Librum vulgo | I publish the book
+vulgus | Vulgus ad circum properat | The populace hurries to the circus
+# third: vulnero "I wound" reads unnaturally for a violent verb
+vulnero | Exercitus hostem vulnerat | The army wounds the enemy
+vulnus | Vulnus militis medicum ad castra vocat | The soldier's wound calls the doctor to the camp
+vulpes | Vulpes uvas in vinea spectat | The fox watches the grapes in the vineyard
+vultur1 | Vultur supra montem circuit | The vulture circles above the mountain
+vulturius | Vulturius in rupe nidum facit | The vulture builds a nest on the cliff
+vultus | Vultus senatoris curam ostendit | The senator's expression shows worry
