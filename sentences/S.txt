@@ -580,3 +580,14 @@ suber | Suber in silva crescit | The cork-oak grows in the wood
 subices | Subices pondus pontis ferunt | The underlayers bear the weight of the bridge
 subicio | Pulvinum capiti aegri subicio | I place a cushion under the sick man's head
 subigito | Numquam subigito | I never fornicate
+subigo | Gentes finitimas subigo | I subdue the neighbouring tribes
+subinvideo | Vicino subinvideo | I envy the neighbour a little
+subirascor | Collegae subirascor | I am a little miffed with my colleague
+# third: subjaceo "I underlie" is unnatural; a rock is the natural subject
+subjaceo | Saxum arenae subjacet | The rock underlies the sand
+subjectio | Subjectio lapidum pontem firmum facit | The placing of stones underneath makes the bridge firm
+subjecto | Cuneos plaustro subjecto | I place wedges under the wagon
+subjugo | Provincias rebelles subjugo | I subjugate the rebellious provinces
+subjungo | Boves aratro subjungo | I yoke the oxen to the plough
+sublabor | In arenam mollem sublabor | I sink into the soft sand
+sublatio | Sublatio vocis in carmine auditores movet | The elevation of the voice in the song moves the listeners
