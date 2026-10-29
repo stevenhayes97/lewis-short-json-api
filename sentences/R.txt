@@ -372,3 +372,14 @@ retraho | Amicum a ripa retraho | I draw my friend back from the bank
 retribuo | Vicino pecuniam retribuo | I repay the neighbour the money
 retroago | Pecus retroago | I drive the herd back
 retrudo | Taurum in stabulum retrudo | I thrust the bull back into the stable
+retundo | Falcem retundo | I blunt the sickle
+reus | Reus ante judicem stat | The defendant stands before the judge
+revalesco | Brevi tempore revalesco | I recover in a short time
+reveho | Merces ad urbem reveho | I bring the goods back to the city
+revello | Clavum e pariete revello | I tear the nail away from the wall
+revelo | Statuam revelo | I unveil the statue
+revenio | Ad portam revenio | I return to the gate
+# third: reverbero "I reverberate" is unnatural; a cliff is the natural subject
+reverbero | Rupes sonum reverberat | The cliff sends the sound back
+reverentia | Reverentia pueros in templo quietos tenet | Reverence keeps the boys quiet in the temple
+revereor | Senem revereor | I revere the old man
