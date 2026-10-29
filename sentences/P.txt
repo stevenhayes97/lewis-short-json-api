@@ -719,3 +719,15 @@ praeoccupo | Collem praeoccupo | I occupy the hill in advance
 praeopto | Otium negotio praeopto | I prefer leisure to business
 praeostendo | Mercatori mercem praeostendo | I show the merchant the goods beforehand
 praeparatio | Praeparatio convivii coquum occupat | The preparation of the banquet keeps the cook busy
+praeparo | Naves praeparo | I prepare the ships
+praepedio | Equum funi praepedio | I shackle the horse with a rope
+# third: praependeo "I overhang" is unnatural; a beard is the natural subject
+praependeo | Barba senis praependet | The old man's beard hangs down in front
+praepolleo | Mari praepolleo | I dominate at sea
+# third: praepondero "I preponderate" is unnatural; lead is the natural subject
+praepondero | Plumbum in lance praeponderat | The lead outweighs in the scale
+praepono | Honestum utili praepono | I prefer the honourable to the useful
+praepositio | Praepositio unius filii ceteros angit | The preference for one son grieves the others
+praepossum | Viribus praepossum | I predominate through strength
+praeposteritas | Praeposteritas verborum lectorem confundit | The inversion of the words confuses the reader
+praeputium | Praeputium in libro Geneseos memoratur | The foreskin is mentioned in the book of Genesis
