@@ -81,3 +81,14 @@ satietas | Satietas convivam tardum facit | Satiety makes the guest slow
 satio1 | Famem pane satio | I satiate my hunger with bread
 satisdatio | Satisdatio creditorem a damno servat | The pledge of security protects the creditor from loss
 satisfactio | Satisfactio amici iram meam minuit | The friend's apology lessens my anger
+sator | Sator semina in agro spargit | The sower scatters seeds in the field
+satureia | Satureia fabas condit | Savory seasons the beans
+saturitas | Saturitas post cenam quietem affert | Satiety brings rest after dinner
+saturo | Equum aqua saturo | I satiate the horse with water
+satus2 | Satus frumenti autumno incipit | The sowing of the grain begins in autumn
+satyrus | Satyrus in silva tibia canit | The satyr plays the pipe in the wood
+# third: saucio a violent verb; keeps to a military frame
+saucio | Hostis militem saucit | The enemy wounds the soldier
+saxum | Saxum magnum fluvium dividit | The big rock divides the river
+scabellum | Scabellum pedes dominae sustinet | The footstool supports the lady's feet
+scabies | Scabies canem vexat | Mange troubles the dog
