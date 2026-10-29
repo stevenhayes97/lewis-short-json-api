@@ -1027,3 +1027,14 @@ provolo | Ex castris provolo | I dart out of the camp
 provolvo | Dolium in cellam provolvo | I roll the jar into the cellar
 proximitas | Proximitas maris piscatori prodest | The proximity of the sea benefits the fisherman
 proximo2 | Ad ripam proximo | I approach the bank
+prudentia | Prudentia magistratus civitatem gubernat | The magistrate's prudence guides the city
+pruina | Pruina vites mane tegit | The frost covers the vines in the morning
+# third: prurio "I itch" is unnatural; a dog is the natural subject
+prurio | Canis in aure prurit | The dog itches in the ear
+prytaneum | Prytaneum civem honoratum ad cenam recipit | The town hall receives the honoured citizen for dinner
+psallo | Lyra psallo | I play the lyre
+psalterium | Psalterium in convivio sonat | The psaltery sounds at the banquet
+pseudothyrum | Pseudothyrum ad viam angustam patet | The back door opens onto the narrow street
+pterygium | Pterygium visum senis impedit | The eye film hinders the old man's sight
+ptisana | Ptisana in olla coquitur | The barley is cooked in the pot
+pubertas | Pubertas puerum ad togam virilem vocat | Puberty calls the boy to the adult toga
