@@ -560,3 +560,13 @@ studium | Studium militum ducem confirmat | The zeal of the soldiers encourages 
 stultitia | Stultitia regis civitatem in periculum ducit | The king's folly leads the state into danger
 stupefacio | Hostem clamore stupefacio | I stun the enemy with a shout
 stupeo | Ad nuntium stupeo | I am stunned by the news
+stupor | Stupor virum in limine tenet | The stupor holds the man on the threshold
+stupro | Nullam feminam stupro | I debauch no woman
+stuprum | Stuprum nomen familiae maculat | Debauchery stains the family's name
+suadela | Suadela oratoris judices movet | The orator's persuasion moves the judges
+suadeo | Amico quiescere suadeo | I advise my friend to rest
+suasio | Suasio lenis hostes ad pacem inducit | The gentle persuasion leads the enemy to peace
+suasor | Suasor regi viam meliorem monstrat | The adviser shows the king a better way
+suavitas | Suavitas vini hospites in convivio retinet | The pleasantness of the wine keeps the guests at the banquet
+suavitudo | Suavitudo cantus pastorem somno invitat | The pleasantness of the song invites the shepherd to sleep
+suavium | Suavium neptis avum laetum facit | The granddaughter's kiss makes the grandfather glad
