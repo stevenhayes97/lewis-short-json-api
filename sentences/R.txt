@@ -407,3 +407,14 @@ rigeo | Prae frigore rigeo | I am stiff with cold
 rigesco | Vestis in gelu rigescit | The garment stiffens in the frost
 rigo | Agros rivo rigo | I water the fields from the stream
 rigor | Rigor ligni fabrum impedit | The rigidity of the wood hinders the carpenter
+rima | Rima in pariete aquam admittit | The crack in the wall lets in water
+rimor | Terram baculo rimor | I probe the ground with a stick
+# third: ringor "I snarl" is unnatural; a dog is the natural subject
+ringor | Canis ad hospitem ringitur | The dog snarls at the guest
+ripa | Ripa herbosa ranas habet | The grassy bank has frogs
+risus | Risus infantis matrem recreat | The baby's laughter cheers the mother
+rivulus | Rivulus per pratum currit | The rivulet runs through the meadow
+rivus | Rivus lapillos in valle volvit | The brook rolls pebbles in the valley
+rixa | Rixa vicinos separat | The quarrel separates the neighbours
+rixor | Cum fratre rixor | I quarrel with my brother
+robigo | Robigo ancoram consumit | The rust eats away the anchor
