@@ -486,3 +486,13 @@ piscor | In lacu piscor | I fish in the lake
 pistor | Pistor mane panem vendit | The baker sells bread in the morning
 pistrinum | Pistrinum farinam vicinis praebet | The mill supplies flour to the neighbours
 pistris | Pistris sub undis latet | The sea monster lurks beneath the waves
+pittacium | Pittacium in amphora annum vini indicat | The label on the jar indicates the year of the wine
+pituita | Pituita pectus senis gravat | The phlegm burdens the old man's chest
+pix | Pix in olla fervet | The pitch boils in the pot
+placeo | Magistro placeo | I please the teacher
+placo | Canem offa placo | I appease the dog with a morsel
+plaga1 | Plaga gladiatorem in arena repellit | The blow drives the gladiator back in the arena
+plaga2 | Plaga septentrionalis nivem per hiemem habet | The northern region has snow through the winter
+plaga3 | Plaga cervum inter arbores tenet | The net holds the stag among the trees
+plagiarius | Plagiarius ad judicium vocatur | The kidnapper is summoned to court
+plagula | Plagula lectum a luce tegit | The curtain shields the bed from the light
