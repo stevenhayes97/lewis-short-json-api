@@ -374,3 +374,15 @@ sonitus | Sonitus tubae milites excitat | The sound of the trumpet rouses the so
 # third: sono "I sound" is unnatural; a trumpet is the natural subject
 sono | Tuba in castris sonat | The trumpet sounds in the camp
 sonor | Sonor fontis hortum implet | The sound of the fountain fills the garden
+sonus1 | Sonus tibiae gregem tranquillum facit | The sound of the pipe makes the flock calm
+sophistes | Sophistes Athenis pecuniam pro doctrina petit | The sophist asks for money for teaching in Athens
+sopio | Gregem cantu sopio | I lull the flock with a song
+sopor | Sopor gravis viatorem sub arbore tenet | Heavy sleep holds the traveller under the tree
+soporo | Apes fumo soporo | I stupefy the bees with smoke
+sorbeo | Ovum crudum sorbeo | I swallow a raw egg
+sorbitio | Sorbitio calida aegrum reficit | The hot broth refreshes the sick man
+# third: sordeo "I am dirty" is unnatural; a garment is the natural subject
+sordeo | Vestis luto sordet | The garment is dirty with mud
+sordes | Sordes in via viatores offendit | The filth in the road offends the travellers
+# third: sordesco "I get dirty" is unnatural; a cloth is the natural subject
+sordesco | Albus pannus in culina sordescit | The white cloth gets dirty in the kitchen
