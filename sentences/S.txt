@@ -206,3 +206,13 @@ semino | Hordeum in agro semino | I sow barley in the field
 semipes | Semipes versum breviorem facit | The half-foot makes the verse shorter
 semis | Semis panis viatorem alit | Half of the bread feeds the traveller
 semita | Semita angusta ad casam fert | The narrow path leads to the cottage
+semoveo | Lapidem e via semoveo | I remove the stone from the road
+semuncia | Semuncia croci pretium magnum habet | A half-ounce of saffron has a high price
+# skip: semustulo is attested only as a past participle (semustulatus), so it has no headword form
+senaculum | Senaculum consules et praetores accipit | The senate-hall receives the consuls and praetors
+senator | Senator in curia orat | The senator speaks in the Senate House
+senectus2 | Senectus patrem lentum facit | Old age makes the father slow
+seneo | Jam seneo | I am old now
+senesco | Cum amicis senesco | I grow old with my friends
+senium | Senium membra avi debilitat | Decay weakens the grandfather's limbs
+sensus2 | Sensus odoratus canem ad cibum ducit | The sense of smell leads the dog to the food
