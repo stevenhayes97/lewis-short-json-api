@@ -1097,6 +1097,6 @@ purpuro | Lanam purpuro | I dye the wool purple
 pus | Pus medicum cautum facit | The pus makes the doctor cautious
 # skip: pusillus is an adjective (diminutive of pusus, "very small"), misfiled as a noun
 pustula | Pustula in cute apparet | The pustule appears on the skin
-pusula | Pusula unguine non tangitur | The pustule is not touched with the fingernail
+pusula | Pusula ungue non tangitur | The pustule is not touched with the fingernail
 putamen | Putamen nucis in terra jacet | The shell of the nut lies on the ground
 putatio | Putatio arborum in vere fit | The pruning of the trees takes place in spring
