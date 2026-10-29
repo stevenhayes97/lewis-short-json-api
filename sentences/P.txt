@@ -1006,3 +1006,14 @@ protendo | Manum protendo | I extend my hand
 protero | Equitatus hostes proterit | The cavalry tramples the enemy
 proterreo | Aves ab horto proterreo | I scare the birds away from the garden
 protervitas | Protervitas militis centurionem irritat | The soldier's impudence irritates the centurion
+protestor | Pro reo protestor | I testify for the defendant
+protollo | Dextram ad peregrinum protollo | I extend my right hand to the stranger
+protraho | Plaustrum e fossa protraho | I drag the cart out of the ditch
+protrudo | Navem in aquam protrudo | I push the ship into the water
+proturbo | Hostes ab agro proturbo | I repulse the enemy from the field
+proveho | Merces navi proveho | I convey the goods by ship
+# third: provenio "I arise" is unnatural; a spring is the natural subject
+provenio | Fons e rupe provenit | The spring arises from the rock
+proventus | Proventus vindemiae agricolam sustentat | The yield of the grape harvest supports the farmer
+proverbium | Proverbium discipulos ad laborem hortatur | The proverb urges the pupils to work
+providentia | Providentia gubernatoris navem a scopulis servat | The helmsman's foresight saves the ship from the rocks
