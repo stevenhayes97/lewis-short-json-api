@@ -685,3 +685,14 @@ praehibeo | Pauperi cibum praehibeo | I offer food to the poor man
 praejudicium | Praejudicium judicem ad sententiam ducit | The precedent leads the judge to a verdict
 praejudico | Causam praejudico | I prejudge the case
 praelabor | Scopulum praelabor | I glide past the rock
+praelego1 | Filiae fundum praelego | I bequeath a farm to my daughter
+praelego2 | Discipulis Vergilium praelego | I lecture to the pupils on Virgil
+praelibatio | Praelibatio veris pastores ad prata ducit | The foretaste of spring leads the shepherds to the meadows
+praeligo | Libros funiculo praeligo | I bind the books with a cord
+praeloquor | Ante senatum praeloquor | I speak first before the senate
+# third: praeluceo "I light" is unnatural; a torch is the natural subject
+praeluceo | Taeda viatori praelucet | The torch lights the way for the traveller
+praeludo | Ante carmen praeludo | I play a prelude before the song
+praemando1 | Cenam praemando | I order the dinner beforehand
+praemeditor | Responsum praemeditor | I premeditate my answer
+praemetuo | Hiemem praemetuo | I dread the winter in advance
