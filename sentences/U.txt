@@ -11,3 +11,16 @@ ulna | Ulna nautae saccum tenet | The sailor's arm holds the sack
 ultio | Ultio ducem ad bellum impellit | Revenge drives the leader to war
 ultor | Ultor injuriae ad regem it | The avenger of the wrong goes to the king
 ululatus | Ululatus per vicum resonat | The wailing echoes through the street
+# third: ululo "I howl" is unnatural; a wolf is the natural subject
+ululo | Lupus nocte ululat | The wolf howls at night
+umbilicus | Umbilicus in medio ventre jacet | The navel lies in the middle of the belly
+umbo | Umbo scuti militis in sole fulget | The boss of the soldier's shield flashes in the sun
+umbra | Umbra turris vespere longa fit | The shadow of the tower grows long in the evening
+umbraculum | Umbraculum vitis hospites a sole protegit | The bower of vines protects the guests from the sun
+# third: umbro "I shade" is unnatural; a tree is the natural subject
+umbro | Platanus fontem umbrat | The plane tree shades the spring
+umecto | Linteum aqua umecto | I moisten the cloth with water
+# third: umeo "I am moist" is unnatural; the ground is the natural subject
+umeo | Terra post pluviam umet | The ground is moist after the rain
+umerus | Umerus viatoris sarcinam portat | The traveller's shoulder carries the pack
+umor | Umor in terra herbas nutrit | Moisture in the soil feeds the plants
