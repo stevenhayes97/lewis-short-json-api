@@ -601,3 +601,13 @@ postprincipia | Postprincipia itineris viatorem fatigant | The continuation of t
 postulatio | Postulatio plebis tribunum ad rostra impellit | The demand of the plebeians drives the tribune to the rostra
 postulo | Silentium postulo | I demand silence
 potatio | Potatio juvenes ad mensam tenet | The drinking-bout keeps the young men at the table
+potentatus | Potentatus regis cives timidos facit | The king's dominion makes the citizens timid
+potentia1 | Potentia herbae aegrum sanat | The power of the herb heals the sick man
+potestas | Potestas patris filium regit | The father's power rules the son
+potio1 | Potio dulcis puero a medico datur | The sweet drink is given to the boy by the doctor
+# skip: potio2 is attested only in early Latin perfect forms (potivit, potitus est), with no usable headword form
+potiono | Mulum potiono | I dose the mule
+potior1 | Imperio potior | I obtain the command
+poto | Aquam frigidam poto | I drink cold water
+potor | Potor aquae ad fontem quiescit | The drinker of water rests at the spring
+potus2 | Potus dulcis agricolam aestate refrigerat | The sweet drink cools the farmer in summer
