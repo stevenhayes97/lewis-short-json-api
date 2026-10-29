@@ -550,3 +550,13 @@ structio | Structio muri multos operarios exigit | The construction of the wall 
 structor | Structor ad novam villam lapides portat | The builder carries stones to the new farmhouse
 structura | Structura aquaeductus peregrinos ad admirationem movet | The structure of the aqueduct moves the visitors to wonder
 strues | Strues lignorum prope focum jacet | The heap of logs lies near the hearth
+struix | Struix lapidum viam claudit | The heap of stones blocks the road
+struma1 | Struma aegrum a labore prohibet | The tumour keeps the sick man from work
+struo | Murum saxeum struo | I build a stone wall
+struppus | Struppus remum nautae firmat | The strap secures the sailor's oar
+struthiocamelus | Struthiocamelus celeriter currit | The ostrich runs quickly
+studeo | Gloriae studeo | I strive for glory
+studium | Studium militum ducem confirmat | The zeal of the soldiers encourages the general
+stultitia | Stultitia regis civitatem in periculum ducit | The king's folly leads the state into danger
+stupefacio | Hostem clamore stupefacio | I stun the enemy with a shout
+stupeo | Ad nuntium stupeo | I am stunned by the news
