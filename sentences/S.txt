@@ -397,3 +397,13 @@ sospito | Juppiter urbem sospitat | Jupiter protects the city
 # skip: spadix is used in the entry as a colour adjective (chestnut-brown); its noun sense is a palm-branch, not the rank 1 sense
 spado | Spado in aula regis servit | The eunuch serves in the king's court
 spargo1 | Flores in via spargo | I scatter flowers on the road
+spartum | Spartum funem robustum praebet | Esparto provides a strong rope
+sparus1 | Sparus in atrio pendet | The hunting-spear hangs in the hall
+spatha | Spatha in armamentario jacet | The broadsword lies in the armoury
+spatior | In litore spatior | I walk on the shore
+spatium | Spatium inter columnas statuam capit | The space between the columns holds a statue
+species | Species villae emptorem allicit | The appearance of the villa attracts the buyer
+specimen | Specimen bonum discipulos docet | A good example teaches the pupils
+# skip: specio is attested only in archaic augural language and the perfect spexit, with no attested first person
+spectaculum | Spectaculum magnum populum ad circum trahit | The great spectacle draws the people to the circus
+spectamen | Spectamen virtutis ducem commendat | The proof of courage commends the leader
