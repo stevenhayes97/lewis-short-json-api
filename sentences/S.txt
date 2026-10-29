@@ -527,3 +527,16 @@ stramen | Stramen aureum in horreo jacet | The golden straw lies in the barn
 stramentum | Stramentum equo lectum praebet | The straw gives the horse a bed
 # third: strangulo "I strangle" is grim in the first person; a gladiator is a natural subject
 strangulo | Gladiator adversarium strangulat | The gladiator strangles his opponent
+strategema | Strategema ducis hostes decipit | The general's stratagem deceives the enemy
+strebula | Strebula pinguis ad focum assatur | The fat haunch-meat is roasted at the hearth
+strena | Strena bona viatorem confirmat | The good omen encourages the traveller
+# third: strepito "I rustle" is unnatural; a bird is the natural subject
+strepito | Corvus inter frondes strepitat | The raven rustles among the leaves
+strepitus | Strepitus plaustri vicinos excitat | The din of the wagon wakes the neighbours
+# third: strepo "I rumble" is unnatural; thunder is the natural subject
+strepo | Tonitrus procul strepit | Thunder rumbles in the distance
+stribligo | Stribligo in epistula grammaticum vexat | The solecism in the letter vexes the grammarian
+strictura | Strictura stomachi medicum sollicitat | The stricture of the stomach worries the doctor
+# third: strideo "I creak" is unnatural; a door is the natural subject
+strideo | Janua vetus stridet | The old door creaks
+stridor | Stridor rotae asinum terret | The screech of the wheel startles the donkey
