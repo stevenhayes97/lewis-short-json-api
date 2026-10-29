@@ -289,3 +289,14 @@ tribulum | Tribulum per aream a bove trahitur | The threshing-sledge is dragged 
 tribulus | Tribulus equitatum hostium in via tardat | The caltrop slows the enemy cavalry on the road
 tribunal | Tribunal praetoris prope curiam stat | The praetor's tribunal stands near the senate house
 tribunatus | Tribunatus juvenem ad gloriam vocat | The tribuneship calls the young man to glory
+# Chunk 26
+tribunus | Tribunus milites in campo instruit | The tribune draws up the soldiers on the plain
+tribuo | Veniam amico tribuo | I grant my friend pardon
+tribus | Tribus in campo Martio suffragium fert | The tribe casts its vote on the Campus Martius
+tributio | Tributio frumenti plebem ad forum vocat | The distribution of grain calls the people to the forum
+tricae | Tricae scribae magistrum irritant | The scribe's nonsense irritates the teacher
+# skip: tricesimus is an ordinal adjective (thirtieth), not a noun
+triclinium | Triclinium fenestram latam habet | The dining room has a wide window
+tricor | In atrio tricor | I shuffle about in the hall
+triduum | Triduum in montibus quietem praebet | Three days in the mountains provide rest
+triennium | Triennium pacis agros fertiles reddit | The three years of peace make the fields fertile
