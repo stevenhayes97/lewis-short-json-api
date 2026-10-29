@@ -983,3 +983,14 @@ prosequor | Hospitem ad portum prosequor | I accompany my guest to the harbour
 prosero1 | Segetem prosero | I sow the crop
 # third: proserpo "I creep forward" is unnatural; a snake is the natural subject
 proserpo | Anguis inter saxa proserpit | The snake creeps forward among the rocks
+prosilio | E lecto prosilio | I leap from the bed
+prospecto | Mare e turri prospecto | I watch the sea from the tower
+prospector | Prospector e colle viam observat | The watcher observes the road from the hill
+prospectus2 | Prospectus ex arce urbem ostendit | The view from the citadel shows the city
+prospeculor | Viam prospeculor | I scout the road
+prosperitas | Prosperitas navigationis mercatorem ditat | The prosperity of the voyage enriches the merchant
+prospero | Negotium prospero | I make the business prosper
+prospicio | Tempestatem prospicio | I foresee the storm
+prosterno | Me ante aram prosterno | I prostrate myself before the altar
+# third: prostituo "I prostitute" is unnatural in the first person; kept to a plain third-person statement
+prostituo | Mulier se prostituit | The woman prostitutes herself
