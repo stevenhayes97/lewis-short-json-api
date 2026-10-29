@@ -692,3 +692,14 @@ suffimentum | Suffimentum templum odore implet | The incense fills the temple wi
 suffio | Cubiculum sulphure suffio | I fumigate the bedroom with sulphur
 suffitio | Suffitio aerem in domo purgat | The fumigation cleans the air in the house
 sufflamen | Sufflamen rotam in descensu retardat | The brake slows the wheel on the descent
+sufflamino | Plaustrum in clivo sufflamino | I brake the wagon on the slope
+sufflo | Utrem sufflo | I inflate the wineskin
+# third: suffoco "I suffocate" is grim in the first person; ash and a flame are the natural subject and object
+suffoco | Cinis flammam suffocat | The ash suffocates the flame
+suffodio | Murum hostium suffodio | I undermine the enemy wall
+suffragatio | Suffragatio amicorum candidatum juvat | The support of friends helps the candidate
+suffragator | Suffragator consulis in comitiis clamat | The consul's supporter shouts in the assembly
+suffragium | Suffragium civis in urna jacet | The citizen's vote lies in the urn
+suffrago1 | Suffrago equi saltum adjuvat | The horse's hock helps the jump
+suffragor | Candidato probo suffragor | I vote for the honest candidate
+suffugio | Ad montes suffugio | I flee to the mountains
