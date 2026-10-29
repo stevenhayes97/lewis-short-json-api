@@ -107,3 +107,17 @@ verberatio | Verberatio militem ad disciplinam revocat | The beating recalls the
 verbero1 | Dux desertorem verberat | The general flogs the deserter
 verbum | Verbum e libro discitur | The word is learned from the book
 verecundia | Verecundia juvenem tacitum facit | Modesty makes the youth silent
+verecundor | Coram senatu verecundor | I am bashful before the senate
+# third: vergo "I incline" is unnatural; a hill is the natural subject
+vergo | Collis ad mare vergit | The hill inclines toward the sea
+veritas | Veritas a judice quaeritur | The truth is sought by the judge
+# third: vermiculor "I become wormy" is unnatural; a tree is the natural subject
+vermiculor | Arbor vermiculatur | The tree becomes wormy
+vermiculus | Vermiculus in pomo latet | The little grub hides in the fruit
+# third: vermino "I have worms" is unnatural; a sheep is the natural subject
+vermino | Ovis verminat | The sheep has worms
+verna | Verna dominae epistulam affert | The house-born slave brings the lady a letter
+# third: verno "I bloom" is unnatural; a forest is the natural subject
+verno | Silva in sole vernat | The forest blooms in the sun
+verres1 | Verres glandes sub quercu quaerit | The male pig looks for acorns under the oak
+verro | Pavimentum verro | I sweep the floor
