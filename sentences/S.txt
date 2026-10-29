@@ -114,3 +114,14 @@ scateo | Aqua e rupe scatet | The water gushes from the rock
 # third: scaturio "I gush" is unnatural; a fountain is the natural subject
 scaturio | Fons in valle scaturit | The fountain gushes in the valley
 scelero | Aram scelero | I defile the altar
+scelus | Scelus senatum ad iram commovet | The crime stirs the senate to anger
+sceptrum | Sceptrum aureum regem ornat | The golden sceptre adorns the king
+schema | Schema poetae versum ornat | The poet's figure of speech adorns the verse
+schoenus | Schoenus odoratus in palude crescit | The fragrant rush grows in the marsh
+schola | Schola discipulos mane accipit | The school welcomes the pupils in the morning
+scientia | Scientia medici aegrotum juvat | The doctor's knowledge helps the sick man
+scilla | Scilla in arena crescit | The squill grows in the sand
+scindo | Pannum scindo | I tear the cloth
+scintilla | Scintilla ex foco in pavimentum cadit | The spark falls from the hearth onto the floor
+# third: scintillo "I sparkle" is unnatural; a star is the natural subject
+scintillo | Stella in caelo scintillat | The star sparkles in the sky
