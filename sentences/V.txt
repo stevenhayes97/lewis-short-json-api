@@ -205,3 +205,15 @@ viola | Viola sub arbore latet | The violet hides under the tree
 violator | Violator foederis a senatu damnatur | The violator of the treaty is condemned by the senate
 violentia | Violentia tempestatis navem ad saxa rapit | The violence of the storm sweeps the ship onto the rocks
 violo | Foedus violo | I violate the treaty
+vipera | Vipera in sole dormit | The viper sleeps in the sun
+vir | Vir cenam parat | The man prepares the dinner
+virago | Virago ante exercitum equitat | The female warrior rides before the army
+virectum | Virectum ovibus pabulum praebet | The greensward gives pasture to the sheep
+# third: vireo1 "I am green" is unnatural; a willow is the natural subject
+vireo1 | Salix ad rivum viret | The willow is green by the stream
+# third: viresco "I turn green" is unnatural; a plain is the natural subject
+viresco | Campus post imbrem virescit | The plain turns green after the rain
+virga | Virga in vento flectitur | The twig bends in the wind
+virginitas | Virginitas Vestalium a populo honoratur | The virginity of the Vestals is honoured by the people
+virgo | Virgo ignem Vestae custodit | The virgin guards the fire of Vesta
+virgula | Virgula in manu sacerdotis micat | The wand gleams in the priest's hand
