@@ -279,3 +279,15 @@ sibilus1 | Sibilus venti in silva auditur | The hiss of the wind is heard in the
 sica | Sica in cista jacet | The dagger lies in the chest
 sicarius | Sicarius a vigilibus quaeritur | The assassin is sought by the watchmen
 siccitas | Siccitas flumen angustum facit | Dryness makes the river narrow
+sicco | Vestes in sole sicco | I dry the clothes in the sun
+sicilicus | Sicilicus assis mendicum non ditat | One forty-eighth of an as does not enrich the beggar
+sideratio | Sideratio vites laedit | Blight damages the vines
+# third: sideror "I am sunstruck" is unnatural; a pack animal is the natural subject
+sideror | Jumentum aestate sideratur | The pack animal is sunstruck in summer
+# third: sido1 "I settle" is unnatural; dregs are the natural subject
+sido1 | Faex in dolio sidit | The dregs settle in the cask
+sidus | Sidus clarum viatorem nocte ducit | The bright constellation guides the traveller by night
+sigilla | Sigilla Tyrrhena in atrio stant | The Etruscan figurines stand in the hall
+signaculum | Signaculum in tergo ovis apparet | The mark appears on the back of the sheep
+signator | Signator ante praetorem stat | The witness stands before the praetor
+significatio | Significatio vultus magistri discipulum monet | The indication in the teacher's face warns the pupil
