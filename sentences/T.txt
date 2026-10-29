@@ -148,3 +148,16 @@ timiditas | Timiditas oratoris vocem frangit | Timidity breaks the orator's voic
 timor | Timor hostium oppidanos ad murum trahit | Fear of the enemy draws the townspeople to the wall
 tinea | Tinea vestem in arca arrodit | The moth gnaws the garment in the chest
 tingo | Pennam in atramentum tingo | I dip the pen in the ink
+# Chunk 14
+# third: tinnio "I tinkle" is unnatural; a dish is the natural subject
+tinnio | Patera aenea in mensa tinnit | The bronze dish tinkles on the table
+tinnitus | Tinnitus aurium senem a somno prohibet | The ringing in the ears keeps the old man from sleep
+# third: tintinno "I jingle" is unnatural; a chain is the natural subject
+tintinno | Catena ferrea tintinnat | The iron chain jingles
+tirocinium | Tirocinium fabri biennium durat | The craftsman's apprenticeship lasts two years
+tirunculus | Tirunculus ad ducem timide accedit | The novice approaches the general timidly
+titillo | Amicum titillo | I tickle my friend
+titubo | In via lubrica titubo | I stagger on the slippery road
+titulus | Titulus in amphora vinum monstrat | The label on the jar shows the wine
+toga | Toga alba civem in foro vestit | The white toga clothes the citizen in the forum
+tolero | Famem tolero | I endure hunger
