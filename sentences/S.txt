@@ -713,3 +713,14 @@ suggestio | Suggestio brevis orationem perficit | The brief addition completes t
 suggestum | Suggestum altum oratorem a turba separat | The high platform separates the orator from the crowd
 suggestus2 | Suggestus in campo ducem attollit | The platform in the field raises the general
 sugillatio | Sugillatio in brachio athletae manet | The bruise remains on the athlete's arm
+# third: sugillo "I bruise" is grim in the first person; a soldier is a natural subject
+sugillo | Miles hostem sugillat | The soldier bruises the enemy
+sugo | Aquam per calamum sugo | I suck water through a reed
+sulcator | Sulcator cum bubus ad agrum it | The plougher goes to the field with his oxen
+sulco | Agrum vere sulco | I plough the field in spring
+sulcus2 | Sulcus rectus semina accipit | The straight furrow receives the seeds
+sulfur | Sulfur ignem facile concipit | Sulphur catches fire easily
+sum1 | Domi sum | I am at home
+sumen | Sumen suis cenam lautam facit | The sow's udder makes the dinner luxurious
+summa | Summa nummorum creditorem contentum facit | The sum of coins makes the creditor content
+# skip: summas is an adjective (high-born, noble), not a noun
