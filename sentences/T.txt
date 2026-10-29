@@ -47,3 +47,14 @@ tellus | Tellus semina aestate nutrit | The earth nourishes the seeds in summer
 telum | Telum per aerem volat | The missile flies through the air
 # third: temero "I defile" is unnatural; an enemy is the natural subject
 temero | Hostis templum temerat | The enemy defiles the temple
+# Chunk 5
+temetum | Temetum in cella obscura manet | The strong drink stays in the dark cellar
+temno | Divitias temno | I scorn riches
+temo1 | Temo plaustri in via frangitur | The pole of the wagon breaks on the road
+temperamentum | Temperamentum cibi et laboris corpus servat | The balance of food and work preserves the body
+temperantia | Temperantia juvenem in convivio ornat | Temperance adorns the young man at the dinner party
+temperatio | Temperatio rei publicae populum tuetur | The constitution of the republic protects the people
+temperator | Temperator senatum placat | The moderator calms the senate
+temperatura | Temperatura mortarii murum firmat | The composition of the mortar strengthens the wall
+temperies | Temperies caeli agricolas juvat | The temperature of the climate helps the farmers
+tempero | Ferrum aqua tempero | I temper the iron with water
