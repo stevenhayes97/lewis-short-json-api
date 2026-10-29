@@ -278,3 +278,14 @@ trapetus | Trapetus oleum e baccis exprimit | The olive mill presses oil from be
 tremefacio | Ramum tremefacio | I shake the branch
 tremesco | Ad clamorem tremesco | I start trembling at the shout
 tremo | In frigore tremo | I tremble in the cold
+# Chunk 25
+tremor | Tremor manuum scribae litteras turbat | The tremor in the scribe's hands muddles the letters
+# skip: trepidatio is a noun (agitation) that the source files as a verb, so check demands an "I ..." sentence it cannot have
+trepido | Ad strepitum trepido | I panic at the noise
+tresviri | Tresviri agros inter colonos dividunt | The triumvirs divide the fields among the colonists
+triarii | Triarii in postrema acie manent | The veteran reserves stay in the last line
+tribulis | Tribulis mihi cenam parat | The tribesman prepares dinner for me
+tribulum | Tribulum per aream a bove trahitur | The threshing-sledge is dragged through the yard by an ox
+tribulus | Tribulus equitatum hostium in via tardat | The caltrop slows the enemy cavalry on the road
+tribunal | Tribunal praetoris prope curiam stat | The praetor's tribunal stands near the senate house
+tribunatus | Tribunatus juvenem ad gloriam vocat | The tribuneship calls the young man to glory
