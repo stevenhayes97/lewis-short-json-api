@@ -13,3 +13,14 @@ tabesco | Flos sine aqua tabescit | The flower wastes away without water
 tabula | Tabula in pariete pendet | The board hangs on the wall
 tabulinum | Tabulinum hortum spectat | The terrace overlooks the garden
 tabum | Tabum militem novicium terret | The gore frightens the new recruit
+# Chunk 2
+taceo | In templo taceo | I am silent in the temple
+taciturnitas | Taciturnitas mariti uxorem sollicitat | The husband's silence worries the wife
+tactio | Tactio lanae mollis puellam juvat | The touch of soft wool pleases the girl
+tactus2 | Tactus aquae frigidae nautam excitat | The touch of cold water wakes the sailor
+taeda | Taeda viam noctu illuminat | The torch lights the way by night
+taedium | Taedium longi itineris viatorem premit | Weariness from the long journey weighs on the traveller
+taenia | Taenia capillos puellae ligat | The ribbon ties the girl's hair
+talea | Talea ferrea in fabrica jacet | The iron rod lies in the workshop
+talentum | Talentum argenti mercatorem ditat | The talent of silver enriches the merchant
+talio | Talio hostem a bello deterret | Retaliation deters the enemy from war
