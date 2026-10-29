@@ -899,3 +899,13 @@ progenitor | Progenitor gentis in tabulis nominatur | The ancestor of the clan i
 progero | Fimum e stabulo progero | I remove the dung from the stable
 progigno | Filium progigno | I beget a son
 # skip: prognatus is a participle ("descended"), misfiled as a noun; the noun use is only ante-class
+progredior | Ad portum progredior | I advance to the harbour
+progressio | Progressio numerorum mathematicum admiratione tenet | The progression of the numbers holds the mathematician in wonder
+progressus2 | Progressus agminis viam angustam implet | The advance of the column fills the narrow road
+prohibeo | Hostes transitu prohibeo | I prevent the enemy from crossing
+prohibitio | Prohibitio ludorum populum irritat | The prohibition of the games annoys the people
+proicio | Anchoram in mare proicio | I fling the anchor into the sea
+projectio | Projectio muri hortum angustat | The extension of the wall narrows the garden
+prolabor | In luto prolabor | I slip in the mud
+prolapsio | Prolapsio pedis nautam retardat | The slip of the foot delays the sailor
+prolatio | Prolatio nominis regem commovet | The utterance of the name stirs the king
