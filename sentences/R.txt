@@ -396,3 +396,14 @@ revolo | Columba ad nidum revolat | The dove flies back to the nest
 revolvo | Volumen revolvo | I unroll the scroll
 # third: revomo a crude bodily verb; an animal is the natural subject
 revomo | Canis cibum revomit | The dog vomits up the food
+rhetor | Rhetor discipulos in schola docet | The rhetorician teaches the pupils in the school
+rhombus | Rhombus quattuor latera habet | The rhombus has four sides
+rica | Rica caput matronae tegit | The veil covers the matron's head
+ricinus2 | Ricinus canem mordet | The tick bites the dog
+rictus | Rictus leonis viatorem terret | The lion's gaping mouth frightens the traveller
+rideo | Cum amicis rideo | I laugh with my friends
+rigeo | Prae frigore rigeo | I am stiff with cold
+# third: rigesco "I stiffen" is unnatural; a garment is the natural subject
+rigesco | Vestis in gelu rigescit | The garment stiffens in the frost
+rigo | Agros rivo rigo | I water the fields from the stream
+rigor | Rigor ligni fabrum impedit | The rigidity of the wood hinders the carpenter
