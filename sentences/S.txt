@@ -248,3 +248,13 @@ sero2 | Flores in coronam sero | I entwine the flowers into a wreath
 serperastra | Serperastra crus fractum rectum tenent | The leg-splints hold the broken leg straight
 # third: serpo "I creep" is unnatural; a snake is the natural subject
 serpo | Anguis per herbam serpit | The snake creeps through the grass
+serra | Serra trabem in tabulas dividit | The saw divides the beam into planks
+serum | Serum a caseo in vas fluit | The whey flows from the cheese into the vessel
+servator | Servator patriae a senatu coronam accipit | The saviour of the homeland receives a crown from the senate
+servatrix | Servatrix urbis in templo colitur | The female saviour of the city is honoured in the temple
+servio | Patriae servio | I serve my country
+servitium | Servitium captivum a patria separat | Slavery separates the captive from his homeland
+servitus | Servitus libertatem delet | Slavery destroys freedom
+servo | Pecuniam pro hieme servo | I save the money for the winter
+servulus | Servulus aquam ad dominum portat | The young slave carries water to the master
+servus2 | Servus in culina panem coquit | The slave bakes bread in the kitchen
