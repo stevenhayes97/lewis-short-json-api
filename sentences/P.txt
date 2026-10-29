@@ -444,3 +444,14 @@ phoenix3 | Phoenix e cinere surgit | The phoenix rises from the ashes
 phrenesis | Phrenesis senem in lecto agitat | Frenzy troubles the old man in bed
 phylacterium | Phylacterium collum pueri ornat | The amulet adorns the boy's neck
 piaculum | Piaculum ante aram stat | The sin-offering stands before the altar
+piamentum | Piamentum deos placat | The atonement appeases the gods
+pico | Cymbam pico | I tar the boat
+pictura | Pictura parietem decorat | The painting decorates the wall
+picus1 | Picus truncum pulsat | The woodpecker taps the trunk
+pietas1 | Pietas filium ad lectum patris vocat | Duty calls the son to his father's bed
+# third: pigeo is used impersonally, with the person in the accusative and the cause in the genitive
+pigeo | Me morae piget | The delay irks me
+pigmentum | Pigmentum pictori ex Aegypto venit | The pigment comes to the painter from Egypt
+pignero | Anulum pignero | I pledge my ring
+pigneror | Laudem pigneror | I appropriate the praise
+pignus | Pignus creditorem securum facit | The pledge makes the creditor secure
