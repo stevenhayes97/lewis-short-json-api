@@ -485,3 +485,13 @@ statura | Alta statura gladiatorem commendat | The tall stature commends the gla
 status2 | Status aegri medicum sollicitat | The condition of the sick man worries the doctor
 stella | Stella nautae viam monstrat | The star shows the sailor the way
 stellionatus | Stellionatus mercatoris judicem irritat | The merchant's fraud angers the judge
+# skip: stello is attested almost only as the participle stellans or stellatus, with no usable indicative form
+stemma | Stemma familiae in atrio pendet | The pedigree of the family hangs in the hall
+stercoro | Agrum stercoro | I manure the field
+stercus | Stercus agrum fertilem facit | The dung makes the field fertile
+sterilitas | Sterilitas soli agricolam sollicitat | The sterility of the soil worries the farmer
+sterno | Stragulum in lecto sterno | I spread the blanket on the bed
+sternumentum | Sternumentum fabulam interrumpit | The sneeze interrupts the story
+sternuo | Prae pulvere sternuo | I sneeze because of the dust
+sterto | Noctem totam sterto | I snore all night
+stibium | Stibium oculos mulieris ornat | The kohl adorns the woman's eyes
