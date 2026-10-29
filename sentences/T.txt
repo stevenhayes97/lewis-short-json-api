@@ -372,3 +372,7 @@ tussis | Tussis aegrum noctu tenet | The cough grips the sick man at night
 tutela | Tutela deorum agricolam adjuvat | The protection of the gods helps the farmer
 tutor1 | Tutor pupillo librum emit | The guardian buys a book for the ward
 tutor2 | Domum tutor | I guard the house
+# Chunk 33
+tympanum | Tympanum in templo Cybeles pulsatur | The drum is beaten in the temple of Cybele
+tyrannis | Tyrannis civibus libertatem eripit | The tyranny takes liberty from the citizens
+tyrannus | Tyrannus in arce solus habitat | The tyrant lives alone in the citadel
