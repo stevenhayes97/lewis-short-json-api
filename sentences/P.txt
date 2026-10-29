@@ -696,3 +696,15 @@ praeludo | Ante carmen praeludo | I play a prelude before the song
 praemando1 | Cenam praemando | I order the dinner beforehand
 praemeditor | Responsum praemeditor | I premeditate my answer
 praemetuo | Hiemem praemetuo | I dread the winter in advance
+praeministro | Vinum convivis praeministro | I serve wine to the guests
+praemitto | Nuntium ad ducem praemitto | I dispatch a messenger ahead to the general
+praemium | Praemium victori in circo datur | The reward is given to the victor in the circus
+praemoneo | Vicinum de tempestate praemoneo | I forewarn my neighbour about the storm
+praemonstro | Viatori viam praemonstro | I show the traveller the way ahead
+# third: praemordeo "I bite" is unnatural; a mouse is the natural subject
+praemordeo | Mus panem praemordet | The mouse bites into the bread
+# third: praemorior "I die early" is unnatural; a flower is the natural subject
+praemorior | Flos praemoritur | The flower dies early
+praemunio | Castra vallo praemunio | I fortify the camp with a rampart
+praemunitio | Praemunitio urbis cives tuetur | The fortification of the city protects the citizens
+praenavigo | Promunturium praenavigo | I sail past the headland
