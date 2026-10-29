@@ -270,3 +270,14 @@ voluto | Saxum de colle voluto | I roll the stone from the hill
 volva | Volva semen tegit | The covering shields the seed
 volvo | Globum per viam volvo | I roll the ball along the road
 vomer | Vomer terram scindit | The ploughshare splits the soil
+vomica | Vomica medicum sollicitat | The abscess worries the doctor
+vomitio | Vomitio aegrum debilitat | Vomiting weakens the sick man
+vomitus | Vomitus viatorem in navi vexat | Vomiting troubles the traveller on the ship
+# third: vomo "I vomit" is a crude bodily verb; given to an animal
+vomo | Canis post cibum vomit | The dog vomits after the meal
+vorago | Vorago ante viatorem hiat | The abyss yawns before the traveller
+voro | Cibum voro | I devour the food
+votum | Votum nautae in tempestate fit | The sailor's vow is made in the storm
+voveo | Templum Jovi voveo | I vow a temple to Jupiter
+vox | Vox oratoris per theatrum sonat | The orator's voice rings through the theatre
+vulgo2 | Librum vulgo | I publish the book
