@@ -449,3 +449,17 @@ spondylus | Spondylus in dorso piscis latet | The vertebra lies hidden in the ba
 spongia1 | Spongia aquam e mensa bibit | The sponge soaks up water from the table
 sponsio | Sponsio amici creditorem sedat | The friend's guarantee reassures the creditor
 sponsor | Sponsor pro amico apud judicem stat | The surety stands before the judge on behalf of the friend
+sponsus3 | Sponsus Marci et Liviae familias laetas facit | The betrothal of Marcus and Livia makes the families glad
+sportula | Sportula panem et caseum tenet | The basket holds bread and cheese
+spuma | Spuma post undam in litore manet | The foam stays on the shore after the wave
+# third: spumo "I foam" is unnatural; the sea is the natural subject
+spumo | Mare tempestate spumat | The sea foams in the storm
+# third: spuo "I spit" is a crude bodily verb; an animal is the natural subject
+spuo | Camelus in terram spuit | The camel spits on the ground
+spurco | Vestes luto spurco | I befoul the clothes with mud
+# third: sputo "I spit" is a crude bodily verb; an animal is the natural subject
+sputo | Serpens venenum sputat | The snake spits venom
+# third: squaleo "I am squalid" is unnatural; a neglected building is the natural subject
+squaleo | Villa deserta squalet | The deserted farmhouse is squalid
+squalor | Squalor tabernae viatorem ab ingressu deterret | The squalor of the inn deters the traveller from entering
+squama | Squama piscis in sole nitet | The scale of the fish gleams in the sun
