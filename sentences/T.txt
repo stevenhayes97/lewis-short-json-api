@@ -300,3 +300,14 @@ triclinium | Triclinium fenestram latam habet | The dining room has a wide windo
 tricor | In atrio tricor | I shuffle about in the hall
 triduum | Triduum in montibus quietem praebet | Three days in the mountains provide rest
 triennium | Triennium pacis agros fertiles reddit | The three years of peace make the fields fertile
+# Chunk 27
+triens | Triens agri fratri datur | A third of the field is given to the brother
+triobolus | Triobolus in marsupio nautae latet | The half drachma hides in the sailor's purse
+# skip: tripartitus is an adjective (tripartite), not a noun
+tripudio | Cum sociis tripudio | I dance with my companions
+tripudium | Tripudium juvenum diem festum illustrat | The dance of the young men brightens the festival day
+tripus | Tripus aureus victori datur | The gold tripod is given to the victor
+tristitia | Tristitia vultum fratris obscurat | Sadness darkens the brother's face
+tritor | Tritor farinam in pistrino parat | The grinder prepares flour in the bakery
+triumphator | Triumphator per urbem in curru vehitur | The triumpher is carried through the city in a chariot
+triumpho | De Gallis triumpho | I triumph over the Gauls
