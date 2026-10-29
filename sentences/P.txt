@@ -962,3 +962,13 @@ propugnator | Propugnator in muro stat | The defender stands on the wall
 propugno | Pro patria propugno | I fight in defence of my country
 propulso | Hostem a vallo propulso | I repel the enemy from the rampart
 propylaeum | Propylaeum Athenis arcem ornat | The gateway at Athens adorns the citadel
+prora | Prora fluctus findit | The prow cleaves the waves
+prorepo | Per herbam prorepo | I creep through the grass
+proripio | Libros de mensa proripio | I snatch the books from the table
+prorito | Hostem ad pugnam prorito | I provoke the enemy to battle
+prorogatio | Prorogatio imperii consulem laetum facit | The extension of the command makes the consul happy
+prorogo | Sermonem prorogo | I prolong the conversation
+prorumpo | Ex insidiis prorumpo | I burst out of the ambush
+proruo | Murum proruo | I demolish the wall
+prosapia | Prosapia juvenem ad honores vocat | The lineage calls the young man to honours
+proscaenium | Proscaenium ante spectatores patet | The stage lies open before the spectators
