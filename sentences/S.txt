@@ -681,3 +681,14 @@ sucus | Sucus pomi sitim levat | The juice of the apple eases thirst
 sudis | Sudis acuta fossam munit | The sharp stake guards the ditch
 sudo | Aestate in agro sudo | I sweat in the field in summer
 sudor | Sudor in fronte militis fluit | The sweat flows on the soldier's brow
+suesco | Frigori suesco | I grow accustomed to the cold
+suffarcino | Pulvinum plumis suffarcino | I stuff the cushion with feathers
+suffero | Laborem longum suffero | I endure long labour
+suffervefacio | Aquam in olla suffervefacio | I warm the water in the pot
+# third: sufficio "I suffice" is unnatural; bread is the natural subject
+sufficio | Panis uni diei sufficit | The bread suffices for one day
+suffigo | Edictum columnae suffigo | I affix the edict to the column
+suffimentum | Suffimentum templum odore implet | The incense fills the temple with fragrance
+suffio | Cubiculum sulphure suffio | I fumigate the bedroom with sulphur
+suffitio | Suffitio aerem in domo purgat | The fumigation cleans the air in the house
+sufflamen | Sufflamen rotam in descensu retardat | The brake slows the wheel on the descent
