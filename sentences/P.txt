@@ -708,3 +708,14 @@ praemorior | Flos praemoritur | The flower dies early
 praemunio | Castra vallo praemunio | I fortify the camp with a rampart
 praemunitio | Praemunitio urbis cives tuetur | The fortification of the city protects the citizens
 praenavigo | Promunturium praenavigo | I sail past the headland
+# third: praeniteo "I glitter" is unnatural; gold is the natural subject
+praeniteo | Aurum in sole praenitet | The gold glitters in the sun
+praenomen | Praenomen puerum a fratribus distinguit | The forename distinguishes the boy from his brothers
+praenosco | Futura praenosco | I foreknow the future
+praenoto | Cistam nomine praenoto | I mark the chest with a name
+praenuntio | Imbrem praenuntio | I foretell the downpour
+praeoccupatio | Praeoccupatio judicem a veritate avertit | The preoccupation turns the judge away from the truth
+praeoccupo | Collem praeoccupo | I occupy the hill in advance
+praeopto | Otium negotio praeopto | I prefer leisure to business
+praeostendo | Mercatori mercem praeostendo | I show the merchant the goods beforehand
+praeparatio | Praeparatio convivii coquum occupat | The preparation of the banquet keeps the cook busy
