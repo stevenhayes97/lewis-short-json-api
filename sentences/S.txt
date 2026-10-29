@@ -386,3 +386,14 @@ sordeo | Vestis luto sordet | The garment is dirty with mud
 sordes | Sordes in via viatores offendit | The filth in the road offends the travellers
 # third: sordesco "I get dirty" is unnatural; a cloth is the natural subject
 sordesco | Albus pannus in culina sordescit | The white cloth gets dirty in the kitchen
+soror | Soror flores legit | The sister gathers flowers
+sors | Sors provinciam consuli dat | The lot gives the province to the consul
+sortio | Cum fratre sortio | I draw lots with my brother
+sortior | Cum collega sortior | I draw lots with my colleague
+sortitio | Sortitio provinciarum consules ad urnam vocat | The drawing of lots for the provinces calls the consuls to the urn
+sortitus2 | Sortitus magistratuum cives in foro tenet | The drawing of lots for the magistracies keeps the citizens in the forum
+# third: sospito "I protect" belongs to religious language; a god is the natural subject
+sospito | Juppiter urbem sospitat | Jupiter protects the city
+# skip: spadix is used in the entry as a colour adjective (chestnut-brown); its noun sense is a palm-branch, not the rank 1 sense
+spado | Spado in aula regis servit | The eunuch serves in the king's court
+spargo1 | Flores in via spargo | I scatter flowers on the road
