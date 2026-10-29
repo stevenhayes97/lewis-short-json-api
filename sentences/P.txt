@@ -994,3 +994,15 @@ prospicio | Tempestatem prospicio | I foresee the storm
 prosterno | Me ante aram prosterno | I prostrate myself before the altar
 # third: prostituo "I prostitute" is unnatural in the first person; kept to a plain third-person statement
 prostituo | Mulier se prostituit | The woman prostitutes herself
+# third: prosto "I am on sale" is unnatural; a book is the natural subject
+prosto | Liber in taberna prostat | The book is on sale in the shop
+prosum1 | Patriae prosum | I benefit my country
+protector | Protector civitatis in senatu loquitur | The protector of the city speaks in the senate
+protego | Agnos ab imbre protego | I protect the lambs from the rain
+protelo | Equites protelo | I repulse the cavalry
+protelum | Protelum boum aratrum ducit | The team of oxen pulls the plough
+protendo | Manum protendo | I extend my hand
+# third: protero "I trample" reads unnaturally for a violent verb
+protero | Equitatus hostes proterit | The cavalry tramples the enemy
+proterreo | Aves ab horto proterreo | I scare the birds away from the garden
+protervitas | Protervitas militis centurionem irritat | The soldier's impudence irritates the centurion
