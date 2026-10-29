@@ -675,3 +675,13 @@ praefringo | Caulem praefringo | I snap the stalk
 praefulcio | Murum trabe praefulcio | I prop the wall with a beam
 # third: praefulgeo "I glitter" is unnatural; a gem is the natural subject
 praefulgeo | Gemma in anulo praefulget | The gem glitters in the ring
+praefundo | Panem vino praefundo | I pour wine over the bread
+praegnatio | Praegnatio familiam laetitia implet | The pregnancy fills the family with joy
+praegravo | Asinum onere praegravo | I encumber the donkey with a load
+praegredior | Nuntios praegredior | I precede the messengers
+praegustator | Praegustator ante regem cenat | The taster dines before the king
+praegusto | Cibos praegusto | I taste the dishes beforehand
+praehibeo | Pauperi cibum praehibeo | I offer food to the poor man
+praejudicium | Praejudicium judicem ad sententiam ducit | The precedent leads the judge to a verdict
+praejudico | Causam praejudico | I prejudge the case
+praelabor | Scopulum praelabor | I glide past the rock
