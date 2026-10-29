@@ -265,3 +265,16 @@ transnato | Rivum transnato | I swim across the stream
 transnomino | Navem transnomino | I rename the ship
 transpono | Libros in aliud armarium transpono | I transfer the books to another cupboard
 transporto | Frumentum navibus transporto | I transport grain by ships
+# Chunk 24
+transtrum | Transtrum remigi sedem praebet | The crossbeam provides the rower with a seat
+transvectio | Transvectio per lacum horam occupat | The crossing of the lake takes up an hour
+transveho | Gregem navi transveho | I convey the flock across by ship
+# third: transverbero "I pierce through" reads unnaturally for a violent verb
+transverbero | Pilum clipeum transverberat | The javelin pierces through the shield
+transverto | Equum a via transverto | I turn the horse aside from the road
+# third: transvolo "I fly across" is unnatural; an eagle is the natural subject
+transvolo | Aquila lacum transvolat | The eagle flies across the lake
+trapetus | Trapetus oleum e baccis exprimit | The olive mill presses oil from berries
+tremefacio | Ramum tremefacio | I shake the branch
+tremesco | Ad clamorem tremesco | I start trembling at the shout
+tremo | In frigore tremo | I tremble in the cold
