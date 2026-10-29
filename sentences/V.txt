@@ -281,3 +281,11 @@ votum | Votum nautae in tempestate fit | The sailor's vow is made in the storm
 voveo | Templum Jovi voveo | I vow a temple to Jupiter
 vox | Vox oratoris per theatrum sonat | The orator's voice rings through the theatre
 vulgo2 | Librum vulgo | I publish the book
+vulgus | Vulgus ad circum properat | The populace hurries to the circus
+# third: vulnero "I wound" reads unnaturally for a violent verb
+vulnero | Exercitus hostem vulnerat | The army wounds the enemy
+vulnus | Vulnus militis medicum ad castra vocat | The soldier's wound calls the doctor to the camp
+vulpes | Vulpes uvas in vinea spectat | The fox watches the grapes in the vineyard
+vultur1 | Vultur supra montem circuit | The vulture circles above the mountain
+vulturius | Vulturius in rupe nidum facit | The vulture builds a nest on the cliff
+vultus | Vultus senatoris curam ostendit | The senator's expression shows worry
