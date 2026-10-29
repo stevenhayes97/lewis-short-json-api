@@ -591,3 +591,13 @@ possideo | Domum in colle possideo | I possess a house on the hill
 possido | Insulam possido | I acquire an island
 posteritas | Posteritas virtutem ducis laudat | Posterity praises the general's courage
 postfero | Voluptatem officio postfero | I subordinate pleasure to duty
+posthabeo | Divitias virtuti posthabeo | I subordinate wealth to virtue
+postilio | Postilio dei sacerdotem ad aram revocat | The god's claim calls the priest back to the altar
+postis | Postis januam sustinet | The doorpost supports the door
+postliminium | Postliminium captivo patriam reddit | Repatriation gives the captive back his homeland
+postpono | Iter in crastinum diem postpono | I postpone the journey until tomorrow
+postprincipia | Postprincipia itineris viatorem fatigant | The continuation of the journey tires the traveller
+# skip: postsum is attested only in tmesis and in the participles postfuturi and postfuturum, with no usable headword form
+postulatio | Postulatio plebis tribunum ad rostra impellit | The demand of the plebeians drives the tribune to the rostra
+postulo | Silentium postulo | I demand silence
+potatio | Potatio juvenes ad mensam tenet | The drinking-bout keeps the young men at the table
