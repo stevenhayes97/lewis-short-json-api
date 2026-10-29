@@ -323,3 +323,14 @@ trucidatio | Trucidatio cohortis imperatorem tristem facit | The massacre of the
 # third: trucido "I butcher" reads unnaturally for a violent verb
 trucido | Hostis cohortem trucidat | The enemy butchers the cohort
 trudo | Plaustrum ad collem trudo | I push the cart towards the hill
+# Chunk 29
+trulla | Trulla aquam in patinam fundit | The ladle pours water into the dish
+trunco | Statuam trunco | I mutilate the statue
+truncus2 | Truncus quercus in flumen cadit | The trunk of the oak falls into the river
+trutina | Trutina aurum mercatori ponderat | The balance weighs the gold for the merchant
+tuba | Tuba milites ad pugnam vocat | The trumpet calls the soldiers to battle
+tuber1 | Tuber in crure aegri crescit | The swelling grows on the sick man's leg
+tubicen | Tubicen ante legionem canit | The trumpeter plays before the legion
+tubilustrium | Tubilustrium mense Martio celebratur | The trumpet-festival is celebrated in March
+tuburcinor | Placentam tuburcinor | I gobble the cake
+tubus | Tubus aquam ex fonte in hortum portat | The pipe carries water from the spring into the garden
