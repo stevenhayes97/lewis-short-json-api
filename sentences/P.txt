@@ -1059,3 +1059,14 @@ pugnus | Pugnus januam pulsat | The fist pounds on the door
 pulchritudo | Pulchritudo templi peregrinos ad urbem trahit | The beauty of the temple draws the foreigners to the city
 puleium | Puleium aestate floret | The pennyroyal blooms in summer
 pulex | Pulex canem in sole molestat | The flea bothers the dog in the sun
+# third: pullulo "I sprout" is unnatural; a tree is the natural subject
+pullulo | Fraxinus in vere pullulat | The ash tree sprouts in spring
+pullus1 | Pullus gallinam per aream sequitur | The chick follows the hen across the yard
+pulmentarium | Pulmentarium cenam pauperis condit | The relish seasons the poor man's dinner
+pulmentum | Pulmentum agricolae panem sapidum facit | The relish makes the farmer's bread tasty
+pulmo | Pulmo spiritum recipit | The lung takes in breath
+pulpa | Pulpa agni cenam nobilem facit | The flesh of the lamb makes the dinner splendid
+pulpamentum | Pulpamentum pauperi raro datur | The meat is rarely given to the poor man
+pulpitum | Pulpitum oratorem sustinet | The platform supports the orator
+puls | Puls rusticum nutrit | The porridge nourishes the countryman
+pulso | Tympanum pulso | I strike the drum
