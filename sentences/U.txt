@@ -55,3 +55,13 @@ usio | Usio fontis vicum juvat | The use of the spring helps the village
 ustulo | Pennas gallinae in flamma ustulo | I scorch the hen's feathers in the flame
 usucapio1 | Fundum biennio usucapio | I acquire the estate by prescription after two years
 usucapio2 | Usucapio fundum possessori post biennium dat | Usucaption gives the estate to the possessor after two years
+usura | Usura equi hospiti conceditur | The use of the horse is granted to the guest
+usurpatio | Usurpatio verbi vulgaris orationem planam facit | The use of a common word makes the speech plain
+usurpo | Verbum vetus usurpo | I use an old word
+usus2 | Usus aratri agricolam instruit | The use of the plough trains the farmer
+uter1 | Uter plenus in plaustro jacet | The full wineskin lies on the wagon
+uterus | Uterus in ventre feminae latet | The womb lies hidden in the woman's belly
+utilitas | Utilitas aquaeductus civitatem juvat | The usefulness of the aqueduct benefits the city
+# skip: uto is attested only in the imperative utito (Cato), with no first person
+utor | Libris utor | I use books
+utriculus2 | Utriculus apis nectare tumet | The little belly of the bee swells with nectar
