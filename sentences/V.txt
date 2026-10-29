@@ -248,3 +248,15 @@ vituperatio | Vituperatio populi poetam silentem reddit | The people's blame mak
 vitupero1 | Negligentiam servi vitupero | I blame the slave's negligence
 vivacitas | Vivacitas cervorum a poetis laudatur | The longevity of stags is praised by the poets
 vivo | In montibus vivo | I live in the mountains
+vocabulum | Vocabulum urbis in carmine legitur | The name of the city is read in the poem
+vocatus | Vocatus ducis tribunum ad castra revocat | The general's summons recalls the tribune to the camp
+vociferor | Ex fenestra vociferor | I shout from the window
+vocito | Fratrem vocito | I call my brother
+voco | Medicum voco | I call the doctor
+vocula | Vocula senis in silentio vix auditur | The old man's feeble little voice is scarcely heard in the silence
+volatus | Volatus avium caelum implet | The flight of the birds fills the sky
+# third: volito "I flit" is unnatural; a bee is the natural subject
+volito | Apis inter flores volitat | The bee flits among the flowers
+# third: volo2 "I fly" is unnatural; a bird is the natural subject
+volo2 | Avis ad nidum volat | The bird flies to its nest
+volo3 | Volo in castra venit | The volunteer comes to the camp
