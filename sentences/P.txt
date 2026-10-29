@@ -919,3 +919,15 @@ proloquor | Sententiam proloquor | I declare my opinion
 prolubium | Prolubium viatorem ad tabernam ducit | The inclination leads the traveller to the inn
 proludo | Ante certamen proludo | I warm up before the contest
 proluo | Manus aqua proluo | I wash my hands with water
+promereo | Praemium promereo | I deserve a reward
+# third: promico "I gleam" is unnatural; the moon is the natural subject
+promico | Luna inter nubes promicat | The moon gleams among the clouds
+# third: promineo "I protrude" is unnatural; a rock is the natural subject
+promineo | Scopulus in mare prominet | The rock protrudes into the sea
+promissio | Promissio ducis milites erigit | The general's promise cheers the soldiers
+promitto | Filiae donum promitto | I promise a gift to my daughter
+promo | Nummos e crumena promo | I produce coins from the purse
+promoveo | Castra ad flumen promoveo | I advance the camp to the river
+# skip: promptus2 is attested only in the phrase in promptu; it has no nominative headword form
+promulgo | Legem promulgo | I promulgate the law
+promunturium | Promunturium nautis signum dat | The promontory gives the sailors a sign
