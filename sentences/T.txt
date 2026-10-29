@@ -334,3 +334,17 @@ tubicen | Tubicen ante legionem canit | The trumpeter plays before the legion
 tubilustrium | Tubilustrium mense Martio celebratur | The trumpet-festival is celebrated in March
 tuburcinor | Placentam tuburcinor | I gobble the cake
 tubus | Tubus aquam ex fonte in hortum portat | The pipe carries water from the spring into the garden
+# Chunk 30
+tuitio | Tuitio legionum provinciam tranquillam servat | The protection of the legions keeps the province calm
+tumefacio | Utrem aere tumefacio | I swell the wineskin with air
+# third: tumeo "I am swollen" is unnatural; the sea is the natural subject
+tumeo | Mare ante tempestatem tumet | The sea is swollen before the storm
+# third: tumesco "I swell up" is unnatural; a river is the natural subject
+tumesco | Flumen imbribus tumescit | The river swells up with the rains
+tumor | Tumor in pede viatoris medicum vocat | The swelling on the traveller's foot calls the doctor
+# third: tumultuor "I riot" is unnatural; a crowd is the natural subject
+tumultuor | Plebs in theatro tumultuatur | The crowd riots in the theatre
+tumultus | Tumultus subitus consulem ad arma vocat | The sudden tumult calls the consul to arms
+tumulus | Tumulus in campo herba viridi tegitur | The mound in the field is covered with green grass
+tundo | Granum in mortario tundo | I pound the grain in a mortar
+tunica | Tunica lintea sub toga latet | The linen tunic lies hidden under the toga
