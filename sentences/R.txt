@@ -429,3 +429,15 @@ rogus | Rogus in campo ardet | The pyre burns in the field
 # third: roro "I bedew" is unnatural; the night is the natural subject
 roro | Nox prata rorat | The night bedews the meadows
 ros | Ros folia mane humectat | The dew moistens the leaves in the morning
+rosa | Rosa apes allicit | The rose attracts bees
+rostrum | Rostrum corvi nucem frangit | The raven's beak cracks the nut
+rota | Rota plaustri in luto haeret | The wheel of the cart sticks in the mud
+roto | Funem roto | I whirl the rope
+rotunditas | Rotunditas tabulae convivas aequat | The roundness of the table makes the guests equal
+rotundo | Mensam rotundo | I round the table
+# third: rubeo "I am red" is unnatural; an apple is the natural subject
+rubeo | Pomum in arbore rubet | The apple is red on the tree
+# third: rubesco "I redden" is unnatural; the sky is the natural subject
+rubesco | Caelum mane rubescit | The sky reddens in the morning
+rubor | Rubor occasus caelum tingit | The redness of the sunset colours the sky
+rubrica | Rubrica vas inficit | Red ochre stains the jar
