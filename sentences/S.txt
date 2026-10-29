@@ -41,3 +41,13 @@ salivo | Canis aeger salivat | The sick dog drools
 salsamentum | Salsamentum in cella manet | The salted fish stays in the storeroom
 salsura | Salsura carnem diu servat | Pickling preserves the meat for a long time
 saltatio | Saltatio nuptias hilares facit | The dance makes the wedding cheerful
+saltus1 | Saltus caprae rivum superat | The goat's leap clears the stream
+saltus2 | Saltus pecori pabulum dat | The woodland pasture gives fodder to the herd
+salubritas | Salubritas aeris colonos juvat | The healthfulness of the air helps the settlers
+salum | Salum navem a litore portat | The sea carries the ship away from the shore
+salus | Salus reipublicae consulem sollicitat | The safety of the republic worries the consul
+salutatio | Salutatio amici viatorem laetum facit | The friend's greeting makes the traveller glad
+salutator | Salutator mane ante januam stat | The greeter stands in front of the door in the morning
+salutatrix | Salutatrix hospites in atrio accipit | The female greeter welcomes the guests in the hall
+saluto | Vicinum mane saluto | I greet the neighbour in the morning
+salvator | Salvator naufragum ex undis servat | The saviour rescues the shipwrecked man from the waves
