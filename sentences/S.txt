@@ -636,3 +636,17 @@ substo | Febris in aegro substat | The fever is present in the sick man
 substringo | Crinem nodo substringo | I bind up my hair in a knot
 substruo | Templum saxo quadrato substruo | I build a foundation of squared stone under the temple
 subsulto | Per pratum subsulto | I hop across the meadow
+# third: subsum "I underlie" is unnatural; a foundation is the natural subject
+subsum | Fundamentum muro subest | The foundation underlies the wall
+subtego | Manu oculos subtego | I shield my eyes with my hand
+subtemen | Subtemen purpureum in tela nitet | The purple weft gleams on the loom
+# third: subterfluo "I flow beneath" is unnatural; a stream is the natural subject
+subterfluo | Rivus urbem subterfluit | The stream flows beneath the city
+subterfugio | Periculum subterfugio | I evade the danger
+# third: subterlabor "I flow under" is unnatural; a river is the natural subject
+subterlabor | Amnis pontem subterlabitur | The river flows under the bridge
+# third: subtero "I wear away" is unnatural; a foot is the natural subject
+subtero | Pes calceum subterit | The foot wears away the shoe
+subtexo | Fimbriam vesti subtexo | I affix a border to the garment
+subtilitas | Subtilitas lini mulierem ad emendum movet | The fineness of the linen moves the woman to buy
+subtraho | Manum ab igne subtraho | I withdraw my hand from the fire
