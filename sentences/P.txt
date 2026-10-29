@@ -857,3 +857,13 @@ procudo | Ferrum in fabrica procudo | I forge iron in the workshop
 proculco | Violas proculco | I trample the violets
 procumbo | Ex labore procumbo | I collapse from exhaustion
 procuratio | Procuratio fundi fidem requirit | The management of the estate requires trustworthiness
+procurator | Procurator mercedes operariis dat | The manager gives wages to the workers
+procuro | Tabernam procuro | I manage the shop
+procurro | Ad murum procurro | I rush to the wall
+procursus | Procursus equitum agmen hostile turbat | The charge of the cavalry throws the hostile column into confusion
+procus2 | Procus virgini rosas dat | The suitor gives roses to the maiden
+prodeo | E silva prodeo | I emerge from the forest
+prodico | Judicium prodico | I postpone the trial
+prodigium | Prodigium augurem sollicitat | The portent worries the augur
+prodigo | Divitias prodigo | I squander my wealth
+proditio1 | Proditio legati exercitum perdit | The envoy's treason ruins the army
