@@ -141,3 +141,14 @@ vestigium | Vestigium in nive manet | The footprint stays in the snow
 vestigo | Vulpem per nivem vestigo | I track the fox through the snow
 vestimentum | Vestimentum a matre texitur | The garment is woven by the mother
 vestio | Pauperem lana vestio | I clothe the poor man with wool
+vestis | Vestis hominem a frigore defendit | Clothing protects a person from the cold
+vestitus2 | Vestitus mercatoris divitias ostendit | The merchant's clothing shows his wealth
+# third: veterasco "I age" is unnatural; cheese is the natural subject
+veterasco | Caseus in cella veterascit | The cheese ages in the cellar
+veterator | Veterator difficile negotium solvit | The expert solves the difficult business
+veto | Iter veto | I forbid the journey
+# skip: vetulus is an adjective (diminutive of vetus, "old"), misfiled as a noun
+vetustas | Vetustas statuam obscurat | Age dims the statue
+vexatio | Vexatio senem urget | The vexation weighs on the old man
+vexillarius | Vexillarius ante cohortem ambulat | The standard-bearer walks before the cohort
+vexillatio | Vexillatio ad flumen mittitur | The detachment is sent to the river
