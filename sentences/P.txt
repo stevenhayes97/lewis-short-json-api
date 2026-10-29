@@ -611,3 +611,13 @@ potior1 | Imperio potior | I obtain the command
 poto | Aquam frigidam poto | I drink cold water
 potor | Potor aquae ad fontem quiescit | The drinker of water rests at the spring
 potus2 | Potus dulcis agricolam aestate refrigerat | The sweet drink cools the farmer in summer
+praeacuo | Stilum praeacuo | I sharpen the stylus
+praebeo | Peregrino cenam praebeo | I offer the stranger dinner
+praebibo | Matri praebibo | I drink a toast to my mother
+praebitio | Praebitio frumenti legionem in hibernis sustentat | The supplying of grain sustains the legion in winter quarters
+praebitor | Praebitor oleum ad villam portat | The supplier carries oil to the farmhouse
+praecano | Tempestatem praecano | I foretell the storm
+praecaveo | Damnum praecaveo | I avert the loss
+praecedo | Agmen praecedo | I precede the column
+praecello | Ingenio praecello | I excel in talent
+praeceptio | Praeceptio magistri discipulos monet | The teacher's precept advises the pupils
