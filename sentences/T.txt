@@ -126,3 +126,14 @@ texo | Corbem ex vimine texo | I weave a basket from wicker
 textus2 | Textus lanae vestem firmam facit | The texture of the wool makes the garment sturdy
 thalamus | Thalamus sponsae floribus ornatur | The bride's bedroom is adorned with flowers
 theatrum | Theatrum Romae multos spectatores capit | The theatre in Rome holds many spectators
+# Chunk 12
+theca | Theca stilum scribae servat | The case keeps the scribe's pen
+thema | Thema carminis discipulis placet | The theme of the poem pleases the pupils
+thesaurus | Thesaurus regis in turri latet | The king's treasure hides in the tower
+theta | Theta in tabula discipuli scribitur | The theta is written on the pupil's tablet
+tholus | Tholus aureus in sole fulget | The golden dome blazes in the sun
+thorax | Thorax pectus militis defendit | The breastplate defends the soldier's chest
+thronus | Thronus altus regem ab aliis separat | The high throne sets the king apart from the others
+thymum | Thymum apes allicit | Thyme attracts bees
+thyrsus | Thyrsus in manu Bacchi viret | The thyrsus is green in Bacchus's hand
+tiara | Tiara regis Persarum gemmis micat | The tiara of the Persian king sparkles with gems
