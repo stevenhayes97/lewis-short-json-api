@@ -734,3 +734,18 @@ sumptus2 | Sumptus nuptiarum familiam premit | The expense of the wedding weighs
 suo | Vestem acu suo | I sew the garment with a needle
 suovetaurilia | Suovetaurilia agros lustrant | The pig-sheep-bull sacrifice purifies the fields
 supellex | Supellex nova cubiculum implet | The new furniture fills the bedroom
+# third: super11 (superfluo) "I overflow" is unnatural; a spring is the natural subject
+super11 | Fons post pluviam superfluit | The spring overflows after the rain
+# skip: super13 (supergredior) is filed as a noun in the source and its key gives no usable headword form
+# third: super4 (supereffluo) "I superabound" is unnatural; money is the natural subject
+super4 | Pecunia in arca supereffluit | Money superabounds in the chest
+# third: super6 (supereminĕo) "I overtop" is unnatural; a tower is the natural subject
+super6 | Turris tecta supereminet | The tower overtops the roofs
+# third: superabundo "I superabound" is unnatural; grain is the natural subject
+superabundo | Frumentum in horreo superabundat | Grain superabounds in the barn
+superbia | Superbia Tarquinii Romanos ad rebellionem impellit | The arrogance of Tarquin drives the Romans to revolt
+superbio | Nomine avi superbio | I am proud of my grandfather's name
+supercilium | Supercilium crassum oculum tegit | The thick eyebrow covers the eye
+# third: supercresco "I overgrow" is unnatural; ivy is the natural subject
+supercresco | Hedera murum supercrescit | The ivy overgrows the wall
+superfero | Fascem humero superfero | I carry the bundle over my shoulder
