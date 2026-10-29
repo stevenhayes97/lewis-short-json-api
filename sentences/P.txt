@@ -1017,3 +1017,13 @@ provenio | Fons e rupe provenit | The spring arises from the rock
 proventus | Proventus vindemiae agricolam sustentat | The yield of the grape harvest supports the farmer
 proverbium | Proverbium discipulos ad laborem hortatur | The proverb urges the pupils to work
 providentia | Providentia gubernatoris navem a scopulis servat | The helmsman's foresight saves the ship from the rocks
+provideo | Siccitatem provideo | I foresee the drought
+provisio | Provisio ducis castra tuta facit | The general's foresight makes the camp safe
+proviso2 | Fratrem proviso | I check on my brother
+# skip: provisus2 is attested only in the ablative provisu (Tacitus); no nominative headword form
+provocatio | Provocatio ad populum civem Romanum tuetur | The appeal to the people protects the Roman citizen
+provoco | Gladiatorem ad certamen provoco | I challenge the gladiator to a contest
+provolo | Ex castris provolo | I dart out of the camp
+provolvo | Dolium in cellam provolvo | I roll the jar into the cellar
+proximitas | Proximitas maris piscatori prodest | The proximity of the sea benefits the fisherman
+proximo2 | Ad ripam proximo | I approach the bank
