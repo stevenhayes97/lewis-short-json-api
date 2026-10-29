@@ -152,3 +152,13 @@ vetustas | Vetustas statuam obscurat | Age dims the statue
 vexatio | Vexatio senem urget | The vexation weighs on the old man
 vexillarius | Vexillarius ante cohortem ambulat | The standard-bearer walks before the cohort
 vexillatio | Vexillatio ad flumen mittitur | The detachment is sent to the river
+vexillum | Vexillum ante legionem fertur | The standard is carried before the legion
+vexo | Praedones vexo | I harass the raiders
+via | Via ad urbem ducit | The road leads to the city
+viator | Viator ad fontem sedet | The traveller sits by the spring
+vibro | Facem vibro | I brandish a torch
+# skip: vicesimus is an ordinal adjective ("twentieth"), misfiled as a noun
+vicinia | Vicinia noctu quiescit | The neighbourhood rests at night
+vicinitas | Vicinitas medicum vocat | The neighbourhood summons the doctor
+# skip: vicis has no nominative singular (the source says the nominative does not occur); vicis is a genitive
+vicissitudo | Vicissitudo dierum noctiumque anni cursum signat | The alternation of days and nights marks the course of the year
