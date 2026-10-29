@@ -24,3 +24,14 @@ taenia | Taenia capillos puellae ligat | The ribbon ties the girl's hair
 talea | Talea ferrea in fabrica jacet | The iron rod lies in the workshop
 talentum | Talentum argenti mercatorem ditat | The talent of silver enriches the merchant
 talio | Talio hostem a bello deterret | Retaliation deters the enemy from war
+# Chunk 3
+talus | Talus pedem sustinet | The ankle supports the foot
+tango | Ramum manu tango | I touch the branch with my hand
+# skip: tantillus is an adjective (so small), not a noun
+# skip: tantulus is an adjective (so small), not a noun
+tapete | Tapete lectum regis ornat | The carpet adorns the king's couch
+tarditas | Tarditas bovis agricolam vexat | The slowness of the ox vexes the farmer
+tardo | Navem in portu tardo | I delay the ship in the harbour
+taurus1 | Taurus in prato herbam edit | The bull eats grass in the meadow
+taxatio | Taxatio domus censorem occupat | The valuation of the house occupies the censor
+taxo | Pretium agri taxo | I assess the price of the field
