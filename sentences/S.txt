@@ -625,3 +625,14 @@ subsidium | Subsidium post aciem manet | The reserve waits behind the line
 subsido | Pulvis post equitatum subsidit | The dust settles down after the cavalry
 subsigno | Tabulam subsigno | I undersign the document
 subsilio | Prae gaudio subsilio | I leap up for joy
+subsisto | In media via subsisto | I stop in the middle of the road
+subsortior | Judicem subsortior | I choose a substitute judge by lot
+subsortitio | Subsortitio judicum praetorem occupat | The substitution of judges by lot occupies the praetor
+substantia | Substantia patris tria praedia continet | The father's property includes three estates
+substerno | Rosas viae substerno | I strew roses on the road
+substituo | Militi fesso alium substituo | I substitute another man for the tired soldier
+# third: substo is attested in the sense "be present" only of a symptom such as pain or fever
+substo | Febris in aegro substat | The fever is present in the sick man
+substringo | Crinem nodo substringo | I bind up my hair in a knot
+substruo | Templum saxo quadrato substruo | I build a foundation of squared stone under the temple
+subsulto | Per pratum subsulto | I hop across the meadow
