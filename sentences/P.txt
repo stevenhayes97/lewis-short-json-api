@@ -642,3 +642,13 @@ praecordia | Praecordia cor a ventre separant | The diaphragm separates the hear
 praecurro | Legionem praecurro | I run ahead of the legion
 praecursio | Praecursio musicae spectatores ad fabulam praeparat | The prelude of the music prepares the spectators for the play
 praecursor | Praecursor ducis adventum nuntiat | The forerunner announces the general's arrival
+praeda | Praeda in castris dividitur | The booty is divided in the camp
+praedamno | Reum praedamno | I condemn the accused in advance
+praedator | Praedator a vigilibus capitur | The plunderer is caught by the watchmen
+praedestino | Mihi triumphum praedestino | I predestine a triumph for myself
+praediator | Praediator fundos in auctione emit | The dealer buys farms at the auction
+praedicatio | Praedicatio senatus cives ad arma excitat | The senate's proclamation rouses the citizens to arms
+praedicator | Praedicator ducis victoriam in urbe divulgat | The proclaimer spreads news of the general's victory in the city
+praedico1 | Pacem praedico | I proclaim peace
+praedico2 | Hiemem asperam praedico | I predict a harsh winter
+praedisco | Versus praedisco | I learn the verses beforehand
