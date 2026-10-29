@@ -506,3 +506,13 @@ stimulus | Stimulus bovem ad opus movet | The goad moves the ox to its work
 stinguo | Ignem aqua stinguo | I extinguish the fire with water
 stipatio | Stipatio senatoris viam angustam implet | The senator's retinue fills the narrow street
 stipator | Stipator regem ad portam comitatur | The bodyguard accompanies the king to the gate
+stipendior | In exercitu stipendior | I am paid in the army
+stipendium | Stipendium militi a quaestore datur | The pay is given to the soldier by the quaestor
+stipes | Stipes crassus in prato jacet | The thick trunk lies in the meadow
+stipo | Lanam in saccum stipo | I cram wool into the sack
+# skip: stips1 has no attested nominative singular (only stipem, stipe, stipes are cited), so no headword form can be used
+stipula | Stipula post messem in agro manet | The stalk stays in the field after the harvest
+stipulatio | Stipulatio emptorem et venditorem ligat | The stipulation binds the buyer and the seller
+stipulo | Pretium stipulo | I stipulate a price
+stipulor | Fidem a debitore stipulor | I demand a formal pledge from the debtor
+stirps | Stirps Corneliorum in senatu floret | The family stock of the Cornelii flourishes in the senate
