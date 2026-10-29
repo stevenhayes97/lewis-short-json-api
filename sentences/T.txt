@@ -115,3 +115,14 @@ testificatio | Testificatio civis rumorem tollit | The citizen's testimony ends 
 testificor | Coram judice testificor | I testify before the judge
 testimonium | Testimonium senis causam juvat | The old man's testimony helps the case
 testis1 | Testis verum in curia dicit | The witness speaks the truth in the court
+# Chunk 11
+testis2 | Testis in corpore animalis crescit | The testicle grows in the body of the animal
+testor | Fidem amici testor | I attest my friend's loyalty
+testu | Testu panem in foco tegit | The cooking-lid covers the bread on the hearth
+testudo | Testudo in horto lente repit | The tortoise crawls slowly in the garden
+tetrans | Tetrans agri vicino venditur | A quarter of the field is sold to the neighbour
+tetrarches | Tetrarches in aula cum legato loquitur | The tetrarch talks with the envoy in the court
+texo | Corbem ex vimine texo | I weave a basket from wicker
+textus2 | Textus lanae vestem firmam facit | The texture of the wool makes the garment sturdy
+thalamus | Thalamus sponsae floribus ornatur | The bride's bedroom is adorned with flowers
+theatrum | Theatrum Romae multos spectatores capit | The theatre in Rome holds many spectators
