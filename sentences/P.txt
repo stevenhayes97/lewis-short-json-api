@@ -877,3 +877,15 @@ profano2 | Festum profano | I desecrate the festival
 profectio | Profectio navium portum vacuum facit | The departure of the ships makes the harbour empty
 profectus3 | Profectus discipuli parentibus placet | The pupil's progress pleases the parents
 profero | Tabulas e cista profero | I produce the tablets from the chest
+professio | Professio nominis apud praetorem fit | The declaration of the name is made before the praetor
+professor | Professor discipulos Graece docet | The professor teaches the pupils Greek
+proficiscor | Mane Athenas proficiscor | I depart for Athens in the morning
+profiteor | Philosophiam profiteor | I profess philosophy
+profligo1 | Hostes profligo | I rout the enemy
+# third: proflo "I exhale flames" is unnatural; a dragon is the natural subject
+proflo | Draco flammas proflat | The dragon breathes out flames
+# third: profluo "I flow" is unnatural; a stream is the natural subject
+profluo | Rivus e monte profluit | The stream flows from the mountain
+profluvium | Profluvium fontis hortum rigat | The discharge of the spring waters the garden
+# skip: profor is a deponent verb misfiled as a noun; only third-person forms (profatur) attested
+profugio | Ad montes profugio | I flee to the mountains
