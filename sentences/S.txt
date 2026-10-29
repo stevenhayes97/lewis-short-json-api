@@ -226,3 +226,13 @@ separo | Granum a palea separo | I separate the grain from the chaff
 sepelio | Thesaurum in agro sepelio | I bury the treasure in the field
 sepono | Partem cibi sepono | I set aside a part of the food
 seps1 | Seps sub folio sibilat | The viper hisses under the leaf
+septemviri | Septemviri epulum deis parant | The septemvirs prepare a banquet for the gods
+septentriones | Septentriones frigus afferunt | The north brings cold
+sepulcrum | Sepulcrum marmoreum prope viam stat | The marble tomb stands near the road
+sepultura | Sepultura amici familiam congregat | The friend's burial gathers the family
+sequela | Sequela belli civitatem diu premit | The consequence of the war weighs on the city for a long time
+sequester | Sequester pecuniam creditori servat | The trustee keeps the money for the creditor
+sequestro | Pecuniam apud amicum sequestro | I place the money in trust with a friend
+sequor | Matrem sequor | I follow my mother
+sera | Sera portam firmat | The bolt secures the door
+serenitas | Serenitas caeli nautas ad mare vocat | The serenity of the sky calls the sailors to the sea
