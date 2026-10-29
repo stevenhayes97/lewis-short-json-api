@@ -377,3 +377,16 @@ pertergeo | Mensam linteo pertergeo | I wipe the table dry with a cloth
 perterreo | Lupum igne perterreo | I terrify the wolf with fire
 pertexo | Telam pertexo | I weave the cloth to the end
 pertica | Pertica in horreo stat | The pole stands in the barn
+pertimesco | Iter nocturnum pertimesco | I dread the night journey
+pertinacia | Pertinacia mulae viatorem vexat | The mule's obstinacy annoys the traveller
+# third: pertineo "I pertain" is unnatural; a matter is the natural subject
+pertineo | Haec cura ad consulem pertinet | This concern pertains to the consul
+# third: pertingo "I extend" is unnatural; a road is the natural subject
+pertingo | Via ad mare pertingit | The road extends to the sea
+# third: pertono "I thunder" is unnatural; Jupiter is the natural subject
+pertono | Juppiter pertonat | Jupiter thunders
+pertracto | Libros pertracto | I handle the books
+pertraho | Ovem ad rivum pertraho | I drag the sheep to the stream
+pertranseo | Silvam pertranseo | I pass through the forest
+pertundo | Corium subula pertundo | I perforate the leather with an awl
+perturbatio | Perturbatio in macello emptores dispergit | The disturbance in the market scatters the buyers
