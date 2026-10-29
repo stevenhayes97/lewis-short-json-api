@@ -165,3 +165,14 @@ secessio | Secessio plebis consules turbat | The secession of the plebs disturbs
 secessus | Secessus ruri senem quietum facit | Retirement in the country makes the old man peaceful
 seco | Panem cultro seco | I cut the bread with a knife
 secretarium | Secretarium silentium poetae dat | The retreat gives the poet silence
+secta1 | Secta per silvam ad fontem ducit | The way through the wood leads to the spring
+sectator | Sectator magistrum ad scholam comitatur | The follower accompanies the teacher to the school
+sectio | Sectio bonorum creditores in foro congregat | The auction of the goods gathers the creditors in the forum
+sector1 | Sector prata metit | The haycutter mows the meadows
+sector2 | Ducem per viam sector | I follow the leader along the road
+sectura | Sectura marmoris multos dies occupat | The cutting of the marble takes up many days
+secubo | In cubiculo secubo | I sleep alone in the bedroom
+# third: secundo2 "I favour" is unnatural; the wind is the natural subject
+secundo2 | Ventus nautas secundat | The wind favours the sailors
+securis | Securis lignum findit | The axe splits the wood
+securitas | Securitas ducis milites placidos facit | The leader's composure makes the soldiers calm
