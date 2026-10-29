@@ -931,3 +931,14 @@ promoveo | Castra ad flumen promoveo | I advance the camp to the river
 # skip: promptus2 is attested only in the phrase in promptu; it has no nominative headword form
 promulgo | Legem promulgo | I promulgate the law
 promunturium | Promunturium nautis signum dat | The promontory gives the sailors a sign
+pronuntiatio | Pronuntiatio praeconis cives ad forum vocat | The herald's proclamation summons the citizens to the forum
+pronuntio | Victoriam pronuntio | I announce the victory
+prooemium | Prooemium carminis deos invocat | The preface of the poem invokes the gods
+propagatio | Propagatio vitium agricolae laborem auget | The propagation of the vines increases the farmer's labour
+propages | Propages vitis in terra radices agit | The vine layer takes root in the ground
+propago1 | Vites propago | I propagate vines
+propago2 | Propago Caesaris urbem regit | The offspring of Caesar rules the city
+propello | Navem remis propello | I propel the ship with oars
+# third: propendeo "I overhang" is unnatural; a branch is the natural subject
+propendeo | Ramus super viam propendet | The branch overhangs the road
+propero | Ad urbem propero | I hasten to the city
