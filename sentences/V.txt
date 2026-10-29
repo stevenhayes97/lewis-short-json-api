@@ -22,3 +22,15 @@ valeo | Corpore valeo | I am strong in body
 valesco | Post morbum valesco | I grow strong after illness
 valetudo | Valetudo ducis exercitum confirmat | The general's health reassures the army
 valles | Valles inter montes jacet | The valley lies between the mountains
+vallo | Collem fossa vallo | I fortify the hill with a ditch
+vallum | Vallum castra circumdat | The rampart surrounds the camp
+vallus1 | Vallus in terra defigitur | The stake is driven into the ground
+valva | Valva noctu clauditur | The folding door is closed at night
+vanesco | Ex oculis vanesco | I vanish from sight
+vanitas | Vanitas orationis senatum offendit | The emptiness of the speech offends the senate
+vapor | Vapor e balneo surgit | The steam rises from the bath
+# third: vaporo "I steam" is unnatural; a spring is the natural subject
+vaporo | Fons in frigore vaporat | The spring steams in the cold
+vappa | Vappa mercatori displicet | The flat wine displeases the merchant
+# third: vapulo "I am flogged" is unnatural; kept to a plain military statement
+vapulo | Miles vapulat | The soldier is flogged
