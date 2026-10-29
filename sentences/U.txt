@@ -65,3 +65,7 @@ utilitas | Utilitas aquaeductus civitatem juvat | The usefulness of the aqueduct
 # skip: uto is attested only in the imperative utito (Cato), with no first person
 utor | Libris utor | I use books
 utriculus2 | Utriculus apis nectare tumet | The little belly of the bee swells with nectar
+uva | Uva matura in vite pendet | The ripe grape hangs on the vine
+# third: uvesco "I grow moist" is unnatural; a garment is the natural subject
+uvesco | Vestis in litore uvescit | The garment grows moist on the shore
+uxor | Uxor viro togam novam texit | The wife weaves a new toga for her husband
