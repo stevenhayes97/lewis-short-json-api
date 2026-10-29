@@ -93,3 +93,14 @@ termino | Agrum sepe termino | I mark the limits of the field with a hedge
 terminus | Terminus duos agros dividit | The boundary divides the two fields
 tero | Frumentum inter manus tero | I rub the grain between my hands
 terra | Terra arida aquam sitit | The dry earth thirsts for water
+# Chunk 9
+terreo | Corvos e horto terreo | I scare the crows away from the garden
+terricula | Terricula in agro aves abigit | The bugbear drives the birds off from the field
+# skip: terrigena is an adjective (earth-born), not a noun
+territo | Equum clamore territo | I frighten the horse with a shout
+territorium | Territorium oppidi flumen et silvam continet | The territory of the town contains a river and a wood
+terror | Terror tonitrus pecus in stabulum fugat | The terror of thunder drives the herd into the stable
+tertio2 | Agrum tertio | I plough the field a third time
+# skip: tertius is an ordinal adjective (third), not a noun
+teruncius | Teruncius in pulvere jacet | A farthing lies in the dust
+tesca | Tesca deserta ultra montes jacent | The deserted wilds lie beyond the mountains
