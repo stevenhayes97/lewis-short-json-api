@@ -815,3 +815,13 @@ presbyter | Presbyter in ecclesia sedet | The elder sits in the church
 presso | Caseum presso | I press the cheese
 pressura | Pressura aquae fistulam rumpit | The pressure of the water bursts the pipe
 pressus2 | Pressus pollicis cerae formam dat | The pressure of the thumb gives shape to the wax
+prester | Prester navem in mari quassat | The whirlwind shakes the ship at sea
+pretium | Pretium vini emptorem terret | The price of the wine alarms the buyer
+prex | Prex pauperis deos movet | The poor man's prayer moves the gods
+primas | Primas in senatu sedet | The nobleman sits in the senate
+primatus | Primatus athletae civitatem gloria implet | The athlete's primacy fills the city with glory
+primicerius | Primicerius notarios ad scribendum vocat | The chief summons the clerks to write
+primitiae | Primitiae agri deis offeruntur | The firstfruits of the field are offered to the gods
+principatus | Principatus ducis militibus fiduciam dat | The general's preeminence gives the soldiers confidence
+principium | Principium libri lectorem allicit | The beginning of the book attracts the reader
+privilegium | Privilegium senatori locum primum dat | The privilege gives the senator the first place
