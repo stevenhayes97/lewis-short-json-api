@@ -418,3 +418,14 @@ rivus | Rivus lapillos in valle volvit | The brook rolls pebbles in the valley
 rixa | Rixa vicinos separat | The quarrel separates the neighbours
 rixor | Cum fratre rixor | I quarrel with my brother
 robigo | Robigo ancoram consumit | The rust eats away the anchor
+roboro | Corpus exercitatione roboro | I strengthen my body with exercise
+robur | Robur altum in colle stat | The tall oak stands on the hill
+rodo | Panem durum rodo | I gnaw the hard bread
+rogatio | Rogatio nova senatum dividit | The new bill divides the senate
+rogator | Rogator legem civibus explicat | The proposer explains the law to the citizens
+rogito | Nuntium de via rogito | I eagerly ask the messenger about the road
+rogo | Pastorem viam rogo | I ask the shepherd the way
+rogus | Rogus in campo ardet | The pyre burns in the field
+# third: roro "I bedew" is unnatural; the night is the natural subject
+roro | Nox prata rorat | The night bedews the meadows
+ros | Ros folia mane humectat | The dew moistens the leaves in the morning
