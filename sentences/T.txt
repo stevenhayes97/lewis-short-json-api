@@ -311,3 +311,15 @@ tristitia | Tristitia vultum fratris obscurat | Sadness darkens the brother's fa
 tritor | Tritor farinam in pistrino parat | The grinder prepares flour in the bakery
 triumphator | Triumphator per urbem in curru vehitur | The triumpher is carried through the city in a chariot
 triumpho | De Gallis triumpho | I triumph over the Gauls
+# Chunk 28
+triumphus | Triumphus populum Romanum in viis congregat | The triumph gathers the Roman people in the streets
+triumviratus | Triumviratus Crassum cum Caesare et Pompeio conjungit | The triumvirate joins Crassus with Caesar and Pompey
+triumviri | Triumviri nummos Romae cudunt | The triumvirs strike coins at Rome
+trivium | Trivium in agris viatorem confundit | The crossroads confuses the traveller in the fields
+trochaeus | Trochaeus syllabam longam et brevem habet | The trochee has a long syllable and a short one
+trochlea | Trochlea onus ad tectum levat | The pulley lifts the load to the roof
+tropaeum | Tropaeum in via victoriam militum ostendit | The trophy on the road shows the soldiers' victory
+trucidatio | Trucidatio cohortis imperatorem tristem facit | The massacre of the cohort makes the commander sad
+# third: trucido "I butcher" reads unnaturally for a violent verb
+trucido | Hostis cohortem trucidat | The enemy butchers the cohort
+trudo | Plaustrum ad collem trudo | I push the cart towards the hill
