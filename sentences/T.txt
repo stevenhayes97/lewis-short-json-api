@@ -1,0 +1,15 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/T.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+# Chunk 1
+tabefacio | Ceram tabefacio | I melt the wax
+tabella | Tabella nomen puellae tenet | The tablet holds the girl's name
+# third: tabeo "I waste away" is unnatural; a plant is the natural subject
+tabeo | Planta in umbra tabet | The plant wastes away in the shade
+taberna | Taberna oleum viatoribus vendit | The shop sells oil to travellers
+tabernaculum | Tabernaculum ducis in colle stat | The commander's tent stands on the hill
+tabes | Tabes frumentum in horreo corrumpit | Decay spoils the grain in the granary
+# third: tabesco "I waste away" is unnatural; a flower is the natural subject
+tabesco | Flos sine aqua tabescit | The flower wastes away without water
+tabula | Tabula in pariete pendet | The board hangs on the wall
+tabulinum | Tabulinum hortum spectat | The terrace overlooks the garden
+tabum | Tabum militem novicium terret | The gore frightens the new recruit
