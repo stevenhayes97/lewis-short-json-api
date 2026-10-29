@@ -332,3 +332,16 @@ perpendo | Consilium ducis perpendo | I ponder the general's plan
 perpessio | Perpessio frigoris pastorem in montibus exercet | The endurance of cold trains the shepherd in the mountains
 perpetior | Laborem perpetior | I endure toil steadfastly
 perpetro | Opus difficile perpetro | I accomplish the difficult task
+perpetuitas | Perpetuitas imperii Romanis curae est | The perpetuity of the empire is a concern to the Romans
+perpetuo2 | Libertatem perpetuo | I perpetuate freedom
+# third: perplaceo the verb takes the thing pleasing as its subject
+perplaceo | Consilium mihi perplacet | The plan pleases me greatly
+# third: perpluo "I leak" is unnatural; a roof is the natural subject
+perpluo | Tectum perpluit | The roof leaks
+perpolio | Librum perpolio | I polish the book
+# third: perpopulor a violent verb; keeps to a military frame
+perpopulor | Hostis agros perpopulatur | The enemy devastates the fields
+perpoto | Totos dies perpoto | I carouse all day long
+perpurgo | Puteum perpurgo | I cleanse the well thoroughly
+perquiro | Bibliothecam perquiro | I search the library diligently
+perrogo | Sententias perrogo | I poll the opinions in turn
