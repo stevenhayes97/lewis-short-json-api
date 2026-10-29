@@ -253,3 +253,15 @@ transilio | Sepem transilio | I leap over the hedge
 transitio | Transitio vadi iter nostrum tardat | The crossing of the ford slows our journey
 transitus2 | Transitus angustus per montes agmen impedit | The narrow crossing through the mountains hinders the column
 translatio | Translatio mercium ad portum diem totum consumit | The transfer of the goods to the harbour uses up a whole day
+# Chunk 23
+translator | Translator librum Graecum Latine reddit | The translator renders the Greek book into Latin
+# third: transluceo "I shine through" is unnatural; the sun is the natural subject
+transluceo | Sol per nubes translucet | The sun shines through the clouds
+transmeo | Viam transmeo | I cross the road
+transmigro | Cum familia ad aliam urbem transmigro | I migrate with my family to another city
+transmissus2 | Transmissus e Gallia in Britanniam tempus longum postulat | The passage from Gaul to Britain demands a long time
+transmitto | Epistulam per nuntium transmitto | I transmit a letter by a messenger
+transnato | Rivum transnato | I swim across the stream
+transnomino | Navem transnomino | I rename the ship
+transpono | Libros in aliud armarium transpono | I transfer the books to another cupboard
+transporto | Frumentum navibus transporto | I transport grain by ships
