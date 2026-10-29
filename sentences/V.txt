@@ -228,3 +228,13 @@ vis | Vis venti arbores frangit | The force of the wind breaks the trees
 viscum | Viscum in quercu crescit | Mistletoe grows on the oak
 viscus1 | Viscus in libro medici nominatur | The internal organ is named in the doctor's book
 visio | Visio in somno sacerdotem monet | A vision in sleep warns the priest
+visito | Matrem visito | I visit my mother
+viso | Templum viso | I view the temple
+visum | Visum deae pastorem admonet | The vision of the goddess admonishes the shepherd
+visus2 | Visus senis cotidie minuitur | The old man's sight grows weaker every day
+vita | Vita hominum cito praeterit | Human life passes quickly
+vitellus | Vitellus in aqua fervente durescit | The yolk hardens in the boiling water
+vitio | Aquam luto vitio | I taint the water with mud
+vitiositas | Vitiositas hominis amicos fugat | The viciousness of the man drives his friends away
+vitis | Vitis ulmo innititur | The vine leans on the elm
+vitium | Vitium in columna architectum sollicitat | The fault in the column worries the architect
