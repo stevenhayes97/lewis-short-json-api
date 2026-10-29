@@ -10,3 +10,13 @@ sacerdos1 | Sacerdos in templo orat | The priest prays in the temple
 sacerdotium | Sacerdotium patri honorem dat | The priesthood gives the father honour
 sacramentum | Sacramentum militem fidelem facit | The oath makes the soldier loyal
 sacrarium | Sacrarium statuas deorum custodit | The shrine guards the statues of the gods
+sacricola | Sacricola vinum ad aram portat | The sacrificer carries wine to the altar
+sacrificium | Sacrificium deos placat | The sacrifice appeases the gods
+sacrifico | Jovi sacrifico | I sacrifice to Jupiter
+sacrificulus | Sacrificulus ante aram stat | The sacrificer stands in front of the altar
+sacrilegium | Sacrilegium civitatem terret | The sacrilege terrifies the city
+sacro | Aram Cereri sacro | I consecrate an altar to Ceres
+saeculum | Saeculum novum pacem affert | The new age brings peace
+saepes | Saepes hortum a via separat | The hedge separates the garden from the road
+saepio | Hortum muro saepio | I enclose the garden with a wall
+saeptum | Saeptum oves noctu tenet | The enclosure keeps the sheep at night
