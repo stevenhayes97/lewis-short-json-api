@@ -102,3 +102,15 @@ scamnum | Scamnum in porticu stat | The bench stands in the portico
 scandalum | Scandalum viatorem impedit | The stumbling-block hinders the traveller
 scando | Montem scando | I climb the mountain
 scansio | Scansio montis duas horas occupat | The ascent of the mountain takes up two hours
+scapha | Scapha nautam ad litus portat | The skiff carries the sailor to the shore
+scaphium | Scaphium aquam frigidam tenet | The bowl holds cold water
+scapulae | Scapulae fabri sarcinam sustinent | The carpenter's shoulder-blades support the pack
+scapus | Scapus columnae tectum sustinet | The shaft of the column supports the roof
+scarifo | Truncum arboris scarifo | I scratch open the tree trunk
+scarus | Scarus in mari natat | The parrotfish swims in the sea
+scatebra | Scatebra viatoribus aquam puram dat | The spring gives the travellers pure water
+# third: scateo "I gush" is unnatural; water is the natural subject
+scateo | Aqua e rupe scatet | The water gushes from the rock
+# third: scaturio "I gush" is unnatural; a fountain is the natural subject
+scaturio | Fons in valle scaturit | The fountain gushes in the valley
+scelero | Aram scelero | I defile the altar
