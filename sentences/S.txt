@@ -540,3 +540,13 @@ strictura | Strictura stomachi medicum sollicitat | The stricture of the stomach
 # third: strideo "I creak" is unnatural; a door is the natural subject
 strideo | Janua vetus stridet | The old door creaks
 stridor | Stridor rotae asinum terret | The screech of the wheel startles the donkey
+strigilis | Strigilis sudorem athletae removet | The strigil scrapes off the athlete's sweat
+stringo | Saccum fune stringo | I tie the sack tight with a rope
+strio1 | Columnam strio | I groove the column
+strix1 | Strix in turri nocte clamat | The screech owl cries in the tower at night
+stropha | Stropha callida servum ab ira domini servat | The clever trick saves the slave from the master's anger
+strophium | Strophium rubrum in cista jacet | The red breast band lies in the chest
+structio | Structio muri multos operarios exigit | The construction of the wall requires many workers
+structor | Structor ad novam villam lapides portat | The builder carries stones to the new farmhouse
+structura | Structura aquaeductus peregrinos ad admirationem movet | The structure of the aqueduct moves the visitors to wonder
+strues | Strues lignorum prope focum jacet | The heap of logs lies near the hearth
