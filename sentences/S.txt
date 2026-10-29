@@ -363,3 +363,14 @@ sollicito | Quietem vicini sollicito | I disturb the neighbour's rest
 sollicitudo | Sollicitudo mercatoris animum exedit | Anxiety gnaws at the merchant's mind
 soloecismus | Soloecismus in oratione magistrum offendit | A solecism in the speech offends the teacher
 solor | Viduam solor | I console the widow
+solstitium | Solstitium diem longissimum affert | The solstice brings the longest day
+solum1 | Solum arenosum aquam bibit | The sandy ground drinks the water
+solutio | Solutio debiti creditorem laetum facit | The payment of the debt makes the creditor glad
+solvo | Corrigiam solvo | I loosen the strap
+somnio | Noctu de patria somnio | I dream about my homeland at night
+somnium | Somnium dulce aegrum mulcet | A sweet dream soothes the sick man
+somnus | Somnus fessum agricolam post cenam vincit | Sleep overcomes the tired farmer after dinner
+sonitus | Sonitus tubae milites excitat | The sound of the trumpet rouses the soldiers
+# third: sono "I sound" is unnatural; a trumpet is the natural subject
+sono | Tuba in castris sonat | The trumpet sounds in the camp
+sonor | Sonor fontis hortum implet | The sound of the fountain fills the garden
