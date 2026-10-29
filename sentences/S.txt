@@ -770,3 +770,15 @@ supertego | Fenum storea supertego | I cover the hay over with a mat
 supervehor | Ante villam supervehor | I ride past the farmhouse
 # third: supervenio "I supervene" is unnatural; rain is the natural subject
 supervenio | Pluvia subito supervenit | Rain suddenly comes on
+supervivo | Bello supervivo | I survive the war
+supino | Caput supino | I bend my head back
+supo | Grana avibus supo | I scatter grain for the birds
+supparum | Supparum album mulierem in aestate tegit | The white smock covers the woman in summer
+suppetiae | Suppetiae vicinorum villam servant | The help of the neighbours saves the farmhouse
+# third: suppeto "I am available" is unnatural; grain is the natural subject
+suppeto | Frumentum militibus suppetit | Grain is available for the soldiers
+# third: suppilo "I pilfer" is unnatural in the first person; a slave is a natural subject
+suppilo | Servus nummos domini suppilat | The slave pilfers the master's coins
+suppingo1 | Soccos suppingo | I resole the slippers
+supplanto | Hostem supplanto | I trip up the enemy
+supplementum | Supplementum ex urbe ad castra venit | The reinforcements arrive at the camp from the city
