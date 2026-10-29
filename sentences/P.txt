@@ -1078,7 +1078,7 @@ pulvinus | Pulvinus seni sedile mollit | The cushion softens the seat for the ol
 pulvis | Pulvis post equites surgit | The dust rises behind the horsemen
 pulvisculus | Pulvisculus in vase manet | The little bit of powder stays in the jar
 pumex | Pumex tabulam levigat | The pumice smooths the tablet
-pumico | Manus pumico | I polish my hands
+pumico | Manus pumico | I smooth my hands with pumice
 pumilio | Pumilio ante regem saltat | The dwarf dances before the king
 pungo | Folium spina pungo | I prick the leaf with a thorn
 punio | Perfidiam punio | I punish treachery

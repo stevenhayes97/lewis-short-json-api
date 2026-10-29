@@ -119,7 +119,7 @@ vermino | Ovis verminat | The sheep has worms
 verna | Verna dominae epistulam affert | The house-born slave brings the lady a letter
 # third: verno "I bloom" is unnatural; a forest is the natural subject
 verno | Silva in sole vernat | The forest blooms in the sun
-verres1 | Verres glandes sub quercu quaerit | The male pig looks for acorns under the oak
+verres1 | Verres glandes sub quercu quaerit | The boar looks for acorns under the oak
 verro | Pavimentum verro | I sweep the floor
 verruca | Verruca in digito apparet | The wart appears on the finger
 versiculus | Versiculus in tabula scribitur | The little line of verse is written on the tablet
