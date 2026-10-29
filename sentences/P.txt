@@ -455,3 +455,13 @@ pigmentum | Pigmentum pictori ex Aegypto venit | The pigment comes to the painte
 pignero | Anulum pignero | I pledge my ring
 pigneror | Laudem pigneror | I appropriate the praise
 pignus | Pignus creditorem securum facit | The pledge makes the creditor secure
+pigritia | Pigritia agricolam in lecto tenet | Laziness keeps the farmer in bed
+pila1 | Pila lapidea in culina manet | The stone mortar remains in the kitchen
+pila2 | Pila pontem sustinet | The pillar supports the bridge
+pila3 | Pila per hortum volat | The ball flies through the garden
+pilentum | Pilentum matronam ad ludos portat | The carriage carries the matron to the games
+pilleus | Pilleus caput senis a frigore tegit | The felt cap covers the old man's head from the cold
+pilo1 | Palum in terram pilo | I ram the stake into the ground
+pilo2 | Crura pilo | I depilate my legs
+pilum | Pilum ante tabernaculum militis stat | The javelin stands before the soldier's tent
+pilus1 | Pilus e capite cadit | The hair falls from the head
