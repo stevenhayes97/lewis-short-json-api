@@ -621,3 +621,13 @@ praecaveo | Damnum praecaveo | I avert the loss
 praecedo | Agmen praecedo | I precede the column
 praecello | Ingenio praecello | I excel in talent
 praeceptio | Praeceptio magistri discipulos monet | The teacher's precept advises the pupils
+praeceptor | Praeceptor discipulum geometriam docet | The teacher teaches the pupil geometry
+praecerpo | Poma praecerpo | I pluck the fruit early
+praecia1 | Praecia ante flaminem procedit | The herald walks before the priest
+praecido | Funem praecido | I sever the rope
+praecingo | Tunicam zona praecingo | I gird the tunic with a belt
+praecino | Aestatem siccam praecino | I foretell a dry summer
+praecipio | Servis opus praecipio | I direct the work of the slaves
+praecipitium | Praecipitium ad mare descendit | The precipice drops to the sea
+praecipito | Saxum de monte praecipito | I hurl the rock down from the mountain
+praecisio | Praecisio rami arborem renovat | The excision of the branch renews the tree
