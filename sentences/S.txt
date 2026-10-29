@@ -671,3 +671,13 @@ succido1 | Prae lassitudine in genua succido | I sink to my knees from exhaustio
 succido2 | Arborem securi succido | I fell the tree with an axe
 succingo | Tunicam zona succingo | I gird my tunic with a belt
 succino | Cantori tibia succino | I accompany the singer on the pipe
+succlamo | Oratori succlamo | I shout back at the orator
+succollo | Sarcinam succollo | I shoulder the pack
+succumbo | Oneri succumbo | I succumb to the load
+succurro | Naufrago succurro | I help the shipwrecked man
+succutio | Pilam in aerem succutio | I toss the ball up into the air
+# skip: sucula3 is attested only in the plural suculae (the Hyades), so the headword form is not usable
+sucus | Sucus pomi sitim levat | The juice of the apple eases thirst
+sudis | Sudis acuta fossam munit | The sharp stake guards the ditch
+sudo | Aestate in agro sudo | I sweat in the field in summer
+sudor | Sudor in fronte militis fluit | The sweat flows on the soldier's brow
