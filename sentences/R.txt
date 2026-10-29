@@ -441,3 +441,15 @@ rubeo | Pomum in arbore rubet | The apple is red on the tree
 rubesco | Caelum mane rubescit | The sky reddens in the morning
 rubor | Rubor occasus caelum tingit | The redness of the sunset colours the sky
 rubrica | Rubrica vas inficit | Red ochre stains the jar
+rubus | Rubus sepem tegit | The bramble covers the hedge
+# third: ructo a crude bodily verb; an animal is the natural subject
+ructo | Vacca post pabulum ructat | The cow belches after feeding
+ructus | Ructus equi in stabulo auditur | The horse's belch is heard in the stable
+rudens1 | Rudens nautam ab undis servat | The rope saves the sailor from the waves
+rudimentum | Rudimentum grammaticae discipulum docet | A rudiment of grammar teaches the pupil
+rudis2 | Rudis gladiatorem exercet | The wooden sword trains the gladiator
+# third: rudo "I bray" is unnatural; a donkey is the natural subject
+rudo | Asinus in agro rudit | The donkey brays in the field
+rudus1 | Rudus fossam implet | The rubble fills the ditch
+# skip: rufulus is an adjective (reddish); only the plural noun rufuli exists as a noun
+ruga1 | Ruga in fronte senis apparet | The wrinkle appears on the old man's forehead
