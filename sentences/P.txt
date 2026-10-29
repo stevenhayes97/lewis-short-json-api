@@ -909,3 +909,13 @@ projectio | Projectio muri hortum angustat | The extension of the wall narrows t
 prolabor | In luto prolabor | I slip in the mud
 prolapsio | Prolapsio pedis nautam retardat | The slip of the foot delays the sailor
 prolatio | Prolatio nominis regem commovet | The utterance of the name stirs the king
+prolato | Fines prolato | I extend the boundaries
+prolecto | Piscem esca prolecto | I entice the fish with bait
+prolepsis | Prolepsis oratorem ab objectione defendit | The prolepsis shields the orator from the objection
+proles | Proles agricolae in horto ludit | The farmer's offspring plays in the garden
+prologus | Prologus spectatores salutat | The prologue greets the spectators
+proloquium | Proloquium orationis auditores attentos facit | The preamble of the speech makes the listeners attentive
+proloquor | Sententiam proloquor | I declare my opinion
+prolubium | Prolubium viatorem ad tabernam ducit | The inclination leads the traveller to the inn
+proludo | Ante certamen proludo | I warm up before the contest
+proluo | Manus aqua proluo | I wash my hands with water
