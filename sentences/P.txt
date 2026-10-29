@@ -752,3 +752,13 @@ praesentia1 | Praesentia consulis tumultum sedat | The presence of the consul ca
 praesentio | Insidias praesentio | I sense the ambush beforehand
 praesento | Munus regi praesento | I present a gift to the king
 praesideo | Senatui praesideo | I preside over the senate
+praesidium | Praesidium murorum cives ab hostibus custodit | The protection of the walls guards the citizens from the enemy
+praestantia | Praestantia athletae spectatores ad stadium trahit | The preeminence of the athlete draws the spectators to the stadium
+praestatio | Praestatio venditoris emptori fiduciam dat | The seller's warranty gives the buyer confidence
+praesterno | Lectum foliis praesterno | I prepare the bed with leaves
+praestes | Praestes limen domus observat | The guardian watches over the threshold of the house
+praestigiae | Praestigiae spectatores in foro obstupefaciunt | The tricks astonish the onlookers in the forum
+praestino | Pisces in macello praestino | I buy fish in the market
+praestituo | Tempus operi praestituo | I prescribe a time for the work
+praesto2 | Virtute omnibus praesto | I excel all in courage
+praestolor | Filium praestolor | I await my son
