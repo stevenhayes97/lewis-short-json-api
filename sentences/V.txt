@@ -131,3 +131,13 @@ vertex | Vertex montis nive tegitur | The summit of the mountain is covered with
 vertigo | Vertigo viatorem in via sistit | Dizziness stops the traveller in the road
 verto | Equum ad flumen verto | I turn the horse towards the river
 veru | Veru in culina pendet | The spit hangs in the kitchen
+verutum | Verutum a milite portatur | The javelin is carried by the soldier
+vescor | Pane vescor | I eat bread
+vesica | Vesica aere impletur | The bladder is filled with air
+vesper | Vesper agricolam a labore revocat | Evening calls the farmer back from work
+vespera | Vespera in oppido silentium affert | Evening brings silence to the town
+vestibulum | Vestibulum clientes exspectantes recipit | The vestibule receives the waiting clients
+vestigium | Vestigium in nive manet | The footprint stays in the snow
+vestigo | Vulpem per nivem vestigo | I track the fox through the snow
+vestimentum | Vestimentum a matre texitur | The garment is woven by the mother
+vestio | Pauperem lana vestio | I clothe the poor man with wool
