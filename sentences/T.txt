@@ -195,3 +195,14 @@ torulus | Torulus lanae ex ove pendet | The tuft of wool hangs from the sheep
 torus | Torus mollis in triclinio stat | The soft couch stands in the dining room
 torvitas | Torvitas magistri discipulos silentes facit | The teacher's sternness makes the pupils silent
 toxicum | Toxicum in horreo muribus nocet | Poison in the granary harms the mice
+# Chunk 18
+trabea1 | Trabea purpurea in arca servatur | The purple state-robe is kept in the chest
+trabs | Trabs flumine ad portum fertur | The beam is carried to the harbour by the river
+tractatio | Tractatio armorum tironem exercet | The handling of weapons trains the recruit
+tractator | Tractator corpus defessi athletae mulcet | The masseur soothes the tired athlete's body
+tractatus | Tractatus benignus aegrum recreat | The kind treatment revives the sick man
+tracto | Negotium tracto | I handle the business
+tractus2 | Tractus agri ad flumen pertinet | The tract of land extends to the river
+traditio | Traditio oppidi hostem laetum facit | The surrender of the town makes the enemy glad
+trado | Epistulam nuntio trado | I hand the letter to the messenger
+traduco | Gregem per pontem traduco | I lead the flock across the bridge
