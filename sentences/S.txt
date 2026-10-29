@@ -51,3 +51,13 @@ salutator | Salutator mane ante januam stat | The greeter stands in front of the
 salutatrix | Salutatrix hospites in atrio accipit | The female greeter welcomes the guests in the hall
 saluto | Vicinum mane saluto | I greet the neighbour in the morning
 salvator | Salvator naufragum ex undis servat | The saviour rescues the shipwrecked man from the waves
+# skip: salveo has its finite form attested only once, in a word-play; it lives on as the greeting salve
+sambuca | Sambuca sonum acutum edit | The harp gives a shrill sound
+sancio | Legem sancio | I sanction the law
+sanctimonia | Sanctimonia sacerdotis populum ad templum vocat | The priest's sanctity calls the people to the temple
+sanctio | Sanctio legis cives a fraude retinet | The sanction of the law keeps the citizens from fraud
+sanctitas | Sanctitas templi viatores tacitos facit | The sanctity of the temple makes the travellers silent
+sanctitudo | Sanctitudo luci arbores tutas facit | The sanctity of the grove makes the trees safe
+# skip: sanguino is attested in the entry only as the participle sanguinans, so it has no finite headword form
+sanguis | Sanguis in venis fluit | Blood flows in the veins
+sanies | Sanies medicum non terret | The gore does not frighten the doctor
