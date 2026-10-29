@@ -58,3 +58,14 @@ temperator | Temperator senatum placat | The moderator calms the senate
 temperatura | Temperatura mortarii murum firmat | The composition of the mortar strengthens the wall
 temperies | Temperies caeli agricolas juvat | The temperature of the climate helps the farmers
 tempero | Ferrum aqua tempero | I temper the iron with water
+# Chunk 6
+tempestas | Tempestas nautas in portu tenet | The storm keeps the sailors in the harbour
+tempestivitas | Tempestivitas pluviae segetem juvat | The timeliness of the rain helps the crop
+templum | Templum Jovis in colle splendet | The temple of Jupiter shines on the hill
+tempus | Tempus celeriter fugit | Time flies quickly
+tendicula | Tendicula leporem in silva tenet | The snare holds the hare in the wood
+tendo | Funem inter arbores tendo | I stretch a rope between the trees
+tenebrae | Tenebrae viatorem in silva circumdant | The darkness surrounds the traveller in the forest
+teneo | Librum in manu teneo | I hold the book in my hand
+teneritas | Teneritas herbae agnum allicit | The tenderness of the grass attracts the lamb
+tenor | Tenor aequus vitae senem tranquillum facit | The even course of life makes the old man calm
