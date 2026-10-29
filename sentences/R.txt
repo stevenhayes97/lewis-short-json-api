@@ -433,8 +433,8 @@ rosa | Rosa apes allicit | The rose attracts bees
 rostrum | Rostrum corvi nucem frangit | The raven's beak cracks the nut
 rota | Rota plaustri in luto haeret | The wheel of the cart sticks in the mud
 roto | Funem roto | I whirl the rope
-rotunditas | Rotunditas tabulae convivas aequat | The roundness of the table makes the guests equal
-rotundo | Mensam rotundo | I round the table
+rotunditas | Rotunditas pilae puerum delectat | The roundness of the ball delights the boy
+rotundo | Mensam rotundo | I make the table round
 # third: rubeo "I am red" is unnatural; an apple is the natural subject
 rubeo | Pomum in arbore rubet | The apple is red on the tree
 # third: rubesco "I redden" is unnatural; the sky is the natural subject

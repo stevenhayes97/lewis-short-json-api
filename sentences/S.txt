@@ -24,7 +24,7 @@ saeta | Saeta scopae pavimentum purgat | The bristle of the broom cleans the flo
 saevio | Contra fortunam saevio | I rage against fortune
 saevitia | Saevitia tempestatis nautas terret | The ferocity of the storm frightens the sailors
 sagacitas | Sagacitas senis mercatorem a fraude servat | The old man's sagacity saves the merchant from fraud
-sagina | Sagina porcos pingues facit | Fattening makes the pigs fat
+sagina | Sagina porcos ad mercatum parat | Fattening readies the pigs for market
 sagino | Anseres sagino | I fatten the geese
 sagitta | Sagitta per aerem volat | The arrow flies through the air
 sagitto | Ad metam sagitto | I shoot at the target
@@ -318,7 +318,7 @@ simultas | Simultas duos oratores in senatu dividit | Rivalry divides the two or
 sinapi | Sinapi cibum acrem facit | Mustard makes the food sharp
 sinceritas | Sinceritas legati senatui placet | The envoy's sincerity pleases the senate
 sinciput | Sinciput in culina pendet | The pig's jowl hangs in the kitchen
-singularitas | Singularitas viatorem in silva sollicitat | Singleness worries the traveller in the forest
+singularitas | Singularitas viatorem in silva sollicitat | Being alone worries the traveller in the forest
 singulto | Prae dolore singulto | I sob from grief
 singultus | Singultus viduae vicinos ad domum vocat | The widow's sob calls the neighbours to the house
 sino | Puerum ludere sino | I allow the boy to play
