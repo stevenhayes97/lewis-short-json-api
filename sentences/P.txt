@@ -355,3 +355,15 @@ persedeo | Diu in theatro persedeo | I sit long in the theatre
 persentisco | Fraudem persentisco | I perceive the deception clearly
 persequor | Fugitivum persequor | I pursue the runaway
 perseverantia | Perseverantia pictorem ad gloriam ducit | Perseverance leads the painter to glory
+persevero | In labore persevero | I persevere in toil
+persisto | In sententia persisto | I persist in my opinion
+persolvo | Mercedem fabro persolvo | I pay the wages to the builder
+# third: persono "I resound" is unnatural; a place is the natural subject
+persono | Theatrum plausu personat | The theatre resounds with applause
+perspicio | Causam perspicio | I look into the cause
+perspicuitas | Perspicuitas aquae piscem in rivo ostendit | The clarity of the water shows the fish in the stream
+persto | In acie persto | I stand firm in the line
+# third: perstrepo "I resound" is unnatural; a place is the natural subject
+perstrepo | Silva avibus perstrepit | The forest resounds with the birds
+perstringo | Manum spina perstringo | I graze my hand on a thorn
+persuadeo | Sorori persuadeo | I persuade my sister
