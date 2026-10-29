@@ -465,3 +465,14 @@ pilo1 | Palum in terram pilo | I ram the stake into the ground
 pilo2 | Crura pilo | I depilate my legs
 pilum | Pilum ante tabernaculum militis stat | The javelin stands before the soldier's tent
 pilus1 | Pilus e capite cadit | The hair falls from the head
+pilus2 | Pilus ante portam consistit | The company halts before the gate
+pinacotheca | Pinacotheca advenas Athenis accipit | The gallery receives the visitors at Athens
+pingo | Januam pingo | I paint the door
+pinguedo | Pinguedo bovis agricolam laetum facit | The ox's fatness makes the farmer happy
+# third: pinguesco "I fatten" is unnatural; a lamb is the natural subject
+pinguesco | Agnus herba pinguescit | The lamb fattens on grass
+pinguitudo | Pinguitudo corporis senem tardum facit | The fatness of the body makes the old man slow
+pinso | Far in pila pinso | I pound the spelt in the mortar
+pinus | Pinus in colle ventis resistit | The pine resists the winds on the hill
+pio | Deos sacrificio pio | I appease the gods with a sacrifice
+piper | Piper e India venit | The pepper comes from India
