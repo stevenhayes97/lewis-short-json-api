@@ -135,3 +135,13 @@ scitamenta | Scitamenta mensam divitis ornant | The dainties adorn the rich man'
 scitor | Vilicum de pretio scitor | I inquire of the steward about the price
 scobis | Scobis pavimentum fabri tegit | The sawdust covers the carpenter's floor
 scopa1 | Scopa angulos atrii purgat | The broom cleans the corners of the hall
+scopulus | Scopulus sub undis latet | The reef lies hidden under the waves
+scorpio | Scorpio sub saxo dormit | The scorpion sleeps under the stone
+scortor | Numquam scortor | I never consort with prostitutes
+scortum | Scortum mercedem postulat | The prostitute asks for payment
+scriba | Scriba tabulas senatus servat | The scribe keeps the records of the senate
+scribo | Litteras ad sororem scribo | I write a letter to my sister
+scrinium | Scrinium volumina tenet | The case holds the scrolls
+scriptio | Scriptio longa digitos fatigat | Long writing tires the fingers
+scriptito | Saepe scriptito | I write often
+scriptor | Scriptor in bibliotheca laborat | The writer works in the library
