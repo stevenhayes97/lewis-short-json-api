@@ -439,3 +439,13 @@ spiro | In alto monte aegre spiro | I breathe with difficulty on the high mounta
 spisso | Salsam farina spisso | I thicken the sauce with flour
 # third: splendeo "I shine" is unnatural; the moon is the natural subject
 splendeo | Luna nocte splendet | The moon shines at night
+splendor | Splendor lunae lacum implet | The brilliance of the moon fills the lake
+spoliarium | Spoliarium sub gradibus amphitheatri latet | The stripping-room lies hidden under the tiers of the amphitheatre
+spoliatio | Spoliatio provinciae senatum irritat | The plundering of the province angers the senate
+spolio | Urbem victam spolio | I plunder the conquered city
+spolium | Spolium bellicum in templo pendet | The war spoil hangs in the temple
+spondeo | Hospiti auxilium spondeo | I pledge help to the guest
+spondylus | Spondylus in dorso piscis latet | The vertebra lies hidden in the back of the fish
+spongia1 | Spongia aquam e mensa bibit | The sponge soaks up water from the table
+sponsio | Sponsio amici creditorem sedat | The friend's guarantee reassures the creditor
+sponsor | Sponsor pro amico apud judicem stat | The surety stands before the judge on behalf of the friend
