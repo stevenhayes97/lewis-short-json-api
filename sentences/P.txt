@@ -558,3 +558,15 @@ pontifex | Pontifex diem festum nuntiat | The pontiff announces the festival day
 pontus1 | Pontus sub vento tumet | The sea swells under the wind
 popa | Popa victimam ad aram ducit | The acolyte leads the victim to the altar
 popina | Popina nautas esurientes pascit | The cookshop feeds the hungry sailors
+poples | Poples post cursum tremit | The knee trembles after the race
+popularitas | Popularitas candidato victoriam parat | The popularity prepares victory for the candidate
+populatio1 | Populatio agrorum colonos in urbem fugat | The devastation of the fields drives the farmers into the city
+populator | Populator a legionibus repellitur | The ravager is driven back by the legions
+# third: populor a violent verb; keeps to a military frame
+populor | Exercitus agros populatur | The army ravages the fields
+populus1 | Populus consulem creat | The people elect the consul
+# third: porceo is attested only in the third person (porcet), as in early Latin
+porceo | Pudor cives porcet | Shame restrains the citizens
+porcus | Porcus glandes in silva quaerit | The pig seeks acorns in the forest
+porricio | Diis sacrificium porricio | I offer a sacrifice to the gods
+porrigo1 | Manum puero porrigo | I hold out my hand to the boy
