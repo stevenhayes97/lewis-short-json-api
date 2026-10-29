@@ -663,3 +663,15 @@ praefatio | Praefatio breviter libri argumentum explicat | The preface briefly e
 praefectura | Praefectura legibus Romanis paret | The prefecture obeys the Roman laws
 praefero | Pacem bello praefero | I prefer peace to war
 praefestino | Ad pontem praefestino | I rush to the bridge
+praefica | Praefica ante pompam funebrem incedit | The mourner walks at the head of the funeral procession
+praeficio | Legatum exercitui praeficio | I appoint a lieutenant over the army
+praefigo | Titulum ad postem praefigo | I affix the notice to the doorpost
+praefinio | Diem conventui praefinio | I prescribe a day for the meeting
+praefloro | Gloriam victoriae praefloro | I tarnish the glory of the victory
+# third: praefluo "I flow past" is unnatural; a river is the natural subject
+praefluo | Tiberis Romam praefluit | The Tiber flows past Rome
+praefor | Brevibus verbis praefor | I preface in a few words
+praefringo | Caulem praefringo | I snap the stalk
+praefulcio | Murum trabe praefulcio | I prop the wall with a beam
+# third: praefulgeo "I glitter" is unnatural; a gem is the natural subject
+praefulgeo | Gemma in anulo praefulget | The gem glitters in the ring
