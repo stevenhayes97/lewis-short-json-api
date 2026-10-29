@@ -782,3 +782,14 @@ suppilo | Servus nummos domini suppilat | The slave pilfers the master's coins
 suppingo1 | Soccos suppingo | I resole the slippers
 supplanto | Hostem supplanto | I trip up the enemy
 supplementum | Supplementum ex urbe ad castra venit | The reinforcements arrive at the camp from the city
+suppleo | Lagenam aqua suppleo | I fill up the flask with water
+supplicatio | Supplicatio post victoriam cives ad templa ducit | The supplication after the victory leads the citizens to the temples
+supplicium | Supplicium legis fraudatorem terret | The punishment of the law frightens the swindler
+supplico | Deae supplico | I beseech the goddess
+supplodo | Pedem in terram supplodo | I stamp my foot on the ground
+suppono | Trabes tecto suppono | I place beams under the roof
+supporto | Frumentum ad castra supporto | I convey grain to the camp
+supprimo | Rebellionem supprimo | I suppress the revolt
+# third: suppuro "I suppurate" is unnatural; a sore is the natural subject
+suppuro | Ulcus in digito suppurat | The sore on the finger suppurates
+supputo | Rationes supputo | I reckon the accounts
