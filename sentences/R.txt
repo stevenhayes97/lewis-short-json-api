@@ -383,3 +383,16 @@ revenio | Ad portam revenio | I return to the gate
 reverbero | Rupes sonum reverberat | The cliff sends the sound back
 reverentia | Reverentia pueros in templo quietos tenet | Reverence keeps the boys quiet in the temple
 revereor | Senem revereor | I revere the old man
+reverso | Equum reverso | I turn the horse round
+revincio | Capram ad palum revincio | I bind the goat fast to the post
+revinco | Testem falsum revinco | I refute the false witness
+# third: reviresco "I flourish again" is unnatural; a vine is the natural subject
+reviresco | Vitis in vere revirescit | The vine flourishes again in the spring
+reviso | Villam veterem reviso | I revisit the old farmhouse
+revocatio | Revocatio legati senatum offendit | The recall of the envoy offends the senate
+revoco | Nautas ad navem revoco | I recall the sailors to the ship
+# third: revolo "I fly back" is unnatural; a dove is the natural subject
+revolo | Columba ad nidum revolat | The dove flies back to the nest
+revolvo | Volumen revolvo | I unroll the scroll
+# third: revomo a crude bodily verb; an animal is the natural subject
+revomo | Canis cibum revomit | The dog vomits up the food
