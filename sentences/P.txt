@@ -289,3 +289,14 @@ periculum | Periculum nautas in tempestate sollicitat | The danger worries the s
 perimo | Exercitus hostem perimit | The army destroys the enemy
 periodus | Periodus epistulam magistri ornat | The rounded period adorns the teacher's letter
 peritia | Peritia medici aegrum servat | The doctor's expertise saves the sick man
+perjurium | Perjurium amicitiam dissolvit | Perjury breaks up the friendship
+perlabor | Summas undas perlabor | I glide along the surface of the waves
+perlego | Epistulam perlego | I read the letter through
+perlibro | Agrum perlibro | I level the field
+perlino | Parietem pice perlino | I smear the wall with pitch
+perlito | Bove perlito | I sacrifice an ox with favourable omens
+# third: perluceo "I shine through" is unnatural; the moon is the natural subject
+perluceo | Luna per nubes perlucet | The moon shines through the clouds
+perluo | Manus unda perluo | I wash my hands with water
+perlustro | Agros perlustro | I traverse the fields
+permadesco | In imbre permadesco | I become soaked in the rain
