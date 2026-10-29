@@ -650,3 +650,14 @@ subtero | Pes calceum subterit | The foot wears away the shoe
 subtexo | Fimbriam vesti subtexo | I affix a border to the garment
 subtilitas | Subtilitas lini mulierem ad emendum movet | The fineness of the linen moves the woman to buy
 subtraho | Manum ab igne subtraho | I withdraw my hand from the fire
+subucula | Subucula lanea viro hieme calorem dat | The woollen undershirt gives the man warmth in winter
+subulo1 | Subulo ad aram tibiam inflat | The flautist plays the pipe at the altar
+subvecto | Frumentum plaustro subvecto | I transport grain by wagon
+subveho | Merces flumine subveho | I transport goods up the river
+subvenio | Fratri aegro subvenio | I help my sick brother
+subverto | Mensam subverto | I overturn the table
+# third: subvolo "I fly up" is unnatural; a bird is the natural subject
+subvolo | Avis ad ramum subvolat | The bird flies up to the branch
+succedo | Consuli in imperio succedo | I succeed the consul in command
+succendo | Focum sarmentis succendo | I kindle the hearth with brushwood
+succenseo | Servo succenseo | I am angry with the slave
