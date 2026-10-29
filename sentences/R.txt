@@ -352,3 +352,13 @@ resupino | Dux hostem resupinat | The general throws the enemy down
 resurgo | Post morbum resurgo | I rise again after the illness
 resuscito | Flammam languidam resuscito | I revive the faint flame
 retardo | Sorores retardo | I delay my sisters
+rete | Rete pisces capit | The net catches fish
+retego | Vas retego | I uncover the jar
+retendo | Arcum retendo | I unbend the bow
+retentio | Retentio aquae hortum servat | The retention of water saves the garden
+retento1 | Equum retento | I hold the horse back
+retento2 | Portam retento | I try the door again
+retexo | Pallium retexo | I unravel the cloak
+retiarius | Retiarius spectatores in arena salutat | The retiarius greets the spectators in the arena
+reticentia | Reticentia filiae patrem sollicitat | The daughter's silence worries the father
+reticeo | Diu reticeo | I keep silent for a long time
