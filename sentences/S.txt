@@ -793,3 +793,14 @@ supprimo | Rebellionem supprimo | I suppress the revolt
 # third: suppuro "I suppurate" is unnatural; a sore is the natural subject
 suppuro | Ulcus in digito suppurat | The sore on the finger suppurates
 supputo | Rationes supputo | I reckon the accounts
+sura1 | Sura cursoris post cursum dolet | The runner's calf aches after the race
+surculus | Surculus novus de trunco nascitur | The new shoot grows from the trunk
+surgo | De lecto surgo | I rise from the bed
+surrepo | Ad leporem surrepo | I creep up on the hare
+surripio | Panem e mensa surripio | I steal bread from the table
+# third: surruo "I undermine" is unnatural; a river is the natural subject
+surruo | Amnis ripam surruit | The river undermines the bank
+sus | Sus glandes sub quercu quaerit | The pig seeks acorns under the oak
+susceptio | Susceptio operis difficilis architectum non terret | The undertaking of the difficult work does not frighten the architect
+susceptor | Susceptor civium in periculo auxilium fert | The protector of the citizens brings help in danger
+suscipio | Opus novum suscipio | I undertake a new task
