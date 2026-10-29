@@ -155,3 +155,13 @@ sculpo | Leonem ex marmore sculpo | I carve a lion from marble
 sculptor | Sculptor marmor emit | The sculptor buys marble
 sculptura | Sculptura Graeca hospites ad templum invitat | Greek sculpture invites visitors to the temple
 scurra | Scurra convivam jocis exhilarat | The jester cheers the guest with jokes
+scurror | Inter convivas scurror | I clown among the guests
+scutula1 | Scutula pira et uvas tenet | The platter holds pears and grapes
+scutum | Scutum militem ab hoste defendit | The shield defends the soldier from the enemy
+scyphus | Scyphus argenteus in armario fulget | The silver goblet gleams in the cupboard
+secedo | In villam secedo | I withdraw to the country house
+secerno | Oves a capris secerno | I separate the sheep from the goats
+secessio | Secessio plebis consules turbat | The secession of the plebs disturbs the consuls
+secessus | Secessus ruri senem quietum facit | Retirement in the country makes the old man peaceful
+seco | Panem cultro seco | I cut the bread with a knife
+secretarium | Secretarium silentium poetae dat | The retreat gives the poet silence
