@@ -463,3 +463,15 @@ sputo | Serpens venenum sputat | The snake spits venom
 squaleo | Villa deserta squalet | The deserted farmhouse is squalid
 squalor | Squalor tabernae viatorem ab ingressu deterret | The squalor of the inn deters the traveller from entering
 squama | Squama piscis in sole nitet | The scale of the fish gleams in the sun
+stabilimentum | Stabilimentum vitem in vento tenet | The support holds the vine in the wind
+stabilio | Parietem trabe stabilio | I stabilise the wall with a beam
+stabilitas | Stabilitas pontis viatores securos facit | The stability of the bridge makes the travellers safe
+# third: stabulor "I am stabled" is unnatural; livestock is the natural subject
+stabulor | Pecus in antro stabulatur | The herd is stabled in the cave
+stabulum | Stabulum equos hospitis tegit | The stable shelters the guest's horses
+stacta | Stacta odorem dulcem in domo dat | Myrrh oil gives a sweet scent in the house
+stadium | Stadium Olympiae athletas exspectat | The track at Olympia awaits the athletes
+# third: stagno1 "I stagnate" is unnatural; water is the natural subject
+stagno1 | Aqua in fossa stagnat | The water stagnates in the ditch
+stagnum1 | Stagnum ranas alit | The pool feeds frogs
+stamen | Stamen in colu pendet | The thread hangs on the distaff
