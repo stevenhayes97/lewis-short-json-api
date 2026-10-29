@@ -352,3 +352,14 @@ solarium1 | Solarium horam monstrat | The sundial shows the hour
 solea | Solea rupta pedem hospitis laedit | The torn sandal hurts the guest's foot
 soleo | Mane surgere soleo | I am accustomed to rise early
 soliditas | Soliditas muri urbem tuetur | The solidity of the wall protects the city
+# third: solido "I solidify" is unnatural; frost is the natural subject
+solido | Gelu aquam solidat | The frost solidifies the water
+solitudo | Solitudo montium poetam inspirat | The solitude of the mountains inspires the poet
+solium | Solium eburneum in aula nitet | The ivory throne shines in the palace
+sollemnitas | Sollemnitas ritus sacerdotem decet | The solemnity of the rite suits the priest
+sollertia | Sollertia fabri machinam novam invenit | The craftsman's ingenuity invents a new machine
+sollicitatio | Sollicitatio oratoris populum ad iram concitat | The orator's instigation rouses the people to anger
+sollicito | Quietem vicini sollicito | I disturb the neighbour's rest
+sollicitudo | Sollicitudo mercatoris animum exedit | Anxiety gnaws at the merchant's mind
+soloecismus | Soloecismus in oratione magistrum offendit | A solecism in the speech offends the teacher
+solor | Viduam solor | I console the widow
