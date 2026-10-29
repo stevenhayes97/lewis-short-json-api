@@ -137,3 +137,14 @@ thronus | Thronus altus regem ab aliis separat | The high throne sets the king a
 thymum | Thymum apes allicit | Thyme attracts bees
 thyrsus | Thyrsus in manu Bacchi viret | The thyrsus is green in Bacchus's hand
 tiara | Tiara regis Persarum gemmis micat | The tiara of the Persian king sparkles with gems
+# Chunk 13
+tibia | Tibia pastorem in monte comitatur | The flute accompanies the shepherd on the mountain
+tibicen | Tibicen ante pompam ambulat | The flautist walks before the procession
+tigillum | Tigillum porticum sustinet | The little beam supports the porch
+tignum | Tignum de silva ad urbem portatur | The beam is carried from the forest to the city
+tilia | Tilia viam umbrosam facit | The linden makes the road shady
+timeo | Canem timeo | I fear the dog
+timiditas | Timiditas oratoris vocem frangit | Timidity breaks the orator's voice
+timor | Timor hostium oppidanos ad murum trahit | Fear of the enemy draws the townspeople to the wall
+tinea | Tinea vestem in arca arrodit | The moth gnaws the garment in the chest
+tingo | Pennam in atramentum tingo | I dip the pen in the ink
