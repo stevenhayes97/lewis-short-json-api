@@ -749,3 +749,13 @@ supercilium | Supercilium crassum oculum tegit | The thick eyebrow covers the ey
 # third: supercresco "I overgrow" is unnatural; ivy is the natural subject
 supercresco | Hedera murum supercrescit | The ivy overgrows the wall
 superfero | Fascem humero superfero | I carry the bundle over my shoulder
+superficies | Superficies mensae pulvere tegitur | The surface of the table is covered with dust
+superfundo | Aquam capiti superfundo | I pour water over my head
+superillino | Tabulam cera superillino | I besmear the tablet with wax
+superimpono | Lapidem trabi superimpono | I superimpose a stone on the beam
+superinduco | Mensam linteo superinduco | I cover the table over with a linen cloth
+superingero | Ligna igni superingero | I heap logs on the fire
+superinicio | Pallium umeris superinicio | I throw the cloak over my shoulders
+superjacio | Funem trabi superjacio | I throw the rope over the beam
+superlatio | Superlatio poetae lectorem movet | The poet's hyperbole moves the reader
+superlino | Panem melle superlino | I smear the bread over with honey
