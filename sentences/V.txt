@@ -1,0 +1,13 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/V.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+vacatio | Vacatio militiae veteranum laetum facit | The exemption from service makes the veteran happy
+vacillo | Prae lassitudine vacillo | I stagger from weariness
+# third: vaco "I am empty" is unnatural; a barn is the natural subject
+vaco | Horreum vacat | The barn is empty
+# skip: vacue2 is the compound vacuefacio, written as one word in the attested forms; the tool's headword vacue gives no usable verb form
+vacuitas | Vacuitas fori mercatorem sollicitat | The emptiness of the forum worries the merchant
+vacuo | Cistam vacuo | I empty the chest
+vadimonium | Vadimonium reum ad judicium obligat | The bail binds the defendant to the trial
+vado1 | Ad forum vado | I go to the forum
+vador | Reum vador | I bind the defendant over by bail
+vadum | Vadum viatoribus transitum praebet | The shallows give the travellers a crossing
