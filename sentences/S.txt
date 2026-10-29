@@ -407,3 +407,13 @@ specimen | Specimen bonum discipulos docet | A good example teaches the pupils
 # skip: specio is attested only in archaic augural language and the perfect spexit, with no attested first person
 spectaculum | Spectaculum magnum populum ad circum trahit | The great spectacle draws the people to the circus
 spectamen | Spectamen virtutis ducem commendat | The proof of courage commends the leader
+spectatio | Spectatio stellarum nautam nocte juvat | The contemplation of the stars helps the sailor at night
+spectator | Spectator in summa cavea sedet | The observer sits in the highest tier of seats
+spectatrix | Spectatrix ad fenestram stat | The female observer stands at the window
+specto | Nubes in caelo specto | I watch the clouds in the sky
+spectrum | Spectrum nocte viatorem terret | The apparition frightens the traveller at night
+specula1 | Specula in colle stat | The watchtower stands on the hill
+specula2 | Specula salutis aegrum sustinet | A faint hope of recovery sustains the sick man
+speculator | Speculator ante exercitum equitat | The scout rides ahead of the army
+speculatrix | Speculatrix in muro vigilat | The female watcher keeps watch on the wall
+speculor | Castra hostium speculor | I spy on the enemy camp
