@@ -61,3 +61,13 @@ sanctitudo | Sanctitudo luci arbores tutas facit | The sanctity of the grove mak
 # skip: sanguino is attested in the entry only as the participle sanguinans, so it has no finite headword form
 sanguis | Sanguis in venis fluit | Blood flows in the veins
 sanies | Sanies medicum non terret | The gore does not frighten the doctor
+sanitas | Sanitas agricolae familiam laetam facit | The farmer's health makes the family happy
+sano | Vulnus herbis sano | I heal the wound with herbs
+saperda | Saperda in patina jacet | The herring lies on the dish
+sapientia | Sapientia senis juvenes docet | The old man's wisdom teaches the young men
+sapio | Non semper sapio | I am not always wise
+sapor | Sapor mellis pueros ad mensam trahit | The flavour of honey draws the boys to the table
+sarcina | Sarcina militem fatigat | The pack tires the soldier
+sarcinula | Sarcinula vestes viatoris tenet | The little bundle holds the traveller's clothes
+sarcio | Tunicam sarcio | I mend the tunic
+sarculum | Sarculum agricolae hortum purgat | The farmer's hoe clears the garden
