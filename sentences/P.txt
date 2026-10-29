@@ -889,3 +889,13 @@ profluo | Rivus e monte profluit | The stream flows from the mountain
 profluvium | Profluvium fontis hortum rigat | The discharge of the spring waters the garden
 # skip: profor is a deponent verb misfiled as a noun; only third-person forms (profatur) attested
 profugio | Ad montes profugio | I flee to the mountains
+profunditas | Profunditas lacus nautam sollicitat | The depth of the lake worries the sailor
+profundo | Aquam in urnam profundo | I pour water into the urn
+profusio | Profusio aquae viam inundat | The effusion of water floods the road
+progener | Progener seni donum affert | The granddaughter's husband brings a gift to the old man
+progenero | Vitulos progenero | I engender calves
+progenies | Progenies Aeneae Romam condit | The offspring of Aeneas founds Rome
+progenitor | Progenitor gentis in tabulis nominatur | The ancestor of the clan is named in the records
+progero | Fimum e stabulo progero | I remove the dung from the stable
+progigno | Filium progigno | I beget a son
+# skip: prognatus is a participle ("descended"), misfiled as a noun; the noun use is only ante-class
