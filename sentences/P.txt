@@ -845,3 +845,15 @@ procido1 | In herbam procido | I fall onto the grass
 procinctus2 | Procinctus legionis hostem deterret | The readiness of the legion deters the enemy
 proclamo | Magna voce proclamo | I exclaim in a loud voice
 proclino | Caput ad mensam proclino | I incline my head towards the table
+proclivitas | Proclivitas ad iram patrem vexat | The proneness to anger troubles the father
+# third: proco only the third person procat is attested in the entry
+proco | Mercator mercedem procat | The merchant demands payment
+proconsul | Proconsul in provincia legiones inspicit | The proconsul inspects the legions in the province
+procrastino | Iter procrastino | I put off the journey until tomorrow
+procreo | Heredem procreo | I beget an heir
+# third: procresco "I sprout" is unnatural; a seed is the natural subject
+procresco | Semen in terra procrescit | The seed sprouts in the ground
+procudo | Ferrum in fabrica procudo | I forge iron in the workshop
+proculco | Violas proculco | I trample the violets
+procumbo | Ex labore procumbo | I collapse from exhaustion
+procuratio | Procuratio fundi fidem requirit | The management of the estate requires trustworthiness
