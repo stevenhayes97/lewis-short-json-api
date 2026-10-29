@@ -403,3 +403,14 @@ pervello | Rosam pervello | I pluck the rose
 pervenio | Ad summum montem pervenio | I arrive at the mountain top
 perversitas | Perversitas pueri magistrum fatigat | The boy's perversity wearies the teacher
 perverto | Mensam perverto | I overturn the table
+pervestigo | Lupum pervestigo | I track down the wolf
+pervicacia | Pervicacia tribuni senatum offendit | The tribune's obstinacy offends the senate
+pervideo | Agrum e colle pervideo | I survey the field from the hill
+pervigilium | Pervigilium matronas ad templum vocat | The night vigil calls the matrons to the temple
+pervigilo | Totam noctem pervigilo | I keep vigil all night
+pervinco | Gallos pervinco | I conquer the Gauls completely
+# third: pervolo1 "I fly through" is unnatural; an eagle is the natural subject
+pervolo1 | Aquila nubes pervolat | The eagle flies through the clouds
+pervolo2 | Matrem videre pervolo | I wish greatly to see my mother
+pervolvo | Per agrum dolium pervolvo | I roll the cask about across the field
+pervulgo | Nuntium pervulgo | I publicise the news
