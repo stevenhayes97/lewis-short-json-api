@@ -516,3 +516,14 @@ stipulatio | Stipulatio emptorem et venditorem ligat | The stipulation binds the
 stipulo | Pretium stipulo | I stipulate a price
 stipulor | Fidem a debitore stipulor | I demand a formal pledge from the debtor
 stirps | Stirps Corneliorum in senatu floret | The family stock of the Cornelii flourishes in the senate
+stlata | Stlata merces per mare portat | The broad-beamed ship carries goods across the sea
+sto | Ante portam sto | I stand before the gate
+stola | Stola ad talos matronae pertinet | The stola reaches to the matron's ankles
+stolo1 | Stolo ex radice olivae crescit | The sucker shoot grows from the root of the olive
+stomachus | Stomachus aegri cibum non patitur | The sick man's stomach does not tolerate food
+strabo1 | Strabo vicinum ad cenam invitat | The squinter invites the neighbour to dinner
+strages | Strages in acie ducem tristem facit | The carnage on the battlefield saddens the general
+stramen | Stramen aureum in horreo jacet | The golden straw lies in the barn
+stramentum | Stramentum equo lectum praebet | The straw gives the horse a bed
+# third: strangulo "I strangle" is grim in the first person; a gladiator is a natural subject
+strangulo | Gladiator adversarium strangulat | The gladiator strangles his opponent
