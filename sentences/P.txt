@@ -762,3 +762,13 @@ praestino | Pisces in macello praestino | I buy fish in the market
 praestituo | Tempus operi praestituo | I prescribe a time for the work
 praesto2 | Virtute omnibus praesto | I excel all in courage
 praestolor | Filium praestolor | I await my son
+praestringo | Manipulos praestringo | I bind the sheaves
+praestruo | Fundamenta domus praestruo | I lay the foundation of the house beforehand
+praesul | Praesul ante sacerdotes salit | The dancer leaps before the priests
+praesum | Legioni praesum | I command the legion
+praesumo | Successum praesumo | I presume success
+praesumptio | Praesumptio victoriae ducem negligentem facit | The presumption of victory makes the general careless
+praesumptor | Praesumptor de successu gloriatur | The presumer boasts about the success
+praetango | Ostium praetango | I touch the door first
+praetego | Caput pallio praetego | I shelter my head with a cloak
+praetendo | Velum contra solem praetendo | I extend an awning against the sun
