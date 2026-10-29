@@ -348,3 +348,16 @@ tumultus | Tumultus subitus consulem ad arma vocat | The sudden tumult calls the
 tumulus | Tumulus in campo herba viridi tegitur | The mound in the field is covered with green grass
 tundo | Granum in mortario tundo | I pound the grain in a mortar
 tunica | Tunica lintea sub toga latet | The linen tunic lies hidden under the toga
+# Chunk 31
+tunico | Fratrem tunico | I clothe my brother
+turba | Turba in via cantat | The crowd sings in the street
+turbatio | Turbatio mentis oratorem tacitum facit | The confusion of mind makes the orator silent
+turbator | Turbator contionem interpellat | The troublemaker interrupts the assembly
+turbo1 | Aquam in fonte turbo | I disturb the water in the spring
+turbo2 | Turbo segetem in agro prosternit | The whirlwind flattens the crop in the field
+turdus | Turdus baccas ex ramo carpit | The thrush picks berries from the branch
+# third: turgeo "I am swollen" is unnatural; a wineskin is the natural subject
+turgeo | Uter aqua turget | The wineskin is swollen with water
+# third: turgesco "I swell up" is unnatural; a bud is the natural subject
+turgesco | Gemma in ramo vere turgescit | The bud on the branch swells up in spring
+turifico | Ante aram turifico | I burn incense before the altar
