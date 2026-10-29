@@ -731,3 +731,14 @@ praepositio | Praepositio unius filii ceteros angit | The preference for one son
 praepossum | Viribus praepossum | I predominate through strength
 praeposteritas | Praeposteritas verborum lectorem confundit | The inversion of the words confuses the reader
 praeputium | Praeputium in libro Geneseos memoratur | The foreskin is mentioned in the book of Genesis
+praeripio | Victoriam hosti praeripio | I snatch victory from the enemy
+# third: praerodo "I gnaw" is unnatural; a dog is the natural subject
+praerodo | Canis os praerodit | The dog gnaws the bone
+praerogo | Mercedem praerogo | I prepay the wages
+praerumpo | Catenam praerumpo | I snap the chain
+praes1 | Praes pro debitore apud praetorem manet | The surety remains with the praetor for the debtor
+praesaepe | Praesaepe equos noctu continet | The stable keeps the horses in at night
+praesagio | Fortunam secundam praesagio | I presage good fortune
+praesagitio | Praesagitio animi mercatorem ab itinere deterret | The premonition of the mind deters the merchant from the journey
+praesagium | Praesagium nubium nautam in portu tenet | The presage of the clouds keeps the sailor in harbour
+praescio | Fatum praescio | I foreknow the fate
