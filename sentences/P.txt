@@ -652,3 +652,14 @@ praedicator | Praedicator ducis victoriam in urbe divulgat | The proclaimer spre
 praedico1 | Pacem praedico | I proclaim peace
 praedico2 | Hiemem asperam praedico | I predict a harsh winter
 praedisco | Versus praedisco | I learn the verses beforehand
+praedium | Praedium vineas et oleas habet | The estate has vineyards and olive trees
+praedo2 | Praedo a consule punitur | The robber is punished by the consul
+# third: praedor a violent verb; keeps to a military frame
+praedor | Dux oppida praedatur | The general plunders the towns
+praeduco | Fossam praeduco | I dig a ditch in front
+praeemineo | Inter socios virtute praeemineo | I excel among my companions in courage
+praeeo | Pompam praeeo | I precede the procession
+praefatio | Praefatio breviter libri argumentum explicat | The preface briefly explains the book's subject
+praefectura | Praefectura legibus Romanis paret | The prefecture obeys the Roman laws
+praefero | Pacem bello praefero | I prefer peace to war
+praefestino | Ad pontem praefestino | I rush to the bridge
