@@ -300,3 +300,15 @@ perluceo | Luna per nubes perlucet | The moon shines through the clouds
 perluo | Manus unda perluo | I wash my hands with water
 perlustro | Agros perlustro | I traverse the fields
 permadesco | In imbre permadesco | I become soaked in the rain
+permaneo | In urbe permaneo | I remain in the city
+# third: permano "I penetrate" is unnatural; water is the natural subject
+permano | Aqua per tectum permanat | The water penetrates through the roof
+# third: permeo "I permeate" is unnatural; a smell is the natural subject
+permeo | Odor per domum permeat | The smell permeates the house
+permetior | Agrum passibus permetior | I measure out the field in paces
+permisceo | Vinum cum aqua permisceo | I mix the wine together with water
+permissio | Permissio urbis cives servat | The surrender of the city saves the citizens
+permissus2 | Permissus consulis cives in forum admittit | The consul's permission admits the citizens to the forum
+permities | Permities familiam contristat | Ruin saddens the family
+permitto | Filio ludos permitto | I permit my son the games
+permotio | Permotio senem in horto ambulare cogit | Agitation makes the old man walk in the garden
