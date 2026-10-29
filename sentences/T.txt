@@ -69,3 +69,16 @@ tenebrae | Tenebrae viatorem in silva circumdant | The darkness surrounds the tr
 teneo | Librum in manu teneo | I hold the book in my hand
 teneritas | Teneritas herbae agnum allicit | The tenderness of the grass attracts the lamb
 tenor | Tenor aequus vitae senem tranquillum facit | The even course of life makes the old man calm
+# Chunk 7
+tensa | Tensa deos ad circum portat | The processional car carries the gods to the circus
+tensio | Tensio chordae sonum acutum reddit | The tension of the string gives a high sound
+tentamentum | Tentamentum novum mercatori prodest | The new attempt benefits the merchant
+tentipellium | Tentipellium in officina coriarii pendet | The hide-stretcher hangs in the tanner's workshop
+tento | Vadum pede tento | I test the ford with my foot
+tenuitas | Tenuitas fili telam fragilem facit | The thinness of the thread makes the web fragile
+tenuo | Lanam fuso tenuo | I thin the wool with a spindle
+tepefacio | Aquam in olla tepefacio | I warm the water in a pot
+# third: tepeo "I am warm" is flat; water is the natural subject
+tepeo | Aqua in sole tepet | The water is warm in the sun
+# third: tepesco "I grow warm" is unnatural; the sea is the natural subject
+tepesco | Mare vere tepescit | The sea grows warm in spring
