@@ -34,3 +34,13 @@ vaporo | Fons in frigore vaporat | The spring steams in the cold
 vappa | Vappa mercatori displicet | The flat wine displeases the merchant
 # third: vapulo "I am flogged" is unnatural; kept to a plain military statement
 vapulo | Miles vapulat | The soldier is flogged
+varico | Fossam varico | I straddle the ditch
+variego | Vestem coloribus variego | I give the dress many colours
+varietas | Varietas florum pratum ornat | The variety of flowers adorns the meadow
+vario | Colores in tela vario | I vary the colours in the cloth
+vas1 | Vas pro reo in foro adest | The surety is present in the forum for the defendant
+vas2 | Vas vinum servat | The vessel keeps the wine
+vasarium | Vasarium proconsuli datur | The furniture allowance is given to the proconsul
+vasculum | Vasculum mel continet | The small vessel holds honey
+vastatio | Vastatio agrorum rusticos in urbem fugat | The devastation of the fields drives the countrymen into the city
+vastitas | Vastitas ultra montes patet | The wasteland stretches beyond the mountains
