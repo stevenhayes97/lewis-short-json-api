@@ -1,0 +1,13 @@
+# key | Latin sentence | English   (one clause; a noun as the subject in its headword form, a verb in the first person singular present)
+# Source: definitions/U.txt for the sense shown; nouns and verbs only. See tools/sentences.py.
+uber1 | Uber caprae lac copiose fundit | The goat's udder pours out milk freely
+ubertas | Ubertas vindemiae vicos ditat | The abundance of the vintage enriches the villages
+# third: ulcero "I ulcerate" is unnatural; a wound is the natural subject
+ulcero | Vulnus neglectum ulcerat | The neglected wound ulcerates
+ulciscor | Injuriam ulciscor | I avenge the wrong
+ulcus | Ulcus in crure senis medicum vocat | The ulcer on the old man's leg summons the doctor
+ulmus | Ulmus ad ripam umbram dat | The elm by the bank gives shade
+ulna | Ulna nautae saccum tenet | The sailor's arm holds the sack
+ultio | Ultio ducem ad bellum impellit | Revenge drives the leader to war
+ultor | Ultor injuriae ad regem it | The avenger of the wrong goes to the king
+ululatus | Ululatus per vicum resonat | The wailing echoes through the street
