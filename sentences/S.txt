@@ -417,3 +417,14 @@ specula2 | Specula salutis aegrum sustinet | A faint hope of recovery sustains t
 speculator | Speculator ante exercitum equitat | The scout rides ahead of the army
 speculatrix | Speculatrix in muro vigilat | The female watcher keeps watch on the wall
 speculor | Castra hostium speculor | I spy on the enemy camp
+speculum | Speculum faciem dominae ostendit | The mirror shows the lady's face
+specus | Specus in monte ursum tegit | The cave in the mountain shelters a bear
+spelaeum | Spelaeum pastorem a pluvia defendit | The cave protects the shepherd from the rain
+spelunca | Spelunca prope rivum latet | The cave lies hidden near the stream
+sperno | Munera divitis sperno | I spurn the rich man's gifts
+spero | Pacem spero | I hope for peace
+spes | Spes naufragum ad litus ducit | Hope leads the shipwrecked man to the shore
+sphaera | Sphaera in mensa magistri stat | The sphere stands on the teacher's table
+spica | Spica aurea in vento movetur | The golden ear of grain moves in the wind
+# third: spico "I spike" is unnatural; grain is the natural subject, and the entry attests the form spicant
+spico | Triticum in agro spicat | The wheat puts forth ears in the field
