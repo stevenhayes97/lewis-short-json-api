@@ -1038,3 +1038,14 @@ pseudothyrum | Pseudothyrum ad viam angustam patet | The back door opens onto th
 pterygium | Pterygium visum senis impedit | The eye film hinders the old man's sight
 ptisana | Ptisana in olla coquitur | The barley is cooked in the pot
 pubertas | Pubertas puerum ad togam virilem vocat | Puberty calls the boy to the adult toga
+pubes2 | Pubes in libro medici nominatur | The pubic hair is named in the doctor's book
+# third: pubesco "I mature" is unnatural; a vine is the natural subject
+pubesco | Vitis pampinis pubescit | The vine clothes itself with shoots
+publico | Bona exsulis publico | I confiscate the exile's goods
+pudeo | Coram patre pudeo | I am ashamed in front of my father
+pudicitia | Pudicitia matronam ornat | Chastity adorns the matron
+pudor | Pudor adulescentem a culpa retinet | Shame restrains the youth from wrongdoing
+puella | Puella rosam in horto carpit | The girl picks a rose in the garden
+puellus | Puellus in via pilam jacit | The little boy throws a ball in the street
+puera | Puera aquam e fonte portat | The girl carries water from the spring
+pueritia | Pueritia in memoria senis manet | Childhood remains in the old man's memory
