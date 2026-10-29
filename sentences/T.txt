@@ -82,3 +82,14 @@ tepefacio | Aquam in olla tepefacio | I warm the water in a pot
 tepeo | Aqua in sole tepet | The water is warm in the sun
 # third: tepesco "I grow warm" is unnatural; the sea is the natural subject
 tepesco | Mare vere tepescit | The sea grows warm in spring
+# Chunk 8
+tepor | Tepor vernus flores aperit | The spring warmth opens the flowers
+terebra | Terebra tabulam perforat | The drill pierces the board
+terebro | Lignum terebro | I bore through the timber
+tergeo | Vasa panno tergeo | I wipe the vessels with a cloth
+tergum | Tergum equi sellam portat | The horse's back carries a saddle
+terminatio | Terminatio agrorum lites inter vicinos tollit | The demarcation of the fields ends quarrels between neighbours
+termino | Agrum sepe termino | I mark the limits of the field with a hedge
+terminus | Terminus duos agros dividit | The boundary divides the two fields
+tero | Frumentum inter manus tero | I rub the grain between my hands
+terra | Terra arida aquam sitit | The dry earth thirsts for water
