@@ -570,3 +570,14 @@ porceo | Pudor cives porcet | Shame restrains the citizens
 porcus | Porcus glandes in silva quaerit | The pig seeks acorns in the forest
 porricio | Diis sacrificium porricio | I offer a sacrifice to the gods
 porrigo1 | Manum puero porrigo | I hold out my hand to the boy
+porta | Porta mane aperitur | The gate is opened in the morning
+# third: portendo "I portend" is unnatural; an eagle is the natural subject
+portendo | Aquila victoriam portendit | The eagle portends victory
+porticus | Porticus viatores ab imbre defendit | The portico protects the travellers from the rain
+portio | Portio panis pauperi sufficit | The portion of bread suffices for the poor man
+portisculus | Portisculus in navi sonat | The mallet sounds on the ship
+portitor1 | Portitor pecuniam a mercatore exigit | The tollgatherer collects money from the merchant
+portitor2 | Portitor viatores trans flumen vehit | The ferryman carries the travellers across the river
+porto | Aquam in urna porto | I carry water in a jar
+portorium | Portorium mercatorem ad pontem retardat | The toll delays the merchant at the bridge
+portus | Portus naves tempestate pulsas recipit | The harbour receives the ships battered by the storm
