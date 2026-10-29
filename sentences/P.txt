@@ -784,3 +784,14 @@ praetervehor | Navi Siciliam praetervehor | I pass by Sicily on a ship
 # third: praetervolo "I fly past" is unnatural; a swallow is the natural subject
 praetervolo | Hirundo fenestram praetervolat | The swallow flies past the window
 praetexo | Togam purpura praetexo | I fringe the toga with purple
+praetextus2 | Praetextus pluviae filium a schola retinet | The pretext of rain keeps the son from school
+praetimeo | Hostem praetimeo | I dread the enemy
+praetor | Praetor in tribunali sedet | The praetor sits on the tribunal
+praetorium | Praetorium in medio castrorum situm est | The headquarters lies in the middle of the camp
+praetura | Praetura inter honores Romanos locum medium tenet | The praetorship holds a middle place among the Roman honours
+# third: praeuro "I scorch" is unnatural; the sun is the natural subject
+praeuro | Sol herbam praeurit | The sun scorches the grass
+praevaleo | Eloquentia praevaleo | I prevail through eloquence
+praevaricatio | Praevaricatio accusatoris judicium corrumpit | The collusion of the prosecutor corrupts the trial
+praevaricator | Praevaricator a populo contemnitur | The colluder is despised by the people
+praevaricor | Cum adversario praevaricor | I collude with my opponent
