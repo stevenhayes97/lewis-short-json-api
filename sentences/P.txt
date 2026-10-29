@@ -867,3 +867,13 @@ prodico | Judicium prodico | I postpone the trial
 prodigium | Prodigium augurem sollicitat | The portent worries the augur
 prodigo | Divitias prodigo | I squander my wealth
 proditio1 | Proditio legati exercitum perdit | The envoy's treason ruins the army
+proditor | Proditor in carcere sedet | The traitor sits in prison
+prodo | Urbem hostibus prodo | I betray the city to the enemy
+produco | Uvas in colle produco | I produce grapes on the hill
+productio | Productio itineris viatores fatigat | The prolongation of the journey tires the travellers
+proelium | Proelium ad vesperum durat | The battle lasts until evening
+profano1 | Decimam Herculi profano | I consecrate a tenth part to Hercules
+profano2 | Festum profano | I desecrate the festival
+profectio | Profectio navium portum vacuum facit | The departure of the ships makes the harbour empty
+profectus3 | Profectus discipuli parentibus placet | The pupil's progress pleases the parents
+profero | Tabulas e cista profero | I produce the tablets from the chest
