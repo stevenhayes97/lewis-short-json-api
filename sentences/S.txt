@@ -291,3 +291,14 @@ sigilla | Sigilla Tyrrhena in atrio stant | The Etruscan figurines stand in the 
 signaculum | Signaculum in tergo ovis apparet | The mark appears on the back of the sheep
 signator | Signator ante praetorem stat | The witness stands before the praetor
 significatio | Significatio vultus magistri discipulum monet | The indication in the teacher's face warns the pupil
+significatus | Significatus hujus verbi discipulum fugit | The meaning of this word escapes the pupil
+significo | Viam digito significo | I indicate the way with my finger
+signo | Arborem cultro signo | I mark the tree with a knife
+signum | Signum in via ad urbem viatorem dirigit | The sign on the road directs the traveller to the city
+silentiarius | Silentiarius hospites ad regem ducit | The usher leads the guests to the king
+silentium | Silentium noctis pastorem pacat | The silence of the night soothes the shepherd
+sileo | Ante patrem sileo | I am silent in front of my father
+# third: silesco "I quiet down" is unnatural; the wind is the natural subject
+silesco | Ventus post tempestatem silescit | The wind quiets down after the storm
+silex | Silex scintillas emittit | Flint gives off sparks
+silicernium | Silicernium familiam in sepulcro convocat | The funeral feast gathers the family at the tomb
