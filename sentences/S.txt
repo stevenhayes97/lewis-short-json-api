@@ -759,3 +759,14 @@ superinicio | Pallium umeris superinicio | I throw the cloak over my shoulders
 superjacio | Funem trabi superjacio | I throw the rope over the beam
 superlatio | Superlatio poetae lectorem movet | The poet's hyperbole moves the reader
 superlino | Panem melle superlino | I smear the bread over with honey
+supero | Fratrem ingenio supero | I surpass my brother in talent
+superpono | Operculum ollae superpono | I place a lid over the pot
+supersedeo | Itinere supersedeo | I forgo the journey
+superstitio | Superstitio vulgus timore implet | Superstition fills the common people with fear
+supersto | Puteo supersto | I stand over the well
+superstruo | Fundamento domum superstruo | I build a house over the foundation
+supersum | Solus in aula supersum | I remain alone in the hall
+supertego | Fenum storea supertego | I cover the hay over with a mat
+supervehor | Ante villam supervehor | I ride past the farmhouse
+# third: supervenio "I supervene" is unnatural; rain is the natural subject
+supervenio | Pluvia subito supervenit | Rain suddenly comes on
