@@ -495,3 +495,14 @@ sternumentum | Sternumentum fabulam interrumpit | The sneeze interrupts the stor
 sternuo | Prae pulvere sternuo | I sneeze because of the dust
 sterto | Noctem totam sterto | I snore all night
 stibium | Stibium oculos mulieris ornat | The kohl adorns the woman's eyes
+stigma | Stigma nomen domini monstrat | The brand shows the owner's name
+stilla | Stilla aquae in folio tremit | The drop of water trembles on the leaf
+stillicidium | Stillicidium e tecto in vase sonat | The dripping from the roof sounds in the bowl
+# third: stillo "I drip" is unnatural; honey is the natural subject
+stillo | Mel de favo stillat | The honey drips from the comb
+stilus | Stilus ferreus in mensa jacet | The iron stylus lies on the table
+stimulo | Asinum virga stimulo | I goad the donkey with a stick
+stimulus | Stimulus bovem ad opus movet | The goad moves the ox to its work
+stinguo | Ignem aqua stinguo | I extinguish the fire with water
+stipatio | Stipatio senatoris viam angustam implet | The senator's retinue fills the narrow street
+stipator | Stipator regem ad portam comitatur | The bodyguard accompanies the king to the gate
