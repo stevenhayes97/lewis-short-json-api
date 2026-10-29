@@ -631,3 +631,14 @@ praecipio | Servis opus praecipio | I direct the work of the slaves
 praecipitium | Praecipitium ad mare descendit | The precipice drops to the sea
 praecipito | Saxum de monte praecipito | I hurl the rock down from the mountain
 praecisio | Praecisio rami arborem renovat | The excision of the branch renews the tree
+praecludo | Fenestram nocte praecludo | I close the window at night
+# third: praeclueo is attested only in the third person (praecluet), post-classical
+praeclueo | Poeta eloquentia praecluet | The poet shines through eloquence
+praeco | Praeco nomen victoris clamat | The herald shouts the victor's name
+praecogito | Verba praecogito | I premeditate my words
+praecognosco | Adventum tuum praecognosco | I foreknow your arrival
+praecolo | Collem praecolo | I cultivate the hill beforehand
+praecordia | Praecordia cor a ventre separant | The diaphragm separates the heart from the belly
+praecurro | Legionem praecurro | I run ahead of the legion
+praecursio | Praecursio musicae spectatores ad fabulam praeparat | The prelude of the music prepares the spectators for the play
+praecursor | Praecursor ducis adventum nuntiat | The forerunner announces the general's arrival
