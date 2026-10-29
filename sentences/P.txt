@@ -825,3 +825,13 @@ primitiae | Primitiae agri deis offeruntur | The firstfruits of the field are of
 principatus | Principatus ducis militibus fiduciam dat | The general's preeminence gives the soldiers confidence
 principium | Principium libri lectorem allicit | The beginning of the book attracts the reader
 privilegium | Privilegium senatori locum primum dat | The privilege gives the senator the first place
+privo | Hostem frumento privo | I deprive the enemy of grain
+proapodosis | Proapodosis orationem ornat | The proapodosis adorns the speech
+proavus | Proavus pueris fabulam narrat | The great-grandfather tells the boys a story
+probatio | Probatio equitum censorem occupat | The examination of the knights keeps the censor busy
+probator | Probator carminis poetam laudat | The approver of the poem praises the poet
+probitas | Probitas servi dominum movet | The slave's honesty moves his master
+probo | Consilium senatus probo | I approve the plan of the senate
+probrum | Probrum familiam premit | The disgrace weighs on the family
+procacitas | Procacitas discipuli magistrum offendit | The pupil's impudence offends the teacher
+procedo | Ad portam procedo | I advance to the gate
