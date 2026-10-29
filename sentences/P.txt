@@ -772,3 +772,15 @@ praesumptor | Praesumptor de successu gloriatur | The presumer boasts about the 
 praetango | Ostium praetango | I touch the door first
 praetego | Caput pallio praetego | I shelter my head with a cloak
 praetendo | Velum contra solem praetendo | I extend an awning against the sun
+praetento | Viam baculo praetento | I probe the road with a stick
+praetereo | Templum praetereo | I pass the temple
+# third: praeterfluo "I flow past" is unnatural; a stream is the natural subject
+praeterfluo | Rivus villam praeterfluit | The stream flows past the farmhouse
+praetergredior | Tabernam praetergredior | I pass by the shop
+praeterlabor | Litus praeterlabor | I glide by the shore
+praetermeo | Pagum praetermeo | I pass by the village
+praetermitto | Nomen praetermitto | I omit the name
+praetervehor | Navi Siciliam praetervehor | I pass by Sicily on a ship
+# third: praetervolo "I fly past" is unnatural; a swallow is the natural subject
+praetervolo | Hirundo fenestram praetervolat | The swallow flies past the window
+praetexo | Togam purpura praetexo | I fringe the toga with purple
