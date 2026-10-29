@@ -24,3 +24,14 @@ umecto | Linteum aqua umecto | I moisten the cloth with water
 umeo | Terra post pluviam umet | The ground is moist after the rain
 umerus | Umerus viatoris sarcinam portat | The traveller's shoulder carries the pack
 umor | Umor in terra herbas nutrit | Moisture in the soil feeds the plants
+uncia | Uncia hereditatis fratri datur | A twelfth of the inheritance goes to the brother
+unctio | Unctio athletam ante certamen firmat | The anointing strengthens the athlete before the contest
+uncus1 | Uncus ferreus ad parietem pendet | The iron hook hangs on the wall
+unda | Unda navem ad litus fert | The wave carries the ship to the shore
+# third: undo "I surge" is unnatural; a river is the natural subject
+undo | Flumen post pluviam undat | The river surges after the rain
+ungo | Caput oleo ungo | I anoint my head with oil
+unguento | Simulacrum deae nardo unguento | I perfume the image of the goddess with nard
+unguentum | Unguentum in vase vitreo servatur | The ointment is kept in a glass jar
+unguiculus | Unguiculus pictoris colore tingitur | The painter's fingernail is stained with colour
+unguis | Unguis longus scribam impedit | The long fingernail hinders the scribe
