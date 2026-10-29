@@ -614,3 +614,14 @@ suborno | Navem remis suborno | I equip the ship with oars
 subscribo | Nomen epistulae subscribo | I write my name underneath the letter
 subscriptio | Subscriptio statuae nomen sculptoris monstrat | The inscription on the statue shows the sculptor's name
 subscriptor | Subscriptor ante praetorem tabulam signat | The co-signer signs the tablet before the praetor
+subscus | Subscus tabulas jungit | The tenon joins the boards
+subseco | Ungues subseco | I clip my nails
+subsellium | Subsellium in curia senatorem exspectat | The bench in the senate house awaits the senator
+subsequor | Ducem subsequor | I follow the leader
+subservio | Patrono subservio | I serve the patron
+subsessor | Subsessor in silva viatorem exspectat | The waylayer waits for the traveller in the wood
+subsidium | Subsidium post aciem manet | The reserve waits behind the line
+# third: subsido "I settle down" is unnatural; dust is the natural subject
+subsido | Pulvis post equitatum subsidit | The dust settles down after the cavalry
+subsigno | Tabulam subsigno | I undersign the document
+subsilio | Prae gaudio subsilio | I leap up for joy
