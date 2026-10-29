@@ -195,3 +195,13 @@ vindemia | Vindemia autumno incipit | The vintage begins in autumn
 vindemiator | Vindemiator uvas in corbem ponit | The vintager puts the grapes into the basket
 vindex | Vindex libertatis Romam non deserit | The defender of freedom does not abandon Rome
 vindicatio | Vindicatio fundi ante praetorem agitur | The legal claim to the farm is pleaded before the praetor
+vindiciae | Vindiciae apud judicem dicuntur | The legal claims are stated before the judge
+vindico | Fundum meum vindico | I claim my farm
+vindicta | Vindicta regem ad bellum impellit | Vengeance drives the king to war
+vinetum | Vinetum sub sole matutino viret | The vineyard is green under the morning sun
+vinum | Vinum lassos reficit | Wine refreshes the weary
+vio | Per Galliam vio | I travel through Gaul
+viola | Viola sub arbore latet | The violet hides under the tree
+violator | Violator foederis a senatu damnatur | The violator of the treaty is condemned by the senate
+violentia | Violentia tempestatis navem ad saxa rapit | The violence of the storm sweeps the ship onto the rocks
+violo | Foedus violo | I violate the treaty
