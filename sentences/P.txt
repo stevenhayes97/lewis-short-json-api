@@ -278,3 +278,14 @@ perfugio | In templum perfugio | I take refuge in the temple
 perfugium | Perfugium in monte pastores exspectat | The refuge on the mountain awaits the shepherds
 # third: perfundo "I drench" is unnatural; rain is the natural agent
 perfundo | Imber viatorem perfundit | The rain drenches the traveller
+perfungor | Officio perfungor | I discharge my duty
+pergo | Ad portam pergo | I proceed to the gate
+pergraecor | Cum amicis pergraecor | I carouse with my friends
+perhibeo | Hospiti honorem perhibeo | I grant honour to the guest
+perhorresco | Tempestatem perhorresco | I shudder at the storm
+periclitor | Capite periclitor | I risk my life
+periculum | Periculum nautas in tempestate sollicitat | The danger worries the sailors in the storm
+# third: perimo a violent verb; keeps to a military frame
+perimo | Exercitus hostem perimit | The army destroys the enemy
+periodus | Periodus epistulam magistri ornat | The rounded period adorns the teacher's letter
+peritia | Peritia medici aegrum servat | The doctor's expertise saves the sick man
