@@ -18,6 +18,7 @@ material sits on top of it.
 | `sentences/<LETTER>.txt` | one simple example sentence per noun and verb — see the end of this file |
 | `tools/sentences.py` | chunk helper for the sentences (`next`, `check`, `status`) |
 | `tools/ls_db.py`, `tools/lookup.py` | load the JSON into SQL, read it back out — see `tools/README.md` |
+| `tools/curated_db.py` | load the curated definitions, sentences and tags into that same database |
 | `json-schemas/` | draft API request/response shapes, still evolving |
 | `api/` | FastAPI boilerplate, no routes yet |
 
