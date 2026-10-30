@@ -218,6 +218,54 @@ If you loaded *with* `raw_json`, whole-entry fetches need none of this:
 `SELECT raw_json FROM entries WHERE entry_key = ?` returns the response body
 already serialized.
 
+## The curated layer: `curated_db.py`
+
+The curated definitions, sentences and image tags go into the same database,
+in their own tables, once the L&S tables are loaded:
+
+```
+python tools/ls_db.py --db sqlite:///lewis_short.db load
+python tools/curated_db.py --db sqlite:///lewis_short.db load
+```
+
+The text files stay the source of truth. Each `load` runs both checkers
+(`definitions.py check`, `sentences.py check`), refuses to load if either
+complains (`--skip-check` overrides), then drops the curated tables and
+rebuilds them from the files. It takes under two seconds, so re-run it after
+every chunk you write.
+
+| Table | Rows | From |
+| --- | --- | --- |
+| `curated_definitions` | ~31,500 | `definitions/<L>.txt`: `entry_key`, `rank`, `definition`, plus `review_note` on the rank 1–2 lines of a word with a `# review:` comment |
+| `curated_sentences` | ~8,200 | `sentences/<L>.txt`: `entry_key`, `latin`, `english`, plus `third_note` from a `# third:` comment |
+| `curated_skips` | ~130 | `# skip:` lines: `entry_key`, `layer` (`definitions` or `sentences`), `reason` |
+| `curated_tags` | ~100 | `definitions/tags.txt`: `entry_key`, `tag` |
+
+Every table except `curated_skips` has a foreign key to `entries`, so a typo'd
+key fails the load. The view `learner_entries` flattens it all into one row per
+defined word: headword, part of speech, `gloss_1`, `gloss_2`, `rank_count`,
+the sentence and the tag.
+
+```sql
+-- everything curated for one word
+SELECT * FROM learner_entries WHERE entry_key = 'gaudeo';
+
+-- its ranked definitions
+SELECT rank, definition FROM curated_definitions
+WHERE entry_key = 'gero1' ORDER BY rank;
+
+-- defined nouns that still lack a sentence
+SELECT l.entry_key, l.gloss_1 FROM learner_entries l
+WHERE l.part_of_speech = 'noun' AND l.sentence_latin IS NULL;
+
+-- the glosses awaiting a human decision
+SELECT entry_key, rank, definition, review_note
+FROM curated_definitions WHERE review_note IS NOT NULL;
+```
+
+Tested on SQLite. It should run on PostgreSQL too, but not on MySQL 8, which
+reserves the column name `rank`.
+
 ## Getting the JSON back
 
 `raw_json` holds each entry exactly as it appeared, so the files can be

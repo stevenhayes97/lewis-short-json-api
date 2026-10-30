@@ -18,6 +18,7 @@ material sits on top of it.
 | `sentences/<LETTER>.txt` | one simple example sentence per noun and verb — see the end of this file |
 | `tools/sentences.py` | chunk helper for the sentences (`next`, `check`, `status`) |
 | `tools/ls_db.py`, `tools/lookup.py` | load the JSON into SQL, read it back out — see `tools/README.md` |
+| `tools/curated_db.py` | load the curated definitions, sentences and tags into that same database |
 | `json-schemas/` | draft API request/response shapes, still evolving |
 | `api/` | FastAPI boilerplate, no routes yet |
 
@@ -206,6 +207,10 @@ Widen or narrow the net by changing `MIN_SENSE_CHARS`, not by picking around it.
 - **Homograph keys.** `gero1` (carry) / `gero2` (a rare noun); `genus1` (birth,
   kind) / `genus2` (a variant of *genu*, with no senses at all). Always define
   the key `next` gives you, and keep that exact string in column 1.
+- **Keys with a space.** L&S has 78 (`arse verse`, `taminia uva`). Keep the
+  space; never swap in an underscore, which breaks the join. The tools read a
+  `# review:` or `# third:` key from the entry line below the comment, so
+  those comments must sit directly above their entry.
 - **`check` must pass before you commit.** It catches the mistakes that are
   invisible on a read-through — a key out of alphabetical order, a rank 2 that
   crept up to three words, a duplicate rank.

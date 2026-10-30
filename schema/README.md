@@ -3,28 +3,27 @@
 **Status: prototype / not frozen.**
 
 These files are a readable picture of the tables `tools/ls_db.py` creates
-(and a few drafted tables for the curated layer that is still file-based).
+and `tools/curated_db.py` create, plus two drafted tables nothing builds yet.
 They are for looking at — in an editor, a SQL GUI, or a diagram tool — not
 a contract the loader is required to follow.
 
 - Prefer evolving the SQL when the product shape changes.
-- The live schema is still the Python in `tools/ls_db.py` (`create_schema`).
+- The live schema is still the Python: `create_schema` in `tools/ls_db.py` and
+  `tools/curated_db.py`.
 - Do not treat column names, foreign keys, or the draft tables as locked.
 
 ```
 schema/
-  schema.sql              all four live tables + indexes, one file
+  schema.sql              all four L&S tables + indexes, one file
   entries.sql
   entry_forms.sql
   entry_extra.sql
   senses.sql
-  draft/                  curated layer — not created by ls_db.py yet
-    curated_definitions.sql
-    curated_skips.sql
+  curated.sql             curated layer, created by tools/curated_db.py
+  draft/                  not created by anything yet
     entry_summaries.sql
-    example_sentences.sql
     paradigms.sql
-    schema.sql            all five draft tables, one file
+    schema.sql            both draft tables, one file
 ```
 
 Load the live sketch into a throwaway database:
@@ -33,8 +32,8 @@ Load the live sketch into a throwaway database:
 sqlite3 /tmp/ls-schema-preview.db < schema/schema.sql
 ```
 
-The draft files assume the live tables already exist (they reference
-`entries.entry_key`). Load them after `schema.sql` if you want the full picture.
+`curated.sql` and the draft files assume the L&S tables already exist (they
+reference `entries.entry_key`). Load them after `schema.sql`.
 
 ## What is live vs drafted
 
@@ -44,10 +43,12 @@ The draft files assume the live tables already exist (they reference
 | `entry_forms` | created by `ls_db.py load` | `alternative_orthography` / `alternative_genative` |
 | `entry_extra` | created by `ls_db.py load` | unrecognised JSON fields (empty today) |
 | `senses` | created by `ls_db.py load` | nested `senses` tree, flattened |
-| `curated_definitions` | draft | `definitions/<LETTER>.txt` |
-| `curated_skips` | draft | `# skip:` lines in those files |
+| `curated_definitions` | created by `curated_db.py load` | `definitions/<LETTER>.txt` |
+| `curated_sentences` | created by `curated_db.py load` | `sentences/<LETTER>.txt` |
+| `curated_skips` | created by `curated_db.py load` | `# skip:` lines in both sets of files |
+| `curated_tags` | created by `curated_db.py load` | `definitions/tags.txt` |
+| `learner_entries` | view, `curated_db.py load` | one flat row per defined word |
 | `entry_summaries` | draft | API `summary` field (case governance, etc.) |
-| `example_sentences` | draft | learner examples on the entry page |
 | `paradigms` | draft | cached declension / conjugation grids |
 
 ## Differences from the live loader
@@ -117,43 +118,47 @@ erDiagram
     }
 ```
 
-## Entity picture (draft curated layer)
+## Entity picture (curated layer and drafts)
 
-These hang off `entries` the same way. None of them are created by `ls_db.py` yet.
+The curated tables hang off `entries` the same way. `curated_db.py` builds
+them; `entry_summaries` and `paradigms` are still drafts.
 
 ```mermaid
 erDiagram
     entries ||--o{ curated_definitions : "has glosses"
-    entries ||--o| curated_skips : "may skip"
-    entries ||--o| entry_summaries : "has summary"
-    entries ||--o{ example_sentences : "has examples"
-    entries ||--o| paradigms : "may cache paradigm"
+    entries ||--o| curated_sentences : "has example"
+    entries ||--o| curated_tags : "may have image tag"
+    entries ||--o| entry_summaries : "has summary (draft)"
+    entries ||--o| paradigms : "may cache paradigm (draft)"
 
     curated_definitions {
         TEXT entry_key PK
         INTEGER rank PK
         TEXT definition
-        INTEGER needs_review
         TEXT review_note
+    }
+
+    curated_sentences {
+        TEXT entry_key PK
+        TEXT latin
+        TEXT english
+        TEXT third_note
     }
 
     curated_skips {
         TEXT entry_key PK
+        TEXT layer PK
         TEXT reason
+    }
+
+    curated_tags {
+        TEXT entry_key PK
+        TEXT tag
     }
 
     entry_summaries {
         TEXT entry_key PK
         TEXT summary
-    }
-
-    example_sentences {
-        INTEGER example_id PK
-        TEXT entry_key FK
-        INTEGER ordinal
-        TEXT latin_text
-        TEXT english_text
-        TEXT note
     }
 
     paradigms {

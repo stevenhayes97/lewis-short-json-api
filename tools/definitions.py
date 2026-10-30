@@ -27,6 +27,7 @@ import json
 import re
 import string
 import sys
+from functools import lru_cache
 from pathlib import Path
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -174,6 +175,57 @@ def check_church_words(letter: str, entries: dict[str, dict] | None) -> list[str
     return errors
 
 
+@lru_cache(maxsize=None)
+def source_keys(letter: str) -> frozenset[str]:
+    """Every key in ls_<L>.json, or nothing if the file is gone."""
+    try:
+        return frozenset(e["key"] for e in load_entries(letter))
+    except SystemExit:
+        return frozenset()
+
+
+def read_flags(
+    lines: list[str], above: tuple[str, ...], named: tuple[str, ...], known
+) -> dict[str, dict[str, str]]:
+    """{tag: {key: reason}} for the tagged comment lines of a curated file.
+
+    Some keys contain a space (`arse verse`, `taminia uva`), so the first word
+    of a comment is not reliably its key. An `above` tag (`review:`, `third:`)
+    sits directly above the entry it flags and takes its key from that line.
+    A `named` tag (`skip:`) has no entry below it, so its key is the longest
+    of `known()` the comment starts with -- falling back to the first word.
+    `known` is called only if a `named` tag turns up.
+    """
+    flags: dict[str, dict[str, str]] = {tag: {} for tag in above + named}
+    pending: list[tuple[str, str]] = []
+    for line in lines:
+        line = line.strip()
+        if not line:
+            continue
+        if not line.startswith("#"):
+            key = line.split("|", 1)[0].strip()
+            for tag, body in pending:
+                why = body[len(key):] if body == key or body.startswith(key + " ") else body
+                flags[tag][key] = why.strip()
+            pending = []
+            continue
+        body = line[1:].lstrip()
+        for tag in above + named:
+            if not body.startswith(tag):
+                continue
+            body = body[len(tag):].strip()
+            if not body:
+                break
+            if tag in above:
+                pending.append((tag, body))
+                break
+            matches = [k for k in known() if body == k or body.startswith(k + " ")]
+            key = max(matches, key=len) if matches else body.split(None, 1)[0]
+            flags[tag][key] = body[len(key):].strip()
+            break
+    return flags
+
+
 def parse_definitions(
     letter: str,
 ) -> tuple[list[tuple[int, str, int, str]], set[str], dict[str, str]]:
@@ -181,32 +233,25 @@ def parse_definitions(
 
     Comment lines are ignored except two tags. `# skip: <key> <reason>` records
     a word deliberately passed over, so `next` stops offering it.
-    `# review: <key> <reason>` marks a short gloss the writer was not confident
-    about, so it can be listed for a human to settle.
+    `# review: <key> <reason>`, directly above the entry, marks a short gloss
+    the writer was not confident about, so it can be listed for a human to
+    settle. See read_flags() for how a key with a space in it is read.
     """
     path = definitions_path(letter)
     if not path.exists():
         return [], set(), {}
 
-    rows, skipped, review = [], set(), {}
-    for line_no, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+    lines = path.read_text(encoding="utf-8").splitlines()
+    rows = []
+    for line_no, line in enumerate(lines, 1):
         line = line.strip()
-        if not line:
-            continue
-        if line.startswith("#"):
-            body = line[1:].lstrip()
-            for tag, sink in (("skip:", skipped), ("review:", review)):
-                if body.startswith(tag):
-                    rest = body.split(tag, 1)[1].split(None, 1)
-                    if rest and isinstance(sink, set):
-                        sink.add(rest[0])
-                    elif rest:
-                        sink[rest[0]] = rest[1].strip() if len(rest) > 1 else ""
+        if not line or line.startswith("#"):
             continue
         parts = [p.strip() for p in line.split("|")]
         rank = int(parts[1]) if len(parts) == 3 and parts[1].isdigit() else -1
         rows.append((line_no, parts[0], rank, parts[2] if len(parts) == 3 else line))
-    return rows, skipped, review
+    flags = read_flags(lines, ("review:",), ("skip:",), lambda: source_keys(letter))
+    return rows, set(flags["skip:"]), flags["review:"]
 
 
 def cmd_next(args) -> int:
