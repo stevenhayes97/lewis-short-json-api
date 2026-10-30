@@ -39,7 +39,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from definitions import ROOT, load_entries, parse_definitions, source_path  # noqa: E402
+from definitions import ROOT, load_entries, parse_definitions, read_flags, source_path  # noqa: E402
 
 sys.stdout.reconfigure(encoding="utf-8")
 
@@ -141,7 +141,7 @@ def word_class(entry: dict) -> str | None:
 
 def eligible(letter: str) -> dict[str, str]:
     """{key: 'noun' | 'verb'} for every defined noun or verb, alphabetical."""
-    defined = {key for _, key, _, _ in parse_definitions(letter)[0]}
+    defined = defined_keys(letter)
     if not defined:
         return {}
     classes = {e["key"]: word_class(e) for e in load_entries(letter) if e["key"] in defined}
@@ -174,31 +174,32 @@ def parse_sentences(
 
     Comment lines are ignored except two tags. `# skip: <key> <reason>`
     records a word deliberately passed over, so `next` stops offering it.
-    `# third: <key> <reason>` lets a verb take the third person singular.
+    `# third: <key> <reason>`, directly above the entry, lets a verb take the
+    third person singular. See read_flags() for how a key with a space in it
+    is read.
     """
     path = sentences_path(letter)
     if not path.exists():
         return [], set(), set()
 
-    rows, skipped, third = [], set(), set()
-    for line_no, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
+    lines = path.read_text(encoding="utf-8").splitlines()
+    rows = []
+    for line_no, line in enumerate(lines, 1):
         line = line.strip()
-        if not line:
-            continue
-        if line.startswith("#"):
-            body = line[1:].lstrip()
-            for tag, sink in (("skip:", skipped), ("third:", third)):
-                if body.startswith(tag):
-                    rest = body.split(tag, 1)[1].split()
-                    if rest:
-                        sink.add(rest[0])
+        if not line or line.startswith("#"):
             continue
         parts = [p.strip() for p in line.split("|")]
         if len(parts) == 3:
             rows.append((line_no, *parts))
         else:
             rows.append((line_no, parts[0], "", line))
-    return rows, skipped, third
+    flags = read_flags(lines, ("third:",), ("skip:",), lambda: defined_keys(letter))
+    return rows, set(flags["skip:"]), set(flags["third:"])
+
+
+def defined_keys(letter: str) -> set[str]:
+    """Keys with a curated definition: the only words a sentence skip can name."""
+    return {key for _, key, _, _ in parse_definitions(letter)[0]}
 
 
 def cmd_next(args) -> int:

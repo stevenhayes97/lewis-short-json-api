@@ -117,23 +117,11 @@ def drop_schema(db):
 # ---------------------------------------------------------------------------
 
 
-def comment_notes(path: Path, tag: str) -> dict[str, str]:
-    """{key: reason} for every `# <tag> <key> <reason>` line in a file.
-
-    The chunk tools keep only the key for `skip:` and `third:`; the reason is
-    worth having in the database, so it is read here rather than changing
-    what those tools return.
-    """
-    if not path.exists():
-        return {}
-    notes = {}
-    for line in path.read_text(encoding="utf-8").splitlines():
-        body = line.strip()[1:].lstrip() if line.strip().startswith("#") else ""
-        if body.startswith(tag):
-            rest = body[len(tag):].split(None, 1)
-            if rest:
-                notes[rest[0]] = rest[1].strip() if len(rest) > 1 else ""
-    return notes
+def flags(path: Path, above: str, known) -> dict[str, dict[str, str]]:
+    """The chunk tools keep only the key of a `skip:` or `third:` comment; the
+    reason is worth having in the database, so it is read again here."""
+    lines = path.read_text(encoding="utf-8").splitlines() if path.exists() else []
+    return definitions.read_flags(lines, (above,), ("skip:",), known)
 
 
 def definition_rows(letter):
@@ -142,16 +130,15 @@ def definition_rows(letter):
     for _, key, rank, text in rows:
         note = review.get(key) if rank in definitions.SHORT_RANKS else None
         out.append((key, rank, text, note))
-    skips = comment_notes(definitions.definitions_path(letter), "skip:")
-    return out, skips
+    found = flags(definitions.definitions_path(letter), "review:", lambda: definitions.source_keys(letter))
+    return out, found["skip:"]
 
 
 def sentence_rows(letter):
     rows, _skipped, _third = sentences.parse_sentences(letter)
-    path = sentences.sentences_path(letter)
-    third = comment_notes(path, "third:")
-    out = [(key, latin, english, third.get(key)) for _, key, latin, english in rows]
-    return out, comment_notes(path, "skip:")
+    found = flags(sentences.sentences_path(letter), "third:", lambda: sentences.defined_keys(letter))
+    out = [(key, latin, english, found["third:"].get(key)) for _, key, latin, english in rows]
+    return out, found["skip:"]
 
 
 def tag_rows():
